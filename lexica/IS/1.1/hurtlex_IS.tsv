@@ -1,0 +1,3386 @@
+pos	category	stereotype	lemma	level
+n	re	no	felony	inclusive
+n	cds	no	úrgangur	conservative
+n	ddp	yes	beinasni	conservative
+n	svp	no	reiður	inclusive
+n	cds	no	útlegð	inclusive
+n	an	no	animalculum	inclusive
+a	cds	no	klár	inclusive
+n	qas	no	magniloquence	inclusive
+n	re	no	yfirgangs	inclusive
+n	an	no	fluga	inclusive
+n	svp	no	sjö dauðans syndum	inclusive
+n	qas	no	miðstigi	inclusive
+n	cds	no	culchie	inclusive
+n	re	no	rán	inclusive
+n	cds	no	fát	inclusive
+n	cds	no	demagog	conservative
+a	is	yes	fátækur	inclusive
+v	is	yes	betla	inclusive
+n	cds	no	hugleysis	conservative
+v	an	no	nauða	inclusive
+n	svp	no	tightwad	conservative
+n	pa	yes	háskólasamfélagsins	inclusive
+n	cds	no	cull	conservative
+n	svp	no	conceitedness	conservative
+n	asf	no	numskull	conservative
+n	asm	no	typpið	inclusive
+n	pa	yes	lögmaður	inclusive
+n	asm	no	fuck	conservative
+n	cds	no	ofstæki	conservative
+n	pr	no	hirðmaður	inclusive
+n	cds	no	gossipmonger	conservative
+n	pr	no	kusa	inclusive
+n	om	no	homosexualism	inclusive
+n	an	no	skúfagámur	inclusive
+n	cds	no	lögreglumaður	conservative
+n	qas	no	leikamaður	inclusive
+n	re	no	fjárpynd	conservative
+n	an	no	culex pipiens	inclusive
+n	an	no	ofsareiði	inclusive
+n	cds	no	scum poka	conservative
+n	qas	no	blooper	inclusive
+n	cds	no	fjöldinn	inclusive
+n	cds	no	strikebreakers	inclusive
+a	cds	no	stoltur	conservative
+n	cds	no	outlaw	inclusive
+n	or	no	dolt	conservative
+n	cds	no	bookworm	conservative
+a	dmc	yes	skammsýnn	conservative
+n	asm	no	hálviti	inclusive
+n	an	no	fávís	conservative
+n	cds	no	venality	inclusive
+n	asm	no	skrúfa	conservative
+n	qas	no	heimilissorpi	inclusive
+n	ddp	yes	twirp	conservative
+n	cds	no	rustler	inclusive
+n	dmc	yes	dissimulator	conservative
+n	re	no	morðingi	inclusive
+a	ddp	yes	heimska	conservative
+n	an	no	kind	inclusive
+n	om	no	derriere	inclusive
+n	ps	yes	vandal	inclusive
+n	ddp	yes	quackery	conservative
+n	cds	no	whiner	conservative
+n	svp	no	ne'er-do-vel	conservative
+n	re	no	morði	inclusive
+n	cds	no	svo-og-svo	conservative
+n	ddp	yes	tugthúslimur	inclusive
+n	asm	no	mjúkur ray	inclusive
+n	or	no	fuckhead	conservative
+n	cds	no	dime skáldsaga	inclusive
+n	re	no	ólögleg starfsemi	inclusive
+n	qas	no	hovel	inclusive
+n	cds	no	gengjum	conservative
+n	cds	no	ruglingur	inclusive
+n	is	yes	skinflint	conservative
+n	pa	yes	mortician	inclusive
+n	pr	no	mölflugum	inclusive
+n	cds	no	idler	conservative
+n	an	no	kanínum	inclusive
+n	svp	no	enviousness	inclusive
+n	cds	no	barbaric	conservative
+n	ps	yes	fasista	inclusive
+a	ddp	yes	flónskulegur	conservative
+n	an	no	illþýði	conservative
+n	pr	no	whoredom	inclusive
+a	ddp	yes	flónskur	conservative
+n	dmc	yes	loiterer	conservative
+n	qas	no	hreysi	inclusive
+n	cds	no	hjörð	inclusive
+n	pr	no	laus kona	conservative
+n	pa	yes	lögfræðinga	inclusive
+n	an	no	dunce	conservative
+n	cds	no	sori	conservative
+a	cds	no	ólögmætur	inclusive
+v	an	no	glamma	inclusive
+n	cds	no	kynstofn	inclusive
+n	cds	no	schoolma'am	conservative
+n	an	no	nirfill	conservative
+n	svp	no	niggardliness	conservative
+n	cds	no	ofstækismaður	conservative
+n	cds	no	partí	inclusive
+n	qas	no	flub	inclusive
+n	svp	no	avariciousness	inclusive
+n	cds	no	retard	inclusive
+n	asm	no	cockerel	inclusive
+n	pa	yes	advocator	inclusive
+n	cds	no	lögreglumenn	inclusive
+n	ddp	yes	chump	conservative
+v	is	yes	biðja	inclusive
+n	dmc	yes	scattergood	inclusive
+n	an	no	halaterra	inclusive
+n	svp	no	dillydallier	conservative
+n	pr	no	hetaira	inclusive
+n	ddp	yes	blabber	conservative
+n	qas	no	sorp	inclusive
+n	an	no	lunkhead	conservative
+n	om	no	asni	inclusive
+n	pr	no	kýr	inclusive
+n	cds	no	bungle	inclusive
+n	cds	no	malefactor	conservative
+a	qas	no	algengur	inclusive
+n	cds	no	þjóðflokkur	inclusive
+n	ddp	yes	fákunnátta	conservative
+n	re	no	killer	inclusive
+n	an	no	profiteer	conservative
+n	cds	no	ofbeldi	inclusive
+n	an	no	wisent	inclusive
+n	asf	no	saphead	conservative
+n	cds	no	snar	conservative
+n	ddp	yes	ninny	conservative
+n	an	no	diddlyshit	conservative
+n	cds	no	vagn lest	inclusive
+n	an	no	glópur	conservative
+n	an	no	bos taurus	inclusive
+n	cds	no	skrök	conservative
+n	cds	no	grikkur	inclusive
+n	qas	no	mooch	conservative
+n	dmc	yes	turncoat	conservative
+n	svp	no	superbia	conservative
+n	cds	no	second-rater	conservative
+n	cds	no	bas bleu	inclusive
+n	an	no	skaufi	inclusive
+n	cds	no	nýbura	inclusive
+n	ddf	yes	disablement	inclusive
+n	cds	no	lowlife	conservative
+n	pa	yes	burðarmaður	inclusive
+n	cds	no	mismæli	inclusive
+n	om	no	buggery	inclusive
+n	pr	no	götu stúlka	conservative
+n	qas	no	áhugamenn	inclusive
+n	svp	no	líkamlegt aðdráttarafl	inclusive
+n	om	no	nance	conservative
+n	cds	no	loanshark	inclusive
+n	re	no	ránsfengur	inclusive
+n	qas	no	caste	inclusive
+n	an	no	animalcule	inclusive
+n	ddp	yes	fáviti	conservative
+a	qas	no	tíðkanlegur	inclusive
+n	cds	no	weisenheimer	conservative
+v	cds	no	deyja	inclusive
+n	cds	no	hybris	conservative
+n	cds	no	þýfska	inclusive
+n	ddp	yes	fífl	conservative
+n	ddp	yes	andlega fatlaðir	inclusive
+n	or	no	meticulousness	inclusive
+n	cds	no	banditti	conservative
+n	an	no	moskító	inclusive
+a	svp	no	teprulegur	conservative
+n	an	no	haðna	inclusive
+a	ddp	yes	blár	conservative
+n	cds	no	pillock	conservative
+n	cds	no	sauðsvartur almúginn	inclusive
+n	ddp	yes	fumbler	conservative
+n	qas	no	rhetorica	inclusive
+n	an	no	anguillidae	inclusive
+n	om	no	samkynhneigð	inclusive
+n	dmc	yes	sekir	inclusive
+n	qas	no	kúla (used in plural	inclusive
+n	dmc	yes	skrök	inclusive
+n	cds	no	pedagog	inclusive
+a	cds	no	eðlislegur	inclusive
+n	cds	no	presumptuousness	conservative
+n	cds	no	öflun	conservative
+n	cds	no	óreiða	inclusive
+n	an	no	knucklehead	conservative
+n	cds	no	charlatan	conservative
+n	pr	no	lauslátrar konu	conservative
+n	re	no	rænt	inclusive
+a	svp	no	makráður	conservative
+n	cds	no	antic	inclusive
+n	cds	no	sorp	conservative
+n	cds	no	innlendum úrgangs	conservative
+n	svp	no	hár-handedness	conservative
+n	an	no	hirudinea	inclusive
+n	an	no	sjó sporðdreka	inclusive
+n	cds	no	trúarlega mismunun	inclusive
+n	re	no	víg	inclusive
+a	svp	no	áleitinn	inclusive
+n	cds	no	wangler	conservative
+n	ps	yes	zulu fólk	inclusive
+n	cds	no	crossbred	inclusive
+a	cds	no	digurbarkalegur	conservative
+n	cds	no	sjálf-ánægju	inclusive
+v	asm	no	gera gys	inclusive
+n	cds	no	ættin	inclusive
+n	pa	yes	uncouthness	conservative
+n	dmc	yes	libertine	conservative
+v	re	no	stela	inclusive
+n	or	no	gúrka	inclusive
+n	is	yes	niggard	conservative
+n	an	no	hálfviti	conservative
+n	cds	no	ættkvísl	inclusive
+v	cds	no	koma sér saman um	inclusive
+n	pa	yes	starfsmaður	inclusive
+n	an	no	metazoans	inclusive
+a	ddp	yes	grunnhygginn	conservative
+n	asm	no	bollocks	inclusive
+n	qas	no	hirðmanni	inclusive
+n	cds	no	ringulreið	inclusive
+n	cds	no	lögga	conservative
+n	qas	no	skúr	inclusive
+n	re	no	sakamaður	inclusive
+n	asm	no	cretin	inclusive
+n	pr	no	bunkum	conservative
+n	cds	no	forvitinn-parker	conservative
+n	an	no	snigla	inclusive
+n	an	no	örvera	inclusive
+n	cds	no	wank	conservative
+n	an	no	bjálfi	conservative
+a	cds	no	belgingslegur	conservative
+n	qas	no	fib	conservative
+n	qas	no	hutch	inclusive
+n	re	no	móðgandi	inclusive
+n	asm	no	twerp	conservative
+n	ddp	yes	vanþekking	conservative
+n	cds	no	lakari	conservative
+n	ps	yes	fífl	conservative
+n	qas	no	þyngd belti	inclusive
+n	cds	no	gera-ekkert	conservative
+n	an	no	crocodilia	inclusive
+n	an	no	helix pomatia	inclusive
+n	ps	yes	mjúka	conservative
+n	cds	no	slob	conservative
+n	ddp	yes	boor	conservative
+n	cds	no	skólpi	inclusive
+n	rci	yes	barbaric	conservative
+n	an	no	despoiler	inclusive
+n	cds	no	homunculus	inclusive
+n	cds	no	bluestocking	inclusive
+n	svp	no	leiðindi	inclusive
+n	cds	no	barbari	conservative
+n	pa	yes	academicians	inclusive
+n	ddp	yes	infauna	inclusive
+n	an	no	moskítóflugur	inclusive
+n	cds	no	fabricator	conservative
+n	cds	no	nerdy	conservative
+n	om	no	samkynhneigðra	conservative
+n	ddp	yes	veru	inclusive
+n	qas	no	shack	inclusive
+n	dmc	yes	rube	conservative
+n	re	no	ferocity	inclusive
+n	dmc	yes	skepna	conservative
+a	svp	no	nennulaus	conservative
+n	qas	no	sodbuster	inclusive
+n	cds	no	grasasni	inclusive
+n	an	no	crocodilians	inclusive
+n	qas	no	óreiða	inclusive
+n	qas	no	villimenn	conservative
+n	pa	yes	suitor	inclusive
+n	cds	no	andskoti	conservative
+n	cds	no	dude	inclusive
+n	an	no	tæfa.......	conservative
+n	svp	no	aboulia	inclusive
+n	pr	no	húsmóður	conservative
+n	ps	yes	kínverji	inclusive
+n	ddp	yes	gawk	conservative
+n	cds	no	hubris	conservative
+n	pr	no	belja	inclusive
+n	an	no	jackal	inclusive
+n	qas	no	borgaralega	inclusive
+n	re	no	glæpamenn	inclusive
+n	cds	no	superbia	conservative
+n	cds	no	poltroon	conservative
+n	or	no	meticulosity	inclusive
+n	cds	no	boner	inclusive
+n	cds	no	vagninn veginum	inclusive
+n	svp	no	gorger	conservative
+n	an	no	kjúklingur	inclusive
+n	cds	no	skaði	conservative
+n	asm	no	egg	inclusive
+n	pa	yes	opinbera bókhald	inclusive
+n	re	no	morðvargur	inclusive
+n	re	no	gerræði	inclusive
+n	cds	no	haughtiness	conservative
+n	qas	no	moocher	conservative
+a	dmc	yes	ófrjálslyndur	conservative
+n	cds	no	narcissistic	inclusive
+n	cds	no	rugl	inclusive
+n	ddp	yes	blockhead	conservative
+n	an	no	kine	inclusive
+a	svp	no	árásargjarn	inclusive
+n	qas	no	casteism	inclusive
+n	cds	no	ostentatiousness	conservative
+n	om	no	buns	inclusive
+n	qas	no	auðjöfur	inclusive
+n	cds	no	simpleton	conservative
+n	an	no	numskull	conservative
+n	qas	no	ketill fiski	inclusive
+n	pr	no	hóra	conservative
+n	dmc	yes	libertinism	conservative
+n	re	no	stegling	inclusive
+n	cds	no	fawner	conservative
+n	cds	no	jester	inclusive
+n	re	no	kynferðisofbeldi	inclusive
+v	cds	no	hlusta á	inclusive
+n	cds	no	botch	inclusive
+n	an	no	týja	inclusive
+n	an	no	nautgripur	inclusive
+n	an	no	svínum	inclusive
+n	pa	yes	academician	inclusive
+n	ddp	yes	grasasni	conservative
+n	om	no	shirtlifter	inclusive
+a	ddp	yes	krakkalegur	conservative
+n	pa	yes	talsmaður	inclusive
+n	an	no	viper	inclusive
+a	dmc	yes	afleitur	conservative
+n	cds	no	scads	inclusive
+n	pa	yes	stól	inclusive
+n	an	no	fathead	conservative
+n	an	no	frenja	inclusive
+n	cds	no	bastard	inclusive
+n	re	no	mafia	conservative
+n	cds	no	flub	inclusive
+n	asm	no	rengla	inclusive
+n	ps	yes	jigaboo	conservative
+n	pr	no	skrið curb	inclusive
+n	pr	no	vændiskonur	conservative
+n	pr	no	hussy	conservative
+n	cds	no	sekur	conservative
+n	ddp	yes	hlekkjamaður	inclusive
+n	cds	no	scamp	conservative
+n	pr	no	tæfa.......	conservative
+n	cds	no	zealotry	conservative
+a	dmc	yes	skítugur	inclusive
+n	cds	no	skyldleiki group	inclusive
+a	ddp	yes	bernskulegur	conservative
+n	dmc	yes	sorglegt poka	conservative
+n	dmc	yes	sóði	conservative
+n	cds	no	runt	conservative
+a	svp	no	iðjulítill	conservative
+n	dmc	yes	villimenn	conservative
+n	cds	no	dweeb	conservative
+n	qas	no	mælskufræði	inclusive
+n	re	no	glæpamaður	inclusive
+n	qas	no	eftirlæti	inclusive
+v	cds	no	látast	inclusive
+n	an	no	ómenntuð manneskja	conservative
+n	cds	no	liðsforingi	conservative
+n	an	no	doggie	inclusive
+n	asm	no	bjálfi	conservative
+n	an	no	brant	inclusive
+n	cds	no	okur	inclusive
+n	cds	no	stickler	conservative
+n	cds	no	skran	inclusive
+n	re	no	hrifs	inclusive
+n	cds	no	cosa nostra	inclusive
+n	ps	yes	retard	conservative
+n	om	no	homophile	conservative
+v	asm	no	njóta kynferðislegs samræðis	conservative
+n	re	no	mannrán	inclusive
+v	cds	no	semja	inclusive
+n	re	no	illvirki	inclusive
+a	cds	no	heimskur	conservative
+n	qas	no	conformism	inclusive
+n	re	no	ræna	inclusive
+n	or	no	blockhead	conservative
+n	qas	no	rósn	inclusive
+n	re	no	swindler	inclusive
+n	svp	no	kynhvöt	inclusive
+n	or	no	skvass	inclusive
+n	om	no	kross dresser	inclusive
+n	svp	no	spiritlessness	inclusive
+a	svp	no	golubelgdur	conservative
+n	an	no	kakkalakkar	inclusive
+n	asm	no	vicia faba	inclusive
+n	an	no	naut	inclusive
+n	cds	no	óskilgetins barns	inclusive
+a	is	yes	ólánsamur	inclusive
+n	svp	no	overeating	inclusive
+n	an	no	belja	conservative
+n	cds	no	rotter	conservative
+n	cds	no	salli	inclusive
+n	cds	no	hirðfífl	inclusive
+n	an	no	sauðkind	inclusive
+n	cds	no	wheeler söluaðila	conservative
+n	cds	no	brigand	conservative
+n	om	no	sodomite	inclusive
+n	an	no	ormur	inclusive
+n	ddp	yes	rugl	conservative
+n	cds	no	æðsti prestur	inclusive
+n	cds	no	yokel	conservative
+n	cds	no	plant líftækni	inclusive
+n	cds	no	lashings	inclusive
+n	qas	no	boner	inclusive
+n	cds	no	lýðskrum	conservative
+n	qas	no	glingur	inclusive
+n	qas	no	rhetorically	inclusive
+n	svp	no	þröngsýni	conservative
+n	qas	no	bloodhound	inclusive
+v	an	no	gjálfra	inclusive
+n	cds	no	greenhorn	conservative
+n	qas	no	ræktun	inclusive
+n	cds	no	narcissist	inclusive
+n	an	no	dumbass	conservative
+n	or	no	dumbass	conservative
+n	asf	no	skapahár	inclusive
+n	qas	no	farmhand	inclusive
+n	pr	no	frenja	inclusive
+n	dmc	yes	illt	conservative
+n	svp	no	avaritia	inclusive
+n	pa	yes	fræðileg	inclusive
+a	ddp	yes	barnalegur	conservative
+n	an	no	raunch	conservative
+n	pa	yes	hirðir	inclusive
+n	cds	no	bumpkin	conservative
+n	asm	no	flouter	conservative
+n	ps	yes	boor	conservative
+n	pa	yes	jarðarför leikstjóri	inclusive
+n	cds	no	þyrping	inclusive
+n	ps	yes	rroma	inclusive
+n	re	no	banamaður	inclusive
+a	is	yes	félaus	inclusive
+n	re	no	stela	inclusive
+a	svp	no	herskár	conservative
+n	dmc	yes	lowlife	inclusive
+n	qas	no	hroði	inclusive
+n	cds	no	wads	inclusive
+v	an	no	gjamma	inclusive
+n	om	no	gentlewoman	inclusive
+n	cds	no	uppnám	inclusive
+n	cds	no	aðila	inclusive
+n	qas	no	áhugamaður	inclusive
+n	cds	no	braggart	conservative
+a	svp	no	belgingslegur	conservative
+n	an	no	kakkalakki	inclusive
+n	cds	no	brigandage	inclusive
+n	cds	no	hálfviti	conservative
+n	dmc	yes	velsæmis	inclusive
+n	cds	no	þröng	inclusive
+n	om	no	faggot	conservative
+n	qas	no	sóp	inclusive
+n	cds	no	mussiness	conservative
+a	svp	no	reið	inclusive
+n	svp	no	heift	conservative
+n	asm	no	nookie	conservative
+n	is	yes	nirfill	conservative
+a	qas	no	miðja-tegund	inclusive
+n	qas	no	búandkarl	inclusive
+n	pa	yes	samsvarandi meðlimur	inclusive
+n	an	no	prickteaser	conservative
+n	re	no	delict	inclusive
+n	cds	no	crossbreed	inclusive
+n	asf	no	dunderhead	conservative
+n	re	no	torturer	inclusive
+a	cds	no	þóttafullur	conservative
+n	qas	no	amateurishness	conservative
+n	is	yes	paupers	inclusive
+n	or	no	garðakál	inclusive
+n	cds	no	lína-skotleikur	conservative
+n	pa	yes	comptroller	inclusive
+n	re	no	brennandi	inclusive
+n	dmc	yes	óþekktarangi	conservative
+n	cds	no	afhrak	inclusive
+n	cds	no	skríll	conservative
+n	pa	yes	barbarian	conservative
+n	asf	no	bjálfi	conservative
+n	re	no	nauðgara	conservative
+n	om	no	tush	inclusive
+n	cds	no	lygi	conservative
+n	cds	no	óskammfeilni	conservative
+n	qas	no	fuddle	inclusive
+n	cds	no	samsæri um þögn	inclusive
+a	dmc	yes	saurugur	inclusive
+n	cds	no	motherfucker	conservative
+n	re	no	yfirgangur	inclusive
+n	re	no	ofbeldissinni	inclusive
+n	cds	no	sjálf-ást	conservative
+n	an	no	veggjalýs	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	ps	yes	svart fólk	inclusive
+n	cds	no	peningar útlán	inclusive
+n	qas	no	lygi	conservative
+n	dmc	yes	lygari	inclusive
+n	cds	no	rumormonger	conservative
+n	cds	no	crooners	inclusive
+n	ps	yes	boche	conservative
+n	an	no	dusi	inclusive
+n	an	no	vísundarins	inclusive
+n	cds	no	lögreglumenn	conservative
+n	dmc	yes	boor	conservative
+n	an	no	barred owl	inclusive
+a	svp	no	ofstopafullur	conservative
+n	svp	no	sjálf-ást	conservative
+n	cds	no	barbarian	conservative
+n	dmc	yes	lögbrjótur	inclusive
+n	cds	no	lögreglukona	inclusive
+n	cds	no	pimp	conservative
+n	cds	no	eyri hrikalegra	inclusive
+n	an	no	geitum	inclusive
+n	cds	no	óþekktarangi	conservative
+n	dmc	yes	reek	conservative
+n	an	no	familiaris	inclusive
+n	pr	no	mölflugur	inclusive
+a	dmc	yes	umsnúinn	conservative
+n	ddp	yes	changeling	inclusive
+n	pa	yes	bókhaldari	inclusive
+n	dmc	yes	svikari	conservative
+n	cds	no	kæruleysi	inclusive
+a	dmc	yes	illur	conservative
+n	dmc	yes	buffoonery	inclusive
+n	cds	no	kennara	inclusive
+n	is	yes	skröggur	conservative
+n	re	no	debaucher	conservative
+n	cds	no	skrap	conservative
+n	ddp	yes	codswallop	conservative
+n	re	no	refsivert athæfi	inclusive
+n	dmc	yes	fnykur	conservative
+n	dmc	yes	malefactor	inclusive
+n	ddf	yes	örorka	inclusive
+n	ps	yes	gyðingur	inclusive
+a	pa	yes	pólitísk	inclusive
+a	svp	no	framkvæmdalítill	conservative
+a	ddp	yes	sauðarlegur	conservative
+n	re	no	captor	inclusive
+n	qas	no	tagalong	conservative
+n	cds	no	kjaftæði	inclusive
+n	cds	no	hönd starf	conservative
+n	cds	no	heimilissorpi	conservative
+a	is	yes	eignalítill	inclusive
+a	cds	no	vanabundinn	inclusive
+n	re	no	ritstuldur	inclusive
+a	dmc	yes	öfugur	conservative
+n	ps	yes	crossbred	inclusive
+n	re	no	illa notkun	inclusive
+n	pr	no	courtier	inclusive
+n	an	no	skepna	conservative
+n	cds	no	hayseed	conservative
+n	re	no	Ærumeiðingar	inclusive
+n	asm	no	avafauna	inclusive
+n	cds	no	fasista	conservative
+a	qas	no	miðstéttar	inclusive
+n	asm	no	tróða	inclusive
+n	qas	no	sókn	inclusive
+n	asm	no	stöng	inclusive
+n	qas	no	iðnaðarmaður	inclusive
+n	an	no	vísundur	inclusive
+n	an	no	caprinae	inclusive
+n	qas	no	eista	inclusive
+n	qas	no	industrialist	inclusive
+n	qas	no	boor	conservative
+n	qas	no	rhetor	inclusive
+n	pa	yes	prof	inclusive
+n	cds	no	hismi	inclusive
+n	cds	no	óregla	inclusive
+n	qas	no	skríll	conservative
+n	dmc	yes	pariah	inclusive
+n	cds	no	lygi	inclusive
+n	re	no	óhægindi	inclusive
+n	asm	no	beinasni	conservative
+n	cds	no	turnkey	inclusive
+n	svp	no	lífsleiðan	inclusive
+n	cds	no	hár-handedness	conservative
+n	pr	no	floozie	conservative
+n	cds	no	kjarkleysi	conservative
+n	pa	yes	endurskoðandi	inclusive
+n	ddf	yes	líkamlega áskorun	inclusive
+n	qas	no	snooper	inclusive
+n	qas	no	lygasaga	conservative
+n	cds	no	miscreant	conservative
+n	pa	yes	fræðilegum	inclusive
+n	re	no	mafiosi	inclusive
+n	qas	no	miðja-tegund	inclusive
+v	asm	no	sofa hjá	conservative
+n	or	no	dunce	conservative
+n	cds	no	ringulreið	conservative
+n	re	no	valdbeiting	inclusive
+n	cds	no	brotamaður	inclusive
+n	cds	no	lögreglumaðurinn	inclusive
+n	svp	no	lascivious	inclusive
+n	re	no	gripdeildir	inclusive
+n	re	no	mugging	inclusive
+n	qas	no	blunder	inclusive
+n	an	no	áll	inclusive
+n	om	no	finocchio	inclusive
+n	om	no	rasskinnar	inclusive
+n	pr	no	gleðikonur	inclusive
+n	an	no	marauder	conservative
+n	an	no	dóni	conservative
+n	cds	no	miðlari	inclusive
+n	re	no	kynferðislega árás	inclusive
+n	cds	no	rabble-rouser	conservative
+n	dmc	yes	hayseed	conservative
+n	an	no	capra aegagrus hircus	inclusive
+n	cds	no	mountebank	conservative
+n	an	no	þrjótur	inclusive
+n	asm	no	ninny	conservative
+n	an	no	ferociousness	conservative
+n	pa	yes	churl	conservative
+n	re	no	ránsfé	inclusive
+n	cds	no	shirker	conservative
+n	qas	no	barbarian	conservative
+a	dmc	yes	kámugur	inclusive
+n	ddp	yes	zooerastia	conservative
+n	cds	no	lygð	conservative
+n	re	no	afbrot	inclusive
+a	dmc	yes	rangur	conservative
+a	dmc	yes	dáðlaus	conservative
+n	cds	no	schemer	inclusive
+a	ddp	yes	flónslegur	conservative
+n	an	no	diddly	conservative
+n	ps	yes	villimenn	conservative
+n	qas	no	barbari	conservative
+n	svp	no	hégómaskapur	conservative
+n	an	no	páfagaukur	inclusive
+a	dmc	yes	auvirðilegur	conservative
+n	pa	yes	hirðar	inclusive
+n	re	no	viðskipti meiðyrða	inclusive
+n	an	no	yap	inclusive
+n	an	no	humanus	inclusive
+n	re	no	sjóræningjastarfsemi	inclusive
+n	cds	no	perspicaciousness	inclusive
+a	cds	no	kænn	conservative
+n	re	no	drepa	inclusive
+n	dmc	yes	skáldskapur	inclusive
+n	cds	no	trasformismo	inclusive
+n	an	no	ormar	inclusive
+n	ddp	yes	taleteller	conservative
+n	an	no	gnat	inclusive
+n	ddp	yes	skynleysingi	inclusive
+n	cds	no	rube	conservative
+n	cds	no	pompousness	inclusive
+n	cds	no	junto	inclusive
+n	dmc	yes	goof-burt	conservative
+n	svp	no	skinflint	conservative
+n	svp	no	faineance	inclusive
+n	or	no	hommi	conservative
+n	qas	no	botcher	conservative
+n	pa	yes	verjanda	inclusive
+n	pa	yes	cordwainer	inclusive
+n	dmc	yes	chiseller	conservative
+n	svp	no	avarice	inclusive
+n	re	no	misbeyting	inclusive
+n	asm	no	ballock	inclusive
+n	pa	yes	háskólakennari	inclusive
+n	cds	no	brigands	inclusive
+n	cds	no	kamra	inclusive
+n	an	no	floozy	conservative
+n	cds	no	grugg	inclusive
+n	cds	no	úrhrak	inclusive
+n	ddp	yes	changelings	conservative
+n	ddp	yes	riffraff	conservative
+n	qas	no	fumbler	conservative
+n	cds	no	skáldskapur	conservative
+n	cds	no	moð	inclusive
+n	dmc	yes	gott-fyrir-ekki annað	conservative
+n	cds	no	pedagogue	inclusive
+n	ddp	yes	fávís	conservative
+n	ddp	yes	microcephalus	inclusive
+n	an	no	strix varia	inclusive
+n	ps	yes	hálf-caste	conservative
+n	or	no	nance	conservative
+n	svp	no	gluttony	inclusive
+a	is	yes	skammsýnn	conservative
+n	qas	no	borgarastétt	inclusive
+n	re	no	illmenni	conservative
+n	cds	no	skaðlegur	conservative
+n	ddp	yes	veit ekkert	conservative
+n	asm	no	breið baun	inclusive
+n	re	no	slayer	inclusive
+n	cds	no	bleyða	conservative
+n	an	no	gæs	inclusive
+n	cds	no	devilment	conservative
+n	pr	no	rentboy	conservative
+n	cds	no	cheekiness	conservative
+n	an	no	volaille	inclusive
+n	asf	no	kunta	conservative
+n	cds	no	drasl	inclusive
+a	ddf	yes	eineygur	inclusive
+n	cds	no	ballup	inclusive
+n	pr	no	vændiskonur	inclusive
+n	pr	no	guff	conservative
+n	cds	no	kænn	conservative
+n	pr	no	floozy	conservative
+n	asf	no	crotch hár	inclusive
+n	cds	no	stolt	conservative
+n	qas	no	parasitic	inclusive
+n	cds	no	fjölmenni	inclusive
+a	qas	no	vanur	inclusive
+n	cds	no	refsivert athæfi	inclusive
+n	re	no	nauðgari	conservative
+n	dmc	yes	slæpingi	conservative
+n	cds	no	hégóma	conservative
+a	ddf	yes	blindur	inclusive
+n	cds	no	hauteur	conservative
+n	dmc	yes	debauchee	conservative
+n	ddp	yes	patsy	conservative
+a	cds	no	alþýðlegur	inclusive
+n	dmc	yes	sekt	inclusive
+n	om	no	samkynhneigður	inclusive
+n	dmc	yes	óþefur	conservative
+n	qas	no	lygð	conservative
+n	pr	no	moo-kýr	inclusive
+n	cds	no	vita-það-allt	conservative
+n	an	no	grís	inclusive
+a	svp	no	heiftrækinn	conservative
+n	ps	yes	negroids	inclusive
+n	om	no	gay	inclusive
+n	dmc	yes	rakehell	conservative
+n	an	no	culicidae	inclusive
+a	svp	no	gramur	inclusive
+n	cds	no	phratry	inclusive
+n	ddp	yes	bandamaður	inclusive
+n	cds	no	götu gang	inclusive
+n	cds	no	tomfool	conservative
+n	cds	no	sekt	inclusive
+n	is	yes	ragamuffin	conservative
+n	asm	no	grasasni	inclusive
+n	an	no	rouncey	inclusive
+n	an	no	blattaria	inclusive
+n	ps	yes	krauthead	conservative
+a	is	yes	dapur	inclusive
+n	om	no	aboral	inclusive
+n	asf	no	dimwit	conservative
+a	is	yes	þurfugur	inclusive
+n	re	no	villainess	conservative
+n	an	no	pakk	conservative
+n	asm	no	skíthæll burt	conservative
+n	ps	yes	mongol	inclusive
+n	an	no	aureus	inclusive
+n	cds	no	meddler	conservative
+n	re	no	barnsmorð	inclusive
+n	is	yes	fátækt	inclusive
+n	pa	yes	vikapiltur	inclusive
+n	cds	no	raggeit	conservative
+n	cds	no	vöflur	inclusive
+n	re	no	homicides	inclusive
+n	qas	no	grandiloquence	inclusive
+n	an	no	blockhead	conservative
+n	ddp	yes	fána	inclusive
+n	dmc	yes	jester	inclusive
+n	qas	no	magnate	inclusive
+n	an	no	hyaena	inclusive
+n	pa	yes	academicism	inclusive
+a	re	no	yfirgangssamur	inclusive
+n	pa	yes	fishmonger	inclusive
+a	ddp	yes	auðtrúa	conservative
+n	ps	yes	hálfviti	conservative
+a	cds	no	reiginn	conservative
+n	cds	no	kennslu aðstoð	inclusive
+n	qas	no	monger	inclusive
+a	dmc	yes	latur	conservative
+n	ddf	yes	slökkva	inclusive
+n	qas	no	glundroði	inclusive
+n	an	no	fló	inclusive
+a	cds	no	óbreyttur	inclusive
+a	cds	no	huglaus	conservative
+n	dmc	yes	dónalegur	conservative
+n	cds	no	öflun	inclusive
+n	ddp	yes	þroskahömlun	inclusive
+n	an	no	grön	inclusive
+n	pr	no	hjákonu	inclusive
+n	ddp	yes	bjálfi	conservative
+n	re	no	malefactor	inclusive
+n	an	no	eurypterids	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	an	no	hún-geit	inclusive
+n	ddp	yes	bandingi	inclusive
+n	cds	no	sorp	inclusive
+n	an	no	eurasian griffon	inclusive
+n	an	no	otus asio	inclusive
+n	ps	yes	cretin	conservative
+n	an	no	trýnið	inclusive
+n	cds	no	svót	conservative
+n	cds	no	peningar útlán	conservative
+n	asm	no	standpína	inclusive
+n	qas	no	storekeeper	inclusive
+n	cds	no	ostentatiousness	inclusive
+n	cds	no	ragmennska	conservative
+n	dmc	yes	fibber	conservative
+n	pr	no	rottur	inclusive
+n	an	no	svo-og-svo	conservative
+n	om	no	fennel	inclusive
+n	ps	yes	drifter	inclusive
+n	dmc	yes	fabricator	conservative
+n	asf	no	cretin	conservative
+n	ddp	yes	fávita	inclusive
+n	asm	no	fiskur	inclusive
+n	ddp	yes	macrofauna	inclusive
+n	or	no	nýjum kartöflum	inclusive
+n	asf	no	leggöng	conservative
+n	cds	no	newswriter	inclusive
+n	asf	no	kynhár	inclusive
+n	cds	no	fib	conservative
+a	dmc	yes	lítilmótlegur	conservative
+n	qas	no	kaupsýslumaður	inclusive
+n	an	no	huglaus	conservative
+n	qas	no	skáldskapur	conservative
+a	svp	no	dramblátur	conservative
+n	an	no	nautgripum	inclusive
+n	qas	no	prestakall	inclusive
+n	an	no	anurans	inclusive
+a	is	yes	efnalaus	inclusive
+n	cds	no	sauðsvartur almúginn	conservative
+n	cds	no	börn	inclusive
+n	cds	no	lögregla	inclusive
+n	cds	no	ólögleg starfsemi	inclusive
+n	an	no	fantur	conservative
+n	cds	no	folderol	conservative
+n	or	no	kartöflu	inclusive
+n	an	no	streetwalker	conservative
+n	asf	no	muttonhead	conservative
+a	ddp	yes	fálkalegur	conservative
+n	cds	no	whorehouse	inclusive
+n	cds	no	uppskafningur	inclusive
+n	cds	no	ræningi	conservative
+n	an	no	vembla	inclusive
+a	ps	yes	svartur	inclusive
+n	cds	no	ringleader	inclusive
+n	pr	no	viðskiptalegum kynlíf	inclusive
+a	dmc	yes	makráður	conservative
+a	dmc	yes	þröngsýnn	conservative
+a	an	no	þrjóskur	inclusive
+n	svp	no	slothfulness	inclusive
+a	cds	no	uppbelgdur	conservative
+n	an	no	maw	inclusive
+n	cds	no	blackguard	conservative
+n	svp	no	bigot	conservative
+n	svp	no	gourmandizer	inclusive
+n	svp	no	græðgi	inclusive
+n	cds	no	brot	inclusive
+n	ps	yes	ruiner	conservative
+a	is	yes	þröngsýnn	conservative
+n	asm	no	getnaðarlimur	inclusive
+n	re	no	þjófnaður	inclusive
+a	cds	no	ólöglegur	inclusive
+n	cds	no	vandræði	conservative
+n	cds	no	busl og ærls	inclusive
+n	cds	no	hakk rithöfundur	conservative
+v	asm	no	njóta ásta	conservative
+n	an	no	trýni	inclusive
+n	cds	no	óþekktarangi	inclusive
+n	ps	yes	gawk	conservative
+n	pr	no	belja	conservative
+n	cds	no	slægvitur	conservative
+n	an	no	langhala	inclusive
+n	an	no	líkrán	inclusive
+n	an	no	got	inclusive
+n	cds	no	chiseller	inclusive
+n	cds	no	chawbacon	conservative
+n	an	no	batrachian	inclusive
+a	ddf	yes	ósýnn	inclusive
+n	re	no	stealer	inclusive
+n	om	no	sitjandi	inclusive
+n	ps	yes	darkey	conservative
+n	cds	no	ragtag	conservative
+n	cds	no	quidnunc	conservative
+n	cds	no	selskapur	inclusive
+n	cds	no	poltroonery	inclusive
+a	ddp	yes	heimskur	conservative
+n	asf	no	muggins	conservative
+n	om	no	lady	inclusive
+n	ddp	yes	illþýði	conservative
+n	dmc	yes	skrökvísi	inclusive
+n	cds	no	laddie	inclusive
+n	om	no	klæðskiptingur	inclusive
+n	asm	no	brownness	inclusive
+n	ps	yes	negroid	inclusive
+n	cds	no	óreiðu	inclusive
+n	qas	no	hlýðni	inclusive
+n	dmc	yes	hobo	conservative
+n	om	no	dorsoventral	inclusive
+n	asf	no	patsy	conservative
+n	dmc	yes	ne'er-do-vel	conservative
+n	cds	no	bordello	inclusive
+n	svp	no	miser	conservative
+n	cds	no	klíka	conservative
+n	cds	no	ætt	inclusive
+n	asm	no	einfeldningur	conservative
+n	asf	no	falla strákur	conservative
+n	cds	no	heimilissorpi	inclusive
+n	svp	no	minginess	conservative
+n	cds	no	fjaðrafok	inclusive
+n	qas	no	mannafli	inclusive
+n	qas	no	sameiginlegur maður	inclusive
+n	dmc	yes	villandi	conservative
+n	an	no	gotpískur	inclusive
+n	an	no	coquette	conservative
+n	cds	no	dauður-endir götu	inclusive
+n	cds	no	ofdramb	conservative
+n	asm	no	jeerer	conservative
+n	an	no	uglur	inclusive
+n	cds	no	bagnio	inclusive
+n	qas	no	shopkeeper	inclusive
+n	cds	no	átrúnaðargoð tilbiðja	inclusive
+n	qas	no	bourgeoisie	inclusive
+n	cds	no	taleteller	conservative
+n	qas	no	viðskiptajöfur	inclusive
+n	cds	no	peons	inclusive
+n	ddp	yes	skríll	conservative
+n	cds	no	burglar	inclusive
+n	cds	no	chump	conservative
+n	ddp	yes	fangi	inclusive
+n	qas	no	andlegur leiðtogi	inclusive
+n	dmc	yes	gangsters	inclusive
+n	an	no	nautin	inclusive
+n	qas	no	kjölfesta	inclusive
+n	cds	no	farangur lest	inclusive
+n	re	no	plagiarization	inclusive
+n	re	no	ofráð	inclusive
+n	dmc	yes	brigand	conservative
+n	cds	no	bootlicker	conservative
+n	cds	no	pimping	inclusive
+n	cds	no	weakling	conservative
+n	asm	no	changeling	inclusive
+n	asm	no	nooky	conservative
+n	cds	no	thieving	inclusive
+n	re	no	þjáning	inclusive
+n	asm	no	reisn	inclusive
+n	qas	no	ideologue	inclusive
+n	an	no	villimennsku	inclusive
+n	an	no	hyenas	inclusive
+n	ps	yes	svartur	inclusive
+n	an	no	infauna	inclusive
+n	an	no	Útlitsfræði	inclusive
+n	cds	no	vigl	inclusive
+n	qas	no	alþýðunnar	inclusive
+a	ddp	yes	fíflalegur	conservative
+n	pr	no	karlkyns skækjuna	conservative
+n	ddp	yes	grasasni	inclusive
+n	an	no	hemipterous skordýrum	inclusive
+n	svp	no	Öfund	inclusive
+n	or	no	kartöflur	inclusive
+n	cds	no	balladeer	inclusive
+n	ps	yes	bedu	inclusive
+n	re	no	mugged	inclusive
+n	or	no	gay	conservative
+n	om	no	endaþarms skarpskyggni	inclusive
+a	pa	yes	stjórnmálalegur	inclusive
+n	om	no	hind enda	inclusive
+n	dmc	yes	trúníðingur	conservative
+n	cds	no	cowardliness	conservative
+n	asm	no	grænum baunum	inclusive
+n	pr	no	hjákonur	inclusive
+n	ddp	yes	asni	conservative
+n	cds	no	demagogic	conservative
+n	cds	no	freemason	inclusive
+n	cds	no	lýðurinn	conservative
+n	cds	no	samsæri kenningasmiður	inclusive
+n	dmc	yes	svo-og-svo	inclusive
+n	cds	no	slyness	conservative
+n	dmc	yes	fantur	conservative
+n	ddp	yes	fuckhead	conservative
+a	svp	no	duglaus	conservative
+n	om	no	endaþarmsmök	inclusive
+n	cds	no	masonic	inclusive
+n	cds	no	fangavörðurinn	inclusive
+n	ddp	yes	cretin	inclusive
+n	dmc	yes	dissembler	conservative
+a	ps	yes	kínversku	inclusive
+n	ps	yes	nigra	conservative
+n	ddp	yes	skynskiptingur	inclusive
+n	svp	no	concupiscence	inclusive
+n	cds	no	undir-ættin	inclusive
+n	cds	no	untruth	conservative
+n	an	no	villainous	conservative
+n	an	no	moskítófluga	inclusive
+n	an	no	purka	inclusive
+n	an	no	svín	conservative
+n	svp	no	trencherman	conservative
+n	re	no	mafioso	conservative
+n	cds	no	vainglory	conservative
+n	an	no	kattugla	inclusive
+v	an	no	geyja	inclusive
+n	ddp	yes	lummox	conservative
+a	dmc	yes	loginn	conservative
+n	cds	no	mannþröng	inclusive
+a	cds	no	tattinn	conservative
+n	svp	no	gourmand	conservative
+n	an	no	krókódílaættbálkur	inclusive
+n	an	no	sloven	conservative
+n	qas	no	höndlari	inclusive
+n	qas	no	óhroði	inclusive
+n	an	no	crocodylia	inclusive
+n	is	yes	villainess	conservative
+a	cds	no	almennur	inclusive
+n	pa	yes	sheepherder	inclusive
+n	dmc	yes	trúða	inclusive
+a	ddp	yes	andhælislegur	conservative
+n	an	no	midget	conservative
+n	or	no	spud	inclusive
+n	cds	no	heimskur	conservative
+n	dmc	yes	eyðslukló	inclusive
+n	ps	yes	niggers	conservative
+a	ddp	yes	fávíslegur	conservative
+n	cds	no	zealots	inclusive
+a	svp	no	stoltur	conservative
+n	cds	no	skrökvísi	inclusive
+a	dmc	yes	rangar	conservative
+n	an	no	geit	inclusive
+n	ddp	yes	fáfræði	conservative
+n	ps	yes	gyðingar	inclusive
+n	dmc	yes	svikahrappur	conservative
+n	dmc	yes	bandit	conservative
+n	re	no	cosa nostra	inclusive
+n	asm	no	ithyphallic	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	an	no	crocodilian	inclusive
+n	asm	no	mjúka	conservative
+n	cds	no	klíkumyndun	inclusive
+n	cds	no	sóði	conservative
+n	pr	no	halaterra	inclusive
+n	qas	no	kennel	inclusive
+n	re	no	sekt	inclusive
+n	asm	no	asni	inclusive
+n	svp	no	niggard	conservative
+n	cds	no	grikkur	conservative
+n	an	no	pooch	inclusive
+n	an	no	mismæli	inclusive
+n	is	yes	pauper	inclusive
+n	asf	no	glópur	conservative
+n	dmc	yes	rotter	inclusive
+n	qas	no	búhöldur	inclusive
+a	svp	no	latur	conservative
+n	ps	yes	chump	conservative
+n	asm	no	typpi	conservative
+n	dmc	yes	prevaricator	conservative
+n	om	no	crossdress	inclusive
+n	re	no	setja til dauða	inclusive
+n	an	no	örverur	inclusive
+n	asm	no	afglapi	conservative
+n	ps	yes	judaic	inclusive
+n	cds	no	bungler	conservative
+n	cds	no	letinginn	conservative
+n	an	no	hemipteran	inclusive
+n	dmc	yes	hobos	conservative
+n	re	no	hlutskipti	inclusive
+n	qas	no	skáli	inclusive
+n	om	no	crossdresser	inclusive
+n	cds	no	bigoted	conservative
+n	cds	no	sorglegt poka	conservative
+n	cds	no	newspaperman	inclusive
+n	re	no	grand theft	inclusive
+n	qas	no	afhrak	inclusive
+n	qas	no	peasant	inclusive
+a	svp	no	slyttinn	conservative
+n	cds	no	belgdu höfuð	conservative
+n	ddp	yes	shithead	conservative
+n	cds	no	glæpi	inclusive
+n	asf	no	mjúka	conservative
+n	an	no	shithead	conservative
+n	re	no	þjófnaði	inclusive
+n	re	no	raper	conservative
+n	an	no	hemipteron	inclusive
+n	qas	no	sameiginlegur manneskja	inclusive
+a	is	yes	angurmóður	inclusive
+a	svp	no	árlegur	inclusive
+n	or	no	cuke	inclusive
+n	om	no	sodomist	inclusive
+n	om	no	frú	inclusive
+n	asm	no	rúlla í heyi	conservative
+n	cds	no	blackleg	inclusive
+a	pa	yes	pólitíska	inclusive
+n	pa	yes	hvít-kraga starfsmenn	inclusive
+n	re	no	manndráopsmaður	inclusive
+n	an	no	falla strákur	conservative
+n	dmc	yes	hræsni	conservative
+n	pa	yes	prófessorstöður	inclusive
+n	cds	no	samsæri þagnarinnar þeirra	inclusive
+n	cds	no	minjar	inclusive
+n	or	no	sativus	inclusive
+n	asm	no	betise	conservative
+n	re	no	ndrangheta	inclusive
+a	qas	no	geðveikur	conservative
+n	an	no	crocodylidae	inclusive
+n	om	no	konur	inclusive
+a	ddp	yes	bjálfalegur	conservative
+n	cds	no	lausmælgi	inclusive
+n	ddp	yes	lifandi vera	inclusive
+n	cds	no	spellvirki-gerð	conservative
+n	svp	no	eros	inclusive
+n	cds	no	outlaw	conservative
+n	svp	no	dallier	conservative
+n	asf	no	fávita	conservative
+a	svp	no	hégómlegur	conservative
+n	ddp	yes	dunderhead	conservative
+n	cds	no	grumbler	conservative
+n	ddp	yes	ferociousness	conservative
+n	an	no	hænur	inclusive
+n	cds	no	ultraconservative	conservative
+n	pr	no	moth	inclusive
+n	an	no	pip-squeak	conservative
+n	cds	no	þjófur	inclusive
+n	an	no	dýralíf	inclusive
+n	is	yes	beggar	conservative
+n	ddp	yes	numskull	conservative
+n	cds	no	svín	conservative
+n	cds	no	dandy	inclusive
+a	ddp	yes	ratalegur	conservative
+n	ddp	yes	metazoans	inclusive
+n	cds	no	sori	inclusive
+n	svp	no	slackers	conservative
+a	svp	no	slækinn	conservative
+n	or	no	shithead	conservative
+n	re	no	píníng	inclusive
+n	pr	no	noctiluca	inclusive
+n	re	no	extort	inclusive
+n	re	no	nauðgun	inclusive
+n	cds	no	áhorfandinn	conservative
+a	dmc	yes	skussalegur	conservative
+a	svp	no	hyskinn	conservative
+n	an	no	blágot	inclusive
+n	dmc	yes	svindlari	conservative
+n	svp	no	hauteur	conservative
+n	qas	no	ragtag	conservative
+n	re	no	glæpur	inclusive
+n	svp	no	aðgerðaleysi	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	an	no	síðhala	inclusive
+n	an	no	shoat	inclusive
+n	om	no	apical	inclusive
+a	ddp	yes	heimskulegur	conservative
+n	an	no	auli	conservative
+n	cds	no	bandit	conservative
+n	ddp	yes	skynskiptingur	conservative
+n	re	no	felons	inclusive
+n	cds	no	hjörðum	inclusive
+n	cds	no	álygar	conservative
+n	qas	no	sveitabóndi	inclusive
+n	cds	no	salerni leikni	inclusive
+n	svp	no	sinnuleysi	inclusive
+n	svp	no	vonska	inclusive
+n	an	no	sproti	inclusive
+n	ddp	yes	villimenn	conservative
+n	ddp	yes	dunce	conservative
+n	om	no	draga drottning	inclusive
+n	asf	no	asni	conservative
+n	cds	no	brotajárns	inclusive
+n	cds	no	culling	conservative
+n	or	no	heimskur	conservative
+v	an	no	glenna	inclusive
+n	asm	no	karlfugl	inclusive
+n	an	no	kona veiðimaður	conservative
+n	an	no	eurypterid	inclusive
+n	cds	no	pakk	conservative
+n	an	no	sugur	inclusive
+a	cds	no	vanur	inclusive
+n	cds	no	interfertility	inclusive
+n	dmc	yes	dissimulation	conservative
+a	dmc	yes	andstyggilegur	conservative
+n	ddp	yes	talebearer	conservative
+n	cds	no	procuress	conservative
+n	an	no	gabb	conservative
+n	qas	no	baronial	inclusive
+n	cds	no	samsæriskenningar	inclusive
+n	dmc	yes	hræsnari	conservative
+n	qas	no	tros	inclusive
+n	re	no	morðingjum	inclusive
+n	cds	no	gangsterism	inclusive
+n	an	no	cimex lectularius	inclusive
+n	an	no	götu stúlka	conservative
+n	or	no	noggin	inclusive
+n	dmc	yes	imposter	conservative
+n	ps	yes	dimwit	conservative
+n	ddp	yes	kjaftæði	conservative
+n	cds	no	lögreglumaðurinn	conservative
+n	qas	no	lygimál	conservative
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	cds	no	ofbeldi	conservative
+n	cds	no	aftur tala	inclusive
+a	cds	no	venjulegum	inclusive
+n	ddp	yes	bonehead	conservative
+n	cds	no	hálviti	inclusive
+n	qas	no	ranimosk	inclusive
+n	pa	yes	boor	conservative
+n	an	no	plunderer	inclusive
+n	cds	no	klípa	conservative
+n	cds	no	mafia	conservative
+a	cds	no	algengur	inclusive
+n	svp	no	niggardness	conservative
+n	an	no	screech-ugla	inclusive
+n	re	no	refsing	inclusive
+n	ddp	yes	markleysa	conservative
+n	re	no	glæpastarfsemi	inclusive
+n	svp	no	goof-burt	conservative
+n	asm	no	skynskiptingur	inclusive
+n	an	no	miser	conservative
+a	cds	no	vitlaus	conservative
+n	an	no	snigill	inclusive
+n	pa	yes	prófessor	inclusive
+n	cds	no	slæmri	conservative
+n	pa	yes	dyravörður	inclusive
+n	cds	no	lúmskur	conservative
+n	svp	no	bræði	conservative
+n	ddp	yes	ómenntuð manneskja	conservative
+n	pr	no	concubinage	inclusive
+n	cds	no	fullt	inclusive
+n	svp	no	luxuria	inclusive
+n	re	no	dæmdur afbrotamann	inclusive
+n	ddp	yes	reglugerðarsnatinn gerir uppsteit út	conservative
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	pr	no	druslan	conservative
+n	cds	no	prig	conservative
+n	pa	yes	academe	inclusive
+n	om	no	samkynhneigður	conservative
+a	svp	no	digurbarkalegur	conservative
+n	cds	no	road umboðsmaður	conservative
+n	or	no	leiðsögn vínviður	inclusive
+n	an	no	blattodea	inclusive
+a	cds	no	tíður	inclusive
+n	pr	no	kine	inclusive
+n	cds	no	hégómaskapur	conservative
+a	svp	no	hégómafullur	conservative
+n	pr	no	hellcat	conservative
+a	asm	no	skilbrúnn	inclusive
+n	an	no	hákarl	inclusive
+n	an	no	piglet	inclusive
+n	om	no	nærlægum	inclusive
+n	ddp	yes	andlegur skortur	inclusive
+n	dmc	yes	second-rater	conservative
+n	or	no	brassica oleracea	inclusive
+n	cds	no	pomposity	conservative
+n	ddp	yes	heilaskemmdum	inclusive
+n	cds	no	snooper	conservative
+n	an	no	slanga í paradís	conservative
+n	cds	no	henchmen	conservative
+n	re	no	sekur	inclusive
+n	asm	no	faba baun	inclusive
+n	ddp	yes	fávita	conservative
+n	cds	no	tvístringur	inclusive
+n	an	no	mollusca	inclusive
+n	cds	no	pompousness	conservative
+n	qas	no	bungler	conservative
+n	cds	no	pudding höfuð	conservative
+n	pa	yes	fjárhirðir	inclusive
+n	pa	yes	corporal	inclusive
+n	dmc	yes	snar	conservative
+n	ps	yes	skemmdarvargur	conservative
+n	an	no	mule	inclusive
+n	cds	no	vandamál	conservative
+n	is	yes	indigent	inclusive
+n	cds	no	conventicle	inclusive
+n	cds	no	magn	inclusive
+n	an	no	escargots	inclusive
+n	om	no	kross-dressers	inclusive
+n	cds	no	úrgangur	inclusive
+n	re	no	ærumeiðandi	inclusive
+n	pr	no	norway rat	inclusive
+n	cds	no	útilokun	inclusive
+n	asf	no	blockhead	conservative
+n	asf	no	changeling	conservative
+n	an	no	rakki	inclusive
+n	cds	no	splashiness	inclusive
+n	ddp	yes	hálfviti	conservative
+n	asm	no	reglugerðarsnatinn gerir uppsteit út	conservative
+n	ddp	yes	barbaric	conservative
+n	qas	no	scrounger	conservative
+n	an	no	rass	inclusive
+n	cds	no	strikebreaker	inclusive
+n	cds	no	nörd	conservative
+a	qas	no	venjulega	inclusive
+n	cds	no	afbrotamaður	inclusive
+n	cds	no	ósvífni	conservative
+n	qas	no	retorísk	inclusive
+n	cds	no	stuðlar og endar	inclusive
+n	cds	no	mor	inclusive
+n	cds	no	hroði	inclusive
+n	ddp	yes	dimwit	conservative
+n	ps	yes	víxlæxlun	inclusive
+a	dmc	yes	slæmur	conservative
+n	qas	no	doghouse	inclusive
+a	cds	no	gáfaður	inclusive
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	an	no	leigu drengur	conservative
+a	ddp	yes	aukalegur	conservative
+n	om	no	neðstu	inclusive
+n	an	no	hann-geit	inclusive
+a	qas	no	venjulegum	inclusive
+n	cds	no	lögbrot	inclusive
+n	om	no	distal	inclusive
+n	om	no	gay	conservative
+n	an	no	raddali	inclusive
+n	an	no	cimicidae	inclusive
+n	qas	no	þrif	inclusive
+n	om	no	gays	conservative
+n	dmc	yes	siðferðilegum kóða	inclusive
+n	an	no	hafkerling	inclusive
+n	cds	no	mobster	inclusive
+n	an	no	blákeyri	inclusive
+n	ddf	yes	örkuml	inclusive
+n	cds	no	vandhæfi	conservative
+n	pr	no	leigu drengur	conservative
+n	an	no	cootie	inclusive
+n	cds	no	staðlausir stafir	conservative
+n	cds	no	pimping	conservative
+n	asf	no	dunce	conservative
+n	ddp	yes	hokum	conservative
+n	ps	yes	rommany	inclusive
+a	ddp	yes	fábjánalegur	conservative
+n	pa	yes	siðlausar	conservative
+n	an	no	mannfýla	conservative
+n	asf	no	hálviti	conservative
+n	ddp	yes	gossipmonger	conservative
+n	om	no	hommi	inclusive
+n	asm	no	vingul	inclusive
+n	asm	no	avifauna	inclusive
+n	asm	no	undirhúð	inclusive
+n	or	no	fastidiousness	inclusive
+n	cds	no	codswallop	conservative
+n	an	no	gæsir	inclusive
+n	svp	no	lecherousness	inclusive
+n	an	no	háffiskar	inclusive
+n	cds	no	foxiness	conservative
+n	qas	no	málari og decorator	inclusive
+n	an	no	bufo	inclusive
+n	ps	yes	afrískum uppruna	inclusive
+n	cds	no	farrago	inclusive
+a	ddf	yes	vondur	inclusive
+n	cds	no	egotistical	conservative
+v	asm	no	ríða	conservative
+n	an	no	gylta	inclusive
+n	pr	no	mölur	inclusive
+n	ddp	yes	óhæfur	conservative
+n	an	no	maðkur	inclusive
+n	cds	no	dýrahópur	inclusive
+n	asm	no	retard	inclusive
+n	om	no	handicapped manneskja	conservative
+n	cds	no	pimp	inclusive
+n	ddp	yes	dýralíf	inclusive
+a	dmc	yes	siðlaus	conservative
+n	asm	no	eistum	inclusive
+a	is	yes	aumur	inclusive
+n	is	yes	snauður	inclusive
+n	asf	no	reglugerðarsnatinn gerir uppsteit út	conservative
+n	dmc	yes	svo-og-svo	conservative
+n	an	no	moue	inclusive
+n	svp	no	idler	conservative
+a	an	no	stífur	inclusive
+n	svp	no	gott-fyrir-ekki annað	conservative
+n	qas	no	common people	inclusive
+n	cds	no	jokester	inclusive
+n	re	no	hryðjuverkamenn	conservative
+n	dmc	yes	mozzarella	inclusive
+n	cds	no	mannfjöldi	inclusive
+n	ddp	yes	dýraríki	inclusive
+n	qas	no	churl	conservative
+a	svp	no	þóttafullur	conservative
+n	ps	yes	mestizo	conservative
+n	cds	no	slovenly manneskja	conservative
+n	svp	no	losta	inclusive
+n	cds	no	ættflokkur	inclusive
+n	asf	no	bjáni	conservative
+n	an	no	gammur	inclusive
+n	om	no	aftan enda	inclusive
+n	asm	no	typpi	inclusive
+n	pr	no	bawd	conservative
+n	ddp	yes	charlatan	conservative
+n	dmc	yes	uppgerð	conservative
+n	cds	no	moneylenders	inclusive
+n	cds	no	ungbarna	inclusive
+n	pa	yes	flutningsmaður	inclusive
+n	ddp	yes	rassgat	conservative
+n	qas	no	blöndu	inclusive
+n	svp	no	gourmand	inclusive
+n	cds	no	musl	conservative
+n	cds	no	siðlausar	conservative
+n	cds	no	spilavíti	inclusive
+n	cds	no	moneylending	inclusive
+n	cds	no	bíldrusla	inclusive
+n	asm	no	chump	conservative
+n	asf	no	bonehead	conservative
+n	re	no	molested	inclusive
+n	re	no	fépynd	conservative
+n	cds	no	sekur	inclusive
+n	cds	no	freemasons	inclusive
+n	asm	no	nincompoop	conservative
+n	an	no	riffraff	conservative
+n	an	no	evrópuvísundur	inclusive
+n	qas	no	dót	inclusive
+a	dmc	yes	falsaður	conservative
+n	ps	yes	uprooter	conservative
+n	pa	yes	miða umboðsmanni	inclusive
+n	re	no	mugger	inclusive
+n	om	no	nates	inclusive
+n	qas	no	ectoparasites	inclusive
+n	an	no	miði í tungu	inclusive
+a	is	yes	févana	inclusive
+n	cds	no	restroom	inclusive
+a	svp	no	upplásinn	conservative
+n	cds	no	muss	conservative
+n	qas	no	sori	inclusive
+n	re	no	mafia	inclusive
+n	an	no	lindýr	inclusive
+n	dmc	yes	dillydallier	conservative
+n	an	no	dýraríki	inclusive
+n	pr	no	hetaera	inclusive
+n	asm	no	hálfviti	inclusive
+n	ddp	yes	nitwit	conservative
+n	svp	no	deyfðinni	conservative
+n	an	no	tík	inclusive
+n	cds	no	snyrtiherbergi	inclusive
+v	an	no	bofsa	inclusive
+n	cds	no	groveler	conservative
+n	an	no	seglrendur	inclusive
+n	om	no	taumlaus transi	inclusive
+n	cds	no	prankishness	inclusive
+n	cds	no	reprobate	conservative
+n	ddp	yes	motherfucker	conservative
+n	cds	no	klíka	inclusive
+a	cds	no	venjulegur	inclusive
+a	svp	no	reiginn	conservative
+n	an	no	pediculus corporis	inclusive
+n	ps	yes	hebraism	inclusive
+n	an	no	dónaskap	conservative
+n	dmc	yes	spendthrift	inclusive
+n	cds	no	rusl	conservative
+n	cds	no	pandar	conservative
+n	cds	no	croon	inclusive
+n	an	no	renningur	inclusive
+n	cds	no	glæpamenn	inclusive
+n	svp	no	girnd	inclusive
+n	cds	no	superbia	inclusive
+n	cds	no	lögbrjótur	inclusive
+a	cds	no	óvita	conservative
+n	or	no	numskull	conservative
+n	pa	yes	smábóndi	inclusive
+n	qas	no	freeloader	conservative
+n	pa	yes	ráðherra	inclusive
+a	ddp	yes	sljór	conservative
+n	cds	no	grín	inclusive
+n	cds	no	finagler	conservative
+n	cds	no	blackballing	inclusive
+n	qas	no	úrhrak	inclusive
+n	qas	no	samræmi	inclusive
+n	cds	no	illmenni	conservative
+n	asm	no	baunir	inclusive
+n	cds	no	ósannindi	inclusive
+n	rci	yes	churl	conservative
+n	dmc	yes	sakamaður	inclusive
+n	an	no	skordýr	inclusive
+n	re	no	hryðjuverkamenn	inclusive
+n	re	no	misþyrmingar	inclusive
+n	cds	no	fíkill	conservative
+n	re	no	blackmailed	conservative
+n	dmc	yes	féglæframaður	conservative
+n	ddp	yes	barbari	conservative
+n	is	yes	outcast	inclusive
+n	qas	no	autoinfection	inclusive
+n	an	no	málleysingi	inclusive
+n	cds	no	brigand	inclusive
+n	pr	no	nautunum	inclusive
+a	qas	no	alþýðlegur	inclusive
+n	svp	no	skröggur	conservative
+n	an	no	folderol	conservative
+n	cds	no	inner circle	inclusive
+n	an	no	hyena	inclusive
+n	asf	no	píka	conservative
+n	an	no	fulvus	inclusive
+n	dmc	yes	lowlife	conservative
+n	cds	no	ketill fiski	inclusive
+n	an	no	diddly-digur	conservative
+n	pa	yes	ráðgjafa-á-lög	inclusive
+n	re	no	kynferðisbrota	inclusive
+n	ddp	yes	saphead	conservative
+n	cds	no	cretin	inclusive
+n	cds	no	ættmenni	inclusive
+n	svp	no	ráfað	conservative
+n	an	no	hákörlum	inclusive
+n	qas	no	drasl	inclusive
+n	an	no	keyri	inclusive
+n	cds	no	jacking burt	conservative
+n	qas	no	fyrirtæki manneskja	inclusive
+n	rci	yes	kotbóndi	inclusive
+n	qas	no	grandiosity	inclusive
+n	asm	no	sviði baun	inclusive
+n	an	no	lowlife	conservative
+a	dmc	yes	skakkur	conservative
+n	cds	no	slúður	inclusive
+n	ddp	yes	fathead	conservative
+n	an	no	slowpoke	conservative
+n	dmc	yes	tramp	conservative
+n	cds	no	mystifier	conservative
+n	svp	no	nirfill	conservative
+a	is	yes	bágstaddur	inclusive
+n	re	no	fjárkúgun	conservative
+n	ddp	yes	idiocy	inclusive
+n	an	no	reiði	inclusive
+n	qas	no	sorglegt poka	conservative
+n	qas	no	mishmash	inclusive
+n	cds	no	scuttlebutt	inclusive
+n	cds	no	lygasaga	conservative
+n	ddf	yes	fötlun	inclusive
+n	an	no	saphead	conservative
+n	dmc	yes	ráfað	conservative
+n	qas	no	dilettante	conservative
+n	cds	no	stuldur	inclusive
+n	cds	no	nýríkur maður	inclusive
+n	cds	no	windbag	conservative
+n	ps	yes	mongoloid	conservative
+n	re	no	calumny	inclusive
+n	asm	no	fábjáni	conservative
+n	qas	no	bollocks	inclusive
+n	an	no	eiturnaðra	conservative
+n	om	no	yfir dresser	inclusive
+n	cds	no	sekt	conservative
+n	cds	no	skáldskapur	inclusive
+n	cds	no	moð	conservative
+n	re	no	plagiarizing	inclusive
+n	asm	no	nitwit	conservative
+n	cds	no	vændishús	inclusive
+n	an	no	cuckold	conservative
+a	svp	no	hégómagjarn	conservative
+n	dmc	yes	enginn reikningur	conservative
+n	cds	no	saphead	conservative
+n	cds	no	heigull	conservative
+n	re	no	þraut	inclusive
+n	an	no	tyrra	inclusive
+n	qas	no	ósannindi	conservative
+n	om	no	þjóhnappar	inclusive
+a	is	yes	óánægður	inclusive
+n	om	no	samkynhneigðra	inclusive
+n	ddp	yes	retard	inclusive
+n	cds	no	uppspuni	conservative
+n	cds	no	gang menningu	inclusive
+n	cds	no	sáttasemjari	inclusive
+n	svp	no	idleness	inclusive
+n	cds	no	slackers	conservative
+n	cds	no	hellingur	inclusive
+n	cds	no	dót	conservative
+n	ddp	yes	twaddler	conservative
+n	cds	no	gang menningu	conservative
+n	om	no	ipsilateral	inclusive
+n	cds	no	mikill unwashed	inclusive
+n	cds	no	banditry	inclusive
+n	asm	no	eggfruma	inclusive
+n	re	no	defrauder	inclusive
+n	ddp	yes	asni	inclusive
+n	ps	yes	barbaric	conservative
+a	svp	no	hrokafullur	conservative
+n	or	no	knucklehead	conservative
+n	cds	no	glundroði	conservative
+n	an	no	karlkyns fylgdar	conservative
+n	dmc	yes	siðleysi	inclusive
+n	qas	no	blunderer	conservative
+n	qas	no	mob	inclusive
+n	dmc	yes	idler	conservative
+n	qas	no	hús málari	inclusive
+n	cds	no	slyboots	conservative
+n	cds	no	þröngsýni	conservative
+n	or	no	pudden-höfuð	conservative
+n	cds	no	gangsterism	conservative
+n	cds	no	delict	inclusive
+n	cds	no	fantur	conservative
+n	dmc	yes	lygari	conservative
+n	an	no	pipistrellus	inclusive
+n	re	no	vald	inclusive
+n	qas	no	hismi	inclusive
+n	svp	no	layabout	conservative
+n	re	no	plagiarize	inclusive
+n	re	no	dráp	inclusive
+a	ddp	yes	glópslegur	conservative
+n	ddp	yes	cretin	conservative
+n	an	no	afglapi	conservative
+n	pr	no	vembla	inclusive
+n	svp	no	hroka	conservative
+n	cds	no	skrap	inclusive
+n	pr	no	haldið kona	conservative
+n	dmc	yes	homunculi	inclusive
+n	qas	no	leigjandi bæ	inclusive
+n	cds	no	layabout	conservative
+n	an	no	mannæta	inclusive
+n	an	no	macrofauna	inclusive
+n	cds	no	skreytni	conservative
+n	cds	no	asni	inclusive
+v	asm	no	hafa kynmök	conservative
+a	is	yes	efnalítill	inclusive
+n	asf	no	fífl	conservative
+n	cds	no	lýðurinn	inclusive
+n	cds	no	cacography	inclusive
+n	dmc	yes	mobster	inclusive
+n	ps	yes	lout	conservative
+n	an	no	vipera	inclusive
+n	asm	no	trúgirni	conservative
+n	or	no	bonehead	conservative
+n	cds	no	ranimosk	conservative
+n	ddf	yes	nanus	conservative
+n	qas	no	riffraff	conservative
+n	om	no	homoerotic	inclusive
+n	an	no	sjakalarnir	inclusive
+n	an	no	skepna	inclusive
+n	ps	yes	asíu	inclusive
+n	cds	no	glæpastarfsemi	inclusive
+n	an	no	weakling	conservative
+n	qas	no	bungle	inclusive
+n	asm	no	gráerta	inclusive
+n	ddp	yes	changelings	inclusive
+n	ps	yes	búlgari	inclusive
+n	ps	yes	oaf	conservative
+n	re	no	bágindi	inclusive
+n	cds	no	begínur	inclusive
+n	cds	no	fop	inclusive
+n	an	no	midge	inclusive
+n	re	no	kidnaps	inclusive
+n	cds	no	fasismi	conservative
+n	cds	no	manngrúi	inclusive
+n	cds	no	mob	conservative
+n	cds	no	groveller	conservative
+n	an	no	bedbug	inclusive
+n	an	no	baula	inclusive
+n	an	no	mosquitoe	inclusive
+n	cds	no	heilmikið	inclusive
+n	cds	no	veit-allt	conservative
+n	an	no	buffall	inclusive
+a	cds	no	á móti lögum	inclusive
+n	an	no	carcharodon	inclusive
+n	cds	no	drusla	inclusive
+n	pa	yes	fishwife	inclusive
+n	an	no	nytjahænsni	inclusive
+n	cds	no	zealotry	inclusive
+n	cds	no	penman	conservative
+n	qas	no	botch	inclusive
+n	re	no	raptio	inclusive
+n	cds	no	dastardliness	conservative
+n	dmc	yes	yokel	conservative
+n	svp	no	enginn reikningur	conservative
+n	an	no	hænsni	inclusive
+n	cds	no	slaður	inclusive
+n	pr	no	moll	inclusive
+n	or	no	homophile	conservative
+n	ps	yes	falla strákur	conservative
+n	dmc	yes	blunderer	conservative
+n	re	no	pyndingum	inclusive
+a	ddp	yes	asnalegur	conservative
+n	or	no	gays	conservative
+n	ddp	yes	muttonhead	conservative
+n	cds	no	peon	inclusive
+n	an	no	phthiraptera	inclusive
+n	re	no	dirty money	inclusive
+n	svp	no	lustfulness	inclusive
+n	ddp	yes	nonsensicality	conservative
+v	cds	no	hlera	inclusive
+n	qas	no	búandmaður	inclusive
+n	asf	no	leggöngum	conservative
+n	or	no	stupe	conservative
+a	cds	no	dreissugur	conservative
+n	cds	no	hortugheit	conservative
+n	cds	no	samsæri kenning	inclusive
+n	an	no	moth	inclusive
+n	an	no	uxa	inclusive
+n	cds	no	skíthæll burt	conservative
+n	asm	no	jerking burt	conservative
+a	svp	no	þykkjuþungur	inclusive
+n	an	no	tomfool	conservative
+a	qas	no	venjulegur	inclusive
+n	cds	no	gallimaufry	inclusive
+n	qas	no	baroque	inclusive
+n	dmc	yes	flakkari	inclusive
+n	cds	no	git	conservative
+n	an	no	crocodile	inclusive
+n	an	no	snoppa	inclusive
+n	ddp	yes	siðlausar	conservative
+n	cds	no	samsæriskenning	inclusive
+n	an	no	gæsagammur	inclusive
+n	qas	no	köfun vægi kerfi	inclusive
+n	ddp	yes	skepna	inclusive
+n	cds	no	óreiðu	conservative
+n	pr	no	hélt kona	conservative
+v	asm	no	hafa kynferðislegt samræði	conservative
+n	an	no	hóra	conservative
+n	re	no	þýfska	inclusive
+n	pr	no	slovenly kona	conservative
+n	re	no	stickup	inclusive
+n	pa	yes	bókari	inclusive
+n	qas	no	siðlausar	conservative
+n	is	yes	tatterdemalion	conservative
+n	re	no	vegandinn	inclusive
+n	re	no	hryðjuverkum	conservative
+n	cds	no	smámunasöm kona	conservative
+n	an	no	fuckhead	conservative
+n	ps	yes	blendingur	inclusive
+n	pr	no	nautin	inclusive
+n	an	no	sauðfé	inclusive
+n	cds	no	slews	inclusive
+n	ddf	yes	runt	conservative
+a	svp	no	byrstur	inclusive
+n	an	no	nanus	conservative
+n	asm	no	falla strákur	conservative
+n	an	no	epifauna	inclusive
+n	cds	no	intercessor	inclusive
+n	cds	no	samskiptaaðilar	inclusive
+n	an	no	illmenni	conservative
+n	svp	no	pridefulness	inclusive
+n	an	no	poulet	inclusive
+n	qas	no	blanda-mangle	inclusive
+n	ddp	yes	dumbass	conservative
+n	an	no	pillager	inclusive
+n	dmc	yes	chawbacon	conservative
+n	svp	no	gourmandizer	conservative
+n	cds	no	fjandi	conservative
+n	re	no	mobster	inclusive
+n	ps	yes	jerry	conservative
+n	ddp	yes	ignoramus	conservative
+n	an	no	pipistrelle	inclusive
+n	re	no	herfang	inclusive
+a	svp	no	heiftugur	inclusive
+n	cds	no	óhreinindi	inclusive
+n	svp	no	miser	inclusive
+n	cds	no	talebearer	conservative
+n	om	no	homoeroticism	inclusive
+n	cds	no	hoaxer	conservative
+n	ps	yes	skynskiptingur	conservative
+n	asm	no	wanker	conservative
+n	or	no	næpa	inclusive
+n	cds	no	omertà	inclusive
+n	qas	no	teste	inclusive
+n	qas	no	burgher fólk	inclusive
+n	cds	no	intermediator	inclusive
+n	cds	no	skyldulið	inclusive
+n	an	no	aries	inclusive
+a	ddf	yes	ófrýnilegur	conservative
+n	an	no	maggot	inclusive
+n	pa	yes	ráðherra-ráðgjafi	inclusive
+n	an	no	líkamanum snatching	inclusive
+n	ddp	yes	analphabet	inclusive
+a	svp	no	tilgerðarlegur	conservative
+n	cds	no	japönskum mælieiningar	inclusive
+n	an	no	mjúka	conservative
+a	dmc	yes	slækinn	conservative
+a	ddp	yes	álfslegur	conservative
+n	ddp	yes	fáviska	conservative
+n	dmc	yes	scum poka	inclusive
+n	qas	no	brotajárns	inclusive
+n	cds	no	patsy	conservative
+n	cds	no	rósn	conservative
+n	dmc	yes	sekur	inclusive
+n	cds	no	við-blása	inclusive
+n	an	no	margæs	inclusive
+n	cds	no	papparazzi	inclusive
+n	cds	no	hroki	conservative
+n	dmc	yes	gleðileg andrew	inclusive
+n	qas	no	businessperson	inclusive
+n	pr	no	nautgripum	inclusive
+n	cds	no	hroka	conservative
+n	ps	yes	jewish trúarbrögð	inclusive
+n	cds	no	skynskiptingur	inclusive
+a	is	yes	ófrjálslyndur	conservative
+n	dmc	yes	illmenni	conservative
+n	cds	no	brotajárns	conservative
+n	cds	no	boastfulness	conservative
+n	an	no	toads	inclusive
+a	svp	no	ónenninn	conservative
+n	cds	no	nymphomania	conservative
+n	cds	no	illvirki	conservative
+n	cds	no	venal	inclusive
+n	asm	no	kúla (used in plural	inclusive
+n	cds	no	þvo herbergi	inclusive
+n	cds	no	glingur	conservative
+a	svp	no	skussalegur	conservative
+n	re	no	kidnaper	inclusive
+n	pr	no	skækja	conservative
+n	pr	no	bos taurus	inclusive
+a	dmc	yes	viðsnúinn	conservative
+n	ddp	yes	afglapi	conservative
+n	is	yes	léleg	inclusive
+n	cds	no	telltale	conservative
+n	re	no	hatchet starf	inclusive
+n	cds	no	hoi polloi	inclusive
+n	cds	no	samkvæmi	inclusive
+n	qas	no	efnablanda	inclusive
+n	ps	yes	kross-rækt	inclusive
+n	an	no	agnskeri	inclusive
+a	re	no	gerræðisfullur	inclusive
+n	om	no	dame	inclusive
+n	cds	no	málsvörn	inclusive
+a	is	yes	armur	inclusive
+n	cds	no	ofsóknari	conservative
+n	qas	no	skaðvaldur	conservative
+n	svp	no	lakari	conservative
+n	svp	no	óþægilegt	inclusive
+n	cds	no	tál	inclusive
+n	dmc	yes	staðlausir stafir	inclusive
+n	cds	no	mafia	inclusive
+n	re	no	fengur	inclusive
+n	cds	no	stolt	inclusive
+n	cds	no	hrekkur	conservative
+n	re	no	backbiter	conservative
+n	cds	no	jailor	inclusive
+n	or	no	faggot	conservative
+a	qas	no	tíður	inclusive
+n	cds	no	blackball	inclusive
+n	cds	no	öngþveiti	inclusive
+n	an	no	gretta	inclusive
+n	re	no	ránum	inclusive
+n	om	no	peeress	inclusive
+n	om	no	posteriorly	inclusive
+n	svp	no	slæpingi	conservative
+n	asf	no	hálfviti	conservative
+n	cds	no	óviti	inclusive
+n	pa	yes	jesuit	inclusive
+n	qas	no	fánýti	inclusive
+n	cds	no	nýliði	conservative
+n	ddp	yes	twerp	conservative
+n	cds	no	helgur dómur	inclusive
+n	svp	no	acquisitiveness	inclusive
+v	asm	no	hafa samfarir	conservative
+n	pa	yes	fræðimenn	inclusive
+n	cds	no	bókstafstrúarríki	inclusive
+n	cds	no	dandies	inclusive
+n	an	no	kanína	inclusive
+n	re	no	útlaga	inclusive
+n	cds	no	camarilla	inclusive
+n	cds	no	lazybones	conservative
+n	an	no	froskur	inclusive
+n	pa	yes	controller	inclusive
+n	cds	no	vandi	conservative
+n	cds	no	kynlífsfíkn	conservative
+n	re	no	hryðjuverkum	inclusive
+n	cds	no	ættlegg	inclusive
+n	asm	no	appendage	inclusive
+n	cds	no	satyriasis	conservative
+n	is	yes	hafa-ekki	inclusive
+n	re	no	racketeer	inclusive
+a	ddf	yes	eineygður	inclusive
+n	an	no	simpleton	conservative
+n	asf	no	betise	conservative
+n	qas	no	skrökvísi	conservative
+n	or	no	punctiliousness	inclusive
+n	cds	no	lav	inclusive
+n	asm	no	glópur	conservative
+n	cds	no	bókstafstrúarmanna	inclusive
+n	asm	no	auli	conservative
+n	an	no	hvolpur	inclusive
+a	ddp	yes	fávís	conservative
+n	dmc	yes	profligate	inclusive
+a	svp	no	deilugjarn	conservative
+n	cds	no	idolatrous	inclusive
+n	re	no	morð	inclusive
+n	re	no	slanderer	conservative
+n	an	no	dunderhead	conservative
+n	pr	no	frilla	inclusive
+n	ddp	yes	glópur	conservative
+n	cds	no	pimps	conservative
+n	svp	no	fýsn	inclusive
+n	an	no	siphonaptera	inclusive
+n	ddf	yes	hálf-lítri	conservative
+n	an	no	caimans	inclusive
+n	cds	no	frjáls mason	inclusive
+n	cds	no	chiseler	conservative
+n	cds	no	egghead	inclusive
+n	svp	no	disgust	inclusive
+n	cds	no	tribesman	inclusive
+a	qas	no	almennur	inclusive
+v	asm	no	hafa mök við	conservative
+n	pa	yes	barbari	conservative
+n	ps	yes	fávita	conservative
+n	an	no	physiognomy	inclusive
+n	an	no	lifandi vera	inclusive
+n	cds	no	afglapi	conservative
+n	cds	no	hellion	conservative
+n	svp	no	leiðindum	inclusive
+n	pr	no	kynferðislega þjónustu	inclusive
+n	cds	no	hirðmaður	conservative
+n	qas	no	heimilisstörf	inclusive
+n	om	no	caudally	inclusive
+n	cds	no	götu gangs	inclusive
+a	is	yes	óheppileg	inclusive
+n	svp	no	ofsareiði	conservative
+n	cds	no	nouveau riche	inclusive
+n	an	no	óhæfur	conservative
+n	pa	yes	jesúíti	inclusive
+n	dmc	yes	svín	conservative
+n	cds	no	amateurishness	conservative
+n	dmc	yes	malodor	conservative
+n	cds	no	swindler	inclusive
+n	or	no	púff	conservative
+n	re	no	sársauki	inclusive
+n	asm	no	hönd starf	conservative
+n	qas	no	söluaðili	inclusive
+n	an	no	hvíthákarl	inclusive
+n	ps	yes	latino	inclusive
+n	ps	yes	planta líftækni	inclusive
+n	an	no	gríslingur	inclusive
+n	an	no	anuran	inclusive
+n	an	no	múlasni	inclusive
+n	dmc	yes	untruth	inclusive
+n	dmc	yes	slackers	conservative
+n	cds	no	epli polisher	conservative
+n	an	no	crocodylian	inclusive
+n	an	no	igla	inclusive
+n	dmc	yes	lygimál	inclusive
+n	om	no	transvestites	inclusive
+n	qas	no	málsnilld	inclusive
+a	svp	no	pempíulegur	conservative
+n	an	no	rauður tromma	inclusive
+n	ddp	yes	heimskur	conservative
+n	an	no	padda	inclusive
+n	svp	no	eyri-klípa	inclusive
+n	qas	no	gallimaufry	inclusive
+a	dmc	yes	þröngur	conservative
+n	cds	no	churl	conservative
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	re	no	felonies	inclusive
+n	asm	no	göndull	conservative
+n	dmc	yes	yfirdrepsskapur	conservative
+n	asf	no	tomfool	conservative
+n	asm	no	tomfool	conservative
+n	ps	yes	svertingja	inclusive
+n	ddp	yes	retard	conservative
+n	cds	no	planta líftækni	inclusive
+n	cds	no	kross-rækt	inclusive
+n	dmc	yes	gott-fyrir-ekkert	conservative
+a	svp	no	drambsfullur	conservative
+n	asm	no	fífl	conservative
+n	dmc	yes	treasonist	conservative
+n	ps	yes	white	inclusive
+n	ps	yes	flakkari	inclusive
+n	ddp	yes	barbarian	conservative
+n	ddp	yes	pudden-höfuð	conservative
+n	an	no	mölflugum	inclusive
+n	an	no	geithafur	inclusive
+n	cds	no	wiliness	conservative
+n	svp	no	öfund	inclusive
+n	re	no	rupl	inclusive
+n	pa	yes	dyr vörður	inclusive
+n	cds	no	changeling	inclusive
+n	ddp	yes	vankunnátta	conservative
+n	ddp	yes	dýr	inclusive
+n	ps	yes	judeo	inclusive
+n	ddp	yes	einfeldningur	conservative
+n	cds	no	arriviste	inclusive
+n	qas	no	blóðhundur	inclusive
+a	qas	no	hversdagslegur	inclusive
+n	qas	no	divulgence	inclusive
+n	ps	yes	romani	inclusive
+n	ddf	yes	midget	conservative
+n	an	no	slovenly manneskja	conservative
+n	cds	no	tricker	conservative
+n	cds	no	þáttur	inclusive
+a	svp	no	bálreiður	inclusive
+n	re	no	afbrotamaður	inclusive
+n	ddp	yes	skottulæknir	conservative
+n	ddp	yes	betise	conservative
+n	cds	no	huglaus	conservative
+n	dmc	yes	dallier	conservative
+n	cds	no	ósannindi	conservative
+n	qas	no	bourgeoise	inclusive
+n	cds	no	ungbarn	inclusive
+n	cds	no	relic	inclusive
+n	cds	no	veisla	inclusive
+n	dmc	yes	glæpamaður	inclusive
+n	cds	no	gólfsóp	inclusive
+n	cds	no	timeserver	conservative
+n	cds	no	matchmaker	inclusive
+n	ps	yes	pikey	conservative
+n	ddp	yes	botcher	conservative
+n	cds	no	planta ræktanda	inclusive
+n	svp	no	angriness	inclusive
+a	svp	no	heitur	inclusive
+n	re	no	pyntaður	inclusive
+n	pa	yes	villimenn	conservative
+n	dmc	yes	siðlausar	conservative
+n	cds	no	klíku	inclusive
+n	cds	no	coterie	inclusive
+n	re	no	plagiarise	inclusive
+n	om	no	midclavicular línu	inclusive
+n	re	no	hryðjuverkamaður	inclusive
+n	asm	no	fáviti	conservative
+n	re	no	ofbeldi	inclusive
+n	cds	no	defrauder	conservative
+n	an	no	karfi	inclusive
+n	an	no	inexorability	conservative
+n	an	no	rolla	inclusive
+n	dmc	yes	drifter	inclusive
+n	ps	yes	nigger	conservative
+n	pa	yes	innanbúðarmaður	inclusive
+n	cds	no	ættar-fólk	inclusive
+n	cds	no	pedantry	inclusive
+n	cds	no	hypersexual	conservative
+n	cds	no	refsing	inclusive
+n	qas	no	hús málverk	inclusive
+n	ddp	yes	amentia	inclusive
+n	ps	yes	inkiness	inclusive
+n	ddp	yes	analphabetic	inclusive
+n	an	no	vamp	conservative
+n	an	no	veit ekkert	conservative
+n	dmc	yes	uppspuni	inclusive
+n	asm	no	dökk brúnt	inclusive
+n	asm	no	fava	inclusive
+n	cds	no	oddments	inclusive
+n	cds	no	kinfolk	inclusive
+n	an	no	bonehead	conservative
+n	an	no	múldýr	inclusive
+a	ddp	yes	einfeldningslegur	conservative
+n	cds	no	útlaga	conservative
+n	cds	no	jalopy	inclusive
+n	ps	yes	hálf-kyn	conservative
+n	cds	no	fara-milli	inclusive
+n	re	no	afl	inclusive
+n	qas	no	ábúandi	inclusive
+n	dmc	yes	gadabout	inclusive
+n	cds	no	glæpamaður	inclusive
+n	an	no	doodly-digur	conservative
+n	cds	no	dolt	conservative
+n	cds	no	milliliður	inclusive
+n	svp	no	deyfðinni	inclusive
+n	asm	no	european baun	inclusive
+n	cds	no	uppfull af lærdómshroka	conservative
+n	an	no	rauðkeyri	inclusive
+v	an	no	gelta	inclusive
+n	dmc	yes	vagrancy	inclusive
+n	om	no	lesbía	inclusive
+n	svp	no	cupidity	inclusive
+n	dmc	yes	botcher	conservative
+n	an	no	ragtag	conservative
+n	qas	no	barón	inclusive
+n	om	no	gayness	inclusive
+n	qas	no	stuðlar og endar	inclusive
+n	re	no	camorra	inclusive
+a	is	yes	leiður	inclusive
+n	ddp	yes	tattletale	conservative
+n	cds	no	lögregluþjónn	inclusive
+n	cds	no	mjúka	conservative
+n	cds	no	syndarinn	conservative
+n	cds	no	topsy-turvyness	inclusive
+n	or	no	finocchio	inclusive
+n	pr	no	vændiskona	conservative
+a	ddp	yes	óvita	conservative
+n	ddp	yes	fanga	inclusive
+n	re	no	morðingjar	inclusive
+n	cds	no	skipta upp	inclusive
+n	re	no	ofríki	inclusive
+n	dmc	yes	trickster	conservative
+n	qas	no	sviði hönd	inclusive
+n	cds	no	lögbrjótur	conservative
+n	qas	no	kaupmaður	inclusive
+n	cds	no	crooner	inclusive
+n	cds	no	prelate	inclusive
+n	re	no	plagiarisation	inclusive
+n	cds	no	complainer	conservative
+n	om	no	keister	inclusive
+n	or	no	tater	inclusive
+n	cds	no	busybody	conservative
+a	svp	no	afbrýðisamur	conservative
+n	an	no	pískur	inclusive
+n	ps	yes	patsy	conservative
+n	rci	yes	smábóndi	inclusive
+n	pr	no	kona á götunni	conservative
+n	an	no	vanþóknunarsvipur	inclusive
+n	ddp	yes	blaður	conservative
+n	cds	no	götu gang	conservative
+n	an	no	skynleysingi	inclusive
+n	qas	no	omnium-gatherum	inclusive
+n	cds	no	opinber salerni	inclusive
+n	an	no	bitmý	inclusive
+n	qas	no	mannskapur	inclusive
+n	cds	no	nursling	inclusive
+n	cds	no	kaós	inclusive
+n	cds	no	ættum	inclusive
+n	cds	no	intriguer	inclusive
+n	an	no	kvikindi	inclusive
+n	cds	no	sass	inclusive
+a	cds	no	rétlaus	inclusive
+n	qas	no	boo-boo	inclusive
+n	cds	no	rósn	inclusive
+n	qas	no	skrap	inclusive
+n	cds	no	schoolmistress	conservative
+n	asm	no	limur	inclusive
+n	pr	no	doxy	inclusive
+n	re	no	thieving	inclusive
+n	or	no	poove	conservative
+n	cds	no	smámunasamur	conservative
+n	cds	no	prakkarastrik	inclusive
+n	an	no	ættkvíslinni capra	inclusive
+n	qas	no	pakk	conservative
+n	an	no	kýr	inclusive
+n	qas	no	conformist	conservative
+n	qas	no	viðskipti maður	inclusive
+n	cds	no	grifter	inclusive
+a	dmc	yes	óhreinum	inclusive
+n	an	no	grágot	inclusive
+n	an	no	rauðgot	inclusive
+a	cds	no	merkilegur með sig	conservative
+a	qas	no	vanabundinn	inclusive
+n	ddp	yes	þvaður	conservative
+a	om	no	samkynhneigður	conservative
+n	cds	no	effrontery	conservative
+n	qas	no	búandi	inclusive
+n	an	no	nautunum	inclusive
+n	ddp	yes	dolt	conservative
+n	qas	no	búi	inclusive
+n	svp	no	reiði	inclusive
+n	cds	no	demagogue	conservative
+n	dmc	yes	layabout	conservative
+n	qas	no	parasitize	inclusive
+n	cds	no	skrökvísi	conservative
+n	asf	no	auli	conservative
+n	cds	no	malefactor	inclusive
+n	re	no	calunnia	inclusive
+n	cds	no	desperado	inclusive
+n	ps	yes	kraut	conservative
+n	dmc	yes	git	inclusive
+n	cds	no	málningu fráveitu	inclusive
+n	ddp	yes	haftamaður	inclusive
+n	an	no	diddley	conservative
+n	asm	no	muggins	conservative
+n	re	no	larceny	inclusive
+n	cds	no	melludólgur	conservative
+n	cds	no	conventicles	inclusive
+n	pr	no	rotta	inclusive
+a	ps	yes	gyðinga	inclusive
+n	pr	no	nautgripur	inclusive
+n	or	no	lunkhead	conservative
+v	cds	no	háma í sig	inclusive
+n	or	no	muttonhead	conservative
+n	om	no	pederasty	inclusive
+n	dmc	yes	bigot	conservative
+a	pa	yes	pólitískur	inclusive
+n	ddf	yes	cripple	inclusive
+a	ddp	yes	fáráðlingslegur	conservative
+n	qas	no	skrifborðið starf	inclusive
+n	cds	no	rumourmonger	conservative
+n	ddf	yes	bæklun	inclusive
+n	cds	no	amour propre	conservative
+n	dmc	yes	rotter	conservative
+n	pa	yes	clerk	inclusive
+n	cds	no	mor	conservative
+a	cds	no	leyfislaus	inclusive
+n	cds	no	stertabenda	inclusive
+n	ps	yes	júði	inclusive
+n	an	no	veggjalús	inclusive
+n	ddp	yes	dupe	conservative
+n	cds	no	falla strákur	conservative
+n	cds	no	wisenheimer	conservative
+n	cds	no	blunderer	conservative
+n	an	no	salientian	inclusive
+n	asm	no	fugl	inclusive
+n	pr	no	rottum	inclusive
+n	ddp	yes	bra	conservative
+n	is	yes	tightwad	conservative
+n	ddp	yes	móðir helvíti	conservative
+a	dmc	yes	ósannur	conservative
+n	cds	no	pomposity	inclusive
+n	ps	yes	black	inclusive
+n	is	yes	impoverished	inclusive
+n	ps	yes	grasasni	conservative
+n	ddp	yes	ragtag	conservative
+n	om	no	ventral	inclusive
+n	an	no	ygglibrún	inclusive
+n	cds	no	ívafi	inclusive
+n	asf	no	afglapi	conservative
+n	ddp	yes	fjögramaður	inclusive
+a	ps	yes	kínverskur	inclusive
+n	dmc	yes	bungler	conservative
+n	or	no	samkynhneigðra	conservative
+n	cds	no	sjálf-kæruleysi	inclusive
+n	an	no	ticks	inclusive
+n	ps	yes	gyðingdómur	inclusive
+n	cds	no	truckler	conservative
+n	an	no	seppi	inclusive
+n	ddp	yes	hálviti	inclusive
+n	qas	no	bóndi	inclusive
+n	pa	yes	undertaker	inclusive
+a	dmc	yes	grimmur	conservative
+n	cds	no	sassing	inclusive
+n	cds	no	villimenn	conservative
+n	cds	no	dót	inclusive
+a	svp	no	dreissugur	conservative
+v	asm	no	elskast	conservative
+a	an	no	þrálátur	inclusive
+a	dmc	yes	slyttinn	conservative
+n	ddp	yes	curmudgeon	conservative
+n	cds	no	klósett	inclusive
+n	an	no	codswallop	conservative
+n	ps	yes	romanis	inclusive
+n	cds	no	fargan	inclusive
+n	re	no	stórþjófnaður	inclusive
+n	asm	no	dumbrauður	inclusive
+n	pr	no	hofgleðikona	inclusive
+n	qas	no	acolytes	inclusive
+n	re	no	ódæði	inclusive
+n	an	no	dýr	inclusive
+n	or	no	gúrkur	inclusive
+n	an	no	hvutti	inclusive
+n	ddp	yes	blabbermouth	conservative
+n	asf	no	nitwit	conservative
+n	an	no	ugla	inclusive
+n	cds	no	frímúrarareglan	inclusive
+n	cds	no	complacence	inclusive
+n	pr	no	gjall	conservative
+n	qas	no	endoparasites	inclusive
+n	an	no	cockroaches	inclusive
+n	cds	no	lán sharking	inclusive
+n	pa	yes	lektor	inclusive
+n	asf	no	wench	conservative
+n	cds	no	dickhead	conservative
+n	an	no	bræði	inclusive
+n	re	no	pyntingar	inclusive
+n	pr	no	john	conservative
+a	dmc	yes	staðlaus	conservative
+a	cds	no	þóttalegur	conservative
+n	or	no	rauðaldin	inclusive
+n	qas	no	dauber	conservative
+n	qas	no	eggfruma	inclusive
+n	cds	no	usurer	inclusive
+n	cds	no	refsiverð	inclusive
+a	ddp	yes	geðveikur	inclusive
+n	is	yes	cheapskate	conservative
+n	cds	no	verkfallsbrjótur	inclusive
+n	ddp	yes	blunderer	conservative
+n	cds	no	hierarch	inclusive
+n	dmc	yes	hálf-lítri	conservative
+n	an	no	leech	inclusive
+a	ddp	yes	fáfróður	conservative
+n	cds	no	áhugamaður	inclusive
+n	qas	no	bændur	inclusive
+n	cds	no	fávita	inclusive
+n	dmc	yes	þröngsýni	conservative
+n	cds	no	musl	inclusive
+n	pa	yes	prófessorar	inclusive
+n	om	no	púff	conservative
+n	an	no	iglur	inclusive
+a	dmc	yes	nenningarlaus	conservative
+n	cds	no	blaður	inclusive
+n	cds	no	moneylending	conservative
+n	dmc	yes	hirðfífl	inclusive
+n	cds	no	hustling	conservative
+n	om	no	homma	inclusive
+n	cds	no	óhroði	conservative
+a	cds	no	dramblátur	conservative
+n	om	no	rass	inclusive
+n	cds	no	puzzler	conservative
+a	qas	no	miðaldar-	inclusive
+n	an	no	blackguard	conservative
+n	pr	no	socialites	inclusive
+n	re	no	grifter	inclusive
+n	re	no	gangsters	inclusive
+n	cds	no	bragger	conservative
+n	dmc	yes	forgeries	inclusive
+a	ps	yes	þeldökkur	inclusive
+n	cds	no	omerta	inclusive
+n	cds	no	úrkast	inclusive
+n	an	no	inexorableness	conservative
+n	an	no	mölur	inclusive
+n	re	no	hermdarverkamaður	inclusive
+n	cds	no	verkfall-brot	inclusive
+n	cds	no	þægindi stöð	inclusive
+n	qas	no	fieldhand	inclusive
+n	ddp	yes	heimska	inclusive
+n	cds	no	parvenu	inclusive
+n	cds	no	nýburum	inclusive
+a	svp	no	illur	inclusive
+n	qas	no	skrök	conservative
+n	om	no	líffærafræðileg skilmála stað	inclusive
+n	cds	no	hugleysingi	conservative
+n	an	no	strigiformes	inclusive
+a	svp	no	reiður	inclusive
+n	an	no	limacidae	inclusive
+n	an	no	hýena	inclusive
+n	re	no	traducement	inclusive
+n	cds	no	bandit	inclusive
+n	ddp	yes	bull	conservative
+n	dmc	yes	siðlaust	inclusive
+n	ps	yes	vagabond	inclusive
+n	an	no	víkingsefni	inclusive
+n	re	no	kvöl	inclusive
+n	qas	no	culling	conservative
+a	qas	no	óbreyttur	inclusive
+n	ddp	yes	hooey	inclusive
+n	an	no	scowl	inclusive
+n	or	no	cunt	conservative
+n	dmc	yes	tramps	conservative
+n	ddp	yes	simpleton	conservative
+n	cds	no	swindler	conservative
+a	ddp	yes	bjánalegur	conservative
+n	ddp	yes	prattler	inclusive
+n	dmc	yes	fumbler	conservative
+n	pa	yes	fishmongers	inclusive
+n	om	no	prat	inclusive
+n	om	no	tooshie	inclusive
+n	cds	no	changelings	inclusive
+n	qas	no	miðstétt	inclusive
+n	cds	no	vitur strákur	conservative
+n	cds	no	larceny	inclusive
+a	dmc	yes	iðjulítill	conservative
+n	an	no	brettingur	inclusive
+v	asm	no	rekkja með	conservative
+n	an	no	escargot	inclusive
+n	ps	yes	metics	inclusive
+n	cds	no	smart aleck	conservative
+a	dmc	yes	jarðvegur	inclusive
+n	an	no	fána	inclusive
+a	ddf	yes	sjónlaus	inclusive
+n	ddp	yes	churl	conservative
+n	qas	no	sakka	inclusive
+n	an	no	leiður	inclusive
+n	om	no	pederastic	inclusive
+n	cds	no	wrongdoer	inclusive
+n	or	no	tómatur	inclusive
+n	cds	no	lygimál	conservative
+n	ddp	yes	þvættingur	conservative
+n	pa	yes	forsvarsmaður	inclusive
+n	cds	no	scamp	inclusive
+n	cds	no	bumbler	conservative
+n	qas	no	sökkunnar	inclusive
+n	an	no	sauður	inclusive
+n	cds	no	fánýti	conservative
+n	an	no	merkið	inclusive
+n	ps	yes	jewry	inclusive
+n	cds	no	backtalk	inclusive
+n	dmc	yes	bumbler	conservative
+n	re	no	þjófur	inclusive
+n	an	no	eels	inclusive
+n	ps	yes	changelings	conservative
+a	svp	no	dáðlaus	conservative
+n	om	no	posterior	inclusive
+n	dmc	yes	villainous	conservative
+n	an	no	rotter	conservative
+n	qas	no	ideologist	inclusive
+a	cds	no	hrokamikill	conservative
+n	cds	no	swaggerer	conservative
+n	cds	no	blackballed	inclusive
+a	ddp	yes	grunnfærnislegur	conservative
+n	cds	no	leiðbeinandi	inclusive
+n	an	no	asna	inclusive
+n	cds	no	fölsku idol	inclusive
+n	or	no	grasker	inclusive
+n	cds	no	ofdramb	inclusive
+n	asf	no	retard	conservative
+n	pr	no	síðhala	inclusive
+n	om	no	ma'am	inclusive
+n	an	no	yrmlingur	inclusive
+n	an	no	relentlessness	conservative
+n	an	no	afskerapískur	inclusive
+n	cds	no	auli	conservative
+n	cds	no	almenn þægindi	inclusive
+n	cds	no	botcher	conservative
+n	ddp	yes	epifaunal	inclusive
+n	ps	yes	júðar	inclusive
+n	asm	no	slá	inclusive
+n	an	no	kindur	inclusive
+n	an	no	blöðru swallower	inclusive
+n	cds	no	snoop	conservative
+n	dmc	yes	scum poka	conservative
+n	is	yes	villainous	conservative
+n	cds	no	sekir	conservative
+n	qas	no	kofi	inclusive
+n	ddp	yes	arsehole	conservative
+n	ddp	yes	heimsku	conservative
+n	an	no	bloodsucker	inclusive
+n	dmc	yes	álygar	inclusive
+a	dmc	yes	sóðalegur	inclusive
+n	svp	no	invidia	inclusive
+n	qas	no	ívafi	inclusive
+n	an	no	froski	inclusive
+n	cds	no	þvarg	inclusive
+n	re	no	calumniation	inclusive
+n	pr	no	harlotry	conservative
+n	pa	yes	shepherdess	inclusive
+n	qas	no	sciolist	conservative
+n	asm	no	ríða	conservative
+n	asm	no	twirp	conservative
+n	cds	no	defrauder	inclusive
+a	svp	no	sérhlífinn	conservative
+n	cds	no	boor	conservative
+n	cds	no	erfiðleikar	conservative
+n	svp	no	taṇhā	inclusive
+n	cds	no	blunder	inclusive
+n	om	no	plantar	inclusive
+a	svp	no	framkvæmdalaus	conservative
+a	dmc	yes	ónenninn	conservative
+n	pa	yes	lögfræðingur	inclusive
+n	dmc	yes	chiseler	conservative
+n	om	no	sama kyni	inclusive
+n	re	no	fantur	conservative
+n	svp	no	ravenousness	conservative
+n	is	yes	illmenni	conservative
+a	is	yes	allslaus	inclusive
+n	dmc	yes	prevaricator	inclusive
+n	cds	no	lögguna	inclusive
+n	dmc	yes	ósannindi	inclusive
+n	asf	no	fuckhead	conservative
+n	an	no	háskerðingur	inclusive
+a	is	yes	vanefna	inclusive
+n	cds	no	opinberum salerni	inclusive
+a	is	yes	vesall	inclusive
+n	an	no	skauli	inclusive
+n	cds	no	conspiracism	inclusive
+n	pr	no	courtiers	inclusive
+n	cds	no	narcissism	inclusive
+n	ddp	yes	hálfviti	inclusive
+n	qas	no	úrgangur	inclusive
+n	qas	no	sníkill	inclusive
+n	svp	no	bigoted	conservative
+n	re	no	róg	inclusive
+n	pr	no	fornicatress	conservative
+n	cds	no	tros	conservative
+n	re	no	rustler	inclusive
+n	an	no	athene noctua	inclusive
+n	dmc	yes	evilness	inclusive
+n	an	no	bauni	inclusive
+n	re	no	nauðga	conservative
+n	om	no	gays	inclusive
+n	cds	no	lygimál	inclusive
+n	ddp	yes	pakk	conservative
+n	dmc	yes	flækingar	inclusive
+n	qas	no	troublemaker	conservative
+n	cds	no	pander	conservative
+n	cds	no	bókmennta hakk	conservative
+n	dmc	yes	fetor	conservative
+n	asm	no	phallic	inclusive
+n	an	no	shote	inclusive
+a	ddp	yes	fákalegur	conservative
+n	asm	no	heimsku	conservative
+n	dmc	yes	bumpkin	conservative
+n	cds	no	uppspuni	inclusive
+n	ddp	yes	firra	conservative
+n	dmc	yes	roue	conservative
+a	dmc	yes	óhreinn	inclusive
+n	om	no	twink	conservative
+n	asm	no	bjáni	conservative
+n	ddp	yes	vitsmunalega fatlaður	inclusive
+n	cds	no	ndrangheta	inclusive
+n	an	no	krókódíla	inclusive
+n	om	no	hommi	conservative
+n	dmc	yes	útlaga	inclusive
+n	qas	no	baroqueness	inclusive
+n	cds	no	buffoonery	inclusive
+n	cds	no	skran	conservative
+n	an	no	krókódíll	inclusive
+n	cds	no	pappír-pusher	inclusive
+n	dmc	yes	eyða-allt	inclusive
+n	re	no	kynferðisbroti	inclusive
+v	dmc	yes	tæla	conservative
+n	om	no	gluteal svæðinu	inclusive
+n	cds	no	namby-pamby	conservative
+a	cds	no	óréttmætur	inclusive
+n	an	no	nanny-geit	inclusive
+n	re	no	neyð	inclusive
+n	qas	no	hryssa er hreiður	inclusive
+n	cds	no	sakamaður	inclusive
+n	cds	no	ranimosk	inclusive
+n	re	no	refsiverð	inclusive
+n	qas	no	áhöfn	inclusive
+a	qas	no	eðlislegur	inclusive
+n	qas	no	barbaric	conservative
+n	re	no	defamer	conservative
+n	asf	no	dumbass	conservative
+n	cds	no	skólp	inclusive
+n	svp	no	lazybones	conservative
+n	cds	no	salli	conservative
+n	svp	no	nirfill	inclusive
+n	cds	no	hybris	inclusive
+n	cds	no	villainess	conservative
+n	ps	yes	darkie	conservative
+a	dmc	yes	ranglegur	conservative
+n	cds	no	moneylender	inclusive
+n	om	no	paederasty	inclusive
+n	cds	no	untruth	inclusive
+n	cds	no	chiseler	inclusive
+n	an	no	namby-pamby	conservative
+n	re	no	valdníðsla	inclusive
+n	ps	yes	mongoloids	conservative
+n	an	no	hundur	inclusive
+n	an	no	froskar	inclusive
+n	an	no	ær	inclusive
+n	ddp	yes	folderol	conservative
+n	dmc	yes	malodour	conservative
+n	ddp	yes	fjarstæða	conservative
+n	om	no	skilmálar fyrir yngra staðsetningu	inclusive
+n	asm	no	stykki af hala	conservative
+a	dmc	yes	vondur	conservative
+a	an	no	þrár	inclusive
+n	an	no	rógberi	conservative
+n	qas	no	granger	inclusive
+n	pa	yes	wagoner	inclusive
+n	an	no	svín	inclusive
+n	re	no	kidnapper	inclusive
+n	ddf	yes	líkamlega fatlaður	inclusive
+n	cds	no	pudden-höfuð	conservative
+n	cds	no	(lögga hér hefur þetta vísast átt að vera þýðing á 'pig' en eitthvað hefur klikkað í uppsetningu.)	conservative
+n	ps	yes	churl	conservative
+n	cds	no	conformist	conservative
+n	cds	no	rafts	inclusive
+n	cds	no	íþrótta hús	inclusive
+n	qas	no	parishioner	inclusive
+n	ps	yes	changeling	conservative
+n	cds	no	muggins	conservative
+a	svp	no	merkilegur með sig	conservative
+n	cds	no	slóttugur	conservative
+n	pr	no	comare	conservative
+n	qas	no	tycoon	inclusive
+a	dmc	yes	vitlaus	conservative
+n	om	no	bugger	inclusive
+n	cds	no	grunge	inclusive
+n	cds	no	flokkur	inclusive
+n	cds	no	kjaftháttur	inclusive
+n	qas	no	hafna	conservative
+n	cds	no	erindi drengur	inclusive
+n	dmc	yes	outcast	inclusive
+n	an	no	diddlysquat	conservative
+a	an	no	þver	inclusive
+n	qas	no	businesswoman	inclusive
+n	qas	no	barons	inclusive
+n	an	no	betise	conservative
+a	re	no	ofbeldisfullur	inclusive
+n	ddp	yes	árásargirni	conservative
+n	asm	no	rauðbrúnn	inclusive
+n	svp	no	tilgangsleysi	conservative
+n	asm	no	villa	inclusive
+n	dmc	yes	ræningi	conservative
+n	cds	no	sloven	conservative
+n	an	no	ódráttur	conservative
+n	cds	no	rusl	inclusive
+n	an	no	fé	inclusive
+n	pa	yes	wooer	inclusive
+n	an	no	tylla	inclusive
+n	pa	yes	lögmanna	inclusive
+n	cds	no	skora	inclusive
+n	qas	no	musl	inclusive
+n	asf	no	twat	conservative
+n	re	no	vilifier	conservative
+n	ddp	yes	microcephalic	inclusive
+n	svp	no	tanha	inclusive
+n	svp	no	gera-ekkert	conservative
+n	cds	no	stéttskiptingur	inclusive
+n	dmc	yes	wastrel	conservative
+a	cds	no	ofstopafullur	conservative
+n	an	no	fífl	conservative
+n	pa	yes	kennara	inclusive
+n	or	no	cucurbita maxima	inclusive
+n	re	no	brottnám	inclusive
+n	qas	no	gólfsóp	inclusive
+n	an	no	chump	conservative
+n	an	no	old world buffalo	inclusive
+n	cds	no	vaunter	conservative
+n	cds	no	villainous	conservative
+n	qas	no	álygar	conservative
+n	cds	no	latrine	inclusive
+n	cds	no	eigingirni	conservative
+n	ddp	yes	microcephaly	inclusive
+n	cds	no	shrewdness	inclusive
+n	cds	no	gólfsóp	conservative
+n	ps	yes	rautt spjald	inclusive
+a	dmc	yes	hermi-	conservative
+n	ddp	yes	dickhead	conservative
+n	cds	no	gobs	inclusive
+n	ps	yes	bedouins	inclusive
+n	or	no	murphy	inclusive
+n	cds	no	lögreglukona	conservative
+n	svp	no	trencher	inclusive
+a	is	yes	illa stæður	inclusive
+n	cds	no	reactionary	conservative
+n	asm	no	saphead	conservative
+n	an	no	árásargirni	conservative
+n	ddf	yes	handicapped manneskja	inclusive
+n	om	no	kross klæða	inclusive
+n	or	no	píka	conservative
+n	asf	no	grasasni	conservative
+n	cds	no	matcher	inclusive
+n	ps	yes	bedouin	inclusive
+n	svp	no	boastfulness	conservative
+n	re	no	banditti	inclusive
+n	ps	yes	lummox	conservative
+n	an	no	slowcoach	conservative
+n	cds	no	moneylender	conservative
+n	ps	yes	vandalar	inclusive
+n	cds	no	pander	inclusive
+n	an	no	grossness	conservative
+n	cds	no	gunguskapur	conservative
+n	cds	no	skera upp	conservative
+n	cds	no	narcism	inclusive
+n	an	no	noctiluca	inclusive
+n	cds	no	hroki	inclusive
+n	rci	yes	barbari	conservative
+n	cds	no	scientism	inclusive
+n	dmc	yes	barbari	conservative
+n	dmc	yes	moralistic	inclusive
+n	dmc	yes	scamp	inclusive
+n	qas	no	snoop	inclusive
+n	re	no	ræningi	conservative
+n	re	no	outlaw	inclusive
+n	ps	yes	refsingu kort	inclusive
+n	cds	no	útlaga	inclusive
+n	dmc	yes	runt	conservative
+n	cds	no	sjálf-dýrkun	inclusive
+n	svp	no	þykkja	inclusive
+n	an	no	mýfluga	inclusive
+n	cds	no	propagandist	inclusive
+n	asf	no	codswallop	conservative
+n	pa	yes	afgreiðslumaður	inclusive
+n	re	no	misnotkun	inclusive
+n	qas	no	spellvirki-framleiðandi	conservative
+n	cds	no	lög-brot	inclusive
+n	ddp	yes	kvikindi	inclusive
+n	is	yes	pariah	inclusive
+n	qas	no	viðskipti leiðtogi	inclusive
+n	ps	yes	nitwit	conservative
+n	dmc	yes	siðferðisvitund	inclusive
+n	cds	no	blanda-mangle	inclusive
+n	ddp	yes	heimska	conservative
+n	cds	no	mikill unwashed	conservative
+n	re	no	óþekktarangi	inclusive
+n	qas	no	hanger-á	conservative
+n	cds	no	hoi polloi	conservative
+n	re	no	hnupl	inclusive
+n	re	no	misnotuð	inclusive
+a	ddp	yes	fánalegur	conservative
+n	cds	no	hellingum	inclusive
+n	re	no	sjórán	inclusive
+n	asf	no	cunt	conservative
+n	or	no	pillock	conservative
+n	qas	no	toppur framkvæmdastjóri	inclusive
+n	qas	no	mor	inclusive
+n	ddp	yes	falla strákur	conservative
+n	an	no	bjáni	conservative
+n	ps	yes	öðrum kynþáttum	inclusive
+n	cds	no	sóp	inclusive
+a	ddp	yes	óviturlegur	conservative
+a	cds	no	tíðkanlegur	inclusive
+n	dmc	yes	homunculus	inclusive
+n	cds	no	jarðvegi	inclusive
+n	cds	no	hrekkur	inclusive
+n	cds	no	skratti	conservative
+n	an	no	hirudinean	inclusive
+n	dmc	yes	lingerer	conservative
+n	ps	yes	nigga	conservative
+a	ddp	yes	einfeldnislegur	conservative
+n	an	no	alisvín	inclusive
+n	svp	no	hégóma	conservative
+n	an	no	frogspawn	inclusive
+n	qas	no	rhetorician	inclusive
+n	ddp	yes	málleysingi	inclusive
+n	re	no	illa meðferð	inclusive
+n	ddp	yes	stupe	conservative
+n	cds	no	gangsters	inclusive
+n	pa	yes	málsvari	inclusive
+n	cds	no	paparazzi	inclusive
+n	an	no	git	conservative
+n	qas	no	oddments	inclusive
+n	ps	yes	planta ræktanda	inclusive
+n	cds	no	religiosity	inclusive
+n	cds	no	okur	conservative
+n	svp	no	cheapskate	conservative
+n	om	no	hlið	inclusive
+n	ddp	yes	pillock	conservative
+v	asm	no	sofa saman	conservative
+n	cds	no	barn	inclusive
+n	or	no	agúrka	inclusive
+n	cds	no	bleyði	conservative
+n	or	no	kartafla	inclusive
+n	svp	no	acedia	inclusive
+n	an	no	brent	inclusive
+n	dmc	yes	grifter	conservative
+n	an	no	wuss	conservative
+n	an	no	kanínur	inclusive
+n	cds	no	newsmonger	conservative
+n	an	no	líkama sjaldgæfir	inclusive
+n	asm	no	drjóli	conservative
+a	qas	no	miðalda	inclusive
+n	re	no	písl	inclusive
+n	an	no	rás bassi	inclusive
+n	cds	no	bókstafstrú	inclusive
+n	cds	no	mafioso	conservative
+n	an	no	jilt	conservative
+a	ddf	yes	viðbjóðslegur	conservative
+n	re	no	kvalræði	inclusive
+n	re	no	vegandi	inclusive
+n	svp	no	stolt	conservative
+n	cds	no	idiolatry	inclusive
+n	svp	no	trencher	conservative
+n	om	no	hefðarkona	inclusive
+n	an	no	maður-eater	inclusive
+n	cds	no	dime skáldsögu	inclusive
+n	svp	no	stinginess	inclusive
+n	re	no	traducer	conservative
+n	an	no	vulture	inclusive
+n	an	no	muggins	conservative
+n	dmc	yes	barbaric	conservative
+n	cds	no	skreytni	inclusive
+n	ps	yes	barbarian	conservative
+n	pr	no	karlkyns fylgdar	conservative
+n	cds	no	fljótur einn	inclusive
+a	ddp	yes	einfaldur	conservative
+n	cds	no	hljómsveit	inclusive
+n	dmc	yes	swindler	conservative
+n	pa	yes	svínakjöt butcher	inclusive
+n	qas	no	untruth	conservative
+n	an	no	deli	inclusive
+n	om	no	fennikka	inclusive
+n	cds	no	banditti	inclusive
+n	asm	no	changelings	inclusive
+n	re	no	sekir	inclusive
+n	an	no	ernirnir	inclusive
+a	is	yes	rúinn að fjármunum	inclusive
+n	dmc	yes	lakari	conservative
+n	cds	no	gaoler	inclusive
+n	asf	no	knucklehead	conservative
+n	an	no	sjó sporðdreki	inclusive
+n	svp	no	níðingsverk	inclusive
+n	cds	no	bjáni	conservative
+n	cds	no	fífl	conservative
+n	an	no	pils veiðimaður	conservative
+n	ddp	yes	della	conservative
+a	ddf	yes	slæmur	inclusive
+n	om	no	paederast	conservative
+n	re	no	murderess	inclusive
+n	an	no	mollusks	inclusive
+n	dmc	yes	outlaw	inclusive
+a	ddp	yes	glópskulegur	conservative
+n	cds	no	glópur	conservative
+n	cds	no	illþýði	conservative
+n	cds	no	pimps	inclusive
+n	qas	no	parasitism	inclusive
+v	asm	no	stunda kynlíf	conservative
+n	ddp	yes	moronity	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	qas	no	ræðulist	inclusive
+n	dmc	yes	villainess	conservative
+n	cds	no	pedant	conservative
+n	cds	no	grifter	conservative
+n	or	no	pudding höfuð	conservative
+n	asm	no	hálfviti	conservative
+n	pa	yes	academism	inclusive
+n	an	no	tík	conservative
+n	re	no	malversation	inclusive
+n	dmc	yes	foetor	conservative
+n	cds	no	handaskol	inclusive
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	qas	no	welter	inclusive
+n	ddp	yes	fáfróður	conservative
+n	cds	no	sniveller	conservative
+n	cds	no	götu gangs	conservative
+n	an	no	capra hircus	inclusive
+n	an	no	skerill	inclusive
+n	cds	no	ungabarn	inclusive
+n	cds	no	fánýti	inclusive
+a	ddf	yes	slæmt	inclusive
+n	re	no	stuldur	inclusive
+n	re	no	lög-brot	inclusive
+n	cds	no	óskapnaður	inclusive
+n	cds	no	jerking burt	conservative
+n	cds	no	hús illa orðstír	inclusive
+n	qas	no	ballock	inclusive
+n	an	no	chinch	inclusive
+n	cds	no	sónarsaga	inclusive
+n	cds	no	lögga	inclusive
+n	ddp	yes	andlega skort	inclusive
+n	rci	yes	siðlausar	conservative
+n	ddp	yes	muggins	conservative
+n	re	no	chiseler	inclusive
+a	is	yes	sorgmæddur	inclusive
+n	svp	no	reiði	conservative
+n	re	no	meiðyrði	inclusive
+n	cds	no	paparazzo	inclusive
+n	re	no	féfletting	conservative
+n	dmc	yes	trúður	inclusive
+n	qas	no	algengari	inclusive
+n	cds	no	navvy	inclusive
+n	dmc	yes	slæmri	conservative
+n	ddp	yes	bumbler	conservative
+n	cds	no	fjölskyldu	inclusive
+n	re	no	hryðjuverk	conservative
+n	ddp	yes	backwardness	inclusive
+a	dmc	yes	óréttur	conservative
+n	pa	yes	starfskraftur	inclusive
+n	svp	no	vainglory	conservative
+n	cds	no	slyngur	conservative
+n	an	no	epifaunal	inclusive
+v	dmc	yes	véla	conservative
+n	an	no	looter	inclusive
+n	re	no	taka	inclusive
+a	svp	no	reitt	inclusive
+n	cds	no	fumbler	conservative
+n	cds	no	spaug	inclusive
+a	dmc	yes	viðbjóðslegur	conservative
+n	cds	no	sló	conservative
+n	cds	no	stela	inclusive
+n	cds	no	ódæði	inclusive
+n	ddp	yes	changeling	conservative
+n	cds	no	free mason	inclusive
+n	ddp	yes	oaf	conservative
+n	cds	no	gigolo	inclusive
+n	an	no	skríll	conservative
+n	ps	yes	hálviti	conservative
+n	ddp	yes	kjánalegt	conservative
+n	asf	no	lunkhead	conservative
+n	an	no	gaglviði	inclusive
+n	an	no	hákerling	inclusive
+n	cds	no	fangelsi vörður	inclusive
+n	re	no	manndrápari	inclusive
+n	qas	no	bloopers	inclusive
+n	cds	no	craven	conservative
+n	pa	yes	porter	inclusive
+n	qas	no	úrkast	inclusive
+n	an	no	pudge	conservative
+n	cds	no	blooper	inclusive
+n	an	no	geitur	inclusive
+n	cds	no	blendingur	inclusive
+n	cds	no	sonny	inclusive
+n	dmc	yes	delict	inclusive
+n	qas	no	búþegn	inclusive
+n	ddp	yes	informer	conservative
+n	pr	no	naut	inclusive
+a	dmc	yes	hyskinn	conservative
+n	an	no	axskeri	inclusive
+n	an	no	nautakjöt	inclusive
+a	svp	no	öfundsjúkur	conservative
+n	cds	no	wonk	conservative
+n	an	no	heift	inclusive
+n	asm	no	fávita	inclusive
+n	re	no	manndráp	inclusive
+n	cds	no	ingroup	inclusive
+a	svp	no	uppbelgdur	conservative
+n	an	no	bison	inclusive
+n	dmc	yes	falsanir	inclusive
+n	ps	yes	siðlausar	conservative
+n	qas	no	farrago	inclusive
+n	cds	no	þjófnaði	inclusive
+n	asm	no	jacking burt	conservative
+n	cds	no	nympho	conservative
+n	cds	no	taka	inclusive
+n	cds	no	gengjum	inclusive
+n	om	no	sodomized	inclusive
+n	cds	no	carrion	inclusive
+n	cds	no	autolatry	inclusive
+n	dmc	yes	skreytni	inclusive
+n	qas	no	eistum	inclusive
+n	an	no	wry andlit	inclusive
+n	an	no	karlkyns skækjuna	conservative
+n	cds	no	moneylenders	conservative
+n	re	no	brot	inclusive
+n	qas	no	mælskulist	inclusive
+n	cds	no	mannþvaga	inclusive
+n	cds	no	hóruhús	inclusive
+n	cds	no	glingur	inclusive
+n	cds	no	mafiosi	conservative
+n	an	no	hlusta tæki	inclusive
+a	ddf	yes	ólaglegur	conservative
+n	pa	yes	aðjúnkt	inclusive
+n	cds	no	frjáls og samþykkt steinhöggvara	inclusive
+n	cds	no	moralism	inclusive
+n	asf	no	changelings	conservative
+n	an	no	american buffalo	inclusive
+n	ps	yes	reglugerðarsnatinn gerir uppsteit út	conservative
+n	ddp	yes	cretinism	inclusive
+n	cds	no	hópur	inclusive
+n	asf	no	folderol	conservative
+n	cds	no	slæpingi	conservative
+n	ps	yes	rómönsku	inclusive
+n	ddp	yes	nincompoop	conservative
+n	cds	no	boaster	conservative
+n	ps	yes	gult spjald	inclusive
+n	an	no	páfagaukar	inclusive
+n	qas	no	necrotrophic	inclusive
+n	pr	no	yfirstéttarmaður	inclusive
+n	dmc	yes	óheppilegt	inclusive
+n	qas	no	magnates	inclusive
+n	pr	no	kynferðislega þjónustu	conservative
+n	cds	no	fasisma	conservative
+n	cds	no	glæpamaður	conservative
+n	dmc	yes	lygi	inclusive
+n	dmc	yes	mannfýla	conservative
+n	ps	yes	rómafólk	inclusive
+n	qas	no	yfirgefin skip	inclusive
+a	svp	no	hrokamikill	conservative
+n	cds	no	glundroði	inclusive
+n	cds	no	caitiff	conservative
+n	dmc	yes	lygð	inclusive
+a	om	no	óeðlilegur	inclusive
+n	ps	yes	crossbreed	inclusive
+n	dmc	yes	barbarian	conservative
+n	qas	no	mið-tekjur	inclusive
+n	cds	no	hrúga	inclusive
+a	ddf	yes	herfilegur	conservative
+n	an	no	geit-antelope	inclusive
+n	asm	no	bóndabaunir	inclusive
+n	cds	no	blabbermouth	conservative
+n	dmc	yes	tek-dallier	conservative
+n	an	no	slug	inclusive
+n	svp	no	frygð	inclusive
+n	qas	no	faglega bekk	inclusive
+n	cds	no	lögregluþjónn	conservative
+a	is	yes	óheppinn	inclusive
+n	cds	no	clotheshorse	inclusive
+n	cds	no	lögregla	conservative
+n	dmc	yes	lazybones	conservative
+n	dmc	yes	phoney	conservative
+n	cds	no	cathouse	inclusive
+n	asm	no	harður-á	inclusive
+a	svp	no	þóttalegur	conservative
+n	asm	no	roosting	inclusive
+n	cds	no	wanker	conservative
+n	cds	no	highwayman	conservative
+n	or	no	twat	conservative
+n	ps	yes	plant líftækni	inclusive
+n	cds	no	scrawl	inclusive
+n	pr	no	valska	inclusive
+n	cds	no	splashiness	conservative
+n	cds	no	frændur	inclusive
+a	svp	no	pjattaður	conservative
+a	asm	no	brúnn	inclusive
+n	re	no	torturing	inclusive
+n	ddf	yes	crookback	inclusive
+n	cds	no	kennari	inclusive
+n	an	no	minx	conservative
+a	svp	no	þykkjufullur	inclusive
+n	om	no	pederast	conservative
+n	ddp	yes	epifauna	inclusive
+n	an	no	fáfróður	conservative
+n	re	no	dagsetning-nauðgun	conservative
+n	an	no	doggur	inclusive
+n	cds	no	ættar	inclusive
+n	cds	no	kúlur upp	inclusive
+n	ddp	yes	zooerasty	conservative
+n	an	no	mölflugur	inclusive
+v	asm	no	hæða	inclusive
+n	an	no	vamper	conservative
+n	pa	yes	búðarmaður	inclusive
+n	cds	no	moneygrubber	inclusive
+a	cds	no	sljór	conservative
+n	or	no	hinsegin	conservative
+n	om	no	kvenkyns impersonator	inclusive
+n	an	no	hundar	inclusive
+n	an	no	anguilla	inclusive
+n	dmc	yes	siðferðilegum áttavita	inclusive
+n	cds	no	lævís	conservative
+a	ddp	yes	trúgjarn	conservative
+n	dmc	yes	git	conservative
+n	pr	no	hogwash	conservative
+a	dmc	yes	sérhlífinn	conservative
+n	qas	no	staðlausir stafir	conservative
+n	pa	yes	kotbóndi	inclusive
+n	qas	no	acolyte	inclusive
+n	an	no	diddly-skítur	conservative
+n	pa	yes	barbaric	conservative
+n	an	no	múli	inclusive
+n	cds	no	melludólgur	inclusive
+n	an	no	hugleysingi	conservative
+n	cds	no	cockup	inclusive
+n	dmc	yes	phony	conservative
+n	svp	no	shirker	conservative
+n	pa	yes	sérstakur sendimaður	inclusive
+a	cds	no	vanalegur	inclusive
+n	cds	no	usurer	conservative
+n	ps	yes	vandali	inclusive
+n	cds	no	úrhrak	conservative
+n	re	no	pynting	inclusive
+n	qas	no	agriculturalists	inclusive
+n	re	no	plagiarized	inclusive
+n	om	no	transvestism	inclusive
+n	ps	yes	kynblöndun	inclusive
+n	qas	no	baron	inclusive
+n	ps	yes	zulus	inclusive
+n	cds	no	mishmash	inclusive
+n	om	no	endaþarms samfarir	inclusive
+a	is	yes	vanefnaður	inclusive
+n	cds	no	uppfullur af lærdómshroka	conservative
+n	cds	no	glæpur	inclusive
+n	cds	no	innlendum úrgangs	inclusive
+n	pr	no	langhala	inclusive
+n	dmc	yes	siðferði	inclusive
+a	cds	no	óheimill	inclusive
+n	dmc	yes	hick	conservative
+n	an	no	rúm galla	inclusive
+n	cds	no	dime skáldsögur	inclusive
+n	ddp	yes	prater	conservative
+n	cds	no	nymphomaniac	conservative
+n	cds	no	bellyacher	conservative
+n	pa	yes	endurskoðenda	inclusive
+n	asf	no	pubic hár	inclusive
+n	cds	no	staðlausir stafir	inclusive
+n	qas	no	sníkjudýr	inclusive
+n	asm	no	eista	inclusive
+n	re	no	lögbrot	inclusive
+n	cds	no	bawdy hús	inclusive
+v	an	no	gauða	inclusive
+n	cds	no	sekir	inclusive
+n	pr	no	tík	conservative
+a	qas	no	vanalegur	inclusive
+n	cds	no	drasl	conservative
+n	cds	no	tros	inclusive
+n	cds	no	skurðgoðadýrkendur	inclusive
+n	ddp	yes	knucklehead	conservative
+n	dmc	yes	slæm manneskja	conservative
+n	an	no	blóðmaurar	inclusive
+n	asm	no	reður	inclusive
+n	re	no	maligner	conservative
+n	ps	yes	mestizos	conservative
+n	ddp	yes	unwiseness	inclusive
+n	qas	no	kofanum	inclusive
+n	cds	no	bjálfi	conservative
+n	an	no	karta	inclusive
+n	cds	no	topsy-turvydom	inclusive
+n	qas	no	baronies	inclusive
+n	qas	no	salli	inclusive
+n	svp	no	taumleysi	inclusive
+n	cds	no	stealer	inclusive
+n	cds	no	moralizing	inclusive
+n	dmc	yes	bigoted	conservative
+n	pr	no	strumpet	conservative
+n	or	no	hvítkál	inclusive
+n	pr	no	paramour	inclusive
+n	om	no	bak	inclusive
+n	qas	no	félagi í glæpum	inclusive
+n	svp	no	tek-dallier	conservative
+n	an	no	snake í grasi	conservative
+n	qas	no	uppspuni	conservative
+n	ddp	yes	poppycock	inclusive
+n	cds	no	conceitedness	conservative
+a	svp	no	hefnigjarn	conservative
+n	svp	no	apathetic	inclusive
+n	re	no	nauðgun	conservative
+n	dmc	yes	banditti	inclusive
+n	rci	yes	barbarian	conservative
+n	re	no	burglar	inclusive
+a	svp	no	tattinn	conservative
+n	cds	no	hrærigrautur	inclusive
+a	ddf	yes	ósjáandi	inclusive
+n	ddp	yes	bjáni	conservative
+n	cds	no	wuss	conservative
+a	ddp	yes	vitlaus	conservative
+a	ddp	yes	grænn	conservative
+n	re	no	glæpi	inclusive
+n	dmc	yes	defrauder	conservative
+n	asm	no	patsy	conservative
+n	pr	no	friðill	inclusive
+n	cds	no	fanatism	conservative
+n	pa	yes	academia	inclusive
+n	qas	no	cull	conservative
+a	svp	no	styggur	inclusive
+n	an	no	megascops	inclusive
+n	cds	no	afhrak	conservative
+n	asf	no	shithead	conservative
+n	om	no	dorsolateral	inclusive
+n	svp	no	leti	inclusive
+n	re	no	misgerðarmaður	inclusive
+a	asm	no	móbrúnn	inclusive
+n	cds	no	lán sharking	conservative
+v	asm	no	draga dár	inclusive
+n	om	no	poove	conservative
+n	ddp	yes	newsmonger	conservative
+n	re	no	chiseller	inclusive
+n	ps	yes	beduin	inclusive
+n	an	no	scorpionfish	inclusive
+n	dmc	yes	shirker	conservative
+n	asm	no	dimwit	conservative
+n	cds	no	nú	inclusive
+n	cds	no	lögguna	conservative
+a	ddp	yes	þynnkulegur	conservative
+n	cds	no	víxlæxlun	inclusive
+n	an	no	microbe	inclusive
+a	ddf	yes	andstyggilegur	conservative
+n	ddp	yes	ólæsir	inclusive
+n	re	no	kúgun	conservative
+n	qas	no	innlendum úrgangs	inclusive
+n	dmc	yes	faker	conservative
+n	dmc	yes	ódráttur	conservative
+n	om	no	kross-dresser	inclusive
+n	an	no	slob	conservative
+n	an	no	sóði	conservative
+n	ps	yes	gyðingdómi	inclusive
+n	asm	no	pterygiophore	inclusive
+n	an	no	slæm manneskja	conservative
+a	om	no	afbrigðilegur	inclusive
+n	cds	no	hubris	inclusive
+n	asm	no	pea	inclusive
+n	ddp	yes	nonsensical	conservative
+n	re	no	neonaticide	inclusive
+n	rci	yes	boor	conservative
+n	svp	no	áhugaleysi	inclusive
+n	cds	no	fascista	inclusive
+a	ddf	yes	ljótur	conservative
+n	cds	no	afbrot	inclusive
+n	pr	no	whoredom	conservative
+n	pa	yes	sheepherders	inclusive
+n	ddp	yes	skottulækningar	conservative
+n	ddp	yes	tomfool	conservative
+n	cds	no	stupe	conservative
+n	cds	no	camorra	inclusive
+n	svp	no	leiðinlegur	inclusive
+n	an	no	stúfur	inclusive
+n	cds	no	úrkast	conservative
+n	re	no	lögbrjótur	inclusive
+n	cds	no	hick	conservative
+n	an	no	uglan	inclusive
+n	an	no	cakehole	inclusive
+n	cds	no	eyri hræðilegt	inclusive
+n	ddp	yes	gossiper	conservative
+n	cds	no	superficiality	inclusive
+n	or	no	kunta	conservative
+n	pa	yes	bellman	inclusive
+n	om	no	sodomy	inclusive
+n	cds	no	hálf-lítri	conservative
+n	cds	no	fljótur einn	conservative
+n	cds	no	gossiper	conservative
+n	qas	no	sníkjulíf	inclusive
+n	an	no	blápískur	inclusive
+n	pr	no	vændi	inclusive
+n	qas	no	divulgement	inclusive
+n	dmc	yes	vagabond	inclusive
+n	cds	no	mafiosi	inclusive
+n	pr	no	streetwalker	conservative
+n	cds	no	venality	conservative
+n	cds	no	ruslpóst	inclusive
+n	an	no	asni	inclusive
+a	cds	no	upplásinn	conservative
+n	cds	no	bloopers	inclusive
+n	dmc	yes	duffer	conservative
+n	cds	no	hagnýt joker	conservative
+n	svp	no	abulia	inclusive
+n	re	no	capturer	inclusive
+n	cds	no	opinber þægindi	inclusive
+n	svp	no	gott-fyrir-ekkert	conservative
+n	qas	no	rusl	inclusive
+n	asm	no	heimska	conservative
+n	cds	no	hafna	conservative
+n	cds	no	nurseling	inclusive
+n	cds	no	skurðgoðadýrkun	inclusive
+n	an	no	fleas	inclusive
+n	cds	no	óviðurkenndur	inclusive
+n	an	no	kusa	inclusive
+n	cds	no	moaner	conservative
+a	ddp	yes	glánalegu	conservative
+n	qas	no	rhetorics	inclusive
+a	asm	no	kaffibrúnn	inclusive
+n	an	no	heigull	conservative
+n	cds	no	miði í tungu	inclusive
+n	om	no	hinsegin	conservative
+n	dmc	yes	gera-ekkert	conservative
+a	cds	no	drambsfullur	conservative
+n	an	no	hyaenidae	inclusive
+n	svp	no	losti	inclusive
+n	cds	no	schoolmarm	conservative
+n	cds	no	ræningi	inclusive
+n	an	no	mollusk	inclusive
+n	pr	no	vændi	conservative
+a	om	no	hómósexúal	conservative
+n	cds	no	skrök	inclusive
+n	re	no	ræningjar	inclusive
+n	re	no	holdup	inclusive
+a	ddp	yes	kjánalegur	conservative
+n	om	no	homophile	inclusive
+n	pr	no	viðskiptalegum kynlíf	conservative
+n	is	yes	lágar tekjur	inclusive
+n	cds	no	tribesmen	inclusive
+n	dmc	yes	trúnni	conservative
+n	asf	no	kisa	conservative
+n	ddp	yes	vitleysa	conservative
+n	or	no	bonce	inclusive
+n	cds	no	tonn	inclusive
+n	re	no	slæmri	conservative
+n	cds	no	boðberi drengur	inclusive
+n	re	no	mannfýla	conservative
+n	qas	no	castes	inclusive
+n	an	no	cayman	inclusive
+n	cds	no	liðsforingi	inclusive
+n	cds	no	omnium-gatherum	inclusive
+n	ddp	yes	lout	conservative
+n	cds	no	mannfýla	conservative
+n	ddp	yes	andlega áskorun	inclusive
+a	ddf	yes	illur	inclusive
+n	an	no	sogskál	inclusive
+n	ddp	yes	villimennsku	inclusive
+n	asm	no	maroon	inclusive
+n	re	no	kynferðislega molestation	inclusive
+n	re	no	ójafnaður	inclusive
+n	dmc	yes	siðferðilega hvöt	inclusive
+v	cds	no	drepast	inclusive
+n	re	no	hryðjuverk	inclusive
+n	om	no	gagnstæðu	inclusive
+n	cds	no	bigot	conservative
+n	ps	yes	ostrogoth	inclusive
+n	qas	no	skreytni	conservative
+n	ddp	yes	mountebank	conservative
+n	ps	yes	ingum	inclusive
+n	cds	no	móðir helvíti	conservative
+n	rci	yes	villimenn	conservative
+n	cds	no	mutt	inclusive
+n	an	no	villainess	conservative
+a	is	yes	þarfur	inclusive
+n	dmc	yes	pseud	conservative
+n	svp	no	þrá	inclusive
+a	ddp	yes	fákænn	conservative
+a	is	yes	hnugginn	inclusive
+n	cds	no	chiseller	conservative
+n	ps	yes	barbari	conservative
+n	cds	no	snobb	conservative
+a	ddp	yes	hálfvitalegur	conservative
+n	cds	no	lygð	inclusive
+n	an	no	floozie	conservative
+n	an	no	scum poka	conservative
+a	cds	no	hversdagslegur	inclusive
+n	an	no	belja	inclusive
+n	re	no	hryðjuverka athöfn	inclusive
+n	asm	no	credulousness	conservative
+n	ps	yes	ísraels	inclusive
+n	dmc	yes	buffoon	inclusive
+n	cds	no	protagonism	inclusive
+n	an	no	moo-kýr	inclusive
+n	om	no	namby-pamby	conservative
+n	qas	no	leigjandi búskap	inclusive
+n	pr	no	harlotry	inclusive
+a	svp	no	ófriðsamur	conservative
+n	asf	no	simpleton	conservative
+a	is	yes	þröngur	conservative
+n	cds	no	hnupl	inclusive
+n	an	no	stafur-á-the-drulla	conservative
+n	cds	no	tattletale	conservative
+n	ddp	yes	bungler	conservative
+n	asf	no	chump	conservative
+a	dmc	yes	framkvæmdalaus	conservative
+n	cds	no	lögreglumaður	inclusive
+n	or	no	brassica rapa	inclusive
+n	dmc	yes	dóni	conservative
+n	an	no	líkami sjaldgæfir	inclusive
+n	cds	no	hálfviti	inclusive
+n	ddp	yes	lunkhead	conservative
+n	an	no	hoaxes	conservative
+a	ddp	yes	ekki	inclusive
+n	cds	no	fjölskylda	inclusive
+a	svp	no	ágengur	inclusive
+n	om	no	endaþarms kynlíf	inclusive
+a	re	no	ofbeldi	inclusive
+n	cds	no	holræsagjöld	inclusive
+n	cds	no	hroði	conservative
+a	svp	no	yearly	inclusive
+n	ps	yes	negro	inclusive
+n	ps	yes	darky	conservative
+n	ps	yes	mestizaje	conservative
+n	om	no	transvestitism	inclusive
+n	re	no	pína	inclusive
+n	cds	no	djöfull	conservative
+n	re	no	rapine	inclusive
+n	pr	no	buncombe	conservative
+n	dmc	yes	abjection	inclusive
+n	cds	no	ólestur	inclusive
+n	pr	no	skrið curb	conservative
+n	cds	no	kornabarn	inclusive
+n	cds	no	sóp	conservative
+n	ddp	yes	fábjáni	conservative
+a	ddp	yes	bernskur	conservative
+n	pr	no	brúnrotta	inclusive
+n	cds	no	þjófnaður	inclusive
+n	svp	no	letinginn	conservative
+n	pr	no	courtesan	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	ddp	yes	auli	conservative
+n	cds	no	álygar	inclusive
+a	dmc	yes	duglaus	conservative
+n	cds	no	clann	inclusive
+n	asm	no	english baun	inclusive
+n	an	no	ignoramus	conservative
+n	pa	yes	fræðimanna	inclusive
+n	cds	no	ósaga	inclusive
+n	re	no	sjóræningjum	inclusive
+n	re	no	stolið eign	inclusive
+n	dmc	yes	svik	conservative
+n	ps	yes	blackamoor	inclusive
+n	re	no	nauðgunum	conservative
+n	re	no	blackmailing	conservative
+n	re	no	barnsræningja	inclusive
+n	or	no	fennikka	inclusive
+n	qas	no	iðnrekenda	inclusive
+n	cds	no	archpriest	inclusive
+a	dmc	yes	nennulaus	conservative
+n	svp	no	haughtiness	conservative
+a	cds	no	hrokafullur	conservative
+n	cds	no	blowhard	conservative
+n	cds	no	loanshark	conservative
+n	dmc	yes	gervi	conservative
+n	an	no	letinginn	conservative
+n	om	no	grunnfrumukrabbamein	inclusive
+n	an	no	lús	inclusive
+n	qas	no	markaður gæslumaður	inclusive
+n	ddp	yes	hálviti	conservative
+n	re	no	hryðjuverka athöfn	conservative
+n	dmc	yes	blackguard	conservative
+a	svp	no	nenningarlaus	conservative
+a	ddp	yes	álfalegur	conservative
+n	asm	no	teste	inclusive
+n	om	no	karlkyns kynhneigð	inclusive
+n	svp	no	tightfistedness	conservative
+n	ddp	yes	þekkingarleysi	conservative
+n	ddp	yes	pudding höfuð	conservative
+n	cds	no	nouveau-riche	inclusive
+n	pr	no	john	inclusive
+n	dmc	yes	churl	conservative
+n	dmc	yes	siðferðilega gjaldþrota	inclusive
+n	dmc	yes	trifler	conservative
+n	om	no	ventrolateral	inclusive
+n	ddp	yes	heilaskemmd	inclusive
+n	cds	no	procuress	inclusive
+n	svp	no	trencherman	inclusive
+n	ps	yes	asni	conservative
+n	qas	no	skran	inclusive
+n	cds	no	roguery	conservative
+n	an	no	híena	inclusive
+n	re	no	scamp	inclusive
+a	om	no	mismunandi	inclusive
+n	an	no	zooerasty	conservative
+n	qas	no	moð	inclusive
+n	ddp	yes	mjúka	conservative
+n	dmc	yes	fjárglæframaður	conservative
+n	ddp	yes	telltale	conservative
+n	an	no	patsy	conservative
+n	or	no	simpleton	conservative
+n	dmc	yes	heimilislaus	inclusive
+n	qas	no	cadger	conservative
+a	dmc	yes	framkvæmdalítill	conservative
+a	cds	no	golubelgdur	conservative
+n	is	yes	beggar	inclusive
+n	cds	no	homunculi	inclusive
+n	cds	no	sakamaður	conservative
+n	cds	no	fibber	conservative
+n	re	no	nákvæmlega	inclusive
+n	ddp	yes	sorglegt poka	conservative
+n	cds	no	scrawler	conservative
+n	cds	no	duffer	conservative
+n	cds	no	óhroði	inclusive
+n	ddp	yes	andlegur vanþroski	inclusive
+v	cds	no	gleypa í sig	inclusive
+n	re	no	furiousness	inclusive
+n	or	no	samkynhneigður	conservative
+n	cds	no	boo-boo	inclusive
+n	qas	no	egg	inclusive
+n	cds	no	almennings salerni	inclusive
+n	re	no	harmkvæli	inclusive
+v	cds	no	verða ásátt um	inclusive
+n	qas	no	hundakofar	inclusive
+n	pr	no	baula	inclusive
+n	an	no	zooerastia	conservative
+n	an	no	galti	inclusive
+n	pa	yes	talsmenn	inclusive
+n	cds	no	loansharking	inclusive
+n	qas	no	illþýði	conservative
+n	pr	no	hjákona	inclusive
+n	cds	no	massi	inclusive
+n	cds	no	kynblöndun	inclusive
+n	cds	no	loansharking	conservative
+n	om	no	crossdressing	inclusive
+n	an	no	veru	inclusive
+n	ddp	yes	heilaskaðinn	inclusive
+n	re	no	ránsskapur	inclusive
+a	svp	no	vondur	inclusive
+n	an	no	skufsi	inclusive
+n	cds	no	wiseacre	conservative
+n	cds	no	fjöldinn	conservative
+n	is	yes	mannfýla	conservative
+n	is	yes	miser	conservative
+n	an	no	göltur	inclusive
+n	svp	no	amour propre	conservative
+n	cds	no	hórumangari	conservative
+n	cds	no	extreme hægri kantmaður	conservative
+n	cds	no	racketeer	inclusive
+n	an	no	gráni	inclusive
+n	or	no	dunderhead	conservative
+n	re	no	villainous	conservative
+n	an	no	caiman	inclusive
+n	an	no	froska	inclusive
+n	re	no	nauðgað	conservative
+n	cds	no	vífl	inclusive
+n	cds	no	heigulsháttur	conservative
+n	re	no	mafiosi	conservative
+n	or	no	fennel	inclusive
+n	cds	no	hismi	conservative
+n	cds	no	dogmatism	conservative
+n	an	no	animalcules	inclusive
+n	asm	no	maxilliped	inclusive
+n	cds	no	riffraff	conservative
+n	asf	no	skynskiptingur	conservative
+n	asm	no	wank	conservative

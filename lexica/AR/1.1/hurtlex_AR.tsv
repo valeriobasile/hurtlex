@@ -1,0 +1,3221 @@
+pos	category	stereotype	lemma	level
+n	cds	no	قوة	inclusive
+n	om	no	نفس الجنس الجذب	inclusive
+n	cds	no	خطأ فاضح	inclusive
+n	cds	no	الماسونية	inclusive
+n	an	no	ثعبان البحر	inclusive
+n	cds	no	الجبن	conservative
+n	an	no	animalculum	inclusive
+n	cds	no	السارق	inclusive
+n	ddp	yes	جهل	inclusive
+n	an	no	الحمير	inclusive
+n	an	no	عنز	inclusive
+n	an	no	بغل	inclusive
+n	qas	no	عماره باروكيه	inclusive
+n	ddp	yes	عته	inclusive
+n	dmc	yes	زنديق	conservative
+a	cds	no	العادية	inclusive
+n	pr	no	خطابة لإرضاء الجمهور	conservative
+n	cds	no	culchie	inclusive
+n	cds	no	الحشوات	inclusive
+n	pr	no	جون	conservative
+n	cds	no	demagog	conservative
+n	svp	no	الأكول	inclusive
+n	dmc	yes	ثاني التصنيفات	conservative
+n	rci	yes	متوحش	conservative
+n	asm	no	testicle	inclusive
+n	asf	no	كس	conservative
+v	asm	no	استهزأ	conservative
+n	dmc	yes	غش	conservative
+n	cds	no	الثرثار	conservative
+n	an	no	الأرنب	inclusive
+n	cds	no	مصورين	inclusive
+n	svp	no	البخيل	inclusive
+n	svp	no	الاشمئزاز	inclusive
+n	ddp	yes	التخلف	inclusive
+n	asm	no	fuck	conservative
+n	ps	yes	الجاهل	conservative
+n	cds	no	المرابين	conservative
+n	cds	no	الأبله	conservative
+n	cds	no	كذبة	conservative
+n	cds	no	مدير	inclusive
+n	om	no	homosexualism	inclusive
+n	cds	no	ديماجوجيه	conservative
+a	svp	no	غلم	conservative
+n	pr	no	إمرأة فاسقة	conservative
+n	cds	no	القبيلة	inclusive
+n	dmc	yes	المتواني	conservative
+n	cds	no	أسقف	inclusive
+n	cds	no	القواد	conservative
+n	cds	no	النفايات البلدية	inclusive
+n	or	no	كرنب	inclusive
+n	re	no	الارهاب	inclusive
+n	qas	no	مجال اليد	inclusive
+n	cds	no	قطعان	inclusive
+n	om	no	بطناني	inclusive
+n	ddp	yes	برابرة	conservative
+n	ddp	yes	مخلوق	inclusive
+n	cds	no	strikebreakers	inclusive
+n	an	no	البغال	inclusive
+n	an	no	الأفعوانية	inclusive
+n	an	no	هجوم سمك القرش	inclusive
+n	is	yes	منبوذة	inclusive
+n	dmc	yes	الخداع	conservative
+n	asm	no	دلخ	conservative
+n	om	no	نحو caudally،	inclusive
+n	re	no	جنائي	inclusive
+n	cds	no	وvillainess	conservative
+n	is	yes	نذل	conservative
+n	cds	no	scads	inclusive
+n	an	no	mollusc	inclusive
+n	dmc	yes	الشقي	inclusive
+n	pa	yes	رتبة الدبلوماسية	inclusive
+n	asm	no	طائر	inclusive
+n	pr	no	الجنس التجاري	conservative
+n	cds	no	الشفر	conservative
+n	re	no	كوزا نوسترا	inclusive
+n	dmc	yes	dissimulator	conservative
+n	pr	no	بندقية مول	inclusive
+n	an	no	البغل	inclusive
+n	an	no	دجاجة	inclusive
+n	cds	no	المرابي	conservative
+n	an	no	بزاق	inclusive
+n	dmc	yes	التزوير	inclusive
+n	ddp	yes	غليظ	conservative
+n	ddp	yes	واش	conservative
+n	asm	no	زائدة	inclusive
+n	an	no	الجلف	conservative
+n	cds	no	الجرائم	inclusive
+n	ps	yes	الواندال	inclusive
+n	or	no	معتوه	conservative
+n	ddp	yes	نقص العقلية	inclusive
+n	an	no	البق	inclusive
+a	qas	no	مجنون	conservative
+n	asf	no	معتوه	conservative
+n	ddp	yes	غباء	conservative
+n	re	no	المشهر	conservative
+n	asm	no	مرقس	conservative
+n	re	no	تحرش	inclusive
+n	cds	no	الأذى	conservative
+n	om	no	الأرداف	inclusive
+n	cds	no	معلمة	conservative
+n	an	no	الخنازير	inclusive
+n	dmc	yes	متشرد	conservative
+n	om	no	الجنس الشرجي	inclusive
+a	dmc	yes	المتسخة	inclusive
+n	cds	no	intergeneric الهجين	inclusive
+n	an	no	مكروبات	inclusive
+n	an	no	فم	inclusive
+a	is	yes	المؤسف	inclusive
+n	dmc	yes	المتعصب	conservative
+n	cds	no	رجل شرطة	inclusive
+n	cds	no	بوليس	conservative
+n	an	no	بوابة	conservative
+n	an	no	بعوضة	inclusive
+n	dmc	yes	المتشرد	conservative
+n	cds	no	كوزا نوسترا	inclusive
+n	cds	no	schoolma'am	conservative
+n	asf	no	غبي	conservative
+n	asm	no	بليد	conservative
+n	dmc	yes	خبيث	conservative
+n	cds	no	عشرات	inclusive
+n	an	no	طور	inclusive
+n	ddp	yes	براتر	conservative
+n	cds	no	الوثنية	inclusive
+a	qas	no	في العصور الوسطى	inclusive
+n	dmc	yes	محتال	conservative
+n	pr	no	doxy	inclusive
+n	cds	no	كاماريلا	inclusive
+n	dmc	yes	scattergood	inclusive
+n	dmc	yes	خبث	conservative
+n	re	no	بطش	inclusive
+n	cds	no	العِلْمانية	inclusive
+n	qas	no	هاوي	inclusive
+n	pr	no	hetaira	inclusive
+n	cds	no	تفاخر	conservative
+n	ddp	yes	معتوه	inclusive
+n	rci	yes	همجي	conservative
+n	cds	no	المخادع	inclusive
+n	qas	no	التدبير المنزلي	inclusive
+n	an	no	culicidae	inclusive
+n	an	no	blattaria	inclusive
+n	cds	no	ديماغوجية	conservative
+v	cds	no	هذر	inclusive
+n	ddp	yes	الهمجية	inclusive
+n	cds	no	رواية الدايم	inclusive
+n	ps	yes	بلغاريون	inclusive
+n	om	no	مثليين	inclusive
+n	an	no	الضباع	inclusive
+n	dmc	yes	جنائي	inclusive
+n	an	no	wisent	inclusive
+n	asf	no	saphead	conservative
+n	om	no	شخص معاق	conservative
+n	cds	no	حفل	inclusive
+a	ps	yes	سوداء	inclusive
+n	dmc	yes	كذبة	inclusive
+n	an	no	قاطع الطريق	inclusive
+n	an	no	diddlyshit	conservative
+n	re	no	الاغتصاب	conservative
+n	qas	no	العمارة الباروكية	inclusive
+n	cds	no	حمام	inclusive
+n	cds	no	أحمق	conservative
+n	cds	no	قاطع طرق	conservative
+n	cds	no	أصوليه	inclusive
+n	cds	no	مأمورية الصبي	inclusive
+n	svp	no	superbia	conservative
+n	qas	no	الغلطات	inclusive
+n	re	no	يغشون	inclusive
+n	cds	no	تكّبر	inclusive
+n	an	no	عريضات الأجنحة	inclusive
+n	cds	no	lowlife	conservative
+n	asm	no	أير	conservative
+n	dmc	yes	قضاء للجميع	inclusive
+n	an	no	زهيوي	inclusive
+n	an	no	الحلزون pomatia	inclusive
+n	svp	no	dallier	conservative
+n	cds	no	loanshark	inclusive
+n	qas	no	خلط	inclusive
+n	qas	no	تبع	inclusive
+n	cds	no	weisenheimer	conservative
+n	is	yes	الفقراء	inclusive
+n	dmc	yes	الفاسق	conservative
+n	ddp	yes	ضجة	conservative
+n	cds	no	نظريات المؤامرة	inclusive
+n	dmc	yes	الوغد	conservative
+n	ps	yes	بدوان	inclusive
+n	qas	no	testes	inclusive
+n	svp	no	بخيل	inclusive
+n	ps	yes	زنوج	inclusive
+n	ps	yes	doofus	conservative
+n	dmc	yes	التعصب	conservative
+n	qas	no	الخطاب الكلاسيكي	inclusive
+n	dmc	yes	ضجة	conservative
+n	ddp	yes	حمق	inclusive
+n	dmc	yes	مراءٍ	conservative
+n	cds	no	المتكاسل	conservative
+n	an	no	مخلوق	inclusive
+n	cds	no	الباباراتزي	inclusive
+n	pa	yes	محامية	inclusive
+n	ps	yes	فاندال	inclusive
+n	cds	no	عنجهية	conservative
+n	cds	no	كذاب	conservative
+n	qas	no	مساعد للكاهن	inclusive
+n	dmc	yes	المتهرب	conservative
+n	cds	no	الماسونيه	inclusive
+n	cds	no	رئيس	inclusive
+n	ddp	yes	مأفون	inclusive
+n	qas	no	تابعي	inclusive
+n	re	no	المال القذر	inclusive
+n	ps	yes	اسود	inclusive
+n	cds	no	wangler	conservative
+n	ps	yes	الفاشية	inclusive
+n	ddp	yes	استبدل	conservative
+n	or	no	شمار	inclusive
+n	asf	no	مأفون	conservative
+n	asm	no	الباقلاء	inclusive
+a	is	yes	فقير	inclusive
+v	asm	no	ضاجع	conservative
+n	qas	no	رجل المشتركة	inclusive
+n	ddp	yes	الثرثار	conservative
+n	dmc	yes	الصعاليك،	conservative
+n	cds	no	حلقة	inclusive
+n	an	no	jackass	inclusive
+n	pa	yes	فظاظة	conservative
+n	dmc	yes	رائحة نتنة	conservative
+n	an	no	إمرأة فاسقة	conservative
+n	ddp	yes	كائن حي	inclusive
+n	ddp	yes	knucklehead	conservative
+n	an	no	الكائنات الدقيقة	inclusive
+n	asm	no	bollocks	inclusive
+n	an	no	البوميات	inclusive
+n	qas	no	البرابرة	conservative
+n	re	no	اغتصاب	conservative
+n	dmc	yes	سبب أخلاقي	inclusive
+n	cds	no	سلوك شيطانى	conservative
+n	ps	yes	هجين	conservative
+n	om	no	مثيلية جنسية	inclusive
+a	is	yes	مؤسف	inclusive
+n	ps	yes	التهجين	inclusive
+v	cds	no	تواطأ	inclusive
+n	an	no	حيوانات	inclusive
+n	pa	yes	نصير	inclusive
+n	an	no	crocodilia	inclusive
+n	ddp	yes	السجناء	inclusive
+n	cds	no	عصابة	conservative
+n	ddp	yes	أشياء غير معقولة	inclusive
+n	an	no	قرادة	inclusive
+n	an	no	وغر	inclusive
+n	om	no	أرداف	inclusive
+n	cds	no	سوني صبي	inclusive
+n	cds	no	خط مطلق النار	conservative
+a	is	yes	الفقراء	inclusive
+n	cds	no	عملية جوكر	conservative
+n	an	no	متمسحات	inclusive
+n	ddp	yes	infauna	inclusive
+n	or	no	كس	conservative
+n	ps	yes	بلغاري	inclusive
+n	qas	no	رجال الأعمال	inclusive
+n	cds	no	كذب	inclusive
+n	an	no	اليوريبتيريدات المنقرضة	inclusive
+n	an	no	يرقة	inclusive
+n	an	no	العالم القديم الجاموس	inclusive
+n	qas	no	sodbuster	inclusive
+n	or	no	بطاطس	inclusive
+n	svp	no	الغضب	inclusive
+n	svp	no	جشع	inclusive
+n	re	no	غصب	inclusive
+n	ddp	yes	الأهبل	conservative
+n	qas	no	مزارعون	inclusive
+n	qas	no	مزوج	inclusive
+n	om	no	شواذ	inclusive
+n	cds	no	حديث ولادة	inclusive
+n	cds	no	حجم	inclusive
+n	cds	no	همجي	conservative
+n	pa	yes	معلم	inclusive
+n	dmc	yes	مدونة أخلاقية	inclusive
+n	cds	no	قطاع الطرق	inclusive
+n	an	no	limacidae الأسرة	inclusive
+n	pa	yes	عامل	inclusive
+n	cds	no	النفايات المنزلية	conservative
+n	pr	no	جرذ	inclusive
+n	re	no	الإرهابيين	inclusive
+n	qas	no	أكذوبة	conservative
+n	cds	no	superbia	conservative
+n	or	no	meticulosity	inclusive
+n	cds	no	القائم على السجن	inclusive
+n	cds	no	الدائرة الداخلية	inclusive
+n	svp	no	gorger	conservative
+n	qas	no	الزنبور	conservative
+n	or	no	shithead	conservative
+v	asm	no	جامع	conservative
+n	an	no	بوفو	inclusive
+n	svp	no	ديلي-dallier	conservative
+n	dmc	yes	المغالط	conservative
+n	qas	no	moocher	conservative
+a	asm	no	سمراء	inclusive
+n	an	no	حنق	inclusive
+n	dmc	yes	شر	inclusive
+n	ps	yes	القوط الشرقيين	inclusive
+n	ps	yes	فاشي	inclusive
+n	pa	yes	سكاف	inclusive
+n	cds	no	بزه	inclusive
+n	cds	no	حظر	inclusive
+n	cds	no	المشركين	inclusive
+v	asm	no	هزئ	conservative
+n	om	no	ردفان	inclusive
+n	qas	no	أمين المستودع	inclusive
+n	re	no	جريمة	inclusive
+n	an	no	البوم	inclusive
+n	an	no	والحيوانات الكبيرة و	inclusive
+n	pa	yes	بورتر،	inclusive
+n	cds	no	fawner	conservative
+n	re	no	plagiarise	inclusive
+n	qas	no	الطفيليّات	inclusive
+n	an	no	eurypterids،	inclusive
+n	qas	no	الفلاحين	inclusive
+n	cds	no	بهتان	conservative
+n	pr	no	مومس	conservative
+n	is	yes	الفقر	inclusive
+n	re	no	القاتل	inclusive
+n	qas	no	بوو بوو	inclusive
+n	qas	no	التطفل	inclusive
+n	cds	no	الأنانية	inclusive
+n	asm	no	القميء	inclusive
+n	om	no	مثليون جنسيا	inclusive
+n	ps	yes	عبري	inclusive
+n	cds	no	pudden الرأس	conservative
+n	cds	no	المصورين	inclusive
+n	cds	no	تقوى	inclusive
+n	an	no	الصيصان	inclusive
+n	dmc	yes	الشر	conservative
+n	dmc	yes	المحتال	conservative
+n	qas	no	نهاية الحلقة	inclusive
+n	svp	no	خمول	inclusive
+n	cds	no	جبانة	conservative
+n	re	no	حرمان الحقوق	inclusive
+n	ps	yes	التائه	inclusive
+n	om	no	الطفل شابهها	conservative
+n	an	no	gyps fulvus	inclusive
+n	ps	yes	لاتيني	inclusive
+n	cds	no	dweeb	conservative
+n	re	no	الانتحال	inclusive
+n	svp	no	حب الذات	conservative
+n	cds	no	أضحوكة	inclusive
+n	cds	no	غبي	inclusive
+n	or	no	براسيكا زيتية	inclusive
+n	cds	no	الأصوليين	inclusive
+n	qas	no	الطبقة الوسطى	inclusive
+n	ddp	yes	قزامة الرأس	inclusive
+n	asm	no	بزوغ	inclusive
+n	re	no	الإرهاب	inclusive
+n	an	no	الأباحية	conservative
+n	an	no	حمار	inclusive
+n	an	no	وvillainess	conservative
+n	om	no	مقعد	inclusive
+n	cds	no	المراسلين	inclusive
+n	is	yes	المعوزين	inclusive
+n	re	no	سارق	inclusive
+n	asm	no	لاحقة	inclusive
+n	om	no	homophile	conservative
+n	qas	no	بارون	inclusive
+n	pr	no	غانية	conservative
+n	dmc	yes	والغباء	inclusive
+n	om	no	buttocks	inclusive
+n	cds	no	تختلط-فسد	inclusive
+n	an	no	اهتياج	inclusive
+n	dmc	yes	بغي	conservative
+n	cds	no	الزمر	inclusive
+n	ps	yes	metics	inclusive
+n	qas	no	المتطفلون	inclusive
+n	ddf	yes	بشاعة	inclusive
+n	qas	no	خصيه	inclusive
+n	cds	no	المقلد	conservative
+n	an	no	وكان وكان	conservative
+n	dmc	yes	مارق	conservative
+n	asm	no	vicia faba	inclusive
+n	re	no	إرْهَابِيّ	inclusive
+v	qas	no	رمم	inclusive
+n	an	no	صرصوريات	inclusive
+n	pa	yes	كاتب	inclusive
+n	svp	no	الحسد	inclusive
+n	an	no	البعوضة	inclusive
+n	ddf	yes	أحدب	inclusive
+n	asf	no	شعر العانة	inclusive
+n	om	no	افراج عنها	inclusive
+n	an	no	البرغوت	inclusive
+n	ps	yes	بيضاء،	inclusive
+n	qas	no	الباروك	inclusive
+n	an	no	والرخويات	inclusive
+n	dmc	yes	حافز أخلاقي	inclusive
+n	re	no	وndrangheta	inclusive
+n	ddp	yes	أنعام	inclusive
+n	an	no	عنزة	inclusive
+n	ddp	yes	سجين	inclusive
+n	an	no	dumbass	conservative
+n	asm	no	ومن ناحية الوظيفة	conservative
+n	or	no	dumbass	conservative
+n	cds	no	الهجين intergeneric	inclusive
+n	cds	no	مبغى	inclusive
+n	or	no	الكرنب	inclusive
+n	an	no	الأفعى الشائعة	inclusive
+n	pr	no	بقر	inclusive
+n	svp	no	avaritia	inclusive
+n	ps	yes	يهودية	inclusive
+n	asm	no	الغباء	conservative
+n	cds	no	المعلمة	inclusive
+n	asm	no	changelings	inclusive
+n	ddp	yes	خبل	inclusive
+n	re	no	اختطف	inclusive
+n	svp	no	الاستعلاء	conservative
+n	ddf	yes	الإعاقة	inclusive
+n	asm	no	فالوس	inclusive
+n	dmc	yes	lowlife	inclusive
+n	an	no	تجهم	inclusive
+a	dmc	yes	الشر	conservative
+n	cds	no	الطريق عربة	inclusive
+n	cds	no	ضجة	conservative
+n	an	no	ماشية	inclusive
+n	asm	no	الساخر	conservative
+n	an	no	دابة	inclusive
+v	cds	no	سلم الروح	inclusive
+n	re	no	جرائم	inclusive
+n	ddp	yes	غباوه	conservative
+n	pa	yes	عمال الياقات البيضاء	inclusive
+n	qas	no	ballock	inclusive
+n	ddp	yes	muggins	conservative
+n	cds	no	استبدل	inclusive
+n	ps	yes	مأفون	conservative
+n	an	no	بَقّ	inclusive
+n	dmc	yes	خادعة	conservative
+n	an	no	بوم صياح شرقي	inclusive
+n	ddp	yes	مشعود	conservative
+n	cds	no	تأخير	inclusive
+n	qas	no	فرس عش	inclusive
+n	cds	no	مشعوذ	inclusive
+n	pa	yes	الأكاديمية	inclusive
+n	an	no	prickteaser	conservative
+n	asm	no	الانتصاب	inclusive
+n	cds	no	مجرم	inclusive
+n	cds	no	البناؤون الأحرار	inclusive
+n	re	no	معذب	inclusive
+n	an	no	البعوضه	inclusive
+n	ps	yes	البدوية	inclusive
+n	cds	no	vanity	conservative
+n	pr	no	الثيران	inclusive
+n	re	no	سلب	inclusive
+n	dmc	yes	الكسالى	conservative
+n	or	no	cucumis sativus	inclusive
+n	cds	no	محتال	conservative
+n	cds	no	الحِرابة	conservative
+n	dmc	yes	متوحش	conservative
+v	an	no	ينبح	inclusive
+n	om	no	أليه	inclusive
+n	pr	no	فار المجاري	inclusive
+n	svp	no	vanity	conservative
+n	cds	no	سمسار	inclusive
+n	qas	no	برابرة	conservative
+n	cds	no	حذلقة	inclusive
+n	re	no	اختطاف	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	pa	yes	عاشق	inclusive
+n	cds	no	القمامة	inclusive
+n	ddp	yes	مرتبك	conservative
+n	cds	no	rumormonger	conservative
+n	ps	yes	boche	conservative
+n	re	no	مشعوذ	inclusive
+n	qas	no	سوقة	inclusive
+n	dmc	yes	معاندة	conservative
+n	cds	no	الراحة العامة	inclusive
+n	asf	no	القميء	conservative
+n	dmc	yes	شقي	conservative
+n	ddp	yes	الدجال	conservative
+n	ddp	yes	تغابي	conservative
+n	dmc	yes	المنافق	conservative
+n	pr	no	وقحة	conservative
+n	asm	no	زبر	conservative
+n	svp	no	ملل	inclusive
+n	qas	no	صاحب المتجر	inclusive
+n	re	no	العمليات الارهابية	inclusive
+n	asm	no	بني	inclusive
+n	cds	no	سيارة بالية	inclusive
+n	ps	yes	الفاندل	inclusive
+n	cds	no	البريد غير المرغوب فيه	inclusive
+n	cds	no	ساس	inclusive
+n	cds	no	دركي	conservative
+n	dmc	yes	كذاب	conservative
+n	asm	no	بنّي	inclusive
+n	ddp	yes	مواقعة البهائم	conservative
+n	om	no	الذيلية	inclusive
+n	an	no	عناد	conservative
+n	or	no	بطاطا	inclusive
+n	cds	no	النفايات الصلبة	conservative
+n	cds	no	عِناد	conservative
+n	ddp	yes	غير كفؤ	conservative
+n	an	no	إبن آوي	inclusive
+n	om	no	عبر الأزياء	inclusive
+n	cds	no	غير مجدي	conservative
+n	ddp	yes	الشخص الأمي	inclusive
+n	asm	no	تأخير	inclusive
+n	qas	no	النفايات الصلبة	inclusive
+n	ddp	yes	codswallop	conservative
+n	ddp	yes	ناشر الفضائح و الإشاعات	conservative
+n	cds	no	سلقها	inclusive
+n	pr	no	بائعات الهوى	inclusive
+n	om	no	جنس شرجي	inclusive
+n	qas	no	tagalong	conservative
+n	om	no	هند نهاية	inclusive
+n	cds	no	عبادة الذات	inclusive
+n	asm	no	أغبياء	inclusive
+n	cds	no	حماسة مفرطة	conservative
+n	asf	no	مرقس	conservative
+n	dmc	yes	شخص سيء	conservative
+n	dmc	yes	المبذرة	inclusive
+n	cds	no	مدرس	inclusive
+n	svp	no	المتهرب	conservative
+n	pa	yes	وبائعة سمك	inclusive
+n	cds	no	caitiff	conservative
+n	cds	no	تجسس	conservative
+n	cds	no	hayseed	conservative
+n	asm	no	avafauna	inclusive
+n	an	no	ضبعيات	inclusive
+n	pr	no	rattus	inclusive
+n	qas	no	غلاية من الأسماك	inclusive
+n	an	no	caprinae	inclusive
+n	cds	no	narcissism	inclusive
+n	svp	no	لا مبالي	inclusive
+n	svp	no	dillydallier	conservative
+n	cds	no	تهجين	inclusive
+n	cds	no	عصابات	conservative
+n	qas	no	البرجوازية	inclusive
+n	cds	no	المراسل	inclusive
+n	om	no	هوموسكسواليه	inclusive
+n	ps	yes	أعرابي	inclusive
+n	ps	yes	الزنجي	inclusive
+n	asm	no	سمكة	inclusive
+n	ddp	yes	أبله	inclusive
+a	cds	no	ذكية	inclusive
+n	or	no	ميرفي	inclusive
+n	cds	no	جانٍ‎	inclusive
+n	an	no	knucklehead	conservative
+n	qas	no	غليظ	conservative
+n	cds	no	ابن زنا	conservative
+n	cds	no	ميسون الحرة	inclusive
+n	an	no	diddly-القرفصاء	conservative
+n	cds	no	لصوص	inclusive
+n	re	no	ابتزاز	conservative
+n	cds	no	لprocuress	conservative
+n	cds	no	باطل	conservative
+n	cds	no	وكان وكان	conservative
+n	asm	no	خصية	inclusive
+n	asm	no	جلبانة	inclusive
+n	svp	no	عِناد	conservative
+n	svp	no	تراخ	inclusive
+n	an	no	حيوانية	inclusive
+n	asm	no	قلفه	inclusive
+n	cds	no	المشاهد	conservative
+n	cds	no	غوغاء	conservative
+n	dmc	yes	تافه	conservative
+n	cds	no	القوادة	inclusive
+n	cds	no	الوقاحة	conservative
+n	an	no	حوين	inclusive
+n	an	no	صئبان	inclusive
+n	cds	no	غير شرعي	inclusive
+n	om	no	finocchio	inclusive
+n	an	no	ثورة	inclusive
+n	an	no	صراصير	inclusive
+n	an	no	فاحشة	conservative
+n	ps	yes	كروت	conservative
+n	cds	no	كازينو	inclusive
+n	ps	yes	هجين	inclusive
+n	an	no	برنت	inclusive
+n	dmc	yes	hayseed	conservative
+n	an	no	capra aegagrus hircus	inclusive
+n	an	no	الأفعى الخبيثة	inclusive
+n	dmc	yes	النفاق	conservative
+n	re	no	لص	conservative
+n	cds	no	عربة قطار	inclusive
+n	qas	no	والزيف	conservative
+n	svp	no	لا في الحساب	conservative
+n	cds	no	مجاري المياه	inclusive
+n	an	no	نموسة	inclusive
+n	an	no	متعضي مجهري	inclusive
+n	svp	no	تفاخر	conservative
+n	cds	no	ومن ناحية الوظيفة	conservative
+n	asm	no	ملحق	inclusive
+n	cds	no	الشارع مسدود	inclusive
+n	cds	no	كسول	conservative
+n	re	no	إرهابِي	inclusive
+a	pa	yes	سياسي	inclusive
+n	cds	no	أغتياب	inclusive
+n	an	no	عُلْجُوم	inclusive
+n	cds	no	شعب	conservative
+n	an	no	diddly	conservative
+n	asm	no	مأفون	inclusive
+n	cds	no	بوابة	conservative
+n	re	no	السرقة	inclusive
+n	an	no	الديوث	conservative
+n	asf	no	فرج	conservative
+n	cds	no	ناشر الفضائح و الإشاعات	conservative
+n	ps	yes	العرق الأسود	inclusive
+n	pa	yes	المتودد	inclusive
+n	an	no	غَضَب	inclusive
+n	cds	no	perspicaciousness	inclusive
+v	cds	no	رحل	inclusive
+v	asm	no	ناك	conservative
+n	svp	no	المهمل	conservative
+n	cds	no	التربة	inclusive
+n	cds	no	فوضى	inclusive
+n	cds	no	يخطيء	inclusive
+n	ps	yes	لليهود	inclusive
+n	dmc	yes	فجور	conservative
+n	ps	yes	واندال	inclusive
+n	re	no	مغتصب	conservative
+n	cds	no	clotheshorse	inclusive
+n	or	no	غبي	conservative
+n	qas	no	كريهة تصل	inclusive
+n	is	yes	فقر	inclusive
+n	svp	no	faineance	inclusive
+n	cds	no	رضيع	inclusive
+n	ps	yes	نصف الطائفة	conservative
+n	an	no	كسلان	conservative
+n	qas	no	ممتثل	conservative
+n	an	no	أفعوان	inclusive
+n	svp	no	الخطايا السبع المميتة	inclusive
+n	an	no	تمساح	inclusive
+n	om	no	الانقلاب الامامي للرحم	inclusive
+a	asm	no	بني	inclusive
+n	dmc	yes	المنافقين	conservative
+n	ps	yes	صيني	inclusive
+n	pr	no	لعهر	conservative
+n	cds	no	تحذلق	conservative
+n	asm	no	ballock	inclusive
+n	an	no	البراغيش	inclusive
+n	ps	yes	بلغار	inclusive
+n	pa	yes	راعٍ	inclusive
+n	cds	no	المذنب	inclusive
+n	dmc	yes	سوء	conservative
+n	pa	yes	محاسب	inclusive
+n	an	no	رجل الآكلة للأسماك القرش	inclusive
+n	dmc	yes	اخلاق	inclusive
+n	cds	no	الفاتن	inclusive
+n	dmc	yes	أثر الرائحة الكريهة	conservative
+n	cds	no	دورة مياه	inclusive
+n	re	no	المؤسر	inclusive
+n	cds	no	الشهوة	conservative
+n	or	no	لِفْت	inclusive
+n	ddp	yes	microcephalus	inclusive
+n	cds	no	مكفي	inclusive
+n	cds	no	بواسطة ضربة	inclusive
+n	or	no	الخيار	inclusive
+n	an	no	cakehole	inclusive
+n	asm	no	طير	inclusive
+n	asm	no	زُّب	conservative
+n	qas	no	parasitism	inclusive
+n	cds	no	الكثير	inclusive
+n	dmc	yes	مزيف	conservative
+n	cds	no	القميء	inclusive
+n	cds	no	أكوام	inclusive
+n	pr	no	زانية	conservative
+n	cds	no	وغير مغسولة كبيرة	conservative
+n	ddp	yes	بليدات	conservative
+n	cds	no	شخص ريفى أخرق	conservative
+a	pa	yes	السياسية	inclusive
+n	an	no	volaille	inclusive
+n	cds	no	ballup	inclusive
+n	cds	no	شرطي	conservative
+n	an	no	غير كفء شخص	conservative
+n	ddp	yes	القماءة	inclusive
+n	pa	yes	sheepherder	inclusive
+n	re	no	إرهابية	conservative
+n	or	no	رأس	inclusive
+n	an	no	الحتمية	conservative
+n	re	no	النذل	inclusive
+n	cds	no	التدين	inclusive
+n	dmc	yes	النصاب	conservative
+n	re	no	قاطع طريق	inclusive
+n	qas	no	منزل اللوحة	inclusive
+n	cds	no	دجال	conservative
+n	cds	no	العشيرة	inclusive
+n	ddp	yes	جهالة	conservative
+n	svp	no	الإستكبار	conservative
+n	asm	no	أحمق	inclusive
+n	cds	no	أغبياء	inclusive
+n	cds	no	رجعيه	conservative
+n	an	no	crocodylidae	inclusive
+n	an	no	جنون	inclusive
+n	dmc	yes	فسوق	inclusive
+n	qas	no	همجي	conservative
+n	om	no	فتى	inclusive
+n	svp	no	جنون	conservative
+n	ddp	yes	أمي	inclusive
+n	an	no	ديدان	inclusive
+n	an	no	هجمات القرش	inclusive
+n	dmc	yes	rakehell	conservative
+n	ps	yes	أغبياء	conservative
+n	cds	no	phratry	inclusive
+n	pr	no	جراره	inclusive
+n	ps	yes	البربرية	conservative
+n	ps	yes	السود	inclusive
+n	an	no	الضبع	inclusive
+n	dmc	yes	chiseller	conservative
+a	dmc	yes	زائف	conservative
+n	ps	yes	القميء	conservative
+n	pa	yes	البرابرة	conservative
+n	cds	no	مياه المجاري	inclusive
+n	cds	no	الفوضى	conservative
+n	an	no	mollusca	inclusive
+n	qas	no	تابع	inclusive
+n	re	no	villainess	conservative
+n	pa	yes	المحامي	inclusive
+n	pa	yes	حوذي	inclusive
+n	pr	no	عشيقة	conservative
+n	cds	no	الأتباع	conservative
+n	pr	no	الخزعبلات	conservative
+n	ddp	yes	animal	inclusive
+n	pr	no	أحد رجال الحاشية	inclusive
+n	svp	no	غرور	conservative
+n	re	no	إساءة	inclusive
+n	an	no	تمساحيات	inclusive
+n	dmc	yes	جيد مقابل لا شيء	conservative
+n	pa	yes	academicism	inclusive
+n	om	no	من نفس الجنس	inclusive
+n	dmc	yes	مهرّجون	inclusive
+n	svp	no	فرط التغذية	inclusive
+n	svp	no	طمع	inclusive
+n	cds	no	الماسونيين	inclusive
+n	cds	no	إزدراء	inclusive
+n	qas	no	طفيل	inclusive
+n	svp	no	سكون	inclusive
+n	dmc	yes	التشرد	inclusive
+n	qas	no	المتخبط	conservative
+n	qas	no	همج	inclusive
+n	cds	no	خطأ مربك	inclusive
+n	pa	yes	موظفين ذوي الياقات البيضاءالموظفين ذوي الياقات البيضاء	inclusive
+n	ddp	yes	عوام	conservative
+n	cds	no	قرابة	inclusive
+n	ddp	yes	analphabetic	inclusive
+n	re	no	لcalunnia	inclusive
+n	ddp	yes	مأفون	conservative
+n	cds	no	الخاضع	conservative
+n	cds	no	هرير	conservative
+n	pr	no	الجرذ	inclusive
+n	cds	no	الفساد	conservative
+n	svp	no	الجشع	inclusive
+n	om	no	شمار	inclusive
+n	asm	no	الفول	inclusive
+n	asf	no	لينة اللمس	conservative
+n	qas	no	البليغ	inclusive
+n	qas	no	تجسس	inclusive
+n	cds	no	النفايات البلدية	conservative
+n	ps	yes	اليهودي	inclusive
+n	re	no	حظر	inclusive
+n	ps	yes	استبدل	conservative
+n	cds	no	جريمه	inclusive
+n	cds	no	تسليم المفتاح	inclusive
+n	an	no	ضفدعة	inclusive
+n	or	no	يقطين	inclusive
+n	re	no	القرصنة	inclusive
+n	cds	no	الشقي	inclusive
+n	ps	yes	فنداليون	inclusive
+n	cds	no	المتعصبون	inclusive
+n	ddp	yes	الغباوة	conservative
+n	cds	no	newswriter	inclusive
+n	qas	no	قطب	inclusive
+v	asm	no	فَعَلَ جِنْس	conservative
+n	asm	no	بيضة	inclusive
+n	is	yes	متسول	inclusive
+n	an	no	دجاجه	inclusive
+n	an	no	حلوف	inclusive
+n	re	no	قاتلة	inclusive
+n	cds	no	مهذب	inclusive
+n	dmc	yes	كذب	inclusive
+n	ddp	yes	المتردد	conservative
+n	om	no	ألية	inclusive
+n	re	no	معاملة سيئة	inclusive
+n	cds	no	سرقه	inclusive
+n	an	no	اسكارجوتس	inclusive
+n	an	no	مواشي	inclusive
+n	cds	no	نفضة حالا	conservative
+n	cds	no	كذب	conservative
+n	pr	no	المومس	conservative
+n	ddp	yes	عامة	conservative
+n	asf	no	muttonhead	conservative
+n	cds	no	الفاشستية	conservative
+n	cds	no	تجمع	conservative
+n	qas	no	الفلاح	inclusive
+n	ddp	yes	غباوة	inclusive
+n	qas	no	طبقة	inclusive
+n	dmc	yes	زيف	inclusive
+n	svp	no	شهوانية	inclusive
+n	dmc	yes	المتكاسل	conservative
+n	an	no	باعوضة	inclusive
+n	cds	no	الأنانية	conservative
+n	an	no	حنكليس	inclusive
+n	re	no	جنحة	inclusive
+n	an	no	المومس	conservative
+n	svp	no	slothfulness	inclusive
+n	om	no	شاذّ جِنسِيًا	inclusive
+n	an	no	بخيلة	conservative
+n	ddp	yes	اغبى شخص في العالم	conservative
+n	ddf	yes	قزم	conservative
+n	cds	no	سجان	inclusive
+n	cds	no	كامريلا	inclusive
+n	pr	no	الجنس التجاري	inclusive
+n	svp	no	gourmandizer	inclusive
+a	dmc	yes	خاطئ	conservative
+n	asf	no	أغبياء	conservative
+n	qas	no	خصيتان	inclusive
+n	re	no	الإرهابي	inclusive
+n	re	no	sicilian mafia	inclusive
+n	re	no	المغتصب	conservative
+n	dmc	yes	مُبَذِّر	inclusive
+n	cds	no	ماسوني	inclusive
+n	an	no	القراد	inclusive
+n	pa	yes	مراقب	inclusive
+n	qas	no	رعيه	inclusive
+n	asm	no	قضيب	inclusive
+n	re	no	جاني	inclusive
+n	an	no	العث	inclusive
+n	ps	yes	الزولو	inclusive
+n	cds	no	أقرض بالربا	inclusive
+n	pa	yes	العريف	inclusive
+n	asm	no	أبله	inclusive
+n	an	no	ضفادع	inclusive
+n	an	no	الأبله	conservative
+n	cds	no	حقر	conservative
+n	qas	no	النظام الطبقي المتحجر	inclusive
+n	cds	no	نرجسية	inclusive
+n	cds	no	النفايات المنزلية	inclusive
+n	re	no	كامورا	inclusive
+n	or	no	الشمر	inclusive
+n	cds	no	chiseller	inclusive
+n	cds	no	حرابة	conservative
+n	qas	no	مأزق	inclusive
+n	ps	yes	الوندالي	inclusive
+n	cds	no	شفيع	inclusive
+n	ps	yes	darkey	conservative
+n	qas	no	طفيليات	inclusive
+n	cds	no	quidnunc	conservative
+n	ps	yes	التقاليد اليهودية،	inclusive
+n	an	no	غير المتعلمين شخص	conservative
+n	cds	no	المخادع	conservative
+n	ddf	yes	قباحة	inclusive
+n	an	no	طبل الأحمر	inclusive
+n	cds	no	غيك	conservative
+n	cds	no	ذنابة	inclusive
+n	asf	no	muggins	conservative
+n	svp	no	كسل	conservative
+n	ps	yes	نيغا	conservative
+n	ps	yes	أسود،	inclusive
+n	an	no	البغبغان	inclusive
+n	an	no	الأغنام المحلية	inclusive
+n	an	no	الارانب	inclusive
+n	om	no	مثليه جنسيه	inclusive
+n	qas	no	أوباش	conservative
+n	cds	no	المافيا	inclusive
+n	ddp	yes	جهالة	inclusive
+n	cds	no	blowhard	conservative
+n	qas	no	شخصيات من عالم الأعمال	inclusive
+n	om	no	اللواطة	inclusive
+n	cds	no	بونر	inclusive
+n	an	no	هجر أو نبذ الحبيب	conservative
+n	an	no	المكورات الكلبية	inclusive
+n	an	no	strigiformes	inclusive
+n	cds	no	حرامي	inclusive
+n	cds	no	مغفل	conservative
+n	asm	no	عير	conservative
+n	dmc	yes	منحوس	inclusive
+n	cds	no	كتل	inclusive
+v	asm	no	نكح	conservative
+n	ddp	yes	أحمق	inclusive
+n	ddp	yes	معتوه	conservative
+n	qas	no	كذب	conservative
+v	cds	no	تآمر	inclusive
+n	pr	no	ثيران	inclusive
+n	asm	no	خصيه	inclusive
+n	an	no	الصالحة للأكل الحلزون	inclusive
+a	ddf	yes	عمياء	inclusive
+n	cds	no	الرداءة	conservative
+n	qas	no	يخطيء	inclusive
+n	pr	no	العاهرات	conservative
+n	re	no	ندرانجيتا	inclusive
+n	an	no	فراسه	inclusive
+n	cds	no	خذل	inclusive
+n	cds	no	الرفيع الثقافة	inclusive
+n	cds	no	peons	inclusive
+n	om	no	مثليون جنسيا	conservative
+n	ddp	yes	محتال	conservative
+n	ps	yes	المسنيزو	conservative
+n	dmc	yes	موزاريلا	inclusive
+n	pa	yes	المحاسبون	inclusive
+n	dmc	yes	الفجور	inclusive
+n	cds	no	عوام	conservative
+n	cds	no	منع	inclusive
+n	ps	yes	يهودي	inclusive
+n	an	no	بعوضيات	inclusive
+n	re	no	plagiarization	inclusive
+n	pr	no	عاهرة	inclusive
+n	svp	no	بخيلة	conservative
+n	ps	yes	زولو	inclusive
+n	cds	no	الإستكبار	conservative
+n	cds	no	مافيا	inclusive
+n	cds	no	راحة العام	inclusive
+n	an	no	الرقعه	conservative
+n	dmc	yes	متجول	inclusive
+n	svp	no	الكسل	inclusive
+n	svp	no	بخل	inclusive
+n	or	no	عليل	conservative
+n	ddp	yes	البخيل	conservative
+n	asm	no	ذكر	inclusive
+n	asm	no	nooky	conservative
+n	ddp	yes	الأبله	inclusive
+n	qas	no	بارونات	inclusive
+n	svp	no	شره	inclusive
+n	an	no	كايمان	inclusive
+n	an	no	شخص ردئ	conservative
+n	cds	no	drainage	inclusive
+n	an	no	infauna	inclusive
+n	re	no	السارق	inclusive
+v	asm	no	اتصل جنسيا	conservative
+n	ddp	yes	تأخير	conservative
+n	re	no	banditti	inclusive
+n	om	no	الحمار	inclusive
+n	ddp	yes	أسير	inclusive
+n	cds	no	سطحية	inclusive
+n	cds	no	المثقف	conservative
+n	cds	no	المرابي	inclusive
+n	an	no	shark attack	inclusive
+n	ps	yes	هيسبنيك	inclusive
+n	re	no	افتراء كيدي	inclusive
+n	cds	no	تكبر	conservative
+n	an	no	خِنّوْص	inclusive
+n	dmc	yes	برابرة	conservative
+n	om	no	خنيث	inclusive
+n	an	no	بَقّة	inclusive
+n	svp	no	الفخر	inclusive
+n	svp	no	الملل	inclusive
+n	an	no	الخدع	conservative
+n	cds	no	villainess	conservative
+n	an	no	دُودَة	inclusive
+n	cds	no	وسخ	inclusive
+a	dmc	yes	خَرّاص	conservative
+n	asm	no	غباء	conservative
+a	ddp	yes	أحمق	conservative
+n	an	no	العلاجيم	inclusive
+n	ddp	yes	ثرثار	inclusive
+n	ps	yes	منغولي	conservative
+n	dmc	yes	فساد	inclusive
+n	or	no	المغفل	conservative
+n	an	no	نهاب	conservative
+n	or	no	الدقه في المواعيد	inclusive
+n	cds	no	تحسين النوع النباتي	inclusive
+n	cds	no	الرجعية	conservative
+n	cds	no	حفار	inclusive
+n	ddf	yes	شل	inclusive
+n	asm	no	الحماقة	conservative
+n	an	no	البومة،	inclusive
+n	om	no	عجز	inclusive
+n	svp	no	اللا مبالاة	inclusive
+n	svp	no	تافه	conservative
+n	an	no	البقيات	inclusive
+n	om	no	المقابل	inclusive
+v	re	no	سرق	inclusive
+n	ps	yes	سوداء	inclusive
+n	cds	no	لص	conservative
+n	dmc	yes	الجلف	conservative
+n	an	no	crocodylia	inclusive
+n	cds	no	اهل	inclusive
+n	pa	yes	قاعة بورتر	inclusive
+n	is	yes	villainess	conservative
+n	asm	no	بازيلاء	inclusive
+n	an	no	الدجاج	inclusive
+n	an	no	عث	inclusive
+n	is	yes	فقراء	inclusive
+n	dmc	yes	مختلق	conservative
+n	cds	no	بهتان	inclusive
+n	asm	no	أحمق	conservative
+n	om	no	سيدتي	inclusive
+n	asm	no	بلادة	conservative
+n	re	no	تشهيرية	inclusive
+n	ddp	yes	القميء	inclusive
+n	qas	no	قبعة سيئة	conservative
+n	an	no	ثُور	inclusive
+n	dmc	yes	المارقة	conservative
+n	dmc	yes	كافر	conservative
+n	cds	no	مولود	inclusive
+n	asm	no	ithyphallic	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	dmc	yes	أخلاقيات	inclusive
+n	dmc	yes	ريفي	conservative
+n	om	no	الكعك	inclusive
+n	or	no	دباء	inclusive
+n	re	no	مغتاب	conservative
+n	cds	no	لجنة	inclusive
+n	pa	yes	أستاذ	inclusive
+n	cds	no	الفاشيين	conservative
+n	cds	no	المتهرب	conservative
+n	cds	no	مصورون صحفيون	inclusive
+n	or	no	خِيَار	inclusive
+n	cds	no	لا أدري ما أعمل	conservative
+n	ps	yes	بدوي	inclusive
+n	ddp	yes	metazoa	inclusive
+n	dmc	yes	الأخلاق	inclusive
+n	dmc	yes	يؤسف له	inclusive
+n	om	no	crossdress	inclusive
+n	an	no	الأبقار	inclusive
+n	cds	no	banditti	conservative
+n	svp	no	البخيل	conservative
+n	an	no	القملة	inclusive
+n	re	no	الجنايات	inclusive
+n	qas	no	عمارة باروكية	inclusive
+n	an	no	إنقليس	inclusive
+a	is	yes	غير سعيدة	inclusive
+n	dmc	yes	المهرجين	inclusive
+n	an	no	hemipteran	inclusive
+n	cds	no	حشد	inclusive
+n	qas	no	السوق حارس	inclusive
+n	cds	no	أبناء القبائل	inclusive
+n	an	no	علة السرير	inclusive
+n	svp	no	سخط	inclusive
+n	cds	no	مجموعة	inclusive
+n	pa	yes	مُحامٍ	inclusive
+n	an	no	بعوض	inclusive
+n	cds	no	newspaperman	inclusive
+v	qas	no	رقع	inclusive
+n	pa	yes	أكاديمي	inclusive
+n	an	no	عاهرة	conservative
+n	an	no	الصرصوريات	inclusive
+n	pr	no	الماشية	inclusive
+n	an	no	حلزون	inclusive
+n	ddp	yes	shithead	conservative
+n	an	no	البرغوث	inclusive
+n	an	no	shithead	conservative
+n	cds	no	شبكة المياه المالحة	inclusive
+n	an	no	الهمجية	inclusive
+n	om	no	القاعدية	inclusive
+n	an	no	بهيمة	inclusive
+n	cds	no	العادة السرية	conservative
+n	an	no	hemipteron	inclusive
+n	an	no	shote	inclusive
+n	qas	no	منظر	inclusive
+n	or	no	cuke	inclusive
+n	an	no	anguillidae	inclusive
+n	cds	no	ممتثل	conservative
+n	an	no	بكتيريا	inclusive
+n	ddp	yes	أوباش	conservative
+n	ps	yes	اليهودية	inclusive
+n	ddp	yes	twirp	conservative
+n	om	no	الشذوذ الجنسي	inclusive
+n	an	no	ماعز	inclusive
+n	asm	no	betise	conservative
+n	dmc	yes	المغالط	inclusive
+n	pr	no	شرموطه	conservative
+n	svp	no	معاندة	conservative
+n	an	no	ثعبان الماء	inclusive
+n	cds	no	البعثرة	conservative
+n	an	no	الحيوانات	inclusive
+n	cds	no	نسب	inclusive
+n	om	no	المتخنثون	inclusive
+n	cds	no	splashiness	inclusive
+n	an	no	حثالة كيس	conservative
+n	qas	no	وظيفة مكتبية	inclusive
+n	ddp	yes	عقليا	inclusive
+n	svp	no	سلبية	inclusive
+n	om	no	مثلية	inclusive
+n	cds	no	كبرياء	conservative
+v	asm	no	مَارَسَ الجِنْس	conservative
+n	cds	no	جنائي	conservative
+n	cds	no	الانتهازي	conservative
+a	ps	yes	الصينية	inclusive
+n	dmc	yes	السارق	conservative
+n	dmc	yes	شخص غير مستقر	inclusive
+n	ddp	yes	صعل	inclusive
+n	an	no	الغضب	inclusive
+n	ps	yes	برابرة	conservative
+n	dmc	yes	منافقين	conservative
+n	ps	yes	أحمق	conservative
+n	pr	no	المتودد	inclusive
+n	an	no	دجاج	inclusive
+n	ddp	yes	metazoans	inclusive
+n	svp	no	حسد	inclusive
+n	or	no	مثليون جنسيا	conservative
+n	re	no	المخادع	inclusive
+n	an	no	حلزونة	inclusive
+a	svp	no	متعالي	conservative
+n	ps	yes	مرقس	conservative
+n	cds	no	جبن	conservative
+n	cds	no	صرف	inclusive
+n	ddf	yes	اعاقة	inclusive
+n	cds	no	دفاع	inclusive
+n	an	no	حَشَرة	inclusive
+n	asm	no	الاصطياد قبالة	conservative
+n	cds	no	تحريم	inclusive
+n	re	no	سرقه	inclusive
+n	svp	no	الغريزه الجنسيه	inclusive
+n	asf	no	مارك	conservative
+n	cds	no	الرعاع، محرض	conservative
+n	ps	yes	غليظ	conservative
+n	an	no	blattodea	inclusive
+n	cds	no	رجعية	conservative
+n	cds	no	السرقه	inclusive
+n	an	no	خنزير	inclusive
+n	asm	no	testes	inclusive
+n	cds	no	لprocuress	inclusive
+n	cds	no	تقع الرجل	conservative
+n	ps	yes	negroids	inclusive
+n	cds	no	محدث النعمة	inclusive
+n	an	no	الببغاء	inclusive
+n	an	no	البرغوثيات	inclusive
+n	an	no	أتان	inclusive
+n	ps	yes	غجر	inclusive
+n	re	no	قاتل	inclusive
+n	pa	yes	بروفسور	inclusive
+n	asm	no	valouse	inclusive
+n	cds	no	الاستعلاء	conservative
+n	asm	no	الطيور	inclusive
+n	qas	no	مناطق نفوذ	inclusive
+n	cds	no	فاشستي	conservative
+n	cds	no	انطوائي	conservative
+n	pa	yes	وزير	inclusive
+n	an	no	نزهة	inclusive
+n	an	no	eurypterid	inclusive
+n	cds	no	نرجسيه	inclusive
+n	an	no	إوزة	inclusive
+n	cds	no	أومنيوم-gatherum	inclusive
+n	ps	yes	مغولية	inclusive
+n	cds	no	فضولي-باركر	conservative
+n	cds	no	interfertility	inclusive
+n	an	no	ثور(حيوان)	inclusive
+n	cds	no	الأصولية	inclusive
+n	ddp	yes	الأمية	inclusive
+n	or	no	خنيث	conservative
+n	cds	no	procuress	conservative
+n	an	no	الحييوين	inclusive
+n	svp	no	شراء شركات	inclusive
+n	om	no	نبيلة	inclusive
+n	cds	no	وكيل	inclusive
+n	dmc	yes	همجي	conservative
+n	an	no	الجاموس الأمريكي	inclusive
+n	ps	yes	البرابرة	conservative
+n	an	no	الفراسة	inclusive
+n	cds	no	عامل	inclusive
+n	ps	yes	المنغول	inclusive
+n	cds	no	قاطع طريق	conservative
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	qas	no	بيوت	inclusive
+n	asf	no	تقنية	inclusive
+n	pr	no	الخبث	conservative
+n	pa	yes	جنازة المخرج	inclusive
+n	cds	no	والزيف	inclusive
+n	cds	no	الجبان	conservative
+n	svp	no	عنجهية	conservative
+n	cds	no	مهارة	inclusive
+n	ps	yes	الزنوج	inclusive
+n	dmc	yes	مبذر	inclusive
+n	cds	no	متأنق	inclusive
+n	or	no	البطاطة	inclusive
+n	cds	no	المصورون الصحفيون	inclusive
+n	cds	no	النذل	inclusive
+n	ddf	yes	تعطيل	inclusive
+n	an	no	خسيس	conservative
+n	svp	no	تعصب	conservative
+n	an	no	أنعام	inclusive
+n	om	no	مجافي الفم	inclusive
+n	re	no	قرصنه	inclusive
+n	ps	yes	متشرد	inclusive
+n	cds	no	فوضى	conservative
+n	cds	no	الأنيقون	inclusive
+n	ddp	yes	مشعوذ	conservative
+n	ddp	yes	موظر	conservative
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	cds	no	ريفي	conservative
+n	cds	no	الشرطي	inclusive
+n	cds	no	مرب	inclusive
+n	asf	no	مغفل	conservative
+n	cds	no	جناية	inclusive
+n	an	no	الحمار	inclusive
+n	pa	yes	الأستاذية	inclusive
+n	cds	no	وغد	conservative
+n	qas	no	برجوازيه	inclusive
+n	or	no	brassica oleracea	inclusive
+n	dmc	yes	اللص المتسلل	conservative
+n	an	no	الثور البري	inclusive
+n	cds	no	أتباع	conservative
+n	ddp	yes	البربرية	conservative
+n	ddp	yes	الحماقة	conservative
+n	pa	yes	الأستاذ	inclusive
+n	ps	yes	المملكة المغولية	inclusive
+n	re	no	عنف	inclusive
+n	dmc	yes	فجور	inclusive
+n	cds	no	التعالي	conservative
+n	cds	no	البطانة مستشاريين غير رسميين	inclusive
+n	ps	yes	الشخص الأسود	inclusive
+n	qas	no	أسرف في الشراب	inclusive
+n	cds	no	مروج	inclusive
+n	asm	no	بسلة	inclusive
+n	ps	yes	jews	inclusive
+n	cds	no	conventicle	inclusive
+a	dmc	yes	القذرة	inclusive
+n	qas	no	متجر	inclusive
+n	cds	no	أقرباء	inclusive
+n	qas	no	التكلف	inclusive
+n	cds	no	المرابين	inclusive
+n	pa	yes	الرعاة	inclusive
+n	re	no	خاطف	inclusive
+n	pr	no	الجرذان	inclusive
+n	pa	yes	باب الحرس	inclusive
+n	ddp	yes	دلخ	conservative
+n	ps	yes	يهود	inclusive
+n	re	no	التي تخرق القانون	inclusive
+n	qas	no	مزارع	inclusive
+n	an	no	إبن آوى	inclusive
+n	cds	no	غرفة غسل	inclusive
+n	svp	no	كبرياء	inclusive
+n	an	no	rentboy	conservative
+n	an	no	الببغاوات	inclusive
+n	svp	no	عناد	conservative
+n	cds	no	غبية	inclusive
+n	ps	yes	interfertility	inclusive
+n	cds	no	bellyacher	conservative
+n	re	no	إرهابي	conservative
+n	an	no	كابرا	inclusive
+n	cds	no	فاشي	conservative
+n	asm	no	الغباوة	conservative
+n	svp	no	كسل	inclusive
+n	ddf	yes	نصف باينت	conservative
+n	pr	no	أبقار	inclusive
+n	an	no	عقرب البحر	inclusive
+n	ddp	yes	كلام فارغ	inclusive
+n	om	no	المثاليين الجنس	inclusive
+n	asm	no	غبيين	conservative
+n	dmc	yes	نتن	conservative
+n	svp	no	خيلاء	conservative
+n	an	no	كلب	inclusive
+n	qas	no	المتردد	conservative
+n	cds	no	فاشستية	conservative
+n	cds	no	سجل هاميلتون	conservative
+n	an	no	تيس	inclusive
+n	re	no	غنيمة	inclusive
+n	ps	yes	صينية	inclusive
+n	ps	yes	الشديد السمرة	inclusive
+n	re	no	العمليات الارهابية	conservative
+n	cds	no	لكسر الإضراب	inclusive
+n	cds	no	متآمر	inclusive
+n	ps	yes	البدو	inclusive
+n	ddp	yes	دابة	inclusive
+n	dmc	yes	حثالة كيس	inclusive
+n	pr	no	الدعارة	conservative
+n	asf	no	الأبله	conservative
+n	dmc	yes	غليظ	conservative
+n	cds	no	فرط النشاط الجنسي	conservative
+a	asm	no	سمر	inclusive
+n	an	no	الصرصار	inclusive
+a	svp	no	متكبر	conservative
+n	an	no	تستخدام	inclusive
+n	an	no	الكيولكس النابصة	inclusive
+n	svp	no	سأم	inclusive
+n	qas	no	الطبقة المتوسطة	inclusive
+a	dmc	yes	قذر	inclusive
+n	an	no	canis aureus	inclusive
+n	ps	yes	نازي	inclusive
+n	asm	no	avifauna	inclusive
+n	pa	yes	الأكاديميين	inclusive
+n	or	no	fastidiousness	inclusive
+n	qas	no	قفص	inclusive
+n	cds	no	codswallop	conservative
+n	svp	no	الشهوه	inclusive
+n	cds	no	أهل	inclusive
+n	qas	no	الطاقم	inclusive
+n	ps	yes	الفاندال	inclusive
+n	asm	no	معتوه	inclusive
+n	asm	no	طَير	inclusive
+n	ps	yes	أبله	conservative
+n	pa	yes	مستشار في القانون العام	inclusive
+n	cds	no	ستيلير	inclusive
+n	cds	no	المتردد	conservative
+n	ps	yes	البدويين	inclusive
+n	qas	no	الأعمال المنزلية	inclusive
+n	ps	yes	وندل	inclusive
+n	pa	yes	عضو هيئة التدريس	inclusive
+n	pa	yes	المستشار القانوني	inclusive
+n	qas	no	أبناء الأبرشية	inclusive
+n	ddp	yes	twaddler	conservative
+n	ps	yes	روماني	inclusive
+n	ddp	yes	البرابرة	conservative
+n	ddp	yes	ابن زنا	conservative
+n	cds	no	الفوضى	inclusive
+n	pa	yes	وكيل	inclusive
+n	cds	no	المتعصب	conservative
+n	om	no	المثليين	inclusive
+n	pa	yes	برابرة	conservative
+n	an	no	فراسة	inclusive
+n	cds	no	ناسخ	conservative
+n	cds	no	زور	inclusive
+n	qas	no	المجتمع البرجوازي	inclusive
+n	cds	no	بوو بوو	inclusive
+n	cds	no	قبائل	inclusive
+n	qas	no	التابعين	inclusive
+v	cds	no	مات	inclusive
+n	cds	no	رجل شرطة	conservative
+n	cds	no	بوليس	inclusive
+n	ps	yes	بطاقة حمراء	inclusive
+n	dmc	yes	المتشرد	inclusive
+n	an	no	غبي	conservative
+n	or	no	شمر	inclusive
+n	an	no	vipera berus	inclusive
+n	cds	no	مافيا	conservative
+n	or	no	الاسكواش الكرمة	inclusive
+n	ps	yes	همجي	conservative
+v	qas	no	تجمل	inclusive
+n	asm	no	مارك	conservative
+n	dmc	yes	وvillainess	conservative
+n	dmc	yes	تفوح منه رائحة عفنة	conservative
+n	cds	no	حظر	conservative
+n	re	no	إغتصاب	conservative
+n	dmc	yes	باعث أخلاقي	inclusive
+n	asm	no	أغبياء	conservative
+n	cds	no	الخردة	inclusive
+a	dmc	yes	بَهْرَج	conservative
+n	dmc	yes	العصابات	inclusive
+n	svp	no	تحجر	conservative
+n	an	no	أفاعي	inclusive
+n	pa	yes	جسدي	inclusive
+n	svp	no	ثورة	conservative
+n	qas	no	مخلوط	inclusive
+n	cds	no	الفضلات	inclusive
+n	asm	no	لفة في القش	conservative
+n	an	no	رأس	inclusive
+n	an	no	مكروب	inclusive
+n	ddp	yes	عان	inclusive
+n	an	no	الخروف	inclusive
+n	ddp	yes	متوحش	conservative
+n	an	no	الكسول	conservative
+n	om	no	foeniculum vulgare	inclusive
+n	ps	yes	اللون الأسود	inclusive
+n	an	no	عامة	conservative
+n	svp	no	فاسق	inclusive
+n	dmc	yes	dillydallier	conservative
+n	ddp	yes	أبله	conservative
+n	an	no	العقرب الأسماك	inclusive
+n	cds	no	معاندة	conservative
+n	svp	no	فخر	inclusive
+n	cds	no	مغرور	conservative
+n	cds	no	الأحداث الجانحين	conservative
+n	an	no	بغبغان	inclusive
+n	cds	no	fascista	inclusive
+n	an	no	كبش	inclusive
+n	svp	no	غضبه	conservative
+n	cds	no	prankishness	inclusive
+n	ddp	yes	غبيين	conservative
+n	an	no	أفعى	inclusive
+n	dmc	yes	دافع أخلاقي	inclusive
+n	cds	no	نردي	conservative
+n	an	no	مغناج	conservative
+n	qas	no	تاجر	inclusive
+n	asf	no	غبية	conservative
+n	an	no	التمساح	inclusive
+n	ps	yes	hebraism	inclusive
+n	pa	yes	البربرية	conservative
+n	cds	no	سرب	inclusive
+n	an	no	دودة	inclusive
+n	an	no	gallus gallus domesticus	inclusive
+n	an	no	جاموسة	inclusive
+n	pa	yes	المدافع	inclusive
+n	an	no	ابن آوى	inclusive
+n	cds	no	superbia	inclusive
+n	qas	no	البربرية	conservative
+n	ps	yes	تقع الرجل	conservative
+n	re	no	الإغتصاب	conservative
+a	cds	no	غبي	conservative
+n	dmc	yes	احمق	inclusive
+n	ps	yes	البلغار	inclusive
+n	an	no	خدعة	conservative
+n	an	no	امرأة المطارد	conservative
+n	or	no	البطاطة"،	inclusive
+n	is	yes	الشرير	conservative
+n	an	no	البغبغاء	inclusive
+n	dmc	yes	المتخبط	conservative
+n	re	no	سرقة	inclusive
+n	an	no	غيظ	inclusive
+n	cds	no	finagler	conservative
+n	qas	no	الهواة	inclusive
+n	ps	yes	بدو	inclusive
+n	re	no	عنوة	inclusive
+n	an	no	هليب	inclusive
+n	cds	no	دهاء	inclusive
+n	cds	no	فوتوغرافيا	inclusive
+n	ps	yes	غبي	conservative
+n	pr	no	لعهر	inclusive
+n	ddp	yes	غبيون	conservative
+n	an	no	عبوس	inclusive
+n	re	no	المجرمين	inclusive
+n	ddp	yes	القصاص	conservative
+n	pr	no	فاحشة	conservative
+n	qas	no	البورجوازية	inclusive
+n	dmc	yes	كاذب	conservative
+n	an	no	برغوثيات	inclusive
+n	an	no	crocodylian	inclusive
+n	pr	no	العث	inclusive
+n	pr	no	بَقَرَة	inclusive
+n	cds	no	شعب	inclusive
+n	an	no	folderol	conservative
+n	svp	no	كسول	conservative
+n	cds	no	قطع المتابعة	conservative
+n	svp	no	invidia	inclusive
+n	ddp	yes	استبدل	inclusive
+n	dmc	yes	lowlife	conservative
+n	dmc	yes	المنبوذون	inclusive
+n	ps	yes	إسرائيلي	inclusive
+n	an	no	ثعبان في العشب	conservative
+n	ddp	yes	saphead	conservative
+n	an	no	المارقة	conservative
+n	an	no	انتهازي	conservative
+n	or	no	ضمادة	conservative
+n	cds	no	السلوك الإجرامي	inclusive
+n	cds	no	وقاحة	conservative
+n	cds	no	سارق	inclusive
+n	asm	no	البني	inclusive
+n	an	no	حشرة	inclusive
+n	asm	no	المدمس	inclusive
+n	cds	no	مهوس	conservative
+n	qas	no	الامتثال	inclusive
+n	an	no	قناة باس	inclusive
+n	ddp	yes	الشعوذة	conservative
+n	re	no	تسرق	inclusive
+n	an	no	بوس الثور	inclusive
+n	re	no	يختطف	inclusive
+n	pa	yes	العلمية	inclusive
+n	an	no	الماعز	inclusive
+n	svp	no	شره	conservative
+n	cds	no	وndrangheta	inclusive
+n	an	no	saphead	conservative
+n	svp	no	إفراط في الطعام	inclusive
+n	or	no	الملفوف	inclusive
+n	an	no	eurypterids	inclusive
+n	ps	yes	المولدين	conservative
+n	dmc	yes	ملفق	conservative
+n	re	no	التشهير	inclusive
+n	qas	no	هاو	inclusive
+n	cds	no	ضمادة	conservative
+n	qas	no	الخردة	inclusive
+n	dmc	yes	والزيف	inclusive
+n	pr	no	عثة	inclusive
+n	om	no	بسة الجنس الآخر	inclusive
+n	cds	no	نصف باينت	conservative
+n	dmc	yes	المضيع	conservative
+n	om	no	النشاط الجنسي للذكور	inclusive
+a	cds	no	خبيث	conservative
+n	or	no	عوادم	inclusive
+n	asm	no	doofus	conservative
+n	qas	no	بياع	inclusive
+n	an	no	الصوص	inclusive
+n	re	no	ارهاب	conservative
+n	cds	no	saphead	conservative
+n	asm	no	العادة السرية	conservative
+n	cds	no	القوادين	inclusive
+n	pr	no	العاهرات	inclusive
+n	pa	yes	رعي الغنم	inclusive
+n	asm	no	اغبى شخص في العالم	conservative
+n	cds	no	حدة ذهن	inclusive
+n	an	no	أنقليس	inclusive
+n	cds	no	جاني	conservative
+n	cds	no	نظرية مؤامرة	inclusive
+n	asm	no	القضيب	inclusive
+n	cds	no	شرير	conservative
+n	cds	no	sicilian mafia	conservative
+n	svp	no	الغضب	conservative
+n	an	no	ثور	inclusive
+n	asm	no	قطعة من الذيل	conservative
+n	re	no	سفاح	inclusive
+n	qas	no	قرح	inclusive
+n	cds	no	عشيرة	inclusive
+n	ddp	yes	لا معنى لها	conservative
+n	cds	no	دورة المياه	inclusive
+n	an	no	chicken	inclusive
+n	or	no	knucklehead	conservative
+n	dmc	yes	بهتان	inclusive
+n	qas	no	رعاع	conservative
+n	ps	yes	زنجي	inclusive
+n	an	no	ثعلبة	inclusive
+n	svp	no	بخل	conservative
+n	ddp	yes	الأبله	conservative
+n	qas	no	بلغاء	inclusive
+n	cds	no	المدقق	conservative
+n	an	no	الكايمانات	inclusive
+n	cds	no	مشكل	conservative
+n	or	no	ملفوف	inclusive
+n	asm	no	الخصية	inclusive
+n	an	no	أثينا noctua	inclusive
+n	svp	no	layabout	conservative
+n	cds	no	رفض	conservative
+n	qas	no	أومنيوم-gatherum	inclusive
+n	asm	no	ناتئ	inclusive
+n	cds	no	التمييز الديني	inclusive
+n	dmc	yes	homunculi	inclusive
+n	re	no	إرهاب	conservative
+n	cds	no	layabout	conservative
+v	qas	no	تلعثم	conservative
+n	re	no	الإبتزاز	conservative
+n	cds	no	غرور	conservative
+n	an	no	الميكروبية	inclusive
+n	an	no	lowlife	conservative
+n	cds	no	cacography	inclusive
+n	or	no	شومر	inclusive
+a	ddp	yes	مجنون	inclusive
+n	cds	no	النذل	conservative
+n	om	no	السيدة	inclusive
+n	pa	yes	استاذ	inclusive
+n	dmc	yes	الكذب	inclusive
+n	re	no	المارقة	conservative
+n	is	yes	خسيس	conservative
+n	ps	yes	منغولية	inclusive
+n	re	no	العصابات	inclusive
+n	qas	no	تتطفل	inclusive
+n	cds	no	برابرة	conservative
+n	asm	no	الخصوه	inclusive
+n	qas	no	العدوى الذاتية	inclusive
+n	an	no	خافيات الأجنحة	inclusive
+n	cds	no	المنظر	inclusive
+n	cds	no	السرقة	inclusive
+n	qas	no	أعمال	inclusive
+n	re	no	الإرهابيين	conservative
+n	dmc	yes	فاحشة	conservative
+n	ps	yes	مجتث	conservative
+n	ps	yes	مغفل	conservative
+n	cds	no	fop	inclusive
+n	asm	no	يصعب على	inclusive
+n	cds	no	غلطة شنيعة	inclusive
+n	an	no	ابقار	inclusive
+n	re	no	جانح	conservative
+n	ps	yes	وندليون	inclusive
+n	cds	no	jokester	inclusive
+n	svp	no	عطالة	inclusive
+n	re	no	الاعتداء الجنسي	inclusive
+n	pa	yes	مؤيد	inclusive
+n	asm	no	نعوظ	inclusive
+n	an	no	carcharodon	inclusive
+n	ddp	yes	الجاهل	conservative
+n	cds	no	النفايات الصلبة	inclusive
+n	re	no	raptio	inclusive
+n	an	no	insecta	inclusive
+n	an	no	الغانم	inclusive
+n	or	no	homophile	conservative
+n	qas	no	كوخ	inclusive
+n	ddp	yes	مارك	conservative
+n	cds	no	الحرابة	conservative
+n	svp	no	غطرسة	conservative
+n	cds	no	التعصب	conservative
+n	asm	no	سخيف	conservative
+n	om	no	المؤخرة	inclusive
+n	an	no	phthiraptera	inclusive
+n	cds	no	الغندور رجل شديد التأنق	inclusive
+n	dmc	yes	مداجٍ	conservative
+n	qas	no	المستأجر المزارع	inclusive
+n	cds	no	ملفق	conservative
+n	re	no	تعسف	inclusive
+n	cds	no	زيف	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	om	no	لوطي	conservative
+n	cds	no	سيارة عتيقة	inclusive
+n	is	yes	وvillainess	conservative
+n	an	no	الرخويات	inclusive
+n	om	no	الأليتان	inclusive
+n	pa	yes	محامي	inclusive
+n	ps	yes	معتوه	conservative
+n	an	no	animalia	inclusive
+n	cds	no	عِلْمَانية	inclusive
+n	pa	yes	كرسي	inclusive
+n	cds	no	أصولية	inclusive
+n	cds	no	ضابط	inclusive
+n	qas	no	أب روحي	inclusive
+n	asm	no	سمرة	inclusive
+n	cds	no	باطل	inclusive
+n	qas	no	تابعون	inclusive
+n	cds	no	المضطهد	conservative
+n	om	no	شاذّ جِنسِيًا	conservative
+n	re	no	المبتز	inclusive
+n	qas	no	فلاح	inclusive
+n	asm	no	غبية	inclusive
+n	cds	no	الجلد	inclusive
+n	cds	no	pedagog	inclusive
+n	re	no	stickup	inclusive
+n	an	no	التنصت	inclusive
+n	cds	no	دندنة	inclusive
+n	pa	yes	بواب	inclusive
+n	cds	no	التمادي	conservative
+n	an	no	مغفل	conservative
+n	ddp	yes	ميكروسيفالي	inclusive
+n	an	no	fuckhead	conservative
+n	cds	no	ذخيرة	inclusive
+n	cds	no	الدجال	conservative
+n	pa	yes	متوحش	conservative
+n	ps	yes	اسرائيلي	inclusive
+n	qas	no	اعدام	conservative
+n	an	no	جرو	inclusive
+n	cds	no	الرعديد	conservative
+n	re	no	العنف	inclusive
+n	om	no	كفل	inclusive
+n	om	no	الشذوذ الجنسى	inclusive
+n	is	yes	منبوذون	inclusive
+n	re	no	المسيئة	inclusive
+n	pa	yes	همجي	conservative
+n	cds	no	النظام الفاشي،	conservative
+n	ddp	yes	غبي	inclusive
+n	svp	no	pridefulness	inclusive
+n	is	yes	إفقار	inclusive
+n	re	no	قسوة	inclusive
+a	ps	yes	يهودي	inclusive
+n	svp	no	السبع خطايا المميتة	inclusive
+n	svp	no	نهم	inclusive
+n	ddp	yes	dumbass	conservative
+n	dmc	yes	chawbacon	conservative
+n	om	no	اللواط	inclusive
+n	an	no	wuss	conservative
+n	svp	no	gourmandizer	conservative
+n	ddp	yes	جمجمة صغيرة	inclusive
+a	ddf	yes	عوراء	inclusive
+n	an	no	pipistrelle	inclusive
+n	re	no	القتل	inclusive
+n	cds	no	جمهور	conservative
+n	an	no	الوز	inclusive
+n	cds	no	مساعدة التدريس	inclusive
+a	svp	no	مغرور	conservative
+n	om	no	لواطي	inclusive
+n	ddp	yes	الحيوانية	inclusive
+n	cds	no	متسكع	conservative
+n	asm	no	wanker	conservative
+n	cds	no	omertà	inclusive
+n	qas	no	التخلي عن السفينة	inclusive
+n	qas	no	teste	inclusive
+n	an	no	حييوين	inclusive
+n	cds	no	أبله	inclusive
+n	ps	yes	منغول	inclusive
+n	an	no	ببغاوات	inclusive
+a	svp	no	فخور	conservative
+n	cds	no	زحمة	inclusive
+n	dmc	yes	خطيئة	conservative
+n	pr	no	العثة	inclusive
+n	cds	no	بصيرة	inclusive
+n	qas	no	استغلالي	conservative
+n	cds	no	tricker	conservative
+n	dmc	yes	مرتد	conservative
+n	cds	no	منزل فاجر	inclusive
+n	ps	yes	تأخير	conservative
+n	qas	no	البرجوازيه	inclusive
+n	an	no	النسر	inclusive
+n	om	no	أستاذة	inclusive
+n	an	no	ضفدع	inclusive
+n	qas	no	غلطة شنيعة	inclusive
+n	an	no	بيسون	inclusive
+n	asm	no	foreskin	inclusive
+n	ps	yes	زنجي	conservative
+n	pr	no	صبي الإيجار	conservative
+n	or	no	لفت	inclusive
+n	cds	no	folderol	conservative
+n	ps	yes	metic	inclusive
+n	pr	no	hetaera	inclusive
+a	ps	yes	الصينيين	inclusive
+n	an	no	انها-الماعز	inclusive
+n	cds	no	papparazzi	inclusive
+n	asm	no	غباوه	conservative
+n	ddp	yes	doofus	conservative
+n	an	no	الناموس	inclusive
+n	cds	no	الفاشي	conservative
+n	asm	no	بلداء	conservative
+n	asm	no	نتوء	inclusive
+n	svp	no	بيني وبين معسر	inclusive
+n	cds	no	ماسونيون	inclusive
+n	qas	no	الطفيلية	inclusive
+n	re	no	سراق	inclusive
+n	pr	no	بوس الثور	inclusive
+n	dmc	yes	رياء	conservative
+n	ddp	yes	نزيل	inclusive
+n	cds	no	سلوك غريب	inclusive
+n	cds	no	سربة	inclusive
+n	an	no	الحیوانات	inclusive
+n	cds	no	دهماء	conservative
+n	cds	no	أنيق	inclusive
+n	cds	no	الغوغائية	conservative
+n	ddp	yes	تفاهة	conservative
+n	pr	no	شرموطه	inclusive
+n	asm	no	قضيبي	inclusive
+n	re	no	الأحداث الجانحين	conservative
+n	an	no	عامية	conservative
+n	cds	no	امرأة مثقفة	inclusive
+n	an	no	anurans	inclusive
+n	ps	yes	قوط شرقيون	inclusive
+n	dmc	yes	شر	conservative
+n	ddp	yes	وحش	inclusive
+n	an	no	canis lupus familiaris	inclusive
+n	cds	no	المتفاخر	conservative
+n	cds	no	المتذمر	conservative
+n	an	no	غنم	inclusive
+n	pr	no	عاهرة	conservative
+n	cds	no	chawbacon	conservative
+n	cds	no	أكذوبة	conservative
+n	asm	no	القلفة	inclusive
+n	an	no	مواقعة البهائم	conservative
+n	cds	no	الحشد	inclusive
+a	svp	no	متغطرس	conservative
+n	re	no	جناية	inclusive
+n	svp	no	minginess	conservative
+n	cds	no	خارج عن القانون	inclusive
+n	ps	yes	المتشرد	inclusive
+n	an	no	ضأن	inclusive
+n	re	no	الآسر	inclusive
+n	re	no	الاعتداءات الجنسية	inclusive
+n	ps	yes	آسيوية،	inclusive
+n	cds	no	بسرعة واحدة	conservative
+n	re	no	عمليات ارهابية	inclusive
+v	re	no	عذب	inclusive
+n	ps	yes	البله	conservative
+n	ps	yes	المغول	inclusive
+n	svp	no	الكسالى	conservative
+n	qas	no	غوغاء	inclusive
+n	cds	no	camarilla	inclusive
+n	cds	no	قطف	conservative
+n	asm	no	القرطمان	inclusive
+n	re	no	تعذيب	inclusive
+n	svp	no	مملة	inclusive
+n	pr	no	floozie	conservative
+n	om	no	خنيث	conservative
+n	cds	no	فاشية	conservative
+n	cds	no	nurseling	inclusive
+n	cds	no	المشكلة	conservative
+a	re	no	عنيف	conservative
+n	qas	no	متاجر	inclusive
+n	cds	no	المتلصص	conservative
+n	an	no	خسيس	inclusive
+n	cds	no	satyriasis	conservative
+n	dmc	yes	أخلاق	inclusive
+n	re	no	للتعذيب	inclusive
+n	re	no	ndrangheta	inclusive
+n	cds	no	العلموية	inclusive
+n	svp	no	كسلان	conservative
+n	cds	no	lav	inclusive
+n	pr	no	أبقى امرأة	conservative
+n	ddp	yes	ضمادة	conservative
+n	cds	no	حارس السجن	inclusive
+n	asm	no	الجلبان	inclusive
+n	dmc	yes	منافقان	conservative
+n	cds	no	ثرثار	conservative
+a	re	no	العنيفة	inclusive
+n	dmc	yes	التائه	inclusive
+n	cds	no	انقلاب	inclusive
+n	qas	no	قطف	conservative
+n	an	no	الأفعى القرنية الأنف	inclusive
+n	pr	no	دعارة	inclusive
+n	an	no	شخص متبلد المشاعر	conservative
+n	qas	no	ضجة	conservative
+n	ddp	yes	غباوة	conservative
+n	cds	no	الإيمان بنظريات المؤامرة	inclusive
+n	svp	no	niggardness	conservative
+a	om	no	غير طبيعي	inclusive
+n	dmc	yes	المهمل	conservative
+n	cds	no	المتأنق	inclusive
+n	an	no	كائن حي	inclusive
+n	svp	no	المتواني	conservative
+n	dmc	yes	مبادىء أخلاقية	inclusive
+n	re	no	الجرائم	inclusive
+n	ps	yes	مستيزو	conservative
+n	qas	no	طبقية	inclusive
+n	pr	no	دعاره	conservative
+n	an	no	ابن اوى	inclusive
+n	ddp	yes	فتحة قناة غذائية	conservative
+n	an	no	حشرات	inclusive
+n	asm	no	تقع الرجل	conservative
+n	cds	no	المعبود العبادة	inclusive
+n	dmc	yes	حرمان الحقوق	inclusive
+n	ddp	yes	تحريك يجري	inclusive
+n	or	no	قرع	inclusive
+n	asm	no	كريه	inclusive
+n	ps	yes	ميستيزو	conservative
+n	cds	no	vaunter	conservative
+n	qas	no	طفيلية	inclusive
+n	om	no	شمرة شائعة	inclusive
+n	cds	no	عجرفة	conservative
+n	ps	yes	أسود	inclusive
+n	an	no	سوقية	conservative
+n	pa	yes	مندوب	inclusive
+n	pa	yes	الخاطب	inclusive
+n	qas	no	البارون	inclusive
+a	cds	no	ماكر	inclusive
+n	re	no	للسرقة	inclusive
+n	dmc	yes	منبوذين	inclusive
+n	dmc	yes	النحات	conservative
+n	an	no	القرش الابيض العظيم	inclusive
+n	cds	no	خيلاء	conservative
+n	om	no	الخلفية نهاية	inclusive
+n	an	no	حشره	inclusive
+n	om	no	نانس	conservative
+n	cds	no	الحزب	inclusive
+n	qas	no	خطأ فاضح	inclusive
+n	an	no	الضِباع	inclusive
+n	qas	no	رجال اعمال	inclusive
+n	ps	yes	أصل أفريقي	inclusive
+n	re	no	نهب	inclusive
+n	cds	no	نهاية الحلقة	inclusive
+n	is	yes	وليس لديها	inclusive
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	pr	no	البقر	inclusive
+n	cds	no	افتة	conservative
+n	svp	no	المتكاسل	conservative
+n	asm	no	aves	inclusive
+n	cds	no	ساذج	conservative
+n	cds	no	إرضاء الذات	inclusive
+n	om	no	متخنث	inclusive
+n	re	no	ضراوة	inclusive
+n	qas	no	تفخيم	inclusive
+n	ps	yes	فانداليون	inclusive
+n	cds	no	المتحذلق	conservative
+n	pr	no	محظيات	inclusive
+n	dmc	yes	العابث	conservative
+n	cds	no	جاني	inclusive
+n	svp	no	إيروس	inclusive
+n	an	no	هزلي	inclusive
+n	cds	no	حشد	conservative
+n	cds	no	مغرور،	conservative
+n	cds	no	كدح	conservative
+n	re	no	مسروق	inclusive
+n	cds	no	قوادة	conservative
+n	dmc	yes	تزوير	inclusive
+n	asm	no	غبيات	conservative
+n	ps	yes	القوط الشرقيون	inclusive
+n	om	no	عليل	conservative
+n	asm	no	المارون	inclusive
+n	asm	no	خروج	inclusive
+n	re	no	لصوصية	inclusive
+n	cds	no	أقرض بالربا	conservative
+n	an	no	epifauna	inclusive
+n	cds	no	العامل الرئيسي	inclusive
+n	an	no	ناموسة	inclusive
+n	svp	no	كآبة	conservative
+v	cds	no	فني	inclusive
+n	dmc	yes	الأحداث الجانحين	conservative
+n	is	yes	منبوذ	inclusive
+n	ddp	yes	analphabet	inclusive
+n	asf	no	doofus	conservative
+n	cds	no	راقص محترف	inclusive
+n	ps	yes	بلغارية	inclusive
+n	ddp	yes	betise	conservative
+n	qas	no	الكوخ	inclusive
+n	pa	yes	جامعي	inclusive
+n	dmc	yes	dallier	conservative
+n	an	no	pipistrellus	inclusive
+n	cds	no	الكذب	conservative
+n	qas	no	bourgeoise	inclusive
+n	re	no	قراصنة	inclusive
+n	cds	no	المرحاض العام	inclusive
+n	dmc	yes	الدافع الأخلاقي	inclusive
+a	dmc	yes	نتن	conservative
+n	pr	no	الفئران	inclusive
+n	re	no	السلوك الإجرامي	inclusive
+n	om	no	ظهراني	inclusive
+n	asm	no	التغابي	conservative
+n	asm	no	غبي	conservative
+n	svp	no	angriness	inclusive
+n	qas	no	جرانجر	inclusive
+n	asm	no	أير	inclusive
+n	ps	yes	اليهود	inclusive
+n	an	no	ميكروبات	inclusive
+n	om	no	الشرج	inclusive
+n	an	no	بتراوي	inclusive
+n	dmc	yes	منافقون	conservative
+n	om	no	المرح	inclusive
+n	re	no	الأنشطة الإجرامية	inclusive
+n	cds	no	ماسونيين	inclusive
+n	ddp	yes	zooerasty	conservative
+n	ps	yes	مغول	inclusive
+n	cds	no	مدرسة	inclusive
+n	re	no	اشيا	conservative
+n	qas	no	الرداءة	conservative
+n	ps	yes	inkiness	inclusive
+n	asm	no	بليده	conservative
+n	qas	no	الزراعة المستأجر	inclusive
+n	an	no	بقره	inclusive
+n	asm	no	bird	inclusive
+n	an	no	غضبه	inclusive
+n	cds	no	المتعالم	conservative
+n	cds	no	حرمان الحقوق	inclusive
+n	an	no	الوغد	conservative
+n	an	no	ذبابة	inclusive
+v	cds	no	هلك	inclusive
+n	ddp	yes	أمية	inclusive
+n	dmc	yes	شخص ردئ	conservative
+n	cds	no	القمص	inclusive
+n	cds	no	الراحة محطة	inclusive
+n	qas	no	الفضلات	inclusive
+n	pr	no	خليلة	conservative
+n	pa	yes	محامين	inclusive
+n	ps	yes	جيري	conservative
+n	dmc	yes	التمويه	conservative
+n	cds	no	شرطي	inclusive
+n	pr	no	فراشة	inclusive
+n	an	no	تنورة المطارد	conservative
+n	qas	no	فوضى	inclusive
+n	pr	no	شرموطة	conservative
+n	re	no	جلاد	inclusive
+n	cds	no	متحذلق	conservative
+n	re	no	traducement	inclusive
+n	cds	no	همج	conservative
+n	cds	no	تخبط	inclusive
+n	or	no	bonce	inclusive
+n	ps	yes	تهجين	inclusive
+n	cds	no	شبق	conservative
+n	an	no	siphonaptera	inclusive
+n	cds	no	عبادة الأصنام	inclusive
+n	cds	no	مارك	conservative
+n	cds	no	pandar	conservative
+n	re	no	رابيرا	conservative
+n	om	no	shirtlifter	inclusive
+n	ps	yes	الواندل	inclusive
+n	ps	yes	الأهبل	conservative
+n	cds	no	موظر	conservative
+n	pa	yes	دعاة	inclusive
+n	an	no	المكروبات	inclusive
+n	an	no	لا يعرفون شيئا	conservative
+n	pr	no	المحظيات	inclusive
+n	om	no	الألية	inclusive
+n	an	no	علقيات	inclusive
+n	re	no	plagiarisation	inclusive
+n	om	no	keister	inclusive
+n	an	no	صبي الإيجار	conservative
+n	cds	no	كتب على عجل	inclusive
+n	an	no	إبن أوى	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	cds	no	بسرعة واحدة	inclusive
+n	an	no	غير كفؤ	conservative
+n	asm	no	الرجيج قبالة	conservative
+n	pr	no	سرية	inclusive
+n	cds	no	مزيج	inclusive
+n	ps	yes	intergeneric الهجين	inclusive
+n	qas	no	الرعية	inclusive
+n	asf	no	knucklehead	conservative
+n	cds	no	الرياضية المنزل	inclusive
+a	svp	no	داعر	conservative
+n	re	no	والباطل الخبيثة	inclusive
+n	om	no	القريبة	inclusive
+n	cds	no	تعصب	conservative
+n	dmc	yes	المتردد	conservative
+n	cds	no	الغطرسة	inclusive
+n	pr	no	بائعات الهوى	conservative
+n	re	no	العملية الارهابية	inclusive
+n	cds	no	الجيف	inclusive
+n	or	no	الدقة في التفاصيل	inclusive
+n	qas	no	القطب	inclusive
+n	cds	no	nursling	inclusive
+n	re	no	سلاير	inclusive
+n	pa	yes	محامٍ	inclusive
+n	is	yes	الوغد	conservative
+n	cds	no	هرج	inclusive
+n	ddf	yes	حدباء	inclusive
+n	pr	no	اجتماعي	inclusive
+n	cds	no	ديماجوجية	conservative
+n	ps	yes	الروما	inclusive
+n	ddp	yes	الحيوان	inclusive
+n	qas	no	برجوازية	inclusive
+v	asm	no	واقع	conservative
+n	cds	no	القواد	inclusive
+n	or	no	poove	conservative
+n	ddp	yes	غير كفء شخص	conservative
+n	an	no	الضفدع	inclusive
+n	re	no	الافتراء	inclusive
+n	ps	yes	jigaboo	conservative
+n	cds	no	فتحة قناة غذائية	conservative
+n	asm	no	البازلاء	inclusive
+n	cds	no	grifter	inclusive
+n	ps	yes	بلاك	inclusive
+n	an	no	جبان	conservative
+n	or	no	solanum tuberosum	inclusive
+n	ps	yes	واندليون	inclusive
+n	or	no	نانس	conservative
+n	cds	no	قوم	inclusive
+n	dmc	yes	بلياتشو	inclusive
+n	cds	no	ترجيع	inclusive
+n	dmc	yes	الغشاش	conservative
+n	or	no	foeniculum vulgare	inclusive
+n	an	no	وزة	inclusive
+n	an	no	المغفل	conservative
+n	an	no	رعاع	conservative
+n	asm	no	إنبثاق	inclusive
+n	pa	yes	الراعي	inclusive
+n	is	yes	منبوذين	inclusive
+n	re	no	السرقه	inclusive
+n	ps	yes	ميستزو	conservative
+n	an	no	تحريك يجري	inclusive
+n	pa	yes	مُحامي	inclusive
+n	an	no	الأرانب	inclusive
+n	pa	yes	اليسوعية	inclusive
+n	asm	no	muggins	conservative
+n	cds	no	clann	inclusive
+n	cds	no	conventicles	inclusive
+n	qas	no	تابعين	inclusive
+n	dmc	yes	المهرجون	inclusive
+n	or	no	muttonhead	conservative
+n	svp	no	سلبي	inclusive
+n	re	no	بزه	inclusive
+n	dmc	yes	جنحة	inclusive
+n	cds	no	قاطع طريق	inclusive
+n	cds	no	poltroonery	inclusive
+n	qas	no	الفرنسة	inclusive
+n	cds	no	rumourmonger	conservative
+n	svp	no	عبث	conservative
+n	ddf	yes	معاقين	inclusive
+n	asm	no	خصيتان	inclusive
+n	an	no	قمليات	inclusive
+n	an	no	الكابرا	inclusive
+n	cds	no	كوزا نوسترا	conservative
+n	an	no	صرامة	conservative
+n	dmc	yes	منبوذون	inclusive
+n	cds	no	wisenheimer	conservative
+n	cds	no	اعرف انها للجميع	conservative
+n	om	no	طرفة عين	conservative
+n	cds	no	splashiness	conservative
+n	an	no	salientian	inclusive
+n	dmc	yes	ميلاد سعيد اندرو	inclusive
+n	qas	no	المنظر	inclusive
+n	ps	yes	شخص غير مستقر	inclusive
+n	dmc	yes	حثالة كيس	conservative
+n	cds	no	كريهة تصل	inclusive
+v	cds	no	لفظ النفس الأخير	inclusive
+n	svp	no	غيظ	inclusive
+n	ddp	yes	مخبر	conservative
+n	dmc	yes	والأخلاق	inclusive
+n	cds	no	النحات	conservative
+n	qas	no	مليونير	inclusive
+n	pa	yes	cordwainer	inclusive
+n	ps	yes	المستيزو	conservative
+n	cds	no	sicilian mafia	inclusive
+n	dmc	yes	اللياقة	inclusive
+n	pr	no	بائعة هوى	inclusive
+n	an	no	العلقيات	inclusive
+n	pa	yes	مدافعا	inclusive
+n	an	no	التنصت،	inclusive
+n	cds	no	خدعة	inclusive
+n	an	no	codswallop	conservative
+n	an	no	الثيران	inclusive
+n	ps	yes	romanis	inclusive
+n	cds	no	الجلف	conservative
+n	svp	no	غيظ	conservative
+n	asm	no	الأبله	inclusive
+n	an	no	قمل	inclusive
+n	qas	no	كذبة	conservative
+n	pa	yes	أجير	inclusive
+n	dmc	yes	layabout	conservative
+n	cds	no	blackballing	inclusive
+n	ddp	yes	لغو	conservative
+n	cds	no	قواد	inclusive
+v	qas	no	أفسد	conservative
+n	cds	no	قطيع	inclusive
+n	qas	no	testis	inclusive
+n	cds	no	المتواني	conservative
+n	an	no	القمل	inclusive
+n	dmc	yes	قطاع الطرق	conservative
+n	an	no	صوص	inclusive
+n	cds	no	الأحمال	inclusive
+n	pr	no	الأبقار	inclusive
+n	cds	no	طريق عربة	inclusive
+n	ddp	yes	الجهل	conservative
+n	an	no	الصئبان	inclusive
+n	svp	no	متعصب	conservative
+n	asm	no	أطرافهم	inclusive
+n	cds	no	ديماجوجي	conservative
+n	asm	no	غبيون	conservative
+n	an	no	بخيل	conservative
+n	pr	no	محظية	inclusive
+n	an	no	من هنا وهناك	conservative
+n	cds	no	جنحة	inclusive
+n	ps	yes	الأبله	conservative
+n	an	no	البعوضيات	inclusive
+n	cds	no	dickhead	conservative
+n	om	no	شمر	inclusive
+n	cds	no	احتيال	conservative
+n	pr	no	بقرة	inclusive
+n	pa	yes	اليسوعي	inclusive
+n	cds	no	معتوه	inclusive
+n	an	no	برغوث	inclusive
+n	asf	no	استبدل	conservative
+n	cds	no	خاطىء	conservative
+n	an	no	نعجة	inclusive
+a	asm	no	أسمر	inclusive
+n	ddp	yes	سخيف	conservative
+n	dmc	yes	ديلي-dallier	conservative
+n	dmc	yes	جاني	inclusive
+v	asm	no	سخر	conservative
+n	asm	no	نفضة حالا	conservative
+n	cds	no	الجماهير	conservative
+n	cds	no	زمرة	inclusive
+n	cds	no	الطريق الوكيل	conservative
+n	re	no	الشقي	inclusive
+n	an	no	مكعباني شبيه بالمكعب	conservative
+n	re	no	الفاسق	conservative
+n	asm	no	قرطمان	inclusive
+n	cds	no	ماسونية	inclusive
+n	ddp	yes	الأحمق	conservative
+n	qas	no	التابعون	inclusive
+n	pr	no	عشيق	inclusive
+n	svp	no	التعالي	conservative
+n	qas	no	عامة	conservative
+n	re	no	الشرير	conservative
+n	re	no	grifter	inclusive
+n	om	no	شومر	inclusive
+n	svp	no	رغبة	inclusive
+n	om	no	خلف	inclusive
+n	or	no	fuckhead	conservative
+n	pr	no	دعارة	conservative
+n	dmc	yes	تزييف	inclusive
+n	om	no	الشذوذية	inclusive
+n	dmc	yes	حقر	conservative
+n	rci	yes	برابرة	conservative
+n	re	no	وvillainess	conservative
+n	an	no	metazoa	inclusive
+n	om	no	سيدة	inclusive
+n	asm	no	بازلاء	inclusive
+n	cds	no	القصاص	conservative
+n	an	no	العلجوم	inclusive
+n	dmc	yes	الحقارة	inclusive
+n	cds	no	جانح	conservative
+n	dmc	yes	كسول	conservative
+n	qas	no	fieldhand	inclusive
+n	an	no	athene noctua	inclusive
+n	qas	no	magniloquence	inclusive
+n	cds	no	الغطرسة	conservative
+n	an	no	جهاز تنصت	inclusive
+a	pa	yes	النظرية	inclusive
+n	dmc	yes	مشعوذ	conservative
+n	an	no	ovis aries	inclusive
+n	pr	no	غانية	inclusive
+n	ps	yes	سود	inclusive
+n	cds	no	جريمة	inclusive
+n	an	no	نسور	inclusive
+n	ddp	yes	غبيات	conservative
+n	qas	no	طفيلي	inclusive
+n	pr	no	اجتماعية	inclusive
+n	re	no	المغتصبين	conservative
+n	re	no	تشهير	inclusive
+n	an	no	قملة	inclusive
+n	dmc	yes	منبوذة	inclusive
+n	pr	no	rentboy	conservative
+n	cds	no	غطرسة	conservative
+n	cds	no	العشائر	inclusive
+n	pr	no	كلام يعوزه الصدق	conservative
+n	cds	no	النرجسية	inclusive
+n	cds	no	نظريه المؤامره	inclusive
+n	cds	no	متعصب	conservative
+n	ps	yes	فندال	inclusive
+n	ddp	yes	تأخير	inclusive
+n	cds	no	معلم	inclusive
+n	qas	no	الزعيم الروحي	inclusive
+n	om	no	tooshie	inclusive
+n	cds	no	changelings	inclusive
+n	cds	no	خليط	inclusive
+n	an	no	كائن دقيق	inclusive
+n	om	no	الخلفي	inclusive
+n	cds	no	قبيله	inclusive
+n	ddp	yes	الهراء	inclusive
+n	cds	no	قزم	conservative
+n	dmc	yes	المهرج	inclusive
+n	cds	no	تكبر	inclusive
+n	qas	no	الشخص المشترك	inclusive
+n	re	no	قتل	inclusive
+n	om	no	عبر مضمد،	inclusive
+n	an	no	البراغيث	inclusive
+a	ps	yes	صيني	inclusive
+n	om	no	المماثل	inclusive
+n	cds	no	procuress	inclusive
+n	re	no	القراصنة	inclusive
+n	cds	no	طن	inclusive
+n	is	yes	عوز	inclusive
+n	cds	no	الشرطي	conservative
+n	om	no	pederastic	inclusive
+n	qas	no	طاقم	inclusive
+a	svp	no	فاسق	conservative
+a	qas	no	العادية	inclusive
+n	cds	no	معضلة	conservative
+n	asm	no	استغباء	conservative
+n	om	no	tush	inclusive
+n	re	no	المافيا	inclusive
+n	pa	yes	بائعة سمك	inclusive
+n	re	no	والتشهير التجارة	inclusive
+n	qas	no	بونر	inclusive
+n	cds	no	فضولي	conservative
+n	asm	no	ficken	conservative
+n	ps	yes	changelings	conservative
+n	an	no	الحيوانية	inclusive
+n	qas	no	رأسمالي	inclusive
+n	an	no	donkey	inclusive
+n	cds	no	swaggerer	conservative
+n	cds	no	blackballed	inclusive
+n	re	no	الارهاب	conservative
+n	re	no	قهر	inclusive
+n	cds	no	قاطع الطريق	inclusive
+n	dmc	yes	زور	inclusive
+n	an	no	الناهب	inclusive
+n	cds	no	جمع غفير	inclusive
+n	qas	no	برجواز	inclusive
+n	qas	no	بلاغة	inclusive
+n	cds	no	لصوصية	inclusive
+n	an	no	الضفادع	inclusive
+n	ddp	yes	همجي	conservative
+n	cds	no	من هنا وهناك	conservative
+n	cds	no	صبي صغير	inclusive
+n	cds	no	الضعيف الجسم	conservative
+n	ddp	yes	الغباء	conservative
+n	an	no	العثة	inclusive
+n	an	no	ستريكس فاريا	inclusive
+n	qas	no	سلقها	inclusive
+n	dmc	yes	كذاب	inclusive
+n	an	no	الخنزير	inclusive
+n	ddp	yes	حماقة	inclusive
+n	an	no	ابن أوى	inclusive
+n	or	no	cabbage	inclusive
+n	an	no	أنقليسية	inclusive
+n	cds	no	وسيط	inclusive
+n	ps	yes	شريعة موسى	inclusive
+n	dmc	yes	لص	conservative
+n	dmc	yes	متسكع	conservative
+n	qas	no	رعية	inclusive
+n	ddp	yes	القميء	conservative
+n	an	no	علق	inclusive
+n	qas	no	زور	conservative
+n	cds	no	طفل	inclusive
+n	an	no	برغوت	inclusive
+n	an	no	المذهبة)،	inclusive
+n	cds	no	أنانية	conservative
+n	ps	yes	judaism	inclusive
+n	is	yes	شخص رث الملابس	conservative
+n	ddp	yes	دهماء	conservative
+n	qas	no	sciolist	conservative
+n	asm	no	twirp	conservative
+n	asm	no	استبدل	inclusive
+n	qas	no	المتلصص	inclusive
+n	cds	no	الدوغمائية	conservative
+n	asf	no	تقع الرجل	conservative
+n	cds	no	الربا	inclusive
+n	re	no	vilifier	conservative
+n	an	no	shoat	inclusive
+a	cds	no	خبيث	inclusive
+n	asm	no	عمود	inclusive
+n	asm	no	الغباوه	conservative
+n	cds	no	جبان	conservative
+n	an	no	أبقار	inclusive
+n	rci	yes	غليظ	conservative
+a	ddp	yes	سخيف	conservative
+a	ddp	yes	غبي	conservative
+n	qas	no	الغوغاء	inclusive
+n	cds	no	سراق	inclusive
+n	cds	no	ولد صغير	inclusive
+n	ddp	yes	غبية	conservative
+n	cds	no	انانية	conservative
+n	cds	no	عامة	conservative
+n	an	no	مارك	conservative
+n	svp	no	غريزة جنسية	inclusive
+n	cds	no	احمق	inclusive
+n	asf	no	fuckhead	conservative
+n	dmc	yes	مرائي	conservative
+n	ddf	yes	إعاقة	inclusive
+n	cds	no	التفاح ملمع	conservative
+n	ddp	yes	بليد	conservative
+n	om	no	عرض السحب	inclusive
+n	dmc	yes	شخص ردئ	inclusive
+n	cds	no	المتذلل	conservative
+n	cds	no	حفلة	inclusive
+n	an	no	الحيوان	inclusive
+n	qas	no	برجوازيون	inclusive
+n	cds	no	نظرية المؤامرة	inclusive
+a	svp	no	شبق	conservative
+n	cds	no	واش	conservative
+n	an	no	بعديات	inclusive
+n	om	no	ممارسة الجنس بين رجلين	inclusive
+n	cds	no	أحمق	inclusive
+n	cds	no	حثالة كيس	conservative
+n	an	no	diddly-القرف	conservative
+n	cds	no	fundamentalism	inclusive
+n	re	no	شدة	inclusive
+n	an	no	الكر	inclusive
+n	pr	no	البلاط	inclusive
+n	svp	no	حنق	conservative
+n	qas	no	عوام	conservative
+n	pr	no	rat	inclusive
+n	ddp	yes	حيوانات	inclusive
+n	qas	no	الإفشاء	inclusive
+n	an	no	betise	conservative
+n	cds	no	ndrangheta	inclusive
+n	cds	no	نرجسي	inclusive
+n	svp	no	فقد الإرادة	inclusive
+v	qas	no	خرب	conservative
+n	an	no	البزاق	inclusive
+n	qas	no	الطفيلي	conservative
+n	ddp	yes	تخلف عقلي	inclusive
+n	pr	no	جرذان	inclusive
+n	cds	no	الاصطياد قبالة	conservative
+a	dmc	yes	مضلل	conservative
+n	asm	no	الخصيتين	inclusive
+n	cds	no	هاك الأدبية	conservative
+n	asf	no	عته	conservative
+n	an	no	علجوم	inclusive
+n	pa	yes	موظفة	inclusive
+n	an	no	الماشية	inclusive
+n	an	no	خطم	inclusive
+n	pa	yes	محام	inclusive
+n	an	no	صرصور	inclusive
+n	is	yes	عدم	inclusive
+n	qas	no	باروني	inclusive
+n	cds	no	القيل والقال	inclusive
+n	asm	no	فاك	conservative
+n	ddp	yes	ساذج	conservative
+n	cds	no	الرضا الذاتي	inclusive
+n	cds	no	الرضيع	inclusive
+n	asf	no	dumbass	conservative
+n	cds	no	اللغز	conservative
+n	ddp	yes	الامية	inclusive
+n	an	no	الغنمية الحمل	inclusive
+n	ddp	yes	النمام	conservative
+n	pr	no	بائعة هوى	conservative
+n	cds	no	التفاخر	inclusive
+n	cds	no	جيفة	inclusive
+n	cds	no	عبادة الأوثان	inclusive
+n	ps	yes	darkie	conservative
+n	asf	no	أبله	conservative
+n	cds	no	زلة لسان	inclusive
+n	ddp	yes	تلف المخ	inclusive
+n	cds	no	القبائل العربية	inclusive
+n	ps	yes	krauthead	conservative
+n	or	no	شمرة شائعة	inclusive
+n	ddp	yes	بلادة	conservative
+n	re	no	خسيس	conservative
+n	ps	yes	mongoloids	conservative
+n	re	no	ارهابيون	conservative
+n	qas	no	خليط	inclusive
+n	qas	no	troubler	conservative
+n	ddp	yes	مفشي السر	conservative
+n	svp	no	شبق	inclusive
+n	cds	no	اصولية	inclusive
+n	dmc	yes	عناد	conservative
+n	ddp	yes	folderol	conservative
+n	or	no	خیار	inclusive
+n	dmc	yes	malodour	conservative
+n	ddf	yes	شخص معاق	inclusive
+n	asm	no	تغابي	conservative
+n	ddp	yes	ثرثرة	conservative
+n	asf	no	المهبل	conservative
+n	om	no	عامل	conservative
+n	svp	no	لامبالاة	inclusive
+n	cds	no	المتطفل	conservative
+n	an	no	البخل	conservative
+n	cds	no	تضخم الرأس	conservative
+n	ddp	yes	changelings	conservative
+n	ddp	yes	المغفل	conservative
+n	asm	no	والفول	inclusive
+n	qas	no	طلي	inclusive
+n	dmc	yes	خسيس	conservative
+n	dmc	yes	نفاق	conservative
+n	pa	yes	محامى	inclusive
+n	qas	no	المتسول	conservative
+n	asf	no	فتاة	conservative
+n	ddp	yes	تلف الدماغ	inclusive
+n	cds	no	فصيلة	inclusive
+n	an	no	زلة لسان	inclusive
+n	cds	no	muggins	conservative
+v	re	no	إختلس	inclusive
+n	cds	no	شيخ	inclusive
+n	or	no	شاذّ جِنسِيًا	conservative
+n	qas	no	زيف	conservative
+n	cds	no	المدرس	inclusive
+a	ddf	yes	أعمى	inclusive
+n	cds	no	الأنشطة الإجرامية	inclusive
+n	cds	no	مربي	inclusive
+n	ddf	yes	قبح	inclusive
+n	an	no	الاوز	inclusive
+n	qas	no	أعلى التنفيذي	inclusive
+n	ddp	yes	غباء	inclusive
+n	cds	no	مراسل	inclusive
+n	ddp	yes	صغر	inclusive
+n	ddp	yes	مرقس	conservative
+n	svp	no	غرور	inclusive
+n	an	no	diddlysquat	conservative
+n	an	no	معتوه	conservative
+n	asf	no	vagina	conservative
+n	cds	no	لينة اللمس	conservative
+n	cds	no	إفتخار المرء	conservative
+n	ddp	yes	أميه	inclusive
+n	ddp	yes	التغابي	conservative
+n	an	no	قراد	inclusive
+n	ddp	yes	غشاش	conservative
+n	is	yes	بخيلة	conservative
+n	an	no	أرنب	inclusive
+n	ps	yes	واندل	inclusive
+n	re	no	اغتصاب	inclusive
+n	cds	no	التعصب	inclusive
+n	cds	no	التراب	inclusive
+v	cds	no	ذبل	inclusive
+n	cds	no	ingroup	inclusive
+n	re	no	سفاك	inclusive
+n	ps	yes	القوطي الشرقي	inclusive
+n	an	no	equus asinus	inclusive
+n	om	no	خاتون	inclusive
+n	asf	no	أحمق	conservative
+n	cds	no	والزيف	conservative
+n	or	no	pudden الرأس	conservative
+n	cds	no	مؤامرة الصمت	inclusive
+n	cds	no	مأفون	inclusive
+n	cds	no	القمامة	conservative
+n	dmc	yes	التعيس	inclusive
+n	ps	yes	مغولي	inclusive
+n	svp	no	tanha	inclusive
+n	cds	no	قوادة	inclusive
+n	asm	no	الديك	inclusive
+n	pr	no	ابقار	inclusive
+n	re	no	المختطف	inclusive
+n	cds	no	برميل ماء شرب	inclusive
+n	an	no	الاحياء المجهريه	inclusive
+n	ps	yes	بطاقة صفراء	inclusive
+n	cds	no	معلمة	inclusive
+n	svp	no	الأكول	conservative
+n	cds	no	الفاسق	conservative
+n	om	no	nates	inclusive
+n	an	no	رخوي	inclusive
+n	ddp	yes	أغبياء	conservative
+n	cds	no	نصاب	conservative
+n	dmc	yes	بلا مأوى شخص	inclusive
+n	cds	no	النحات	inclusive
+n	re	no	حرامي	inclusive
+n	an	no	أوزه	inclusive
+n	re	no	كوزا نوسترا	conservative
+n	an	no	خبث	conservative
+n	svp	no	السلبية	inclusive
+n	pr	no	بقره	inclusive
+n	cds	no	الطالب الذي يذاكر كثيرا	conservative
+n	ps	yes	pikey	conservative
+n	an	no	animal	inclusive
+n	ddp	yes	microcephaly	inclusive
+n	is	yes	المنبوذون	inclusive
+n	an	no	بقة الفراش	inclusive
+n	dmc	yes	أراجوز	inclusive
+n	cds	no	الإنعطافات	inclusive
+n	ddp	yes	dickhead	conservative
+n	dmc	yes	خائن	conservative
+n	cds	no	المراحيض	inclusive
+n	qas	no	داعية	inclusive
+n	an	no	اوزة	inclusive
+n	cds	no	omerta	inclusive
+n	pa	yes	بروفيسور	inclusive
+n	ps	yes	متوحش	conservative
+n	qas	no	المزارعين	inclusive
+n	cds	no	غليظ	conservative
+n	dmc	yes	قليل الحظ	inclusive
+n	cds	no	قواد	conservative
+n	cds	no	كنيف	inclusive
+n	svp	no	الفسوق	inclusive
+n	an	no	الباعوض	inclusive
+n	dmc	yes	وكان وكان	conservative
+n	cds	no	الغوغاء	conservative
+n	cds	no	فاشيه	conservative
+n	dmc	yes	متشرد	inclusive
+n	an	no	ثرثر	inclusive
+n	cds	no	قيل وقال	inclusive
+n	is	yes	بخل	conservative
+n	or	no	ساذج	conservative
+n	asm	no	زب	conservative
+n	cds	no	narcism	inclusive
+n	dmc	yes	villainess	conservative
+n	ddp	yes	مغفل	conservative
+n	asm	no	ديك	inclusive
+n	cds	no	الإختراق الكاتب	conservative
+n	svp	no	شهوة	inclusive
+n	cds	no	arriviste	inclusive
+n	an	no	أرانب	inclusive
+n	qas	no	bollocks	inclusive
+n	dmc	yes	treasonist	conservative
+n	re	no	أريد الإبلاغ عن سطو.	inclusive
+n	cds	no	أوباش	conservative
+n	cds	no	الأصوليون	inclusive
+n	pr	no	بغاء	inclusive
+n	pr	no	الزانية	conservative
+n	svp	no	سلبيه	inclusive
+n	re	no	المافيا	conservative
+n	svp	no	جذب البدنية	inclusive
+n	an	no	لينة اللمس	conservative
+n	ddp	yes	سبي	inclusive
+n	an	no	حقر	conservative
+n	asf	no	codswallop	conservative
+a	dmc	yes	منتن	conservative
+n	an	no	ارنب	inclusive
+n	pr	no	عضو بارز في المجتمع	inclusive
+n	cds	no	protagonism	inclusive
+n	qas	no	صاحب العمل	inclusive
+n	cds	no	الكسالى	conservative
+n	re	no	إرهابي	inclusive
+n	cds	no	رأسا على turvyness	inclusive
+n	pr	no	شرموطة	inclusive
+n	om	no	حمار	inclusive
+n	ps	yes	فندل	inclusive
+a	dmc	yes	مزور	conservative
+n	cds	no	اليمين المتطرف	conservative
+n	dmc	yes	خداع	conservative
+n	ddp	yes	معتقل	inclusive
+n	ddp	yes	أغبياء	inclusive
+n	cds	no	الفرنسة	inclusive
+n	re	no	مافيا	inclusive
+n	an	no	وجه ساخرة	inclusive
+n	an	no	بق الفراش	inclusive
+n	dmc	yes	زائف	conservative
+n	dmc	yes	النذل	inclusive
+n	cds	no	سوقة	conservative
+n	ps	yes	المستيسو	conservative
+n	asm	no	مغفل	conservative
+n	or	no	finocchio	inclusive
+n	qas	no	فلاحون	inclusive
+n	dmc	yes	الشرير	conservative
+n	om	no	كروسدرسر	inclusive
+n	an	no	متخلف	conservative
+n	asm	no	أبله	conservative
+n	pr	no	الدعارة	inclusive
+n	ps	yes	وندال	inclusive
+n	an	no	hirudinean	inclusive
+n	an	no	البومات	inclusive
+n	pr	no	comare	conservative
+n	an	no	insect	inclusive
+n	dmc	yes	باطل	inclusive
+n	re	no	العملية الارهابية	conservative
+n	asf	no	twat	conservative
+n	an	no	diddley	conservative
+n	an	no	otus اسيو	inclusive
+n	om	no	الية	inclusive
+n	qas	no	البورجوازيه	inclusive
+n	cds	no	ماسونيه	inclusive
+n	an	no	البحر العقرب	inclusive
+n	re	no	ستيلير	inclusive
+n	qas	no	طلاء	inclusive
+n	qas	no	النفايات البلدية	inclusive
+n	ps	yes	التكنولوجيا الحيوية النباتية	inclusive
+a	is	yes	حزين	inclusive
+n	cds	no	القوادة	conservative
+n	dmc	yes	منبوذ	inclusive
+n	svp	no	إشمئزاز	inclusive
+n	cds	no	البرابرة	conservative
+a	re	no	عنيف	inclusive
+n	asm	no	طيور	inclusive
+n	cds	no	مراب	conservative
+n	an	no	تقع الرجل	conservative
+n	or	no	مغفل	conservative
+n	an	no	الأفاعي	inclusive
+n	dmc	yes	grifter	conservative
+n	om	no	القمي	inclusive
+n	re	no	جريمه	inclusive
+n	cds	no	مفسد الضراب	inclusive
+n	qas	no	الخطابي	inclusive
+n	an	no	ضبع	inclusive
+n	cds	no	علموية	inclusive
+n	svp	no	ضجر	inclusive
+n	cds	no	تدين	inclusive
+n	dmc	yes	نصف باينت	conservative
+n	an	no	وعل	inclusive
+n	svp	no	ne'er دو جيدا	conservative
+a	svp	no	غاضب	inclusive
+n	cds	no	زور	conservative
+n	cds	no	idiolatry	inclusive
+n	rci	yes	البربرية	conservative
+n	an	no	خشونة	conservative
+n	re	no	الابتزاز	conservative
+n	ddp	yes	والحيوانات الكبيرة و	inclusive
+n	an	no	أحياء دقيقة	inclusive
+n	cds	no	منافق	conservative
+n	an	no	الدجاجة	inclusive
+n	ps	yes	rroma	inclusive
+n	an	no	أرْنَب	inclusive
+n	ps	yes	عته	conservative
+n	an	no	frogspawn	inclusive
+n	an	no	muggins	conservative
+n	ps	yes	الغجر	inclusive
+n	svp	no	بخيل	conservative
+n	or	no	فرج	conservative
+n	pa	yes	عضو هيئة تدريس	inclusive
+n	pa	yes	الوزير المستشار	inclusive
+n	an	no	بوليت	inclusive
+n	cds	no	الساق السوداء	inclusive
+n	dmc	yes	متعصب	conservative
+n	cds	no	الطوافات	inclusive
+n	cds	no	مزحة	inclusive
+n	pa	yes	قارع الناقوس	inclusive
+n	an	no	النسور	inclusive
+n	pr	no	دعاره	inclusive
+n	cds	no	الخردة	conservative
+n	ps	yes	نيجا	conservative
+n	an	no	الخراف	inclusive
+n	an	no	نسر	inclusive
+n	dmc	yes	مجرم	inclusive
+n	or	no	أحمق	conservative
+n	cds	no	مسرعا	conservative
+n	om	no	مثيلي	inclusive
+n	is	yes	فقير	inclusive
+n	dmc	yes	خديعة	conservative
+n	cds	no	رسول الصبي	inclusive
+n	re	no	الجنس والقانون	inclusive
+n	or	no	خيار	inclusive
+n	ddp	yes	fuckhead	conservative
+n	or	no	القثد	inclusive
+n	an	no	البومة	inclusive
+n	ps	yes	مارك	conservative
+n	cds	no	جرائم	inclusive
+n	an	no	فراشة	inclusive
+n	re	no	التعذيب	inclusive
+n	an	no	براغيث	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	dmc	yes	إثم	conservative
+n	re	no	sicilian mafia	conservative
+n	om	no	عبر اللباس	inclusive
+n	re	no	إعتداء جنسي	inclusive
+n	cds	no	grifter	conservative
+n	pa	yes	عتال	inclusive
+a	cds	no	ماكر	conservative
+n	svp	no	غضب	inclusive
+n	cds	no	قبيلة	inclusive
+n	cds	no	زيف	conservative
+n	om	no	لوطي	inclusive
+n	re	no	انتهاكات الشركات	inclusive
+n	re	no	malversation	inclusive
+n	cds	no	دلال	inclusive
+a	ddf	yes	أعور	inclusive
+n	pr	no	امرأة من الشارع	conservative
+n	cds	no	السارق	conservative
+n	or	no	الأبله	conservative
+v	cds	no	خرج	inclusive
+n	re	no	libeler	conservative
+n	dmc	yes	شخص ريفى أخرق	conservative
+n	cds	no	مكر	conservative
+n	cds	no	sniveller	conservative
+a	dmc	yes	كاذبة	conservative
+n	asf	no	بغي	conservative
+n	qas	no	منزل الرسام	inclusive
+n	re	no	عمليات ارهابية	conservative
+n	qas	no	متوحش	conservative
+n	cds	no	الرجيج قبالة	conservative
+n	an	no	بايسن	inclusive
+a	ps	yes	سود	inclusive
+n	cds	no	المهمل	conservative
+n	an	no	الكلب	inclusive
+n	an	no	دهماء	conservative
+n	om	no	مثلي	inclusive
+n	svp	no	عجرفة	conservative
+n	or	no	البطاطا	inclusive
+n	cds	no	سلب	inclusive
+n	an	no	عثه	inclusive
+n	cds	no	الأبله	inclusive
+n	is	yes	بخيل	conservative
+n	dmc	yes	البرابرة	conservative
+n	an	no	المعيز	inclusive
+n	pa	yes	خادم فندق	inclusive
+n	cds	no	إفتخار المرء	inclusive
+n	an	no	البعوض	inclusive
+n	cds	no	ديماغوجيا	conservative
+n	ddp	yes	جهل	conservative
+n	pr	no	جون	inclusive
+n	an	no	epifaunal	inclusive
+n	ps	yes	الأسود شخص	inclusive
+n	cds	no	عصابة	inclusive
+n	cds	no	وغر	conservative
+n	ddp	yes	بلداء	conservative
+n	om	no	crossdressing	inclusive
+n	cds	no	الجريمة	inclusive
+n	dmc	yes	قاطع طريق	conservative
+n	dmc	yes	فسق	conservative
+n	an	no	الحشرة	inclusive
+n	re	no	violence	inclusive
+n	qas	no	حشد	inclusive
+n	cds	no	مراب	inclusive
+n	ddp	yes	تقع الرجل	conservative
+n	an	no	أصبع	inclusive
+n	pa	yes	موظف	inclusive
+n	re	no	افتضاض	conservative
+n	re	no	ارهابيون	inclusive
+n	an	no	فزيوجنومية	inclusive
+n	an	no	anes	inclusive
+n	re	no	maligner	conservative
+n	qas	no	بهتان	conservative
+n	an	no	المبتلع البالون،	inclusive
+n	svp	no	بخيلة	inclusive
+n	an	no	الحنكليس	inclusive
+n	cds	no	ماخور	inclusive
+n	ddf	yes	العجز	inclusive
+n	cds	no	البربرية	conservative
+n	ps	yes	زنجاني	inclusive
+n	asm	no	غبي	inclusive
+n	an	no	دماء	inclusive
+a	ddf	yes	أعرج	inclusive
+n	asm	no	انتصاب	inclusive
+n	pr	no	جراره	conservative
+n	cds	no	والغباء	inclusive
+n	pr	no	بغاء	conservative
+n	cds	no	قطاع الطرق	conservative
+n	dmc	yes	قزم	conservative
+n	an	no	بخل	conservative
+n	cds	no	مؤذ	conservative
+n	re	no	انتهاكات الشرطة	inclusive
+n	an	no	البقر	inclusive
+n	dmc	yes	مهرجون	inclusive
+n	qas	no	كبار رجال الاعمال	inclusive
+n	cds	no	المرتشين	inclusive
+n	or	no	البطاطس	inclusive
+n	cds	no	التي تخرق القانون	inclusive
+n	pr	no	مقرب	inclusive
+n	cds	no	مفشي السر	conservative
+n	an	no	bison	inclusive
+v	an	no	نبح	inclusive
+n	dmc	yes	منافق	conservative
+n	cds	no	خداع	inclusive
+a	om	no	مختلفة	inclusive
+n	cds	no	نازي	conservative
+n	cds	no	حرمان الحقوق	conservative
+n	ddp	yes	لا يعرفون شيئا	conservative
+n	ddp	yes	المتخبط	conservative
+a	svp	no	عدواني	conservative
+n	cds	no	مهرج	inclusive
+v	cds	no	إنكمش	inclusive
+n	cds	no	ندرانجيتا	inclusive
+n	cds	no	autolatry	inclusive
+n	cds	no	غلاية من الأسماك	inclusive
+n	re	no	إختطاف	inclusive
+n	asm	no	الطائر	inclusive
+n	pa	yes	المحاسبين	inclusive
+n	dmc	yes	لا في الحساب	conservative
+n	qas	no	تختلط-فسد	inclusive
+n	ddf	yes	المعاقين	inclusive
+n	dmc	yes	نحس	inclusive
+n	re	no	اللصوص	inclusive
+n	cds	no	القوادين	conservative
+n	cds	no	المغني	inclusive
+n	asm	no	ظهور	inclusive
+v	an	no	غضب	conservative
+v	qas	no	تزين	inclusive
+n	asm	no	المزدري	conservative
+n	cds	no	متوحش	conservative
+n	asf	no	folderol	conservative
+n	svp	no	غريزه جنسيه	inclusive
+n	ddp	yes	من هنا وهناك	conservative
+n	re	no	السطو المسلح	inclusive
+n	an	no	بَقَرَة	inclusive
+n	an	no	الأحياء الدقيقة في الأغذية	inclusive
+n	qas	no	necrotrophic	inclusive
+n	ddf	yes	عجز	inclusive
+n	dmc	yes	أحمق	inclusive
+v	cds	no	انتقل إلى الرفيق الأعلى	inclusive
+n	dmc	yes	كآبة	conservative
+a	ps	yes	أسود	inclusive
+n	cds	no	الرضع	inclusive
+n	re	no	التعطيل	inclusive
+n	svp	no	اهتياج	conservative
+n	ddp	yes	لينة اللمس	conservative
+n	qas	no	والعوام	inclusive
+n	dmc	yes	الشر	inclusive
+n	an	no	ane	inclusive
+n	or	no	لوطي	conservative
+n	svp	no	حنين	inclusive
+n	an	no	عثة	inclusive
+n	asm	no	فول	inclusive
+n	asm	no	الشد	conservative
+v	asm	no	نام مع	conservative
+n	cds	no	hypersexual	conservative
+n	an	no	بوميات	inclusive
+n	om	no	مؤخرة	inclusive
+n	cds	no	مرتكب	inclusive
+n	dmc	yes	ne'er دو جيدا	conservative
+n	ps	yes	البدوان	inclusive
+n	an	no	ساذج	conservative
+n	qas	no	رفض	conservative
+n	an	no	قزم	conservative
+n	cds	no	trasformismo	inclusive
+n	ddp	yes	بليده	conservative
+n	cds	no	فطنة	inclusive
+n	ps	yes	منغولي	inclusive
+n	an	no	الكائنات الحية الدقيقة	inclusive
+n	ddp	yes	هراء	conservative
+n	qas	no	البلغاء	inclusive
+n	re	no	الإرهاب	conservative
+n	an	no	doodly-القرفصاء	conservative
+n	an	no	يغش fulvus	inclusive
+n	cds	no	cathouse	inclusive
+n	dmc	yes	جاحد	conservative
+n	ddp	yes	شراسة	conservative
+a	ddf	yes	سَيّئ	inclusive
+n	re	no	الاختطاف	inclusive
+n	cds	no	wanker	conservative
+n	an	no	شعبة الرخاويات	inclusive
+n	cds	no	التهجين	inclusive
+n	or	no	twat	conservative
+n	om	no	خلفي	inclusive
+n	re	no	النحات	inclusive
+n	an	no	الأفاعي،	inclusive
+n	asm	no	pisum sativum	inclusive
+n	cds	no	banditti	inclusive
+n	svp	no	توق	inclusive
+n	cds	no	عائلة	inclusive
+n	cds	no	غوغائي	conservative
+n	cds	no	كسلان	conservative
+n	dmc	yes	بوابة	conservative
+n	om	no	موخرة	inclusive
+n	ddf	yes	crookback	inclusive
+n	ddp	yes	الشرج	conservative
+n	ddp	yes	الغباوه	conservative
+n	qas	no	بيضة	inclusive
+n	ddp	yes	epifauna	inclusive
+n	svp	no	فقدان الإرادة	inclusive
+n	cds	no	العصابات	inclusive
+n	cds	no	المدرسين	inclusive
+n	qas	no	خطأ مربك	inclusive
+n	an	no	حوين،	inclusive
+n	an	no	vamper	conservative
+n	cds	no	رجعي	conservative
+n	cds	no	نميمة	inclusive
+n	qas	no	الطفيليات	inclusive
+n	cds	no	moneygrubber	inclusive
+n	cds	no	ثاني التصنيفات	conservative
+n	qas	no	الأب الروحي	inclusive
+n	an	no	التصنيف العلمى للارانب	inclusive
+n	an	no	قرش	inclusive
+n	cds	no	أناني	conservative
+n	an	no	الرخوي	inclusive
+n	qas	no	المتوسطة الدخل	inclusive
+n	cds	no	مرحاض	inclusive
+n	an	no	أنغيلا	inclusive
+n	ps	yes	وانداليون	inclusive
+n	om	no	البعيدة	inclusive
+n	cds	no	cockup	inclusive
+n	ddp	yes	حيوان	inclusive
+n	cds	no	كبرياء	inclusive
+n	an	no	خروف	inclusive
+n	or	no	عامل	conservative
+n	qas	no	من هنا وهناك	conservative
+v	cds	no	ثرثر	inclusive
+n	an	no	pip-صرير	conservative
+n	an	no	غضب	inclusive
+n	om	no	طرف	inclusive
+n	ps	yes	مرتبك	conservative
+n	ps	yes	يهوديه	inclusive
+n	cds	no	شلة	inclusive
+n	asm	no	فك	conservative
+n	an	no	بقرة	inclusive
+n	svp	no	وكسوريا	inclusive
+n	pa	yes	المحامى	inclusive
+n	cds	no	الوغد	conservative
+n	ddp	yes	حماقه	inclusive
+n	cds	no	الغلطات	inclusive
+n	ps	yes	أسود	conservative
+n	an	no	ببغاء	inclusive
+n	an	no	ببغائيات	inclusive
+n	qas	no	باطل	conservative
+n	qas	no	تسكع	conservative
+n	cds	no	مرقس	conservative
+n	qas	no	مزرعة المستأجر	inclusive
+n	dmc	yes	الأخلاقية	inclusive
+n	pr	no	هراء	conservative
+n	re	no	ارهاب	inclusive
+n	ddp	yes	عته	conservative
+n	re	no	الوغد	conservative
+n	om	no	ظهري بطني	inclusive
+n	cds	no	التفاخر	conservative
+n	cds	no	حب الذات	conservative
+n	cds	no	الغدر	conservative
+n	re	no	عملية ارهابية	inclusive
+n	an	no	مرقس	conservative
+n	asm	no	نوكي	conservative
+n	asm	no	الجلبانة	inclusive
+n	an	no	بقر	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	cds	no	بقايا	inclusive
+n	is	yes	الفقير	inclusive
+n	ddp	yes	moronity	inclusive
+n	an	no	أحمق	conservative
+n	cds	no	الفاشية	conservative
+n	rci	yes	البرابرة	conservative
+n	an	no	البخيل	conservative
+a	dmc	yes	وسخ	inclusive
+n	cds	no	المغفل	inclusive
+n	an	no	أوباش	conservative
+n	re	no	القذف والتشهير	inclusive
+n	dmc	yes	بوابة	inclusive
+n	cds	no	غشاش	conservative
+n	dmc	yes	banditti	inclusive
+n	an	no	التماسيح	inclusive
+n	dmc	yes	الإفلاس الأخلاقي	inclusive
+n	ps	yes	rommany	inclusive
+n	cds	no	wuss	conservative
+n	ps	yes	غبية	conservative
+n	re	no	إرهابية	inclusive
+n	qas	no	testicle	inclusive
+n	cds	no	الماسوني	inclusive
+n	qas	no	المستغل	conservative
+n	an	no	moue	inclusive
+n	an	no	شقي	conservative
+n	qas	no	تدهين	inclusive
+n	qas	no	برجوازي	inclusive
+n	ddp	yes	نصاب	conservative
+n	an	no	megascops	inclusive
+n	cds	no	حيلة	inclusive
+n	dmc	yes	شرير	conservative
+n	asf	no	shithead	conservative
+n	pa	yes	محل للأجراس	inclusive
+n	cds	no	أنانيه	conservative
+n	cds	no	ديماغوغيا	conservative
+n	an	no	الديدان	inclusive
+n	dmc	yes	forgery	inclusive
+n	an	no	ميكروب	inclusive
+n	om	no	poove	conservative
+n	dmc	yes	جانح	conservative
+n	re	no	chiseller	inclusive
+n	ddp	yes	الحیوانات	inclusive
+n	cds	no	الكذب	inclusive
+n	ddp	yes	غبي	conservative
+n	svp	no	مللّ	inclusive
+a	svp	no	حانق	inclusive
+n	ddp	yes	البله	conservative
+n	svp	no	غَضَب	conservative
+n	dmc	yes	مهرج	inclusive
+n	pr	no	حطموك	conservative
+n	cds	no	اعدام	conservative
+n	asm	no	pterygiophore	inclusive
+n	cds	no	الديماغوجية	conservative
+n	dmc	yes	سيئ الطالع	inclusive
+n	cds	no	المُنَظِّم	inclusive
+a	ddf	yes	بشع	conservative
+n	asm	no	pea	inclusive
+n	qas	no	خصية	inclusive
+n	ddp	yes	غبية	inclusive
+n	an	no	شغبر	inclusive
+n	pr	no	مواشي	inclusive
+n	asf	no	المغفل	conservative
+n	ddp	yes	استغباء	conservative
+n	dmc	yes	foetor	conservative
+n	cds	no	عته	inclusive
+n	ddp	yes	pudden الرأس	conservative
+n	dmc	yes	الأحمق	inclusive
+n	dmc	yes	دناءة	inclusive
+n	ddp	yes	تخلف عقلي،	inclusive
+n	cds	no	الشرير	conservative
+n	cds	no	اللص المتسلل	conservative
+n	qas	no	بيت	inclusive
+n	cds	no	عصابات	inclusive
+n	om	no	الشمر	inclusive
+n	an	no	الحشرات	inclusive
+a	svp	no	عدوانية	inclusive
+n	qas	no	البارونة	inclusive
+a	ps	yes	اليهودية	inclusive
+v	qas	no	شوش	conservative
+n	cds	no	الجماهير	inclusive
+n	cds	no	كامورا	inclusive
+n	cds	no	داع	inclusive
+n	qas	no	الأ يديولوجي المناصر لنظام	inclusive
+n	re	no	ابتزاز	inclusive
+n	ddp	yes	دجال	conservative
+n	qas	no	العظمة	inclusive
+n	ps	yes	فاشستي	inclusive
+n	ps	yes	المغولي	inclusive
+n	ddp	yes	الحيوانات	inclusive
+n	cds	no	متابعة الكرات	inclusive
+n	cds	no	شخص ردئ	conservative
+n	re	no	اعتداء جنسي	inclusive
+n	cds	no	intermediator	inclusive
+n	cds	no	الربا	conservative
+n	cds	no	moaner	conservative
+n	svp	no	جيد مقابل لا شيء	conservative
+n	cds	no	غبي	conservative
+n	pr	no	التسري	inclusive
+n	cds	no	خسيس	conservative
+n	an	no	الضفاضع	inclusive
+n	svp	no	الرغبة الجنسية	inclusive
+n	qas	no	تجمع	inclusive
+n	ps	yes	تحسين النوع النباتي	inclusive
+n	qas	no	التماثل	inclusive
+n	cds	no	مهندم	inclusive
+n	cds	no	نيرد	conservative
+n	an	no	hyaenidae	inclusive
+n	an	no	العنز	inclusive
+n	cds	no	schoolmarm	conservative
+n	dmc	yes	إسآءة	conservative
+n	an	no	بنات اوى	inclusive
+n	pr	no	فضفاضة المرأة	conservative
+n	ddp	yes	changelings	inclusive
+n	asm	no	غباوة	conservative
+n	om	no	homophile	inclusive
+n	cds	no	وحدات القياس اليابانية	inclusive
+n	re	no	لص	inclusive
+n	an	no	علاجيم	inclusive
+n	cds	no	عصبية	conservative
+n	cds	no	رعاع	conservative
+n	ddp	yes	أحمق	conservative
+n	ddp	yes	حيوانية	inclusive
+n	svp	no	شراهة	inclusive
+n	cds	no	يائسة الجنائية	inclusive
+n	re	no	تعزيب	inclusive
+n	om	no	إمرأة لطيفة	inclusive
+n	an	no	الكلاب	inclusive
+n	om	no	قفا	inclusive
+n	svp	no	لا أدري ما أعمل	conservative
+n	cds	no	الفخامة	inclusive
+n	is	yes	البخل	conservative
+n	cds	no	زيلوت	inclusive
+n	cds	no	نكتة	inclusive
+n	pr	no	عثه	inclusive
+n	svp	no	البخل	inclusive
+n	an	no	pudge	conservative
+n	svp	no	خمول	conservative
+n	ddp	yes	رعاع	conservative
+n	asm	no	قلفة	inclusive
+n	an	no	القرش الأبيض	inclusive
+n	cds	no	المرحاض منشأة	inclusive
+n	cds	no	جمهور	inclusive
+n	qas	no	هاتش	inclusive
+n	qas	no	الكذب	conservative
+n	an	no	عوام	conservative
+n	qas	no	غوغائي	conservative
+n	cds	no	التكنولوجيا الحيوية النباتية	inclusive
+n	an	no	شخص سيء	conservative
+n	om	no	ردف	inclusive
+a	svp	no	شهواني	conservative
+n	cds	no	النمام	conservative
+n	an	no	الصرصور	inclusive
+n	om	no	عبور خلع الملابس	inclusive
+n	ps	yes	متلف	conservative
+n	cds	no	المتخبط	conservative
+n	an	no	رخويات	inclusive
+n	cds	no	متخلف	conservative
+n	an	no	villainess	conservative
+n	an	no	عصا في داخل الطين	conservative
+n	an	no	الشرير	conservative
+n	cds	no	chiseller	conservative
+n	cds	no	قرح	inclusive
+n	cds	no	غندور	inclusive
+n	re	no	خطف	inclusive
+n	cds	no	تأييد	inclusive
+n	qas	no	تابعيون	inclusive
+n	asm	no	credulousness	conservative
+n	cds	no	مجرم	conservative
+n	pa	yes	سماك	inclusive
+n	dmc	yes	وكان وكان	inclusive
+n	cds	no	لص	inclusive
+n	an	no	البيسون	inclusive
+n	asm	no	testis	inclusive
+n	ps	yes	لينة اللمس	conservative
+n	pa	yes	عريف	inclusive
+n	ps	yes	الفنداليون	inclusive
+n	pa	yes	والعمال ذوي الياقات البيضاء	inclusive
+n	qas	no	بائع	inclusive
+n	ddf	yes	إعاقه	inclusive
+n	pa	yes	lawyer	inclusive
+n	svp	no	البخل	conservative
+n	svp	no	ravenousness	conservative
+n	asm	no	لينة اللمس	conservative
+n	cds	no	المافيا	conservative
+n	re	no	الأحقاد العمل	inclusive
+n	cds	no	نوفوريتش	inclusive
+n	qas	no	البرجوازيون	inclusive
+n	cds	no	الصرف الصحي	inclusive
+a	an	no	العنيد	inclusive
+n	dmc	yes	عِناد	conservative
+n	cds	no	الفخامة	conservative
+n	cds	no	انسباء	inclusive
+n	re	no	مافيا	conservative
+n	cds	no	سرقة	inclusive
+n	cds	no	الجاني	inclusive
+n	qas	no	القمامة	inclusive
+n	svp	no	المتعصب	conservative
+n	cds	no	جنائي	inclusive
+n	asf	no	ساذج	conservative
+n	asm	no	زب	inclusive
+n	cds	no	المبتز	inclusive
+n	an	no	floozie	conservative
+n	an	no	أوزة	inclusive
+n	dmc	yes	البربرية	conservative
+n	an	no	بومة	inclusive
+n	asf	no	تأخير	conservative
+n	cds	no	متشدد	conservative
+a	cds	no	جبان	conservative
+n	qas	no	الخصيتين	inclusive
+n	qas	no	الخصية	inclusive
+n	ps	yes	darky	conservative
+n	ps	yes	mestizaje	conservative
+n	an	no	صرصار	inclusive
+n	dmc	yes	pseud	conservative
+n	cds	no	وغير مغسولة كبيرة	inclusive
+n	cds	no	المعلم	inclusive
+n	ddp	yes	بعديات	inclusive
+n	ps	yes	فاندل	inclusive
+v	cds	no	إنتهى	inclusive
+n	ps	yes	العقيده اليههوديه	inclusive
+n	cds	no	عناد	conservative
+n	cds	no	تزمت	conservative
+a	ddf	yes	قبيح	conservative
+n	an	no	كائنات دقيقة	inclusive
+n	ddf	yes	ذوي الاحتياجات الخاصة	inclusive
+n	ddp	yes	خبث	conservative
+n	cds	no	الدهماوي	conservative
+n	dmc	yes	تشرد	inclusive
+n	qas	no	تخبط	inclusive
+n	cds	no	هجين	inclusive
+n	cds	no	السطحية	inclusive
+v	asm	no	تهكم	conservative
+n	cds	no	bawdyhouse	inclusive
+n	dmc	yes	الأفاق	conservative
+n	ps	yes	الوندال	inclusive
+n	pa	yes	راعي	inclusive
+n	cds	no	مشعوذ	conservative
+n	qas	no	الخصوه	inclusive
+n	asm	no	بليدات	conservative
+n	ddp	yes	حبيس	inclusive
+n	asm	no	كستنائي	inclusive
+n	ps	yes	فاندليون	inclusive
+n	re	no	مجرم	inclusive
+n	an	no	بنات آوى	inclusive
+n	cds	no	المحير	conservative
+n	qas	no	دهماء	conservative
+n	svp	no	التعصب	conservative
+n	an	no	حيوان	inclusive
+v	qas	no	أصلح	inclusive
+n	pa	yes	مستخدم	inclusive
+n	cds	no	كذبة	inclusive
+n	asf	no	betise	conservative
+n	cds	no	أجاب بقلة إحترام	inclusive
+n	an	no	ديوث	conservative
+v	cds	no	أله	inclusive
+n	cds	no	نسابة	inclusive
+n	cds	no	القبلية	inclusive
+n	cds	no	اللصوصية	inclusive
+n	qas	no	بلاغه	inclusive
+n	asm	no	saphead	conservative
+n	an	no	الابتذال	conservative
+n	pr	no	عث	inclusive
+n	om	no	المثلية	inclusive
+n	ddp	yes	امية	inclusive
+n	re	no	عملية ارهابية	conservative
+n	cds	no	bas الأزرق	inclusive
+n	ddp	yes	غير المتعلمين شخص	conservative
+n	pa	yes	غليظ	conservative
+n	dmc	yes	المخادع	conservative
+n	asf	no	changelings	conservative
+n	svp	no	جمود	inclusive
+n	an	no	برند	inclusive
+n	re	no	الجريمة	inclusive
+n	re	no	وضع حتى الموت	inclusive
+n	asm	no	اللعنة	conservative
+n	re	no	إرهاب	inclusive
+n	an	no	وحش	inclusive
+n	asm	no	teste	inclusive
+n	svp	no	tightfistedness	conservative
+n	cds	no	الأغنياء الجدد	inclusive
+n	pa	yes	البواب	inclusive
+n	an	no	معزة	inclusive
+n	qas	no	الهاوي	conservative
+n	an	no	metazoans	inclusive
+n	cds	no	مشكلة	conservative
+n	cds	no	الرضا عن النفس	inclusive
+n	pa	yes	الأكاديمي	inclusive
+n	cds	no	المارقة	conservative
+n	cds	no	المواعظ	inclusive
+n	asm	no	نمو	inclusive
+n	asm	no	عته	inclusive
+n	cds	no	حديثة الثراء	inclusive
+n	is	yes	البخيل	conservative
+n	cds	no	loanshark	conservative
+n	cds	no	الكادح	inclusive
+n	cds	no	دركي	inclusive
+n	asm	no	الزوائد	inclusive
+n	qas	no	مزيج	inclusive
+n	an	no	الأوروبية الآسيوية غريفون	inclusive
+n	ddp	yes	بهيمة	inclusive
+n	qas	no	أقطاب	inclusive
+n	qas	no	فلاحين	inclusive
+n	svp	no	غَضَب	inclusive
+n	or	no	كوكوميس نبات	inclusive
+n	cds	no	homunculi	inclusive
+n	qas	no	النفايات المنزلية	inclusive
+n	cds	no	scrawler	conservative
+n	an	no	الصراصير	inclusive
+n	ps	yes	بطاقة عقوبة	inclusive
+n	re	no	furiousness	inclusive
+n	cds	no	ضابط	conservative
+n	svp	no	الفتور	inclusive
+n	cds	no	الطمر الصحي	inclusive
+n	an	no	شراسة	conservative
+n	dmc	yes	حظر	inclusive
+n	cds	no	الأحمق	inclusive
+n	ps	yes	الهجين intergeneric	inclusive
+n	pr	no	ماشية	inclusive
+n	svp	no	غضب	conservative
+n	om	no	خط منتصف الترقوة	inclusive
+n	ddp	yes	muttonhead	conservative
+n	pa	yes	متعهد	inclusive
+n	asf	no	مهبل	conservative
+n	pr	no	مومس	inclusive
+n	asm	no	سذاجة	conservative
+n	cds	no	الجرونج	inclusive
+n	pr	no	مول بندقية	inclusive
+n	asf	no	المنشعب الشعر	inclusive
+n	ps	yes	بدوية	inclusive
+n	qas	no	البلاغة	inclusive
+n	an	no	الضعيف الجسم	conservative
+n	dmc	yes	الزائفة	conservative
+n	re	no	قرصنة	inclusive
+n	dmc	yes	لا أدري ما أعمل	conservative
+n	an	no	sus	inclusive
+n	an	no	قراده	inclusive
+n	cds	no	الصاعد	conservative
+n	an	no	شرير	conservative
+n	an	no	الميكروبات	inclusive
+n	om	no	لواط	inclusive
+n	dmc	yes	نتانة	conservative
+n	om	no	عبر مضمد	inclusive
+n	an	no	اتان	inclusive
+n	an	no	zooerasty	conservative
+n	svp	no	كره	inclusive
+n	is	yes	متسول	conservative
+n	qas	no	تطفل	inclusive
+n	ps	yes	أخرى أجناس،	inclusive
+n	cds	no	اعرف كل	conservative
+n	an	no	ثيران	inclusive
+n	ddp	yes	animalia	inclusive
+n	an	no	التمساحيات	inclusive
+n	an	no	animalcules	inclusive
+n	cds	no	تكّبر	conservative

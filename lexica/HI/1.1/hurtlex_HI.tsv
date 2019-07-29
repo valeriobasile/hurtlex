@@ -1,0 +1,2210 @@
+pos	category	stereotype	lemma	level
+n	asf	no	छोकरी	conservative
+n	or	no	गोभी	inclusive
+n	an	no	उल्लू	inclusive
+n	dmc	yes	निकृष्टता	inclusive
+n	om	no	पार्श्व	inclusive
+n	cds	no	आत्मसंतोष	inclusive
+n	cds	no	पता है यह सब	conservative
+n	cds	no	टन	inclusive
+n	pa	yes	दरवाजा गार्ड	inclusive
+n	an	no	जूं	inclusive
+n	ddp	yes	बातूनी	conservative
+n	or	no	सूक्ष्म बातों पर ध्यान देना	inclusive
+n	cds	no	बर्बर	conservative
+n	cds	no	डरपोक	conservative
+n	or	no	बंधगोभी	inclusive
+n	cds	no	धर्माध्यक्ष	inclusive
+n	cds	no	संकरण	inclusive
+n	re	no	भयंकरता	inclusive
+n	svp	no	conceitedness	conservative
+n	asf	no	कोमल स्पर्श	conservative
+n	qas	no	वजन बेल्ट	inclusive
+n	svp	no	कामुक	inclusive
+n	cds	no	कट्टरपंथी	inclusive
+n	an	no	बकरा	inclusive
+n	cds	no	राहज़नी	conservative
+n	qas	no	बकवास	inclusive
+n	cds	no	बीमार ख्याति के घर	inclusive
+n	om	no	homosexualism	inclusive
+n	an	no	animalculum	inclusive
+n	cds	no	ढेर	inclusive
+n	ddf	yes	आधा पिंट	conservative
+n	an	no	कुछ भी नहीं पता	conservative
+n	cds	no	चरम विंगर सही	conservative
+n	pa	yes	शारीरिक	inclusive
+n	cds	no	strikebreakers	inclusive
+n	re	no	जबरन वसूली	inclusive
+n	an	no	ब्रेंट	inclusive
+n	dmc	yes	धर्मांध	conservative
+n	cds	no	जापानी मापन इकाइयाँ	inclusive
+n	asm	no	लिंग	inclusive
+n	an	no	pediculus humanus	inclusive
+n	cds	no	भार	inclusive
+n	cds	no	अंडमुख	inclusive
+n	cds	no	scammer	conservative
+n	cds	no	पाख़ाना	inclusive
+n	dmc	yes	अनैतिक	inclusive
+n	ddp	yes	मति - मंद	conservative
+n	cds	no	प्रांतिक	conservative
+n	om	no	खींचें क्वीन्स	inclusive
+n	dmc	yes	धोखेबाज़	conservative
+n	cds	no	ऋण ठग्गू	conservative
+n	cds	no	culchie	inclusive
+n	re	no	दुष्कर्मी	inclusive
+n	cds	no	पापी	conservative
+n	asf	no	जड़वामन	conservative
+n	an	no	गिद्धों	inclusive
+n	pa	yes	प्रोफ़ेसर	inclusive
+n	asm	no	मूर्खता	conservative
+n	ddf	yes	अपंग	inclusive
+n	cds	no	चोरों	inclusive
+n	an	no	किलनी	inclusive
+n	cds	no	गुस्ताखी	conservative
+n	cds	no	schoolma'am	conservative
+n	cds	no	परिवार	inclusive
+n	qas	no	flub	inclusive
+n	pa	yes	advocator	inclusive
+n	re	no	अपराधियों	inclusive
+n	an	no	कोमल स्पर्श	conservative
+n	dmc	yes	scattergood	inclusive
+n	pa	yes	कर्मचारी	inclusive
+n	pa	yes	क्लर्क	inclusive
+n	cds	no	backtalk	inclusive
+n	pr	no	hetaira	inclusive
+n	asf	no	लक्कड़	conservative
+n	asm	no	बंद jacking	conservative
+n	dmc	yes	छल	conservative
+n	qas	no	व्याख्यान शास्त्र	inclusive
+n	an	no	culicidae	inclusive
+n	ps	yes	बदुइन	inclusive
+n	an	no	घोंघा	inclusive
+n	is	yes	कम आय वाले	inclusive
+n	pr	no	जॉन	conservative
+n	re	no	अवैधीकरण	inclusive
+n	an	no	redfish	inclusive
+n	asf	no	saphead	conservative
+n	cds	no	कागज ढकेलनेवाला	inclusive
+n	cds	no	मौन की साजिश	inclusive
+n	dmc	yes	डकैत	inclusive
+n	or	no	समलैंगिक	conservative
+n	cds	no	किंवदंति	inclusive
+n	an	no	हंसी	inclusive
+n	an	no	diddlyshit	conservative
+n	an	no	bos taurus	inclusive
+n	ps	yes	संकरण	inclusive
+n	svp	no	superbia	conservative
+n	asf	no	औरत	conservative
+n	ddp	yes	imbecile	inclusive
+n	cds	no	lowlife	conservative
+n	an	no	कैमान	inclusive
+n	ddp	yes	कुंद	conservative
+n	an	no	गधे	inclusive
+n	ddp	yes	कंजूस	conservative
+n	cds	no	loanshark	inclusive
+n	cds	no	सामान ट्रेन	inclusive
+n	svp	no	कंजूस	inclusive
+n	om	no	नैन्स	conservative
+n	cds	no	weisenheimer	conservative
+n	ddp	yes	बौड़म	conservative
+n	cds	no	banditti	conservative
+n	cds	no	दूती	inclusive
+n	ddp	yes	जंतु	inclusive
+n	qas	no	व्यापारी	inclusive
+n	cds	no	बुद्धू	inclusive
+a	pa	yes	राजनीतिक	inclusive
+n	ddp	yes	कैदी	inclusive
+n	an	no	anguillidae	inclusive
+n	cds	no	स्क्रैप	inclusive
+n	cds	no	बिना सोचे समझे कह डालना	inclusive
+n	cds	no	विधि - बहिष्कृत	inclusive
+n	cds	no	जनजाति	inclusive
+n	asf	no	विदूषक	conservative
+n	ddp	yes	मानसिक मंदता	inclusive
+n	pr	no	चूहों	inclusive
+a	dmc	yes	मैला	inclusive
+n	an	no	diddly-पलथी मारे हुए	conservative
+n	an	no	hirudinea	inclusive
+n	cds	no	wangler	conservative
+n	pa	yes	नियंत्रक	inclusive
+n	an	no	कीड़ा	inclusive
+n	qas	no	kennel	inclusive
+n	cds	no	फासीवाद	conservative
+n	cds	no	मूर्ख	inclusive
+n	om	no	लौंडेबाजी	inclusive
+n	asm	no	bollocks	inclusive
+n	re	no	दुराचार	inclusive
+n	an	no	बिज्जू	inclusive
+n	re	no	लापरवाही से काम करना	inclusive
+n	re	no	माफ़िया	inclusive
+n	cds	no	wank	conservative
+n	cds	no	मुफ्त मेसन	inclusive
+n	an	no	जूँ	inclusive
+n	cds	no	ज़रख़ीदी	conservative
+n	is	yes	भिखारी	conservative
+n	an	no	crocodilia	inclusive
+n	cds	no	मतावलंबी	conservative
+n	or	no	आलु	inclusive
+n	qas	no	आम आदमी	inclusive
+n	or	no	नैन्स	conservative
+n	an	no	ख़रगोश	inclusive
+n	ps	yes	mongoloid	conservative
+n	dmc	yes	bumbler	conservative
+n	pa	yes	प्रोफेसर	inclusive
+n	cds	no	पुलिस	inclusive
+n	re	no	पीटा	inclusive
+n	om	no	ड्रेसिंग पार	inclusive
+n	pa	yes	प्रोफेसरों	inclusive
+n	cds	no	उग्रपंथियों	inclusive
+n	re	no	अपराधी	inclusive
+n	cds	no	nerdy	conservative
+n	cds	no	घरघरानेवाला	conservative
+n	dmc	yes	बाल अपचारी	conservative
+n	om	no	दुमदारी से fusing	inclusive
+n	cds	no	evildoer	conservative
+n	qas	no	sodbuster	inclusive
+n	an	no	पिस्सू	inclusive
+n	cds	no	घपला	inclusive
+n	an	no	phthiraptera	inclusive
+n	re	no	लुटेरों	inclusive
+n	an	no	थूथन	inclusive
+n	ps	yes	बदूइन	inclusive
+n	cds	no	slews	inclusive
+n	cds	no	सूदखोरी	inclusive
+n	or	no	सौंफ	inclusive
+n	an	no	अनाड़ी	conservative
+n	asm	no	व्यापक सेम	inclusive
+n	an	no	टिक	inclusive
+n	qas	no	पेशेवर वर्ग	inclusive
+n	pr	no	कसबी	conservative
+n	an	no	लाल ड्रम	inclusive
+n	cds	no	superbia	conservative
+n	cds	no	मलजल	inclusive
+n	asm	no	मटर	inclusive
+n	or	no	meticulosity	inclusive
+n	qas	no	थैलीशाह	inclusive
+n	ddp	yes	अनापशनाप	inclusive
+n	svp	no	gorger	conservative
+n	dmc	yes	गंदगी	conservative
+n	cds	no	देहाती	conservative
+n	ddp	yes	बुद्धू	conservative
+n	ps	yes	मूर्ख	conservative
+n	qas	no	साहित्य शास्त्र	inclusive
+n	re	no	कुल्हाड़ी नौकरी	inclusive
+n	cds	no	रटनेवाला	conservative
+n	om	no	गुदा सेक्स	inclusive
+n	re	no	कातिल	inclusive
+n	cds	no	narcissistic	inclusive
+n	pa	yes	कॉर्पोरल	inclusive
+n	an	no	kine	inclusive
+n	om	no	नितम्ब	inclusive
+n	pa	yes	wooer	inclusive
+n	cds	no	ostentatiousness	conservative
+n	dmc	yes	झूठ	inclusive
+n	re	no	चुगली	inclusive
+n	dmc	yes	मैल बैग	inclusive
+n	cds	no	विप्लव	inclusive
+n	dmc	yes	बेघर	inclusive
+n	dmc	yes	libertinism	conservative
+n	or	no	मूर्ख	conservative
+n	cds	no	fawner	conservative
+n	re	no	plagiarise	inclusive
+n	cds	no	माफिया	conservative
+n	cds	no	गिरोह	conservative
+n	dmc	yes	बदबू	conservative
+n	re	no	अपराधी	conservative
+n	dmc	yes	निकम्मा	conservative
+n	re	no	ठग	inclusive
+n	or	no	poof	conservative
+n	qas	no	अत्युक्ति	inclusive
+n	qas	no	कमेरा	inclusive
+n	qas	no	स्क्रैप	inclusive
+n	cds	no	flub	inclusive
+n	ps	yes	jigaboo	conservative
+n	cds	no	माफ़िया	inclusive
+n	cds	no	योजनाकारी	inclusive
+n	cds	no	गड़बड़झाला	inclusive
+n	cds	no	झूठी अफ़वाह	conservative
+n	pa	yes	सार्वजनिक लेखा	inclusive
+n	an	no	gyps fulvus	inclusive
+n	cds	no	dweeb	conservative
+n	an	no	घेंटा	inclusive
+n	dmc	yes	बेईमान	conservative
+n	an	no	भ्रूभंग	inclusive
+n	dmc	yes	जालसाजी	inclusive
+n	ps	yes	यहूदियों	inclusive
+n	an	no	अक्षम	conservative
+n	cds	no	hypersexuality	conservative
+n	or	no	जला नारंगी	inclusive
+n	qas	no	पराश्रयी होकर लेगना	inclusive
+n	cds	no	संयंत्र जैव प्रौद्योगिकी	inclusive
+n	ddp	yes	जंतुओं	inclusive
+n	dmc	yes	गैरकानूनी घोषित	inclusive
+n	om	no	homophile	conservative
+n	qas	no	काश्तकार	inclusive
+n	qas	no	conformism	inclusive
+a	pa	yes	सैद्धांतिक	inclusive
+n	cds	no	शोहदा	inclusive
+n	qas	no	शर्त	inclusive
+n	re	no	बलात्कारी	conservative
+n	asf	no	योनि	conservative
+n	re	no	बदनामी	inclusive
+n	pr	no	सड़क लड़की	conservative
+n	pr	no	वेश्या	conservative
+n	re	no	तोहमत	inclusive
+n	an	no	लुटेरा	inclusive
+n	ps	yes	यूदावाद	inclusive
+n	cds	no	अधम	conservative
+a	om	no	अलग	inclusive
+n	re	no	माफिया	conservative
+n	cds	no	नाजायज बच्चे	inclusive
+n	asm	no	बंद मरोड़ते	conservative
+n	cds	no	सिखाया	inclusive
+n	re	no	हत्या	inclusive
+n	svp	no	गवारूपन	conservative
+n	dmc	yes	मोड़ पर	conservative
+n	cds	no	दोस्त	inclusive
+n	re	no	दण्डाभियोग	inclusive
+n	svp	no	ऊब	inclusive
+n	an	no	हेलिक्स pomatia	inclusive
+n	asm	no	चमड़ी	inclusive
+n	cds	no	व्यक्ति - निष्ठा	conservative
+n	an	no	dumbass	conservative
+n	or	no	dumbass	conservative
+n	svp	no	avaritia	inclusive
+n	an	no	raunch	conservative
+n	re	no	लुटेरा	inclusive
+a	svp	no	नाराज़	inclusive
+n	svp	no	चटोरा	inclusive
+n	svp	no	पैसा pinching	inclusive
+n	qas	no	बू - बू	inclusive
+n	cds	no	धिक्कृत	conservative
+n	ps	yes	rroma	inclusive
+n	dmc	yes	lowlife	inclusive
+n	cds	no	कमीने	inclusive
+n	cds	no	जनसमूह	conservative
+n	pa	yes	गड़ेरिया	inclusive
+n	ddp	yes	विदूषक	conservative
+n	an	no	anuran	inclusive
+n	dmc	yes	मोत्ज़ारेला	inclusive
+n	qas	no	ballock	inclusive
+n	cds	no	रूढ़	conservative
+n	om	no	गधा	inclusive
+n	cds	no	अराजकता	inclusive
+n	ddp	yes	बेढंगा	conservative
+n	asm	no	nookie	conservative
+n	cds	no	सीवरेज	inclusive
+n	qas	no	आसार	inclusive
+a	svp	no	रूठा	inclusive
+n	an	no	prickteaser	conservative
+n	cds	no	crossbreed	inclusive
+n	dmc	yes	गोलमाल करनेवाला	conservative
+n	asm	no	उल्लू	conservative
+n	an	no	फेमिलेरिस	inclusive
+n	re	no	खलनायक	conservative
+n	pa	yes	गंवार	conservative
+n	cds	no	बाल अपचारी	conservative
+n	cds	no	पंडिताऊ	conservative
+n	cds	no	सुगंधित - पार्कर	conservative
+n	svp	no	निष्क्रियता	inclusive
+n	cds	no	archpriest	inclusive
+n	om	no	बेसल	inclusive
+n	cds	no	bumbler	conservative
+n	cds	no	धोखेबाज़	conservative
+n	or	no	उल्लू	conservative
+n	pa	yes	वकीलों	inclusive
+n	cds	no	झुंड	inclusive
+n	asm	no	पक्षियों	inclusive
+n	or	no	गाँडू	conservative
+n	asm	no	यूरोपीय सेम	inclusive
+n	pa	yes	नौकर	inclusive
+n	an	no	बाइसन	inclusive
+n	qas	no	विक्रेता	inclusive
+n	cds	no	crooners	inclusive
+n	ps	yes	रोमानी	inclusive
+n	an	no	अहमक़	conservative
+n	ps	yes	नीग्रोइड	inclusive
+n	cds	no	संकर	inclusive
+n	svp	no	क्रोध	conservative
+n	cds	no	उपजाति	inclusive
+n	an	no	ज़बान की चूक	inclusive
+n	cds	no	ज़रख़ीद	inclusive
+n	qas	no	घोड़ी का घोंसला	inclusive
+n	cds	no	चुनना	conservative
+n	qas	no	व्यवसायियों	inclusive
+n	re	no	आतंकवाद	inclusive
+n	svp	no	अनासक्ति	inclusive
+n	qas	no	किसान	inclusive
+n	pr	no	कुटनी	conservative
+n	cds	no	सड़ा हुआ	inclusive
+n	ddp	yes	changeling	inclusive
+n	is	yes	निर्धनता	inclusive
+n	re	no	यौन हमले	inclusive
+n	an	no	मुर्गियों	inclusive
+n	om	no	लौंडेबाज	conservative
+n	re	no	debaucher	conservative
+n	ps	yes	मति - मंद	conservative
+n	ddp	yes	codswallop	conservative
+n	cds	no	कैसीनो	inclusive
+n	pa	yes	बाबू	inclusive
+n	om	no	लांगुलिय	inclusive
+n	cds	no	पैसा भयानक	inclusive
+n	asm	no	पैट्सी	conservative
+n	dmc	yes	गांवारू	conservative
+n	ddp	yes	बदमाश	conservative
+n	qas	no	tagalong	conservative
+n	qas	no	मेज नौकरी	inclusive
+n	ps	yes	चीनी	inclusive
+n	dmc	yes	विधि - बहिष्कृत	inclusive
+n	asm	no	भोलापन	conservative
+n	ddp	yes	infauna	inclusive
+n	cds	no	ठोस अपशिष्ट	conservative
+n	pa	yes	अकादमिक	inclusive
+n	cds	no	टॉयलेट	inclusive
+n	svp	no	बदमिज़ाज होना	conservative
+n	cds	no	मध्यस्थ	inclusive
+n	asm	no	avafauna	inclusive
+n	asf	no	बुद्धु	conservative
+n	cds	no	हस्तक्षेपकर्त्ता	conservative
+n	or	no	कत्थई	inclusive
+n	qas	no	व्यवसायी	inclusive
+n	svp	no	आलस्य	inclusive
+n	an	no	caprinae	inclusive
+n	om	no	रियर अंत	inclusive
+n	svp	no	dillydallier	conservative
+n	re	no	व्यतिक्रम	inclusive
+n	cds	no	घास के बीज	conservative
+n	ddp	yes	रोकना	conservative
+n	an	no	knucklehead	conservative
+n	cds	no	मरा हुआ अंत सड़क	inclusive
+n	dmc	yes	अतिव्ययी	inclusive
+n	asf	no	गावदी	conservative
+n	cds	no	फ़ासिस्ट	conservative
+n	cds	no	मसखरा	conservative
+n	cds	no	गायक	inclusive
+n	cds	no	gangsterism	inclusive
+n	dmc	yes	भ्रामक	conservative
+a	svp	no	नाराज़	conservative
+n	re	no	mafiosi	inclusive
+n	ddp	yes	बुद्धु	conservative
+n	cds	no	पांडित्य - प्रदर्शन	inclusive
+n	an	no	ferociousness	conservative
+n	pr	no	उपपत्नी	inclusive
+n	ps	yes	बर्बर	conservative
+n	asf	no	कपाल	conservative
+n	om	no	finocchio	inclusive
+n	asm	no	लुंड	conservative
+n	cds	no	बातूनी	conservative
+n	cds	no	पापारात्सी	inclusive
+n	cds	no	शिक्षण सहायता	inclusive
+n	ddp	yes	फूहड़पन से काम करने वाला	conservative
+n	cds	no	तड़क - भड़क	conservative
+n	qas	no	परजीविता	inclusive
+n	cds	no	अभिमान	inclusive
+n	svp	no	गर्व	inclusive
+n	ddp	yes	बेवकूफ	conservative
+n	dmc	yes	मुनाफ़िक़	conservative
+n	an	no	सर्पमीन	inclusive
+n	ddp	yes	zooerastia	conservative
+n	svp	no	खाने - पीने का शौकीन	inclusive
+n	asf	no	बौड़म	conservative
+n	om	no	बच्चे molester	conservative
+n	ddp	yes	मानसिक कमी है	inclusive
+n	cds	no	बच्चा	inclusive
+n	an	no	चिकन	inclusive
+n	cds	no	जनता	inclusive
+n	asm	no	मति - मंद	inclusive
+n	an	no	कीटों	inclusive
+n	an	no	diddly	conservative
+n	qas	no	ग्रेंजर	inclusive
+n	pa	yes	मुनीम	inclusive
+n	cds	no	खटारा	inclusive
+n	dmc	yes	अनैतिक	conservative
+n	cds	no	भड़कीलापन	conservative
+n	cds	no	ठग	conservative
+n	cds	no	गणिकागृह	inclusive
+n	an	no	मोलस्क	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	re	no	याद	inclusive
+n	dmc	yes	बुराई	conservative
+n	ps	yes	बुलगारी	inclusive
+n	cds	no	सुलेखक	conservative
+n	om	no	शिखर	inclusive
+n	re	no	ब्लैकमेल	conservative
+n	ddp	yes	गावदी	conservative
+n	dmc	yes	अमुक	inclusive
+n	svp	no	faineance	inclusive
+n	pr	no	पतंगा	inclusive
+n	om	no	खींचें रानी	inclusive
+n	cds	no	उच्च पुजारी	inclusive
+n	dmc	yes	chiseller	conservative
+n	pr	no	कुतिया	conservative
+n	or	no	pudden सिर	conservative
+n	svp	no	कोई खाता	conservative
+n	qas	no	खेतिहर	inclusive
+n	asm	no	ballock	inclusive
+n	pa	yes	प्रेमी	inclusive
+n	cds	no	घरेलू अपशिष्ट	inclusive
+n	cds	no	ostentatiousness	inclusive
+n	asf	no	योनी	conservative
+n	pr	no	पशु	inclusive
+n	pr	no	दरबारी	inclusive
+n	ddp	yes	microcephalus	inclusive
+n	cds	no	चोट	inclusive
+n	pa	yes	प्राध्यापक	inclusive
+n	cds	no	पैट्सी	conservative
+n	an	no	कुछ कलहंस	inclusive
+n	ddp	yes	झक्की	conservative
+n	pa	yes	ईसीई	inclusive
+n	cds	no	मति - मंद	inclusive
+n	om	no	पीछे	inclusive
+n	cds	no	बू - बू	inclusive
+n	an	no	बकरियाँ	inclusive
+n	cds	no	सतानेवाला	conservative
+a	is	yes	ग़रीब	inclusive
+n	an	no	volaille	inclusive
+n	is	yes	गरीबी	inclusive
+n	cds	no	ballup	inclusive
+n	cds	no	छैल	inclusive
+n	ps	yes	यहूदी	inclusive
+n	pa	yes	sheepherder	inclusive
+n	pa	yes	वकील	inclusive
+n	ps	yes	बुद्धू	conservative
+n	ddp	yes	अक्षम	conservative
+n	re	no	plagiarized	inclusive
+n	ddp	yes	प्रमादी	conservative
+n	an	no	crocodylidae	inclusive
+n	re	no	camorra	inclusive
+n	an	no	लक्कड़	conservative
+n	cds	no	डाकू	conservative
+n	pa	yes	चरवाहा	inclusive
+n	cds	no	banditti	inclusive
+n	ps	yes	negroids	inclusive
+n	cds	no	विज्ञानवाद	inclusive
+n	dmc	yes	rakehell	conservative
+n	dmc	yes	वाचाल	conservative
+n	an	no	rouncey	inclusive
+n	an	no	blattaria	inclusive
+n	cds	no	chiseler	inclusive
+n	an	no	सूअरों	inclusive
+n	or	no	बंटा	inclusive
+n	om	no	डेम	inclusive
+a	dmc	yes	खोटा	conservative
+n	re	no	villainess	conservative
+n	is	yes	खलनायक	conservative
+n	ps	yes	नीग्रो	conservative
+n	ddp	yes	मुख़बिर	conservative
+n	cds	no	अस्वीकार	conservative
+n	cds	no	नगर निगम के कचरे	conservative
+n	dmc	yes	अपराधी	inclusive
+n	ddp	yes	animal	inclusive
+n	asm	no	बुद्धु	conservative
+n	qas	no	कृषकों	inclusive
+n	re	no	homicides	inclusive
+n	qas	no	बर्बर	conservative
+n	cds	no	पुलिसकर्मी	conservative
+n	an	no	जंतुओं	inclusive
+a	dmc	yes	गंदे	inclusive
+n	re	no	सटीक	inclusive
+n	an	no	दुष्ट	conservative
+n	pa	yes	प्रस्तावक	inclusive
+n	cds	no	स्वजन	inclusive
+n	ddp	yes	जड़वामन	inclusive
+n	re	no	वित्तीय करें	inclusive
+n	svp	no	हवस	inclusive
+n	svp	no	बोरियत	inclusive
+n	pa	yes	शिक्षाविदों	inclusive
+n	cds	no	कानून तोड़ने	inclusive
+n	an	no	eurypterids	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	ps	yes	बेढंगा	conservative
+n	re	no	अपहर्ताओं	inclusive
+n	cds	no	गेंदों को	inclusive
+n	re	no	आतन्कवाद	inclusive
+n	an	no	उल्लू	conservative
+n	qas	no	ढिलाई से काम करना	inclusive
+n	an	no	क्युलेक्स pipiens	inclusive
+n	cds	no	अध्यापक	inclusive
+n	or	no	potatoe	inclusive
+n	an	no	क्यूलेक्स pipiens	inclusive
+n	qas	no	पर्दाफ़ाश	inclusive
+n	an	no	कपाल	conservative
+n	dmc	yes	fabricator	conservative
+n	cds	no	मूर्ख	conservative
+n	qas	no	श्वानालय	inclusive
+n	ddp	yes	macrofauna	inclusive
+n	cds	no	नि शुल्क और स्वीकृत राजमिस्त्री	inclusive
+n	cds	no	newswriter	inclusive
+n	or	no	cucurbita मॅक्सिमा	inclusive
+n	an	no	तोते	inclusive
+n	om	no	प्रतिष्ठित स्री	inclusive
+n	svp	no	भद्दा	inclusive
+n	cds	no	papparazzi	inclusive
+n	cds	no	folderol	conservative
+n	asf	no	muttonhead	conservative
+n	is	yes	जातिच्युत मनुष्य	inclusive
+n	an	no	सांप	inclusive
+n	qas	no	गृह व्यवस्था	inclusive
+n	cds	no	दस्यु	inclusive
+n	cds	no	whorehouse	inclusive
+n	qas	no	वर्ण	inclusive
+n	cds	no	मिथ्या	conservative
+n	ps	yes	बिदौइन	inclusive
+n	asf	no	कुंद	conservative
+n	ps	yes	फासीवादी	inclusive
+n	dmc	yes	सड़न	conservative
+n	cds	no	एक तेजी	conservative
+n	ps	yes	ईद्भाउट	conservative
+n	svp	no	bigot	conservative
+n	svp	no	gourmandizer	inclusive
+n	an	no	strix varia	inclusive
+n	ps	yes	ruiner	conservative
+a	svp	no	घमंडी	conservative
+n	svp	no	ऐयाशी	inclusive
+n	an	no	खटमल	inclusive
+n	ddp	yes	कैदियों	inclusive
+n	an	no	समुद्र बिच्छू	inclusive
+n	an	no	मांस	inclusive
+n	om	no	gayness	inclusive
+n	pr	no	दरबारियों	inclusive
+n	qas	no	वक्रपटुता	inclusive
+n	cds	no	chiseller	inclusive
+n	or	no	लौंडेबाज़	conservative
+n	cds	no	ragtag	conservative
+n	om	no	गाँडू	conservative
+n	ps	yes	जूदाईस्म	inclusive
+n	om	no	समलैंगिकों	inclusive
+n	cds	no	बंडल	inclusive
+n	cds	no	आंतरिक चक्र	inclusive
+n	om	no	dorsoventral	inclusive
+n	ps	yes	फ़ासिस्ट	inclusive
+n	cds	no	bordello	inclusive
+n	cds	no	बुरे कार्यों में सहायता करने वाला	inclusive
+n	an	no	बदमाश	conservative
+n	an	no	बिस्तर बग	inclusive
+n	om	no	सौंफ़	inclusive
+n	cds	no	ऋण ठग्गू	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	pr	no	अनाप - शनाप	conservative
+n	cds	no	nouveaux धन	inclusive
+a	cds	no	स्मार्ट	inclusive
+n	cds	no	कंफ़मिस्ट	conservative
+n	pr	no	पतंगे	inclusive
+n	cds	no	निम्फ़ोमानिया	conservative
+n	cds	no	शौचालय	inclusive
+n	asm	no	jeerer	conservative
+n	pr	no	परवाना	inclusive
+n	pr	no	व्यभिचारिणी	conservative
+n	ddp	yes	बर्बरता	inclusive
+n	pa	yes	प्लीडर	inclusive
+n	re	no	defamer	conservative
+n	an	no	माइक्रोबियल	inclusive
+n	re	no	plagiarization	inclusive
+n	qas	no	शौकीनी	conservative
+n	ddp	yes	बंदी	inclusive
+n	cds	no	दुर्जनों का नेता	conservative
+n	cds	no	कचदिलापन	inclusive
+n	cds	no	फासीवादी	conservative
+n	asm	no	changeling	inclusive
+n	asm	no	nooky	conservative
+n	cds	no	thieving	inclusive
+n	cds	no	बांका	inclusive
+n	an	no	मछली	inclusive
+n	svp	no	मनमानी	conservative
+n	re	no	कष्टदाता	inclusive
+n	cds	no	बहुत	inclusive
+n	an	no	एंगुइला	inclusive
+n	an	no	infauna	inclusive
+n	ps	yes	बर्बर	inclusive
+n	re	no	banditti	inclusive
+n	svp	no	हेकड़ी	conservative
+n	pr	no	जॉन	inclusive
+n	is	yes	निर्वासित	inclusive
+n	ps	yes	रोकना	conservative
+n	cds	no	balladeer	inclusive
+n	rci	yes	जंगली	conservative
+n	ps	yes	bedu	inclusive
+n	cds	no	छैला	conservative
+n	re	no	हिंसा	inclusive
+n	cds	no	स्कोर	inclusive
+n	cds	no	अवैधीकरण	conservative
+n	cds	no	प्रमादी	conservative
+n	cds	no	खरीद	inclusive
+n	an	no	मूर्ख	conservative
+n	ddp	yes	fuckhead	conservative
+n	pr	no	fornicatress	conservative
+n	is	yes	निर्धन	inclusive
+n	svp	no	इरोस	inclusive
+n	ps	yes	nigra	conservative
+n	pa	yes	गड़ेरिन	inclusive
+n	pr	no	कीट	inclusive
+n	svp	no	trencherman	conservative
+n	re	no	mafioso	conservative
+n	cds	no	अमुक	conservative
+n	svp	no	कामुकता	inclusive
+n	cds	no	idolaters	inclusive
+n	cds	no	mafiosi	conservative
+n	an	no	बायसन	inclusive
+a	qas	no	सामान्य	inclusive
+n	cds	no	घसीट लिखनेवाला	conservative
+n	re	no	हत्यारा	inclusive
+n	an	no	crocodylia	inclusive
+n	is	yes	villainess	conservative
+n	cds	no	विलक्षण	inclusive
+n	qas	no	ठोस अपशिष्ट	inclusive
+n	svp	no	लोभ	inclusive
+n	qas	no	मंगता	conservative
+n	pr	no	रंडीपन	inclusive
+n	cds	no	nymphomaniac	conservative
+n	svp	no	चटोरा	conservative
+n	ddp	yes	unwiseness	inclusive
+n	ps	yes	बदू	inclusive
+n	dmc	yes	defrauder	conservative
+n	ddp	yes	उल्लू	conservative
+n	qas	no	परित्यक्त जहाज	inclusive
+n	cds	no	अपराध	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	ddp	yes	भेदिया	conservative
+a	dmc	yes	बुराई	conservative
+a	asm	no	भूरा	inclusive
+n	asm	no	मूर्ख	conservative
+n	dmc	yes	भांड	inclusive
+n	cds	no	पाषंडी	conservative
+n	is	yes	कंगाल	inclusive
+a	cds	no	मूर्ख	conservative
+n	or	no	बौड़म	conservative
+n	pr	no	चूहे	inclusive
+n	asm	no	हाथ से काम	conservative
+n	pr	no	वेश्याओं	inclusive
+n	cds	no	बेवकूफ	conservative
+n	om	no	crossdress	inclusive
+n	cds	no	शौक़ीन	inclusive
+n	pa	yes	अटॉर्नी	inclusive
+n	an	no	hemipteran	inclusive
+n	cds	no	आत्मरति	inclusive
+n	cds	no	रोगी	inclusive
+n	dmc	yes	hobos	conservative
+n	ps	yes	doofus	conservative
+n	an	no	मुर्गा	inclusive
+n	om	no	crossdresser	inclusive
+n	cds	no	bigoted	conservative
+n	cds	no	आलसी	conservative
+n	qas	no	जात	inclusive
+n	asm	no	चिड़िया	inclusive
+n	pa	yes	टिकट एजेंट	inclusive
+n	om	no	सौंफ	inclusive
+n	re	no	raper	conservative
+n	qas	no	असत्यता	conservative
+n	an	no	hemipteron	inclusive
+n	qas	no	मिश्रण	inclusive
+n	or	no	cuke	inclusive
+n	om	no	sodomist	inclusive
+n	re	no	विधि - बहिष्कृत	inclusive
+n	pa	yes	चरवाहों	inclusive
+n	ddp	yes	twirp	conservative
+a	ps	yes	यहूदी	inclusive
+n	ddp	yes	बुद्धू	inclusive
+n	asm	no	betise	conservative
+n	asm	no	वृषण	inclusive
+n	pr	no	यौन सेवाओं	conservative
+n	is	yes	बदमाश	conservative
+n	cds	no	गधे	conservative
+n	cds	no	औसत दर्जे का आदमी	conservative
+n	ps	yes	नीग्रोइड्स	inclusive
+n	svp	no	dallier	conservative
+n	cds	no	कुलों	inclusive
+n	is	yes	फटेहाल	conservative
+n	cds	no	हड़ताल तोड़ने	inclusive
+n	qas	no	घर के कामकाज	inclusive
+n	an	no	कुत्ते	inclusive
+n	svp	no	यौन इच्छा	inclusive
+n	cds	no	अल्पज्ञता	inclusive
+n	an	no	बैलों	inclusive
+n	cds	no	छोकरा	inclusive
+n	ps	yes	मसिपूर्णता	inclusive
+n	cds	no	पार्टी	inclusive
+a	ps	yes	चीनी	inclusive
+n	dmc	yes	औसत दर्जे का आदमी	conservative
+n	cds	no	अवशेष	inclusive
+n	cds	no	fabricator	conservative
+n	qas	no	जातियों	inclusive
+n	re	no	निन्दक	conservative
+n	asm	no	phallus	inclusive
+n	svp	no	अभिलाषा	inclusive
+n	an	no	प्राणी	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	an	no	shoat	inclusive
+n	cds	no	डींगवाला	conservative
+n	ps	yes	गंवार	conservative
+n	an	no	कुत्तों	inclusive
+n	asm	no	testes	inclusive
+n	or	no	अनाड़ी	conservative
+n	re	no	felons	inclusive
+n	om	no	समलैंगिकता	inclusive
+n	cds	no	नोव्यू - riche	inclusive
+n	qas	no	baroqueness	inclusive
+n	qas	no	स्वोपसर्ग	inclusive
+n	cds	no	गुनगुनानेवाला	inclusive
+n	an	no	eurypterid	inclusive
+n	pr	no	रंडीपन	conservative
+n	cds	no	शठता	conservative
+n	cds	no	interfertility	inclusive
+n	ps	yes	रोमा	inclusive
+n	ddf	yes	विकलांग	inclusive
+n	cds	no	उठाईगीर	conservative
+n	cds	no	कट्टरता	conservative
+n	ddp	yes	कपाल	conservative
+n	asf	no	रोकना	conservative
+n	dmc	yes	कोई खाता	conservative
+n	cds	no	बुद्धिमान व्यक्ति	conservative
+n	an	no	कुटकी	inclusive
+n	cds	no	दब्बु	conservative
+n	dmc	yes	ख़र्चीला	inclusive
+n	qas	no	घर चित्रकार	inclusive
+n	qas	no	kennels है	inclusive
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	pa	yes	इसी सदस्य	inclusive
+n	re	no	अपमानजनक	inclusive
+n	an	no	नृशंसता	conservative
+n	qas	no	रंग पोतनेवाला	conservative
+n	dmc	yes	छद्म	conservative
+n	svp	no	ख़राब	conservative
+n	an	no	caimans	inclusive
+n	cds	no	कारक	inclusive
+n	om	no	हिंद अंत	inclusive
+n	cds	no	बुद्धु	conservative
+n	dmc	yes	apostate	conservative
+n	om	no	खींचें शो	inclusive
+n	cds	no	कट्टरपंथियों	inclusive
+n	re	no	माफ़िया	conservative
+n	svp	no	luxuria	inclusive
+n	asm	no	shtup	conservative
+n	is	yes	ग़रीबी	inclusive
+n	cds	no	कायर	conservative
+n	an	no	हंस	inclusive
+n	pa	yes	academe	inclusive
+n	ddp	yes	स्वास्थ्य धोखाधड़ी	conservative
+n	an	no	चैनल बास	inclusive
+n	an	no	blattodea	inclusive
+n	pr	no	kine	inclusive
+n	ps	yes	संयंत्र जैव प्रौद्योगिकी	inclusive
+n	an	no	गंदी चाल	conservative
+n	cds	no	कमीने	conservative
+n	ddp	yes	बेवक़ूफ़	inclusive
+n	cds	no	शर्त	inclusive
+n	asf	no	पैट्सी	conservative
+n	qas	no	ग्रामवासी	inclusive
+n	cds	no	शेखबाजी	conservative
+n	asf	no	बुद्धू	conservative
+n	qas	no	खिचड़ी	inclusive
+n	cds	no	प्रचारक	inclusive
+n	svp	no	उबाऊ	inclusive
+n	qas	no	अस्वीकार	conservative
+n	om	no	गाँडू	inclusive
+n	re	no	आतंकवादियों	conservative
+n	qas	no	जातिवाद	inclusive
+n	pr	no	वैश्यालय	inclusive
+n	dmc	yes	खलनायक	conservative
+n	an	no	escargots	inclusive
+n	dmc	yes	दस्यु	conservative
+n	cds	no	अन्तर्गुट	inclusive
+n	or	no	सौंफ़	inclusive
+n	asf	no	changeling	conservative
+n	cds	no	सूदखोर	inclusive
+n	qas	no	कूड़ा	conservative
+n	cds	no	splashiness	inclusive
+n	ps	yes	ज़ुलु	inclusive
+n	asm	no	लंड	conservative
+n	an	no	aureus	inclusive
+n	qas	no	मध्य वर्ग	inclusive
+n	cds	no	दंड	inclusive
+n	cds	no	bellyacher	conservative
+n	ps	yes	वैन्डल	inclusive
+n	qas	no	ओमनियम - gatherum	inclusive
+n	an	no	midges	inclusive
+n	ddp	yes	ढिलाई से काम करनेवाला	conservative
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	re	no	मानहानिकारक	inclusive
+n	cds	no	बंद jacking	conservative
+n	cds	no	आधा पिंट	conservative
+n	an	no	cimicidae	inclusive
+n	an	no	लूटेरा	conservative
+n	cds	no	चुप्पी की साजिश छुट्टी	inclusive
+n	om	no	नख़रेबाज़ी	conservative
+n	cds	no	लापरवाही से काम करना	inclusive
+n	ps	yes	संकर	inclusive
+n	qas	no	गोलमाल करनेवाला	conservative
+n	svp	no	घृणा	inclusive
+n	qas	no	अनुपालन	inclusive
+n	dmc	yes	dillydallier	conservative
+n	cds	no	चपरासी	inclusive
+n	re	no	भयदोहन	conservative
+n	cds	no	codswallop	conservative
+n	ps	yes	नीग्रो	inclusive
+n	cds	no	घमंडी	conservative
+n	is	yes	सस्ता	conservative
+n	an	no	bufo	inclusive
+n	cds	no	बकवास	conservative
+n	pa	yes	अधिवक्ताओं	inclusive
+n	cds	no	कट्टरता	inclusive
+n	pr	no	पतुरिया	conservative
+n	pa	yes	दरबान	inclusive
+n	cds	no	दियासलाई बनानेवाला	inclusive
+n	cds	no	बंद मरोड़ते	conservative
+n	re	no	आतंकवाद	conservative
+n	an	no	अशिष्टता	conservative
+n	cds	no	झूठ	inclusive
+n	an	no	शार्क	inclusive
+n	is	yes	नहीं है	inclusive
+n	cds	no	खरीद	conservative
+n	ps	yes	बेवकूफ	conservative
+n	pa	yes	सफेद कॉलर श्रमिकों	inclusive
+n	cds	no	jokester	inclusive
+n	re	no	व्यापार परिवाद	inclusive
+n	pa	yes	शिक्षा	inclusive
+n	cds	no	शिक्षिका	conservative
+n	ps	yes	mestizo	conservative
+n	cds	no	अधिकारी	inclusive
+n	cds	no	कबीले	inclusive
+n	cds	no	गिरोह	inclusive
+n	an	no	पशुओं	inclusive
+n	cds	no	हामी	conservative
+n	cds	no	बेवकूफ	inclusive
+n	qas	no	अंडकोष	inclusive
+n	svp	no	ज्यादा खा	inclusive
+n	qas	no	टाइकून	inclusive
+n	dmc	yes	मैल बैग	conservative
+n	om	no	डरावना	inclusive
+n	cds	no	blabbermouth	conservative
+n	re	no	scammer	inclusive
+n	svp	no	इच्छादौर्बल्य	inclusive
+n	re	no	गैरकानूनी घोषित	inclusive
+n	svp	no	ग्लानि	inclusive
+n	cds	no	moneylending	inclusive
+n	dmc	yes	बर्बर	conservative
+n	svp	no	आत्म प्यार	conservative
+n	ps	yes	uprooter	conservative
+n	ddp	yes	पशु	inclusive
+n	dmc	yes	फूहड़पन से काम करने वाला	conservative
+n	qas	no	अनुचर	inclusive
+n	qas	no	ectoparasites	inclusive
+n	ps	yes	अफ्रीकी मूल	inclusive
+n	dmc	yes	घास के बीज	conservative
+n	cds	no	डकैती	inclusive
+n	cds	no	गूढ़ व्यक्ति	conservative
+n	is	yes	बेसहारा	inclusive
+n	cds	no	गुनगुनाना	inclusive
+n	asm	no	क्षेत्र सेम	inclusive
+n	cds	no	groveler	conservative
+n	cds	no	शिकायत करने वाला	conservative
+n	cds	no	grunge	inclusive
+n	asf	no	बिल्ली	conservative
+n	cds	no	धनी प्राप्त करनेवाला	inclusive
+n	cds	no	परिजनों समूह	inclusive
+n	qas	no	पूंजीपति	inclusive
+n	svp	no	खाने - पीने का शौकीन	conservative
+n	re	no	बाल अपचारी	conservative
+n	pr	no	छिनाल	conservative
+n	ddp	yes	आदमी गिर	conservative
+n	asm	no	avifauna	inclusive
+n	or	no	आलू	inclusive
+n	ps	yes	जंगली	conservative
+n	dmc	yes	आवारगी	inclusive
+n	cds	no	गँवार	conservative
+n	cds	no	दलालों	inclusive
+a	ddf	yes	ख़राब	inclusive
+n	cds	no	पैसे उधार	conservative
+n	cds	no	दस्यु	conservative
+n	re	no	प्रचंडता	inclusive
+n	an	no	विदूषक	conservative
+n	svp	no	उदासी	inclusive
+n	an	no	bunnies	inclusive
+n	re	no	अपहरणकर्ता	inclusive
+n	cds	no	finagler	conservative
+n	cds	no	blackballing	inclusive
+n	svp	no	अप्रिय	inclusive
+n	dmc	yes	बुराई	inclusive
+n	svp	no	अशिष्टता	inclusive
+n	dmc	yes	निर्वासित	inclusive
+n	asm	no	मूर्ख	inclusive
+n	qas	no	अल्पज्ञ	conservative
+n	dmc	yes	tramps	conservative
+n	ps	yes	आवारा	inclusive
+n	or	no	हलवा सिर	conservative
+n	cds	no	अतिभावुक	conservative
+n	pr	no	सोशलाइट	inclusive
+n	asf	no	मति - मंद	conservative
+n	an	no	folderol	conservative
+a	is	yes	उदास	inclusive
+n	svp	no	invidia	inclusive
+n	ps	yes	एशियाई	inclusive
+n	dmc	yes	lowlife	conservative
+n	cds	no	गांवारू	conservative
+n	cds	no	संयंत्र ब्रीडर	inclusive
+n	ddp	yes	saphead	conservative
+n	pa	yes	शैक्षिक	inclusive
+a	ddf	yes	अंधा	inclusive
+n	cds	no	मैल बैग	conservative
+n	an	no	lowlife	conservative
+n	qas	no	वर्णाश्रम	inclusive
+n	cds	no	हठधर्मी	conservative
+n	an	no	कीटाणु	inclusive
+n	cds	no	ग़रूर	conservative
+n	cds	no	mystifier	conservative
+n	ddp	yes	कमीने	conservative
+n	cds	no	freemasons	inclusive
+n	re	no	यौन उत्पीड़न	inclusive
+n	qas	no	अपमान	inclusive
+n	an	no	saphead	conservative
+n	an	no	मुंह	inclusive
+n	cds	no	windbag	conservative
+n	cds	no	गुमान	conservative
+n	dmc	yes	डाकू	conservative
+n	om	no	transvestitism	inclusive
+n	an	no	तोता	inclusive
+n	pr	no	राजदरबारी	inclusive
+n	cds	no	मिट्टी	inclusive
+n	asm	no	doofus	conservative
+n	om	no	गुदा संभोग	inclusive
+n	cds	no	saphead	conservative
+n	re	no	हिंसक	inclusive
+n	pr	no	बैलों	inclusive
+n	cds	no	पैसा भी उपन्यास	inclusive
+n	cds	no	गैरकानूनी घोषित	conservative
+n	om	no	एक ही सेक्स	inclusive
+n	an	no	क्रोध	inclusive
+n	ddp	yes	प्राणी	inclusive
+n	an	no	दादुर	inclusive
+n	asf	no	crotch बाल	inclusive
+n	svp	no	क्रोध	inclusive
+n	cds	no	शिक्षकों	inclusive
+a	dmc	yes	गंदा	inclusive
+n	an	no	सूक्ष्मजीवों	inclusive
+n	cds	no	गपशप	inclusive
+n	or	no	knucklehead	conservative
+n	om	no	संरचनात्मक स्थान लिए शर्तें	inclusive
+n	re	no	यातना	inclusive
+n	svp	no	अच्छे के लिए शून्य	conservative
+n	cds	no	असत्यता	conservative
+n	asm	no	मेहनत पर	inclusive
+n	svp	no	सस्ता	conservative
+n	dmc	yes	scammer	conservative
+n	cds	no	gangsterism	conservative
+n	ps	yes	व्हाइट	inclusive
+n	asm	no	झटका बंद	conservative
+n	an	no	pipistrellus	inclusive
+n	om	no	अधैर्य	inclusive
+n	cds	no	जेलर	inclusive
+n	ddp	yes	मूर्ख	inclusive
+n	re	no	plagiarize	inclusive
+n	dmc	yes	अपराधी	conservative
+n	om	no	contralateral	inclusive
+n	cds	no	शागिर्द	inclusive
+n	asm	no	महालिंगी	inclusive
+n	dmc	yes	homunculi	inclusive
+n	svp	no	नफ़रत	inclusive
+n	pr	no	मालकिन	conservative
+n	ps	yes	हबशी	inclusive
+n	pa	yes	कुली	inclusive
+n	ddp	yes	बौनापन	inclusive
+n	ps	yes	निगर	conservative
+n	om	no	लौंडा	inclusive
+n	an	no	चकमा	conservative
+n	rci	yes	बर्बर	conservative
+n	pr	no	प्रेमिका	inclusive
+n	ps	yes	ज्यु	inclusive
+n	cds	no	बेजूइन	inclusive
+n	ddf	yes	nanus	conservative
+n	om	no	homoerotic	inclusive
+n	om	no	derriere	inclusive
+n	an	no	घोंघे	inclusive
+n	qas	no	आध्यात्मिक नेता	inclusive
+n	ddp	yes	changelings	inclusive
+a	svp	no	आक्रामक	inclusive
+n	an	no	सूअर	inclusive
+n	cds	no	लुटेरा	conservative
+n	is	yes	कंजूस	conservative
+n	cds	no	आदमी गिर	conservative
+n	qas	no	घर चित्र	inclusive
+n	cds	no	खिचड़ी	inclusive
+n	qas	no	साधारण	inclusive
+n	cds	no	जड़वामन	inclusive
+n	an	no	carcharodon	inclusive
+n	re	no	raptio	inclusive
+n	cds	no	मक्कारी	conservative
+n	an	no	जंतु	inclusive
+n	qas	no	सिद्धांतानुयायी व्यक्ति	inclusive
+n	an	no	diddlysquat	conservative
+n	cds	no	छद्मवैद्य	conservative
+n	ddp	yes	muttonhead	conservative
+n	om	no	noblewoman	inclusive
+n	ddp	yes	नीम हकीम	conservative
+n	qas	no	बेईमानी	conservative
+n	ddp	yes	nonsensicality	conservative
+a	re	no	हिंसक	inclusive
+n	dmc	yes	आवारा	conservative
+n	re	no	मौत के लिए डाल	inclusive
+n	cds	no	फितरत	conservative
+n	ps	yes	इस्राएल के	inclusive
+n	om	no	पार dressers	inclusive
+n	cds	no	कमरैला	inclusive
+n	cds	no	वैगन सड़क	inclusive
+n	ddp	yes	बकवासी	inclusive
+n	cds	no	मिथ्या	inclusive
+n	an	no	गावदी	conservative
+n	ddp	yes	बेवकूफ	inclusive
+n	cds	no	ज़बान की चूक	inclusive
+n	qas	no	baroque	inclusive
+n	cds	no	git	conservative
+n	om	no	समलैंगिक	conservative
+n	qas	no	गंवार	conservative
+n	an	no	leeches	inclusive
+n	an	no	अनुदारपंथी	conservative
+n	an	no	मैल बैग	conservative
+n	cds	no	बेवक़ूफ़	inclusive
+n	re	no	लूट	inclusive
+n	cds	no	pedagog	inclusive
+n	dmc	yes	दुष्ट	conservative
+n	re	no	stickup	inclusive
+n	an	no	नखरा दिखाना	conservative
+n	an	no	fuckhead	conservative
+n	cds	no	तड़क - भड़क	inclusive
+n	an	no	डकैत	inclusive
+n	cds	no	साहूकार	inclusive
+n	an	no	nanus	conservative
+n	cds	no	ठग	inclusive
+n	pa	yes	चूपान	inclusive
+n	asf	no	बेवकूफ	conservative
+n	svp	no	pridefulness	inclusive
+n	cds	no	डकैत	inclusive
+n	cds	no	वेश्यालयों	inclusive
+n	re	no	यौन छेड़छाड़	inclusive
+n	an	no	poulet	inclusive
+n	pr	no	व्यावसायिक यौन	conservative
+n	ddp	yes	dumbass	conservative
+n	asm	no	रोकना	inclusive
+n	qas	no	दुश्चरित्र व्यक्ति	conservative
+n	svp	no	gourmandizer	conservative
+n	or	no	ब्रेसिका rapa	inclusive
+n	an	no	पैट्सी	conservative
+n	re	no	अपहरण	inclusive
+n	cds	no	हाथ से काम	conservative
+n	qas	no	प्रमादी	conservative
+n	svp	no	enviousness	inclusive
+n	asm	no	पूंछ का टुकड़ा	conservative
+n	pa	yes	अंतिम संस्कार के निदेशक	inclusive
+n	cds	no	बुरे कार्यों में सहायता करने वाला	conservative
+n	om	no	homoeroticism	inclusive
+n	cds	no	मायावी	conservative
+n	cds	no	hoaxer	conservative
+n	cds	no	जनसमूह	inclusive
+n	asm	no	wanker	conservative
+n	qas	no	दुजेन	conservative
+n	qas	no	teste	inclusive
+n	an	no	काप्रिने	inclusive
+v	re	no	चुराना	inclusive
+n	cds	no	घरेलू अपशिष्ट	conservative
+n	or	no	कुंद	conservative
+n	qas	no	मतावलंबी	inclusive
+n	dmc	yes	औचित्य	inclusive
+n	ddp	yes	analphabet	inclusive
+n	om	no	पार ड्रेसिंग	inclusive
+n	qas	no	बूर्ज़वाज़ी	inclusive
+n	an	no	रंडी	conservative
+n	dmc	yes	कट्टरता	conservative
+n	ddp	yes	बक	inclusive
+n	asm	no	चिड़ियां	inclusive
+n	cds	no	गड़बड़	inclusive
+n	cds	no	सीवेज	inclusive
+n	pa	yes	अधिवक्ता	inclusive
+n	qas	no	businessperson	inclusive
+n	dmc	yes	वाक्छली	conservative
+n	cds	no	गंवार	conservative
+n	cds	no	आसार	inclusive
+n	cds	no	मुक्त मेसन	inclusive
+n	ddp	yes	नीमहकीमी	conservative
+n	ps	yes	metic	inclusive
+n	an	no	भौंकना	inclusive
+n	an	no	toads	inclusive
+n	an	no	बौड़म	conservative
+n	ddp	yes	doofus	conservative
+n	cds	no	बुज़दिली	conservative
+n	or	no	स्क्वैश	inclusive
+n	qas	no	शीर्ष कार्यकारी	inclusive
+n	re	no	kidnaper	inclusive
+n	cds	no	poltroon	conservative
+n	re	no	हत्यारों	inclusive
+n	pr	no	bos taurus	inclusive
+n	cds	no	hoi polloi	inclusive
+n	ddp	yes	मूर्खता	inclusive
+n	dmc	yes	स्वांग	conservative
+n	an	no	गधा	inclusive
+n	cds	no	गुट	inclusive
+n	cds	no	आदिवासियों	inclusive
+n	an	no	anurans	inclusive
+n	dmc	yes	दुष्कर्मी	inclusive
+n	cds	no	चतुराई	inclusive
+n	pr	no	बकवास	conservative
+n	cds	no	खलनायक	conservative
+n	cds	no	blackball	inclusive
+n	ddp	yes	होकुम	conservative
+n	asm	no	screwing	conservative
+n	svp	no	minginess	conservative
+n	cds	no	बैंड	inclusive
+n	dmc	yes	देहाती	conservative
+n	re	no	भेद खोलने की घमकी	conservative
+n	dmc	yes	विषयी	conservative
+n	an	no	यूरेशियन ग्रिफोन	inclusive
+n	pa	yes	एकाउंटेंट	inclusive
+n	cds	no	नगर निगम के कचरे	inclusive
+n	cds	no	धार्मिक भेदभाव	inclusive
+n	pr	no	गणिका	conservative
+n	ddp	yes	झूठी अफ़वाह	conservative
+n	qas	no	अंडकोषों	inclusive
+n	om	no	गुदा मैथुन	inclusive
+n	cds	no	को छोड़कर	inclusive
+n	or	no	खीरे	inclusive
+n	svp	no	आलसीपन	inclusive
+n	om	no	नितंबों	inclusive
+n	an	no	नाक - मौं सिकोड़ना	inclusive
+n	re	no	ndrangheta	inclusive
+n	qas	no	बरोन	inclusive
+n	cds	no	सारिका	inclusive
+n	an	no	बत्तक	inclusive
+n	pa	yes	जेसुइट	inclusive
+n	re	no	कुव्यवहार	inclusive
+a	svp	no	नाराज	inclusive
+n	dmc	yes	प्रमादी	conservative
+n	cds	no	pimps	conservative
+n	an	no	siphonaptera	inclusive
+n	svp	no	niggardness	conservative
+n	cds	no	हथकंड	conservative
+n	an	no	घुग्घू	inclusive
+n	ddp	yes	microcephaly	inclusive
+n	cds	no	chiseler	conservative
+n	cds	no	tribesman	inclusive
+n	svp	no	कट्टरता	conservative
+n	cds	no	अनाड़ी	conservative
+n	cds	no	दगा	inclusive
+n	qas	no	गड़बड़झाला	inclusive
+n	asm	no	बेवकूफ	inclusive
+n	dmc	yes	छोटा सा व्यक्ति	conservative
+n	dmc	yes	खर्च सभी	inclusive
+n	an	no	बर्बरता	inclusive
+n	an	no	बौना	conservative
+n	re	no	कॉर्पोरेट हनन	inclusive
+a	qas	no	पागल	conservative
+n	an	no	आकृतिविद्या	inclusive
+n	ddp	yes	लक्कड़	conservative
+n	cds	no	चुहलबाजी	inclusive
+n	om	no	होमोसेक्सुअल	conservative
+n	pa	yes	मछवैनी	inclusive
+n	dmc	yes	आचार - विचार	inclusive
+n	ps	yes	latino	inclusive
+n	an	no	जानवर	inclusive
+n	cds	no	शंकालुओं	inclusive
+n	ddp	yes	अनपढ़	inclusive
+n	cds	no	लल्लू	inclusive
+n	asm	no	मैरून	inclusive
+n	asm	no	अंडकोषों	inclusive
+n	qas	no	पारिशों	inclusive
+n	an	no	crocodylian	inclusive
+n	an	no	मेंढकों	inclusive
+n	om	no	transvestites	inclusive
+n	dmc	yes	आलसियों	conservative
+n	cds	no	पुलिसकर्मियों	inclusive
+n	an	no	मगर	inclusive
+n	cds	no	साहूकारों	conservative
+n	dmc	yes	स्वधर्मत्यागी	conservative
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	an	no	घोंगा	inclusive
+n	re	no	felonies	inclusive
+n	ddp	yes	मायावी	conservative
+n	an	no	पतंगा	inclusive
+n	re	no	बलात्कार	conservative
+n	svp	no	कंजूसी	inclusive
+n	asm	no	बुद्धू	inclusive
+n	cds	no	कमज़ोर दिल का आदमी	conservative
+n	cds	no	अवैध	inclusive
+n	cds	no	रोगी	conservative
+a	is	yes	गरीब	inclusive
+n	an	no	जोंक	inclusive
+n	ps	yes	मूढ़	conservative
+n	qas	no	पल्ली	inclusive
+n	cds	no	बकवास	inclusive
+n	ps	yes	जर्मनी का निवासी	conservative
+n	an	no	hyaenidae	inclusive
+n	an	no	epifauna	inclusive
+n	cds	no	शालीनता	inclusive
+n	an	no	स्कर्ट चेज़र	conservative
+n	cds	no	झूठ	conservative
+n	qas	no	शौकिया	inclusive
+n	dmc	yes	रूढ़	conservative
+n	asf	no	doofus	conservative
+n	ddp	yes	betise	conservative
+n	dmc	yes	बदमाश	conservative
+n	svp	no	निस्र्त्साह	inclusive
+n	dmc	yes	dallier	conservative
+n	om	no	transvestite	inclusive
+n	qas	no	bourgeoise	inclusive
+n	cds	no	fascista	inclusive
+n	ps	yes	बेवक़ूफ़	conservative
+n	qas	no	बाजार कीपर	inclusive
+n	an	no	चूसने वाला	inclusive
+n	cds	no	नोव्यू  riche	inclusive
+n	ddp	yes	गप्पी	conservative
+n	svp	no	angriness	inclusive
+n	cds	no	संवाददाताओं	inclusive
+n	ddp	yes	जड़वामन	conservative
+n	cds	no	गंदगी	inclusive
+n	an	no	कमज़ोर दिल का आदमी	conservative
+n	cds	no	defrauder	conservative
+n	or	no	नुकताचीनी	inclusive
+n	om	no	क्रासड्रेसिंग	inclusive
+n	ddp	yes	zooerasty	conservative
+n	an	no	भुनगा	inclusive
+n	cds	no	changeling	inclusive
+n	cds	no	hypersexual	conservative
+n	cds	no	बिखेर देना	conservative
+n	or	no	नोगिन	inclusive
+n	ddp	yes	अवर्म	conservative
+n	dmc	yes	अमुक	conservative
+n	asm	no	fava	inclusive
+n	cds	no	मल	inclusive
+n	cds	no	अहंकार	conservative
+n	an	no	चीलर	inclusive
+n	cds	no	दर्शक	conservative
+n	cds	no	kinfolk	inclusive
+n	cds	no	साहूकार	conservative
+n	cds	no	मात्रा	inclusive
+n	cds	no	शिक्षिका	inclusive
+n	dmc	yes	व्याभिचारी	conservative
+n	cds	no	मिलावट	inclusive
+n	cds	no	जाने के बीच	inclusive
+n	om	no	बन्स	inclusive
+n	an	no	mosquitos	inclusive
+n	qas	no	सूंघा	inclusive
+n	cds	no	वेश्यालय	inclusive
+n	an	no	कीड़े	inclusive
+n	asm	no	लक्कड़	conservative
+n	cds	no	टर्नकी	inclusive
+n	an	no	रंज - चीख़	conservative
+n	an	no	ragtag	conservative
+n	ddp	yes	कोमल स्पर्श	conservative
+n	pa	yes	सुविधाहीनता, अशोभनता	conservative
+n	cds	no	hustling	conservative
+n	om	no	shirtlifter	inclusive
+n	ddp	yes	pudden सिर	conservative
+n	re	no	बलात्कारियों	conservative
+n	ps	yes	कोमल स्पर्श	conservative
+n	an	no	हाँगर	inclusive
+n	or	no	कपाल	conservative
+n	an	no	escargot	inclusive
+n	re	no	plagiarisation	inclusive
+n	pa	yes	सफेद कॉलर कार्यकर्ता	inclusive
+n	om	no	keister	inclusive
+n	om	no	समीपस्थ	inclusive
+n	dmc	yes	बदकिस्मत	inclusive
+n	or	no	tater	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	or	no	बेवकूफ	conservative
+n	cds	no	brigands	inclusive
+n	pr	no	उपपत्नीत्व	inclusive
+n	asf	no	knucklehead	conservative
+n	an	no	शार्कों	inclusive
+n	pr	no	चूहा	inclusive
+n	qas	no	झूठ	conservative
+n	cds	no	प्रशिक्षक	inclusive
+n	cds	no	आत्मिकसुख	inclusive
+n	ddf	yes	बौना	conservative
+n	asm	no	बेवक़ूफ़	inclusive
+n	re	no	सरगना	inclusive
+n	cds	no	प्रतिक्रियावादी	conservative
+n	pa	yes	राजनयिक दूत	inclusive
+n	dmc	yes	व्यतिक्रम	inclusive
+n	cds	no	अवैधीकरण	inclusive
+n	re	no	thieving	inclusive
+n	cds	no	लाइन शूटर	conservative
+n	cds	no	उल्लू	conservative
+n	cds	no	सूंघा	conservative
+n	re	no	मानहानि	inclusive
+n	cds	no	दुष्कर्मी	inclusive
+n	om	no	बाहर का	inclusive
+n	qas	no	बयानबाजी	inclusive
+n	dmc	yes	ढिलाई से काम करनेवाला	conservative
+n	qas	no	freeloader	conservative
+n	cds	no	धमकी देकर हासिल करने की कोशिश करनेवाला	inclusive
+n	om	no	महिलाओं	inclusive
+n	an	no	गायों	inclusive
+n	cds	no	षड्यन्त्रकारी	inclusive
+n	an	no	कूड़ा	conservative
+n	pr	no	ऐयाशी	conservative
+n	cds	no	डाकुओं	inclusive
+n	asf	no	आदमी गिर	conservative
+n	ddp	yes	अतर्कसंगत	conservative
+n	cds	no	मज़ाक	inclusive
+n	asf	no	चूत	conservative
+n	re	no	calunnia	inclusive
+n	dmc	yes	git	inclusive
+n	pa	yes	विद्वानों	inclusive
+n	an	no	diddley	conservative
+n	an	no	बिजोन	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	cds	no	conventicles	inclusive
+n	cds	no	स्नानागार	inclusive
+n	an	no	स्थूलता	conservative
+n	pa	yes	शिक्षाविद्	inclusive
+n	or	no	muttonhead	conservative
+n	qas	no	मिथ्या	conservative
+n	an	no	चलनेवाली	inclusive
+n	dmc	yes	bigot	conservative
+n	an	no	मुनाफाखोर	conservative
+n	cds	no	ढिलाई से काम करना	inclusive
+n	svp	no	लालच	inclusive
+n	cds	no	कूड़ा	conservative
+n	an	no	खच्चर	inclusive
+n	cds	no	rumourmonger	conservative
+n	cds	no	amour propre	conservative
+n	om	no	poof	conservative
+n	cds	no	नख़रेबाज़ी	conservative
+n	pr	no	वेश्याओं	conservative
+n	qas	no	कुल	inclusive
+n	ddp	yes	दुर्बलमनस्कता	inclusive
+n	pa	yes	वैगन - चालक	inclusive
+n	cds	no	wisenheimer	conservative
+n	asm	no	स्तंभन	inclusive
+n	qas	no	न्याति	inclusive
+n	cds	no	splashiness	conservative
+n	an	no	salientian	inclusive
+n	cds	no	धार्मिकता	inclusive
+n	cds	no	ढिलाई से काम करनेवाला	conservative
+n	an	no	खलनायक	conservative
+n	asm	no	लंड	inclusive
+n	re	no	आपराधिक	inclusive
+n	svp	no	शेखी	conservative
+n	asf	no	जघन बाल	inclusive
+n	ddp	yes	ragtag	conservative
+n	asm	no	brownness	inclusive
+n	ddp	yes	बौद्धिक अशक्‍तता	inclusive
+n	om	no	पदतल	inclusive
+n	ps	yes	मोंगोलों	inclusive
+n	dmc	yes	कामचोर	conservative
+n	an	no	ticks	inclusive
+n	cds	no	शौकीनी	conservative
+v	asm	no	संभोग करना	conservative
+n	pa	yes	कुर्सी	inclusive
+n	cds	no	मुख़बिर	conservative
+n	ddp	yes	गधे	conservative
+n	an	no	codswallop	conservative
+n	svp	no	इच्छाशक्ति का अभाव या दोष	inclusive
+n	om	no	मुख से दूर	inclusive
+n	an	no	बुद्धु	conservative
+n	cds	no	आत्म प्यार	conservative
+n	ddp	yes	blabbermouth	conservative
+n	an	no	लैण्डस्नेल	inclusive
+n	an	no	जीनस capra	inclusive
+n	dmc	yes	चालबाज	conservative
+n	re	no	आतंकवादी	inclusive
+n	cds	no	आदिवासी	inclusive
+n	an	no	कुंद	conservative
+n	re	no	यौन हमला	inclusive
+n	qas	no	endoparasites	inclusive
+n	an	no	limacidae है	inclusive
+n	asm	no	विदूषक	conservative
+n	re	no	कानून तोड़ने	inclusive
+n	cds	no	loanshark	conservative
+n	qas	no	दुकानदार	inclusive
+n	re	no	चालबाज़	inclusive
+n	or	no	खीरा	inclusive
+n	svp	no	आलस	conservative
+n	ddp	yes	जंगली	conservative
+n	cds	no	कायरता	conservative
+n	dmc	yes	मटरगश्त आदमी	conservative
+n	dmc	yes	सरगना	inclusive
+n	dmc	yes	आधा पिंट	conservative
+n	cds	no	सरगना	inclusive
+n	re	no	अपराध	inclusive
+n	cds	no	नीतिज्ञता	inclusive
+n	cds	no	moneylending	conservative
+n	cds	no	वकालत	inclusive
+n	cds	no	pandar	conservative
+n	pr	no	लावा	conservative
+n	cds	no	दण्डाभियोग	inclusive
+n	an	no	कुत्तियाँ	inclusive
+n	re	no	grifter	inclusive
+n	asf	no	उल्लू	conservative
+n	cds	no	omerta	inclusive
+n	or	no	fuckhead	conservative
+n	an	no	कीट	inclusive
+n	cds	no	लुटेरा	inclusive
+n	an	no	रोगाणुओं	inclusive
+n	or	no	होमोसेक्सुअल	conservative
+n	qas	no	fieldhand	inclusive
+n	an	no	अमुक	conservative
+n	cds	no	pillock	conservative
+n	re	no	दुष्ट	conservative
+n	an	no	बैल	inclusive
+n	ddp	yes	knucklehead	conservative
+n	dmc	yes	बदमिज़ाज होना	conservative
+n	re	no	तड़पा	inclusive
+n	pr	no	rentboy	conservative
+n	pa	yes	जंगली	conservative
+n	asm	no	उपांग	inclusive
+n	re	no	अपराधों	inclusive
+n	cds	no	फ़ासी वाद	conservative
+n	pa	yes	fishmongers	inclusive
+n	re	no	चोर	inclusive
+n	cds	no	भड़कीलापन	inclusive
+n	cds	no	बौना	inclusive
+n	cds	no	changelings	inclusive
+n	qas	no	किसानों	inclusive
+n	cds	no	जून्टो	inclusive
+n	pa	yes	कार्यालय कार्यकर्ता	inclusive
+n	cds	no	छैला	inclusive
+n	om	no	tooshie	inclusive
+n	ps	yes	पैट्सी	conservative
+n	ps	yes	metics	inclusive
+n	an	no	धृष्टा	conservative
+n	cds	no	जिजोलो	inclusive
+n	pa	yes	उपक्रामी	inclusive
+n	cds	no	पुलिसकर्मियों	conservative
+n	om	no	pederastic	inclusive
+n	dmc	yes	ख़राब	conservative
+n	dmc	yes	नैतिकता	inclusive
+n	an	no	तिलचट्टा	inclusive
+n	cds	no	षड्यंत्रवाद	inclusive
+n	cds	no	complainer	conservative
+n	dmc	yes	उड़ाऊ	inclusive
+n	dmc	yes	प्रांतिक	conservative
+n	re	no	डकैत	inclusive
+n	cds	no	नवजात	inclusive
+n	cds	no	झटका बंद	conservative
+a	ddp	yes	नासमझ	conservative
+n	qas	no	नगरवासि लोगों	inclusive
+n	ps	yes	changelings	conservative
+n	qas	no	वृषण	inclusive
+n	an	no	गोमांस	inclusive
+n	qas	no	बुर्जुआ समाज familiarized	inclusive
+n	asm	no	लन	inclusive
+n	ddp	yes	पिछड़ेपन	inclusive
+n	cds	no	स्वमताभिमान	conservative
+n	re	no	बीमार उपयोग	inclusive
+n	cds	no	blackballed	inclusive
+n	ddp	yes	अहमक़	conservative
+n	ddp	yes	छद्मवैद्य	conservative
+n	cds	no	बौड़म	conservative
+n	asm	no	निर्माण	inclusive
+n	cds	no	लक्कड़	conservative
+n	cds	no	dandies	inclusive
+n	om	no	गुदामैथुन	inclusive
+n	dmc	yes	संक्रांति काल में	conservative
+n	cds	no	हलवा सिर	conservative
+n	re	no	अत्याचार	inclusive
+n	cds	no	भीरुता	conservative
+n	ddp	yes	arsehole	conservative
+n	dmc	yes	अशिष्ट	conservative
+n	is	yes	गरीब	inclusive
+n	cds	no	चालबाज़	inclusive
+n	cds	no	मोल - तोल करना	conservative
+n	cds	no	फासिज्म	conservative
+n	cds	no	hoi polloi	conservative
+n	asm	no	अंडकोष	inclusive
+n	ddp	yes	मूर्खता	conservative
+n	ps	yes	पीला कार्ड	inclusive
+n	asm	no	twirp	conservative
+n	cds	no	defrauder	inclusive
+n	an	no	अमेरिकी भैंस	inclusive
+n	re	no	vilifier	conservative
+n	qas	no	मध्यम आय वाले	inclusive
+n	ps	yes	zulus	inclusive
+n	ddp	yes	जानवर	inclusive
+n	dmc	yes	chiseler	conservative
+n	svp	no	ईर्ष्या	inclusive
+n	an	no	मच्छरों	inclusive
+n	dmc	yes	बौना	inclusive
+n	qas	no	मध्यम वर्ग	inclusive
+n	cds	no	झूठी मूर्ति से धनुष	inclusive
+n	cds	no	शरारत	conservative
+n	asf	no	fuckhead	conservative
+n	ps	yes	ओस्टगोथ	inclusive
+n	an	no	मगरमच्छ	inclusive
+n	pr	no	यौन सेवाओं	inclusive
+n	svp	no	घमंड	conservative
+n	an	no	athene noctua	inclusive
+n	dmc	yes	evilness	inclusive
+n	cds	no	असत्यता	inclusive
+n	asm	no	जड़वामन	inclusive
+n	cds	no	बेईमानी	conservative
+n	an	no	animal	inclusive
+n	an	no	गर्दभ	inclusive
+n	asm	no	phallic	inclusive
+n	qas	no	घबड़ाना	inclusive
+n	an	no	shote	inclusive
+n	cds	no	मनमानी	conservative
+n	rci	yes	गंवार	conservative
+n	ps	yes	स्पेन अथवा पोतृगाल का वर्णसंकर	conservative
+n	an	no	betise	conservative
+n	om	no	twink	conservative
+n	cds	no	ndrangheta	inclusive
+n	om	no	पार ड्रेसर	inclusive
+n	dmc	yes	अच्छे के लिए शून्य	conservative
+n	asm	no	vicia faba	inclusive
+n	cds	no	भद्दी पोताई	inclusive
+n	or	no	चूत	conservative
+n	ddp	yes	रोकना	inclusive
+n	pa	yes	ताबूत बनानेवाला	inclusive
+n	om	no	पूवे	conservative
+n	cds	no	खेल के घर	inclusive
+n	om	no	लेडी	inclusive
+n	cds	no	षड्यंत्र के सिद्धांत	inclusive
+n	pr	no	मज़हब	inclusive
+n	cds	no	बस bleu	inclusive
+n	cds	no	बेईमानी	inclusive
+n	cds	no	बेलदार	inclusive
+n	qas	no	विचारक	inclusive
+n	cds	no	आपराधिक	conservative
+n	asf	no	dumbass	conservative
+n	qas	no	चुनना	conservative
+n	cds	no	कटौती	conservative
+n	cds	no	villainess	conservative
+n	ps	yes	darkie	conservative
+n	or	no	कद्दू	inclusive
+n	om	no	paederasty	inclusive
+n	ps	yes	krauthead	conservative
+n	pa	yes	कानूनी सलाह	inclusive
+n	ps	yes	mongoloids	conservative
+n	cds	no	सेब पालिशगर	conservative
+n	qas	no	troubler	conservative
+n	ddp	yes	folderol	conservative
+n	re	no	चुगलखोर	conservative
+n	cds	no	विधि - बहिष्कृत	conservative
+n	cds	no	अपराधियों	inclusive
+n	or	no	गावदी	conservative
+n	an	no	मेढक	inclusive
+n	cds	no	pudden सिर	conservative
+a	is	yes	दीन	inclusive
+n	cds	no	फूहड़पन से काम करने वाला	conservative
+n	asm	no	कमबख्त	conservative
+n	ddp	yes	changelings	conservative
+n	ps	yes	beduin	inclusive
+n	asm	no	बसेरा	inclusive
+n	cds	no	लापरवाही से काम करना	conservative
+n	cds	no	rafts	inclusive
+n	dmc	yes	धूआं देना	conservative
+n	cds	no	चाटुकार	conservative
+n	cds	no	पुलिसवाला	inclusive
+n	ps	yes	changeling	conservative
+n	qas	no	किसी बात को गंभीरता से ग्रहण न करने वाला	conservative
+n	qas	no	भंडारी	inclusive
+n	ps	yes	बेदोइन लोगों	inclusive
+n	ddp	yes	बकवास	conservative
+n	dmc	yes	जोकर	inclusive
+n	qas	no	बिना सोचे समझे कह डालना	inclusive
+n	cds	no	गोलमाल करनेवाला	conservative
+n	dmc	yes	बदमाश	inclusive
+n	cds	no	घमंड	conservative
+n	cds	no	रद्दी मेल	inclusive
+n	pr	no	रईस	inclusive
+n	an	no	भेक	inclusive
+n	pa	yes	प्रो	inclusive
+a	is	yes	दुर्भाग्यपूर्ण	inclusive
+n	cds	no	दूती	conservative
+n	cds	no	ingroup	inclusive
+n	pa	yes	राजनयिक रैंक	inclusive
+n	ps	yes	लक्कड़	conservative
+n	or	no	योनी	conservative
+n	qas	no	ढिलाई से काम करनेवाला	conservative
+n	an	no	मोलस्का	inclusive
+n	asm	no	पक्षी	inclusive
+n	an	no	सूक्ष्म जीव	inclusive
+n	re	no	उगाही	inclusive
+n	svp	no	tanha	inclusive
+n	cds	no	चोर	inclusive
+n	om	no	midclavicular लाइन	inclusive
+n	cds	no	अधिकारी	conservative
+n	cds	no	साहूकारों	inclusive
+n	cds	no	पांडित्यदंभी	conservative
+n	qas	no	rhetorically	inclusive
+n	cds	no	शरारत	inclusive
+n	cds	no	रोकना	inclusive
+n	an	no	नख़रेबाज़ी	conservative
+n	pr	no	रखैल	conservative
+n	pr	no	रंडी	inclusive
+n	svp	no	गुमान	conservative
+n	svp	no	लालसा	inclusive
+n	cds	no	दुर्जन	conservative
+n	cds	no	फासिस्टों	conservative
+n	cds	no	साहित्यिक हैक	conservative
+n	ps	yes	pikey	conservative
+n	cds	no	कट्टरवाद	inclusive
+n	ddp	yes	जानवरों	inclusive
+n	cds	no	gobs	inclusive
+n	ps	yes	bedouins	inclusive
+n	svp	no	ग़रूर	conservative
+n	cds	no	grifter	inclusive
+n	cds	no	सूदखोरी	conservative
+a	qas	no	मध्ययुगीन	inclusive
+n	an	no	मेढ़क	inclusive
+n	qas	no	बनिया	inclusive
+n	ddp	yes	वाहियात	inclusive
+n	an	no	सड़क लड़की	conservative
+n	cds	no	दर्जनों	inclusive
+n	cds	no	matcher	inclusive
+n	cds	no	अपराधी	conservative
+n	ps	yes	bedouin	inclusive
+n	an	no	लकड़बग्घा	inclusive
+n	an	no	दुर्जन	conservative
+n	qas	no	फूहड़पन से काम करने वाला	conservative
+n	an	no	जा रहा है चेतन	inclusive
+n	cds	no	कमरा धो लो	inclusive
+n	asm	no	कोमल स्पर्श	conservative
+n	cds	no	narcissist	inclusive
+n	cds	no	प्रजानायक  संबंधी	conservative
+n	cds	no	हेकड़ी	conservative
+n	cds	no	शिशुओं	inclusive
+n	asm	no	अंग्रेजी सेम	inclusive
+n	cds	no	गड़बड़	conservative
+n	cds	no	दलाल	conservative
+n	cds	no	शरारती	conservative
+n	cds	no	narcism	inclusive
+n	qas	no	भिक्षुणी	conservative
+n	cds	no	sassing	inclusive
+n	ps	yes	romanis	inclusive
+n	qas	no	acolytes	inclusive
+n	cds	no	arriviste	inclusive
+n	asf	no	परिभाषा	inclusive
+n	cds	no	गुर्गे	conservative
+n	ddp	yes	मति - मंद	inclusive
+n	dmc	yes	treasonist	conservative
+n	dmc	yes	आलसी	conservative
+n	an	no	घड़ियाल	inclusive
+n	dmc	yes	बौड़म	conservative
+n	ps	yes	लाल कार्ड	inclusive
+n	dmc	yes	नैतिक	inclusive
+n	svp	no	भुक्खड़पन या मरभुखापन आदि	conservative
+n	asf	no	codswallop	conservative
+n	dmc	yes	जातिच्युत मनुष्य	inclusive
+a	an	no	जिद्दी	inclusive
+n	cds	no	हड़ताल तोड़नेवाला	inclusive
+n	an	no	मुर्गी	inclusive
+a	cds	no	साधारण	inclusive
+n	ps	yes	मंगोली जातियाँ	inclusive
+n	om	no	उदर	inclusive
+n	svp	no	आलसी	conservative
+n	qas	no	घपला	inclusive
+n	cds	no	चकला घर	inclusive
+a	dmc	yes	जाली	conservative
+n	cds	no	व्यतिक्रम	inclusive
+n	re	no	दुर्व्यवहार	inclusive
+n	or	no	pillock	conservative
+n	dmc	yes	वाक्छली	inclusive
+n	asm	no	penile	inclusive
+n	asm	no	मुर्ग़ा	inclusive
+n	or	no	finocchio	inclusive
+n	cds	no	तले - turvyness	inclusive
+n	dmc	yes	छली	conservative
+n	an	no	खरगोश	inclusive
+n	qas	no	हच	inclusive
+n	an	no	hirudinean	inclusive
+n	ps	yes	nigga	conservative
+n	ddp	yes	धोखा देना	conservative
+n	pr	no	comare	conservative
+n	an	no	cuckold	conservative
+n	dmc	yes	गँवार	conservative
+n	cds	no	नौबढ़	inclusive
+n	an	no	लैंडस्नेल	inclusive
+n	asf	no	twat	conservative
+n	ps	yes	काले	inclusive
+n	cds	no	गैरकानूनी घोषित	inclusive
+n	cds	no	paparazzi	inclusive
+n	an	no	git	conservative
+n	ddp	yes	pillock	conservative
+n	pr	no	कुलटा	conservative
+n	qas	no	जंगली	conservative
+n	dmc	yes	grifter	conservative
+n	asm	no	flouter	conservative
+n	an	no	wuss	conservative
+n	svp	no	गवारूपन	inclusive
+n	dmc	yes	झूठा	conservative
+n	cds	no	mafioso	conservative
+n	qas	no	testes	inclusive
+n	asm	no	लड़ाका	inclusive
+n	cds	no	स्क्रैप	conservative
+n	cds	no	कोमल स्पर्श	conservative
+n	cds	no	idiolatry	inclusive
+n	qas	no	दिग्गज	inclusive
+n	cds	no	पराए काम में वाधा डालनेवाला	conservative
+n	ddp	yes	मूर्ख	conservative
+n	pr	no	वेश्या	inclusive
+n	ddp	yes	लघुशीर्ष	inclusive
+n	qas	no	bollocks	inclusive
+n	re	no	यौन शोषण	inclusive
+n	ddp	yes	मूढ़	conservative
+n	cds	no	कारापाल	inclusive
+a	svp	no	क्रोधित	inclusive
+n	ddp	yes	पैट्सी	conservative
+n	an	no	doodly-पलथी मारे हुए	conservative
+n	ddp	yes	अविद्या	conservative
+n	asm	no	changelings	inclusive
+n	dmc	yes	जंगली	conservative
+n	qas	no	झोंपड़ी	inclusive
+n	an	no	आलसी	conservative
+n	cds	no	रूढ़िवादी	inclusive
+n	or	no	पूवे	conservative
+n	an	no	सच बाममछली	inclusive
+n	qas	no	उद्योगपति	inclusive
+n	re	no	झूठे आरोपों	inclusive
+n	cds	no	pimps	inclusive
+n	an	no	काँकरोच	inclusive
+n	cds	no	clann	inclusive
+n	pa	yes	विशेष दूत	inclusive
+n	dmc	yes	villainess	conservative
+n	cds	no	दुष्कर्मी	conservative
+n	dmc	yes	आपराधिक	inclusive
+n	cds	no	ज़रख़ीदी	inclusive
+n	pa	yes	academism	inclusive
+n	is	yes	भिखारी	inclusive
+n	dmc	yes	foetor	conservative
+n	re	no	दुरूपयोग	inclusive
+a	ddf	yes	बुरा	inclusive
+n	an	no	cakehole	inclusive
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	qas	no	उपद्रवी	conservative
+n	an	no	मेंढ़क	inclusive
+n	re	no	निर्दयता	inclusive
+n	cds	no	साजिश सिद्घांतकार	inclusive
+n	pr	no	पतिंगे	inclusive
+n	an	no	villainess	conservative
+n	qas	no	बेईमानी	inclusive
+n	ps	yes	मेस्टिज़ो	conservative
+n	cds	no	masonic आदेश	inclusive
+n	re	no	chiseler	inclusive
+n	cds	no	व्हीलर डीलर	conservative
+n	svp	no	कंजूसी	conservative
+n	an	no	भेड़	inclusive
+n	cds	no	paparazzo	inclusive
+n	pa	yes	बर्बर	conservative
+n	ddp	yes	मस्तिष्क क्षति	inclusive
+n	om	no	ipsilateral	inclusive
+n	ddp	yes	bumbler	conservative
+n	ddp	yes	अनाड़ी	conservative
+n	an	no	सुन डिवाइस	inclusive
+n	asm	no	लाल रंग	inclusive
+n	cds	no	banditry	inclusive
+n	svp	no	निकम्मा	conservative
+n	an	no	looter	inclusive
+n	re	no	defrauder	inclusive
+n	re	no	घातक - स्री	inclusive
+n	cds	no	mussiness	conservative
+n	qas	no	भार	inclusive
+n	cds	no	चालबाज	conservative
+n	cds	no	बटमार	inclusive
+n	om	no	पार पोशाक	inclusive
+n	an	no	गुब्बारा swallower	inclusive
+n	an	no	सुअर	inclusive
+n	or	no	ककड़ी	inclusive
+n	ddp	yes	changeling	conservative
+n	re	no	maligner	conservative
+n	cds	no	द्वारा झटका	inclusive
+n	qas	no	bloopers	inclusive
+n	ps	yes	संयंत्र ब्रीडर	inclusive
+n	cds	no	नया नवाब	inclusive
+n	cds	no	संगतराश	inclusive
+n	re	no	manslayer	inclusive
+n	cds	no	देखनेवाला पर	conservative
+n	pr	no	फूहड़	conservative
+n	pa	yes	पोर्क कसाई	inclusive
+n	qas	no	खेत	inclusive
+n	cds	no	wonk	conservative
+n	cds	no	सड़क एजेंट	conservative
+a	ps	yes	काला	inclusive
+n	re	no	जल्लाद	inclusive
+n	pr	no	वेश्यावृत्ति	conservative
+n	asm	no	बकवास	conservative
+n	an	no	कायर	conservative
+n	re	no	डकैती	inclusive
+n	ddf	yes	निर्योग्यता	inclusive
+n	dmc	yes	लापरवाही से काम करना	inclusive
+n	cds	no	nympho	conservative
+n	an	no	गिद्ध	inclusive
+n	cds	no	शेखी	conservative
+n	an	no	सूक्ष्मजीव	inclusive
+n	asm	no	उल्लू	inclusive
+n	dmc	yes	पाखण्ड	conservative
+n	om	no	लौंडेबाज़	conservative
+n	om	no	sodomized	inclusive
+n	cds	no	autolatry	inclusive
+n	cds	no	बुरी लिखावट	inclusive
+n	qas	no	नगर निगम के कचरे	inclusive
+n	ps	yes	जड़वामन	conservative
+n	cds	no	cosa nostra	inclusive
+n	cds	no	वंश	inclusive
+n	asm	no	faba सेम	inclusive
+n	qas	no	परजीवी	inclusive
+n	ps	yes	उल्लू	conservative
+n	pr	no	रखैल	inclusive
+n	cds	no	कामचोर	conservative
+v	asm	no	चोदना	conservative
+n	ddp	yes	गंवार	conservative
+n	ddf	yes	विकलांगता	inclusive
+n	or	no	अहमक़	conservative
+n	asf	no	folderol	conservative
+n	dmc	yes	अवैधीकरण	inclusive
+n	cds	no	मूर्ति पूजा	inclusive
+n	pr	no	गाय	inclusive
+n	ddp	yes	गांड	conservative
+n	qas	no	necrotrophic	inclusive
+n	qas	no	magnates	inclusive
+n	dmc	yes	उठाईगीर	conservative
+n	cds	no	scammer	inclusive
+n	ps	yes	काला	inclusive
+n	an	no	शरीर छीन	inclusive
+n	cds	no	grifter	conservative
+n	dmc	yes	असत्यता	inclusive
+n	ps	yes	crossbreed	inclusive
+n	an	no	लकडबग्घा	inclusive
+n	dmc	yes	धोखे	conservative
+n	an	no	अश्लीलता	conservative
+n	an	no	गाय	inclusive
+n	cds	no	sass	inclusive
+n	an	no	परवाना	inclusive
+n	cds	no	सूदखोर	conservative
+n	cds	no	डींग हांकनेवाला	conservative
+n	re	no	दंडाभियोग	inclusive
+n	cds	no	trasformismo	inclusive
+n	an	no	विसेंट	inclusive
+n	svp	no	धर्मांध	conservative
+n	cds	no	clotheshorse	inclusive
+n	an	no	maggots	inclusive
+n	qas	no	अलंकारशास्त्री	inclusive
+n	cds	no	cathouse	inclusive
+n	qas	no	मिलावट	inclusive
+n	asf	no	अनाड़ी	conservative
+n	svp	no	आलस	inclusive
+n	dmc	yes	दुर्जन	conservative
+n	cds	no	freemasonry	inclusive
+n	ps	yes	कंजर	inclusive
+n	cds	no	wanker	conservative
+n	or	no	twat	conservative
+n	ddp	yes	गोलमाल करनेवाला	conservative
+a	ps	yes	काले	inclusive
+n	cds	no	विदूषक	inclusive
+n	svp	no	निर्णय - अक्षमता	inclusive
+n	cds	no	बैन्डिट	inclusive
+n	ddp	yes	मेटाजोअन	inclusive
+n	cds	no	रंगीला	inclusive
+n	ddf	yes	crookback	inclusive
+n	ddp	yes	हलवा सिर	conservative
+n	cds	no	बाँका	inclusive
+n	cds	no	माप की जापानी इकाइयों	inclusive
+n	cds	no	सारिका	conservative
+n	ddp	yes	epifauna	inclusive
+a	qas	no	साधारण	inclusive
+n	cds	no	एक तेजी	inclusive
+n	pr	no	बक	conservative
+n	cds	no	लव	inclusive
+n	an	no	vamper	conservative
+n	cds	no	संवाददाता	inclusive
+n	an	no	गदहे	inclusive
+n	asm	no	पाजी	conservative
+n	cds	no	अवसरवादी	conservative
+n	an	no	ठिगना	inclusive
+n	asm	no	बुध्दू	conservative
+n	dmc	yes	git	conservative
+n	svp	no	कंजूस	conservative
+n	re	no	libelous	inclusive
+n	an	no	शियार	inclusive
+n	asm	no	लिंगोपासना	inclusive
+n	cds	no	cockup	inclusive
+n	cds	no	अखबार	inclusive
+n	cds	no	सार्वजनिक सुविधा	inclusive
+n	pr	no	वेश्यावृत्ति	inclusive
+n	qas	no	अपनी नाक घुसेड़ना	inclusive
+n	cds	no	लेखक हैक	conservative
+n	cds	no	अपराधी	inclusive
+n	an	no	तिलचट्टे	inclusive
+n	om	no	transvestism	inclusive
+n	ddp	yes	जा रहा है चेतन	inclusive
+n	cds	no	धमकी देकर हासिल करने की कोशिश करनेवाला	conservative
+n	asm	no	घास में रोल	conservative
+n	an	no	हाइना	inclusive
+n	qas	no	व्यापार व्यक्ति	inclusive
+n	an	no	inexorableness	conservative
+n	pr	no	गायों	inclusive
+n	cds	no	शिशु	inclusive
+n	svp	no	सात घातक पाप	inclusive
+n	dmc	yes	आवारा	inclusive
+n	dmc	yes	जाली	conservative
+n	ps	yes	मंगोलों	inclusive
+n	qas	no	अनुरूप	inclusive
+n	qas	no	किरायेदार खेती	inclusive
+n	cds	no	ओमनियम - gatherum	inclusive
+n	asm	no	मछली	inclusive
+n	ps	yes	हिस्पैनिक	inclusive
+n	qas	no	ragtag	conservative
+n	om	no	नितंब	inclusive
+n	cds	no	गप्पी	conservative
+n	an	no	पशु	inclusive
+n	cds	no	इंटर व्यक्ति	inclusive
+n	ps	yes	mestizos	conservative
+n	ddp	yes	moronity	inclusive
+n	qas	no	baronies	inclusive
+n	ps	yes	पादप प्रजनन	inclusive
+n	an	no	वेश्या	conservative
+n	cds	no	moralizing	inclusive
+n	an	no	लकीर का फकीर	conservative
+n	qas	no	हैंगर पर	conservative
+n	dmc	yes	गद्दार	conservative
+n	an	no	अवर्म	conservative
+n	dmc	yes	पाखण्डी	conservative
+n	cds	no	conceitedness	conservative
+n	cds	no	डाकू	inclusive
+n	dmc	yes	banditti	inclusive
+n	cds	no	समस्या	conservative
+a	ddf	yes	असुंदर	conservative
+n	an	no	sciaenops ocellatus	inclusive
+n	dmc	yes	lingerer	conservative
+n	pa	yes	चमार	inclusive
+n	ps	yes	rommany	inclusive
+n	an	no	आदमी गिर	conservative
+n	cds	no	wuss	conservative
+n	cds	no	नटखट	conservative
+n	an	no	moue	inclusive
+n	svp	no	परिग्रहणशीलता	inclusive
+n	an	no	epifaunal	inclusive
+n	an	no	megascops	inclusive
+n	cds	no	धृष्ट व्यक्ति	conservative
+n	om	no	dorsolateral	inclusive
+n	ps	yes	आधा नस्ल	conservative
+n	cds	no	आलसियों	conservative
+n	re	no	cosa nostra	inclusive
+n	cds	no	अपनी नाक घुसेड़ना	conservative
+n	cds	no	rumormonger	conservative
+n	svp	no	कामचोर	conservative
+n	cds	no	superbia	inclusive
+n	re	no	क़ैदी बनानेवाला	inclusive
+n	re	no	chiseller	inclusive
+n	an	no	scorpionfish	inclusive
+n	an	no	मेंढक	inclusive
+n	an	no	frogspawn है	inclusive
+n	pr	no	प्रभावयुक्त व्यक्ति	inclusive
+n	re	no	माफिया	inclusive
+n	qas	no	आम लोग	inclusive
+n	re	no	चोरों	inclusive
+n	qas	no	शास्त्रीय लफ्फाजी	inclusive
+n	ps	yes	आदमी गिर	conservative
+n	asm	no	pterygiophore	inclusive
+n	an	no	श्वान	inclusive
+n	cds	no	षड्यंत्र का सिद्धांत	inclusive
+n	re	no	चोरी	inclusive
+n	cds	no	षड्यन्त्र का सिद्धान्त	inclusive
+n	asm	no	पंछी	inclusive
+n	svp	no	वासना	inclusive
+a	ddp	yes	मूर्ख	conservative
+n	ddp	yes	पशुओं	inclusive
+n	or	no	बंदगोभी	inclusive
+n	asm	no	नरम रे	inclusive
+n	pa	yes	sheepherders	inclusive
+n	qas	no	असलाना	conservative
+n	cds	no	camorra	inclusive
+n	dmc	yes	गंवार	conservative
+n	pa	yes	अभिभाषक	inclusive
+n	an	no	कंजूस	conservative
+n	cds	no	शिक्षक	inclusive
+n	pa	yes	bellman	inclusive
+v	asm	no	मैथुन करना	conservative
+n	cds	no	क्लिक्स	inclusive
+n	dmc	yes	vagrants	inclusive
+n	cds	no	mafiosi	inclusive
+n	or	no	cabbages	inclusive
+n	an	no	सियार	inclusive
+n	an	no	otus asio	inclusive
+n	cds	no	अपराधों	inclusive
+n	dmc	yes	ख़राबी	conservative
+n	cds	no	bloopers	inclusive
+n	cds	no	विवाह ठीक करनेवाला	inclusive
+n	ddp	yes	कूड़ा	conservative
+n	is	yes	टैटर्डमेलीअन	conservative
+n	an	no	कुत्ता	inclusive
+n	cds	no	idolatrous	inclusive
+n	cds	no	आत्मार्चन	inclusive
+n	pa	yes	मंत्री	inclusive
+n	an	no	fleas	inclusive
+n	ps	yes	मंगोल	inclusive
+n	cds	no	छोटा सा व्यक्ति	conservative
+n	cds	no	moaner	conservative
+a	ddp	yes	पागल	inclusive
+n	cds	no	पुलिसवाला	conservative
+n	an	no	कसबी	conservative
+n	an	no	मेटाजोअन	inclusive
+n	an	no	vipera	inclusive
+n	re	no	बदमाश	conservative
+n	ddp	yes	उल्लू	inclusive
+n	pa	yes	संकाय	inclusive
+n	cds	no	माफ़िया	conservative
+n	an	no	मुख का आकृति	inclusive
+n	cds	no	wiliness	conservative
+n	cds	no	भीड़	inclusive
+n	an	no	ब्रैंट	inclusive
+n	cds	no	schoolmarm	conservative
+n	qas	no	व्यापार के नेता	inclusive
+n	cds	no	अभिमान	conservative
+n	om	no	homophile	inclusive
+n	ddp	yes	अज्ञान	conservative
+n	dmc	yes	अनैतिकता	inclusive
+n	pr	no	ऐयाशी	inclusive
+n	ddp	yes	पाजी	conservative
+n	pr	no	रंडी	conservative
+n	qas	no	कंफ़मिस्ट	conservative
+n	svp	no	गुस्सा	inclusive
+n	qas	no	भव्यता	inclusive
+n	svp	no	उदासीनता	inclusive
+n	or	no	खुरपा	inclusive
+n	qas	no	चालक दल	inclusive
+n	asf	no	बेवक़ूफ़	conservative
+n	cds	no	पता है सब	conservative
+n	an	no	कुतिया	conservative
+n	dmc	yes	मिथ्या	inclusive
+n	cds	no	शौचालयों	inclusive
+n	cds	no	bigot	conservative
+n	ps	yes	हबशियों	inclusive
+n	asm	no	शिश्न	inclusive
+n	re	no	आतंकवादियों	inclusive
+n	cds	no	बदमाश	conservative
+n	pr	no	चुड़ैल	conservative
+n	cds	no	chiseller	conservative
+n	cds	no	उल्लू	inclusive
+n	svp	no	उदासीन	inclusive
+n	an	no	सीप	inclusive
+n	asm	no	appendages	inclusive
+n	re	no	दुरुपयोग	inclusive
+n	cds	no	फ़ासीवाद	conservative
+n	an	no	pediculus पिण्ड	inclusive
+n	qas	no	वागाडंबर	inclusive
+n	cds	no	प्रधान धर्माधिकारी	inclusive
+n	cds	no	protagonism	inclusive
+n	an	no	relentlessness	conservative
+n	re	no	समुद्री लुटेरे	inclusive
+n	cds	no	आत्मीय	inclusive
+n	ps	yes	बदूईन	inclusive
+n	svp	no	अभिमान	conservative
+n	cds	no	दोषकर्ता	inclusive
+n	an	no	गुप्त शत्रु	conservative
+n	qas	no	झोपड़ी	inclusive
+n	an	no	पतंगे	inclusive
+n	svp	no	bigoted	conservative
+n	cds	no	पादप प्रजनन	inclusive
+n	qas	no	व्यापार आदमी	inclusive
+n	svp	no	निरर्थकता	conservative
+n	ddp	yes	कुछ भी नहीं पता	conservative
+n	cds	no	दुष्ट	conservative
+n	an	no	hoaxes	conservative
+n	cds	no	धर्मांध	conservative
+n	qas	no	सिद्धांतकार	inclusive
+n	an	no	गुलगोथना	conservative
+n	pr	no	व्यावसायिक यौन	inclusive
+n	cds	no	दलाल	inclusive
+n	re	no	लुटेरा	conservative
+n	cds	no	दूत लड़का	inclusive
+n	qas	no	मुसीबत निर्माता	conservative
+n	dmc	yes	झूठा	inclusive
+n	dmc	yes	ठग	conservative
+n	cds	no	गुस्ताख़ी	conservative
+n	ps	yes	जेरी	conservative
+n	dmc	yes	बेईमानी	inclusive
+n	om	no	महोदया	inclusive
+n	ps	yes	mestizaje	conservative
+n	dmc	yes	pseud	conservative
+n	ddf	yes	छोटा सा व्यक्ति	conservative
+n	cds	no	fanatism	conservative
+n	asm	no	आदमी गिर	conservative
+n	ddf	yes	नेत्रहीन व्यक्ति	inclusive
+a	ddp	yes	असमर्थ	inclusive
+n	cds	no	हिमायती	inclusive
+n	cds	no	ठोस अपशिष्ट	inclusive
+n	qas	no	घरेलू अपशिष्ट	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	re	no	गालियाँ	inclusive
+n	ps	yes	हब्शी	conservative
+n	an	no	पुराने विश्व भैंस	inclusive
+n	qas	no	जाति	inclusive
+n	om	no	महिला	inclusive
+n	dmc	yes	पाखंड	conservative
+n	an	no	पतुरिया	conservative
+n	asf	no	betise	conservative
+n	ps	yes	जूदेव	inclusive
+n	ddf	yes	अक्षम	inclusive
+n	an	no	बकरी	inclusive
+n	asm	no	saphead	conservative
+n	cds	no	चोरी	inclusive
+n	dmc	yes	विदूषक	inclusive
+n	re	no	डाकू	conservative
+n	cds	no	blowhard	conservative
+n	cds	no	जवाब देना	inclusive
+n	re	no	बदनाम करने वाला	conservative
+n	pa	yes	परामर्शदाता पर कानून	inclusive
+n	cds	no	अहमक़	conservative
+n	cds	no	जंगली	conservative
+n	asf	no	changelings	conservative
+n	an	no	सूक्ष्म जीवों	inclusive
+n	cds	no	अनेकता	inclusive
+n	qas	no	चोट	inclusive
+n	an	no	मच्छर	inclusive
+n	cds	no	वैगन ट्रेन	inclusive
+n	asm	no	teste	inclusive
+n	svp	no	tightfistedness	conservative
+n	cds	no	आपराधिक	inclusive
+n	or	no	homophile	conservative
+n	cds	no	दंडाभियोग	inclusive
+a	is	yes	दुखी	inclusive
+n	om	no	ventrolateral	inclusive
+n	cds	no	पुलिसकर्मी	inclusive
+n	an	no	पिपिस्ट्रेल	inclusive
+n	dmc	yes	ढोंग	conservative
+n	svp	no	trencherman	inclusive
+n	qas	no	उद्योगपतियों	inclusive
+n	re	no	plagiarizing	inclusive
+n	dmc	yes	bigoted	conservative
+n	cds	no	विदूषक	conservative
+n	cds	no	मेसोनिक	inclusive
+n	re	no	गिरफ़्तार करनेवाला	inclusive
+n	cds	no	homunculi	inclusive
+n	re	no	neonaticide	inclusive
+n	svp	no	आलसियों	conservative
+n	ddp	yes	ferociousness	conservative
+n	an	no	यूका	inclusive
+n	an	no	पतिंगे	inclusive
+n	ddp	yes	बुध्दू	conservative
+n	an	no	चपला	conservative
+n	cds	no	अहंकार	inclusive
+n	cds	no	माफिया	inclusive
+n	ddp	yes	बर्बर	conservative
+n	re	no	आतन्कवाद	conservative
+n	an	no	zooerastia	conservative
+n	cds	no	loansharking	inclusive
+n	dmc	yes	लुटेरा	conservative
+n	cds	no	loansharking	conservative
+n	an	no	जानवरों	inclusive
+n	om	no	समलैंगिक	inclusive
+n	cds	no	रिश्तेदारी समूह	inclusive
+n	or	no	नकचढ़ापन	inclusive
+n	asf	no	मूर्ख	conservative
+n	cds	no	wiseacre	conservative
+n	an	no	macrofauna	inclusive
+n	cds	no	पैसे उधार	inclusive
+n	ddp	yes	बेवक़ूफ़	conservative
+n	svp	no	amour propre	conservative
+n	cds	no	पुलिस	conservative
+n	dmc	yes	लुकानेवाला	conservative
+n	qas	no	हडबडी	inclusive
+n	an	no	zooerasty	conservative
+n	re	no	mafiosi	conservative
+n	an	no	animalcules	inclusive
+n	asm	no	maxilliped	inclusive
+n	dmc	yes	पाखंडी	conservative
+n	asm	no	wank	conservative

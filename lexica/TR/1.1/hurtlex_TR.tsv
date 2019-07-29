@@ -1,0 +1,2350 @@
+pos	category	stereotype	lemma	level
+n	re	no	hırsız	inclusive
+a	an	no	bitli	inclusive
+n	pr	no	gevşek kadın	conservative
+n	cds	no	hırsız	conservative
+n	cds	no	şarlatan	conservative
+n	cds	no	eşkıyalık	inclusive
+n	an	no	akbabalar	inclusive
+n	cds	no	yığın	inclusive
+n	an	no	animalculum	inclusive
+n	cds	no	muhabbet tellalı	conservative
+n	pr	no	hayat kadını	conservative
+n	dmc	yes	hain	conservative
+n	om	no	makat	inclusive
+n	or	no	hıyar	inclusive
+a	cds	no	sıradan	inclusive
+n	cds	no	culchie	inclusive
+n	asf	no	budala	conservative
+n	cds	no	demagog	conservative
+n	cds	no	kibir	inclusive
+n	an	no	hayvanların sınıflandırılması	inclusive
+n	an	no	kevaşe	conservative
+n	svp	no	conceitedness	conservative
+n	is	yes	düşük gelirli	inclusive
+n	cds	no	radikal dincilik	inclusive
+n	ps	yes	salak	conservative
+n	dmc	yes	aldatıcı	conservative
+n	an	no	katır	inclusive
+n	svp	no	kibir	conservative
+n	qas	no	halk	inclusive
+n	ddf	yes	bücür	conservative
+a	cds	no	yasa dışı	inclusive
+n	om	no	homosexualism	inclusive
+n	cds	no	akrabalık grubu	inclusive
+n	qas	no	platin	inclusive
+n	qas	no	blooper	inclusive
+n	cds	no	hattat	conservative
+n	cds	no	mess-up	inclusive
+n	svp	no	miskin	conservative
+n	dmc	yes	yalancı	inclusive
+n	cds	no	öğretmen	conservative
+n	cds	no	şantajcı	inclusive
+n	pa	yes	avukatlık	inclusive
+n	cds	no	scads	inclusive
+n	cds	no	mason	inclusive
+n	an	no	pediculus humanus	inclusive
+n	cds	no	yobaz	conservative
+n	cds	no	rustler	inclusive
+n	dmc	yes	dissimulator	conservative
+n	cds	no	karmakarışık şey	inclusive
+n	qas	no	burjuvazi	inclusive
+n	cds	no	olmazsa	inclusive
+n	or	no	ahmak	conservative
+n	or	no	patates	inclusive
+n	cds	no	sürü	inclusive
+n	svp	no	cimrilik	inclusive
+n	ps	yes	kurban	conservative
+n	dmc	yes	yobaz	conservative
+n	an	no	dağ keçileri	inclusive
+n	an	no	yabandomuzu	inclusive
+n	an	no	fauna	inclusive
+n	asf	no	mankafa	conservative
+n	an	no	enayi	inclusive
+n	cds	no	hızlı bir	inclusive
+n	qas	no	yalan	conservative
+n	asm	no	erkeklik organı	inclusive
+n	dmc	yes	ikiyüzlülük	conservative
+n	cds	no	İrtica	conservative
+n	an	no	atık	conservative
+n	dmc	yes	boş gezenin boş kalfası	conservative
+n	an	no	fizyonomi	inclusive
+n	pr	no	whoredom	inclusive
+n	asm	no	kahrolası	conservative
+n	om	no	drag queen	inclusive
+n	an	no	sürtük	conservative
+n	om	no	götveren	conservative
+n	qas	no	ortak bir adam	inclusive
+n	an	no	olmanın animasyon	inclusive
+n	ddp	yes	mental retardasyon	inclusive
+n	re	no	suç	inclusive
+n	ddp	yes	hayvanlar	inclusive
+n	svp	no	avariciousness	inclusive
+n	asm	no	cockerel	inclusive
+n	pa	yes	arabacı	inclusive
+n	an	no	branta bernicla	inclusive
+n	om	no	erkek cinselliği	inclusive
+n	dmc	yes	gangsterler	inclusive
+n	an	no	caprinae	inclusive
+a	is	yes	talihsiz	inclusive
+a	ddf	yes	özürlü	inclusive
+n	cds	no	alay	inclusive
+n	dmc	yes	scattergood	inclusive
+n	pr	no	hetaira	inclusive
+a	ps	yes	çin	inclusive
+n	cds	no	kendini tatmin	inclusive
+n	an	no	lunkhead	conservative
+n	an	no	tatanka	inclusive
+n	an	no	culicidae	inclusive
+a	is	yes	üzgün	inclusive
+n	an	no	blattaria	inclusive
+n	asf	no	beyinsiz	conservative
+a	om	no	eş cinsel	conservative
+n	an	no	kaşlarını çatmak	inclusive
+n	qas	no	işadamları	inclusive
+n	cds	no	yiyicilik	conservative
+n	cds	no	embesil	inclusive
+n	an	no	krokodiller	inclusive
+n	cds	no	haber muhabiri	inclusive
+n	pr	no	sosyetenin renkli siması	inclusive
+n	asm	no	kahverengi	inclusive
+n	cds	no	halk	inclusive
+n	re	no	görevi kötüye	inclusive
+n	an	no	wisent	inclusive
+a	ddf	yes	görmez	inclusive
+n	ddf	yes	sakatlık	inclusive
+n	pr	no	metresi	conservative
+n	an	no	diddlyshit	conservative
+n	an	no	bos taurus	inclusive
+n	cds	no	motley fool	inclusive
+n	ps	yes	çingene	conservative
+n	svp	no	eros	inclusive
+n	dmc	yes	pot kıran kimse	conservative
+n	pr	no	sokak kadını	conservative
+n	svp	no	superbia	conservative
+n	cds	no	yaramaz	conservative
+n	om	no	rezene	inclusive
+n	pr	no	saçmalık	conservative
+n	ddp	yes	embesil	conservative
+n	pa	yes	savunucusu	inclusive
+n	an	no	dağ engereği	inclusive
+n	re	no	haydut	conservative
+n	om	no	nance	conservative
+n	cds	no	çamaşır askısı	inclusive
+n	ddp	yes	budala	conservative
+n	cds	no	ıslah memuru	inclusive
+n	cds	no	weisenheimer	conservative
+n	om	no	travestilik	inclusive
+n	an	no	baykuşumsular	inclusive
+n	om	no	nonoş	conservative
+n	an	no	crocodilian	inclusive
+n	cds	no	ufak tefek şeyler	inclusive
+n	an	no	aldatmak	conservative
+n	qas	no	mürettebat	inclusive
+n	pa	yes	aşık	inclusive
+n	asm	no	yarak	inclusive
+n	an	no	kerata	conservative
+n	re	no	kasıtsız öldüren kimse	inclusive
+n	ps	yes	doofus	conservative
+n	an	no	anguillidae	inclusive
+n	cds	no	avam	inclusive
+n	asm	no	erkek üreme organları	inclusive
+n	ddp	yes	ferociousness	conservative
+n	cds	no	gayrimeşru çocuk	inclusive
+a	is	yes	fakir	inclusive
+n	cds	no	presumptuousness	conservative
+n	cds	no	baba	inclusive
+n	cds	no	palavracı	conservative
+n	an	no	kurban	conservative
+n	pa	yes	çalışan	inclusive
+n	cds	no	açıkgözlük	inclusive
+n	ddp	yes	rumormonger	conservative
+n	pa	yes	öğretim	inclusive
+n	dmc	yes	homunculus	inclusive
+n	dmc	yes	Şer	inclusive
+n	an	no	hirudinea	inclusive
+n	an	no	timsahlar	inclusive
+n	qas	no	kulübesi	inclusive
+n	ddp	yes	hıyarağası	conservative
+n	cds	no	klikler	inclusive
+n	pa	yes	cenaze	inclusive
+n	cds	no	karışmak-cendereye	inclusive
+n	ddp	yes	barbar	conservative
+n	om	no	homoseksüel	inclusive
+n	pr	no	floozie	conservative
+n	pa	yes	uncouthness	conservative
+n	cds	no	tefeciler	inclusive
+n	cds	no	polis	inclusive
+n	is	yes	tamahkâr	conservative
+n	an	no	sürçülisan	inclusive
+n	cds	no	gönül rahatlığı	inclusive
+n	an	no	viper	inclusive
+n	ddp	yes	geveze	conservative
+n	cds	no	aşk şarkıcısı	inclusive
+n	cds	no	iyi bakılmış çocuk	inclusive
+n	ddp	yes	safdil	conservative
+n	is	yes	alçak	conservative
+n	cds	no	yalan	inclusive
+n	svp	no	serseri	conservative
+n	an	no	crocodilia	inclusive
+n	dmc	yes	kötülük	inclusive
+n	an	no	helix pomatia	inclusive
+n	re	no	ihlalleri	inclusive
+n	an	no	kapa	inclusive
+a	qas	no	delirmek	inclusive
+n	ps	yes	mongoloid	conservative
+n	dmc	yes	bumbler	conservative
+n	cds	no	bilgiç	conservative
+n	ddp	yes	masalcı	conservative
+n	an	no	despoiler	inclusive
+n	dmc	yes	sahte	inclusive
+n	cds	no	putperestlik	inclusive
+n	an	no	çehre	inclusive
+n	ddp	yes	infauna	inclusive
+n	om	no	medyan çizgi	inclusive
+n	asm	no	fallik	inclusive
+n	cds	no	astik	inclusive
+n	cds	no	çeteler	conservative
+n	cds	no	dillidüdük	conservative
+n	qas	no	sodbuster	inclusive
+n	cds	no	komisyoncu	inclusive
+n	an	no	crocodilians	inclusive
+n	pa	yes	çoban	inclusive
+n	an	no	çapulcu	inclusive
+n	re	no	suçlar	inclusive
+n	om	no	puşt	inclusive
+n	cds	no	avanak	conservative
+n	cds	no	slews	inclusive
+n	dmc	yes	şanssız	inclusive
+n	an	no	karakurbağası	inclusive
+n	is	yes	yoksullar	inclusive
+n	an	no	yılan balığı	inclusive
+n	qas	no	yumurtacık	inclusive
+n	cds	no	idol ibadet	inclusive
+n	cds	no	yeni zengin	inclusive
+n	om	no	kıç	inclusive
+n	dmc	yes	sahtekâr	conservative
+n	cds	no	superbia	conservative
+n	qas	no	faul-up	inclusive
+n	svp	no	gorger	conservative
+n	cds	no	geciktirmek	inclusive
+n	ps	yes	yahudilik	inclusive
+n	ps	yes	siyahlık	inclusive
+n	svp	no	gurur	inclusive
+n	pr	no	sıçan	inclusive
+n	ddp	yes	aptal	conservative
+n	om	no	travestizm	inclusive
+n	re	no	terörist	inclusive
+n	pa	yes	araştırma profesörü	inclusive
+n	re	no	vergi kaçakçısı	inclusive
+n	cds	no	fundamentalizm	inclusive
+n	dmc	yes	mürailik	conservative
+n	re	no	şiddet	inclusive
+n	asf	no	salak	conservative
+n	om	no	oğlancılık	inclusive
+n	cds	no	ostentatiousness	conservative
+n	ddf	yes	engellilik	inclusive
+n	asm	no	avrupa fasulye	inclusive
+n	asf	no	amcık	conservative
+n	an	no	kötü	conservative
+n	cds	no	melez	inclusive
+n	re	no	işkenceci	inclusive
+n	an	no	İt	inclusive
+n	cds	no	fawner	conservative
+n	pa	yes	avukatı	inclusive
+n	asm	no	bakla	inclusive
+n	cds	no	haylaz	inclusive
+n	asm	no	çük	conservative
+a	ddp	yes	bön	conservative
+n	om	no	bazal	inclusive
+n	cds	no	eşleştirici	inclusive
+n	ps	yes	bitki ıslahı	inclusive
+n	om	no	shirtlifter	inclusive
+n	cds	no	yığınlar	inclusive
+n	om	no	özürlü	conservative
+n	dmc	yes	rezil	conservative
+n	om	no	kaudal	inclusive
+n	re	no	mafia	conservative
+n	is	yes	zavallı	conservative
+n	ps	yes	jigaboo	conservative
+n	cds	no	zayıf kimse	conservative
+n	cds	no	narsizt	inclusive
+n	an	no	yaban öküzü	inclusive
+n	pa	yes	muhasebeci	inclusive
+n	ddp	yes	çenebaz	inclusive
+n	om	no	lezbiyen	conservative
+n	cds	no	demiryolu işçisi	inclusive
+n	pa	yes	barbarlar	conservative
+n	ddp	yes	geciktirmek	conservative
+n	cds	no	övünen kimse	conservative
+n	ps	yes	mürekkeplilik	inclusive
+n	om	no	finocchio	inclusive
+n	cds	no	topsy-turvyness	inclusive
+n	cds	no	parti	inclusive
+n	qas	no	husye	inclusive
+n	ddp	yes	piç	conservative
+n	or	no	kelem	inclusive
+n	cds	no	ucuz roman	inclusive
+n	cds	no	haydut	inclusive
+n	or	no	nick jr.	inclusive
+n	cds	no	cosa nostra	inclusive
+n	qas	no	İş kadını	inclusive
+n	cds	no	içgrup	inclusive
+n	an	no	asıl sırtlanlar	inclusive
+n	om	no	leydi	inclusive
+n	dmc	yes	sahtecilik	inclusive
+n	cds	no	kibir	conservative
+n	or	no	pislik	conservative
+n	an	no	budala	conservative
+n	an	no	şırfıntı	conservative
+n	qas	no	profesyonel sınıf	inclusive
+n	dmc	yes	yerindelik	inclusive
+n	cds	no	karışık şey	inclusive
+n	cds	no	vefasızlık	conservative
+n	an	no	mıymıntı	conservative
+n	svp	no	spiritlessness	inclusive
+a	ddp	yes	saçma	conservative
+n	asm	no	vicia faba	inclusive
+n	svp	no	overeating	inclusive
+n	cds	no	genelevi	inclusive
+n	pa	yes	çobanlar	inclusive
+n	qas	no	yavşak	conservative
+n	asm	no	sert-on	inclusive
+n	an	no	yaratık	inclusive
+n	cds	no	genelevler	inclusive
+n	cds	no	whiner	conservative
+n	an	no	tahta kurusu	inclusive
+n	cds	no	godoş	inclusive
+n	ddp	yes	hükümlü	inclusive
+n	is	yes	fukara	inclusive
+n	svp	no	enviousness	inclusive
+n	an	no	kırmızı davul	inclusive
+n	or	no	yanık turuncu	inclusive
+n	qas	no	bloodhound	inclusive
+n	re	no	Şiddet	inclusive
+n	cds	no	ahmak	conservative
+n	an	no	dumbass	conservative
+n	om	no	geride	inclusive
+n	or	no	dumbass	conservative
+n	re	no	istismar	inclusive
+n	re	no	şantaj	inclusive
+n	svp	no	avaritia	inclusive
+n	cds	no	barbar	conservative
+n	an	no	raunch	conservative
+n	cds	no	ayaktakımı	inclusive
+n	asm	no	flouter	conservative
+n	an	no	yumuşakça	inclusive
+n	svp	no	tembellik	conservative
+a	ddf	yes	kör	inclusive
+n	qas	no	yuvarlanmak	inclusive
+n	asf	no	geciktirmek	conservative
+n	cds	no	kanuna karşı gelme	inclusive
+n	cds	no	wads	inclusive
+n	re	no	yağmacılık	inclusive
+n	pa	yes	funeral undertaker	inclusive
+n	an	no	anuran	inclusive
+n	qas	no	uşak	inclusive
+n	cds	no	hızlı bir	conservative
+n	dmc	yes	çapkın	inclusive
+n	cds	no	mussiness	conservative
+n	om	no	soyunma çapraz	inclusive
+n	asm	no	nookie	conservative
+n	pr	no	metres	conservative
+n	cds	no	meslek grubu	inclusive
+n	svp	no	kaytarıcı	conservative
+n	cds	no	masonluk	inclusive
+n	an	no	prickteaser	conservative
+v	asm	no	yatmak	conservative
+n	pa	yes	akademisyen	inclusive
+n	cds	no	sokak çetesi	inclusive
+n	svp	no	iyi-için-naught	conservative
+n	re	no	yıldırıcılık	conservative
+a	dmc	yes	kötü	conservative
+n	svp	no	pinti	conservative
+n	or	no	gey	conservative
+n	cds	no	günahkâr	inclusive
+n	ps	yes	üreyebilirlik	inclusive
+n	cds	no	boşboğaz	conservative
+n	ps	yes	karalık	inclusive
+n	cds	no	kökten dincilik	inclusive
+n	asm	no	avanak	conservative
+n	re	no	gangster	inclusive
+n	an	no	korkak	conservative
+n	an	no	ceset hırsızı	inclusive
+n	cds	no	kapalı sürme	conservative
+n	is	yes	rezil	conservative
+n	an	no	sciaenops ocellatus	inclusive
+n	asm	no	bülüş	inclusive
+n	ps	yes	melez	inclusive
+n	asm	no	kobra	conservative
+n	cds	no	rumormonger	conservative
+v	cds	no	rahmetli olmak	inclusive
+n	ddp	yes	tutuklu	inclusive
+n	ps	yes	boche	conservative
+n	pa	yes	yanlısı	inclusive
+n	an	no	mikro-organizmalar	inclusive
+n	ddp	yes	saçmalık	conservative
+n	om	no	queer	conservative
+n	an	no	kabalık	conservative
+n	dmc	yes	kriminalize	inclusive
+n	ddf	yes	özür	inclusive
+n	pr	no	ticari seks	inclusive
+n	svp	no	kızgınlık	inclusive
+n	cds	no	by-darbe	inclusive
+n	cds	no	dümbük	conservative
+n	an	no	familiaris	inclusive
+n	pa	yes	gişe memuru	inclusive
+n	cds	no	neonatal	inclusive
+n	an	no	kurtçuklar	inclusive
+n	dmc	yes	serseriler	inclusive
+n	qas	no	zürzavar	inclusive
+n	cds	no	onlarca	inclusive
+n	an	no	dücâce	inclusive
+n	an	no	serseri	conservative
+n	pa	yes	üniversite profesörü	inclusive
+n	an	no	eşekler	inclusive
+n	qas	no	taşak	inclusive
+n	cds	no	gangsterler	inclusive
+n	ddp	yes	codswallop	conservative
+n	cds	no	dırdırcı	conservative
+n	cds	no	sokak çeteleri	inclusive
+n	qas	no	retorik-belagat	inclusive
+n	an	no	diddly-squat	conservative
+n	cds	no	külüstür araba	inclusive
+n	an	no	diddly	conservative
+n	qas	no	tagalong	conservative
+n	pr	no	cinsel hizmet	inclusive
+n	qas	no	zurra'	inclusive
+n	pr	no	karabiberli kelebek	inclusive
+n	cds	no	ıslahçı	inclusive
+n	an	no	insafsızlık	conservative
+n	asf	no	teknik özellik	inclusive
+a	dmc	yes	çirkin	conservative
+n	ps	yes	zenci	inclusive
+n	pa	yes	balıkçı	inclusive
+n	asm	no	avafauna	inclusive
+n	re	no	teror	inclusive
+n	pr	no	rattus	inclusive
+n	an	no	amerikan manda	inclusive
+n	dmc	yes	mozzarella	inclusive
+n	cds	no	budala	conservative
+n	svp	no	dillydallier	conservative
+n	om	no	kalça	inclusive
+n	qas	no	rhetor	inclusive
+n	or	no	homoseksüel	conservative
+n	or	no	şalgam	inclusive
+n	pa	yes	prof	inclusive
+n	an	no	hamam böceği	inclusive
+n	cds	no	aşırmak	conservative
+n	an	no	burun	inclusive
+n	asm	no	jerk-off	conservative
+n	cds	no	konfor istasyonu	inclusive
+n	cds	no	muhabbet tellalı	inclusive
+n	dmc	yes	palyaço	inclusive
+n	an	no	ada tavşanı	inclusive
+a	cds	no	akıllı	inclusive
+n	qas	no	snooper	inclusive
+n	cds	no	kıyamet	inclusive
+n	cds	no	Özseverlik	inclusive
+n	an	no	kaş çatma	inclusive
+n	cds	no	evildoer	conservative
+n	re	no	ırza geçme	conservative
+n	dmc	yes	mecnun	inclusive
+n	cds	no	cani	inclusive
+n	an	no	ferociousness	conservative
+n	dmc	yes	motley fool	inclusive
+n	ddp	yes	sıcak kompres	conservative
+n	an	no	hırpani kişi	conservative
+n	is	yes	baldırı çıplak	conservative
+n	an	no	cimex lectularius	inclusive
+n	an	no	hınzır	inclusive
+n	an	no	keneler	inclusive
+n	cds	no	bilmiş	conservative
+n	cds	no	putataparlık	inclusive
+n	cds	no	prankster	conservative
+n	svp	no	gaf-off	conservative
+n	cds	no	burnunu sokan kimse	conservative
+n	qas	no	üst düzey yönetici	inclusive
+n	cds	no	aydın	inclusive
+n	ddp	yes	salak	conservative
+n	pa	yes	churl	conservative
+n	an	no	ev köpeği	inclusive
+n	ddp	yes	zooerastia	conservative
+n	ddp	yes	olmanın animasyon	inclusive
+n	cds	no	tefeci	inclusive
+n	om	no	gay erkek	inclusive
+n	an	no	dağ keçisi	inclusive
+n	svp	no	oburluk	inclusive
+n	ps	yes	13 esas kural	inclusive
+n	asm	no	aves	inclusive
+n	cds	no	kanalizasyon	inclusive
+n	svp	no	cimrilik	conservative
+n	cds	no	küfretmek	conservative
+n	cds	no	dini ayrımcılık	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	an	no	aşifte	conservative
+n	asf	no	ahmak	conservative
+n	svp	no	duyarsızlık	inclusive
+n	pa	yes	avukatlar	inclusive
+n	ps	yes	zulu insanlar	inclusive
+n	svp	no	kanal kazıcı	conservative
+n	svp	no	faineance	inclusive
+n	ps	yes	vandal	inclusive
+n	pr	no	İnek	inclusive
+n	re	no	Öldürme	inclusive
+n	re	no	italyan mafyası	conservative
+n	dmc	yes	filanca	inclusive
+n	asm	no	ballock	inclusive
+n	cds	no	pompousness	inclusive
+n	pa	yes	işçi	inclusive
+n	cds	no	ostentatiousness	inclusive
+n	cds	no	kitleler	inclusive
+n	om	no	diskoidal	inclusive
+n	cds	no	gericilik	conservative
+n	an	no	güzel ama yapmacıklı	conservative
+n	cds	no	codswallop	conservative
+n	rci	yes	barbarlar	conservative
+n	ddp	yes	microcephalus	inclusive
+n	an	no	strix varia	inclusive
+n	asm	no	er bezi	inclusive
+n	an	no	ovis koç	inclusive
+n	cds	no	pezevenk	conservative
+n	re	no	çocuk hırsızı	inclusive
+n	qas	no	otlakçı	conservative
+a	qas	no	delice	inclusive
+n	dmc	yes	toplum dışına itilmiş	inclusive
+n	cds	no	salak	inclusive
+n	cds	no	mafia	conservative
+n	ddp	yes	pislik	conservative
+v	asm	no	sikmek	conservative
+n	re	no	slayer	inclusive
+n	pa	yes	öğretmen	inclusive
+n	an	no	psittaciformes	inclusive
+n	om	no	oğlancı	conservative
+n	cds	no	kuruş korkunç	inclusive
+n	cds	no	dolandırıcı	inclusive
+n	asm	no	roosting	inclusive
+n	an	no	pireler	inclusive
+n	an	no	gerzek	conservative
+n	an	no	capra	inclusive
+n	re	no	azap	inclusive
+a	qas	no	zamanki	inclusive
+n	pa	yes	sheepherder	inclusive
+n	dmc	yes	zampara	conservative
+n	an	no	solucanlar	inclusive
+n	asm	no	el işi	conservative
+a	ddf	yes	sakat	inclusive
+n	qas	no	iş adamı	inclusive
+n	svp	no	tiksinme	inclusive
+n	an	no	crocodylidae	inclusive
+n	cds	no	tedarik	conservative
+n	cds	no	gardiyanlık	inclusive
+n	re	no	camorra	inclusive
+n	ddp	yes	alık	conservative
+n	dmc	yes	ahlaksız	inclusive
+n	cds	no	yüzsüzlük	conservative
+n	cds	no	edebi hack	conservative
+n	dmc	yes	rakehell	conservative
+n	an	no	tavuk	inclusive
+n	qas	no	beceriksiz	conservative
+n	cds	no	phratry	inclusive
+n	dmc	yes	avanak	conservative
+n	an	no	kaz	inclusive
+n	cds	no	üreyebilirlik	inclusive
+n	re	no	intihal	inclusive
+n	dmc	yes	mozzerella	inclusive
+n	om	no	aboral	inclusive
+n	asf	no	dimwit	conservative
+n	re	no	villainess	conservative
+n	ddp	yes	saçma	conservative
+n	dmc	yes	küfretmek	conservative
+n	an	no	adamcağız	inclusive
+n	pa	yes	belboy	inclusive
+n	ddp	yes	animal	inclusive
+n	qas	no	İşadamı	inclusive
+n	dmc	yes	palyaçolar	inclusive
+n	cds	no	narsisizm	inclusive
+a	re	no	şiddet	inclusive
+n	cds	no	önderliğin	inclusive
+n	an	no	hyaena	inclusive
+n	qas	no	kereste baronu	inclusive
+n	ps	yes	siyah	inclusive
+n	re	no	terörizm	conservative
+n	asm	no	bezelye	inclusive
+n	cds	no	faşizm	conservative
+n	dmc	yes	aylak	conservative
+n	cds	no	hurda	conservative
+a	qas	no	deli	conservative
+n	dmc	yes	ikiyüzlü	conservative
+n	om	no	homoseksüel	conservative
+n	qas	no	ressam ve dekoratör	inclusive
+n	cds	no	kurban	conservative
+n	ddp	yes	sağlık dolandırıcılık	conservative
+n	ps	yes	ostrogot	inclusive
+n	cds	no	beceriksizlik	inclusive
+n	dmc	yes	taklitçi	conservative
+n	ddp	yes	analphabetic	inclusive
+n	an	no	beyinsiz	conservative
+n	an	no	bitler	inclusive
+n	an	no	harharyas	inclusive
+n	ps	yes	melez	conservative
+n	svp	no	obur	conservative
+n	an	no	kafasız	conservative
+n	ps	yes	bulgarca	inclusive
+n	ddp	yes	yumuşak dokunuş	conservative
+n	cds	no	pasaklı	conservative
+n	an	no	redfish	inclusive
+n	an	no	animalia	inclusive
+n	qas	no	ıskartaya çıkarmak	conservative
+n	cds	no	newswriter	inclusive
+n	om	no	travestiler	inclusive
+n	or	no	puşt	conservative
+n	qas	no	kast	inclusive
+n	ddp	yes	riffraff	conservative
+n	cds	no	akraba-i taallukat	inclusive
+n	an	no	gırtlak	inclusive
+n	cds	no	folderol	conservative
+n	cds	no	propagandacı	inclusive
+n	asf	no	muttonhead	conservative
+n	an	no	sülük	inclusive
+n	asm	no	alık	conservative
+n	an	no	kurbağa	inclusive
+n	om	no	eşcinseller	inclusive
+n	cds	no	şarkıcılardan	inclusive
+n	dmc	yes	hovarda	inclusive
+n	cds	no	köktencilik	inclusive
+n	svp	no	slothfulness	inclusive
+n	qas	no	şarlatan	conservative
+n	svp	no	gourmandizer	inclusive
+n	is	yes	hasis	conservative
+n	cds	no	faul-up	inclusive
+n	qas	no	ufak tefek şeyler	inclusive
+n	is	yes	yoksul	inclusive
+n	cds	no	gerici	conservative
+n	cds	no	övüngenlik	conservative
+n	cds	no	ıskartaya çıkarmak	conservative
+n	or	no	nance	conservative
+n	cds	no	ayakçısı	inclusive
+n	re	no	terör	inclusive
+n	cds	no	narsisistik	inclusive
+n	om	no	gayness	inclusive
+n	qas	no	iş kişidir	inclusive
+n	an	no	bit	inclusive
+n	cds	no	amatörce	conservative
+n	ddp	yes	çiğnemek	conservative
+a	cds	no	aptal	conservative
+n	cds	no	bilgiçlik	conservative
+n	dmc	yes	yalancı	conservative
+n	cds	no	bitki ıslahı	inclusive
+n	qas	no	becerememek	inclusive
+n	cds	no	yasa kıran	inclusive
+n	an	no	köpekbalığı	inclusive
+n	pr	no	nedim	inclusive
+a	ddp	yes	enayice	conservative
+a	svp	no	kızgın	inclusive
+v	asm	no	aşk yapmak	conservative
+n	is	yes	cimri	conservative
+n	ps	yes	ostrogotlar	inclusive
+n	om	no	anal ilişki	inclusive
+n	ddp	yes	barbarlar	conservative
+n	qas	no	ziraatçı	inclusive
+n	cds	no	masturbasyon yapmak	conservative
+n	or	no	nonoş	conservative
+n	dmc	yes	hobo	conservative
+n	om	no	dorsoventral	inclusive
+n	cds	no	bordello	inclusive
+n	asf	no	adam düşmek	conservative
+n	cds	no	pezevenklik	conservative
+n	qas	no	yumurta	inclusive
+n	ddp	yes	gerzek	conservative
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	cds	no	muzip	conservative
+n	svp	no	cinsel istek	inclusive
+n	cds	no	conspiracism	inclusive
+n	an	no	dinleme cihazı	inclusive
+n	om	no	lezbiyen	inclusive
+n	om	no	homoseksüellik	inclusive
+n	cds	no	ailenin	inclusive
+n	ddp	yes	geciktirmek	inclusive
+n	cds	no	dedikodu	inclusive
+n	cds	no	leş	inclusive
+n	pr	no	orospuluk	conservative
+n	cds	no	başpiskopos	inclusive
+n	svp	no	yobaz	conservative
+n	cds	no	kalıntı	inclusive
+n	cds	no	gidi	inclusive
+n	an	no	cimri	conservative
+n	ddp	yes	zekâ geriliği	inclusive
+n	re	no	plagiarization	inclusive
+n	pa	yes	bellhop	inclusive
+n	cds	no	soygun	inclusive
+n	cds	no	putçuluk	inclusive
+n	pa	yes	prof.	inclusive
+n	asm	no	changeling	inclusive
+n	asm	no	apendiks	inclusive
+n	cds	no	thieving	inclusive
+n	ps	yes	barbar	conservative
+n	an	no	köpek	inclusive
+n	or	no	cucurbita maxima	inclusive
+n	pr	no	saraylı	inclusive
+n	ps	yes	Çinli	inclusive
+n	an	no	kaltak	conservative
+n	cds	no	çaylak	conservative
+n	dmc	yes	treasonist	conservative
+n	cds	no	kurnazlık	conservative
+n	cds	no	filanca	conservative
+n	asf	no	bomba	conservative
+n	dmc	yes	dolandırıcı	conservative
+n	re	no	tecavüzcü	conservative
+n	an	no	brent	inclusive
+n	ddp	yes	hayvanların sınıflandırılması	inclusive
+n	an	no	volaille	inclusive
+n	cds	no	suçlu	inclusive
+n	ps	yes	İbranilik	inclusive
+n	an	no	mikrop	inclusive
+n	an	no	cahil	conservative
+n	an	no	yumuşakçalar	inclusive
+n	pr	no	sürtük	conservative
+n	cds	no	sahtelik	conservative
+n	svp	no	hareketsizlik	inclusive
+n	an	no	mikrobiyal	inclusive
+n	pr	no	lâğım faresi	inclusive
+a	qas	no	ortaçağ	inclusive
+n	qas	no	ayaktakımı	conservative
+a	cds	no	saçma	conservative
+n	dmc	yes	beceriksiz	conservative
+n	an	no	böcek	inclusive
+n	ps	yes	nigra	conservative
+n	cds	no	kamu kolaylık	inclusive
+n	qas	no	konformizm	inclusive
+n	qas	no	dağınıklık	inclusive
+n	asf	no	safdil	conservative
+n	an	no	domuz	inclusive
+n	cds	no	kafasız	conservative
+n	an	no	çiğnemek	conservative
+n	dmc	yes	vefasızlık	inclusive
+n	ddf	yes	ehliyetsizlik	inclusive
+n	qas	no	tumturaklı konuşma	inclusive
+n	cds	no	line-shooter	conservative
+n	qas	no	hödük	conservative
+n	cds	no	lağım döşemi	inclusive
+n	dmc	yes	hırsız	conservative
+n	an	no	crocodylia	inclusive
+n	pr	no	gangsterin kız arkadaşı	inclusive
+n	cds	no	tiksindirici	conservative
+n	is	yes	yoksulluk	inclusive
+n	cds	no	çöp	inclusive
+n	ps	yes	derbeder	inclusive
+a	dmc	yes	kirli	inclusive
+n	re	no	şantaj	conservative
+n	rci	yes	churl	conservative
+n	re	no	Şantaj yapmak	conservative
+n	svp	no	kanal kazıcı	inclusive
+n	cds	no	ayaktakımı	conservative
+n	ddp	yes	unwiseness	inclusive
+n	cds	no	sıcak kompres	conservative
+n	an	no	mikroorganizmalar	inclusive
+n	re	no	cosa nostra	inclusive
+n	cds	no	elebaşı	inclusive
+n	asm	no	ithyphallic	inclusive
+n	cds	no	hırsız	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	an	no	hıyarağası	conservative
+n	an	no	aptal	conservative
+n	cds	no	yalancı	conservative
+n	pr	no	sıçanlar	inclusive
+n	re	no	capturer	inclusive
+n	pr	no	inek	inclusive
+a	pa	yes	siyasi	inclusive
+n	an	no	ödlek	conservative
+n	qas	no	kiracı çiftlik	inclusive
+n	svp	no	boşuna oluş	conservative
+n	an	no	barbarlık	inclusive
+n	asf	no	pislik	conservative
+n	om	no	crossdress	inclusive
+n	an	no	timsahgiller	inclusive
+n	qas	no	tabiun	inclusive
+n	cds	no	vergi kaçakçısı	conservative
+n	svp	no	iştahlı kimse	conservative
+n	ddf	yes	sakat	inclusive
+n	om	no	anterior	inclusive
+n	an	no	hemipteran	inclusive
+n	ps	yes	romanlar	inclusive
+n	cds	no	haydutluk	inclusive
+n	dmc	yes	hobos	conservative
+n	svp	no	irade yitimi	inclusive
+n	cds	no	eziyetçi	conservative
+n	svp	no	tutku	inclusive
+n	is	yes	pinti	conservative
+n	cds	no	bağnazlık	conservative
+a	ps	yes	Çin	inclusive
+n	pr	no	cüruf	conservative
+n	cds	no	mother fucker	conservative
+n	cds	no	bilinmez	conservative
+n	cds	no	tilki	conservative
+n	an	no	hayvancıkları	inclusive
+n	asm	no	ahmak	conservative
+n	cds	no	millet	conservative
+n	an	no	öfke	inclusive
+n	om	no	posteriyör	inclusive
+n	an	no	hemipteron	inclusive
+n	cds	no	okumuş kadın	inclusive
+n	ps	yes	alman	conservative
+n	or	no	cuke	inclusive
+n	om	no	sodomist	inclusive
+n	ddp	yes	twirp	conservative
+n	re	no	bebek	inclusive
+n	cds	no	scammer	conservative
+n	asf	no	kurban	conservative
+n	cds	no	kumarhane	inclusive
+n	qas	no	saf olmayan madde	inclusive
+n	an	no	tabansız	conservative
+n	or	no	sativus	inclusive
+n	asm	no	betise	conservative
+n	asm	no	fallus	inclusive
+n	cds	no	ayaktakımı-rouser	conservative
+n	cds	no	sokak çeteleri	conservative
+n	asf	no	hıyarağası	conservative
+n	qas	no	aşırmak	conservative
+n	cds	no	ceza	conservative
+n	an	no	boğa	inclusive
+n	cds	no	işkenceci	conservative
+n	cds	no	inatçı	conservative
+n	cds	no	demogoji	conservative
+n	cds	no	bas bleu	inclusive
+n	svp	no	dallier	conservative
+n	an	no	teke	inclusive
+n	pa	yes	talip	inclusive
+n	ps	yes	zulus	inclusive
+n	cds	no	İrticai	conservative
+v	an	no	öfke	conservative
+n	re	no	alçak	conservative
+n	ps	yes	moğollar	inclusive
+n	qas	no	hutch	inclusive
+n	om	no	dorsal	inclusive
+n	re	no	teror	conservative
+n	pr	no	paçoz	conservative
+n	cds	no	halinden memnunluk	inclusive
+n	ps	yes	siyahiler	inclusive
+n	cds	no	jigolo	inclusive
+v	cds	no	gebermek	inclusive
+n	svp	no	bağnazlık	conservative
+n	pa	yes	profesörlük	inclusive
+n	ps	yes	serseri	inclusive
+n	cds	no	şeytanlık	conservative
+n	dmc	yes	haydut	conservative
+n	qas	no	er bezi	inclusive
+n	an	no	shoat	inclusive
+a	is	yes	züğürt	inclusive
+n	ps	yes	negroids	inclusive
+n	re	no	seks suçu	inclusive
+n	is	yes	kötü	conservative
+n	om	no	homoerotizm	inclusive
+n	ddp	yes	dedikoducu	conservative
+n	asf	no	kedi	conservative
+n	an	no	kene	inclusive
+n	cds	no	yaramazlık yapma	conservative
+n	an	no	makiyan	inclusive
+n	cds	no	fabrikatör	conservative
+n	an	no	ixodida	inclusive
+n	dmc	yes	yalan	inclusive
+n	an	no	eurypterid	inclusive
+n	an	no	amansız	conservative
+n	dmc	yes	pasaklı	conservative
+n	asm	no	prepüs	inclusive
+a	svp	no	kurumlu	conservative
+n	qas	no	kastçılık	inclusive
+n	cds	no	mafya	inclusive
+n	asm	no	balık	inclusive
+n	cds	no	toplum kurallarına uyan kimse	conservative
+n	asm	no	sertleşme	inclusive
+n	an	no	metazoan'da	inclusive
+n	cds	no	yağcı	conservative
+n	ps	yes	dimwit	conservative
+n	an	no	merkep	inclusive
+n	svp	no	iffetsiz	inclusive
+n	svp	no	öfke	inclusive
+n	cds	no	pandar	inclusive
+n	or	no	titizlik	inclusive
+n	cds	no	hödük	conservative
+n	an	no	moo-inek	inclusive
+n	pr	no	aşifte	conservative
+n	or	no	gerzek	conservative
+a	svp	no	şehvetli	conservative
+n	re	no	yasa kıran	inclusive
+n	svp	no	duygusuzluk	inclusive
+n	asf	no	gerzek	conservative
+n	pr	no	seks işçisi	conservative
+n	dmc	yes	suçlu	conservative
+n	cds	no	jerk-off	conservative
+n	om	no	eş cinsellik	inclusive
+n	svp	no	İğrenme	inclusive
+n	cds	no	hiperseksüalite	conservative
+n	svp	no	luxuria	inclusive
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	qas	no	yayma	inclusive
+n	ddp	yes	aksi kimse	conservative
+n	asf	no	kafasız	conservative
+n	an	no	eşekmerkep	inclusive
+n	an	no	blattodea	inclusive
+n	asm	no	kahverengilik	inclusive
+n	re	no	iftira	inclusive
+n	qas	no	patronu	inclusive
+n	cds	no	kamarillada	inclusive
+n	svp	no	gazap	inclusive
+n	an	no	tahtakurusu	inclusive
+n	or	no	brassica oleracea	inclusive
+n	re	no	italyan mafyası	inclusive
+n	cds	no	snooper	conservative
+n	cds	no	zekilik	inclusive
+n	svp	no	beyhude	conservative
+n	pr	no	fahişeler	conservative
+n	qas	no	karmakarışık şey	inclusive
+n	dmc	yes	çapkın	conservative
+n	qas	no	burjuva	inclusive
+n	ddp	yes	esir	inclusive
+n	an	no	mollusca	inclusive
+n	cds	no	pompousness	conservative
+n	qas	no	tüccar	inclusive
+n	qas	no	parazit	inclusive
+n	qas	no	fitneci	conservative
+n	ps	yes	faşist	inclusive
+n	ps	yes	musevîlik	inclusive
+n	cds	no	türedi	inclusive
+n	cds	no	bağnaz	conservative
+n	svp	no	tatsız	inclusive
+n	an	no	escargots	inclusive
+n	cds	no	çapkınlık	conservative
+n	svp	no	arzu	inclusive
+n	ddp	yes	mankafa	conservative
+n	an	no	mâkiyân	inclusive
+n	cds	no	akraba	inclusive
+n	asf	no	changeling	conservative
+n	re	no	soyguncu	conservative
+n	ddp	yes	eğitimsiz kişi	conservative
+n	cds	no	splashiness	inclusive
+n	om	no	vücut eksenleri	inclusive
+n	ddp	yes	fauna	inclusive
+n	qas	no	baş belası	conservative
+n	pa	yes	cenazeci	inclusive
+n	an	no	pislik	conservative
+a	svp	no	agresif	inclusive
+n	an	no	kan emici	inclusive
+n	cds	no	ciğeri beş para etmez tip	conservative
+n	an	no	aureus	inclusive
+n	ps	yes	yahudiler	inclusive
+n	cds	no	bellyacher	conservative
+n	cds	no	komplo teorisi	inclusive
+n	dmc	yes	kaba	conservative
+n	asm	no	bülük	inclusive
+n	cds	no	delikanlı	inclusive
+n	pr	no	orospuluk	inclusive
+n	dmc	yes	palyanço	inclusive
+n	ddp	yes	dimwit	conservative
+n	cds	no	köktendincilik	inclusive
+n	ddp	yes	barbarca	conservative
+n	qas	no	yardımcıları	inclusive
+n	an	no	sivri sinek	inclusive
+n	om	no	çocuk tacizcisi	conservative
+n	asm	no	kahve rengi	inclusive
+n	an	no	rentboy	conservative
+n	ps	yes	bulgaristanlı	inclusive
+n	an	no	bitli	inclusive
+n	an	no	hyaeninae	inclusive
+n	an	no	keçimsiler	inclusive
+n	an	no	köpekbalıkları	inclusive
+n	an	no	cimicidae	inclusive
+n	pr	no	zina eden kadın	conservative
+n	cds	no	kabile	inclusive
+n	dmc	yes	sahte	conservative
+n	re	no	suçlular	inclusive
+n	asf	no	çiğnemek	conservative
+n	an	no	rezil	conservative
+n	om	no	distal	inclusive
+n	dmc	yes	dillydallier	conservative
+n	dmc	yes	libertin	conservative
+n	pa	yes	katip	inclusive
+n	asm	no	avifauna	inclusive
+n	dmc	yes	soytarı	inclusive
+n	om	no	eşcinsellik	inclusive
+n	asm	no	sik	inclusive
+n	pr	no	kaltak	conservative
+n	an	no	hayvan	inclusive
+n	an	no	bufo	inclusive
+n	pr	no	inekler	inclusive
+n	qas	no	hatip	inclusive
+n	asf	no	aptal	conservative
+n	re	no	şiddetli acı	inclusive
+n	pr	no	ticari seks	conservative
+n	asm	no	mastürbasyon	conservative
+n	ddp	yes	twaddler	conservative
+n	svp	no	şehvet	inclusive
+n	dmc	yes	çeteci	inclusive
+v	cds	no	vefat etmek	inclusive
+n	qas	no	tabiin	inclusive
+n	cds	no	gardiyan	inclusive
+n	pr	no	cinsel hizmet	conservative
+n	ps	yes	zenci	conservative
+n	qas	no	common people	inclusive
+n	ps	yes	barbarca	conservative
+n	qas	no	pariş	inclusive
+n	qas	no	churl	conservative
+n	pa	yes	avukat	inclusive
+n	cds	no	uşaklarının	conservative
+n	an	no	orospu	conservative
+n	qas	no	karışımı	inclusive
+n	ddp	yes	barbarlık	inclusive
+n	cds	no	gizli danışmanlar grubu	inclusive
+n	dmc	yes	yasadışı	inclusive
+n	is	yes	toplum dışına itilmiş	inclusive
+n	cds	no	bencillik	conservative
+n	pa	yes	academicism	inclusive
+n	re	no	cani	inclusive
+n	cds	no	stealer	inclusive
+n	re	no	scammer	inclusive
+n	cds	no	grev	inclusive
+n	dmc	yes	parya	inclusive
+n	an	no	riffraff	conservative
+n	cds	no	fanatiklik	conservative
+n	dmc	yes	haydut	inclusive
+n	ddp	yes	zeka geriliği	inclusive
+n	asm	no	geniş fasulyeyi	inclusive
+n	an	no	sivrisinek	inclusive
+n	an	no	kakalak	inclusive
+n	asm	no	siktir	conservative
+n	pa	yes	akademizme	inclusive
+n	om	no	foeniculum vulgare	inclusive
+n	qas	no	barbar	conservative
+n	pa	yes	özel elçisi	inclusive
+v	an	no	havlamak	inclusive
+n	pr	no	geme	inclusive
+n	cds	no	zilotlar	inclusive
+n	re	no	raper	conservative
+n	pa	yes	sayman	inclusive
+n	pr	no	hetaera	inclusive
+n	rci	yes	barbarca	conservative
+a	cds	no	faşist	inclusive
+n	cds	no	grunge	inclusive
+n	cds	no	prankishness	inclusive
+n	cds	no	bücür	conservative
+n	ps	yes	hibrid	inclusive
+n	ps	yes	ahmak	conservative
+n	an	no	pediculus corporis	inclusive
+n	cds	no	evladım	inclusive
+n	om	no	çapraz şifoniyer	inclusive
+n	ddp	yes	ahmak	conservative
+n	is	yes	dilenci	inclusive
+n	dmc	yes	evsiz	inclusive
+n	pr	no	whoredom	conservative
+n	asm	no	salak	inclusive
+n	cds	no	kriminalize	inclusive
+n	asm	no	kafasız	conservative
+n	an	no	alçak	conservative
+n	cds	no	meraklısı	inclusive
+n	cds	no	aşiretler	inclusive
+n	an	no	terketmek	conservative
+n	dmc	yes	cani	inclusive
+n	cds	no	masalcı	conservative
+a	ps	yes	kara	inclusive
+n	an	no	eğitimsiz kişi	conservative
+n	cds	no	çalma	inclusive
+n	cds	no	finagler	conservative
+n	an	no	insan yiyici	inclusive
+n	cds	no	blackballing	inclusive
+n	an	no	tiksindirici	conservative
+n	qas	no	mahalle	inclusive
+n	cds	no	gossiper	conservative
+n	re	no	iftiracı	conservative
+n	asm	no	yumurtacık	inclusive
+n	an	no	salyangozu	inclusive
+n	cds	no	öğretmenler	inclusive
+n	an	no	civciv	inclusive
+n	cds	no	yumuşak dokunuş	conservative
+n	is	yes	serseri	inclusive
+n	ps	yes	ıslahçı	inclusive
+n	qas	no	autoinfection	inclusive
+n	pr	no	şırfıntı	conservative
+n	dmc	yes	etik güdü	inclusive
+n	an	no	folderol	conservative
+n	svp	no	invidia	inclusive
+n	svp	no	tembellik	inclusive
+n	dmc	yes	filanca	conservative
+n	an	no	solucan	inclusive
+n	an	no	fulvus	inclusive
+n	dmc	yes	sahtelik	inclusive
+n	ps	yes	söküp	conservative
+n	re	no	soyguncu	inclusive
+n	cds	no	acemice boyanmış resim	inclusive
+n	asm	no	pipi	conservative
+n	an	no	avrupa kurbağası	inclusive
+n	dmc	yes	kötülüklerini	inclusive
+a	svp	no	sinirli	inclusive
+n	dmc	yes	barbar	conservative
+n	or	no	titizliği	inclusive
+n	asm	no	embesil	inclusive
+n	ps	yes	afrika kökenli	inclusive
+n	pa	yes	savunucuları	inclusive
+n	re	no	tecavüz	conservative
+n	cds	no	mystifier	conservative
+a	ddf	yes	tek göz	inclusive
+n	an	no	equus asinus	inclusive
+n	qas	no	boyacı	inclusive
+n	cds	no	Öğretmenlikler	inclusive
+n	re	no	terörist	conservative
+n	cds	no	yiğidi	inclusive
+n	an	no	papağan	inclusive
+n	re	no	yıldırıcılık	inclusive
+n	cds	no	genel tuvaletler	inclusive
+n	cds	no	aracı	inclusive
+n	an	no	eurypterids	inclusive
+n	ddp	yes	kretinizm	inclusive
+a	ddp	yes	salak	conservative
+n	ddp	yes	nanocephaly	inclusive
+n	om	no	transvestitism	inclusive
+n	cds	no	dogmatizm	conservative
+n	ddp	yes	şarlatan	conservative
+n	or	no	ibne	conservative
+n	cds	no	cosa nostra	conservative
+n	asm	no	doofus	conservative
+a	ddp	yes	deli	inclusive
+n	an	no	o-keçi	inclusive
+n	cds	no	yasadışı	inclusive
+n	qas	no	terkedilmiş gemi	inclusive
+n	cds	no	topları-up	inclusive
+n	asm	no	kuş	inclusive
+n	ddp	yes	geri kalmışlık	inclusive
+n	cds	no	slackers	conservative
+n	pr	no	Öküz	inclusive
+n	cds	no	eğitimci	inclusive
+n	qas	no	freiherr	inclusive
+n	cds	no	kötü	conservative
+n	om	no	ipsilateral	inclusive
+n	cds	no	kurnazlık	inclusive
+n	cds	no	homunculus	inclusive
+n	svp	no	ilgisiz	inclusive
+n	pa	yes	akademik	inclusive
+n	cds	no	gangsterlik	inclusive
+n	qas	no	ektoparazit	inclusive
+n	re	no	suçlu	conservative
+a	cds	no	kurnaz	inclusive
+n	dmc	yes	scammer	conservative
+n	cds	no	korkaklık	inclusive
+n	an	no	kurt	inclusive
+n	an	no	pipistrellus	inclusive
+n	re	no	öldürmekten	inclusive
+n	an	no	öküz	inclusive
+n	or	no	rezene	inclusive
+n	cds	no	zamane	conservative
+n	an	no	küfretmek	conservative
+a	ddf	yes	kusurlu	inclusive
+n	re	no	yağma	inclusive
+n	qas	no	pazar kaleci	inclusive
+n	cds	no	komplo teorisyeni	inclusive
+n	cds	no	hacıağa	inclusive
+n	cds	no	piyonlar	inclusive
+n	om	no	eşekmerkep	inclusive
+n	cds	no	yerden bitme	inclusive
+n	cds	no	gizli meslek birliği	inclusive
+n	dmc	yes	ceza	inclusive
+n	dmc	yes	suçlu	inclusive
+n	an	no	vipera	inclusive
+n	cds	no	bitki biyoteknolojisi	inclusive
+n	ddf	yes	nanus	conservative
+n	qas	no	riffraff	conservative
+n	om	no	derriere	inclusive
+n	cds	no	çöp	conservative
+n	dmc	yes	düzenbaz	conservative
+n	pr	no	palavra	conservative
+n	qas	no	ideologu	inclusive
+n	an	no	miskin	conservative
+n	an	no	alaycı yüz	inclusive
+n	ddp	yes	changelings	inclusive
+a	ddp	yes	akılsız	conservative
+n	cds	no	yükleri	inclusive
+v	asm	no	seks yapmak	conservative
+a	ddp	yes	aptalca	conservative
+n	re	no	soyguncular	inclusive
+n	an	no	kukumav	inclusive
+n	an	no	mosquitoe	inclusive
+n	re	no	terörizm	inclusive
+n	cds	no	jokester	inclusive
+n	cds	no	masonlar	inclusive
+n	an	no	engerek	inclusive
+n	om	no	pederastic	inclusive
+n	an	no	carcharodon	inclusive
+n	pr	no	keme	inclusive
+n	svp	no	önemsiz	conservative
+n	an	no	dil sürçmesi	inclusive
+n	an	no	insecta	inclusive
+n	an	no	vurguncu	conservative
+a	svp	no	mağrur	conservative
+n	re	no	ahz ü sirkat	inclusive
+n	ddp	yes	muttonhead	conservative
+n	an	no	bocek	inclusive
+n	dmc	yes	ahmak	conservative
+n	an	no	phthiraptera	inclusive
+n	cds	no	tefeciler	conservative
+n	ddp	yes	yaratık	inclusive
+n	an	no	cüce	conservative
+n	ps	yes	bitki biyoteknolojisi	inclusive
+n	an	no	kuzu	conservative
+n	an	no	crocodilidae	inclusive
+n	qas	no	pot kıran kimse	conservative
+n	asm	no	yumurta	inclusive
+n	an	no	şıllık	conservative
+n	qas	no	gaf	inclusive
+n	cds	no	git	conservative
+n	asm	no	kapalı sürme	conservative
+n	ps	yes	mestizo	conservative
+n	cds	no	vergi kaçakçısı	inclusive
+n	om	no	anteriyör	inclusive
+n	cds	no	pedagog	inclusive
+n	cds	no	Şarlatanlık	conservative
+n	ps	yes	beyaz	inclusive
+n	is	yes	tatterdemalion	conservative
+n	cds	no	hibrid	inclusive
+n	ddp	yes	mental retarde	inclusive
+n	dmc	yes	ciğeri beş para etmez tip	inclusive
+n	cds	no	el işi	conservative
+n	cds	no	kredi sharking	inclusive
+n	dmc	yes	zavallı	conservative
+n	an	no	nanus	conservative
+n	pa	yes	bakanı	inclusive
+n	re	no	zorla	inclusive
+n	an	no	epifauna	inclusive
+n	svp	no	pridefulness	inclusive
+n	cds	no	akıl kumkuması	conservative
+n	re	no	tutan kimse	inclusive
+n	dmc	yes	dönek	conservative
+n	an	no	poulet	inclusive
+n	an	no	direy	inclusive
+n	ddp	yes	dumbass	conservative
+n	an	no	pillager	inclusive
+n	dmc	yes	chawbacon	conservative
+n	ddp	yes	Şarlatanlık	conservative
+n	svp	no	gourmandizer	conservative
+n	re	no	kaçırmaya	inclusive
+n	ps	yes	jerry	conservative
+n	an	no	haşarat	inclusive
+n	qas	no	ortak kişi	inclusive
+n	ddp	yes	changeling	conservative
+n	qas	no	rahip yardımcısı	inclusive
+n	re	no	zimmete geçirme	inclusive
+n	dmc	yes	ahlaki	inclusive
+n	cds	no	vagon yol	inclusive
+n	qas	no	farmhand	inclusive
+n	cds	no	kütle	inclusive
+n	om	no	homoeroticism	inclusive
+n	an	no	İnek	inclusive
+n	asm	no	wanker	conservative
+n	qas	no	teste	inclusive
+n	ddp	yes	pot kıran kimse	conservative
+n	dmc	yes	ahlak	inclusive
+n	cds	no	intermediator	inclusive
+n	or	no	sıcak kompres	conservative
+n	qas	no	reddetmek	conservative
+n	pa	yes	kamu muhasebe	inclusive
+n	om	no	homofil	conservative
+n	dmc	yes	bağnazlık	conservative
+n	cds	no	tricker	conservative
+n	cds	no	casino	inclusive
+n	qas	no	karışım	inclusive
+n	cds	no	bağımlısı	conservative
+n	pr	no	sosyetesinin	inclusive
+n	pa	yes	kişisel sandalyeye	inclusive
+n	cds	no	karalayıvermek	inclusive
+n	an	no	adam düşmek	conservative
+n	cds	no	papparazzi	inclusive
+n	cds	no	sokak çetesi	conservative
+n	cds	no	çete	conservative
+n	pa	yes	karşılık gelen üyesi	inclusive
+n	cds	no	şaka	inclusive
+n	ps	yes	metic	inclusive
+n	cds	no	piç	conservative
+n	svp	no	7 ölümcül günah	inclusive
+n	pr	no	saray	inclusive
+n	ddp	yes	doofus	conservative
+n	cds	no	aile hattı	inclusive
+n	pa	yes	ayakkabıcı	inclusive
+n	pr	no	bos taurus	inclusive
+n	re	no	rezil	conservative
+n	qas	no	Çöp	inclusive
+n	an	no	salak	conservative
+n	an	no	ahmak	conservative
+n	cds	no	tedarik	inclusive
+n	om	no	dame	inclusive
+n	cds	no	tefecilik	conservative
+n	re	no	seks istismarı	inclusive
+n	svp	no	Öfke	inclusive
+n	an	no	anurans	inclusive
+n	re	no	cinayet	inclusive
+n	re	no	birinci derece cinayetten	inclusive
+n	cds	no	mafia	inclusive
+n	re	no	çalıntı mallar	inclusive
+n	cds	no	kredi sharking	conservative
+n	ddf	yes	kambur	inclusive
+n	cds	no	chawbacon	conservative
+n	om	no	lady	inclusive
+n	svp	no	minginess	conservative
+n	or	no	hıyarağası	conservative
+n	svp	no	kıskançlık	inclusive
+n	cds	no	sahte	conservative
+n	cds	no	oybirliği	inclusive
+a	qas	no	sıradan	inclusive
+n	an	no	inek	inclusive
+n	cds	no	hırpani kişi	conservative
+n	re	no	gasp	inclusive
+n	ddp	yes	saçmalığı	conservative
+n	cds	no	seyirci	conservative
+n	re	no	ndrangheta	inclusive
+n	ddp	yes	kafasız	conservative
+n	om	no	apikal	inclusive
+n	an	no	hiçbir şey bilmiyorum	conservative
+n	svp	no	slackers	conservative
+n	an	no	tatarcık	inclusive
+n	dmc	yes	gangster	inclusive
+v	qas	no	makyaj yapmak	inclusive
+n	qas	no	karışık şey	inclusive
+n	cds	no	sallar	inclusive
+n	an	no	fahişe	conservative
+n	an	no	siphonaptera	inclusive
+n	cds	no	züppe	inclusive
+n	an	no	hoax	conservative
+n	svp	no	niggardness	conservative
+n	om	no	karşı cinse özenme	inclusive
+n	re	no	yanlış	inclusive
+n	qas	no	tumturaklılık	inclusive
+n	ddp	yes	hayvan	inclusive
+n	cds	no	narsist	inclusive
+n	is	yes	-yok	inclusive
+n	re	no	raptio	inclusive
+n	dmc	yes	itoğluit	inclusive
+n	qas	no	karışmak-cendereye	inclusive
+n	om	no	çapraz elbise	inclusive
+n	dmc	yes	derbeder	inclusive
+n	cds	no	kaytarıcı	conservative
+n	asm	no	faul	inclusive
+n	cds	no	hapishane gardiyanı	inclusive
+n	cds	no	eğitmen	inclusive
+n	cds	no	demagojik	conservative
+n	dmc	yes	malodor	conservative
+n	om	no	livata	inclusive
+n	ps	yes	moğol	inclusive
+n	cds	no	çeteci	inclusive
+n	svp	no	cimri	inclusive
+n	cds	no	narsizm	inclusive
+n	ps	yes	latino	inclusive
+n	dmc	yes	slackers	conservative
+n	an	no	kayman	inclusive
+n	an	no	crocodylian	inclusive
+n	pr	no	şıllık	conservative
+n	cds	no	demagoji	conservative
+n	asf	no	vulva	conservative
+n	re	no	mafia	inclusive
+n	asm	no	Çük	inclusive
+n	ps	yes	musevi geleneği	inclusive
+n	an	no	anserinae	inclusive
+n	svp	no	açgözlülük	inclusive
+n	cds	no	churl	conservative
+n	re	no	irza geçme	conservative
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	pa	yes	barbarca	conservative
+n	cds	no	tabansız	conservative
+n	cds	no	yenidoğanlarda	inclusive
+n	cds	no	dasnik	conservative
+n	cds	no	kitap kurdu	conservative
+n	asm	no	kuşlar	inclusive
+n	re	no	cinsel saldırı	inclusive
+n	dmc	yes	harcama-tüm	inclusive
+n	cds	no	mecnun	inclusive
+n	asm	no	kuş	conservative
+n	asm	no	geniş fasulye	inclusive
+n	qas	no	dükkâncı	inclusive
+n	an	no	filanca	conservative
+n	cds	no	köktenci	inclusive
+n	cds	no	düzenbaz	conservative
+n	an	no	caimans	inclusive
+n	ps	yes	bön	conservative
+n	cds	no	putperest	inclusive
+n	ps	yes	ruiner	conservative
+n	dmc	yes	gaf-off	conservative
+n	re	no	terör	conservative
+n	om	no	erkek cinselliğinin sigara batılılaşmış kavramları	inclusive
+n	qas	no	asılsız haber	inclusive
+n	qas	no	endo	inclusive
+n	an	no	iniltilerini	inclusive
+n	ps	yes	melezlerden	conservative
+n	asf	no	doofus	conservative
+n	ddp	yes	betise	conservative
+n	om	no	hanımefendi	inclusive
+n	cds	no	şakacı	inclusive
+n	or	no	amcık	conservative
+n	dmc	yes	dallier	conservative
+n	pr	no	büyükbaş	inclusive
+n	cds	no	fascista	inclusive
+n	cds	no	scammer	inclusive
+n	ddp	yes	ayaktakımı	conservative
+n	svp	no	angriness	inclusive
+n	cds	no	akrabalar	inclusive
+a	svp	no	saldırgan	conservative
+n	an	no	düzenbaz	conservative
+n	cds	no	aynasız	conservative
+n	dmc	yes	tembel	conservative
+n	an	no	equus mulus	inclusive
+n	ps	yes	nigger	conservative
+n	ddp	yes	zooerasty	conservative
+n	cds	no	changeling	inclusive
+n	cds	no	hypersexual	conservative
+n	an	no	eşek	inclusive
+n	dmc	yes	hödük	conservative
+n	asm	no	fava	inclusive
+n	re	no	haylaz	inclusive
+n	cds	no	kinfolk	inclusive
+n	pr	no	sığır	inclusive
+n	qas	no	karmakarışık topluluk	inclusive
+n	cds	no	jalopy	inclusive
+n	ddp	yes	mahkum	inclusive
+n	qas	no	tarla işçisi	inclusive
+n	cds	no	zıpçıktı	inclusive
+n	cds	no	itlaf	conservative
+n	svp	no	Ölümcül günah	inclusive
+a	ddp	yes	ahmaklar	conservative
+n	qas	no	balast	inclusive
+n	an	no	bizonu	inclusive
+n	an	no	bizon	inclusive
+n	an	no	anguilliformes	inclusive
+n	an	no	krokodil	inclusive
+n	or	no	squash asma	inclusive
+n	cds	no	arabulucu	inclusive
+n	pr	no	fuhuş	inclusive
+n	cds	no	ineklemek	conservative
+n	an	no	domuzcuk	inclusive
+n	an	no	deniz akrep	inclusive
+n	qas	no	ideolog	inclusive
+n	cds	no	kılıksız kimse	conservative
+n	an	no	vampir	conservative
+n	cds	no	pandar	conservative
+n	cds	no	jailor	inclusive
+n	qas	no	barok	inclusive
+n	ddp	yes	bilgisizlik	conservative
+n	asm	no	salak	conservative
+n	svp	no	abuli	inclusive
+n	cds	no	hacmi	inclusive
+n	cds	no	complainer	conservative
+n	om	no	keister	inclusive
+n	qas	no	kargaşalık	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	ddp	yes	bön	conservative
+n	an	no	biti	inclusive
+n	cds	no	aşiret	inclusive
+v	re	no	çalmak	inclusive
+n	dmc	yes	iki yüzlü	conservative
+n	cds	no	spor evi	inclusive
+n	cds	no	zümre	inclusive
+n	pr	no	aşüfte	conservative
+n	cds	no	put	inclusive
+n	om	no	yanar	inclusive
+n	qas	no	amatörce	conservative
+n	cds	no	klik	inclusive
+a	pa	yes	politik	inclusive
+n	qas	no	hurda	inclusive
+n	ddp	yes	hödük	conservative
+n	cds	no	fanatik	conservative
+n	an	no	gallus gallus domesticus	inclusive
+n	ps	yes	yahudi	inclusive
+n	pr	no	fuhuş	conservative
+n	re	no	yeğinlik	inclusive
+n	asm	no	yumuşak dokunuş	conservative
+n	om	no	lateral	inclusive
+n	dmc	yes	zavallı	inclusive
+n	re	no	thieving	inclusive
+n	qas	no	barbarca	conservative
+n	or	no	poove	conservative
+n	dmc	yes	İkiyüzlü	conservative
+n	om	no	posteriora	inclusive
+n	is	yes	parya	inclusive
+n	qas	no	grandiyozite	inclusive
+n	pr	no	moo-inek	inclusive
+n	re	no	stealer	inclusive
+n	dmc	yes	suç	inclusive
+n	cds	no	söylenti	inclusive
+n	an	no	karabiberli kelebek	inclusive
+n	or	no	solanum tuberosum	inclusive
+n	re	no	çalma	inclusive
+n	or	no	foeniculum vulgare	inclusive
+n	ddp	yes	ahlaksızlık	conservative
+n	re	no	düzenbaz	conservative
+n	cds	no	go-between	inclusive
+n	qas	no	parasitize	inclusive
+n	pr	no	sokak kızı	conservative
+n	re	no	calunnia	inclusive
+n	re	no	dolandırıcı	inclusive
+n	svp	no	iştahlı kimse	inclusive
+n	cds	no	çıkmaz sokak	inclusive
+n	an	no	diddley	conservative
+n	cds	no	haydut	conservative
+n	cds	no	clann	inclusive
+n	pr	no	fahişeler	inclusive
+n	cds	no	kendini beğenmiş	conservative
+n	asm	no	vidalama	conservative
+n	or	no	muttonhead	conservative
+n	cds	no	bagaj tren	inclusive
+n	ddf	yes	engelli	inclusive
+n	cds	no	toprak	inclusive
+n	cds	no	gençlik çeteleri	inclusive
+n	om	no	gey	conservative
+n	cds	no	acayip	inclusive
+n	cds	no	rumourmonger	conservative
+n	cds	no	amour propre	conservative
+n	qas	no	dedektif	inclusive
+n	or	no	am	conservative
+n	dmc	yes	anlayışı kıt kimse	conservative
+n	cds	no	aşırı sağ kanat oyuncusu	conservative
+n	cds	no	wisenheimer	conservative
+n	om	no	kontralateral	inclusive
+a	ddp	yes	aptal	conservative
+n	qas	no	baron	inclusive
+n	cds	no	splashiness	conservative
+n	asm	no	penis	inclusive
+n	an	no	salientian	inclusive
+v	asm	no	sikişmek	conservative
+n	ddp	yes	direy	inclusive
+n	an	no	kuçu kuçu	inclusive
+n	pr	no	cariye	inclusive
+n	re	no	taciz	inclusive
+n	cds	no	millet	inclusive
+n	cds	no	truckler	conservative
+n	re	no	soydular	inclusive
+n	svp	no	tembel	conservative
+n	cds	no	tefecilik	inclusive
+n	svp	no	obur	inclusive
+n	an	no	codswallop	conservative
+n	om	no	soylu kadın	inclusive
+n	qas	no	fesatçı	conservative
+n	om	no	çörekler	inclusive
+n	cds	no	mırıldanmak	inclusive
+n	asf	no	yumuşak dokunuş	conservative
+v	cds	no	can vermek	inclusive
+n	cds	no	dweeb	conservative
+n	qas	no	testis	inclusive
+n	an	no	geyik	conservative
+n	cds	no	problem	conservative
+n	cds	no	korkaklık	conservative
+n	re	no	hırsızlar	inclusive
+n	asm	no	alan fasulyesi	inclusive
+n	asm	no	sik	conservative
+n	pr	no	john	conservative
+n	dmc	yes	mürted	conservative
+n	ddf	yes	engelliler	inclusive
+n	cds	no	loansharking	conservative
+n	svp	no	hiddet	inclusive
+n	cds	no	bilimcilik	inclusive
+n	om	no	travesti	inclusive
+n	dmc	yes	numaracı	conservative
+n	qas	no	halktan	inclusive
+n	ps	yes	hödük	conservative
+n	cds	no	Çöp	conservative
+n	or	no	mankafa	conservative
+n	asm	no	çiğnemek	conservative
+n	pr	no	sosyetik	inclusive
+n	cds	no	omerta	inclusive
+n	pa	yes	hamal	inclusive
+n	or	no	kabak	inclusive
+n	svp	no	küstahlık	conservative
+n	om	no	anal penetrasyon	inclusive
+n	ddp	yes	boşboğaz	conservative
+n	dmc	yes	aldatma	conservative
+n	qas	no	fieldhand	inclusive
+n	qas	no	haya	inclusive
+n	qas	no	retorik	inclusive
+n	cds	no	bürokratım	inclusive
+n	dmc	yes	kabalık	conservative
+n	an	no	hiçbir değer vermediklerini gördüm	conservative
+n	re	no	traducement	inclusive
+n	cds	no	meraklı	conservative
+n	an	no	gece yırtıcı kuşları	inclusive
+n	pr	no	fahişe	conservative
+n	asf	no	zamparalık etmek	conservative
+n	pr	no	rentboy	conservative
+n	ddp	yes	ahmaklık	inclusive
+n	pa	yes	akademi	inclusive
+n	an	no	eski dünya buffalo	inclusive
+n	an	no	sığırlar	inclusive
+n	re	no	katil	inclusive
+n	is	yes	dilenci	conservative
+v	cds	no	ölmek	inclusive
+n	cds	no	imansız	conservative
+n	om	no	tooshie	inclusive
+n	cds	no	changelings	inclusive
+n	or	no	kafa	inclusive
+n	cds	no	kabilesi	inclusive
+n	or	no	lezbiyen	conservative
+a	ps	yes	yahudı	inclusive
+n	re	no	kaçırma	inclusive
+n	pr	no	sığırlar	inclusive
+n	qas	no	kulübe	inclusive
+n	ddp	yes	cehalet	conservative
+n	an	no	salyangoz	inclusive
+n	cds	no	italyan mafyası	conservative
+n	cds	no	mafya	conservative
+a	asm	no	kahverengi	inclusive
+n	ddp	yes	churl	conservative
+n	cds	no	eşkıyalar	inclusive
+n	re	no	cinayetin	inclusive
+n	dmc	yes	ıskarta	conservative
+n	re	no	plagiarisation	inclusive
+n	cds	no	bumbler	conservative
+n	svp	no	üzmek	conservative
+n	cds	no	backtalk	inclusive
+n	cds	no	gizli meslek işbirliği	inclusive
+n	ps	yes	changelings	conservative
+n	om	no	posterior	inclusive
+n	cds	no	yüksek ellilik	conservative
+n	om	no	transvestizm	inclusive
+n	cds	no	blackballed	inclusive
+n	pa	yes	bilimsel	inclusive
+n	asf	no	am	conservative
+n	cds	no	öğretmen	inclusive
+n	asm	no	jeerer	conservative
+n	qas	no	çöp	inclusive
+n	pr	no	güve	inclusive
+n	an	no	aşüfte	conservative
+v	asm	no	becermek	conservative
+n	re	no	mafya	inclusive
+n	pr	no	norveç faresi	inclusive
+n	an	no	badi	inclusive
+n	an	no	hayvancık	inclusive
+n	asm	no	horoz	inclusive
+n	an	no	irticacı	conservative
+n	cds	no	kargaşa	conservative
+n	svp	no	şehvetli	inclusive
+n	om	no	eşcinsel	inclusive
+n	pa	yes	kapıcı	inclusive
+n	re	no	ırz düşmanı	conservative
+n	asm	no	twirp	conservative
+n	cds	no	hilekârlık	inclusive
+n	om	no	plantar	inclusive
+n	re	no	İstismar	inclusive
+n	om	no	eşcinsel	conservative
+n	cds	no	dil sürçmesi	inclusive
+a	ddf	yes	çirkin	conservative
+n	svp	no	yüksek ellilik	conservative
+n	cds	no	topsy-turvydom	inclusive
+n	cds	no	klan	inclusive
+n	ddp	yes	muhbir	conservative
+n	cds	no	pezevenklik	inclusive
+n	qas	no	işadamı	inclusive
+n	dmc	yes	avare	conservative
+n	cds	no	ceza	inclusive
+n	qas	no	belagat	inclusive
+n	an	no	baykuş	inclusive
+n	pa	yes	cizvit	inclusive
+a	ddf	yes	kötü	inclusive
+n	pa	yes	hukuk müşaviri	inclusive
+n	asf	no	döl yolu	conservative
+n	dmc	yes	samimiyetsizlik	conservative
+n	cds	no	zavallı	conservative
+n	asf	no	afet	conservative
+n	re	no	rustler	inclusive
+n	an	no	athene noctua	inclusive
+n	dmc	yes	serseri	conservative
+n	re	no	katiller	inclusive
+n	cds	no	cut-up	conservative
+n	asf	no	fıstık	conservative
+n	re	no	suçlu	inclusive
+n	or	no	balkabagi	inclusive
+n	om	no	güzel ama yapmacıklı	conservative
+n	cds	no	dindarlık	inclusive
+a	ps	yes	siyah	inclusive
+n	an	no	animal	inclusive
+n	cds	no	dostum	inclusive
+n	an	no	zayıf kimse	conservative
+n	dmc	yes	fetor	conservative
+n	om	no	crossdresser	inclusive
+n	cds	no	sarraflık	inclusive
+n	an	no	shote	inclusive
+n	an	no	yumuşak dokunuş	conservative
+n	svp	no	hasis	conservative
+n	cds	no	becerememek	inclusive
+n	an	no	betise	conservative
+n	om	no	twink	conservative
+n	dmc	yes	kötü	conservative
+n	qas	no	ıvır zıvır	inclusive
+n	cds	no	ndrangheta	inclusive
+n	dmc	yes	bağnaz	conservative
+n	qas	no	baroqueness	inclusive
+n	or	no	lahana	inclusive
+n	svp	no	hırs	inclusive
+n	dmc	yes	iyi-için-naught	conservative
+n	dmc	yes	şakacı	inclusive
+n	dmc	yes	üzmek	conservative
+n	cds	no	eşkiya	inclusive
+n	re	no	ceza	inclusive
+n	qas	no	ayaktakımı	inclusive
+n	ddf	yes	yarı-pint	conservative
+n	cds	no	avam	conservative
+n	cds	no	ayrıcalıklı danışman grubu	inclusive
+n	cds	no	strikebreaker	inclusive
+n	cds	no	vefasızlık	inclusive
+n	re	no	kriminalize	inclusive
+n	an	no	pip-gıcırtı	conservative
+a	ddp	yes	sersem	conservative
+n	pa	yes	dava vekili	inclusive
+v	cds	no	atıştırmak	inclusive
+n	pr	no	şirret	conservative
+n	asf	no	dumbass	conservative
+n	om	no	anal sex	inclusive
+n	cds	no	mastürbasyon	conservative
+n	cds	no	villainess	conservative
+n	ps	yes	yumuşak dokunuş	conservative
+n	an	no	sümüklüböcek	inclusive
+a	ps	yes	çinli	inclusive
+n	ps	yes	krauthead	conservative
+n	cds	no	oyunbaz	conservative
+n	cds	no	sürçülisan	inclusive
+n	qas	no	troubler	conservative
+n	rci	yes	barbar	conservative
+n	ddp	yes	folderol	conservative
+n	cds	no	öz-ibadet	inclusive
+n	qas	no	konformist	conservative
+n	dmc	yes	malodour	conservative
+n	cds	no	karmakarışıklık	inclusive
+n	cds	no	ahmak	inclusive
+n	qas	no	zari'	inclusive
+n	qas	no	burgher kişi	inclusive
+n	re	no	yıldırıcı	inclusive
+n	qas	no	granger	inclusive
+n	cds	no	satılmış	inclusive
+n	ddp	yes	changelings	conservative
+n	qas	no	tacir	inclusive
+n	ps	yes	beduin	inclusive
+n	ps	yes	churl	conservative
+n	an	no	cüce	inclusive
+n	svp	no	cimri	conservative
+n	ps	yes	changeling	conservative
+n	ddp	yes	şarlatanlık	conservative
+n	om	no	göt	inclusive
+n	asf	no	vajen	conservative
+n	om	no	bayan	inclusive
+n	qas	no	beleşçi	conservative
+n	an	no	görünmez tehlike	conservative
+n	qas	no	iş lideri	inclusive
+n	cds	no	emanetler	inclusive
+n	an	no	köpekler	inclusive
+n	ps	yes	bulgar	inclusive
+n	dmc	yes	serseri	inclusive
+a	pa	yes	siyasal	inclusive
+n	asf	no	vagina	conservative
+n	ddp	yes	hiçbir şey bilmiyorum	conservative
+n	cds	no	korkak	conservative
+n	cds	no	kavat	inclusive
+n	cds	no	simsar	inclusive
+n	ps	yes	çiğnemek	conservative
+n	an	no	mikroskopik canlılar	inclusive
+n	cds	no	korkaklığı	conservative
+n	svp	no	öfke	conservative
+n	pr	no	noctiluca	inclusive
+n	an	no	dücace	inclusive
+n	svp	no	bıkkınlık	inclusive
+n	ddp	yes	microcephalic	inclusive
+n	svp	no	fiziksel cazibe	inclusive
+n	svp	no	tanha	inclusive
+n	cds	no	serseri	conservative
+n	or	no	homofil	conservative
+n	re	no	ağır eleştiri	inclusive
+a	dmc	yes	alçak	conservative
+n	pa	yes	Öğretim elemanı	inclusive
+n	qas	no	kiracı çiftçilik	inclusive
+n	an	no	mikroorganizma	inclusive
+n	cds	no	cezaevi görevlisi	inclusive
+n	an	no	mankafa	conservative
+n	dmc	yes	haylaz	inclusive
+n	re	no	Şantajcı	conservative
+n	ddf	yes	hareket engeli	inclusive
+n	asf	no	piliç	conservative
+n	an	no	doodly-squat	conservative
+n	svp	no	tamahkâr	conservative
+n	cds	no	paparazzi	inclusive
+n	cds	no	miskin	conservative
+n	cds	no	gobs	inclusive
+n	or	no	murphy	inclusive
+n	re	no	işkence	inclusive
+n	an	no	sığır	inclusive
+v	asm	no	yatmış olmak	conservative
+n	an	no	infauna	inclusive
+n	pr	no	boğa	inclusive
+n	ddf	yes	devre dışı bırakmak	inclusive
+n	cds	no	beceriksiz	conservative
+n	ddp	yes	işletmek	conservative
+n	cds	no	haylaz	conservative
+n	cds	no	gayri meşru	inclusive
+n	or	no	spud	inclusive
+n	or	no	aptal	conservative
+n	om	no	götveren	inclusive
+n	asf	no	vajina	conservative
+n	qas	no	amatör	conservative
+n	an	no	grossness	conservative
+n	ddp	yes	mother fucker	conservative
+n	cds	no	narcism	inclusive
+n	an	no	noctiluca	inclusive
+n	ps	yes	romanis	inclusive
+n	an	no	mikroskobik canlılar	inclusive
+n	re	no	traducer	conservative
+n	re	no	şantajcı	inclusive
+n	qas	no	sanayici	inclusive
+n	cds	no	aynasız	inclusive
+n	an	no	yosun kazı	inclusive
+n	cds	no	günahkâr	conservative
+n	an	no	aldatmaca	conservative
+n	asf	no	codswallop	conservative
+n	asm	no	pipi	inclusive
+n	an	no	sokak kızı	conservative
+n	qas	no	karmakarışıklık	inclusive
+n	om	no	homofil	inclusive
+n	an	no	mikro-organizma	inclusive
+n	qas	no	hitabet	inclusive
+n	qas	no	uyum	inclusive
+n	qas	no	itlaf	conservative
+n	cds	no	yasadışı	conservative
+n	cds	no	piç	inclusive
+n	an	no	kadın kovalayan	conservative
+n	om	no	mediyan	inclusive
+n	svp	no	azamet	conservative
+n	cds	no	çöpçatan	inclusive
+n	or	no	götveren	conservative
+v	asm	no	düzmek	conservative
+n	or	no	finocchio	inclusive
+n	cds	no	tuvalet	inclusive
+n	pa	yes	hödük	conservative
+n	re	no	kötü	conservative
+n	cds	no	rüşvet alma	inclusive
+n	qas	no	uygunluk	inclusive
+n	dmc	yes	alçak	conservative
+n	ps	yes	musevilik	inclusive
+n	cds	no	gangsterlik	conservative
+n	an	no	hirudinean	inclusive
+n	ps	yes	nigga	conservative
+n	pr	no	comare	conservative
+n	cds	no	işgüzar kimse	conservative
+n	ddp	yes	kurban	conservative
+n	cds	no	hırsızlık	inclusive
+n	asm	no	haya	inclusive
+n	om	no	çapraz gelinler	inclusive
+n	ps	yes	sarı kart	inclusive
+n	cds	no	bragger	conservative
+n	an	no	git	conservative
+n	ddf	yes	kötürüm	inclusive
+n	ddp	yes	sahte	conservative
+n	cds	no	pot kıran kimse	conservative
+n	pr	no	orospu	conservative
+n	ps	yes	bedeviler	inclusive
+n	ddp	yes	adam düşmek	conservative
+n	om	no	arka uç	inclusive
+n	svp	no	acedia	inclusive
+n	cds	no	genelev	inclusive
+n	an	no	wuss	conservative
+n	is	yes	fakir	inclusive
+n	re	no	minimum seks suçluluk	inclusive
+n	cds	no	itoğluit	conservative
+n	svp	no	bağnaz	conservative
+n	pr	no	pezevenk	conservative
+n	cds	no	idiolatry	inclusive
+n	cds	no	seks düşkünlüğü	conservative
+n	cds	no	sonradan görme	inclusive
+n	cds	no	nerd	conservative
+n	cds	no	ödlek	conservative
+n	ddp	yes	şerefsiz	conservative
+n	ps	yes	rroma	inclusive
+n	asm	no	alet	conservative
+n	dmc	yes	git	inclusive
+n	rci	yes	hödük	conservative
+n	svp	no	servet tutkusu	inclusive
+n	asf	no	embesil	conservative
+n	om	no	popo	inclusive
+n	asm	no	changelings	inclusive
+n	cds	no	entrikacı	inclusive
+n	an	no	ahlaksızlık	conservative
+n	cds	no	gaoler	inclusive
+n	asm	no	pisum sativum	inclusive
+n	cds	no	azamet	conservative
+n	an	no	inekler	inclusive
+n	re	no	mafya	conservative
+n	cds	no	sessizlik komplosu	inclusive
+n	an	no	kurtçuk	inclusive
+n	an	no	keçi	inclusive
+a	qas	no	orta sınıf	inclusive
+n	qas	no	asalaklık	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	cds	no	kalabalık	inclusive
+n	dmc	yes	villainess	conservative
+n	an	no	kılıksız kimse	conservative
+n	an	no	büyükbaş	inclusive
+n	cds	no	ıvır zıvır	inclusive
+n	an	no	tavşan	inclusive
+n	cds	no	ayıplamak	conservative
+n	dmc	yes	kafasız	conservative
+n	qas	no	çiftçiler	inclusive
+n	an	no	ixodoidea	inclusive
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	dmc	yes	soyguncu	conservative
+n	ddf	yes	engel	inclusive
+n	dmc	yes	barbarca	conservative
+n	cds	no	gençlik çeteleri	conservative
+n	an	no	pasaklı	conservative
+n	cds	no	polis	conservative
+n	an	no	keçiler	inclusive
+n	cds	no	reddetmek	conservative
+n	om	no	livâta	inclusive
+n	ps	yes	metics	inclusive
+n	an	no	villainess	conservative
+n	dmc	yes	fabrikatör	conservative
+n	an	no	etek kovalayan	conservative
+a	dmc	yes	sahte	conservative
+n	cds	no	salak	conservative
+n	or	no	queer	conservative
+n	cds	no	oda yıkama	inclusive
+n	an	no	Öküz	inclusive
+n	re	no	tecavüzcüler	conservative
+n	ps	yes	darkey	conservative
+n	cds	no	yazar bozuntusu	conservative
+n	asm	no	aptal	conservative
+n	ddp	yes	bumbler	conservative
+n	cds	no	paparazi	inclusive
+n	asm	no	adam düşmek	conservative
+n	cds	no	yüksek rahip	inclusive
+n	cds	no	pek çok	inclusive
+n	an	no	epifaunal	inclusive
+n	cds	no	soy sop	inclusive
+n	an	no	timsah	inclusive
+n	asm	no	masturbasyon yapmak	conservative
+a	om	no	farklı	inclusive
+n	om	no	crossdressing	inclusive
+n	cds	no	köhne	inclusive
+n	cds	no	farmason	inclusive
+n	cds	no	azgın	conservative
+n	asm	no	geciktirmek	inclusive
+n	cds	no	faşist	conservative
+n	re	no	öldürme	inclusive
+n	cds	no	ölçüm japon birimleri	inclusive
+n	cds	no	kavat	conservative
+n	ddp	yes	analphabet	inclusive
+n	cds	no	oğlum	inclusive
+n	cds	no	anlayışı kıt kimse	conservative
+n	asf	no	lunkhead	conservative
+n	cds	no	şımarıklık	inclusive
+n	cds	no	lağım donanımı	inclusive
+n	cds	no	güzel ama yapmacıklı	conservative
+n	om	no	vertikal	inclusive
+n	qas	no	bloopers	inclusive
+n	cds	no	alçak	conservative
+n	cds	no	blooper	inclusive
+n	cds	no	dümbük	inclusive
+n	ddp	yes	mikrosefali	inclusive
+n	cds	no	acemi	conservative
+n	asm	no	ereksiyon	inclusive
+n	dmc	yes	sözde	conservative
+n	an	no	hamamböceği	inclusive
+n	cds	no	kumicho	inclusive
+n	cds	no	ahlakçılık	inclusive
+n	pa	yes	bilim adamları	inclusive
+n	cds	no	muhafazakâr	conservative
+n	cds	no	wonk	conservative
+n	cds	no	pezevenkler	conservative
+n	om	no	ibne	conservative
+n	re	no	gangsterler	inclusive
+n	dmc	yes	vergi kaçakçısı	conservative
+n	an	no	bison	inclusive
+n	re	no	aşırma	inclusive
+n	cds	no	paparaziler	inclusive
+n	cds	no	barbarca	conservative
+n	qas	no	beceriksizlik	inclusive
+n	dmc	yes	ahlaken iflas etmiş	inclusive
+n	cds	no	eloğlu	inclusive
+n	cds	no	gaf	inclusive
+a	ddp	yes	ahmak	conservative
+n	cds	no	hilebaz	inclusive
+n	cds	no	ulak	inclusive
+n	ps	yes	kraut	conservative
+n	cds	no	broker	inclusive
+n	cds	no	adam düşmek	conservative
+n	cds	no	autolatry	inclusive
+n	qas	no	kodaman	inclusive
+n	an	no	güve	inclusive
+n	cds	no	hurda	inclusive
+n	cds	no	marşandiz	inclusive
+a	ddf	yes	gözsüz	inclusive
+n	an	no	anserini	inclusive
+n	cds	no	know-it-all	conservative
+n	svp	no	boş gezenin boş kalfası	conservative
+n	ps	yes	embesil	conservative
+n	pr	no	fahişe	inclusive
+n	an	no	haydut	conservative
+n	dmc	yes	kaytarıcı	conservative
+n	ddp	yes	moronity	inclusive
+n	asf	no	folderol	conservative
+n	cds	no	çokluk	inclusive
+n	cds	no	şakacı	conservative
+n	ps	yes	aptal	conservative
+n	qas	no	necrotrophic	inclusive
+n	asm	no	husye	inclusive
+n	dmc	yes	itoğluit	conservative
+a	cds	no	aldatıcı	conservative
+n	cds	no	yüzeysellik	inclusive
+n	dmc	yes	önemsiz	conservative
+n	an	no	kafkas öküzü	inclusive
+n	or	no	beyinsiz	conservative
+n	ps	yes	vandallar	inclusive
+n	pa	yes	yardımcı doçent	inclusive
+n	dmc	yes	kokmak	conservative
+n	ddp	yes	salak	inclusive
+a	svp	no	huysuz	conservative
+n	cds	no	ağlayıp sızlanan kimse	conservative
+n	ps	yes	bedevi	inclusive
+n	an	no	balon swallower	inclusive
+n	cds	no	Öğretmen	inclusive
+n	cds	no	trasformismo	inclusive
+n	cds	no	sahtelik	inclusive
+n	is	yes	villainess	conservative
+n	pa	yes	hamallık	inclusive
+n	an	no	itoğluit	conservative
+n	cds	no	akrabayı talukat	inclusive
+n	asm	no	budala	conservative
+n	qas	no	dalış ağırlıklandırma sistemi	inclusive
+n	cds	no	italyan mafyası	inclusive
+n	cds	no	wanker	conservative
+n	om	no	proksimal	inclusive
+n	cds	no	cevap vermek	inclusive
+n	an	no	pudge	conservative
+n	dmc	yes	mürai	conservative
+n	ddp	yes	beceriksiz	conservative
+n	an	no	sivrisinekler	inclusive
+n	an	no	yağmacı	inclusive
+n	an	no	nanny-goat	inclusive
+n	cds	no	dini toplantı	inclusive
+n	ddp	yes	epifauna	inclusive
+n	re	no	haydut	inclusive
+n	cds	no	tefeci	conservative
+n	pa	yes	bakan-danışman	inclusive
+n	cds	no	grup	inclusive
+a	ps	yes	zenci	inclusive
+n	svp	no	sıkıcı	inclusive
+n	an	no	vamper	conservative
+n	asm	no	büllük	inclusive
+n	an	no	sırtlan	inclusive
+n	cds	no	moneygrubber	inclusive
+n	an	no	orthogastropoda	inclusive
+n	re	no	çeteci	inclusive
+n	cds	no	suçlu	conservative
+n	an	no	anguilla	inclusive
+n	dmc	yes	sefillik	inclusive
+n	dmc	yes	git	conservative
+n	pr	no	hogwash	conservative
+n	dmc	yes	mirasyedi	inclusive
+n	ps	yes	adam düşmek	conservative
+a	cds	no	korkak	conservative
+n	re	no	iftiralarına	inclusive
+n	cds	no	konformist	conservative
+n	dmc	yes	homunculi	inclusive
+n	an	no	havlamak	inclusive
+n	cds	no	çete	inclusive
+n	cds	no	cockup	inclusive
+n	an	no	en küçük yabankazı	inclusive
+n	dmc	yes	ahlâk	inclusive
+n	cds	no	dedikoducu	conservative
+n	asm	no	ingilizce fasulye	inclusive
+n	an	no	haşere	inclusive
+n	pa	yes	barbar	conservative
+n	an	no	diddly-bok	conservative
+n	cds	no	kaos	inclusive
+n	qas	no	orta sınıfın	inclusive
+n	ps	yes	kırmızı kart	inclusive
+n	qas	no	amatör	inclusive
+n	re	no	yasadışı	inclusive
+n	om	no	aynı cinsiyetten	inclusive
+n	an	no	inexorableness	conservative
+n	re	no	suçlanabilir yalnızca suçtur	inclusive
+n	cds	no	fanatizm	conservative
+n	qas	no	başağrısı	conservative
+n	cds	no	fanatizmin	conservative
+n	an	no	gece yırtıcıları	inclusive
+n	cds	no	barbarlar	conservative
+n	cds	no	sofuluk	inclusive
+n	qas	no	orta sınıf	inclusive
+n	om	no	oğlancı	inclusive
+a	an	no	inatçı	inclusive
+n	ddp	yes	beyin hasarı	inclusive
+n	qas	no	iş kişi	inclusive
+n	cds	no	bebek	inclusive
+n	cds	no	şarkıcı	inclusive
+n	cds	no	ucuz romanlarda	inclusive
+n	re	no	kaçırır	inclusive
+n	cds	no	komplo teorileri	inclusive
+n	cds	no	hafiye	conservative
+n	om	no	sus	inclusive
+n	cds	no	ton	inclusive
+n	qas	no	baronies	inclusive
+n	pr	no	öküz	inclusive
+n	cds	no	komplo teorisyenleri	inclusive
+n	asf	no	vajinal	conservative
+n	re	no	korsanlar	inclusive
+n	cds	no	astik	conservative
+n	cds	no	çeteler	inclusive
+n	cds	no	conceitedness	conservative
+n	qas	no	ev işi	inclusive
+n	pr	no	orta malı	conservative
+n	dmc	yes	lingerer	conservative
+n	qas	no	şaşırtmak	inclusive
+n	ps	yes	rommany	inclusive
+n	cds	no	wuss	conservative
+n	pa	yes	onbaşı	inclusive
+n	cds	no	yarı-pint	conservative
+n	an	no	moue	inclusive
+n	an	no	kurbağalar	inclusive
+n	cds	no	hürmason	inclusive
+n	ddf	yes	özürlü	inclusive
+n	an	no	megascops	inclusive
+n	pa	yes	bellboy	inclusive
+n	om	no	dorsolateral	inclusive
+n	cds	no	dasnik	inclusive
+n	ddp	yes	beyinsiz	conservative
+n	an	no	koyun	inclusive
+n	ps	yes	zulular	inclusive
+n	an	no	yosma	conservative
+n	cds	no	superbia	inclusive
+n	ddf	yes	cüce	conservative
+n	cds	no	gangster	inclusive
+n	asm	no	dimwit	conservative
+n	cds	no	gündelikçi	inclusive
+n	qas	no	toplum kurallarına uyan kimse	conservative
+a	is	yes	mutsuz	inclusive
+n	om	no	puşt	conservative
+n	or	no	eşcinsel	conservative
+n	asm	no	pterygiophore	inclusive
+a	ps	yes	yahudi	inclusive
+a	is	yes	yoksul	inclusive
+n	cds	no	boy	inclusive
+a	svp	no	kibirli	conservative
+n	pr	no	zina yapan kadın	conservative
+n	pa	yes	profesor	inclusive
+n	pa	yes	sheepherders	inclusive
+n	dmc	yes	foetor	conservative
+n	cds	no	riffraff	conservative
+n	an	no	ayaktakımı	conservative
+n	cds	no	camorra	inclusive
+n	cds	no	seks düşkünü kadın	conservative
+n	cds	no	sorun	conservative
+a	dmc	yes	pis	inclusive
+n	ddp	yes	gossiper	conservative
+n	an	no	pire	inclusive
+n	an	no	bed bug	inclusive
+n	pa	yes	bilet ajan	inclusive
+n	or	no	helvacı kabağı	inclusive
+a	dmc	yes	dağınık	conservative
+n	cds	no	know-tüm	conservative
+n	an	no	otus asio	inclusive
+n	ps	yes	barbarlar	conservative
+n	svp	no	para hırsı	inclusive
+n	cds	no	bloopers	inclusive
+n	an	no	tek hücreli organizma	inclusive
+n	cds	no	soyguncu	conservative
+n	an	no	kanal bas	inclusive
+n	an	no	vücut kapış	inclusive
+n	pr	no	metresin	inclusive
+n	cds	no	cani	conservative
+n	cds	no	moaner	conservative
+n	cds	no	çiğnemek	conservative
+n	ddp	yes	metazoan'da	inclusive
+n	om	no	ventral	inclusive
+n	qas	no	hafiye	inclusive
+n	qas	no	hata	inclusive
+a	ddf	yes	âmâ	inclusive
+n	is	yes	zavallı	inclusive
+n	ddp	yes	embesil	inclusive
+n	re	no	cosa nostra	conservative
+n	an	no	çakal	inclusive
+n	pr	no	hırpani kadın	conservative
+n	ddp	yes	cahil	conservative
+n	qas	no	ruhani lideri	inclusive
+n	re	no	İntihal	inclusive
+n	an	no	hyaenidae	inclusive
+n	ps	yes	romani	inclusive
+n	asm	no	saman rulo	conservative
+n	cds	no	küstahlık	conservative
+n	ddp	yes	amentia	inclusive
+n	asf	no	kasık saç	inclusive
+n	ddp	yes	animalia	inclusive
+n	cds	no	boş gezenin boş kalfası	conservative
+n	dmc	yes	riyakarlık	conservative
+n	ps	yes	geciktirmek	conservative
+n	qas	no	vefasızlık	conservative
+n	or	no	bonce	inclusive
+n	cds	no	sessizliğin komplo edildi	inclusive
+n	om	no	horizontal	inclusive
+n	asf	no	civciv	conservative
+a	pa	yes	teorik	inclusive
+n	pr	no	kevaşe	conservative
+n	re	no	korsanlık	inclusive
+n	an	no	gece kuşu	inclusive
+n	an	no	beceriksiz	conservative
+n	cds	no	yaltakçı	conservative
+n	or	no	lunkhead	conservative
+n	cds	no	kendini beğenmişlik	inclusive
+a	ddf	yes	alçak	conservative
+n	pa	yes	profesör	inclusive
+n	cds	no	başrahip	inclusive
+n	ps	yes	ostrogoth	inclusive
+n	cds	no	fop	inclusive
+n	svp	no	övüngenlik	conservative
+n	pa	yes	personel	inclusive
+n	re	no	kızgınlık	inclusive
+n	cds	no	godoş	conservative
+n	cds	no	pezevenk	inclusive
+n	an	no	pipiens'in	inclusive
+n	or	no	salatalık	inclusive
+n	cds	no	puanları	inclusive
+n	svp	no	özlem	inclusive
+n	an	no	sülükler	inclusive
+n	re	no	soygun	inclusive
+n	an	no	floozie	conservative
+n	asm	no	kurban	conservative
+n	asm	no	credulousness	conservative
+n	svp	no	sıkıntı	inclusive
+n	qas	no	orta gelirli	inclusive
+n	cds	no	faşistler	conservative
+n	asm	no	testis	inclusive
+n	qas	no	esnaf	inclusive
+n	cds	no	hacim	inclusive
+n	ps	yes	zenciler	inclusive
+n	or	no	safdil	conservative
+n	an	no	böcekler	inclusive
+n	re	no	hırsızlık	inclusive
+n	pr	no	sevgili	inclusive
+n	pa	yes	kapı görevlisi	inclusive
+n	svp	no	ravenousness	conservative
+n	om	no	anal seks	inclusive
+n	cds	no	cüsse	inclusive
+n	an	no	ciğeri beş para etmez tip	conservative
+n	cds	no	kitleler	conservative
+n	qas	no	ev idaresi	inclusive
+n	cds	no	gazeteci	inclusive
+n	ddp	yes	lunkhead	conservative
+n	cds	no	pezevenkler	inclusive
+n	om	no	ibne	inclusive
+n	cds	no	suç	inclusive
+n	is	yes	fakirlik	inclusive
+n	asm	no	nookymi	conservative
+a	svp	no	ters	conservative
+n	cds	no	tembel	conservative
+n	cds	no	safdil	conservative
+n	pr	no	gangsterin moll	inclusive
+n	ps	yes	negro	inclusive
+n	ps	yes	mestizaje	conservative
+n	cds	no	dolandırıcı	conservative
+n	dmc	yes	pseud	conservative
+n	cds	no	kriminalize	conservative
+n	om	no	bayanlar	inclusive
+n	cds	no	yalan	conservative
+n	pr	no	buncombe	conservative
+n	ddp	yes	changeling	inclusive
+n	cds	no	gidi	conservative
+n	om	no	eşek	inclusive
+n	ps	yes	Çingeneler	inclusive
+n	om	no	gey	inclusive
+a	cds	no	kurnaz	conservative
+n	cds	no	hırsızlar	inclusive
+n	an	no	avrasya griffon	inclusive
+n	re	no	gaddarlık	inclusive
+n	om	no	vücut bölgeleri	inclusive
+n	an	no	safdil	conservative
+n	cds	no	nosy-parker	conservative
+n	qas	no	ballock	inclusive
+n	ps	yes	bulgarlar	inclusive
+n	asm	no	saflık	conservative
+a	is	yes	fukara	inclusive
+n	asf	no	betise	conservative
+n	an	no	akbaba	inclusive
+n	cds	no	alçaklık	conservative
+n	ps	yes	israilli	inclusive
+n	cds	no	hata	inclusive
+n	ddp	yes	saçmalık	inclusive
+n	an	no	çapulcu	conservative
+n	cds	no	wheeler bayi	conservative
+n	ps	yes	hispanik	inclusive
+n	or	no	bal kabağı	inclusive
+n	ddp	yes	cahil	inclusive
+n	cds	no	çılgın	inclusive
+n	qas	no	kilise cemaatinden	inclusive
+n	cds	no	çokbilmiş	conservative
+n	cds	no	karmakarışık topluluk	inclusive
+n	re	no	ganimet	inclusive
+n	dmc	yes	serserilik	inclusive
+n	om	no	poove	conservative
+v	asm	no	sevişmek	conservative
+n	or	no	brassica rapa	inclusive
+n	cds	no	kir	inclusive
+n	dmc	yes	ciğeri beş para etmez tip	conservative
+n	qas	no	çiftçi	inclusive
+n	asf	no	changelings	conservative
+n	svp	no	can sıkıntısı	inclusive
+n	qas	no	köylü	inclusive
+n	cds	no	sarraflık	conservative
+n	cds	no	savunma	inclusive
+n	ddp	yes	saçma	inclusive
+n	dmc	yes	yarı-pint	conservative
+n	om	no	Üranizm	inclusive
+n	asm	no	teste	inclusive
+n	svp	no	tightfistedness	conservative
+n	an	no	brant goose	inclusive
+n	cds	no	asosyal	conservative
+n	cds	no	nouveau-riche	inclusive
+n	pr	no	john	inclusive
+n	dmc	yes	churl	conservative
+n	om	no	ventrolateral	inclusive
+n	cds	no	züppe	conservative
+n	pa	yes	porter	inclusive
+n	pa	yes	tellal	inclusive
+n	cds	no	aptal	conservative
+n	re	no	plagiarizing	inclusive
+n	an	no	caiman	inclusive
+n	re	no	kurumsal suistimalleri	inclusive
+n	qas	no	zoka	inclusive
+n	cds	no	moral	inclusive
+n	cds	no	homunculi	inclusive
+n	re	no	neonaticide	inclusive
+n	cds	no	scrawler	conservative
+n	an	no	iskorpit	inclusive
+n	ps	yes	İsrail dini	inclusive
+n	cds	no	Çöp	inclusive
+n	dmc	yes	barbarlar	conservative
+n	qas	no	sahtelik	conservative
+n	dmc	yes	bücür	conservative
+n	cds	no	kendini beğenmişlik	conservative
+n	an	no	yaban domuzu	inclusive
+n	cds	no	conventicles	inclusive
+n	an	no	zooerastia	conservative
+n	asm	no	kuyruk parçası	conservative
+n	cds	no	loansharking	inclusive
+n	re	no	cinsel suçları	inclusive
+n	qas	no	barbarlar	conservative
+n	svp	no	ihtiras	inclusive
+n	re	no	hırpalama	inclusive
+n	an	no	hayvanlar	inclusive
+n	re	no	ayartan kimse	conservative
+n	ddp	yes	avanak	conservative
+n	cds	no	masonik	inclusive
+n	an	no	bakuşlar	inclusive
+n	asm	no	taşak	inclusive
+n	om	no	çapraz giyinme	inclusive
+n	svp	no	amour propre	conservative
+n	qas	no	çiftlik işçisi	inclusive
+n	pa	yes	muhasebeciler	inclusive
+n	an	no	zooerasty	conservative
+n	qas	no	ağırlık kemeri	inclusive
+n	cds	no	rezil	conservative
+n	pa	yes	diplomatik rütbe	inclusive
+n	pa	yes	akademisyenler	inclusive
+n	asm	no	maxilliped	inclusive

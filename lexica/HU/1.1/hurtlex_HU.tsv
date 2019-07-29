@@ -1,0 +1,2647 @@
+pos	category	stereotype	lemma	level
+n	ddp	yes	barbár	conservative
+n	ddp	yes	tanulatlan ember	conservative
+n	re	no	zsaroló	inclusive
+n	ddp	yes	kurafi	conservative
+n	an	no	animalculum	inclusive
+n	cds	no	hírharang	conservative
+n	cds	no	culchie	inclusive
+n	asm	no	fütyülő	inclusive
+n	an	no	gyáva	conservative
+a	is	yes	szegény	inclusive
+n	ddp	yes	szélhámos	conservative
+n	cds	no	újságíró	inclusive
+n	ps	yes	fajankó	conservative
+n	ddp	yes	makrofauna	inclusive
+n	or	no	bárgyú	conservative
+a	svp	no	dölyfös	conservative
+n	svp	no	conceitedness	conservative
+n	om	no	peroneális	inclusive
+n	asm	no	fallikus	inclusive
+n	cds	no	a nagy mosdatlan	inclusive
+n	ps	yes	judaizmus	inclusive
+n	dmc	yes	hamisítás	inclusive
+n	or	no	ostoba	conservative
+n	cds	no	maradék	inclusive
+n	an	no	tehén	conservative
+n	svp	no	csavargó	conservative
+n	cds	no	pedagógus	inclusive
+n	om	no	homosexualism	inclusive
+n	an	no	toportyánféreg	inclusive
+n	qas	no	mágnás	inclusive
+a	re	no	erőszakos	inclusive
+n	pr	no	tehén	inclusive
+n	cds	no	harccal	inclusive
+n	an	no	culex pipiens	inclusive
+n	asf	no	balek	conservative
+n	asm	no	bunkó	inclusive
+n	or	no	pityóka	inclusive
+n	dmc	yes	megalázottság	inclusive
+n	cds	no	hazudós	conservative
+n	an	no	fehércápa	inclusive
+n	an	no	állatvilág	inclusive
+n	cds	no	ez és ez	conservative
+n	cds	no	nyáj	inclusive
+n	asm	no	farok	conservative
+n	ddp	yes	semmit sem	conservative
+n	ps	yes	romák	inclusive
+n	re	no	rablás	inclusive
+n	re	no	másodfokú gyilkossággal	inclusive
+n	cds	no	bűntény	inclusive
+n	svp	no	bigott	conservative
+n	dmc	yes	svindler	conservative
+n	svp	no	düh	conservative
+n	svp	no	féltékenység	inclusive
+n	cds	no	scammer	conservative
+n	om	no	midclavicular vonal	inclusive
+n	pa	yes	professzora extraordinarius	inclusive
+n	cds	no	betyár	conservative
+n	qas	no	konformizmus	inclusive
+n	cds	no	japán mértékegységeket	inclusive
+n	asm	no	fallosz	inclusive
+n	an	no	fauna	inclusive
+n	re	no	rabló	conservative
+n	an	no	kecske-antilop	inclusive
+n	cds	no	ördögfióka	conservative
+n	an	no	kukacok	inclusive
+a	ddp	yes	hiszékeny	conservative
+n	om	no	mediánsík	inclusive
+n	cds	no	papír-toló	inclusive
+n	ddp	yes	illetéktelen személy	conservative
+n	is	yes	csirkefogó	conservative
+n	re	no	korrupció	inclusive
+n	om	no	gazember	inclusive
+n	ddf	yes	fogyatékos	inclusive
+n	cds	no	elcsen	conservative
+n	asm	no	tökfilkó	conservative
+n	ddp	yes	lény	inclusive
+n	asm	no	seggfej	conservative
+n	cds	no	kurafi	conservative
+n	cds	no	schoolma'am	conservative
+n	svp	no	niggardliness	conservative
+n	or	no	tökfej	conservative
+n	qas	no	flub	inclusive
+n	svp	no	avariciousness	inclusive
+n	an	no	düh	inclusive
+n	pa	yes	advocator	inclusive
+v	qas	no	kifest	inclusive
+n	ddp	yes	állatvilág	inclusive
+n	cds	no	szerelemgyerek	inclusive
+n	dmc	yes	scattergood	inclusive
+n	qas	no	szolga	inclusive
+n	qas	no	elegyet	inclusive
+n	an	no	söpredék táska	conservative
+n	pr	no	hetaira	inclusive
+n	cds	no	sár	conservative
+n	an	no	culicidae	inclusive
+n	svp	no	idegenkedés	inclusive
+n	om	no	proximo-distalis	inclusive
+n	asf	no	késleltet	conservative
+n	cds	no	junk mail	inclusive
+n	cds	no	vakbuzgóság	conservative
+n	asf	no	idióta	conservative
+n	re	no	plágium	inclusive
+n	cds	no	pletykafészek	conservative
+n	qas	no	amatőr	inclusive
+v	asm	no	szerelmeskedik	conservative
+n	ddp	yes	paraszt	conservative
+n	an	no	wisent	inclusive
+n	asf	no	saphead	conservative
+a	cds	no	ravasz	inclusive
+n	ps	yes	kínai	inclusive
+n	an	no	diddlyshit	conservative
+n	svp	no	apatikus	inclusive
+n	svp	no	erkölcstelen	inclusive
+n	an	no	bos taurus	inclusive
+n	cds	no	japán mértékegységrendszer	inclusive
+n	an	no	tetű	inclusive
+n	an	no	kutya	inclusive
+n	pr	no	moly	inclusive
+n	pr	no	kurva	inclusive
+n	om	no	azonos nemű	inclusive
+n	svp	no	superbia	conservative
+n	cds	no	klán	inclusive
+n	re	no	gyermekgyilkosság	inclusive
+n	dmc	yes	kontár	conservative
+n	an	no	lehallgatás	inclusive
+n	cds	no	lazább	conservative
+n	om	no	antero-posterior	inclusive
+n	om	no	nance	conservative
+n	ddp	yes	tökfilkó	conservative
+n	ps	yes	szerecsen	inclusive
+n	cds	no	hiperszexualitás	conservative
+n	or	no	furcsa	conservative
+n	cds	no	arrogancia	inclusive
+n	an	no	illetéktelen személy	conservative
+n	cds	no	weisenheimer	conservative
+n	cds	no	növényi biotechnológia	inclusive
+n	cds	no	fiatalkorú	conservative
+n	asm	no	madarak	inclusive
+n	re	no	bántalmazás	inclusive
+n	qas	no	gazda	inclusive
+n	ddp	yes	balek	conservative
+n	cds	no	bűnözés	inclusive
+n	ps	yes	doofus	conservative
+n	cds	no	pillock	conservative
+n	ddp	yes	fumbler	conservative
+n	cds	no	írói napszámos	conservative
+n	an	no	anguillidae	inclusive
+n	ddp	yes	analfabétizmus	inclusive
+n	cds	no	árulkodó	conservative
+n	svp	no	hasimádó	inclusive
+n	cds	no	törzs	inclusive
+n	svp	no	zsugori	conservative
+n	cds	no	megvesztegethetőség	conservative
+n	an	no	mécsbogár	inclusive
+n	cds	no	presumptuousness	conservative
+n	cds	no	baba	inclusive
+n	om	no	asszonyom	inclusive
+n	ddp	yes	halandzsa	inclusive
+n	cds	no	nyomorult	inclusive
+n	cds	no	faszfej	conservative
+n	qas	no	kétbalkezes	conservative
+n	ddp	yes	rumormonger	conservative
+n	an	no	varangy	inclusive
+n	dmc	yes	homunculus	inclusive
+n	an	no	szúnyogcsípés	inclusive
+n	dmc	yes	gonoszság	inclusive
+n	qas	no	burzsoázia	inclusive
+n	cds	no	wangler	conservative
+n	cds	no	hübrisz	conservative
+n	cds	no	törzsek	inclusive
+n	dmc	yes	tolvaj	conservative
+n	pr	no	floozie	conservative
+n	re	no	betyár	inclusive
+n	pa	yes	uncouthness	conservative
+n	cds	no	banda	inclusive
+a	an	no	tetves	inclusive
+n	re	no	traducement	inclusive
+n	dmc	yes	hazug	inclusive
+n	pa	yes	kikiáltó	inclusive
+n	an	no	test zsebes	inclusive
+n	cds	no	önimádat	inclusive
+n	an	no	cápafélék	inclusive
+n	cds	no	naplopó	conservative
+n	cds	no	wank	conservative
+n	ps	yes	bolgár	inclusive
+n	dmc	yes	megalázás	inclusive
+n	re	no	rágalmazás	conservative
+n	om	no	pederasztia	inclusive
+n	cds	no	svindler	conservative
+n	an	no	crocodilia	inclusive
+n	ps	yes	váltott	conservative
+n	an	no	helix pomatia	inclusive
+n	cds	no	feje turvyness	inclusive
+n	dmc	yes	csoportos it	inclusive
+n	cds	no	tanítónő	conservative
+n	dmc	yes	bumbler	conservative
+n	cds	no	terhelések	inclusive
+n	an	no	csikasz	inclusive
+n	an	no	despoiler	inclusive
+n	cds	no	lompos ember	conservative
+n	cds	no	homunculus	inclusive
+n	ddp	yes	infauna	inclusive
+n	asf	no	bárgyú	conservative
+n	cds	no	nerdy	conservative
+n	cds	no	gyors, egy	inclusive
+n	pa	yes	ügyvédek	inclusive
+n	om	no	fibuláris	inclusive
+n	asf	no	mamlasz	conservative
+n	pa	yes	miniszter	inclusive
+n	an	no	nyerészkedő	conservative
+n	ddp	yes	állati szaporodás	inclusive
+n	cds	no	szélhámos	conservative
+n	pr	no	fúria	conservative
+n	pr	no	vadházasság	inclusive
+n	cds	no	gengszterek	inclusive
+n	re	no	dátum-repce	conservative
+a	cds	no	gyáva	conservative
+n	cds	no	slews	inclusive
+n	qas	no	szaglász	inclusive
+n	re	no	tortúra	inclusive
+n	qas	no	földműves	inclusive
+a	dmc	yes	udvariatlan	conservative
+n	qas	no	szilárd hulladék	inclusive
+n	or	no	mamlasz	conservative
+n	cds	no	superbia	conservative
+n	cds	no	poltroon	conservative
+n	re	no	vádaskodás	inclusive
+n	pr	no	szarvasmarha	inclusive
+n	svp	no	gorger	conservative
+n	svp	no	pridefulness	inclusive
+n	qas	no	barbár	conservative
+n	qas	no	raktáros	inclusive
+n	svp	no	tunyaság	conservative
+a	qas	no	őrült	conservative
+n	ps	yes	vandálok	inclusive
+n	an	no	giliszta	inclusive
+n	qas	no	casteism	inclusive
+n	cds	no	számkivetett	inclusive
+n	re	no	visszaélések	inclusive
+n	svp	no	mohóság	inclusive
+n	re	no	bűnügyi	inclusive
+n	pr	no	kurtizán	inclusive
+n	svp	no	kapros-dallier	conservative
+n	qas	no	közös személy	inclusive
+n	cds	no	sanzonénekes	inclusive
+n	om	no	hölgy	inclusive
+n	cds	no	fawner	conservative
+n	cds	no	tömeg	inclusive
+n	re	no	plagiarise	inclusive
+n	svp	no	semmirekellő	conservative
+n	re	no	gyilkos	inclusive
+n	dmc	yes	hülye-off	conservative
+n	ps	yes	metoikosz	inclusive
+n	om	no	ass	inclusive
+n	qas	no	Élősködés	inclusive
+n	re	no	bűncselekmények	inclusive
+n	om	no	shirtlifter	inclusive
+n	dmc	yes	szomorkodik	conservative
+n	om	no	bazális	inclusive
+n	cds	no	házasságközvetítő	inclusive
+n	qas	no	tanoncok	inclusive
+n	pa	yes	kiváló professzora	inclusive
+n	ddp	yes	nonszensz	conservative
+n	cds	no	flub	inclusive
+n	cds	no	propagandista	inclusive
+n	ps	yes	jigaboo	conservative
+n	an	no	testrablók	inclusive
+n	qas	no	kontár	inclusive
+a	is	yes	boldogtalan	inclusive
+n	cds	no	mesterkélt	conservative
+n	cds	no	bandák	inclusive
+n	an	no	fakókeselyű	inclusive
+n	dmc	yes	naplopó	conservative
+n	dmc	yes	gonosz	inclusive
+n	cds	no	útonálló	conservative
+n	svp	no	no-számla	conservative
+n	ddp	yes	hülyeség	inclusive
+n	cds	no	rustler	inclusive
+n	an	no	sertés	inclusive
+n	cds	no	lógós	conservative
+n	or	no	nick jr.	inclusive
+n	pa	yes	udvarlója	inclusive
+n	dmc	yes	korhely	conservative
+n	om	no	distalis	inclusive
+n	om	no	homophile	conservative
+n	an	no	öszvér	inclusive
+n	cds	no	bugris	conservative
+n	asm	no	aljas	inclusive
+n	cds	no	hitel sharking	inclusive
+n	an	no	red drum	inclusive
+n	ddp	yes	állat	inclusive
+n	cds	no	strici	inclusive
+n	om	no	melegek	conservative
+n	ddp	yes	faszfej	conservative
+n	an	no	segg	inclusive
+n	svp	no	spiritlessness	inclusive
+n	ddp	yes	gonoszság	conservative
+n	re	no	bűnözés	inclusive
+n	svp	no	overeating	inclusive
+n	an	no	kukac	inclusive
+n	cds	no	trágár házat	inclusive
+n	cds	no	nárcizmus	inclusive
+n	cds	no	maffiavezért	inclusive
+n	or	no	balek	conservative
+n	cds	no	mindentudó	conservative
+n	qas	no	ócskavas	inclusive
+n	pr	no	ostobaság	conservative
+n	pa	yes	védőrács	inclusive
+n	ps	yes	csavargó	inclusive
+n	ps	yes	bolgárok	inclusive
+n	ps	yes	keresztezési	inclusive
+n	an	no	szuka	inclusive
+n	an	no	férfi kíséret	conservative
+n	an	no	vágómarha	inclusive
+n	cds	no	bigott	conservative
+n	asf	no	fasz	conservative
+n	qas	no	bloodhound	inclusive
+n	asm	no	pénisz	inclusive
+n	an	no	moszkitó	inclusive
+n	ps	yes	kretén	conservative
+n	cds	no	kontár	conservative
+n	svp	no	avaritia	inclusive
+n	cds	no	tonna	inclusive
+n	dmc	yes	pazarló	conservative
+n	an	no	swallow	inclusive
+n	dmc	yes	megtévesztés	conservative
+n	asm	no	flouter	conservative
+n	asm	no	mogyoró	inclusive
+n	cds	no	ügyetlenség	inclusive
+n	ps	yes	rroma	inclusive
+n	cds	no	kamarilla	inclusive
+n	an	no	tetvek	inclusive
+n	re	no	terrorista	conservative
+n	an	no	csótányok	inclusive
+n	ps	yes	piros lapot	inclusive
+n	an	no	kuvik	inclusive
+n	cds	no	önteltség	conservative
+v	asm	no	baszik	conservative
+n	an	no	american buffalo	inclusive
+n	ddp	yes	tudatlanság	conservative
+a	svp	no	haragos	inclusive
+n	an	no	papagájok	inclusive
+n	cds	no	söpredék táska	conservative
+n	re	no	abúzus	inclusive
+n	re	no	emberrabló	inclusive
+n	asm	no	tökfej	conservative
+n	qas	no	ballock	inclusive
+n	cds	no	önző	conservative
+n	cds	no	néző	conservative
+n	cds	no	egoista	conservative
+n	cds	no	mussiness	conservative
+v	asm	no	megbasz	conservative
+n	re	no	rágalom	inclusive
+n	cds	no	banditizmus	inclusive
+n	an	no	prickteaser	conservative
+n	an	no	metazoans	inclusive
+n	an	no	eurypteridák	inclusive
+n	om	no	visceralis	inclusive
+n	qas	no	amateurishness	conservative
+n	pa	yes	comptroller	inclusive
+n	om	no	rostrocaudalis	inclusive
+n	qas	no	féltudós	conservative
+n	qas	no	háztartás	inclusive
+n	dmc	yes	hajléktalan	inclusive
+n	dmc	yes	bolond	inclusive
+n	dmc	yes	hobó	conservative
+n	dmc	yes	ez és ez	inclusive
+n	cds	no	szabadkőműves	inclusive
+n	an	no	szamarak	inclusive
+n	cds	no	szaglász	conservative
+n	re	no	svindler	inclusive
+n	om	no	aborális	inclusive
+n	or	no	nick jr	inclusive
+n	om	no	bal-jobb tengely	inclusive
+n	pr	no	üres fecsegés	conservative
+n	an	no	martalóc	conservative
+n	cds	no	rumormonger	conservative
+n	cds	no	crooners	inclusive
+n	an	no	nyelvbotlás	inclusive
+n	ps	yes	boche	conservative
+n	cds	no	ön-imádat	inclusive
+n	svp	no	árokásó	inclusive
+n	re	no	illegális tevékenységek	inclusive
+n	an	no	ringyó	conservative
+n	svp	no	túlevés	inclusive
+n	om	no	lateralis	inclusive
+n	an	no	kullancs	inclusive
+a	cds	no	ravasz	conservative
+n	dmc	yes	fél pint	conservative
+n	om	no	foeniculi fructus	inclusive
+n	an	no	little owl	inclusive
+a	dmc	yes	piszkos	inclusive
+n	an	no	beugratás	conservative
+n	cds	no	tömegek	inclusive
+n	an	no	familiaris	inclusive
+n	cds	no	bróker	inclusive
+n	cds	no	parvenü	inclusive
+n	cds	no	konteó	inclusive
+n	ddp	yes	árulkodó	conservative
+n	dmc	yes	semmire sem jó	conservative
+n	ps	yes	cigányok	inclusive
+n	ddp	yes	codswallop	conservative
+n	om	no	proximalis	inclusive
+n	dmc	yes	barbár	conservative
+n	ddp	yes	tökfej	conservative
+n	an	no	patsy	conservative
+n	cds	no	tételek	inclusive
+n	an	no	tökfej	conservative
+n	pa	yes	hivatalnok	inclusive
+n	cds	no	tesó	inclusive
+n	re	no	bűnözők	inclusive
+n	om	no	dorzolaterális	inclusive
+n	qas	no	tagalong	conservative
+n	cds	no	mishmash	inclusive
+n	an	no	pediculus humánus	inclusive
+n	an	no	ez és ez	conservative
+n	cds	no	szedett-vedett és bobtail	conservative
+n	cds	no	patsy	conservative
+n	asm	no	pete	inclusive
+n	cds	no	macskakaparás	inclusive
+n	asm	no	avafauna	inclusive
+n	asm	no	golyó	inclusive
+n	pr	no	call-girl	conservative
+n	pr	no	rattus	inclusive
+n	dmc	yes	szabados	conservative
+n	dmc	yes	mozzarella	inclusive
+n	pr	no	szerető	conservative
+n	an	no	caprinae	inclusive
+n	svp	no	dillydallier	conservative
+n	an	no	gyomor	inclusive
+n	pa	yes	akadémikus	inclusive
+n	qas	no	rhetor	inclusive
+n	cds	no	nyelvbotlás	inclusive
+n	pa	yes	tanácsadó-at-law	inclusive
+n	cds	no	fanatikus	conservative
+n	pa	yes	prof	inclusive
+n	asm	no	jerk-off	conservative
+n	an	no	házijuh	inclusive
+n	an	no	knucklehead	conservative
+n	cds	no	blackballed	inclusive
+n	or	no	igényesség	inclusive
+n	cds	no	összeesküvés a csend	inclusive
+n	cds	no	stricik	conservative
+n	asm	no	hard-on	inclusive
+a	ddp	yes	buta	conservative
+n	ps	yes	bunkó	conservative
+n	re	no	mafiosi	inclusive
+n	cds	no	börtön tisztviselő	inclusive
+n	pr	no	szajha	conservative
+n	an	no	ferociousness	conservative
+n	dmc	yes	mucsai	conservative
+n	ddp	yes	bestialitás	conservative
+n	cds	no	köcsög	conservative
+n	om	no	anális közösülés	inclusive
+n	re	no	bűntény	inclusive
+n	cds	no	okoskodó	conservative
+n	om	no	gyermek molesztáló	conservative
+n	om	no	finocchio	inclusive
+n	cds	no	állományok	inclusive
+n	ddp	yes	állatélet	inclusive
+n	asm	no	praeputium	inclusive
+n	ps	yes	spanyol	inclusive
+n	cds	no	demagóg	conservative
+n	om	no	női megszemélyesítő	inclusive
+n	rci	yes	barbár	conservative
+n	cds	no	csavargó	conservative
+n	pr	no	tehenek	inclusive
+n	svp	no	semmirevaló	conservative
+n	om	no	cephalocaudalis	inclusive
+n	ps	yes	idióta	conservative
+n	dmc	yes	gebe	conservative
+n	an	no	papagájalakúak	inclusive
+n	cds	no	haver	inclusive
+n	ps	yes	vandál	inclusive
+n	ddp	yes	zooerastia	conservative
+n	cds	no	valótlanság	inclusive
+n	cds	no	fiú	inclusive
+n	or	no	foeniculi fructus	inclusive
+v	an	no	ugat	inclusive
+n	an	no	kígyó a fűben	conservative
+n	ddp	yes	kuruzsló	conservative
+n	qas	no	szónoklattan	inclusive
+n	re	no	kálvária	inclusive
+n	an	no	nyuszi	inclusive
+n	cds	no	majom	conservative
+n	an	no	diddly	conservative
+n	qas	no	ektoparaziták	inclusive
+n	cds	no	nagyokos	conservative
+n	cds	no	kiszemel	conservative
+n	ps	yes	fritz	conservative
+n	dmc	yes	jogfosztás	inclusive
+n	or	no	pudden-head	conservative
+n	an	no	varangyok	inclusive
+n	cds	no	tudósítója	inclusive
+n	qas	no	iparosok	inclusive
+n	an	no	csótány	inclusive
+n	an	no	humanus	inclusive
+n	om	no	buzi	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	pa	yes	fuvaros	inclusive
+n	om	no	homofil mozgalom	inclusive
+n	cds	no	banditák	conservative
+n	ddp	yes	taleteller	conservative
+n	an	no	desznó	inclusive
+n	an	no	birka	inclusive
+n	cds	no	törvénytelen	inclusive
+n	an	no	malac	inclusive
+n	cds	no	zsaru	inclusive
+n	ddf	yes	gebe	conservative
+n	cds	no	hamisság	conservative
+n	cds	no	tojásfejű	inclusive
+n	ps	yes	halászcsónak	inclusive
+n	an	no	street girl	conservative
+n	cds	no	kubikus	inclusive
+n	svp	no	faineance	inclusive
+n	cds	no	hülye	conservative
+n	re	no	intrikus	conservative
+n	ddp	yes	gyengeelméjű	inclusive
+n	pa	yes	tizedes	inclusive
+n	dmc	yes	bűnös	conservative
+n	dmc	yes	chiseller	conservative
+n	svp	no	ellenszenv	inclusive
+n	asm	no	ballock	inclusive
+n	cds	no	zsákutcában	inclusive
+n	dmc	yes	erkölcsök	inclusive
+n	cds	no	számkivetett	conservative
+n	cds	no	gonosztevő	inclusive
+n	ddp	yes	riffraff	conservative
+n	qas	no	fumbler	conservative
+n	cds	no	maffia	conservative
+n	qas	no	fuser	conservative
+n	cds	no	bűncselekmény	inclusive
+n	ddp	yes	microcephalus	inclusive
+n	cds	no	briganti	conservative
+n	pr	no	éjjeli lepke	inclusive
+n	pa	yes	professzorok	inclusive
+n	cds	no	puding fej	conservative
+n	ddf	yes	nyomorék	inclusive
+a	cds	no	ügyes	conservative
+n	dmc	yes	leplezés	conservative
+n	an	no	liba	inclusive
+n	cds	no	gazember	conservative
+n	cds	no	demagógia	conservative
+n	asm	no	fütyi	inclusive
+n	an	no	balek	inclusive
+n	re	no	slayer	inclusive
+n	cds	no	klotyó	inclusive
+n	an	no	psittaciformes	inclusive
+n	cds	no	barbár	conservative
+n	an	no	kutyus	inclusive
+n	cds	no	cheekiness	conservative
+n	an	no	volaille	inclusive
+n	cds	no	ballup	inclusive
+n	asm	no	tök	inclusive
+n	dmc	yes	munkakerülő	conservative
+n	an	no	capra	inclusive
+n	an	no	lassú ember	conservative
+n	pa	yes	sheepherder	inclusive
+n	cds	no	rendőrnő	conservative
+n	cds	no	latrina	inclusive
+n	om	no	caudalis	inclusive
+n	is	yes	toprongyos alak	conservative
+n	asm	no	tuskó	conservative
+n	qas	no	limlom	inclusive
+n	ddp	yes	patsy	conservative
+n	cds	no	vonatcsapat	inclusive
+n	an	no	luvnya	conservative
+v	cds	no	csacsog	inclusive
+n	an	no	crocodylidae	inclusive
+a	cds	no	követelő	conservative
+n	or	no	tök	inclusive
+a	or	no	igényes	conservative
+n	re	no	camorra	inclusive
+n	cds	no	baklövés	inclusive
+n	qas	no	középosztálybeli	inclusive
+n	svp	no	unalom	inclusive
+n	dmc	yes	pszeudo	conservative
+n	ps	yes	negroids	inclusive
+a	ddp	yes	ízléstelen	inclusive
+n	cds	no	foltozószabó	conservative
+n	cds	no	kékharisnya	inclusive
+n	dmc	yes	rakehell	conservative
+n	cds	no	phratry	inclusive
+n	an	no	lepkék	inclusive
+n	is	yes	gonosz	conservative
+n	an	no	rouncey	inclusive
+n	an	no	puhatestű	inclusive
+n	cds	no	önszeretet	conservative
+n	cds	no	üldöző	conservative
+n	re	no	károkozás	inclusive
+n	cds	no	fémhulladék	inclusive
+n	om	no	aboral	inclusive
+n	cds	no	rángatózó off	conservative
+n	qas	no	közemberek	inclusive
+n	re	no	villainess	conservative
+n	an	no	csípőszúnyogok	inclusive
+n	ps	yes	mongol	inclusive
+n	an	no	aureus	inclusive
+n	pa	yes	dolgozó	inclusive
+n	cds	no	paraszt	conservative
+n	cds	no	tragacs	inclusive
+n	cds	no	tiszt	inclusive
+n	pa	yes	udvarló	inclusive
+n	an	no	eurázsiai griffon	inclusive
+n	an	no	mikroorganizmusok	inclusive
+n	cds	no	irodalmi hack	conservative
+n	cds	no	ákombákom	inclusive
+a	dmc	yes	koszos	inclusive
+a	ddf	yes	félszemű	inclusive
+n	qas	no	baki	inclusive
+n	cds	no	rendetlenség	conservative
+n	an	no	moly	inclusive
+n	an	no	ribanc	conservative
+n	an	no	hyaena	inclusive
+n	qas	no	törmelék	inclusive
+n	ddp	yes	lelkesít, hogy	inclusive
+n	re	no	üzembe halálra	inclusive
+n	ps	yes	balek	conservative
+n	qas	no	tömeg	inclusive
+n	cds	no	srác	inclusive
+n	qas	no	üzlet tulajdonosa	inclusive
+n	cds	no	balek	conservative
+n	dmc	yes	gengszter	inclusive
+n	cds	no	kontár	inclusive
+n	an	no	butaság	conservative
+n	ddp	yes	analphabetic	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	cds	no	baj	conservative
+n	pa	yes	akadémizmus	inclusive
+n	cds	no	kétbalkezes	conservative
+n	qas	no	megrészegít	inclusive
+n	an	no	angolnaalakúak	inclusive
+n	an	no	mamlasz	conservative
+n	cds	no	újonc	conservative
+n	an	no	animalia	inclusive
+n	svp	no	hencegés	conservative
+n	re	no	terroristák	conservative
+n	dmc	yes	hazug	conservative
+n	cds	no	közúti ügynök	conservative
+n	cds	no	newswriter	inclusive
+n	cds	no	interezés	inclusive
+n	pr	no	kurtizánok	inclusive
+n	qas	no	elhagyott hajó	inclusive
+n	an	no	prostituált	conservative
+n	pr	no	ringyó	conservative
+n	cds	no	papparazzi	inclusive
+n	om	no	ventrolaterális	inclusive
+n	qas	no	mező kéz	inclusive
+n	asf	no	muttonhead	conservative
+n	asf	no	butaság	conservative
+n	cds	no	bandita	conservative
+n	an	no	nőstény	inclusive
+n	an	no	krokodilfélék	inclusive
+n	om	no	anális behatolás	inclusive
+n	cds	no	szélhámos	inclusive
+n	cds	no	települési hulladék	conservative
+n	pr	no	hárpia	conservative
+n	ddp	yes	giccs	conservative
+n	cds	no	mendemonda	inclusive
+n	cds	no	maffiózó	conservative
+n	an	no	állatok	inclusive
+n	qas	no	kutyaól	inclusive
+n	an	no	gonosz	conservative
+n	svp	no	vágy	inclusive
+n	asm	no	pöcs	conservative
+n	svp	no	gourmandizer	inclusive
+n	ps	yes	keleti gót	inclusive
+n	an	no	strix varia	inclusive
+n	ps	yes	ruiner	conservative
+n	asm	no	előbőr	inclusive
+n	cds	no	mucsai	conservative
+n	om	no	dorzopalmáris	inclusive
+n	cds	no	kifutófiú	inclusive
+n	or	no	nance	conservative
+n	cds	no	elszólás	inclusive
+n	asf	no	punci	conservative
+n	qas	no	ügyetlenség	inclusive
+n	cds	no	tolvajlás	inclusive
+n	an	no	eb	inclusive
+n	om	no	talpi	inclusive
+n	pa	yes	számvevő	inclusive
+n	cds	no	chiseller	inclusive
+n	cds	no	chawbacon	conservative
+n	an	no	batrachian	inclusive
+n	re	no	stealer	inclusive
+n	pa	yes	kutatás professzora	inclusive
+n	an	no	anguilla	inclusive
+n	qas	no	csőcselék	conservative
+n	cds	no	pénzkölcsönzőt	inclusive
+n	cds	no	pénz hitelezés	conservative
+n	pa	yes	paraszt	conservative
+n	cds	no	növénynemesítés	inclusive
+n	qas	no	mindenféle holmi	inclusive
+n	ddp	yes	ügyefogyott ember	conservative
+n	svp	no	erkölcstelenség	inclusive
+n	cds	no	tömeg	conservative
+n	svp	no	büszkeség	inclusive
+n	pr	no	ágyas	inclusive
+n	cds	no	uzsorás	inclusive
+n	re	no	tolvajlás	inclusive
+n	is	yes	rászoruló	inclusive
+n	ps	yes	negroid	inclusive
+n	dmc	yes	hobo	conservative
+n	om	no	dorsoventral	inclusive
+n	asf	no	patsy	conservative
+n	pr	no	prostituáltak	inclusive
+n	cds	no	bordello	inclusive
+n	re	no	törvényszegés	inclusive
+n	ddp	yes	késleltet	conservative
+n	qas	no	közepes jövedelmű	inclusive
+n	pa	yes	adjunktus	inclusive
+n	qas	no	retorikai	inclusive
+n	qas	no	középosztály	inclusive
+n	cds	no	újszülöttek	inclusive
+n	an	no	strigiformes	inclusive
+n	ddf	yes	fogyatékosság	inclusive
+n	an	no	sár	conservative
+v	an	no	tombol	conservative
+n	pa	yes	munkavállaló	inclusive
+n	asm	no	sötétbarna	inclusive
+n	ddp	yes	hülye	conservative
+n	cds	no	vécécsésze	inclusive
+n	cds	no	lom	conservative
+n	asm	no	jeerer	conservative
+n	cds	no	apple polírozó	conservative
+n	asm	no	kézi munka	conservative
+n	cds	no	szájhős	conservative
+n	cds	no	barbár	inclusive
+n	pa	yes	indítványozó	inclusive
+n	cds	no	sok	inclusive
+n	cds	no	kupleráj	inclusive
+n	cds	no	rémhírterjesztő	conservative
+n	om	no	cross-dressing	inclusive
+n	ddp	yes	puha	conservative
+n	cds	no	bűnözői magatartás	inclusive
+n	ps	yes	fasiszta	inclusive
+n	om	no	csíny	inclusive
+n	re	no	defamer	conservative
+n	cds	no	conspiracism	inclusive
+n	re	no	zsarolás	inclusive
+n	re	no	plagiarization	inclusive
+n	an	no	állatkák	inclusive
+n	dmc	yes	banditák	inclusive
+n	re	no	kalózkodás	inclusive
+n	cds	no	szakértő	inclusive
+n	dmc	yes	söpredék táska	inclusive
+n	re	no	kínvallató	inclusive
+n	asm	no	nooky	conservative
+n	pr	no	társaságbeli	inclusive
+n	or	no	cucurbita maxima	inclusive
+n	cds	no	zöldfülű	conservative
+n	svp	no	nagyképűség	conservative
+n	re	no	banditának	inclusive
+n	ps	yes	fehér	inclusive
+n	an	no	infauna	inclusive
+n	om	no	ipszilaterális	inclusive
+n	cds	no	csirkefogó	inclusive
+n	pr	no	lompos nő	conservative
+n	dmc	yes	treasonist	conservative
+n	dmc	yes	fumbler	conservative
+n	ps	yes	bedu	inclusive
+n	an	no	keselyű	inclusive
+n	or	no	káposzta	inclusive
+n	an	no	frogspawn	inclusive
+n	an	no	tehenek	inclusive
+n	cds	no	loanshark	inclusive
+n	asm	no	here	inclusive
+n	pr	no	szexuális szolgáltatások	conservative
+n	ddp	yes	váltott	conservative
+n	cds	no	közvetítő	inclusive
+n	cds	no	tréfa	inclusive
+n	pa	yes	ügyész	inclusive
+n	cds	no	elégedettség	inclusive
+n	or	no	buzi	conservative
+n	asf	no	kretén	conservative
+n	ps	yes	sárga lap	inclusive
+n	ps	yes	nigra	conservative
+n	cds	no	rendetlenség-up	inclusive
+n	an	no	kisliba	inclusive
+n	cds	no	arrogancia	conservative
+n	or	no	b. oleracea	inclusive
+n	pr	no	bérleti fiúk	conservative
+n	re	no	molesztálta	inclusive
+n	an	no	athene noctua	inclusive
+n	ddp	yes	durvaság	inclusive
+n	cds	no	okosság	inclusive
+n	an	no	hájpacni	conservative
+n	cds	no	moneylenders	conservative
+n	cds	no	mafiosi	conservative
+n	an	no	felbassza	inclusive
+n	svp	no	gourmand	conservative
+n	asm	no	fasz	inclusive
+n	cds	no	szemetet	conservative
+n	an	no	crocodylia	inclusive
+n	dmc	yes	képmutató	conservative
+n	is	yes	villainess	conservative
+n	an	no	hiénafélék	inclusive
+n	an	no	arckifejezés	inclusive
+n	om	no	elülső-hátulsó tengely	inclusive
+n	cds	no	rendőrök	conservative
+n	svp	no	zsugori	inclusive
+n	qas	no	lom	inclusive
+n	ddp	yes	foltozószabó	conservative
+n	cds	no	nyomorult	conservative
+a	cds	no	megvetendő	conservative
+n	qas	no	ház festő	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	cds	no	bálványimádás	inclusive
+n	an	no	tinó	inclusive
+n	cds	no	prelatura	inclusive
+n	dmc	yes	defrauder	conservative
+n	an	no	kalóz	inclusive
+n	re	no	cosa nostra	inclusive
+n	an	no	bagoly	inclusive
+n	an	no	dagi	conservative
+n	asm	no	ithyphallic	inclusive
+n	cds	no	váltott	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	asm	no	puha	conservative
+n	an	no	házisertés	inclusive
+n	cds	no	begina	inclusive
+n	ddp	yes	kretén	inclusive
+a	or	no	követelő	conservative
+n	asm	no	öcsi	inclusive
+n	re	no	capturer	inclusive
+n	dmc	yes	morál	inclusive
+n	cds	no	conventicle	inclusive
+n	cds	no	wc	inclusive
+n	pr	no	szuka	conservative
+n	cds	no	dög	inclusive
+n	dmc	yes	bohócok	inclusive
+n	dmc	yes	csavargók	conservative
+n	cds	no	klikkek	inclusive
+n	pr	no	Ökör	inclusive
+n	an	no	rovar	inclusive
+n	cds	no	megvesztegethető	inclusive
+n	cds	no	firkálás	inclusive
+n	qas	no	bérlői gazdálkodás	inclusive
+n	dmc	yes	lógós	conservative
+n	om	no	anterior	inclusive
+n	an	no	hemipteran	inclusive
+n	om	no	szagittális	inclusive
+n	dmc	yes	hobos	conservative
+n	ps	yes	mongolok	inclusive
+n	ddp	yes	besúgó	conservative
+n	ddp	yes	pudden-head	conservative
+n	pa	yes	személyes széket	inclusive
+n	om	no	koronális sík	inclusive
+n	re	no	grand theft	inclusive
+n	an	no	ökröket	inclusive
+n	ps	yes	késleltet	conservative
+n	cds	no	bűnügyi	inclusive
+n	or	no	faszfej	conservative
+n	om	no	dorsoventralis	inclusive
+n	an	no	anura	inclusive
+n	asf	no	y haj	inclusive
+n	dmc	yes	bohóckodás	inclusive
+n	svp	no	jelentéktelenség	conservative
+n	re	no	raper	conservative
+n	qas	no	ház festés	inclusive
+n	an	no	hemipteron	inclusive
+n	om	no	hölgyek	inclusive
+n	or	no	cuke	inclusive
+n	ddp	yes	palimadár	conservative
+n	an	no	mikrobák	inclusive
+n	an	no	szajha	conservative
+n	ddp	yes	melegvizes borogatás	conservative
+n	cds	no	fundamentalista	inclusive
+n	ddp	yes	mentális retardáció	inclusive
+n	cds	no	panaszos	conservative
+n	pr	no	a szexiparban	conservative
+n	om	no	derriere	inclusive
+n	or	no	sativus	inclusive
+n	asm	no	betise	conservative
+n	qas	no	hamisság	conservative
+n	om	no	frontális sík	inclusive
+n	om	no	fibularis	inclusive
+n	ps	yes	romani	inclusive
+a	cds	no	bűnös	inclusive
+n	cds	no	szárító	inclusive
+n	ps	yes	növényi biotechnológia	inclusive
+n	an	no	gonoszság	conservative
+n	or	no	melegvizes borogatás	conservative
+n	svp	no	eros	inclusive
+n	cds	no	bas bleu	inclusive
+n	or	no	tarlórépa	inclusive
+n	cds	no	bűntett	inclusive
+n	svp	no	dallier	conservative
+n	om	no	cross-drag	inclusive
+n	ddp	yes	tuskó	conservative
+n	pr	no	ribi	conservative
+n	cds	no	káosz	inclusive
+n	cds	no	fémhulladék	conservative
+n	ddp	yes	ferociousness	conservative
+n	cds	no	rengeteg	inclusive
+n	qas	no	rendbontó	conservative
+n	asf	no	nemi szőrzet	inclusive
+n	qas	no	hutch	inclusive
+n	an	no	utcalány	conservative
+n	ddp	yes	kreténizmus	inclusive
+n	pr	no	patkányok	inclusive
+n	cds	no	dandy	inclusive
+n	qas	no	paraziták	inclusive
+n	ddp	yes	metazoans	inclusive
+n	cds	no	tanított	inclusive
+n	pr	no	ágyasa	inclusive
+n	cds	no	hiúság	conservative
+n	ddp	yes	képtelenség	conservative
+n	om	no	ugyan	inclusive
+n	an	no	poloska	inclusive
+n	re	no	bántalmazott	inclusive
+n	an	no	semmit sem	conservative
+n	qas	no	házimunka	inclusive
+n	svp	no	tétlenség	inclusive
+n	asf	no	szeméremszőrzet	inclusive
+n	an	no	örvöslúd	inclusive
+n	cds	no	piperkőc	inclusive
+n	asf	no	bolond	conservative
+n	pr	no	prosti	conservative
+n	re	no	büntetendő	inclusive
+n	cds	no	bandák	conservative
+n	an	no	shoat	inclusive
+n	om	no	ellenoldali	inclusive
+n	om	no	rosztrális	inclusive
+n	pa	yes	jegy ügynök	inclusive
+n	asf	no	ostoba	conservative
+n	dmc	yes	feslett	inclusive
+n	cds	no	relikvia	inclusive
+n	qas	no	parazitizmus	inclusive
+n	an	no	palimadár	conservative
+n	ps	yes	héberek	inclusive
+n	qas	no	baklövés	inclusive
+n	ddp	yes	anya fucker	conservative
+n	dmc	yes	morális	inclusive
+n	cds	no	keverék	inclusive
+n	an	no	eurypterid	inclusive
+n	pa	yes	pásztor	inclusive
+n	re	no	bűnügy	inclusive
+n	re	no	foglyul ejtő	inclusive
+n	pr	no	szerető	inclusive
+n	cds	no	interfertility	inclusive
+n	an	no	szlovén	conservative
+n	an	no	kikapós nő	conservative
+n	or	no	egyszerű ember	conservative
+n	asm	no	erekció	inclusive
+n	ddp	yes	sarlatán	conservative
+n	om	no	transzvesztita-öltözködés irányába	inclusive
+n	cds	no	tucat	inclusive
+n	an	no	cimex lectularius	inclusive
+n	cds	no	önhittség	conservative
+n	cds	no	lopás	inclusive
+n	cds	no	összeesküvés teoretikus	inclusive
+n	om	no	szodómia	inclusive
+n	cds	no	pandar	inclusive
+n	svp	no	fanatizmus	conservative
+n	dmc	yes	képmutatás	conservative
+n	cds	no	moneygrubber	inclusive
+n	qas	no	csőcselék	inclusive
+n	cds	no	bálványimádók	inclusive
+n	qas	no	háztartási hulladék	inclusive
+n	an	no	ülep	inclusive
+n	re	no	terrorista	inclusive
+n	cds	no	zenekar	inclusive
+n	ps	yes	ügyefogyott ember	conservative
+n	ddp	yes	mamlasz	conservative
+n	cds	no	jerk-off	conservative
+n	an	no	hirudinea	inclusive
+n	cds	no	banditák	inclusive
+n	cds	no	chiseler	conservative
+n	svp	no	luxuria	inclusive
+a	ddf	yes	csúnya	conservative
+n	qas	no	spirituális vezetője	inclusive
+n	asm	no	shtup	conservative
+n	ps	yes	szerecsen	conservative
+n	an	no	mikróbák	inclusive
+n	cds	no	párt	inclusive
+n	an	no	blattodea	inclusive
+n	pr	no	hellcat	conservative
+n	cds	no	csatlósai	conservative
+n	or	no	homophile	conservative
+n	ps	yes	félvér	conservative
+n	cds	no	fél pint	conservative
+n	or	no	brassica oleracea	inclusive
+n	an	no	tyúk	inclusive
+n	dmc	yes	erkölcsi értékek	inclusive
+n	cds	no	high-handedness	conservative
+a	qas	no	félrebeszél	inclusive
+n	cds	no	tudósítók	inclusive
+n	om	no	dorsopalmaris	inclusive
+n	cds	no	gonosztevő	conservative
+n	cds	no	bajt	conservative
+n	cds	no	problémát	conservative
+n	cds	no	megvesztegethetőség	inclusive
+n	cds	no	hamisság	inclusive
+n	ddp	yes	értelmetlen	conservative
+n	re	no	csaló	inclusive
+n	cds	no	elkövető	inclusive
+n	svp	no	lazább	conservative
+n	om	no	zsemle	inclusive
+n	an	no	ormány	inclusive
+n	cds	no	barbárok	conservative
+n	an	no	lusta	conservative
+n	cds	no	splashiness	inclusive
+n	asm	no	lóbab	inclusive
+n	cds	no	felületesség	inclusive
+n	ddp	yes	fauna	inclusive
+n	an	no	házikecske	inclusive
+a	ddf	yes	ronda	conservative
+n	an	no	tengeri skorpió	inclusive
+n	cds	no	banda	conservative
+n	qas	no	retorika	inclusive
+a	an	no	makacs	inclusive
+n	an	no	baglyok	inclusive
+n	pr	no	szarvasmarhák	inclusive
+n	cds	no	pletyka	inclusive
+n	cds	no	bellyacher	conservative
+n	an	no	blattaria	inclusive
+n	cds	no	fanatizmus	conservative
+n	qas	no	kennel	inclusive
+n	svp	no	undor	inclusive
+n	cds	no	sport house	inclusive
+n	or	no	punci	conservative
+n	qas	no	nagyhangú beszéd	inclusive
+n	an	no	juh-	inclusive
+n	re	no	pontos	inclusive
+n	cds	no	fumbler	conservative
+n	svp	no	csípősség	inclusive
+n	an	no	nyulak	inclusive
+n	pa	yes	vadember	conservative
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	re	no	betörő	inclusive
+a	dmc	yes	hamis	conservative
+n	an	no	cimicidae	inclusive
+n	cds	no	törmelék	conservative
+n	qas	no	ispán	inclusive
+n	svp	no	ínyenc	inclusive
+n	an	no	hiénák	inclusive
+n	ps	yes	keleti gótok	inclusive
+n	qas	no	települési hulladék	inclusive
+n	an	no	cootie	inclusive
+n	an	no	he-kecske	inclusive
+n	cds	no	sztrájktörés	inclusive
+n	an	no	féreg	inclusive
+n	dmc	yes	dillydallier	conservative
+n	om	no	főrangú nő	inclusive
+n	an	no	bestialitás	conservative
+n	cds	no	codswallop	conservative
+n	qas	no	üzletemberek	inclusive
+n	an	no	bufo	inclusive
+n	dmc	yes	szabadosság	conservative
+n	dmc	yes	hamis	conservative
+n	ps	yes	feketebőrű	inclusive
+n	asm	no	butaság	conservative
+n	dmc	yes	álszent	conservative
+n	or	no	tökfilkó	conservative
+n	ddp	yes	twaddler	conservative
+n	an	no	bivaly	inclusive
+n	cds	no	bűnöző	conservative
+n	cds	no	ravaszság	conservative
+n	an	no	vérszívó	inclusive
+n	ddp	yes	buta	conservative
+n	an	no	moue	inclusive
+n	an	no	nadály	inclusive
+n	cds	no	chiseller	conservative
+n	ddp	yes	visszamaradottság	inclusive
+n	qas	no	common people	inclusive
+n	cds	no	jokester	inclusive
+n	cds	no	csőcselék	inclusive
+n	ddp	yes	bárgyú	conservative
+n	cds	no	hop	inclusive
+n	cds	no	szélsőséges jobboldali	conservative
+n	cds	no	főkolompos	inclusive
+n	svp	no	irigység	inclusive
+n	cds	no	agyonhallgatás	inclusive
+n	an	no	szúnyogfélék	inclusive
+n	or	no	melegek	conservative
+n	ps	yes	zulu	inclusive
+n	or	no	fejeskáposzta	inclusive
+n	cds	no	moneylenders	inclusive
+n	pr	no	street girl	conservative
+n	svp	no	gourmand	inclusive
+n	cds	no	stealer	inclusive
+n	re	no	scammer	inclusive
+n	ps	yes	krauthead	conservative
+n	pa	yes	halárus	inclusive
+n	an	no	csirke	inclusive
+n	asm	no	éjszakázó	inclusive
+n	cds	no	fennhéjázás	conservative
+n	cds	no	moneylending	inclusive
+n	cds	no	eredmények	inclusive
+n	an	no	ribi	conservative
+n	cds	no	golyó-up	inclusive
+n	ps	yes	uprooter	conservative
+n	qas	no	lógós	conservative
+n	asm	no	hiszékenység	conservative
+n	ps	yes	négerek	inclusive
+n	an	no	pióca	inclusive
+n	om	no	foeniculum vulgare	inclusive
+n	cds	no	dogmatizmus	conservative
+n	cds	no	gyávaság	conservative
+n	cds	no	rendőr	inclusive
+n	cds	no	legényke	inclusive
+n	cds	no	vissza beszélni	inclusive
+n	dmc	yes	csavargás	inclusive
+n	cds	no	gonosz	conservative
+n	pr	no	hetaera	inclusive
+n	cds	no	oktatási támogatás	inclusive
+n	cds	no	tökfej	inclusive
+n	cds	no	gőg	inclusive
+n	pa	yes	professzor	inclusive
+n	cds	no	kivéve	inclusive
+n	cds	no	nimfomániás	conservative
+n	cds	no	puha	conservative
+n	cds	no	groveler	conservative
+n	cds	no	grunge	inclusive
+n	an	no	krokodilok	inclusive
+n	dmc	yes	semmirekellő	conservative
+n	re	no	kirabolták	inclusive
+n	cds	no	prankishness	inclusive
+n	cds	no	mocsok	inclusive
+n	dmc	yes	csirkefogó	conservative
+n	qas	no	parasztok	inclusive
+n	cds	no	füllentés	conservative
+n	re	no	gonosz	conservative
+n	an	no	giliszták	inclusive
+n	ps	yes	hibrid	inclusive
+n	qas	no	felső vezetői	inclusive
+a	ps	yes	fekete	inclusive
+a	is	yes	szomorú	inclusive
+n	an	no	pediculus corporis	inclusive
+n	asm	no	madárvilága	inclusive
+n	dmc	yes	erkölcstelenség	inclusive
+n	ps	yes	hebraism	inclusive
+n	rci	yes	barbárok	conservative
+n	om	no	anteroposterior	inclusive
+n	an	no	lassú észjárású	conservative
+n	ddp	yes	írástudatlan	inclusive
+n	cds	no	károkozás	inclusive
+n	ps	yes	izraelita	inclusive
+n	is	yes	szegény	inclusive
+n	cds	no	superbia	inclusive
+n	an	no	kuvasz	inclusive
+n	ps	yes	osztrogótok	inclusive
+n	cds	no	nyápic	conservative
+n	cds	no	scrawler	conservative
+a	dmc	yes	megvetendő	conservative
+n	svp	no	fizikai vonzalom	inclusive
+n	qas	no	bérlő farm	inclusive
+n	cds	no	ultrakonzervatív	conservative
+n	re	no	lopás	inclusive
+n	cds	no	blackballing	inclusive
+n	cds	no	bűnügyi	conservative
+n	cds	no	betörő	inclusive
+n	cds	no	családi vonalat	inclusive
+n	ddp	yes	ostobaság	conservative
+n	an	no	állati szaporodás	inclusive
+n	dmc	yes	kétbalkezes	conservative
+n	svp	no	hülye-off	conservative
+n	re	no	bűnözői magatartás	inclusive
+n	an	no	limacidae	inclusive
+n	ps	yes	puha	conservative
+n	ddp	yes	fogoly	inclusive
+n	an	no	bárgyú	conservative
+n	svp	no	penny-csípés	inclusive
+n	qas	no	autoinfection	inclusive
+n	cds	no	hízelgő	conservative
+n	pr	no	a szexiparban	inclusive
+n	qas	no	elutasít	conservative
+n	pr	no	lepkék	inclusive
+n	om	no	ülep	inclusive
+n	an	no	folderol	conservative
+n	re	no	erőszaktevő	conservative
+n	qas	no	szónok	inclusive
+n	pr	no	bika	inclusive
+n	an	no	törpe	conservative
+n	om	no	édeskömény	inclusive
+n	qas	no	kereskedő	inclusive
+n	an	no	fulvus	inclusive
+n	re	no	rablások	inclusive
+n	ps	yes	osztrogót	inclusive
+n	re	no	terrorcselekmény	inclusive
+v	asm	no	megdug	conservative
+n	qas	no	kasztrendszer	inclusive
+n	pr	no	prostituált	inclusive
+n	cds	no	törzsi	inclusive
+n	re	no	sértő	inclusive
+n	an	no	angolna	inclusive
+n	pr	no	call-girl	inclusive
+v	re	no	lop	inclusive
+n	svp	no	irigységből	inclusive
+n	qas	no	herék	inclusive
+n	ddp	yes	fathead	conservative
+n	cds	no	szabadkőművesek	inclusive
+n	ps	yes	zsidóság	inclusive
+n	cds	no	mystifier	conservative
+n	an	no	equus asinus	inclusive
+n	cds	no	free kőműves	inclusive
+n	re	no	ripacs	inclusive
+n	qas	no	mishmash	inclusive
+n	qas	no	üzletember	inclusive
+n	ddf	yes	törpe	conservative
+n	pa	yes	pénztáros	inclusive
+n	an	no	saphead	conservative
+n	ps	yes	beduinok	inclusive
+n	ddp	yes	idióta	inclusive
+n	asm	no	herék	inclusive
+n	qas	no	mogyoró	inclusive
+n	an	no	nyápic	conservative
+n	an	no	cápatámadás	inclusive
+n	qas	no	plébániák	inclusive
+n	asm	no	szabálytalanságok és kötelezettségszegések	inclusive
+n	asf	no	bunkó	conservative
+n	an	no	ruhatetű	inclusive
+n	an	no	piócák	inclusive
+n	om	no	mediánszagittális	inclusive
+n	an	no	doodly-zömök	conservative
+n	asm	no	doofus	conservative
+n	re	no	megerőszakolt	conservative
+n	cds	no	tolvaj	conservative
+n	cds	no	fiacskám	inclusive
+n	cds	no	fellengzősség	conservative
+n	cds	no	saphead	conservative
+n	ps	yes	zuluk	inclusive
+n	re	no	vétség	inclusive
+a	qas	no	középosztálybeli	inclusive
+n	cds	no	cselszövő	inclusive
+n	asm	no	gesztenyebarna	inclusive
+n	ps	yes	cigány	inclusive
+n	re	no	gengszter	inclusive
+n	cds	no	zűrzavar	inclusive
+n	cds	no	fundamentalisták	inclusive
+n	cds	no	slackers	conservative
+n	cds	no	terjedelem	inclusive
+n	qas	no	paraszt	inclusive
+n	pa	yes	halaskofa	inclusive
+n	an	no	puha	conservative
+n	re	no	defrauder	inclusive
+n	cds	no	kézi munka	conservative
+n	or	no	knucklehead	conservative
+n	an	no	csőcselék	conservative
+a	svp	no	agresszív	conservative
+n	qas	no	mezőgazdasági termelő	inclusive
+n	dmc	yes	scammer	conservative
+n	an	no	állatka	inclusive
+n	re	no	emberrablások	inclusive
+n	ps	yes	feketebőrűek	inclusive
+n	is	yes	nyomorúság	inclusive
+n	an	no	pipistrellus	inclusive
+n	svp	no	közöny	inclusive
+n	re	no	gyilkossági nyomozó	inclusive
+n	qas	no	barbárok	conservative
+n	svp	no	léhűtő	conservative
+n	an	no	disznó	inclusive
+n	ddp	yes	bolondság	inclusive
+n	qas	no	nekrotróf	inclusive
+n	cds	no	egyszerű ember	conservative
+a	is	yes	szerencsétlen	inclusive
+n	an	no	svábbogarak	inclusive
+n	is	yes	kitaszított	inclusive
+n	dmc	yes	homunculi	inclusive
+n	cds	no	léhűtő	conservative
+n	pa	yes	tudósok	inclusive
+n	re	no	kereskedelmi hitelrontás ellen	inclusive
+n	om	no	homoszexuálisok	inclusive
+n	ddp	yes	analfabéta	inclusive
+n	an	no	fajankó	conservative
+n	pr	no	nagy szentjánosbogár	inclusive
+n	cds	no	tömegek	conservative
+n	cds	no	cacography	inclusive
+n	qas	no	bárók	inclusive
+n	ddp	yes	váltott	inclusive
+n	re	no	gengszterek	inclusive
+n	an	no	vipera	inclusive
+n	an	no	ostoba	conservative
+n	svp	no	evő	inclusive
+n	ddf	yes	nanus	conservative
+n	is	yes	társadalmi kitaszítottak	inclusive
+n	qas	no	riffraff	conservative
+n	cds	no	toalett	inclusive
+n	cds	no	kerítőnő	conservative
+n	pr	no	ribanc	conservative
+n	ddp	yes	changelings	inclusive
+n	asf	no	hüvelyi	conservative
+n	an	no	mikrobiális	inclusive
+n	pr	no	lampyris noctiluca	inclusive
+n	an	no	keselyűk	inclusive
+n	an	no	bolhák	inclusive
+n	dmc	yes	csaló	conservative
+n	qas	no	piaci üzembentartó	inclusive
+n	qas	no	mogul	inclusive
+n	qas	no	szegényparaszt	inclusive
+n	dmc	yes	semmittevő	conservative
+n	om	no	radioulnáris	inclusive
+n	an	no	mosquitoe	inclusive
+n	qas	no	keverék	inclusive
+n	dmc	yes	semmirekellő	inclusive
+n	dmc	yes	csirkefogó	inclusive
+n	qas	no	sodbuster	inclusive
+n	ddf	yes	fogyatékkal élők	inclusive
+n	an	no	marha	inclusive
+n	an	no	carcharodon	inclusive
+n	om	no	viszcerális	inclusive
+n	svp	no	cheapskate	conservative
+n	dmc	yes	hazugság	inclusive
+n	an	no	makrofauna	inclusive
+n	re	no	raptio	inclusive
+n	cds	no	dastardliness	conservative
+n	qas	no	füllentés	conservative
+n	svp	no	sóvárgás	inclusive
+n	cds	no	gyakorlati joker	conservative
+n	an	no	aries	inclusive
+n	ddp	yes	muttonhead	conservative
+n	cds	no	rossz-up	inclusive
+n	an	no	phthiraptera	inclusive
+n	om	no	férfi szexualitás	inclusive
+n	qas	no	amatőrök	inclusive
+n	om	no	proximodisztális	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	cds	no	baki	inclusive
+n	cds	no	háztartási hulladék	inclusive
+n	cds	no	bohóckodás	inclusive
+n	re	no	szekerce munka	inclusive
+n	cds	no	önelégültség	inclusive
+n	an	no	piros dob	inclusive
+n	cds	no	heaps	inclusive
+n	pa	yes	halkereskedő	inclusive
+n	pr	no	utcalány	conservative
+n	ps	yes	mongoloid	conservative
+n	cds	no	anya fucker	conservative
+n	dmc	yes	vándor	inclusive
+n	cds	no	oktató	inclusive
+n	an	no	tengeri skorpiók	inclusive
+n	cds	no	szerencsejáték casino	inclusive
+n	cds	no	reakciós	conservative
+n	an	no	csirkék	inclusive
+n	dmc	yes	ban, minden	inclusive
+n	cds	no	zelóták	inclusive
+n	pa	yes	pásztorlány	inclusive
+n	ps	yes	vandál	conservative
+n	qas	no	búvárkodás súlyozási rendszer	inclusive
+n	asf	no	fajankó	conservative
+a	dmc	yes	gonosz	conservative
+n	qas	no	parókia	inclusive
+n	an	no	ugat	inclusive
+n	dmc	yes	semmirevaló	conservative
+n	or	no	vadkáposzta	inclusive
+n	an	no	maradi	conservative
+a	pa	yes	politikai	inclusive
+n	cds	no	hibrid	inclusive
+n	an	no	elszólás	inclusive
+n	cds	no	egoizmus	conservative
+n	cds	no	tréfacsináló	conservative
+n	pr	no	ökrök	inclusive
+n	an	no	nanus	conservative
+n	cds	no	közbenjáró	inclusive
+n	cds	no	zümmög	inclusive
+n	cds	no	számkivetés	inclusive
+n	om	no	voláris	inclusive
+n	svp	no	hiúság	conservative
+n	om	no	homofil mozgalom	conservative
+n	qas	no	szaglászó	inclusive
+n	cds	no	törvényszegés	inclusive
+n	cds	no	tolakodó	conservative
+n	an	no	poulet	inclusive
+n	re	no	emberölés	inclusive
+n	re	no	gyilkosság	inclusive
+n	cds	no	növényi biotechnológiai	inclusive
+n	dmc	yes	chawbacon	conservative
+n	svp	no	gourmandizer	conservative
+n	pr	no	udvaroncok	inclusive
+n	dmc	yes	fuser	conservative
+n	ps	yes	jerry	conservative
+n	re	no	erőszak	inclusive
+n	an	no	pipistrelle	inclusive
+n	re	no	kínzó	inclusive
+n	cds	no	klikk	inclusive
+n	ps	yes	vadember	conservative
+n	an	no	raunch	conservative
+n	cds	no	tutajok	inclusive
+n	om	no	homoeroticism	inclusive
+n	an	no	anuran	inclusive
+n	cds	no	időszervertől	conservative
+n	cds	no	bordély	inclusive
+a	qas	no	középkori	inclusive
+n	qas	no	teste	inclusive
+n	cds	no	zsaroló	inclusive
+n	ddp	yes	vadember	conservative
+n	cds	no	bolond	conservative
+n	cds	no	tricker	conservative
+n	pa	yes	jogász	inclusive
+n	cds	no	ingroup	inclusive
+n	dmc	yes	száműzött	inclusive
+n	cds	no	börtönőr	inclusive
+n	ddp	yes	agykárosodás	inclusive
+n	cds	no	uzsora	conservative
+n	dmc	yes	bugris	conservative
+a	re	no	őrjöngő	inclusive
+n	an	no	kajmánok	inclusive
+n	om	no	homoerotikus	inclusive
+n	an	no	kurva	conservative
+n	or	no	édeskömény	inclusive
+n	qas	no	csavargó	conservative
+n	qas	no	businessperson	inclusive
+n	cds	no	nagyképűsködés	conservative
+n	dmc	yes	valótlanság	inclusive
+n	svp	no	lógós	conservative
+n	cds	no	folderol	conservative
+n	om	no	mediális	inclusive
+n	ps	yes	metic	inclusive
+n	cds	no	rokonsági csoport	inclusive
+n	qas	no	gyáros	inclusive
+n	ddp	yes	doofus	conservative
+n	cds	no	Újszülött	inclusive
+n	pa	yes	diplomáciai rangot	inclusive
+n	svp	no	kapzsiság	inclusive
+n	pa	yes	diplomáciai rangok	inclusive
+n	re	no	kidnaper	inclusive
+n	an	no	szúnyog	inclusive
+n	pr	no	bos taurus	inclusive
+n	qas	no	parochia	inclusive
+a	asm	no	barna	inclusive
+n	re	no	stickup	inclusive
+n	om	no	dame	inclusive
+n	om	no	volaris	inclusive
+n	an	no	kajmán	inclusive
+n	qas	no	bourgeoise	inclusive
+n	an	no	anurans	inclusive
+n	qas	no	ideológus	inclusive
+n	cds	no	csatornahálózat	inclusive
+n	qas	no	mezőgazdasággal	inclusive
+n	asm	no	barna	inclusive
+n	cds	no	hímringyó qualifier	inclusive
+n	an	no	sakálok	inclusive
+n	an	no	közönségesség	conservative
+n	qas	no	bú-bú	inclusive
+n	an	no	mikroorganizmus	inclusive
+n	cds	no	keresztezési	inclusive
+a	om	no	homoszexuális	conservative
+n	svp	no	minginess	conservative
+n	an	no	házityúk	inclusive
+n	re	no	bűntett	inclusive
+n	cds	no	bagnio	inclusive
+n	ddp	yes	kuruzslás	conservative
+n	cds	no	vécé	inclusive
+n	or	no	kis ónedény	inclusive
+n	an	no	csiga	inclusive
+n	pa	yes	jogi képviselője	inclusive
+n	asm	no	kretén	inclusive
+n	qas	no	haszonbérlő	inclusive
+n	an	no	bölény	inclusive
+n	cds	no	tiszt	conservative
+n	cds	no	kotyvalék	inclusive
+n	re	no	kalóz	inclusive
+n	cds	no	csoportosulás	inclusive
+n	cds	no	talpnyaló	conservative
+n	cds	no	csalás	inclusive
+a	ddp	yes	hülye	conservative
+n	cds	no	nyilvános illemhely	inclusive
+n	asf	no	pussy	conservative
+n	om	no	mediolaterális	inclusive
+n	om	no	drag show	inclusive
+n	dmc	yes	bigott	conservative
+n	cds	no	törmelék	inclusive
+n	qas	no	kaszt	inclusive
+n	cds	no	fasiszták	conservative
+n	dmc	yes	fiatalkorú	conservative
+n	re	no	emberrablók	inclusive
+n	re	no	ndrangheta	inclusive
+n	or	no	punctiliousness	inclusive
+n	cds	no	lav	inclusive
+n	svp	no	slackers	conservative
+n	svp	no	jó-for-semmiért	conservative
+n	qas	no	moocher	conservative
+n	cds	no	ballada	inclusive
+n	asf	no	csökönyös ember	conservative
+n	qas	no	mezőgazdasági munkás	inclusive
+a	dmc	yes	büdös	conservative
+n	an	no	siphonaptera	inclusive
+n	cds	no	magolás	conservative
+n	dmc	yes	köpönyegforgató	conservative
+n	an	no	hoax	conservative
+n	svp	no	niggardness	conservative
+n	an	no	átverés	conservative
+n	cds	no	önteltség	inclusive
+n	an	no	fosztogató	inclusive
+n	dmc	yes	álszentség	conservative
+n	cds	no	szarvashiba	inclusive
+n	an	no	csoportos it	conservative
+n	om	no	caudally	inclusive
+n	an	no	boci	inclusive
+n	qas	no	Élősködő	inclusive
+n	dmc	yes	kapros-dallier	conservative
+n	pr	no	szexuális szolgáltatások	inclusive
+n	asf	no	hülye	conservative
+n	pr	no	kitartott nő	conservative
+n	pr	no	szajha	inclusive
+n	an	no	tuskó	conservative
+n	ddp	yes	rémhírterjesztő	conservative
+n	ps	yes	sárga lapot	inclusive
+n	re	no	plagizál	inclusive
+n	ddp	yes	butaság	conservative
+n	is	yes	elszegényedés	inclusive
+n	cds	no	pedáns	conservative
+n	ps	yes	latino	inclusive
+n	an	no	cápák	inclusive
+n	cds	no	falka	inclusive
+n	om	no	superficialis	inclusive
+n	qas	no	valótlanság	conservative
+n	re	no	gazember	conservative
+n	cds	no	ostentatiousness	conservative
+n	dmc	yes	slackers	conservative
+n	an	no	hiéna	inclusive
+n	cds	no	defrauder	conservative
+n	om	no	anteroposzterior	inclusive
+n	an	no	crocodylian	inclusive
+n	re	no	terrorcselekmény	conservative
+n	qas	no	barokk	inclusive
+v	cds	no	fal	inclusive
+n	qas	no	iparmágnás	inclusive
+n	dmc	yes	gonosztevő	inclusive
+n	svp	no	ínyenc	conservative
+n	cds	no	csőcselék	conservative
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	an	no	lompos ember	conservative
+n	cds	no	uzsorások	inclusive
+n	dmc	yes	hamisítvány	inclusive
+n	re	no	kalózok	inclusive
+n	qas	no	maradék	inclusive
+n	dmc	yes	károkozás	inclusive
+n	pr	no	vándorpatkány	inclusive
+n	an	no	csirkefogó	conservative
+n	cds	no	ócskavas	conservative
+n	an	no	durvaság	inclusive
+n	cds	no	vadember	conservative
+n	ddp	yes	microcephalia	inclusive
+n	pa	yes	juhász	inclusive
+n	an	no	bolond	conservative
+n	asm	no	kakas	inclusive
+n	svp	no	takarékosság	inclusive
+n	an	no	szamár	inclusive
+n	cds	no	rablók	inclusive
+n	ps	yes	cigányság	inclusive
+a	ps	yes	néger	inclusive
+a	cds	no	hülye	conservative
+n	om	no	radioulnaris	inclusive
+n	an	no	epifauna	inclusive
+n	cds	no	bunkó	inclusive
+n	svp	no	munkakerülő	conservative
+n	pr	no	előkelőségek	inclusive
+n	qas	no	báró	inclusive
+n	an	no	mogorva tekintet	inclusive
+n	qas	no	divulgence	inclusive
+n	re	no	terrorizmus	conservative
+n	an	no	előtor	inclusive
+n	cds	no	pénzkölcsönzőt	conservative
+n	ddp	yes	analphabet	inclusive
+n	svp	no	beképzeltség	conservative
+n	an	no	szarvasmarhák	inclusive
+n	asf	no	doofus	conservative
+n	ddp	yes	betise	conservative
+n	cds	no	alkalmazkodó	conservative
+n	dmc	yes	dallier	conservative
+n	pa	yes	Ügyvéd	inclusive
+n	re	no	rágalmazó	conservative
+n	an	no	bolha	inclusive
+n	cds	no	szilárd hulladék	inclusive
+n	cds	no	scammer	inclusive
+n	cds	no	pudden-head	conservative
+n	svp	no	angriness	inclusive
+n	qas	no	polgári	inclusive
+n	an	no	felszarvazott	conservative
+n	ddp	yes	kétbalkezes	conservative
+n	an	no	pofa	inclusive
+n	cds	no	seattle sound	inclusive
+n	asm	no	nyúlvány	inclusive
+n	ps	yes	juden	inclusive
+n	om	no	meleg	inclusive
+n	cds	no	fuser	conservative
+n	pa	yes	halárusokra	inclusive
+n	ps	yes	nigger	conservative
+n	ddp	yes	zooerasty	conservative
+n	cds	no	gengszter	inclusive
+n	an	no	tudatlan	conservative
+n	cds	no	talaj	inclusive
+n	cds	no	betyár	inclusive
+n	ps	yes	inkiness	inclusive
+n	re	no	nemi erőszakot elkövetők	conservative
+n	an	no	skorpióhal	inclusive
+n	an	no	eurypterida	inclusive
+n	cds	no	nézelődő	conservative
+n	an	no	háziszamár	inclusive
+n	asm	no	fava	inclusive
+n	asm	no	hal	inclusive
+n	cds	no	kinfolk	inclusive
+n	cds	no	ereklye	inclusive
+n	cds	no	vétség	inclusive
+n	asm	no	dákó	inclusive
+n	re	no	jogfosztás	inclusive
+n	om	no	disztális	inclusive
+n	cds	no	cur	inclusive
+n	or	no	puff	conservative
+n	dmc	yes	bohóc	inclusive
+n	cds	no	gőg	conservative
+n	cds	no	hamisító	conservative
+n	asm	no	hiszékenységét	conservative
+n	ddp	yes	kretén	conservative
+n	ps	yes	tuskó	conservative
+n	qas	no	festő és dekoratőr	inclusive
+n	om	no	proximális	inclusive
+n	om	no	oldalsó	inclusive
+n	cds	no	babák	inclusive
+n	om	no	ventralis	inclusive
+n	qas	no	Élősdi	inclusive
+n	ddf	yes	fizikailag megtámadta	inclusive
+n	cds	no	selejtezett	conservative
+n	ddp	yes	alkalmatlan	conservative
+n	ddp	yes	tattletale	conservative
+n	cds	no	hustling	conservative
+n	qas	no	kasztok	inclusive
+n	cds	no	protagonism	inclusive
+n	re	no	bűnös	conservative
+n	cds	no	család	inclusive
+n	cds	no	főpap	inclusive
+n	qas	no	paraszt	conservative
+n	pr	no	john	inclusive
+a	ps	yes	zsidó	inclusive
+n	om	no	kiskatona	conservative
+n	re	no	plagiarisation	inclusive
+n	om	no	keister	inclusive
+n	cds	no	szlovén	conservative
+n	cds	no	valótlanság	conservative
+n	om	no	kontralaterális	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	svp	no	szerzési	inclusive
+n	ps	yes	patsy	conservative
+n	pa	yes	professor emeritus	inclusive
+n	cds	no	limlom	inclusive
+n	pr	no	tinó	inclusive
+n	dmc	yes	gazember	conservative
+n	asm	no	fityma	inclusive
+n	asf	no	knucklehead	conservative
+n	asm	no	csaj	conservative
+n	cds	no	megtölt	inclusive
+n	re	no	ripacskodás	inclusive
+n	an	no	békák	inclusive
+n	ddp	yes	tudatlan	conservative
+n	pa	yes	controller	inclusive
+n	an	no	zsugori	conservative
+n	an	no	kecske	inclusive
+n	svp	no	apátia	inclusive
+n	qas	no	dilettáns	conservative
+n	re	no	megpróbáltatás	inclusive
+v	asm	no	kúr	conservative
+n	cds	no	szabad kőműves	inclusive
+n	an	no	nadályok	inclusive
+n	or	no	poove	conservative
+n	ddf	yes	tiltsa	inclusive
+n	cds	no	ruhaszárító	inclusive
+n	cds	no	bűnös	conservative
+n	re	no	csirkefogó	inclusive
+n	asf	no	intim szőrzet	inclusive
+n	or	no	solanum tuberosum	inclusive
+n	qas	no	freeloader	conservative
+n	cds	no	fasizmus	conservative
+n	cds	no	arcátlanság	conservative
+n	ps	yes	más fajok	inclusive
+n	pr	no	ágyastárs	inclusive
+n	an	no	csavargó	conservative
+n	an	no	lóöszvér	inclusive
+n	cds	no	újszülött	inclusive
+n	re	no	maffiózó	conservative
+n	ddp	yes	kretenizmus	inclusive
+n	re	no	calunnia	inclusive
+n	an	no	gebe	inclusive
+n	is	yes	koldus	inclusive
+n	cds	no	csaló	conservative
+n	cds	no	beginák	inclusive
+n	re	no	zsákmány	inclusive
+n	om	no	öltöznek	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	cds	no	szennyvízcsatornába	inclusive
+n	cds	no	conventicles	inclusive
+n	cds	no	bandita	inclusive
+n	or	no	muttonhead	conservative
+n	cds	no	fűmag	conservative
+n	cds	no	interezés	conservative
+n	ps	yes	néger	conservative
+n	cds	no	rumourmonger	conservative
+n	ddp	yes	szamárság	inclusive
+n	cds	no	amour propre	conservative
+n	ddp	yes	hülye	inclusive
+n	cds	no	csintalan	conservative
+n	cds	no	kölyök	inclusive
+n	or	no	squash	inclusive
+n	re	no	zsarolta	conservative
+a	pa	yes	elméleti	inclusive
+n	cds	no	wisenheimer	conservative
+n	asm	no	késleltet	inclusive
+n	om	no	proximodistalis	inclusive
+n	cds	no	splashiness	conservative
+n	asm	no	penis	inclusive
+n	an	no	salientian	inclusive
+n	an	no	krokodil	inclusive
+n	ps	yes	bulgár	inclusive
+n	cds	no	települési hulladék	inclusive
+n	qas	no	ars oratoria	inclusive
+n	dmc	yes	bűz	conservative
+n	cds	no	masztizás	conservative
+n	asm	no	csavarozás	conservative
+n	om	no	dorzoventrális	inclusive
+n	re	no	bejegyzett repce	inclusive
+n	cds	no	fattyú	inclusive
+n	om	no	palmáris	inclusive
+n	an	no	codswallop	conservative
+n	cds	no	elvetemült	inclusive
+n	an	no	puhatestűek	inclusive
+n	cds	no	küldönc	inclusive
+n	cds	no	finagler	conservative
+n	an	no	alkalmatlan	conservative
+n	pr	no	pocegér	inclusive
+n	cds	no	kisbaba	inclusive
+n	ddp	yes	köcsög	conservative
+n	or	no	homoszexuális	conservative
+n	cds	no	cinkos	inclusive
+n	qas	no	testis	inclusive
+n	cds	no	mindenféle holmi	inclusive
+n	ddp	yes	illiteráció	inclusive
+n	asm	no	masztizás	conservative
+n	ps	yes	barbárok	conservative
+n	an	no	geleszta	inclusive
+n	ddp	yes	bunkó	conservative
+n	re	no	erőszakos	inclusive
+n	qas	no	ballaszt	inclusive
+n	ddp	yes	foglyok	inclusive
+n	asf	no	szakszerűség	inclusive
+n	an	no	kecskeformák	inclusive
+n	an	no	eurypterids	inclusive
+n	cds	no	loanshark	conservative
+n	pr	no	john	conservative
+n	cds	no	mellékhelyiség	inclusive
+n	is	yes	cheapskate	conservative
+n	cds	no	hierarch	inclusive
+n	cds	no	loansharking	conservative
+n	om	no	drag queen	inclusive
+n	pa	yes	pásztorok	inclusive
+n	cds	no	csoportos it	conservative
+a	dmc	yes	pacuha	conservative
+n	cds	no	csecsemő	inclusive
+n	cds	no	hazugság	inclusive
+n	om	no	standard anatómiai helyzet	inclusive
+n	asf	no	hüvely	conservative
+n	cds	no	moneylending	conservative
+n	asm	no	barnaság	inclusive
+n	cds	no	pandar	conservative
+n	pa	yes	kar	inclusive
+n	an	no	seggfej	conservative
+n	pa	yes	alkalmazott	inclusive
+n	is	yes	nincstelenség	inclusive
+n	re	no	grifter	inclusive
+n	re	no	megölte	inclusive
+n	ps	yes	barbár	conservative
+n	cds	no	klánok	inclusive
+n	re	no	fosztogatás	inclusive
+n	re	no	banditák	inclusive
+n	an	no	állat	inclusive
+n	cds	no	rendőr	conservative
+n	an	no	húsmarha	inclusive
+a	ddp	yes	őrült	inclusive
+n	asm	no	kibaszott	conservative
+n	qas	no	csavarog	conservative
+n	cds	no	beképzeltség	conservative
+n	cds	no	kretén	inclusive
+n	an	no	brant	inclusive
+n	re	no	terrorizmus	inclusive
+n	or	no	foeniculum vulgare	inclusive
+n	ps	yes	keresztezett	inclusive
+n	or	no	égett narancs	inclusive
+n	asm	no	függelékek	inclusive
+n	ddp	yes	knucklehead	conservative
+n	cds	no	jogfosztás	inclusive
+n	om	no	határokon öltözködés	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	om	no	sinister	inclusive
+n	an	no	kölöntére	inclusive
+n	ps	yes	izotelész	inclusive
+n	pr	no	rentboy	conservative
+n	cds	no	fontoskodó	conservative
+n	an	no	ballon swallower	inclusive
+n	or	no	seggfej	conservative
+n	ps	yes	ázsiai	inclusive
+n	an	no	diddly-szar	conservative
+n	cds	no	csirkefogó	conservative
+n	ddp	yes	fajankó	conservative
+n	qas	no	nagyszerűség	inclusive
+n	cds	no	fújtató	conservative
+n	qas	no	foltozószabó	conservative
+n	cds	no	changelings	inclusive
+n	om	no	tibialis	inclusive
+n	qas	no	gazdálkodó	inclusive
+n	om	no	utólag	inclusive
+n	om	no	tooshie	inclusive
+n	cds	no	növény nemesítő	inclusive
+n	an	no	escargot	inclusive
+n	ps	yes	metics	inclusive
+n	dmc	yes	számkivetett	inclusive
+n	or	no	aprólékosság	inclusive
+n	cds	no	büntetés-végrehajtási felügyelő	inclusive
+n	asf	no	faszfej	conservative
+n	svp	no	unalmas	inclusive
+n	cds	no	önhittség	inclusive
+n	pa	yes	könyvelő	inclusive
+n	cds	no	bordélyok	inclusive
+n	cds	no	idióta	inclusive
+n	cds	no	a nagy mosdatlan	conservative
+n	cds	no	bumbler	conservative
+n	dmc	yes	közepes tehetségű ember	conservative
+n	cds	no	backtalk	inclusive
+n	an	no	lotyó	conservative
+n	cds	no	szabadkőművesség	inclusive
+n	cds	no	gazfickó	conservative
+n	qas	no	Élősködők	inclusive
+n	ps	yes	changelings	conservative
+n	om	no	posterior	inclusive
+n	re	no	ölő	inclusive
+n	dmc	yes	gonosz	conservative
+n	cds	no	dweeb	conservative
+n	cds	no	szépíró	conservative
+n	ps	yes	növényi biotechnológiai	inclusive
+n	ddp	yes	mentális hiány	inclusive
+n	qas	no	tanonc	inclusive
+n	or	no	tater	inclusive
+n	om	no	ipsilateralis	inclusive
+n	cds	no	minden lében kanál	conservative
+n	ddp	yes	goromba fráter	conservative
+n	om	no	várusz	inclusive
+n	cds	no	dandies	inclusive
+n	rci	yes	paraszt	conservative
+a	svp	no	bősz	inclusive
+n	qas	no	nehezék	inclusive
+n	dmc	yes	durva	conservative
+n	asf	no	pina	conservative
+n	qas	no	mágnások	inclusive
+n	cds	no	lom	inclusive
+n	cds	no	palimadár	conservative
+n	svp	no	invidia	inclusive
+n	qas	no	Ékesszólástan	inclusive
+n	ps	yes	cigó	conservative
+v	cds	no	zabál	inclusive
+n	qas	no	szakmai osztály	inclusive
+n	asm	no	twirp	conservative
+n	cds	no	defrauder	inclusive
+n	svp	no	lusta	conservative
+n	re	no	vilifier	conservative
+n	dmc	yes	vadember	conservative
+n	cds	no	mamlasz	conservative
+n	pr	no	kurválkodás	conservative
+n	dmc	yes	chiseler	conservative
+n	cds	no	fasiszta	inclusive
+n	svp	no	hiábavalóság	conservative
+n	svp	no	ravenousness	conservative
+n	re	no	gonosztevő	inclusive
+n	cds	no	fanatizmus	inclusive
+n	pr	no	csaj	inclusive
+n	re	no	rablók	inclusive
+n	om	no	transzvesztiták	inclusive
+n	qas	no	egyveleg	inclusive
+n	an	no	mikroba	inclusive
+n	ddf	yes	megbénítás	inclusive
+n	asf	no	seggfej	conservative
+n	qas	no	vaklárma	inclusive
+n	an	no	aranysakál	inclusive
+n	qas	no	szarvashiba	inclusive
+n	an	no	riffraff	conservative
+n	cds	no	taleteller	conservative
+n	om	no	dextro-sinistralis	inclusive
+n	pr	no	fornicatress	conservative
+n	pa	yes	egyetemi	inclusive
+n	cds	no	peons	inclusive
+n	ddf	yes	fél pint	conservative
+n	or	no	homofil mozgalom	conservative
+n	om	no	transzvesztitizmus	inclusive
+n	qas	no	kennelek	inclusive
+n	ps	yes	mongolid rassz	conservative
+n	asm	no	rángatózó off	conservative
+n	pr	no	tartott nő	conservative
+a	svp	no	agresszív	inclusive
+n	or	no	pina	conservative
+n	dmc	yes	szélhámos	conservative
+n	pr	no	kurva	conservative
+n	om	no	crossdresser	inclusive
+n	an	no	shote	inclusive
+n	ddp	yes	saphead	conservative
+n	an	no	betise	conservative
+n	an	no	fenék	inclusive
+n	cds	no	ndrangheta	inclusive
+n	qas	no	íróasztal munkát	inclusive
+n	an	no	kullancsok	inclusive
+n	an	no	kacér	conservative
+n	an	no	hajthatatlanság	conservative
+n	qas	no	baroqueness	inclusive
+n	cds	no	dohány	inclusive
+n	asm	no	vicia faba	inclusive
+n	cds	no	gyengeelméjű	inclusive
+n	cds	no	keresztezett	inclusive
+n	an	no	kutyaszerű	inclusive
+n	svp	no	bujaság	inclusive
+n	qas	no	konformitás	inclusive
+n	om	no	dorzális	inclusive
+n	an	no	bed bugs	inclusive
+n	om	no	pederastic	inclusive
+n	cds	no	pártfogás	inclusive
+n	cds	no	elutasít	conservative
+n	asm	no	hímvessző	inclusive
+n	om	no	lady	inclusive
+n	ddp	yes	Állatok	inclusive
+n	asm	no	bab	inclusive
+n	cds	no	újgazdagok	inclusive
+n	cds	no	strikebreaker	inclusive
+n	ps	yes	növény nemesítő	inclusive
+n	qas	no	közember	inclusive
+n	re	no	maffia	inclusive
+n	asm	no	borsó	inclusive
+n	re	no	chiseller	inclusive
+n	cds	no	villainess	conservative
+n	pr	no	ökör	inclusive
+n	pr	no	prostituáltak	conservative
+n	ps	yes	darkie	conservative
+n	dmc	yes	barbárok	conservative
+n	om	no	paederasty	inclusive
+n	cds	no	chiseler	inclusive
+n	cds	no	gyáva	conservative
+n	cds	no	csatorna	inclusive
+n	re	no	zsarolás	conservative
+n	cds	no	zsaru	conservative
+n	svp	no	evő	conservative
+n	qas	no	troubler	conservative
+n	cds	no	uzsorakamat	inclusive
+n	ddp	yes	folderol	conservative
+n	cds	no	mossa szoba	inclusive
+n	qas	no	élősködnek	inclusive
+n	ddp	yes	fecsegő	inclusive
+n	svp	no	high-handedness	conservative
+n	qas	no	vállalkozó	inclusive
+n	qas	no	élősködő	inclusive
+n	dmc	yes	füstöl	conservative
+n	om	no	mögött	inclusive
+n	cds	no	csintalanság döntéshozatal	conservative
+n	pr	no	ribanc	inclusive
+n	ddp	yes	changelings	conservative
+n	ps	yes	beduin	inclusive
+n	qas	no	átlagember	inclusive
+n	cds	no	nagyképűség	conservative
+n	svp	no	önteltség	conservative
+n	re	no	debaucher	conservative
+n	an	no	branta bernicla	inclusive
+n	qas	no	polgár emberek	inclusive
+n	cds	no	gyávaság	inclusive
+n	ddp	yes	agykárosodást	inclusive
+n	cds	no	ellenszavazat	inclusive
+n	cds	no	illegális tevékenységek	inclusive
+n	cds	no	háztartási hulladék	conservative
+n	pr	no	szeretője	conservative
+n	qas	no	legénység	inclusive
+n	cds	no	rabja	conservative
+n	re	no	bűnöző	inclusive
+n	an	no	diddlysquat	conservative
+n	ddp	yes	ostoba	conservative
+n	asf	no	vagina	conservative
+n	cds	no	szennyvíz	inclusive
+n	re	no	szélhámos	inclusive
+n	dmc	yes	lazább	conservative
+n	svp	no	aboulia	inclusive
+n	an	no	tehén	inclusive
+n	an	no	kecskefélében	inclusive
+n	pa	yes	egyetemek	inclusive
+n	qas	no	oltárszolga	inclusive
+n	an	no	szúnyogok	inclusive
+n	cds	no	stricik	inclusive
+n	ddp	yes	barbárok	conservative
+n	cds	no	sztrájktörőkkel	inclusive
+n	ddp	yes	twirp	conservative
+n	pr	no	tehén	conservative
+n	ddp	yes	microcephalic	inclusive
+n	svp	no	tanha	inclusive
+n	cds	no	zsákutca	inclusive
+n	pa	yes	barbár	conservative
+n	ps	yes	mesztic	conservative
+n	qas	no	plébánia	inclusive
+n	pr	no	eltartott nő	conservative
+n	om	no	nyílirányú	inclusive
+n	qas	no	szimfília	inclusive
+n	cds	no	bűncselekmények	inclusive
+n	re	no	emberrablás	inclusive
+n	pr	no	norvégia rat	inclusive
+n	cds	no	bú-bú	inclusive
+n	cds	no	egyveleg	inclusive
+n	or	no	brassica oleraceae	inclusive
+n	cds	no	gyávasága	conservative
+n	om	no	gluteális	inclusive
+n	svp	no	szomorkodik	conservative
+n	cds	no	vaunter	conservative
+n	cds	no	prelátus	inclusive
+n	cds	no	selyemfiú	inclusive
+n	cds	no	paparazzi	inclusive
+n	om	no	homoszexuális	inclusive
+n	an	no	lúd	inclusive
+n	re	no	kínzás	inclusive
+n	qas	no	üzleti vezető	inclusive
+n	pr	no	pisztoly moll	inclusive
+n	pr	no	luvnya	conservative
+n	asm	no	balek	conservative
+n	cds	no	gobs	inclusive
+n	or	no	murphy	inclusive
+n	an	no	anguilliformes	inclusive
+n	cds	no	omerta	inclusive
+n	cds	no	grifter	inclusive
+n	cds	no	rabló	conservative
+n	is	yes	pária	inclusive
+n	qas	no	cseléd	inclusive
+n	cds	no	hencegés	conservative
+n	cds	no	nagyképűsködés	inclusive
+n	qas	no	endoparaziták	inclusive
+n	an	no	lény	inclusive
+n	dmc	yes	léhűtő	conservative
+n	dmc	yes	megtévesztő	conservative
+n	or	no	spud	inclusive
+n	qas	no	vadember	conservative
+n	svp	no	naplopó	conservative
+n	cds	no	uzsora	inclusive
+n	om	no	pederaszta	conservative
+n	an	no	lehallgató készülék	inclusive
+n	an	no	anyakecskére	inclusive
+n	cds	no	narcism	inclusive
+n	cds	no	sassing	inclusive
+n	ps	yes	romanis	inclusive
+n	cds	no	arriviste	inclusive
+n	cds	no	bűnözők	inclusive
+n	re	no	traducer	conservative
+n	cds	no	melegvizes borogatás	conservative
+n	cds	no	titokzatoskodó alak	conservative
+n	ddf	yes	púpos	inclusive
+n	cds	no	csecsemők	inclusive
+n	dmc	yes	jó-for-semmiért	conservative
+n	pr	no	prostituált	conservative
+n	or	no	fajankó	conservative
+n	asf	no	codswallop	conservative
+n	qas	no	retorikailag	inclusive
+n	an	no	test-kikapta	inclusive
+n	ps	yes	afrikai származású	inclusive
+n	om	no	szamár	inclusive
+n	dmc	yes	erkölcsi indíték	inclusive
+n	cds	no	tolvaj	inclusive
+n	dmc	yes	csavargó	inclusive
+n	an	no	sakál	inclusive
+n	cds	no	vallási megkülönböztetés	inclusive
+a	dmc	yes	hamisított	conservative
+n	or	no	pillock	conservative
+n	re	no	terroristák	inclusive
+n	is	yes	szegénységi ráta	inclusive
+n	pr	no	kurválkodás	inclusive
+n	pa	yes	cipész	inclusive
+n	rci	yes	vadember	conservative
+n	qas	no	véreb	inclusive
+n	qas	no	selejtezett	conservative
+n	or	no	finocchio	inclusive
+n	ddp	yes	kisfejűség	inclusive
+n	an	no	kövér ember	conservative
+n	is	yes	zsugori	conservative
+n	an	no	hirudinean	inclusive
+n	ps	yes	nigga	conservative
+n	ps	yes	seggfej	conservative
+n	pr	no	comare	conservative
+n	cds	no	hitel sharking	conservative
+n	an	no	bérleti fiúk	conservative
+a	qas	no	szokásos	inclusive
+n	cds	no	munkakerülő	conservative
+n	cds	no	bragger	conservative
+n	asf	no	palimadár	conservative
+n	asm	no	madár	inclusive
+n	ddp	yes	pillock	conservative
+n	ddp	yes	csőcselék	conservative
+n	cds	no	szenvedélyes rejtvényfejtő	conservative
+n	om	no	anatómiában használatos síkok és irányok	inclusive
+n	cds	no	tényező	inclusive
+n	svp	no	acedia	inclusive
+n	cds	no	Összeesküvés-elméletek	inclusive
+n	cds	no	bűnöző	inclusive
+n	dmc	yes	grifter	conservative
+n	an	no	wuss	conservative
+n	qas	no	golyó	inclusive
+n	svp	no	harag	inclusive
+n	asm	no	zöldborsó	inclusive
+n	qas	no	kéregető	conservative
+a	svp	no	fösvény	inclusive
+n	dmc	yes	briganti	conservative
+a	dmc	yes	szennyezett	inclusive
+n	re	no	kicsikarni	inclusive
+n	an	no	szarvasmarha	inclusive
+n	pr	no	marha	inclusive
+n	cds	no	idiolatry	inclusive
+n	ddp	yes	segglyuk	conservative
+a	ddp	yes	írástudatlan	inclusive
+v	qas	no	sminkel	inclusive
+n	dmc	yes	rabló	conservative
+n	pr	no	prostitúció	conservative
+n	cds	no	bajkeverő	inclusive
+n	is	yes	száműzött	inclusive
+n	re	no	becsületsértő	inclusive
+n	dmc	yes	betyár	inclusive
+n	asm	no	kuki	inclusive
+n	cds	no	selejtezés	conservative
+n	qas	no	selejtezés	conservative
+n	ddp	yes	Írástudatlan	inclusive
+n	pa	yes	védőügyvéd	inclusive
+n	om	no	szuperficiális	inclusive
+v	asm	no	dug	conservative
+n	pr	no	kerítőnő	conservative
+n	om	no	tibiális	inclusive
+n	qas	no	kunyhó	inclusive
+n	an	no	durvaság	conservative
+n	asm	no	changelings	inclusive
+n	cds	no	wads	inclusive
+n	is	yes	alacsony jövedelmű	inclusive
+n	cds	no	gebe	conservative
+n	an	no	diddley	conservative
+n	cds	no	csapat	inclusive
+n	cds	no	fundamentalizmus	inclusive
+n	cds	no	kerítőnő	inclusive
+n	asf	no	puha	conservative
+n	svp	no	hasimádó	conservative
+n	om	no	paederast	conservative
+n	cds	no	hübrisz	inclusive
+n	an	no	ökrök	inclusive
+n	om	no	hátsó	inclusive
+n	qas	no	pete	inclusive
+n	cds	no	sarlatán	conservative
+n	is	yes	toprongyos ember	conservative
+n	qas	no	kotyvalék	inclusive
+n	cds	no	clann	inclusive
+n	ddp	yes	gyengeelméjű	conservative
+n	ddp	yes	Írástudatlanság	inclusive
+n	dmc	yes	villainess	conservative
+n	cds	no	növényfajták oltalmára	inclusive
+n	cds	no	tökfej	conservative
+n	qas	no	bérlő gazdálkodók	inclusive
+n	dmc	yes	foetor	conservative
+n	ps	yes	vándor	inclusive
+n	dmc	yes	tékozló	inclusive
+n	asm	no	hülye	inclusive
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	an	no	lelkesít, hogy	inclusive
+n	cds	no	sniveller	conservative
+n	cds	no	Összeesküvéselmélet	inclusive
+n	asf	no	fanszőrzet	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	re	no	szexuális támadás	inclusive
+n	cds	no	gyerek	inclusive
+n	cds	no	fasiszta	conservative
+n	cds	no	késleltet	inclusive
+n	asm	no	köcsög	conservative
+n	qas	no	fellengzősség	inclusive
+n	an	no	villainess	conservative
+n	pa	yes	barbárok	conservative
+n	cds	no	camorra	inclusive
+n	cds	no	krikszkraksz	inclusive
+n	ddp	yes	seggfej	conservative
+n	or	no	puding fej	conservative
+n	re	no	chiseler	inclusive
+n	cds	no	moralizálás	inclusive
+n	qas	no	here	inclusive
+n	asm	no	baromság	inclusive
+n	ddp	yes	egyszerű ember	conservative
+n	cds	no	paparazzo	inclusive
+n	cds	no	brókerek	inclusive
+n	an	no	ass	inclusive
+n	ddp	yes	bumbler	conservative
+n	ddp	yes	szedett-vedett és bobtail	conservative
+n	pa	yes	különleges megbízottja	inclusive
+n	cds	no	tökfilkó	conservative
+n	an	no	epifaunal	inclusive
+n	cds	no	dagadt fejjel	conservative
+n	ddp	yes	idióta	conservative
+n	qas	no	fieldhand	inclusive
+n	dmc	yes	hamisság	inclusive
+n	pa	yes	tudományos	inclusive
+n	ps	yes	bolond	conservative
+n	qas	no	konformista	conservative
+n	is	yes	rendelkezik-nem	inclusive
+n	cds	no	ostentatiousness	inclusive
+n	svp	no	semmire sem jó	conservative
+n	cds	no	by-csapás	inclusive
+n	re	no	kínozza	inclusive
+n	cds	no	free mason	inclusive
+n	cds	no	gigolo	inclusive
+n	re	no	maligner	conservative
+n	an	no	juh	inclusive
+n	an	no	cápa	inclusive
+n	svp	no	kéjvágy	inclusive
+n	svp	no	düh	inclusive
+n	an	no	szedett-vedett és bobtail	conservative
+n	dmc	yes	bűnöző	inclusive
+n	ps	yes	paraszt	conservative
+n	asm	no	forgassa a széna	conservative
+n	an	no	bakkecske	inclusive
+n	qas	no	bloopers	inclusive
+n	an	no	vamp	conservative
+n	qas	no	farmer	inclusive
+n	dmc	yes	kitaszított	inclusive
+n	cds	no	pedantériával	inclusive
+n	asf	no	tökfej	conservative
+n	cds	no	wonk	conservative
+n	svp	no	dühös	inclusive
+n	an	no	lármás füleskuvik	inclusive
+n	qas	no	boltos	inclusive
+n	an	no	bison	inclusive
+a	ddf	yes	rossz	inclusive
+n	pr	no	mécsbogár	inclusive
+n	dmc	yes	vidám andrew	inclusive
+n	re	no	megkínozták	inclusive
+n	qas	no	kutyaház	inclusive
+n	cds	no	hencegő	conservative
+n	cds	no	nympho	conservative
+n	ps	yes	kraut	conservative
+n	is	yes	szegénység	inclusive
+n	cds	no	önzés	conservative
+n	svp	no	buja	inclusive
+n	cds	no	hazugság	conservative
+n	om	no	meleg	conservative
+n	cds	no	bolond	inclusive
+n	re	no	kínzóeszköz	inclusive
+n	an	no	Állatok	inclusive
+n	cds	no	szélhámosság	conservative
+n	cds	no	cosa nostra	inclusive
+a	svp	no	dühös	inclusive
+n	cds	no	know-it-all	conservative
+n	cds	no	szolga	conservative
+n	cds	no	fellengzősség	inclusive
+n	ddp	yes	pletykafészek	conservative
+n	an	no	insecta	inclusive
+a	ddp	yes	ostoba	conservative
+n	cds	no	kigolyóz	inclusive
+n	an	no	borsos lepkefaj	inclusive
+n	om	no	feltételek az anatómiai elhelyezkedés	inclusive
+n	an	no	éjjeli lepke	inclusive
+n	pr	no	udvaronc	inclusive
+n	om	no	apikális	inclusive
+n	asm	no	váltott	inclusive
+n	pr	no	patkány	inclusive
+n	asf	no	folderol	conservative
+n	pr	no	házasságtörő nő	conservative
+n	cds	no	homunkulusz	inclusive
+n	cds	no	ördöngösség	conservative
+n	qas	no	parazita	inclusive
+n	qas	no	szemetet	inclusive
+a	ddp	yes	idióta	conservative
+n	pr	no	szamárság	conservative
+n	re	no	gyilkosok	inclusive
+n	cds	no	kocsi vonat	inclusive
+a	ddp	yes	analfabéta	inclusive
+n	ddp	yes	állatok	inclusive
+n	an	no	nyúl	inclusive
+n	an	no	mollusca	inclusive
+n	an	no	nagy szentjánosbogár	inclusive
+n	dmc	yes	fűmag	conservative
+n	cds	no	grifter	conservative
+n	an	no	savanyú arc	inclusive
+n	ps	yes	növénynemesítés	inclusive
+n	cds	no	konformista	conservative
+n	cds	no	hypersexual	conservative
+n	ps	yes	meszticek	conservative
+n	cds	no	strici	conservative
+n	om	no	melegek	inclusive
+n	cds	no	sass	inclusive
+n	qas	no	plébános	inclusive
+n	cds	no	poggyász vonat	inclusive
+n	an	no	cápaszerűek	inclusive
+n	cds	no	trasformismo	inclusive
+n	dmc	yes	társadalmi kitaszítottak	inclusive
+n	qas	no	fejetlenség	inclusive
+a	cds	no	okos	inclusive
+n	pa	yes	cordwainer	inclusive
+n	cds	no	morgó	conservative
+n	ddf	yes	rokkant	inclusive
+a	qas	no	szánalmas	conservative
+n	re	no	fiatalkorú	conservative
+n	dmc	yes	kicsapongó	conservative
+v	asm	no	szexel	conservative
+n	qas	no	rossz-up	inclusive
+n	ddp	yes	csökönyös ember	conservative
+n	om	no	profundus	inclusive
+n	an	no	homlokát ráncolja	inclusive
+n	om	no	buzi	conservative
+n	cds	no	tuskó	conservative
+n	re	no	gyilkosságok	inclusive
+n	asf	no	tuskó	conservative
+n	ddf	yes	crookback	inclusive
+n	pr	no	prostitúció	inclusive
+a	or	no	követelődző	conservative
+n	ddp	yes	epifauna	inclusive
+n	cds	no	vallásosság	inclusive
+n	ps	yes	gyengeelméjű	conservative
+n	svp	no	semmittevő	conservative
+n	or	no	fasz	conservative
+n	an	no	vamper	conservative
+n	or	no	réparepce	inclusive
+n	an	no	ökör	inclusive
+n	pa	yes	állami számviteli	inclusive
+n	qas	no	kalyiba	inclusive
+a	dmc	yes	szennyes	inclusive
+n	or	no	csökönyös ember	conservative
+n	cds	no	rokonok	inclusive
+n	re	no	vadság	inclusive
+n	om	no	transzverzális sík	inclusive
+n	pr	no	nő az utca	conservative
+n	ps	yes	mongolid nagyrassz	conservative
+n	cds	no	csaló	inclusive
+n	cds	no	pénz hitelezés	inclusive
+n	cds	no	rokon	inclusive
+n	om	no	homoszexualitás	inclusive
+n	an	no	svábbogár	inclusive
+n	cds	no	cockup	inclusive
+n	an	no	faszfej	conservative
+n	dmc	yes	hazudós	conservative
+n	re	no	visszaélés	inclusive
+n	asf	no	egyszerű ember	conservative
+n	qas	no	kiszemel	conservative
+n	an	no	farkatlan kétéltűek	inclusive
+n	cds	no	korcs	inclusive
+n	pa	yes	akadémikusok	inclusive
+n	svp	no	tunyaság	inclusive
+n	an	no	szamáröszvér	inclusive
+n	qas	no	üzletasszony	inclusive
+v	asm	no	szeretkezik	conservative
+n	dmc	yes	szerencsétlen	inclusive
+n	dmc	yes	pazarló	inclusive
+n	cds	no	uzsorás	conservative
+n	an	no	inexorableness	conservative
+n	an	no	tanulatlan ember	conservative
+a	cds	no	követelődző	conservative
+n	pa	yes	portás	inclusive
+n	an	no	balek	conservative
+n	cds	no	vétkes	inclusive
+n	re	no	rágalmazás	inclusive
+n	cds	no	tolvajok	inclusive
+n	re	no	szexuálisan bántalmazták	inclusive
+n	cds	no	hülye	inclusive
+n	ddp	yes	bolond	conservative
+n	cds	no	uzsoráskodás	inclusive
+n	or	no	krumpli	inclusive
+n	dmc	yes	Álszenteskedés	conservative
+n	an	no	fathead	conservative
+n	cds	no	mihaszna	conservative
+n	ddp	yes	moronity	inclusive
+n	re	no	tolvaj	inclusive
+n	qas	no	baronies	inclusive
+n	om	no	transzvesztitizmussal	inclusive
+n	cds	no	nárcisztikus	inclusive
+n	re	no	rustler	inclusive
+n	pa	yes	levelező tagja	inclusive
+n	cds	no	tanár	inclusive
+n	ps	yes	tökfej	conservative
+n	cds	no	conceitedness	conservative
+n	or	no	burgonya	inclusive
+n	an	no	popsi	inclusive
+n	cds	no	harccal	conservative
+n	dmc	yes	lingerer	conservative
+n	cds	no	al-klán	inclusive
+n	ps	yes	rommany	inclusive
+n	cds	no	wuss	conservative
+n	cds	no	rendőrök	inclusive
+n	qas	no	tolvaj	conservative
+n	cds	no	szaglászó	conservative
+n	an	no	pikula	conservative
+n	re	no	tolvajok	inclusive
+n	is	yes	elszegényedett	inclusive
+n	asm	no	patsy	conservative
+n	an	no	megascops	inclusive
+n	re	no	elrabolja	inclusive
+n	or	no	hülye	conservative
+n	dmc	yes	pária	inclusive
+n	cds	no	penny félelmetes	inclusive
+n	om	no	vidámság	inclusive
+n	pr	no	ökröket	inclusive
+n	dmc	yes	erkölcsi csőd	inclusive
+n	dmc	yes	áruló	conservative
+n	is	yes	koldus	conservative
+n	om	no	poove	conservative
+n	dmc	yes	bandita	conservative
+n	an	no	papagáj	inclusive
+n	dmc	yes	pojáca	inclusive
+n	re	no	rágalmazó	inclusive
+n	re	no	maffia	conservative
+n	qas	no	tök	inclusive
+n	pr	no	lotyó	conservative
+n	an	no	béka	inclusive
+n	asf	no	gyengeelméjű	conservative
+n	om	no	ulnáris	inclusive
+a	ps	yes	kínai	inclusive
+n	qas	no	bajkeverő	conservative
+n	asm	no	pterygiophore	inclusive
+n	an	no	szoknya chaser	conservative
+n	cds	no	cinkos	conservative
+a	svp	no	fösvény	conservative
+n	cds	no	lusta	conservative
+n	pa	yes	jogtanácsos	inclusive
+n	ddp	yes	bunkó	inclusive
+n	cds	no	fajankó	conservative
+n	ddp	yes	fecsegő	conservative
+n	om	no	nemesasszony	inclusive
+n	pa	yes	sheepherders	inclusive
+n	cds	no	riffraff	conservative
+n	ps	yes	zsidók	inclusive
+n	cds	no	tanárok	inclusive
+n	cds	no	szabad és elfogadott kőműves	inclusive
+n	svp	no	torkosság	inclusive
+n	asf	no	tökfilkó	conservative
+n	pr	no	salak	conservative
+n	cds	no	nimfománia	conservative
+n	cds	no	line-shooter	conservative
+n	ddp	yes	gossiper	conservative
+n	pa	yes	jezsuita	inclusive
+v	asm	no	megkúr	conservative
+n	asm	no	idióta	inclusive
+n	an	no	csigák	inclusive
+n	cds	no	gossiper	conservative
+n	an	no	brent	inclusive
+n	qas	no	divulgement	inclusive
+n	qas	no	hazugság	conservative
+n	cds	no	mafiosi	inclusive
+n	dmc	yes	erkölcstelen	inclusive
+n	an	no	otus asio	inclusive
+n	pr	no	boci	inclusive
+n	cds	no	bloopers	inclusive
+n	ps	yes	fekete	inclusive
+n	pr	no	laza nő	conservative
+n	dmc	yes	erkölcs	inclusive
+n	dmc	yes	gengszterek	inclusive
+n	pa	yes	londiner	inclusive
+n	asf	no	szajha	conservative
+a	cds	no	sunyi	inclusive
+n	re	no	szexuális zaklatás	inclusive
+n	om	no	valgusz	inclusive
+n	svp	no	hét főbűn	inclusive
+n	cds	no	satyriasis	conservative
+n	svp	no	önszeretet	conservative
+n	dmc	yes	foltozószabó	conservative
+n	cds	no	moaner	conservative
+n	re	no	kín	inclusive
+n	an	no	kecsketej	inclusive
+n	cds	no	bordélyház	inclusive
+n	asm	no	bolond	conservative
+n	om	no	homophile	inclusive
+n	re	no	csecsemőgyilkosság	inclusive
+n	svp	no	scrooge	conservative
+a	ddf	yes	vak	inclusive
+n	ps	yes	hülye	conservative
+n	pr	no	epimys norvegicus	inclusive
+n	ps	yes	zsidó	inclusive
+n	an	no	hyaenidae	inclusive
+a	is	yes	szánalmas	conservative
+n	dmc	yes	homunkulusz	inclusive
+n	asm	no	merevedés	inclusive
+n	om	no	mediolateralis	inclusive
+n	an	no	mollusk	inclusive
+n	an	no	kutyák	inclusive
+n	ddp	yes	amentia	inclusive
+n	ddp	yes	animalia	inclusive
+n	re	no	számkivetett	inclusive
+n	or	no	bonce	inclusive
+n	asm	no	palimadár	conservative
+n	pa	yes	hentes	inclusive
+n	om	no	anális szex	inclusive
+n	ddp	yes	analfabetizmus	inclusive
+n	re	no	bűncselekmény	inclusive
+n	an	no	csökönyös ember	conservative
+n	is	yes	scrooge	conservative
+n	an	no	kismalac	inclusive
+n	om	no	ulnaris	inclusive
+n	cds	no	csúszómászó	conservative
+a	asm	no	kávébarna	inclusive
+n	cds	no	összeesküvés-elmélet	inclusive
+n	cds	no	kaszinó	inclusive
+n	dmc	yes	hamisító	conservative
+n	cds	no	svindler	inclusive
+n	an	no	Ökör	inclusive
+a	cds	no	igényes	conservative
+n	re	no	csirkefogó	conservative
+n	om	no	paraszagittális	inclusive
+n	cds	no	smasszer	inclusive
+n	cds	no	mosdó	inclusive
+n	an	no	floozie	conservative
+n	om	no	homoszexuális	conservative
+n	svp	no	fennhéjázás	conservative
+n	an	no	bárány	inclusive
+n	asm	no	testis	inclusive
+n	an	no	relentlessness	conservative
+n	om	no	dorsalis	inclusive
+n	om	no	puff	conservative
+n	om	no	transzvesztita	inclusive
+n	cds	no	belső kör	inclusive
+n	qas	no	fémhulladék	inclusive
+n	om	no	furcsa	conservative
+n	om	no	crossdress	inclusive
+n	ddp	yes	késleltet	inclusive
+n	cds	no	tattletale	conservative
+n	cds	no	ócskavas	inclusive
+n	asm	no	madárvilág	inclusive
+n	an	no	rovarok	inclusive
+n	an	no	mesterkélt	conservative
+n	svp	no	lustaság	inclusive
+n	om	no	mesterkélt	conservative
+n	cds	no	kerítő	inclusive
+n	cds	no	maffia	inclusive
+n	cds	no	pedagógiai	inclusive
+n	qas	no	bárói	inclusive
+n	pr	no	borsos lepkefaj	inclusive
+n	asm	no	fasz	conservative
+n	svp	no	gőg	conservative
+n	re	no	plagizált	inclusive
+n	cds	no	semmirekellő	conservative
+n	ps	yes	mestizaje	conservative
+n	dmc	yes	pseud	conservative
+a	ddp	yes	ízetlen	inclusive
+n	cds	no	taneszköz	inclusive
+n	cds	no	uzsorakamat	conservative
+a	ddp	yes	íztelen	inclusive
+n	om	no	sinistro-dextralis	inclusive
+n	an	no	egyszerű ember	conservative
+n	pa	yes	könyvelők	inclusive
+n	ps	yes	néger	inclusive
+n	an	no	nő chaser	conservative
+n	ddp	yes	puding fej	conservative
+n	cds	no	briganti	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	an	no	angolnafélék	inclusive
+n	an	no	semmirekellő	conservative
+v	cds	no	firkál	inclusive
+n	dmc	yes	csavargó	conservative
+n	cds	no	gyors, egy	conservative
+n	cds	no	nosy-parker	conservative
+n	cds	no	semmittevő	conservative
+n	is	yes	gazember	conservative
+n	svp	no	kellemetlen	inclusive
+a	ddf	yes	sánta	inclusive
+n	asf	no	betise	conservative
+n	cds	no	sznob	conservative
+n	svp	no	árokásó	conservative
+n	cds	no	sonny boy	inclusive
+n	om	no	contralateralis	inclusive
+n	an	no	gazember	conservative
+n	cds	no	archpriest	inclusive
+n	pa	yes	docense	inclusive
+n	qas	no	baromság	inclusive
+n	om	no	fenék	inclusive
+n	asm	no	saphead	conservative
+n	dmc	yes	ez és ez	conservative
+n	an	no	tökfilkó	conservative
+n	cds	no	blowhard	conservative
+n	dmc	yes	no-számla	conservative
+n	dmc	yes	söpredék táska	conservative
+n	or	no	brassica rapa	inclusive
+n	dmc	yes	erkölcsi iránytű	inclusive
+n	cds	no	rendőrnő	inclusive
+n	qas	no	község lakója	inclusive
+n	dmc	yes	halászcsónak	inclusive
+n	asf	no	váltott	conservative
+n	asf	no	changelings	conservative
+n	asm	no	gyengeelméjű	inclusive
+n	asm	no	teste	inclusive
+n	cds	no	közepes tehetségű ember	conservative
+n	ps	yes	palimadár	conservative
+n	svp	no	tightfistedness	conservative
+n	an	no	varangyosbéka	inclusive
+n	an	no	házidisznó	inclusive
+n	an	no	birka-	inclusive
+n	cds	no	tudományosság	inclusive
+n	cds	no	nouveau-riche	inclusive
+n	om	no	peronealis	inclusive
+n	cds	no	amateurishness	conservative
+n	svp	no	semmittevés	inclusive
+n	dmc	yes	trifler	conservative
+n	cds	no	szilárd hulladék	conservative
+n	an	no	cakehole	inclusive
+n	cds	no	beszerzése	inclusive
+n	an	no	csibe	inclusive
+n	cds	no	matcher	inclusive
+n	an	no	megcsalt férj	conservative
+n	cds	no	bébi qualifier	inclusive
+n	re	no	plagiarizing	inclusive
+n	cds	no	tudálékosság	inclusive
+n	cds	no	narcizmus	inclusive
+n	qas	no	honfitárs	inclusive
+n	cds	no	beszerzése	conservative
+n	dmc	yes	fanatizmus	conservative
+n	an	no	mikróba	inclusive
+n	cds	no	homunculi	inclusive
+n	re	no	neonaticide	inclusive
+n	cds	no	érmét regény	inclusive
+n	cds	no	síróbaba	conservative
+n	ps	yes	növényfajták oltalmára	inclusive
+n	an	no	tyúkfajta	inclusive
+n	pa	yes	ügyvéd	inclusive
+n	re	no	furiousness	inclusive
+n	svp	no	abulia	inclusive
+n	pr	no	férfi kíséret	conservative
+n	qas	no	szedett-vedett és bobtail	conservative
+n	is	yes	szegények	inclusive
+n	om	no	szodomita	inclusive
+n	dmc	yes	hitehagyott	conservative
+n	an	no	zooerastia	conservative
+n	cds	no	könyvmoly	conservative
+n	an	no	állatélet	inclusive
+n	cds	no	loansharking	inclusive
+n	an	no	bagolyalakúak	inclusive
+n	cds	no	feje turvydom	inclusive
+n	dmc	yes	bűnügyi	inclusive
+n	or	no	meleg	conservative
+n	an	no	bika	inclusive
+n	cds	no	Összeesküvés-elmélet	inclusive
+n	ddp	yes	fuser	conservative
+n	cds	no	probléma	conservative
+n	cds	no	szemetet	inclusive
+n	dmc	yes	paraszt	conservative
+n	re	no	lopott tulajdon	inclusive
+n	cds	no	bálványimádó	inclusive
+n	cds	no	bűnügy	inclusive
+n	cds	no	szőrszálhasogató	conservative
+n	cds	no	autolatry	inclusive
+n	svp	no	amour propre	conservative
+n	cds	no	jogfosztás	conservative
+n	om	no	megerőszakolt	inclusive
+n	an	no	jelentéktelen ember	conservative
+n	dmc	yes	csoportos it	conservative
+a	svp	no	mérges	inclusive
+n	or	no	uborka	inclusive
+n	an	no	zooerasty	conservative
+n	om	no	ventrális	inclusive
+n	cds	no	uzsorások	conservative
+n	re	no	mafiosi	conservative
+n	dmc	yes	csavargók	inclusive
+n	asm	no	maxilliped	inclusive
+n	qas	no	alkalmazkodó	conservative
+n	asm	no	wank	conservative
