@@ -1,0 +1,2569 @@
+n	an	no	salainen vihollinen
+n	cds	no	sluibari
+n	an	no	roskaväki
+n	asm	no	nookie
+n	cds	no	sotku
+n	om	no	homo
+n	ddp	yes	tiedä mitään
+n	cds	no	viisastelija
+n	is	yes	lurjus
+n	asf	no	idiotismi
+n	qas	no	hutiloija
+n	asm	no	helppo uhri
+a	ddp	yes	alaikäinen
+n	cds	no	apina
+n	asf	no	codswallop
+n	qas	no	cadger
+n	cds	no	kriminaali
+a	dmc	yes	siveetön
+v	qas	no	munia
+n	qas	no	tuhertelija
+n	an	no	tomfool
+n	ddp	yes	pillock
+n	ddp	yes	molopää
+n	cds	no	pikkuvalhe
+n	or	no	lunkhead
+n	dmc	yes	teeskentelijä
+a	pa	yes	pedanttinen
+v	asm	no	olla intiimissä suhteessa
+n	svp	no	dilly-dallier
+n	an	no	huijausta
+a	qas	no	ällöttävä
+n	cds	no	pahvipää
+n	pr	no	ammattihaureus
+n	cds	no	runkku
+n	dmc	yes	slackers
+n	svp	no	kiihko
+n	svp	no	omavaltaisuus
+n	cds	no	äiti kusipää
+n	ddp	yes	lauma
+a	dmc	yes	halveksittava
+n	dmc	yes	tekopyhä
+n	is	yes	pihtaaja
+n	re	no	valtioterrorismi
+n	svp	no	nolla
+n	is	yes	traaginen konna
+n	dmc	yes	koijari
+n	asm	no	doofus
+a	dmc	yes	alhainen
+a	ddp	yes	hidasjärkinen
+n	asm	no	syntipukki; t+
+n	cds	no	chiseler
+a	dmc	yes	epäaito
+n	asf	no	kiltsi
+n	re	no	väkisinmakuu
+n	cds	no	höntti
+n	cds	no	valehdella
+n	svp	no	turhuus
+a	svp	no	himokas
+n	an	no	typeryys
+n	ddp	yes	uhri
+n	cds	no	paskapää
+n	cds	no	puoli-pint
+n	cds	no	tierosvo
+v	qas	no	skäbätä
+a	dmc	yes	epäkohtelias
+n	an	no	puupää
+n	asm	no	nainti
+n	ps	yes	syntipukki; t+
+n	ddp	yes	järjetön
+n	cds	no	mafioso
+n	cds	no	perkele
+n	pr	no	mies saattajan
+n	asf	no	lievästi t+
+n	dmc	yes	hobo
+n	cds	no	mulkku
+n	cds	no	ryökäle
+n	qas	no	amatöörimäisyys
+n	asf	no	narri
+n	asm	no	pala hännän
+n	pr	no	crack huora
+n	svp	no	omahyväisyys
+n	or	no	pahvipää
+n	asm	no	flouter
+n	cds	no	naispoliisi
+n	pr	no	street tyttö
+a	dmc	yes	halpamainen
+n	cds	no	outlawry
+n	svp	no	omanarvontunto
+n	re	no	väkisinmakaaminen
+n	om	no	hinaaja
+n	asf	no	pöllöpää
+n	cds	no	ilkikurinen
+a	svp	no	rahanahne
+n	qas	no	vale
+n	dmc	yes	yliloikkari
+a	svp	no	kova halu saavuttaa jtk
+n	pa	yes	moukka
+n	an	no	sika
+n	asm	no	vetää käteen
+n	cds	no	törky
+n	or	no	knucklehead
+n	asf	no	tyhmyri
+n	cds	no	juorukello
+n	dmc	yes	irstailija
+n	ddp	yes	debiili
+a	cds	no	epäkohtelias
+n	cds	no	pelkuruus
+n	asm	no	mäntti
+v	an	no	pauhata
+n	asf	no	jälkeenjäänyt
+n	an	no	mäntti
+n	ps	yes	hömelö
+n	dmc	yes	myrkyllinen haju
+v	ddp	yes	tainnuttaa
+n	cds	no	voihkija
+n	pr	no	prostituointi
+n	cds	no	pelkurimainen
+n	is	yes	konna
+a	cds	no	egoistinen
+n	om	no	pederasti
+n	cds	no	laina sharking
+n	cds	no	yksityisetsivä
+n	dmc	yes	sluibari
+n	cds	no	nostolaitteisto pois
+n	cds	no	hävyttömyys
+n	or	no	hammerhead
+v	asm	no	petkuttaa
+a	dmc	yes	tunkkainen
+n	cds	no	fasistisen hallinnon
+n	an	no	läskipää
+n	or	no	paskapää
+n	qas	no	tunari
+n	svp	no	gorger
+n	ps	yes	nenästä vedettävä henkilö
+n	cds	no	rosvo
+n	cds	no	nopeasti yksi
+n	pa	yes	sivistymättömyys
+a	dmc	yes	hurjasteleva
+n	cds	no	snobi
+n	dmc	yes	veijari
+n	asf	no	lunkhead
+v	asm	no	yhtyä
+n	cds	no	venality
+n	cds	no	hulttio
+n	cds	no	laiskuri
+n	dmc	yes	petturi
+a	dmc	yes	kevytkenkäinen
+n	an	no	koketti
+n	qas	no	perättömyys
+n	an	no	floozie
+n	cds	no	ilkikurisuus
+n	om	no	kummallinen
+n	ddp	yes	köntys
+n	re	no	terroriverkosto
+n	asf	no	möhläys
+v	qas	no	tumpeloida
+n	ddp	yes	pöhkö
+n	or	no	yksinkertainen ihminen
+n	or	no	pillock
+n	svp	no	superbia
+n	an	no	scelus
+n	ddp	yes	helppo uhri
+n	ddp	yes	surullinen säkki
+n	an	no	taulapää
+a	svp	no	vihainen
+n	cds	no	nyhverö
+v	asm	no	maata
+v	cds	no	paasata
+n	cds	no	valittaja
+n	re	no	kiristys
+n	cds	no	valehteleminen
+n	an	no	internet huijausta
+n	qas	no	melulauma
+n	cds	no	suuri pesemätön
+n	asm	no	runkkaus
+n	dmc	yes	pseudo
+n	om	no	nyyhky
+n	cds	no	rahalainaamot
+n	rci	yes	barbaari
+n	cds	no	äärioikeistolainen
+n	dmc	yes	tekohurskaus
+n	dmc	yes	bandiitti
+n	ddp	yes	väkijoukko
+n	rci	yes	barbaarit
+n	dmc	yes	libertinism
+n	an	no	hölynpöly
+n	ddp	yes	stupe
+n	cds	no	suupaltti
+v	asm	no	bylsiä
+n	cds	no	öykkäri
+a	svp	no	rietas
+a	svp	no	kaunainen
+n	cds	no	häpeämättömyys
+n	cds	no	kähveltäjä
+n	cds	no	surkimus
+n	cds	no	pahaa valmistus
+n	ps	yes	helppo uhri
+n	an	no	naisteniskijä
+n	qas	no	lauma
+n	svp	no	ylimielisyys
+n	pa	yes	barbaarinen
+n	dmc	yes	poropeukalo
+n	cds	no	fasismi
+a	svp	no	mustasukkainen
+n	cds	no	dastardliness
+n	dmc	yes	karkeakäytöksisyys
+n	ddp	yes	läskipää
+n	or	no	homoseksuaali
+n	svp	no	raivoa
+n	cds	no	katujengi
+n	asf	no	helposti narrattava uhri
+n	asf	no	höntti
+n	cds	no	taantumuksellinen
+n	an	no	folderol
+n	dmc	yes	lorvija
+n	ddp	yes	nysverö
+n	ddp	yes	melulauma
+n	cds	no	romu
+n	re	no	kiristäminen
+a	cds	no	kavala
+n	ps	yes	lakupekka
+n	cds	no	tuhertelija
+n	cds	no	uho
+n	ddp	yes	tylsämielisyys
+n	or	no	homophile liikkeen
+n	dmc	yes	pahis
+n	pr	no	ällötys
+n	cds	no	kömpelys
+n	cds	no	julkeus
+a	svp	no	himoitseva
+n	svp	no	tightfistedness
+n	asm	no	runkki
+n	dmc	yes	salaamista
+n	cds	no	kakara
+n	or	no	pillu
+n	is	yes	villainous
+n	cds	no	urkkija
+n	om	no	queer
+n	an	no	vamper
+n	an	no	uskoton nainen
+n	cds	no	valkoinen valhe
+n	an	no	rosvo
+n	ddp	yes	syntipukki; t+
+n	asf	no	emättimen
+n	cds	no	huijaat
+n	or	no	pöllöpää
+n	cds	no	irtolainen
+n	qas	no	töhertäjä
+n	svp	no	fanaatikko
+a	svp	no	ahnas
+n	dmc	yes	ilkiö
+n	cds	no	gossiper
+n	qas	no	fumbler
+n	dmc	yes	libertinismi
+n	cds	no	ylimielisyys
+n	an	no	zooerasty
+n	ddp	yes	taulapää
+n	cds	no	intoilija
+n	cds	no	bellyacher
+n	cds	no	pikkuvaras
+n	cds	no	villainous
+n	pa	yes	kiipijä
+n	an	no	villainous
+n	cds	no	juoruakka
+n	cds	no	pöty
+n	pr	no	lumppu
+v	asm	no	tehdä petos
+n	or	no	tyhmä
+n	ddp	yes	tyhjä puhe
+n	svp	no	gourmand
+n	cds	no	dogmaattisuus
+a	ddp	yes	kasvuikäinen
+a	cds	no	raukkamainen
+n	cds	no	kierous
+n	cds	no	nörtti
+n	an	no	surkimus
+n	ddp	yes	hölmö
+n	an	no	huora
+n	cds	no	poliisi
+n	pr	no	lehmä
+n	cds	no	keikari
+a	re	no	kiivas
+n	cds	no	wonk
+n	asf	no	aasi
+a	svp	no	koppava
+n	dmc	yes	maleksija
+a	ddp	yes	kykenemätön
+n	an	no	diddly-shit
+n	qas	no	sciolist
+n	asf	no	dumbass
+n	pr	no	homssu
+n	ddp	yes	muttonhead
+n	dmc	yes	rogue
+n	svp	no	lorvi
+n	asf	no	yksinkertainen ihminen
+n	cds	no	fibber
+n	asf	no	vako
+n	an	no	diddlysquat
+n	asf	no	pöllö
+n	cds	no	loansharking
+n	cds	no	jengiväkivalta
+n	an	no	ällötys
+a	dmc	yes	roistomainen
+n	cds	no	lurjus
+n	pr	no	lortto
+n	re	no	herjaaja
+n	cds	no	törkyisyys
+n	asf	no	likka
+n	re	no	sisilian mafia
+n	asf	no	typykkä
+n	asm	no	möhläys
+n	cds	no	molopää
+n	dmc	yes	harhauttaja
+a	qas	no	nyyhky-
+a	svp	no	kostonhimoinen
+a	dmc	yes	julma
+n	om	no	gay
+n	svp	no	kitsaus
+n	pr	no	john
+n	ps	yes	hölmö
+n	pa	yes	tomppeli
+v	qas	no	kiusata
+n	cds	no	pöljä
+n	cds	no	dirty dog
+a	pa	yes	opettajamainen
+n	ddp	yes	nonsensicality
+n	om	no	paederast
+a	dmc	yes	siivoton
+a	dmc	yes	paheellinen
+n	cds	no	kantelupukki
+n	cds	no	slyboots
+n	ddp	yes	yksinkertainen ihminen
+a	cds	no	epärehellinen
+n	ddp	yes	tuittupää
+n	svp	no	kuhnailija
+n	pr	no	hutsu
+a	ddp	yes	tietämätön
+n	qas	no	barbaari
+n	dmc	yes	epäkohteliaisuus
+n	an	no	moukkamaisuus
+n	dmc	yes	hayseed
+n	asf	no	nenästä vedettävä henkilö
+n	is	yes	parka
+n	ddp	yes	lörpöttelijä
+n	cds	no	saivartelija
+n	cds	no	nössö
+n	an	no	konna
+n	ps	yes	puoli-kastiin
+n	cds	no	kiihkoilija
+n	an	no	pip-kitistä
+a	pa	yes	pikkumainen
+n	svp	no	penninvenyttäjä
+n	ddp	yes	huiputtaa
+n	or	no	kusipää
+n	an	no	epäpätevä henkilö
+n	cds	no	mäntti
+n	om	no	nance
+n	ps	yes	turmelija
+n	qas	no	sovinnainen
+n	dmc	yes	libertinistit
+a	dmc	yes	nuhruinen
+n	cds	no	muss
+n	an	no	kelmi
+n	dmc	yes	paskiainen
+n	pr	no	nautinnonantaja
+n	an	no	aisuri
+n	svp	no	korkea-kätisyys
+n	svp	no	koppavuus
+n	cds	no	tattletale
+n	cds	no	sutenööri
+n	cds	no	nosy-parker
+n	dmc	yes	hylkiö
+n	asm	no	runkkari
+n	cds	no	demagogi
+n	ps	yes	raakalainen
+v	qas	no	kohdella pirullisesti
+a	qas	no	imelä
+n	re	no	kiristystä
+a	re	no	pidättämätön
+n	cds	no	pollari
+n	svp	no	hotkija
+n	ddp	yes	pahvipää
+n	cds	no	rintamakarkuri
+n	dmc	yes	haisunäätä
+n	dmc	yes	rotta
+n	asm	no	juntti
+n	cds	no	rehentelijä
+n	dmc	yes	näyttelijä
+a	ddp	yes	häijy
+n	cds	no	maantie agentti
+n	pr	no	säädytön nainen
+n	dmc	yes	kapinallinen
+n	asf	no	luupää
+v	asm	no	huiputtaa
+n	cds	no	tietokonenörtti
+n	an	no	doodly-kyykky
+n	cds	no	jerk-off
+n	is	yes	visukinttu
+n	cds	no	keppostelija
+n	asm	no	pöllö
+a	dmc	yes	huikenteleva
+n	an	no	hullu
+n	cds	no	reaktionääri
+n	cds	no	yhdyskuntajäte
+n	ddp	yes	moukka
+n	svp	no	hulttio
+n	cds	no	mielistelijä
+n	ddp	yes	roska
+n	dmc	yes	pikkuvaras
+n	asf	no	tomfool
+n	dmc	yes	kuhnailija
+n	dmc	yes	häijyys
+n	re	no	konna
+n	cds	no	vaikeus
+n	om	no	homopuppeli
+n	qas	no	kärttäjä
+n	svp	no	itsevaltaisuus
+n	cds	no	rutivanhollinen
+a	cds	no	taidokas
+a	svp	no	saita
+n	dmc	yes	barbaarinen
+n	svp	no	kopeus
+n	cds	no	kätyri
+n	asf	no	liirumlaarum
+n	dmc	yes	elostelija
+v	asm	no	hassutella heinikossa
+n	cds	no	addikti
+n	ps	yes	boche
+n	dmc	yes	velttoilija
+n	qas	no	typerys
+a	dmc	yes	immoraalinen
+a	cds	no	ylimielinen
+n	asf	no	nenästä vedettävä tyyppi
+a	dmc	yes	julkea
+v	an	no	raivota
+n	an	no	ääliö
+n	pr	no	pidetty nainen
+n	an	no	lumppu
+n	pr	no	homssuinen nainen
+n	asf	no	kimma
+n	cds	no	retale
+n	ps	yes	fritsi
+n	svp	no	turhamaisuus
+n	cds	no	pedantikko
+n	ddp	yes	nuija
+n	ddp	yes	merkityksettömyys
+n	cds	no	pelkuri
+n	dmc	yes	puoli-pint
+n	qas	no	siivelläeläjä
+n	om	no	homppeli
+n	an	no	pöljä
+n	ddf	yes	puoli-pint
+n	ddp	yes	fumbler
+n	cds	no	maalaistollo
+n	svp	no	pöyhkeys
+n	qas	no	tagalong
+n	dmc	yes	öykkäri
+a	dmc	yes	löyhkäävä
+n	dmc	yes	petosta
+n	cds	no	vainooja
+n	cds	no	jepari
+n	qas	no	diletantti
+n	ddp	yes	tyhmä
+a	qas	no	pinnallinen
+n	cds	no	farisealainen
+n	an	no	pullukka
+v	qas	no	töpätä
+n	cds	no	silmänkääntäjä
+a	is	yes	ahdasmielinen
+a	svp	no	kipakka
+n	ddp	yes	lörpötellä
+n	cds	no	nykiminen pois
+n	svp	no	syöppö
+n	asf	no	vaihdokas
+n	asf	no	roska
+n	svp	no	laiskimus
+n	ddp	yes	hupsu
+n	svp	no	velttous
+n	cds	no	jengi
+a	an	no	saita
+n	ps	yes	debiliteetti
+n	asm	no	jeerer
+n	an	no	aisankannattajat
+n	svp	no	ahmatti
+a	cds	no	laskelmoiva
+n	cds	no	weisenheimer
+n	an	no	juntti
+n	dmc	yes	tekohurskas
+a	ddp	yes	juveniilinen
+n	pr	no	katunainen
+n	svp	no	haughtiness
+n	dmc	yes	haju
+n	cds	no	tyhmä
+n	an	no	vihaisuus
+n	an	no	aasi
+n	an	no	tyllerö
+n	re	no	hirmuvalta
+n	or	no	luupää
+n	dmc	yes	dillydallier
+n	dmc	yes	parka
+a	ddp	yes	aivoton
+n	asm	no	nenästä vedettävä henkilö
+n	qas	no	tohelo
+n	asf	no	paskapää
+n	cds	no	kiihkomielisyys
+n	cds	no	veijarimaisuus
+n	ddp	yes	puoskari lääketieteen
+v	asm	no	vedättää
+n	cds	no	kansankiihottaja
+n	cds	no	turposi pää
+a	re	no	melskeinen
+a	cds	no	pikkumainen
+n	asm	no	tomppeli
+n	svp	no	kiihkoilua
+a	cds	no	vaativa
+n	cds	no	katsoja
+a	svp	no	hapan
+n	qas	no	emävalhe
+a	cds	no	nirppanokkainen
+n	qas	no	moocher
+n	cds	no	pedantti
+n	ddp	yes	puoskari lääkäri
+a	cds	no	katala
+v	cds	no	puhua siansaksaa
+n	svp	no	hanttapuli
+n	dmc	yes	traaginen konna
+a	dmc	yes	sopimaton
+n	cds	no	kansa
+n	re	no	häpäisijä
+n	cds	no	katujengit
+n	re	no	ilkimys
+n	cds	no	afrodisia
+n	qas	no	kintereillä roikkuja
+a	svp	no	ahne
+v	cds	no	jokeltaa
+n	an	no	vuokraa poika
+a	ddp	yes	sivistymätön
+n	an	no	lässyttäjä
+n	pr	no	hölynpöly
+n	dmc	yes	petoksentekijöiden
+a	ddp	yes	hölmö
+n	cds	no	koronkiskonta
+n	dmc	yes	haltiahahmo
+n	cds	no	lusmu
+n	asm	no	wank
+n	cds	no	rotta
+n	asf	no	betise
+n	qas	no	epätotuus
+a	svp	no	ahmattimainen
+n	ddp	yes	huijari
+a	dmc	yes	torjuva
+n	cds	no	poropeukalo
+n	svp	no	laiskuus
+n	ps	yes	hunni
+n	cds	no	pudden-head
+n	pa	yes	uncouthness
+n	cds	no	tyhmyri
+n	an	no	luupää
+n	pr	no	seksipalvelujen
+n	ddp	yes	hidastaa
+n	ddp	yes	gossipmonger
+n	om	no	homoseksuaali
+n	dmc	yes	sottapytty
+n	cds	no	taantumuksellisuus
+n	dmc	yes	petollinen
+a	svp	no	kärttyisä
+a	cds	no	nokkava
+n	cds	no	sisilian mafian
+n	qas	no	kulkuri
+n	ddp	yes	vätys
+n	ps	yes	nenästä vedettävä tyyppi
+n	ps	yes	hidastaa
+n	cds	no	pohjasakka
+n	cds	no	pandar
+n	qas	no	väkijoukko
+n	cds	no	leuhkija
+n	cds	no	kielletty
+n	dmc	yes	kitupiikki
+n	an	no	sanonko mikä
+a	cds	no	pettävä
+n	or	no	nuijapää
+a	ddf	yes	katala
+n	dmc	yes	ääliö
+n	ddp	yes	hokum
+n	ddp	yes	silmänkääntäjä
+n	svp	no	laiskottelija
+n	cds	no	kiinteän jätteen
+n	an	no	likainen temppu
+n	cds	no	wiliness
+n	cds	no	siivottomuus
+n	qas	no	parasiitti
+n	an	no	lehmä
+n	cds	no	jengi kulttuuria
+n	cds	no	ultrakonservatiivi
+n	ddp	yes	ääliö
+n	qas	no	öykkäri
+n	cds	no	lorvi
+n	dmc	yes	vetelys
+n	cds	no	nenästä vedettävä henkilö
+n	cds	no	syntinen
+n	ps	yes	neekeri
+n	cds	no	rogue
+n	cds	no	todistaja
+n	an	no	codswallop
+n	asf	no	debiili
+n	re	no	halventaja
+a	ddp	yes	lapsellinen
+n	dmc	yes	grifter
+n	cds	no	kyttä
+n	asm	no	nuija
+n	cds	no	bragger
+a	svp	no	itara
+a	svp	no	riidanhaluinen
+n	qas	no	loinen
+n	pr	no	rakastajatar
+n	ddp	yes	idiotismi
+n	asm	no	nynny
+n	cds	no	houkka
+n	an	no	nainen kyytipoika
+n	qas	no	emävale
+n	an	no	skäfä
+n	ddp	yes	raakimus
+n	qas	no	barbaarit
+n	or	no	hinttari
+n	an	no	saphead
+n	cds	no	slacker
+n	an	no	tietämätön ihminen
+n	qas	no	tomppeli
+a	cds	no	tukala
+n	dmc	yes	vetelehtijä
+n	an	no	lutka
+n	cds	no	metallijäte
+a	ddp	yes	hyväuskoinen
+n	cds	no	metkuilu
+n	cds	no	viekkaus
+n	svp	no	röyhkeys
+n	an	no	hiirulainen
+n	or	no	idiootti
+n	cds	no	kielikello
+n	dmc	yes	maalaistollo
+n	cds	no	ryöstäjä
+n	cds	no	itsekeskeisyys
+n	cds	no	valhe
+n	ddp	yes	oppimaton ihminen
+n	re	no	veijari
+n	ddp	yes	kantelija
+n	an	no	knucklehead
+a	cds	no	sikamainen
+n	qas	no	valkoinen valhe
+n	an	no	wuss
+n	or	no	jurpo
+n	an	no	diddley
+n	ddp	yes	twirp
+v	asm	no	maata jonkun kanssa
+n	is	yes	ryysyläinen
+n	dmc	yes	hanttapuli
+n	qas	no	valehteleminen
+n	cds	no	höhlä
+n	dmc	yes	barbaari
+n	re	no	italian mafian
+a	svp	no	ilkeä
+n	cds	no	konstaapeli
+n	cds	no	nenästä vedettävä tyyppi
+n	cds	no	fabricator
+n	ddf	yes	kääpiö
+n	ddp	yes	kusipää
+n	qas	no	valehdella
+v	qas	no	piinata
+n	cds	no	vetelehtijä
+n	asm	no	hölmö
+v	asm	no	puijata
+n	dmc	yes	tyhjäntoimittaja
+n	an	no	älykääpiö
+a	qas	no	kurja
+a	svp	no	säästäväinen
+n	cds	no	hylkiö
+n	cds	no	koppavuus
+a	cds	no	halveksittava
+n	cds	no	käpykaartilainen
+a	svp	no	rehvasteleva
+n	an	no	heittiö
+n	ps	yes	nuija
+n	cds	no	arvoitus
+n	ps	yes	ruiner
+a	svp	no	äkäinen
+a	dmc	yes	karkea
+n	dmc	yes	rakehell
+n	qas	no	riidanrakentaja
+n	dmc	yes	git
+n	an	no	diddly
+n	dmc	yes	ressukka
+n	ddp	yes	twaddler
+a	svp	no	dominoiva
+n	ps	yes	krauthead
+n	dmc	yes	hobos
+n	cds	no	hellion
+n	re	no	mustaaminen
+n	ddp	yes	suunpieksäjä
+n	cds	no	idiootti
+v	qas	no	rääkätä
+a	svp	no	harmistunut qualifier
+n	cds	no	omena kiillotuskone
+n	ddp	yes	paskiainen
+n	cds	no	satu
+n	an	no	diddly-kyykky
+n	qas	no	siipeilijä
+n	is	yes	villainess
+n	is	yes	penninvenyttäjä
+n	asf	no	kääpiöt
+n	ps	yes	tolvana
+n	cds	no	kahjo
+n	asm	no	seksi
+n	ddp	yes	kömpelys
+a	cds	no	akateeminen
+n	cds	no	toisten asioihin sekaantuja
+v	asm	no	olla sukupuoliyhteydessä
+n	an	no	ämmä
+n	asm	no	käden työtä
+n	ps	yes	mestiso
+n	svp	no	itserakkaus
+n	re	no	homo scelestus
+n	cds	no	pässinpää
+n	ddp	yes	tollo
+n	an	no	rahvaanomaisuus
+n	an	no	uhrilammas
+n	an	no	siivelläeläjä
+n	cds	no	kiusaaja
+n	cds	no	ongelmia
+n	svp	no	dillydallier
+n	svp	no	rintamakarkuri
+n	rci	yes	raakalainen
+a	svp	no	ärhäkkä
+n	an	no	väkijoukko
+n	ddp	yes	pöllö
+n	cds	no	koronkiskuri
+n	dmc	yes	dissimulator
+n	dmc	yes	barbaria
+n	cds	no	mahtailu
+n	cds	no	wuss
+a	re	no	kiihkeä
+n	asf	no	typeryys
+a	ddp	yes	julma
+n	an	no	betise
+n	an	no	rivous
+n	dmc	yes	kiihkoilija
+n	cds	no	sniveller
+n	cds	no	välttely
+a	dmc	yes	työtä vieroksuva
+n	dmc	yes	kiihkoilua
+n	dmc	yes	tekopyhyys
+n	cds	no	masturbointi
+n	cds	no	huijari
+n	ps	yes	doofus
+n	an	no	kuhnailija
+a	ddp	yes	ilkeä
+n	svp	no	vetelehtijä
+n	cds	no	tee-mitään
+n	svp	no	niggardliness
+n	cds	no	se ja se
+n	an	no	fiba
+n	ddp	yes	tapinreikä
+a	dmc	yes	suttuinen
+n	asf	no	syntipukki; t+
+n	cds	no	varas
+n	svp	no	pihtaaja
+n	dmc	yes	slacker
+n	cds	no	roskajoukko
+a	ddp	yes	nuoruusikä-
+n	an	no	matkija
+n	is	yes	saituri
+n	cds	no	jengit
+n	dmc	yes	tuhlaajapoika
+n	is	yes	scelus
+n	cds	no	mörökölli
+n	qas	no	valheet
+n	cds	no	ilkivalta
+n	qas	no	ongelmia maker
+a	svp	no	nyrpeä
+n	cds	no	petkuttaja
+n	ddp	yes	kääkkä
+n	dmc	yes	tekopyhät
+n	cds	no	hypersexual
+n	ps	yes	barbaarinen
+a	dmc	yes	kurja
+n	an	no	rentboy
+n	or	no	höntti
+n	svp	no	no-tili
+n	dmc	yes	sanonko mikä
+n	cds	no	foxiness
+n	asm	no	rakastelu
+n	or	no	homot
+n	an	no	tumppi
+n	cds	no	saappaannuolija
+a	ps	yes	raivostunut
+n	an	no	nössö
+a	svp	no	vihamielinen
+n	or	no	muttonhead
+n	dmc	yes	ikävä ihminen
+n	dmc	yes	fibber
+a	svp	no	halveksiva
+n	an	no	nenästä vedettävä henkilö
+n	cds	no	vetelys
+n	cds	no	konformisti
+n	dmc	yes	chiseler
+n	cds	no	pahantekijä
+a	ddf	yes	alhainen
+n	cds	no	lowlife
+n	cds	no	emävale
+n	ps	yes	hävittäjä
+a	an	no	brutaali
+a	cds	no	luihu
+n	ddp	yes	jurpo
+n	ps	yes	debiili
+a	cds	no	liukas
+n	ddp	yes	puupää
+n	cds	no	homssuinen henkilö
+n	ps	yes	ilkivallantekijä
+n	rci	yes	moukka
+n	or	no	mäntti
+n	qas	no	botcher
+n	an	no	hempukka
+n	re	no	rikollinen
+n	svp	no	ylpeys
+n	ps	yes	idiotismi
+a	dmc	yes	huono
+n	asm	no	pöhkö
+n	pr	no	lunttu
+n	cds	no	jengiläinen
+n	ddp	yes	lavertelija
+n	re	no	solvaaja
+a	dmc	yes	laiska
+n	ddf	yes	skäfä
+n	pr	no	gigolo
+n	re	no	raiskaus
+a	svp	no	taipuvainen ylensyöntiin
+n	ps	yes	uprooter
+n	asm	no	betise
+n	dmc	yes	fanaatikko
+n	ps	yes	moukka
+n	pa	yes	tollo
+n	asm	no	hyväuskoisuus
+n	dmc	yes	hunsvotti
+n	pr	no	kokotti
+a	svp	no	tahdoton
+n	dmc	yes	trifler
+n	ps	yes	köntys
+n	ddp	yes	urpo
+a	ddf	yes	inhottava
+n	dmc	yes	tee-mitään
+n	svp	no	tyhjänpäiväisyys
+n	cds	no	parittaja
+n	cds	no	etana
+n	re	no	raiskaaja
+n	cds	no	wank
+n	dmc	yes	sika
+n	cds	no	metalliromu
+n	cds	no	nörtteys
+n	qas	no	heikko yksilö
+n	cds	no	pöllö
+n	an	no	ruma temppu
+n	cds	no	whiner
+n	svp	no	vetelys
+n	an	no	kahjo
+n	cds	no	wisenheimer
+n	ps	yes	mongoloids
+n	an	no	syntipukki; t+
+n	pr	no	floozie
+n	cds	no	sekamelska
+v	qas	no	feilata
+n	cds	no	cosa nostra
+n	an	no	mies prostituutio
+n	an	no	moukka
+n	qas	no	häirikkö
+n	ddf	yes	vaahtosammutin
+n	asf	no	knucklehead
+n	cds	no	tärkeilevyys
+n	qas	no	hylätä
+n	an	no	hupsu
+n	re	no	sarja raiskaaja
+n	cds	no	nyyhky
+n	an	no	tyhmyys
+n	cds	no	pöllöpää
+v	asm	no	hässiä
+n	svp	no	saamattomuus
+a	svp	no	kärttyinen
+n	asf	no	torvi
+n	cds	no	parka
+n	cds	no	fanatismi
+n	dmc	yes	valhe
+n	qas	no	harrastelija
+v	qas	no	sekoittaa
+n	cds	no	korruptoituneisuus
+n	cds	no	heikko yksilö
+n	cds	no	oveluus
+n	dmc	yes	laiskottelija
+n	cds	no	renttu
+v	asm	no	olla sukupuoliyhdynnässä
+n	re	no	roisto
+n	pr	no	harppu
+n	cds	no	hylätä
+n	dmc	yes	löyhkä
+n	dmc	yes	hutilus
+n	cds	no	lörppö
+n	an	no	mies prostituoitu
+n	dmc	yes	luopio
+a	svp	no	aggressiivinen
+n	an	no	tyhmyri
+n	cds	no	italian mafian
+n	asf	no	pimppi qualifier
+n	dmc	yes	fumbler
+n	an	no	tiedä mitään
+n	cds	no	pahaa
+n	cds	no	gangsterism
+n	ps	yes	mutiainen
+n	re	no	mafia
+n	ddp	yes	pudden-head
+n	qas	no	poropeukalo
+n	pr	no	narttu
+n	asm	no	ruuvaamalla
+n	cds	no	ongelma
+v	qas	no	kohdella julmasti
+n	asm	no	kahjo
+n	cds	no	barbaari
+n	dmc	yes	huijarin
+n	cds	no	itsevaltaisuus
+n	cds	no	viikari
+n	cds	no	rupusakki
+n	pr	no	lady ilo
+v	qas	no	pilata
+a	an	no	raakalaismainen
+n	asm	no	käsityö
+n	dmc	yes	petkuttaja
+n	pr	no	huoraaminen
+n	asm	no	tyhmyri
+n	dmc	yes	villainous
+n	cds	no	swaggerer
+a	qas	no	tunteileva
+n	cds	no	aloittelija
+n	dmc	yes	tunari
+n	pr	no	fornicatress
+v	qas	no	samentaa
+n	ps	yes	mongolidi
+n	an	no	raakamaisuus
+n	cds	no	pöyhistely
+n	svp	no	tyhjäntoimittaja
+n	cds	no	isottelu
+n	cds	no	itsekeskeisyyttä
+n	cds	no	kujeilija
+a	dmc	yes	brutaali
+n	cds	no	raapustaja
+n	ddp	yes	lievästi t+
+n	ps	yes	lievästi t+
+n	svp	no	gourmandizer
+n	an	no	sottapytty
+a	an	no	aivoton
+n	cds	no	banditti
+n	dmc	yes	huiputtaja
+n	asm	no	muhinointi
+n	ps	yes	pöljä
+n	ddp	yes	blunderer
+n	an	no	höntti
+n	svp	no	minginess
+a	svp	no	hyökkäävä
+n	an	no	yksinkertainen ihminen
+n	cds	no	ihmisraukka
+n	ddp	yes	zooerasty
+n	cds	no	poltroon
+n	cds	no	pillock
+n	asm	no	nussiminen
+n	cds	no	sivustakatsoja
+n	asf	no	tohelo
+n	ps	yes	jerry
+n	an	no	vuokran poikien
+a	cds	no	pollea
+n	pr	no	prostituoituja
+n	svp	no	kitupiikki
+n	svp	no	laiskuri
+n	asf	no	kahjo
+n	cds	no	poliiseja
+v	asm	no	kavaltaa
+n	pr	no	seksityö
+n	cds	no	scelus
+n	cds	no	linja-ampuja
+n	cds	no	roskakirjailija
+n	ddp	yes	vaihdokas
+n	asf	no	tyttö
+n	cds	no	mahtailija
+n	cds	no	käytännön jokeri
+n	or	no	stupe
+v	qas	no	söhlätä
+n	is	yes	kitupiikki
+n	cds	no	cowardliness
+n	ddp	yes	dumbass
+n	cds	no	botcher
+n	svp	no	saituri
+n	dmc	yes	irtolainen
+n	cds	no	nymfomaani
+n	an	no	tohelo
+a	svp	no	saamaton
+n	re	no	raper
+n	an	no	homo scelestus
+n	ddp	yes	tunari
+a	is	yes	onneton
+n	cds	no	laiskimus
+n	cds	no	puoskari
+a	svp	no	pikavihainen
+n	ddp	yes	nenästä vedettävä tyyppi
+n	cds	no	äärimmäisen oikeistolainen
+a	ddf	yes	ruma
+a	dmc	yes	saamaton
+n	an	no	höhlä
+n	asm	no	roll heinää
+n	cds	no	itserakkaus
+n	ps	yes	barbaari
+n	dmc	yes	kömpelys
+n	cds	no	teurastaa
+n	cds	no	kantelija
+n	or	no	homophile
+n	pr	no	kevytkenkäinen nainen
+n	cds	no	pahanilkisyys
+n	cds	no	ongelmaa
+a	qas	no	raivokas
+n	asm	no	molo
+a	qas	no	banaali
+n	ddp	yes	älykääpiö
+n	cds	no	lukutoukka
+n	an	no	mitättömyys
+n	an	no	inexorability
+n	ddp	yes	möhläys
+n	om	no	homofiili
+n	cds	no	fumbler
+n	svp	no	dallier
+n	cds	no	korkea-kätisyys
+n	asf	no	pöhkö
+n	svp	no	hyödyttömyys
+n	ddp	yes	tietämättömyys
+n	asf	no	urpo
+n	om	no	hinuri
+n	cds	no	nuuskia
+n	ddp	yes	järjetöntä
+n	asm	no	nysverö
+n	asm	no	masturbointi
+n	cds	no	lavertelija
+a	svp	no	kopea
+n	an	no	huijauksia
+n	dmc	yes	hyvä-for-nolla
+n	an	no	lyhytkasvuinen ihminen
+n	ddp	yes	barbaarinen
+n	an	no	horatsu
+n	cds	no	nulikka
+a	qas	no	hurja
+n	cds	no	liehakoija
+n	ddp	yes	eläimeen sekaantuminen
+n	cds	no	tomfool
+v	asm	no	olla sukupuoliyhteydessä jkn kanssa
+n	asf	no	tyhmä
+n	dmc	yes	kulkuri
+n	an	no	inexorableness
+n	svp	no	ojankaivuukone
+n	cds	no	quidnunc
+n	qas	no	surullinen säkki
+n	pr	no	kortteliralli
+n	ddp	yes	humpuukimestari
+n	an	no	typerys
+n	cds	no	ilkiö
+n	an	no	tyhjäntoimittaja
+n	ps	yes	kahjo
+n	an	no	valistumaton ihminen
+n	cds	no	juonikkuus
+n	ps	yes	darkie
+n	cds	no	codswallop
+a	ddp	yes	herkkäuskoinen
+n	or	no	poove
+n	an	no	git
+n	ddp	yes	luupää
+n	cds	no	tomppeli
+a	cds	no	alhainen
+n	qas	no	rettelöitsijä
+n	re	no	nuorisorikollinen
+a	svp	no	ylpeä
+n	ddp	yes	vanukas pään
+n	asm	no	runkku
+n	qas	no	pummi
+n	cds	no	taleteller
+n	an	no	keinotella
+n	ddp	yes	doofus
+n	ddp	yes	empirismi
+a	dmc	yes	tuhoisa
+n	an	no	pöllö
+n	cds	no	huiputtaja
+n	svp	no	hunsvotti
+n	cds	no	hölynpöly
+n	cds	no	jäte
+a	svp	no	närkästynyt
+n	is	yes	tatterdemalion
+n	asf	no	hupsu
+n	an	no	penninvenyttäjä
+n	pr	no	vuokraa poika
+n	cds	no	roska
+n	dmc	yes	ryöstäjä
+n	dmc	yes	raakalainen
+n	an	no	fuckhead
+n	cds	no	kiskuri
+n	ps	yes	tyhmä
+n	or	no	aasi
+n	pr	no	roska
+n	dmc	yes	blunderer
+n	is	yes	ressukka
+n	asf	no	vagina
+n	asf	no	helppo uhri
+a	svp	no	itseriittoinen
+n	or	no	homopuppeli
+n	dmc	yes	churl
+a	cds	no	hurskasteleva
+n	dmc	yes	villejä
+a	re	no	raisu
+n	cds	no	paritus
+n	or	no	juntti
+n	an	no	eläimeen sekaantuminen
+n	cds	no	lainsuojattomuus
+n	an	no	prickteaser
+n	dmc	yes	joutilas
+n	cds	no	giikki
+n	re	no	vilifier
+n	an	no	sottainen ihminen
+v	asm	no	kähveltää
+n	or	no	tyhmyri
+v	an	no	rynnätä
+n	or	no	tussu qualifier
+n	asm	no	twirp
+n	an	no	pahis
+v	ddp	yes	huumata
+n	asf	no	idiotia
+n	cds	no	näpistelijä
+n	cds	no	yksinkertainen ihminen
+n	om	no	lässyttäjä
+n	pr	no	mies prostituoitu
+n	an	no	zooerastia
+a	cds	no	ovela
+n	cds	no	äärikonservatiivi
+a	dmc	yes	epäsiisti
+n	re	no	päivämäärä raiskaus
+a	an	no	raaka
+n	cds	no	raukka
+n	an	no	villainess
+a	svp	no	musertava
+n	asm	no	halveksija
+n	re	no	villainous
+n	cds	no	epäsiisti ihminen
+n	an	no	diddlyshit
+n	an	no	haisunäätä
+n	asm	no	pilkkaaja
+n	pr	no	nainen
+n	ddp	yes	tyhmyri
+a	dmc	yes	häikäilemätön
+n	dmc	yes	renttu
+n	dmc	yes	harhaanjohtaminen
+a	cds	no	demagoginen
+n	ddp	yes	lunkhead
+n	ddf	yes	lyhytkasvuinen ihminen
+n	cds	no	superbia
+n	ddp	yes	pahvi
+n	or	no	ääliö
+n	dmc	yes	kelmi
+n	ddp	yes	torvi
+n	cds	no	vetää käteen
+v	qas	no	hässiä
+n	cds	no	haughtiness
+n	ddp	yes	saphead
+a	ddp	yes	perehtymätön
+n	cds	no	traaginen konna
+v	asm	no	nussia
+a	svp	no	pippurinen
+n	ddp	yes	höhlä
+n	cds	no	omakiva
+n	asf	no	doofus
+v	qas	no	hoidella päin mäntyä
+n	qas	no	roska
+n	qas	no	valheellisuus
+n	dmc	yes	rintamakarkuri
+n	dmc	yes	bandit
+n	ps	yes	idiotia
+n	cds	no	massa
+a	qas	no	äitelä
+n	ddp	yes	oppimattomuus
+n	cds	no	egotismi
+a	dmc	yes	moraaliton
+n	dmc	yes	no-tili
+n	an	no	hoax
+n	an	no	narri
+n	an	no	myötäilijä
+n	asf	no	taulapää
+a	cds	no	lipevä
+n	re	no	terroriteko
+n	dmc	yes	käpykaartilainen
+n	dmc	yes	hulttio
+a	svp	no	riitaisa
+a	cds	no	minäkeskinen
+n	qas	no	hutilus
+n	an	no	pelle
+n	asm	no	torvi
+n	cds	no	pilferer
+n	an	no	epäpätevä
+n	dmc	yes	ulkokultainen
+n	cds	no	veijari
+a	dmc	yes	väärennetty
+n	ps	yes	saku
+n	an	no	häijyys
+n	svp	no	itsekeskeisyyttä
+a	ddp	yes	alkeellinen
+n	cds	no	nulkki
+n	svp	no	nuukuus
+n	ddp	yes	suupaltti
+n	asf	no	tollo
+n	pr	no	harlotry
+n	cds	no	fawner
+n	cds	no	muskelimies
+n	ps	yes	pässinpää
+n	ps	yes	mestis
+n	cds	no	sakki
+a	svp	no	toimeton
+n	ddp	yes	munapää
+n	an	no	kouluttamattomia henkilö
+v	asm	no	mennä sänkyyn jkn kanssa
+n	dmc	yes	pettäjä
+a	svp	no	irstas
+n	an	no	raakimus
+n	svp	no	saituus
+n	cds	no	puppu
+n	re	no	pahis
+n	an	no	raakuus
+n	asm	no	paalu
+n	cds	no	reaktionaari
+a	an	no	eläimellinen
+n	pr	no	sutenööri
+a	qas	no	surkea
+n	cds	no	riiviö
+n	an	no	sukupuoliyhdyntä eläimen kanssa
+n	cds	no	suuri yleisö
+n	dmc	yes	jurottaa
+n	or	no	hinaaja
+n	asf	no	fuckhead
+n	ddp	yes	idiotia
+n	ddp	yes	typerä
+n	dmc	yes	ilkimys
+n	an	no	lunkhead
+n	cds	no	pöhkö
+a	svp	no	abuulinen
+n	cds	no	sekaantuja
+n	an	no	ilkimys
+a	cds	no	pelokas
+n	pr	no	luuska
+n	cds	no	teennäisyys
+a	re	no	verenpunainen
+a	dmc	yes	epämiellyttävän hajuinen
+n	cds	no	finagler
+n	rci	yes	tollo
+a	re	no	verinen
+n	re	no	defamer
+n	ddp	yes	hölynpölyä
+n	cds	no	ylpeys
+n	or	no	läskipää
+n	or	no	hintti
+n	qas	no	riitapukari
+n	cds	no	koulumamselli
+n	an	no	sivistymättömyys
+a	svp	no	kiivas
+n	ddp	yes	puppu
+n	pr	no	pahansisuinen ämmä
+n	dmc	yes	koronkiskuri
+n	an	no	homssu
+n	dmc	yes	pilferer
+n	cds	no	moukka
+n	cds	no	nahjus
+n	cds	no	groveler
+n	dmc	yes	kähveltäjä
+n	or	no	tollo
+n	cds	no	kiduttaja
+n	asf	no	tomppeli
+n	dmc	yes	keskinkertaisuus
+n	ddp	yes	huono kala
+n	an	no	lauma
+n	ddp	yes	rotta
+n	cds	no	pelkurimaisuus
+av	an	no	typerästi
+n	qas	no	villejä
+n	cds	no	rahaa luotonanto
+n	asf	no	kusipää
+n	asm	no	tomfool
+n	ps	yes	mutakuono
+n	qas	no	tylsimys
+n	ddp	yes	sukupuoliyhdyntä eläimen kanssa
+n	an	no	saasta laukku
+n	an	no	laiskuri
+n	an	no	loinen
+av	an	no	tollosti
+n	cds	no	pummi
+n	dmc	yes	surullinen säkki
+n	cds	no	hyperseksuaalisuus
+a	cds	no	imarteleva
+n	svp	no	etana
+n	cds	no	paritukseen
+n	cds	no	hybris
+n	cds	no	joutilas
+n	cds	no	conceitedness
+n	cds	no	hupsu
+n	re	no	kelmi
+n	qas	no	iilimato
+n	pa	yes	barbaria
+n	an	no	pölkkypää
+n	cds	no	suuret luulot
+n	cds	no	scrawler
+a	om	no	homoseksuaalinen
+n	cds	no	pöyhkeys
+a	dmc	yes	ilkeä
+n	ps	yes	keltainen rotu
+n	cds	no	jengikulttuuri
+n	or	no	puppeli
+n	cds	no	besserwisser
+a	dmc	yes	lemuava
+n	asf	no	tylsämielisyys
+a	ddp	yes	jälkeenjäänyt
+n	dmc	yes	maanpetturi
+n	is	yes	häijy
+a	ddf	yes	epätyydyttävä
+n	pr	no	löysä nainen
+a	qas	no	diletanttinen
+n	asf	no	emätin
+n	ddp	yes	codswallop
+n	cds	no	pätkä
+n	ps	yes	typerys
+n	an	no	prostituoitu
+n	cds	no	kaikkitietävä tyyppi
+a	ddp	yes	tyhmä
+n	pr	no	prostituoitu
+n	an	no	rogue
+n	svp	no	kitsastelu
+n	an	no	minx
+n	cds	no	toisen rater
+n	cds	no	opettaja
+n	qas	no	töhrijä
+n	asf	no	puppu
+n	re	no	maligner
+n	svp	no	ahneus
+a	ddp	yes	järjetön
+n	cds	no	barbaria
+n	svp	no	hyvä-for-nolla
+n	pr	no	huoruuden
+n	svp	no	raivonsa
+n	cds	no	surullinen säkki
+n	qas	no	valeet
+v	cds	no	moralisoida
+n	cds	no	maleksija
+n	re	no	traaginen konna
+a	cds	no	viekas
+a	dmc	yes	niljakas
+n	dmc	yes	rikollinen
+n	dmc	yes	dallier
+n	ddf	yes	rääpäle
+n	cds	no	aivopähkinä
+n	asm	no	tohelo
+a	is	yes	surkea
+n	ddp	yes	puoskarointi
+n	asm	no	ilkkuja
+n	cds	no	barbaarit
+n	asm	no	herkkäuskoisuus
+n	an	no	laiskimus
+n	dmc	yes	ryökäle
+v	qas	no	sotkea
+n	ddp	yes	churl
+n	re	no	panettelu
+a	dmc	yes	kelvoton
+n	dmc	yes	nuorisorikollinen
+n	dmc	yes	huono ihminen
+n	or	no	urvelo
+v	asm	no	muhinoida
+n	an	no	puppu
+a	dmc	yes	teko-
+n	svp	no	joutilas
+n	ddp	yes	julmuus
+n	cds	no	omavaltaisuus
+n	cds	no	pool huijaat
+n	asf	no	pöljä
+n	cds	no	roskaa
+n	pr	no	röyhkeä narttu
+n	ddp	yes	debiliteetti
+n	dmc	yes	pummi
+n	cds	no	mellastava ihmisjoukko
+a	an	no	julma
+n	ddp	yes	petturi
+n	an	no	rupusakki
+a	dmc	yes	tekaistu
+n	an	no	keimailija
+n	ddp	yes	sodomia
+n	svp	no	jurottaa
+n	ddp	yes	gawk
+n	asm	no	ääliö
+n	an	no	sodomia
+n	asm	no	mollaaja
+n	dmc	yes	käppänä
+n	dmc	yes	konna
+n	cds	no	tollo
+n	cds	no	tekopyhä
+n	pr	no	urheilu lady
+n	cds	no	groveller
+n	cds	no	petturi
+n	cds	no	saphead
+n	an	no	naistenmetsästäjä
+n	an	no	irtolainen
+n	asm	no	nenästä vedettävä tyyppi
+n	or	no	taulapää
+v	asm	no	rakastella
+n	ps	yes	nekru
+n	pr	no	puppu
+n	an	no	nynny
+n	cds	no	boastfulness
+n	an	no	julmuri
+n	cds	no	sottainen ihminen
+n	an	no	raahustaja
+n	cds	no	nymfomania
+a	dmc	yes	säädytön
+n	cds	no	fanaatikko
+n	re	no	kunnianloukkaus
+n	cds	no	koijari
+n	dmc	yes	rääpäle
+n	ddp	yes	zooerastia
+n	cds	no	homssu
+n	an	no	ihmispeto
+n	pa	yes	villejä
+n	dmc	yes	scelus
+a	cds	no	leuhka
+n	cds	no	kansan syvät rivit
+n	ps	yes	mestizaje
+n	rci	yes	villejä
+a	svp	no	ärsyyntynyt
+n	asf	no	mäntti
+n	ddp	yes	pöljä
+n	asf	no	tipu
+n	cds	no	rikoksentekijä
+n	om	no	lapsen hyväksikäyttäjä
+n	ddp	yes	knucklehead
+n	or	no	homoseksualisti
+a	dmc	yes	siekailematon
+n	cds	no	itsekäs
+n	or	no	hölmö
+n	asf	no	houkka
+n	is	yes	ryysypekka
+n	asm	no	pässinpää
+n	an	no	houkka
+n	ddp	yes	pässinpää
+n	cds	no	kuhnailija
+n	asf	no	höhlä
+a	svp	no	itsekeskeinen
+a	dmc	yes	pahanhajuinen
+n	pr	no	huora
+n	an	no	pässinpää
+n	asf	no	läskipää
+n	re	no	rosvo
+n	cds	no	wangler
+n	an	no	katala roisto
+n	an	no	ilkiö
+a	svp	no	tuittupäinen
+a	qas	no	tunteellinen
+n	svp	no	slacker
+n	cds	no	tricker
+n	qas	no	syökset
+n	om	no	homophile liikettä
+n	ps	yes	tollo
+n	re	no	villainess
+a	dmc	yes	petollinen
+n	ddp	yes	vasikka
+n	asm	no	shtup
+n	ddp	yes	kielikello
+a	ddp	yes	rajoittunut
+n	cds	no	neropatti
+a	svp	no	äreä
+n	an	no	etana
+n	ps	yes	mäntti
+n	ddp	yes	mielettömyys
+a	svp	no	pahantuulinen
+n	dmc	yes	haista
+n	ddp	yes	kahjo
+n	svp	no	tekopyhä
+a	ddp	yes	epäpätevä
+n	om	no	hinttari
+n	cds	no	kätyrit
+n	pr	no	seksityöntekijä
+a	ddp	yes	oppimaton
+n	cds	no	mahtailevuus
+n	an	no	lammas
+a	cds	no	korruptoitunut
+a	dmc	yes	törkyinen
+n	dmc	yes	libertiinit
+n	an	no	paskapää
+n	dmc	yes	tomppeli
+n	ps	yes	idiootti
+n	cds	no	fašismi
+a	pa	yes	turhantarkka
+n	cds	no	riippuvainen
+n	svp	no	visukinttu
+n	an	no	viikari
+n	cds	no	emävalhe
+a	is	yes	liikuttava
+n	cds	no	chiseller
+a	svp	no	pahoillaan
+n	dmc	yes	lingerer
+n	re	no	herjaajan
+v	asm	no	huijata
+n	dmc	yes	koira
+n	cds	no	hakata kirjailija
+n	dmc	yes	tuhlari
+n	is	yes	ihmisraukka
+n	asf	no	puupää
+n	asf	no	folderol
+n	ps	yes	mongolidit
+n	pa	yes	churl
+n	asf	no	vähä-älyinen
+n	pr	no	ilotyttö
+n	cds	no	villainess
+a	cds	no	opettajamainen
+n	asf	no	juntti
+n	asf	no	hame
+n	asm	no	pöljä
+n	an	no	nanus
+a	svp	no	joutilas
+a	svp	no	ylimielinen
+a	qas	no	pintapuolinen
+n	cds	no	churl
+n	an	no	pöllöpää
+n	dmc	yes	ulkokultaisuus
+n	dmc	yes	heittiö
+a	dmc	yes	jäljittelevä
+n	an	no	hylkiö
+n	cds	no	pahis
+n	ps	yes	vandaali
+v	cds	no	höpistä
+n	re	no	libeler
+n	ddp	yes	terveydenhuollon petoksia
+a	svp	no	epäsiveellinen
+n	re	no	treffiraiskaus
+n	cds	no	koronkiskontaa
+n	re	no	solvaus
+n	cds	no	valheellisuus
+n	cds	no	vanukas pään
+n	cds	no	hölösuu
+n	or	no	tomppeli
+a	dmc	yes	ahdasmielinen
+a	ddp	yes	raakalaismainen
+n	dmc	yes	toisen rater
+n	ddp	yes	äiti kusipää
+a	ddf	yes	halveksittava
+n	dmc	yes	landepaukku
+n	cds	no	vaahtosammutin
+n	cds	no	laskelmoivuus
+n	cds	no	omanarvontunto
+n	an	no	roisto
+n	pr	no	nainen street
+n	svp	no	täysi nolla
+n	qas	no	mahtaileva höpsötys
+a	svp	no	pöyhkeä
+n	ddp	yes	lörppö
+n	ps	yes	imbesilli
+n	an	no	ahne henkilö
+n	an	no	nyyhky
+n	cds	no	fasistit
+n	dmc	yes	dilly-dallier
+n	ps	yes	vähä-älyinen
+n	dmc	yes	pinnari
+n	pr	no	seksityöläinen
+n	cds	no	kirjallisuuden hakata
+a	ddp	yes	typerä
+n	dmc	yes	vitkastelija
+n	ps	yes	nigga
+a	ddp	yes	eläimellinen
+n	cds	no	nuuskija
+n	or	no	pölkkypää
+n	an	no	tuksu
+n	cds	no	moaner
+n	dmc	yes	epäoikeudenmukaisuus
+n	asf	no	köntys
+n	cds	no	cheekiness
+n	ddp	yes	tomfool
+n	or	no	pimppi qualifier
+n	svp	no	pinnari
+n	cds	no	matelija
+n	svp	no	mässäilijä
+a	cds	no	mairea
+n	cds	no	vaunter
+a	pa	yes	akateeminen
+n	pa	yes	barbaari
+n	cds	no	saasta laukku
+n	ddp	yes	vittupää
+n	dmc	yes	se ja se
+n	an	no	sloven
+n	ddp	yes	ferociousness
+n	cds	no	pahvi
+a	dmc	yes	haiseva
+a	ddp	yes	vilpitön
+n	asm	no	tyhmyys
+a	dmc	yes	katala
+n	dmc	yes	paha haju
+n	ps	yes	sekarotuinen
+n	cds	no	valehtelu
+a	svp	no	ärtyisä
+n	cds	no	syntipukki; t+
+n	cds	no	rikollinen
+n	cds	no	juoruilija
+n	cds	no	splashiness
+n	ps	yes	ääliö
+n	an	no	karkeus
+n	cds	no	runkkaus
+n	an	no	torvi
+n	pr	no	huijari
+n	asm	no	herkkäuskoisuutta
+n	an	no	haaskalintu
+a	an	no	ilkeä
+n	qas	no	konformisti
+n	ps	yes	narri
+n	an	no	raakalainen
+a	svp	no	väheksyvä
+n	svp	no	vimma
+n	ddp	yes	idiootti
+n	cds	no	hayseed
+n	an	no	lutku
+n	pr	no	comare
+n	re	no	mustamaalaaja
+n	dmc	yes	varas
+n	dmc	yes	maalaisjuntti
+n	ddp	yes	botcher
+n	qas	no	roskaväki
+n	ps	yes	tylsämielisyys
+n	ps	yes	churl
+n	cds	no	oveluuden
+v	asm	no	harrastaa vaakamamboa
+n	ddp	yes	poropeukalo
+n	svp	no	pummi
+n	ps	yes	kömpelys
+n	cds	no	bootlicker
+n	qas	no	norkoilija
+n	cds	no	rinki
+n	an	no	röyhkeä narttu
+n	pr	no	bawd
+a	cds	no	pöyhkeä
+n	ddp	yes	sekopää
+n	an	no	hame kyytipoika
+n	cds	no	valehtelija
+a	svp	no	juopotteleva
+n	or	no	gay
+n	ddp	yes	persreikä
+n	cds	no	git
+n	or	no	hinuri
+n	an	no	naissankari
+n	re	no	debaucher
+n	svp	no	pihiys
+n	cds	no	touhottaja
+n	qas	no	valehtelu
+n	cds	no	roisto
+v	asm	no	maata jkn kanssa
+n	dmc	yes	hutiloija
+n	svp	no	lorvija
+n	qas	no	pohjasakka
+n	ps	yes	barbaria
+n	asf	no	muttonhead
+n	cds	no	tärkeilijä
+n	ddp	yes	mulkku
+n	pr	no	lutku
+n	om	no	homot
+n	an	no	kiskuri
+v	qas	no	kädettää
+a	dmc	yes	ennakkoluuloinen
+a	ddf	yes	niljakas
+a	ddp	yes	brutaali
+a	dmc	yes	rikollinen
+n	dmc	yes	prevaricator
+n	cds	no	nörtit
+n	cds	no	piru
+n	an	no	savage
+n	ps	yes	mongolidinen rotu
+n	ps	yes	kääpiöt
+a	dmc	yes	pahaa
+a	is	yes	ennakkoluuloinen
+a	cds	no	lahjottavissa oleva
+n	svp	no	maleksija
+n	pr	no	kaupallisen seksin
+a	svp	no	itserakas
+n	ddp	yes	pölkkypää
+n	an	no	dumbass
+n	or	no	kahjo
+n	cds	no	veitikka
+a	qas	no	kiihkeä
+n	cds	no	nuorisojengit
+n	or	no	twats
+v	qas	no	missata
+a	cds	no	tyhmä
+n	re	no	terroritekoa
+n	or	no	typerys
+n	cds	no	nöyristelijä
+n	cds	no	mammanpoika
+n	or	no	dumbass
+n	pr	no	äkäpussi
+n	cds	no	paholainen
+n	qas	no	rupusakki
+n	cds	no	barbaarinen
+n	cds	no	meddler
+n	cds	no	rahanvaihtajille
+v	qas	no	mämmätä
+n	cds	no	ostentatiousness
+n	cds	no	hienostelija
+n	pr	no	sottainen nainen
+n	cds	no	vittupää
+n	ddp	yes	häijyys
+n	asf	no	idiootti
+v	qas	no	sählätä
+a	svp	no	mahtaileva
+n	cds	no	utelija
+n	ddp	yes	hömelö
+n	or	no	pudden-head
+v	qas	no	fibata
+a	svp	no	katkera
+n	an	no	säälimättömyys
+v	qas	no	tuhria
+n	cds	no	kavaluus
+n	ps	yes	helposti narrattava uhri
+n	ddp	yes	tohelo
+n	ddp	yes	typeryys
+n	dmc	yes	rosvo
+a	cds	no	itsekeskeinen
+n	asm	no	vittu
+n	ps	yes	mestitsi
+n	svp	no	trencherman
+n	ddp	yes	fiba
+n	ddp	yes	prater
+n	cds	no	hoaxer
+n	ps	yes	pölkkypää
+n	cds	no	röyhkeys
+n	is	yes	roisto
+n	an	no	epäsiisti ihminen
+n	cds	no	urvelo
+a	cds	no	öykkärimäinen
+n	an	no	taipumattomuus
+n	dmc	yes	lemu
+a	qas	no	harrastelijamainen
+n	re	no	terroristijärjestö
+n	an	no	pummi
+n	dmc	yes	täysi nolla
+n	dmc	yes	huijaus
+n	dmc	yes	töykeä
+n	an	no	pätkä
+n	an	no	käärme ruoho
+n	an	no	koira
+n	svp	no	syömäri
+n	svp	no	suursyömäri
+n	an	no	läski
+n	an	no	paskiainen
+n	cds	no	lainan hait
+n	cds	no	helposti narrattava uhri
+n	cds	no	alokas
+n	cds	no	romurauta
+n	dmc	yes	moraalittomuus
+n	ddp	yes	narri
+n	asm	no	heppi
+n	ps	yes	tohelo
+n	ps	yes	nahkahousu
+n	cds	no	hölmö
+n	cds	no	kiihkoilu
+n	re	no	terrori
+v	qas	no	tunaroida
+v	qas	no	möhlätä
+a	svp	no	tärkeilevä
+a	dmc	yes	kevytmielinen
+n	om	no	homophile liikkeen
+n	an	no	pohjasakka
+n	ddp	yes	gossiper
+n	svp	no	kiihkoilija
+v	asm	no	pettää
+n	cds	no	nysväke
+a	ddp	yes	houkkamainen
+n	cds	no	pinko
+n	ddp	yes	nynny
+n	cds	no	fascisti
+a	cds	no	nokkela
+n	qas	no	hätävalhe
+a	cds	no	rinta rottingilla oleva
+n	cds	no	mahtipontisuus
+n	an	no	punkero
+n	dmc	yes	moukka
+n	cds	no	myötäilijä
+n	cds	no	mahtaileva höpsötys
+n	om	no	pedofiilin
+n	cds	no	satyriasis
+n	re	no	terroristi
+n	an	no	hammerhead
+n	cds	no	omahyväisyys
+n	dmc	yes	fabricator
+n	om	no	homophile
+n	asm	no	idiootti
+a	qas	no	hullu
+a	cds	no	itseriittoinen
+n	an	no	nyhverö
+n	cds	no	keltanokka
+n	cds	no	vintiö
+n	or	no	homofiili
+n	an	no	fossiili
+a	svp	no	rivo
+n	svp	no	huijari
+n	qas	no	raakalainen
+v	asm	no	panna
+n	cds	no	joukkio
+n	an	no	veijari
+n	ps	yes	urpo
+n	cds	no	yhdyskuntajätteen
+n	ddp	yes	nonsense
+n	an	no	se ja se
+n	ddp	yes	kouluttamattomia henkilö
+n	cds	no	liirumlaarum
+n	dmc	yes	roisto
+n	pr	no	huorittelu
+n	cds	no	tyhjäntoimittaja
+n	qas	no	teurastaa
+n	ddp	yes	taleteller
+a	is	yes	saita
+a	qas	no	mielisairas
+n	an	no	huijari
+v	asm	no	pilkata
+n	dmc	yes	chiseller
+n	dmc	yes	maantierosvo
+n	an	no	ferociousness
+n	cds	no	penman
+n	cds	no	turhamaisuus
+a	ddf	yes	halpamainen
+n	cds	no	stupe
+n	qas	no	roikkuja
+a	dmc	yes	epäjalo
+v	asm	no	naida
+n	asf	no	pölkkypää
+n	an	no	mammanpoika
+n	dmc	yes	paha
+n	or	no	queer
+n	ddp	yes	barbaarit
+a	ddf	yes	viheliäinen
+v	qas	no	töpeksiä
+n	pr	no	parittaja
+a	cds	no	pelkuri
+n	svp	no	niggardness
+n	cds	no	riitapukari
+n	re	no	ryökäle
+n	an	no	hulttio
+n	asf	no	pillua
+n	ddp	yes	vihaisuus
+n	ps	yes	jigaboo
+n	asf	no	nuijapää
+n	dmc	yes	ahne henkilö
+n	or	no	homo
+n	qas	no	hylkiö
+a	an	no	itara
+a	cds	no	karkea
+n	cds	no	kynäniekka
+n	cds	no	kettu
+n	asm	no	kalu
+n	cds	no	käden työtä
+a	cds	no	juonikas
+n	cds	no	skoude
+n	dmc	yes	oppineet libertiinit
+n	re	no	traducer
+n	re	no	raiskaajia
+v	qas	no	hämmentää
+n	cds	no	silmänkääntötemppu
+n	asm	no	jerk-off
+n	asm	no	saphead
+n	cds	no	mystifier
+n	or	no	tohelo
+n	dmc	yes	töykeys
+n	cds	no	jaarittelija
+n	asm	no	toope
+n	ddp	yes	urvelo
+n	cds	no	lainsuojaton
+n	cds	no	geek
+n	an	no	lowlife
+n	cds	no	häirikkö
+n	cds	no	pikkutarkka
+n	cds	no	kerskailija
+n	an	no	melulauma
+a	svp	no	hekumallinen
+v	qas	no	sohlata
+n	dmc	yes	valehtelija
+n	cds	no	joukko
+n	dmc	yes	häijy
+n	pr	no	pöty
+n	or	no	pöh
+n	dmc	yes	trickster jumala
+n	cds	no	hauteur
+a	svp	no	kiukkuinen
+n	pr	no	hellcat
+n	dmc	yes	retale
+n	cds	no	epätotuus
+n	svp	no	vetelehtiä-off
+n	cds	no	lauma
+n	is	yes	homo scelestus
+n	pr	no	avionrikkoja
+n	cds	no	villejä
+a	qas	no	suunniltaan oleva
+n	cds	no	häijy
+n	or	no	vanukas pään
+n	cds	no	käppänä
+n	an	no	raukka
+n	dmc	yes	takinkääntäjä
+n	svp	no	hauteur
+n	re	no	lurjus
+n	cds	no	koukussa oleva henkilö
+a	cds	no	typerä
+n	ddp	yes	höntti
+n	an	no	jilt
+a	qas	no	diletanttimainen
+a	ddp	yes	kypsymätön
+v	asm	no	hölmöillä
+n	svp	no	slackers
+n	an	no	möhläys
+n	pa	yes	raakalainen
+n	cds	no	vätys
+v	asm	no	olla seksisuhde
+n	ddp	yes	juorukello
+n	an	no	jahkailija
+a	cds	no	tympäisevä
+a	dmc	yes	irstas
+n	cds	no	huono kala
+n	dmc	yes	hurskastelija
+n	asf	no	typerys
+n	cds	no	amatöörimäisyys
+n	dmc	yes	pätkä
+v	asm	no	saada
+n	cds	no	maantierosvo
+n	cds	no	pahankurisuus
+a	cds	no	ääliömäinen
+n	dmc	yes	pahuus
+n	an	no	pöty
+n	an	no	tolvana
+a	qas	no	haaveileva
+n	om	no	twink
+n	qas	no	pikkuvalhe
+n	ddp	yes	roskaväki
+n	asm	no	fiba
+n	an	no	muttonhead
+a	dmc	yes	saita
+n	svp	no	ahnaus
+n	cds	no	folderol
+n	ddp	yes	villejä
+v	asm	no	harrastaa seksiä
+a	dmc	yes	itara
+n	ddp	yes	persereikä
+n	pr	no	kiukkuinen akka
+v	qas	no	möhliä
+n	or	no	tussu
+n	ps	yes	höntti
+n	cds	no	blunderer
+v	asm	no	kiksauttaa
+n	cds	no	ilkimys
+a	ddf	yes	pettymyksen aiheuttava
+a	svp	no	ylivoimainen
+a	qas	no	siirappinen
+n	asf	no	twats
+v	qas	no	ahdistaa
+n	svp	no	laiskajaakko
+n	an	no	julmuus
+a	an	no	typerä
+n	re	no	scelus
+a	cds	no	leveä
+n	svp	no	kituutus
+n	an	no	iilimato
+a	svp	no	työtä vieroksuva
+n	cds	no	kopeus
+n	dmc	yes	pahaa hajua
+a	dmc	yes	kauhistuttava
+a	svp	no	pollea
+n	dmc	yes	vaahtosammutin
+n	re	no	ryöstäjä
+n	qas	no	barbaarinen
+n	dmc	yes	tohelo
+n	an	no	häijy
+a	ddp	yes	nuori
+n	cds	no	runkkari
+n	cds	no	loanshark
+n	ddp	yes	betise
+n	svp	no	nälkä
+n	cds	no	vale
+n	ps	yes	tomppeli
+n	cds	no	landepaukku
+n	qas	no	tollo
+n	ddp	yes	savage
+n	re	no	panettelija
+n	asf	no	mirri
+n	an	no	lihapulla
+n	ddp	yes	folderol
+n	pr	no	prostituutio
+n	ddp	yes	pelle
+a	qas	no	kyynelehtivä
+n	cds	no	slackers
+n	cds	no	keskinkertaisuus
+n	cds	no	fasismin
+n	asm	no	jorma
+n	an	no	kitupiikki
+n	cds	no	chawbacon
+n	cds	no	itkupilli
+n	ddp	yes	epäpätevä henkilö
+n	an	no	dirty dog
+n	qas	no	välttely
+n	asm	no	mulkku
+n	an	no	itkupilli
+n	asm	no	credulousness
+n	svp	no	retale
+n	dmc	yes	rietastelija
+n	asm	no	typeryys
+n	asm	no	houkka
+n	re	no	rogue
+n	pr	no	tuksu
+n	cds	no	mussiness
+n	ddp	yes	bumbler
+n	om	no	pederast
+n	or	no	puupää
+n	om	no	poove
+n	cds	no	motkottaja
+n	cds	no	rikollisen pahaa
+n	cds	no	valeet
+n	cds	no	truckler
+n	cds	no	kusipää
+n	dmc	yes	petos
+n	pa	yes	barbaarit
+n	svp	no	conceitedness
+n	or	no	hupsu
+a	ddp	yes	raaka
+n	cds	no	vallattomuus
+n	an	no	tomppeli
+n	an	no	tyhmä
+n	an	no	helposti narrattava uhri
+n	cds	no	complainer
+a	svp	no	pahansuopa
+n	ddp	yes	tomppeli
+v	qas	no	tehdä sekavaksi
+n	dmc	yes	saasta laukku
+v	cds	no	lässyttää
+n	re	no	mafioso
+n	ddp	yes	epäpätevä
+n	pr	no	ilolintu
+n	cds	no	yliseksuaalisuus
+n	cds	no	paskalakki
+n	ddp	yes	pöllöpää
+n	cds	no	lössykkä
+a	svp	no	vihastuva
+n	dmc	yes	libertiini
+n	cds	no	juntti
+n	svp	no	raivo
+n	cds	no	kynäilijä
+n	asf	no	toope
+n	qas	no	riidankylväjä
+n	qas	no	barbaria
+n	cds	no	perättömyys
+n	cds	no	kiihko
+n	dmc	yes	paha ihminen
+n	an	no	katutyttö
+n	cds	no	huono yksilö
+n	ddp	yes	hullu
+n	ddp	yes	hulluus
+n	an	no	pelkuri
+n	an	no	narttu
+n	rci	yes	tomppeli
+a	re	no	railakas
+n	om	no	vammainen
+n	cds	no	sanonko mikä
+n	pr	no	huora-sanan käyttö
+n	an	no	armottomuus
+n	cds	no	rahanlainaaja
+n	ps	yes	mutsku
+n	cds	no	lässyttäjä
+n	dmc	yes	humpuuki
+n	an	no	lorvi
+n	or	no	vako
+n	cds	no	kerskuri
+n	cds	no	tohelo
+a	ddp	yes	ignorantti
+n	dmc	yes	riiviö
+n	pr	no	portto
+n	ddp	yes	tattletale
+n	asm	no	paneminen
+n	ddp	yes	puoskari
+n	an	no	barbaari
+n	dmc	yes	chawbacon
+a	ddp	yes	keskenkasvuinen
+a	ddp	yes	normaalin alapuolinen
+n	asm	no	nooky
+n	is	yes	resupekka
+a	svp	no	turhamainen
+n	cds	no	pröystäilijä
+n	rci	yes	barbaria
+n	cds	no	humpuukimestari
+n	cds	no	jengisotaan
+n	cds	no	petoksentekijöiden
+n	dmc	yes	homo scelestus
+n	an	no	helppo uhri
+n	ps	yes	jälkeenjäänyt
+n	dmc	yes	vilppi
+n	pr	no	lutka
+n	qas	no	churl
+n	cds	no	nörttiys
+n	cds	no	piinaaja
+a	is	yes	itara
+n	cds	no	lesottaja
+n	an	no	saituri
+n	cds	no	kantti
+n	cds	no	caitiff
+n	pr	no	eukko
+a	cds	no	öljyinen
+v	asm	no	kohdella kaltoin
+a	or	no	vaativa
+a	ddp	yes	typerää
+n	ps	yes	juntti
+n	asf	no	neitonen
+n	asf	no	hidastaa
+a	cds	no	junttimainen
+n	an	no	sekopää
+n	dmc	yes	leijona
+n	ps	yes	tuhoaja
+n	an	no	vetelys
+n	asf	no	pillu
+a	ddf	yes	odotuksenvastainen
+a	svp	no	kateellinen
+n	ddp	yes	raakalainen
+a	dmc	yes	väkivaltainen
+n	re	no	terrorismi
+n	ddp	yes	liirumlaarum
+n	cds	no	upseeri
+n	cds	no	persereikä
+n	re	no	cosa nostra
+n	cds	no	keplottelija
+n	ps	yes	sakemanni
+n	asf	no	debiliteetti
+n	cds	no	rääpäle
+n	ddp	yes	raakuus
+n	re	no	haukkuminen
+n	ddp	yes	hölynpöly
+n	dmc	yes	foetor
+n	ddp	yes	tolvana
+a	qas	no	sentimentaalinen
+n	om	no	puppeli
+n	cds	no	raakalainen
+n	ddp	yes	jaarittelija
+n	ddp	yes	mäntti
+n	ddp	yes	tyhmyys
+a	cds	no	kiero
+a	svp	no	omahyväinen
+n	ddp	yes	nuijapää
+n	dmc	yes	ihmisraukka
+a	qas	no	liikuttava
+a	dmc	yes	inhottava
+n	cds	no	paskiainen
+n	cds	no	skolastikko
+a	svp	no	ärtynyt
+n	cds	no	konnamaisuus
+n	an	no	rääpäle
+n	asm	no	kulli
+n	cds	no	roskaväki
+n	dmc	yes	fetor
+n	ddp	yes	tyhmeliini
+n	cds	no	valheet
+n	qas	no	satu
+a	svp	no	jörö
+n	svp	no	ravenousness
+n	asm	no	helposti narrattava uhri
+n	cds	no	jurpo
+n	an	no	siipeilijä
+n	is	yes	pahis
+a	ddp	yes	kokematon
+n	an	no	vätys
+n	asm	no	naida
+n	cds	no	supliikkimies
+n	cds	no	runkki
+n	dmc	yes	näyttävä mies
+a	cds	no	konnamainen
+n	cds	no	pilailija
+n	dmc	yes	vetelehtiä-off
+a	svp	no	kostonhaluinen
+n	or	no	kummallinen
+a	dmc	yes	raju
+a	ddp	yes	hidasälyinen
+n	dmc	yes	nolla
+n	cds	no	italian fasismi
+n	ddf	yes	pätkä
+n	cds	no	tunari
+n	qas	no	bumbler
+n	an	no	roska
+n	qas	no	huono yksilö
+n	dmc	yes	farisealainen
+n	cds	no	pillittäjä
+n	qas	no	amateurishness
+n	svp	no	toimettomuus
+n	qas	no	vetelehtiä
+a	cds	no	terävä
+n	ddp	yes	juoruakka
+n	svp	no	tee-mitään
+n	cds	no	fascismi
+n	cds	no	pihistäjä
+n	ddp	yes	fuckhead
+n	ddp	yes	järjettömyys
+n	pr	no	kuonaa
+n	dmc	yes	tollo
+n	pr	no	buncombe
+n	an	no	raunch
+n	cds	no	kitisijä
+n	qas	no	kömpelys
+n	dmc	yes	lowlife
+n	asf	no	fiba
+n	ddp	yes	ilmiantaja
+n	an	no	parasiitti
+n	ps	yes	puoli-rotu
+n	pr	no	katutyttö
+n	cds	no	laiskajaakko
+n	an	no	nahjus
+n	svp	no	boastfulness
+n	qas	no	moukka
+a	dmc	yes	paha
+n	ddp	yes	houkka
+n	asf	no	tytsy
+a	dmc	yes	toimeton
+n	om	no	pöh
+n	cds	no	epäjärjestys
+n	cds	no	narri
+a	ddp	yes	lapsekas
+a	cds	no	itsekäs
+n	qas	no	rauhanhäiritsijä
+n	ps	yes	gawk
+n	asm	no	narri
+n	cds	no	kyynärpäätaktikko
+n	dmc	yes	laiskajaakko
+n	an	no	aisankannattaja
+n	ddp	yes	paskapää
+n	ddp	yes	pöty
+a	svp	no	ärsyyntyvä
+n	cds	no	katselija
+a	ddp	yes	hidas
+n	an	no	mauttomuus
+v	qas	no	mokata
+n	an	no	ryöstelijä
+n	asf	no	pöty
+n	cds	no	fasisti
+n	dmc	yes	näpistelijä
+n	cds	no	fariseus
+n	pr	no	vuokran poikien
+n	ddp	yes	kantelupukki
+a	dmc	yes	rajoittunut
+n	cds	no	kelmi
+n	cds	no	kiskurikorko
+n	asm	no	kyrpä
+a	re	no	väkivaltainen
+n	an	no	nuijapää
+n	cds	no	gorilla
+n	svp	no	saaliinhimoisuus
+n	ddp	yes	hyväuskoinen hölmö
+n	ddp	yes	raakamaisuus
+n	ps	yes	mestizo
+a	ddp	yes	sinisilmäinen
+n	ddp	yes	typerys
+n	re	no	lievä raiskaus
+n	asm	no	omakiva
+n	cds	no	hätävalhe
+n	cds	no	kaappaaja
+n	an	no	idiootti
+n	cds	no	ääliö
+n	cds	no	nynny
+n	an	no	oppimaton ihminen
+n	cds	no	hutilus
+n	ddp	yes	helposti narrattava uhri
+n	asm	no	tollo
+n	om	no	hintti
+v	qas	no	munata
+n	re	no	naisenryöstö
+n	cds	no	kansankiihotus
+n	dmc	yes	huijari
+n	an	no	hienostumattomuus
+n	svp	no	turhuuden
+n	re	no	varas
+a	cds	no	ostettavissa oleva
+a	cds	no	turhantarkka
+n	ddp	yes	vähä-älyinen
+n	re	no	sisilian mafian
+n	re	no	kiristää
+n	cds	no	munapää
+n	om	no	homoseksualisti
+n	cds	no	parittajat
+n	cds	no	helppo uhri
+n	is	yes	riiviö
+a	dmc	yes	nurkkakuntainen
+n	cds	no	torvi
+n	ps	yes	tuhooja
+n	cds	no	vastus
+n	ps	yes	toope
+n	cds	no	kiihkoilua
+n	dmc	yes	faker
+n	cds	no	itsekkyys
+n	or	no	vittu
+n	cds	no	pölkkypää
+n	asf	no	hölynpöly
+a	ddf	yes	kurja
+n	an	no	lurjus
+n	asm	no	nostolaitteisto pois
+n	ddp	yes	jälkeenjäänyt
+n	pr	no	palturi
+a	dmc	yes	uskoton
+n	asf	no	tussu qualifier
+n	cds	no	cut-up
+n	cds	no	nuorisorikollinen
+n	ddp	yes	hammerhead
+n	asf	no	ääliö
+n	asm	no	nykiminen pois
+n	an	no	ikävä ihminen
+n	ddp	yes	kääpiöt
+n	re	no	irstailija
+n	ps	yes	ladino
+n	ddp	yes	tietämätön ihminen
+n	cds	no	koira
+n	re	no	herjaus
+n	cds	no	koronkiskoja
+n	ddp	yes	rupusakki
+n	cds	no	sika
+n	re	no	selkäänpuukottajan
+n	dmc	yes	välttelijä
+n	dmc	yes	petkuttaja jumala
+n	an	no	hellittämättömyys
+n	cds	no	myötäjuoksija
+n	pr	no	tytönletukka
+n	asf	no	tyhmyys
+a	dmc	yes	barbaarimainen
+n	dmc	yes	pihistäjä
+n	asm	no	perseen
+a	qas	no	mauton
+n	ddp	yes	imbesilli
+a	dmc	yes	umpimielinen
+n	cds	no	typerys
+a	dmc	yes	viheliäinen
+a	cds	no	pedanttinen
+a	dmc	yes	synkkä
+n	ps	yes	kraut
+n	ddp	yes	runkkari
+n	asm	no	tyhmä
+n	cds	no	grifter
+n	pr	no	horatsu
+n	an	no	pöhkö
+a	svp	no	heikkotahtoinen
+a	is	yes	nurkkakuntainen
+n	an	no	liehittelijä
+n	ddp	yes	paljastava
+n	asm	no	typerys
+n	cds	no	ahdasmielisyys
+n	rci	yes	barbaarinen
+n	cds	no	köntys
+n	or	no	pässinpää
+n	asf	no	tussu
+n	ps	yes	puoliverinen
+n	cds	no	bumbler
+n	an	no	renttu
+n	an	no	mies saattajan
+n	cds	no	opettajatar
+n	qas	no	huono hattu
+v	qas	no	tyriä
+n	svp	no	käpykaartilainen
+v	an	no	rynnistää
+n	asm	no	pano
+n	ddp	yes	aasi
+n	cds	no	maalaisjuntti
+n	cds	no	satyriaasi
+n	pr	no	mies prostituutio
+n	cds	no	hutiloija
+n	ddp	yes	hutiloija
+n	ps	yes	nigra
+n	an	no	reppana
+n	ps	yes	barbaarit
+n	cds	no	väkijoukko
+a	svp	no	äkeä
+n	asf	no	imbesilli
+n	or	no	nance
+v	cds	no	saarnata
+n	cds	no	paljastava
+n	cds	no	näsäviisas
+n	cds	no	konnuus
+a	dmc	yes	tahditon
+n	cds	no	kansanvillitsijä
+n	ddp	yes	hutilus
+a	re	no	hillitön
+n	re	no	kiristetään
+n	cds	no	rehvastelija
+n	re	no	terroriteosta
+n	cds	no	sovinnainen
+n	cds	no	reppana
+n	cds	no	populistinen
+n	cds	no	pulma
+n	ps	yes	villejä
+n	dmc	yes	barbaarit
+a	qas	no	mielenvikainen
+n	ddp	yes	julmuri
+a	svp	no	määräilevä
+n	an	no	homssuinen henkilö
+n	is	yes	kerjäläinen
+n	re	no	häpäisy
+n	asf	no	saphead
+n	qas	no	blunderer
+n	ddp	yes	ihmispeto
+a	is	yes	rajoittunut
+n	ps	yes	älykääpiö
+n	an	no	street tyttö
+n	re	no	parjaus
+n	an	no	traaginen konna
+n	cds	no	sloven
+a	om	no	homo
+n	re	no	viikari
+a	qas	no	onneton
+n	an	no	nysväke
+n	or	no	homppeli
+n	re	no	parjaaja
+n	ddp	yes	toope
+n	ddf	yes	nanus
+n	cds	no	lörpöttelijä
+a	svp	no	laiska
+n	dmc	yes	laiskuri
+n	an	no	paha ihminen
+n	an	no	rotta
+n	cds	no	hikipinko
+n	cds	no	sisilian mafia
+n	ps	yes	mestitsit
+n	asm	no	höhlä
+v	qas	no	kämmätä
+n	rci	yes	churl
+a	is	yes	säälittävä
+n	cds	no	bandiitti
+n	cds	no	presumptuousness
+n	ddp	yes	barbaria
+n	an	no	lortto
+n	dmc	yes	tramps
+n	re	no	häijy
+n	an	no	riistäjä
+n	dmc	yes	lurjus
+n	re	no	uskonnollinen terrorismi
+n	ddp	yes	lummox
+n	cds	no	haltuunottaja
+n	ps	yes	mongoloidi
+n	ddp	yes	barbaari
+n	dmc	yes	bumbler
+n	cds	no	pokkuroija
+n	cds	no	pelle
+n	ddp	yes	valistumaton ihminen
+n	ddp	yes	juoruilija
+a	svp	no	kitsas
+n	asf	no	hammerhead
+n	an	no	tollo
+n	ddf	yes	käppänä
+v	an	no	riehua
+n	qas	no	ilkivalta-maker
+a	svp	no	kärtyinen
+n	is	yes	ryökäle
+n	dmc	yes	botcher
+a	dmc	yes	väärä
+n	dmc	yes	juntti
+n	or	no	mirri
+a	ddf	yes	kelvoton
+n	an	no	naistenmies
+n	an	no	pudge
+n	an	no	hakkailija
+n	ddp	yes	perse
+n	dmc	yes	viikari
+n	cds	no	wheeler jälleenmyyjä
+n	dmc	yes	dirty dog
+n	cds	no	fanaattisuus
+a	dmc	yes	likainen
+n	asm	no	tolvana
+n	cds	no	kieroilu
+n	an	no	vamppi
+n	asf	no	vittu
+n	cds	no	marisija
+n	an	no	retale
+a	cds	no	moukkamainen
+n	ps	yes	lummox
+n	an	no	nenästä vedettävä tyyppi
+n	cds	no	asiattomuus
+n	ddp	yes	juntti
+n	cds	no	käsityö
+a	cds	no	petollinen
+n	cds	no	porsas
+a	dmc	yes	elosteleva
+n	or	no	pahvi
+n	cds	no	gossipmonger
+n	cds	no	rahvas
+n	cds	no	massat
+n	cds	no	bandit
+n	an	no	flirttailija
+n	an	no	porsas
+n	ps	yes	vaihdokas
+n	asm	no	vätys
+a	svp	no	äkkipikainen
+n	an	no	köntys
+n	ps	yes	houkka
+n	ddp	yes	nenästä vedettävä henkilö
+n	an	no	grossness
+n	cds	no	demagogia
+n	an	no	käärme
+n	dmc	yes	treasonist
+n	asf	no	pässinpää
+n	cds	no	amateurishness
+n	dmc	yes	libertine
+n	cds	no	fanaattinen
+n	cds	no	roskatoimittaja
+n	cds	no	niiskuttaja
+a	svp	no	ärtyinen
+n	asf	no	älykääpiö
+a	qas	no	säälittävä
+n	or	no	homophile liikettä
+n	cds	no	ressukka
+n	cds	no	haisunäätä
+n	cds	no	homo scelestus
+n	dmc	yes	fariseus
+n	an	no	kiusoittelija
+n	dmc	yes	villainess
+a	dmc	yes	kohtalokas
+n	cds	no	friikki
+n	cds	no	pelkuruutta
+a	svp	no	kärsimätön
+n	svp	no	suvaitsemattomuus
+n	asm	no	höntti
+n	an	no	liirumlaarum
+n	an	no	hölmö
+n	cds	no	mafia
+a	dmc	yes	joutilas
+n	an	no	lyllerö
+a	ddp	yes	teeskentelemätön
+n	cds	no	konna
+n	qas	no	pöty
+n	qas	no	valhe
+n	cds	no	älypää
+n	svp	no	heittiö
+n	cds	no	heittiö
+n	ps	yes	mongoloid
+n	an	no	huono ihminen
+n	pr	no	syöjätär
+n	svp	no	velttoilija
+a	is	yes	kurja
+a	cds	no	luolamiesmäinen
+n	pr	no	rentboy
+n	cds	no	melulauma
+n	qas	no	pummaaja
+n	re	no	riiviö
+n	or	no	fuckhead
+n	ddp	yes	äkämys
+n	or	no	huono kala
+n	an	no	lössykkä
+n	asm	no	helvetin
+n	cds	no	kätyrinsä
+n	pr	no	naikkonen
+n	dmc	yes	dissembler
+n	dmc	yes	tekojumalisuus
+n	an	no	paska
+a	dmc	yes	raaka
+v	asm	no	rakastaa
+n	cds	no	nurisija
+n	cds	no	pinnari
+n	pa	yes	junttimaisuus
+n	cds	no	moneylending
+n	asf	no	hölmö
+n	cds	no	pikkusielu
+n	asm	no	pölkkypää
+n	cds	no	velttoilija
+a	an	no	häijy
+n	cds	no	luihuus
+n	pr	no	ämmä
+n	an	no	kääpiö

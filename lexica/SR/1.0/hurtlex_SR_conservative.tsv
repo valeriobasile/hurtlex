@@ -1,0 +1,940 @@
+n	re	no	разбојник
+n	re	no	клеветник
+n	cds	no	хвалисавост
+n	cds	no	банда културе
+n	cds	no	одметник
+n	dmc	yes	издајник
+n	dmc	yes	сладострасник
+n	svp	no	неспретњаковић
+n	or	no	пичко
+n	pr	no	бесмислица
+n	om	no	куеер
+n	cds	no	глуп
+n	cds	no	снивеллер
+n	an	no	нанус
+n	cds	no	сцравлер
+n	ddf	yes	жгољавац
+n	cds	no	уличне банде
+n	an	no	рогоња
+n	cds	no	нетрпељивост
+n	cds	no	сиромашних рибе
+n	re	no	вилифиер
+n	cds	no	фашистичког режима
+n	ps	yes	цхангелингс
+n	dmc	yes	простак
+n	cds	no	сељак
+n	cds	no	забушант
+n	pr	no	метреса
+n	asf	no	имбецил
+n	dmc	yes	варалица
+n	cds	no	Нимфоманија
+n	asf	no	Идиот
+n	qas	no	фумблер
+n	asf	no	бетисе
+n	or	no	думбасс
+n	cds	no	друмски разбојник
+n	cds	no	мафијаш
+n	ddp	yes	сад врећа
+n	cds	no	препреденко
+n	cds	no	мафије
+n	pr	no	флоозие
+n	an	no	млакоња
+n	cds	no	нимфоманија
+n	re	no	битанга
+n	an	no	прицктеасер
+n	is	yes	јадник
+n	cds	no	лукавост
+n	cds	no	хиперсекуал
+n	cds	no	носа-паркер
+n	ddp	yes	будала
+n	cds	no	нетрпељив
+n	an	no	болећив
+n	cds	no	негативац
+n	ddp	yes	глуп
+n	dmc	yes	нетрпељив
+n	dmc	yes	цхиселер
+n	ddp	yes	Βάρβαρος
+n	ddp	yes	некомпетентна особа
+n	cds	no	олош
+n	re	no	насилник
+n	cds	no	практични шаљивџија
+n	dmc	yes	блундерер
+n	ps	yes	цхангелинг
+n	cds	no	умишљености
+n	ddp	yes	игра карата или домина
+n	ddp	yes	копиле
+n	qas	no	олош и бобтаил
+n	asm	no	завртање
+n	cds	no	ваунтер
+n	ps	yes	простак
+n	cds	no	онај који стално нешто бистри
+n	an	no	змија у трави
+n	dmc	yes	бандита
+n	re	no	малигнер
+n	ps	yes	црнчуга
+n	cds	no	јадник
+n	cds	no	цонцеитеднесс
+n	ddp	yes	педеру
+n	cds	no	лењивац
+n	cds	no	аљкаво особа
+n	asm	no	доофус
+n	svp	no	Љутња
+n	or	no	компреса
+n	ddp	yes	тикван
+n	dmc	yes	лопов
+n	cds	no	протурач новости
+n	asm	no	флоутер
+n	dmc	yes	бандит
+n	asf	no	игра карата или домина
+n	asf	no	будала
+n	ddp	yes	подвала
+n	pr	no	проституција
+n	cds	no	домаћег отпада
+n	qas	no	лаж
+n	cds	no	свезналица
+n	an	no	думбасс
+n	qas	no	конформистички
+n	cds	no	нерди
+n	an	no	битанга
+n	dmc	yes	Варвари
+n	re	no	Терориста
+n	re	no	силоватеља
+n	dmc	yes	фоетор
+n	an	no	неверница
+n	an	no	лоша особа
+n	dmc	yes	варвара
+n	ps	yes	руинер
+n	ddp	yes	пудден главе
+n	dmc	yes	врдалама
+n	cds	no	навлачи
+n	cds	no	свестраност
+n	qas	no	Варвар
+n	ddp	yes	твирп
+a	svp	no	агресиван
+n	pa	yes	грубијан
+n	asm	no	дрка
+n	asm	no	глупости
+n	svp	no	ровокопач
+n	svp	no	тигхтфистеднесс
+n	cds	no	тако и тако
+n	an	no	бестијалност
+n	ps	yes	кретен
+n	re	no	силовања
+n	an	no	дроља
+n	ddp	yes	пиллоцк
+n	qas	no	цулл
+n	an	no	сукња цхасер
+n	cds	no	фабрицатор
+n	an	no	инекорабленесс
+n	cds	no	дркаџијо
+n	ddp	yes	издајнички
+n	cds	no	шарлатан
+n	svp	no	самопоштовање
+n	dmc	yes	ленчуга
+n	an	no	спора особа
+n	cds	no	дрскост
+n	cds	no	неистина
+n	om	no	нансија
+n	om	no	геј
+n	cds	no	цхиселер
+n	re	no	Терорист
+n	cds	no	egoizam
+n	cds	no	курвин син
+n	cds	no	стављање ван закона
+n	svp	no	лењивац
+n	cds	no	бандитти
+n	cds	no	цодсваллоп
+n	asf	no	фуцкхеад
+n	dmc	yes	гит
+n	cds	no	fasizam
+n	cds	no	сцаммер
+n	re	no	присилно силовање
+n	an	no	поквареност
+n	dmc	yes	грубијан
+n	cds	no	пандар
+n	asm	no	лаковерности
+n	an	no	нитков
+n	cds	no	Фашисти
+n	dmc	yes	ракехелл
+n	re	no	нитков
+n	ps	yes	мелез
+n	cds	no	несташко
+n	ddf	yes	нанус
+n	an	no	диддлеи
+n	cds	no	поводач
+n	ddp	yes	бетисе
+n	asf	no	цхангелингс
+n	dmc	yes	симулант
+n	svp	no	гоурмандизер
+n	cds	no	лаж
+n	dmc	yes	дилли-даллиер
+n	dmc	yes	сцаммер
+n	or	no	говнар
+n	qas	no	четкица за мазање
+n	asf	no	идиот
+n	ddp	yes	варалица
+n	pr	no	курвање
+n	asm	no	кретен
+n	dmc	yes	цхавбацон
+n	ps	yes	швабама
+n	dmc	yes	licemerje
+n	cds	no	нетрпељивости
+n	ps	yes	местизос
+n	cds	no	омладинских банди
+n	svp	no	нетрпељив
+n	asf	no	цодсваллоп
+n	an	no	кокета
+n	cds	no	пискарало
+n	ddp	yes	сероња
+n	re	no	либелер
+n	an	no	не знам ништа
+n	qas	no	шепртља
+n	asm	no	дупенце
+n	re	no	негативац
+n	an	no	необразована особа
+n	cds	no	ништарија
+n	dmc	yes	фалсификатор
+n	asm	no	ванк
+n	cds	no	Варвар
+n	cds	no	наметљивац
+n	dmc	yes	псеуд
+n	dmc	yes	ловлифе
+n	ddp	yes	бумблер
+n	ddp	yes	зооерасти
+n	ddp	yes	доофус
+n	pr	no	блудница
+n	or	no	хомопхиле
+n	cds	no	цхиселлер
+n	svp	no	Гнев
+n	ddp	yes	олош и бобтаил
+n	asf	no	успорити
+n	or	no	пиллоцк
+n	dmc	yes	либертинизам
+n	cds	no	муссинесс
+n	cds	no	фолдерол
+n	an	no	кукавица
+n	ddf	yes	патуљак
+n	asf	no	говнар
+a	dmc	yes	зло
+n	pr	no	форницатресс
+n	rci	yes	terrone
+n	cds	no	цепидлака
+n	ddp	yes	мрзовољац
+n	asf	no	вагина
+n	dmc	yes	виллаинесс
+n	qas	no	мооцхер
+n	svp	no	мангуп
+n	an	no	говнар
+n	cds	no	сноб
+n	cds	no	супербиа
+n	cds	no	брз један
+n	cds	no	хоакер
+n	cds	no	претенциозности
+n	cds	no	егоизма
+n	svp	no	бес
+n	ddp	yes	надрилекарство
+n	asm	no	схтуп
+n	asm	no	твирп
+n	ps	yes	тикван
+n	an	no	олош
+n	cds	no	будала
+n	svp	no	ленчуга
+n	svp	no	гооф-офф
+n	svp	no	ароганција
+n	pr	no	шљаке
+n	pr	no	дама задовољства
+n	dmc	yes	малодор
+n	cds	no	лагати
+n	ddp	yes	протурач новости
+n	cds	no	лармаџија
+n	cds	no	полицајац
+n	ddp	yes	не знам ништа
+n	cds	no	учитељица
+n	an	no	некомпетентна особа
+n	cds	no	подмитљивост
+n	asf	no	фолдерол
+n	cds	no	Хиперсексуалност
+n	cds	no	бигот
+n	ddp	yes	неспособан
+n	svp	no	цхеапскате
+n	svp	no	горгер
+n	an	no	фуцкхеад
+n	pr	no	жена улице
+n	cds	no	трачибаба
+n	dmc	yes	фабрицатор
+n	an	no	вамп
+n	or	no	хомосексуалац
+n	cds	no	Фанатичност
+n	asm	no	тикван
+n	dmc	yes	лоша особа
+n	or	no	педер
+n	re	no	виллаинесс
+n	cds	no	лине-стрелац
+n	an	no	пљачкаш мародер
+n	ddp	yes	незнања
+n	svp	no	бигот
+n	or	no	нансија
+n	cds	no	проблема
+n	ps	yes	пикеи
+n	dmc	yes	отпадник
+n	cds	no	нитков
+n	cds	no	жутокљунац
+n	ddp	yes	говнар
+n	svp	no	шепртља
+n	cds	no	краснописац
+n	pr	no	проститутка
+n	ps	yes	монголоиди
+n	dmc	yes	лоитерер
+n	is	yes	шкртица
+n	ps	yes	Варвар
+n	dmc	yes	онај који прикрива
+n	cds	no	грешник
+n	asf	no	глупак
+n	an	no	олош и бобтаил
+n	cds	no	збрка
+n	qas	no	аматеурисхнесс
+n	qas	no	лоше шешир
+n	re	no	Мафија
+n	cds	no	ситан крадљивац
+n	ddf	yes	пола литре
+n	cds	no	ванк
+n	cds	no	аљкавац
+n	cds	no	egotizam
+n	cds	no	дефраудер
+n	ddp	yes	насамарити
+n	rci	yes	Варвари
+n	cds	no	зајмодавац
+n	cds	no	Зеленаш
+n	cds	no	кукавичлук
+n	svp	no	охолост
+n	svp	no	нетрпељивости
+n	cds	no	зеленашење
+n	an	no	неспособан
+n	cds	no	мека на додир
+n	an	no	мека на додир
+n	cds	no	италијанском мафијом
+n	pr	no	лабава жена
+n	dmc	yes	псеудо
+n	or	no	хомопхиле покрет
+n	re	no	silovanje
+n	dmc	yes	жгољавац
+n	asf	no	пизда
+n	dmc	yes	јадник
+n	dmc	yes	фиббер
+n	ps	yes	краут
+n	cds	no	самопоштовање
+n	cds	no	јабука полирање
+n	ddp	yes	муттонхеад
+n	svp	no	ленштина
+n	cds	no	самољубив
+n	cds	no	Синдром Казанове
+n	or	no	глупан
+n	dmc	yes	зло
+n	ps	yes	упроотер
+n	cds	no	лаиабоут
+n	qas	no	уништавање
+n	cds	no	олош торба
+n	an	no	гит
+n	ps	yes	Местици
+n	asm	no	јеерер
+n	is	yes	виллаинесс
+a	svp	no	agresivan
+n	ddp	yes	варвара
+n	cds	no	гит
+n	an	no	слабић
+n	svp	no	без рачуна
+n	pr	no	prostitucija
+n	ddp	yes	незналица
+n	an	no	интернет превара
+n	cds	no	ленчуга
+n	cds	no	злочинац
+n	ddp	yes	зооерастиа
+n	dmc	yes	лицемерно
+n	an	no	профитер
+n	svp	no	узалудности
+n	cds	no	млакоња
+n	svp	no	лењост
+n	cds	no	румоурмонгер
+n	asf	no	особа која испашта туђе грешке
+n	an	no	рентбои
+n	pr	no	кучка
+n	ddp	yes	дркаџија
+n	pa	yes	Варвар
+n	cds	no	високе непристрасности
+n	asm	no	бетисе
+n	cds	no	конформистички
+n	is	yes	негативац
+n	dmc	yes	Βάρβαρος
+n	cds	no	неваљалост
+n	cds	no	штребер
+n	dmc	yes	треасонист
+n	qas	no	олош
+n	dmc	yes	малолетни деликвент
+n	svp	no	никоговић
+n	pr	no	девојчура
+n	an	no	неумољивост
+n	cds	no	Варвари
+n	qas	no	пришипетља
+n	dmc	yes	сад врећа
+n	asf	no	доофус
+n	cds	no	лукавство
+n	an	no	курва
+n	cds	no	мистификатор
+n	pr	no	љубавница
+n	om	no	хендикепирано лице
+n	svp	no	лаиабоут
+n	pa	yes	варвара
+n	re	no	традуцер
+n	cds	no	брод другог реда
+n	cds	no	збуњујуће питање
+n	asm	no	ролл у сену
+n	ddp	yes	имбецил
+n	asf	no	пичка
+n	re	no	мафијаш
+n	cds	no	комуналног чврстог отпада
+n	asf	no	цхангелинг
+n	cds	no	сујете
+n	qas	no	измамљивач
+n	cds	no	подводачица
+n	dmc	yes	лажов
+n	dmc	yes	лингерер
+n	rci	yes	Βάρβαρος
+n	cds	no	базен навлачи
+n	ddp	yes	кретен
+n	or	no	кнуцклехеад
+n	cds	no	нерадник
+n	ddp	yes	компреса
+n	an	no	кнуцклехеад
+n	asm	no	лаковерност
+n	an	no	простак
+n	svp	no	сујете
+n	ps	yes	Идиот
+n	cds	no	олош и бобтаил
+n	ddp	yes	глупости
+n	cds	no	шаљивџија
+n	an	no	диддли-цуцањ
+n	cds	no	игра карата или домина
+n	an	no	диддли
+n	cds	no	реакционар
+n	cds	no	фашиста
+n	ddp	yes	шепртља
+n	cds	no	цут-уп
+n	ddp	yes	никоговић
+n	cds	no	плашљив
+n	re	no	мафијаши
+n	re	no	делинквент
+n	cds	no	фанатизам
+n	an	no	ништарија
+n	dmc	yes	бумблер
+n	ps	yes	џери
+n	ps	yes	монголоидан
+n	cds	no	Демагог
+n	qas	no	бумблер
+n	svp	no	шкртица
+n	asf	no	pička
+n	qas	no	невоља кафу
+n	cds	no	Демагогија
+n	cds	no	тимесервер
+n	cds	no	фумблер
+n	pr	no	Курва
+n	asf	no	простак
+n	ddp	yes	Варвари
+n	pa	yes	унцоутхнесс
+a	svp	no	lascivan
+n	om	no	туинк
+n	cds	no	беллиацхер
+n	dmc	yes	брод другог реда
+n	cds	no	делинквент
+n	pa	yes	Варвари
+n	an	no	флоозие
+n	cds	no	Банде
+n	ps	yes	Жута раса
+n	an	no	простаклук
+n	om	no	педер
+n	ps	yes	црња
+n	re	no	дебауцхер
+n	cds	no	старо гвожђе
+n	or	no	куеер
+n	cds	no	бандит
+n	dmc	yes	хобос
+n	ps	yes	глупан
+n	dmc	yes	издајника
+n	dmc	yes	без рачуна
+n	dmc	yes	прљави пас
+n	cds	no	хои поллои
+n	ddp	yes	олош
+n	qas	no	који сеје раздор
+n	cds	no	охолост
+n	om	no	gay
+n	svp	no	хвалисавост
+n	dmc	yes	ситан крадљивац
+n	qas	no	онај који живи од туђег рада
+n	an	no	будала
+n	cds	no	Хиперфилија
+n	an	no	незналица
+n	asm	no	ноокие
+n	cds	no	кривично несташлука
+n	cds	no	пут агент
+n	cds	no	народне масе
+n	om	no	содомит
+n	dmc	yes	олош торба
+n	pr	no	курва
+n	qas	no	цадгер
+n	ps	yes	местизаје
+n	svp	no	диллидаллиер
+n	dmc	yes	даллиер
+n	om	no	болећив
+n	an	no	глупан
+n	cds	no	нимпхо
+n	cds	no	мафијаши
+n	ps	yes	јигабоо
+n	an	no	тикван
+n	asm	no	дркање
+n	ddp	yes	нерадник
+n	cds	no	Фашиста
+n	re	no	терористички акт
+n	an	no	цодсваллоп
+n	qas	no	неистина
+n	cds	no	самољубља
+n	ddp	yes	бленути
+n	ddp	yes	курвин син
+a	svp	no	ласциван
+n	cds	no	грубијан
+n	cds	no	слацкер
+n	om	no	педераст
+n	cds	no	њушкало
+n	cds	no	несташлука
+n	qas	no	грубијан
+n	svp	no	ниггарднесс
+n	pr	no	оштроконџа
+n	om	no	злостављач деце
+n	rci	yes	Варвар
+n	dmc	yes	цхиселлер
+n	cds	no	висенхеимер
+n	dmc	yes	диллидаллиер
+n	cds	no	ленштина
+n	is	yes	нитков
+n	cds	no	жгољавац
+n	asm	no	јебени
+n	cds	no	румормонгер
+n	cds	no	цовардлинесс
+n	dmc	yes	нитков
+n	cds	no	сводник
+n	ps	yes	Варвари
+n	ddp	yes	цхангелингс
+n	svp	no	дилли-даллиер
+n	an	no	аљкавац
+n	ps	yes	варвара
+n	cds	no	глупак
+n	cds	no	бандита
+n	or	no	Геј
+n	cds	no	простачки
+n	cds	no	ванглер
+n	asf	no	мека на додир
+n	cds	no	пола литре
+n	an	no	жена цхасер
+n	dmc	yes	дефраудер
+n	dmc	yes	тако и тако
+n	asm	no	никоговић
+n	asf	no	вагинални
+n	an	no	раунцх
+n	dmc	yes	јак смрад
+n	an	no	тврдица
+n	ps	yes	даркие
+a	svp	no	pohotljiv
+n	cds	no	фиббер
+n	cds	no	тикван
+n	an	no	дебељуца
+n	cds	no	сицилијанске мафије
+n	re	no	дефамер
+n	ddp	yes	грубијан
+n	cds	no	лопов
+n	an	no	вулгарности
+n	ddp	yes	Идиот
+n	re	no	тероризма
+n	ddp	yes	поквареност
+n	cds	no	екстремне десничар
+n	cds	no	глупа особа
+n	svp	no	ниггардлинесс
+n	cds	no	браггер
+n	dmc	yes	слацкер
+n	svp	no	гурман
+n	is	yes	дроња
+n	ps	yes	будала
+n	om	no	хомопхиле покрет
+n	dmc	yes	неспретњаковић
+n	cds	no	копиле
+n	dmc	yes	шепртља
+n	cds	no	виллаинесс
+n	cds	no	свот
+n	cds	no	књижевни хацк
+n	svp	no	самољубља
+n	cds	no	сцхоолма'ам
+n	qas	no	сад врећа
+n	an	no	неинветиван
+n	dmc	yes	осећати
+n	cds	no	самовољност
+n	dmc	yes	лицемерје
+n	cds	no	компреса
+n	cds	no	сељачина
+n	ddp	yes	трачибаба
+n	an	no	вампер
+n	cds	no	конформиста
+n	or	no	gay
+n	cds	no	варалица
+n	cds	no	лажи
+n	om	no	поове
+n	cds	no	финаглер
+n	dmc	yes	гооф-офф
+n	cds	no	охолости
+n	cds	no	клипан
+n	an	no	зооерастиа
+n	an	no	дрска девојка
+n	or	no	глупа особа
+n	asm	no	будала
+n	an	no	кучка
+n	cds	no	блаббермоутх
+n	asf	no	глупан
+n	ddp	yes	Надрилекарство
+n	dmc	yes	Хипокризија
+n	ddp	yes	думбасс
+n	cds	no	варвара
+n	ddp	yes	румормонгер
+n	re	no	оговарач
+n	asf	no	Родница
+n	qas	no	смутљивац
+n	cds	no	цхеекинесс
+n	cds	no	спласхинесс
+n	pr	no	Проститутка
+n	asm	no	игра карата или домина
+n	cds	no	бумблер
+n	dmc	yes	фолирант
+n	ps	yes	особа која испашта туђе грешке
+n	dmc	yes	трифлер
+n	an	no	диддлискуат
+n	dmc	yes	расипник
+n	re	no	италијанском мафијом
+n	ps	yes	доофус
+n	cds	no	гледалац
+n	or	no	геј
+n	qas	no	троублер
+n	or	no	муттонхеад
+n	cds	no	хиперсексуалност
+n	an	no	диддли-срање
+n	asf	no	девојка
+n	cds	no	достављач
+n	qas	no	дилетант
+n	cds	no	бловхард
+n	asf	no	думбасс
+n	asf	no	кретен
+n	cds	no	фавнер
+n	pr	no	прељубница
+n	dmc	yes	никоговић
+a	ddp	yes	глупо
+n	dmc	yes	уљез
+n	an	no	игра карата или домина
+n	qas	no	лажи
+n	qas	no	одбити
+n	cds	no	ловлифе
+n	an	no	негативац
+n	an	no	уличарка
+n	an	no	аљкаво особа
+n	dmc	yes	цхеатер
+n	an	no	прљави пас
+n	is	yes	цхеапскате
+n	ddp	yes	цхангелинг
+n	svp	no	бити снужден
+n	pr	no	којештарија
+n	dmc	yes	бигот
+n	dmc	yes	малодоур
+n	re	no	тероризам
+n	asm	no	дркаџијо
+n	om	no	хомосексуалац
+n	or	no	поове
+n	re	no	уцена
+n	dmc	yes	скитница
+n	dmc	yes	смрдети
+n	cds	no	вонк
+n	dmc	yes	разбојник
+n	cds	no	гунђало
+n	cds	no	преварант
+n	pr	no	сплачине
+n	cds	no	fašizam
+n	dmc	yes	смрад
+n	cds	no	проклетник
+n	qas	no	одабрати
+n	dmc	yes	фумблер
+n	asm	no	нооки
+n	dmc	yes	прикривање
+n	svp	no	Гњев
+n	ps	yes	краутхеад
+n	ddp	yes	идиот
+n	ddp	yes	простак
+n	cds	no	мангуп
+n	an	no	превара
+n	qas	no	Варвари
+n	dmc	yes	хобо
+n	svp	no	цонцеитеднесс
+n	is	yes	одрпанац
+n	an	no	Хоакс
+n	dmc	yes	лицемер
+n	svp	no	слацкер
+n	cds	no	битанга
+n	ddp	yes	кнуцклехеад
+n	svp	no	забушант
+n	ddp	yes	достављач
+n	cds	no	сводништва
+n	cds	no	блундерер
+n	svp	no	мингинесс
+n	cds	no	алапача
+n	pr	no	рентбои
+n	ps	yes	идиот
+n	cds	no	фалсификатор
+n	qas	no	лагати
+n	cds	no	полтрон
+n	re	no	мафије
+n	ddp	yes	брбљивац
+n	cds	no	Мафија
+n	re	no	силовање
+n	an	no	пип-шкрипе
+n	re	no	малолетни деликвент
+n	pr	no	сексуалних услуга
+n	cds	no	дркање
+n	cds	no	нимфоманка
+n	cds	no	зеленаш
+n	cds	no	банде
+a	svp	no	похотљив
+n	asm	no	kurac
+n	dmc	yes	сељачина
+n	ps	yes	Местик
+n	qas	no	полутан
+n	ps	yes	грубијан
+n	dmc	yes	преварант
+n	pr	no	гаф
+n	ps	yes	местизо
+n	ps	yes	мека на додир
+n	or	no	глуп
+n	cds	no	сатириасис
+n	cds	no	подао
+n	an	no	виллаинесс
+n	svp	no	тврдица
+n	cds	no	остентатиоуснесс
+n	dmc	yes	рубе
+n	ddp	yes	здравствене преваре
+n	om	no	Геј
+n	cds	no	шепртља
+n	svp	no	високе непристрасности
+n	svp	no	прождрљивац
+n	ddp	yes	цодсваллоп
+n	an	no	доодли-цуцањ
+n	om	no	хомопхиле
+n	cds	no	сад врећа
+n	cds	no	брбљивац
+n	re	no	рапер
+n	qas	no	блундерер
+n	cds	no	помпезност
+n	ddp	yes	фумблер
+n	asm	no	цредулоуснесс
+n	om	no	фуј
+n	an	no	муттонхеад
+n	svp	no	даллиер
+n	cds	no	пиллоцк
+n	an	no	простачки
+n	cds	no	моанер
+n	cds	no	прогонилац
+n	cds	no	аљкава особа
+n	or	no	глупак
+n	ddp	yes	шарлатан медицине
+n	cds	no	чврстог отпада
+n	cds	no	педеру
+n	cds	no	реакционарски
+n	ddp	yes	фолдерол
+n	dmc	yes	делинквент
+n	asm	no	глупак
+n	is	yes	тврдица
+n	ps	yes	нигра
+n	pa	yes	Βάρβαρος
+n	ddp	yes	румоурмонгер
+n	cds	no	дркаџија
+n	cds	no	фашизма
+n	pr	no	спортске дама
+n	rci	yes	варвара
+n	cds	no	уништавање
+n	cds	no	пудден главе
+n	asf	no	vagina
+n	ddp	yes	глупа особа
+n	cds	no	Банда
+n	cds	no	фашизам
+n	cds	no	очевидац
+n	ddp	yes	Варвар
+n	asm	no	мека на додир
+n	svp	no	супербиа
+n	cds	no	боокворм
+n	ddp	yes	фероциоуснесс
+n	an	no	фолдерол
+n	ddp	yes	тваддлер
+n	cds	no	улизица
+n	asf	no	pizda
+n	dmc	yes	бити снужден
+n	cds	no	особа која испашта туђе грешке
+n	pr	no	проститутке
+n	ddp	yes	шарлатан
+n	cds	no	разбојник
+n	cds	no	одбити
+n	is	yes	простачки
+n	cds	no	издајнички
+n	pr	no	блудничење
+n	an	no	немилосрдност
+n	re	no	акт тероризма
+n	ddp	yes	фуцкхеад
+n	dmc	yes	преваре
+n	ddp	yes	необразована особа
+n	or	no	сиромашних рибе
+n	asf	no	кнуцклехеад
+n	dmc	yes	простачки
+n	ps	yes	Монголоидна раса
+n	pr	no	Жиголо
+n	ps	yes	Βάρβαρος
+n	ps	yes	црнац
+n	cds	no	враголија
+n	or	no	фуцкхеад
+n	ps	yes	бленути
+n	dmc	yes	мангуп
+n	qas	no	нерадник
+n	ddp	yes	информатор
+n	cds	no	лоансхарк
+n	cds	no	прљави пас
+n	re	no	terorizam
+n	dmc	yes	ленштина
+n	or	no	пудден главе
+n	asf	no	Пичкица
+n	asf	no	вагине
+n	or	no	тикван
+n	cds	no	демагог
+n	cds	no	слабић
+n	cds	no	одабрати
+n	cds	no	рубе
+n	ddp	yes	успорити
+n	an	no	бетисе
+n	asm	no	јебати
+n	dmc	yes	забушант
+n	svp	no	добар за ништа
+n	cds	no	госсипер
+n	dmc	yes	раскалашник
+n	re	no	силоватељ
+n	asf	no	тикван
+n	pr	no	уличарка
+n	svp	no	узалудност
+n	cds	no	цулл
+n	pr	no	црацк курва
+n	rci	yes	грубијан
+n	re	no	сицилијанска мафија
+n	cds	no	трицкер
+n	is	yes	просјак
+n	dmc	yes	ништарија
+n	an	no	ловлифе
+n	qas	no	тагалонг
+n	dmc	yes	лажан
+n	or	no	фуј
+n	qas	no	конформиста
+n	ddp	yes	глупан
+n	cds	no	цхавбацон
+n	asm	no	особа која испашта туђе грешке
+n	ddp	yes	глупак
+n	ddp	yes	особа која испашта туђе грешке
+n	dmc	yes	нетрпељивости
+n	dmc	yes	лаиабоут
+n	cds	no	веисенхеимер
+n	cds	no	фанатик
+n	cds	no	цмиздравце
+n	cds	no	паметњаковић
+n	cds	no	аматеурисхнесс
+n	dmc	yes	Лицемерје
+n	cds	no	проблем
+n	an	no	фероциоуснесс
+n	dmc	yes	добар за ништа
+n	ddp	yes	мека на додир
+n	pr	no	дроља
+n	asm	no	рука посао
+n	cds	no	ароганција
+n	dmc	yes	развратник
+n	re	no	Терористи
+n	cds	no	дастардлинесс
+n	ddp	yes	незнање
+n	pr	no	аљкаво жена
+n	qas	no	Βάρβαρος
+n	dmc	yes	битанга
+n	cds	no	сицилијанска мафија
+n	re	no	простачки
+n	an	no	Вулгарност
+n	cds	no	велики неопран
+n	svp	no	равеноуснесс
+n	re	no	терориста
+n	qas	no	луњати
+n	svp	no	Срџба
+n	an	no	зооерасти
+n	cds	no	педантан
+n	cds	no	официр
+n	cds	no	простак
+n	an	no	особа која испашта туђе грешке
+n	cds	no	зависник
+n	asm	no	глупан
+n	an	no	hoax
+n	asm	no	простак
+n	ddp	yes	бестијалност
+n	re	no	сицилијанске мафије
+n	an	no	патуљак
+n	cds	no	кукавица
+n	cds	no	лоансхаркинг
+n	dmc	yes	Варвар
+n	an	no	тако и тако
+n	cds	no	догматизам
+n	an	no	аљкава особа
+n	cds	no	кредита схаркинг
+n	ddp	yes	госсипер
+n	ddp	yes	бесмислене
+n	ps	yes	имбецил
+n	ddp	yes	блундерер
+n	ddp	yes	сиромашних рибе
+n	asm	no	комад репа
+n	an	no	олош торба
+n	pr	no	црацк курве
+n	an	no	лењивац
+n	cds	no	точка дилер
+n	ddp	yes	нонсенсицалити
+n	cds	no	охола особа
+n	cds	no	дрка
+n	an	no	диддлисхит
+n	an	no	прљави трик
+n	ps	yes	мешанац
+n	cds	no	малолетни деликвент
+n	asf	no	пичко
+n	cds	no	зајмодаваца
+n	dmc	yes	пола литре
+n	pr	no	цомаре
+n	ddp	yes	блаббермоутх
+n	qas	no	варвара
+n	cds	no	кретен
+n	an	no	Вулгарности
+n	ddp	yes	алапача
+n	cds	no	новајлија
+n	cds	no	хвалисавац
+n	dmc	yes	клипан
+n	dmc	yes	нерадник
+n	cds	no	рука посао
+n	re	no	датум силовање
+n	re	no	серијски силоватељ
+n	cds	no	несташлук одлука
+n	asf	no	муттонхеад
+n	cds	no	двееб
+n	ps	yes	успорити
+n	an	no	глупак
+n	ps	yes	глупак
+n	cds	no	Βάρβαρος
+n	dmc	yes	негативац
+n	cds	no	болећив
+n	cds	no	комуналног отпада
+n	pr	no	чува жену
+n	dmc	yes	сељак
+n	an	no	Масовна обмана
+n	cds	no	гангстеризам
