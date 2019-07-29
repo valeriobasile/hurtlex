@@ -1,0 +1,3422 @@
+pos	category	stereotype	lemma	level
+n	qas	no	ερασιτεχνισμού	conservative
+n	dmc	yes	dilly-dallier	conservative
+n	re	no	δευτέρου βαθμού δολοφονία	inclusive
+n	cds	no	υπεκφεύγων	conservative
+n	an	no	animalculum	inclusive
+n	ps	yes	blackamoor	inclusive
+n	asm	no	σπασμωδικές off	conservative
+n	re	no	βάναυση συμπεριφορά	inclusive
+n	an	no	hemipteron	inclusive
+n	dmc	yes	ηθική πυξίδα	inclusive
+n	cds	no	culchie	inclusive
+n	ddp	yes	Βάρβαροι	conservative
+n	ps	yes	κρετίνος	conservative
+n	cds	no	νεανικών συμμοριών	inclusive
+n	cds	no	demagog	conservative
+n	or	no	cuke	inclusive
+n	cds	no	καυχησιάρης	conservative
+n	dmc	yes	δειλός	conservative
+n	om	no	sodomist	inclusive
+n	re	no	εγκληματική συμπεριφορά	inclusive
+n	cds	no	δωρεάν mason	inclusive
+n	svp	no	conceitedness	conservative
+n	an	no	έτσι κ 'έτσι	conservative
+n	an	no	την πορνεία του δρόμου	conservative
+n	cds	no	φονταμενταλιστές	inclusive
+n	asm	no	πούτσος	conservative
+n	cds	no	νεόπλουτοι	inclusive
+n	cds	no	μπάτσος	inclusive
+n	qas	no	χαμόσπιτο	inclusive
+n	an	no	σκύλα	inclusive
+n	cds	no	άνανδρος	conservative
+n	cds	no	ειδωλολατρική	inclusive
+n	qas	no	κορυφαίο στέλεχος	inclusive
+n	cds	no	υπόνομος	inclusive
+n	asm	no	πόσθη	inclusive
+n	pa	yes	βάρβαρη	conservative
+n	cds	no	γκαφατζής	conservative
+n	an	no	πόρνη	conservative
+n	asm	no	φαλλικό	inclusive
+n	ddf	yes	αναπηρία	inclusive
+n	an	no	αμνάδα	inclusive
+n	qas	no	επαγγελματική τάξη	inclusive
+n	ddp	yes	ανοησίες	conservative
+n	cds	no	ελευθεροτεκτονισμός	inclusive
+n	qas	no	blooper	inclusive
+n	cds	no	κοπάδια	inclusive
+n	dmc	yes	αγένεια	conservative
+n	or	no	meticulosity	inclusive
+n	pr	no	εταίρα	conservative
+n	an	no	οικογένεια ixodoide	inclusive
+n	ps	yes	αθίγγανος ρομ	inclusive
+n	or	no	νογκίνη	inclusive
+n	cds	no	αλεπού	conservative
+n	ps	yes	μαύρο άνθρωπος	inclusive
+n	re	no	κακή χρήση	inclusive
+n	om	no	κώλος	inclusive
+n	cds	no	scads	inclusive
+n	cds	no	Φραμασόνοι	inclusive
+n	an	no	ψείρα	inclusive
+n	svp	no	δυσάρεστες	inclusive
+n	cds	no	ομάδα	inclusive
+n	ddp	yes	βενθική πανίδα	inclusive
+n	cds	no	rustler	inclusive
+n	dmc	yes	dissimulator	conservative
+n	ddp	yes	καθυστερημένος	conservative
+n	cds	no	συμμορία	conservative
+n	svp	no	φιληδονία	inclusive
+n	ps	yes	vandal	inclusive
+v	cds	no	διαπραγματεύομαι	inclusive
+n	cds	no	δημιουργός των φυτών	inclusive
+n	cds	no	εγωισμό	conservative
+n	an	no	απαλό άγγιγμα	conservative
+n	ddp	yes	θερμό κατάπλασμα	conservative
+n	or	no	κορόιδο	conservative
+n	qas	no	απομεινάρια	inclusive
+n	dmc	yes	τεμπέλης	conservative
+n	an	no	νάνος	conservative
+n	dmc	yes	σπάταλος	inclusive
+n	an	no	εγχώρια βοοειδή	inclusive
+n	re	no	φονιάς	inclusive
+n	cds	no	ντραγκέτα	inclusive
+n	cds	no	ημίαιμος σκύλος	inclusive
+n	ps	yes	nigga	conservative
+n	cds	no	ουτιδανός	conservative
+n	ps	yes	αφρικάνος	inclusive
+n	om	no	Μάραθρο	inclusive
+n	cds	no	αστυνομικίνα	inclusive
+n	cds	no	αριβίστας	inclusive
+n	ddp	yes	χαζομάρα	conservative
+n	svp	no	ματαιοδοξία	conservative
+n	an	no	dunce	conservative
+n	asm	no	κοχλίωση	conservative
+v	re	no	πληγώνω	inclusive
+n	qas	no	ερασιτέχνης	inclusive
+n	asm	no	Κουκιά	inclusive
+n	re	no	δεύτερη δολοφονία βαθμό	inclusive
+n	or	no	αγγούρι	inclusive
+n	an	no	moo-αγελάδας	inclusive
+n	qas	no	κατασκοπεύω	inclusive
+n	an	no	Κατσίκι	inclusive
+n	qas	no	flub	inclusive
+n	re	no	απαγωγέας	inclusive
+n	svp	no	avariciousness	inclusive
+n	ps	yes	Οβραίοι	inclusive
+v	re	no	τραυματίζω	inclusive
+n	or	no	θερμό κατάπλασμα	conservative
+n	cds	no	ληστής βαρώνος	inclusive
+n	qas	no	Μείγμα	inclusive
+n	ddp	yes	κακία	conservative
+n	om	no	poove	conservative
+n	dmc	yes	scattergood	inclusive
+n	an	no	κοκκινόψαρο	inclusive
+n	cds	no	φάουλ-up	inclusive
+n	ddp	yes	βαρβαρισμός	inclusive
+n	cds	no	sassing	inclusive
+n	dmc	yes	κακοποιός	conservative
+v	cds	no	ψοφάω	inclusive
+n	om	no	Ομοερωτισμός	inclusive
+n	an	no	lunkhead	conservative
+n	an	no	culicidae	inclusive
+n	asm	no	σκούρο καφέ	inclusive
+n	cds	no	μαστροπός	inclusive
+n	an	no	Αγελάδα	inclusive
+n	cds	no	τεκτονικό τάγμα	inclusive
+n	an	no	κοινή ψείρα	inclusive
+n	cds	no	δεσμοφύλακας	inclusive
+v	qas	no	κάνω άτεχνα	conservative
+n	asf	no	μεταμορφικοί	conservative
+n	qas	no	ψεύδος	conservative
+n	svp	no	Έρωτας	inclusive
+n	cds	no	σφάλμα	inclusive
+n	cds	no	θερμό κατάπλασμα	conservative
+n	or	no	γκλάβα	inclusive
+n	ddp	yes	αμόρφωτο άτομο	conservative
+n	om	no	κίνηση homophile	inclusive
+n	re	no	μεγάλη κλοπή	inclusive
+n	an	no	wisent	inclusive
+n	asf	no	saphead	conservative
+n	dmc	yes	ανηθικότητα	conservative
+n	ps	yes	ισπανικός	inclusive
+n	an	no	γένους pipistrellus	inclusive
+n	an	no	diddlyshit	conservative
+n	dmc	yes	φυγοδικία	inclusive
+n	an	no	bos taurus	inclusive
+n	cds	no	γρήγορα ένα	inclusive
+n	cds	no	απατεώνων	conservative
+n	pa	yes	σύμβουλος-at-law	inclusive
+n	pa	yes	δικηγόρου	inclusive
+n	cds	no	αδιέξοδο	inclusive
+n	an	no	Ζωικό βασίλειο	inclusive
+n	cds	no	εγκληματίες	inclusive
+n	cds	no	νεοφερμένος	conservative
+n	re	no	δολοφονία	inclusive
+n	ps	yes	κορόιδο	conservative
+n	svp	no	superbia	conservative
+n	svp	no	αλαζονεία	conservative
+n	an	no	ζώα	inclusive
+n	asm	no	προεξέχον τμήμα οργανισμού	inclusive
+n	ps	yes	Βούλγαρος	inclusive
+n	cds	no	ψέμμα	conservative
+n	dmc	yes	δεύτερη εκτιμητής	conservative
+n	om	no	buggery	inclusive
+n	asm	no	Καυλί	inclusive
+n	qas	no	όχλο	inclusive
+v	asm	no	συνευρίσκομαι	conservative
+n	an	no	ληστή	inclusive
+n	asf	no	κουταμάρα	conservative
+n	dmc	yes	συγκάλυψη	conservative
+n	cds	no	το ψεύδος	conservative
+n	qas	no	σύστημα των καστών	inclusive
+n	an	no	λέτσος	conservative
+n	an	no	για crocodilia	inclusive
+n	qas	no	commoners	inclusive
+n	pa	yes	καθηγητής	inclusive
+n	qas	no	εγκατέλειψε το πλοίο	inclusive
+n	ps	yes	Ρομ	inclusive
+n	asm	no	αρχίδια	inclusive
+n	ps	yes	μισό-φυλή	conservative
+n	dmc	yes	θλιβερή σάκο	conservative
+n	ps	yes	doofus	conservative
+n	qas	no	εκκλησιαστική ενορία	inclusive
+n	ddp	yes	fumbler	conservative
+n	dmc	yes	σπάταλη	inclusive
+n	re	no	θύμα ληστείας	inclusive
+n	qas	no	σφάλμα	inclusive
+n	an	no	Όρνεο	inclusive
+a	ddp	yes	θέση	inclusive
+n	cds	no	κλαυθμυρίζων	conservative
+n	svp	no	οίηση	conservative
+n	re	no	βιαστές	conservative
+n	re	no	Πειρατές	inclusive
+n	cds	no	wonk	conservative
+n	cds	no	πολυκοσμία	inclusive
+n	cds	no	υβριδικό ανθρωπογενείς	inclusive
+n	an	no	ψύλλοι	inclusive
+n	asm	no	πουλί	conservative
+n	cds	no	ύβρις	conservative
+n	cds	no	όχλο	conservative
+n	re	no	stickup	inclusive
+n	an	no	πουλί της νύχτας	inclusive
+n	is	yes	κοινωνικό απόβλητος	inclusive
+n	re	no	καταχρήσεις της αστυνομίας	inclusive
+n	an	no	δειλός	conservative
+n	asm	no	Κύαμος	inclusive
+n	an	no	σκνίπα	inclusive
+n	cds	no	σκραπ	inclusive
+n	cds	no	wangler	conservative
+v	cds	no	αφουγκράζομαι	inclusive
+n	an	no	καρχαρίες	inclusive
+v	an	no	λυσσομανώ	conservative
+a	cds	no	δυσνόητος	conservative
+n	qas	no	αχρείος	conservative
+n	an	no	βόνασος	inclusive
+n	ps	yes	μιγάδες	conservative
+n	dmc	yes	το ψεύδος	inclusive
+n	cds	no	φυλής	inclusive
+n	an	no	κουνούπι	inclusive
+n	an	no	χέλια	inclusive
+n	pa	yes	μέλος δεπ	inclusive
+n	cds	no	foxiness	conservative
+n	cds	no	μπαγαποντιά	conservative
+n	cds	no	ψεματάκι	conservative
+n	cds	no	τοκογλύφους	conservative
+n	re	no	κλεψιά	inclusive
+n	dmc	yes	παλιάνθρωπος	inclusive
+n	re	no	νομοθετημένο βιασμό	inclusive
+n	cds	no	δοκησισοφία	inclusive
+n	re	no	συκοφάντη	conservative
+n	ddp	yes	αλητεία	conservative
+n	asm	no	επαγγελματικό φάουλ	inclusive
+n	qas	no	ιδεολόγος	inclusive
+n	cds	no	τοκογλύφοι	conservative
+n	ps	yes	Αθίγγανος	inclusive
+n	an	no	κροκοδείλου	inclusive
+n	cds	no	ληστή	inclusive
+n	asm	no	twerp	conservative
+n	cds	no	δεσμοφύλακάς	inclusive
+n	an	no	ανόητος	conservative
+n	ddp	yes	Υπόβενθος πανίδα	inclusive
+n	cds	no	χαζός	inclusive
+n	an	no	crocodilia	inclusive
+n	cds	no	ιταλικής μαφίας	inclusive
+n	pa	yes	ακαδημαϊκό	inclusive
+n	an	no	helix pomatia	inclusive
+n	dmc	yes	μικρολόγος	conservative
+n	an	no	culex pipiens	inclusive
+n	re	no	μαφία της σικελίας	conservative
+v	is	yes	ικετεύω	inclusive
+n	cds	no	φονταμενταλιστικών	inclusive
+n	an	no	αισχροκερδής	conservative
+n	or	no	κούτρα	inclusive
+n	cds	no	μελετώ εντατικά	conservative
+n	dmc	yes	bumbler	conservative
+n	ps	yes	εβραίος	inclusive
+n	ddp	yes	Ζωικό βασίλειο	inclusive
+n	or	no	μάραθος	inclusive
+n	cds	no	οικογένεια	inclusive
+n	an	no	despoiler	inclusive
+n	an	no	κουτορνίθι	conservative
+n	asm	no	Φάουλ	inclusive
+n	cds	no	παραβάτης	inclusive
+n	re	no	φόνισσα	inclusive
+n	cds	no	nerdy	conservative
+n	pa	yes	υποστηρικτής	inclusive
+a	cds	no	χαλασμένος	inclusive
+n	asm	no	στύση του πέους	inclusive
+n	cds	no	κυκεώνας	inclusive
+n	pr	no	rentboy	conservative
+n	an	no	crocodilians	inclusive
+n	ddp	yes	βλάκας	inclusive
+n	cds	no	φυγόπονος	conservative
+n	pa	yes	λογιστές	inclusive
+n	cds	no	θανάτωσης	conservative
+n	cds	no	ηλίθιος	inclusive
+n	re	no	μαφία	inclusive
+n	cds	no	βάρβαρος	conservative
+n	re	no	παραβατικότητα	inclusive
+n	re	no	σοβαρό αδίκημα	inclusive
+n	cds	no	πορνείο	inclusive
+n	asf	no	καθυστερημένος	conservative
+n	pa	yes	ομότιμος καθηγητής	inclusive
+n	an	no	Ερίφιο	inclusive
+n	ps	yes	κτηνοτρόφος εργοστάσιο	inclusive
+n	cds	no	ματαιοδοξία	conservative
+n	an	no	σκυλάκι	inclusive
+n	cds	no	superbia	conservative
+n	an	no	κουνελάκια	inclusive
+n	ddp	yes	μεταμορφικοί	conservative
+n	an	no	αρνάδα	inclusive
+n	svp	no	gorger	conservative
+n	pr	no	πουτάνα	conservative
+n	cds	no	ληστών	inclusive
+a	cds	no	ταγκός	inclusive
+n	pa	yes	γκρουμ	inclusive
+a	an	no	πεισματάρης	inclusive
+n	qas	no	ξυλεία βαρώνος	inclusive
+n	cds	no	σφαγή	conservative
+n	dmc	yes	ανθρωπάκι	inclusive
+n	qas	no	ζωγράφος και διακοσμητής σπίτι	inclusive
+n	qas	no	συρφετός	conservative
+n	dmc	yes	ηθική χρεοκοπία	inclusive
+n	cds	no	sharking δάνειο	conservative
+n	ps	yes	καθυστερημένος	conservative
+n	is	yes	όρκο της φτώχειας	inclusive
+n	an	no	ρύγχος	inclusive
+n	qas	no	casteism	inclusive
+n	qas	no	χωριάτη	conservative
+n	ddp	yes	στραβόξυλο	conservative
+n	cds	no	λαπάς	conservative
+n	cds	no	ηθικολόγος	conservative
+a	cds	no	πονηρός	conservative
+n	re	no	απατεώνων	conservative
+n	asm	no	φαλλός	inclusive
+n	or	no	(χυδ.) γατάκι	conservative
+n	an	no	βουβάλι	inclusive
+n	ps	yes	Βούλγαροι	inclusive
+n	cds	no	ληστεία	inclusive
+n	re	no	βοοειδή θρόισμα	inclusive
+n	cds	no	τοκογλύφο	conservative
+n	asm	no	ακροποσθία	inclusive
+n	qas	no	μάζα	inclusive
+n	cds	no	μαφία της σικελίας	inclusive
+n	cds	no	πτώση τύπος	conservative
+n	ps	yes	βεδουίνοι	inclusive
+n	ddp	yes	αγύρτης	conservative
+n	ddf	yes	ανάπηρος	inclusive
+n	re	no	διακεκριμένη ληστεία	inclusive
+n	ps	yes	Μέτοικοι	inclusive
+a	dmc	yes	ψεύτικος	conservative
+n	asm	no	μαλακία	conservative
+n	svp	no	επιθυμία	inclusive
+n	om	no	shirtlifter	inclusive
+n	qas	no	ηγέτης των επιχειρήσεων	inclusive
+n	cds	no	έξυπνο aleck	conservative
+n	cds	no	τράνταγμα-off	conservative
+n	svp	no	φαγάς	conservative
+n	ddp	yes	χαφιές	conservative
+n	ddp	yes	μαλάκα	conservative
+n	cds	no	flub	inclusive
+n	is	yes	ζητιάνος	inclusive
+n	ps	yes	jigaboo	conservative
+n	asf	no	τεχνικός όρος	inclusive
+n	svp	no	φθόνος	inclusive
+n	an	no	american bison	inclusive
+n	qas	no	κάπηλος	inclusive
+n	cds	no	σπίτι της κακής φήμης	inclusive
+n	pa	yes	υπουργός	inclusive
+n	cds	no	Ζηλωτές	inclusive
+n	an	no	έχιδνα	inclusive
+n	an	no	ανίκανος πρόσωπο	conservative
+n	an	no	συσκευή ακούσματος	inclusive
+n	asm	no	μεταμορφικοί	inclusive
+n	asm	no	βλαξ	inclusive
+n	dmc	yes	κακή διάβολος	inclusive
+n	an	no	gyps fulvus	inclusive
+n	cds	no	dweeb	conservative
+n	cds	no	σόι	inclusive
+n	re	no	μαρτύριο	inclusive
+n	cds	no	μαλακία	conservative
+n	cds	no	topsy-turvyness	inclusive
+n	cds	no	μέλος της συμμορίας	conservative
+n	ddp	yes	αμερικανάκι	conservative
+n	cds	no	κότα	conservative
+a	ddp	yes	αγράμματος	inclusive
+n	cds	no	ανανδρία	conservative
+n	qas	no	καταδύσεις σύστημα στάθμισης	inclusive
+n	pa	yes	εργολάβου κηδειών	inclusive
+n	om	no	παιδεραστής	inclusive
+n	an	no	bufo bufo	inclusive
+n	re	no	αχρείο	conservative
+n	asm	no	πτώση τύπος	conservative
+n	dmc	yes	απραξίας	conservative
+n	svp	no	Πλεονεξία	inclusive
+n	an	no	canis familiaris	inclusive
+n	re	no	μαφιόζου	inclusive
+n	is	yes	απόβλητος	inclusive
+n	om	no	παρενδυσία	inclusive
+n	cds	no	γλυκανάλατος	conservative
+n	re	no	μικροκλοπές	inclusive
+n	re	no	παλιόμουτρο	conservative
+n	cds	no	αδιέξοδο δρόμο	inclusive
+n	cds	no	λέρα	inclusive
+n	re	no	αποσπάσουν	inclusive
+n	svp	no	spiritlessness	inclusive
+n	an	no	ragtag	conservative
+n	asm	no	vicia faba	inclusive
+n	cds	no	know-it-όλα	conservative
+n	cds	no	αστικών αποβλήτων	inclusive
+n	an	no	κότα	inclusive
+n	svp	no	ανία	inclusive
+a	svp	no	ασελγής	conservative
+n	pr	no	αγόρι μισθώματος	conservative
+n	cds	no	μαφία	conservative
+n	re	no	συσκευή βασανιστήρια	inclusive
+n	ps	yes	βλαξ	conservative
+n	qas	no	αστικών αποβλήτων	inclusive
+n	svp	no	Επτά θανάσιμα αμαρτήματα	inclusive
+n	qas	no	πλήρωμα	inclusive
+n	pa	yes	δικηγόροι	inclusive
+n	pr	no	αγόρια ενοικίαση	conservative
+n	om	no	πρωκτική διείσδυση	inclusive
+n	cds	no	ψοφίμια	inclusive
+n	ps	yes	δημιουργός των φυτών	inclusive
+n	cds	no	χωριάτη	conservative
+n	qas	no	τρακαδόρος	conservative
+n	asm	no	βλακεία	conservative
+n	re	no	δυσφήμιση	conservative
+n	svp	no	enviousness	inclusive
+n	pa	yes	εργολάβος κηδειών	inclusive
+n	an	no	γένους vipera	inclusive
+n	pa	yes	επίκουρος καθηγητής	inclusive
+n	ddp	yes	ragtag και bobtail	conservative
+n	ddp	yes	ανόητος	inclusive
+n	an	no	Όρνιθα	inclusive
+n	asm	no	επιβραδύνουν	inclusive
+n	re	no	μαφιόζων	inclusive
+n	cds	no	υπεροψία	conservative
+n	cds	no	φάρσα	inclusive
+n	ddp	yes	αγριότητα	inclusive
+n	an	no	grossness	conservative
+n	or	no	dumbass	conservative
+n	an	no	old world βουβάλι	inclusive
+a	ddp	yes	ανόητος	conservative
+n	cds	no	παιδαγωγός	inclusive
+n	dmc	yes	κακός άνθρωπος	conservative
+a	dmc	yes	λερωμένος	inclusive
+n	an	no	τσιμπούρι	inclusive
+n	cds	no	δογματισμός	conservative
+n	dmc	yes	αλητεία	inclusive
+n	svp	no	avaritia	inclusive
+n	qas	no	φάουλ-up	inclusive
+n	dmc	yes	μαφιόζου	inclusive
+n	ps	yes	Γύφτος	inclusive
+n	cds	no	ληστές	inclusive
+n	asm	no	flouter	conservative
+n	cds	no	κοπρίτης	inclusive
+n	qas	no	αγρομισθωτής	inclusive
+n	cds	no	φονταμενταλισμό	inclusive
+n	an	no	κροκόδειλοι	inclusive
+n	ps	yes	μογγόλος	inclusive
+n	ddp	yes	κρατούμενοι	inclusive
+n	dmc	yes	ψέμμα	inclusive
+n	is	yes	εξάντληση	inclusive
+n	cds	no	wads	inclusive
+n	re	no	ένοπλο ληστή	inclusive
+n	re	no	σεξουαλική κακοποίηση	inclusive
+n	re	no	ληστείας	inclusive
+n	cds	no	υπερβολική ευσέβεια	inclusive
+n	qas	no	μεγιστάνας	inclusive
+n	cds	no	ανθρωπάκια	inclusive
+n	qas	no	ballock	inclusive
+n	cds	no	Θεωρία Συνωμοσίας	inclusive
+n	asm	no	wanker	conservative
+n	qas	no	κοινολόγηση	inclusive
+a	dmc	yes	διαβολικός	conservative
+n	cds	no	mussiness	conservative
+n	cds	no	κοσμοσυρροή	inclusive
+n	qas	no	ενοχλών	conservative
+n	asm	no	nookie	conservative
+n	cds	no	αταξία	conservative
+n	cds	no	κατασκοπεύω	conservative
+n	re	no	διαβολή	conservative
+n	re	no	βία	inclusive
+n	ddf	yes	απενεργοποίηση	inclusive
+n	cds	no	σπίτι της πορνείας	inclusive
+n	an	no	Αμερικανικός βίσωνας	inclusive
+n	an	no	prickteaser	conservative
+n	pr	no	βοοειδή	inclusive
+n	an	no	βατράχι	inclusive
+n	asf	no	dunderhead	conservative
+n	re	no	κακοποίηση	inclusive
+n	an	no	σφιγκτήρας	inclusive
+n	is	yes	χαμηλό εισόδημα	inclusive
+n	an	no	κοτόπουλο	inclusive
+n	asm	no	γαμώ	conservative
+n	or	no	cucumis sativus	inclusive
+n	ps	yes	Εβραίος	inclusive
+n	cds	no	ακατέργαστα λύματα	inclusive
+n	is	yes	σπαγγοραμμένος	conservative
+n	cds	no	αποβράσματα τσάντα	conservative
+n	dmc	yes	παρίας	inclusive
+n	re	no	τρομοκρατική πράξη	inclusive
+n	ps	yes	Κινέζα	inclusive
+n	dmc	yes	αποβράσματα τσάντα	inclusive
+n	cds	no	τεμπέλης	conservative
+n	pa	yes	άγριος	conservative
+n	dmc	yes	έτσι κ 'έτσι	conservative
+n	an	no	κούτσουρο	conservative
+n	dmc	yes	πλαστογραφία	inclusive
+a	cds	no	φοβητσιάρης	conservative
+n	pr	no	Βόδι	inclusive
+n	pa	yes	λογιστής	inclusive
+n	ddp	yes	βάρβαρος	conservative
+n	qas	no	όρχις	inclusive
+n	qas	no	necrotrophic	inclusive
+n	an	no	σαλιγκάρι	inclusive
+n	an	no	pip-τρίξιμο	conservative
+n	an	no	sciaenops ocellatus	inclusive
+n	pr	no	σεξουαλικών υπηρεσιών	inclusive
+n	cds	no	ακαταστασία	conservative
+n	is	yes	κακή διάβολος	conservative
+n	ps	yes	rroma	inclusive
+n	cds	no	rumormonger	conservative
+n	cds	no	crooners	inclusive
+v	cds	no	χοντραίνω	inclusive
+n	ps	yes	boche	conservative
+n	dmc	yes	δυσοσμία	conservative
+n	an	no	γαϊδούρια	inclusive
+n	rci	yes	άγριος	conservative
+n	re	no	συκοφαντία και δυσφήμηση	inclusive
+n	svp	no	πλεονεκτικότητα	inclusive
+n	an	no	κοινή κουνουπιών	inclusive
+n	is	yes	εθελοντική φτώχεια	inclusive
+n	qas	no	Ρητορική	inclusive
+n	cds	no	κούτσουρο	conservative
+n	re	no	βίαιη βιασμό	conservative
+n	om	no	αναπληρωτές	inclusive
+n	cds	no	αρχιερέας	inclusive
+n	pr	no	εγχώρια βοοειδή	inclusive
+n	svp	no	καλοφαγάς	inclusive
+n	an	no	κορόιδο	conservative
+n	rci	yes	χωριάτη	conservative
+n	is	yes	τσιγκούνης	conservative
+n	qas	no	ερασιτέχνη	inclusive
+n	dmc	yes	αναθυμίαση	conservative
+n	an	no	αναπαραγωγή των ζώων	inclusive
+n	cds	no	προαγωγός	conservative
+n	dmc	yes	λαξευτής	conservative
+n	cds	no	συμμορία του δρόμου	conservative
+n	an	no	familiaris	inclusive
+n	re	no	Μαφία	inclusive
+n	an	no	κουνέλι	inclusive
+n	an	no	ψείρα του σώματος	inclusive
+n	asm	no	Φαλλός	inclusive
+n	ddp	yes	changeling	inclusive
+n	dmc	yes	εξώλης	conservative
+v	qas	no	επισκευάζω	inclusive
+n	an	no	american βουβάλι	inclusive
+n	qas	no	μπαρόκ αρχιτεκτονική	inclusive
+n	cds	no	ναρκισσιστής	inclusive
+n	dmc	yes	αγύρτης	conservative
+n	re	no	σεξουαλικές επιθέσεις	inclusive
+n	svp	no	αξιοπρέπεια	inclusive
+n	pr	no	πόρνη ρωγμή	conservative
+n	re	no	debaucher	conservative
+n	an	no	θάλασσα σκορπιός	inclusive
+n	ddp	yes	codswallop	conservative
+a	cds	no	έξυπνος	inclusive
+n	cds	no	ραδιούργος	inclusive
+n	an	no	Χρυσό τσακάλι	inclusive
+n	pa	yes	ακαδημαϊσμό	inclusive
+v	qas	no	βασανίζω	conservative
+n	an	no	patsy	conservative
+n	cds	no	Μασονία	inclusive
+n	cds	no	interfertility	inclusive
+n	cds	no	φασίστας	conservative
+n	cds	no	φοβερή πένα	inclusive
+n	cds	no	ανοησία	inclusive
+n	an	no	diddly-squat	conservative
+n	or	no	χαζός	conservative
+n	qas	no	έμπορος	inclusive
+n	or	no	αδερφή	conservative
+n	cds	no	ανόητος	inclusive
+n	qas	no	tagalong	conservative
+n	pa	yes	κρεοπωλείο χοιρινό	inclusive
+a	dmc	yes	φαύλος	conservative
+n	cds	no	σχολαστικότης	inclusive
+n	an	no	φάρσα	conservative
+n	re	no	εκβιασμός	conservative
+n	cds	no	ανταποκριτής	inclusive
+n	cds	no	ερασιτεχνισμού	conservative
+n	an	no	ράμφος	inclusive
+n	pr	no	όπλο moll	inclusive
+n	cds	no	νεογνική	inclusive
+n	om	no	γκέι	conservative
+n	asm	no	βίδωμα	conservative
+n	cds	no	τοκογλυφία	inclusive
+n	asm	no	φαλλικό σύμβολο	inclusive
+n	asm	no	avafauna	inclusive
+n	om	no	πούστης	inclusive
+n	cds	no	η μητέρα μαλάκα	conservative
+n	an	no	caprinae	inclusive
+n	svp	no	dillydallier	conservative
+n	cds	no	όγκος	inclusive
+n	cds	no	έπαρση	inclusive
+n	cds	no	κακή διάβολος	conservative
+n	ps	yes	βουλγαρικά	inclusive
+n	pa	yes	prof	inclusive
+n	pr	no	socialite	inclusive
+n	dmc	yes	κακία	inclusive
+n	om	no	ομοφυλόφιλος	inclusive
+n	re	no	απαγωγείς	inclusive
+n	cds	no	αναλήθεια	conservative
+n	re	no	κλέφτης	inclusive
+n	qas	no	βαρονίες	inclusive
+n	an	no	knucklehead	conservative
+n	qas	no	κομφορμισμός	inclusive
+n	om	no	Φοινίκουλον	inclusive
+n	pr	no	floozie	conservative
+v	cds	no	μιλώ γρήγορα	inclusive
+n	qas	no	εξωπαράσιτα	inclusive
+n	re	no	βίαιη	inclusive
+n	cds	no	συνωμοσιολογία	inclusive
+a	cds	no	κοινότοπος	inclusive
+n	pr	no	παλλακίδες	inclusive
+n	an	no	κακοποιός	conservative
+n	cds	no	μυθιστορήματα δεκάρα	inclusive
+n	an	no	τούβλο	conservative
+n	an	no	γένους μαλακίου	inclusive
+n	an	no	humanus	inclusive
+n	an	no	varia strix	inclusive
+n	or	no	dunce	conservative
+n	cds	no	κομπασμός	conservative
+n	qas	no	μεθώ	inclusive
+n	cds	no	τραγικό κακοποιός	conservative
+n	an	no	παραδρομή της γλώσσας	inclusive
+n	cds	no	μαστιγώσει	inclusive
+n	cds	no	επιβραδύνουν	inclusive
+n	pr	no	Αγελάδα	inclusive
+n	cds	no	αναίδεια	conservative
+n	cds	no	κρετίνος	inclusive
+n	an	no	κουνούπια	inclusive
+n	ps	yes	ζουλού	inclusive
+n	ddp	yes	παράλογη	conservative
+n	an	no	φλυαρώ	inclusive
+v	cds	no	πολυλογώ	conservative
+n	cds	no	schoolma'am	conservative
+n	qas	no	λεχρίτης	conservative
+n	cds	no	συνωμοσία της σιωπής τους	inclusive
+n	cds	no	αποχωρητήριο	inclusive
+n	qas	no	μεγάλο επιχειρηματία	inclusive
+n	qas	no	ιδιοκτήτης επιχείρησης	inclusive
+n	ps	yes	μισή φυλή	conservative
+n	ddp	yes	ατζαμής	conservative
+v	cds	no	μπουκώνομαι	inclusive
+n	cds	no	νεανικών συμμοριών	conservative
+n	pa	yes	χωριάτη	conservative
+n	svp	no	λαιμαργία	inclusive
+n	svp	no	ζηλοφθονία	inclusive
+n	cds	no	θεωρητικός συνωμοσίας	inclusive
+n	asm	no	καφέ	inclusive
+n	cds	no	αδίκημα	inclusive
+n	re	no	συκοφαντία	inclusive
+n	cds	no	μικροκλοπές	inclusive
+n	cds	no	αδικοπραξίας	inclusive
+n	cds	no	ιαπωνικές μονάδες μέτρησης	inclusive
+n	cds	no	σμίξει-mangle	inclusive
+n	ddp	yes	zooerastia	conservative
+n	ddp	yes	taleteller	conservative
+n	asm	no	του πέους	inclusive
+n	cds	no	διδακτικό βοήθημα	inclusive
+n	an	no	κοκέτα	conservative
+n	dmc	yes	πλάνητος	inclusive
+n	qas	no	ζώνη βάρους	inclusive
+n	asf	no	τούβλο	conservative
+n	svp	no	παράσιτος	conservative
+n	ddp	yes	αναπαραγωγή των ζώων	inclusive
+n	asm	no	aves	inclusive
+n	pa	yes	καθηγητής extraordinarius	inclusive
+n	cds	no	μαφία της σικελίας	conservative
+n	cds	no	παλαιό αυτοκίνητο	inclusive
+n	an	no	Βους ο ταύρος	inclusive
+n	ps	yes	Κατσίβελος	inclusive
+n	or	no	βλάκας	conservative
+n	cds	no	λογοτεχνική hack	conservative
+n	cds	no	perspicaciousness	inclusive
+n	cds	no	rookie	conservative
+n	cds	no	αλήτης	conservative
+n	an	no	οκνηρός	conservative
+n	re	no	σκοτώνει	inclusive
+n	an	no	πρόβατα	inclusive
+n	ddp	yes	αλμπάνης	conservative
+n	re	no	εγκληματική πράξη	inclusive
+n	an	no	κτηνοβασία	conservative
+n	cds	no	παραβατικότητα	inclusive
+n	qas	no	όχλος	conservative
+n	qas	no	ενδοπαράσιτα	inclusive
+n	cds	no	pompousness	inclusive
+n	re	no	Μαφία	conservative
+n	cds	no	σκύβαλο	conservative
+n	rci	yes	χωριάτης	conservative
+n	pa	yes	βοσκοπούλα	inclusive
+a	ddp	yes	κουτός	conservative
+n	cds	no	συνωμοσία της σιωπής	inclusive
+n	an	no	raunch	conservative
+n	svp	no	faineance	inclusive
+n	dmc	yes	αλήτες	conservative
+n	ddp	yes	bonehead	conservative
+n	cds	no	κακοφτιάχνω	inclusive
+n	cds	no	νεόπλουτος	inclusive
+n	an	no	σκώροι	inclusive
+n	pr	no	πόρνες	conservative
+n	asm	no	βλακέντιος	conservative
+n	dmc	yes	αποβράσματα τσάντα	conservative
+n	an	no	Βόνασος	inclusive
+a	svp	no	μίζερος	conservative
+n	cds	no	παραδρομή της γλώσσας	inclusive
+n	asf	no	μπούμπουρας	conservative
+n	an	no	προβατίνα	inclusive
+n	is	yes	κουρελιάρης	conservative
+n	svp	no	καλό-για-τίποτα	conservative
+n	asm	no	ballock	inclusive
+v	asm	no	κάνω έρωτα	conservative
+n	an	no	κάθαρμα	conservative
+n	ddf	yes	σακατεύω	inclusive
+n	cds	no	διαβολάκι	inclusive
+n	re	no	κατάχρηση εξουσίας	inclusive
+n	an	no	floozy	conservative
+n	cds	no	φιλόνικος	conservative
+n	qas	no	φύλακας της αγοράς	inclusive
+n	cds	no	βλακεία	inclusive
+n	re	no	καταδικασμένος εγκληματίας	inclusive
+n	qas	no	fumbler	conservative
+n	cds	no	πρόβλημα	conservative
+n	an	no	απατεώνων	conservative
+n	qas	no	αστική τάξη	inclusive
+n	cds	no	θνησιμαίο	inclusive
+n	svp	no	λαχτάρα	inclusive
+n	dmc	yes	γελωτοποιός	inclusive
+n	asf	no	ανόητο	conservative
+n	qas	no	ατζαμής	conservative
+n	re	no	εγκληματικές δραστηριότητες	inclusive
+n	an	no	φυσιογνωμία	inclusive
+n	qas	no	μεσαίου εισοδήματος	inclusive
+n	cds	no	διανοούμενος	inclusive
+n	pa	yes	παράγοντα εισιτήριο	inclusive
+n	ps	yes	αμάλγαμα	conservative
+n	re	no	σεξουαλικής κακοποίησης	inclusive
+n	ddp	yes	Μικροπανίδα	inclusive
+n	pr	no	Παλλακεία	inclusive
+n	asm	no	ακροβυστία	inclusive
+n	an	no	Αρνί	inclusive
+n	cds	no	αλλοτριοπραγμών	conservative
+n	is	yes	ζητιάνος	conservative
+n	re	no	δολοφόνοι	inclusive
+n	cds	no	wanker	conservative
+n	cds	no	ballup	inclusive
+n	asm	no	κόκορας	inclusive
+n	cds	no	μπράβους	conservative
+n	an	no	capra	inclusive
+n	pa	yes	sheepherder	inclusive
+n	pr	no	floozy	conservative
+n	om	no	αδερφή	conservative
+n	ddf	yes	καμπούρης	inclusive
+n	re	no	βιασμών	conservative
+n	cds	no	εκπαιδευτή	inclusive
+n	qas	no	νοικοκυριό	inclusive
+n	pr	no	bos taurus	inclusive
+n	svp	no	αβουλησία	inclusive
+n	ddp	yes	patsy	conservative
+n	cds	no	νήπιο	inclusive
+n	cds	no	σκαφτιάς	inclusive
+n	qas	no	μεσαίας τάξης	inclusive
+n	an	no	crocodylidae	inclusive
+n	an	no	αντιλόπη κατσίκα	inclusive
+n	dmc	yes	βάρβαρη	conservative
+n	pr	no	σκώρος	inclusive
+n	asf	no	χαζομάρα	conservative
+n	an	no	φύλο mollusca	inclusive
+a	ddp	yes	αγράμματος	conservative
+n	cds	no	Κόζα Νόστρα	inclusive
+n	ps	yes	negroids	inclusive
+n	qas	no	αγροτών	inclusive
+n	an	no	ανγκουίλα	inclusive
+n	dmc	yes	rakehell	conservative
+n	om	no	drag queens	inclusive
+n	svp	no	δεκάρα-τσίμπημα	inclusive
+n	ps	yes	Μογγόλα	inclusive
+n	an	no	βαρβαρισμός	inclusive
+n	om	no	κυρίες	inclusive
+n	an	no	αρσενική πόρνη	conservative
+n	an	no	rouncey	inclusive
+n	cds	no	είλωτες	inclusive
+n	cds	no	Ομερτά	inclusive
+n	dmc	yes	chiseller	conservative
+v	asm	no	(τον)παίρνω	conservative
+n	ddp	yes	ηλιθιότητα	conservative
+n	an	no	όψη	inclusive
+n	dmc	yes	παλιάτσος	inclusive
+n	om	no	aboral	inclusive
+n	asf	no	μαλλιά καβάλο	inclusive
+n	an	no	Μικρόβιο	inclusive
+n	cds	no	σούφρωμα	inclusive
+n	ddp	yes	βάρβαρη	conservative
+n	an	no	aureus	inclusive
+n	asm	no	σκληρή-on	inclusive
+n	cds	no	φιλαυτία	conservative
+n	cds	no	φατρία	inclusive
+n	ps	yes	αγροίκος	conservative
+n	cds	no	εκπαιδευτής	inclusive
+n	cds	no	αλαζονεία	conservative
+n	dmc	yes	στρεψόδικος	inclusive
+n	cds	no	ζηλωτές	inclusive
+n	cds	no	γουίλερ αντιπρόσωπο	conservative
+n	ps	yes	μαύρο πρόσωπο	inclusive
+n	re	no	λύσσα	inclusive
+n	qas	no	κάστα	inclusive
+n	or	no	γεώμηλο	inclusive
+n	cds	no	μαφιόζου	inclusive
+v	qas	no	μακιγιάρω	inclusive
+n	pa	yes	καθηγητής της έρευνας	inclusive
+n	dmc	yes	εγκληματίας	conservative
+n	re	no	απατεών	conservative
+n	ddp	yes	φλύαρος	conservative
+n	cds	no	αγύρτης	conservative
+n	cds	no	sharking δάνειο	inclusive
+n	an	no	αγόρια ενοικίαση	conservative
+n	an	no	φιλάργυρος	conservative
+n	cds	no	ψέμα	inclusive
+n	svp	no	πλεονεξία	inclusive
+n	qas	no	θανάτωσης	conservative
+n	qas	no	κρεμάστρα-on	conservative
+n	cds	no	αναστάτωση	conservative
+n	cds	no	εγκατάσταση τουαλέτας	inclusive
+n	ddp	yes	analphabetic	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	re	no	χρηματολογία	inclusive
+n	cds	no	θρησκευτικού φονταμενταλισμού	inclusive
+n	ddp	yes	τρέλα	inclusive
+n	cds	no	κουφάρι	inclusive
+n	dmc	yes	σπάταλος	conservative
+n	qas	no	μάταια αποκάλυψη	inclusive
+n	dmc	yes	αποστάτης	conservative
+n	re	no	σούφρωμα	inclusive
+n	cds	no	νταβατζής	conservative
+n	cds	no	ληστή	conservative
+n	an	no	σαλιγκάρια	inclusive
+n	cds	no	κλοπή	inclusive
+n	dmc	yes	απόβλητος	inclusive
+n	an	no	παρατέω	conservative
+n	re	no	έγκλημα	inclusive
+n	cds	no	φιλοπερίεργος	conservative
+n	dmc	yes	λωποδύτης	conservative
+n	cds	no	αφοδευτήριο	inclusive
+n	dmc	yes	fabricator	conservative
+n	pa	yes	ψαράς	inclusive
+n	qas	no	ζωγράφος και διακοσμητής	inclusive
+n	an	no	animalia	inclusive
+n	cds	no	νταβατζήδες	conservative
+n	cds	no	χούντα	inclusive
+n	om	no	γλυκανάλατος	conservative
+n	cds	no	newswriter	inclusive
+n	cds	no	βωμολοχίες	inclusive
+n	cds	no	μεσάζων	inclusive
+n	re	no	διαβολή	inclusive
+n	asf	no	κορόιδο	conservative
+n	svp	no	τεμπέλης	conservative
+n	cds	no	αξιωματικός της αστυνομίας	inclusive
+n	an	no	άνουρα	inclusive
+n	cds	no	ολίσθηση της γλώσσας	inclusive
+n	cds	no	μπάτσος	conservative
+n	an	no	πλάσμα	inclusive
+a	cds	no	δωροδοκούμενος	conservative
+n	cds	no	papparazzi	inclusive
+n	cds	no	αργυρώνητο	conservative
+n	cds	no	folderol	conservative
+n	asm	no	Καφέ	inclusive
+n	asf	no	muttonhead	conservative
+n	om	no	Κίναιδος	conservative
+n	ddf	yes	δυσμορφία	inclusive
+n	or	no	ηλίθιος	conservative
+n	qas	no	συνονθύλευμα	inclusive
+n	re	no	κακόβουλο ψεύδος	inclusive
+n	re	no	backbiter	conservative
+n	cds	no	Διδασκαλία	inclusive
+n	re	no	μαφία της σικελίας	inclusive
+n	cds	no	όργανο	conservative
+n	an	no	ανίκανος	conservative
+n	svp	no	πόθος	inclusive
+n	pa	yes	φρουρά πόρτα	inclusive
+n	an	no	caiman	inclusive
+n	cds	no	καρούλι blooper	inclusive
+n	svp	no	slothfulness	inclusive
+n	om	no	πρωκτική επαφή	inclusive
+n	or	no	σχολαστική	inclusive
+n	cds	no	θρησκοληψία	conservative
+a	cds	no	εγκληματικός	inclusive
+n	pa	yes	Συνήγορος	inclusive
+n	asm	no	εργαλείο	conservative
+n	cds	no	χαρτί-ωθητή	inclusive
+n	ddp	yes	Επίβενθος πανίδα	inclusive
+n	an	no	γουρουνόπουλο	inclusive
+n	svp	no	gourmandizer	inclusive
+n	ps	yes	Ιουδαϊσμός	inclusive
+n	an	no	οικογένεια anguillidae	inclusive
+n	pr	no	σεξουαλικές υπηρεσίες	conservative
+a	asm	no	καστανός	inclusive
+n	re	no	ντραγκέτα	inclusive
+n	re	no	εγκλήματα	inclusive
+n	an	no	χαζομάρα	conservative
+n	ps	yes	μαύρο άνδρα	inclusive
+n	cds	no	καμόρα	inclusive
+n	cds	no	κουλτούρα των συμμοριών	conservative
+n	cds	no	σχολαστικότητα	inclusive
+n	svp	no	απραξίας	conservative
+n	om	no	γαμώ	inclusive
+n	re	no	τρομοκρατία	inclusive
+n	om	no	Αρσενοκοιτία	inclusive
+n	om	no	ομοφυλόφιλων ανδρών	inclusive
+n	ddp	yes	κουτός	inclusive
+n	re	no	των εταιρικών καταχρήσεων	inclusive
+n	cds	no	πάρτι	inclusive
+n	cds	no	συμμορία του δρόμου	inclusive
+n	an	no	diddly	conservative
+n	cds	no	chiseller	inclusive
+n	an	no	batrachian	inclusive
+n	cds	no	απόπατος	inclusive
+n	cds	no	κλίκα	inclusive
+n	re	no	εγκληματίας	inclusive
+n	cds	no	θεωρίες συνωμοσίας	inclusive
+n	ps	yes	darkey	conservative
+n	re	no	βιασμός	inclusive
+n	cds	no	γκάφα	inclusive
+n	cds	no	ragtag	conservative
+a	svp	no	αχόρταγος	inclusive
+n	cds	no	διαβολάκι	conservative
+n	cds	no	αστυνομικίνα	conservative
+n	re	no	ζωοκλέπτης	inclusive
+n	re	no	κακοποιηθεί σεξουαλικά	inclusive
+n	cds	no	Μασόνοι	inclusive
+n	re	no	Κόζα Νόστρα	conservative
+n	is	yes	tightwad	conservative
+a	dmc	yes	σατανικός	conservative
+n	asm	no	brownness	inclusive
+n	or	no	κράμβη	inclusive
+n	re	no	διαρρήκτης	inclusive
+n	an	no	λευκό καρχαρία	inclusive
+n	dmc	yes	hobo	conservative
+n	asf	no	patsy	conservative
+n	re	no	κατάχρηση	inclusive
+n	cds	no	bordello	inclusive
+n	an	no	στραβός πρόσωπο	inclusive
+n	om	no	ίδια σεξ	inclusive
+n	ps	yes	ιουδαϊκή	inclusive
+n	an	no	είδος κροκοδείλου της νότιας αμερικής	inclusive
+n	cds	no	τολμηρός	inclusive
+n	dmc	yes	βάρβαρος	conservative
+n	qas	no	μαγαζάτορας	inclusive
+n	cds	no	φασισμός	conservative
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	svp	no	minginess	conservative
+n	qas	no	κακή καπέλο	conservative
+n	re	no	εκβιασμός	inclusive
+a	svp	no	εξοργισμένος	inclusive
+n	asm	no	Πούτσα	inclusive
+n	ddp	yes	κοροϊδεύω	conservative
+n	svp	no	βαρετό	inclusive
+a	ddp	yes	ηλίθιος	conservative
+a	ddp	yes	ανίκανος	inclusive
+n	cds	no	πανουργία	conservative
+n	om	no	dorsolateral	inclusive
+n	cds	no	μαστροπός	conservative
+n	qas	no	σύμφυρμα	inclusive
+n	dmc	yes	χωριάτη	conservative
+n	asm	no	βλαξ	conservative
+n	pa	yes	φρουρός πόρτας	inclusive
+n	qas	no	μεταλλικά απόβλητα	inclusive
+n	cds	no	συμμορίες	conservative
+n	pr	no	αρσενική πόρνη	conservative
+n	ps	yes	αράπης	conservative
+a	svp	no	ευέξαπτος	conservative
+n	cds	no	taleteller	conservative
+n	svp	no	οκνηρός	conservative
+a	is	yes	ισχνός	inclusive
+n	om	no	cross-dressing	inclusive
+n	pa	yes	διακεκριμένος καθηγητής	inclusive
+n	ddp	yes	η μητέρα μαλάκα	conservative
+n	cds	no	τραίνο αποσκευών	inclusive
+n	or	no	Κραμπί	inclusive
+n	om	no	γλουτούς	inclusive
+n	or	no	ομοφυλόφιλος	conservative
+n	pa	yes	εργαζόμενους σε υπαλληλικές θέσεις	inclusive
+n	cds	no	οίκους ανοχής	inclusive
+n	svp	no	κενοδοξία	conservative
+n	re	no	plagiarization	inclusive
+n	or	no	μπούμπουρας	conservative
+n	an	no	οικογένεια crocodylidae	inclusive
+n	cds	no	ένας κλέφτης	inclusive
+n	ps	yes	καθίκι	conservative
+n	asm	no	αρακά	inclusive
+a	ddp	yes	βραδύνους	conservative
+n	qas	no	αλητεία	conservative
+n	asm	no	changeling	inclusive
+n	dmc	yes	δοσίλογος	conservative
+n	asm	no	nooky	conservative
+v	re	no	ξεγελώ	inclusive
+n	cds	no	μαστροπεία	conservative
+n	pa	yes	θυρωρός	inclusive
+a	cds	no	αργυρώνητος	conservative
+n	or	no	cucurbita maxima	inclusive
+n	ps	yes	εβραίων	inclusive
+n	dmc	yes	αθλιότητα	inclusive
+n	cds	no	oodles	inclusive
+n	an	no	Πετεινός	inclusive
+n	cds	no	βυζανιάρικο	inclusive
+n	is	yes	τραγικό κακοποιός	conservative
+n	dmc	yes	fumbler	conservative
+n	ps	yes	bedu	inclusive
+n	asf	no	μικρόνους	conservative
+n	or	no	gay	conservative
+n	cds	no	δολιότητα	inclusive
+n	svp	no	αντιπάθεια	inclusive
+n	an	no	frogspawn	inclusive
+n	cds	no	αρχιερέα	inclusive
+n	dmc	yes	δεοντολογία	inclusive
+n	cds	no	loanshark	inclusive
+n	an	no	volaille	inclusive
+n	an	no	βδέλλα	inclusive
+n	pa	yes	ποινικές δικηγόρος	inclusive
+n	cds	no	συμμορίες	inclusive
+n	cds	no	εξαρτημένος	conservative
+n	om	no	λαίδη	inclusive
+n	pa	yes	συνήγορος	inclusive
+n	ddp	yes	fuckhead	conservative
+n	cds	no	αξιωματικός	inclusive
+n	om	no	σοδομία	inclusive
+n	qas	no	σκυλόσπιτο	inclusive
+n	cds	no	απόβλητα	inclusive
+n	ddp	yes	τσαρλατάνος	conservative
+n	ps	yes	nigra	conservative
+n	cds	no	λέτσος	conservative
+n	qas	no	ιδιοκτήτης φάρμας	inclusive
+n	qas	no	αποκάλυψη	inclusive
+n	dmc	yes	νεανική παραβατική	conservative
+n	cds	no	αχρείος	conservative
+n	ddp	yes	άγριος	conservative
+n	pr	no	Εταίρα	conservative
+n	ddp	yes	άγνοια	conservative
+n	asm	no	ηλίθιος	inclusive
+n	an	no	μουσούδα	inclusive
+n	cds	no	διασταύρωση	inclusive
+n	cds	no	προξενήτρα	inclusive
+n	dmc	yes	τις ηθικές αξίες	inclusive
+n	ps	yes	βλακέντιος	conservative
+n	pa	yes	υπερασπιστής	inclusive
+n	an	no	Κόνικλος	inclusive
+n	an	no	βόας	inclusive
+n	an	no	crocodylia	inclusive
+v	asm	no	συνουσιάζομαι	conservative
+n	is	yes	villainess	conservative
+n	cds	no	δύσμορφος	inclusive
+n	ddp	yes	αγαθιάρης	conservative
+n	an	no	συλητής	inclusive
+n	or	no	Κινέζικο λάχανο	inclusive
+n	re	no	ληστεία	inclusive
+n	om	no	γάιδαρος	inclusive
+n	qas	no	όχλος	inclusive
+n	cds	no	μωρό	inclusive
+n	cds	no	αθλητικές σπίτι	inclusive
+n	asf	no	βλακέντιος	conservative
+n	om	no	γκέι άνδρες	inclusive
+n	dmc	yes	αγροίκος	conservative
+n	dmc	yes	αργόσχολος	conservative
+n	ddp	yes	unwiseness	inclusive
+n	re	no	δολοφόνισσα	inclusive
+n	an	no	αγόρι μισθώματος	conservative
+n	asm	no	κορόιδο	conservative
+n	cds	no	τοκογλύφοι	inclusive
+n	dmc	yes	μικροκλέφτης	conservative
+n	dmc	yes	defrauder	conservative
+v	cds	no	παζαρεύω	inclusive
+n	re	no	cosa nostra	inclusive
+n	pa	yes	καθ	inclusive
+n	svp	no	έπαρση	conservative
+n	qas	no	ενορίτης	inclusive
+n	cds	no	σακαράκα	inclusive
+n	dmc	yes	εξαθλίωση	inclusive
+n	rci	yes	Βάρβαροι	conservative
+n	ddp	yes	rumourmonger	conservative
+n	cds	no	χαζός	conservative
+n	asf	no	κουτορνίθι	conservative
+n	an	no	επιφύτων	inclusive
+n	cds	no	ζιγκολό	inclusive
+n	pa	yes	ελεγκτής	inclusive
+n	an	no	κουκουβάγια	inclusive
+a	cds	no	έκνομος	inclusive
+n	an	no	άρπαξ σώμα	inclusive
+n	qas	no	διακονιάρης	conservative
+n	asm	no	όρχις	inclusive
+n	ddp	yes	Μεσοπανίδα	inclusive
+n	qas	no	ταραξίας	conservative
+n	an	no	βάτραχος βάτραχος	inclusive
+n	re	no	κακούργημα	inclusive
+n	ddp	yes	επιβραδύνουν	conservative
+n	asm	no	Πούτσος	inclusive
+n	cds	no	Σικελική μαφία	inclusive
+n	an	no	bedbugs	inclusive
+n	dmc	yes	παλιάνθρωπος	conservative
+n	ps	yes	υβριδικό ανθρωπογενείς	inclusive
+n	an	no	χοιρίδιο	inclusive
+n	ps	yes	εκριζωτής	conservative
+a	ddf	yes	χωλός	inclusive
+n	om	no	crossdress	inclusive
+n	qas	no	σπίτι ζωγράφος	inclusive
+n	pr	no	ακατάστατος γυναίκα	conservative
+n	an	no	νυχτοπεταλούδα	inclusive
+n	an	no	μετάζωα	inclusive
+n	dmc	yes	ατυχής	inclusive
+n	an	no	σκύλα	conservative
+n	an	no	απατεών	conservative
+n	cds	no	ληστής	inclusive
+n	dmc	yes	hobos	conservative
+n	cds	no	παλιάνθρωπος	conservative
+n	cds	no	κακοτέχνης	conservative
+a	dmc	yes	αγενής	conservative
+n	pa	yes	επιχειρηματίας	inclusive
+n	cds	no	φορτία	inclusive
+n	cds	no	έπαρση	conservative
+n	or	no	Φοινίκουλον	inclusive
+n	qas	no	Μίγματα	inclusive
+n	asm	no	μπιζέλια τομέα	inclusive
+n	rci	yes	αγροίκος	conservative
+n	cds	no	λουτρό	inclusive
+n	svp	no	κοιλιόδουλος	inclusive
+n	ddp	yes	shithead	conservative
+n	qas	no	αστός	inclusive
+n	an	no	shithead	conservative
+n	an	no	παλιάνθρωπος	conservative
+n	re	no	raper	conservative
+n	is	yes	φτωχοί άνθρωποι	inclusive
+n	ddp	yes	καριόλη	conservative
+n	an	no	εγχώρια πρόβατα	inclusive
+n	an	no	anguillidae	inclusive
+n	cds	no	τοκογλύφος	conservative
+n	om	no	γλουτοί	inclusive
+n	ddp	yes	Ζώα	inclusive
+n	ddp	yes	twirp	conservative
+n	om	no	derriere	inclusive
+n	cds	no	αγγελιοφόρος αγόρι	inclusive
+n	or	no	sativus	inclusive
+n	ps	yes	Ρομά	inclusive
+n	ddp	yes	ηλίθιο πρόσωπο	conservative
+n	is	yes	κουρελής	conservative
+n	om	no	αρχοντογυναίκα	inclusive
+n	asm	no	βλάκας	conservative
+n	pa	yes	χωριάτης	conservative
+n	cds	no	bas bleu	inclusive
+n	svp	no	dallier	conservative
+n	ddp	yes	ηλιθιότητα	inclusive
+n	ddp	yes	dunderhead	conservative
+n	ps	yes	Μογγόλοι	inclusive
+n	qas	no	βαρίδι	inclusive
+n	an	no	λαγουδάκι	inclusive
+n	cds	no	παράγοντα δρόμο	conservative
+n	cds	no	θεωρία συνωμοσίας	inclusive
+n	or	no	λεπτολογία	inclusive
+n	cds	no	δειλία	conservative
+n	qas	no	hutch	inclusive
+n	an	no	chaser γυναίκα	conservative
+n	ps	yes	νέγρη	inclusive
+n	cds	no	καριόλη	conservative
+n	cds	no	fabricator	conservative
+n	om	no	ομοφυλόφιλος άνδρας	inclusive
+n	ddp	yes	αερολογήματα	conservative
+n	cds	no	οι πολλοί	conservative
+n	asf	no	κούτσουρο	conservative
+n	svp	no	ματαιοπονία	conservative
+n	cds	no	κιοτής	conservative
+n	or	no	shithead	conservative
+n	om	no	συντήρησης	conservative
+n	ddp	yes	αγράμματος	inclusive
+n	cds	no	ragtag και bobtail	conservative
+n	svp	no	απραξία	inclusive
+n	svp	no	απάθεια	inclusive
+n	ddp	yes	ζώο	inclusive
+n	asm	no	καθυστερημένος	inclusive
+n	re	no	εκβιάζει	conservative
+n	cds	no	έγκλημα	inclusive
+n	cds	no	ιταλικής μαφίας	conservative
+n	pr	no	rattus norvegicus	inclusive
+n	an	no	συνοφρύουμαι	inclusive
+n	dmc	yes	μισο-πίντα	conservative
+n	pa	yes	τσοπάνης	inclusive
+n	ps	yes	μελανώδες	inclusive
+n	ddp	yes	κουτσομπόλης	conservative
+n	cds	no	εγκληματική πράξη	inclusive
+n	cds	no	δουλειά χέρι	conservative
+n	asf	no	bêtise	conservative
+n	om	no	της γραμμή	inclusive
+n	dmc	yes	ψεύτης	conservative
+n	asf	no	(χυδ.) γατάκι	conservative
+n	om	no	ίδιου φύλου	inclusive
+n	ps	yes	Υβρίδια	inclusive
+n	om	no	gay	inclusive
+n	cds	no	ψευδολόγος	conservative
+n	re	no	συλλαμβάνων	inclusive
+n	ddf	yes	νάνος	conservative
+n	qas	no	ακόλουθος	inclusive
+n	cds	no	άτακτος	conservative
+n	cds	no	κοπάδι	inclusive
+n	pa	yes	βάρβαρος	conservative
+n	dmc	yes	απατεώνων	conservative
+n	ddp	yes	πουτίγκα κεφάλι	conservative
+n	an	no	eurypterid	inclusive
+n	dmc	yes	ανήθικο	inclusive
+n	an	no	κατσικίσιο γάλα	inclusive
+n	an	no	πουτάνα	conservative
+n	cds	no	παράγοντας	inclusive
+n	om	no	άπω	inclusive
+n	qas	no	ρητορική	inclusive
+n	ddp	yes	talebearer	conservative
+n	asm	no	Αρακάς	inclusive
+n	dmc	yes	εκτός νόμου	conservative
+n	asm	no	απαλό άγγιγμα	conservative
+n	cds	no	κύκλος	inclusive
+n	dmc	yes	διαβολάκι	inclusive
+n	re	no	κακοποιός	conservative
+n	cds	no	αμαρτωλός	conservative
+n	pr	no	γυναίκα του δρόμου	conservative
+n	asf	no	απαλό άγγιγμα	conservative
+n	an	no	cimex lectularius	inclusive
+n	an	no	βλάκας	conservative
+n	an	no	πουλί της σοφίας	inclusive
+n	re	no	συκοφαντία	conservative
+n	cds	no	jacking off	conservative
+n	cds	no	σιγοτραγουδώ	inclusive
+n	qas	no	κοινό άνθρωπο	inclusive
+n	qas	no	καρούλι blooper	inclusive
+n	re	no	Εγκληματικότητα	inclusive
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	cds	no	προσβάλλω	conservative
+n	cds	no	βλάκας	conservative
+n	om	no	οπίσθια	inclusive
+n	cds	no	εκβιαστής	inclusive
+n	re	no	εκβιασμό	conservative
+n	cds	no	δεκάρα φοβερή	inclusive
+n	cds	no	αστικών στερεών αποβλήτων	conservative
+n	an	no	σκορπιός	inclusive
+n	pr	no	γυναίκα συνουσιαζόμενη εκτός γάμου	conservative
+n	cds	no	απραξίας	conservative
+n	re	no	κακομεταχείριση από την αστυνομία	inclusive
+n	pr	no	guff	conservative
+a	ps	yes	μαύρος	inclusive
+n	an	no	Ταύρος	inclusive
+n	om	no	παιδεραστία	inclusive
+n	svp	no	απληστία	inclusive
+n	cds	no	λάθος	inclusive
+n	om	no	μη-δυτικού έννοιες της ανδρικής σεξουαλικότητας	inclusive
+v	qas	no	τα κάνω μούσκεμα	conservative
+n	cds	no	γελωτοποιός	inclusive
+n	ddp	yes	διανοητική ανεπάρκεια	inclusive
+n	cds	no	οίηση	conservative
+n	cds	no	δημόσια ευκολία	inclusive
+n	pr	no	πορνεία	conservative
+n	ddp	yes	ανόητος	conservative
+n	an	no	hirudinea	inclusive
+n	ddp	yes	δύσμορφος	conservative
+n	re	no	μαφιόζων	conservative
+n	ps	yes	απαλό άγγιγμα	conservative
+n	qas	no	το ψεύδος	conservative
+n	an	no	γαϊδούρι	inclusive
+n	svp	no	luxuria	inclusive
+n	dmc	yes	βλάκας	conservative
+n	rci	yes	βάρβαρος	conservative
+n	dmc	yes	βρώμικο σκυλί	inclusive
+n	cds	no	χαμερπής	conservative
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	qas	no	Μπαρόκ αρχιτεκτονική	inclusive
+n	dmc	yes	φυγόπονος	conservative
+n	is	yes	αστική φτώχεια	inclusive
+n	an	no	blattodea	inclusive
+n	svp	no	τσιγγουνιά	inclusive
+n	cds	no	κοπρόσκυλο	inclusive
+n	an	no	βόδια	inclusive
+a	svp	no	υπεροπτικός	conservative
+n	qas	no	ρητορικά	inclusive
+n	cds	no	ανταποκριτής ειδήσεων	inclusive
+n	svp	no	ματαιοφροσύνη	conservative
+n	cds	no	βοοειδή rustler	inclusive
+n	asm	no	όργανο	inclusive
+n	or	no	brassica oleracea	inclusive
+n	ps	yes	ισραηλίτης	inclusive
+v	re	no	βασανίζω	inclusive
+n	cds	no	κλέφτης	inclusive
+n	is	yes	χαμηλού εισοδήματος	inclusive
+n	an	no	κατσίκες	inclusive
+a	is	yes	δυσαρεστημένοι	inclusive
+n	cds	no	ποινικό αδίκημα	inclusive
+n	cds	no	σπερμολόγος	conservative
+n	ps	yes	μεταμορφικοί	conservative
+n	ddp	yes	βλακεία	conservative
+n	cds	no	pompousness	conservative
+n	re	no	εγκληματίας	conservative
+n	an	no	κουνέλια	inclusive
+n	cds	no	μηχανορράφος	inclusive
+n	asm	no	πουλί	inclusive
+n	cds	no	εθισμένος	conservative
+n	cds	no	εφησυχασμό	inclusive
+n	cds	no	εσωτερικό κύκλο	inclusive
+n	asf	no	μηδαμινότητα	inclusive
+n	om	no	κίνημα homophile	conservative
+n	dmc	yes	αγρότης	conservative
+a	cds	no	φοβιτσιάρης	conservative
+n	an	no	escargots	inclusive
+n	or	no	κίνημα homophile	conservative
+n	re	no	grand theft	inclusive
+n	svp	no	ραθυμία	inclusive
+n	is	yes	απορία	inclusive
+n	asf	no	changeling	conservative
+n	re	no	villainess	conservative
+n	svp	no	αηδία	inclusive
+n	an	no	άκερκα	inclusive
+n	cds	no	splashiness	inclusive
+n	qas	no	Βαρόνος	inclusive
+n	pa	yes	ακαδημαϊσμού	inclusive
+n	re	no	απαγωγές	inclusive
+n	asm	no	πτηνό	inclusive
+n	an	no	λύκαινα	inclusive
+n	cds	no	δεκάρα μυθιστόρημα	inclusive
+n	re	no	Σικελική μαφία	conservative
+n	cds	no	λαός	inclusive
+n	cds	no	τοκογλύφους	inclusive
+n	pr	no	αρουραίος	inclusive
+n	ddp	yes	δεν γνωρίζουν τίποτα	conservative
+n	an	no	κουτάβι	inclusive
+n	dmc	yes	ηθικιστική	inclusive
+n	an	no	blattaria	inclusive
+n	an	no	Ζώα	inclusive
+n	ps	yes	βάρβαρος	conservative
+n	ddp	yes	αφροσύνη	inclusive
+n	cds	no	γκανγκστερισμό	inclusive
+n	cds	no	ελεύθεροι τέκτονες	inclusive
+n	cds	no	σκανταλιές λήψης αποφάσεων	conservative
+n	cds	no	φαφλατάς	conservative
+a	cds	no	επιτήδειος	conservative
+n	ps	yes	Ισραηλίτες	inclusive
+n	cds	no	μαλάκας	conservative
+n	ddp	yes	νοητική υστέρηση	inclusive
+n	ps	yes	εβραϊκή παράδοση	inclusive
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	dmc	yes	απατεών	conservative
+n	cds	no	κουτορνίθι	conservative
+n	cds	no	πονηριά	conservative
+n	pa	yes	uncouthness	conservative
+n	asm	no	παραφυάδα	inclusive
+n	asm	no	γαμήσι	conservative
+n	om	no	gay	conservative
+n	cds	no	πουτίγκα κεφάλι	conservative
+n	an	no	cimicidae	inclusive
+n	asm	no	μπιζελιά	inclusive
+n	cds	no	φύλο	inclusive
+v	cds	no	μηχανορραφώ	inclusive
+n	ddp	yes	πρωκτός	conservative
+n	asf	no	dumbass	conservative
+n	qas	no	βοηθός ιερέα	inclusive
+n	cds	no	τουαλέτα	inclusive
+n	ps	yes	πτώση τύπος	conservative
+n	asf	no	dunce	conservative
+n	pr	no	moo-αγελάδας	inclusive
+n	an	no	δεν γνωρίζουν τίποτα	conservative
+n	dmc	yes	dillydallier	conservative
+n	cds	no	γουρουνάκι	conservative
+n	om	no	ουραίο	inclusive
+n	an	no	canis aureus	inclusive
+n	an	no	μεγάλους λευκούς καρχαρίες	inclusive
+n	an	no	εγχώρια κώλο	inclusive
+n	cds	no	codswallop	conservative
+n	an	no	βδέλλες	inclusive
+n	pr	no	πόρνη ρωγμή	inclusive
+n	re	no	ορμή	inclusive
+n	cds	no	απομεινάρια	inclusive
+n	qas	no	κακοτέχνης	conservative
+n	cds	no	βρέφη	inclusive
+n	or	no	ρέβα	inclusive
+n	dmc	yes	κακοτέχνης	conservative
+n	ps	yes	μέτοικος	inclusive
+n	qas	no	σπίτι σκυλιών	inclusive
+n	an	no	παπαγάλος	inclusive
+n	re	no	πρώτου βαθμού δολοφονία	inclusive
+n	qas	no	παλιοσίδερα	inclusive
+n	cds	no	λιμοκόντορος	inclusive
+a	svp	no	θυμωμένος	inclusive
+n	cds	no	εγκληματίας	conservative
+n	or	no	Γκέι	conservative
+n	an	no	κερατάς	conservative
+n	cds	no	σαράβαλο	inclusive
+n	re	no	φόνος	inclusive
+n	an	no	Σκώρος	inclusive
+n	pr	no	εραστής	inclusive
+n	ddp	yes	πλάσμα	inclusive
+n	qas	no	common people	inclusive
+n	cds	no	jokester	inclusive
+n	svp	no	goof-off	conservative
+n	om	no	πούστης	conservative
+n	asm	no	κούτσουρο	conservative
+a	cds	no	φασιστικός	inclusive
+a	om	no	διαφορετικός	inclusive
+a	ddf	yes	τυφλός	inclusive
+n	qas	no	παρασιτούν	inclusive
+n	dmc	yes	αλήτης	inclusive
+n	qas	no	ερασιτέχνης	conservative
+n	an	no	τάξη crocodilia	inclusive
+n	cds	no	νόθο παιδί	inclusive
+n	svp	no	υπεροψία	conservative
+n	om	no	σπονδυλοκοιλιακό	inclusive
+n	or	no	λάχανα	inclusive
+n	cds	no	διαβολάνθρωπος	conservative
+n	asm	no	δύσμορφος	inclusive
+n	ps	yes	μογγολοειδείς	conservative
+n	cds	no	εξυπνάδα	inclusive
+n	an	no	μπούκα	inclusive
+n	cds	no	defrauder	conservative
+n	ps	yes	άγριος	conservative
+n	cds	no	blabbermouth	conservative
+n	cds	no	ανεπιθύμητης αλληλογραφίας	inclusive
+n	asm	no	ιθυφαλλικός	inclusive
+n	cds	no	moneylending	inclusive
+n	asf	no	bonehead	conservative
+n	an	no	βλαξ	conservative
+n	ddp	yes	μαλάκας	conservative
+n	pr	no	σκουριές	conservative
+n	svp	no	υπερκατανάλωση τροφής	inclusive
+n	an	no	χαζός	conservative
+n	an	no	γουρούνι	conservative
+v	asm	no	κοιμάμαι(με)	conservative
+n	re	no	ένοπλη ληστεία	inclusive
+n	an	no	γάιδαρος	inclusive
+n	is	yes	κακοποιός	conservative
+n	ps	yes	Σίντηδες	inclusive
+n	svp	no	φανατικός	conservative
+n	cds	no	wank	conservative
+n	cds	no	σμήνος	inclusive
+n	cds	no	το κλειδί στο χέρι	inclusive
+n	is	yes	φιλάργυρος	conservative
+n	om	no	ουραία	inclusive
+n	an	no	κιοτής	conservative
+n	svp	no	τσιγκούνη	inclusive
+n	ps	yes	εβραϊκή οικογένεια	inclusive
+n	om	no	ομοφυλόφιλος	conservative
+n	cds	no	το ψεύδος	inclusive
+n	ddf	yes	Αναπηρία	inclusive
+n	qas	no	Ενδοπαράσιτο	inclusive
+n	pa	yes	εργαζόμενος	inclusive
+n	is	yes	κακή διάβολος	inclusive
+n	an	no	αγελάδες	inclusive
+n	an	no	dumbass	conservative
+n	cds	no	grunge μουσικής	inclusive
+n	cds	no	κλέφτες	inclusive
+n	or	no	πουτίγκα κεφάλι	conservative
+n	cds	no	fascista	inclusive
+n	pa	yes	φρουρός πύλης	inclusive
+n	asm	no	ψάρι	inclusive
+n	cds	no	prankishness	inclusive
+n	dmc	yes	ανθρωπάκια	inclusive
+n	pr	no	διατηρούνται γυναίκα	conservative
+n	cds	no	σωματέμπορος	inclusive
+n	an	no	τράγος	inclusive
+n	ddp	yes	ζώα	inclusive
+n	pr	no	Ιερόδουλη	conservative
+n	om	no	τραβεστί	inclusive
+n	an	no	δρόμο κορίτσι	conservative
+n	ddp	yes	βλαξ	conservative
+n	an	no	pediculus corporis	inclusive
+n	ps	yes	φυσικό υβρίδιο	inclusive
+n	om	no	πρωκτικό σεξ	inclusive
+n	cds	no	Φονταμενταλισμός	inclusive
+n	cds	no	σατυρίαση	conservative
+n	an	no	βάτραχος	inclusive
+a	ddp	yes	χαζός	conservative
+n	ps	yes	βλάκας	conservative
+n	asm	no	πούλος	conservative
+n	pa	yes	υπάλληλος	inclusive
+n	ddp	yes	κάθαρμα	conservative
+n	or	no	πατάτες	inclusive
+n	re	no	λαξευτής	inclusive
+n	re	no	εκβιαστής	inclusive
+n	an	no	ψύλλος	inclusive
+n	qas	no	freeloader	conservative
+n	an	no	κατσαρίδες	inclusive
+n	dmc	yes	πλαστά	inclusive
+n	cds	no	καθυστερημένος	inclusive
+n	cds	no	blackballing	inclusive
+n	an	no	αρνί	conservative
+n	re	no	δυσφημιστικό	inclusive
+a	dmc	yes	πλαστός	conservative
+n	cds	no	Ναρκισσισμός	inclusive
+n	svp	no	παράσιτος	inclusive
+n	cds	no	βλαξ	conservative
+n	cds	no	αυτοϊκανοποίηση	inclusive
+n	ddp	yes	κουτός	conservative
+n	an	no	ευρασίας griffon	inclusive
+n	qas	no	ενορίες	inclusive
+n	svp	no	χαραμοφάης	conservative
+n	cds	no	φασίστες	conservative
+n	an	no	limacidae	inclusive
+n	cds	no	αγροίκος	conservative
+v	cds	no	περιδρομιάζω	inclusive
+n	cds	no	μπάνιο	inclusive
+n	dmc	yes	ηθική πτώχευση	inclusive
+n	re	no	λεία	inclusive
+n	qas	no	όρχι	inclusive
+n	cds	no	μαφία	inclusive
+n	an	no	χονδροκέφαλος	conservative
+n	an	no	bufo	inclusive
+n	cds	no	γραμμή οικογένεια	inclusive
+n	cds	no	στόμα	inclusive
+n	an	no	folderol	conservative
+n	ddf	yes	άτομα με ειδικές ανάγκες	inclusive
+n	re	no	λογοκλοπή	inclusive
+n	qas	no	ζωγραφική σπίτι	inclusive
+n	cds	no	σκραπ	conservative
+n	svp	no	invidia	inclusive
+n	cds	no	η μεγάλη άπλυτα	conservative
+n	an	no	fulvus	inclusive
+n	ps	yes	μπούφος	conservative
+v	re	no	κάνω καζούρα	inclusive
+n	ddp	yes	μετάζωα	inclusive
+n	qas	no	μπουρζουαζία	inclusive
+n	dmc	yes	ψευδολόγος	conservative
+n	cds	no	δωρεάν κτίστης	inclusive
+n	ddp	yes	saphead	conservative
+n	cds	no	κομπαστής	conservative
+n	ps	yes	βάρβαρη	conservative
+n	pr	no	Πόρνη	conservative
+n	an	no	καρχαρία	inclusive
+n	re	no	βιασμός	conservative
+n	re	no	Πειρατεία	inclusive
+n	an	no	αίγα	inclusive
+n	dmc	yes	υποκρισία	conservative
+n	cds	no	απορρίπτω	conservative
+n	an	no	σκώρος	inclusive
+n	re	no	απατεώνας	conservative
+n	ddp	yes	μικρόνους	conservative
+n	an	no	slowpoke	conservative
+n	dmc	yes	ψέμα	inclusive
+n	ps	yes	Μαύρο	inclusive
+n	cds	no	μαφιόζων	conservative
+n	re	no	κακοποιήθηκε	inclusive
+n	or	no	ηλίθιο πρόσωπο	conservative
+n	asm	no	φάβα	inclusive
+n	ps	yes	ηλίθιος	conservative
+a	ddp	yes	ανόητο	conservative
+n	an	no	saphead	conservative
+n	re	no	αποσπάσει	inclusive
+n	dmc	yes	άγριος	conservative
+n	cds	no	ψεύδος	conservative
+n	an	no	απατεώνας	conservative
+n	ps	yes	Κατσιβέλα	inclusive
+n	pa	yes	ακαδημαϊκής κοινότητας	inclusive
+n	an	no	eurypterids	inclusive
+n	cds	no	όχλος	conservative
+n	pr	no	Ιερόδουλη	inclusive
+a	dmc	yes	βρώμικος	inclusive
+n	re	no	δυσφήμηση του χαρακτήρα	inclusive
+n	om	no	transvestitism	inclusive
+n	re	no	Πειρατής	inclusive
+n	an	no	Μαλάκιο	inclusive
+n	om	no	ψωμάκια	inclusive
+n	an	no	εγχώριων χοίρων	inclusive
+n	svp	no	κομπασμός	conservative
+n	cds	no	μείγμα	inclusive
+n	cds	no	εγκληματική συμπεριφορά	inclusive
+n	cds	no	saphead	conservative
+n	asm	no	ανόητο	conservative
+n	an	no	κορόιδο	inclusive
+n	an	no	παλιόμουτρο	conservative
+n	cds	no	Θεωρίες συνωμοσίας	inclusive
+v	cds	no	πεθαίνω	inclusive
+n	asm	no	βλάκας	inclusive
+n	ddp	yes	ιατρική κομπογιαννίτης	conservative
+n	om	no	πισινός	inclusive
+n	cds	no	επιστημονισμό	inclusive
+n	an	no	βίσωνας	inclusive
+a	ddf	yes	άσχημος	conservative
+n	cds	no	αυθαιρεσία	conservative
+n	cds	no	μάζες	inclusive
+n	pa	yes	υπάλληλος γραφείου	inclusive
+n	cds	no	φανατικός	conservative
+n	an	no	άνανδρος	conservative
+n	re	no	defrauder	inclusive
+n	qas	no	μεγιστάνες	inclusive
+n	pr	no	σεξουαλικές υπηρεσίες	inclusive
+n	asf	no	υπηρέτρια	conservative
+n	qas	no	θραύσματα	inclusive
+n	or	no	knucklehead	conservative
+n	cds	no	φυλακή	inclusive
+n	an	no	παραγραφεί κουκουβάγια	inclusive
+n	asm	no	όρχι	inclusive
+n	cds	no	ιερό λείψανο	inclusive
+n	cds	no	slyboots	conservative
+n	cds	no	μαστροπεία	inclusive
+n	qas	no	σκουπίδια	inclusive
+n	cds	no	αποχέτευσης	inclusive
+n	an	no	φίδι στο γρασίδι	conservative
+n	an	no	pipistrellus	inclusive
+a	is	yes	μίζερος	conservative
+n	svp	no	dilly-dallier	conservative
+n	an	no	πανίδα	inclusive
+n	asf	no	μουνί	conservative
+n	an	no	επίθεση καρχαρία	inclusive
+n	re	no	λεηλασία	inclusive
+n	cds	no	ιταλική μαφία	conservative
+n	ps	yes	Σίντε	inclusive
+n	ps	yes	άσκοπα περιφερόμενος	inclusive
+n	cds	no	Εγκληματικότητα	inclusive
+n	qas	no	παρασιτισμός	inclusive
+n	an	no	βατράχια	inclusive
+n	cds	no	layabout	conservative
+n	qas	no	ερασιτέχνες	inclusive
+n	om	no	cross-dressers	inclusive
+n	ddp	yes	κρετινισμός	inclusive
+n	an	no	ιδιώτης	conservative
+n	ddp	yes	βλακέντιος	conservative
+n	an	no	Ερίφιον	inclusive
+n	cds	no	cacography	inclusive
+n	an	no	Κριάρι	inclusive
+n	an	no	καριόλα	conservative
+n	cds	no	οίηση	inclusive
+n	cds	no	παιδαγωγικές	inclusive
+n	re	no	ημερομηνία-βιασμός	conservative
+n	pr	no	δρόμο κορίτσι	conservative
+n	pa	yes	υπάλληλος εισιτήριων	inclusive
+n	or	no	αμπέλου σκουός	inclusive
+n	ddf	yes	nanus	conservative
+n	re	no	ανθρωποκτονία	inclusive
+n	ddp	yes	σπερμολόγος	conservative
+n	ps	yes	μισό-κάστα	conservative
+n	cds	no	διαβολιά	conservative
+n	an	no	λεχρίτης	conservative
+n	pr	no	διανθιστεί σκώρος	inclusive
+n	an	no	οργή	inclusive
+n	qas	no	αναλήθεια	conservative
+n	qas	no	εφοπλιστή	inclusive
+n	cds	no	στρατιά	inclusive
+n	qas	no	έρμα	inclusive
+n	ddp	yes	κτηνοβασία	conservative
+n	cds	no	υπεράσπιση	inclusive
+a	dmc	yes	κακός	conservative
+n	cds	no	fop	inclusive
+n	ps	yes	Αθίγγανοι	inclusive
+n	pr	no	Εταίρα	inclusive
+n	svp	no	απαθείς	inclusive
+n	cds	no	εκτός από	inclusive
+n	an	no	ανδρική πορνεία	conservative
+n	qas	no	βιοτέχνης	inclusive
+n	pa	yes	ιησουίτης	inclusive
+n	an	no	mosquitoe	inclusive
+n	pa	yes	extraordinarius καθηγητής	inclusive
+n	re	no	δυσφήμηση	conservative
+n	cds	no	λυμάτων	inclusive
+n	cds	no	δράστη	inclusive
+n	cds	no	κακοποιός	conservative
+n	cds	no	τοκογλύφο	inclusive
+n	qas	no	sodbuster	inclusive
+n	dmc	yes	έκλυση ηθών	conservative
+n	an	no	υποτάξη blattodea	inclusive
+n	an	no	carcharodon	inclusive
+n	cds	no	ναρκισσισμός	inclusive
+n	ps	yes	μαύρος	inclusive
+n	ps	yes	άλλες φυλές	inclusive
+n	cds	no	παρασυναγωγές	inclusive
+n	or	no	πατάτας	inclusive
+n	re	no	raptio	inclusive
+n	cds	no	dastardliness	conservative
+n	re	no	εκβιασμούς	inclusive
+n	an	no	φρύνος	inclusive
+n	or	no	homophile	conservative
+n	or	no	Κίναιδος	conservative
+n	an	no	καταπίνων μπαλόνι	inclusive
+n	cds	no	σπερμολογίες	inclusive
+a	dmc	yes	κίβδηλος	conservative
+n	ddp	yes	muttonhead	conservative
+n	cds	no	αρχηγός	inclusive
+n	an	no	phthiraptera	inclusive
+n	cds	no	συρφετός	conservative
+n	qas	no	κονφορμισμός	inclusive
+n	qas	no	αμερικανός επιχειρηματίας	inclusive
+n	asf	no	κόλπος	conservative
+n	ddf	yes	τυφλό άτομο	inclusive
+n	dmc	yes	γκάνγκστερ	inclusive
+n	asf	no	μουνάκι	conservative
+n	svp	no	επτά θανάσιμα αμαρτήματα	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	cds	no	σπασμωδικές off	conservative
+n	re	no	δουλειά τσεκούρι	inclusive
+n	asm	no	καυλί	conservative
+n	cds	no	αστυνομικοί	inclusive
+n	an	no	άγριο βόδι	inclusive
+n	cds	no	παλιοσίδερα	conservative
+n	dmc	yes	χωριάτης	conservative
+n	qas	no	κυνοτροφείο	inclusive
+n	qas	no	barons	inclusive
+n	dmc	yes	κάθαρμα	conservative
+n	ps	yes	Ιουδαίος	inclusive
+n	ps	yes	οι μαύρες γυναίκες	inclusive
+n	cds	no	καζίνο τα τυχερά παιχνίδια	inclusive
+n	cds	no	κάθαρμα	inclusive
+n	an	no	πραγματική χέλι	inclusive
+a	ps	yes	ιουδαϊκός	inclusive
+n	dmc	yes	δυστυχισμένος άνθρωπος	inclusive
+n	pa	yes	μνηστήρας	inclusive
+n	cds	no	gallimaufry	inclusive
+n	cds	no	άθλιος	conservative
+n	cds	no	git	conservative
+n	an	no	βατραχοειδές	inclusive
+n	cds	no	νεογνό	inclusive
+n	cds	no	σύμφυρμα	inclusive
+n	om	no	χρήση ρούχων αντίθετου φύλλου	inclusive
+n	asm	no	όρχεις	inclusive
+n	pa	yes	βοσκούς	inclusive
+n	cds	no	υπο-φυλή	inclusive
+n	cds	no	ανθρωπάκι	inclusive
+n	cds	no	ληστής	conservative
+n	an	no	Βίσων	inclusive
+n	an	no	Προβατίνα	inclusive
+n	ddf	yes	κινητική αναπηρία	inclusive
+n	om	no	Κίναιδος	inclusive
+n	an	no	fuckhead	conservative
+n	cds	no	καλλιγράφος	conservative
+n	re	no	εκτός νόμου	inclusive
+n	cds	no	ελευθερότεκτων	inclusive
+n	cds	no	slews	inclusive
+n	om	no	πίσω άκρο	inclusive
+n	asf	no	πτώση τύπος	conservative
+n	pr	no	moll γκάγκστερ	inclusive
+n	re	no	συκοφαντικό	inclusive
+n	an	no	nanus	conservative
+n	qas	no	γεωπόνους	inclusive
+n	an	no	βούβαλος	inclusive
+n	om	no	cross-φόρεμα	inclusive
+n	cds	no	αλήτης	inclusive
+n	cds	no	υπεροψία	inclusive
+n	dmc	yes	χαμηλότερη μορφή ζωής επειδή	conservative
+n	an	no	poulet	inclusive
+n	cds	no	χάος	conservative
+n	ddp	yes	dumbass	conservative
+n	qas	no	Όρχεις	inclusive
+n	dmc	yes	chawbacon	conservative
+a	svp	no	φιλήδονος	conservative
+n	svp	no	αβουλία	inclusive
+n	svp	no	gourmandizer	conservative
+n	qas	no	βοηθό	inclusive
+n	an	no	όρνιθα	inclusive
+n	cds	no	ταραχή	conservative
+n	is	yes	φτωχός	inclusive
+n	asm	no	μαλακό ακτίνες	inclusive
+n	an	no	pipistrelle	inclusive
+n	cds	no	άγριος	conservative
+n	cds	no	φανφαρόνος	conservative
+n	cds	no	μήλο λουστραδόρος	conservative
+v	asm	no	γαμώ	conservative
+n	cds	no	απατεών	conservative
+n	qas	no	farmhand	inclusive
+n	cds	no	talebearer	conservative
+n	dmc	yes	δεν λογαριασμό	conservative
+n	om	no	homoeroticism	inclusive
+n	cds	no	hoaxer	conservative
+n	ddp	yes	ιδιώτης	conservative
+n	qas	no	Ξενιστής	inclusive
+v	asm	no	ξεγελώ	conservative
+n	qas	no	teste	inclusive
+n	cds	no	δάσκαλος	inclusive
+n	cds	no	intermediator	inclusive
+n	or	no	πούστης	conservative
+n	ps	yes	Βεδουίνοι	inclusive
+n	cds	no	προξενιτής	inclusive
+n	ps	yes	ρομά	inclusive
+n	cds	no	μάζα	inclusive
+n	ddp	yes	analphabet	inclusive
+n	cds	no	επιπολαιότητα	inclusive
+n	an	no	Μεγάλος λευκός καρχαρίας	inclusive
+n	qas	no	κυλιέμαι	inclusive
+n	dmc	yes	εξαπάτηση	conservative
+n	cds	no	patsy	conservative
+n	om	no	σοδομισμό	inclusive
+n	re	no	βοοειδή rustler	inclusive
+n	qas	no	ρείθρο	inclusive
+n	cds	no	ψοφίμι	inclusive
+n	cds	no	κλέπτης	inclusive
+a	ddp	yes	αφελής	conservative
+n	an	no	αργοκίνητος	conservative
+n	pr	no	νορβηγία αρουραίος	inclusive
+n	pa	yes	Ικανότητα προς το δικολογείν	inclusive
+n	an	no	κοριούς	inclusive
+n	qas	no	businessperson	inclusive
+n	an	no	άγριος	conservative
+n	cds	no	απεργοσπάστες	inclusive
+n	ddp	yes	κωλοτρυπίδα	conservative
+n	ddp	yes	κρατούμενος	inclusive
+n	pa	yes	ειδικός απεσταλμένος	inclusive
+n	an	no	βόνασος Ευρωπαϊκώς	inclusive
+n	cds	no	συγγενείς	inclusive
+n	cds	no	δειλός	conservative
+n	dmc	yes	ηθικό κώδικα	inclusive
+n	ddp	yes	doofus	conservative
+n	cds	no	οξύνοια,οξυδέρκεια, διορατικότητα,εξυπνάδα	inclusive
+n	pr	no	καφέ αρουραίος	inclusive
+n	qas	no	πνευματικός ηγέτης	inclusive
+n	an	no	Κρότων ο ρίκινος	inclusive
+n	dmc	yes	παραπλανητικές	conservative
+n	cds	no	ηλίθιο πρόσωπο	conservative
+n	re	no	ιταλικής μαφίας	conservative
+n	re	no	kidnaper	inclusive
+a	svp	no	τρελός	inclusive
+n	asf	no	ηβική τρίχα	inclusive
+n	is	yes	αστικής φτώχειας	inclusive
+a	dmc	yes	βρώμικα	inclusive
+n	cds	no	αυτοικανοποίηση	inclusive
+n	dmc	yes	νάνος	conservative
+n	pa	yes	λευκό κολάρο-εργαζομένων	inclusive
+n	an	no	εγχώριες σκύλος	inclusive
+n	an	no	pediculus humanus	inclusive
+n	ddp	yes	αναλφάβητος	inclusive
+n	cds	no	στόμφος	conservative
+n	cds	no	μπάντα	inclusive
+n	dmc	yes	dallier	conservative
+n	pa	yes	προσωπική καρέκλα	inclusive
+n	cds	no	θλιβερή σάκο	conservative
+n	an	no	ανακαινιστής	conservative
+n	om	no	dame	inclusive
+n	re	no	πειρατές	inclusive
+n	an	no	λαπάς	conservative
+n	cds	no	βλάκας	inclusive
+n	qas	no	μπογιάτισμα	inclusive
+n	is	yes	φτωχό άτομο	inclusive
+n	qas	no	ταραχοποιός	conservative
+n	cds	no	Κόζα Νόστρα	conservative
+n	cds	no	φανατισμού	conservative
+n	cds	no	αστικών στερεών αποβλήτων	inclusive
+n	qas	no	σκύβαλο	conservative
+n	cds	no	μικροκλέφτης	conservative
+n	or	no	καμένο πορτοκαλί	inclusive
+n	ddp	yes	εγκεφαλική βλάβη	inclusive
+n	asf	no	ιδιώτης	conservative
+n	cds	no	chawbacon	conservative
+n	asm	no	Μπιζέλι	inclusive
+n	ddp	yes	νοητική ανεπάρκεια	inclusive
+n	cds	no	αποχωρητήρια	inclusive
+n	re	no	βρεφοκτονία	inclusive
+n	qas	no	απόβρασμα	conservative
+n	cds	no	φυλές	inclusive
+n	om	no	πρωκτικό σέξ	inclusive
+n	dmc	yes	μοτσαρέλα	inclusive
+n	pr	no	νυχτοπεταλούδα	inclusive
+n	an	no	αγριότητα	conservative
+a	svp	no	λάγνος	conservative
+n	ddp	yes	twerp	conservative
+n	ddp	yes	βλάκας	conservative
+n	re	no	αδίκημα το φύλο	inclusive
+n	dmc	yes	βρώμικο σκυλί	conservative
+n	or	no	λάχανο	inclusive
+n	an	no	για crocodylia	inclusive
+n	cds	no	αλαζονεία	inclusive
+n	svp	no	λαγνεία	inclusive
+n	cds	no	θρησκοληψία	inclusive
+n	ddp	yes	ηλίθιος	conservative
+n	cds	no	μικρός για θελήματα	inclusive
+n	svp	no	θυμό	inclusive
+n	cds	no	προσαρμογέα	inclusive
+n	cds	no	δοκησίσοφος	conservative
+n	an	no	βόνασος ευρωπαϊκώς	inclusive
+a	cds	no	πανούργος	conservative
+n	an	no	Εγχελυόμορφα	inclusive
+n	cds	no	στόμφος	inclusive
+n	cds	no	lav	inclusive
+n	an	no	καϊμάν	inclusive
+n	om	no	γκέι	inclusive
+n	asm	no	κουτός	inclusive
+n	cds	no	τοκογλυφία	conservative
+n	svp	no	slackers	conservative
+v	cds	no	φλυαρώ	inclusive
+n	qas	no	τζαμπατζής	conservative
+n	cds	no	διάβολος	conservative
+n	or	no	φινόκιο	inclusive
+n	cds	no	τρένο	inclusive
+n	re	no	ψευδείς κατηγορίες	inclusive
+n	an	no	dunderhead	conservative
+n	asm	no	ευρεία φασόλια εργοστάσιο	inclusive
+n	an	no	μικροοργανισμών	inclusive
+n	ddp	yes	μπουρέκι	inclusive
+n	an	no	γύπες	inclusive
+n	an	no	siphonaptera	inclusive
+n	cds	no	μεταμορφικοί	inclusive
+n	re	no	ντετέκτιβ ανθρωποκτονιών	inclusive
+n	asm	no	στύλος	inclusive
+n	svp	no	niggardness	conservative
+n	an	no	κίνηση είναι	inclusive
+n	cds	no	τόνους	inclusive
+n	ps	yes	μιγάδων	conservative
+n	dmc	yes	εγκληματίας	inclusive
+n	qas	no	σπιτάκι σκύλου	inclusive
+n	ps	yes	νεγροειδής	inclusive
+n	dmc	yes	μισαλλόδοξος	conservative
+n	asm	no	δουλειά χέρι	conservative
+n	cds	no	συμμορφούμενος με τα καθεστώτα	conservative
+n	cds	no	αλητεία	conservative
+n	pr	no	φίλη αλήτη	inclusive
+n	ddp	yes	χωριάτη	conservative
+n	dmc	yes	ληστές	inclusive
+n	ddp	yes	επιβραδύνουν	inclusive
+n	ps	yes	φασίστας	inclusive
+n	or	no	κολοκύθα	inclusive
+n	cds	no	ανόητο	conservative
+n	qas	no	Βάρβαροι	conservative
+n	asm	no	ψάρια	inclusive
+n	svp	no	υπερηφάνεια	inclusive
+a	pa	yes	θεωρητικές	inclusive
+n	cds	no	αξιωματικός της αστυνομίας	conservative
+n	dmc	yes	ψεύτικος	conservative
+n	pr	no	την πορνεία του δρόμου	conservative
+n	an	no	κόκκινο τύμπανο	inclusive
+n	pr	no	Βους ο ταύρος	inclusive
+n	svp	no	οργή	inclusive
+n	re	no	αντέγραψε	inclusive
+n	an	no	ζωύφια	inclusive
+n	asm	no	ανόητος	conservative
+n	cds	no	προμήθεια	inclusive
+n	or	no	γκέι	conservative
+n	an	no	κροκοδειλίδες	inclusive
+n	an	no	Χην	inclusive
+n	re	no	αιχμαλωτίζων	inclusive
+n	ddp	yes	μαρτυριάρης	conservative
+n	qas	no	κυκεώνας	inclusive
+n	an	no	crocodylian	inclusive
+n	asm	no	μαλάκας	conservative
+n	cds	no	υπερσυντηρητικό	conservative
+n	an	no	γύπας	inclusive
+n	cds	no	όργανο	inclusive
+n	pr	no	σεξουαλικών υπηρεσιών	conservative
+n	an	no	μεγάλο λευκό καρχαρία	inclusive
+n	qas	no	gallimaufry	inclusive
+n	om	no	ομοφυλόφιλο	inclusive
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	ddp	yes	κακή ψάρια	conservative
+n	om	no	εγγύς	inclusive
+n	qas	no	γκάφα	inclusive
+n	ps	yes	Κινέζος	inclusive
+n	pr	no	συμβίωση	inclusive
+n	asm	no	χαζός	inclusive
+n	cds	no	κόμμα	inclusive
+n	dmc	yes	άσκοπα περιφερόμενος	inclusive
+n	ps	yes	ανόητος	conservative
+n	qas	no	άνθρωπος των επιχειρήσεων	inclusive
+n	dmc	yes	treasonist	conservative
+n	an	no	Κότα	inclusive
+a	qas	no	συγκινησιακός	conservative
+n	pr	no	δημοκοπία	conservative
+n	cds	no	παρέα	inclusive
+n	an	no	Γλαυκόμορφα	inclusive
+n	re	no	ενεργήσει της τρομοκρατίας	inclusive
+n	cds	no	στερεών αποβλήτων	conservative
+n	or	no	μεγάλη κολοκύθα	inclusive
+n	an	no	σκατά	conservative
+n	cds	no	νεοσύλλεκτος	conservative
+n	om	no	ανατομικές αφορά την τοποθεσία	inclusive
+n	qas	no	συμμορφούμενος με τα καθεστώτα	conservative
+n	cds	no	υπερσεξουαλικότητα	conservative
+a	cds	no	δειλός	conservative
+n	an	no	ιδιοτροπία	inclusive
+n	re	no	τρομοκρατία	conservative
+n	dmc	yes	libertinism	conservative
+n	om	no	Γκέι	inclusive
+n	dmc	yes	άχρηστος	conservative
+n	cds	no	δεκάδες	inclusive
+n	asm	no	στύση	inclusive
+n	cds	no	παρασυναγωγή	inclusive
+n	asf	no	doofus	conservative
+n	an	no	σκληρότητα	conservative
+v	asm	no	κάνω σεξ	conservative
+n	pa	yes	εργολάβος κηδείων	inclusive
+n	qas	no	βάψιμο σπιτιού	inclusive
+n	cds	no	αλλαξιέρα	inclusive
+n	an	no	πουλί της μινέρβα	inclusive
+n	om	no	cross dressing	inclusive
+n	qas	no	bourgeoise	inclusive
+n	qas	no	εταίρος στο έγκλημα	inclusive
+n	cds	no	grunge	inclusive
+n	ddf	yes	μισο-πίντα	conservative
+n	qas	no	μεγαλορρήμονας	inclusive
+n	pr	no	κυρία της ευχαρίστησης	conservative
+n	asf	no	κουτός	conservative
+n	dmc	yes	βωμολοχίες	inclusive
+n	asm	no	ελληνικά φασόλια	inclusive
+n	is	yes	παρίας	inclusive
+n	re	no	τραγικό κακοποιός	conservative
+n	or	no	κίνηση homophile	conservative
+n	svp	no	την εταιρική απληστία	inclusive
+n	is	yes	εξαθλίωση	inclusive
+n	re	no	plagiarise	inclusive
+n	an	no	παπαγάλοι	inclusive
+n	pr	no	Δαμάλι	inclusive
+n	dmc	yes	παλιόμουτρο	conservative
+n	cds	no	αρχάριος	conservative
+n	an	no	συρφετός	conservative
+n	asm	no	ορνιθοπανίδα	inclusive
+n	cds	no	άπειρος	conservative
+n	an	no	συγκεκαλυμμένη συσκευή ακρόασης	inclusive
+n	re	no	ιταλική μαφία	inclusive
+n	ddp	yes	zooerasty	conservative
+n	cds	no	changeling	inclusive
+a	ddp	yes	κακόγουστος	inclusive
+n	an	no	γλαυξ	inclusive
+n	cds	no	σνομπ	conservative
+n	an	no	vamp	conservative
+n	an	no	Σιφωνάπτερα	inclusive
+n	asf	no	ανόητος	conservative
+n	an	no	μεγάλος λευκός καρχαρίας	inclusive
+n	cds	no	ειδωλολατρία	inclusive
+n	dmc	yes	ετερόκλητη ανόητος	inclusive
+n	cds	no	σχόλιο	inclusive
+n	an	no	bonehead	conservative
+n	is	yes	ποσοστό της φτώχειας	inclusive
+n	an	no	κρεατοπαραγωγό βοοειδές	inclusive
+n	an	no	ζωάκι	inclusive
+n	asm	no	σκατά	conservative
+n	dmc	yes	gadabout	inclusive
+n	cds	no	ομάδα συγγένειας	inclusive
+n	cds	no	λείψανο	inclusive
+n	dmc	yes	δυσωδία	conservative
+n	ps	yes	διασταύρωση	inclusive
+n	cds	no	εδάφους	inclusive
+n	ps	yes	μιγάς	conservative
+n	svp	no	φαγάς	inclusive
+a	is	yes	δυστυχισμένος	inclusive
+n	ps	yes	Τσιγγάνοι	inclusive
+n	re	no	ληστές	inclusive
+n	pa	yes	έδρες	inclusive
+n	cds	no	απόβρασμα	conservative
+n	cds	no	παίζων παιγνίδια εις βάρος άλλων	conservative
+n	ddp	yes	φλυαρώ	conservative
+n	an	no	άγκιστρο	inclusive
+n	dmc	yes	δυσοσμίας	conservative
+n	pa	yes	καθηγητής πανεπιστημίου	inclusive
+a	cds	no	οξύνους	inclusive
+n	ps	yes	Ισραηλίτης	inclusive
+n	dmc	yes	ληστή	conservative
+n	cds	no	κουτσομπολιό	inclusive
+n	cds	no	hustling	conservative
+n	an	no	Μετάζωα	inclusive
+n	an	no	γλυκανάλατος	conservative
+n	cds	no	εμπορικός αντιπρόσωπος	inclusive
+n	cds	no	χαμηλότερη μορφή ζωής επειδή	conservative
+n	ps	yes	νέγρους	inclusive
+n	om	no	βασική	inclusive
+n	an	no	Γαϊδάρα	inclusive
+n	cds	no	εγκλήματα	inclusive
+n	cds	no	εγκληματική δραστηριότητα	inclusive
+n	cds	no	συγγραφέας hack	conservative
+n	asf	no	κόλπου	conservative
+a	svp	no	ευερέθιστος	conservative
+n	svp	no	άσεμνες	inclusive
+n	re	no	plagiarisation	inclusive
+n	ddp	yes	πτώση τύπος	conservative
+n	ddp	yes	αιχμάλωτος	inclusive
+n	cds	no	σώμα	inclusive
+n	pa	yes	ακαδημαϊκοί	inclusive
+n	cds	no	σωματέμπορος	conservative
+n	cds	no	Βάρβαροι	conservative
+n	or	no	tater	inclusive
+n	or	no	καλλιεργούνται λάχανο	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	ps	yes	hebraism	inclusive
+n	ps	yes	patsy	conservative
+n	re	no	κακοποιός	inclusive
+n	pa	yes	αγροίκος	conservative
+n	pa	yes	σχολαστικισμός	inclusive
+n	qas	no	αγρότισσα	inclusive
+n	asf	no	knucklehead	conservative
+n	asm	no	κοκοράκι	inclusive
+n	qas	no	omnium-gatherum	inclusive
+n	ddp	yes	πανίδα	inclusive
+a	ddf	yes	κακός	inclusive
+n	ddp	yes	μπούμπουρας	conservative
+n	an	no	κουταμάρα	conservative
+n	asm	no	εξάρτημα	inclusive
+n	dmc	yes	στρεψόδικος	conservative
+n	ps	yes	κούτσουρο	conservative
+a	om	no	ανώμαλος	inclusive
+n	svp	no	αλήτης	conservative
+n	qas	no	κομφορμιστική	conservative
+n	cds	no	ομερτά	inclusive
+n	svp	no	οκνηρία	inclusive
+n	an	no	άνθρωπος-τρώγων	inclusive
+n	cds	no	πολλά	inclusive
+n	cds	no	δανδής	inclusive
+n	is	yes	αχρείος	conservative
+n	pr	no	doxy	inclusive
+n	ddp	yes	ανοησίες	inclusive
+n	om	no	χαυλιόδοντας	inclusive
+n	or	no	poove	conservative
+a	om	no	ομοφυλόφιλη	conservative
+a	pa	yes	θεωρητικός	inclusive
+n	rci	yes	βάρβαρη	conservative
+n	cds	no	θράσος	conservative
+a	an	no	μίζερος	conservative
+n	cds	no	καταδικάζω	conservative
+v	cds	no	σαχλαμαρίζω	inclusive
+n	pr	no	εταίρα	inclusive
+n	re	no	δοκιμασία	inclusive
+n	an	no	μικρή κουκουβάγια	inclusive
+n	cds	no	grifter	inclusive
+n	pr	no	κοσμικούς	inclusive
+n	cds	no	οικιακών λυμάτων	inclusive
+n	dmc	yes	χαμηλότερη μορφή ζωής επειδή	inclusive
+n	dmc	yes	υποκριτική	conservative
+n	pa	yes	ιχθυοπώλης	inclusive
+n	dmc	yes	χαραμοφάης	conservative
+n	an	no	Μαλάκια	inclusive
+n	om	no	μάραθος	inclusive
+n	cds	no	Τεκτονισμός	inclusive
+n	cds	no	βοοειδή επιδρομές	inclusive
+n	om	no	ανδρική σεξουαλικότητα	inclusive
+n	cds	no	δημοσιογράφος	inclusive
+n	cds	no	slackers	conservative
+a	cds	no	παράνομος	inclusive
+n	ps	yes	Μελελέ	inclusive
+n	an	no	πειρατής	inclusive
+n	cds	no	φανατισμός	inclusive
+a	ddp	yes	τρελό	inclusive
+n	re	no	calunnia	inclusive
+n	qas	no	καταστηματάρχης	inclusive
+n	dmc	yes	git	inclusive
+n	pr	no	αγελάδες	inclusive
+n	svp	no	αδιαφορία	inclusive
+n	ps	yes	μέτοικοι	inclusive
+n	an	no	diddley	conservative
+n	an	no	ζωύφιο	inclusive
+n	pa	yes	πορτιέρης	inclusive
+n	pa	yes	καρραγωγεύς	inclusive
+n	cds	no	clann	inclusive
+n	cds	no	Μεσίτης Αστικών Συμβάσεων	inclusive
+n	ps	yes	Εβραίοι	inclusive
+n	pr	no	Πόρνη	inclusive
+n	ddp	yes	κομπογιαννίτης	conservative
+n	pr	no	κοσμικός άνθρωπος	inclusive
+n	dmc	yes	προδότης	conservative
+n	pr	no	εταίρες	inclusive
+n	cds	no	λαός	conservative
+n	an	no	προσβάλλω	conservative
+n	an	no	brent goose	inclusive
+n	pr	no	αγελάδα	conservative
+n	an	no	ανόητο	conservative
+n	an	no	ατημέλητο πρόσωπο	conservative
+n	cds	no	μιγάς	inclusive
+n	cds	no	rumourmonger	conservative
+n	cds	no	amour propre	conservative
+n	cds	no	σκουπίδια	conservative
+n	re	no	ληστείες	inclusive
+n	an	no	μικρόβιο	inclusive
+n	re	no	κακουργήματα	inclusive
+n	an	no	κοτόπουλα	inclusive
+n	cds	no	άδων σιγά	inclusive
+a	ps	yes	έξαλλος	conservative
+n	cds	no	wisenheimer	conservative
+n	qas	no	μεγαλοπρέπεια	inclusive
+n	an	no	μουλάρι	inclusive
+n	cds	no	κουτός	inclusive
+n	qas	no	κακό-maker	conservative
+n	cds	no	όχλος	inclusive
+n	pa	yes	σύμβουλος	inclusive
+n	cds	no	splashiness	conservative
+n	cds	no	κορόιδο	conservative
+n	qas	no	λαγωνικό	inclusive
+n	an	no	ημίπτερα	inclusive
+n	asm	no	κρετίνος	inclusive
+n	cds	no	διορθώσεις αξιωματικός	inclusive
+n	asm	no	ευρεία φασόλια	inclusive
+n	svp	no	Θυμός	inclusive
+n	pa	yes	συνηγορών	inclusive
+n	or	no	Μάραθρο	inclusive
+n	cds	no	ιδιώτης	conservative
+n	an	no	σκύβαλο	conservative
+n	cds	no	στρατός	inclusive
+n	dmc	yes	αλήτης	conservative
+n	cds	no	καραγκιοζιλίκι	inclusive
+n	dmc	yes	μελαγχολώ	conservative
+n	re	no	συκοφαντίας του εμπορίου	inclusive
+n	asm	no	πούτσα	conservative
+n	an	no	αντιλόπη γκνου	inclusive
+n	an	no	γουρούνι	inclusive
+n	pa	yes	ακαδημία	inclusive
+n	cds	no	συγγενείς ομάδα	inclusive
+n	qas	no	συμμόρφωση	inclusive
+n	cds	no	truckler	conservative
+n	re	no	αχρείος	conservative
+n	ps	yes	αλήτης	inclusive
+n	asm	no	τσουτσούνι	conservative
+n	an	no	ύαινα	inclusive
+n	an	no	πιπίλισμα ψείρα	inclusive
+n	asm	no	φάβας	inclusive
+n	asm	no	αμερικανάκι	conservative
+n	cds	no	κενοδοξία	conservative
+n	an	no	codswallop	conservative
+n	re	no	αλήτης	inclusive
+n	cds	no	απαλό άγγιγμα	conservative
+n	qas	no	μπαρόκ	inclusive
+n	dmc	yes	ανηθικότητα	inclusive
+n	cds	no	καταψηφίζω	inclusive
+v	cds	no	πεθάνει	inclusive
+n	ddp	yes	κρετίνος	inclusive
+n	cds	no	finagler	conservative
+n	cds	no	κουλτούρα των συμμοριών	inclusive
+n	cds	no	εγκληματικές δραστηριότητες	inclusive
+n	qas	no	μέλος γεωργικού συλλόγου	inclusive
+n	cds	no	φυγοδικία	conservative
+n	om	no	ομοφυλοφιλία	inclusive
+n	ddp	yes	blabbermouth	conservative
+n	cds	no	μέρος	inclusive
+n	cds	no	μεσίτης γάμου	inclusive
+n	ddp	yes	χαζός	conservative
+n	ddp	yes	ανόητο	conservative
+n	cds	no	τουαλέτες	inclusive
+n	an	no	Μικρή Κουκουβάγια	inclusive
+n	pa	yes	διπλωματικό	inclusive
+n	or	no	κουτορνίθι	conservative
+n	is	yes	ένδεια	inclusive
+n	an	no	υπόταξη blattodea	inclusive
+n	an	no	Γίννος	inclusive
+n	dmc	yes	βρώμα	conservative
+n	asm	no	πούτσα (pútsa) g	conservative
+n	om	no	twink	conservative
+n	cds	no	loanshark	conservative
+n	cds	no	βλαξ	inclusive
+n	ps	yes	βουλγάρικα	inclusive
+n	an	no	ευρωπαϊκή φρύνος	inclusive
+n	cds	no	συνηγορία	inclusive
+n	is	yes	cheapskate	conservative
+n	cds	no	Θεωρία συνωμοσίας	inclusive
+n	dmc	yes	προσβάλλω	conservative
+n	svp	no	άχρηστος	conservative
+n	an	no	έντομα	inclusive
+n	qas	no	αποκτώ χωρίς πληρωμή	conservative
+n	an	no	οχιά	inclusive
+n	or	no	αμπέλου αγγούρι	inclusive
+n	qas	no	σφαγή	conservative
+a	cds	no	τετριμμένος	inclusive
+n	asm	no	πούλλος	conservative
+n	om	no	Πρωκτικό σεξ	inclusive
+n	cds	no	προστάτης	inclusive
+n	re	no	ένοπλες ληστείες	inclusive
+n	cds	no	προπαγανδιστής	inclusive
+n	qas	no	βάρβαρη	conservative
+n	an	no	γένους anguilla	inclusive
+n	an	no	μπούμπουρας	conservative
+n	cds	no	moneylending	conservative
+n	svp	no	σεξουαλική επιθυμία	inclusive
+n	cds	no	Μαφία	conservative
+n	re	no	μαφιόζος	conservative
+n	cds	no	οίκος ανοχής	inclusive
+n	an	no	υποκλοπών	inclusive
+n	re	no	grifter	inclusive
+n	an	no	ζώο	inclusive
+n	cds	no	omerta	inclusive
+n	or	no	fuckhead	conservative
+n	ddp	yes	μωρία	inclusive
+n	ps	yes	Γύφτοι	inclusive
+n	cds	no	παλιανθρωπιά	conservative
+n	cds	no	πρωταγωνιστική	inclusive
+v	cds	no	σκευωρώ	inclusive
+n	ps	yes	χωριάτης	conservative
+n	cds	no	μαφιόζος	conservative
+n	cds	no	go-μεταξύ	inclusive
+n	cds	no	διαβούλιο	inclusive
+n	qas	no	fieldhand	inclusive
+n	om	no	paederast	conservative
+a	dmc	yes	ακάθαρτος	inclusive
+n	cds	no	pillock	conservative
+n	pr	no	νορβηγία rat	inclusive
+n	om	no	άτομο με ειδικές ανάγκες	conservative
+n	dmc	yes	απόκρυψη	conservative
+n	pr	no	john	conservative
+n	cds	no	αγρότης	conservative
+n	ddp	yes	pudden-κεφάλι	conservative
+n	an	no	Ψιττακόμορφα	inclusive
+n	svp	no	ηδυπάθεια	inclusive
+n	svp	no	φιλάργυρος	inclusive
+n	an	no	ηλιθιότητα	conservative
+n	cds	no	κακογράφος	conservative
+n	svp	no	οργή	conservative
+n	cds	no	ψείρας	conservative
+n	cds	no	blooper	inclusive
+n	qas	no	όρχεις	inclusive
+n	cds	no	σωφρονιστικό υπάλληλο	inclusive
+n	qas	no	αδέξιος ζωγράφος	conservative
+n	svp	no	καλοφαγάς	conservative
+n	ddp	yes	κίνηση είναι	inclusive
+n	qas	no	ζωγράφος σπίτι	inclusive
+n	cds	no	κλεψιά	inclusive
+n	ddp	yes	κούτσουρο	conservative
+a	qas	no	μικρομεσαίος	inclusive
+n	re	no	αγριότητα	inclusive
+n	an	no	κότα	conservative
+n	cds	no	δασκάλα	conservative
+n	cds	no	αυταρέσκεια	inclusive
+n	pa	yes	αντεπιστέλλον μέλος	inclusive
+n	cds	no	πισίνα hustling	conservative
+n	an	no	Μικρόβια	inclusive
+n	om	no	tooshie	inclusive
+n	qas	no	πρωτοπαλίκαρο	inclusive
+n	an	no	Βίσονας	inclusive
+n	cds	no	απατεώνας	inclusive
+n	qas	no	απορρίπτω	conservative
+n	pa	yes	ειδική συνήγορος	inclusive
+n	cds	no	από-χτύπημα	inclusive
+n	re	no	καταγγελλόμενο μόνο αδίκημα	inclusive
+a	ps	yes	μαινόμενος	conservative
+n	cds	no	κακή ψάρια	conservative
+n	svp	no	αδηφαγία	conservative
+n	qas	no	autoinfection	inclusive
+n	ddp	yes	κομπογιαννίτης γιατρός	conservative
+n	an	no	stick-in-the-λάσπη	conservative
+n	ddp	yes	κουτορνίθι	conservative
+n	dmc	yes	εκτός νόμου	inclusive
+n	pr	no	βόας	inclusive
+n	re	no	αδίκημα σεξ	inclusive
+n	an	no	βενθική πανίδα	inclusive
+n	asm	no	κόκορα	inclusive
+n	an	no	μικρόνους	conservative
+n	pr	no	μαστροπός	conservative
+n	om	no	pederastic	inclusive
+n	qas	no	κτηνοτρόφος	inclusive
+n	svp	no	μελαγχολώ	conservative
+n	asm	no	μπιζέλι	inclusive
+n	qas	no	ημιμαθής	conservative
+n	an	no	ψείρες	inclusive
+n	ddp	yes	ανίκανος πρόσωπο	conservative
+n	ddp	yes	πολυλογάς	conservative
+n	cds	no	bumbler	conservative
+n	om	no	keister	inclusive
+n	an	no	χυδαιότητα	conservative
+n	cds	no	Ύβρις	conservative
+n	ddp	yes	επιφύτων	inclusive
+n	cds	no	backtalk	inclusive
+n	an	no	Κόκκορας	inclusive
+n	an	no	μικροοργανισμός	inclusive
+n	cds	no	βιβλιοφάγος	conservative
+n	is	yes	άπορος	inclusive
+n	dmc	yes	αντάρτης	conservative
+n	dmc	yes	απομίμηση	inclusive
+n	cds	no	αυνανισμός	conservative
+n	an	no	Δαμάλι	inclusive
+n	cds	no	φοβητσιάρης	conservative
+n	cds	no	μισαλλόδοξος	conservative
+n	dmc	yes	κακό	inclusive
+n	an	no	συνοφρύωση	inclusive
+n	ps	yes	Τσιγγάνα	inclusive
+n	cds	no	μάγκα	inclusive
+n	cds	no	blackballed	inclusive
+n	re	no	δεινοπάθημα	inclusive
+n	cds	no	ηλίθιος	conservative
+n	or	no	αλλόκοτος	conservative
+n	re	no	κακομεταχείριση	inclusive
+n	pr	no	lampyris noctiluca	inclusive
+n	an	no	τσιγκούνη	conservative
+n	qas	no	μίγμα	inclusive
+n	ddp	yes	φλύαρος	inclusive
+n	dmc	yes	αχρειότητα	conservative
+n	an	no	υποτάξη blattaria	inclusive
+n	an	no	Βόδι	inclusive
+n	qas	no	ragtag και bobtail	conservative
+n	or	no	γλυκοκολοκύθα	inclusive
+n	cds	no	πιετισμός	inclusive
+n	pa	yes	έκτακτη καθηγήτρια	inclusive
+n	cds	no	δωρεάν και αποδεκτές τέκτονες	inclusive
+n	re	no	σεξουαλικά επίθεση	inclusive
+n	ddp	yes	απαλό άγγιγμα	conservative
+n	om	no	περιοχή των γλουτών	inclusive
+a	ddp	yes	εύπιστος	conservative
+n	re	no	διασυρμός	conservative
+n	qas	no	παράσιτα	inclusive
+n	dmc	yes	άστεγο	inclusive
+n	asm	no	κυάμων	inclusive
+v	re	no	κλέβω	inclusive
+n	cds	no	μαφιόζων	inclusive
+n	cds	no	θεατρινισμός	inclusive
+n	cds	no	λαξευτής	inclusive
+n	cds	no	Τέκτονες	inclusive
+n	an	no	βλακεία	conservative
+n	an	no	βατράχου	inclusive
+n	cds	no	λαουτζίκος	conservative
+n	an	no	σώμα-αρπαγή	inclusive
+n	svp	no	θυμός	inclusive
+n	cds	no	ατημέλητο πρόσωπο	conservative
+n	cds	no	αξιωματικός διόρθωση	inclusive
+n	cds	no	νόθος	inclusive
+a	an	no	επίμονο	inclusive
+n	om	no	τα drag show	inclusive
+n	cds	no	pandar	conservative
+n	an	no	άρπαγας	conservative
+n	asm	no	twirp	conservative
+n	asm	no	ψωλή	conservative
+n	cds	no	defrauder	inclusive
+n	re	no	δολοφονία βασανιστήρια	inclusive
+n	cds	no	μάζα	conservative
+n	an	no	ύαινες	inclusive
+n	svp	no	taṇhā	inclusive
+n	re	no	Σικελική μαφία	inclusive
+n	asm	no	φύση	inclusive
+n	cds	no	δανεισμό χρημάτων	inclusive
+n	an	no	Ψείρες	inclusive
+n	cds	no	επιδεικτικότητα	conservative
+n	om	no	αδερφή	inclusive
+n	re	no	βιαστή	conservative
+n	pa	yes	κηδειών	inclusive
+n	svp	no	μισαλλόδοξος	conservative
+n	cds	no	topsy-turvydom	inclusive
+n	ps	yes	επιβραδύνουν	conservative
+n	an	no	μικροοργανισμού	inclusive
+n	asf	no	fuckhead	conservative
+n	svp	no	ραθυμία	conservative
+n	asm	no	bêtise	conservative
+n	cds	no	νυμφομανής	conservative
+n	an	no	carcharodon carcharias	inclusive
+n	is	yes	φτώχεια	inclusive
+v	an	no	φρενιάζω	conservative
+a	ddp	yes	ακαλαίσθητος	inclusive
+n	pr	no	αυλικοί	inclusive
+a	cds	no	άνομος	inclusive
+n	an	no	χοίρων	inclusive
+n	cds	no	ανταποκριτές	inclusive
+n	re	no	rustler	inclusive
+n	an	no	athene noctua	inclusive
+n	cds	no	δημόσια τουαλέτα	inclusive
+n	cds	no	cut-up	conservative
+n	cds	no	weisenheimer	conservative
+n	cds	no	δανεισμό χρημάτων	conservative
+n	an	no	γένους capra	inclusive
+n	asm	no	κουταμάρα	conservative
+n	an	no	νταντά-κατσίκα	inclusive
+n	svp	no	κοιλιόδουλος	conservative
+n	an	no	στόμα	inclusive
+n	cds	no	ποίμνιο	inclusive
+n	asm	no	Κουκί	inclusive
+n	qas	no	καλύβα	inclusive
+n	om	no	crossdresser	inclusive
+n	qas	no	bumbler	conservative
+n	cds	no	κλίκες	inclusive
+n	cds	no	αρχηγός συμμορίας	inclusive
+n	svp	no	Αβουλία	inclusive
+n	ddp	yes	bêtise	conservative
+n	dmc	yes	ληστής	conservative
+n	qas	no	οπαδός	inclusive
+a	re	no	βίαιη	inclusive
+n	dmc	yes	goof-off	conservative
+n	cds	no	ανανδρία	inclusive
+n	an	no	Κροκόδειλος	inclusive
+n	an	no	βίσονες	inclusive
+n	cds	no	αντιδραστική	conservative
+n	qas	no	baroqueness	inclusive
+n	cds	no	εγωισμός	inclusive
+n	cds	no	πλύνετε δωμάτιο	inclusive
+n	qas	no	Παράσιτο	inclusive
+n	svp	no	Εφτά θανάσιμα αμαρτήματα	inclusive
+n	pa	yes	υπηρέτης ξενοδοχείου	inclusive
+n	cds	no	δανδές	inclusive
+n	cds	no	λατρεία των ειδώλων	inclusive
+n	cds	no	καιροσκόπος	conservative
+n	an	no	χρυσό τσακάλι	inclusive
+n	pr	no	σκύλα	conservative
+n	pr	no	αρουραίος αποχέτευσης	inclusive
+n	cds	no	αναλήθεια	inclusive
+n	or	no	μουνάκι	conservative
+n	an	no	μαλάκια	inclusive
+n	dmc	yes	Κακό	inclusive
+a	cds	no	πανούργος	inclusive
+n	asm	no	Πτηνά	inclusive
+n	cds	no	μπορδέλο	inclusive
+n	dmc	yes	τραγικό κακοποιός	conservative
+n	qas	no	αγρότης	inclusive
+n	asm	no	jacking off	conservative
+n	ps	yes	ανεμότρατα	inclusive
+n	dmc	yes	cheater	conservative
+n	cds	no	μεταλλικά απόβλητα	conservative
+n	cds	no	απλώστρες	inclusive
+n	re	no	αδικοπραξίας	inclusive
+n	re	no	δολοφονίας πρώτου βαθμού	inclusive
+n	svp	no	φιλαργυρία	conservative
+n	qas	no	βαρώνος	inclusive
+n	cds	no	villainess	conservative
+n	ddp	yes	ηλίθιος	inclusive
+n	cds	no	κόλακας	conservative
+n	cds	no	σωφρονιστικός υπάλληλος	inclusive
+n	ps	yes	darkie	conservative
+n	om	no	paederasty	inclusive
+n	qas	no	παραδρομή	inclusive
+n	ps	yes	krauthead	conservative
+n	is	yes	αχρείο	conservative
+n	re	no	δυσφήμηση	inclusive
+n	cds	no	ειδωλολάτρες	inclusive
+n	asm	no	πέος	inclusive
+n	svp	no	αδράνεια	inclusive
+n	cds	no	υβρίδιο	inclusive
+n	svp	no	αδράνειας	inclusive
+n	ddp	yes	folderol	conservative
+n	cds	no	επιδεικτικότητα	inclusive
+n	an	no	χέλι	inclusive
+n	asm	no	φάουλ	inclusive
+n	an	no	θυμός	inclusive
+v	qas	no	ταλανίζω	conservative
+n	ddp	yes	αγριότητα	conservative
+n	an	no	κουκουβάγιες	inclusive
+n	cds	no	αγόρι μου	inclusive
+n	cds	no	ένα αδειανό	inclusive
+n	ddp	yes	ιδιωτεία	inclusive
+n	asm	no	ιδιώτης	conservative
+n	cds	no	διαμεσολαβητής	inclusive
+n	an	no	φυσιογνωμιστής	inclusive
+n	cds	no	όμιλος	inclusive
+n	pa	yes	φωνακλού	inclusive
+n	ps	yes	beduin	inclusive
+n	an	no	χαμηλότερη μορφή ζωής επειδή	conservative
+n	svp	no	έρωτα	inclusive
+n	cds	no	ληστές	conservative
+v	qas	no	μπαλώνω	inclusive
+v	cds	no	μωρολογώ	inclusive
+n	asf	no	κρετίνος	conservative
+n	an	no	κακία	conservative
+n	an	no	κατσίκα	inclusive
+n	qas	no	boo-boo	inclusive
+n	ddp	yes	όχλος	conservative
+a	re	no	βίαιος	inclusive
+n	ps	yes	changeling	conservative
+n	an	no	κατσαρίδα	inclusive
+n	an	no	Σκυλί	inclusive
+n	cds	no	αστυνομικοί	conservative
+n	asm	no	Πουλιά	inclusive
+n	asf	no	επιβραδύνουν	conservative
+n	dmc	yes	βλάχος	conservative
+n	cds	no	λαξευτής	conservative
+n	re	no	κάθαρμα	conservative
+n	re	no	καμόρα	inclusive
+n	ddp	yes	χονδροκέφαλος	conservative
+n	asm	no	ανόητος	inclusive
+n	or	no	μουνί	conservative
+n	dmc	yes	απατεώνας	conservative
+a	is	yes	φτωχός	inclusive
+n	asm	no	Όρχεις	inclusive
+a	dmc	yes	ρυπαρός	inclusive
+n	or	no	νέων πατάτα	inclusive
+n	qas	no	σμίξει-mangle	inclusive
+n	cds	no	νταβατζή	inclusive
+n	an	no	diddlysquat	conservative
+n	re	no	συκοφάντηση	inclusive
+n	cds	no	κουτσομπολιά	inclusive
+n	an	no	συνοφρύωμα	inclusive
+v	asm	no	πηδάω	conservative
+n	pa	yes	ακαδημαϊκή κοινότητα	inclusive
+n	ddp	yes	αγροίκος	conservative
+a	qas	no	τρελό	conservative
+n	cds	no	Υβρίδια	inclusive
+n	an	no	τραγικό κακοποιός	conservative
+n	qas	no	ψέμα	conservative
+n	ddp	yes	μικροκεφαλία	inclusive
+n	asf	no	ηλιθιότητα	conservative
+n	ps	yes	λατίνος	inclusive
+n	asm	no	ευρωπαϊκή φασόλι	inclusive
+a	cds	no	οξυδερκής	inclusive
+n	cds	no	ingroup	inclusive
+n	qas	no	κοινό πρόσωπο	inclusive
+n	re	no	εγκληματίες	inclusive
+n	ps	yes	μογγόλων	inclusive
+n	ddp	yes	κακοτέχνης	conservative
+n	dmc	yes	ακόλαστος	conservative
+n	cds	no	γρίφος	conservative
+n	cds	no	ορντινάντσα	inclusive
+n	asm	no	κουτορνίθι	conservative
+n	ps	yes	μαύρη κοινότητα	inclusive
+n	cds	no	φυλετικές κοινωνίες	inclusive
+n	svp	no	tanha	inclusive
+n	ddp	yes	τούβλο	conservative
+n	cds	no	φρατρίας	inclusive
+n	an	no	τάξη crocodylia	inclusive
+n	cds	no	κάθαρμα	conservative
+n	re	no	εκτέλεση	inclusive
+n	qas	no	αρχίδια	inclusive
+n	re	no	καταχρήσεις της εξουσίας	inclusive
+n	an	no	όχλος	conservative
+n	cds	no	σωρούς	inclusive
+n	pa	yes	τακτικός καθηγητής	inclusive
+n	cds	no	σπασίκλας	conservative
+n	asf	no	ασημαντότητα	inclusive
+a	dmc	yes	κακό	conservative
+n	an	no	κερατώνω	conservative
+n	cds	no	ετερόκλητη ανόητος	inclusive
+n	an	no	σκνίπες	inclusive
+n	an	no	τον άνθρωπο-τρώει καρχαρία	inclusive
+n	an	no	Ημίονος	inclusive
+n	an	no	doodly-squat	conservative
+n	ddp	yes	καθυστερημένος	inclusive
+n	om	no	οπισθίως	inclusive
+n	an	no	μουρντάρης	conservative
+n	ps	yes	pikey	conservative
+n	om	no	cross-dresser	inclusive
+n	ps	yes	βεδουίνων	inclusive
+v	cds	no	καταβροχθίζω	inclusive
+n	qas	no	γεωργός	inclusive
+n	an	no	bison bonasus	inclusive
+n	cds	no	gobs	inclusive
+n	or	no	murphy	inclusive
+n	re	no	μαφία	conservative
+n	cds	no	οκνηρός	conservative
+n	cds	no	παραδρομή	inclusive
+n	svp	no	trencher	inclusive
+n	cds	no	Ζηλωτής	inclusive
+n	dmc	yes	Βάρβαροι	conservative
+n	cds	no	αργόσχολος	conservative
+n	cds	no	προαγωγός	inclusive
+a	svp	no	κακότροπος	conservative
+n	cds	no	λείψανα	inclusive
+n	dmc	yes	γουρούνι	conservative
+n	svp	no	θανάσιμο αμάρτημα	inclusive
+n	svp	no	τσιγκούνη	conservative
+n	dmc	yes	layabout	conservative
+n	pa	yes	υπουργός-σύμβουλος	inclusive
+n	cds	no	φαρσέρ	conservative
+n	an	no	κοινή βάτραχος	inclusive
+n	asm	no	καστανέρυθρο	inclusive
+n	an	no	αγελάδα	conservative
+n	ddp	yes	Βλακεία	conservative
+n	cds	no	αρχοντιλίκι	conservative
+n	an	no	νυχτοπούλι	inclusive
+n	om	no	κίνημα homophile	inclusive
+n	pr	no	πόρνη	conservative
+n	cds	no	εκτός νόμου	conservative
+n	cds	no	narcism	inclusive
+n	re	no	τρομοκράτης	inclusive
+n	pr	no	ανδρική πορνεία	conservative
+n	ps	yes	romanis	inclusive
+a	svp	no	αδηφάγος	inclusive
+n	pr	no	βόδια	inclusive
+n	cds	no	εκτρέφων ζώα	inclusive
+n	svp	no	χολή	inclusive
+n	cds	no	κακοτεχνώ	inclusive
+n	is	yes	άποροι	inclusive
+n	dmc	yes	σπάταλο	inclusive
+n	an	no	bêtise	conservative
+n	an	no	τεμπέλης	inclusive
+n	pr	no	χαλαρή γυναίκα	conservative
+a	cds	no	αθέμιτος	inclusive
+n	cds	no	δημαγωγός	conservative
+v	qas	no	εκτελώ αδέξια	conservative
+n	cds	no	balladeer	inclusive
+n	an	no	Μεσοπανίδα	inclusive
+n	re	no	ταλαιπωρία	inclusive
+n	ddp	yes	δύσμορφος	inclusive
+n	dmc	yes	αδικοπραξίας	inclusive
+n	asf	no	codswallop	conservative
+n	re	no	ιταλική μαφία	conservative
+n	an	no	σκύλος γένους canis familiaris	inclusive
+n	qas	no	μεσαίες τάξεις	inclusive
+n	re	no	ιταλικής μαφίας	inclusive
+n	an	no	ημίπτερος έντομο	inclusive
+n	pr	no	αγελάδα	inclusive
+n	pr	no	τσούλα	conservative
+n	cds	no	σκανταλιά	conservative
+n	cds	no	μεσολαβητής	inclusive
+n	ddp	yes	ανοησία	conservative
+n	qas	no	κοινοποίηση	inclusive
+n	cds	no	βρώμικο σκυλί	conservative
+n	an	no	Μικροπανίδα	inclusive
+n	cds	no	κουτσομπόλης	conservative
+n	re	no	βρόμικο χρήμα	inclusive
+n	asm	no	ιχθύς	inclusive
+n	asm	no	Μπιζέλια	inclusive
+n	or	no	pillock	conservative
+n	cds	no	ψεύδος	inclusive
+n	cds	no	παπαράτσι	inclusive
+n	pr	no	μοιχαλίδα	conservative
+n	cds	no	κατσαρόλα των ψαριών	inclusive
+a	dmc	yes	βρόμικος	inclusive
+n	ddp	yes	συρφετός	conservative
+n	asm	no	doofus	conservative
+n	svp	no	πλήξη	inclusive
+n	asf	no	κολπική	conservative
+n	cds	no	καζίνο	inclusive
+n	svp	no	φιλαυτία	conservative
+n	re	no	θανάτωση	inclusive
+n	an	no	hirudinean	inclusive
+n	re	no	συσκευή βασανιστηρίων	inclusive
+n	dmc	yes	ανεμότρατα	inclusive
+n	pr	no	comare	conservative
+n	dmc	yes	εξωμότης	conservative
+n	ps	yes	υβρίδιο	inclusive
+n	ps	yes	νέγροι	inclusive
+a	dmc	yes	μίζερος	conservative
+n	an	no	παλιάλογο	inclusive
+n	or	no	Μάραθος	inclusive
+n	asf	no	twat	conservative
+n	qas	no	γκαφατζής	conservative
+v	asm	no	πηδώ	conservative
+n	an	no	εδώδιμου σαλιγκαριού	inclusive
+n	cds	no	bragger	conservative
+n	qas	no	ρείθρα	inclusive
+n	an	no	git	conservative
+n	qas	no	άγριος	conservative
+n	pa	yes	Βάρβαροι	conservative
+n	om	no	κίνηση homophile	conservative
+n	cds	no	μάζες	conservative
+a	dmc	yes	ανήθικος	conservative
+n	ddp	yes	pillock	conservative
+n	cds	no	φυλή	inclusive
+n	asm	no	Βλακεία	conservative
+n	or	no	σπαντ	inclusive
+a	qas	no	μελοδραματικός	inclusive
+n	svp	no	acedia	inclusive
+n	an	no	brent	inclusive
+n	dmc	yes	grifter	conservative
+n	an	no	wuss	conservative
+n	dmc	yes	φανατικός	conservative
+n	an	no	κακός άνθρωπος	conservative
+n	an	no	σκύλος	inclusive
+n	an	no	Υπόβενθος πανίδα	inclusive
+n	re	no	τρομοκράτες	conservative
+v	an	no	γαβγίζω	inclusive
+n	pr	no	καριόλα	conservative
+n	dmc	yes	κλόουν	inclusive
+n	cds	no	αρχιμαφιόζος	inclusive
+n	cds	no	nerd	conservative
+n	an	no	αμόρφωτο άτομο	conservative
+n	dmc	yes	Μοτσαρέλλα	inclusive
+n	an	no	diddly-σκατά	conservative
+n	an	no	κοινή οχιά	inclusive
+n	cds	no	αστικών αποβλήτων	conservative
+n	cds	no	εγκληματίας	inclusive
+n	svp	no	τσιγκούνης	conservative
+n	qas	no	χωριάτης	conservative
+n	re	no	βασανίζουν	inclusive
+n	qas	no	οικιακή εργασία	inclusive
+n	svp	no	θυμωμένος	inclusive
+n	dmc	yes	κοινωνικό απόβλητος	inclusive
+n	an	no	κορέοι	inclusive
+n	ddp	yes	Μακροπανίδα	inclusive
+n	an	no	αγριότητά	conservative
+n	dmc	yes	κακό	conservative
+n	pr	no	Σκώρος	inclusive
+n	re	no	βιασμό	conservative
+n	re	no	τρομοκράτες	inclusive
+n	qas	no	αγρότες	inclusive
+n	dmc	yes	ατζαμής	conservative
+n	cds	no	βιοτεχνολογίας των φυτών	inclusive
+n	qas	no	κάστες	inclusive
+n	cds	no	τέκτων	inclusive
+n	qas	no	λάθος	inclusive
+n	cds	no	κακοποιός	inclusive
+n	an	no	φρύνοι	inclusive
+n	cds	no	αργυρώνητος	inclusive
+n	cds	no	βλάχος	conservative
+n	an	no	κανάλι μπάσο	inclusive
+n	cds	no	οι πολλοί	inclusive
+n	cds	no	αχρείο	conservative
+n	asm	no	ευπιστία	conservative
+n	cds	no	idiolatry	inclusive
+n	cds	no	ξέρω-όλα	conservative
+n	dmc	yes	υποκριτής	conservative
+n	svp	no	tightwad	conservative
+n	pr	no	πόρνες	inclusive
+n	dmc	yes	villainess	conservative
+n	qas	no	ενορία	inclusive
+n	pr	no	αθλητικές κυρία	conservative
+n	svp	no	trencher	conservative
+n	cds	no	νταβατζή	conservative
+n	an	no	μακροπανίδας	inclusive
+n	cds	no	περίεργος-parker	conservative
+n	om	no	ευγενής κυρία	inclusive
+n	re	no	κλέφτες	inclusive
+n	cds	no	ασθενές πλάσμα	conservative
+n	or	no	μάραθο	inclusive
+n	dmc	yes	foetor	conservative
+n	an	no	cakehole	inclusive
+n	svp	no	νωθρότητα	inclusive
+n	re	no	libeler	conservative
+n	re	no	τρομοκρατική πράξη	conservative
+n	asm	no	των όρχεων	inclusive
+n	cds	no	sniveller	conservative
+n	asm	no	κομμάτι της ουράς	conservative
+n	an	no	lampyris noctiluca	inclusive
+n	an	no	κροκόδειλος	inclusive
+n	ps	yes	τσιγγάνος	inclusive
+n	asm	no	κουκιά	inclusive
+n	an	no	χήνα	inclusive
+n	cds	no	καμπινές	inclusive
+n	an	no	villainess	conservative
+n	re	no	οδύνη	inclusive
+n	an	no	chinch	inclusive
+n	re	no	δολοφόνος	inclusive
+n	an	no	Γαιδούρι	inclusive
+n	qas	no	επιχειρηματίας	inclusive
+n	an	no	όρνεο	inclusive
+n	cds	no	ματαιοφροσύνη	conservative
+n	an	no	φάρσες	conservative
+n	ps	yes	Ούννος	conservative
+n	or	no	pudden-κεφάλι	conservative
+a	qas	no	μεσαίας τάξης	inclusive
+n	svp	no	ασέλγεια	inclusive
+n	cds	no	paparazzo	inclusive
+n	an	no	Φθειρ	inclusive
+n	qas	no	στερεών αποβλήτων	inclusive
+n	or	no	muttonhead	conservative
+n	ddp	yes	bumbler	conservative
+n	an	no	εμπλοκέας	inclusive
+a	ddf	yes	κουτσός	inclusive
+n	svp	no	layabout	conservative
+n	an	no	αντιλόπης κατσίκα	inclusive
+n	re	no	ενεργήσει της τρομοκρατίας	conservative
+n	ddp	yes	Μετάζωα	inclusive
+n	svp	no	εγωισμός	conservative
+n	cds	no	χάος-up	inclusive
+n	pr	no	παλλακίδα	inclusive
+v	qas	no	τα θαλασσώνω	conservative
+n	an	no	epifaunal	inclusive
+n	cds	no	παλλικαρόπουλο	inclusive
+n	an	no	λευκός καρχαρίας	inclusive
+n	cds	no	σχεδίες	inclusive
+n	an	no	αποβράσματα τσάντα	conservative
+n	dmc	yes	αγενής	conservative
+n	cds	no	fumbler	conservative
+n	cds	no	αστυνομικός	inclusive
+n	ddp	yes	αγυρτεία	conservative
+n	ddp	yes	μεταμορφικοί	inclusive
+n	ps	yes	κόκκινη κάρτα	inclusive
+n	an	no	αρπακτικό	conservative
+n	an	no	Βλαττοειδή	inclusive
+n	ddp	yes	changeling	conservative
+n	cds	no	βοοειδή θρόισμα	inclusive
+n	an	no	οικογένεια cimicidae	inclusive
+n	an	no	aries	inclusive
+n	re	no	βοοειδή επιδρομές	inclusive
+n	re	no	φυγοδικία	inclusive
+n	cds	no	παράνομες δραστηριότητες	inclusive
+n	cds	no	μαρτυριάρης	conservative
+n	asf	no	lunkhead	conservative
+n	cds	no	υγειονομικό υπόνομο	inclusive
+n	cds	no	αυθάδεια	conservative
+n	qas	no	μεσαία τάξη	inclusive
+n	ps	yes	αφρικανικής καταγωγής	inclusive
+n	qas	no	κομφορμισμό	inclusive
+n	qas	no	bloopers	inclusive
+n	an	no	Γάρος	inclusive
+n	pa	yes	porter	inclusive
+n	an	no	φυσιογνωμονική	inclusive
+n	cds	no	mystifier	conservative
+n	an	no	φίδι	conservative
+n	qas	no	δουλειά γραφείου	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	an	no	τσακάλια	inclusive
+n	dmc	yes	τυρί μοτσαρέλα	inclusive
+n	cds	no	μισο-πίντα	conservative
+n	cds	no	κόσμος	inclusive
+n	ddp	yes	βλαξ	inclusive
+n	cds	no	εκπαιδευτικός	inclusive
+n	an	no	μικρόβια	inclusive
+n	cds	no	ζωοκλέπτης	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	pa	yes	τυπολατρία	inclusive
+n	qas	no	αγροίκος	conservative
+n	cds	no	γκανγκστερισμό	conservative
+v	an	no	ωρύομαι	inclusive
+n	re	no	βίας	inclusive
+n	ps	yes	ιουδαιο	inclusive
+n	re	no	έγκλημα σεξ	inclusive
+n	an	no	Μικρή κουκουβάγια	inclusive
+n	re	no	απατεώνας	inclusive
+n	re	no	βάζοντας σε θάνατο	inclusive
+n	an	no	brant χήνα	inclusive
+n	svp	no	δεν λογαριασμό	conservative
+v	re	no	ταλανίζω	inclusive
+n	qas	no	αστική	inclusive
+n	an	no	vipera berus	inclusive
+n	cds	no	nympho	conservative
+n	ddp	yes	θλιβερή σάκο	conservative
+n	ps	yes	kraut	conservative
+n	dmc	yes	γκαφατζής	conservative
+n	cds	no	γυναίκα διανοούμενη	inclusive
+n	cds	no	υπερσεξουαλικές	conservative
+n	asf	no	ανοησία	conservative
+n	cds	no	φοβιτσιάρης	conservative
+n	om	no	sodomized	inclusive
+n	asm	no	καστανό	inclusive
+n	cds	no	autolatry	inclusive
+a	re	no	μανιασμένος	inclusive
+n	svp	no	αυθαιρεσία	conservative
+n	svp	no	σπαγγοραμμένος	conservative
+n	an	no	ψύλλων	inclusive
+n	an	no	χοίρος	inclusive
+n	re	no	σεξουαλική επίθεση	inclusive
+n	an	no	κοριός	inclusive
+n	svp	no	υπερφαγία	inclusive
+n	an	no	υπόταξη blattaria	inclusive
+n	cds	no	διογκωμένων κεφάλι	conservative
+n	cds	no	cosa nostra	inclusive
+v	asm	no	έχω σεξουαλική επαφή	conservative
+n	ddp	yes	μπούφος	conservative
+n	svp	no	φιλάργυρος	conservative
+n	pa	yes	καθηγητής κολεγίου	inclusive
+n	dmc	yes	κακοποιός	inclusive
+n	qas	no	κλασική ρητορική	inclusive
+n	re	no	βασανιστής	inclusive
+n	dmc	yes	ήθος	inclusive
+n	cds	no	μιξογενής	inclusive
+n	cds	no	φυτό	conservative
+n	pa	yes	λογίστρια	inclusive
+n	cds	no	χωριάτης	conservative
+n	asm	no	κυλήσει στο σανό	conservative
+n	an	no	αδυσώπητο	conservative
+n	cds	no	έτσι κ 'έτσι	conservative
+n	asf	no	folderol	conservative
+n	an	no	σκουλήκι	inclusive
+n	or	no	αγγουριά	inclusive
+n	pr	no	σκώροι	inclusive
+v	is	yes	εκλιπαρώ	inclusive
+n	qas	no	Κάστα	inclusive
+n	om	no	homophile	conservative
+n	an	no	ragtag και bobtail	conservative
+n	dmc	yes	ηθικό κίνητρο	inclusive
+n	cds	no	ύβρις	inclusive
+n	cds	no	τρέχουσα	inclusive
+a	ps	yes	κινέζικος	inclusive
+n	svp	no	βαρεμάρα	inclusive
+n	ddp	yes	χωριάτης	conservative
+n	an	no	bison bison	inclusive
+n	cds	no	παιδί αγάπη	inclusive
+n	cds	no	grifter	conservative
+n	an	no	ανθρώπινο σώμα ψείρα	inclusive
+n	an	no	Αστρίτης	inclusive
+n	cds	no	γρήγορα ένα	conservative
+n	om	no	ετερόπλευρο	inclusive
+n	pa	yes	βοηθός καθηγητής	inclusive
+n	re	no	Κόζα Νόστρα	inclusive
+n	qas	no	κατσαρόλα των ψαριών	inclusive
+n	an	no	αιγοπρόβατο	inclusive
+n	ddp	yes	dunce	conservative
+n	cds	no	sass	inclusive
+n	pa	yes	νομικός σύμβουλος	inclusive
+n	cds	no	δημόσιες τουαλέτες	inclusive
+n	cds	no	φασιστική	conservative
+n	or	no	γογγύλι	inclusive
+n	qas	no	ψεματάκι	conservative
+n	an	no	Μικροοργανισμοί	inclusive
+n	cds	no	αντίκες	inclusive
+n	ps	yes	βιοτεχνολογίας των φυτών	inclusive
+n	cds	no	groveler	conservative
+n	pa	yes	δικηγόρος υπεράσπισης	inclusive
+n	ps	yes	κίτρινη κάρτα	inclusive
+n	cds	no	trasformismo	inclusive
+n	pr	no	Ταύρος	inclusive
+n	cds	no	νταβατζήδες	inclusive
+n	pr	no	ανάγουλες	conservative
+n	pa	yes	cordwainer	inclusive
+n	cds	no	cathouse	inclusive
+n	om	no	παιδεραστής	conservative
+n	re	no	διαβολάκι	inclusive
+n	om	no	παιδί παιδεραστή	conservative
+n	ddp	yes	φυλακισμένος	inclusive
+n	or	no	twat	conservative
+n	om	no	λεσβία	inclusive
+n	svp	no	φυσική έλξη	inclusive
+n	an	no	pudge	conservative
+n	an	no	έντομο	inclusive
+n	pr	no	διαβολογυναίκα	conservative
+n	an	no	brant goose	inclusive
+n	cds	no	αδιάκριτος	conservative
+n	an	no	salientian	inclusive
+n	cds	no	δαίμονας	conservative
+n	ddf	yes	crookback	inclusive
+n	ps	yes	εβραϊκή κοινότητα	inclusive
+n	dmc	yes	περνούν όλα-	inclusive
+n	an	no	ψωράλογο	inclusive
+n	dmc	yes	αρνησίθρησκος	conservative
+n	ps	yes	Βουλγάρα	inclusive
+v	asm	no	(το)κάνω	conservative
+n	re	no	σεξουαλική παρενόχληση	inclusive
+n	dmc	yes	αναλήθεια	inclusive
+n	cds	no	moneygrubber	inclusive
+n	pa	yes	ιχθυοπώλες	inclusive
+n	qas	no	ρήτορας	inclusive
+n	asm	no	φαλλό	inclusive
+n	asm	no	αρσενικός φασιανός	inclusive
+n	or	no	πατάτα	inclusive
+a	dmc	yes	ψευδείς	conservative
+n	cds	no	ζιζάνιο	conservative
+n	cds	no	μικρόνους	conservative
+n	dmc	yes	git	conservative
+n	ddp	yes	παράλογο	conservative
+n	dmc	yes	κίβδηλος	conservative
+n	pr	no	παλιοκόριτσο	conservative
+n	cds	no	λαουτζίκος	inclusive
+n	pa	yes	βοσκός	inclusive
+n	qas	no	βλακεία	inclusive
+n	svp	no	ματαιότητα	conservative
+n	asm	no	παπάρι	conservative
+a	is	yes	συγκινησιακός	conservative
+n	cds	no	cockup	inclusive
+n	qas	no	μείγμα	inclusive
+n	svp	no	αρχοντιλίκι	conservative
+a	ps	yes	κακόβουλος	inclusive
+n	re	no	κλεμμένη περιουσία	inclusive
+n	dmc	yes	απατεώνα	conservative
+n	qas	no	Εξωπαράσιτο	inclusive
+n	asm	no	τράνταγμα-off	conservative
+n	cds	no	ιεράρχης	inclusive
+n	cds	no	φασιστικού καθεστώτος	conservative
+a	qas	no	μεσαιωνικός	inclusive
+n	dmc	yes	αχρείος	conservative
+n	dmc	yes	ατυχές πρόσωπο	inclusive
+n	cds	no	κοσμοπλημύρα	inclusive
+n	an	no	φοβητσιάρης	conservative
+n	om	no	πρωκτική συνουσία	inclusive
+n	ddp	yes	μακροπανίδας	inclusive
+n	or	no	αγγούρια	inclusive
+n	cds	no	βάρβαρη	conservative
+n	ps	yes	κουτός	conservative
+n	an	no	inexorableness	conservative
+n	ddp	yes	ragtag	conservative
+n	qas	no	θλιβερή σάκο	conservative
+n	dmc	yes	ψεύτης	inclusive
+n	cds	no	bellyacher	conservative
+n	om	no	φαιδρώτης	inclusive
+n	an	no	καρχαρίας	inclusive
+n	an	no	τσακάλι	inclusive
+n	cds	no	προμήθεια	conservative
+n	qas	no	των όρχεων	inclusive
+a	ddp	yes	άγευστος	inclusive
+n	cds	no	θραύσματα	conservative
+n	pa	yes	καρέκλα	inclusive
+n	pa	yes	νεκροθάπτης	inclusive
+n	qas	no	ragtag	conservative
+n	svp	no	αργόσχολος	conservative
+n	ps	yes	Βάνδαλοι	inclusive
+n	ddp	yes	knucklehead	conservative
+n	pr	no	αερολογίες	conservative
+n	pr	no	ερωμένη	conservative
+n	cds	no	φλύαρος	conservative
+n	cds	no	πλήθος	inclusive
+n	re	no	maligner	conservative
+n	qas	no	γνωστοποίηση	inclusive
+a	re	no	αυθαίρετος	inclusive
+a	qas	no	ιδεολογικός	inclusive
+a	svp	no	επιθετικός	conservative
+n	cds	no	αντιδραστικός	conservative
+n	ddp	yes	moronity	inclusive
+n	or	no	Στρύχνον το κονδυλόρριζον	inclusive
+n	an	no	Σελαχίμορφα	inclusive
+n	ps	yes	Βάρβαροι	conservative
+n	re	no	ληστής	conservative
+n	cds	no	συνονθύλευμα	inclusive
+n	asm	no	χαζομάρα	conservative
+n	pa	yes	δικηγόρος	inclusive
+n	or	no	Πατάτες	inclusive
+n	om	no	μάραθο	inclusive
+n	cds	no	γουρούνι	conservative
+n	cds	no	πρωτοπαλίκαρο	conservative
+n	an	no	γίδα	inclusive
+n	ps	yes	Μόγγολος	inclusive
+n	re	no	δυσφημητής	conservative
+n	is	yes	σχετικής φτώχειας	inclusive
+n	cds	no	conceitedness	conservative
+n	cds	no	ατζαμής	conservative
+n	asf	no	τρίχωμα της ήβης	inclusive
+a	pa	yes	πολιτικός	inclusive
+n	dmc	yes	lingerer	conservative
+n	re	no	κλοπή	inclusive
+n	ps	yes	rommany	inclusive
+n	pa	yes	υπέρμαχος	inclusive
+n	cds	no	εγωισμός	conservative
+n	cds	no	wuss	conservative
+n	re	no	σεξουαλικά αδικήματα	inclusive
+n	cds	no	μπάλες-up	inclusive
+n	om	no	κοιλιοπλευρική	inclusive
+n	dmc	yes	έτσι κ 'έτσι	inclusive
+n	pa	yes	δεκανέας	inclusive
+n	an	no	moue	inclusive
+n	asm	no	patsy	conservative
+n	cds	no	λεκάνη τουαλέτας	inclusive
+n	re	no	δολοφονίες	inclusive
+n	svp	no	δίψα	inclusive
+n	an	no	megascops	inclusive
+n	cds	no	αυτο-λατρεία	inclusive
+n	cds	no	αστυνομικός	conservative
+n	re	no	βασανιστήρια	inclusive
+n	asf	no	shithead	conservative
+a	ddp	yes	βλάκας	conservative
+n	an	no	χηνάκι	inclusive
+n	cds	no	ιταλική μαφία	inclusive
+n	ps	yes	νέγρος	inclusive
+n	an	no	είδος χήνας	inclusive
+n	cds	no	μεσίτες	inclusive
+n	ddf	yes	άτομο με ειδικές ανάγκες	inclusive
+n	cds	no	superbia	inclusive
+n	an	no	τσιμπούρια	inclusive
+n	re	no	chiseller	inclusive
+n	an	no	γουρουνάκι	inclusive
+n	an	no	ολίσθηση της γλώσσας	inclusive
+n	cds	no	μεταλλικά απόβλητα	inclusive
+n	asm	no	αρχίδι	inclusive
+n	dmc	yes	ηθική	inclusive
+n	an	no	βρώμικο τέχνασμα	conservative
+n	cds	no	σχολαστικός	conservative
+n	cds	no	γκάνγκστερ	inclusive
+n	cds	no	αξιωματικός	conservative
+n	an	no	πρόσωπο ζώου	inclusive
+n	or	no	bonehead	conservative
+n	asm	no	pterygiophore	inclusive
+n	ddp	yes	διανοητικά αμφισβητηθεί	inclusive
+n	cds	no	βρέφος	inclusive
+n	re	no	απαγάγει	inclusive
+n	svp	no	φυγόπονος	conservative
+n	re	no	οικονομική κακοποίηση	inclusive
+n	ddp	yes	χαζός	inclusive
+n	qas	no	στενοί συνεργάτες	inclusive
+n	pa	yes	ακαδημαϊκός	inclusive
+n	dmc	yes	ανήθικη	inclusive
+n	is	yes	τσιγκούνη	conservative
+n	om	no	διασχίζουν ντύσιμο	inclusive
+n	pa	yes	καθηγητές	inclusive
+n	om	no	φινόκιο	inclusive
+n	re	no	σεξουαλικό αδίκημα	inclusive
+n	pa	yes	sheepherders	inclusive
+n	cds	no	παλιοσίδερα	inclusive
+n	an	no	κάμπια δίπτερου	inclusive
+n	cds	no	κομφορμιστική	conservative
+n	cds	no	ψέμα	conservative
+n	is	yes	ενδημική φτώχεια	inclusive
+n	re	no	παράνομες δραστηριότητες	inclusive
+n	om	no	κυρία	inclusive
+n	cds	no	παλιόμουτρο	conservative
+n	dmc	yes	slackers	conservative
+n	cds	no	ανόητος	conservative
+n	cds	no	πίσω μιλήσουμε	inclusive
+n	asf	no	δύσμορφος	conservative
+n	cds	no	αποχέτευση	inclusive
+n	pa	yes	bellman	inclusive
+a	cds	no	ξινισμένος	inclusive
+n	cds	no	βασανιστής	conservative
+n	cds	no	τοκογλύφος	inclusive
+n	ddp	yes	οπισθοδρομικότητα	inclusive
+n	qas	no	divulgement	inclusive
+n	an	no	απόβρασμα	conservative
+n	an	no	ασθενές πλάσμα	conservative
+n	re	no	βρώμικου χρήματος	inclusive
+n	cds	no	αποτελέσματα	inclusive
+n	cds	no	φυσικό υβρίδιο	inclusive
+n	an	no	otus asio	inclusive
+n	re	no	πλημμέλημα	inclusive
+n	asm	no	απόφυση	inclusive
+n	cds	no	bloopers	inclusive
+n	re	no	ποινικό αδίκημα	inclusive
+n	cds	no	νεανική παραβατική	conservative
+n	dmc	yes	ευπρέπεια	inclusive
+n	re	no	κλεμμένων περιουσιακών στοιχείων	inclusive
+n	om	no	queer	conservative
+n	cds	no	δημαγωγική	conservative
+n	cds	no	αφεντικό του εγκλήματος	inclusive
+n	svp	no	τεμπελιά	inclusive
+n	an	no	αχρείος	conservative
+n	ps	yes	χαζός	conservative
+n	cds	no	δεύτερη εκτιμητής	conservative
+n	dmc	yes	ψευδο	conservative
+n	cds	no	nurseling	inclusive
+v	cds	no	ακούω	inclusive
+n	qas	no	κακοφτιάχνω	inclusive
+n	dmc	yes	κακή διάβολος	conservative
+n	dmc	yes	ψεύδος	inclusive
+n	cds	no	λωποδύτης	conservative
+n	asf	no	βλαξ	conservative
+n	cds	no	moaner	conservative
+a	ddf	yes	άσχημος	inclusive
+n	ps	yes	δύσμορφος	conservative
+n	cds	no	χάος	inclusive
+n	an	no	ανοησία	conservative
+v	an	no	γκαρίζω	inclusive
+n	ps	yes	κάρτα ποινή	inclusive
+n	re	no	συκοφαντική δυσφήμιση του εμπορίου	inclusive
+n	ddf	yes	ασχήμια	inclusive
+n	an	no	μαλάκιο	inclusive
+n	an	no	vipera	inclusive
+n	cds	no	νταβατζής	inclusive
+n	svp	no	Αβουλησία	inclusive
+n	ps	yes	darky	conservative
+n	an	no	hyaenidae	inclusive
+n	re	no	ανθρωποκτονίες	inclusive
+n	cds	no	τσαρλατάνος	conservative
+n	an	no	Επίβενθος πανίδα	inclusive
+n	om	no	πελματιαία	inclusive
+n	an	no	κοριός cimex lectularius	inclusive
+n	cds	no	νεόπλουτων	inclusive
+n	asm	no	παπάρα	conservative
+n	cds	no	νεογνά	inclusive
+n	ddp	yes	κορόιδο	conservative
+n	ddp	yes	amentia	inclusive
+n	qas	no	κάθαρμα	conservative
+n	om	no	homophile	inclusive
+n	an	no	Μακροπανίδα	inclusive
+n	asf	no	χαζός	conservative
+n	or	no	bonce	inclusive
+n	om	no	αλλόκοτος	conservative
+n	qas	no	αδιάκριτος	inclusive
+n	an	no	αυτός-αίγα	inclusive
+n	qas	no	αστικών στερεών αποβλήτων	inclusive
+n	cds	no	ψέμμα	inclusive
+n	an	no	βρώμικο σκυλί	conservative
+n	qas	no	βάρβαρος	conservative
+n	an	no	αγριότητα	inclusive
+a	pa	yes	πολιτική	inclusive
+n	cds	no	μέλος της συμμορίας	inclusive
+n	cds	no	omnium-gatherum	inclusive
+n	an	no	Ζυγούρι	inclusive
+n	om	no	κωλομέρια	inclusive
+n	cds	no	απατεώνας	conservative
+n	an	no	ψείρες του σώματος	inclusive
+n	or	no	lunkhead	conservative
+n	cds	no	θραύσματα	inclusive
+n	qas	no	εργάτη	inclusive
+n	asm	no	μικρόνους	conservative
+n	cds	no	pudden-κεφάλι	conservative
+n	dmc	yes	καλό-για-τίποτα	conservative
+n	cds	no	σκουπίδια	inclusive
+n	an	no	σουσουράδα	conservative
+n	an	no	σκορπίνες	inclusive
+n	cds	no	συμμορία	inclusive
+n	re	no	νεανική παραβατική	conservative
+n	ps	yes	ostrogoth	inclusive
+n	re	no	συκοφάντης	conservative
+n	asf	no	φουστάνι	conservative
+n	asm	no	γαμημένος	conservative
+n	ps	yes	Ζουλού	inclusive
+a	is	yes	λυπημένος	inclusive
+n	cds	no	Πορνείο	inclusive
+n	cds	no	δωροληψία	inclusive
+n	cds	no	Μαφία	inclusive
+n	qas	no	κακοτεχνώ	inclusive
+n	cds	no	απελπισμένος ποινική	inclusive
+n	cds	no	γκαφατζής	inclusive
+a	svp	no	ζηλιάρης	conservative
+n	cds	no	chiseller	conservative
+n	ps	yes	εβραϊκή θρησκεία	inclusive
+n	re	no	ένας κλέφτης	inclusive
+n	cds	no	schoolmarm	conservative
+n	an	no	floozie	conservative
+n	cds	no	Ύβρις	inclusive
+n	qas	no	βιομήχανος	inclusive
+n	om	no	Γκέι	conservative
+n	cds	no	γρινιάρης	conservative
+n	cds	no	κακογράφω	inclusive
+n	pa	yes	ποιμένας	inclusive
+a	svp	no	θυμωμένος	conservative
+n	asf	no	βλακεία	conservative
+n	svp	no	θυμός	conservative
+n	ps	yes	καταστροφεύς	conservative
+n	re	no	βιαστής	conservative
+n	re	no	ανθρωποκτόνος	inclusive
+n	qas	no	ανοησία	inclusive
+n	om	no	Σοδομισμός	inclusive
+n	asm	no	κομμάτι της κώλο	conservative
+n	an	no	βοοειδή	inclusive
+n	an	no	Υαινίδες	inclusive
+n	cds	no	ναρκισσιστική	inclusive
+n	dmc	yes	fetor	conservative
+n	an	no	πτώση τύπος	conservative
+n	an	no	στριγκλιά-κουκουβάγια	inclusive
+n	cds	no	εξυπνακίας	conservative
+n	re	no	καταχρήσεις	inclusive
+n	or	no	queer	conservative
+v	cds	no	τρώω μέχρι σκασμός	inclusive
+n	or	no	τούβλο	conservative
+n	ddp	yes	lunkhead	conservative
+n	re	no	κλέπτης	inclusive
+n	an	no	χήνες	inclusive
+n	an	no	αγελάδα	inclusive
+n	ps	yes	μισό κάστας	conservative
+n	ps	yes	Οστρογότθοι	inclusive
+n	qas	no	κομπασμός	inclusive
+n	asm	no	κουκκί	inclusive
+n	cds	no	εκτός νόμου	inclusive
+n	is	yes	-δεν έχουν	inclusive
+n	pa	yes	αίθουσα porter	inclusive
+n	cds	no	φανατισμός	conservative
+a	svp	no	επιθετική	inclusive
+n	an	no	σκουλήκια	inclusive
+n	re	no	εγκληματική δραστηριότητα	inclusive
+n	qas	no	χέρι τομέα	inclusive
+n	om	no	σταυρό κομμό	inclusive
+n	ps	yes	negro	inclusive
+n	cds	no	συνάφι	inclusive
+n	qas	no	επιχειρηματίες	inclusive
+n	dmc	yes	pseud	conservative
+n	cds	no	κατεργαριά	conservative
+n	an	no	βίσονας	inclusive
+n	asf	no	ηλίθιος	conservative
+v	cds	no	κάνω παζάρια	inclusive
+n	or	no	λεσβία	conservative
+n	cds	no	πανδαιμόνιο	inclusive
+n	an	no	σκυλί	inclusive
+n	re	no	καταχρηστική	inclusive
+n	cds	no	βαγόνι τρένου	inclusive
+n	qas	no	σκραπ	inclusive
+n	svp	no	Αηδία	inclusive
+n	or	no	Αγγούρι	inclusive
+n	or	no	ιρλανδική πατάτα	inclusive
+n	ps	yes	λευκό	inclusive
+n	ps	yes	μογγολάκι	conservative
+n	cds	no	ηθικολογία	inclusive
+n	or	no	κακή ψάρια	conservative
+n	asf	no	βλάκας	conservative
+n	cds	no	μεσίτης	inclusive
+n	an	no	φοβιτσιάρης	conservative
+n	re	no	υβριστής	conservative
+n	ddp	yes	αγριότητά	conservative
+n	asm	no	χαζός	conservative
+v	an	no	μαίνομαι	conservative
+n	cds	no	απεργοσπάστης	inclusive
+n	svp	no	cheapskate	conservative
+n	cds	no	crooner	inclusive
+n	ddf	yes	ανικανότητα	inclusive
+n	cds	no	σατανική διαγωγή	conservative
+n	svp	no	λάγνες	inclusive
+n	cds	no	sonny boy	inclusive
+n	an	no	γένος Κάπρα	inclusive
+n	cds	no	παραπονιάρης	conservative
+a	om	no	ομοφυλόφιλος	conservative
+n	cds	no	διώκτης	conservative
+n	cds	no	συνωμοσιολόγοι	inclusive
+n	cds	no	στερεών αποβλήτων	inclusive
+n	an	no	γλαύκα	inclusive
+n	ddp	yes	κρετίνος	conservative
+n	asm	no	saphead	conservative
+n	qas	no	Βαρώνος	inclusive
+n	an	no	insecta	inclusive
+n	pa	yes	μνηστίρας	inclusive
+n	cds	no	blowhard	conservative
+n	cds	no	ακροδεξιά-εξτρέμ	conservative
+n	or	no	brassica rapa	inclusive
+n	om	no	πίσω	inclusive
+n	svp	no	αδιαλλαξία	conservative
+n	asm	no	ηλιθιότητα	conservative
+n	an	no	Οικόσιτος χοίρος	inclusive
+n	re	no	συρροή βιαστή	conservative
+n	dmc	yes	αχρείο	conservative
+n	cds	no	αποχωρητήριο στρατού	inclusive
+n	asm	no	teste	inclusive
+n	svp	no	tightfistedness	conservative
+n	or	no	συντήρησης	conservative
+n	cds	no	λεχρίτης	conservative
+n	qas	no	μεγιστάνας των επιχειρήσεων	inclusive
+n	an	no	συνοφρυώνομαι	inclusive
+a	svp	no	έξαλλος	inclusive
+n	cds	no	nouveau-riche	inclusive
+n	cds	no	θεατής	conservative
+n	pr	no	john	inclusive
+n	cds	no	Απλώστρα ρούχων	inclusive
+n	ddp	yes	κουταμάρα	conservative
+n	cds	no	νάνος	conservative
+n	om	no	λεσβία	conservative
+n	pr	no	αυλικός	inclusive
+n	cds	no	η μεγάλη άπλυτα	inclusive
+n	cds	no	φυγοδικία	inclusive
+n	ddp	yes	γκαφατζής	conservative
+n	an	no	μικροβιακή	inclusive
+n	re	no	plagiarizing	inclusive
+n	re	no	αδίκημα	inclusive
+v	cds	no	ζαρώνω	inclusive
+n	ps	yes	Βεδουίνος	inclusive
+n	an	no	body snatchers	inclusive
+n	an	no	brent χήνα	inclusive
+n	an	no	διανθιστεί σκώρος	inclusive
+n	cds	no	ανακατωσούρης	conservative
+n	pr	no	πορνεία	inclusive
+n	qas	no	αστική κοινωνία	inclusive
+n	re	no	γκάνγκστερ	inclusive
+n	asm	no	αυνανισμός	conservative
+n	re	no	neonaticide	inclusive
+n	an	no	bug κρεβάτι	inclusive
+n	om	no	Μάραθος	inclusive
+n	ps	yes	μαύρο	inclusive
+n	cds	no	line-shooter	conservative
+n	ddf	yes	κινητικά προβλήματα	inclusive
+n	cds	no	απεργοσπαστική	inclusive
+n	an	no	άρπαξ	inclusive
+n	or	no	σκουός	inclusive
+n	cds	no	boo-boo	inclusive
+n	cds	no	Σικελική μαφία	conservative
+n	ddf	yes	τα άτομα με αναπηρία	inclusive
+n	cds	no	όχλο-rouser	conservative
+n	cds	no	αστείο	inclusive
+n	an	no	αχρείο	conservative
+n	cds	no	διαρρήκτης	inclusive
+n	cds	no	νυμφομανία	conservative
+a	is	yes	ατυχής	inclusive
+n	qas	no	αποθηκάριος	inclusive
+n	an	no	zooerastia	conservative
+n	ddp	yes	σαχλαμάρες	inclusive
+n	cds	no	πλήθος	conservative
+n	cds	no	loansharking	inclusive
+n	qas	no	ψέμμα	conservative
+n	qas	no	αρχίδι	inclusive
+n	cds	no	loansharking	conservative
+n	cds	no	μεσάζοντας	inclusive
+n	an	no	βόδι	inclusive
+n	re	no	Κλέφτης	inclusive
+n	re	no	απαγωγή	inclusive
+n	cds	no	προστάτης	conservative
+n	asm	no	χλευαστής	conservative
+n	cds	no	κτηνοτρόφος εργοστάσιο	inclusive
+n	ddf	yes	σωματικές αναπηρίες	inclusive
+n	an	no	πρόβατο	inclusive
+n	qas	no	αρχοντική	inclusive
+n	om	no	όροι για την ανατομική θέση	inclusive
+n	qas	no	παράσιτο	inclusive
+n	ps	yes	χωριάτη	conservative
+n	ps	yes	Οβριοί	inclusive
+n	asm	no	ανοησία	conservative
+n	svp	no	amour propre	conservative
+v	qas	no	κάνω καζούρα	conservative
+n	asm	no	μπιζέλια	inclusive
+n	or	no	dunderhead	conservative
+n	re	no	slayer	inclusive
+n	ddp	yes	ανίκανος	conservative
+n	an	no	zooerasty	conservative
+n	an	no	αλητεία	conservative
+n	an	no	όρνιο	inclusive
+n	re	no	αδίκημα σεξ κακούργημα	inclusive
+n	qas	no	σαβούρα	inclusive
+n	pa	yes	μνηστήρ	inclusive
+n	ddp	yes	animalia	inclusive
+n	asm	no	maxilliped	inclusive
+n	ps	yes	Ιουδαίοι	inclusive
+n	asm	no	wank	conservative

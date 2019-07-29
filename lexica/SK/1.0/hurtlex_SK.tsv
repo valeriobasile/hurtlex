@@ -1,0 +1,3486 @@
+pos	category	stereotype	lemma	level
+n	pa	yes	sluha	inclusive
+n	pa	yes	academia	inclusive
+n	cds	no	panovačnosť	conservative
+n	re	no	mladistvý páchateľ	conservative
+n	ddf	yes	handicap	inclusive
+n	cds	no	béguin	inclusive
+n	asf	no	trúba	conservative
+n	cds	no	zbojník	conservative
+n	an	no	animalculum	inclusive
+n	cds	no	reakčné	conservative
+n	cds	no	šmelinár	inclusive
+n	svp	no	averzia	inclusive
+n	ddp	yes	nezmyselný	conservative
+n	an	no	hovädzí dobytok	inclusive
+n	om	no	rovnakého pohlavia	inclusive
+n	or	no	biela repa	inclusive
+n	cds	no	culchie	inclusive
+n	an	no	ovce	inclusive
+n	pr	no	mora	inclusive
+n	cds	no	nezákonnosť	inclusive
+n	qas	no	potápanie váhový systém	inclusive
+n	cds	no	lotr	conservative
+n	cds	no	čmáranica	inclusive
+n	an	no	stvorenia	inclusive
+n	svp	no	neľúbosť	inclusive
+n	cds	no	clann	inclusive
+v	an	no	jedovať sa	conservative
+n	cds	no	mladistvý previnilec	conservative
+n	svp	no	conceitedness	conservative
+n	dmc	yes	zpustlík	conservative
+n	dmc	yes	vyvrheľ	inclusive
+n	asf	no	vôl	conservative
+n	ps	yes	judaizmus	inclusive
+n	ps	yes	ostrogóti	inclusive
+n	or	no	teploš	conservative
+n	cds	no	trik	inclusive
+n	re	no	ukradnutý majetok	inclusive
+n	qas	no	chaos	inclusive
+n	cds	no	babrácka práca	inclusive
+n	re	no	týranie	inclusive
+n	cds	no	comfort station	inclusive
+n	re	no	špinavé peniaze	inclusive
+n	cds	no	gossipmonger	conservative
+n	an	no	zlodej	inclusive
+n	an	no	húsatko	inclusive
+n	cds	no	hazardných hier	inclusive
+n	ddp	yes	changeling	conservative
+n	pr	no	trosky	conservative
+n	re	no	čin	inclusive
+n	cds	no	lotor	conservative
+n	ddf	yes	invalidita	inclusive
+n	cds	no	spevák šlágrov	inclusive
+n	pa	yes	minister-poradca	inclusive
+n	an	no	culex pipiens	inclusive
+n	om	no	anatomické podmienky umiestnenia	inclusive
+n	svp	no	chamtivosť	inclusive
+n	an	no	zubor	inclusive
+n	cds	no	modloslužobníci	inclusive
+n	dmc	yes	hýril	inclusive
+n	cds	no	gigolo	inclusive
+n	om	no	gluteálnej oblasti	inclusive
+n	or	no	meticulosity	inclusive
+n	cds	no	zbabelec	conservative
+n	cds	no	šelestu dobytku	inclusive
+n	ps	yes	židovskej tradícii	inclusive
+n	asm	no	jadro	inclusive
+n	is	yes	majú-nie	inclusive
+n	pa	yes	emeritný profesor	inclusive
+n	ps	yes	rommany	inclusive
+a	ps	yes	čínsky	inclusive
+n	an	no	kmeň mollusca	inclusive
+n	cds	no	prasa	conservative
+v	asm	no	mrdať	conservative
+n	dmc	yes	pokrytec	conservative
+n	cds	no	klebety	inclusive
+v	qas	no	trýzniť	conservative
+n	an	no	tlama	inclusive
+n	cds	no	rustler	inclusive
+n	svp	no	samoľúbosť	inclusive
+n	cds	no	synáčik	inclusive
+v	cds	no	umierať	inclusive
+n	cds	no	povrchnosti	inclusive
+n	ps	yes	negroidní	inclusive
+n	ps	yes	Židia	inclusive
+n	asm	no	obetný baránok	conservative
+n	ps	yes	vandal	inclusive
+n	cds	no	whiner	conservative
+n	dmc	yes	mravnosť	inclusive
+n	an	no	telo vši	inclusive
+n	dmc	yes	rozmařilec	conservative
+n	qas	no	konformizmus	inclusive
+n	qas	no	špiceľ	inclusive
+n	ps	yes	bulhari	inclusive
+n	ps	yes	blbec	conservative
+n	cds	no	donáška	conservative
+n	re	no	zlé zaobchádzanie	inclusive
+n	an	no	fauna	inclusive
+a	cds	no	bežný	inclusive
+n	an	no	zasypal mora	inclusive
+n	cds	no	miešanec	inclusive
+n	cds	no	zpackat	inclusive
+n	om	no	termoš	inclusive
+n	ps	yes	černoch	inclusive
+n	ddp	yes	krysa	conservative
+n	an	no	neúprosnosťou	conservative
+n	or	no	hlúpy	conservative
+n	cds	no	klauniáda	inclusive
+a	qas	no	provinčný	inclusive
+n	re	no	darebný	conservative
+n	re	no	teroristov	inclusive
+n	cds	no	náboženský fanatik	conservative
+n	is	yes	chudobný človek	inclusive
+n	asf	no	pošvy	conservative
+n	ddp	yes	imbecil	inclusive
+n	ps	yes	šľachtiteľov rastlín	inclusive
+n	ps	yes	černosi	inclusive
+n	asm	no	tyč	inclusive
+a	dmc	yes	predstieraný	conservative
+n	pa	yes	radový vojak	inclusive
+n	cds	no	omerta	inclusive
+n	cds	no	schoolma'am	conservative
+n	svp	no	niggardliness	conservative
+n	re	no	vrahovia	inclusive
+n	qas	no	podnikateľka	inclusive
+n	pa	yes	účtovný	inclusive
+n	dmc	yes	mozzarella	inclusive
+n	svp	no	avariciousness	inclusive
+n	cds	no	hriešnica	conservative
+n	cds	no	retard	inclusive
+n	pa	yes	advocator	inclusive
+n	dmc	yes	kaukliar	conservative
+n	svp	no	abúlia	inclusive
+n	dmc	yes	scattergood	inclusive
+n	cds	no	gangy	conservative
+n	ddp	yes	tárajom	conservative
+n	pr	no	hetaira	inclusive
+n	svp	no	horedržanosť	inclusive
+n	an	no	lunkhead	conservative
+n	ddf	yes	half-pint	conservative
+n	an	no	rod koza	inclusive
+n	qas	no	obchodný magnát	inclusive
+n	om	no	nambu-pamba	conservative
+n	pa	yes	profesorom extraordinarius	inclusive
+n	cds	no	verejné pohodlie	inclusive
+n	ddp	yes	ornament	conservative
+n	qas	no	železný šrot	inclusive
+n	pr	no	prostitútka	conservative
+n	ddp	yes	blbosť	inclusive
+n	an	no	sviňa	conservative
+n	dmc	yes	nemravnosť	conservative
+n	an	no	ropušnice	inclusive
+n	re	no	sicílskej mafie	inclusive
+n	cds	no	sicílska mafia	inclusive
+n	cds	no	delikvent	inclusive
+n	pr	no	domáci hovädzí dobytok	inclusive
+n	cds	no	románoch desetník	inclusive
+n	ps	yes	negridná rasa	inclusive
+n	svp	no	sedem smrteľných hriechov	inclusive
+n	cds	no	kiks	inclusive
+n	an	no	diddlyshit	conservative
+n	an	no	bos taurus	inclusive
+n	cds	no	samoľúbosť	inclusive
+n	re	no	lúpeže	inclusive
+n	or	no	zlá ryby	conservative
+n	pa	yes	vysokoškolský profesor	inclusive
+n	qas	no	pomocníkov	inclusive
+n	cds	no	sveták	inclusive
+n	svp	no	superbia	conservative
+n	cds	no	večierok	inclusive
+a	ddf	yes	slepý	inclusive
+n	qas	no	jadro	inclusive
+n	cds	no	lowlife	conservative
+n	cds	no	mladistvý delikvent	conservative
+a	qas	no	zvyčajný	inclusive
+n	re	no	únosy	inclusive
+n	pr	no	mus decumanus	inclusive
+n	cds	no	teraz	inclusive
+n	cds	no	loanshark	inclusive
+n	dmc	yes	zlodejíček	conservative
+n	cds	no	fundamentalizmu	inclusive
+n	cds	no	fotoreportér	inclusive
+n	qas	no	maliar a dekoratér	inclusive
+n	an	no	psík	inclusive
+n	cds	no	slaboch	conservative
+n	an	no	žábovitý	inclusive
+n	qas	no	natrhať	conservative
+n	cds	no	weisenheimer	conservative
+n	cds	no	všeobecný ľud	inclusive
+n	ps	yes	zulus	inclusive
+n	cds	no	hybris	conservative
+n	or	no	hlupáčik	conservative
+n	pa	yes	údenárstvo	inclusive
+n	cds	no	dôstojník	inclusive
+n	cds	no	spevák	inclusive
+n	cds	no	banditti	conservative
+n	cds	no	slobodomurárstvo	inclusive
+n	ps	yes	ekvatoriálna rasa	inclusive
+n	cds	no	domovej odpadovej vody	inclusive
+n	cds	no	armáda	inclusive
+n	is	yes	človek, nemajetný	inclusive
+n	ddp	yes	spratek	conservative
+n	ddp	yes	fumbler	conservative
+n	asf	no	ťulpas	conservative
+n	an	no	anguillidae	inclusive
+n	dmc	yes	klaun	inclusive
+n	svp	no	spupnosť	inclusive
+n	cds	no	metrománia	inclusive
+n	an	no	komár	inclusive
+n	qas	no	sliedič	inclusive
+n	cds	no	krádež	inclusive
+n	dmc	yes	pokrytectvo	conservative
+n	an	no	hemipterous hmyzu	inclusive
+n	cds	no	uspokojenie	inclusive
+n	an	no	prostitútka	conservative
+n	cds	no	presumptuousness	conservative
+n	cds	no	zlodejstvo	inclusive
+n	om	no	cross-šaty	inclusive
+v	asm	no	oberať o niečo	conservative
+n	asf	no	hlboká duševná zaostalosť	conservative
+n	cds	no	kriminálnej	conservative
+n	an	no	odpočúvacie zariadenia	inclusive
+n	svp	no	jedlík	inclusive
+n	an	no	hirudinea	inclusive
+n	qas	no	sekanina	inclusive
+n	an	no	diddl-squat	conservative
+n	svp	no	flákač	conservative
+v	cds	no	šíriť klebety	inclusive
+n	cds	no	mladistvý páchateľ	conservative
+n	cds	no	šéf	inclusive
+n	qas	no	prostý občan	inclusive
+n	svp	no	nepríjemné	inclusive
+n	re	no	zločiny	inclusive
+n	an	no	domáceho kurčaťa	inclusive
+n	ddp	yes	barbar	conservative
+v	asm	no	šukať	conservative
+n	pa	yes	uncouthness	conservative
+n	pa	yes	ministra-radcami	inclusive
+n	qas	no	buržoáznej spoločnosti	inclusive
+n	an	no	šváb	inclusive
+n	cds	no	banda	inclusive
+n	pr	no	mužský sprievod	conservative
+n	qas	no	dog house	inclusive
+n	asm	no	role v sene	conservative
+n	dmc	yes	morálny kompas	inclusive
+n	or	no	nové zemiaky	inclusive
+n	is	yes	chudobní	inclusive
+n	pa	yes	hotelový poslíček	inclusive
+n	asm	no	penisu	inclusive
+n	pr	no	zbraň moll	inclusive
+n	qas	no	fízel	inclusive
+n	an	no	zlodej tela	inclusive
+v	cds	no	umrieť	inclusive
+n	ddp	yes	stvorenia	inclusive
+n	cds	no	protagonisti	inclusive
+n	qas	no	farnosť	inclusive
+n	asm	no	twerp	conservative
+n	is	yes	uličník	conservative
+n	qas	no	provokatér	conservative
+n	cds	no	tábor	inclusive
+n	cds	no	kín skupina	inclusive
+n	an	no	mužský sprievod	conservative
+n	svp	no	ľahostajnosť	conservative
+n	an	no	crocodilia	inclusive
+n	ps	yes	odročiť	conservative
+n	an	no	helix pomatia	inclusive
+n	an	no	voš	inclusive
+n	cds	no	nečistota	inclusive
+n	pr	no	milenca	inclusive
+n	pr	no	svietivka svätojánska	inclusive
+v	asm	no	obrať o niečo	conservative
+n	svp	no	hnev	inclusive
+n	an	no	soft touch	conservative
+n	re	no	trestný čin	inclusive
+n	ps	yes	mongoloid	conservative
+n	dmc	yes	bumbler	conservative
+n	dmc	yes	povaľač	conservative
+v	qas	no	maľovať sa	inclusive
+n	or	no	homophile hnutia	conservative
+n	an	no	kurčiat	inclusive
+n	an	no	despoiler	inclusive
+n	ddp	yes	Živočíchy	inclusive
+n	cds	no	homunculus	inclusive
+n	om	no	cross-komody	inclusive
+n	ddp	yes	infauna	inclusive
+n	cds	no	zmiešať-mandel	inclusive
+n	cds	no	idiocia	inclusive
+n	cds	no	fabricator	conservative
+a	ddf	yes	nesprávny	inclusive
+n	cds	no	klamstvo	conservative
+n	qas	no	magnátov	inclusive
+n	an	no	kozieho mlieka	inclusive
+n	re	no	krádeže vo veľkom meradle	inclusive
+n	cds	no	self-uctievanie	inclusive
+n	qas	no	olovko	inclusive
+n	qas	no	sodbuster	inclusive
+n	ddp	yes	metazoans	inclusive
+n	pr	no	rentboy	conservative
+n	dmc	yes	zlo	conservative
+n	an	no	red bubon	inclusive
+n	an	no	phthiraptera	inclusive
+n	dmc	yes	pach	conservative
+n	asm	no	hlúposť	conservative
+n	cds	no	ultrakonzervatívnym	conservative
+n	re	no	okradnutý	inclusive
+n	svp	no	aboulia	inclusive
+n	pr	no	prominent	inclusive
+n	svp	no	povýšenosť	inclusive
+n	qas	no	posádka	inclusive
+n	cds	no	vtipálek	conservative
+n	cds	no	splašky	inclusive
+n	an	no	lupič	inclusive
+n	an	no	vipera berus	inclusive
+n	cds	no	superbia	conservative
+n	qas	no	faul-up	inclusive
+n	cds	no	boner	inclusive
+n	qas	no	amatérov	inclusive
+n	re	no	opísal	inclusive
+n	re	no	vraždy druhého stupňa	inclusive
+n	svp	no	gorger	conservative
+n	ddf	yes	nevidiaci	inclusive
+n	cds	no	cigánstvo	conservative
+n	an	no	mikroorganizmus	inclusive
+n	svp	no	tanhá	inclusive
+n	an	no	zubor americký	inclusive
+n	cds	no	úver sharking	conservative
+n	qas	no	psia búda	inclusive
+v	asm	no	jebať	conservative
+n	ddp	yes	nezmysel	inclusive
+n	cds	no	hlupáčik	conservative
+n	cds	no	manželstvo maklér	inclusive
+n	re	no	nepoctivo získané peniaze	inclusive
+n	cds	no	blázinec	inclusive
+n	cds	no	športové dom	inclusive
+n	cds	no	ostentatiousness	conservative
+n	pr	no	žvásty	conservative
+n	cds	no	člen gangu	conservative
+n	pr	no	prostitúcia	inclusive
+n	qas	no	fušerská práca	inclusive
+n	svp	no	nudné	inclusive
+n	re	no	krádeže	inclusive
+n	svp	no	lascívne	inclusive
+n	an	no	lajdák	conservative
+n	dmc	yes	morálny kódex	inclusive
+n	svp	no	lakomec	inclusive
+n	cds	no	fawner	conservative
+n	cds	no	bordel	inclusive
+n	re	no	plagiarise	inclusive
+n	an	no	ragtag a bobtail	conservative
+n	cds	no	škrabopis	inclusive
+n	ddp	yes	zradný	conservative
+n	asm	no	európska bean	inclusive
+n	cds	no	ťulpas	conservative
+n	or	no	prostý človek	conservative
+n	om	no	shirtlifter	inclusive
+n	cds	no	penny hrozný	inclusive
+n	cds	no	hybrid	inclusive
+n	ddf	yes	neschopnosť	inclusive
+n	re	no	mafia	conservative
+n	qas	no	farníků	inclusive
+n	ps	yes	Židovský národ	inclusive
+n	cds	no	zločin rodina	inclusive
+n	an	no	skrížený tvár	inclusive
+n	re	no	mafián	inclusive
+n	cds	no	banditov	inclusive
+n	is	yes	zlosyn	conservative
+n	om	no	distálnej	inclusive
+v	re	no	ošudiť	inclusive
+n	pa	yes	kontrolór	inclusive
+n	cds	no	lož	conservative
+n	ddp	yes	poškodenie mozgu	inclusive
+n	cds	no	ragtag a bobtail	conservative
+n	an	no	gyps fulvus	inclusive
+n	svp	no	gourmandizer	conservative
+n	qas	no	trouble makier	conservative
+n	cds	no	drobné krádeže	inclusive
+n	om	no	finocchio	inclusive
+n	an	no	ten a ten	conservative
+n	cds	no	zdochliny	inclusive
+n	cds	no	topsy-turvyness	inclusive
+n	cds	no	kaukliar	inclusive
+n	cds	no	kal	inclusive
+n	om	no	análny styk	inclusive
+n	cds	no	satyriasis	conservative
+n	cds	no	vinník	inclusive
+n	an	no	brant	inclusive
+n	cds	no	ten a ten	conservative
+a	svp	no	zlostný	inclusive
+n	re	no	teroristický útok	conservative
+n	re	no	vydieral	conservative
+n	an	no	bufo bufo	inclusive
+n	an	no	bizón americký	inclusive
+n	ddf	yes	mrzák	inclusive
+n	ps	yes	retard	conservative
+n	an	no	canis familiaris	inclusive
+n	pr	no	mužská prostitútka	conservative
+n	ddp	yes	smutný vrece	conservative
+n	qas	no	kramář	inclusive
+n	cds	no	podvodník	inclusive
+n	cds	no	modrá pančucha	inclusive
+n	om	no	homophile	conservative
+n	cds	no	know-it-all	conservative
+n	ps	yes	žid	inclusive
+n	re	no	zločinec	inclusive
+n	om	no	anatomické postavenie	inclusive
+n	om	no	análny sex	inclusive
+a	svp	no	majetnícky	inclusive
+n	is	yes	žobrák	inclusive
+n	svp	no	hrabivosti	inclusive
+v	cds	no	skonať	inclusive
+n	an	no	nedbalý človek	conservative
+n	cds	no	kšeftár	inclusive
+n	an	no	húsa	inclusive
+n	cds	no	zpustlík	conservative
+n	an	no	rodina anguillidae	inclusive
+n	ddp	yes	zvierackosti	conservative
+n	pa	yes	akademikmi	inclusive
+n	om	no	homosexuál	conservative
+n	asm	no	vicia faba	inclusive
+a	cds	no	fašistický	inclusive
+n	svp	no	ničnerobenie	conservative
+n	svp	no	byť skľúčený	conservative
+n	cds	no	kraksna	inclusive
+n	dmc	yes	mladistvý delikvent	conservative
+n	asm	no	blázon	conservative
+n	an	no	neľudskosť	inclusive
+n	dmc	yes	tulákmi	inclusive
+n	or	no	kunda	conservative
+n	qas	no	magnáta	inclusive
+n	ps	yes	židovské náboženstvo	inclusive
+n	cds	no	nevinná lož	conservative
+n	cds	no	arogancia	inclusive
+n	re	no	divokosť	inclusive
+n	qas	no	bloodhound	inclusive
+n	cds	no	sprostosť	inclusive
+n	an	no	krutosť	inclusive
+n	qas	no	maloobchodník	inclusive
+n	an	no	grossness	conservative
+n	ps	yes	kretén	conservative
+n	an	no	Šakal zlatý	inclusive
+n	ps	yes	fašista	inclusive
+n	an	no	neschopný	conservative
+n	qas	no	priemyselník	inclusive
+n	dmc	yes	mladistvý previnilec	conservative
+n	cds	no	kriminalita	inclusive
+n	an	no	králik	inclusive
+n	qas	no	chovateľskej stanice	inclusive
+n	cds	no	pokolenie	inclusive
+n	cds	no	neľahký problém	conservative
+n	asm	no	flouter	conservative
+n	cds	no	naničhodník	conservative
+n	cds	no	moralizmus	inclusive
+n	cds	no	protizákonnosť	inclusive
+n	re	no	mučiteľovi	inclusive
+n	cds	no	načmárat	inclusive
+n	cds	no	makléri	inclusive
+n	dmc	yes	lowlife	inclusive
+n	cds	no	pätolizač	conservative
+n	om	no	gentlewoman	inclusive
+n	asm	no	hrach siaty	inclusive
+n	ddp	yes	zlá ryby	conservative
+n	om	no	transvestitismus	inclusive
+n	is	yes	zlý	inclusive
+n	qas	no	ballock	inclusive
+n	ps	yes	černoch	conservative
+n	ddp	yes	muggins	conservative
+n	svp	no	lakomec	conservative
+n	cds	no	faloš	inclusive
+n	dmc	yes	bieda	inclusive
+n	asm	no	nookie	conservative
+n	svp	no	obžerstvo	inclusive
+n	dmc	yes	moralistickú	inclusive
+n	asf	no	kosť	conservative
+n	ddp	yes	slabomyselnosť	inclusive
+n	an	no	kozy	inclusive
+n	dmc	yes	zradca	conservative
+n	an	no	prickteaser	conservative
+n	qas	no	barónov	inclusive
+v	an	no	vyvádzať	conservative
+n	ps	yes	blázon	conservative
+n	ddp	yes	debil	conservative
+n	or	no	tekvica veľkoplodá	inclusive
+n	is	yes	mestskej chudoby	inclusive
+n	qas	no	amateurishness	conservative
+n	cds	no	korešpondent	inclusive
+n	cds	no	prefíkanosť	inclusive
+n	cds	no	drzosti	conservative
+n	ps	yes	negrid	inclusive
+n	or	no	cucumis sativus	inclusive
+n	ddp	yes	zooerastia	conservative
+a	ddf	yes	škaredý	conservative
+n	ddp	yes	babrák	conservative
+n	cds	no	archpriest	inclusive
+n	cds	no	pedagóg	inclusive
+n	ps	yes	mongolidná rasa	conservative
+n	re	no	gangster	inclusive
+n	or	no	puding hlava	conservative
+n	ddp	yes	tupec	conservative
+n	ddp	yes	zadubenec	conservative
+n	an	no	hulvát	conservative
+n	re	no	zabitie človeka	inclusive
+n	om	no	homosexualismu	inclusive
+n	qas	no	testikulárne	inclusive
+n	an	no	domáca ošípaná	inclusive
+n	re	no	zneužívajúce	inclusive
+n	cds	no	desetník román	inclusive
+n	ps	yes	rroma	inclusive
+n	cds	no	rumormonger	conservative
+n	an	no	papagáj	inclusive
+n	qas	no	šafár	inclusive
+n	cds	no	zbohatlík	inclusive
+n	or	no	tekvica	inclusive
+n	cds	no	železný šrot	conservative
+n	an	no	nekompetentná osoba	conservative
+a	dmc	yes	falošný	conservative
+n	cds	no	kríženec	inclusive
+n	cds	no	nelegitímne	inclusive
+n	ddp	yes	informátor	conservative
+n	cds	no	párty	inclusive
+n	cds	no	kupliermi	conservative
+n	cds	no	interfertilita	inclusive
+n	ps	yes	Žltá rasa	conservative
+n	pr	no	potkan hnedý	inclusive
+n	an	no	kajman	inclusive
+n	cds	no	divák	conservative
+n	cds	no	neplechu tvorby	conservative
+n	cds	no	onanista	conservative
+n	cds	no	dôvtip	inclusive
+n	re	no	sicílskej mafie	conservative
+n	cds	no	wonka	conservative
+n	dmc	yes	zatratenec	inclusive
+n	an	no	familiaris	inclusive
+n	cds	no	chlap mizerná	conservative
+n	pa	yes	osobné stoličku	inclusive
+n	cds	no	hekáč	inclusive
+n	cds	no	zelóta	inclusive
+n	qas	no	diletant	conservative
+n	ddp	yes	changeling	inclusive
+n	asm	no	blbec	conservative
+n	ps	yes	židovstva	inclusive
+n	cds	no	onanovať	conservative
+n	svp	no	bigotnej	conservative
+n	cds	no	fašista	conservative
+n	or	no	repa	inclusive
+n	an	no	ploštíc	inclusive
+v	cds	no	skonávať	inclusive
+n	pa	yes	neotesanec	conservative
+n	svp	no	márnosť	conservative
+n	svp	no	labužník	inclusive
+n	an	no	patsy	conservative
+n	om	no	drag queen	inclusive
+n	cds	no	všeobecný ľud	conservative
+n	ps	yes	changelings	conservative
+n	re	no	sex trestný čin	inclusive
+n	an	no	metazoá	inclusive
+n	qas	no	tagalong	conservative
+n	ps	yes	biotechnológia rastlín	inclusive
+n	an	no	nambu-pamba	conservative
+n	om	no	peeress	inclusive
+n	dmc	yes	tragické darebák	conservative
+n	om	no	za	inclusive
+n	cds	no	kriminálne správanie	inclusive
+n	cds	no	speváci	inclusive
+n	re	no	terorizmu	inclusive
+n	om	no	bočné	inclusive
+n	dmc	yes	etický motív	inclusive
+n	asf	no	cancy	conservative
+n	cds	no	mamonáře	inclusive
+n	ddp	yes	pochabosť	inclusive
+n	or	no	hlupák	conservative
+n	cds	no	tlačenica	inclusive
+n	asm	no	hlboká duševná zaostalosť	inclusive
+n	om	no	apikálnej	inclusive
+n	qas	no	drobnosti	inclusive
+n	is	yes	zbedačenie	inclusive
+n	asm	no	avafauna	inclusive
+n	svp	no	penny-privrznutia	inclusive
+n	asf	no	tupec	conservative
+n	qas	no	maliar	inclusive
+n	pr	no	rattus	inclusive
+n	re	no	sexuálneho obťažovania	inclusive
+n	cds	no	zločinec	inclusive
+n	an	no	caprinae	inclusive
+n	svp	no	dillydallier	conservative
+n	cds	no	náboženskej diskriminácie	inclusive
+n	asm	no	semenníky	inclusive
+n	dmc	yes	klam	conservative
+n	asm	no	stĺp	inclusive
+n	dmc	yes	ne'er-robiť-dobre	conservative
+n	pa	yes	predavčka rýb	inclusive
+n	om	no	rovnaký-príťažlivosť sexu	inclusive
+n	pa	yes	prof	inclusive
+n	pr	no	socialite	inclusive
+n	pr	no	pobehlica	conservative
+n	pa	yes	mimoriadny profesor	inclusive
+a	dmc	yes	false	conservative
+n	dmc	yes	luhár	conservative
+n	cds	no	vojny gangov	inclusive
+n	re	no	zneužívania	inclusive
+n	is	yes	nedostatok	inclusive
+n	cds	no	zväzovanie	conservative
+n	pr	no	floozie	conservative
+n	dmc	yes	nepravý	conservative
+n	dmc	yes	sviňa	conservative
+n	an	no	červy	inclusive
+n	ddp	yes	babroš	conservative
+n	ddp	yes	hlúposť	conservative
+n	dmc	yes	fušer	conservative
+n	an	no	selachii	inclusive
+n	cds	no	puntičkár	conservative
+n	or	no	kapusta	inclusive
+n	cds	no	prekrúcanie pravdy	inclusive
+v	cds	no	zomierať	inclusive
+n	dmc	yes	klamár	conservative
+v	qas	no	sužovať	conservative
+n	an	no	zúrivosť	inclusive
+n	an	no	ošípané	inclusive
+n	an	no	tvár	inclusive
+n	qas	no	šíriť túto	inclusive
+n	an	no	naničhodník	conservative
+n	qas	no	parazitujú	inclusive
+n	cds	no	gangstrov	inclusive
+n	an	no	prasa	conservative
+n	cds	no	hriešnik	conservative
+n	an	no	rypák	inclusive
+n	qas	no	neslýchaná lož	conservative
+n	an	no	sea scorpion	inclusive
+v	qas	no	namaľovať	inclusive
+n	cds	no	páchateľ	inclusive
+n	ddp	yes	mentálna nedostatočnosť	inclusive
+n	an	no	špinavý trik	conservative
+n	cds	no	nymfománia	conservative
+n	om	no	transvestitizmus	inclusive
+n	an	no	darebák	conservative
+n	re	no	prepadnutia	inclusive
+n	cds	no	späť talk	inclusive
+n	an	no	krava	inclusive
+n	dmc	yes	hayseed	conservative
+n	pa	yes	fakulty	inclusive
+n	an	no	capra aegagrus hircus	inclusive
+n	cds	no	mountebank	conservative
+n	is	yes	chudobný	inclusive
+n	ddp	yes	analfabet	inclusive
+n	cds	no	zlomyseľný	conservative
+n	re	no	terorizmus	conservative
+n	cds	no	zlodej	inclusive
+n	dmc	yes	tragický darebák	conservative
+n	re	no	krádež veľkého rozsahu	inclusive
+n	ddp	yes	mamlas	conservative
+n	dmc	yes	prekrúcanie pravdy	inclusive
+n	ps	yes	závod chovateľ	inclusive
+n	is	yes	miera chudoby	inclusive
+n	svp	no	nafúkanosť	inclusive
+n	asm	no	úd	inclusive
+v	qas	no	týrať	conservative
+a	is	yes	nešťastné	inclusive
+n	pa	yes	pastier	inclusive
+n	asm	no	aves	inclusive
+n	asf	no	idiocia	conservative
+n	dmc	yes	vliekli	conservative
+n	is	yes	zatratenec	inclusive
+n	qas	no	spodina	conservative
+n	cds	no	podfukár	conservative
+n	an	no	šakal	inclusive
+n	re	no	vrážd	inclusive
+n	asm	no	bordel	inclusive
+n	an	no	nevzdelaný človek	conservative
+n	ps	yes	rovníková rasa	inclusive
+n	qas	no	americký podnikateľ	inclusive
+n	an	no	humanus	inclusive
+n	an	no	kozel	inclusive
+n	an	no	mäkkýš	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	cds	no	kaukliar	conservative
+n	ddp	yes	taleteller	conservative
+n	cds	no	mezirodový hybrid	inclusive
+n	asm	no	soft touch	conservative
+n	dmc	yes	lump	conservative
+n	re	no	právo-lámanie	inclusive
+n	cds	no	domorodec	inclusive
+n	dmc	yes	klamstvo	inclusive
+n	ps	yes	miešanec	inclusive
+n	cds	no	pompousness	inclusive
+v	cds	no	prezrádzať	inclusive
+n	om	no	teploš	inclusive
+n	qas	no	chatrč	inclusive
+n	svp	no	faineance	inclusive
+n	cds	no	hrubý omyl	inclusive
+n	pr	no	sexuálne služby	conservative
+n	qas	no	botcher	conservative
+n	ddp	yes	nevedomosť	conservative
+n	ddp	yes	imbecil	conservative
+n	qas	no	profesionálnej triedy	inclusive
+n	dmc	yes	chiseller	conservative
+n	ps	yes	židovsko	inclusive
+n	qas	no	obyčajných ľudí	inclusive
+n	cds	no	novinár	inclusive
+n	re	no	vydieranie	inclusive
+n	cds	no	poslíček	inclusive
+n	re	no	tragický darebák	conservative
+n	an	no	slimáky	inclusive
+n	cds	no	oplzlého domu	inclusive
+n	asm	no	ballock	inclusive
+n	cds	no	cathouse	inclusive
+n	dmc	yes	dillí-dallier	conservative
+n	cds	no	vozidlo vlaku	inclusive
+n	an	no	floozy	conservative
+n	qas	no	obyčajnú osobu	inclusive
+n	ddp	yes	väzni	inclusive
+n	re	no	prepadnutí	inclusive
+n	or	no	úzkostlivosť	inclusive
+n	rci	yes	divoch	conservative
+n	qas	no	fumbler	conservative
+n	qas	no	fuser	conservative
+n	qas	no	divoch	conservative
+n	ddp	yes	microcephalus	inclusive
+n	cds	no	nemotorný človek	conservative
+n	cds	no	špindíra	conservative
+n	om	no	cross-bielizníku	inclusive
+n	or	no	nance	conservative
+n	svp	no	unudenosť	inclusive
+n	cds	no	dieťatko	inclusive
+n	cds	no	groteskné	inclusive
+n	cds	no	policajt	inclusive
+n	asf	no	blbec	conservative
+n	cds	no	fašistická	conservative
+n	svp	no	žiadostivosť	inclusive
+n	cds	no	demagógia	conservative
+n	an	no	ropucha obyčajná	inclusive
+a	svp	no	zištný	inclusive
+n	dmc	yes	fanatik	conservative
+n	cds	no	dead-end street	inclusive
+n	re	no	slayer	inclusive
+n	an	no	pes domáci	inclusive
+n	an	no	psittaciformes	inclusive
+n	cds	no	množstvo	inclusive
+n	re	no	ničomník	conservative
+n	cds	no	vyzvedač	conservative
+a	cds	no	hlúpy	conservative
+n	is	yes	núdza	inclusive
+n	svp	no	túžba	inclusive
+n	qas	no	cudzopasník	inclusive
+n	qas	no	špeh	inclusive
+n	cds	no	príbuzenstvo	inclusive
+n	cds	no	fašistami	conservative
+n	an	no	volaille	inclusive
+v	an	no	besnieť	conservative
+n	cds	no	zakázaný	conservative
+n	dmc	yes	chudák	conservative
+n	cds	no	ballup	inclusive
+n	an	no	capra	inclusive
+n	cds	no	strakatý blázon	inclusive
+n	an	no	dobytka	inclusive
+n	pa	yes	sheepherder	inclusive
+n	pr	no	floozy	conservative
+n	dmc	yes	ničnerobenie	conservative
+n	an	no	zlosť	inclusive
+n	ddp	yes	idiotstvo	inclusive
+n	ps	yes	biely	inclusive
+n	cds	no	zmiešaný-pestovať psa	inclusive
+n	pa	yes	mimoriadnym profesorom	inclusive
+n	an	no	vretenica	inclusive
+n	dmc	yes	debauchee	conservative
+n	re	no	naničhodník	conservative
+n	ddp	yes	patsy	conservative
+n	is	yes	lakomec	conservative
+n	cds	no	slobodomurárov	inclusive
+n	re	no	terorizem	conservative
+n	svp	no	ryhovacie	inclusive
+a	qas	no	strednej triedy	inclusive
+n	pa	yes	účtovník	inclusive
+n	cds	no	väzenskej stráže	inclusive
+n	re	no	camorra	inclusive
+n	cds	no	dastardliness	conservative
+a	svp	no	rozhnevaný	inclusive
+a	cds	no	prefíkaný	conservative
+n	an	no	krokodílov	inclusive
+n	ps	yes	negroids	inclusive
+n	an	no	Žralok biely	inclusive
+n	dmc	yes	rakehell	conservative
+n	an	no	culicidae	inclusive
+n	om	no	drag queens	inclusive
+n	cds	no	phratry	inclusive
+n	or	no	uhorka viniča	inclusive
+n	asm	no	súložiť	conservative
+n	re	no	druhého stupňa vraždy	inclusive
+n	is	yes	chudobní ľudia	inclusive
+n	cds	no	moralizovania	inclusive
+n	an	no	blattaria	inclusive
+n	pr	no	drísty	conservative
+n	ps	yes	divoch	inclusive
+n	ps	yes	krauthead	conservative
+n	qas	no	kastový systém	inclusive
+n	cds	no	narkoman	conservative
+n	cds	no	kanvica rýb	inclusive
+n	is	yes	vyděděnec	inclusive
+n	asf	no	dimwit	conservative
+n	re	no	zlosyn	conservative
+n	cds	no	natrhať	conservative
+n	re	no	villainess	conservative
+n	cds	no	babráctvo	inclusive
+n	an	no	aureus	inclusive
+n	cds	no	zločiny	inclusive
+n	an	no	cancy	conservative
+n	cds	no	škrabanica	inclusive
+n	ps	yes	kritin	conservative
+n	an	no	fyziognómia	inclusive
+n	om	no	coitus per rectum	inclusive
+n	dmc	yes	bezdomovec	inclusive
+n	qas	no	odpadky	inclusive
+n	ddp	yes	blbec	conservative
+n	ps	yes	Žid	inclusive
+n	cds	no	požičiavanie peňazí	conservative
+n	cds	no	truľo	conservative
+n	cds	no	demagóg	conservative
+n	ps	yes	idiot	conservative
+n	cds	no	bigotnej	conservative
+n	ddp	yes	hlboká duševná zaostalosť	inclusive
+n	svp	no	dobrý-pre-nič	conservative
+n	qas	no	jednoduchí	inclusive
+n	om	no	homosexualita	inclusive
+n	re	no	urážlivý	inclusive
+n	asm	no	skrutkovanie	conservative
+n	om	no	kríž bielizník	inclusive
+n	qas	no	bordel	inclusive
+n	ddf	yes	crookback	inclusive
+n	cds	no	hierarchy	inclusive
+n	qas	no	neotesanec	conservative
+n	om	no	prihriaty	conservative
+n	cds	no	mafián	inclusive
+n	an	no	house	inclusive
+n	dmc	yes	voľnomyšlienkarstvo	conservative
+n	or	no	buzerant	conservative
+n	pa	yes	dverí stráž	inclusive
+n	qas	no	duchovný vodca	inclusive
+n	svp	no	chlubivost	conservative
+n	cds	no	masa	conservative
+n	pr	no	konkubinátu	inclusive
+n	pr	no	športové lady	conservative
+n	cds	no	slobodní a prijatí slobodomurári	inclusive
+n	cds	no	vševedom	conservative
+n	ddp	yes	analphabetic	inclusive
+n	cds	no	učiteľka	inclusive
+n	om	no	pedikácia	inclusive
+n	svp	no	chamtivosti	inclusive
+n	cds	no	fašistického režimu	conservative
+n	asm	no	twirp	conservative
+n	cds	no	neslýchaná lož	conservative
+n	re	no	sériový násilník	conservative
+n	pa	yes	zriadenec	inclusive
+n	dmc	yes	delikvent	conservative
+n	cds	no	ostentatiousness	inclusive
+n	dmc	yes	mladistvý páchateľ	conservative
+n	ddp	yes	kecy	inclusive
+n	an	no	mul	inclusive
+n	qas	no	roľníkov	inclusive
+n	cds	no	plte	inclusive
+n	om	no	prdel	inclusive
+n	dmc	yes	fabricator	conservative
+n	an	no	papuľa	inclusive
+n	an	no	animalia	inclusive
+n	cds	no	dieťa	inclusive
+n	ddp	yes	neľudskosť	inclusive
+n	asm	no	tyčka	inclusive
+n	cds	no	newswriter	inclusive
+a	om	no	abnormálny	inclusive
+n	pr	no	stále žena	conservative
+n	re	no	vydierať	inclusive
+n	qas	no	neporiadok	inclusive
+n	cds	no	gang	inclusive
+n	qas	no	roľníctvo	inclusive
+n	pr	no	prostitúcia	conservative
+n	ps	yes	beduín	inclusive
+n	qas	no	domového odpadu	inclusive
+n	cds	no	sekanina	inclusive
+n	an	no	drancovník	inclusive
+n	asf	no	muttonhead	conservative
+n	svp	no	otrava	inclusive
+n	cds	no	bandita	conservative
+n	cds	no	hlboká duševná zaostalosť	inclusive
+n	re	no	backbiter	conservative
+n	cds	no	obetný baránok	conservative
+n	re	no	mučenia	inclusive
+n	svp	no	lakomosť	inclusive
+n	asm	no	hard-o	inclusive
+n	cds	no	chruňo	conservative
+n	qas	no	trapas	inclusive
+n	ddp	yes	chruňo	conservative
+n	is	yes	ochudobňovanie	inclusive
+n	cds	no	švindliar	inclusive
+a	qas	no	meštiacky	inclusive
+v	an	no	šalieť	conservative
+n	an	no	slimák obecný	inclusive
+n	or	no	squash viniča	inclusive
+n	an	no	vôl	conservative
+n	svp	no	gourmandizer	inclusive
+n	an	no	strix varia	inclusive
+n	cds	no	faul-up	inclusive
+n	pr	no	dvoran	inclusive
+n	asm	no	blbec-off	conservative
+n	or	no	truľo	conservative
+n	pr	no	ježibaba	conservative
+n	svp	no	hnus	inclusive
+n	ps	yes	žltú kartu	inclusive
+n	re	no	únosca	inclusive
+n	pa	yes	obuvník	inclusive
+n	dmc	yes	ničomník	conservative
+n	or	no	uhorky	inclusive
+n	cds	no	boss	inclusive
+n	dmc	yes	úbožiak	conservative
+n	dmc	yes	falzifikáty	inclusive
+n	dmc	yes	podfukár	conservative
+n	cds	no	kríženie	inclusive
+n	ddp	yes	bláznovstvo	conservative
+n	an	no	svietivka svätojánska	inclusive
+n	cds	no	chiseller	inclusive
+n	cds	no	hlúposť	inclusive
+n	cds	no	auto	inclusive
+n	ddf	yes	postihnutím mobility	inclusive
+n	svp	no	nudou	inclusive
+n	an	no	svinstvo	conservative
+n	cds	no	fanatizmus	inclusive
+n	cds	no	stávkokazectví	inclusive
+n	cds	no	ragtag	conservative
+n	cds	no	stáda	inclusive
+n	cds	no	mišmaš	inclusive
+a	om	no	homosexuálny	conservative
+n	or	no	squash	inclusive
+n	cds	no	bordel	conservative
+n	asf	no	muggins	conservative
+n	om	no	lady	inclusive
+n	is	yes	tightwad	conservative
+n	svp	no	zlosť	inclusive
+n	ps	yes	negroid	inclusive
+n	qas	no	hrubý omyl	inclusive
+n	om	no	dorsoventral	inclusive
+n	asf	no	patsy	conservative
+n	is	yes	človek bez prostriedkov	inclusive
+n	cds	no	chlapček	inclusive
+n	dmc	yes	zlosyn	conservative
+n	ps	yes	róm	inclusive
+n	pr	no	crack suka	inclusive
+n	an	no	skryté odpočúvacie zariadenia	inclusive
+n	cds	no	free murár	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	cds	no	veľa	inclusive
+n	dmc	yes	morálky	inclusive
+n	qas	no	príživníctva	inclusive
+a	om	no	anomálny	inclusive
+n	om	no	madam	inclusive
+a	ps	yes	nešťastný	inclusive
+n	ddp	yes	krutosť	conservative
+n	ps	yes	Žltohnedá rasa	conservative
+n	an	no	leňoch	conservative
+n	or	no	tupec	conservative
+n	cds	no	uctievanie	inclusive
+n	an	no	truľo	conservative
+n	asm	no	jeerer	conservative
+n	cds	no	vzdelávateľ	inclusive
+n	asf	no	retard	conservative
+n	svp	no	panština	inclusive
+n	cds	no	rodina	inclusive
+n	qas	no	kasta	inclusive
+n	is	yes	chudoby	inclusive
+n	om	no	kontralaterálny	inclusive
+n	an	no	lump	conservative
+n	an	no	vták noci	inclusive
+n	cds	no	kultúry gangu	conservative
+n	dmc	yes	previnilec	conservative
+n	qas	no	nevinná lož	conservative
+n	cds	no	taleteller	conservative
+n	or	no	vodnica	inclusive
+n	ddp	yes	pudden hlava	conservative
+n	cds	no	slobodomurárskej	inclusive
+n	om	no	cross-dressing	inclusive
+n	re	no	finančné zneužívanie	inclusive
+n	pr	no	môr	inclusive
+n	asf	no	ornament	conservative
+n	dmc	yes	kto sa pretvaruje	conservative
+n	svp	no	fyzická príťažlivosť	inclusive
+n	cds	no	sebecký	conservative
+n	pr	no	lady potešenie	conservative
+n	re	no	defamer	conservative
+n	an	no	carcharodon carcharias	inclusive
+n	cds	no	dozorca	inclusive
+n	re	no	plagiarization	inclusive
+n	om	no	šľachtičná	inclusive
+n	cds	no	mussiness	conservative
+n	svp	no	siedmich smrteľných hriechov	inclusive
+a	om	no	rôzny	inclusive
+n	ddp	yes	obmedzenec	conservative
+n	cds	no	cockup	inclusive
+a	pa	yes	politický	inclusive
+n	qas	no	klamstvo	conservative
+n	cds	no	rachotina	inclusive
+n	asm	no	changeling	inclusive
+n	re	no	mučenie	inclusive
+n	cds	no	sprostredkovateľ	inclusive
+v	cds	no	zaniknúť	inclusive
+n	an	no	rogue	conservative
+n	ps	yes	barbar	conservative
+v	re	no	ošklbávať	inclusive
+n	dmc	yes	hulvát	conservative
+n	or	no	cucurbita maxima	inclusive
+a	ddf	yes	zlé	inclusive
+n	an	no	bizón	inclusive
+n	an	no	prasa	inclusive
+n	ps	yes	romovka	inclusive
+v	qas	no	hnevať	conservative
+n	re	no	banditti	inclusive
+n	cds	no	bažant	conservative
+n	cds	no	nouveaux bohatstvo	inclusive
+n	cds	no	half-pint	conservative
+n	cds	no	balladeer	inclusive
+n	cds	no	šašo	inclusive
+n	dmc	yes	tuláctva	inclusive
+n	pr	no	kurevnictví	inclusive
+n	re	no	kriminálne správanie	inclusive
+n	dmc	yes	zakrslík	conservative
+n	dmc	yes	zloba	inclusive
+n	om	no	nance	conservative
+n	pa	yes	predavač rýb	inclusive
+n	qas	no	semenníkov	inclusive
+n	re	no	sicílska mafia	conservative
+n	ddp	yes	newsmonger	conservative
+n	an	no	emydosauria	inclusive
+n	pr	no	volovi	inclusive
+n	cds	no	arogancia	conservative
+n	dmc	yes	bezdomovcov	inclusive
+n	dmc	yes	poníženie	inclusive
+n	pr	no	potkan kanálový	inclusive
+v	re	no	pobrať	inclusive
+n	pr	no	fornicatress	conservative
+n	asf	no	kretén	conservative
+n	cds	no	odpad	inclusive
+n	dmc	yes	dissembler	conservative
+n	ps	yes	nigra	conservative
+n	pr	no	potkan obyčajný	inclusive
+n	an	no	tupec	conservative
+n	re	no	unesie	inclusive
+n	cds	no	vydierač	inclusive
+n	an	no	zbohatlík	conservative
+n	or	no	šmejd	conservative
+n	an	no	animalcule	inclusive
+n	ddf	yes	ohyzdnosť	inclusive
+n	svp	no	tršna	inclusive
+n	ddf	yes	ošklivosť	inclusive
+n	om	no	homosexuála	inclusive
+n	dmc	yes	delikt	inclusive
+n	re	no	sexuálne trestné činy	inclusive
+n	pa	yes	člen fakulty	inclusive
+n	an	no	výr	inclusive
+n	an	no	mikroorganizmov	inclusive
+n	qas	no	usmrtiť	conservative
+n	pr	no	voly	inclusive
+n	an	no	crocodylia	inclusive
+n	ddf	yes	telesne postihnuté	inclusive
+n	is	yes	villainess	conservative
+n	qas	no	cudzopasníctvo	inclusive
+n	asm	no	hrachu	inclusive
+n	re	no	násilné znásilnenie	conservative
+n	qas	no	rétor	inclusive
+n	an	no	podvod	conservative
+n	dmc	yes	nehanebnosť	conservative
+n	svp	no	hrabivosť	inclusive
+n	om	no	teploš	conservative
+n	ps	yes	negroidná rasa	inclusive
+n	qas	no	poľnohospodár	inclusive
+n	re	no	krádež	inclusive
+n	asm	no	faba bean	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	asf	no	samica	conservative
+n	cds	no	žart	inclusive
+n	an	no	hvízdavý	inclusive
+n	ps	yes	negroidné plemeno	inclusive
+v	re	no	sužovať	inclusive
+n	dmc	yes	defrauder	conservative
+n	cds	no	kanál	inclusive
+n	re	no	cosa nostra	inclusive
+n	asm	no	ithyphallic	inclusive
+n	cds	no	odročiť	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	cds	no	stupe	conservative
+n	an	no	man-eating shark	inclusive
+n	cds	no	zbojník	inclusive
+n	dmc	yes	podvodník boh	conservative
+n	ps	yes	polovica-plemeno	conservative
+n	asm	no	onanovanie	conservative
+n	qas	no	zbabrat	inclusive
+n	ddp	yes	kretén	inclusive
+n	ddp	yes	idiocia	conservative
+n	ps	yes	hulvát	conservative
+n	an	no	rozmnožovanie živočíchov	inclusive
+n	cds	no	conventicle	inclusive
+n	cds	no	wc	inclusive
+v	re	no	trýzniť	inclusive
+n	ps	yes	červenú kartu	inclusive
+n	cds	no	zločin pán	inclusive
+n	cds	no	dohadzovač	inclusive
+n	asm	no	trúba	conservative
+n	cds	no	darebáctva	conservative
+n	dmc	yes	prevaricator	conservative
+n	om	no	crossdress	inclusive
+n	ddp	yes	nezmyselné	conservative
+n	asm	no	pohlavný úd	inclusive
+n	cds	no	agent	inclusive
+n	cds	no	maličkosti	inclusive
+n	an	no	hemipteran	inclusive
+n	dmc	yes	spodina taška	conservative
+n	dmc	yes	hobos	conservative
+n	ps	yes	doofus	conservative
+n	qas	no	semenníky	inclusive
+n	cds	no	darebný	conservative
+n	asf	no	kritin	conservative
+n	an	no	prasiatko	inclusive
+n	dmc	yes	dvorný šašo	inclusive
+n	an	no	prasa domáce	inclusive
+n	om	no	bestialita	inclusive
+n	an	no	prerieknutie	inclusive
+n	an	no	trúba	conservative
+a	svp	no	agresívny	conservative
+n	re	no	delikvent	conservative
+n	ps	yes	bulharka	inclusive
+n	re	no	trestnej činnosti	inclusive
+n	re	no	drobné krádeže	inclusive
+n	an	no	pes	conservative
+n	or	no	prihriaty	conservative
+n	an	no	anura	inclusive
+n	an	no	volovi	inclusive
+n	re	no	raper	conservative
+n	pa	yes	revízor účtov	inclusive
+n	an	no	hemipteron	inclusive
+n	asf	no	idiot	conservative
+n	ps	yes	čierna papuľa	conservative
+v	re	no	šudiť	inclusive
+n	cds	no	úžerník	inclusive
+n	ps	yes	mongolská rasa	conservative
+n	an	no	sovy	inclusive
+n	om	no	non-pozápadničené pojatie mužskej sexuality	inclusive
+v	re	no	trápiť	inclusive
+n	cds	no	fundamentalista	inclusive
+n	ddp	yes	twirp	conservative
+n	cds	no	vtip	inclusive
+n	re	no	sexuálne napadol	inclusive
+n	cds	no	scammer	conservative
+n	cds	no	spústa	inclusive
+n	or	no	sativus	inclusive
+n	ddp	yes	slabomyseľnosť	inclusive
+n	an	no	crocodylidae	inclusive
+n	svp	no	labužník	conservative
+n	re	no	zlodeji	inclusive
+n	cds	no	kanalizácie	inclusive
+n	svp	no	eros	inclusive
+n	cds	no	bas bleu	inclusive
+n	re	no	uchvátiteľ	inclusive
+n	svp	no	dallier	conservative
+n	om	no	homophile hnutia	inclusive
+n	cds	no	hekáč	conservative
+n	an	no	domáce ass	inclusive
+n	qas	no	neplechu-maker	conservative
+n	cds	no	nadšenec	inclusive
+n	asm	no	semenníkov	inclusive
+n	re	no	zle použitie	inclusive
+n	pr	no	kravy	inclusive
+n	dmc	yes	roue	conservative
+n	qas	no	stúpenec	inclusive
+n	re	no	korisť	inclusive
+n	cds	no	neporiadok	conservative
+n	cds	no	únosca	conservative
+n	qas	no	priemyselníkov	inclusive
+n	ddp	yes	chudák	conservative
+n	an	no	spoločný voš	inclusive
+n	ddp	yes	nevedomosti	conservative
+n	ddp	yes	kreténizmus	inclusive
+a	ddf	yes	zlý	inclusive
+n	cds	no	dandy	inclusive
+n	cds	no	zákernosť	inclusive
+n	qas	no	potápanie váhovým systémom a	inclusive
+n	an	no	bachora	inclusive
+n	cds	no	vole	inclusive
+n	ddp	yes	nerozum	inclusive
+n	om	no	zadná časť	inclusive
+n	cds	no	príbuzenstva skupina	inclusive
+n	an	no	psie	inclusive
+n	ddp	yes	hlboká duševná zaostalosť	conservative
+n	re	no	terorizmu	conservative
+n	or	no	hlúpy človek	conservative
+n	or	no	Ľuľok zemiakový	inclusive
+n	cds	no	čin	inclusive
+n	pr	no	mužská prostitúcia	conservative
+n	an	no	vyjadrebie mračením	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	dmc	yes	naničhodník	conservative
+n	an	no	shoat	inclusive
+n	asm	no	testes	inclusive
+n	asm	no	nook	conservative
+n	cds	no	gangy	inclusive
+n	asm	no	kokot	conservative
+n	cds	no	banda	conservative
+n	cds	no	učiteľ	inclusive
+n	pr	no	cundra	conservative
+n	cds	no	prehmat	inclusive
+n	qas	no	prostý človek	inclusive
+n	cds	no	relikvia	inclusive
+n	ps	yes	nevychovanec	conservative
+n	cds	no	domorodých obyvateľov	inclusive
+n	qas	no	veľký podnikateľ	inclusive
+n	qas	no	parazitizmus	inclusive
+n	dmc	yes	rubom	conservative
+n	cds	no	sprosták	conservative
+n	om	no	gay	inclusive
+v	asm	no	šudiť	conservative
+n	cds	no	pedagogička.	inclusive
+n	an	no	veľkých bielych žralokov	inclusive
+n	svp	no	napuchrenosť	inclusive
+n	cds	no	fašizmu	conservative
+n	asf	no	odročiť	conservative
+n	an	no	blázon	conservative
+n	an	no	eurypterid	inclusive
+n	an	no	biely žralok	inclusive
+n	ddp	yes	kritin	inclusive
+n	qas	no	veľkolepý	inclusive
+n	cds	no	pižmová vôňa	conservative
+n	cds	no	poliš	inclusive
+n	cds	no	pompéznosť	conservative
+n	qas	no	hulvát	conservative
+n	or	no	chudák	conservative
+n	an	no	zabedněnec	conservative
+n	asm	no	ryba	inclusive
+n	an	no	slimák obyčajný	inclusive
+n	cds	no	bellyacher	conservative
+n	ps	yes	tulák	inclusive
+n	an	no	mollusca	inclusive
+a	dmc	yes	nešťastný	inclusive
+n	ddp	yes	mentálna retardácia	inclusive
+n	an	no	cimex lectularius	inclusive
+n	asf	no	hlupák	conservative
+n	cds	no	masa	inclusive
+n	cds	no	kúpeľňa	inclusive
+n	ps	yes	dimwit	conservative
+n	pr	no	pištoľ moll	inclusive
+n	svp	no	márnomyseľnosť	inclusive
+n	dmc	yes	bigotnej	conservative
+n	om	no	buzík	conservative
+n	cds	no	špina	inclusive
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	svp	no	fanatizmus	conservative
+n	pr	no	rečičky	conservative
+n	an	no	kravy	inclusive
+n	cds	no	maklér	inclusive
+n	an	no	rodina crocodylidae	inclusive
+n	an	no	ploštica posteľná	inclusive
+n	svp	no	znechutenie	inclusive
+n	an	no	sova	inclusive
+n	om	no	homosexuálny	inclusive
+n	cds	no	mafia	conservative
+n	cds	no	faktor	inclusive
+n	qas	no	grandiosity	inclusive
+n	dmc	yes	homunculus	inclusive
+n	or	no	uhorka siata	inclusive
+n	qas	no	omámiť	inclusive
+n	qas	no	skladník	inclusive
+n	cds	no	ľstivosť	conservative
+n	cds	no	idiot	conservative
+n	cds	no	klamár	inclusive
+n	cds	no	leňoch	conservative
+n	qas	no	babráctvo	inclusive
+n	cds	no	ľudia	inclusive
+n	pa	yes	divoch	conservative
+n	svp	no	túžba po živote	inclusive
+n	cds	no	fundamentalisti	inclusive
+n	svp	no	spupnosť	conservative
+n	an	no	koza domáca	inclusive
+n	svp	no	luxuria	inclusive
+n	re	no	násilné	inclusive
+n	pr	no	kurtizána	inclusive
+n	an	no	slimačie	inclusive
+n	cds	no	hromada	inclusive
+n	ps	yes	hlupáčik	conservative
+n	asm	no	shtup	conservative
+n	an	no	vôl	inclusive
+n	cds	no	egotizmus	conservative
+n	dmc	yes	morálny úpadok	inclusive
+n	is	yes	držgroš	conservative
+n	an	no	blattodea	inclusive
+n	qas	no	nájomca	inclusive
+n	qas	no	pompézny sloh	inclusive
+n	asm	no	široký-bean rastlín	inclusive
+n	cds	no	teória sprisahania	inclusive
+n	ddp	yes	nekompetentní osoba	conservative
+n	cds	no	wangler	conservative
+n	ddf	yes	zakrslík	conservative
+n	cds	no	fušerská práce	inclusive
+n	dmc	yes	ničomník	inclusive
+n	pa	yes	poradca	inclusive
+n	svp	no	zúrivosť	conservative
+n	cds	no	gangsterizmom	conservative
+n	cds	no	náboženského fundamentalizmu	inclusive
+n	pa	yes	rezervácie úradník	inclusive
+n	or	no	pizda	conservative
+n	asm	no	kus chvosta	conservative
+n	re	no	konať terorizmu	inclusive
+n	re	no	‪mučenie‬	inclusive
+n	svp	no	dillí-dallier	conservative
+n	an	no	krokodíl	inclusive
+n	pa	yes	zástanca	inclusive
+n	qas	no	špión	inclusive
+n	cds	no	superbia	inclusive
+n	an	no	polokrídlovce	inclusive
+n	cds	no	vedomá nedbalosť	inclusive
+n	is	yes	úbožiak	inclusive
+n	dmc	yes	hrubý	conservative
+n	an	no	Žralokovidné	inclusive
+n	cds	no	lump	conservative
+n	cds	no	pompousness	conservative
+n	cds	no	rýchly jeden	inclusive
+n	re	no	podliak	conservative
+n	dmc	yes	darebný	conservative
+n	qas	no	parazit	inclusive
+n	an	no	podrad blattodea	inclusive
+n	cds	no	úklady	inclusive
+n	cds	no	snob	conservative
+n	asm	no	idiocia	inclusive
+n	an	no	hus	inclusive
+n	cds	no	nedbalý človek	conservative
+a	cds	no	náročný	conservative
+n	ddp	yes	riť	conservative
+n	cds	no	babrák	conservative
+n	qas	no	moocher	conservative
+n	re	no	grand theft	inclusive
+n	an	no	blchy	inclusive
+n	asf	no	changeling	conservative
+n	an	no	vulgarita	conservative
+n	cds	no	splashiness	inclusive
+n	an	no	domáci pes	inclusive
+n	ddp	yes	ťažkopádnosť	inclusive
+n	cds	no	pôdy	inclusive
+n	ddp	yes	fauna	inclusive
+v	re	no	odcudziť	inclusive
+n	re	no	teroristický čin	conservative
+n	qas	no	biznismen	inclusive
+n	or	no	pestuje kapusta	inclusive
+n	asm	no	predkožky	inclusive
+n	pr	no	svetluška svätojánska	inclusive
+n	svp	no	chlipnosť	inclusive
+n	svp	no	afekt	conservative
+n	cds	no	fanatizmus	conservative
+n	re	no	odcudzených predmetoch	inclusive
+n	an	no	nespôsobilá osoba	conservative
+n	cds	no	uličník	inclusive
+n	ddp	yes	puding hlava	conservative
+n	qas	no	prívrženec	inclusive
+n	re	no	klamár	inclusive
+n	asm	no	odporný	inclusive
+n	re	no	kriminálnej	inclusive
+n	svp	no	zmyselná žiadosť	inclusive
+n	qas	no	fušerská práce	inclusive
+n	cds	no	kľučky	inclusive
+n	dmc	yes	pokrytecké	conservative
+n	an	no	rentboy	conservative
+n	pa	yes	obyčajný profesor	inclusive
+v	asm	no	ošmeknúť	conservative
+n	pr	no	moľ	inclusive
+n	cds	no	falošný hráč	inclusive
+n	om	no	gay	conservative
+n	an	no	cimicidae	inclusive
+n	om	no	análny pohlavný styk	inclusive
+n	pa	yes	úradník	inclusive
+n	ddp	yes	idiocia	inclusive
+n	or	no	kapusta obyčajná	inclusive
+n	re	no	teroristický čin	inclusive
+v	asm	no	ošklbať	conservative
+v	re	no	potiahnuť	inclusive
+n	ps	yes	Čierna	inclusive
+n	an	no	idiot	conservative
+n	asm	no	prívesok	inclusive
+n	an	no	ovca	inclusive
+n	an	no	zubr	inclusive
+n	ddp	yes	gossipmonger	conservative
+n	an	no	prostý človek	conservative
+n	svp	no	chtíč	inclusive
+n	or	no	fastidiousness	inclusive
+n	asm	no	imbecil	inclusive
+n	ddp	yes	sprosták	conservative
+n	an	no	mračiť	inclusive
+n	dmc	yes	klamár	inclusive
+n	an	no	podraz	conservative
+a	svp	no	agresívne	inclusive
+n	cds	no	knihomoľ	conservative
+n	an	no	bufo	inclusive
+n	cds	no	kto zakročí	inclusive
+n	svp	no	hnev	conservative
+n	dmc	yes	zbojník	conservative
+a	qas	no	farský	inclusive
+n	cds	no	úver sharking	inclusive
+n	cds	no	žalárnik	inclusive
+n	an	no	sukničkár	conservative
+n	an	no	aby crocodilia	inclusive
+n	asm	no	retard	inclusive
+n	cds	no	komunálneho odpadu	conservative
+n	ddp	yes	nonsens	conservative
+n	cds	no	stohy	inclusive
+n	svp	no	povýšenosť	conservative
+n	ps	yes	divoch	conservative
+n	an	no	európska ropucha	inclusive
+n	or	no	fenikel obyčajný	inclusive
+n	or	no	chruňo	conservative
+n	re	no	odcudzený majetok	inclusive
+n	cds	no	latrína	inclusive
+n	re	no	vražda	inclusive
+n	an	no	internet podvod	conservative
+n	an	no	domáci hovädzí dobytok	inclusive
+n	an	no	mužská prostitúcia	conservative
+n	cds	no	konšpiračné teórie	inclusive
+n	cds	no	jokester	inclusive
+n	dmc	yes	morálka	inclusive
+n	pr	no	prostitútky	inclusive
+n	an	no	krokodílotvaré	inclusive
+n	cds	no	policajný dôstojník	conservative
+n	om	no	bazálnej	inclusive
+n	re	no	previnilec	conservative
+n	an	no	cootie	inclusive
+n	cds	no	Úžerníctvo	inclusive
+a	qas	no	normálny	inclusive
+n	cds	no	šibal	conservative
+a	cds	no	nezákonný	inclusive
+n	re	no	vrah	inclusive
+n	an	no	megascops	inclusive
+n	asf	no	prostý človek	conservative
+n	re	no	znásilnenie	conservative
+n	om	no	homosexuálnych mužov	inclusive
+n	is	yes	chudoba	inclusive
+n	dmc	yes	chlap mizerná	conservative
+n	re	no	scammer	inclusive
+n	an	no	hmyzu	inclusive
+n	cds	no	imbecil	inclusive
+n	dmc	yes	kriminálnej	inclusive
+n	cds	no	moneylending	inclusive
+n	pr	no	ulice dievča	conservative
+n	re	no	lupič	conservative
+n	om	no	sodomia	inclusive
+n	qas	no	mýlka	inclusive
+n	an	no	makrofaunu	inclusive
+n	an	no	tela vši	inclusive
+n	qas	no	nepravda	conservative
+n	re	no	znásilnenia	conservative
+n	cds	no	fízel	conservative
+n	qas	no	opustené lode	inclusive
+n	an	no	suka	inclusive
+n	cds	no	rod	inclusive
+n	ddf	yes	nevýhoda	inclusive
+n	pa	yes	akademizme	inclusive
+n	om	no	foeniculum vulgare	inclusive
+n	cds	no	dogmatizmus	conservative
+n	qas	no	barbar	conservative
+n	pa	yes	administratívny pracovník	inclusive
+n	ps	yes	mongoloids	conservative
+n	re	no	mafia	inclusive
+n	om	no	transvestizmus	inclusive
+n	dmc	yes	dillydallier	conservative
+n	pr	no	hetaera	inclusive
+v	is	yes	prosiť	inclusive
+n	cds	no	násilia gangu	conservative
+n	cds	no	kupliarstva	inclusive
+n	ddp	yes	kokot	conservative
+n	qas	no	búdy	inclusive
+n	cds	no	krúžok	inclusive
+n	ps	yes	neotesanec	conservative
+n	cds	no	fascista	inclusive
+n	cds	no	neporiadník	conservative
+n	cds	no	bábo	inclusive
+n	cds	no	prankishness	inclusive
+n	cds	no	hysterománia	inclusive
+n	dmc	yes	nemorálnosť	conservative
+n	an	no	canis aureus	inclusive
+n	an	no	scorpionfish	inclusive
+n	dmc	yes	lupič	conservative
+n	dmc	yes	lož	inclusive
+a	ddp	yes	hlúpy	conservative
+n	cds	no	fáma	inclusive
+n	ddf	yes	slabosť	inclusive
+n	re	no	zabíjanie	inclusive
+n	an	no	psa	inclusive
+n	an	no	pediculus corporis	inclusive
+n	ps	yes	imbecil	conservative
+n	rci	yes	poľnohospodár	inclusive
+n	cds	no	tragický darebák	conservative
+a	or	no	náročný	conservative
+n	cds	no	croon	inclusive
+n	is	yes	úbožiak	conservative
+n	pa	yes	minister	inclusive
+n	an	no	scorpion fish	inclusive
+n	ddp	yes	neznalosť	conservative
+n	cds	no	mudrlant	conservative
+n	cds	no	bandita	inclusive
+n	om	no	osol	inclusive
+a	cds	no	ľstivý	conservative
+n	an	no	mora	inclusive
+n	an	no	rod pipistrellus	inclusive
+n	rci	yes	neotesanec	conservative
+n	cds	no	camarillo	inclusive
+n	pa	yes	biele goliere	inclusive
+n	cds	no	finagler	conservative
+n	is	yes	vyhnanec	inclusive
+n	an	no	húska	inclusive
+n	cds	no	fušer	conservative
+n	cds	no	gangster	inclusive
+n	cds	no	plížiť zlodeja	conservative
+n	cds	no	zúfalý trestné	inclusive
+n	pr	no	závan	conservative
+n	an	no	diddl-shit	conservative
+n	cds	no	konformný	conservative
+n	an	no	ropušnic	inclusive
+n	qas	no	miništrant	inclusive
+n	an	no	sup	inclusive
+n	pr	no	crack suka	conservative
+n	om	no	kríž obliekania	inclusive
+n	om	no	homosexuál	inclusive
+n	cds	no	slobodomurári	inclusive
+n	an	no	mikróby	inclusive
+n	qas	no	prisluhovač	inclusive
+n	pr	no	neviestka	conservative
+n	qas	no	autoinfection	inclusive
+n	pr	no	kecy	conservative
+n	an	no	mäkkýšov	inclusive
+n	pr	no	nedbalý žena	conservative
+n	cds	no	flákač	conservative
+n	an	no	aphaniptera	inclusive
+n	an	no	žaby	inclusive
+n	ps	yes	východní góti	inclusive
+n	svp	no	antipatia	inclusive
+n	svp	no	prejedanie	inclusive
+n	is	yes	tragické darebák	conservative
+n	dmc	yes	nemotorný človek	conservative
+n	re	no	sexuálne zločiny	inclusive
+n	svp	no	invidia	inclusive
+n	an	no	fulvus	inclusive
+n	dmc	yes	lowlife	conservative
+n	dmc	yes	odpadlík	inclusive
+n	ddf	yes	šerednosť	inclusive
+n	cds	no	politická apatia	inclusive
+n	qas	no	spoločník vo zločinu	inclusive
+n	an	no	gallus gallus	inclusive
+n	an	no	krokodílovité	inclusive
+n	cds	no	učil	inclusive
+n	an	no	ploštica	inclusive
+a	ddf	yes	nedobrý	inclusive
+n	cds	no	mýlka	inclusive
+v	qas	no	nalíčiť sa	inclusive
+n	cds	no	šarlatán	conservative
+n	an	no	selachimorpha	inclusive
+n	cds	no	znemožnené	inclusive
+n	cds	no	bábä	inclusive
+n	dmc	yes	barbar	conservative
+n	an	no	tulák	conservative
+n	an	no	lowlife	conservative
+n	an	no	slowpoke	conservative
+n	cds	no	policajný dôstojník	inclusive
+n	or	no	podivný	conservative
+n	cds	no	homunkulové	inclusive
+n	cds	no	zmrd	conservative
+n	pa	yes	predavačka rýb	inclusive
+n	qas	no	kasty	inclusive
+a	is	yes	biedny	inclusive
+n	svp	no	vysokomyseľnosť	inclusive
+n	cds	no	kritin	inclusive
+n	cds	no	scuttlebutt	inclusive
+n	ddp	yes	zverstvo	inclusive
+n	re	no	násilník	inclusive
+n	an	no	eurypterids	inclusive
+a	is	yes	chudobní	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	qas	no	utratenie	conservative
+n	pr	no	gangster je moll	inclusive
+n	dmc	yes	leňoch	conservative
+n	ddp	yes	krutosť	inclusive
+n	re	no	ohovárač	conservative
+n	qas	no	míchanice	inclusive
+n	cds	no	cosa nostra	conservative
+n	asm	no	doofus	conservative
+n	cds	no	zostava	inclusive
+n	an	no	voly	inclusive
+n	an	no	brav	inclusive
+n	re	no	zabitie	inclusive
+n	re	no	násilie	inclusive
+n	an	no	eurasian griffon	inclusive
+a	an	no	tvrdohlavý	inclusive
+n	svp	no	apatický	inclusive
+v	re	no	obrať o niečo	inclusive
+n	an	no	nájazdník	inclusive
+n	is	yes	relatívnej chudoby	inclusive
+n	an	no	podliak	conservative
+n	asf	no	dievča	conservative
+n	ps	yes	cigán	conservative
+n	om	no	dámy	inclusive
+n	cds	no	fušerstvo	inclusive
+n	an	no	prasnica	inclusive
+n	cds	no	zlá ryby	conservative
+n	ddp	yes	twaddler	conservative
+n	cds	no	lúpežník	conservative
+n	dmc	yes	smrad	conservative
+n	cds	no	sťažovateľ	conservative
+n	cds	no	neotesanec	conservative
+n	an	no	starý svet buffalo	inclusive
+a	cds	no	obyčajný	inclusive
+n	ddp	yes	ťulpas	conservative
+n	re	no	násilný čin	inclusive
+n	re	no	defrauder	inclusive
+n	pa	yes	akademik	inclusive
+n	ddf	yes	škaredosť	inclusive
+n	an	no	hmyz	inclusive
+n	qas	no	hospodárstva	inclusive
+n	cds	no	pandemónium	inclusive
+n	re	no	ozbrojený lupič	inclusive
+n	re	no	sekerka práce	inclusive
+n	an	no	obetný baránok	conservative
+n	re	no	tulák	conservative
+n	re	no	znásilnenie na schôdzke	conservative
+n	dmc	yes	nemorálne	inclusive
+n	cds	no	usmrtiť	conservative
+n	cds	no	line-strelec	conservative
+n	dmc	yes	scammer	conservative
+n	cds	no	slyboots	conservative
+n	re	no	tragické darebák	conservative
+n	dmc	yes	zakázaný	inclusive
+v	re	no	odcudzovať	inclusive
+n	ddp	yes	hromotĺkov	conservative
+n	dmc	yes	plížiť zlodeja	conservative
+n	an	no	pipistrellus	inclusive
+n	pa	yes	právny poradca	inclusive
+n	re	no	sexuálne zneužívanie	inclusive
+n	cds	no	rubom	conservative
+n	re	no	sexuálne napadnutie	inclusive
+n	cds	no	láska dieťa	inclusive
+n	pa	yes	pastieri	inclusive
+n	asm	no	blbec	inclusive
+n	cds	no	bábätko	inclusive
+n	cds	no	učebná pomôcka	inclusive
+n	cds	no	cigánstvo	inclusive
+n	svp	no	leňoch	conservative
+n	cds	no	verejný dom	inclusive
+n	asf	no	soft touch	conservative
+n	dmc	yes	homunculi	inclusive
+n	qas	no	babrácka práca	inclusive
+n	ddp	yes	sprostosť	inclusive
+n	ddp	yes	blbec	inclusive
+n	dmc	yes	trávia-all	inclusive
+n	cds	no	nerdy	conservative
+n	om	no	cross-bielizník	inclusive
+n	cds	no	cacography	inclusive
+n	ddp	yes	odročiť	inclusive
+n	an	no	kuvik plačlivý	inclusive
+n	an	no	vipera	inclusive
+n	re	no	ohováranie	inclusive
+n	ddf	yes	nanus	conservative
+n	om	no	homoerotic	inclusive
+n	pa	yes	vrátnik	inclusive
+n	pa	yes	obhajcu	inclusive
+n	qas	no	človek z ľudu	inclusive
+n	ddp	yes	imbecilita	inclusive
+n	qas	no	business man	inclusive
+n	cds	no	zástup	inclusive
+n	cds	no	špión	conservative
+n	asm	no	ryby	inclusive
+n	an	no	osol	inclusive
+n	ddp	yes	changelings	inclusive
+n	dmc	yes	darebák	conservative
+n	cds	no	stoka	inclusive
+n	cds	no	tupec	conservative
+n	re	no	sexuálne trestný čin	inclusive
+n	cds	no	fop	inclusive
+n	an	no	midge	inclusive
+n	svp	no	odpor	inclusive
+n	qas	no	rétorika	inclusive
+n	an	no	mosquitoe	inclusive
+n	re	no	konať terorizmu	conservative
+n	cds	no	čmáranina	inclusive
+n	an	no	vulgárnosti	conservative
+n	qas	no	vyzvedač	inclusive
+n	cds	no	priemernosť	conservative
+n	an	no	carcharodon	inclusive
+n	qas	no	vyzradenie	inclusive
+n	re	no	znásilnenia podľa zákona	inclusive
+n	cds	no	lož	inclusive
+n	cds	no	soft touch	conservative
+n	an	no	insecta	inclusive
+n	ps	yes	šľachtenia rastlín	inclusive
+n	cds	no	pustý teoretik	inclusive
+n	or	no	homophile	conservative
+n	ddp	yes	hlúpy človek	conservative
+n	an	no	diddlysquat	conservative
+n	cds	no	nymfomanka	conservative
+n	is	yes	špinavec	conservative
+n	om	no	somár	inclusive
+n	cds	no	kverulant	conservative
+n	qas	no	nasledovník	inclusive
+n	an	no	kliešť	inclusive
+n	cds	no	peon	inclusive
+n	cds	no	chytrosť	inclusive
+n	svp	no	sedem hlavných hriechov	inclusive
+n	om	no	homosexuálna orientácia	inclusive
+n	cds	no	lajdák	conservative
+n	pa	yes	majiteľ pohrebného ústavu	inclusive
+n	pr	no	sexuálnych služieb	inclusive
+n	pr	no	comar	conservative
+n	is	yes	darebák	conservative
+n	qas	no	sedliak	inclusive
+n	cds	no	bystrosť	inclusive
+n	dmc	yes	zápachu	conservative
+n	svp	no	lustfulness	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	cds	no	slobodomurár	inclusive
+v	re	no	ošmeknúť	inclusive
+n	ps	yes	black osoba	inclusive
+n	ddp	yes	nezmysly	inclusive
+n	an	no	crocodilidae	inclusive
+n	om	no	sodomie	inclusive
+n	cds	no	márnosti	conservative
+n	svp	no	velikášstvo	inclusive
+n	an	no	žena prenasledovateľ	conservative
+n	an	no	Šakal obyčajný	inclusive
+n	cds	no	bumbler	conservative
+n	re	no	zlodejský	inclusive
+n	cds	no	babranie	inclusive
+n	cds	no	ornament	conservative
+n	cds	no	kmeň	inclusive
+n	an	no	zlosyn	conservative
+n	cds	no	kuplířka	conservative
+n	om	no	urodzená pani	inclusive
+n	cds	no	veľký omyl	inclusive
+n	cds	no	kmeňa	inclusive
+n	an	no	zbabelec	conservative
+n	cds	no	git	conservative
+n	qas	no	barokovej architektúry	inclusive
+n	cds	no	zlodej	conservative
+n	an	no	pes	inclusive
+n	re	no	gangstrov	inclusive
+n	om	no	zneužíval	inclusive
+n	an	no	psíček	inclusive
+n	cds	no	tulák	conservative
+n	cds	no	bastard	inclusive
+n	cds	no	gang	conservative
+n	an	no	zlodejov tiel	inclusive
+n	or	no	pudden hlava	conservative
+n	asm	no	onanista	conservative
+n	svp	no	apatia	inclusive
+n	qas	no	farností	inclusive
+n	ps	yes	mezirodový hybrid	inclusive
+n	cds	no	pedagógov	inclusive
+n	om	no	transvestitov	inclusive
+n	an	no	metazoans	inclusive
+n	rci	yes	hulvát	conservative
+n	cds	no	splaškov	inclusive
+n	cds	no	pisateľ	conservative
+n	re	no	zločincov	inclusive
+n	an	no	mamlas	conservative
+n	cds	no	fašisti	conservative
+n	cds	no	cesty zástupca	conservative
+n	dmc	yes	úbožiak	inclusive
+n	or	no	gej	conservative
+n	an	no	nanus	conservative
+n	asf	no	obetný baránok	conservative
+n	cds	no	verejné toalety	inclusive
+n	dmc	yes	zloduch	conservative
+n	pr	no	troska	conservative
+a	qas	no	stredoveký	inclusive
+n	svp	no	pridefulness	inclusive
+n	or	no	zemiaky	inclusive
+n	an	no	krutosť	conservative
+n	re	no	ukoristil	inclusive
+n	om	no	homophile hnutia	conservative
+n	cds	no	policajtov	inclusive
+n	an	no	pillager	inclusive
+n	dmc	yes	chawbacon	conservative
+n	re	no	veľká krádež	inclusive
+n	an	no	flákač	conservative
+n	ddp	yes	hlupák	conservative
+n	re	no	hanobenia	inclusive
+n	an	no	zubor hrivnatý	inclusive
+n	svp	no	bigotný človek	conservative
+n	dmc	yes	fuser	conservative
+n	ps	yes	jerry	conservative
+n	re	no	podvodník	inclusive
+n	dmc	yes	smrdieť	conservative
+n	cds	no	zbabelý	conservative
+n	cds	no	stádo	inclusive
+n	cds	no	klanu	inclusive
+a	cds	no	prešibaný	conservative
+n	cds	no	podfukár	inclusive
+n	svp	no	panovačnosť	conservative
+n	qas	no	farmhand	inclusive
+n	cds	no	desetník románu	inclusive
+n	an	no	raunch	conservative
+n	cds	no	klebeta	inclusive
+n	om	no	homoeroticism	inclusive
+n	an	no	komárov	inclusive
+n	an	no	anuran	inclusive
+n	re	no	chybné používanie	inclusive
+a	ps	yes	židovský	inclusive
+n	cds	no	omertà	inclusive
+n	cds	no	fušerská práca	inclusive
+n	qas	no	teste	inclusive
+n	re	no	plagování	inclusive
+n	qas	no	hutch	inclusive
+n	cds	no	nymfománia	inclusive
+n	om	no	uranizmus	inclusive
+n	pr	no	komerčných sexuálnych	inclusive
+n	ddf	yes	postihnutie	inclusive
+n	cds	no	tricker	conservative
+n	ddp	yes	polycytozoa	inclusive
+n	ps	yes	miešanec	conservative
+n	ddp	yes	zviera	inclusive
+n	re	no	únos	inclusive
+n	cds	no	patsy	conservative
+n	pr	no	sexuálne služby	inclusive
+n	cds	no	utratenie	conservative
+n	qas	no	boss	inclusive
+n	or	no	piča	conservative
+n	an	no	kurva	conservative
+n	cds	no	papparazzi	inclusive
+n	dmc	yes	ten a ten	conservative
+n	pr	no	zasypal mora	inclusive
+n	an	no	otus asio	inclusive
+n	cds	no	kvantá	inclusive
+n	an	no	rozpustilá dievča	conservative
+n	ddp	yes	šmejd	conservative
+n	an	no	byvol	inclusive
+n	dmc	yes	homunkulové	inclusive
+n	ps	yes	Židovská viera	inclusive
+n	cds	no	trestný čin	inclusive
+n	ps	yes	metic	inclusive
+n	re	no	agónia	inclusive
+n	svp	no	nevšímavosť	inclusive
+n	cds	no	lupičstva	inclusive
+n	cds	no	jednoduchí ľudia	inclusive
+n	cds	no	povýšenosť	conservative
+n	ddp	yes	doofus	conservative
+n	re	no	talianskej mafie	conservative
+n	dmc	yes	chudák	inclusive
+n	cds	no	poliš	conservative
+n	re	no	sexuálne motivovaný zločin	inclusive
+n	an	no	zamračený pohľad	inclusive
+n	cds	no	kupliarstva	conservative
+n	re	no	kidnaper	inclusive
+n	asm	no	vajce	inclusive
+n	ddp	yes	hooey	inclusive
+n	cds	no	zmätok	conservative
+n	om	no	prevít	inclusive
+n	pr	no	bos taurus	inclusive
+n	cds	no	vyhnanstvom	inclusive
+n	om	no	pani	inclusive
+n	ddp	yes	neschopný	conservative
+n	cds	no	peklo	inclusive
+n	asm	no	bôbov	inclusive
+n	an	no	pediculus humanus	inclusive
+n	cds	no	darebák	conservative
+n	cds	no	potešenie	inclusive
+n	ps	yes	latino	inclusive
+n	an	no	betis	conservative
+n	om	no	dame	inclusive
+n	ps	yes	Žltá karta	inclusive
+n	qas	no	pole ruky	inclusive
+n	cds	no	kotéria	inclusive
+n	cds	no	klika	inclusive
+n	dmc	yes	nevychovanec	conservative
+n	pa	yes	akademický pracovník	inclusive
+n	an	no	canis lupus familiaris	inclusive
+n	cds	no	mafia	inclusive
+n	qas	no	konformný	conservative
+n	ps	yes	hispánsky	inclusive
+n	om	no	buzo	inclusive
+n	ddp	yes	napáliť	conservative
+n	cds	no	chawbacon	conservative
+n	ps	yes	černošskej komunity	inclusive
+n	cds	no	blackball	inclusive
+a	dmc	yes	špinavé	inclusive
+n	cds	no	dvorný šašo	inclusive
+n	ddp	yes	ragtag a bobtail	conservative
+n	svp	no	minginess	conservative
+n	om	no	posteriorly	inclusive
+n	ps	yes	rómka	inclusive
+n	cds	no	bagnio	inclusive
+n	qas	no	odpad	inclusive
+n	ddp	yes	idiot	conservative
+n	an	no	môr	inclusive
+n	an	no	koza-antilopa	inclusive
+n	qas	no	kást	inclusive
+n	ddp	yes	twerp	conservative
+n	cds	no	sebauspokojenia	inclusive
+n	an	no	úhory	inclusive
+n	asm	no	semenník	inclusive
+n	cds	no	sub-klan	inclusive
+n	cds	no	vôl	conservative
+n	or	no	kel	inclusive
+n	ps	yes	uprooter	conservative
+n	ddp	yes	brutalita	conservative
+n	asf	no	pussy	conservative
+n	om	no	drag show	inclusive
+a	dmc	yes	sfalšovaný	conservative
+n	cds	no	idiot	inclusive
+n	cds	no	reklama posielaná poštou	inclusive
+n	an	no	bzdocha posteľná	inclusive
+n	ddp	yes	mentálne postihnutých	inclusive
+n	cds	no	hutnícky odpad	conservative
+n	dmc	yes	topánka-off	conservative
+n	ddp	yes	sviňa	conservative
+n	cds	no	úžerníkov	inclusive
+n	re	no	ndrangheta	inclusive
+n	cds	no	vychovávateľ	inclusive
+n	or	no	punctiliousness	inclusive
+n	cds	no	zmiešané plemeno psa	inclusive
+n	an	no	brutalita	inclusive
+n	cds	no	latrín	inclusive
+n	svp	no	slackers	conservative
+n	dmc	yes	gangster	inclusive
+n	ddp	yes	soft touch	conservative
+n	qas	no	lož	conservative
+n	pa	yes	trestné právnik	inclusive
+n	cds	no	zločinec	conservative
+n	an	no	siphonaptera	inclusive
+n	qas	no	obyčajný človek	inclusive
+n	cds	no	závod chovateľ	inclusive
+n	an	no	hoax	conservative
+n	svp	no	niggardness	conservative
+n	pa	yes	poslíčka	inclusive
+n	cds	no	chiseler	conservative
+n	asf	no	kunda	conservative
+n	re	no	lúpež	inclusive
+a	pa	yes	ideálny	inclusive
+n	qas	no	magnát	inclusive
+n	cds	no	príbuzní	inclusive
+n	ddf	yes	osoby so zdravotným postihnutím	inclusive
+n	ddp	yes	mikrocefália	inclusive
+n	cds	no	hellion	conservative
+n	cds	no	fígeľ	inclusive
+n	cds	no	dav	inclusive
+n	cds	no	partia	inclusive
+n	qas	no	farmár	inclusive
+n	ddp	yes	hlúposť	inclusive
+n	asm	no	faul	inclusive
+n	qas	no	majiteľ obchodu	inclusive
+n	an	no	špindíra	conservative
+n	asm	no	ručné práce	conservative
+n	qas	no	parazitizmu	inclusive
+n	qas	no	casteism	inclusive
+n	qas	no	komunálneho odpadu	inclusive
+n	cds	no	amateurishness	conservative
+n	re	no	trestný iba priestupok	inclusive
+n	cds	no	dom so zlou povesťou	inclusive
+n	cds	no	štrajkokazov	inclusive
+n	re	no	drobný zlodej	inclusive
+n	an	no	stick-in-the-blato	conservative
+n	pr	no	žena z ulice	conservative
+n	dmc	yes	cigánstvo	inclusive
+n	ps	yes	africká rasa	inclusive
+n	cds	no	trestnej činnosti	inclusive
+n	an	no	sovotvaré	inclusive
+n	cds	no	objem	inclusive
+n	ps	yes	ľudí zulu	inclusive
+n	cds	no	biotechnológia rastlín	inclusive
+n	dmc	yes	nešťastné osoby	inclusive
+n	re	no	ťažký zločin	inclusive
+n	re	no	zneužívanie moci	inclusive
+n	dmc	yes	slackers	conservative
+v	asm	no	ošklbávať	conservative
+n	an	no	crocodylian	inclusive
+n	ddp	yes	kretén	conservative
+n	ddp	yes	blbecek	conservative
+n	cds	no	kŕdeľ	inclusive
+n	re	no	sexuálny prečin	inclusive
+n	qas	no	posádky	inclusive
+n	asf	no	šmejd	conservative
+n	re	no	terorizmus	inclusive
+n	cds	no	chaosu	inclusive
+n	cds	no	religiousism	inclusive
+n	is	yes	chudákov	inclusive
+n	re	no	novorodencov	inclusive
+n	an	no	aby crocodylia	inclusive
+n	ps	yes	bedáka	inclusive
+n	ps	yes	mestiço	conservative
+n	cds	no	chaos	inclusive
+n	ddp	yes	hlúpy	conservative
+v	cds	no	hynúť	inclusive
+n	ddp	yes	retard	conservative
+n	cds	no	masy	conservative
+n	an	no	chrobák	inclusive
+n	svp	no	neaktívnosť	inclusive
+n	om	no	teplý	inclusive
+n	an	no	ostriežika	inclusive
+n	dmc	yes	spodina taška	inclusive
+n	cds	no	dweeb	conservative
+n	cds	no	falošný hráč	conservative
+n	cds	no	domového odpadu	inclusive
+n	an	no	tragický darebák	conservative
+n	asm	no	kritin	inclusive
+n	ps	yes	ruiner	conservative
+n	pr	no	kurtizán	inclusive
+n	ddp	yes	hlupáčik	conservative
+n	cds	no	changeling	inclusive
+n	an	no	hyaenidae	inclusive
+n	an	no	epifauna	inclusive
+n	ddp	yes	nevzdelaný človek	conservative
+n	re	no	Čin trestný	inclusive
+n	ddp	yes	bláznovstvo	inclusive
+n	an	no	psisko	inclusive
+n	om	no	homosexuálne založenie	inclusive
+n	ddp	yes	analphabet	inclusive
+n	dmc	yes	křupan	conservative
+n	dmc	yes	slušnosť	inclusive
+n	asf	no	doofus	conservative
+n	or	no	homosexuálny	conservative
+n	svp	no	nuda	inclusive
+n	ddp	yes	chuj	conservative
+n	cds	no	groveler	conservative
+n	asf	no	odborný výraz	inclusive
+n	cds	no	Čin trestný	inclusive
+n	dmc	yes	dallier	conservative
+n	ps	yes	čerň	inclusive
+n	cds	no	blbec	inclusive
+n	ps	yes	židovskej rodine	inclusive
+n	cds	no	grunge	inclusive
+n	an	no	pleurotremata	inclusive
+n	ddp	yes	idiotia	inclusive
+n	cds	no	scammer	inclusive
+n	om	no	mužskej sexuality	inclusive
+n	ddp	yes	botcher	conservative
+n	svp	no	angriness	inclusive
+n	qas	no	veľký omyl	inclusive
+n	ps	yes	idiotia	conservative
+n	pr	no	potkan čierny	inclusive
+n	cds	no	defrauder	conservative
+n	an	no	kravička	inclusive
+n	cds	no	fuser	conservative
+n	om	no	dorzolaterální	inclusive
+n	ps	yes	bastard	inclusive
+n	pr	no	potkan	inclusive
+n	ddp	yes	zooerasty	conservative
+n	re	no	zločin	inclusive
+n	asm	no	bôb	inclusive
+n	cds	no	hypersexual	conservative
+n	cds	no	novozbohatlických	inclusive
+n	asm	no	vtáky	inclusive
+n	pr	no	chlapcom nájmu	conservative
+n	cds	no	smutný vrece	conservative
+n	cds	no	zločin	inclusive
+n	svp	no	zlosť	conservative
+n	cds	no	luhár	conservative
+n	ddp	yes	duševná zaostalosť	inclusive
+n	asm	no	fava	inclusive
+n	cds	no	míchanice	inclusive
+n	dmc	yes	náboženský fanatik	conservative
+n	cds	no	ručné práce	conservative
+n	cds	no	Úžerníctvo	conservative
+n	cds	no	puding hlava	conservative
+n	qas	no	babrák	conservative
+n	pa	yes	osobitný vyslanec	inclusive
+n	cds	no	úzky krúžok	inclusive
+n	qas	no	ragtag a bobtail	conservative
+n	cds	no	wheeler predajcu	conservative
+n	an	no	Šváby	inclusive
+n	an	no	brent hus	inclusive
+n	an	no	zubra európskeho	inclusive
+n	cds	no	cur	inclusive
+n	dmc	yes	potulky	inclusive
+n	an	no	arionidae	inclusive
+n	cds	no	okrem	inclusive
+n	re	no	psanec	inclusive
+n	cds	no	násilia gangu	inclusive
+n	cds	no	pompéznosť	inclusive
+n	qas	no	vyžírka	conservative
+n	cds	no	vnútorný kruh	inclusive
+a	ps	yes	čierny	inclusive
+n	dmc	yes	babrák	conservative
+v	cds	no	zahynúť	inclusive
+n	dmc	yes	botcher	conservative
+n	an	no	nekompetentní osoba	conservative
+n	cds	no	outlawry	inclusive
+n	an	no	ragtag	conservative
+n	qas	no	barón	inclusive
+n	qas	no	bad hat	conservative
+n	an	no	suka	conservative
+n	pr	no	tur domáci	inclusive
+n	or	no	bonce	inclusive
+n	cds	no	fundamentalistov	inclusive
+n	an	no	kozie mlieko	inclusive
+n	cds	no	idiotia	inclusive
+n	an	no	rod anguilla	inclusive
+a	cds	no	nelegálny	inclusive
+v	re	no	týrať	inclusive
+n	asm	no	ťulpas	conservative
+n	an	no	králika	inclusive
+n	svp	no	špinavec	conservative
+v	re	no	zlostiť	inclusive
+n	dmc	yes	byť skľúčený	conservative
+n	ddp	yes	surovosť	inclusive
+n	pr	no	plané táraniny	conservative
+n	cds	no	väzenský dozorca	inclusive
+n	is	yes	žobrák	conservative
+n	asm	no	kohút	inclusive
+n	dmc	yes	trickster	conservative
+n	pa	yes	odborný asistent	inclusive
+n	re	no	vydierač	inclusive
+n	re	no	plagiarisation	inclusive
+n	or	no	mamlas	conservative
+n	cds	no	%e2%80%99ndrangheta	inclusive
+n	cds	no	kultúry gangu	inclusive
+n	cds	no	bordely	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	re	no	dobytok zlodej	inclusive
+n	pr	no	voľné žena	conservative
+n	ps	yes	patsy	conservative
+n	cds	no	kuplířka	inclusive
+n	cds	no	všehochuť	inclusive
+n	dmc	yes	flákač	conservative
+n	is	yes	rozedranec	conservative
+n	qas	no	omnium-gatherum	inclusive
+n	re	no	zneužívanie	inclusive
+n	an	no	americký bizón	inclusive
+n	ddp	yes	podvodník	conservative
+n	qas	no	parazity	inclusive
+n	cds	no	loansharking	inclusive
+n	cds	no	chudák	conservative
+n	cds	no	prostý človek	conservative
+n	an	no	králiky	inclusive
+n	qas	no	odmietnuť	conservative
+n	cds	no	fanatik	conservative
+n	qas	no	dom maľba	inclusive
+n	ddp	yes	zabedněnec	conservative
+v	cds	no	rozširovať klebety	inclusive
+n	asf	no	peň	conservative
+n	asm	no	vtáctvo	inclusive
+n	qas	no	boo-boo	inclusive
+n	om	no	homoš	conservative
+n	om	no	pedofil	conservative
+v	cds	no	pominúť sa	inclusive
+n	or	no	poove	conservative
+n	cds	no	chlapče	inclusive
+n	cds	no	predajnosť	conservative
+n	ps	yes	jigaboo	conservative
+n	pa	yes	právnik	inclusive
+n	ddp	yes	blázon	conservative
+n	asm	no	falus	inclusive
+n	cds	no	skribent	conservative
+n	asm	no	tmavo hnedá	inclusive
+n	cds	no	nešika	conservative
+n	ddp	yes	fušer	conservative
+n	cds	no	slews	inclusive
+n	cds	no	hlupák	conservative
+n	svp	no	ne'er-robiť-dobre	conservative
+n	cds	no	rýchly jeden	conservative
+n	cds	no	bordelu	inclusive
+n	re	no	napodobniť	inclusive
+a	re	no	násilné	inclusive
+n	or	no	foeniculum vulgare	inclusive
+n	re	no	sexu trestného činu	inclusive
+n	cds	no	slackers	conservative
+n	an	no	žralok	inclusive
+a	svp	no	dychtivý	inclusive
+n	or	no	idiot	conservative
+a	dmc	yes	dysforický	inclusive
+v	an	no	vyčíňať	conservative
+n	an	no	sýček	inclusive
+n	cds	no	rogue	conservative
+n	qas	no	strednej triedy	inclusive
+n	re	no	calunnia	inclusive
+n	cds	no	gangsterizmom	inclusive
+n	cds	no	dojča	inclusive
+n	asf	no	piča	conservative
+n	cds	no	lav	inclusive
+n	cds	no	úžerníka	inclusive
+n	an	no	diddley	conservative
+n	an	no	nič neviem	conservative
+n	asm	no	muggins	conservative
+n	svp	no	tightwad	conservative
+n	asf	no	truľo	conservative
+n	cds	no	conventicles	inclusive
+n	dmc	yes	dezertér	conservative
+n	svp	no	nechuť	inclusive
+n	cds	no	lúpežné prepadnutia	inclusive
+n	an	no	slizovcovité	inclusive
+n	pa	yes	navrhovateľ	inclusive
+n	or	no	muttonhead	conservative
+n	om	no	pederasty	inclusive
+n	pr	no	dobytka	inclusive
+n	an	no	brent goose	inclusive
+n	cds	no	fanatici	inclusive
+n	dmc	yes	tulák	inclusive
+n	cds	no	rumourmonger	conservative
+n	cds	no	amour propre	conservative
+n	qas	no	podnikateľ	inclusive
+n	an	no	nevychovanec	conservative
+n	cds	no	fanatizmu	conservative
+n	cds	no	džezový spevák	inclusive
+n	ps	yes	černoška	inclusive
+a	qas	no	obecný	inclusive
+n	or	no	írsky zemiakový	inclusive
+n	cds	no	wisenheimer	conservative
+n	re	no	zlodej	inclusive
+n	asm	no	blbecek	conservative
+n	or	no	hlávková kapusta	inclusive
+n	ddp	yes	nevychovanec	conservative
+n	cds	no	splashiness	conservative
+n	asm	no	penis	inclusive
+n	an	no	salientian	inclusive
+n	an	no	ploštice	inclusive
+n	cds	no	hulvát	conservative
+n	qas	no	žobrák	conservative
+n	qas	no	zmätok	inclusive
+v	an	no	zúriť	conservative
+n	cds	no	od rána	inclusive
+n	cds	no	čubčí syn	conservative
+n	re	no	zneužitie	inclusive
+n	ddp	yes	ragtag	conservative
+n	an	no	mäkkýše	inclusive
+n	cds	no	mafiánsky boss	inclusive
+n	or	no	zemiak	inclusive
+n	or	no	irish zemiakov	inclusive
+n	ddp	yes	udavač	conservative
+n	qas	no	buržoázia	inclusive
+n	an	no	žaba	inclusive
+n	cds	no	odpadky	inclusive
+n	pa	yes	undertaker	inclusive
+n	cds	no	špiceľ	conservative
+n	re	no	vrahyňa	inclusive
+n	svp	no	firemné chamtivosti	inclusive
+n	cds	no	sassing	inclusive
+n	an	no	somár	conservative
+n	pr	no	pochybná ženštín	conservative
+n	dmc	yes	nemravnosť	inclusive
+n	pr	no	dvoranov	inclusive
+n	cds	no	očko	conservative
+n	an	no	ničomnosť	conservative
+n	cds	no	talianskej mafie	conservative
+n	re	no	lump	conservative
+n	om	no	homosexuality	inclusive
+n	cds	no	komunálneho odpadu	inclusive
+n	ps	yes	čierne ženy	inclusive
+n	cds	no	blackballing	inclusive
+n	cds	no	pasák	inclusive
+n	ddp	yes	blabbermouth	conservative
+n	an	no	odpočúvanie	inclusive
+n	cds	no	wc zariadenia	inclusive
+n	qas	no	testis	inclusive
+n	cds	no	sicílskej mafie	conservative
+n	qas	no	maličkosti	inclusive
+n	an	no	kanál bass	inclusive
+n	qas	no	farnosti	inclusive
+n	om	no	zadok	inclusive
+a	cds	no	šikovný	inclusive
+n	cds	no	literárne nádenník	conservative
+n	qas	no	nešika	conservative
+n	re	no	plagiátorstvo	inclusive
+n	om	no	homosexuálne zameranie	inclusive
+n	an	no	hyenovité	inclusive
+n	asf	no	vagína	conservative
+n	ps	yes	skopčáci	conservative
+n	is	yes	nemajetnosť	inclusive
+n	an	no	blcha	inclusive
+n	asm	no	vták	inclusive
+n	an	no	sup bielohlavý	inclusive
+n	re	no	terorista	inclusive
+n	an	no	brant hus	inclusive
+n	an	no	švábovité	inclusive
+n	ps	yes	mongoloidná rasa	conservative
+a	qas	no	obyčajný	inclusive
+n	cds	no	Úroková úžera	inclusive
+n	ddp	yes	blunderer	conservative
+n	pa	yes	riaditeľ pohrebného ústavu	inclusive
+n	asm	no	credulousness	conservative
+n	cds	no	loansharking	conservative
+n	an	no	ropucha žaba	inclusive
+n	re	no	%e2%80%99ndrangheta	inclusive
+n	pr	no	moo-cow	inclusive
+n	qas	no	chovateľ	inclusive
+v	an	no	brechať	inclusive
+n	re	no	zabijak	inclusive
+n	om	no	vená	inclusive
+n	cds	no	špina	conservative
+v	qas	no	namaľovať sa	inclusive
+n	cds	no	lúpežný rytier	inclusive
+n	an	no	zajačik	inclusive
+n	ps	yes	iných závodov	inclusive
+n	cds	no	moneylending	conservative
+n	qas	no	buržoáznej	inclusive
+n	svp	no	horenososť	inclusive
+n	cds	no	zháňajú	conservative
+n	ps	yes	romák	inclusive
+n	ddf	yes	trpaslík	conservative
+v	qas	no	trápiť	conservative
+n	om	no	ventrálnej	inclusive
+n	pr	no	socialites	inclusive
+n	re	no	zlý skutok	inclusive
+n	cds	no	dom prostitúcia	inclusive
+n	cds	no	hypersexualita	conservative
+n	an	no	psov	inclusive
+n	dmc	yes	nemorálnosti	inclusive
+v	qas	no	zlostiť	conservative
+n	pa	yes	pastierky	inclusive
+n	ddp	yes	dimwit	conservative
+n	asm	no	falický symbol	inclusive
+n	pr	no	potkanom	inclusive
+n	an	no	šmejd	conservative
+n	ddp	yes	obmedzenosť	inclusive
+n	an	no	darebný	conservative
+n	qas	no	fieldhand	inclusive
+n	cds	no	parvenu	inclusive
+n	re	no	ozbrojená lúpež	inclusive
+n	cds	no	pillock	conservative
+n	cds	no	kretén	inclusive
+n	qas	no	veľmož	inclusive
+n	ddp	yes	barbarstvo	inclusive
+n	om	no	gej	inclusive
+n	cds	no	lišiak	conservative
+n	ddp	yes	kritin	conservative
+n	pr	no	john	conservative
+n	an	no	sliepka	inclusive
+n	qas	no	semenník	inclusive
+n	an	no	nechať kogo	conservative
+n	re	no	traducement	inclusive
+n	cds	no	krádeže	inclusive
+n	cds	no	toaleta	inclusive
+n	ddp	yes	držgroš	conservative
+n	ddp	yes	zúrivosť	conservative
+n	cds	no	chytrákmi	conservative
+n	asm	no	boby	inclusive
+n	svp	no	primadonskosť	inclusive
+n	ddp	yes	stupe	conservative
+n	dmc	yes	zhýralec	conservative
+n	an	no	surovosť	inclusive
+n	pa	yes	pastier oviec	inclusive
+n	cds	no	gossiper	conservative
+n	dmc	yes	nemehlo	conservative
+n	dmc	yes	fumbler	conservative
+n	pa	yes	fishmongers	inclusive
+n	an	no	krokodílej	inclusive
+n	asm	no	wanke	conservative
+n	om	no	tooshie	inclusive
+n	cds	no	changelings	inclusive
+n	qas	no	živnostník	inclusive
+n	re	no	hanlivé	inclusive
+n	cds	no	hmotnosť	inclusive
+v	qas	no	maľovať	inclusive
+n	ps	yes	beduíni	inclusive
+n	dmc	yes	git	conservative
+n	re	no	kaukliar	inclusive
+n	om	no	peerka	inclusive
+n	cds	no	intoš	inclusive
+n	cds	no	puntičkárstvo	inclusive
+n	qas	no	vznešenosť	inclusive
+n	ps	yes	metics	inclusive
+n	an	no	mužská prostitútka	conservative
+n	cds	no	konzervatívec	inclusive
+n	dmc	yes	nemorálnosť	inclusive
+n	cds	no	delikt	inclusive
+n	an	no	koketa	conservative
+n	an	no	ovca domáca	inclusive
+n	om	no	pederastic	inclusive
+n	asf	no	pošva	conservative
+n	dmc	yes	faloš	inclusive
+n	or	no	brassica oleracea	inclusive
+n	or	no	čln z dreva	inclusive
+n	an	no	žralok biely	inclusive
+n	om	no	tush	inclusive
+n	cds	no	odpad	conservative
+n	om	no	keister	inclusive
+n	an	no	ročiak	inclusive
+n	cds	no	backtalk	inclusive
+n	an	no	prasnička	inclusive
+n	an	no	moľ	inclusive
+n	om	no	podivný	conservative
+n	re	no	trýznenie	inclusive
+n	re	no	pirát	inclusive
+n	cds	no	demagogickou	conservative
+n	an	no	animovať je	inclusive
+n	cds	no	ničnerobenie	conservative
+n	pr	no	homosexuálna prostitúcia	inclusive
+n	an	no	štekanie	inclusive
+n	cds	no	právo-lámanie	inclusive
+n	asm	no	testikulárne	inclusive
+n	cds	no	swaggerer	conservative
+n	cds	no	ničomný	conservative
+n	re	no	pirátstvo	inclusive
+v	asm	no	ošudiť	conservative
+n	ddp	yes	nekompetentná osoba	conservative
+n	dmc	yes	babroš	conservative
+n	an	no	červík	inclusive
+n	or	no	blbec	conservative
+v	an	no	zlostiť sa	conservative
+n	asm	no	výhonok	inclusive
+n	asm	no	hlúposti	conservative
+n	an	no	mikroorganizmu	inclusive
+n	cds	no	barbar	conservative
+n	dmc	yes	vyděděnec	inclusive
+n	an	no	husi	inclusive
+n	cds	no	šľachtenia rastlín	inclusive
+n	pa	yes	sála porter	inclusive
+n	cds	no	policajtov	conservative
+n	an	no	úhor	inclusive
+n	or	no	peň	conservative
+a	ddf	yes	chromý	inclusive
+n	an	no	pijavice	inclusive
+n	pa	yes	desiatnik	inclusive
+n	om	no	sodomista	inclusive
+n	ddp	yes	neotesanec	conservative
+n	is	yes	ničomník	conservative
+n	pr	no	dobytok	inclusive
+n	qas	no	očko	inclusive
+n	re	no	teroristov	conservative
+n	cds	no	bez murár	inclusive
+n	cds	no	literárne hack	conservative
+n	cds	no	pouličných gangov	inclusive
+n	ddp	yes	šarlatán	conservative
+n	asm	no	hrach	inclusive
+n	dmc	yes	no-účet	conservative
+n	is	yes	zloduch	conservative
+a	qas	no	bežný	inclusive
+n	pa	yes	advokát	inclusive
+n	ps	yes	romáci	inclusive
+n	asm	no	angličtina bean	inclusive
+n	an	no	hyena	inclusive
+n	cds	no	sušiak na bielizeň	inclusive
+n	ddp	yes	nezmysel	conservative
+n	qas	no	ideológia	inclusive
+n	cds	no	šprýmař	conservative
+n	cds	no	extrémnej pravičiar	conservative
+n	qas	no	úradnícku prácu	inclusive
+n	cds	no	požičiavanie peňazí	inclusive
+a	svp	no	hrabivý	inclusive
+n	an	no	kretén	conservative
+n	an	no	supy	inclusive
+n	an	no	cap	inclusive
+n	pr	no	komerčných sexuálnych	conservative
+n	om	no	homoš	inclusive
+n	dmc	yes	podvod	conservative
+n	cds	no	defrauder	inclusive
+n	cds	no	bazén zháňajú	conservative
+n	qas	no	hutnícky odpad	inclusive
+n	cds	no	táraj	conservative
+n	re	no	nesprávne použitie	inclusive
+n	re	no	vilifier	conservative
+n	svp	no	povýšeneckosť	inclusive
+n	re	no	sexuálnych trestných činov	inclusive
+n	asm	no	morfológia a anatómia rýb	inclusive
+n	cds	no	príbuzenstva	inclusive
+n	cds	no	úbožiak	conservative
+n	an	no	pysk	inclusive
+n	re	no	lupiči	inclusive
+n	svp	no	bohorovnosť	inclusive
+n	cds	no	hriešnik	inclusive
+n	cds	no	topsy-turvydom	inclusive
+n	cds	no	klan	inclusive
+n	dmc	yes	prevaricator	inclusive
+n	dmc	yes	bigotný človek	conservative
+n	pr	no	milenka	inclusive
+n	ddf	yes	postihnutím	inclusive
+n	ddf	yes	zakázať	inclusive
+n	cds	no	penny hrozné	inclusive
+n	ps	yes	afrického pôvodu	inclusive
+n	ps	yes	spratek	conservative
+n	cds	no	conspiracism	inclusive
+n	cds	no	novorodencov	inclusive
+n	ddp	yes	živočích	inclusive
+n	ps	yes	mongol	inclusive
+n	cds	no	sicílskej mafie	inclusive
+n	re	no	mafián	conservative
+n	re	no	talianskej mafie	inclusive
+n	re	no	rustler	inclusive
+n	an	no	athene noctua	inclusive
+n	cds	no	cut-up	conservative
+v	cds	no	zomrieť	inclusive
+n	cds	no	spodina	conservative
+n	cds	no	pedantství	inclusive
+n	dmc	yes	klauniáda	inclusive
+n	re	no	znásilnená	conservative
+n	ps	yes	mongoloidné plemeno	conservative
+n	ps	yes	hromotĺkov	conservative
+n	re	no	sexuálne zločin	inclusive
+n	pr	no	kurva	conservative
+n	om	no	crossdresser	inclusive
+n	dmc	yes	tuláci	conservative
+n	cds	no	religiozity	inclusive
+n	qas	no	roľník	inclusive
+n	cds	no	tragické darebák	conservative
+a	ddf	yes	nehodný	inclusive
+n	svp	no	naničhodník	conservative
+n	an	no	zadubenec	conservative
+n	ps	yes	neger	conservative
+n	an	no	zubor európsky	inclusive
+n	an	no	šváby	inclusive
+n	om	no	twink	conservative
+n	svp	no	spiritlessness	inclusive
+n	dmc	yes	gangstrov	inclusive
+n	an	no	šnečí	inclusive
+n	cds	no	ndrangheta	inclusive
+n	dmc	yes	priemernosť	conservative
+n	cds	no	divoch	conservative
+n	re	no	teroristický útok	inclusive
+n	qas	no	baroqueness	inclusive
+n	ps	yes	bulharčina	inclusive
+n	cds	no	psanec	inclusive
+n	cds	no	onanovanie	conservative
+n	pa	yes	význačný profesor	inclusive
+n	svp	no	závisť	inclusive
+n	re	no	zlodejstvo	inclusive
+n	an	no	veľký biely žralok	inclusive
+n	svp	no	fanatik	conservative
+n	qas	no	baroková architektúra	inclusive
+n	re	no	utrpenie	inclusive
+n	ps	yes	hybrid	inclusive
+n	an	no	slizniakovité	inclusive
+n	cds	no	veľký neumývané	inclusive
+n	dmc	yes	podvodník	inclusive
+a	is	yes	smutný	inclusive
+n	cds	no	novinky korešpondent	inclusive
+n	cds	no	trapas	inclusive
+n	qas	no	búda	inclusive
+n	cds	no	hlavný faktor	inclusive
+n	svp	no	namyslenosť	inclusive
+a	om	no	iný	inclusive
+n	cds	no	intrigán	inclusive
+n	an	no	pobehlica	conservative
+n	an	no	Živočíchy	inclusive
+n	svp	no	ničnerobenie	inclusive
+n	an	no	mikroorganizmy	inclusive
+n	cds	no	úžera	conservative
+n	qas	no	hlúposť	inclusive
+n	re	no	kšeftár	inclusive
+n	an	no	mikrób	inclusive
+n	cds	no	hybris	inclusive
+n	cds	no	villainess	conservative
+n	ps	yes	darkie	conservative
+n	an	no	Červy	inclusive
+n	om	no	paederasty	inclusive
+n	svp	no	jedlík	conservative
+n	cds	no	chiseler	inclusive
+n	pa	yes	zvláštne obhajcu	inclusive
+n	asm	no	hráškom	inclusive
+v	asm	no	trtkať	conservative
+n	an	no	mulica	inclusive
+n	om	no	aboral	inclusive
+n	ddp	yes	rozmnožovanie živočíchov	inclusive
+n	qas	no	troubler	conservative
+n	cds	no	fundamentalizmus	inclusive
+n	dmc	yes	chiseler	conservative
+n	rci	yes	barbar	conservative
+n	an	no	polycytozoa	inclusive
+n	cds	no	somár	conservative
+n	asm	no	fava fazuľa	inclusive
+n	cds	no	obhajoba	inclusive
+n	cds	no	pravopisná nesprávnosť	inclusive
+n	asf	no	pico	conservative
+a	is	yes	chudobný	inclusive
+n	om	no	buzerant	conservative
+n	cds	no	podvodník	conservative
+n	ddp	yes	hulvát	conservative
+n	is	yes	sľub chudoby	inclusive
+n	ddp	yes	vôl	conservative
+n	dmc	yes	mafián	inclusive
+n	asf	no	blázon	conservative
+n	cds	no	hlúpy človek	conservative
+n	dmc	yes	švindliar	conservative
+n	cds	no	prenasledovateľ	conservative
+n	qas	no	granger	inclusive
+n	ddp	yes	changelings	conservative
+n	svp	no	lakomstvo	inclusive
+n	cds	no	falošným idol	inclusive
+n	cds	no	zloduch	conservative
+n	cds	no	odmietnuť	conservative
+n	qas	no	ektoparazitmi	inclusive
+n	cds	no	predajný	inclusive
+n	ps	yes	changeling	conservative
+n	cds	no	muggins	conservative
+n	or	no	buzík	conservative
+n	asm	no	žrď	inclusive
+n	re	no	zabitím	inclusive
+n	asm	no	kohútik	inclusive
+a	cds	no	chytrý	inclusive
+n	ddp	yes	animovať je	inclusive
+n	re	no	sicílska mafia	inclusive
+n	pa	yes	hulvát	conservative
+n	dmc	yes	blunderer	conservative
+n	cds	no	staré vozidlo	inclusive
+a	om	no	neobvyklý	inclusive
+n	pa	yes	poradca-at-právne	inclusive
+v	qas	no	nalíčiť	inclusive
+n	pa	yes	predajca rýb	inclusive
+a	asm	no	hnedý	inclusive
+n	ddp	yes	zmrd	conservative
+n	an	no	sukne prenasledovateľ	conservative
+n	dmc	yes	falošný hráč	conservative
+n	dmc	yes	tulák	conservative
+n	cds	no	previnilec	conservative
+n	an	no	vši	inclusive
+n	cds	no	ingroup	inclusive
+n	cds	no	křupan	conservative
+n	ddp	yes	šarlatánstvo	conservative
+n	ps	yes	mongolskej	inclusive
+n	re	no	mučiteľov	inclusive
+n	an	no	ornament	conservative
+n	pa	yes	wooer	inclusive
+n	cds	no	sliedič	conservative
+n	cds	no	masy	inclusive
+n	om	no	homosexuálny	conservative
+n	cds	no	rozumbrada	conservative
+n	pr	no	kravička	inclusive
+n	re	no	zloduch	conservative
+n	ps	yes	bulhar	inclusive
+n	ddp	yes	microcephalic	inclusive
+n	svp	no	no-účet	conservative
+v	qas	no	líčiť	inclusive
+n	an	no	Žabotvaré	inclusive
+n	cds	no	domového odpadu	conservative
+n	or	no	spuda	inclusive
+n	or	no	fenikel	inclusive
+n	qas	no	kanvica rýb	inclusive
+n	re	no	plagiát	inclusive
+n	cds	no	propagandista	inclusive
+n	an	no	sania voš	inclusive
+n	qas	no	babranie	inclusive
+n	asm	no	hneď	inclusive
+n	ddp	yes	trúba	conservative
+n	cds	no	latríny	inclusive
+n	cds	no	chaos	conservative
+n	ps	yes	Černosi	inclusive
+n	cds	no	bigotný človek	conservative
+n	an	no	slaboch	conservative
+n	an	no	vretenica severná	inclusive
+n	an	no	doodly-squat	conservative
+n	cds	no	nymfomanka	inclusive
+n	cds	no	paparazzi	inclusive
+n	svp	no	náboženský fanatik	conservative
+n	cds	no	zbabelosť	conservative
+n	om	no	ušľachtilá žena	inclusive
+n	an	no	chlapcom nájmu	conservative
+n	ddp	yes	idiotia	conservative
+n	ps	yes	rómov	inclusive
+n	an	no	diddl	conservative
+n	qas	no	top executive	inclusive
+n	an	no	papagájotvaré	inclusive
+n	or	no	murphy	inclusive
+n	an	no	loricata	inclusive
+n	ps	yes	kríženie	inclusive
+n	asm	no	idiot	inclusive
+n	is	yes	tragický darebák	conservative
+n	cds	no	rodu	inclusive
+v	re	no	ošklbať	inclusive
+n	ps	yes	mongoli	inclusive
+n	re	no	sexuálnych útokov	inclusive
+n	re	no	vraždy prvého stupňa	inclusive
+n	dmc	yes	podvodník	conservative
+n	cds	no	vodcu	inclusive
+n	cds	no	prostredník	inclusive
+n	re	no	roztopašníkov	conservative
+n	cds	no	blunderer	conservative
+n	is	yes	chudák	conservative
+n	an	no	sviňa	inclusive
+n	an	no	živočích	inclusive
+n	an	no	chlap mizerná	conservative
+n	dmc	yes	zradcu	conservative
+n	om	no	gayov	inclusive
+n	ps	yes	romanis	inclusive
+n	an	no	sviňa domáca	inclusive
+n	cds	no	arriviste	inclusive
+n	qas	no	endoparasites	inclusive
+n	cds	no	blbec-off	conservative
+n	dmc	yes	treasonist	conservative
+n	ps	yes	vôl	conservative
+n	ddp	yes	prdel	conservative
+n	dmc	yes	odpadlík	conservative
+n	re	no	šelestu dobytku	inclusive
+n	cds	no	vozidlo cesty	inclusive
+n	cds	no	medzičlánok	inclusive
+n	cds	no	vaunter	conservative
+n	ps	yes	izraelita	inclusive
+n	ddp	yes	zaostalosť	inclusive
+a	svp	no	pažravý	inclusive
+n	cds	no	modlárstvo	inclusive
+n	an	no	vták minerva	inclusive
+n	cds	no	opuchla hlava	conservative
+n	ddf	yes	nespôsobilosť	inclusive
+n	ps	yes	Čierna rasa	inclusive
+n	qas	no	parazit	conservative
+n	an	no	ploštica domáca	inclusive
+n	ddp	yes	šarlatán lekára	conservative
+n	an	no	zubor lesný	inclusive
+n	om	no	plantárna	inclusive
+n	cds	no	japonských jednotiek merania	inclusive
+n	cds	no	uličník	conservative
+n	cds	no	botcher	conservative
+n	asm	no	dôverčivosť	conservative
+n	pa	yes	akademický	inclusive
+n	re	no	uličník	inclusive
+n	cds	no	skupina	inclusive
+n	or	no	gay	conservative
+n	cds	no	pedanta	conservative
+n	svp	no	lenivosť	inclusive
+n	or	no	pillock	conservative
+n	qas	no	prekrúcanie pravdy	conservative
+n	cds	no	novinárka	inclusive
+v	an	no	vystrájať	conservative
+n	an	no	obmedzenec	conservative
+n	re	no	usmrtenie	inclusive
+n	re	no	detektív z oddelenia vrážd	inclusive
+n	asm	no	orgán	inclusive
+n	asm	no	hnedý	inclusive
+n	or	no	finocchio	inclusive
+n	an	no	svine	inclusive
+n	cds	no	jednoduchí ľudia	conservative
+n	cds	no	neplechu	conservative
+n	an	no	slimák	inclusive
+n	an	no	paroháč	conservative
+n	an	no	hirudinean	inclusive
+a	ddp	yes	pochabý	conservative
+n	ps	yes	nigga	conservative
+n	an	no	ixodidae	inclusive
+n	asm	no	zasraný	conservative
+n	an	no	kozou	inclusive
+n	an	no	frogspawn	inclusive
+n	pr	no	cudzoložnica	conservative
+n	cds	no	záujmová skupina	inclusive
+n	ps	yes	metoikovia	inclusive
+n	dmc	yes	odpadlíčka	conservative
+n	ddp	yes	negramotnosť	inclusive
+n	cds	no	dobytok rustler	inclusive
+n	cds	no	bragger	conservative
+n	qas	no	vedomá nedbalosť	inclusive
+n	an	no	git	conservative
+n	an	no	Úhorotvaré	inclusive
+n	pr	no	prostitútka	inclusive
+n	is	yes	darebný	conservative
+n	asm	no	zahnědění	inclusive
+n	ddp	yes	pillock	conservative
+n	an	no	ropuchy	inclusive
+n	an	no	rod capra	inclusive
+n	cds	no	debil	conservative
+n	an	no	brent	inclusive
+n	om	no	transvestitita	inclusive
+n	cds	no	newsmonger	conservative
+n	asm	no	onanovať	conservative
+n	cds	no	človekom hybridný	inclusive
+n	an	no	ľudožrút	inclusive
+n	dmc	yes	nešťastník	inclusive
+n	dmc	yes	šašo	inclusive
+n	qas	no	zmiešať-mandel	inclusive
+n	cds	no	úžerník	conservative
+n	qas	no	testes	inclusive
+n	cds	no	úžerníkov	conservative
+n	ddf	yes	telesne postihnutých	inclusive
+n	dmc	yes	dobrý-pre-nič	conservative
+n	dmc	yes	falošný	conservative
+n	asm	no	hlupáčik	conservative
+n	an	no	ovce domácej	inclusive
+n	pa	yes	predavač cestov. lístkov	inclusive
+n	is	yes	opustený	inclusive
+n	asm	no	mäkký lúč	inclusive
+n	ddp	yes	žvanil	conservative
+n	cds	no	malé dieťa	inclusive
+n	re	no	traducer	conservative
+n	an	no	komáre	inclusive
+n	dmc	yes	git	inclusive
+n	asm	no	vtákov	inclusive
+n	an	no	muggins	conservative
+n	an	no	moo-cow	inclusive
+n	svp	no	márnosti	conservative
+n	pr	no	homosexuálna prostitúcia	conservative
+n	cds	no	všetečka	conservative
+n	cds	no	iluzionista	conservative
+n	cds	no	donášača	conservative
+n	ps	yes	interfertilita	inclusive
+n	ddp	yes	odročiť	conservative
+n	pa	yes	ovčiakmi	inclusive
+n	cds	no	kotérie	inclusive
+n	cds	no	podliak	conservative
+n	asf	no	hlupáčik	conservative
+n	asm	no	changelings	inclusive
+n	dmc	yes	chlap mizerná	inclusive
+n	asf	no	pizda	conservative
+n	ddp	yes	retard	inclusive
+n	cds	no	hojnosť	inclusive
+n	ps	yes	romovia	inclusive
+n	svp	no	ryhovacie	conservative
+n	dmc	yes	uličník	inclusive
+n	re	no	zúrivosť	inclusive
+n	om	no	homosexuálna preferencia	inclusive
+n	is	yes	nízkymi príjmami	inclusive
+n	ps	yes	rómovia	inclusive
+n	svp	no	arogancia	conservative
+n	cds	no	idiolatry	inclusive
+n	cds	no	sviňa	conservative
+n	asf	no	ochlpenie	inclusive
+n	ddp	yes	dravosť	conservative
+n	ps	yes	hlboká duševná zaostalosť	conservative
+n	an	no	cundra	conservative
+n	cds	no	problém	conservative
+n	dmc	yes	zápach	conservative
+n	ddp	yes	moronity	inclusive
+n	dmc	yes	poľutovaniahodný človek	inclusive
+n	cds	no	kriminálnej	inclusive
+n	cds	no	narcis	inclusive
+n	pa	yes	white-collar worker	inclusive
+n	dmc	yes	villainess	conservative
+n	cds	no	pedant	conservative
+n	an	no	zamračenie	inclusive
+n	cds	no	drzý bulvárny fotograf	inclusive
+n	an	no	infauna	inclusive
+n	pa	yes	obchodník s rybami	inclusive
+v	re	no	oberať o niečo	inclusive
+n	svp	no	ľahostajnosť	inclusive
+n	dmc	yes	foetor	conservative
+n	ddp	yes	sprostota	inclusive
+n	or	no	orech squash	inclusive
+n	dmc	yes	pseudo	conservative
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	qas	no	köln	inclusive
+n	pr	no	mol	inclusive
+n	cds	no	intelektuál	inclusive
+n	an	no	capra hircus	inclusive
+n	cds	no	zvrhlík	conservative
+n	cds	no	nepravda	conservative
+n	an	no	Žralok modrý	inclusive
+n	cds	no	kmeňových spoločnostiach	inclusive
+n	asm	no	maroon	inclusive
+n	an	no	svetluška svätojánska	inclusive
+n	dmc	yes	zločinec	inclusive
+n	cds	no	učiteľka	conservative
+n	an	no	villainess	conservative
+n	qas	no	fušer	conservative
+n	an	no	zooerastia	conservative
+n	ddp	yes	zajatec	inclusive
+n	is	yes	psanec	inclusive
+n	re	no	chiseler	inclusive
+n	ddp	yes	asshole	conservative
+n	qas	no	ragtag	conservative
+n	om	no	koniec lane	inclusive
+n	qas	no	práce v domácnosti	inclusive
+n	cds	no	paparazzo	inclusive
+n	qas	no	zpackat	inclusive
+n	cds	no	železný šrot	inclusive
+n	cds	no	fanúšik	inclusive
+n	cds	no	chovateľ vtákov alebo zvierat	inclusive
+n	cds	no	priekupník	inclusive
+n	pa	yes	akademickej obce	inclusive
+n	cds	no	nemluvňa	inclusive
+n	svp	no	oplzlé	inclusive
+n	pr	no	kupliermi	conservative
+n	re	no	rogue	conservative
+n	ps	yes	nemotorne	conservative
+n	an	no	vliekli	conservative
+n	cds	no	talianskej mafie	inclusive
+n	pr	no	rat nórsko	inclusive
+n	svp	no	amour propre	conservative
+n	an	no	epifaunal	inclusive
+n	cds	no	zúfalec	inclusive
+n	qas	no	kiks	inclusive
+n	qas	no	buržoázie	inclusive
+n	cds	no	šviháci	inclusive
+n	an	no	looter	inclusive
+n	is	yes	naničhodník	conservative
+n	om	no	invalid	conservative
+n	an	no	trpaslík	conservative
+n	om	no	crossdressing	inclusive
+n	cds	no	fumbler	conservative
+n	cds	no	povaľač	conservative
+n	svp	no	dlhá chviľa	inclusive
+n	re	no	darebák	conservative
+n	an	no	pišťanie sova	inclusive
+n	qas	no	konformista	conservative
+n	asm	no	široký-bean	inclusive
+n	pr	no	kurevnictví	conservative
+n	qas	no	sliedil	inclusive
+n	cds	no	výsledky	inclusive
+n	cds	no	nemehlo	conservative
+n	svp	no	vystatovačnosť	inclusive
+n	cds	no	free mason	inclusive
+n	cds	no	zhluk	inclusive
+n	cds	no	trma-vrma	conservative
+n	asm	no	mladý kohút	inclusive
+n	ps	yes	soft touch	conservative
+n	re	no	maligner	conservative
+n	an	no	žralokov	inclusive
+n	asf	no	lunkhead	conservative
+n	om	no	gej	conservative
+n	cds	no	verejné wc	inclusive
+n	om	no	fenikel	inclusive
+n	cds	no	spupnosť	conservative
+n	ps	yes	judaizmu	inclusive
+n	an	no	balón hltač	inclusive
+n	qas	no	bloopers	inclusive
+n	asm	no	erekcia	inclusive
+n	cds	no	chvastúni	conservative
+n	an	no	ropucha bradavičnatá	inclusive
+n	svp	no	nadutosť	inclusive
+n	ddp	yes	väzeň	inclusive
+n	cds	no	drobnosti	inclusive
+n	an	no	kliešte	inclusive
+n	qas	no	mišmaš	inclusive
+n	cds	no	zbabrat	inclusive
+n	asf	no	imbecil	conservative
+n	om	no	profily	inclusive
+n	ddp	yes	hlúposti	conservative
+n	qas	no	koterec	inclusive
+n	or	no	rajčina	inclusive
+n	ddp	yes	idiotství	inclusive
+n	re	no	švindliar	inclusive
+n	cds	no	problému	conservative
+n	om	no	sodomita	inclusive
+n	cds	no	kanalizácia	inclusive
+n	an	no	ignorant	conservative
+n	an	no	bison	inclusive
+n	is	yes	bieda	inclusive
+n	pa	yes	rybami	inclusive
+a	qas	no	obvyklé	inclusive
+n	or	no	homosexuál	conservative
+n	pr	no	krava	inclusive
+n	qas	no	smutný vrece	conservative
+n	cds	no	drobný zlodej	inclusive
+n	an	no	neporiadník	conservative
+n	cds	no	nympho	conservative
+n	qas	no	hmotnosť pásu	inclusive
+n	ps	yes	kraut	conservative
+n	ddp	yes	somár	conservative
+a	qas	no	patriaci k strednej triede	inclusive
+n	cds	no	broker	inclusive
+n	om	no	sodomized	inclusive
+n	asm	no	stoporenie	inclusive
+n	cds	no	blázon	conservative
+n	cds	no	autolatry	inclusive
+n	cds	no	spolok	inclusive
+n	cds	no	relikvie	inclusive
+n	an	no	šakaly	inclusive
+n	ps	yes	židovskej komunity	inclusive
+n	cds	no	cosa nostra	inclusive
+n	cds	no	policajt	conservative
+n	dmc	yes	vyhnanstvom	inclusive
+n	cds	no	nambu-pamba	conservative
+n	qas	no	šarlatán	conservative
+n	dmc	yes	vyhnanec	inclusive
+n	cds	no	zmätok	inclusive
+n	dmc	yes	podliak	conservative
+n	cds	no	zdochlina	inclusive
+n	pr	no	hovädzí dobytok	inclusive
+n	cds	no	zlodejíček	conservative
+n	an	no	zúrivosť	conservative
+n	cds	no	zbabelosť	inclusive
+n	an	no	american buffalo	inclusive
+n	pr	no	potkan hnedastý	inclusive
+n	asm	no	odročiť	inclusive
+n	asm	no	hlupák	conservative
+n	an	no	vretenica obyčajná	inclusive
+n	qas	no	necrotrophic	inclusive
+n	asm	no	falický	inclusive
+n	an	no	somár domáci	inclusive
+n	cds	no	vojny gangov	conservative
+n	cds	no	scientizmus	inclusive
+n	an	no	rouncey	inclusive
+n	an	no	spoločný komár	inclusive
+n	ddp	yes	betis	conservative
+n	dmc	yes	nepravda	inclusive
+n	an	no	bison bison	inclusive
+n	om	no	buziš	inclusive
+v	an	no	rozčuľovať sa	conservative
+n	cds	no	konformista	conservative
+n	cds	no	nevychovanec	conservative
+n	pa	yes	obhajca	inclusive
+n	cds	no	guľa-up	inclusive
+n	dmc	yes	neotesanec	conservative
+n	cds	no	sass	inclusive
+n	cds	no	zakrslík	conservative
+n	qas	no	díler	inclusive
+n	or	no	uhorka	inclusive
+n	cds	no	hlúpy	conservative
+n	cds	no	blabbermouth	conservative
+n	ps	yes	čierny	inclusive
+n	ddp	yes	idiot	inclusive
+n	om	no	proximálnej	inclusive
+n	om	no	fenikel obyčajný	inclusive
+n	cds	no	trasformismo	inclusive
+n	cds	no	cancy	conservative
+n	cds	no	sťahovanie dát	conservative
+n	cds	no	sicílska mafia	conservative
+n	cds	no	delikvent	conservative
+n	pr	no	nezmysly	conservative
+n	asf	no	rozkrok vlasy	inclusive
+n	pa	yes	cordwainer	inclusive
+n	cds	no	hrubá chyba	inclusive
+n	an	no	blbec	conservative
+n	ddp	yes	cancy	conservative
+n	cds	no	chválil	conservative
+n	an	no	limacidae	inclusive
+n	cds	no	stúpenec	conservative
+n	an	no	koza	inclusive
+n	is	yes	odpadlík	inclusive
+n	an	no	poulet	inclusive
+n	asm	no	roosting	inclusive
+n	an	no	zviera	inclusive
+n	qas	no	hospodár	inclusive
+n	an	no	prasatá	inclusive
+n	re	no	priekupník	inclusive
+n	ddp	yes	bumbler	conservative
+n	an	no	pudge	conservative
+n	cds	no	dôstojník	conservative
+n	dmc	yes	luhár	inclusive
+n	cds	no	banditti	inclusive
+n	qas	no	výtržník	conservative
+n	qas	no	vajce	inclusive
+n	an	no	švába	inclusive
+n	cds	no	spodina taška	conservative
+n	cds	no	predajnosť	inclusive
+n	re	no	mučí	inclusive
+n	dmc	yes	etické motív	inclusive
+n	dmc	yes	nešťastný	inclusive
+n	ddp	yes	oklamaný	conservative
+n	qas	no	cigánstvo	conservative
+n	om	no	ipsilaterálny	inclusive
+n	re	no	mladistvý delikvent	conservative
+n	cds	no	zbojníctvo	conservative
+n	om	no	pederast	conservative
+n	ddp	yes	podvedený	conservative
+n	cds	no	nehanebnosť	conservative
+n	an	no	had v tráve	conservative
+n	qas	no	bloohound	inclusive
+n	an	no	vamper	conservative
+v	asm	no	drbať	conservative
+n	svp	no	arogantnosť	inclusive
+n	cds	no	úžera	inclusive
+n	dmc	yes	half-pint	conservative
+n	ddp	yes	brutalita	inclusive
+n	svp	no	domýšľavosť	inclusive
+n	an	no	anguilla	inclusive
+n	pa	yes	univerzitný profesor	inclusive
+n	cds	no	rodiny	inclusive
+n	dmc	yes	zavádzanie	conservative
+n	svp	no	vypínavosť	inclusive
+n	cds	no	dobytok zlodej	inclusive
+n	re	no	mučivý	inclusive
+n	re	no	lúpeží	inclusive
+n	ddp	yes	negramotní osoba	inclusive
+n	pa	yes	nosič batožiny	inclusive
+n	re	no	delikt	inclusive
+n	an	no	papagáje	inclusive
+n	om	no	buchty	inclusive
+n	qas	no	fušerstvo	inclusive
+n	ps	yes	Židovské náboženstvo	inclusive
+n	qas	no	obchodný vedúci	inclusive
+n	cds	no	huby	inclusive
+n	an	no	peň	conservative
+n	asm	no	betis	conservative
+n	ps	yes	vandali	inclusive
+n	re	no	šmelinár	inclusive
+n	om	no	transvestita	inclusive
+n	an	no	volov	inclusive
+n	an	no	rodina cimicidae	inclusive
+n	an	no	lidožrout	inclusive
+n	pa	yes	barbar	conservative
+n	an	no	havo	inclusive
+n	an	no	slimák záhradný	inclusive
+n	re	no	zakázaný	inclusive
+n	an	no	shot	inclusive
+n	re	no	násilník	conservative
+n	ddp	yes	čubčí syn	conservative
+n	cds	no	prispievateľ	conservative
+n	cds	no	zradný	conservative
+n	an	no	ošípaná	inclusive
+n	an	no	inexorableness	conservative
+n	an	no	špinavosť	conservative
+n	an	no	capra hircus hircus	inclusive
+n	cds	no	kľučka	inclusive
+n	or	no	pico	conservative
+n	cds	no	švindliar	conservative
+n	dmc	yes	strakatý blázon	inclusive
+n	cds	no	postrapatiť	conservative
+n	ps	yes	hlupák	conservative
+n	pa	yes	pokladník	inclusive
+n	pa	yes	jezuita	inclusive
+n	re	no	falošný hráč	inclusive
+n	dmc	yes	zlý človek	conservative
+n	re	no	násilníkov	conservative
+n	ddf	yes	nepeknosť	inclusive
+n	cds	no	zakázaný	inclusive
+n	qas	no	amatér	inclusive
+n	an	no	hlupáčik	conservative
+n	dmc	yes	morálne hodnoty	inclusive
+n	cds	no	zlodejský	inclusive
+n	cds	no	faloš	conservative
+n	dmc	yes	prasa	conservative
+n	an	no	jedlé slimák	inclusive
+n	cds	no	kokot	conservative
+n	cds	no	ton	inclusive
+n	cds	no	šľachtiteľov rastlín	inclusive
+a	svp	no	nenásytný	inclusive
+n	qas	no	poľnohospodársky pracovník	inclusive
+n	om	no	transvestit	inclusive
+v	cds	no	klebetiť	inclusive
+v	asm	no	pichať	conservative
+n	an	no	pip-piskot	conservative
+n	dmc	yes	puch	conservative
+a	om	no	neprirodzený	inclusive
+n	an	no	ničomník	conservative
+n	om	no	gayov	conservative
+n	ddp	yes	donáška	conservative
+n	asm	no	profesionálny faul	inclusive
+n	cds	no	conceitedness	conservative
+n	re	no	podfukár	inclusive
+n	an	no	afekt	inclusive
+n	dmc	yes	banditti	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	dmc	yes	lingerer	conservative
+n	re	no	vyhnanstvom	inclusive
+n	cds	no	ťažkosť	conservative
+n	cds	no	prerieknutie	inclusive
+n	cds	no	klamár	conservative
+n	ddp	yes	makrofaunu	inclusive
+n	ddp	yes	divoch	conservative
+n	is	yes	chudáka	inclusive
+n	pa	yes	právny zástupca	inclusive
+n	an	no	moue	inclusive
+n	asm	no	patsy	conservative
+n	ps	yes	človekom hybridný	inclusive
+n	qas	no	stredná trieda	inclusive
+n	pr	no	konkubín	inclusive
+n	cds	no	narcistický	inclusive
+n	om	no	dáma	inclusive
+n	qas	no	obchodník	inclusive
+n	cds	no	ničomník	conservative
+n	asf	no	idiotia	conservative
+n	ddf	yes	invalid	inclusive
+n	cds	no	fašizmus	conservative
+n	om	no	ventrolaterálně	inclusive
+n	cds	no	učiteľov	inclusive
+n	ddp	yes	truľo	conservative
+n	dmc	yes	bandita	conservative
+n	re	no	chiseller	inclusive
+n	ddp	yes	obetný baránok	conservative
+a	pa	yes	teoretický	inclusive
+n	asf	no	mamlas	conservative
+n	asm	no	dimwit	conservative
+n	cds	no	blbec	conservative
+n	ps	yes	vandal	conservative
+n	re	no	terorista	conservative
+n	an	no	moskyt	inclusive
+n	pr	no	konkubíny	inclusive
+n	cds	no	Úroková úžera	conservative
+n	om	no	zadnice	inclusive
+n	re	no	násilia	inclusive
+n	an	no	spodina	conservative
+n	dmc	yes	klauni	inclusive
+n	asm	no	pterygiophore	inclusive
+n	svp	no	nečinnosť	inclusive
+n	qas	no	blunderer	conservative
+n	svp	no	topánka-off	conservative
+n	cds	no	štrajkokaz	inclusive
+n	cds	no	nemanželské dieťa	inclusive
+n	cds	no	nováčik	conservative
+n	is	yes	vyvrheľ	inclusive
+n	cds	no	kopáč	inclusive
+n	or	no	kretén	conservative
+n	om	no	teploška	inclusive
+n	cds	no	wanke	conservative
+n	qas	no	mazal	conservative
+n	ps	yes	mongolid	conservative
+n	pa	yes	profesor	inclusive
+n	dmc	yes	páchnuť	conservative
+n	an	no	domácich oviec	inclusive
+n	cds	no	camorra	inclusive
+n	pa	yes	sekretár	inclusive
+n	or	no	stupe	conservative
+n	cds	no	mafián	conservative
+n	an	no	premlčané sova	inclusive
+n	ddp	yes	spodina	conservative
+n	cds	no	klany	inclusive
+n	dmc	yes	ten a ten	inclusive
+n	an	no	mol	inclusive
+n	an	no	cakehole	inclusive
+n	ddp	yes	gossiper	conservative
+n	pa	yes	bellman	inclusive
+n	re	no	lup	inclusive
+n	an	no	bed bug	inclusive
+n	asf	no	baba	conservative
+n	ps	yes	Židovské vyznanie	inclusive
+n	pa	yes	nápadník	inclusive
+n	ddp	yes	nič neviem	conservative
+n	cds	no	pudden hlava	conservative
+n	pa	yes	cestovných lístkov	inclusive
+v	cds	no	pobrať sa	inclusive
+n	cds	no	nečistota	conservative
+n	cds	no	člen gangu	inclusive
+n	ddp	yes	pochabosť	conservative
+n	cds	no	čarbanica	inclusive
+n	cds	no	bloopers	inclusive
+n	cds	no	pes	conservative
+n	pr	no	suka	conservative
+n	svp	no	držgroš	conservative
+n	om	no	queer	conservative
+n	an	no	zelenáč	inclusive
+n	cds	no	vyhnanstvom	conservative
+n	cds	no	pedantská	conservative
+n	ddp	yes	mentálne	inclusive
+n	ddp	yes	nespôsobilá osoba	conservative
+n	re	no	uniesť	inclusive
+n	re	no	odsúdený zločinec	inclusive
+n	pa	yes	zamestnanec	inclusive
+n	qas	no	babroš	conservative
+n	or	no	zemiaková	inclusive
+n	cds	no	moaner	conservative
+n	ps	yes	Ázijsko-americká rasa	conservative
+n	an	no	larva	inclusive
+n	ddp	yes	metazoá	inclusive
+n	cds	no	sniveller	conservative
+n	qas	no	bourgeois	inclusive
+n	re	no	cosa nostra	conservative
+n	cds	no	korešpondentov	inclusive
+n	svp	no	scrooge	conservative
+n	qas	no	ilúzia	inclusive
+n	cds	no	vedeckosti	inclusive
+n	asm	no	kus zadku	conservative
+n	an	no	spodina taška	conservative
+n	ddp	yes	prostý človek	conservative
+n	ps	yes	romani	inclusive
+n	ps	yes	izraelitov	inclusive
+n	qas	no	rétoricky	inclusive
+n	ps	yes	mestic	conservative
+n	an	no	marodér	conservative
+n	qas	no	chalupa	inclusive
+n	an	no	dravosť	conservative
+n	cds	no	trúba	conservative
+n	an	no	barbarstvo	inclusive
+n	ddp	yes	amentia	inclusive
+n	om	no	homophile	inclusive
+n	cds	no	umyváreň	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	qas	no	hrubá chyba	inclusive
+v	re	no	hnevať	inclusive
+n	an	no	Šakal	inclusive
+n	ps	yes	obetný baránok	conservative
+n	or	no	paradajka	inclusive
+n	an	no	muttonhead	conservative
+n	cds	no	balíky	inclusive
+n	ddp	yes	ignorant	conservative
+a	asm	no	hnedá	inclusive
+n	asf	no	betis	conservative
+n	pr	no	lampyris noctiluca	inclusive
+n	qas	no	sprostosť	inclusive
+n	cds	no	bigotnost	conservative
+n	ddp	yes	nešika	conservative
+n	cds	no	omnium-gatherum	inclusive
+n	cds	no	chuj	conservative
+n	pa	yes	finančný kontrolór	inclusive
+n	an	no	divoký vôl	inclusive
+n	an	no	zahýbať	conservative
+n	is	yes	scrooge	conservative
+v	asm	no	sexovať	conservative
+n	or	no	lunkhead	conservative
+v	re	no	čmajznúť	inclusive
+n	qas	no	flákať sa	conservative
+n	pa	yes	mimoriadnym fakulty	inclusive
+n	svp	no	hanebnosti	inclusive
+n	qas	no	zmes	inclusive
+n	cds	no	zlosyn	conservative
+n	cds	no	záchod	inclusive
+n	ps	yes	ostrogoth	inclusive
+n	cds	no	modlárske	inclusive
+n	ddp	yes	mountebank	conservative
+a	om	no	nezvyčajný	inclusive
+n	cds	no	hutnícky odpad	inclusive
+n	cds	no	babroš	conservative
+n	om	no	urodzená dáma	inclusive
+n	ddp	yes	peň	conservative
+n	cds	no	mutt	inclusive
+a	ddp	yes	pochabé	conservative
+n	an	no	brutalita	conservative
+n	pr	no	nadutú reč	conservative
+n	an	no	zlý človek	conservative
+n	an	no	kura domáca	inclusive
+n	cds	no	chiseller	conservative
+n	re	no	vraždy	inclusive
+n	an	no	floozie	conservative
+n	cds	no	sprisahanie ticha	inclusive
+n	pr	no	sexuálnych služieb	conservative
+n	ddp	yes	epifauna	inclusive
+n	cds	no	chlapec	inclusive
+n	dmc	yes	tramp	conservative
+n	cds	no	religiozita	inclusive
+v	re	no	mučiť	inclusive
+n	re	no	únoscovia	inclusive
+n	an	no	mračiť sa	inclusive
+n	re	no	mučený	inclusive
+n	or	no	tatier	inclusive
+n	asm	no	testis	inclusive
+n	an	no	relentlessness	conservative
+n	cds	no	truckler	conservative
+n	om	no	zadoček	inclusive
+n	an	no	ľudského tela vši	inclusive
+n	an	no	kura	inclusive
+n	pa	yes	pohrebného ústavu	inclusive
+n	an	no	ťulpas	conservative
+n	an	no	spoločný zmija	inclusive
+a	om	no	rozdielny	inclusive
+n	an	no	krokodíly	inclusive
+n	an	no	žralok belasý	inclusive
+n	svp	no	ravenousness	conservative
+n	dmc	yes	rozhazovačný	inclusive
+n	is	yes	podliak	conservative
+n	an	no	bison bonasus	inclusive
+n	cds	no	zlodeji	inclusive
+n	cds	no	andrománia	inclusive
+n	qas	no	na prácu	inclusive
+n	qas	no	zväzovanie	inclusive
+n	an	no	Žralok ľudožravý	inclusive
+n	dmc	yes	fetor	conservative
+n	cds	no	špeh	conservative
+n	or	no	queer	conservative
+n	ddp	yes	lunkhead	conservative
+n	an	no	zloduch	conservative
+n	ddp	yes	mentálnym postihnutím	inclusive
+v	re	no	kradnúť	inclusive
+n	dmc	yes	smutný vrece	conservative
+n	an	no	ropucha	inclusive
+n	cds	no	prelát	inclusive
+n	an	no	ňufák	inclusive
+n	cds	no	robotníka	inclusive
+n	or	no	sprosták	conservative
+v	cds	no	prezradiť	inclusive
+n	is	yes	chudák	inclusive
+n	cds	no	pouličných gangov	conservative
+n	pa	yes	profesorov	inclusive
+n	an	no	zvierackosti	conservative
+n	an	no	zajac	inclusive
+n	re	no	ozbrojených lúpeží	inclusive
+a	pa	yes	teoretické	inclusive
+n	is	yes	lump	conservative
+n	qas	no	poľnohospodárov	inclusive
+n	ps	yes	negro	inclusive
+n	ps	yes	mestizaje	conservative
+n	dmc	yes	pseud	conservative
+n	cds	no	úžerníka	conservative
+n	re	no	exact	inclusive
+n	cds	no	lupič	conservative
+n	ddp	yes	muttonhead	conservative
+n	cds	no	papier-pusher	inclusive
+n	re	no	rapine	inclusive
+n	dmc	yes	pes	conservative
+n	re	no	neonaticide	inclusive
+n	cds	no	psanec	conservative
+v	qas	no	líčiť sa	inclusive
+n	an	no	lakomec	conservative
+n	cds	no	konšpiračných teórií	inclusive
+n	qas	no	faloš	conservative
+n	asm	no	truľo	conservative
+n	an	no	podrad blattaria	inclusive
+n	cds	no	kasíno	inclusive
+n	qas	no	rečník	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	dmc	yes	pretvárky	conservative
+n	ps	yes	idiocia	conservative
+n	cds	no	slobodnými slobodomurári	inclusive
+n	qas	no	boner	inclusive
+n	an	no	hlupák	conservative
+a	dmc	yes	znečistené	inclusive
+n	an	no	dobytok	inclusive
+n	an	no	hlemýžď záhradný	inclusive
+n	cds	no	nosy-parker	conservative
+n	cds	no	klamstvo	inclusive
+n	an	no	rod vipera	inclusive
+n	ddp	yes	nerozumnosť	inclusive
+n	or	no	gayov	conservative
+n	asm	no	idiotia	inclusive
+n	re	no	sexuálne útok	inclusive
+n	ps	yes	blackamoor	inclusive
+n	re	no	zneužívaniu firemných	inclusive
+n	qas	no	natierač	inclusive
+n	an	no	somár	inclusive
+n	dmc	yes	zlo	inclusive
+n	dmc	yes	psanec	inclusive
+n	cds	no	konšpiračná teória	inclusive
+n	re	no	raptio	inclusive
+n	pr	no	potkany	inclusive
+n	re	no	infanticída	inclusive
+n	dmc	yes	divoch	conservative
+n	cds	no	krasopisec	conservative
+n	om	no	poove	conservative
+n	pr	no	prostitútky	conservative
+n	or	no	brassica rapa	inclusive
+n	pr	no	volov	inclusive
+n	ps	yes	kríženec	inclusive
+a	svp	no	naštvaný	inclusive
+n	re	no	dobytok rustler	inclusive
+n	asf	no	changelings	conservative
+n	cds	no	kupliermi	inclusive
+n	cds	no	odpadky	conservative
+n	re	no	vydieranie	conservative
+n	re	no	mladistvý previnilec	conservative
+n	cds	no	šprtom	conservative
+n	re	no	sprenevera	inclusive
+n	asm	no	teste	inclusive
+n	svp	no	tightfistedness	conservative
+n	an	no	ecaudata	inclusive
+n	an	no	psa domáceho	inclusive
+n	ddp	yes	žvanil	inclusive
+n	svp	no	ješitnosť	inclusive
+n	ddp	yes	mentálny deficit	inclusive
+n	pr	no	john	inclusive
+n	asm	no	vták	conservative
+n	dmc	yes	trifler	conservative
+n	qas	no	všehochuť	inclusive
+n	an	no	hyeny	inclusive
+n	cds	no	stáda zvierat	inclusive
+n	re	no	obťažoval	inclusive
+n	cds	no	pasák	conservative
+n	cds	no	loanshark	conservative
+n	ddp	yes	nemotorne	conservative
+n	qas	no	prostý	inclusive
+a	ps	yes	čínskej	inclusive
+n	an	no	tragické darebák	conservative
+n	cds	no	narcizmus	inclusive
+n	qas	no	pestovateľ	inclusive
+n	cds	no	nepravda	inclusive
+n	cds	no	dôstojník opráv	inclusive
+n	svp	no	povaľač	conservative
+n	asm	no	chuj	conservative
+n	dmc	yes	fanatizmus	conservative
+n	cds	no	pandar	conservative
+n	cds	no	veľký neumývané	conservative
+n	cds	no	ľudia	conservative
+n	an	no	červ	inclusive
+n	cds	no	homunculi	inclusive
+v	re	no	ukradnúť	inclusive
+n	ps	yes	inkiness	inclusive
+n	pa	yes	hlavný účtovník	inclusive
+n	cds	no	nevestinec	inclusive
+n	cds	no	scrawler	conservative
+n	asm	no	hnedá farba	inclusive
+n	re	no	furiousness	inclusive
+n	svp	no	abulia	inclusive
+n	cds	no	boo-boo	inclusive
+n	pr	no	táraniny	conservative
+a	dmc	yes	špinavý	inclusive
+n	cds	no	páchateľa	inclusive
+n	pr	no	konkubína	inclusive
+n	re	no	lupič ozbrojený	inclusive
+n	asm	no	kretén	inclusive
+n	re	no	koristník	inclusive
+n	or	no	homoš	conservative
+v	cds	no	zanikať	inclusive
+n	pa	yes	dopisujúcim členom	inclusive
+v	an	no	štekať	inclusive
+n	pr	no	nórsko krysa	inclusive
+n	dmc	yes	rogue	conservative
+n	qas	no	chata	inclusive
+n	cds	no	apple leštička	conservative
+n	an	no	tur domáci	inclusive
+n	qas	no	trhu brankár	inclusive
+n	cds	no	previnilec	inclusive
+n	ddp	yes	fuser	conservative
+n	re	no	obchodné libela	inclusive
+n	an	no	sus	inclusive
+n	pa	yes	poľnohospodár	inclusive
+n	an	no	hnev	inclusive
+n	dmc	yes	klamlivé	conservative
+n	cds	no	konšpiračný teoretik	inclusive
+n	re	no	terorizem	inclusive
+n	an	no	balóna hltač	inclusive
+n	om	no	pederastia	inclusive
+n	ddp	yes	donášača	conservative
+n	an	no	kozie antilopy	inclusive
+n	cds	no	chlubivost	conservative
+n	cds	no	demagogické	conservative
+n	cds	no	prekrúcanie pravdy	conservative
+n	an	no	zooerasty	conservative
+n	asm	no	vôl	conservative
+n	an	no	zverstvo	inclusive
+n	qas	no	ideológ	inclusive
+n	cds	no	hayseed	conservative
+n	an	no	kliešťovité	inclusive
+n	dmc	yes	nešika	conservative
+n	om	no	homosexuálov	inclusive
+v	re	no	šlohnúť	inclusive
+n	ddp	yes	animalia	inclusive
+n	an	no	animalcules	inclusive
+n	asm	no	maxilliped	inclusive
+n	qas	no	prehmat	inclusive
+n	cds	no	inštruktor	inclusive
+n	an	no	ulice dievča	conservative
+n	an	no	zajačikovia	inclusive

@@ -1,0 +1,3056 @@
+pos	category	stereotype	lemma	level
+n	dmc	yes	dilly-dallier	conservative
+n	pr	no	brīvs sieviete	conservative
+n	an	no	animalculum	inclusive
+n	cds	no	junk pastu	inclusive
+n	qas	no	zemnieku	inclusive
+a	ps	yes	ķīniešu	inclusive
+n	pr	no	seksuālo pakalpojumu	inclusive
+n	cds	no	culchie	inclusive
+n	ddp	yes	sīkumi un muļķības	inclusive
+n	pr	no	dāma par prieku	conservative
+n	ddf	yes	fiziski apstrīdēt	inclusive
+n	ps	yes	ebreju	inclusive
+n	cds	no	demagog	conservative
+n	ddp	yes	makrofauna	inclusive
+n	an	no	maitu putni	inclusive
+n	pr	no	mauka	inclusive
+n	cds	no	nelietīgs	conservative
+n	svp	no	lepnums	inclusive
+n	cds	no	lieguma	inclusive
+n	qas	no	metāllūžņu	inclusive
+n	cds	no	pedantiska	conservative
+n	pa	yes	pilns profesors	inclusive
+n	svp	no	conceitedness	conservative
+n	cds	no	fašismu	conservative
+n	dmc	yes	traģisku nelietis	conservative
+n	cds	no	reliģisko diskrimināciju	inclusive
+n	svp	no	korporatīvo alkatību	inclusive
+n	pr	no	vazaņķe	inclusive
+n	pr	no	konkubīne	inclusive
+n	pa	yes	balto apkaklīšu	inclusive
+n	cds	no	hierarhs	inclusive
+n	cds	no	haoss	inclusive
+a	dmc	yes	netikumisks	conservative
+n	or	no	geju	conservative
+n	om	no	homosexualism	inclusive
+n	an	no	ģimenes crocodylidae	inclusive
+n	om	no	cross-kumodes	inclusive
+n	dmc	yes	Ļaundaris	conservative
+n	an	no	culex pipiens	inclusive
+n	an	no	kukaiņu	inclusive
+n	qas	no	blooper	inclusive
+n	cds	no	itālijas mafijas	conservative
+n	cds	no	idiots	conservative
+n	cds	no	māja sliktu reputāciju	inclusive
+n	ps	yes	greutungi	inclusive
+n	cds	no	strikebreakers	inclusive
+n	re	no	slaists	inclusive
+n	re	no	nepilngadīgo likumpārkāpumu	conservative
+n	cds	no	negodīgas	conservative
+n	ps	yes	dabas hibrīds	inclusive
+n	dmc	yes	drifters	inclusive
+n	ddp	yes	dzīvnieku	inclusive
+n	ddp	yes	twirp	conservative
+n	cds	no	grifter	inclusive
+n	cds	no	idiote	conservative
+n	re	no	nelietis	conservative
+n	qas	no	uzlikt ielāpu	inclusive
+n	re	no	spīdzināšanu	inclusive
+n	cds	no	scammer	conservative
+n	an	no	govs	inclusive
+n	cds	no	rokaspuisis	conservative
+n	ps	yes	imbecils	conservative
+n	an	no	fauna	inclusive
+n	pr	no	heterocera	inclusive
+n	cds	no	dimetānnaftalīns romāniem	inclusive
+n	or	no	pampalis	inclusive
+n	pr	no	piparu kožu	inclusive
+n	cds	no	pulciņš	inclusive
+n	re	no	precīzs	inclusive
+n	an	no	ģints vipera	inclusive
+n	cds	no	fanātisks	conservative
+n	re	no	nolaupīt	inclusive
+n	dmc	yes	loiterer	conservative
+n	pr	no	eskortēšana	inclusive
+n	qas	no	nojume	inclusive
+n	cds	no	cilšu cilvēki	inclusive
+n	cds	no	meli	conservative
+n	an	no	krupis	inclusive
+n	cds	no	gļēvulība	conservative
+n	pr	no	gangster s moll	inclusive
+n	an	no	equus asinus x caballus	inclusive
+n	cds	no	omerta	inclusive
+n	cds	no	schoolma'am	conservative
+n	svp	no	niggardliness	conservative
+n	svp	no	baudkārs	inclusive
+n	pa	yes	akadēmiķis	inclusive
+n	re	no	plaģiātisms	inclusive
+n	qas	no	flub	inclusive
+n	cds	no	sanitārās kanalizācijas	inclusive
+n	svp	no	avariciousness	inclusive
+n	ps	yes	kroplītis	conservative
+n	pa	yes	advocator	inclusive
+a	ddf	yes	neglīts	conservative
+n	pa	yes	korespondētājloceklis	inclusive
+n	an	no	haizivis	inclusive
+n	is	yes	Ļaundaris	conservative
+n	cds	no	negatīvais tēls	conservative
+n	dmc	yes	scattergood	inclusive
+n	asm	no	lauku pupas	inclusive
+n	ddp	yes	māte stulbenis	conservative
+n	pr	no	hetaira	inclusive
+n	an	no	lunkhead	conservative
+n	an	no	culicidae	inclusive
+n	an	no	blattaria	inclusive
+n	cds	no	blooper	inclusive
+n	qas	no	lauksaimnieks	inclusive
+n	an	no	cilvēka ēšanas haizivs	inclusive
+n	an	no	krokodils	inclusive
+n	ps	yes	staigulis	inclusive
+n	ddp	yes	nodevīgs	conservative
+n	svp	no	iedomība	conservative
+n	an	no	klausīšanās ierīci	inclusive
+n	re	no	dienesta stāvokļa ļaunprātīgu izmantošanu	inclusive
+n	ps	yes	vandalis	inclusive
+n	an	no	wisent	inclusive
+n	asf	no	saphead	conservative
+n	an	no	putot maisā	conservative
+n	ddp	yes	prater	conservative
+n	cds	no	suteners	conservative
+n	an	no	vista	inclusive
+n	an	no	diddlyshit	conservative
+n	svp	no	fanātiķis	conservative
+n	an	no	bos taurus	inclusive
+n	cds	no	tualetes	inclusive
+n	cds	no	jaundzimušais	inclusive
+n	cds	no	konformists	conservative
+n	an	no	neprātis	conservative
+n	cds	no	muļķības	inclusive
+n	re	no	likumpārkāpums	inclusive
+n	re	no	seksuāli uzbrukums	inclusive
+n	asf	no	muļķība	conservative
+n	svp	no	superbia	conservative
+n	om	no	aizmugure	inclusive
+n	qas	no	baroka arhitektūru	inclusive
+n	dmc	yes	simulants	conservative
+n	cds	no	lowlife	conservative
+n	pa	yes	kasieris	inclusive
+n	qas	no	fieldhand	inclusive
+n	an	no	mājas aitām	inclusive
+n	ps	yes	jūdi	inclusive
+n	ddp	yes	idiots	inclusive
+n	om	no	nance	conservative
+n	cds	no	loanshark	inclusive
+n	cds	no	īgņa	conservative
+n	qas	no	sadzīves atkritumu	inclusive
+n	ps	yes	barbariem	conservative
+n	an	no	līķu zadzējs	inclusive
+n	an	no	carine noctua	inclusive
+n	an	no	blusa	inclusive
+n	or	no	meticulousness	inclusive
+n	cds	no	banditti	conservative
+n	asm	no	sēklinieki	inclusive
+n	an	no	knausis	inclusive
+n	dmc	yes	homunkuls	inclusive
+n	an	no	dzēlējodu dzimta	inclusive
+n	re	no	liellopu rustler	inclusive
+n	asm	no	fuck	conservative
+n	ddp	yes	fumbler	conservative
+n	an	no	tārpi	inclusive
+n	an	no	anguillidae	inclusive
+n	an	no	ģimenes anguillidae	inclusive
+n	qas	no	laukstrādnieks	inclusive
+n	pr	no	ielu meitene	conservative
+n	re	no	uzbrukums	inclusive
+n	cds	no	homunkuls	inclusive
+n	qas	no	biznesa līderi	inclusive
+n	ps	yes	negroīdā rase	inclusive
+n	cds	no	pedagog	inclusive
+n	ps	yes	balts	inclusive
+n	ps	yes	mākslīgs hibrīda	inclusive
+n	cds	no	presumptuousness	conservative
+n	qas	no	rūpnieku	inclusive
+n	cds	no	sadzīves atkritumu	conservative
+n	pa	yes	profesors emeritus	inclusive
+n	ddp	yes	stulba persona	conservative
+n	an	no	zeltainais šakālis	inclusive
+n	pr	no	Žurkas	inclusive
+n	asm	no	muļķis	inclusive
+n	an	no	mīkstmiešu tipam	inclusive
+n	dmc	yes	noziedznieks	inclusive
+n	an	no	dzīvnieki	inclusive
+n	an	no	hirudinea	inclusive
+n	pa	yes	pielūdzējs	inclusive
+a	ddp	yes	muļķīgi	conservative
+n	pr	no	elkdievība	inclusive
+n	cds	no	wangler	conservative
+n	qas	no	zemnieki	inclusive
+n	an	no	stick-in--dubļi	conservative
+n	ddp	yes	stulbs	conservative
+n	ps	yes	plānprātīgs	conservative
+n	cds	no	brokeri	inclusive
+n	svp	no	sīkstulis	conservative
+n	qas	no	baronese	inclusive
+n	dmc	yes	krāpnieks	conservative
+n	re	no	laupītājs	conservative
+n	an	no	nelietis	conservative
+n	pa	yes	uncouthness	conservative
+n	ps	yes	citām rasēm	inclusive
+n	cds	no	banda	inclusive
+n	ps	yes	āzijas	inclusive
+n	qas	no	rokaspuisis	inclusive
+n	cds	no	foxiness	conservative
+n	re	no	traducement	inclusive
+n	re	no	korporatīvās pārkāpumus	inclusive
+n	om	no	homoseksuālis	inclusive
+n	asm	no	bollocks	inclusive
+n	an	no	zelta šakālis	inclusive
+n	an	no	negodīgi	conservative
+n	ddf	yes	invaliditātes	inclusive
+n	cds	no	jūklis	inclusive
+n	pa	yes	zivju pārdevēja	inclusive
+n	cds	no	mazgāt istabu	inclusive
+n	ddp	yes	blēņas	conservative
+n	pa	yes	biļete aģents	inclusive
+n	pa	yes	universitātes profesors	inclusive
+n	ddp	yes	smadzeņu bojājumus	inclusive
+n	an	no	traģisks nelietis	conservative
+n	cds	no	bandītisms	inclusive
+n	cds	no	sliņķis	conservative
+n	cds	no	lepnība	conservative
+n	an	no	helix pomatia	inclusive
+n	cds	no	pērkamība	inclusive
+n	cds	no	narcisms	inclusive
+n	ps	yes	nēģeris	conservative
+n	ddp	yes	analfabēts	inclusive
+n	pa	yes	gane	inclusive
+n	cds	no	slob	conservative
+n	dmc	yes	bandīts	conservative
+n	qas	no	daiļrunība	inclusive
+n	ps	yes	mongoloid	conservative
+n	dmc	yes	bumbler	conservative
+n	an	no	despoiler	inclusive
+n	an	no	tāds un tāds	conservative
+n	cds	no	izsūtāmais	inclusive
+n	cds	no	barbari	conservative
+n	an	no	dusmas	inclusive
+n	ddp	yes	infauna	inclusive
+n	cds	no	jaukta lopbarība	inclusive
+n	an	no	mikroskopisks dzīvnieks	inclusive
+n	cds	no	fabricator	conservative
+n	cds	no	ziņu korespondents	inclusive
+n	ddp	yes	klanīties	conservative
+n	an	no	vīriešu eskorts	conservative
+n	an	no	sumbrs	inclusive
+n	dmc	yes	lempis	conservative
+n	is	yes	scrooge	conservative
+n	cds	no	sazvērestības teorijas	inclusive
+n	re	no	gangsteris	inclusive
+n	qas	no	sodbuster	inclusive
+n	ddp	yes	pēkšķēt	conservative
+n	an	no	crocodilians	inclusive
+n	ddp	yes	muļķis	conservative
+n	qas	no	amatnieks	inclusive
+n	dmc	yes	negodīgi	conservative
+n	ddp	yes	barbarisms	inclusive
+n	svp	no	aboulia	inclusive
+n	cds	no	grandžs	inclusive
+n	pa	yes	darbinieku	inclusive
+n	cds	no	hubris	conservative
+n	an	no	liliputs	conservative
+a	ddp	yes	neprātīgs	conservative
+n	re	no	spīdzināšanas ierīci	inclusive
+n	cds	no	nympho	conservative
+n	cds	no	superbia	conservative
+n	or	no	meticulosity	inclusive
+n	cds	no	kliķe	inclusive
+n	qas	no	biznesa cilvēks	inclusive
+n	svp	no	gorger	conservative
+n	asf	no	imbecils	conservative
+a	is	yes	žēl	inclusive
+n	cds	no	mākleris	inclusive
+n	cds	no	reakcionārs	conservative
+n	om	no	vīriešu seksualitāti	inclusive
+n	qas	no	moocher	conservative
+n	ddf	yes	puse pinte	conservative
+n	cds	no	narcissistic	inclusive
+n	cds	no	tonnas	inclusive
+n	cds	no	shrewdness	inclusive
+n	an	no	kine	inclusive
+n	qas	no	casteism	inclusive
+n	qas	no	sabiedrības padibenes	conservative
+n	ddp	yes	kretīnisms	inclusive
+n	cds	no	ostentatiousness	conservative
+n	an	no	baltgalvas grifs	inclusive
+n	ps	yes	dzelteno kartīti	inclusive
+n	an	no	balons swallower	inclusive
+n	om	no	sodomized	inclusive
+n	is	yes	trūcīgas personas	inclusive
+n	svp	no	penss-saspiežot	inclusive
+n	re	no	aplaupīti	inclusive
+n	cds	no	fundamentālisti	inclusive
+n	asm	no	cūkpupas	inclusive
+n	re	no	plagiarise	inclusive
+n	re	no	nolaupīšana	inclusive
+n	dmc	yes	klaidoņi	inclusive
+n	cds	no	noziedznieks	inclusive
+n	qas	no	mare ligzdu	inclusive
+n	an	no	kopējā odze	inclusive
+n	cds	no	grunge mūzikas	inclusive
+n	an	no	bos americanus	inclusive
+n	om	no	ass	inclusive
+n	ddp	yes	piekrāptais	conservative
+n	pr	no	palaistuve	conservative
+n	cds	no	starpsugu hibrīds	inclusive
+n	or	no	poof	conservative
+n	ddp	yes	dumbass	conservative
+n	asm	no	duraks	inclusive
+n	cds	no	ātri vienu	conservative
+n	asm	no	roll siena	conservative
+n	an	no	suns	inclusive
+n	pa	yes	gani	inclusive
+n	cds	no	muļķis	conservative
+n	cds	no	flub	inclusive
+n	ps	yes	jigaboo	conservative
+n	cds	no	zubrīt	conservative
+n	an	no	bizons	inclusive
+n	dmc	yes	tiesas āksts	inclusive
+n	an	no	doodly-tupēt	conservative
+n	an	no	ģints capra	inclusive
+n	cds	no	cieto atkritumu	conservative
+n	an	no	naktstauriņš	inclusive
+n	cds	no	zealotry	conservative
+n	an	no	bugging	inclusive
+n	ddp	yes	pillock	conservative
+n	re	no	zādzība	inclusive
+n	pr	no	savedēja	conservative
+n	an	no	gyps fulvus	inclusive
+n	ps	yes	jūdaikas	inclusive
+n	cds	no	dweeb	conservative
+n	re	no	bandīts	inclusive
+n	cds	no	topsy-turvyness	inclusive
+n	cds	no	starpnieks	inclusive
+n	cds	no	liels nemazgājies	inclusive
+n	cds	no	rustler	inclusive
+n	an	no	neizglītots cilvēks	conservative
+n	qas	no	nepatikšanas automāts	conservative
+n	an	no	vēršu	inclusive
+n	an	no	bufo bufo	inclusive
+n	pr	no	vīriešu prostitūtu	conservative
+n	cds	no	cilts	inclusive
+n	an	no	anserini	inclusive
+n	re	no	seksuālo noziegumu	inclusive
+n	cds	no	hiperseksualitāti	conservative
+n	cds	no	iekšējais loks	inclusive
+n	pr	no	mauka	conservative
+n	asm	no	neprāte	conservative
+n	qas	no	mistrojums	inclusive
+n	cds	no	nepatikšanas	conservative
+n	cds	no	brīvās mason	inclusive
+n	cds	no	augļotājs	inclusive
+a	ddp	yes	stulba	conservative
+n	ddp	yes	pļāpa	conservative
+n	svp	no	spiritlessness	inclusive
+n	an	no	pipistrelle	inclusive
+n	asm	no	vicia faba	inclusive
+n	cds	no	rotter	conservative
+n	qas	no	liekēdis	conservative
+n	cds	no	banda kultūru	inclusive
+n	cds	no	draiskulība	conservative
+n	an	no	koķete	conservative
+n	asm	no	angļu pupu	inclusive
+n	om	no	sodomite	inclusive
+n	qas	no	garīgais līderis	inclusive
+n	an	no	ragtag un bobtail	conservative
+n	cds	no	whiner	conservative
+n	re	no	negatīvais tēls	conservative
+n	pa	yes	ministrs	inclusive
+n	qas	no	negodīgas	conservative
+n	pr	no	naktstauriņi	inclusive
+n	cds	no	uzpūtīgums	conservative
+n	cds	no	itālijas mafijas	inclusive
+n	om	no	geju	inclusive
+n	an	no	kazām	inclusive
+n	cds	no	kriminālais grupējums	inclusive
+n	qas	no	bloodhound	inclusive
+n	ddf	yes	invaliditāte	inclusive
+n	ddp	yes	dirsas caurums	conservative
+n	svp	no	alkatība	inclusive
+n	cds	no	naudas aizdevēji	inclusive
+n	cds	no	nepatiesība	conservative
+n	cds	no	narcissist	inclusive
+n	an	no	grossness	conservative
+n	or	no	dumbass	conservative
+n	ddp	yes	dzīvnieks	inclusive
+n	an	no	jūras skorpions	inclusive
+n	svp	no	avaritia	inclusive
+n	om	no	bērns molester	conservative
+n	cds	no	literārā kapāt	conservative
+n	an	no	zutis	inclusive
+n	ps	yes	mongoloīdā rase	conservative
+n	ps	yes	roms	inclusive
+n	asm	no	flouter	conservative
+n	cds	no	nevīžīgs cilvēks	conservative
+n	cds	no	ķeceris	conservative
+n	cds	no	muļķe	conservative
+n	ps	yes	rroma	inclusive
+n	an	no	pūčveidīgie	inclusive
+n	cds	no	stulbenis	conservative
+n	dmc	yes	lauķis	conservative
+n	dmc	yes	lowlife	inclusive
+n	ddp	yes	muļķīgi	conservative
+n	pr	no	prostitūtas	inclusive
+n	cds	no	resgalis pieņemšanā	conservative
+n	an	no	resnis	conservative
+n	cds	no	hoaxer	conservative
+n	an	no	liellopu	inclusive
+n	qas	no	ballock	inclusive
+n	cds	no	vezumnieku rinda	inclusive
+n	cds	no	mussiness	conservative
+n	ps	yes	ebreju reliģija	inclusive
+n	svp	no	racēji	conservative
+n	asm	no	nookie	conservative
+n	re	no	sicīlijas mafiju	conservative
+n	cds	no	slikta velns	conservative
+n	re	no	policijas pārkāpumiem	inclusive
+n	cds	no	augstprātība	conservative
+n	cds	no	konspirācijas teorijas	inclusive
+n	an	no	prickteaser	conservative
+n	asm	no	lauka zirņi	inclusive
+n	cds	no	šantāžists	inclusive
+n	dmc	yes	maldināšanu	conservative
+n	ps	yes	melns	inclusive
+n	qas	no	amateurishness	conservative
+n	is	yes	paupers	inclusive
+n	pa	yes	profesors	inclusive
+n	cds	no	dēliņš zēns	inclusive
+n	or	no	īrijas kartupeļu	inclusive
+n	pr	no	govis	inclusive
+n	or	no	cucumis sativus	inclusive
+n	cds	no	noziegums boss	inclusive
+n	ddp	yes	zooerastia	conservative
+n	or	no	homiķis	conservative
+n	cds	no	brīvmūrniecība	inclusive
+n	an	no	bizoni	inclusive
+n	ddp	yes	kroplītis	conservative
+n	an	no	kāpuri	inclusive
+n	asm	no	vidējrupjsēklu pupas	inclusive
+n	cds	no	azartspēļu kazino	inclusive
+n	asm	no	lauku pupa	inclusive
+n	cds	no	līdējs	conservative
+n	qas	no	vidusšķira	inclusive
+n	an	no	fizionomisms	inclusive
+n	cds	no	motherfucker	conservative
+n	qas	no	parazitēšana	inclusive
+n	asm	no	lauka pupas	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	dmc	yes	ne-konta	conservative
+n	cds	no	crooners	inclusive
+n	re	no	itālijas mafijas	inclusive
+n	qas	no	mājsaimniecības darbi	inclusive
+n	ps	yes	boche	conservative
+n	cds	no	tenkas	inclusive
+n	dmc	yes	laupītājs	conservative
+n	pa	yes	gans	inclusive
+n	om	no	kundze	inclusive
+n	an	no	sūcējs	inclusive
+n	cds	no	hiperseksualitāte	conservative
+n	re	no	ļaunprātīgi	inclusive
+n	an	no	eurypterid	inclusive
+n	an	no	naktstaurenis	inclusive
+n	ps	yes	mongoļi	inclusive
+n	an	no	sarkans cilindrs	inclusive
+n	is	yes	sociālā izstumtais	inclusive
+n	cds	no	pimp	conservative
+n	re	no	noziegšanās	inclusive
+n	cds	no	sazvērestības teorijām	inclusive
+n	re	no	outlawry	inclusive
+n	re	no	izvarošanas	conservative
+n	pr	no	seksa pakalpojumi	inclusive
+n	or	no	kartupeļi	inclusive
+n	cds	no	jaundzimušajiem	inclusive
+n	an	no	familiaris	inclusive
+n	asm	no	faba pupas	inclusive
+n	an	no	kvekšķēt	inclusive
+n	an	no	purna	inclusive
+n	om	no	geji	inclusive
+n	ddp	yes	changeling	inclusive
+n	cds	no	idiote	inclusive
+n	cds	no	mobster	inclusive
+n	re	no	terora akts	inclusive
+n	ps	yes	mongoļu	inclusive
+n	re	no	debaucher	conservative
+n	pa	yes	barbars	conservative
+n	dmc	yes	bandītu	conservative
+n	an	no	amerikas buffalo	inclusive
+n	ddp	yes	codswallop	conservative
+n	an	no	gliemezis	inclusive
+n	asm	no	idiote	inclusive
+n	an	no	patsy	conservative
+n	asf	no	muļķe	conservative
+n	cds	no	fanātiķiem	inclusive
+n	cds	no	scientisma	inclusive
+n	qas	no	tagalong	conservative
+n	an	no	bullēns	inclusive
+n	ps	yes	negroīds	inclusive
+n	qas	no	barbari	conservative
+n	dmc	yes	nepilngadīgo likumpārkāpumu	conservative
+n	pr	no	Žurka	inclusive
+n	or	no	kāposti	inclusive
+n	cds	no	ratnieks tirgotājs	conservative
+n	cds	no	korespondents	inclusive
+n	dmc	yes	ne'er-do-labi	conservative
+n	cds	no	ķeburs	inclusive
+n	cds	no	izbalsot	inclusive
+n	cds	no	hayseed	conservative
+n	asm	no	avafauna	inclusive
+n	pr	no	rattus	inclusive
+n	ddp	yes	kretīns	conservative
+n	cds	no	ārlaulības bērns	inclusive
+n	re	no	mocīt	inclusive
+n	an	no	caprinae	inclusive
+n	ddp	yes	imbecils	inclusive
+n	svp	no	dillydallier	conservative
+n	or	no	jaunā kartupeļu	inclusive
+n	qas	no	rhetor	inclusive
+n	cds	no	tenku vācele	inclusive
+n	asf	no	garīgi	conservative
+n	svp	no	laiskums	conservative
+n	pa	yes	prof	inclusive
+n	pr	no	socialite	inclusive
+n	an	no	sivēnu	inclusive
+n	ddp	yes	lasītnepratējs	inclusive
+n	or	no	homofils	conservative
+n	an	no	knucklehead	conservative
+n	om	no	homoseksuāls	conservative
+n	pr	no	floozie	conservative
+n	dmc	yes	morāli	inclusive
+n	qas	no	snooper	inclusive
+n	cds	no	strupceļa iela	inclusive
+n	an	no	selachii	inclusive
+n	cds	no	savtīgs	inclusive
+a	is	yes	nabags	inclusive
+n	asf	no	nokavēt	conservative
+n	asm	no	jokdaris	conservative
+n	re	no	mafiosi	inclusive
+n	cds	no	dude	inclusive
+n	om	no	homofils	inclusive
+n	an	no	Ļaundaris	conservative
+n	an	no	ferociousness	conservative
+n	an	no	papagaiļveidīgie	inclusive
+n	re	no	traģisks nelietis	conservative
+n	ps	yes	jauktenis	conservative
+n	pr	no	vazaņķe	conservative
+n	om	no	finocchio	inclusive
+n	re	no	ļaunprātīgas seksuālas	inclusive
+n	asm	no	profesionālu nediena	inclusive
+n	an	no	canis familiaris	inclusive
+n	asm	no	plānprātīgs	inclusive
+n	om	no	homiķis	conservative
+n	cds	no	fašisms	conservative
+n	cds	no	noziegums	inclusive
+n	dmc	yes	hayseed	conservative
+n	pa	yes	docents	inclusive
+n	an	no	capra aegagrus hircus	inclusive
+n	an	no	zušveidīgo kārta	inclusive
+n	cds	no	mountebank	conservative
+n	om	no	ēzelis	inclusive
+n	re	no	izspiest	inclusive
+n	an	no	knišļiem	inclusive
+n	ps	yes	muļķis	conservative
+n	cds	no	shirker	conservative
+n	ps	yes	drifters	inclusive
+n	om	no	anālo seksu	inclusive
+n	re	no	sicīlijas mafija	inclusive
+n	re	no	nozagts īpašums	inclusive
+n	cds	no	aizliegtā	conservative
+n	cds	no	gal'june	inclusive
+n	cds	no	komforts stacija	inclusive
+n	pr	no	pelēkā žurka	inclusive
+n	cds	no	sicīlijas mafiju	inclusive
+n	an	no	canis familiaris domesticus	inclusive
+n	dmc	yes	labi-for-neko	conservative
+n	asm	no	aves	inclusive
+n	cds	no	policists	inclusive
+n	ddp	yes	mikrocefālija	inclusive
+n	cds	no	masas	conservative
+a	ddp	yes	muļķīgs	conservative
+n	svp	no	dusmas	inclusive
+n	an	no	dzīvnieks	inclusive
+n	an	no	humanus	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	an	no	zaķis	inclusive
+n	pr	no	mīļākais	inclusive
+n	re	no	mafija	inclusive
+n	an	no	bezastainie abinieki	inclusive
+n	is	yes	sīkstulis	conservative
+n	ddp	yes	taleteller	conservative
+n	asm	no	soft touch	conservative
+n	or	no	kāposts	inclusive
+n	om	no	transvestitism	inclusive
+n	ps	yes	zulu	inclusive
+n	qas	no	rūpnieks	inclusive
+n	pr	no	ielene	conservative
+n	cds	no	rube	conservative
+n	cds	no	pompousness	inclusive
+n	asf	no	muļķis	conservative
+n	an	no	brant zoss	inclusive
+n	an	no	neprāte	conservative
+n	svp	no	faineance	inclusive
+n	cds	no	gļēvulība	inclusive
+n	svp	no	lazybones	conservative
+n	svp	no	garlaiks	inclusive
+n	ddp	yes	pakaļu	conservative
+n	pr	no	ielasmeita	conservative
+n	svp	no	garlaicību	inclusive
+n	an	no	nepieredzējis uts	inclusive
+n	dmc	yes	slaists	inclusive
+n	cds	no	fundamentālisms	inclusive
+n	asm	no	ballock	inclusive
+n	ddp	yes	pēkšķēt medicīnā	conservative
+n	dmc	yes	gangsteris	inclusive
+n	cds	no	rakstītājs	conservative
+n	cds	no	ieslodzījuma vietu apsardzes	inclusive
+n	dmc	yes	žēl cilvēks	inclusive
+a	ddp	yes	stulbs	conservative
+n	cds	no	ostentatiousness	inclusive
+n	pr	no	kreka prostitūta	conservative
+n	pr	no	liellopi	inclusive
+n	cds	no	dedzīgs piekritējs	conservative
+n	qas	no	endoparazītus	inclusive
+n	qas	no	fumbler	conservative
+n	cds	no	netīrs suns	conservative
+n	cds	no	pompa	inclusive
+n	re	no	slepkavību	inclusive
+n	an	no	strix varia	inclusive
+n	ddp	yes	garīgi	inclusive
+n	or	no	nance	conservative
+n	svp	no	iekāre	inclusive
+n	an	no	ķermeņa snatching	inclusive
+n	re	no	spīdzināšana	inclusive
+n	qas	no	blunderer	conservative
+n	an	no	baltā haizivs	inclusive
+n	qas	no	nomnieks	inclusive
+n	pr	no	sieviete no ielas	conservative
+n	an	no	vēršiem	inclusive
+n	qas	no	slaistīties	conservative
+n	re	no	slayer	inclusive
+n	ddf	yes	kroplis	inclusive
+n	an	no	psittaciformes	inclusive
+n	pr	no	ielu prostitūciju	conservative
+n	re	no	seksuāliem pāridarījumiem	inclusive
+n	dmc	yes	klaiņot	conservative
+n	an	no	mājas aita	inclusive
+n	cds	no	cowardliness	conservative
+n	an	no	bizoņi	inclusive
+n	an	no	volaille	inclusive
+n	cds	no	instruktors	inclusive
+n	cds	no	demagogs	conservative
+n	cds	no	ballup	inclusive
+n	dmc	yes	netīrs suns	inclusive
+n	ddp	yes	intelektuāli invalīdi	inclusive
+n	pa	yes	sheepherder	inclusive
+n	or	no	twat	conservative
+n	asm	no	dzimumloceklis	inclusive
+n	qas	no	sēkliniekos	inclusive
+n	rci	yes	barbariem	conservative
+n	qas	no	sīkstulis	conservative
+n	cds	no	ragtag un bobtail	conservative
+n	pr	no	bos taurus	inclusive
+n	ddp	yes	patsy	conservative
+n	qas	no	juceklis	inclusive
+n	dmc	yes	kūpēt	conservative
+n	an	no	crocodylidae	inclusive
+n	an	no	mikroorganismu	inclusive
+n	re	no	camorra	inclusive
+n	cds	no	daudz	inclusive
+n	ddf	yes	invalīdu	inclusive
+n	cds	no	banditti	inclusive
+n	dmc	yes	skumjš maiss	conservative
+n	dmc	yes	rakehell	conservative
+n	om	no	drag queens	inclusive
+n	cds	no	phratry	inclusive
+n	an	no	maita	conservative
+n	om	no	homofils kustību	inclusive
+n	cds	no	skatītājs	conservative
+n	an	no	slikts cilvēks	conservative
+n	an	no	slampa	conservative
+n	an	no	rouncey	inclusive
+n	an	no	blusu kārta	inclusive
+n	cds	no	augstprātīgums	conservative
+n	is	yes	ir-nav	inclusive
+n	dmc	yes	chiseller	conservative
+n	ps	yes	krauthead	conservative
+n	cds	no	ganāmpulka dzīvnieks	inclusive
+n	om	no	aboral	inclusive
+n	asf	no	dimwit	conservative
+n	dmc	yes	tikumību	inclusive
+n	re	no	villainess	conservative
+n	an	no	ērce	inclusive
+n	qas	no	retorika	inclusive
+n	an	no	aureus	inclusive
+n	ps	yes	vandāļu	inclusive
+n	asm	no	neprātis	conservative
+n	asm	no	idiots	conservative
+n	re	no	sodāms nodarījums	inclusive
+n	qas	no	brīvkungs	inclusive
+n	qas	no	krāsotājs	inclusive
+n	qas	no	testiculus	inclusive
+n	asf	no	jokdaris	conservative
+n	an	no	hyaena	inclusive
+n	pa	yes	academicism	inclusive
+n	re	no	varmācība	inclusive
+n	cds	no	melot	conservative
+n	re	no	netīra nauda	inclusive
+n	an	no	brent zoss	inclusive
+n	svp	no	augstprātīgums	conservative
+n	ddf	yes	crookback	inclusive
+n	pr	no	tenkas	conservative
+n	svp	no	sīkstulis	inclusive
+n	cds	no	bandas	inclusive
+n	cds	no	imbecils	inclusive
+n	re	no	teroristiem	inclusive
+n	dmc	yes	faktu slēpšanu	conservative
+n	an	no	nekompetents	conservative
+n	asm	no	plaša pupiņu	inclusive
+n	ps	yes	Žīdi	inclusive
+n	svp	no	gardēdis	inclusive
+n	cds	no	gradžs	inclusive
+n	an	no	savvaļas vērsis	inclusive
+n	cds	no	fašistiem	conservative
+n	ps	yes	jūdaisma	inclusive
+n	an	no	interneta mānīšana	conservative
+n	an	no	eurypterids	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	cds	no	baseins hustling	conservative
+n	or	no	homofils kustība	conservative
+n	an	no	epifauna	inclusive
+n	om	no	geju vīriešu	inclusive
+n	asm	no	pimpis	inclusive
+n	cds	no	svēto relikviju	inclusive
+n	asm	no	pauti	inclusive
+n	an	no	suborder blattodea	inclusive
+n	qas	no	klupt	inclusive
+n	qas	no	cieto atkritumu	inclusive
+n	dmc	yes	dezertieris	conservative
+n	dmc	yes	priecīgus andrew	inclusive
+n	dmc	yes	fabricator	conservative
+n	asf	no	stulbs	conservative
+n	asm	no	vdaikts	conservative
+n	re	no	slepkavība	inclusive
+n	cds	no	egoisms	conservative
+n	an	no	animalia	inclusive
+n	asf	no	kritums puisis	conservative
+n	cds	no	newswriter	inclusive
+n	qas	no	negodīgums	conservative
+n	cds	no	uzpūstiem galvu	conservative
+n	ddf	yes	fiziski apstrīdēti	inclusive
+n	qas	no	sciolist	conservative
+n	an	no	iekšzemes suns	inclusive
+n	cds	no	skolotājs	inclusive
+n	cds	no	masonu ordeņa	inclusive
+n	cds	no	dzimta grupa	inclusive
+n	cds	no	cietumsargs	inclusive
+n	an	no	gultas bugs	inclusive
+n	cds	no	papparazzi	inclusive
+n	cds	no	folderol	conservative
+n	an	no	būtne	inclusive
+n	asf	no	muttonhead	conservative
+n	qas	no	zemnieks	inclusive
+n	cds	no	melsa	conservative
+n	svp	no	septiņiem nāves grēkiem	inclusive
+n	om	no	vēdera	inclusive
+n	or	no	kartupeļu	inclusive
+n	or	no	pīzda	conservative
+n	re	no	vardarbība	inclusive
+n	an	no	piparu kožu	inclusive
+n	an	no	iekšzemes vistu	inclusive
+n	an	no	idiote	conservative
+n	qas	no	blooper ruļļa	inclusive
+n	an	no	kaza	inclusive
+n	svp	no	slothfulness	inclusive
+n	pr	no	padauza	conservative
+n	pr	no	sporta dāma	conservative
+n	asm	no	lopbarības pupas	inclusive
+n	re	no	slepkavības	inclusive
+n	qas	no	muļķības	inclusive
+a	dmc	yes	netīrs	inclusive
+n	qas	no	buržuāziskās	inclusive
+n	cds	no	tāds un tāds	conservative
+n	re	no	izvarošana	conservative
+n	or	no	galviņkāposts	inclusive
+n	an	no	trusis	inclusive
+n	pa	yes	profesori	inclusive
+n	ps	yes	ruiner	conservative
+n	re	no	bruņotu laupīšanu	inclusive
+n	dmc	yes	putot maisā	inclusive
+n	re	no	spīdzināšanas slepkavību	inclusive
+n	cds	no	fašistu	conservative
+n	or	no	tupenis	inclusive
+n	or	no	stulbenis	conservative
+n	svp	no	nepatīkama	inclusive
+n	om	no	gayness	inclusive
+n	or	no	pediņš	conservative
+n	qas	no	lauks rokas	inclusive
+n	asm	no	stulbība	conservative
+n	an	no	diddly	conservative
+a	cds	no	gudrs	inclusive
+n	cds	no	chiseller	inclusive
+n	an	no	batrachian	inclusive
+n	ddp	yes	idiotisms	inclusive
+n	ps	yes	darkey	conservative
+n	cds	no	dogmatisms	conservative
+n	svp	no	fanātisks	conservative
+n	asm	no	erekcija	inclusive
+n	cds	no	gudrs puisis	conservative
+n	asm	no	brownness	inclusive
+n	re	no	negodīgi	conservative
+n	cds	no	nediena-up	inclusive
+n	dmc	yes	negodīgas	inclusive
+n	om	no	dorsoventral	inclusive
+n	asf	no	patsy	conservative
+n	cds	no	bordello	inclusive
+n	asf	no	wench	conservative
+n	cds	no	laucinieks	conservative
+n	cds	no	delikts	inclusive
+n	an	no	krokodilu dzimta	inclusive
+n	an	no	eiropas krupis	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	om	no	peeress	inclusive
+n	or	no	vientiesis	conservative
+n	om	no	gejiem	inclusive
+n	pr	no	kanalizācijas žurkas	inclusive
+n	pa	yes	jurists	inclusive
+n	pr	no	naktstaurenis	inclusive
+n	om	no	sieviešu impersonator	inclusive
+n	cds	no	liellopu raiding	inclusive
+n	asm	no	brūnā	inclusive
+n	an	no	papagaiļi	inclusive
+a	qas	no	ārprātīgs	conservative
+n	asm	no	jeerer	conservative
+n	qas	no	pauts	inclusive
+n	an	no	duraks	conservative
+n	qas	no	atbilstības	inclusive
+n	qas	no	kasta	inclusive
+n	dmc	yes	melis	inclusive
+n	an	no	eirāzijas griffon	inclusive
+n	cds	no	pašapmierinātība	inclusive
+n	asm	no	duraks	conservative
+n	cds	no	taleteller	conservative
+n	cds	no	peons	inclusive
+n	an	no	ganību ērču virsdzimta	inclusive
+n	cds	no	atklātais nams	inclusive
+n	re	no	mocīšana	inclusive
+n	an	no	baltās haizivis	inclusive
+n	re	no	defamer	conservative
+n	cds	no	conspiracism	inclusive
+n	dmc	yes	labi-for-veltīgs	conservative
+n	re	no	plagiarization	inclusive
+n	ddp	yes	dēls kuce	conservative
+n	re	no	varas ļaunprātīgu izmantošanu	inclusive
+n	cds	no	augu audzētājs	inclusive
+n	dmc	yes	morāle	inclusive
+n	cds	no	pimping	inclusive
+n	ddf	yes	invalīds	inclusive
+n	cds	no	blooper ruļļa	inclusive
+n	or	no	cuke	inclusive
+n	asm	no	changeling	inclusive
+n	cds	no	lērums	inclusive
+n	asm	no	nooky	conservative
+n	cds	no	thieving	inclusive
+n	pa	yes	jezuīts	inclusive
+n	or	no	cucurbita maxima	inclusive
+n	qas	no	barbars	conservative
+n	cds	no	zilzeķe	inclusive
+n	an	no	infauna	inclusive
+n	re	no	banditti	inclusive
+n	cds	no	noziedzniece	inclusive
+n	dmc	yes	treasonist	conservative
+n	cds	no	balladeer	inclusive
+n	ps	yes	bedu	inclusive
+n	cds	no	trakulis	inclusive
+n	or	no	gejs	conservative
+n	cds	no	cheekiness	conservative
+a	pa	yes	politisks	inclusive
+n	qas	no	konformisms	inclusive
+n	cds	no	zēniņš	inclusive
+n	ddp	yes	skopulis	conservative
+n	an	no	molusks	inclusive
+n	an	no	skopulis	conservative
+n	cds	no	slyness	conservative
+n	cds	no	fanātiķis	conservative
+n	ddp	yes	fuckhead	conservative
+n	an	no	šakāļi	inclusive
+n	an	no	mūļi	inclusive
+n	cds	no	aizdevums haizivs	conservative
+n	ddp	yes	garīgiem traucējumiem	inclusive
+n	pr	no	fornicatress	conservative
+n	asm	no	sēklinieks	inclusive
+n	asm	no	sīksēklu pupas	inclusive
+a	ddf	yes	zemisks	conservative
+n	re	no	sīko zagli	inclusive
+n	ps	yes	nigra	conservative
+n	svp	no	concupiscence	inclusive
+n	ps	yes	jūds	inclusive
+n	cds	no	zagšana	inclusive
+n	ps	yes	melns cilvēks	inclusive
+n	asm	no	zaļie zirnīši	inclusive
+n	an	no	brutalitāti	conservative
+n	ps	yes	sīkstulis	conservative
+n	an	no	putna minerva	inclusive
+n	om	no	transvestism	inclusive
+n	cds	no	dabas hibrīds	inclusive
+n	ddp	yes	lummox	conservative
+n	cds	no	mafiosi	conservative
+n	cds	no	publiskais nams	inclusive
+n	cds	no	camarilla	inclusive
+n	an	no	cilvēka ķermeņa uts	inclusive
+n	cds	no	cut-up	conservative
+n	pr	no	prostitūtas	conservative
+n	cds	no	faktors	inclusive
+n	cds	no	pāķis	conservative
+n	is	yes	villainess	conservative
+n	ps	yes	Čigāns	inclusive
+n	re	no	kriminālnoziegums	inclusive
+n	cds	no	weisenheimer	conservative
+n	an	no	cirmenis	inclusive
+n	an	no	gliemeži	inclusive
+n	ddf	yes	kustību traucējumiem	inclusive
+n	cds	no	kretīns	inclusive
+n	an	no	amerikas bizons	inclusive
+n	an	no	insekti	inclusive
+n	cds	no	vajātājs	conservative
+n	cds	no	nymphomaniac	conservative
+n	cds	no	zādzība	inclusive
+n	pr	no	hetēra	inclusive
+n	asm	no	falls	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	asm	no	muļķis	conservative
+n	qas	no	atliekas	inclusive
+n	dmc	yes	defrauder	conservative
+n	pa	yes	pasniedzējs	inclusive
+n	re	no	cosa nostra	inclusive
+n	dmc	yes	mocarellas	inclusive
+n	asm	no	ithyphallic	inclusive
+n	cds	no	labotājs	conservative
+n	ps	yes	ebreji	inclusive
+n	pr	no	nevīžīgs sieviete	conservative
+n	an	no	ovis orientalis aries	inclusive
+n	ddp	yes	sabiedrības padibenes	conservative
+n	an	no	moluskiem	inclusive
+n	re	no	capturer	inclusive
+n	an	no	blusas	inclusive
+n	re	no	sicīlijas mafiju	inclusive
+n	ddp	yes	pūšļošana	conservative
+n	ddp	yes	nemākulis	conservative
+n	dmc	yes	rotter	inclusive
+n	cds	no	konspirāciju teorijas	inclusive
+n	cds	no	liellopi zaglis	inclusive
+n	dmc	yes	prevaricator	conservative
+n	om	no	crossdress	inclusive
+n	pr	no	ielas meita	inclusive
+n	ps	yes	garīgi	conservative
+n	re	no	literāra zādzība	inclusive
+n	asf	no	plānprātīgs	conservative
+n	dmc	yes	staigulis	inclusive
+n	an	no	kuce	conservative
+n	cds	no	looker-on	conservative
+n	pr	no	nebēdne	conservative
+n	an	no	hemipteran	inclusive
+n	dmc	yes	hobos	conservative
+n	ps	yes	doofus	conservative
+n	dmc	yes	negodīgums	inclusive
+n	an	no	mikrobu	inclusive
+n	cds	no	masonu kustība	inclusive
+n	pa	yes	valsts grāmatvedības	inclusive
+n	asm	no	daikts	conservative
+n	cds	no	praktisko joker	conservative
+n	ddp	yes	jokdaris	conservative
+n	ddp	yes	shithead	conservative
+n	an	no	shithead	conservative
+n	qas	no	amerikāņu uzņēmējs	inclusive
+n	cds	no	ģeķis	conservative
+n	re	no	raper	conservative
+n	cds	no	intrigants	inclusive
+n	an	no	hemipteron	inclusive
+n	cds	no	naudas aizdevējs	conservative
+n	om	no	sodomist	inclusive
+n	cds	no	nelikumīgs	inclusive
+n	cds	no	prelāts	inclusive
+n	dmc	yes	meli	inclusive
+a	dmc	yes	netikumīgs	conservative
+n	an	no	uts	inclusive
+n	an	no	laupītājs	inclusive
+n	re	no	izvaro	conservative
+n	an	no	cūku	inclusive
+n	om	no	derriere	inclusive
+n	re	no	teroristiem	conservative
+n	or	no	sativus	inclusive
+n	asm	no	betise	conservative
+n	re	no	negatīvs tēls	conservative
+n	re	no	laupīšana	inclusive
+n	pr	no	prostitūta	inclusive
+n	an	no	idiots	conservative
+n	pa	yes	akadēmiķe	inclusive
+n	om	no	homofils kustību	conservative
+n	cds	no	sazvērestība klusēšanas	inclusive
+n	pr	no	seksa pakalpojumi	conservative
+n	dmc	yes	outlawry	inclusive
+n	svp	no	eros	inclusive
+n	cds	no	bas bleu	inclusive
+n	cds	no	negodīgas	inclusive
+n	qas	no	algādzis	inclusive
+n	svp	no	dallier	conservative
+n	ps	yes	zulus	inclusive
+n	ddp	yes	ferociousness	conservative
+n	cds	no	ultraconservative	conservative
+n	dmc	yes	nemākulis	conservative
+n	dmc	yes	barbariem	conservative
+n	an	no	amerikas bizoni	inclusive
+n	an	no	betise	conservative
+n	re	no	enerģisks cilvēks	inclusive
+n	dmc	yes	gangsteru	inclusive
+n	pr	no	palaistuve	inclusive
+n	cds	no	Ļaundaris	conservative
+n	ddp	yes	metazoans	inclusive
+n	dmc	yes	sīkstulis	conservative
+n	qas	no	pauti	inclusive
+n	om	no	sānu	inclusive
+n	qas	no	notekgrāvis	inclusive
+n	an	no	amerikāņu bison	inclusive
+n	or	no	shithead	conservative
+n	qas	no	scrounger	conservative
+n	om	no	homofils kustība	inclusive
+n	an	no	zušveidīgās	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	an	no	shoat	inclusive
+n	cds	no	lišķis	conservative
+n	svp	no	apnikums	inclusive
+n	cds	no	atkarīgais	conservative
+a	svp	no	augstprātīgs	conservative
+n	ddp	yes	muļķīgs	conservative
+n	re	no	felons	inclusive
+n	ps	yes	vandāļi	inclusive
+v	asm	no	drāzties	conservative
+n	asf	no	neprātis	conservative
+n	pr	no	ubadze	inclusive
+n	cds	no	zīdainis	inclusive
+n	asm	no	dārza pupa	inclusive
+n	an	no	iekšas	inclusive
+n	cds	no	ļaundaris	conservative
+n	ps	yes	romanis	inclusive
+n	qas	no	baroqueness	inclusive
+n	dmc	yes	ētisku motīvu	inclusive
+n	asm	no	vientiesis	conservative
+n	an	no	ixodida	inclusive
+n	re	no	traģisku nelietis	conservative
+n	om	no	zobs	inclusive
+n	asm	no	pupas	inclusive
+n	or	no	muļķīgs	conservative
+n	om	no	noteikumi par anatomiskā novietojuma	inclusive
+n	cds	no	interfertility	inclusive
+n	re	no	vardarbību	inclusive
+n	svp	no	ēdājs	conservative
+n	cds	no	tenkotājs	conservative
+n	cds	no	naudas aizdevumu	conservative
+n	cds	no	gangsterism	inclusive
+n	cds	no	tējkanna zivju	inclusive
+n	asm	no	putnu	inclusive
+n	an	no	cimex lectularius	inclusive
+n	an	no	izjokojot	conservative
+n	cds	no	bastards	conservative
+n	dmc	yes	nelietis	conservative
+n	ps	yes	dimwit	conservative
+n	or	no	geji	conservative
+n	pa	yes	zivju cēlējs	inclusive
+n	an	no	ērces	inclusive
+n	cds	no	aizdevumu haizivs	conservative
+n	cds	no	pandar	inclusive
+n	cds	no	zog	inclusive
+n	cds	no	lempis	conservative
+n	an	no	ķermeņa utis	inclusive
+a	is	yes	bēdīgs	inclusive
+n	cds	no	slīdēšanas no mēles	inclusive
+n	an	no	muskusvēršu cilts	inclusive
+n	ps	yes	fašistu	inclusive
+n	or	no	homoseksuāls	conservative
+n	asm	no	fava pupas	inclusive
+n	ps	yes	barbaru	conservative
+n	ddp	yes	muļķība	conservative
+n	om	no	homoseksuālu vīriešu	inclusive
+n	qas	no	grandiosity	inclusive
+n	cds	no	noziedzīgs nodarījums	inclusive
+n	an	no	pip-kviekt	conservative
+n	an	no	lai crocodilia	inclusive
+n	pr	no	vietējiem liellopiem	inclusive
+n	cds	no	rokaspuišiem	conservative
+n	ddp	yes	mūlāps	conservative
+n	re	no	nolaupa	inclusive
+n	asf	no	vagīna	conservative
+n	ddp	yes	nokavēt	inclusive
+n	cds	no	sentimentalitāte	conservative
+n	pr	no	vīriešu eskorts	conservative
+n	cds	no	sicīlijas mafija	inclusive
+n	cds	no	nepatiesība	inclusive
+n	an	no	ģints pipistrellus	inclusive
+n	svp	no	luxuria	inclusive
+n	cds	no	egghead	inclusive
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	cds	no	elku kalpi	inclusive
+n	pa	yes	academe	inclusive
+n	cds	no	klans	inclusive
+n	cds	no	problēmu	conservative
+n	an	no	blattodea	inclusive
+n	pr	no	kine	inclusive
+n	pa	yes	biroja darbinieks	inclusive
+n	pr	no	hellcat	conservative
+n	qas	no	kopējā persona	inclusive
+n	ddp	yes	lempis	conservative
+n	pr	no	vīriešu prostitūciju	conservative
+n	pr	no	ielasmeita	inclusive
+n	or	no	brassica oleracea	inclusive
+n	qas	no	skumjš maiss	conservative
+n	om	no	homoseksuālisms	inclusive
+n	cds	no	juceklis	inclusive
+n	cds	no	snooper	conservative
+n	qas	no	noliktavas pārzinis	inclusive
+n	ddp	yes	dimwit	conservative
+n	dmc	yes	nozākāt	conservative
+n	an	no	āzis	inclusive
+n	an	no	ēdami gliemezis	inclusive
+n	ps	yes	augu audzētājs	inclusive
+n	an	no	selachimorpha	inclusive
+n	an	no	mollusca	inclusive
+n	cds	no	pompousness	conservative
+n	pa	yes	herolds	inclusive
+n	re	no	izlaupīt	inclusive
+n	ps	yes	sarkano kartīti	inclusive
+n	pr	no	slampa	conservative
+n	svp	no	netikls	inclusive
+n	cds	no	conventicle	inclusive
+n	an	no	escargots	inclusive
+n	re	no	grand theft	inclusive
+n	asf	no	stulbība	conservative
+n	cds	no	fundamentālistu	inclusive
+n	ddp	yes	blēņas	inclusive
+n	ddp	yes	viciousness	conservative
+n	asf	no	changeling	conservative
+n	svp	no	gardēdis	conservative
+n	an	no	negatīvs tēls	conservative
+n	cds	no	splashiness	inclusive
+n	cds	no	stiprinājumi	inclusive
+n	an	no	moskīti	inclusive
+n	ddp	yes	fauna	inclusive
+n	re	no	noziegumi	inclusive
+n	pa	yes	proponents	inclusive
+n	an	no	fuckhead	conservative
+n	cds	no	banda	conservative
+n	cds	no	putot maisā	conservative
+n	re	no	pārestība	inclusive
+n	ddp	yes	neprātis	conservative
+n	cds	no	bellyacher	conservative
+n	svp	no	racēji	inclusive
+n	svp	no	dusmīgs	inclusive
+n	an	no	tarakāns	inclusive
+n	qas	no	apreibināt	inclusive
+n	om	no	caudally	inclusive
+n	dmc	yes	punduris	conservative
+n	re	no	piespiedu izvarošanu	conservative
+n	om	no	homoseksuālists	conservative
+n	an	no	maitas putns	inclusive
+n	asm	no	faba bona	inclusive
+n	is	yes	nabadzība	inclusive
+n	is	yes	nabadzībā	inclusive
+n	re	no	nolaupīšanu	inclusive
+n	qas	no	doghouse	inclusive
+n	qas	no	rakstāmgalda darbu	inclusive
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	an	no	mānīšana	conservative
+n	cds	no	viltus elks	inclusive
+n	an	no	cimicidae	inclusive
+n	qas	no	slikti cepure	conservative
+n	an	no	cūka	conservative
+n	qas	no	nediena-up	inclusive
+n	cds	no	likumu pārtraucējierīces	inclusive
+n	cds	no	fašistu režīmu	conservative
+n	an	no	cootie	inclusive
+n	ddp	yes	nekompetents	conservative
+n	cds	no	pimping	conservative
+n	ddp	yes	nekompetents cilvēks	conservative
+n	cds	no	kazino	inclusive
+n	cds	no	bandītu	inclusive
+n	pa	yes	sīkstulis	conservative
+n	an	no	mājas vista	inclusive
+a	ddp	yes	dumjš	conservative
+n	ps	yes	mongoloīdi	conservative
+n	dmc	yes	dillydallier	conservative
+n	cds	no	cietuma darbinieks	inclusive
+n	an	no	canis aureus	inclusive
+n	qas	no	biržas magnāts	inclusive
+n	cds	no	lepnums	inclusive
+n	asm	no	avifauna	inclusive
+n	cds	no	itāļu mafiju	inclusive
+n	or	no	fastidiousness	inclusive
+n	cds	no	codswallop	conservative
+n	svp	no	lecherousness	inclusive
+n	an	no	stulbums	conservative
+n	dmc	yes	negatīvs tēls	conservative
+n	an	no	fizionomija	inclusive
+n	cds	no	slikta zivis	conservative
+n	an	no	skatiens	inclusive
+n	asf	no	kaunuma mati	inclusive
+n	ddp	yes	nezināšana	conservative
+n	re	no	slepkavas	inclusive
+n	asm	no	idiots	inclusive
+n	cds	no	grāmatu tārps	conservative
+n	dmc	yes	traģisks nelietis	conservative
+n	asm	no	lauka pupa	inclusive
+n	cds	no	pimp	inclusive
+n	cds	no	saraustītas off	conservative
+n	qas	no	pauninieks	conservative
+n	ddp	yes	twaddler	conservative
+n	asm	no	rupjsēklu pupas	inclusive
+n	an	no	naemorhedini	inclusive
+n	cds	no	aizdevuma sharking	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	svp	no	grūtsirdīgs cilvēks	conservative
+n	cds	no	barbarisko	conservative
+n	dmc	yes	barbars	conservative
+n	cds	no	bandas	conservative
+n	an	no	priekša	conservative
+n	cds	no	jokester	inclusive
+n	cds	no	meli	inclusive
+n	pr	no	moll	inclusive
+n	cds	no	gļēvulis	conservative
+n	an	no	iestājies noilgums pūce	inclusive
+n	ps	yes	Žīds	inclusive
+n	cds	no	kurjers zēns	inclusive
+n	dmc	yes	klaidoņi	conservative
+n	cds	no	noziedznieks	conservative
+n	asm	no	paraut-off	conservative
+n	an	no	canis аureus	inclusive
+n	an	no	sūds	conservative
+n	asf	no	maksts	conservative
+n	cds	no	pūlis	inclusive
+n	ddf	yes	liliputs	conservative
+n	an	no	dēle	inclusive
+n	pr	no	tur sieviete	conservative
+n	pa	yes	pētniecības profesors	inclusive
+n	cds	no	netīrumiem	inclusive
+n	cds	no	stealer	inclusive
+n	ps	yes	protobulgāri	inclusive
+n	re	no	scammer	inclusive
+n	an	no	čūska zālē	conservative
+n	an	no	vīriešu prostitūciju	conservative
+n	asm	no	gabals ass	conservative
+n	cds	no	moneylending	inclusive
+n	cds	no	kaudzes	inclusive
+n	cds	no	cieto atkritumu	inclusive
+n	pr	no	galminieki	inclusive
+n	ps	yes	uprooter	conservative
+n	is	yes	nabadzības līmenis	inclusive
+n	re	no	liellopi zaglis	inclusive
+n	om	no	viendzimuma	inclusive
+n	re	no	vardarbības	inclusive
+n	qas	no	parasts cilvēks	inclusive
+n	is	yes	globālo nabadzību	inclusive
+n	asm	no	zirņi augu	inclusive
+n	cds	no	wank	conservative
+n	an	no	lai crocodylia	inclusive
+n	cds	no	klana	inclusive
+n	cds	no	tenku vācele	conservative
+n	dmc	yes	pseido	conservative
+n	ps	yes	greitungi	inclusive
+n	an	no	ielene	conservative
+n	cds	no	muļķis	inclusive
+n	cds	no	sazvērestības teorētiķis	inclusive
+n	re	no	pirāts	inclusive
+n	om	no	homoseksualitāti	inclusive
+n	om	no	pediņš	conservative
+n	cds	no	augļošanu	conservative
+n	rci	yes	barbarisko	conservative
+n	cds	no	grunge	inclusive
+n	om	no	pretējās	inclusive
+n	qas	no	parazīts	inclusive
+n	asm	no	cūku pupas	inclusive
+n	cds	no	prankishness	inclusive
+n	an	no	utis	inclusive
+n	qas	no	mājele	inclusive
+n	asm	no	saraustītas off	conservative
+n	ddp	yes	motherfucker	conservative
+n	ddp	yes	gossipmonger	conservative
+n	asm	no	twerp	conservative
+n	asm	no	brūns	inclusive
+n	an	no	pediculus corporis	inclusive
+v	asm	no	pisties	conservative
+n	cds	no	kritums puisis	conservative
+n	an	no	sīkbūtne	inclusive
+n	an	no	gallus gallus domesticus	inclusive
+n	dmc	yes	spendthrift	inclusive
+n	re	no	izvarotāju	conservative
+n	cds	no	māte stulbenis	conservative
+n	pa	yes	īpašais sūtnis	inclusive
+n	cds	no	superbia	inclusive
+n	dmc	yes	slacker	conservative
+n	svp	no	garlaicīgi	inclusive
+n	an	no	īres zēniem	conservative
+n	an	no	gļēvulis	conservative
+n	om	no	homiķis	inclusive
+n	re	no	pirātisms	inclusive
+n	pa	yes	jezuītu	inclusive
+n	svp	no	sevis mīlestību	conservative
+n	pa	yes	barbaru	conservative
+n	cds	no	sīko zagli	inclusive
+n	pa	yes	cūkgaļa miesnieks	inclusive
+n	an	no	zosu cilts	inclusive
+n	om	no	pāri kleita	inclusive
+n	cds	no	finagler	conservative
+n	cds	no	blackballing	inclusive
+n	cds	no	palaidnība	inclusive
+n	cds	no	gossiper	conservative
+n	svp	no	slacker	conservative
+n	asm	no	faba sativa	inclusive
+n	cds	no	sabiedrības padibenes	conservative
+n	or	no	gurķis vīnogulāju	inclusive
+n	re	no	nogalināšanu	inclusive
+n	asm	no	dārza pupas	inclusive
+n	cds	no	noziedzība	inclusive
+n	re	no	blackmailed	conservative
+n	ddp	yes	barbari	conservative
+n	an	no	crocodilia	inclusive
+n	cds	no	nepilngadīgo likumpārkāpumu	conservative
+n	qas	no	autoinfection	inclusive
+n	an	no	aitu	inclusive
+n	an	no	bufo	inclusive
+n	qas	no	māja gleznotājs un dekorators	inclusive
+n	an	no	folderol	conservative
+n	dmc	yes	wastrel	conservative
+n	pr	no	eskortēšana	conservative
+n	cds	no	mīlestība bērns	inclusive
+n	an	no	sīkstulis	conservative
+n	svp	no	invidia	inclusive
+n	cds	no	muļķe	inclusive
+n	ddp	yes	garīgi apstrīdēt	inclusive
+n	ddp	yes	stulbs	inclusive
+n	an	no	fulvus	inclusive
+n	dmc	yes	lowlife	conservative
+n	cds	no	augsta handedness	conservative
+n	an	no	krokodilu	inclusive
+n	an	no	mikrobi	inclusive
+n	an	no	moskīts	inclusive
+n	ddp	yes	saphead	conservative
+n	ps	yes	romi	inclusive
+n	cds	no	māca	inclusive
+n	cds	no	augu biotehnoloģijas	inclusive
+n	om	no	midclavicular līniju	inclusive
+n	cds	no	nodevīgs	conservative
+n	om	no	bazālo	inclusive
+n	pr	no	konkubīnes	inclusive
+n	om	no	pēcpuse	inclusive
+n	re	no	šantāža	conservative
+n	re	no	noziedzība	inclusive
+n	an	no	mājas aitas	inclusive
+n	an	no	lowlife	conservative
+n	ddp	yes	pudden galvas	conservative
+n	an	no	slowpoke	conservative
+n	re	no	grand zādzību	inclusive
+n	cds	no	mystifier	conservative
+n	ddp	yes	plānprātīgs	conservative
+n	cds	no	neapstrādātu notekūdeņu	inclusive
+n	cds	no	freemasons	inclusive
+n	rci	yes	barbaru	conservative
+n	pr	no	courtesan	inclusive
+n	asm	no	putnu klase	inclusive
+n	cds	no	savedēja	conservative
+n	an	no	saphead	conservative
+n	an	no	haizivs	inclusive
+n	an	no	krokodili	inclusive
+n	an	no	zaķi	inclusive
+n	ddp	yes	analphabetic	inclusive
+n	pr	no	laulības pārkāpēja	conservative
+n	re	no	traducer	conservative
+n	om	no	viendzimuma piesaisti	inclusive
+n	pr	no	pistole moll	inclusive
+n	dmc	yes	fanātisks	conservative
+n	cds	no	blēdis	conservative
+n	cds	no	punduris	conservative
+n	asm	no	doofus	conservative
+n	cds	no	religiousism	inclusive
+n	cds	no	saphead	conservative
+n	qas	no	biznesa magnāts	inclusive
+n	cds	no	nerātne	conservative
+n	an	no	sus domesticus	inclusive
+n	pa	yes	noziedzīgu attorney	inclusive
+n	asm	no	pauts	inclusive
+n	pa	yes	akadēmisks	inclusive
+n	qas	no	kuģniecības magnāts	inclusive
+n	cds	no	elku pielūgšanu	inclusive
+n	dmc	yes	līgumreisu	conservative
+n	asm	no	pterygiophore	inclusive
+n	ps	yes	ostrogoti	inclusive
+n	cds	no	bufonāde	inclusive
+n	cds	no	grunge roka	inclusive
+n	re	no	blēdis	inclusive
+n	dmc	yes	morāli bankrotējusi	inclusive
+n	an	no	mājas kaza	inclusive
+n	om	no	zoles	inclusive
+n	om	no	ipsilateral	inclusive
+n	ddp	yes	muļķis	inclusive
+n	re	no	defrauder	inclusive
+n	cds	no	reliģisko fundamentālismu	inclusive
+n	or	no	knucklehead	conservative
+n	pa	yes	personīgo krēslu	inclusive
+n	svp	no	ēdājs	inclusive
+n	cds	no	audzinoša virsnieks	inclusive
+n	cds	no	papīra stūmējs	inclusive
+n	cds	no	hubris	inclusive
+n	qas	no	mob	inclusive
+n	om	no	dirsa	inclusive
+n	is	yes	skopulis	conservative
+n	cds	no	slyboots	conservative
+n	cds	no	gangsterism	conservative
+n	dmc	yes	vientiesītis-off	conservative
+n	an	no	suņiem	inclusive
+n	cds	no	elkdievību	inclusive
+n	an	no	moo-govs	inclusive
+n	an	no	pipistrellus	inclusive
+n	cds	no	zādzībām	inclusive
+n	cds	no	bastards	inclusive
+n	svp	no	layabout	conservative
+n	asm	no	resgalis	conservative
+n	asf	no	idiote	conservative
+n	re	no	datums izvarošana	conservative
+n	dmc	yes	maldinošu	conservative
+n	ddp	yes	barbars	conservative
+n	om	no	gūžas	inclusive
+n	asf	no	soft touch	conservative
+n	dmc	yes	homunculi	inclusive
+n	cds	no	layabout	conservative
+n	pa	yes	sargs	inclusive
+n	pr	no	courtesans	inclusive
+n	ddp	yes	muļķītis	conservative
+n	ddp	yes	dzīvnieki	inclusive
+n	pa	yes	apkalpotājs	inclusive
+n	svp	no	vientiesītis-off	conservative
+n	cds	no	nerdy	conservative
+n	dmc	yes	viltvārdis	conservative
+n	dmc	yes	nelietīgs	conservative
+n	an	no	dēles	inclusive
+n	cds	no	galvenais faktors	inclusive
+n	ps	yes	mongoliete	inclusive
+n	dmc	yes	mobster	inclusive
+n	an	no	vipera	inclusive
+n	cds	no	aizdevums haizivs	inclusive
+n	asm	no	piedēklis	inclusive
+n	ddp	yes	nokavēt	conservative
+n	cds	no	bandīts	conservative
+n	an	no	angilja	inclusive
+n	re	no	datums-izvarošanu	conservative
+n	dmc	yes	rube	conservative
+n	ddp	yes	slikta zivis	conservative
+n	an	no	weakling	conservative
+n	an	no	miģele	inclusive
+n	re	no	likumā izvarošanu	inclusive
+n	ddp	yes	changelings	inclusive
+n	an	no	sabiedrības padibenes	conservative
+n	re	no	mocītājs	inclusive
+n	asf	no	stulbums	conservative
+n	cds	no	fop	inclusive
+n	an	no	midge	inclusive
+n	ps	yes	barbari	conservative
+n	cds	no	mob	conservative
+n	an	no	bedbug	inclusive
+n	asm	no	dick	inclusive
+n	cds	no	klupt	inclusive
+n	qas	no	labotājs	conservative
+n	an	no	bezastaino abinieku kārta	inclusive
+n	an	no	goralu cilts	inclusive
+n	pa	yes	zivju veikali	inclusive
+n	an	no	govis	inclusive
+n	cds	no	ābolu spodrinātāja	conservative
+n	cds	no	zagļiem	inclusive
+n	an	no	carcharodon	inclusive
+n	svp	no	cheapskate	conservative
+n	om	no	sēžamvieta	inclusive
+n	cds	no	zealotry	inclusive
+n	an	no	makrofauna	inclusive
+n	cds	no	soft touch	conservative
+n	an	no	insecta	inclusive
+n	ps	yes	beduīnu	inclusive
+n	asm	no	stulbums	conservative
+n	dmc	yes	blunderer	conservative
+n	ddp	yes	muttonhead	conservative
+n	an	no	phthiraptera	inclusive
+n	svp	no	laiskums	inclusive
+n	ps	yes	kretīns	conservative
+n	svp	no	lustfulness	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	cds	no	likumpārkāpumi	inclusive
+n	svp	no	fizisko pievilcību	inclusive
+n	svp	no	bezdarbība	inclusive
+n	an	no	traģisku nelietis	conservative
+n	an	no	tarakāni	inclusive
+n	cds	no	sadzīves notekūdeņus	inclusive
+n	cds	no	pudden galvas	conservative
+n	pa	yes	papildinājums fakultātes	inclusive
+n	ddp	yes	plānprātība	inclusive
+n	om	no	muižniece	inclusive
+n	an	no	zuši	inclusive
+a	is	yes	nelaimīgs	inclusive
+n	ps	yes	kritums puisis	conservative
+a	is	yes	skumjš	inclusive
+n	qas	no	gleznotājs un dekorators	inclusive
+n	an	no	hiēna	inclusive
+n	asm	no	muļķe	inclusive
+n	qas	no	parazītismu	inclusive
+n	cds	no	uzpūtība	conservative
+n	cds	no	git	conservative
+n	an	no	equus asinus	inclusive
+n	qas	no	kastām	inclusive
+n	ps	yes	metisu izcelsmes pārstāvjiem	conservative
+n	re	no	izspiešanu	inclusive
+n	cds	no	ganāmpulks	inclusive
+v	asm	no	ņemties	conservative
+n	ddp	yes	barbarisko	conservative
+n	ps	yes	bulgāriete	inclusive
+n	an	no	kuce	inclusive
+n	re	no	stickup	inclusive
+n	qas	no	uzņēmuma īpašnieks	inclusive
+n	an	no	metazoans	inclusive
+n	an	no	maitas putni	inclusive
+n	cds	no	fašisti	conservative
+n	cds	no	brāķēt	conservative
+n	an	no	nanus	conservative
+n	qas	no	apakšnama loceklis	inclusive
+n	om	no	geju	conservative
+n	an	no	nelietīgs	conservative
+n	svp	no	pridefulness	inclusive
+n	cds	no	desmitiem	inclusive
+n	an	no	cūkas	inclusive
+n	re	no	seksuāli uzbrukumam	inclusive
+n	cds	no	naudas aizdevēji	conservative
+n	an	no	poulet	inclusive
+n	ddp	yes	mēlnesis	conservative
+n	pr	no	kode	inclusive
+n	asm	no	gabals asti	conservative
+n	ddp	yes	vientiesis	conservative
+n	dmc	yes	chawbacon	conservative
+n	qas	no	uzņēmējs	inclusive
+n	svp	no	gourmandizer	conservative
+n	cds	no	lepnums	conservative
+n	pa	yes	zivju tirgotājs	inclusive
+n	dmc	yes	slikta velns	conservative
+n	re	no	mobster	inclusive
+n	an	no	hiēnas	inclusive
+n	an	no	Šakāļi	inclusive
+n	om	no	homoerotic	inclusive
+n	cds	no	fanātisms	conservative
+n	cds	no	policists	conservative
+n	dmc	yes	blēdis	conservative
+n	dmc	yes	putot maisā	conservative
+n	ddp	yes	changeling	conservative
+n	ddp	yes	idiote	conservative
+n	svp	no	enviousness	inclusive
+n	qas	no	ideologa	inclusive
+n	an	no	raunch	conservative
+n	cds	no	stulbenis	inclusive
+n	om	no	homoeroticism	inclusive
+n	an	no	anuran	inclusive
+n	asm	no	wanker	conservative
+n	qas	no	lauksaimniece	inclusive
+n	qas	no	teste	inclusive
+n	asm	no	brūnā krāsa	inclusive
+n	pa	yes	akadēmisko	inclusive
+n	om	no	maitāt	conservative
+n	ddp	yes	analphabet	inclusive
+n	cds	no	ielu bandas	conservative
+n	an	no	saldūdens zušu dzimta	inclusive
+n	cds	no	joks	inclusive
+n	cds	no	patsy	conservative
+n	cds	no	nedarīt neko	conservative
+n	cds	no	reketieris	inclusive
+n	cds	no	mafija	conservative
+n	re	no	terorists	conservative
+n	asf	no	stulbenis	conservative
+n	cds	no	policisti	inclusive
+n	cds	no	banda kara	inclusive
+n	an	no	kopējā moskītu	inclusive
+n	cds	no	zīdaiņiem	inclusive
+a	an	no	utains	inclusive
+n	ps	yes	metic	inclusive
+n	cds	no	boastfulness	conservative
+n	ddp	yes	betise	conservative
+n	pr	no	hetaera	inclusive
+n	ddp	yes	duraks	inclusive
+n	cds	no	dēls kuce	conservative
+n	cds	no	laulība brokeris	inclusive
+n	ddp	yes	doofus	conservative
+n	pr	no	kodes	inclusive
+n	qas	no	retoriskums	inclusive
+n	re	no	liellopu raiding	inclusive
+n	an	no	muļķe	conservative
+n	cds	no	nemiera gars	conservative
+n	re	no	kidnaper	inclusive
+n	ddp	yes	hooey	inclusive
+n	pa	yes	šveicars	inclusive
+n	cds	no	relikvijas	inclusive
+n	an	no	pediculus humanus	inclusive
+n	an	no	cilvēks lācis	inclusive
+n	cds	no	hoi polloi	inclusive
+n	ps	yes	ebreju ģimenē	inclusive
+n	qas	no	jaukties citu darīšanās	inclusive
+n	pr	no	maita	conservative
+n	svp	no	augsta handedness	conservative
+n	om	no	homoseksualitāte	inclusive
+n	an	no	ķermeņa uts	inclusive
+n	om	no	dame	inclusive
+n	re	no	likumu pārtraucējierīces	inclusive
+n	qas	no	parazīti	inclusive
+n	rci	yes	sīkstulis	conservative
+n	om	no	homofils kustība	conservative
+n	cds	no	whorehouse	inclusive
+n	svp	no	riebumu	inclusive
+n	qas	no	tējkanna zivju	inclusive
+n	an	no	canis lupus familiaris	inclusive
+n	pr	no	govs	conservative
+n	an	no	dzēlējods	inclusive
+n	asm	no	zirņi	inclusive
+n	an	no	gliemji	inclusive
+n	cds	no	chawbacon	conservative
+n	om	no	lady	inclusive
+n	cds	no	pompa	conservative
+n	asf	no	peža	conservative
+n	svp	no	minginess	conservative
+n	qas	no	liels biznesmenis	inclusive
+n	re	no	nogalināšana	inclusive
+n	cds	no	bagnio	inclusive
+n	re	no	manslayer	inclusive
+n	ddp	yes	neizglītots cilvēks	conservative
+n	om	no	gejs	inclusive
+n	cds	no	sarežģīta problēma	conservative
+n	pa	yes	konsultants-at-likums	inclusive
+n	ddp	yes	twerp	conservative
+n	qas	no	pavirši strādāt	inclusive
+n	svp	no	acquisitiveness	inclusive
+n	qas	no	parazitāras	inclusive
+n	an	no	nekompetents cilvēks	conservative
+n	an	no	hyaenidae	inclusive
+n	asm	no	idiote	conservative
+n	ps	yes	nēģeri	inclusive
+n	cds	no	lazybones	conservative
+n	qas	no	vidusšķiras	inclusive
+n	cds	no	brīvmūrnieks	inclusive
+n	an	no	diddly-tupēt	conservative
+a	ddf	yes	netikumisks	conservative
+n	asf	no	pussy	conservative
+n	asf	no	kretīns	conservative
+n	ddp	yes	plānprātības	inclusive
+n	qas	no	nepatiesība	conservative
+n	cds	no	pavirši strādāt	inclusive
+n	re	no	noziedzīgiem nodarījumiem	inclusive
+n	svp	no	skopulis	conservative
+n	pa	yes	lempis	conservative
+n	an	no	iekšzemes vistas	inclusive
+n	an	no	iekšzemes ēzelis	inclusive
+n	cds	no	japāņu mērvienībās	inclusive
+n	re	no	seksa noziegumiem	inclusive
+n	qas	no	lauksaimnieki	inclusive
+n	or	no	punctiliousness	inclusive
+n	cds	no	lav	inclusive
+n	an	no	amerikāņu sumbri	inclusive
+n	svp	no	slackers	conservative
+n	ddp	yes	soft touch	conservative
+n	cds	no	ļauns	conservative
+n	an	no	moskītu	inclusive
+n	cds	no	bandu vardarbību	conservative
+n	re	no	slanderer	conservative
+n	an	no	cāļi	inclusive
+n	an	no	siphonaptera	inclusive
+n	ps	yes	starpģinšu hibrīds	inclusive
+n	cds	no	bandas loceklis	inclusive
+n	svp	no	niggardness	conservative
+n	an	no	hemipterous kukaiņu	inclusive
+n	cds	no	chiseler	conservative
+n	an	no	purva-pūce	inclusive
+n	cds	no	moaner	conservative
+n	pa	yes	barbari	conservative
+n	asf	no	tehnisks	inclusive
+n	an	no	mājas apogs	inclusive
+a	an	no	spītīgs	inclusive
+n	om	no	fenhelis	inclusive
+n	ps	yes	beduīns	inclusive
+n	asm	no	izdrāzt	conservative
+n	an	no	staigule	conservative
+n	svp	no	augstprātība	conservative
+a	ddf	yes	akls	inclusive
+n	cds	no	slacker	conservative
+n	cds	no	popurijs muļķis	inclusive
+n	cds	no	nouveau riche	inclusive
+n	pa	yes	ārkārtas profesors	inclusive
+n	an	no	kritums puisis	conservative
+n	cds	no	amateurishness	conservative
+n	dmc	yes	malodor	conservative
+n	an	no	kukaiņi	inclusive
+n	an	no	sentimentalitāte	conservative
+n	re	no	zaglis	inclusive
+n	ps	yes	latino	inclusive
+n	pr	no	prostitūta	conservative
+n	ddf	yes	punduris	conservative
+n	ddp	yes	ignorants	conservative
+n	ps	yes	krustojums	inclusive
+n	dmc	yes	slackers	conservative
+n	qas	no	magnāts	inclusive
+n	re	no	reketieris	inclusive
+n	dmc	yes	nepatiess	conservative
+n	an	no	crocodylian	inclusive
+n	re	no	teroristu	inclusive
+n	om	no	transvestites	inclusive
+n	cds	no	grimases	inclusive
+n	re	no	liellopu šalkas	inclusive
+n	ps	yes	ostgoti	inclusive
+n	pr	no	prostitūcija	inclusive
+n	ps	yes	nokavēt	conservative
+n	cds	no	viltība	inclusive
+n	is	yes	slikta velns	conservative
+n	an	no	muttonhead	conservative
+n	cds	no	reliģiozitāte	inclusive
+n	cds	no	lauķis	conservative
+n	re	no	felonies	inclusive
+n	om	no	maizītes	inclusive
+n	an	no	sliņķis	conservative
+n	re	no	šantažējot	conservative
+n	cds	no	ielu banda	conservative
+n	svp	no	gourmandizer	inclusive
+n	ddp	yes	atpalicība	inclusive
+n	om	no	astes	inclusive
+n	an	no	ovis gmelini aries	inclusive
+n	cds	no	parvēnijs	inclusive
+n	cds	no	saprecināt	conservative
+n	re	no	seksuāla vardarbība	inclusive
+n	dmc	yes	amorāla	inclusive
+n	qas	no	būda	inclusive
+n	cds	no	pārpilnība	inclusive
+n	cds	no	jauktenis	inclusive
+n	om	no	homofils	conservative
+n	dmc	yes	barbarisko	conservative
+n	cds	no	hibrīds	inclusive
+n	ps	yes	melnā krāsa	inclusive
+n	cds	no	kramplauzis	inclusive
+n	pa	yes	advokāts	inclusive
+n	cds	no	tualete iekārta	inclusive
+n	an	no	cālis	inclusive
+n	cds	no	arriviste	inclusive
+n	asf	no	kājstarpes mati	inclusive
+n	pa	yes	papildinājums profesors	inclusive
+n	dmc	yes	libertinism	conservative
+n	qas	no	divulgence	inclusive
+n	cds	no	aizdevuma sharking	conservative
+n	ddp	yes	stulbība	conservative
+n	dmc	yes	liekulība	conservative
+n	cds	no	tricker	conservative
+n	ddp	yes	idiots	conservative
+n	an	no	kāpurs	inclusive
+n	asf	no	doofus	conservative
+n	cds	no	itāļu mafiju	conservative
+n	cds	no	naudas aizdevējs	inclusive
+n	an	no	kodes	inclusive
+n	dmc	yes	dallier	conservative
+n	asm	no	priekšādiņas	inclusive
+n	om	no	transvestite	inclusive
+n	qas	no	bourgeoise	inclusive
+n	re	no	otrās pakāpes slepkavībā	inclusive
+n	svp	no	netiklību	inclusive
+n	cds	no	timeserver	conservative
+n	cds	no	scammer	inclusive
+n	qas	no	baronu	inclusive
+n	cds	no	suteneri	conservative
+n	re	no	izvarotāji	conservative
+n	pr	no	tukša pļāpāšana	conservative
+n	is	yes	trūcīgajiem	inclusive
+n	svp	no	angriness	inclusive
+n	cds	no	fawner	conservative
+a	dmc	yes	ļauns	conservative
+n	om	no	pakaļa	inclusive
+n	cds	no	krustojums	inclusive
+n	ps	yes	jūdaisms	inclusive
+n	cds	no	metāllūžņu	inclusive
+n	re	no	terorisma akts	inclusive
+n	qas	no	kaujamās	conservative
+n	svp	no	uzpūtīgums	conservative
+n	asm	no	pimpis	conservative
+a	svp	no	iedomīgs	conservative
+n	cds	no	defrauder	conservative
+n	svp	no	vienaldzīgs	inclusive
+n	ps	yes	hibrīds	inclusive
+n	or	no	slikta zivis	conservative
+a	dmc	yes	nekrietns	conservative
+n	cds	no	drūzmēties	inclusive
+n	ddp	yes	zooerasty	conservative
+n	cds	no	pienapuika	conservative
+n	cds	no	changeling	inclusive
+n	cds	no	hypersexual	conservative
+n	an	no	kazlēns	inclusive
+n	dmc	yes	ļaundaris	inclusive
+n	asm	no	nokavēt	inclusive
+n	qas	no	uzņēmēja	inclusive
+n	ps	yes	inkiness	inclusive
+n	an	no	eurypterida	inclusive
+n	pa	yes	darbinieks	inclusive
+n	an	no	pillager	inclusive
+n	asm	no	fava	inclusive
+n	cds	no	kinfolk	inclusive
+n	cds	no	gangsteris	inclusive
+n	an	no	mikroorganisms	inclusive
+n	ddp	yes	būtne	inclusive
+n	asm	no	falla	inclusive
+n	cds	no	cur	inclusive
+n	re	no	liekot uz nāvi	inclusive
+n	an	no	vepris	inclusive
+n	pa	yes	grāmatvedis	inclusive
+n	an	no	blakts	inclusive
+n	cds	no	sporta nams	inclusive
+n	cds	no	augļošanu	inclusive
+n	an	no	ielu meitene	conservative
+n	ddp	yes	denuncētājs	conservative
+n	cds	no	outlawry	inclusive
+n	or	no	sviesta ķirbis	inclusive
+n	dmc	yes	bufonāde	inclusive
+n	cds	no	sass	inclusive
+n	om	no	fenheļa	inclusive
+n	dmc	yes	grūtsirdīgs cilvēks	conservative
+n	asm	no	brūna krāsa	inclusive
+n	or	no	bonce	inclusive
+n	dmc	yes	pieklājība	inclusive
+n	ddp	yes	tattletale	conservative
+n	cds	no	korekcijas virsnieks	inclusive
+n	cds	no	hustling	conservative
+n	an	no	lielā balta haizivs	inclusive
+n	om	no	shirtlifter	inclusive
+n	ddf	yes	akls cilvēks	inclusive
+n	re	no	seksuālo uzbrukumu	inclusive
+n	om	no	sentimentalitāte	conservative
+n	svp	no	skaudība	inclusive
+n	asm	no	skrūvēm	conservative
+n	cds	no	crooner	inclusive
+n	qas	no	buržuāzija	inclusive
+n	re	no	plagiarisation	inclusive
+n	cds	no	complainer	conservative
+n	om	no	keister	inclusive
+n	dmc	yes	āksts	inclusive
+n	an	no	dzīvniekutis	inclusive
+n	or	no	tater	inclusive
+n	svp	no	lepnība	conservative
+n	ps	yes	negroīdi	inclusive
+n	an	no	kazu cilts	inclusive
+n	ddp	yes	epifaunal	inclusive
+n	qas	no	retoriski	inclusive
+n	ps	yes	patsy	conservative
+n	cds	no	brigands	inclusive
+n	cds	no	asinsradniecība	inclusive
+n	asf	no	knucklehead	conservative
+n	asm	no	stulbs	inclusive
+n	qas	no	omnium-gatherum	inclusive
+n	re	no	slepkavoja	inclusive
+n	om	no	hind beigas	inclusive
+n	cds	no	vagons	inclusive
+n	cds	no	fundamentālismu	inclusive
+n	cds	no	neprātis	conservative
+n	cds	no	mistrojums	inclusive
+n	om	no	cienītā	inclusive
+n	an	no	resgalis	conservative
+n	cds	no	intriguer	inclusive
+n	cds	no	aizstāvēšana	inclusive
+n	pa	yes	balto apkaklīšu darba ņēmējs	inclusive
+n	qas	no	boo-boo	inclusive
+n	cds	no	schoolmistress	conservative
+n	cds	no	bordelis	inclusive
+n	cds	no	likumpārkāpējs	inclusive
+n	cds	no	puse	inclusive
+n	or	no	poove	conservative
+a	qas	no	vidusšķiras	inclusive
+n	re	no	noziedzniece	inclusive
+n	cds	no	savedēja	inclusive
+n	cds	no	joslas	inclusive
+n	cds	no	radikāla labā spārna	conservative
+n	qas	no	mājturība	inclusive
+n	cds	no	likumpārkāpums	inclusive
+n	an	no	vecā pasaule bifeļa	inclusive
+n	cds	no	gossipmonger	conservative
+n	or	no	maitāt	conservative
+n	re	no	stealer	inclusive
+n	cds	no	slews	inclusive
+n	re	no	notiesāts kriminālnoziedznieks	inclusive
+n	ps	yes	resgalis	conservative
+n	qas	no	nedarbnieks	conservative
+n	re	no	itāļu mafiju	conservative
+n	cds	no	uzlikt ielāpu	inclusive
+n	qas	no	saimnieks	inclusive
+n	cds	no	slackers	conservative
+n	asm	no	dzimumlocekļa	inclusive
+n	ps	yes	jūdaisti	inclusive
+n	pr	no	ielas meita	conservative
+n	cds	no	virsnieks	inclusive
+a	svp	no	agresīvs	conservative
+n	re	no	calunnia	inclusive
+n	an	no	kazas pienu	inclusive
+n	dmc	yes	git	inclusive
+n	qas	no	brāķēt	conservative
+a	dmc	yes	viltus	conservative
+n	an	no	vardes un krupji	inclusive
+n	an	no	diddley	conservative
+n	cds	no	pedantisms	inclusive
+n	cds	no	ragtag	conservative
+n	cds	no	klozetpods	inclusive
+n	cds	no	conventicles	inclusive
+n	cds	no	nodarījumu	inclusive
+n	re	no	šantāžists	inclusive
+n	asm	no	pipele	inclusive
+n	ps	yes	starpsugu hibrīds	inclusive
+n	or	no	muttonhead	conservative
+n	cds	no	blēdis	inclusive
+n	cds	no	vagona vilcienu	inclusive
+n	an	no	vēžskorpioni	inclusive
+n	asm	no	plaša pupiņu augu	inclusive
+n	cds	no	amour propre	conservative
+n	dmc	yes	rotter	conservative
+n	an	no	haizivs uzbrukuma	inclusive
+n	qas	no	freeloader	conservative
+n	pa	yes	ministru padomnieku	inclusive
+n	ps	yes	melnādainais	conservative
+n	re	no	zādzībām	inclusive
+n	ps	yes	judaisms	inclusive
+n	pa	yes	docente	inclusive
+n	cds	no	banda kara	conservative
+n	cds	no	reliģiozitāti	inclusive
+n	cds	no	wisenheimer	conservative
+n	an	no	kopējā uts	inclusive
+n	an	no	vardes	inclusive
+n	ddf	yes	invaliditāti	inclusive
+n	ddp	yes	muļķības	conservative
+n	cds	no	augsnes	inclusive
+n	cds	no	splashiness	conservative
+n	asm	no	penis	inclusive
+n	an	no	ragtag	conservative
+n	re	no	noziedzīgu darbību	inclusive
+n	cds	no	jūtīgs-parker	conservative
+n	qas	no	kalpotājs	inclusive
+n	asm	no	sējas zirņi	inclusive
+n	ddp	yes	cietumnieks	inclusive
+n	pr	no	moo-govs	inclusive
+n	ddp	yes	ragtag	conservative
+n	pa	yes	profesora	inclusive
+n	om	no	dāmas	inclusive
+n	cds	no	sīkumi	inclusive
+v	re	no	zagt	inclusive
+n	an	no	protelidae	inclusive
+n	asf	no	resgalis	conservative
+n	qas	no	baroka	inclusive
+n	svp	no	ne-konta	conservative
+n	or	no	peža	conservative
+n	cds	no	cietuma uzraugs	inclusive
+n	re	no	nepatiesas apsūdzības	inclusive
+n	dmc	yes	atkritējs	conservative
+a	cds	no	stulba	conservative
+n	pr	no	īres zēns	conservative
+n	cds	no	sassing	inclusive
+n	qas	no	amatieri	inclusive
+n	qas	no	retorisks	inclusive
+n	dmc	yes	fanātisms	conservative
+v	asm	no	iepazīt	conservative
+n	an	no	codswallop	conservative
+n	an	no	truši	inclusive
+n	an	no	krokodilu kārta	inclusive
+n	dmc	yes	izstumtais	inclusive
+n	qas	no	acolytes	inclusive
+n	dmc	yes	negatīvais tēls	conservative
+n	dmc	yes	moralistic	inclusive
+n	re	no	slikta apiešanās	inclusive
+n	an	no	bos bison	inclusive
+n	ddp	yes	blabbermouth	conservative
+n	or	no	ceturtdaļpinte	inclusive
+n	qas	no	testis	inclusive
+n	an	no	kode	inclusive
+n	dmc	yes	ļaunumu	conservative
+n	cds	no	izstumtais	inclusive
+n	re	no	uzmācas	inclusive
+n	an	no	sunītis	inclusive
+n	cds	no	netīrumi	inclusive
+n	re	no	mafija	conservative
+n	svp	no	riebums	inclusive
+n	cds	no	noziegšanās	inclusive
+n	cds	no	gļēvulību	conservative
+n	ddf	yes	nespēja	inclusive
+n	cds	no	slodzes	inclusive
+n	ps	yes	hebraism	inclusive
+n	cds	no	atliekas	inclusive
+n	cds	no	dickhead	conservative
+n	or	no	skvošs vīnogulāju	inclusive
+n	re	no	zagļiem	inclusive
+n	an	no	mājas cūkas	inclusive
+n	an	no	Āzis	inclusive
+n	qas	no	barbarisko	conservative
+n	cds	no	jokdaris	conservative
+n	ddp	yes	blunderer	conservative
+n	pa	yes	bēru uzņēmējs	inclusive
+n	svp	no	skopulis	inclusive
+n	cds	no	loansharking	conservative
+n	pr	no	vēršiem	inclusive
+n	asm	no	kretīns	inclusive
+n	re	no	delikts	inclusive
+n	cds	no	slaists	inclusive
+n	qas	no	pamesta kuģis	inclusive
+n	cds	no	pilferer	conservative
+n	re	no	pirmās pakāpes slepkavībā	inclusive
+n	cds	no	banalizēt rakstnieks	conservative
+n	an	no	odze	inclusive
+n	cds	no	moneylending	conservative
+n	or	no	dārza kāposts	inclusive
+n	dmc	yes	netikumība	inclusive
+n	is	yes	traģisks nelietis	conservative
+n	pr	no	socialites	inclusive
+n	re	no	grifter	inclusive
+n	an	no	mājas ēzelis	inclusive
+n	cds	no	jauktas šķirnes suns	inclusive
+n	or	no	fuckhead	conservative
+n	re	no	nesamaksāts	conservative
+n	cds	no	grunge rock	inclusive
+n	cds	no	apakšgrupas klans	inclusive
+n	an	no	kalnu kazas	inclusive
+n	pa	yes	porteris	inclusive
+n	dmc	yes	slikts cilvēks	conservative
+n	an	no	blēdis	conservative
+n	om	no	pederasts	inclusive
+n	pr	no	paklīdene	inclusive
+n	om	no	buggery	inclusive
+n	pa	yes	aizstāvības advokāts	inclusive
+n	an	no	caprini	inclusive
+n	pr	no	naktstauriņš	inclusive
+n	cds	no	pillock	conservative
+n	is	yes	nelietīgs	conservative
+n	an	no	brant	inclusive
+n	cds	no	paraut-off	conservative
+n	an	no	greizs sejas	inclusive
+n	an	no	sus scrofa domestica	inclusive
+n	re	no	sodāms tikai nodarījumu	inclusive
+n	cds	no	apjoms	inclusive
+n	an	no	ielu prostitūciju	conservative
+n	ddp	yes	knucklehead	conservative
+n	re	no	grand zādzībām	inclusive
+n	an	no	slob	conservative
+n	ps	yes	vagabond	inclusive
+n	asm	no	sēklinieku	inclusive
+n	an	no	aita	inclusive
+n	svp	no	piktums	inclusive
+n	cds	no	izmisuma noziedzīgu	inclusive
+n	pr	no	rentboy	conservative
+n	an	no	marodieris	conservative
+n	an	no	negatīvais tēls	conservative
+n	or	no	cunt	conservative
+n	ps	yes	zulu cilvēki	inclusive
+n	cds	no	ceļš aģents	conservative
+n	cds	no	pedants	conservative
+n	an	no	viciousness	conservative
+n	cds	no	starpģinšu hibrīds	inclusive
+n	or	no	stulba persona	conservative
+n	re	no	niknums	inclusive
+n	asm	no	roku darbs	conservative
+n	om	no	tooshie	inclusive
+n	cds	no	changelings	inclusive
+n	re	no	noziedzīgs nodarījums	inclusive
+n	dmc	yes	nesamaksāts	conservative
+n	re	no	likumpārkāpumi	inclusive
+n	re	no	policijas vardarbību	inclusive
+n	an	no	vermes	inclusive
+n	an	no	escargot	inclusive
+n	ps	yes	metics	inclusive
+n	an	no	muļķība	conservative
+n	asm	no	muļķe	conservative
+n	ps	yes	barbars	conservative
+n	cds	no	laupītājs	conservative
+n	an	no	vīriešu prostitūtu	conservative
+n	cds	no	naudas aizdevumu	inclusive
+n	dmc	yes	popurijs muļķis	inclusive
+a	re	no	stiprs	inclusive
+n	an	no	nozākāt	conservative
+n	is	yes	ubags	inclusive
+n	om	no	pederastic	inclusive
+n	pa	yes	barbariem	conservative
+n	pr	no	concubinage	inclusive
+n	re	no	laupījums	inclusive
+n	cds	no	sicīlijas mafiju	conservative
+n	pr	no	netikli	conservative
+n	cds	no	bumbler	conservative
+n	qas	no	lempis	conservative
+n	asm	no	nolaupīšanas off	conservative
+n	an	no	Šakālis	inclusive
+a	ps	yes	melns	inclusive
+n	cds	no	backtalk	inclusive
+n	ps	yes	lempis	conservative
+n	ddp	yes	ieslodzītais	inclusive
+n	cds	no	streiku pārtraucējierīces	inclusive
+n	dmc	yes	rupjš	conservative
+n	an	no	ģimenes cimicidae	inclusive
+n	ps	yes	changelings	conservative
+n	an	no	grifs	inclusive
+n	qas	no	buržuāzijas	inclusive
+n	an	no	rotter	conservative
+n	cds	no	swaggerer	conservative
+n	cds	no	blackballed	inclusive
+n	or	no	rācenis	inclusive
+n	cds	no	sabiedrības ērtības	inclusive
+n	or	no	galviņkāposti	inclusive
+n	re	no	terora akti	inclusive
+n	an	no	prusaks	inclusive
+n	asm	no	brūnais	inclusive
+n	dmc	yes	tāds un tāds	conservative
+n	cds	no	pārdrošība	conservative
+n	cds	no	bandītismu	inclusive
+n	cds	no	dandies	inclusive
+n	qas	no	apkalpes	inclusive
+n	re	no	likumu izvarošanu	inclusive
+n	om	no	distālās	inclusive
+n	pr	no	komerciāliem seksa	conservative
+n	asm	no	sēkliniekos	inclusive
+n	asm	no	lētticības	conservative
+n	ddp	yes	garīga atpalicība	inclusive
+n	rci	yes	lempis	conservative
+n	ddp	yes	arsehole	conservative
+a	is	yes	skumji	inclusive
+n	an	no	bloodsucker	inclusive
+n	cds	no	dungot	inclusive
+n	cds	no	šarlatāns	conservative
+n	cds	no	mafija	inclusive
+n	re	no	calumniation	inclusive
+n	svp	no	pārēšanās	inclusive
+n	cds	no	metāllūžņu	conservative
+n	ddp	yes	dumjš	conservative
+n	dmc	yes	morālo kompasu	inclusive
+n	an	no	knislis	inclusive
+n	asm	no	twirp	conservative
+n	an	no	ēzelis	inclusive
+n	dmc	yes	klaiņošanas	inclusive
+n	cds	no	defrauder	inclusive
+n	or	no	muļķis	conservative
+a	dmc	yes	zemisks	conservative
+n	re	no	vilifier	conservative
+n	svp	no	taṇhā	inclusive
+n	an	no	zoss	inclusive
+n	qas	no	ideologs	inclusive
+n	asm	no	faba vulgaris	inclusive
+n	dmc	yes	chiseler	conservative
+n	cds	no	jaundzimušo	inclusive
+n	svp	no	apātija	inclusive
+n	pa	yes	durvju sargs	inclusive
+n	qas	no	sīkumi	inclusive
+n	dmc	yes	mocarella	inclusive
+n	dmc	yes	prevaricator	inclusive
+n	svp	no	lepnums	conservative
+n	cds	no	nekārtība	conservative
+n	asf	no	fuckhead	conservative
+n	cds	no	bērnu	inclusive
+n	an	no	carcharodon carcharias	inclusive
+a	ddf	yes	neredzīgs	inclusive
+n	qas	no	melot	conservative
+n	pa	yes	barbarisko	conservative
+n	an	no	mollusk	inclusive
+n	ddp	yes	bastards	conservative
+n	an	no	pūces	inclusive
+n	cds	no	apjomu	inclusive
+n	an	no	ecaudata	inclusive
+n	ps	yes	ebreju kopiena	inclusive
+n	re	no	rustler	inclusive
+n	an	no	athene noctua	inclusive
+v	an	no	riet	inclusive
+n	dmc	yes	evilness	inclusive
+n	svp	no	labi-for-veltīgs	conservative
+n	asf	no	idiots	conservative
+n	an	no	naktstauriņi	inclusive
+n	dmc	yes	fumbler	conservative
+a	cds	no	viltīgs	conservative
+n	re	no	slikti izmantošana	inclusive
+n	om	no	crossdresser	inclusive
+n	dmc	yes	cūka	conservative
+n	an	no	shote	inclusive
+n	qas	no	retors	inclusive
+n	dmc	yes	pavadīt-visas	inclusive
+n	qas	no	zemniecība	inclusive
+n	an	no	kazu apakšdzimta	inclusive
+n	dmc	yes	roue	conservative
+n	om	no	pederastija	inclusive
+n	om	no	twink	conservative
+n	cds	no	ndrangheta	inclusive
+n	re	no	blēdis	conservative
+n	an	no	bifelis	inclusive
+n	an	no	šakālis	inclusive
+n	om	no	drātēties	inclusive
+n	dmc	yes	otrās rater	conservative
+n	an	no	muļķis	conservative
+n	pr	no	padauza	inclusive
+n	ddp	yes	dzīvnieku valsts	inclusive
+n	re	no	apmelot un apmelošanu	inclusive
+n	an	no	īres zēns	conservative
+n	cds	no	nesamaksāts	conservative
+n	cds	no	sazvērestības teorētiķi	inclusive
+n	cds	no	negodīgums	inclusive
+n	re	no	terora akts	conservative
+n	is	yes	slikts	inclusive
+n	cds	no	bandīts	inclusive
+n	an	no	netīrs triks	conservative
+n	dmc	yes	pāķis	conservative
+n	qas	no	amatieru	inclusive
+n	dmc	yes	cheater	conservative
+n	asf	no	dumbass	conservative
+n	ps	yes	romu	inclusive
+n	cds	no	sazvērestība klusēt	inclusive
+n	dmc	yes	netiklis	conservative
+n	re	no	chiseller	inclusive
+n	cds	no	dievinošs	inclusive
+n	cds	no	villainess	conservative
+n	cds	no	aizdevumu haizivis	inclusive
+n	ps	yes	darkie	conservative
+n	cds	no	chiseler	inclusive
+n	an	no	bullis	inclusive
+n	pa	yes	cordwainer	inclusive
+n	cds	no	traģisks nelietis	conservative
+n	re	no	izstumtais	inclusive
+n	qas	no	troubler	conservative
+n	ddp	yes	folderol	conservative
+n	cds	no	aizdevumu haizivis	conservative
+n	dmc	yes	malodour	conservative
+n	dmc	yes	sliņķis	conservative
+n	ddp	yes	tenkotājs	conservative
+n	ddp	yes	stulbums	conservative
+n	re	no	rīkoties terorisma	inclusive
+n	ps	yes	augu biotehnoloģijas	inclusive
+n	ddp	yes	barbaru	conservative
+n	qas	no	granger	inclusive
+n	an	no	zemieņu sumbrs	inclusive
+n	ddp	yes	changelings	conservative
+n	asm	no	kritums puisis	conservative
+n	ps	yes	beduin	inclusive
+n	re	no	mokas	inclusive
+n	re	no	nodarījumu	inclusive
+a	svp	no	pikts	inclusive
+n	qas	no	kastas	inclusive
+n	cds	no	cliques	inclusive
+n	qas	no	kastu sistēma	inclusive
+n	ps	yes	changeling	conservative
+n	pa	yes	fakultātes	inclusive
+n	pr	no	prostitūcija	conservative
+n	is	yes	slikta velns	inclusive
+n	re	no	sīko zādzību	inclusive
+n	an	no	prusaku	inclusive
+n	cds	no	nokavēt	inclusive
+n	qas	no	noraidīt	conservative
+n	re	no	gangsteru	inclusive
+n	cds	no	lepnība	inclusive
+n	an	no	diddlysquat	conservative
+n	qas	no	barons	inclusive
+n	re	no	zog	inclusive
+n	cds	no	zinu-visas	conservative
+n	cds	no	brīva mason	inclusive
+n	cds	no	liellopu rustler	inclusive
+n	re	no	thieving	inclusive
+n	ddp	yes	zināt neko	conservative
+n	om	no	velciet ķēniņiene	inclusive
+n	qas	no	fermeris	inclusive
+n	cds	no	aizdevumu haizivs	inclusive
+n	pa	yes	akadēmiķi	inclusive
+n	cds	no	ingroup	inclusive
+n	cds	no	ielu banda	inclusive
+n	cds	no	barbars	conservative
+n	cds	no	fanātismu	conservative
+n	pa	yes	wooer	inclusive
+n	qas	no	barbariem	conservative
+n	qas	no	bonera	inclusive
+n	cds	no	bordeļi	inclusive
+n	cds	no	kriminālais grupējums	conservative
+n	cds	no	reliģiozums	inclusive
+n	re	no	terorismu	conservative
+n	om	no	pāri garderobists	inclusive
+n	an	no	lode	inclusive
+n	ddp	yes	microcephalic	inclusive
+n	an	no	ērču	inclusive
+n	svp	no	tanha	inclusive
+n	svp	no	sliņķis	conservative
+n	ddf	yes	invalīdiem	inclusive
+n	or	no	pudden galvas	conservative
+n	ps	yes	fricis	conservative
+n	cds	no	negodīgi	conservative
+n	or	no	ķirbis	inclusive
+n	cds	no	tualete	inclusive
+n	ps	yes	krustoja	inclusive
+n	cds	no	paparaci	inclusive
+n	is	yes	traģisku nelietis	conservative
+n	ps	yes	vandaļi	inclusive
+n	cds	no	duraks	conservative
+n	ps	yes	mūlāps	conservative
+n	an	no	skorpēnām	inclusive
+n	ps	yes	nēģeris	inclusive
+n	an	no	drūmi skatīties	inclusive
+n	ps	yes	pikey	conservative
+n	asm	no	muļķītis	conservative
+n	re	no	cirvis darbs	inclusive
+n	cds	no	sazvērestības teorija	inclusive
+n	cds	no	bragger	conservative
+n	ddp	yes	dickhead	conservative
+n	cds	no	gobs	inclusive
+n	an	no	anguilliformes	inclusive
+a	svp	no	lepns	conservative
+n	an	no	kazas piena	inclusive
+n	an	no	ganību ērces	inclusive
+n	asm	no	zirgu pupas	inclusive
+n	is	yes	skrandainis	conservative
+n	re	no	mēlnesis	conservative
+n	cds	no	nolaupīšanas off	conservative
+n	cds	no	izstumtais	conservative
+n	svp	no	slinkums	inclusive
+n	an	no	spekulants	conservative
+n	cds	no	bagāžas vilcienu	inclusive
+n	an	no	ods	inclusive
+n	cds	no	matcher	inclusive
+n	dmc	yes	layabout	conservative
+n	cds	no	ielu bandas	inclusive
+n	svp	no	boastfulness	conservative
+n	ps	yes	lummox	conservative
+n	an	no	slowcoach	conservative
+n	re	no	seksa noziegumu	inclusive
+n	asm	no	jāšanās	conservative
+n	pr	no	īres zēniem	conservative
+n	om	no	pārrobežu garderobists	inclusive
+n	qas	no	meli	conservative
+n	an	no	dumbass	conservative
+a	ps	yes	ebreju	inclusive
+n	cds	no	narcism	inclusive
+n	re	no	terorists	inclusive
+n	om	no	nav westernised koncepcijas vīriešu seksualitāti	inclusive
+n	an	no	knauši	inclusive
+n	dmc	yes	barbari	conservative
+n	dmc	yes	labotājs	conservative
+n	qas	no	bollocks	inclusive
+n	ps	yes	negroaustraloīdā rase	inclusive
+n	qas	no	parazītisms	inclusive
+n	cds	no	laupītājs	inclusive
+n	an	no	dzīvnieku	inclusive
+n	cds	no	vaunter	conservative
+n	qas	no	karalis	inclusive
+n	cds	no	gudrs aleck	conservative
+n	svp	no	dusmošanās	inclusive
+n	asf	no	codswallop	conservative
+n	qas	no	zemniece	inclusive
+n	qas	no	sēklinieku	inclusive
+n	cds	no	line-šāvēja	conservative
+n	cds	no	noziegums kungs	inclusive
+n	is	yes	trūkums	inclusive
+n	cds	no	resgalis	conservative
+n	ps	yes	Āzijas—amerikas rase	conservative
+n	asm	no	eiropas pupu	inclusive
+n	an	no	sivēni	inclusive
+n	svp	no	alkas	inclusive
+n	cds	no	hoi polloi	conservative
+n	an	no	ielasmeita	conservative
+n	cds	no	ģimenes līnija	inclusive
+n	cds	no	muļķīgs	conservative
+n	cds	no	stulba persona	conservative
+n	asf	no	cunt	conservative
+n	or	no	pillock	conservative
+n	re	no	aizliegtā	inclusive
+n	om	no	pārrobežu mērci	inclusive
+n	is	yes	nelietis	conservative
+n	cds	no	kazino azartspēļu	inclusive
+n	pr	no	paklīdene	conservative
+n	qas	no	kārtības traucētājs	conservative
+n	svp	no	uzpūtība	conservative
+n	cds	no	pūlis-rouser	conservative
+n	an	no	svārki chaser	conservative
+n	or	no	finocchio	inclusive
+n	om	no	homoseksuāls	inclusive
+n	an	no	hirudinean	inclusive
+n	ps	yes	nigga	conservative
+n	pr	no	seksuālo pakalpojumu	conservative
+n	pr	no	comare	conservative
+n	qas	no	zemkopis	inclusive
+n	ps	yes	izraēliešu	inclusive
+n	cds	no	traģisku nelietis	conservative
+n	an	no	suborder blattaria	inclusive
+n	an	no	frogspawn	inclusive
+n	qas	no	veikalnieks	inclusive
+n	an	no	nevīžīgs cilvēks	conservative
+n	asf	no	twat	conservative
+n	cds	no	paviršība	inclusive
+n	rci	yes	barbars	conservative
+n	cds	no	bawdyhouse	inclusive
+n	an	no	nežēlība	conservative
+n	cds	no	gangsteru	inclusive
+n	an	no	bison bonasus	inclusive
+n	cds	no	jaukties citu darīšanās	conservative
+n	an	no	git	conservative
+n	cds	no	korekcijas amatpersona	inclusive
+n	re	no	Ļaundaris	conservative
+n	an	no	cūciņa	inclusive
+n	cds	no	audzināt	conservative
+n	cds	no	ģimenes	inclusive
+n	qas	no	parasitize	inclusive
+n	qas	no	apakšnama	inclusive
+n	cds	no	jauniešu bandas	conservative
+n	cds	no	sevis mīlestību	conservative
+n	svp	no	acedia	inclusive
+n	an	no	brent	inclusive
+n	dmc	yes	grifter	conservative
+n	cds	no	brīvmūrnieki	inclusive
+n	cds	no	puse pinte	conservative
+n	an	no	wuss	conservative
+n	pr	no	kuce	conservative
+a	ddf	yes	nekrietns	conservative
+n	cds	no	masas	inclusive
+n	cds	no	neģēlis	conservative
+n	cds	no	skolotāja	inclusive
+n	cds	no	mafioso	conservative
+n	cds	no	enerģisks cilvēks	inclusive
+n	pr	no	brūnā žurka	inclusive
+n	cds	no	idiolatry	inclusive
+n	pr	no	liellops	inclusive
+n	qas	no	sēklinieki	inclusive
+n	an	no	sieviete chaser	conservative
+n	re	no	ļaundaris	inclusive
+n	asf	no	pīzda	conservative
+n	cds	no	mākslīgs hibrīda	inclusive
+n	cds	no	morāle	inclusive
+n	cds	no	plānprātīgs	inclusive
+n	qas	no	vidēju ienākumu	inclusive
+n	cds	no	liellopu šalkas	inclusive
+n	re	no	nelietīgs	conservative
+n	dmc	yes	barbaru	conservative
+n	re	no	mežonība	inclusive
+n	an	no	netīrs suns	conservative
+n	ddp	yes	kritums puisis	conservative
+n	cds	no	ļaundaris	inclusive
+n	pa	yes	bēru direktors	inclusive
+n	ps	yes	hispanic	inclusive
+n	ddp	yes	muļķe	conservative
+n	an	no	dzīvnieku valsts	inclusive
+a	ddf	yes	slikts	inclusive
+n	an	no	cūka	inclusive
+n	cds	no	kaujamās	conservative
+n	is	yes	nabags	inclusive
+n	an	no	bison americanus	inclusive
+n	cds	no	māja prostitūcijas	inclusive
+n	re	no	finanšu ļaunprātīgu	inclusive
+n	qas	no	partneris noziedzības	inclusive
+n	ddp	yes	skumjš maiss	conservative
+n	qas	no	barbaru	conservative
+n	ddp	yes	sīkstulis	conservative
+n	dmc	yes	klauns	inclusive
+n	re	no	laupīšanu	inclusive
+n	cds	no	bandu vardarbību	inclusive
+n	cds	no	moralizēšanu	inclusive
+n	cds	no	barbariem	conservative
+n	cds	no	virsnieks	conservative
+n	an	no	dzēlējodi	inclusive
+n	cds	no	bandas loceklis	conservative
+n	cds	no	clann	inclusive
+n	an	no	odiem	inclusive
+n	cds	no	ļaunums	conservative
+n	dmc	yes	villainess	conservative
+n	qas	no	top izpildvaras	inclusive
+n	dmc	yes	neīsto	conservative
+n	om	no	pediņš	inclusive
+n	an	no	zoslēns	inclusive
+n	qas	no	mājas krāsošana	inclusive
+n	cds	no	negatīvs tēls	conservative
+n	pr	no	saimniece	conservative
+n	asm	no	falla simbols	inclusive
+n	cds	no	maita	inclusive
+n	dmc	yes	foetor	conservative
+n	cds	no	nerd	conservative
+n	cds	no	reakcijas laikmets	conservative
+n	ddp	yes	brutalitāti	conservative
+n	an	no	ixodoidea	inclusive
+n	dmc	yes	melkulis	conservative
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	qas	no	jaukta lopbarība	inclusive
+n	cds	no	demagoģisks	conservative
+n	cds	no	sniveller	conservative
+n	asm	no	piedēkļu	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	svp	no	nedarīt neko	conservative
+n	ddp	yes	garīgi	conservative
+n	pa	yes	zāle porteris	inclusive
+n	qas	no	tirgotājs	inclusive
+n	an	no	villainess	conservative
+n	ps	yes	Čigāni	inclusive
+n	an	no	ruksis	inclusive
+n	re	no	chiseler	inclusive
+n	cds	no	elku pielūgšana	inclusive
+n	asm	no	gailēns	inclusive
+n	ddp	yes	duraks	conservative
+n	cds	no	japānas mērvienībām	inclusive
+n	cds	no	paparazzo	inclusive
+n	or	no	kartupelis	inclusive
+n	cds	no	jauniesaucamais	conservative
+n	pa	yes	advokatūra	inclusive
+n	an	no	ass	inclusive
+n	cds	no	rādītāji	inclusive
+n	ddp	yes	bumbler	conservative
+n	cds	no	līst zaglis	conservative
+n	re	no	rīkoties terorisma	conservative
+a	om	no	homoseksuāls	conservative
+n	asm	no	garīgi	inclusive
+n	an	no	iksodīdu ērces	inclusive
+n	an	no	diddly-sūdi	conservative
+n	an	no	epifaunal	inclusive
+n	dmc	yes	netīrs suns	conservative
+n	pr	no	brūns žurka	inclusive
+n	cds	no	radniecību grupa	inclusive
+n	an	no	looter	inclusive
+n	om	no	crossdressing	inclusive
+n	an	no	kazu antilopes	inclusive
+n	cds	no	āksts	inclusive
+n	dmc	yes	laucinieks	conservative
+n	ps	yes	melnās sievietes	inclusive
+n	an	no	ovis aries aries	inclusive
+n	dmc	yes	nepatiesība	inclusive
+n	or	no	lauka gurķis	inclusive
+n	or	no	fenhelis	inclusive
+a	re	no	vardarbīgu	inclusive
+n	an	no	grifu	inclusive
+n	re	no	terorisms	conservative
+n	cds	no	gigolo	inclusive
+n	pr	no	govs	inclusive
+n	ps	yes	soft touch	conservative
+n	re	no	maligner	conservative
+n	ps	yes	mongolis	inclusive
+n	dmc	yes	pilferer	conservative
+n	cds	no	suteneri	inclusive
+n	asf	no	lunkhead	conservative
+n	cds	no	garīgi	inclusive
+n	qas	no	sēklinieks	inclusive
+v	asm	no	drātēties	conservative
+a	svp	no	uzpūtīgs	conservative
+n	svp	no	septiņi nāves grēki	inclusive
+n	an	no	govs	conservative
+n	cds	no	kanalizācijas	inclusive
+n	qas	no	bloopers	inclusive
+n	re	no	pārkāpumiem	inclusive
+n	asm	no	putni	inclusive
+n	cds	no	barbaru	conservative
+n	an	no	kanāls bass	inclusive
+n	an	no	vulgaritāte	conservative
+n	or	no	homofils kustību	conservative
+n	an	no	liellops	inclusive
+n	cds	no	masonu	inclusive
+n	re	no	mafioso	conservative
+n	cds	no	mīlulis	inclusive
+n	cds	no	penss briesmīgs	inclusive
+n	cds	no	melnstrādnieks	inclusive
+n	cds	no	wonk	conservative
+n	qas	no	draudzes	inclusive
+n	ps	yes	bulgāri	inclusive
+n	cds	no	reliģiskais fundamentālisms	inclusive
+n	svp	no	miesas kārības	inclusive
+n	asm	no	putns	inclusive
+n	an	no	bison	inclusive
+n	dmc	yes	puse pinte	conservative
+n	cds	no	sīkstulis	conservative
+n	cds	no	melange	inclusive
+n	cds	no	baseinu hustling	conservative
+n	ddp	yes	kretīns	inclusive
+n	cds	no	notekūdeņu	inclusive
+n	qas	no	ektoparazītiem	inclusive
+n	ddp	yes	plānprātīgs	inclusive
+n	an	no	ķermeņa snatcher	inclusive
+n	pr	no	galminieks	inclusive
+n	or	no	brassica oleracea var. capitata	inclusive
+n	qas	no	klasiskā retorika	inclusive
+n	re	no	kramplauzis	inclusive
+n	an	no	krupji	inclusive
+n	ps	yes	kraut	conservative
+n	an	no	maitasputni	inclusive
+n	an	no	slīdēšanas no mēles	inclusive
+n	dmc	yes	scammer	conservative
+n	cds	no	pedagogs	inclusive
+n	cds	no	streiklauzis	inclusive
+n	pa	yes	kaprālis	inclusive
+n	cds	no	roku darbs	conservative
+n	dmc	yes	delikts	inclusive
+n	dmc	yes	krāpnieks dievs	conservative
+n	cds	no	outlawry	conservative
+n	cds	no	cosa nostra	inclusive
+n	om	no	anālais sekss	inclusive
+n	cds	no	know-it-all	conservative
+n	re	no	plagiarize	inclusive
+n	cds	no	nelietis	conservative
+n	or	no	gurķi	inclusive
+n	an	no	cuka	inclusive
+n	an	no	gaļas liellopi	inclusive
+n	svp	no	seksuālā vēlme	inclusive
+n	re	no	apmelojošus	inclusive
+n	cds	no	prātnieks	conservative
+n	cds	no	cilšu	inclusive
+n	dmc	yes	smaka	conservative
+n	asf	no	folderol	conservative
+n	ddp	yes	veselības krāpšanu	conservative
+n	qas	no	necrotrophic	inclusive
+n	cds	no	policisti	conservative
+n	cds	no	fundamentisms	inclusive
+n	qas	no	magnates	inclusive
+n	asm	no	changelings	inclusive
+n	dmc	yes	neveiksmīgs	inclusive
+n	ddp	yes	stulbenis	conservative
+n	ps	yes	melno cilvēku	inclusive
+n	ps	yes	metis	conservative
+n	svp	no	dilly-dallier	conservative
+n	cds	no	masoni	inclusive
+n	an	no	bison bison	inclusive
+n	re	no	apmelojums	inclusive
+n	re	no	ļaunprātīga izmantošana	inclusive
+n	is	yes	nabaga cilvēki	inclusive
+n	cds	no	grifter	conservative
+n	dmc	yes	aizliegtā	inclusive
+n	cds	no	slampa	conservative
+n	ps	yes	bulgārs	inclusive
+n	ps	yes	Ēbreji	inclusive
+n	re	no	noziegums	inclusive
+n	asm	no	gailis	inclusive
+n	cds	no	muļķības	conservative
+n	cds	no	savedējs	inclusive
+n	or	no	dārza kāposti	inclusive
+n	re	no	agonija	inclusive
+n	pa	yes	comptroller	inclusive
+n	an	no	prusaku kārta	inclusive
+n	dmc	yes	renegāts	conservative
+n	an	no	crocodylia	inclusive
+n	cds	no	blabbermouth	conservative
+n	cds	no	elks dievkalpojumu	inclusive
+n	an	no	stulbība	conservative
+n	an	no	kazlēni	inclusive
+n	an	no	zosis	inclusive
+n	qas	no	kopējo cilvēku	inclusive
+n	cds	no	mīļotājs	inclusive
+n	asm	no	imbecils	inclusive
+n	cds	no	clotheshorse	inclusive
+n	cds	no	fundamentālists	inclusive
+n	an	no	capra hircus	inclusive
+n	dmc	yes	lazybones	conservative
+n	dmc	yes	pazemojums	inclusive
+n	cds	no	cathouse	inclusive
+n	cds	no	liels nemazgājies	conservative
+n	an	no	limacidae	inclusive
+n	re	no	spīdzināja	inclusive
+n	asm	no	tumši brūns	inclusive
+n	cds	no	laupītājs barons	inclusive
+n	cds	no	wanker	conservative
+n	om	no	šķērsot mērci	inclusive
+n	dmc	yes	nedarīt neko	conservative
+n	pr	no	vēršu	inclusive
+n	an	no	kazas	inclusive
+n	an	no	brant goose	inclusive
+n	an	no	krupis varde	inclusive
+n	an	no	mūlis	inclusive
+n	pa	yes	kontrolieris	inclusive
+n	an	no	salientian	inclusive
+n	ddp	yes	neprātība	conservative
+n	cds	no	krustoja	inclusive
+n	dmc	yes	tāds un tāds	inclusive
+n	an	no	purva pūce	inclusive
+n	cds	no	bēbis	inclusive
+n	cds	no	self-dievkalpojumu	inclusive
+n	asm	no	nediena	inclusive
+n	an	no	tārps	inclusive
+n	ddp	yes	epifauna	inclusive
+n	re	no	terorismu	inclusive
+n	ps	yes	melna krāsa	inclusive
+n	ddp	yes	moronity	inclusive
+n	cds	no	duraks	inclusive
+n	asm	no	erekciju	inclusive
+n	an	no	vamper	conservative
+n	cds	no	gļēvs	conservative
+n	cds	no	mēlnesis	conservative
+n	an	no	insekts	inclusive
+n	cds	no	moneygrubber	inclusive
+n	cds	no	banda kultūru	conservative
+n	cds	no	snobs	conservative
+n	ps	yes	duraks	conservative
+n	cds	no	nozākāt	conservative
+n	dmc	yes	git	conservative
+n	pr	no	hogwash	conservative
+n	re	no	murderess	inclusive
+n	re	no	bruņota laupīšana	inclusive
+n	cds	no	propagandists	inclusive
+n	cds	no	mazulis	inclusive
+n	ddp	yes	šarlatāns	conservative
+n	cds	no	dēliņš	inclusive
+n	asm	no	cūku pupa	inclusive
+n	dmc	yes	nodevējs	conservative
+n	cds	no	cockup	inclusive
+n	svp	no	shirker	conservative
+n	asm	no	pipele	conservative
+n	or	no	audzē kāpostus	inclusive
+n	cds	no	veca automašīna	inclusive
+n	an	no	lielās baltās haizivis	inclusive
+n	an	no	ēzeļi	inclusive
+n	is	yes	negatīvais tēls	conservative
+n	cds	no	nimfomānija	conservative
+n	ps	yes	austrumgoti	inclusive
+n	cds	no	bonera	inclusive
+n	ddp	yes	neprāte	conservative
+n	re	no	itāļu mafiju	inclusive
+n	an	no	zušveidīgie	inclusive
+n	pr	no	norvēģija žurka	inclusive
+n	dmc	yes	liekulīgi	conservative
+n	ps	yes	idiots	conservative
+n	an	no	odi	inclusive
+n	an	no	inexorableness	conservative
+a	ddp	yes	ārprātīgs	inclusive
+n	is	yes	brīvprātīgu nabadzību	inclusive
+n	an	no	saldūdens zuši	inclusive
+n	cds	no	lielībnieks	conservative
+n	cds	no	noziegumi	inclusive
+n	cds	no	haoss-up	inclusive
+n	an	no	mikrobs	inclusive
+n	cds	no	iedomība	conservative
+n	is	yes	maznodrošinātām	inclusive
+n	cds	no	instruktoru	inclusive
+n	asm	no	muļķība	conservative
+n	cds	no	noraidīt	conservative
+n	om	no	invalīds	conservative
+n	cds	no	demagoģija	conservative
+n	cds	no	idiots	inclusive
+n	an	no	ignorants	conservative
+n	om	no	dupsis	inclusive
+n	om	no	gejs	conservative
+n	cds	no	barvedis	inclusive
+n	cds	no	noziedzīgu darbību	inclusive
+n	cds	no	stulbs	inclusive
+n	dmc	yes	pieklājības	inclusive
+n	qas	no	ragtag	conservative
+n	an	no	liellopi	inclusive
+n	ddp	yes	barbariem	conservative
+n	cds	no	slaists	conservative
+n	ps	yes	ekvatoriālā rase	inclusive
+n	re	no	plagiarizing	inclusive
+n	ps	yes	muļķe	conservative
+n	cds	no	topsy-turvydom	inclusive
+n	ddf	yes	atslēgt	inclusive
+n	dmc	yes	uzdzīvotājs	conservative
+n	qas	no	baronies	inclusive
+n	om	no	anatomiskās gan no atrašanās vietas	inclusive
+n	cds	no	neprāte	conservative
+n	ddp	yes	resgalis	conservative
+n	an	no	hiēnu dzimta	inclusive
+n	or	no	butternut skvošs	inclusive
+n	cds	no	haoss	conservative
+n	pr	no	staigule	conservative
+n	om	no	apikāls	inclusive
+n	cds	no	krustošanos	inclusive
+n	cds	no	conceitedness	conservative
+n	dmc	yes	sociālā izstumtais	inclusive
+n	an	no	apogs	inclusive
+n	dmc	yes	banditti	inclusive
+n	cds	no	saprecināt	inclusive
+n	cds	no	weakling	conservative
+n	dmc	yes	lingerer	conservative
+n	cds	no	cacography	inclusive
+n	ps	yes	rommany	inclusive
+n	cds	no	wuss	conservative
+n	dmc	yes	bandīts	inclusive
+n	an	no	moue	inclusive
+n	asm	no	patsy	conservative
+n	an	no	putns nakts	inclusive
+n	an	no	fizionomika	inclusive
+n	an	no	mikrobiem	inclusive
+n	pr	no	norway žurka	inclusive
+n	an	no	megascops	inclusive
+n	cds	no	grēcinieks	conservative
+n	asf	no	shithead	conservative
+n	om	no	dorsolateral	inclusive
+n	om	no	poove	conservative
+n	cds	no	blunderer	conservative
+n	an	no	scorpionfish	inclusive
+n	or	no	gurķis	inclusive
+n	asm	no	dimwit	conservative
+n	svp	no	veltīgums	conservative
+n	an	no	soft touch	conservative
+n	cds	no	konspirācijas teorija	inclusive
+n	cds	no	jokdaris	inclusive
+n	an	no	animēt ir	inclusive
+n	dmc	yes	morālo bankrotu	inclusive
+n	dmc	yes	bezpajumtnieki cilvēks	inclusive
+n	cds	no	plosti	inclusive
+n	an	no	ragnesis	conservative
+n	pa	yes	profesors extraordinarius	inclusive
+n	dmc	yes	klauni	inclusive
+n	dmc	yes	slikta velns	inclusive
+n	an	no	gliemju	inclusive
+n	cds	no	vientiesis	conservative
+n	is	yes	izstumtais	inclusive
+n	svp	no	garlaicība	inclusive
+n	re	no	neonaticide	inclusive
+n	ps	yes	stulbs	conservative
+n	cds	no	fascista	inclusive
+n	cds	no	relikts	inclusive
+n	cds	no	maitu	inclusive
+n	cds	no	skumjš maiss	conservative
+n	ddf	yes	nanus	conservative
+n	pa	yes	sheepherders	inclusive
+n	qas	no	pilsētnieks cilvēki	inclusive
+n	pa	yes	akadēmiskās	inclusive
+n	cds	no	camorra	inclusive
+n	pa	yes	smagais ormanis	inclusive
+n	qas	no	cilāties	inclusive
+a	ddf	yes	nelabs	inclusive
+n	an	no	gliemis	inclusive
+n	an	no	cakehole	inclusive
+n	is	yes	pilsētu nabadzība	inclusive
+n	ddp	yes	gossiper	conservative
+n	om	no	sodomy	inclusive
+n	cds	no	klanu	inclusive
+n	re	no	terorisma akts	conservative
+n	qas	no	divulgement	inclusive
+n	dmc	yes	vagabond	inclusive
+n	cds	no	mafiosi	inclusive
+n	asf	no	vientiesis	conservative
+n	an	no	otus asio	inclusive
+n	cds	no	švauksts	inclusive
+n	cds	no	bloopers	inclusive
+a	asm	no	brūns	inclusive
+n	re	no	pirāti	inclusive
+n	cds	no	prapjus	inclusive
+n	om	no	poof	conservative
+n	re	no	laupītāji	inclusive
+n	an	no	dzīvniekutu kārta	inclusive
+n	cds	no	bandītu	conservative
+n	cds	no	grandžmūzika	inclusive
+n	cds	no	satyriasis	conservative
+n	qas	no	diletants	conservative
+n	or	no	jaunas kartupeļu	inclusive
+n	dmc	yes	viltu	conservative
+n	qas	no	rhetorics	inclusive
+n	cds	no	ātri vienu	inclusive
+n	re	no	otrās pakāpes slepkavību	inclusive
+n	ps	yes	ebrejs	inclusive
+n	qas	no	suņu māja	inclusive
+n	qas	no	jūklis	inclusive
+n	svp	no	scrooge	conservative
+n	cds	no	laukstrādnieks	inclusive
+n	cds	no	wiliness	conservative
+n	cds	no	devilment	conservative
+n	cds	no	lielceļa laupītājs	conservative
+n	pr	no	prostitūtu	conservative
+n	pa	yes	akadēmisms	inclusive
+n	qas	no	konformists	conservative
+n	qas	no	nemākulis	conservative
+n	ddp	yes	labotājs	conservative
+n	ddp	yes	animalia	inclusive
+n	re	no	plaģiāts	inclusive
+n	an	no	ģīmis	inclusive
+n	re	no	sicīlijas mafija	conservative
+n	pr	no	lampyris noctiluca	inclusive
+n	an	no	vientiesis	conservative
+n	an	no	prusaki	inclusive
+n	cds	no	sīko zādzību	inclusive
+n	cds	no	omnium-gatherum	inclusive
+n	is	yes	zemiem ienākumiem	inclusive
+n	ps	yes	jauktenis	inclusive
+n	ps	yes	klanīties	conservative
+n	cds	no	cūka	conservative
+n	or	no	lunkhead	conservative
+n	cds	no	dimetānnaftalīns romāns	inclusive
+n	an	no	zooerastia	conservative
+n	dmc	yes	fanātiķis	conservative
+n	re	no	gūstītājs	inclusive
+n	an	no	vērsis	inclusive
+n	an	no	bedbugs	inclusive
+n	cds	no	mob boss	inclusive
+n	svp	no	dusmas	conservative
+n	re	no	terora akti	conservative
+n	ps	yes	ostrogoth	inclusive
+n	ddp	yes	mountebank	conservative
+n	dmc	yes	līst zaglis	conservative
+n	qas	no	maisījums	inclusive
+n	an	no	mauka	conservative
+n	re	no	zagšana	inclusive
+n	cds	no	tiesas āksts	inclusive
+n	qas	no	ragtag un bobtail	conservative
+n	asm	no	sarkanbrūns	inclusive
+n	cds	no	chiseller	conservative
+n	re	no	seksuālu nodarījumu	inclusive
+n	pa	yes	diplomātisko rangu	inclusive
+n	re	no	bruņotu laupītāju	inclusive
+n	cds	no	aizliegtā	inclusive
+n	an	no	floozie	conservative
+n	qas	no	plācenis	inclusive
+n	asm	no	mīkstu ray	inclusive
+n	re	no	terorisms	inclusive
+n	rci	yes	barbari	conservative
+n	asm	no	credulousness	conservative
+n	qas	no	balamute	inclusive
+n	svp	no	fanātisms	conservative
+n	cds	no	bumbiņas-up	inclusive
+n	cds	no	protagonism	inclusive
+n	asm	no	testis	inclusive
+n	an	no	relentlessness	conservative
+n	cds	no	nekaunīga atbilde	inclusive
+n	an	no	jokdaris	conservative
+n	pr	no	elkdievība	conservative
+n	ps	yes	beduīni	inclusive
+n	ddp	yes	ragtag un bobtail	conservative
+n	cds	no	egoistiski	conservative
+n	om	no	posteriorly	inclusive
+n	svp	no	ne'er-do-labi	conservative
+n	svp	no	ravenousness	conservative
+n	cds	no	tattletale	conservative
+n	pr	no	kreka prostitūta	inclusive
+n	or	no	fenheļa	inclusive
+n	cds	no	fašists	conservative
+n	re	no	laupītājs	inclusive
+n	ddp	yes	animēt ir	inclusive
+a	svp	no	dusmīgs	inclusive
+n	ddp	yes	lunkhead	conservative
+n	ddp	yes	pļāpa	inclusive
+n	cds	no	trasformismo	inclusive
+n	pa	yes	īpašu advokāts	inclusive
+n	an	no	stulbenis	conservative
+n	ps	yes	krustošanos	inclusive
+n	an	no	kukainis	inclusive
+n	qas	no	vienkāršās	inclusive
+n	re	no	ļaunprātīgu nepatiesību	inclusive
+n	an	no	vietējiem liellopiem	inclusive
+n	om	no	aiz	inclusive
+n	an	no	sivēns	inclusive
+n	cds	no	jauniešu bandas	inclusive
+n	ddp	yes	smadzeņu bojājums	inclusive
+n	cds	no	cilšu sabiedrībās	inclusive
+n	pa	yes	apbedīšanas biroja īpašnieks	inclusive
+n	ps	yes	negro	inclusive
+n	cds	no	uzbāzīgs cilvēks	conservative
+n	ddp	yes	neprātīgums	conservative
+n	ps	yes	mestizaje	conservative
+n	dmc	yes	pseud	conservative
+n	svp	no	labi-for-neko	conservative
+n	pr	no	buncombe	conservative
+n	re	no	tirdzniecības paņēmieniem	inclusive
+n	dmc	yes	liekulis	conservative
+n	cds	no	pērkamība	conservative
+n	cds	no	mācību atbalstu	inclusive
+a	qas	no	viduslaiku	inclusive
+n	an	no	eiropas bizons	inclusive
+n	cds	no	sadzīves atkritumu	inclusive
+n	pa	yes	uzņēmējs	inclusive
+n	is	yes	ubags	conservative
+n	an	no	vistas	inclusive
+a	ddf	yes	netikumīgs	conservative
+n	cds	no	augļotājs	conservative
+n	pr	no	bullis	inclusive
+n	pr	no	žurkām	inclusive
+n	re	no	seksa nodarījumu	inclusive
+n	dmc	yes	melis	conservative
+n	svp	no	rijība	inclusive
+n	an	no	vipera berus	inclusive
+n	an	no	mājas cūka	inclusive
+n	re	no	pirātismu	inclusive
+n	qas	no	melange	inclusive
+n	an	no	blusu	inclusive
+n	re	no	itālijas mafijas	conservative
+n	re	no	slepkava	inclusive
+n	re	no	izvarotājs	conservative
+n	asf	no	betise	conservative
+n	qas	no	nemākulīgi uzgleznots	conservative
+n	qas	no	buržuāziskās sabiedrības	inclusive
+n	cds	no	nejaušs sitiens	inclusive
+n	cds	no	archpriest	inclusive
+n	cds	no	nemākulis	conservative
+n	re	no	raptio	inclusive
+n	asm	no	saphead	conservative
+n	cds	no	dastardliness	conservative
+n	om	no	sēžas	inclusive
+n	cds	no	blowhard	conservative
+n	cds	no	loanshark	conservative
+n	or	no	brassica rapa	inclusive
+n	an	no	lielā baltā haizivs	inclusive
+n	cds	no	sabiedriskā tualete	inclusive
+n	asf	no	changelings	conservative
+n	svp	no	skopums	inclusive
+n	qas	no	parazītiem	inclusive
+n	an	no	ģints angilja	inclusive
+n	asm	no	testiculus	inclusive
+n	om	no	geji	conservative
+n	asm	no	teste	inclusive
+n	svp	no	tightfistedness	conservative
+n	an	no	kaimans	inclusive
+n	an	no	pūce	inclusive
+n	cds	no	newspaperman	inclusive
+n	cds	no	nouveau-riche	inclusive
+n	dmc	yes	shirker	conservative
+n	dmc	yes	trifler	conservative
+n	an	no	papagailis	inclusive
+n	om	no	ventrolateral	inclusive
+n	an	no	mājas suns	inclusive
+n	ddp	yes	tenku vācele	conservative
+n	an	no	zināt neko	conservative
+n	qas	no	pagasta	inclusive
+n	pa	yes	koledžas profesors	inclusive
+n	dmc	yes	blēdi	conservative
+n	cds	no	pandar	conservative
+n	cds	no	otrās rater	conservative
+n	is	yes	cheapskate	conservative
+n	cds	no	negodīgums	conservative
+n	ps	yes	Čigāņi	inclusive
+n	ps	yes	idiote	conservative
+n	cds	no	homunculi	inclusive
+n	an	no	ovibovini	inclusive
+n	cds	no	grandžroks	inclusive
+n	cds	no	sicīlijas mafija	conservative
+n	cds	no	bezrūpība	inclusive
+n	cds	no	scrawler	conservative
+n	dmc	yes	smirdēt	conservative
+n	re	no	furiousness	inclusive
+n	svp	no	abulia	inclusive
+n	cds	no	boo-boo	inclusive
+n	re	no	ndrangheta	inclusive
+n	re	no	noziedznieks	inclusive
+n	an	no	moluski	inclusive
+n	re	no	bērnu slepkavībām	inclusive
+n	ddp	yes	imbecils	conservative
+n	cds	no	zaglis	inclusive
+n	dmc	yes	mocarellas sieru	inclusive
+n	cds	no	loansharking	inclusive
+n	an	no	ķermeņa snatchers	inclusive
+n	cds	no	nursling	inclusive
+n	asf	no	duraks	conservative
+n	ddp	yes	muļķe	inclusive
+n	an	no	kaimani	inclusive
+n	cds	no	melkulis	conservative
+n	an	no	mikroorganismi	inclusive
+n	qas	no	tirgus apsaimniekotāja	inclusive
+n	cds	no	fumbler	conservative
+n	an	no	sus	inclusive
+n	pr	no	izdedži	conservative
+n	is	yes	negatīvs tēls	conservative
+n	an	no	heterocera	inclusive
+n	pr	no	komerciāliem seksa	inclusive
+n	ps	yes	barbarisko	conservative
+n	cds	no	radi	inclusive
+n	cds	no	autolatry	inclusive
+n	svp	no	amour propre	conservative
+n	an	no	anura	inclusive
+n	or	no	tupeņi	inclusive
+n	ddp	yes	pēkšķēt ārsta	conservative
+n	an	no	zooerasty	conservative
+n	cds	no	dandy	inclusive
+n	an	no	varde	inclusive
+a	ddf	yes	slikti	inclusive
+n	re	no	mafiosi	conservative
+n	cds	no	konspirāciju teorija	inclusive
+n	ddp	yes	idiote	inclusive
+n	an	no	bison bonasus bonasus	inclusive
+n	an	no	animalcules	inclusive
+n	asm	no	maxilliped	inclusive
+n	an	no	barbarisms	inclusive
+n	asf	no	neprāte	conservative
+n	asm	no	wank	conservative

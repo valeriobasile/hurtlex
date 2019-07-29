@@ -1,0 +1,2873 @@
+pos	category	stereotype	lemma	level
+n	an	no	висент	inclusive
+n	an	no	некомпетентна особа	conservative
+n	ddp	yes	анимирати што	inclusive
+n	dmc	yes	моцарела сир	inclusive
+n	qas	no	Говориштво	inclusive
+n	cds	no	Хиперсексуалност	conservative
+n	ps	yes	хибрид	inclusive
+n	cds	no	сноб	conservative
+n	ddp	yes	шепртља	conservative
+n	cds	no	цонвентицле	inclusive
+n	an	no	неумољивост	conservative
+n	an	no	бизон	inclusive
+n	cds	no	сасс	inclusive
+n	an	no	Бубашвабе	inclusive
+n	re	no	Отмица	inclusive
+n	ps	yes	особа која испашта туђе грешке	conservative
+n	ddp	yes	мацрофауна	inclusive
+n	an	no	говеда	inclusive
+n	an	no	пилића	inclusive
+n	is	yes	шкртица	conservative
+n	cds	no	папараца	inclusive
+n	cds	no	цоса ностра	inclusive
+n	an	no	buve ili buhe	inclusive
+n	cds	no	нитков	conservative
+n	cds	no	варалица	conservative
+n	dmc	yes	неистина	inclusive
+n	an	no	sus domestica	inclusive
+n	an	no	педицулус хуманус	inclusive
+n	re	no	говеда лопов	inclusive
+n	cds	no	пајац	inclusive
+n	svp	no	прождрљивост	inclusive
+n	qas	no	бизнисмен	inclusive
+n	an	no	Крастача	inclusive
+n	svp	no	ленштина	conservative
+n	ddp	yes	имбецил	inclusive
+n	asm	no	кретен	conservative
+n	cds	no	банде	conservative
+n	or	no	цуке	inclusive
+n	an	no	жена цхасер	conservative
+n	cds	no	ванбрачно дете	inclusive
+n	cds	no	лоансхарк	conservative
+n	cds	no	Иморализам	inclusive
+n	cds	no	Мошти	inclusive
+n	qas	no	лаж	conservative
+n	pa	yes	Дипломатски рангови Русије	inclusive
+n	an	no	необразована особа	conservative
+n	cds	no	дркање	conservative
+n	cds	no	курира	inclusive
+n	an	no	моллусца	inclusive
+n	cds	no	манмаде хибрида	inclusive
+n	asm	no	пенис	inclusive
+n	re	no	детектив за убиства	inclusive
+n	ps	yes	жути картон	inclusive
+n	an	no	велика бела ајкула	inclusive
+n	re	no	тешке крађе	inclusive
+n	asm	no	јебати	conservative
+n	cds	no	компреса	conservative
+n	an	no	ајкула	inclusive
+n	qas	no	Средња класа	inclusive
+n	ddf	yes	инвалидитет	inclusive
+n	re	no	либелер	conservative
+n	pr	no	црацк курве	inclusive
+n	cds	no	препреденко	conservative
+n	or	no	геј	conservative
+n	cds	no	моанер	conservative
+n	om	no	услови за анатомску локацију	inclusive
+n	pr	no	проститутка	conservative
+n	an	no	мацрофауна	inclusive
+n	om	no	drag queen	inclusive
+n	asm	no	петао	inclusive
+n	or	no	татер	inclusive
+n	dmc	yes	бескућник	inclusive
+n	ps	yes	руинер	conservative
+n	svp	no	apatheia	inclusive
+n	cds	no	Брокер	inclusive
+n	cds	no	Синдром Казанове	conservative
+n	cds	no	скоројевић	inclusive
+n	cds	no	супербиа	conservative
+n	re	no	секс злочин	inclusive
+n	om	no	истополне	inclusive
+n	qas	no	кућни послови	inclusive
+n	dmc	yes	развратник	conservative
+n	dmc	yes	сад врећа	conservative
+n	an	no	Змије шарке	inclusive
+n	dmc	yes	злочинац	inclusive
+n	an	no	еуриптерид	inclusive
+n	qas	no	трговац	inclusive
+n	re	no	сексуалног злочина	inclusive
+n	cds	no	Βάρβαρος	conservative
+n	ddp	yes	незнање	conservative
+n	om	no	хомосексуалних мушкараца	inclusive
+n	re	no	чедоморство	inclusive
+n	qas	no	поље рука	inclusive
+n	om	no	Геј	conservative
+n	an	no	blattaria	inclusive
+n	qas	no	Комформизам	inclusive
+n	ps	yes	црнац	inclusive
+n	cds	no	ванк	conservative
+n	an	no	мегасцопс	inclusive
+n	re	no	плагирати	inclusive
+n	ddp	yes	румормонгер	conservative
+n	cds	no	гангстеризам	conservative
+n	pa	yes	дописни члан	inclusive
+n	an	no	Žabe	inclusive
+n	cds	no	Зеленаш	inclusive
+n	ps	yes	манмаде хибрида	inclusive
+n	cds	no	грешка	inclusive
+n	pa	yes	професор емеритус	inclusive
+n	ddp	yes	Надрилекарство	conservative
+n	cds	no	хајдучију	inclusive
+n	an	no	Домаћи магарац	inclusive
+n	cds	no	земљишта	inclusive
+n	cds	no	фундаменталисти	inclusive
+n	pr	no	црацк курва	conservative
+n	re	no	пљачке	inclusive
+n	an	no	bos taurus	inclusive
+n	an	no	Овце	inclusive
+n	pa	yes	чувар врата	inclusive
+n	svp	no	Танха	inclusive
+n	qas	no	заједничко лице	inclusive
+n	asm	no	Пенис	inclusive
+n	cds	no	полицајац	conservative
+n	an	no	životinja	inclusive
+n	cds	no	konspirativna teorija	inclusive
+n	asm	no	фалусни	inclusive
+n	dmc	yes	лицемерно	conservative
+n	an	no	гушче	inclusive
+n	dmc	yes	смрдети	conservative
+n	cds	no	сатириасис	conservative
+n	cds	no	мешовите расе пса	inclusive
+n	cds	no	самопоштовање	conservative
+n	dmc	yes	потрошити-све	inclusive
+n	ps	yes	јеврејин	inclusive
+n	re	no	фуриоуснесс	inclusive
+n	ps	yes	хебрејско	inclusive
+n	an	no	физиогномија	inclusive
+n	ps	yes	упроотер	conservative
+a	is	yes	ubog	inclusive
+n	pa	yes	портира	inclusive
+n	an	no	анималцулум	inclusive
+n	cds	no	пудден главе	conservative
+n	an	no	буфо	inclusive
+a	svp	no	agresivan	conservative
+n	dmc	yes	добар за ништа	conservative
+n	cds	no	умишљености	conservative
+n	svp	no	узалудности	conservative
+n	or	no	Купус	inclusive
+n	cds	no	лукавство	conservative
+n	pa	yes	Проф.	inclusive
+n	an	no	цанис фамилиарис	inclusive
+n	pr	no	бос таурус	inclusive
+n	an	no	anguillidae	inclusive
+n	cds	no	самозадовољство	inclusive
+n	an	no	рогоња	conservative
+n	cds	no	охолости	inclusive
+n	dmc	yes	малодор	conservative
+n	asm	no	фава пасуљ	inclusive
+n	svp	no	никоговић	conservative
+n	asf	no	стидних длака	inclusive
+n	cds	no	свестраност	conservative
+n	re	no	лопов	inclusive
+n	an	no	москуитое	inclusive
+n	is	yes	сиромаштва	inclusive
+n	re	no	нитков	conservative
+n	pr	no	сексуалних услуга	conservative
+n	cds	no	ленчуга	conservative
+n	an	no	инсеката	inclusive
+n	pr	no	Проститутка	conservative
+n	or	no	фуј	conservative
+n	cds	no	дастардлинесс	conservative
+n	qas	no	боо-боо	inclusive
+n	an	no	hirudinea	inclusive
+n	an	no	випер	inclusive
+n	om	no	Дупе	inclusive
+n	ddp	yes	фумблер	conservative
+n	cds	no	охолост	conservative
+n	an	no	стригиформес	inclusive
+n	an	no	razlika izmedju krokodila i aligatora	inclusive
+n	an	no	блаттариа	inclusive
+n	svp	no	лењивац	conservative
+n	an	no	море шкорпија	inclusive
+n	dmc	yes	преваре	conservative
+n	dmc	yes	без рачуна	conservative
+n	an	no	куче	inclusive
+n	ddp	yes	не знам ништа	conservative
+n	pa	yes	просилац	inclusive
+n	cds	no	бојкотовани	inclusive
+n	svp	no	лукуриа	inclusive
+n	svp	no	ацедиа	inclusive
+n	an	no	зооерасти	conservative
+n	an	no	Гуска	inclusive
+n	cds	no	новорођенчади	inclusive
+n	qas	no	олош	conservative
+n	dmc	yes	неморално	inclusive
+n	om	no	каудалног	inclusive
+n	cds	no	достављач	conservative
+n	ddf	yes	хендикепирано лице	inclusive
+n	an	no	брент	inclusive
+n	cds	no	дело	inclusive
+n	an	no	прљави трик	conservative
+n	cds	no	коцкање казино	inclusive
+n	an	no	Метазое	inclusive
+n	or	no	финоццхио	inclusive
+n	an	no	волаилле	inclusive
+n	cds	no	пеонс	inclusive
+n	asm	no	авифауна	inclusive
+n	qas	no	идеолог	inclusive
+n	an	no	крокодила	inclusive
+n	cds	no	хои поллои	conservative
+n	cds	no	lopov	inclusive
+a	is	yes	убог	inclusive
+n	an	no	Комарци	inclusive
+n	an	no	crocodilia	inclusive
+n	an	no	простаклук	conservative
+n	or	no	фуцкхеад	conservative
+n	svp	no	физичка привлачност	inclusive
+n	cds	no	парчићи	inclusive
+n	or	no	бундева лоза	inclusive
+n	om	no	пих	inclusive
+n	re	no	преступника	inclusive
+n	asf	no	цодсваллоп	conservative
+n	svp	no	Досада	inclusive
+n	cds	no	интерспециес хибрида	inclusive
+n	cds	no	нарциста	inclusive
+n	cds	no	Трач партија	inclusive
+n	dmc	yes	Делинквент	inclusive
+n	an	no	забрањено сова	inclusive
+n	cds	no	цхеекинесс	conservative
+n	cds	no	krađa	inclusive
+n	cds	no	новински сарадник	inclusive
+n	dmc	yes	бандит	conservative
+n	dmc	yes	дангуба	inclusive
+n	pr	no	норвешка рат	inclusive
+n	cds	no	комуналног отпада	conservative
+n	ps	yes	скитница	inclusive
+n	an	no	заједничко комараца	inclusive
+n	cds	no	мафије	inclusive
+n	an	no	phthiraptera	inclusive
+n	or	no	Коморач	inclusive
+n	cds	no	Верски фундаментализам	inclusive
+n	svp	no	apatija	inclusive
+n	re	no	оружана пљачка	inclusive
+n	or	no	пичко	conservative
+n	re	no	Тешко убиство	inclusive
+n	cds	no	помпезност	inclusive
+n	dmc	yes	ништарија	conservative
+a	dmc	yes	зло	conservative
+n	dmc	yes	псеуд	conservative
+n	qas	no	конформиста	conservative
+a	svp	no	похотљив	conservative
+n	cds	no	егоизма	conservative
+n	an	no	шкорпија рибе	inclusive
+n	an	no	раунцх	conservative
+n	asm	no	Тестис	inclusive
+n	qas	no	грангер	inclusive
+n	an	no	випера берус	inclusive
+n	an	no	канал бас	inclusive
+n	qas	no	обичан човек	inclusive
+n	cds	no	мошти	inclusive
+n	an	no	mikrob	inclusive
+n	an	no	будала	conservative
+n	asm	no	тешко на	inclusive
+n	pr	no	ноцтилуца	inclusive
+n	an	no	фероциоуснесс	conservative
+n	asm	no	пениса	inclusive
+n	re	no	Камора	inclusive
+n	an	no	заједничко випер	inclusive
+n	dmc	yes	цхеатер	conservative
+n	is	yes	Маргинална група	inclusive
+n	asm	no	дупенце	conservative
+n	re	no	члан организоване банде	inclusive
+n	ps	yes	Бугар	inclusive
+n	om	no	госпођа	inclusive
+n	svp	no	аваритиа	inclusive
+n	ddp	yes	нерадник	conservative
+n	cds	no	odojče	inclusive
+n	qas	no	молер	inclusive
+n	dmc	yes	лажан	conservative
+n	an	no	поулет	inclusive
+n	an	no	говнар	conservative
+n	cds	no	цхавбацон	conservative
+n	cds	no	грешник	conservative
+n	an	no	фуцкхеад	conservative
+n	asm	no	твирп	conservative
+n	qas	no	теревенчити	inclusive
+a	dmc	yes	запрљане	inclusive
+n	cds	no	висенхеимер	conservative
+n	cds	no	Теорије завере	inclusive
+n	dmc	yes	смрад	conservative
+n	cds	no	разбојник	inclusive
+n	re	no	убија	inclusive
+n	dmc	yes	mocarela	inclusive
+n	qas	no	конформизам	inclusive
+n	an	no	сциаенопс оцеллатус	inclusive
+n	om	no	содомит	conservative
+n	re	no	дело	inclusive
+n	pr	no	пиштољ молл	inclusive
+n	qas	no	Буржоазија	inclusive
+n	cds	no	прљавштина	inclusive
+n	ps	yes	глупан	conservative
+n	ps	yes	Бедуин	inclusive
+n	an	no	ништарија	conservative
+n	ddp	yes	цхангелингс	inclusive
+n	an	no	мрштење	inclusive
+n	an	no	хирудинеан	inclusive
+n	an	no	gyps fulvus	inclusive
+n	om	no	дерриере	inclusive
+n	dmc	yes	деликт	inclusive
+n	qas	no	старо гвожђе	inclusive
+n	qas	no	Ораторство	inclusive
+n	an	no	олош торба	conservative
+n	cds	no	копиле	inclusive
+n	cds	no	брбљивац	conservative
+n	svp	no	фаинеанце	inclusive
+n	svp	no	апатија	inclusive
+n	ps	yes	местизаје	conservative
+n	svp	no	апатични	inclusive
+n	pa	yes	факултета	inclusive
+n	om	no	Трансвестит	inclusive
+n	ddp	yes	трачибаба	conservative
+n	pr	no	конкубинат	inclusive
+n	asf	no	вагине	conservative
+n	an	no	bufo bufo	inclusive
+n	ps	yes	фашиста	inclusive
+n	re	no	пљачка	inclusive
+n	ddf	yes	богаљ	inclusive
+n	cds	no	Демагог	conservative
+n	cds	no	унутрашњи круг	inclusive
+n	asm	no	нооки	conservative
+n	svp	no	гооф-офф	conservative
+n	pr	no	спортске дама	conservative
+n	ddp	yes	затвореник	inclusive
+n	cds	no	интелектуалац	inclusive
+n	qas	no	продавац	inclusive
+n	an	no	гипс фулвус	inclusive
+n	re	no	сексуални преступ	inclusive
+n	cds	no	свот	conservative
+n	pr	no	курвање	inclusive
+n	an	no	crvi	inclusive
+n	an	no	нитков	conservative
+n	cds	no	стада	inclusive
+n	cds	no	ревнитељи	inclusive
+n	cds	no	месс уп	inclusive
+n	cds	no	кривично несташлука	conservative
+n	dmc	yes	раскалашни	inclusive
+n	dmc	yes	хомунцулус	inclusive
+n	qas	no	тајкун	inclusive
+n	cds	no	фабрицатор	conservative
+n	an	no	краве	inclusive
+n	pr	no	домаће стоке	inclusive
+n	or	no	сиромашних рибе	conservative
+n	dmc	yes	мангуп	conservative
+n	cds	no	банде	inclusive
+n	ddp	yes	педеру	conservative
+n	an	no	крокодил	inclusive
+n	an	no	јунади	inclusive
+n	an	no	салиентиан	inclusive
+n	re	no	дебауцхер	conservative
+n	cds	no	стрикебреакерс	inclusive
+n	qas	no	трговац на мало	inclusive
+n	re	no	Гангстер	inclusive
+n	qas	no	чврстог отпада	inclusive
+n	an	no	псето	inclusive
+n	om	no	геј	inclusive
+n	pr	no	љубавник	inclusive
+n	an	no	сова	inclusive
+n	cds	no	наметљивац	conservative
+n	cds	no	камарила	inclusive
+n	pr	no	мољаца	inclusive
+n	or	no	бундеве	inclusive
+n	an	no	белоглави суп	inclusive
+n	an	no	crv	inclusive
+n	cds	no	грунге	inclusive
+n	qas	no	фарма радник	inclusive
+n	asf	no	препоне косе	inclusive
+n	an	no	прасету	inclusive
+n	an	no	хелик поматиа	inclusive
+n	cds	no	банда културе	conservative
+n	re	no	финансијске злоупотребе	inclusive
+n	asf	no	пизда	conservative
+n	dmc	yes	фабрицатор	conservative
+n	asm	no	птица	inclusive
+n	ddp	yes	хооеи	inclusive
+n	dmc	yes	либертинизам	conservative
+n	re	no	Пљачка	inclusive
+n	cds	no	хвалисавост	conservative
+n	dmc	yes	преварант	conservative
+n	pa	yes	контролора	inclusive
+n	is	yes	сиромаха	inclusive
+n	an	no	Шарка	inclusive
+n	re	no	говеда шуштање	inclusive
+n	or	no	ирски кромпир	inclusive
+n	om	no	хуља	inclusive
+n	cds	no	Нарцизам	inclusive
+n	an	no	Крпељ	inclusive
+n	dmc	yes	пајац	inclusive
+n	om	no	хендикепирано лице	conservative
+n	qas	no	неуспех	inclusive
+n	pr	no	прељубница	conservative
+n	ddp	yes	идиот	conservative
+n	cds	no	остентатиоуснесс	conservative
+n	qas	no	остаци	inclusive
+n	ddp	yes	варваризам	inclusive
+n	svp	no	љути	inclusive
+n	cds	no	комуналног чврстог отпада	conservative
+n	pa	yes	портирске	inclusive
+n	svp	no	енвиоуснесс	inclusive
+a	cds	no	паметан	inclusive
+n	svp	no	ленчуга	conservative
+n	cds	no	екстремне десничар	conservative
+n	dmc	yes	пола литре	conservative
+n	an	no	фамилиарис	inclusive
+n	cds	no	папазјанија	inclusive
+n	pa	yes	Десетар	inclusive
+n	an	no	инфауна	inclusive
+n	or	no	Краставци	inclusive
+n	pa	yes	Адвокатица	inclusive
+n	om	no	Хомосексуалац	inclusive
+n	asm	no	muški polni organ	inclusive
+n	dmc	yes	варвара	conservative
+n	cds	no	бандита	conservative
+n	an	no	лајати	inclusive
+n	an	no	бела ајкула	inclusive
+n	om	no	фуј	conservative
+n	ddp	yes	будала	conservative
+n	an	no	кучка	conservative
+n	cds	no	румоурмонгер	conservative
+n	ddp	yes	успорити	inclusive
+n	ddp	yes	муттонхеад	conservative
+n	cds	no	прота	inclusive
+n	an	no	жаба жаба	inclusive
+n	an	no	редфисх	inclusive
+n	cds	no	демагог	conservative
+n	asf	no	цхангелингс	conservative
+n	re	no	silovanje	inclusive
+n	qas	no	Колиба	inclusive
+n	ddp	yes	бесмислене	conservative
+n	cds	no	fašizam	conservative
+n	qas	no	блооперс	inclusive
+n	ddp	yes	životinja	inclusive
+n	cds	no	мангуп	conservative
+n	cds	no	тако и тако	conservative
+n	re	no	силовање	conservative
+n	ddp	yes	метазоанс	inclusive
+n	cds	no	пропагирање	inclusive
+n	ps	yes	Црнило	inclusive
+n	om	no	дупе	inclusive
+n	om	no	нансија	conservative
+n	re	no	увредљив	inclusive
+n	cds	no	сродници	inclusive
+n	qas	no	средња класа	inclusive
+n	cds	no	невсвритер	inclusive
+n	cds	no	будала	conservative
+n	pr	no	проститутке	conservative
+n	is	yes	Сиромаштво	inclusive
+n	an	no	Велика бела ајкула	inclusive
+n	an	no	фрогспавн	inclusive
+n	qas	no	пословна особа	inclusive
+n	pa	yes	правник	inclusive
+n	cds	no	пени страшно	inclusive
+n	dmc	yes	понижавање	inclusive
+n	ps	yes	бедуин	inclusive
+n	pr	no	Жиголо	conservative
+n	dmc	yes	лажов	inclusive
+n	asm	no	тесте	inclusive
+n	an	no	метазоанс	inclusive
+n	cds	no	хиперсексуалност	conservative
+n	qas	no	баллоцк	inclusive
+n	cds	no	гангстер	inclusive
+n	rci	yes	terrone	conservative
+n	cds	no	кин група	inclusive
+n	an	no	комараца	inclusive
+n	an	no	брент гуске	inclusive
+n	re	no	малигнер	conservative
+n	qas	no	Касте	inclusive
+n	an	no	Фауна	inclusive
+n	an	no	Животињски свет	inclusive
+n	re	no	убиство првог степена	inclusive
+n	cds	no	нимфоманка	conservative
+n	an	no	хемиптерон	inclusive
+n	cds	no	ваунтер	conservative
+n	asf	no	вагинални	conservative
+n	cds	no	хибрид	inclusive
+n	re	no	злоупотребити	inclusive
+n	om	no	мидцлавицулар линије	inclusive
+n	om	no	педераст	conservative
+n	re	no	камора	inclusive
+n	ddp	yes	мицроцепхалус	inclusive
+n	cds	no	фанатик	conservative
+n	cds	no	нарцисизам	inclusive
+n	asm	no	Птице	inclusive
+n	cds	no	кланова	inclusive
+n	pr	no	tele	inclusive
+n	an	no	сове	inclusive
+n	dmc	yes	јадник	inclusive
+n	qas	no	који сеје раздор	conservative
+n	cds	no	портчко	inclusive
+n	an	no	пипистреллус	inclusive
+n	svp	no	Понос	inclusive
+a	svp	no	агресиван	conservative
+n	qas	no	власник предузећа	inclusive
+n	om	no	мадам	inclusive
+n	an	no	Домаћа коза	inclusive
+n	cds	no	одбити	conservative
+n	qas	no	цулл	conservative
+n	ps	yes	judaizm	inclusive
+n	cds	no	Камора	inclusive
+n	re	no	стављање ван закона	inclusive
+n	ddp	yes	цодсваллоп	conservative
+n	ps	yes	укрстити	inclusive
+n	asm	no	дрка	conservative
+n	pa	yes	чиновник	inclusive
+n	cds	no	њушкало	conservative
+n	re	no	мафијаши	conservative
+n	cds	no	друмски разбојник	conservative
+n	an	no	capra aegagrus hircus	inclusive
+n	ps	yes	Βάρβαρος	conservative
+n	cds	no	ноувеаук богатства	inclusive
+n	re	no	вилифиер	conservative
+n	pa	yes	академске заједнице	inclusive
+n	an	no	мекушце	inclusive
+n	an	no	пип-шкрипе	conservative
+n	cds	no	Идиот	inclusive
+n	ps	yes	јевреја	inclusive
+n	ps	yes	местизос	conservative
+n	an	no	сипхонаптера	inclusive
+n	cds	no	бандит	conservative
+n	an	no	неверница	conservative
+n	an	no	Метазоа	inclusive
+n	or	no	поове	conservative
+n	an	no	крава	inclusive
+n	asf	no	доофус	conservative
+n	asm	no	aves	inclusive
+n	re	no	кривично дело	inclusive
+n	ps	yes	нигра	conservative
+n	asm	no	глупости	conservative
+n	pa	yes	столицу	inclusive
+n	cds	no	двееб	conservative
+n	ps	yes	Црн	inclusive
+n	an	no	кукавица	conservative
+n	svp	no	абулиа	inclusive
+n	cds	no	комуналног чврстог отпада	inclusive
+n	cds	no	велики неопран	conservative
+n	cds	no	племена	inclusive
+n	rci	yes	Βάρβαρος	conservative
+n	cds	no	разбојника	inclusive
+n	cds	no	олош торба	conservative
+n	ps	yes	интергенериц хибрид	inclusive
+n	cds	no	велики неопран	inclusive
+n	cds	no	фумблер	conservative
+n	cds	no	старо гвожђе	conservative
+n	pa	yes	Чобанин	inclusive
+n	cds	no	цонцеитеднесс	conservative
+n	rci	yes	Варвар	conservative
+n	cds	no	цут-уп	conservative
+n	pr	no	мољац	inclusive
+n	ddp	yes	компреса	conservative
+n	svp	no	развратност	inclusive
+n	an	no	брент гуска	inclusive
+n	an	no	анималцулес	inclusive
+n	qas	no	онај који живи од туђег рада	conservative
+n	dmc	yes	осећати	conservative
+n	cds	no	Нарцисоидност	inclusive
+n	an	no	отимач	inclusive
+n	cds	no	неваљалост	conservative
+n	an	no	цроцодилианс	inclusive
+n	pr	no	Говедо	inclusive
+n	ps	yes	Местик	conservative
+n	pa	yes	професор високе школе	inclusive
+n	re	no	оружаних пљачки	inclusive
+n	an	no	бетисе	conservative
+n	an	no	Обична крастача	inclusive
+n	an	no	гуја	inclusive
+n	asm	no	вициа фаба	inclusive
+n	qas	no	мешавина	inclusive
+n	cds	no	фанатизам	conservative
+n	svp	no	самопоштовање	conservative
+n	an	no	хиаенидае	inclusive
+n	an	no	лоотер	inclusive
+n	pa	yes	сахрана ундертакер	inclusive
+n	pa	yes	адвоцатор	inclusive
+n	qas	no	сливник	inclusive
+n	asf	no	думбасс	conservative
+n	cds	no	слевс	inclusive
+n	dmc	yes	брод другог реда	conservative
+n	asf	no	пичко	conservative
+n	asf	no	глупак	conservative
+n	cds	no	пхратри	inclusive
+n	dmc	yes	издајника	conservative
+n	an	no	превара	conservative
+n	an	no	овце	inclusive
+n	qas	no	реторичар	inclusive
+n	re	no	slayer	inclusive
+n	pr	no	доки	inclusive
+n	re	no	Киднаповање	inclusive
+n	ps	yes	јудео	inclusive
+n	an	no	микроорганизам	inclusive
+n	ddp	yes	насамарити	conservative
+n	qas	no	цадгер	conservative
+n	qas	no	тржиште голман	inclusive
+n	ps	yes	Монголски народи	inclusive
+n	qas	no	аматера	inclusive
+n	svp	no	преједање	inclusive
+n	an	no	човек једе ајкуле	inclusive
+n	an	no	capra	inclusive
+n	re	no	ндрангета	inclusive
+n	an	no	кнуцклехеад	conservative
+n	cds	no	сујете	conservative
+n	om	no	нон-вестернизед концепти мушке сексуалности	inclusive
+n	pa	yes	пастир	inclusive
+n	ddp	yes	шарлатан	conservative
+n	om	no	блуд	inclusive
+n	cds	no	дандиес	inclusive
+n	pa	yes	академски	inclusive
+n	re	no	лоповски	inclusive
+n	pa	yes	језуитски	inclusive
+n	pr	no	браон пацов	inclusive
+n	an	no	цроцодилиа	inclusive
+n	an	no	бисон бисон	inclusive
+n	re	no	camorra	inclusive
+n	pa	yes	специјални изасланик	inclusive
+n	ps	yes	Бедуини	inclusive
+n	cds	no	Папараци	inclusive
+n	ddp	yes	тикван	conservative
+n	rci	yes	грубијан	conservative
+n	om	no	gay	inclusive
+n	pa	yes	ацадемицисм	inclusive
+n	re	no	тероризма	inclusive
+n	dmc	yes	несрећан	inclusive
+n	ps	yes	Варвар	conservative
+n	qas	no	ендопаразита	inclusive
+n	ps	yes	Монгол	inclusive
+n	pr	no	шљаке	conservative
+n	ddp	yes	тваддлер	conservative
+n	an	no	цапринае	inclusive
+n	dmc	yes	ловлифе	inclusive
+n	an	no	гуске	inclusive
+n	asf	no	идиот	conservative
+n	asm	no	грашак	inclusive
+n	qas	no	паразита	inclusive
+n	an	no	mollusca	inclusive
+n	svp	no	високе непристрасности	conservative
+n	re	no	лопова	inclusive
+n	svp	no	хвалисавост	conservative
+n	ps	yes	ррома	inclusive
+n	pa	yes	универзитетски професор	inclusive
+n	cds	no	племенским друштвима	inclusive
+n	ddp	yes	animal	inclusive
+n	ddp	yes	фуцкхеад	conservative
+n	dmc	yes	даллиер	conservative
+n	ps	yes	Источни Готи	inclusive
+n	or	no	krastavac	inclusive
+n	svp	no	pohlepa	inclusive
+n	cds	no	Варвар	conservative
+n	re	no	силоватеља	conservative
+n	cds	no	малолетни деликвент	conservative
+n	an	no	Домаћа овца	inclusive
+n	pr	no	флоозие	conservative
+n	cds	no	провокација	inclusive
+n	cds	no	оплемењивач биљака	inclusive
+n	an	no	кокета	conservative
+n	an	no	змија у трави	conservative
+n	ps	yes	других раса	inclusive
+n	ddp	yes	аналпхабетиц	inclusive
+n	pa	yes	доцент	inclusive
+n	re	no	Терориста	inclusive
+n	cds	no	нетрпељивост	conservative
+n	or	no	глупа особа	conservative
+n	an	no	људождер	inclusive
+n	cds	no	дописник	inclusive
+n	an	no	думбасс	conservative
+n	or	no	говнар	conservative
+n	qas	no	мооцхер	conservative
+n	ddp	yes	кнуцклехеад	conservative
+n	or	no	brassica rapa	inclusive
+n	re	no	терористички акт	conservative
+n	an	no	бес	inclusive
+n	cds	no	протурач новости	conservative
+n	is	yes	сиромаштво	inclusive
+n	qas	no	одбити	conservative
+n	pa	yes	професор	inclusive
+n	qas	no	хутцх	inclusive
+n	dmc	yes	слацкер	conservative
+n	pa	yes	канцеларија радник	inclusive
+n	re	no	lopov	inclusive
+n	ddp	yes	микроцефалију	inclusive
+n	ddf	yes	жгољавац	conservative
+n	asf	no	девојка	conservative
+n	pa	yes	рибе монгер	inclusive
+n	asm	no	браон	inclusive
+n	an	no	Јарац	inclusive
+n	cds	no	жгољавац	conservative
+n	cds	no	певача	inclusive
+n	or	no	педантност	inclusive
+n	cds	no	кућа лошег угледа	inclusive
+n	an	no	animalia	inclusive
+n	ddf	yes	физички изазов	inclusive
+n	pr	no	аљкаво жена	conservative
+n	an	no	патуљак	conservative
+n	om	no	први подређени	inclusive
+n	cds	no	тимесервер	conservative
+n	is	yes	стопа сиромаштва	inclusive
+n	an	no	цимек лецтулариус	inclusive
+n	cds	no	нитков	inclusive
+n	cds	no	теоретичари завере	inclusive
+n	cds	no	грунге роцк	inclusive
+n	an	no	Краве	inclusive
+n	cds	no	диме романа	inclusive
+n	an	no	гит	conservative
+n	asf	no	цхангелинг	conservative
+n	ps	yes	местизо	conservative
+n	dmc	yes	гангстер	inclusive
+n	cds	no	лопов	conservative
+n	cds	no	цепидлака	conservative
+n	dmc	yes	Луда	inclusive
+n	svp	no	тврдица	inclusive
+n	cds	no	масон	inclusive
+n	ps	yes	јеврејске религије	inclusive
+n	om	no	даме	inclusive
+n	an	no	blattodea	inclusive
+n	dmc	yes	лицемер	conservative
+n	cds	no	синко	inclusive
+n	cds	no	фиббер	conservative
+n	or	no	пиллоцк	conservative
+n	an	no	флоозие	conservative
+n	pa	yes	десетар	inclusive
+n	cds	no	ингроуп	inclusive
+n	cds	no	поводач	conservative
+n	an	no	хуманус	inclusive
+n	cds	no	сонни бои	inclusive
+n	qas	no	свештеников помоћник	inclusive
+n	cds	no	Наставник	inclusive
+n	is	yes	сиромашни људи	inclusive
+n	cds	no	кукавичлук	conservative
+n	ddf	yes	инвалидитетом	inclusive
+n	an	no	микроорганизама	inclusive
+n	re	no	стављајући до смрти	inclusive
+n	cds	no	интерфертилити	inclusive
+n	cds	no	сцаммер	inclusive
+n	an	no	Мекушац	inclusive
+n	qas	no	Парохија	inclusive
+n	an	no	cimex lectulartus	inclusive
+n	pa	yes	професор ектраординариус	inclusive
+n	svp	no	ерос	inclusive
+n	pr	no	дворанин	inclusive
+n	cds	no	Велика завера	inclusive
+n	an	no	есцаргот	inclusive
+n	svp	no	мингинесс	conservative
+n	om	no	мушке сексуалности	inclusive
+n	an	no	бедбугс	inclusive
+n	an	no	пијавице	inclusive
+n	qas	no	сељака	inclusive
+n	cds	no	рустлер	inclusive
+n	svp	no	нетрпељив	conservative
+n	dmc	yes	фалсификатор	conservative
+n	svp	no	похлепе	inclusive
+n	dmc	yes	уљез	conservative
+n	an	no	пијавица	inclusive
+n	cds	no	варвара	conservative
+n	an	no	пилетину	inclusive
+n	ddp	yes	оштећење мозга	inclusive
+n	ps	yes	Жидови	inclusive
+n	re	no	злостављање	inclusive
+n	cds	no	верске дискриминације	inclusive
+n	re	no	илегалне активности	inclusive
+n	pa	yes	предлагач	inclusive
+n	om	no	дорсовентрал	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	cds	no	враголија	conservative
+n	cds	no	обрнутом турвинесс	inclusive
+n	an	no	Бјелоглави суп	inclusive
+n	cds	no	очевидац	conservative
+n	or	no	сквош	inclusive
+n	an	no	Крокодили	inclusive
+n	om	no	поове	conservative
+n	qas	no	дилетант	conservative
+n	an	no	педицулус цорпорис	inclusive
+n	an	no	тело отимање	inclusive
+n	om	no	табани	inclusive
+n	cds	no	ситне крађе	inclusive
+n	re	no	плагиаризатион	inclusive
+n	svp	no	гоурмандизер	inclusive
+n	cds	no	клике	inclusive
+n	qas	no	барака	inclusive
+n	an	no	папагаја	inclusive
+n	qas	no	барони	inclusive
+a	ddp	yes	глупо	conservative
+n	an	no	домаће стоке	inclusive
+n	dmc	yes	кловнова	inclusive
+n	om	no	педерастије	inclusive
+n	re	no	изнуди	inclusive
+n	cds	no	разбојник	conservative
+n	ps	yes	цхангелинг	conservative
+n	pr	no	сплачине	conservative
+n	cds	no	уништавање	conservative
+n	cds	no	јавни погодност	inclusive
+n	svp	no	жудња	inclusive
+n	ps	yes	црнчуга	conservative
+n	an	no	Ћено	inclusive
+n	re	no	киднаповање	inclusive
+n	ddp	yes	курвин син	conservative
+n	an	no	Гнев	inclusive
+n	an	no	psittaciformes	inclusive
+n	cds	no	прљави пас	conservative
+n	pa	yes	академског	inclusive
+n	qas	no	аутоинфецтион	inclusive
+n	qas	no	сад врећа	conservative
+n	cds	no	проклетник	conservative
+n	cds	no	италијанском мафијом	conservative
+n	an	no	дупе	inclusive
+n	pr	no	мољца	inclusive
+n	an	no	Свиње	inclusive
+n	cds	no	цхиселлер	inclusive
+n	ps	yes	афричког порекла	inclusive
+n	ddp	yes	Ментална заосталост	inclusive
+n	re	no	виллаинесс	conservative
+n	ddp	yes	особа која испашта туђе грешке	conservative
+n	cds	no	лажи	inclusive
+n	svp	no	самољубља	conservative
+n	cds	no	крадљивац стоке	inclusive
+n	re	no	мафијаш	inclusive
+n	cds	no	џукела	inclusive
+n	dmc	yes	простак	conservative
+n	ddp	yes	олош и бобтаил	conservative
+n	or	no	gay	conservative
+n	om	no	болећив	conservative
+n	ddp	yes	Идиот	inclusive
+n	an	no	Обични шакал	inclusive
+n	an	no	Домаће свиње	inclusive
+n	pa	yes	сахрана директор	inclusive
+n	an	no	крив лице	inclusive
+n	cds	no	цонвентицлес	inclusive
+n	om	no	хомопхиле	inclusive
+n	dmc	yes	морални кодекс	inclusive
+n	an	no	кревет буг	inclusive
+n	dmc	yes	треасонист	conservative
+n	cds	no	Идолопоклонство	inclusive
+n	ps	yes	краутхеад	conservative
+n	cds	no	цхиселер	inclusive
+n	svp	no	равеноуснесс	conservative
+n	qas	no	Аматер	inclusive
+n	an	no	pas	inclusive
+n	ps	yes	Остроготска држава	inclusive
+n	ddf	yes	особе са инвалидитетом	inclusive
+n	om	no	геј мушкарац	inclusive
+n	qas	no	професионалне класе	inclusive
+n	dmc	yes	дефраудер	conservative
+n	ddp	yes	зооерасти	conservative
+n	cds	no	укрстити	inclusive
+n	cds	no	моралисања	inclusive
+n	dmc	yes	раскалашник	conservative
+n	asm	no	бровннесс	inclusive
+n	an	no	тврдица	conservative
+n	asf	no	Родница	conservative
+n	asm	no	цредулоуснесс	conservative
+n	an	no	Гњев	inclusive
+n	ddp	yes	никоговић	conservative
+n	an	no	crocodylia	inclusive
+n	svp	no	диллидаллиер	conservative
+n	cds	no	омладинских банди	inclusive
+n	re	no	убистава	inclusive
+n	cds	no	пранкисхнесс	inclusive
+n	ddp	yes	Микроцефалија	inclusive
+n	dmc	yes	тако и тако	conservative
+n	cds	no	лаиабоут	conservative
+n	cds	no	шарлатан	conservative
+n	om	no	homoseksualnost	inclusive
+n	cds	no	хоакер	conservative
+n	pr	no	сексуалних услуга	inclusive
+n	pr	no	Проститутка	inclusive
+n	om	no	куеер	conservative
+n	cds	no	баладе	inclusive
+n	pr	no	хетаера	inclusive
+n	pr	no	члан вишег друштва	inclusive
+n	cds	no	јунк маил	inclusive
+n	pa	yes	градски чувар	inclusive
+n	svp	no	пени-штипање	inclusive
+n	dmc	yes	Моцарела	inclusive
+n	dmc	yes	моралне вредности	inclusive
+n	cds	no	мешавина	inclusive
+n	svp	no	ангринесс	inclusive
+n	re	no	мучитељ	inclusive
+n	cds	no	цмиздравце	conservative
+n	re	no	сицилијанска мафија	inclusive
+n	an	no	Телесна ваш	inclusive
+n	cds	no	фактор	inclusive
+n	an	no	мекушац	inclusive
+n	or	no	куеер	conservative
+n	qas	no	цастеисм	inclusive
+n	om	no	анални секс	inclusive
+n	cds	no	педеру	conservative
+n	dmc	yes	шарена будала	inclusive
+n	an	no	Европски бизон	inclusive
+n	ddf	yes	физичким инвалидитетом	inclusive
+n	cds	no	слободних зидара	inclusive
+n	ps	yes	Роми	inclusive
+n	an	no	animal	inclusive
+n	cds	no	хиперсекуал	conservative
+n	re	no	терориста	inclusive
+n	or	no	krompir	inclusive
+n	cds	no	практични шаљивџија	conservative
+n	qas	no	нецротропхиц	inclusive
+n	re	no	Инфантицид	inclusive
+n	cds	no	дворска луда	inclusive
+n	cds	no	јавна кућа	inclusive
+a	an	no	тврдоглаве	inclusive
+n	cds	no	финаглер	conservative
+n	an	no	ајкуле	inclusive
+n	cds	no	бегуине	inclusive
+n	an	no	аљкава особа	conservative
+n	cds	no	спласхинесс	conservative
+n	ps	yes	романи	inclusive
+n	cds	no	домаћег отпада	conservative
+n	cds	no	перспицациоуснесс	inclusive
+n	an	no	anura	inclusive
+n	an	no	мољац	inclusive
+n	an	no	Крокодил	inclusive
+n	cds	no	паппараззи	inclusive
+n	cds	no	спласхинесс	inclusive
+n	cds	no	сицилијанска мафија	inclusive
+n	an	no	диддли	conservative
+n	ddp	yes	аменција	inclusive
+n	or	no	глуп	conservative
+n	dmc	yes	нетрпељивости	conservative
+n	an	no	буфо буфо	inclusive
+n	qas	no	шепртља	conservative
+n	qas	no	лагати	conservative
+n	asf	no	Пичкица	conservative
+n	an	no	микро-организама	inclusive
+n	dmc	yes	хобо	conservative
+n	ddp	yes	микроцефалија	inclusive
+n	asm	no	срање	inclusive
+n	pr	no	проститутке	inclusive
+n	re	no	злоупотребе	inclusive
+n	re	no	малтретирање	inclusive
+n	cds	no	фасциста	inclusive
+n	an	no	млакоња	conservative
+n	qas	no	буржоазије	inclusive
+n	pa	yes	пастира	inclusive
+n	svp	no	седам смртних грехова	inclusive
+n	re	no	плагиарисе	inclusive
+n	qas	no	грешка-уп	inclusive
+n	an	no	рода капра	inclusive
+n	cds	no	стрвина	inclusive
+n	cds	no	цоцкуп	inclusive
+n	an	no	Мекушци	inclusive
+n	an	no	krpelj	inclusive
+n	an	no	дроља	conservative
+n	cds	no	мноштво	inclusive
+n	cds	no	вонк	conservative
+n	dmc	yes	тако и тако	inclusive
+n	pr	no	пацова	inclusive
+n	cds	no	олош	conservative
+n	an	no	стрик вариа	inclusive
+n	or	no	думбасс	conservative
+n	cds	no	морализам	inclusive
+n	cds	no	високе непристрасности	conservative
+n	qas	no	фумблер	conservative
+n	re	no	краду	inclusive
+n	an	no	атхене ноцтуа	inclusive
+n	cds	no	остентатиоуснесс	inclusive
+n	qas	no	пољопривредника	inclusive
+n	or	no	тикван	conservative
+n	ddp	yes	глупост	inclusive
+n	asm	no	Фалус	inclusive
+n	om	no	гаинесс	inclusive
+n	pr	no	проститутка	inclusive
+n	cds	no	педантан	conservative
+n	asm	no	пасуљ фаба	inclusive
+n	cds	no	одметник	inclusive
+n	ddp	yes	заосталост	inclusive
+n	an	no	ловлифе	conservative
+n	cds	no	бловхард	conservative
+n	ps	yes	Црно	inclusive
+n	dmc	yes	јадник	conservative
+n	qas	no	паразитизма	inclusive
+n	re	no	крађе	inclusive
+n	re	no	кршење закона	inclusive
+n	qas	no	луњати	conservative
+n	pa	yes	Чобан	inclusive
+n	ddp	yes	створење	inclusive
+n	ddp	yes	интелектуалним инвалидитетом	inclusive
+n	asf	no	тикван	conservative
+n	pr	no	црацк курва	inclusive
+n	cds	no	Слободни зидар	inclusive
+n	ps	yes	Јевреји	inclusive
+n	an	no	Жабе	inclusive
+n	svp	no	цонцеитеднесс	conservative
+n	an	no	ixodida	inclusive
+n	re	no	злостављања	inclusive
+n	is	yes	сиромах	inclusive
+n	asm	no	игра карата или домина	conservative
+n	qas	no	барокне архитектуре	inclusive
+n	ps	yes	тикван	conservative
+n	pr	no	оштроконџа	conservative
+n	an	no	зека	inclusive
+n	an	no	свиња	inclusive
+n	ps	yes	бленути	conservative
+n	ps	yes	Вандали	inclusive
+a	is	yes	сиромашан	inclusive
+n	cds	no	сад врећа	conservative
+n	cds	no	нарцизма	inclusive
+n	ddp	yes	сероња	conservative
+n	pa	yes	Шустер	inclusive
+n	re	no	плагијат	inclusive
+n	cds	no	инструктора	inclusive
+n	cds	no	род	inclusive
+n	cds	no	лоансхаркинг	inclusive
+n	svp	no	даллиер	conservative
+n	svp	no	шепртља	conservative
+n	ps	yes	романис	inclusive
+n	cds	no	гангстеризам	inclusive
+n	cds	no	egotizam	conservative
+n	cds	no	стављање ван закона	conservative
+n	qas	no	фиелдханд	inclusive
+n	cds	no	лажи	conservative
+n	cds	no	сцхоолма'ам	conservative
+n	cds	no	учена жена	inclusive
+n	asm	no	флоутер	conservative
+n	ps	yes	Црна боја	inclusive
+n	cds	no	идолопоклонички	inclusive
+n	an	no	sova	inclusive
+n	cds	no	зеленашење	inclusive
+n	re	no	присилно силовање	conservative
+n	asm	no	smeđ	inclusive
+n	pa	yes	академизам	inclusive
+n	cds	no	осим	inclusive
+n	cds	no	навала	inclusive
+n	qas	no	врх извршне	inclusive
+n	cds	no	конформиста	conservative
+n	re	no	киднапују	inclusive
+n	svp	no	гоурмандизер	conservative
+n	cds	no	Идолатрија	inclusive
+n	is	yes	урбаног сиромаштва	inclusive
+n	re	no	злостављао	inclusive
+n	svp	no	Равнодушност	inclusive
+n	ddp	yes	глупости	conservative
+n	cds	no	глупирање	inclusive
+n	an	no	царцхародон	inclusive
+n	cds	no	Гангстер	inclusive
+n	re	no	svet gusara	inclusive
+n	ddp	yes	наноцепхали	inclusive
+n	an	no	слуг	inclusive
+n	dmc	yes	гооф-офф	conservative
+n	pa	yes	бранилац	inclusive
+n	asm	no	европска пасуљ	inclusive
+n	qas	no	висак	inclusive
+n	qas	no	магната	inclusive
+n	an	no	pediculus humanus humanus	inclusive
+n	re	no	свирепост	inclusive
+n	re	no	Мафија	inclusive
+n	ddp	yes	издајнички	conservative
+n	cds	no	аљкавац	conservative
+n	asm	no	поље пасуља	inclusive
+n	svp	no	добар за ништа	conservative
+n	or	no	brassica oleracea	inclusive
+n	cds	no	банда културе	inclusive
+n	pa	yes	продавачица рибе	inclusive
+n	qas	no	Βάρβαρος	conservative
+n	qas	no	станар пољопривредник	inclusive
+n	ddp	yes	затвореника	inclusive
+n	dmc	yes	скитње	inclusive
+n	re	no	рекеташ	inclusive
+n	svp	no	забушант	conservative
+n	re	no	Слејер	inclusive
+n	cds	no	нимпхо	conservative
+n	an	no	мекушаца	inclusive
+n	an	no	фолдерол	conservative
+n	re	no	клеветничке	inclusive
+n	ps	yes	доофус	conservative
+n	om	no	геј	conservative
+n	cds	no	лудорија	inclusive
+n	ps	yes	црња	conservative
+n	re	no	украдена имовина	inclusive
+n	pr	no	форницатресс	conservative
+n	an	no	боди снатцхерс	inclusive
+n	pr	no	рентбои	conservative
+n	cds	no	површност	inclusive
+n	ddp	yes	сад врећа	conservative
+n	re	no	сексуалног злостављања	inclusive
+n	om	no	Дама	inclusive
+n	an	no	птица минерва	inclusive
+n	ps	yes	црнкиње	inclusive
+n	cds	no	novorođenče	inclusive
+n	om	no	трансвестизма	inclusive
+n	om	no	хомопхиле покрет	inclusive
+n	an	no	брант гуска	inclusive
+n	cds	no	краснописац	conservative
+n	om	no	вентролатерал	inclusive
+n	cds	no	трачибаба	conservative
+n	ps	yes	bugarski	inclusive
+n	pa	yes	грубијан	conservative
+n	ddp	yes	брбљивац	conservative
+n	om	no	преоблаче	inclusive
+n	om	no	цаудалли	inclusive
+n	cds	no	цодсваллоп	conservative
+n	an	no	pravi krokodili	inclusive
+n	cds	no	блундерер	conservative
+n	cds	no	Масонство	inclusive
+n	an	no	амерички бизон	inclusive
+n	cds	no	бавдихоусе	inclusive
+n	an	no	мољца	inclusive
+n	om	no	кеистер	inclusive
+n	cds	no	стада животиња	inclusive
+n	cds	no	цацограпхи	inclusive
+n	qas	no	лажи	conservative
+n	cds	no	сељак	conservative
+n	an	no	цодсваллоп	conservative
+n	cds	no	пандар	inclusive
+n	ps	yes	даркие	conservative
+n	cds	no	очајан кривично	inclusive
+n	pa	yes	рачуновођа	inclusive
+n	cds	no	фавнер	conservative
+n	ddp	yes	имбецил	conservative
+n	dmc	yes	моралистичку	inclusive
+n	om	no	gay	conservative
+n	qas	no	полутан	conservative
+n	svp	no	лењост	inclusive
+n	ps	yes	Монголи	inclusive
+n	dmc	yes	ленштина	conservative
+n	dmc	yes	Морализам	inclusive
+n	cds	no	цатхоусе	inclusive
+n	om	no	хомопхиле покрет	conservative
+a	svp	no	lascivan	conservative
+n	cds	no	ноувеау-богаташи	inclusive
+n	an	no	Ован	inclusive
+n	om	no	anal sex	inclusive
+n	ps	yes	имбецил	conservative
+n	re	no	пљачкаш	inclusive
+n	cds	no	точка дилер	conservative
+n	cds	no	beba	inclusive
+n	om	no	злостављач деце	conservative
+n	an	no	ovca	inclusive
+n	re	no	заробљивач	inclusive
+n	an	no	canis aureus	inclusive
+n	cds	no	пискарало	conservative
+n	cds	no	Хибридна семена	inclusive
+n	dmc	yes	Βάρβαρος	conservative
+n	an	no	овца	inclusive
+n	qas	no	барониес	inclusive
+n	re	no	сицилијанске мафије	inclusive
+n	re	no	Гусар	inclusive
+n	cds	no	брокер	inclusive
+n	is	yes	нитков	conservative
+n	cds	no	наставног средства	inclusive
+n	an	no	чељуст	inclusive
+n	an	no	Ајкуле	inclusive
+n	re	no	Злочин	inclusive
+n	cds	no	сводништва	conservative
+n	re	no	цхиселер	inclusive
+n	an	no	mikroorganizmi	inclusive
+n	svp	no	ниггардлинесс	conservative
+n	an	no	пиле	inclusive
+n	cds	no	нужник	inclusive
+n	svp	no	мангуп	conservative
+n	om	no	хомопхиле	conservative
+n	cds	no	глуп	conservative
+n	qas	no	воду рибе	inclusive
+n	cds	no	простачки	conservative
+n	an	no	диддлискуат	conservative
+n	cds	no	Учитељица	inclusive
+n	cds	no	слободни зидар	inclusive
+n	om	no	крст салон	inclusive
+n	re	no	кривична дела	inclusive
+n	an	no	glista	inclusive
+a	ps	yes	црн	inclusive
+n	an	no	лешинари	inclusive
+n	an	no	виллаинесс	conservative
+n	ps	yes	Жидов	inclusive
+n	cds	no	Злочини	inclusive
+n	an	no	Безрепи водоземци	inclusive
+n	an	no	подред блаттодеа	inclusive
+n	dmc	yes	весео андрев	inclusive
+n	ddp	yes	зооерастиа	conservative
+n	ps	yes	црвени картон	inclusive
+n	an	no	моуе	inclusive
+n	an	no	vaška	inclusive
+n	om	no	Дама Уједињеног Краљевства	inclusive
+n	cds	no	делинквент	conservative
+n	an	no	вашка	inclusive
+n	an	no	инекорабленесс	conservative
+n	re	no	традуцер	conservative
+n	cds	no	сплавови	inclusive
+n	asm	no	дркаџијо	conservative
+n	an	no	Амерички бизон	inclusive
+n	qas	no	паразит	inclusive
+n	om	no	ипсилатералне	inclusive
+n	ps	yes	бела	inclusive
+n	cds	no	новајлија	conservative
+n	an	no	ауреус џунгла	inclusive
+n	re	no	провалник	inclusive
+n	om	no	Коморач	inclusive
+n	an	no	вулгарности	conservative
+n	an	no	хемиптеран	inclusive
+n	cds	no	идиот	inclusive
+n	dmc	yes	рубе	conservative
+n	cds	no	жутокљунац	conservative
+n	qas	no	грешка	inclusive
+n	cds	no	охолост	inclusive
+n	ddp	yes	поквареност	conservative
+n	pr	no	крава	inclusive
+n	re	no	злочин	inclusive
+n	cds	no	гледалац	conservative
+n	cds	no	Нарцисизам	inclusive
+n	svp	no	дилли-даллиер	conservative
+n	pa	yes	продавац карата	inclusive
+n	cds	no	fasizam	conservative
+n	an	no	лампирис ноцтилуца	inclusive
+n	an	no	козје антилопа	inclusive
+n	asm	no	комад репа	conservative
+n	ps	yes	Местици	conservative
+n	qas	no	дар-мар	inclusive
+n	re	no	отмичар	inclusive
+n	cds	no	оперите собу	inclusive
+n	re	no	злочинац	inclusive
+n	cds	no	нетрпељив	conservative
+n	cds	no	бандитти	conservative
+n	dmc	yes	Варвар	conservative
+n	svp	no	тврдица	conservative
+n	asm	no	итхипхаллиц	inclusive
+n	dmc	yes	фолирант	conservative
+n	pr	no	курвање	conservative
+n	om	no	контралатералног	inclusive
+n	cds	no	сродство група	inclusive
+n	cds	no	сводник	conservative
+n	cds	no	ленштина	conservative
+n	cds	no	уживање у самом себи	inclusive
+n	cds	no	певушити	inclusive
+n	cds	no	официр	inclusive
+n	om	no	хомосексуалац	inclusive
+n	cds	no	затворски чувар	inclusive
+n	cds	no	сицилијанске мафије	conservative
+n	om	no	трансвестит	inclusive
+n	qas	no	напустио брод	inclusive
+n	an	no	фауне	inclusive
+n	re	no	убиство	inclusive
+n	pr	no	куртизане	inclusive
+n	re	no	криминалне активности	inclusive
+n	ddf	yes	нанус	conservative
+n	svp	no	корпоративне похлепе	inclusive
+n	ps	yes	јеврејска религија	inclusive
+n	an	no	прљави пас	conservative
+n	an	no	Масовна обмана	conservative
+n	is	yes	сиромашних особа	inclusive
+n	ddp	yes	инфауна	inclusive
+n	cds	no	охолости	conservative
+a	is	yes	сиромашни	inclusive
+n	ddp	yes	достављач	conservative
+n	an	no	sup	inclusive
+n	svp	no	Гњев	conservative
+n	qas	no	jajašce	inclusive
+n	an	no	Вашке	inclusive
+n	an	no	tele	inclusive
+n	cds	no	бандит	inclusive
+n	an	no	нанус	conservative
+n	ddf	yes	цроокбацк	inclusive
+n	ddp	yes	копиле	conservative
+n	cds	no	грешити	inclusive
+n	svp	no	похота	inclusive
+n	an	no	Вулгарности	conservative
+n	an	no	Пси	inclusive
+n	ddp	yes	бленути	conservative
+n	an	no	Црви	inclusive
+n	cds	no	Фундаменталиста	inclusive
+n	re	no	малолетни деликвент	conservative
+n	dmc	yes	морални компас	inclusive
+n	om	no	Хомоеротизам	inclusive
+n	an	no	жаба крастача	inclusive
+n	svp	no	нетрпељивости	conservative
+n	an	no	пса	inclusive
+n	cds	no	тоалет	inclusive
+n	re	no	slejer	inclusive
+n	an	no	mikrobi	inclusive
+n	om	no	Задњица	inclusive
+n	om	no	истог пола	inclusive
+n	cds	no	хвалисавац	conservative
+n	an	no	Мула	inclusive
+n	cds	no	румормонгер	conservative
+n	cds	no	кривично дело	inclusive
+n	an	no	сукња цхасер	conservative
+n	asf	no	вагина	conservative
+n	ddp	yes	алапача	conservative
+n	cds	no	књижевни хацк	conservative
+n	cds	no	говеда шуштање	inclusive
+n	om	no	туинк	conservative
+n	an	no	диддли-срање	conservative
+n	cds	no	разбојништва	inclusive
+n	an	no	Инсекти	inclusive
+n	asm	no	баллоцк	inclusive
+n	qas	no	грубијан	conservative
+n	cds	no	клозете	inclusive
+n	an	no	мрк поглед	inclusive
+n	asf	no	стидне длаке	inclusive
+n	pr	no	блудничење	inclusive
+n	om	no	хомоеротизам	inclusive
+n	asm	no	тестиса	inclusive
+n	pr	no	жена улице	conservative
+n	an	no	физиогномика	inclusive
+n	cds	no	збрка	conservative
+n	qas	no	велики бизнисмен	inclusive
+n	cds	no	detence	inclusive
+n	pa	yes	запосленик	inclusive
+n	ddp	yes	епифаунал	inclusive
+n	re	no	насилник	conservative
+n	re	no	пиратерије	inclusive
+n	pr	no	метреса	conservative
+n	om	no	женско имитатор	inclusive
+n	re	no	Злодело	inclusive
+n	cds	no	гангстера	inclusive
+n	ddp	yes	госсипер	conservative
+n	cds	no	казино коцкање	inclusive
+n	re	no	плагираних	inclusive
+n	cds	no	беллиацхер	conservative
+n	or	no	брассица рапа	inclusive
+n	asm	no	тамно браон	inclusive
+n	ps	yes	швабама	conservative
+n	asm	no	глупак	conservative
+n	or	no	нансија	conservative
+n	an	no	породица цимицидае	inclusive
+n	cds	no	клипан	conservative
+n	qas	no	пословна	inclusive
+n	re	no	тероризма	conservative
+n	svp	no	срамоту	inclusive
+n	re	no	отима	inclusive
+n	an	no	крвопија	inclusive
+n	qas	no	побркати	inclusive
+n	om	no	иза	inclusive
+n	cds	no	дрскост	conservative
+n	ps	yes	интерфертилити	inclusive
+n	re	no	киднапер	inclusive
+n	re	no	цалунниа	inclusive
+n	qas	no	грандиозност	inclusive
+n	cds	no	негативац	conservative
+n	cds	no	брокера	inclusive
+n	cds	no	казино	inclusive
+n	cds	no	канализација	inclusive
+n	dmc	yes	олош торба	inclusive
+n	cds	no	онај који стално нешто бистри	conservative
+n	asm	no	дркање	conservative
+n	cds	no	клика	inclusive
+n	an	no	роунцеи	inclusive
+n	re	no	рустлер	inclusive
+n	ps	yes	бедуина	inclusive
+n	pr	no	канализације пацов	inclusive
+n	asm	no	цхангелинг	inclusive
+n	cds	no	шкработина	inclusive
+n	asm	no	успорити	inclusive
+n	an	no	бува	inclusive
+n	dmc	yes	Делинквенција	inclusive
+n	cds	no	лармаџија	conservative
+n	om	no	схиртлифтер	inclusive
+n	qas	no	средњим приходима	inclusive
+n	asf	no	успорити	conservative
+n	qas	no	содбустер	inclusive
+n	cds	no	остаци	inclusive
+n	re	no	силовање	inclusive
+n	qas	no	партнер у злочину	inclusive
+n	dmc	yes	ловлифе	conservative
+n	an	no	олош и бобтаил	conservative
+n	cds	no	инструктор	inclusive
+n	cds	no	блацкбалл	inclusive
+n	ps	yes	острогот	inclusive
+n	ps	yes	оплемењивач биљака	inclusive
+n	cds	no	флуб	inclusive
+n	cds	no	аматеурисхнесс	conservative
+n	svp	no	тигхтфистеднесс	conservative
+n	cds	no	самољубив	conservative
+n	svp	no	бес	inclusive
+n	cds	no	цулцхие	inclusive
+n	svp	no	супербиа	conservative
+n	dmc	yes	грубијан	conservative
+n	asm	no	jajašce	inclusive
+n	an	no	jeja	inclusive
+n	cds	no	проблема	conservative
+n	om	no	реп	inclusive
+n	cds	no	кршење закона	inclusive
+n	an	no	стари свет бизон	inclusive
+n	ddp	yes	информатор	conservative
+n	ps	yes	метиц	inclusive
+n	svp	no	охолост	conservative
+n	asf	no	особа која испашта туђе грешке	conservative
+n	cds	no	вадс	inclusive
+n	om	no	крос-салон	inclusive
+n	cds	no	јапанских јединица мерења	inclusive
+n	om	no	пређе облачење	inclusive
+n	qas	no	уништавање	conservative
+n	an	no	тако и тако	conservative
+n	cds	no	лаж	conservative
+n	ddp	yes	цхангелинг	inclusive
+n	an	no	Пијавице	inclusive
+n	an	no	insecta	inclusive
+n	qas	no	пољопривредни радник	inclusive
+n	ddp	yes	сиромашних рибе	conservative
+n	or	no	кнуцклехеад	conservative
+n	an	no	тела снатцхер	inclusive
+n	an	no	диддлеи	conservative
+n	cds	no	Учитељ	inclusive
+n	qas	no	парохији	inclusive
+n	an	no	негативац	conservative
+n	dmc	yes	глупирање	inclusive
+n	cds	no	блаббермоутх	conservative
+n	om	no	Педерастија	inclusive
+n	an	no	цаиманс	inclusive
+n	cds	no	подао	conservative
+n	an	no	kunić	inclusive
+n	is	yes	завет сиромаштва	inclusive
+n	an	no	црве	inclusive
+n	qas	no	збрка	inclusive
+n	qas	no	пословни човек	inclusive
+n	is	yes	виллаинесс	conservative
+n	cds	no	круг лица са заједничким интересом	inclusive
+n	cds	no	дркаџија	conservative
+n	an	no	Љутња	inclusive
+n	ddp	yes	Βάρβαρος	conservative
+n	pa	yes	ванредни професор	inclusive
+n	cds	no	по-ударац	inclusive
+n	cds	no	јавни тоалет	inclusive
+n	cds	no	Банде	inclusive
+n	cds	no	Гранџ	inclusive
+n	om	no	хомосексуалност	inclusive
+n	an	no	krava	inclusive
+n	cds	no	интерспециес хибрид	inclusive
+n	cds	no	домаћег отпада	inclusive
+n	dmc	yes	Морал	inclusive
+n	re	no	злоупотребе власти	inclusive
+n	dmc	yes	издајник	conservative
+n	qas	no	тестиса	inclusive
+n	ps	yes	идиот	conservative
+n	cds	no	хомунцули	inclusive
+n	an	no	гоат антилопа	inclusive
+n	cds	no	битанга	conservative
+n	cds	no	Новорођенче	inclusive
+n	svp	no	шкртица	conservative
+n	re	no	трговински увреду	inclusive
+n	cds	no	крађа	inclusive
+n	qas	no	Реторика	inclusive
+n	an	no	брантова гуска	inclusive
+n	qas	no	Буржуј	inclusive
+n	cds	no	Пљачка	inclusive
+n	an	no	ajkula	inclusive
+n	cds	no	Мафија	conservative
+n	re	no	рапер	conservative
+n	an	no	лењивац	conservative
+n	dmc	yes	мафијаш	inclusive
+n	an	no	еуриптеридс	inclusive
+n	an	no	чинч	inclusive
+n	ps	yes	Хибрид	inclusive
+n	re	no	Сексуално злостављање	inclusive
+n	ps	yes	Хибридна семена	inclusive
+n	ddp	yes	бетисе	conservative
+n	ps	yes	монголоиди	conservative
+n	dmc	yes	малодоур	conservative
+n	re	no	лажне оптужбе	inclusive
+n	pa	yes	погребник	inclusive
+n	pa	yes	министар	inclusive
+n	qas	no	бизнис лидер	inclusive
+n	cds	no	фундаменталиста	inclusive
+n	cds	no	сицилијанске мафије	inclusive
+n	pa	yes	Адвокат	inclusive
+n	re	no	сицилијанске мафије	conservative
+n	ps	yes	вандализам	inclusive
+n	an	no	кајман	inclusive
+n	an	no	јегуље	inclusive
+n	om	no	дорзолатералних протоцеребралних	inclusive
+n	asm	no	рибе	inclusive
+n	asm	no	широко пасуљ	inclusive
+n	re	no	убиство другог степена	inclusive
+n	asm	no	лаковерности	conservative
+n	or	no	хомопхиле покрет	conservative
+n	asm	no	Грашак	inclusive
+n	cds	no	Хиперфилија	conservative
+n	cds	no	сељачина	conservative
+n	cds	no	Фашиста	conservative
+n	cds	no	виллаинесс	conservative
+n	an	no	buva	inclusive
+n	an	no	ангуиллидае	inclusive
+n	qas	no	троублер	conservative
+n	qas	no	јајашце	inclusive
+n	dmc	yes	зло	conservative
+n	cds	no	зајмодаваца	inclusive
+n	an	no	царцхародон царцхариас	inclusive
+n	cds	no	casino	inclusive
+n	om	no	лепиње	inclusive
+n	pr	no	уличарка	conservative
+n	cds	no	теретни воз	inclusive
+n	or	no	цуцумис сативус	inclusive
+n	an	no	кревет бугова	inclusive
+n	pa	yes	рибе	inclusive
+n	an	no	игра карата или домина	conservative
+n	om	no	Дрег квин	inclusive
+n	cds	no	беба	inclusive
+n	an	no	рода випера	inclusive
+n	cds	no	prelat	inclusive
+n	qas	no	нерадник	conservative
+n	om	no	содомија	inclusive
+n	re	no	цаптурер	inclusive
+n	cds	no	Сцијентизам	inclusive
+n	cds	no	злочинац	inclusive
+n	re	no	италијанском мафијом	inclusive
+n	cds	no	официр	conservative
+n	cds	no	корекције официра	inclusive
+n	qas	no	комуналног чврстог отпада	inclusive
+n	cds	no	издајнички	conservative
+n	cds	no	подводачица	inclusive
+n	cds	no	кретен	conservative
+n	ddp	yes	незнања	conservative
+n	pa	yes	Пастир	inclusive
+n	cds	no	парцеле	inclusive
+n	svp	no	Трсна	inclusive
+n	pa	yes	академика	inclusive
+n	pr	no	bos taurus	inclusive
+n	re	no	terorizam	conservative
+n	cds	no	рекеташ	inclusive
+n	ddp	yes	Животиње	inclusive
+n	pa	yes	схеепхердерс	inclusive
+a	is	yes	несрећне	inclusive
+n	qas	no	флуб	inclusive
+n	or	no	краставац лоза	inclusive
+n	or	no	култивисана купус	inclusive
+n	an	no	дебељуца	conservative
+n	cds	no	плашљив	conservative
+n	om	no	содомљанин	inclusive
+n	an	no	pile	inclusive
+n	is	yes	јадник	conservative
+n	cds	no	цхангелинг	inclusive
+n	dmc	yes	диллидаллиер	conservative
+n	re	no	сексуално злостављана	inclusive
+n	cds	no	глупак	conservative
+n	dmc	yes	морал	inclusive
+n	cds	no	Делинквенција	inclusive
+n	qas	no	невоља кафу	conservative
+n	cds	no	зеленашење	conservative
+n	is	yes	глобалног сиромаштва	inclusive
+n	is	yes	просјак	conservative
+n	qas	no	Тестиси	inclusive
+n	cds	no	борделло	inclusive
+n	an	no	млечних коза	inclusive
+n	cds	no	пропагандиста	inclusive
+n	an	no	не знам ништа	conservative
+n	an	no	мукање крава-	inclusive
+n	dmc	yes	вагрантс	inclusive
+n	cds	no	реакционар	conservative
+n	re	no	Делинквенција	inclusive
+n	qas	no	тагалонг	conservative
+n	om	no	апексног	inclusive
+n	svp	no	бигот	conservative
+n	qas	no	Кастински систем	inclusive
+n	asm	no	авафауна	inclusive
+n	cds	no	момчић	inclusive
+n	pa	yes	министар-саветник	inclusive
+n	svp	no	ласциван	inclusive
+n	cds	no	дрзак	inclusive
+n	cds	no	грађевински радник	inclusive
+n	dmc	yes	псеудо	conservative
+n	an	no	хемиптероус инсеката	inclusive
+n	cds	no	Масони	inclusive
+n	an	no	дивља вола	inclusive
+n	an	no	Царство Животиња	inclusive
+n	ddp	yes	мрзовољац	conservative
+n	svp	no	Љутња	conservative
+n	ddp	yes	Идиот	conservative
+n	ps	yes	интерспециес хибрида	inclusive
+n	an	no	лимацидае	inclusive
+n	re	no	жена убица	inclusive
+n	an	no	Животиње	inclusive
+n	dmc	yes	ракехелл	conservative
+n	qas	no	домаћег отпада	inclusive
+n	ddp	yes	игра карата или домина	conservative
+n	an	no	тело вашка	inclusive
+n	cds	no	бас блеу	inclusive
+n	cds	no	Клан	inclusive
+n	asm	no	хороз	inclusive
+n	an	no	род ангвила	inclusive
+n	re	no	цоса ностра	inclusive
+n	dmc	yes	сцаммер	conservative
+n	qas	no	буржоаском друштву	inclusive
+n	an	no	сиса вашку	inclusive
+n	cds	no	одојче	inclusive
+n	dmc	yes	стављање ван закона	inclusive
+n	cds	no	Банде	conservative
+n	cds	no	интергенериц хибрид	inclusive
+n	pa	yes	чобаница	inclusive
+n	cds	no	Луда	inclusive
+n	ps	yes	простак	conservative
+n	an	no	hoax	conservative
+n	pa	yes	удварач	inclusive
+n	qas	no	Варвари	conservative
+n	cds	no	посредник	inclusive
+n	ps	yes	џери	conservative
+n	an	no	јарац	inclusive
+n	dmc	yes	нитков	conservative
+n	pa	yes	Обућар	inclusive
+n	an	no	пипистрелле	inclusive
+n	asm	no	кожице	inclusive
+n	an	no	тикван	conservative
+n	an	no	zec	inclusive
+n	cds	no	народне масе	conservative
+n	cds	no	тона	inclusive
+n	cds	no	збрканост	inclusive
+n	cds	no	имбецил	inclusive
+n	an	no	Кокошка	inclusive
+n	pr	no	лампирис ноцтилуца	inclusive
+n	cds	no	омладинских банди	conservative
+n	om	no	содомист	inclusive
+n	an	no	жаба	inclusive
+n	cds	no	завереници	inclusive
+n	re	no	деликт	inclusive
+n	or	no	brassica campestris	inclusive
+n	an	no	Сиви ћук	inclusive
+n	ddp	yes	глупак	conservative
+n	dmc	yes	одметник	inclusive
+n	qas	no	китњаст говор	inclusive
+n	ps	yes	црна особа	inclusive
+n	cds	no	пеон	inclusive
+n	cds	no	збуњујуће питање	conservative
+n	an	no	схоат	inclusive
+n	cds	no	рубе	conservative
+n	qas	no	блоопер	inclusive
+n	ddp	yes	фауне	inclusive
+n	pr	no	бесмислица	conservative
+n	an	no	воловима	inclusive
+n	cds	no	вагона воза	inclusive
+n	cds	no	збрка	inclusive
+n	cds	no	педагог	inclusive
+n	an	no	животињица	inclusive
+n	cds	no	ноувеау-рицхе	inclusive
+n	cds	no	багнио	inclusive
+n	ddp	yes	Фауна	inclusive
+n	ps	yes	бугарски	inclusive
+n	an	no	магарац	inclusive
+n	cds	no	претенциозности	conservative
+n	om	no	педер	inclusive
+n	cds	no	дркаџијо	conservative
+n	svp	no	ровокопач	inclusive
+n	cds	no	Злодело	inclusive
+n	ddp	yes	незналица	conservative
+n	cds	no	аљкаво особа	conservative
+n	asf	no	мека на додир	conservative
+n	svp	no	Срџба	conservative
+n	pa	yes	обичан професор	inclusive
+n	cds	no	васпитача	inclusive
+n	re	no	опљачкан	inclusive
+n	re	no	Пират	inclusive
+n	asm	no	будала	conservative
+n	asm	no	Тестиси	inclusive
+n	cds	no	нарцисм	inclusive
+n	an	no	мазга	inclusive
+n	an	no	немилосрдност	conservative
+n	pr	no	куртизана	inclusive
+n	an	no	волови	inclusive
+n	asm	no	привесцима	inclusive
+n	asm	no	имбецил	inclusive
+n	dmc	yes	лингерер	conservative
+n	cds	no	несташлука	conservative
+n	cds	no	сцаммер	conservative
+n	asf	no	глупан	conservative
+n	an	no	Ваш	inclusive
+n	an	no	особа која испашта туђе грешке	conservative
+n	an	no	ангуилла	inclusive
+n	an	no	крик-сова	inclusive
+n	qas	no	духовни вођа	inclusive
+n	qas	no	комуналног отпада	inclusive
+n	qas	no	Беседништво	inclusive
+n	ps	yes	Монголоидна раса	conservative
+n	om	no	Скотолоштво	inclusive
+n	cds	no	госсипер	conservative
+n	cds	no	Теорија завјере	inclusive
+n	qas	no	омниум-гатхерум	inclusive
+n	re	no	серијски силоватељ	conservative
+n	qas	no	тестис	inclusive
+n	cds	no	учитељица	conservative
+n	cds	no	тамничар	inclusive
+n	cds	no	говеда лопов	inclusive
+n	ddp	yes	протурач новости	conservative
+n	pr	no	којештарија	conservative
+n	cds	no	Племе	inclusive
+n	svp	no	слацкер	conservative
+n	ddp	yes	необразована особа	conservative
+n	re	no	Гусари	inclusive
+n	dmc	yes	несрећна особа	inclusive
+n	an	no	вола	inclusive
+n	ddp	yes	Животињски свет	inclusive
+n	ps	yes	Бедуински Арапи	inclusive
+n	an	no	пас	inclusive
+n	svp	no	гађење	inclusive
+n	re	no	мафије	inclusive
+n	an	no	Во	inclusive
+n	an	no	зооерастиа	conservative
+n	cds	no	верског фундаментализма	inclusive
+n	cds	no	слављење идола	inclusive
+n	re	no	датум силовање	conservative
+n	cds	no	грубијан	conservative
+n	ps	yes	укрштањем	inclusive
+n	ddf	yes	слепац	inclusive
+n	is	yes	цхеапскате	conservative
+n	cds	no	невспапервоман	inclusive
+n	qas	no	Архитектура барока	inclusive
+n	cds	no	гомиле	inclusive
+n	cds	no	неистина	inclusive
+n	an	no	пљачкаш мародер	conservative
+n	svp	no	спиритлесснесс	inclusive
+n	pa	yes	Βάρβαρος	conservative
+n	ddp	yes	твирп	conservative
+n	qas	no	богат индустријалац	inclusive
+n	om	no	Драг квин	inclusive
+n	cds	no	сцијентизам	inclusive
+n	qas	no	крвоследник	inclusive
+n	cds	no	лагати	conservative
+n	ddp	yes	mentalna retardacija	inclusive
+a	is	yes	bedan	inclusive
+n	cds	no	Банда	conservative
+n	re	no	убица	inclusive
+n	cds	no	Трачање	inclusive
+n	dmc	yes	бандита	conservative
+n	dmc	yes	гангстера	inclusive
+n	cds	no	просветитељ	inclusive
+n	cds	no	завера ћутања	inclusive
+n	re	no	клеветник	conservative
+n	rci	yes	Варвари	conservative
+n	cds	no	стављање ван закона	inclusive
+n	asm	no	макиллипед	inclusive
+n	ddf	yes	онемогућавање	inclusive
+n	cds	no	сводник	inclusive
+n	an	no	битанга	conservative
+n	qas	no	немилост	inclusive
+n	cds	no	злочине	inclusive
+n	an	no	намрштити	inclusive
+n	re	no	мафијаш	conservative
+n	om	no	хомосексуалац	conservative
+n	cds	no	нетрпељивости	conservative
+n	cds	no	брз један	inclusive
+n	pa	yes	послопримац	inclusive
+n	cds	no	клан	inclusive
+n	cds	no	папараззо	inclusive
+n	ps	yes	глупак	conservative
+n	cds	no	Масон	inclusive
+n	cds	no	штрајк разбијање	inclusive
+n	cds	no	италијанском мафијом	inclusive
+n	dmc	yes	цхиселер	conservative
+n	cds	no	цхиселлер	conservative
+n	an	no	ugor	inclusive
+n	cds	no	зајмодавац	conservative
+n	dmc	yes	фоетор	conservative
+n	re	no	злочине	inclusive
+n	an	no	омакнуо му се језик	inclusive
+n	asf	no	говнар	conservative
+a	is	yes	несрећна	inclusive
+n	ddp	yes	Анималија	inclusive
+n	an	no	Анималија	inclusive
+n	pr	no	цомаре	conservative
+n	cds	no	сталак за сушење рубља	inclusive
+n	cds	no	Фашисти	conservative
+n	cds	no	васпитач	inclusive
+n	ddf	yes	патуљак	conservative
+n	an	no	gallus gallus domesticus	inclusive
+n	ddp	yes	Варвар	conservative
+n	is	yes	сиромашан	inclusive
+n	cds	no	десетине	inclusive
+n	om	no	племкиња	inclusive
+n	ddp	yes	нонсенсицалити	conservative
+n	or	no	спуд	inclusive
+n	om	no	педерастијски	inclusive
+n	re	no	традуцемент	inclusive
+n	pa	yes	рачуновође	inclusive
+n	cds	no	Мафија	inclusive
+n	svp	no	досадно	inclusive
+a	is	yes	несрећан	inclusive
+n	cds	no	слабић	conservative
+n	re	no	киднапује	inclusive
+n	cds	no	мафијаш	inclusive
+n	cds	no	помпезност	conservative
+a	ddf	yes	лоше	inclusive
+n	an	no	курва	conservative
+n	is	yes	сиромашни	inclusive
+n	cds	no	зеленаш	conservative
+n	dmc	yes	дворска луда	inclusive
+n	svp	no	досада	inclusive
+n	an	no	епифауна	inclusive
+n	cds	no	паметњаковић	conservative
+n	cds	no	конформистички	conservative
+n	an	no	крпеља	inclusive
+n	an	no	правом јегуље	inclusive
+n	qas	no	пас кућа	inclusive
+n	cds	no	обим	inclusive
+n	asm	no	завртање	conservative
+n	qas	no	парохије	inclusive
+n	cds	no	тврдица	inclusive
+n	an	no	црв	inclusive
+n	qas	no	срање	inclusive
+n	qas	no	аматеурисхнесс	conservative
+n	re	no	гангстер	inclusive
+n	ps	yes	Варвари	conservative
+n	pr	no	domaće govedo	inclusive
+n	ddf	yes	онемогући	inclusive
+n	ps	yes	јудејској	inclusive
+n	asm	no	јебени	conservative
+n	pr	no	црацк курве	conservative
+n	pa	yes	факултет члан	inclusive
+n	cds	no	дефраудер	inclusive
+n	asm	no	kurac	conservative
+n	svp	no	sedam smrtnih grehova	inclusive
+n	svp	no	Бестрашће	inclusive
+n	cds	no	ндрангета	inclusive
+n	cds	no	зајмодаваца	conservative
+n	an	no	да би цроцодилиа	inclusive
+n	an	no	анимирати што	inclusive
+n	cds	no	бебе	inclusive
+n	cds	no	мека на додир	conservative
+n	ddp	yes	брбљивац	inclusive
+n	svp	no	Гнев	conservative
+n	cds	no	преварант	conservative
+n	ps	yes	зулу	inclusive
+n	cds	no	под-клан од	inclusive
+n	cds	no	тоалетима	inclusive
+n	re	no	акт тероризма	inclusive
+n	re	no	дефраудер	inclusive
+n	ps	yes	негро	inclusive
+n	qas	no	неистина	conservative
+n	cds	no	дете љубави	inclusive
+n	pr	no	вишег друштва	inclusive
+n	asm	no	јеерер	conservative
+n	or	no	хомопхиле	conservative
+n	re	no	дефамер	conservative
+n	svp	no	гурман	conservative
+n	dmc	yes	блундерер	conservative
+a	svp	no	ласциван	conservative
+n	cds	no	идола обожавања	inclusive
+n	re	no	негативац	conservative
+n	pr	no	блудница	conservative
+n	dmc	yes	лакрдијаш	inclusive
+n	cds	no	Наставница	inclusive
+n	or	no	метицулосити	inclusive
+n	dmc	yes	отпадник	conservative
+n	an	no	батрацхиан	inclusive
+n	svp	no	похлепа	inclusive
+n	an	no	златни шакал	inclusive
+n	ps	yes	будала	conservative
+n	an	no	ноцтилуца	inclusive
+n	dmc	yes	скитница	conservative
+n	qas	no	барокуенесс	inclusive
+n	ddp	yes	подвала	conservative
+n	cds	no	фашизам	conservative
+n	qas	no	ацолите	inclusive
+n	cds	no	штрајкбрехер	inclusive
+n	cds	no	блацкбаллинг	inclusive
+n	svp	no	Абулија	inclusive
+n	asm	no	petao	inclusive
+n	an	no	Папагаји	inclusive
+n	an	no	отус асио	inclusive
+n	re	no	тероризам	inclusive
+n	an	no	простак	conservative
+n	asm	no	прекршај	inclusive
+n	re	no	мучење уређај	inclusive
+n	dmc	yes	бити снужден	conservative
+n	cds	no	Банда	inclusive
+n	an	no	Инсект	inclusive
+n	cds	no	курвин син	conservative
+n	cds	no	фоп	inclusive
+n	asf	no	пичка	conservative
+n	an	no	Јегуље	inclusive
+n	an	no	дрска девојка	conservative
+n	ps	yes	мека на додир	conservative
+n	ps	yes	Остроготи	inclusive
+n	dmc	yes	олош торба	conservative
+n	ddp	yes	бесмислице	inclusive
+n	an	no	магарци	inclusive
+n	an	no	незналица	conservative
+n	pr	no	дама задовољства	conservative
+n	cds	no	вц објекат	inclusive
+n	pr	no	Конкубинат	inclusive
+n	re	no	крађа	inclusive
+n	an	no	buve	inclusive
+n	pa	yes	Професор	inclusive
+n	re	no	првостепено убиство	inclusive
+n	cds	no	спортске кућа	inclusive
+n	cds	no	забушант	conservative
+n	re	no	клеветање	inclusive
+n	cds	no	Злочин	inclusive
+n	re	no	Хомицид	inclusive
+n	svp	no	gordost	inclusive
+n	an	no	Буха	inclusive
+n	ps	yes	Циганин	inclusive
+n	ps	yes	кретен	conservative
+n	cds	no	идолопоклонство	inclusive
+n	cds	no	домаће отпадне воде	inclusive
+n	cds	no	лаж	inclusive
+n	qas	no	конформистички	conservative
+n	ps	yes	азијски	inclusive
+n	svp	no	бес	conservative
+n	dmc	yes	расипник	conservative
+n	dmc	yes	врдалама	conservative
+n	or	no	новог кромпира	inclusive
+n	cds	no	чено	inclusive
+n	cds	no	уличне банде	inclusive
+n	an	no	деспоилер	inclusive
+n	ps	yes	јигабоо	conservative
+n	ddp	yes	говнар	conservative
+n	dmc	yes	прљави пас	conservative
+n	qas	no	боургеоисе	inclusive
+n	cds	no	Учитељи	inclusive
+n	asf	no	техникалија	inclusive
+n	ddp	yes	олош	conservative
+n	cds	no	фашиста	conservative
+n	an	no	пиллагер	inclusive
+n	ps	yes	Јудеизам	inclusive
+n	cds	no	резултати	inclusive
+n	cds	no	крадљивац	inclusive
+n	pa	yes	академик	inclusive
+n	ddp	yes	успорити	conservative
+n	cds	no	dojenče	inclusive
+n	an	no	sus scrofa domestica	inclusive
+n	cds	no	бигот	conservative
+n	cds	no	слацкер	conservative
+n	om	no	тоосхие	inclusive
+n	cds	no	корективни службеник	inclusive
+n	an	no	рентбои	conservative
+n	ddp	yes	неспособан	conservative
+n	re	no	раптио	inclusive
+n	qas	no	прост	inclusive
+n	qas	no	средње класе	inclusive
+n	cds	no	Зилоти	inclusive
+n	ddp	yes	бестијалност	conservative
+n	an	no	стока	inclusive
+n	an	no	bison bison	inclusive
+n	cds	no	провалник	inclusive
+n	dmc	yes	лицемерје	conservative
+n	dmc	yes	хобос	conservative
+n	svp	no	абоулиа	inclusive
+n	ps	yes	јеврејској породици	inclusive
+n	qas	no	таласање	inclusive
+n	an	no	црва	inclusive
+n	ddp	yes	румоурмонгер	conservative
+n	cds	no	Хибрид	inclusive
+n	re	no	лоповлук	inclusive
+n	an	no	Сове	inclusive
+n	an	no	аљкаво особа	conservative
+n	cds	no	интригант	inclusive
+n	om	no	Трансвестизам	inclusive
+n	ps	yes	Идиот	conservative
+n	an	no	прасе	inclusive
+n	cds	no	пола литре	conservative
+n	cds	no	самољубља	conservative
+n	cds	no	ситан крадљивац	conservative
+n	ddp	yes	доофус	conservative
+n	cds	no	педантерија	inclusive
+n	asm	no	смеђ	inclusive
+n	or	no	хомосексуалац	conservative
+n	cds	no	тикван	conservative
+n	asm	no	ноокие	conservative
+n	cds	no	Трач-партија	inclusive
+n	svp	no	Завист	inclusive
+n	cds	no	бандитти	inclusive
+n	re	no	ситни лопов	inclusive
+n	qas	no	касте	inclusive
+n	svp	no	аварициоуснесс	inclusive
+n	cds	no	прогонилац	conservative
+n	asm	no	muski polni organ	inclusive
+n	cds	no	цхиселер	conservative
+n	ps	yes	Јеврејин	inclusive
+n	an	no	Коза	inclusive
+n	pr	no	prostitucija	inclusive
+n	an	no	jegulja	inclusive
+n	re	no	кривично дело секс	inclusive
+n	dmc	yes	шепртља	conservative
+n	cds	no	успорити	inclusive
+n	qas	no	тесте	inclusive
+n	cds	no	подмитљивост	inclusive
+n	cds	no	бебa	inclusive
+n	pa	yes	Дипломатски рангови Руске федерације	inclusive
+n	pa	yes	предузимач	inclusive
+n	ddf	yes	Дисабилитет	inclusive
+n	re	no	простачки	conservative
+n	cds	no	масона	inclusive
+n	an	no	Бизон	inclusive
+n	ddp	yes	шарлатан медицине	conservative
+n	pa	yes	унцоутхнесс	conservative
+n	qas	no	ретор	inclusive
+n	qas	no	следбеник	inclusive
+n	qas	no	Дилер	inclusive
+n	qas	no	олош и бобтаил	conservative
+n	pr	no	пепперед мољца	inclusive
+n	pa	yes	цордваинер	inclusive
+n	pr	no	лабава жена	conservative
+n	an	no	Крава	inclusive
+n	cds	no	охола особа	conservative
+n	an	no	гусар	inclusive
+n	qas	no	лоше шешир	conservative
+n	pr	no	социалитес	inclusive
+n	an	no	комарац	inclusive
+n	an	no	вамп	conservative
+n	an	no	buljina	inclusive
+n	dmc	yes	расипник	inclusive
+n	pa	yes	obucar	inclusive
+n	an	no	вампер	conservative
+n	qas	no	илузија	inclusive
+n	an	no	папагај	inclusive
+n	an	no	балон свалловер	inclusive
+n	pr	no	Крава	inclusive
+n	re	no	крадљивац	inclusive
+n	ddp	yes	аналфабет	inclusive
+n	cds	no	јавној кући	inclusive
+n	dmc	yes	Лицемерје	conservative
+n	ps	yes	Вандал	inclusive
+n	ddp	yes	думбасс	conservative
+n	om	no	трансвеститисм	inclusive
+n	dmc	yes	неспретњаковић	conservative
+n	an	no	Козе	inclusive
+n	dmc	yes	сељак	conservative
+n	an	no	цоотие	inclusive
+n	an	no	mikroorganizami	inclusive
+n	ddp	yes	грубијан	conservative
+n	ps	yes	негроиди	inclusive
+n	qas	no	Смеша	inclusive
+n	svp	no	Гађење	inclusive
+n	asm	no	фалус	inclusive
+n	ps	yes	Јудаисти	inclusive
+n	re	no	плен	inclusive
+n	svp	no	лустфулнесс	inclusive
+n	qas	no	буржоаског друштва	inclusive
+n	asm	no	кутија за	inclusive
+n	om	no	Геј	inclusive
+n	cds	no	нерадник	conservative
+n	ddp	yes	неписмен	inclusive
+n	cds	no	Нимфоманија	conservative
+n	qas	no	барон	inclusive
+n	an	no	цанис ауреус	inclusive
+n	an	no	варваризам	inclusive
+n	an	no	carcharodon carcharias	inclusive
+n	cds	no	породице	inclusive
+n	an	no	хијена	inclusive
+n	cds	no	супербиа	inclusive
+n	pa	yes	трговац рибом	inclusive
+n	pr	no	блудничење	conservative
+n	an	no	крокодилски	inclusive
+n	cds	no	ароганција	conservative
+n	an	no	athene noctua	inclusive
+n	cds	no	преступник	inclusive
+n	pr	no	конкубина	inclusive
+n	ps	yes	сличан црнцу	inclusive
+n	svp	no	лењост	conservative
+n	re	no	оговарач	conservative
+n	cds	no	лав	inclusive
+n	cds	no	фолдерол	conservative
+n	qas	no	папазјанија	inclusive
+n	an	no	цакехоле	inclusive
+n	an	no	шакал	inclusive
+n	an	no	глупан	conservative
+n	an	no	гуска	inclusive
+n	ps	yes	беле	inclusive
+n	ps	yes	варвара	conservative
+n	re	no	мучење	inclusive
+n	cds	no	ванглер	conservative
+n	or	no	фастидиоуснесс	inclusive
+n	cds	no	teorija zavere	inclusive
+n	asm	no	бордо	inclusive
+n	an	no	микро-организам	inclusive
+n	or	no	краставац	inclusive
+n	pr	no	чува жену	conservative
+n	ddp	yes	здравствене преваре	conservative
+n	dmc	yes	битанга	conservative
+n	qas	no	хач	inclusive
+n	dmc	yes	клипан	conservative
+n	cds	no	кукавиштво	inclusive
+n	qas	no	магнат	inclusive
+n	cds	no	мафијаши	inclusive
+n	cds	no	трен	inclusive
+n	asf	no	бетисе	conservative
+n	pa	yes	кочијаш	inclusive
+n	dmc	yes	гит	conservative
+n	dmc	yes	делинквент	conservative
+n	cds	no	полтрон	conservative
+n	cds	no	умишљености	inclusive
+n	dmc	yes	етички мотив	inclusive
+n	an	no	оброк	inclusive
+n	dmc	yes	скитање	inclusive
+n	cds	no	јабука полирање	conservative
+n	cds	no	догматизам	conservative
+n	an	no	bubasvabe	inclusive
+n	an	no	Срџба	inclusive
+n	re	no	Терорист	inclusive
+n	asf	no	Идиот	conservative
+n	asf	no	фуцкхеад	conservative
+n	qas	no	живети као паразит	inclusive
+n	cds	no	одабрати	conservative
+n	cds	no	простак	conservative
+n	dmc	yes	цхавбацон	conservative
+n	an	no	црвена добош	inclusive
+n	svp	no	bes	inclusive
+n	ddp	yes	мицроцепхалиц	inclusive
+n	asm	no	професионални прекршај	inclusive
+n	cds	no	омакнуо му се језик	inclusive
+n	ddp	yes	кретенизам	inclusive
+n	asm	no	horoz	inclusive
+n	cds	no	бумблер	conservative
+n	an	no	Кокош	inclusive
+n	ddp	yes	кретен	inclusive
+n	cds	no	аљкава особа	conservative
+n	cds	no	одметник	conservative
+n	pa	yes	проф	inclusive
+n	an	no	бос таурус	inclusive
+n	ps	yes	хиспано	inclusive
+n	pr	no	дворских	inclusive
+n	svp	no	досаде	inclusive
+n	re	no	пљачкати	inclusive
+n	re	no	нитков	inclusive
+n	re	no	tortura	inclusive
+n	cds	no	само-обожавање	inclusive
+n	dmc	yes	фумблер	conservative
+n	re	no	mučenje	inclusive
+n	dmc	yes	лаж	inclusive
+n	pa	yes	резервација чиновник	inclusive
+n	svp	no	горгер	conservative
+n	ps	yes	Циган	inclusive
+n	qas	no	паразитизам	inclusive
+n	an	no	бизона	inclusive
+n	asm	no	енглеском пасуљ	inclusive
+n	an	no	Пијавице - hirudinea	inclusive
+n	dmc	yes	Гангстер	inclusive
+n	ps	yes	Зулу	inclusive
+n	svp	no	стицањем	inclusive
+n	cds	no	игра карата или домина	conservative
+n	re	no	бандитти	inclusive
+n	an	no	схоте	inclusive
+n	dmc	yes	сцаттергоод	inclusive
+n	an	no	инфериоран	inclusive
+n	cds	no	хои поллои	inclusive
+n	qas	no	Барака	inclusive
+n	ps	yes	успорити	conservative
+n	svp	no	Безвољност	inclusive
+n	om	no	Драг краљица	inclusive
+n	asf	no	vagina	conservative
+n	cds	no	нерди	conservative
+n	pr	no	гангстер је молл	inclusive
+n	cds	no	веисенхеимер	conservative
+n	cds	no	преварант	inclusive
+n	pr	no	волови	inclusive
+n	an	no	Хоакс	conservative
+n	pr	no	Штакор	inclusive
+n	asm	no	тестис	inclusive
+n	pa	yes	кривичног адвоката	inclusive
+n	asf	no	имбецил	conservative
+n	an	no	домаћи пас	inclusive
+n	asm	no	рука посао	conservative
+n	cds	no	обмањивање	inclusive
+n	pa	yes	посебан правобранилац	inclusive
+n	re	no	Гусарство	inclusive
+n	re	no	кажњив само дело	inclusive
+n	qas	no	бомбастичан говор	inclusive
+n	cds	no	комуналног отпада	inclusive
+n	cds	no	дрка	conservative
+n	cds	no	неуспех	inclusive
+n	re	no	крадљивац стоке	inclusive
+n	cds	no	Масонерија	inclusive
+n	cds	no	прелат	inclusive
+n	asm	no	боб	inclusive
+n	qas	no	индустријалац	inclusive
+n	qas	no	њушкало	inclusive
+n	ddf	yes	Инвалидност	inclusive
+n	ddp	yes	мека на додир	conservative
+n	pr	no	мукање крава-	inclusive
+n	ddp	yes	Варвари	conservative
+n	pa	yes	posloprimac	inclusive
+n	om	no	Гузица	inclusive
+n	an	no	балона свалловер	inclusive
+n	om	no	финоццхио	inclusive
+n	an	no	пхтхираптера	inclusive
+n	asm	no	петлић	inclusive
+n	cds	no	алапача	conservative
+n	cds	no	Фанатичност	conservative
+n	an	no	диддли-цуцањ	conservative
+n	ddp	yes	простак	conservative
+n	cds	no	оптуженог завера ћутања	inclusive
+n	cds	no	paparazzi	inclusive
+n	qas	no	одабрати	conservative
+n	an	no	прицктеасер	conservative
+n	or	no	кромпир	inclusive
+n	qas	no	четкица за мазање	conservative
+n	or	no	Краставац	inclusive
+n	re	no	Мафија	conservative
+n	dmc	yes	ништарија	inclusive
+n	qas	no	парохијанин	inclusive
+n	cds	no	новобогаташа	inclusive
+n	qas	no	станара фармера	inclusive
+n	an	no	anguilliformes	inclusive
+n	re	no	гангстера	inclusive
+n	svp	no	придефулнесс	inclusive
+n	an	no	mallophaga	inclusive
+n	asf	no	будала	conservative
+n	pa	yes	хала портир	inclusive
+n	cds	no	лоансхарк	inclusive
+n	cds	no	несташлук одлука	conservative
+n	qas	no	дивулгенце	inclusive
+n	or	no	цуцурбита макима	inclusive
+n	an	no	она јарац	inclusive
+a	ps	yes	кинески	inclusive
+n	cds	no	арривисте	inclusive
+n	dmc	yes	лопов	conservative
+n	cds	no	омниум-гатхерум	inclusive
+n	cds	no	блооперс	inclusive
+n	an	no	хијене	inclusive
+n	pa	yes	професуре	inclusive
+n	qas	no	Варвар	conservative
+n	cds	no	фундаментализма	inclusive
+n	ddf	yes	онеспособљеност	inclusive
+n	or	no	глупак	conservative
+n	re	no	Злочини	inclusive
+n	asm	no	цхангелингс	inclusive
+n	an	no	мека на додир	conservative
+n	an	no	цимицидае	inclusive
+n	an	no	род пипистреллус	inclusive
+n	svp	no	прождрљивац	conservative
+n	ps	yes	роммани	inclusive
+n	an	no	заједничко вашка	inclusive
+n	an	no	телесних вашки	inclusive
+n	cds	no	прекршај	inclusive
+n	or	no	муттонхеад	conservative
+n	cds	no	варалица	inclusive
+n	qas	no	грешити	inclusive
+n	dmc	yes	варалица	conservative
+n	re	no	Пирати	inclusive
+n	om	no	трансвестити	inclusive
+n	an	no	створење	inclusive
+n	qas	no	реторички	inclusive
+n	ddp	yes	цхангелингс	conservative
+n	an	no	европска жаба	inclusive
+n	qas	no	блундерер	conservative
+n	qas	no	пришипетља	conservative
+n	cds	no	зависник	conservative
+n	pa	yes	варвара	conservative
+n	ddp	yes	лудост	inclusive
+n	cds	no	шаљивџија	conservative
+n	cds	no	кукавица	conservative
+n	pa	yes	професора	inclusive
+a	dmc	yes	запрљаног	inclusive
+n	dmc	yes	прљави пас	inclusive
+n	an	no	цулек пипиенс	inclusive
+n	asm	no	тикван	conservative
+n	cds	no	новинар	inclusive
+n	cds	no	директор	inclusive
+n	cds	no	пандар	conservative
+n	asm	no	pevac	inclusive
+n	cds	no	интриганта	inclusive
+n	cds	no	лоповлук	inclusive
+n	an	no	гнат	inclusive
+n	ddp	yes	Метазоа	inclusive
+n	om	no	вентрални	inclusive
+n	cds	no	цонспирацисм	inclusive
+n	asm	no	фалусни симбол	inclusive
+n	an	no	insect	inclusive
+n	re	no	мучење убиство	inclusive
+n	svp	no	сујете	conservative
+n	svp	no	ароганција	conservative
+n	dmc	yes	неморала	inclusive
+a	is	yes	бедан	inclusive
+n	cds	no	несташко	conservative
+n	an	no	bison bonasus	inclusive
+n	cds	no	кицош	inclusive
+n	asm	no	птеригиопхоре	inclusive
+n	an	no	бестијалност	conservative
+n	is	yes	јадник	inclusive
+n	asf	no	игра карата или домина	conservative
+n	re	no	гранд тхефт	inclusive
+n	ps	yes	Жута раса	conservative
+n	re	no	лоше употреба	inclusive
+n	ps	yes	јудаизам	inclusive
+n	an	no	црви	inclusive
+n	or	no	Дивљи купус	inclusive
+n	dmc	yes	виллаинесс	conservative
+n	cds	no	Фундаменталисти	inclusive
+n	cds	no	лопов	inclusive
+n	asf	no	pička	conservative
+n	cds	no	сводништва	inclusive
+n	cds	no	кључар	inclusive
+n	cds	no	лопова	inclusive
+n	cds	no	шаљивчина	inclusive
+n	dmc	yes	разбојник	conservative
+n	pr	no	Курва	conservative
+n	cds	no	диме новел	inclusive
+n	dmc	yes	негативац	conservative
+n	cds	no	Трачарење	inclusive
+n	dmc	yes	забушант	conservative
+n	re	no	одметник	inclusive
+n	an	no	мољаца	inclusive
+n	om	no	Анални секс	inclusive
+n	an	no	коза животиња	inclusive
+n	pa	yes	саветник-ат-закон	inclusive
+n	an	no	јарца	inclusive
+n	asm	no	бетисе	conservative
+n	pr	no	проституција	inclusive
+n	an	no	доодли-цуцањ	conservative
+n	dmc	yes	морала	inclusive
+n	pr	no	љубавница	conservative
+n	dmc	yes	лажи	inclusive
+n	svp	no	ниггарднесс	conservative
+n	pr	no	раттус норвегицус	inclusive
+n	dmc	yes	изгнаник	inclusive
+n	asm	no	грашка биљка	inclusive
+n	cds	no	куглице-уп	inclusive
+n	asm	no	фава	inclusive
+n	an	no	Јагње	inclusive
+n	is	yes	негативац	conservative
+n	re	no	злоупотребе корпоративне	inclusive
+n	cds	no	злочинац	conservative
+n	or	no	компреса	conservative
+n	an	no	олош	conservative
+n	asm	no	схтуп	conservative
+n	dmc	yes	цхиселлер	conservative
+n	an	no	угор	inclusive
+n	dmc	yes	Варвари	conservative
+n	an	no	стеница	inclusive
+n	pr	no	курва	conservative
+n	asm	no	pisum sativum	inclusive
+n	svp	no	цхеапскате	conservative
+n	re	no	прљави новац	inclusive
+n	cds	no	direktor	inclusive
+n	cds	no	старо гвожђе	inclusive
+n	re	no	силовања	conservative
+n	an	no	цулицидае	inclusive
+n	cds	no	Слободни зидари	inclusive
+n	an	no	амерички буфало	inclusive
+n	an	no	тело снатцхер	inclusive
+n	ddp	yes	блундерер	conservative
+n	an	no	домаћа дупе	inclusive
+n	svp	no	бити снужден	conservative
+n	qas	no	Смјеша	inclusive
+n	dmc	yes	бигот	conservative
+n	ddp	yes	глупа особа	conservative
+n	cds	no	коловођа	inclusive
+n	is	yes	простачки	conservative
+n	qas	no	Тестис	inclusive
+n	an	no	породица ангуиллидае	inclusive
+n	dmc	yes	члан организоване банде	inclusive
+n	pr	no	краве	inclusive
+n	ps	yes	цхангелингс	conservative
+n	ddp	yes	надрилекарство	conservative
+n	an	no	кукувија	inclusive
+n	asm	no	јајашце	inclusive
+n	pr	no	дроља	conservative
+n	re	no	варалица	inclusive
+n	ps	yes	Јевреј	inclusive
+n	an	no	domaće govedo	inclusive
+n	om	no	хомоеротска	inclusive
+n	an	no	poreklo pasa	inclusive
+n	cds	no	улизица	conservative
+n	ddp	yes	ментална ретардација	inclusive
+n	cds	no	шарена будала	inclusive
+n	cds	no	мафије	conservative
+n	ps	yes	црног човека	inclusive
+n	re	no	насиља	inclusive
+n	cds	no	олош и бобтаил	conservative
+n	qas	no	обични	inclusive
+n	cds	no	кредита схаркинг	conservative
+n	an	no	Зубр	inclusive
+n	cds	no	уличне банде	conservative
+n	re	no	ситне крађе	inclusive
+n	rci	yes	варвара	conservative
+n	cds	no	бандита	inclusive
+n	re	no	silovanje	conservative
+n	cds	no	Папарацо	inclusive
+n	qas	no	канцеларијски посао	inclusive
+n	asm	no	лаковерност	conservative
+n	cds	no	гобс	inclusive
+n	ddp	yes	пудден главе	conservative
+n	dmc	yes	онај који прикрива	conservative
+n	cds	no	боокворм	conservative
+n	qas	no	сликар и декоратер	inclusive
+n	ps	yes	монголоидан	conservative
+n	pa	yes	лични столицу	inclusive
+n	an	no	суп	inclusive
+n	cds	no	рука посао	conservative
+n	ps	yes	јеврејској традицији	inclusive
+n	cds	no	урнебес	inclusive
+n	an	no	fiziognomika	inclusive
+n	ps	yes	мешанац	conservative
+n	dmc	yes	скитница	inclusive
+n	ps	yes	Црна	inclusive
+n	an	no	бубашвабама	inclusive
+n	om	no	педер	conservative
+n	an	no	Чагаљ	inclusive
+n	dmc	yes	жгољавац	conservative
+n	cds	no	снивеллер	conservative
+n	cds	no	површности	inclusive
+n	ddp	yes	глуп	conservative
+n	pa	yes	портир	inclusive
+n	pr	no	Куртизана	inclusive
+n	cds	no	пљачкаш барон	inclusive
+n	or	no	брассица олерацеа	inclusive
+n	an	no	велике беле ајкуле	inclusive
+n	an	no	оваца	inclusive
+n	pr	no	норвешка пацов	inclusive
+n	re	no	одлагање	inclusive
+n	cds	no	разбојништво	inclusive
+n	cds	no	народне масе	inclusive
+n	dmc	yes	ситан крадљивац	conservative
+n	dmc	yes	моцарела	inclusive
+n	cds	no	лукавост	conservative
+n	cds	no	брод другог реда	conservative
+n	ps	yes	Бугари	inclusive
+n	qas	no	Барон	inclusive
+n	an	no	уличарка	conservative
+n	ps	yes	латино	inclusive
+n	ps	yes	интерспециес хибрид	inclusive
+n	cds	no	цланн	inclusive
+n	an	no	поквареност	conservative
+n	an	no	bison	inclusive
+n	dmc	yes	врдалама	inclusive
+n	pa	yes	правобранилац	inclusive
+n	pa	yes	редовни професор	inclusive
+n	pr	no	krava	inclusive
+n	cds	no	жиголо	inclusive
+n	asm	no	певац	inclusive
+n	svp	no	инвидиа	inclusive
+n	cds	no	сиромашних рибе	conservative
+n	an	no	vipera berus	inclusive
+n	ddp	yes	варвара	conservative
+n	cds	no	ништарија	conservative
+n	an	no	Бубашваба	inclusive
+n	or	no	глупан	conservative
+n	an	no	болећив	conservative
+n	cds	no	љубитељ	inclusive
+n	om	no	Мужеложништво	inclusive
+n	cds	no	религиозности	inclusive
+n	an	no	комарци	inclusive
+n	ddp	yes	кретен	conservative
+n	re	no	Терориста	conservative
+n	pr	no	воловима	inclusive
+n	an	no	Вулгарност	conservative
+n	re	no	терориста	conservative
+n	cds	no	подводачица	conservative
+n	cds	no	кретен	inclusive
+n	cds	no	egoizam	conservative
+n	asm	no	ванк	conservative
+n	an	no	Морски пас	inclusive
+n	cds	no	проводаџија	inclusive
+n	ps	yes	мелез	conservative
+n	cds	no	Трач	inclusive
+n	cds	no	лоансхаркинг	conservative
+n	an	no	животиња	inclusive
+n	qas	no	парчићи	inclusive
+n	asm	no	глупан	conservative
+n	or	no	пунцтилиоуснесс	inclusive
+n	om	no	цроссдрессинг	inclusive
+n	cds	no	лоша израда	inclusive
+n	pa	yes	Овчар	inclusive
+n	om	no	хомосекуалисм	inclusive
+n	ddp	yes	некомпетентна особа	conservative
+n	svp	no	без рачуна	conservative
+n	an	no	жабе	inclusive
+n	qas	no	смутљивац	conservative
+n	re	no	италијанском мафијом	conservative
+n	cds	no	религиозност	inclusive
+n	an	no	гица	inclusive
+n	qas	no	Смеше	inclusive
+n	cds	no	крађе	inclusive
+n	qas	no	молер и декоратер	inclusive
+n	re	no	плагиарисатион	inclusive
+n	cds	no	омерта	inclusive
+n	cds	no	поводач	inclusive
+n	asm	no	метох	inclusive
+n	re	no	мафијаши	inclusive
+n	asf	no	pizda	conservative
+n	an	no	неинветиван	conservative
+n	dmc	yes	сладострасник	conservative
+n	re	no	Делинквент	inclusive
+n	dmc	yes	нерадник	conservative
+n	qas	no	бумблер	conservative
+n	dmc	yes	нетрпељив	conservative
+n	an	no	микроба	inclusive
+n	ddp	yes	дркаџија	conservative
+n	ddp	yes	идиот	inclusive
+n	re	no	малверзација	inclusive
+n	cds	no	Зеленаш	conservative
+n	re	no	силоватељ	conservative
+n	cds	no	члан организоване банде	inclusive
+n	pr	no	говеда	inclusive
+n	re	no	секира посао	inclusive
+n	cds	no	Слободан зидар	inclusive
+n	cds	no	клана	inclusive
+n	qas	no	Паразитизам	inclusive
+n	pr	no	Краве	inclusive
+n	cds	no	брз један	conservative
+n	is	yes	просјак	inclusive
+n	cds	no	дар-мар	inclusive
+n	dmc	yes	бандитти	inclusive
+n	an	no	муттонхеад	conservative
+n	ddp	yes	цхангелинг	conservative
+n	pr	no	стока	inclusive
+n	cds	no	слепој улици	inclusive
+n	re	no	сицилијанска мафија	conservative
+n	dmc	yes	Моралност	inclusive
+n	svp	no	шкртост	inclusive
+n	an	no	микроб	inclusive
+n	cds	no	мафијаш	conservative
+n	dmc	yes	licemerje	conservative
+n	re	no	секс дело	inclusive
+n	dmc	yes	никоговић	conservative
+n	cds	no	сцравлер	conservative
+n	qas	no	вођење домаћинства	inclusive
+n	cds	no	канализације	inclusive
+n	cds	no	зеленаш	inclusive
+n	an	no	Волови	inclusive
+n	an	no	Свиња	inclusive
+n	cds	no	масонерије	inclusive
+n	ps	yes	пикеи	conservative
+n	pr	no	prostitucija	conservative
+n	an	no	интернет превара	conservative
+n	qas	no	ектопаразита	inclusive
+n	an	no	домаће овце	inclusive
+n	cds	no	јадник	conservative
+n	cds	no	Делинквент	inclusive
+n	cds	no	назад разговор	inclusive
+n	cds	no	дописника	inclusive
+n	cds	no	илегалне активности	inclusive
+n	cds	no	канализацију	inclusive
+n	is	yes	ниским примањима	inclusive
+n	dmc	yes	зла	inclusive
+n	om	no	аборал	inclusive
+n	ps	yes	јеврејске заједнице	inclusive
+n	re	no	тешка крађа	inclusive
+n	an	no	слабић	conservative
+n	cds	no	мистификатор	conservative
+n	or	no	Геј	conservative
+n	ddp	yes	ментални недостатак	inclusive
+n	dmc	yes	нитков	inclusive
+n	an	no	јегуља	inclusive
+n	cds	no	пропагатор	inclusive
+n	cds	no	Слободно зидарство	inclusive
+n	dmc	yes	лоша особа	conservative
+a	svp	no	pohotljiv	conservative
+n	qas	no	Смјеше	inclusive
+n	dmc	yes	симулант	conservative
+n	qas	no	човек који	inclusive
+n	ddp	yes	епифауна	inclusive
+n	qas	no	ратар	inclusive
+n	re	no	неонатициде	inclusive
+n	an	no	птица ноћи	inclusive
+n	an	no	буве	inclusive
+n	om	no	Содомија	inclusive
+n	pa	yes	собар	inclusive
+n	cds	no	свезналица	conservative
+n	ps	yes	монгол	inclusive
+n	cds	no	штребер	conservative
+n	svp	no	непристојне	inclusive
+n	an	no	Домаћа свиња	inclusive
+n	svp	no	гурман	inclusive
+n	cds	no	религиоусисм	inclusive
+n	an	no	породица цроцодилидае	inclusive
+n	an	no	спора особа	conservative
+n	an	no	ваши	inclusive
+n	an	no	випера	inclusive
+n	qas	no	псе	inclusive
+n	an	no	zabe	inclusive
+n	cds	no	укрштањем	inclusive
+n	cds	no	млакоња	conservative
+n	cds	no	блоопер	inclusive
+n	cds	no	дојенче	inclusive
+n	an	no	глупак	conservative
+n	cds	no	цовардлинесс	conservative
+n	cds	no	гунђало	conservative
+n	dmc	yes	Зло	inclusive
+n	an	no	људског тела ваши	inclusive
+n	is	yes	одрпанац	conservative
+n	cds	no	папира пусхер	inclusive
+n	dmc	yes	ленчуга	conservative
+n	cds	no	фундаментализам	inclusive
+n	or	no	Репа	inclusive
+n	cds	no	лине-стрелац	conservative
+n	dmc	yes	Хипокризија	conservative
+n	cds	no	камора	inclusive
+n	an	no	козјег млека	inclusive
+n	qas	no	Конформизам	inclusive
+n	cds	no	лажним идола	inclusive
+n	asm	no	никоговић	conservative
+n	re	no	тероризам	conservative
+n	an	no	цроцодилиан	inclusive
+n	re	no	полицијске злоупотребе	inclusive
+n	pa	yes	академске	inclusive
+n	cds	no	караван пут	inclusive
+n	ps	yes	инкинесс	inclusive
+n	cds	no	мафијаши	conservative
+n	cds	no	кућа проституције	inclusive
+n	om	no	guza	inclusive
+n	cds	no	ситни лопов	inclusive
+n	pa	yes	Варвари	conservative
+n	an	no	кунић	inclusive
+n	qas	no	измамљивач	conservative
+n	re	no	преварант	inclusive
+n	cds	no	бурдељ	inclusive
+n	cds	no	љубомора	inclusive
+n	cds	no	сицилијанска мафија	conservative
+n	an	no	лоша особа	conservative
+n	qas	no	Молер	inclusive
+n	pr	no	гаф	conservative
+n	is	yes	сиромашне	inclusive
+n	re	no	Терорист	conservative
+n	cds	no	носа-паркер	conservative
+n	cds	no	фашизма	conservative
+n	ps	yes	краут	conservative
+n	pr	no	кучка	conservative
+n	dmc	yes	кловн	inclusive
+n	qas	no	ћумез	inclusive
+n	dmc	yes	гит	inclusive
+n	ddf	yes	пола литре	conservative
+n	re	no	сцаммер	inclusive
+n	or	no	мурпхи	inclusive
+n	qas	no	обичних људи	inclusive
+n	asm	no	широко пасуљ биљка	inclusive
+n	pr	no	Курва	inclusive
+n	re	no	Насиље	inclusive
+n	dmc	yes	лоитерер	conservative
+n	dmc	yes	трифлер	conservative
+n	dmc	yes	прикривање	conservative
+n	an	no	коза	inclusive
+n	an	no	бисон бонасус	inclusive
+n	an	no	mikroorganizam	inclusive
+n	ps	yes	Цигани	inclusive
+n	cds	no	camorra	inclusive
+n	svp	no	нерада	inclusive
+n	om	no	прат	inclusive
+n	cds	no	mališan	inclusive
+n	cds	no	боо-боо	inclusive
+n	om	no	трансвестита	inclusive
+n	asm	no	Боб	inclusive
+n	re	no	терористички акт	inclusive
+n	cds	no	навлачи	conservative
+n	an	no	пепперед мољца	inclusive
+n	is	yes	дроња	conservative
+n	cds	no	аутолатри	inclusive
+n	cds	no	муссинесс	conservative
+n	asm	no	Идиот	inclusive
+n	cds	no	кредита схаркинг	inclusive
+n	cds	no	трицкер	conservative
+n	cds	no	воду рибе	inclusive
+n	qas	no	буржоазија	inclusive
+n	an	no	jejina	inclusive
+n	qas	no	дивулгемент	inclusive
+n	cds	no	бацкталк	inclusive
+n	an	no	простачки	conservative
+n	pa	yes	свињски месар	inclusive
+n	re	no	terorizam	inclusive
+n	an	no	Белоглави суп	inclusive
+n	asm	no	идиот	inclusive
+n	cds	no	деликт	inclusive
+n	an	no	Папагај	inclusive
+n	ps	yes	црнац	conservative
+n	an	no	зеке	inclusive
+n	cds	no	криминалне активности	inclusive
+n	asm	no	ptica	inclusive
+n	cds	no	копиле	conservative
+n	an	no	шакали	inclusive
+n	pa	yes	Варвар	conservative
+n	an	no	ануран	inclusive
+n	re	no	прекршај	inclusive
+n	qas	no	Говорништво	inclusive
+n	an	no	Пијавица	inclusive
+n	is	yes	тврдица	conservative
+n	an	no	hyaenidae	inclusive
+n	cds	no	идиолатри	inclusive
+n	pa	yes	Дипломатски рангови Руске Федерације	inclusive
+n	asm	no	ролл у сену	conservative
+n	an	no	komarac	inclusive
+n	an	no	kuče	inclusive
+n	ddp	yes	animalia	inclusive
+n	cds	no	побркати	inclusive
+n	cds	no	полицајац	inclusive
+n	cds	no	Варвари	conservative
+n	qas	no	грађанин људи	inclusive
+n	svp	no	неактивност	inclusive
+a	svp	no	љут	inclusive
+n	an	no	Говедо	inclusive
+n	cds	no	кмет	inclusive
+n	an	no	аљкавац	conservative
+n	cds	no	много	inclusive
+n	cds	no	зајмодавац	inclusive
+n	cds	no	гит	conservative
+n	ddf	yes	инвалидитетом мобилности ампутирци	inclusive
+n	an	no	зеца	inclusive
+n	qas	no	класичне реторике	inclusive
+n	cds	no	особа која испашта туђе грешке	conservative
+n	cds	no	стара кола	inclusive
+n	re	no	цхиселлер	inclusive
+n	cds	no	неистина	conservative
+n	cds	no	цулл	conservative
+n	cds	no	малишан	inclusive
+n	an	no	Кокошке	inclusive
+n	an	no	јестиво пуж	inclusive
+n	om	no	Драг шоу	inclusive
+n	cds	no	шепртља	conservative
+n	qas	no	пословни магнат	inclusive
+n	pa	yes	zaposlenik	inclusive
+n	qas	no	ацолитес	inclusive
+n	cds	no	пиллоцк	conservative
+n	om	no	Хомосексуалци	inclusive
+n	dmc	yes	малолетни деликвент	conservative
+n	an	no	блаттодеа	inclusive
+n	om	no	кошута крај	inclusive
+n	svp	no	ровокопач	conservative
+n	re	no	Терористи	inclusive
+n	cds	no	трасформисмо	inclusive
+n	ps	yes	Бугарин	inclusive
+n	re	no	пирата	inclusive
+n	pa	yes	канцеларијски радник	inclusive
+n	dmc	yes	јак смрад	conservative
+n	cds	no	Демагогија	conservative
+n	qas	no	амерички бизнисмен	inclusive
+n	cds	no	непристојан кућу	inclusive
+n	asm	no	грашка	inclusive
+n	cds	no	гласови	inclusive
+n	asf	no	муттонхеад	conservative
+n	cds	no	дендија	inclusive
+n	qas	no	магационер	inclusive
+n	re	no	сексуално злостављање	inclusive
+n	or	no	педер	conservative
+n	cds	no	лењивац	conservative
+n	svp	no	танха	inclusive
+n	pr	no	хетаира	inclusive
+n	an	no	арктичка дивља гуска	inclusive
+n	an	no	епифаунал	inclusive
+n	om	no	цроссдрессер	inclusive
+n	svp	no	сексуална жеља	inclusive
+n	cds	no	подмитљивост	conservative
+n	asm	no	доофус	conservative
+n	qas	no	Каста	inclusive
+n	svp	no	неспретњаковић	conservative
+n	an	no	Креветна стеница	inclusive
+n	an	no	хирудинеа	inclusive
+n	ddp	yes	оштећења мозга	inclusive
+n	pa	yes	истакнути професор	inclusive
+n	ddp	yes	моронити	inclusive
+n	or	no	тестија	inclusive
+n	cds	no	браггер	conservative
+n	an	no	зец	inclusive
+n	om	no	Хомосексуализам	inclusive
+n	or	no	бонце	inclusive
+n	cds	no	глупа особа	conservative
+n	cds	no	дефраудер	conservative
+n	an	no	Жаба	inclusive
+n	ddp	yes	глупан	conservative
+n	pa	yes	Обућарство	inclusive
+n	qas	no	колиби	inclusive
+n	ddp	yes	фероциоуснесс	conservative
+n	an	no	цроцодилидае	inclusive
+n	cds	no	теорије завере	inclusive
+n	an	no	пхилум моллусца	inclusive
+n	om	no	позади	inclusive
+n	dmc	yes	хомунцули	inclusive
+n	or	no	купус	inclusive
+n	pa	yes	адвокат	inclusive
+n	cds	no	јавни тоалети	inclusive
+n	asf	no	фолдерол	conservative
+n	cds	no	лукавост	inclusive
+n	cds	no	оптерећења	inclusive
+n	svp	no	лаиабоут	conservative
+n	an	no	глиста	inclusive
+n	ps	yes	беду	inclusive
+n	an	no	диддлисхит	conservative
+n	qas	no	себар	inclusive
+n	re	no	Плагијат	inclusive
+n	cds	no	ванбрачан	inclusive
+n	om	no	госпођо	inclusive
+n	asf	no	кретен	conservative
+n	an	no	кукумавка	inclusive
+n	cds	no	пут агент	conservative
+n	cds	no	paparazzo	inclusive
+n	cds	no	велика количина	inclusive
+n	an	no	мала животиња	inclusive
+n	dmc	yes	фиббер	conservative
+n	svp	no	узалудност	conservative
+n	ddp	yes	Метазое	inclusive
+n	ddp	yes	идиотизам	inclusive
+n	pr	no	девојчура	conservative
+n	ddp	yes	блаббермоутх	conservative
+n	dmc	yes	лажов	conservative
+n	ddp	yes	унвисенесс	inclusive
+n	cds	no	фашистичког режима	conservative
+n	svp	no	похлепност	inclusive
+n	re	no	уцена	conservative
+n	an	no	цанис лупус фамилиарис	inclusive
+n	re	no	krađa	inclusive
+n	re	no	акт тероризма	conservative
+n	an	no	њушку	inclusive
+n	asm	no	кретен	inclusive
+n	dmc	yes	дилли-даллиер	conservative
+n	cds	no	проблем	conservative
+n	an	no	овис ован	inclusive
+n	cds	no	чврстог отпада	inclusive
+n	cds	no	нимфоманија	conservative
+n	cds	no	грешка-уп	inclusive
+n	re	no	мафије	conservative
+n	om	no	драг краљица	inclusive
+n	ddp	yes	фолдерол	conservative
+n	is	yes	има-не	inclusive
+n	cds	no	заход	inclusive
+n	cds	no	клозет	inclusive
+n	cds	no	хаос	inclusive
+n	re	no	делинквент	conservative
+n	ps	yes	грубијан	conservative
+n	dmc	yes	простачки	conservative
+n	qas	no	привредник	inclusive
+n	asm	no	тестиси	inclusive
+n	cds	no	хомунцулус	inclusive
+n	re	no	Терористи	conservative
+n	an	no	цаиман	inclusive
+n	re	no	клевета	inclusive
+n	is	yes	изгнаник	inclusive
+n	pr	no	проституција	conservative
+n	asm	no	особа која испашта туђе грешке	conservative
+n	an	no	подред блаттариа	inclusive
+n	an	no	Јегуља	inclusive
+n	qas	no	тежина појас	inclusive
+n	re	no	битанга	conservative
+n	cds	no	баллуп	inclusive
+n	cds	no	Фундаментализам	inclusive
+n	qas	no	варвара	conservative
+n	cds	no	цроонерс	inclusive
+n	qas	no	индустријалаца	inclusive
+n	an	no	бубашваба	inclusive
+n	asf	no	кнуцклехеад	conservative
+n	dmc	yes	лаиабоут	conservative
+n	an	no	ануранс	inclusive
+n	om	no	анални однос	inclusive
+n	om	no	кросдресер	inclusive
+n	asf	no	простак	conservative
+n	dmc	yes	бумблер	conservative
+n	cds	no	цхангелингс	inclusive
+n	an	no	сцорпионфисх	inclusive
+n	qas	no	блоодхоунд	inclusive
+n	cds	no	подмитљиви	inclusive
+n	cds	no	ловлифе	conservative
+n	dmc	yes	сељачина	conservative
+n	ddp	yes	пиллоцк	conservative
+n	cds	no	чврстог отпада	conservative
+n	ddp	yes	бумблер	conservative
+n	pr	no	Пацов	inclusive
+n	qas	no	лоша израда	inclusive
+n	ddp	yes	животиња	inclusive
+n	an	no	Хијене	inclusive
+a	is	yes	siromašan	inclusive
+n	ddp	yes	варалица	conservative
+n	asm	no	Ерекција	inclusive
+n	asm	no	мека на додир	conservative
+n	pr	no	Жиголо	inclusive
+n	an	no	мушица	inclusive
+n	cds	no	лоповски	inclusive
+n	cds	no	реакционарски	conservative
+n	om	no	задњица	inclusive
+n	qas	no	тестиси	inclusive
+n	or	no	пудден главе	conservative
+n	cds	no	детенце	inclusive
+n	pa	yes	Дипломатические ранги Российской федерации	inclusive
+n	ps	yes	метицс	inclusive
+n	cds	no	фалсификатор	conservative
+n	asm	no	простак	conservative
+n	cds	no	базен навлачи	conservative
+n	svp	no	прождрљивац	inclusive
+n	an	no	Шакал	inclusive
+n	an	no	прислушни уређај	inclusive
+a	qas	no	средње класе	inclusive
+n	re	no	разбојник	conservative
+n	an	no	евроазијска белоглави	inclusive
+n	cds	no	породица линија	inclusive
+n	an	no	Кукумавка	inclusive
+n	re	no	стицкуп	inclusive
+n	an	no	профитер	conservative
+n	re	no	Гусарење	inclusive
+n	cds	no	самовољност	conservative
+n	cds	no	папарацо	inclusive
+n	cds	no	болећив	conservative
+n	an	no	неспособан	conservative
+n	cds	no	матцхер	inclusive
+n	ddp	yes	Царство Животиња	inclusive

@@ -1,0 +1,5904 @@
+pos	category	stereotype	lemma	level
+n	an	no	phryne	inclusive
+n	om	no	hop	conservative
+n	ddf	yes	handicap	inclusive
+n	re	no	acte de terrorisme	inclusive
+n	qas	no	grandiosité	inclusive
+n	dmc	yes	mensonge blanc	inclusive
+n	an	no	chouette rayée	inclusive
+n	cds	no	déchet d'emballage	inclusive
+a	dmc	yes	infâme	conservative
+n	re	no	activité criminelle	inclusive
+a	asm	no	brunâtre	inclusive
+n	cds	no	le mat	inclusive
+n	om	no	homosexuels	inclusive
+n	an	no	lampiste	conservative
+n	or	no	andouille	conservative
+a	qas	no	pauvre	conservative
+n	dmc	yes	dilly-dallier	conservative
+n	cds	no	pauvre diable	conservative
+n	om	no	fenouil commun	inclusive
+n	cds	no	nazi	conservative
+n	cds	no	pote	inclusive
+n	an	no	lapereau	inclusive
+n	svp	no	tṛṣna	inclusive
+a	dmc	yes	frauduleux	conservative
+n	cds	no	francs-maçons	inclusive
+n	an	no	squale	inclusive
+n	cds	no	courtage en travaux	inclusive
+n	asm	no	anglais haricot	inclusive
+n	pa	yes	pyronia tithonus	inclusive
+n	cds	no	gens du commun	conservative
+n	an	no	poule	conservative
+n	cds	no	scientisme religieux	inclusive
+n	svp	no	futilité	conservative
+n	an	no	animalculum	inclusive
+n	pr	no	nana	inclusive
+n	an	no	culex pipiens	inclusive
+n	cds	no	malfrat	conservative
+a	cds	no	arrogante	conservative
+n	dmc	yes	menteur	conservative
+n	dmc	yes	interdire	inclusive
+n	ps	yes	religion juive	inclusive
+n	or	no	chou pommé hâtif	inclusive
+a	cds	no	incivil	conservative
+n	an	no	talon	conservative
+n	om	no	pénétration anale	inclusive
+n	re	no	agresser	inclusive
+n	cds	no	mess-up	inclusive
+a	cds	no	stupide	conservative
+n	svp	no	vantardise	conservative
+n	qas	no	société bourgeoise contemporaine	inclusive
+n	qas	no	peinture en bâtiment	inclusive
+n	cds	no	scads	inclusive
+n	an	no	coquin	conservative
+n	ddp	yes	twirp	conservative
+n	om	no	homosexualite	inclusive
+n	cds	no	volume	inclusive
+n	an	no	aries	inclusive
+n	cds	no	rustler	inclusive
+a	cds	no	pauvre	conservative
+v	re	no	entourloupe	inclusive
+n	re	no	dénigrement	conservative
+n	an	no	rana rubeta	inclusive
+n	om	no	bougrerie	inclusive
+n	ddp	yes	handicapés mentaux	inclusive
+n	cds	no	sigisbée	inclusive
+n	cds	no	fausse idole	inclusive
+n	pa	yes	barbare	conservative
+n	re	no	hold-up	inclusive
+n	dmc	yes	falsification	inclusive
+n	an	no	bufo cinereus var. medius	inclusive
+n	pr	no	heterocera	inclusive
+n	ddp	yes	déficience intellectuelle	inclusive
+n	ps	yes	melanoderme	inclusive
+n	cds	no	correspondant de presse	inclusive
+n	or	no	connichon	conservative
+n	is	yes	lésineur	conservative
+n	pa	yes	sauvage	conservative
+n	cds	no	groupe de parenté	inclusive
+n	qas	no	starlette	inclusive
+n	pa	yes	bâtard	conservative
+n	cds	no	scores	inclusive
+n	pa	yes	rustaud	conservative
+n	or	no	sativus	inclusive
+n	an	no	mouilek	inclusive
+a	re	no	rouge	conservative
+n	an	no	gouffre	inclusive
+n	an	no	prostitué	conservative
+n	pr	no	papillon de nuit	inclusive
+n	re	no	bandit	inclusive
+n	ps	yes	haltère	conservative
+n	ddp	yes	bêta	inclusive
+n	asm	no	aviaire	inclusive
+n	is	yes	mendiant	conservative
+n	an	no	organisme animal	inclusive
+a	ddf	yes	mal-voyante	inclusive
+n	qas	no	resquilleur	conservative
+n	cds	no	bellâtre	inclusive
+n	cds	no	masse	inclusive
+n	cds	no	chien de race mixte	inclusive
+n	cds	no	theorie du complot	inclusive
+n	an	no	face	inclusive
+n	cds	no	hors-la-loi	conservative
+n	pa	yes	poissonnier	inclusive
+n	cds	no	schoolma'am	conservative
+n	qas	no	bourgeoisie capitaliste	inclusive
+n	pr	no	maîtresse	conservative
+n	cds	no	canalisation	inclusive
+n	cds	no	beaucoup	inclusive
+n	cds	no	retard	inclusive
+a	cds	no	égocentriste	conservative
+n	qas	no	abattage	conservative
+n	an	no	branta bernicla	inclusive
+n	an	no	old world buffle	inclusive
+n	qas	no	bêtisier	inclusive
+n	cds	no	demi-pinte	conservative
+n	qas	no	rhéteur	inclusive
+n	dmc	yes	scattergood	inclusive
+n	ps	yes	sauvage	inclusive
+n	or	no	connerie	conservative
+n	an	no	ampoule de lorenzini	inclusive
+n	asm	no	couillon	conservative
+n	ps	yes	hébreu	inclusive
+n	cds	no	réactionnaires	conservative
+n	an	no	culicidae	inclusive
+n	an	no	blattaria	inclusive
+n	svp	no	lasciveté	inclusive
+n	cds	no	mystificateur	conservative
+n	cds	no	bungle	inclusive
+n	om	no	uraniste	inclusive
+n	asm	no	buse	conservative
+n	or	no	muttonheads	conservative
+n	dmc	yes	fripouille	conservative
+n	ps	yes	manouche	conservative
+a	is	yes	étroit	conservative
+n	an	no	sucer pou	inclusive
+n	cds	no	bosser	conservative
+n	cds	no	extrémiste religieux	inclusive
+a	svp	no	altier	conservative
+n	dmc	yes	sans-abri	inclusive
+n	qas	no	incapable	conservative
+n	an	no	aurochs	inclusive
+n	svp	no	abattement	conservative
+n	svp	no	aboulie	inclusive
+n	svp	no	lascive	inclusive
+n	an	no	bos taurus	inclusive
+n	om	no	séant	inclusive
+n	om	no	ventrolatérale	inclusive
+n	ps	yes	condition noire	inclusive
+n	or	no	cancre	conservative
+n	re	no	valet	conservative
+n	svp	no	lésineur	conservative
+n	qas	no	idéologie	inclusive
+a	cds	no	vénal	conservative
+n	asm	no	fada	conservative
+n	cds	no	mafia italienne	conservative
+n	qas	no	trou	inclusive
+n	cds	no	meute	conservative
+n	re	no	chantage	conservative
+n	re	no	butin	inclusive
+n	cds	no	claniques	inclusive
+n	asm	no	couilles	inclusive
+n	cds	no	ultraconservateur	conservative
+n	an	no	limacidé	inclusive
+n	svp	no	le désir sexuel	inclusive
+n	re	no	délit pénal en france	inclusive
+n	pr	no	mus decumanus	inclusive
+n	dmc	yes	gredin	conservative
+n	is	yes	méchant	conservative
+n	cds	no	cancan	inclusive
+n	svp	no	lenteur	inclusive
+n	qas	no	caste	inclusive
+n	qas	no	bousilleur	conservative
+n	cds	no	maison de tolérance	inclusive
+n	om	no	ventrale	inclusive
+n	cds	no	badaude	conservative
+n	cds	no	hybris	conservative
+n	re	no	voleur	conservative
+n	ps	yes	judaïsme	inclusive
+n	om	no	tarlouze	inclusive
+n	ddp	yes	fou	conservative
+n	an	no	escargot de bourgogne	inclusive
+n	cds	no	culture des gangs	inclusive
+n	dmc	yes	mozarelle	inclusive
+n	re	no	homicide détective	inclusive
+n	ddp	yes	haltère	conservative
+n	svp	no	grigou	inclusive
+n	cds	no	wimps	conservative
+n	re	no	hors la loi	inclusive
+n	cds	no	fou	conservative
+n	cds	no	usuriers	inclusive
+a	is	yes	misérable	conservative
+n	svp	no	soif de richesse	inclusive
+n	cds	no	ostentation	conservative
+a	is	yes	avaricieux	conservative
+n	cds	no	charlatan	conservative
+n	re	no	force	inclusive
+a	ddf	yes	abject	conservative
+n	svp	no	indifférence	inclusive
+n	an	no	vaches	inclusive
+n	an	no	mollusque	inclusive
+n	dmc	yes	moralement	inclusive
+n	an	no	hirudinées	inclusive
+n	ps	yes	monohybrides	inclusive
+a	dmc	yes	puant	conservative
+n	cds	no	ravisseur	conservative
+n	qas	no	tabi'in	inclusive
+n	cds	no	enseignants	inclusive
+n	asm	no	pénis	conservative
+n	asf	no	fille	conservative
+n	svp	no	faignant	inclusive
+n	ps	yes	pelle	conservative
+a	svp	no	hargneux	conservative
+n	is	yes	avaricieux	conservative
+n	ddp	yes	knucklehead	conservative
+n	qas	no	personne commune	inclusive
+n	asm	no	bollocks	inclusive
+n	cds	no	désespérée criminelle	inclusive
+n	qas	no	jument nid	inclusive
+n	re	no	calomnie	inclusive
+n	cds	no	démarcheur	inclusive
+n	dmc	yes	sauvage	conservative
+n	is	yes	moi	conservative
+n	cds	no	eaux d'égout	inclusive
+n	rci	yes	brute	conservative
+a	svp	no	rapace	inclusive
+n	cds	no	courtiers	inclusive
+n	cds	no	franc-maconnerie	inclusive
+n	cds	no	fraudeur	inclusive
+a	ps	yes	nègre	inclusive
+n	cds	no	rock grunge	inclusive
+n	an	no	crapauds	inclusive
+n	or	no	con	conservative
+n	asm	no	cruche	conservative
+n	cds	no	fourberie	conservative
+n	qas	no	tourbillon	inclusive
+n	asm	no	conne	conservative
+n	an	no	pourceaux	inclusive
+n	ddp	yes	tête boudin	conservative
+n	om	no	sexualité anale	inclusive
+a	om	no	différent	inclusive
+v	cds	no	contenter	inclusive
+a	an	no	radin	conservative
+n	dmc	yes	vaurien	conservative
+n	pa	yes	caporaux	inclusive
+a	cds	no	retors	conservative
+n	qas	no	bourde	inclusive
+n	an	no	euryptéridés	inclusive
+n	an	no	bufo palmarum	inclusive
+a	ddp	yes	crédule	conservative
+n	ps	yes	crétin	conservative
+a	dmc	yes	fatal	conservative
+n	an	no	biquette	inclusive
+n	an	no	poulets	inclusive
+n	cds	no	console	conservative
+n	an	no	phtiraptères	inclusive
+n	ddp	yes	lesion cerebrale	inclusive
+n	an	no	chienchien	inclusive
+n	cds	no	délit pénal	inclusive
+n	svp	no	lubricité	inclusive
+n	is	yes	have-not	inclusive
+n	an	no	roulure	conservative
+a	ddp	yes	imbécile	conservative
+n	cds	no	hall	inclusive
+n	an	no	germe	inclusive
+n	an	no	âne domestique	inclusive
+n	svp	no	trancheuse	conservative
+n	cds	no	proxenetisme	conservative
+n	or	no	conin	conservative
+n	cds	no	slews	inclusive
+a	ddp	yes	bêta	conservative
+n	cds	no	marchand de ragots	conservative
+n	om	no	inverti	inclusive
+n	qas	no	ouvrier agricole	inclusive
+a	svp	no	ronchon	conservative
+n	re	no	extorsion de fonds	inclusive
+n	qas	no	vide poche	inclusive
+n	cds	no	superbia	conservative
+n	an	no	faune mammalienne	inclusive
+n	cds	no	ferraille	inclusive
+n	ddp	yes	tête de nœud	conservative
+n	svp	no	gorger	conservative
+n	svp	no	obscènes	inclusive
+n	cds	no	intégrisme	inclusive
+n	ddp	yes	rapporteur	conservative
+n	cds	no	maîtresse	conservative
+n	svp	no	ladrerie	inclusive
+n	cds	no	homoncule	inclusive
+n	svp	no	Éros	inclusive
+n	pr	no	services sexuels	conservative
+n	om	no	travestissement	inclusive
+n	cds	no	arlequin	inclusive
+n	svp	no	gastronome	conservative
+n	cds	no	enfant de l'amour	inclusive
+n	an	no	porcelet	inclusive
+n	cds	no	salle de bain	inclusive
+n	asm	no	sot	inclusive
+n	cds	no	usure	conservative
+n	cds	no	diable	conservative
+n	pa	yes	partisan	inclusive
+n	cds	no	pédantisme	inclusive
+n	cds	no	boucher	conservative
+n	dmc	yes	bouffon du roi	inclusive
+n	qas	no	trader	inclusive
+n	dmc	yes	tire-au-flanc	conservative
+n	cds	no	fawner	conservative
+n	cds	no	bordel	inclusive
+n	cds	no	moraliser	inclusive
+n	pa	yes	commis réservation	inclusive
+a	ddp	yes	incapable	conservative
+n	ddp	yes	bûche	conservative
+av	an	no	bêtement	conservative
+n	pr	no	partenaire	inclusive
+n	an	no	de bric et de broc	conservative
+n	om	no	shirtlifter	inclusive
+n	cds	no	acte criminel	inclusive
+n	om	no	sexe anal	inclusive
+n	an	no	foutriquet	conservative
+n	ddp	yes	loup	conservative
+n	cds	no	piété	inclusive
+a	dmc	yes	malodorant	conservative
+n	cds	no	clans	inclusive
+n	re	no	mafia	conservative
+n	svp	no	sans compte	conservative
+a	cds	no	malin	inclusive
+n	an	no	caïman	inclusive
+n	cds	no	théoricien de la conspiration	inclusive
+n	re	no	crime	inclusive
+n	an	no	gros lard	conservative
+n	om	no	fenouil sauvage	inclusive
+n	re	no	diffamatoires	inclusive
+n	an	no	lignes latérales	inclusive
+n	asf	no	anthony simon	conservative
+n	an	no	renarde	inclusive
+n	cds	no	mouette	conservative
+n	cds	no	leader	inclusive
+n	an	no	gyps fulvus	inclusive
+n	an	no	cousin commun	inclusive
+n	pr	no	grue	conservative
+n	pr	no	escorte masculine	conservative
+n	cds	no	topsy-turvyness	inclusive
+n	cds	no	gésir	inclusive
+n	cds	no	courtier	inclusive
+n	pr	no	vache	inclusive
+n	an	no	brant	inclusive
+n	re	no	pirates	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	ddp	yes	retarder	inclusive
+n	ps	yes	retard	conservative
+n	an	no	rhinaspis	inclusive
+n	ddp	yes	bête	inclusive
+n	om	no	homophile	conservative
+n	svp	no	goinfre	conservative
+n	cds	no	fanatisme protestant	conservative
+n	re	no	extorsion	inclusive
+n	dmc	yes	coquin	conservative
+n	cds	no	toilettes publiques	inclusive
+a	dmc	yes	indécent	conservative
+n	qas	no	paysannes	inclusive
+n	re	no	meurtre au troisième degré	inclusive
+n	an	no	u*u	inclusive
+n	svp	no	spiritlessness	inclusive
+n	an	no	gigantostraca	inclusive
+n	asm	no	vicia faba	inclusive
+n	ddp	yes	retard psychomoteur	inclusive
+n	dmc	yes	moralité	inclusive
+n	ddf	yes	demi-pinte	conservative
+n	cds	no	camper	inclusive
+n	pa	yes	universitaires	inclusive
+n	an	no	hyanidae	inclusive
+n	cds	no	brigand	conservative
+n	om	no	homoérotisme	inclusive
+n	om	no	sodomite	inclusive
+a	om	no	anomal	inclusive
+n	cds	no	enculé	conservative
+n	qas	no	faux pas	inclusive
+n	an	no	mesocoronis	inclusive
+a	dmc	yes	maquillé	conservative
+n	cds	no	délinquants	inclusive
+n	cds	no	interdire	inclusive
+n	asf	no	connin	conservative
+a	svp	no	irascible	conservative
+n	ddp	yes	abruti	inclusive
+n	pa	yes	greffier	inclusive
+n	an	no	être	inclusive
+n	om	no	fif	inclusive
+n	ps	yes	personne de race noire	inclusive
+n	cds	no	mélimélo	inclusive
+n	or	no	stupide	conservative
+n	or	no	fighe	conservative
+n	ddp	yes	gaffeur	conservative
+n	qas	no	trouble-fête	conservative
+n	pa	yes	homme politique	conservative
+n	dmc	yes	mensonge	inclusive
+n	cds	no	attardé	inclusive
+n	an	no	fureur	conservative
+n	cds	no	type	inclusive
+n	or	no	ducon	conservative
+a	qas	no	sentimental	conservative
+n	ps	yes	roms	inclusive
+n	cds	no	intolérant	conservative
+n	asm	no	flouter	conservative
+n	an	no	know nothing	conservative
+v	qas	no	enquiquiner	conservative
+n	qas	no	bourgeoisie conservatrice	inclusive
+n	cds	no	kamarilla	inclusive
+n	qas	no	chien de saint-hubert	inclusive
+a	is	yes	prématuré	inclusive
+v	qas	no	flaque	conservative
+n	asf	no	dupe	conservative
+n	cds	no	bêta	inclusive
+n	cds	no	franc-maçons	inclusive
+n	ps	yes	mouette	conservative
+n	cds	no	truchement	inclusive
+n	an	no	bourrique	conservative
+n	cds	no	inflation	inclusive
+n	cds	no	mussiness	conservative
+n	an	no	dupe	conservative
+n	an	no	anguilles d'eau douce	inclusive
+a	ddf	yes	décevante	conservative
+n	cds	no	scab	inclusive
+n	ps	yes	dihybridisme	inclusive
+n	asm	no	brun foncé	inclusive
+n	svp	no	glouton	conservative
+n	cds	no	voyou	conservative
+n	an	no	tombeur	conservative
+n	an	no	bison des bois	inclusive
+n	asm	no	bête	inclusive
+n	om	no	rapport anal	inclusive
+n	re	no	torturer	inclusive
+n	svp	no	gastronome	inclusive
+n	an	no	diddly-shit	conservative
+n	cds	no	bande	conservative
+n	an	no	hyène	inclusive
+n	qas	no	vagabonde	conservative
+n	ddp	yes	zoobionte	inclusive
+n	dmc	yes	qui tergiverse	conservative
+n	cds	no	criminel	inclusive
+a	ddp	yes	idiot	conservative
+n	an	no	euryptéridé	inclusive
+n	cds	no	quérulent	conservative
+n	re	no	gangster	inclusive
+n	qas	no	déchet domestique	inclusive
+n	ps	yes	néné	conservative
+n	cds	no	fachisme	conservative
+v	cds	no	cancan	inclusive
+n	an	no	pigeon	conservative
+n	dmc	yes	qui tergiverse	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	svp	no	limace	conservative
+n	cds	no	rumormonger	conservative
+n	cds	no	couille molle	conservative
+n	svp	no	paresseux	inclusive
+n	cds	no	faction	inclusive
+n	an	no	mangeur d'homme	inclusive
+n	dmc	yes	impostrice	conservative
+n	an	no	barred owl	inclusive
+n	dmc	yes	méchant tragique	conservative
+n	an	no	sangsues	inclusive
+n	ps	yes	ravageur	conservative
+n	om	no	contre-robe	inclusive
+n	svp	no	grippe-sou	inclusive
+n	pr	no	catin	inclusive
+n	an	no	little owl	inclusive
+n	cds	no	primate	inclusive
+n	cds	no	étendoir	inclusive
+n	an	no	bufo commutatus	inclusive
+n	asm	no	idiot	conservative
+n	asm	no	con	conservative
+n	dmc	yes	grossier	conservative
+n	ps	yes	comitatif	inclusive
+n	is	yes	ismaël	inclusive
+n	an	no	acanthobdelliformes	inclusive
+n	an	no	familiaris	inclusive
+n	dmc	yes	hors la loi	inclusive
+n	cds	no	maton	inclusive
+n	asm	no	morceau d'âne	conservative
+n	asm	no	queue	conservative
+n	ddp	yes	changeling	inclusive
+n	qas	no	pignouf	conservative
+n	ps	yes	judaïque	inclusive
+n	ddp	yes	nullard	conservative
+n	re	no	debaucher	conservative
+n	an	no	oiseau de nuit	inclusive
+n	qas	no	lest	inclusive
+n	an	no	flemmard	conservative
+n	asm	no	idiote	inclusive
+n	cds	no	shylock	inclusive
+n	cds	no	offre	inclusive
+n	dmc	yes	dissimulation	conservative
+n	cds	no	paresseux	conservative
+n	qas	no	mensonginet	conservative
+n	cds	no	bande criminelle	conservative
+n	cds	no	fouiner	conservative
+n	qas	no	tagalong	conservative
+a	cds	no	rusé	conservative
+n	dmc	yes	sac de racaille	inclusive
+v	cds	no	trépasser	inclusive
+n	an	no	reproduction animale	inclusive
+a	dmc	yes	jeûner	conservative
+n	qas	no	taudis	inclusive
+n	an	no	oies	inclusive
+n	asm	no	bite	conservative
+n	pa	yes	amaryllis	inclusive
+n	cds	no	scotophinus	inclusive
+n	an	no	insectes	inclusive
+n	cds	no	sneak thief	conservative
+n	cds	no	banditisme	inclusive
+n	an	no	ladre	conservative
+n	re	no	viols	conservative
+n	ddp	yes	barbare	conservative
+n	an	no	roncin	inclusive
+n	an	no	bourricot	inclusive
+n	ddp	yes	con	conservative
+n	dmc	yes	mozzarella	inclusive
+n	an	no	chipie	conservative
+n	re	no	voleur armé	inclusive
+n	svp	no	dillydallier	conservative
+n	asm	no	connard	inclusive
+n	ddp	yes	voyou	conservative
+n	ps	yes	métèques	inclusive
+n	pa	yes	prof	inclusive
+n	cds	no	rejet	conservative
+n	ps	yes	bougnoule	conservative
+n	asm	no	jerk-off	conservative
+n	svp	no	fainéante	conservative
+n	cds	no	clé en main	inclusive
+n	ddf	yes	personne à mobilité réduite	inclusive
+n	cds	no	bousiller	inclusive
+a	svp	no	furieux	inclusive
+a	svp	no	envieux	conservative
+n	ddp	yes	déficient intellectuel	inclusive
+n	re	no	diffamatoire	inclusive
+n	cds	no	prostitué	inclusive
+n	asm	no	selle	conservative
+n	cds	no	métisser	inclusive
+n	cds	no	fasciste	conservative
+a	om	no	homosexuel	conservative
+n	cds	no	emmerde	conservative
+n	or	no	benêt	conservative
+n	asm	no	marron pourpré	inclusive
+n	an	no	vaches laitières	inclusive
+n	cds	no	bégueule	conservative
+n	cds	no	déchet métallique	inclusive
+n	or	no	la courge	inclusive
+n	dmc	yes	traître	conservative
+n	cds	no	néonatale	inclusive
+n	cds	no	trou	inclusive
+n	cds	no	délinquant	conservative
+n	dmc	yes	renégat	conservative
+n	or	no	dunce	conservative
+n	dmc	yes	motley fool	inclusive
+n	an	no	hyénidé	inclusive
+n	pa	yes	mandataire	inclusive
+n	pr	no	pute	inclusive
+n	svp	no	gula	inclusive
+n	asm	no	néné	conservative
+n	dmc	yes	passer le tout	inclusive
+n	an	no	platosphus	inclusive
+n	qas	no	gésir	conservative
+a	cds	no	redoutable	conservative
+n	an	no	canis familiaris	inclusive
+n	dmc	yes	tricheur	conservative
+a	is	yes	chagrin	inclusive
+n	om	no	pédé	inclusive
+n	cds	no	dandys	inclusive
+n	cds	no	égoïste	conservative
+v	qas	no	enculer	conservative
+v	re	no	escroquer	inclusive
+n	cds	no	couillon	inclusive
+n	cds	no	mensonginet	inclusive
+n	asm	no	pois	inclusive
+n	cds	no	culture sélective des plantes	inclusive
+n	ddp	yes	zooerastia	conservative
+n	qas	no	paysannerie	inclusive
+n	ddp	yes	folie	inclusive
+n	an	no	caprine	inclusive
+n	cds	no	personne négligée	conservative
+n	cds	no	cercle	conservative
+n	re	no	torture scientifique	inclusive
+n	svp	no	écœurement	inclusive
+n	or	no	gai	conservative
+n	an	no	diddly	conservative
+n	ddp	yes	racaille	conservative
+n	qas	no	peintre en bâtiment	inclusive
+n	re	no	fripouille	inclusive
+n	cds	no	embouchure	inclusive
+n	pr	no	courtisans	inclusive
+n	is	yes	pingrerie	conservative
+n	cds	no	poire	conservative
+n	ps	yes	hybride interspécifique	inclusive
+n	an	no	mites	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	qas	no	mélanger	inclusive
+n	an	no	niais	conservative
+n	an	no	oie sauvage	inclusive
+n	is	yes	faible revenu	inclusive
+a	svp	no	orgueilleuse	conservative
+n	cds	no	écume	conservative
+n	cds	no	gardien de la paix	conservative
+n	an	no	saccageur	inclusive
+n	cds	no	concombre	inclusive
+n	cds	no	réaction	conservative
+n	an	no	poux de corps	inclusive
+n	asm	no	fèves	inclusive
+v	ddp	yes	abasourdir	conservative
+n	cds	no	junte	inclusive
+a	cds	no	fascisant	inclusive
+n	asm	no	plant de pois	inclusive
+n	cds	no	prélat	inclusive
+n	asf	no	vitut	conservative
+n	svp	no	acquisivité	inclusive
+n	cds	no	masses	inclusive
+n	an	no	écoute	inclusive
+n	cds	no	fourbe	conservative
+n	pa	yes	professeur d'université	inclusive
+n	ddp	yes	gourde	conservative
+n	asm	no	ballock	inclusive
+n	ps	yes	sélection variétale	inclusive
+a	svp	no	rancunier	conservative
+n	pa	yes	poissonnerie	inclusive
+n	asm	no	cloche	conservative
+n	ddp	yes	connard	conservative
+n	qas	no	fermière	inclusive
+n	asf	no	cruche	conservative
+n	cds	no	systèmes mafieux	inclusive
+n	ddp	yes	rester bouche bée	conservative
+n	is	yes	indigent	inclusive
+n	cds	no	mafieuse	conservative
+n	svp	no	fureur	conservative
+n	re	no	cyber-terroristes	inclusive
+n	or	no	nance	conservative
+n	ddp	yes	sot	conservative
+n	cds	no	fanfaron	conservative
+n	svp	no	dégoût	inclusive
+n	ddp	yes	la bêtise	conservative
+n	svp	no	rapiat	conservative
+n	pr	no	filles de joie	inclusive
+n	re	no	slayer	inclusive
+n	re	no	torturé	inclusive
+n	cds	no	fanatisme catholique	conservative
+n	qas	no	rossignol	inclusive
+n	svp	no	carcajou	conservative
+n	dmc	yes	rustre	conservative
+n	an	no	pillard	inclusive
+n	pr	no	guff	conservative
+n	cds	no	cabot	inclusive
+n	ddf	yes	paralytique	inclusive
+n	an	no	crocodilidés	inclusive
+n	pa	yes	professeur ordinaire	inclusive
+n	asm	no	gosse	inclusive
+n	qas	no	maladresse	inclusive
+n	ddp	yes	attardé	inclusive
+n	ddp	yes	salaud	conservative
+n	ps	yes	galeux	inclusive
+n	asf	no	moule	conservative
+n	dmc	yes	puer	conservative
+n	dmc	yes	mensonge par omission	inclusive
+n	ps	yes	romanichel	inclusive
+n	cds	no	hauteur	conservative
+v	asm	no	foutre	conservative
+n	cds	no	liberi muratori	inclusive
+n	an	no	bête	inclusive
+n	an	no	crocodylidae	inclusive
+n	cds	no	faible	conservative
+n	ps	yes	rustre	conservative
+n	or	no	fenouil commun	inclusive
+n	re	no	camorra	inclusive
+v	cds	no	s'éteindre	inclusive
+n	qas	no	gaffe	inclusive
+n	cds	no	bedlam	inclusive
+n	asm	no	paf	conservative
+n	om	no	médial	inclusive
+a	ddp	yes	naïf	conservative
+n	cds	no	fanatique	conservative
+n	cds	no	andouille	conservative
+n	dmc	yes	rakehell	conservative
+n	an	no	bufavus	inclusive
+n	cds	no	lavette	conservative
+n	cds	no	sociétés de courtage	inclusive
+n	an	no	vautours	inclusive
+n	an	no	rouncey	inclusive
+n	ddp	yes	andouille	inclusive
+n	cds	no	interdire	conservative
+n	ps	yes	histoire des roms	inclusive
+n	an	no	couarde	conservative
+a	cds	no	fasciste	inclusive
+n	cds	no	idiot	conservative
+n	an	no	mollusca	inclusive
+n	re	no	enlevement	inclusive
+n	ps	yes	bédouines	inclusive
+n	cds	no	fête	inclusive
+n	ps	yes	mongol	inclusive
+n	an	no	aureus	inclusive
+n	asf	no	abruti	conservative
+n	asm	no	mâle	inclusive
+n	dmc	yes	gâcheur	conservative
+n	ddp	yes	animal	inclusive
+n	ps	yes	meteque	inclusive
+n	re	no	pour diffamation	inclusive
+n	cds	no	vestige	inclusive
+n	re	no	supplice	inclusive
+n	asm	no	testicule	inclusive
+n	an	no	blockhead	conservative
+n	cds	no	tripe	conservative
+n	cds	no	bordels	inclusive
+n	ps	yes	connard	conservative
+n	re	no	scélérat	conservative
+n	an	no	hyaena	inclusive
+n	qas	no	chien de la maison	inclusive
+n	cds	no	foule	conservative
+n	asf	no	tripe	conservative
+n	an	no	bufo vulgaris var. acutirostris	inclusive
+n	ddp	yes	férocité	conservative
+n	cds	no	bobard	inclusive
+n	or	no	abruti	conservative
+v	asm	no	truander	conservative
+n	cds	no	amélioration des plantes	inclusive
+n	om	no	fesses	inclusive
+n	cds	no	n%e2%80%99drangheta	inclusive
+n	cds	no	terrassier	inclusive
+n	an	no	pediculus humanus corporis	inclusive
+a	svp	no	contrarié	conservative
+n	an	no	haridelle	inclusive
+n	an	no	rana bufo	inclusive
+n	ps	yes	ostrogot	inclusive
+n	svp	no	exécration	inclusive
+n	cds	no	peur du complot	inclusive
+n	cds	no	néo-réac	conservative
+n	asm	no	ovule	inclusive
+n	qas	no	déchets solides	inclusive
+n	qas	no	ménagère	inclusive
+n	pa	yes	envoyé spécial	inclusive
+n	om	no	arrière	inclusive
+n	dmc	yes	mensonges	inclusive
+v	re	no	voler	inclusive
+n	om	no	homosexuelle	inclusive
+n	om	no	homme	inclusive
+n	cds	no	bande criminelle	inclusive
+n	svp	no	gourmet	inclusive
+a	dmc	yes	calamiteux	conservative
+n	qas	no	bourgeoisie nationale	inclusive
+n	cds	no	dime novel	inclusive
+n	or	no	balourd	conservative
+n	an	no	sangsue	inclusive
+n	an	no	animalia	inclusive
+n	cds	no	beguine	inclusive
+n	an	no	carne	inclusive
+n	dmc	yes	moralité publique	inclusive
+n	ddf	yes	handicaps physiques	inclusive
+n	rci	yes	rustaude	conservative
+n	asm	no	fouille-merde	conservative
+n	pa	yes	rustaude	conservative
+n	qas	no	rejet	conservative
+n	dmc	yes	fraudeur	conservative
+n	re	no	l'argent sale	inclusive
+n	cds	no	papparazzi	inclusive
+v	asm	no	entourloupe	conservative
+n	or	no	chou pommé	inclusive
+n	asf	no	oiseau	conservative
+n	dmc	yes	incapable	conservative
+n	an	no	ne savent rien	conservative
+n	qas	no	testiculaire	inclusive
+n	re	no	exploitation financière	inclusive
+n	ps	yes	attardé	conservative
+n	cds	no	gens	inclusive
+n	cds	no	sale chien	conservative
+n	om	no	contralatéral	inclusive
+n	qas	no	crépisseur	conservative
+n	cds	no	fascisme européen	conservative
+n	cds	no	lapsus	inclusive
+n	an	no	maw	inclusive
+n	asf	no	fotzen	conservative
+n	or	no	choux	inclusive
+n	an	no	bos primigenius taurus	inclusive
+n	svp	no	apathie	inclusive
+n	pa	yes	conseiller juridique	inclusive
+n	svp	no	gourmandizer	inclusive
+n	dmc	yes	débauché	conservative
+n	cds	no	égotisme	conservative
+n	cds	no	boniment	conservative
+n	is	yes	naufragé	inclusive
+n	svp	no	vaurien	conservative
+n	or	no	fenouil	inclusive
+n	cds	no	primat	inclusive
+n	cds	no	péons	inclusive
+n	ps	yes	couillon	conservative
+n	ps	yes	bédouins	inclusive
+n	or	no	pudden-tête	conservative
+n	an	no	vipera berus pseudaspis	inclusive
+n	cds	no	flâneur	conservative
+n	cds	no	motley fool	inclusive
+n	cds	no	franc-mestiers	inclusive
+n	dmc	yes	vagabonde	inclusive
+n	rci	yes	rustaud	conservative
+n	dmc	yes	mystificateur	conservative
+n	an	no	mauvaise personne	conservative
+n	ddp	yes	retardé	inclusive
+n	is	yes	gredin	conservative
+n	ps	yes	darkey	conservative
+n	dmc	yes	code moral	inclusive
+n	an	no	ovidé	inclusive
+n	an	no	chien domestique	inclusive
+n	cds	no	topsy-turvydom	inclusive
+n	re	no	mafieuse	conservative
+n	cds	no	laddie	inclusive
+n	ddp	yes	débris	conservative
+n	svp	no	horreur	inclusive
+n	cds	no	théories du complot	inclusive
+n	qas	no	baronne	inclusive
+n	dmc	yes	hobo	conservative
+n	re	no	mise à mort	inclusive
+a	ddp	yes	illettré	inclusive
+n	ddp	yes	goujat	conservative
+n	cds	no	baratin	conservative
+n	an	no	coluber berus	inclusive
+n	cds	no	badaud	conservative
+n	cds	no	con	inclusive
+n	pr	no	rat husky	inclusive
+a	cds	no	malhonnête	conservative
+n	ddp	yes	handicap mental	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	pr	no	putains	conservative
+n	an	no	microorganismes	inclusive
+n	an	no	coquette	conservative
+n	asf	no	fada	conservative
+n	cds	no	ringard	conservative
+n	cds	no	delit de lachete	conservative
+n	pr	no	concubines	inclusive
+n	or	no	fenouil sauvage	inclusive
+n	an	no	naine	conservative
+n	asm	no	zguègue	inclusive
+n	or	no	mouvement homophile	conservative
+a	an	no	avaricieux	conservative
+n	cds	no	flic	conservative
+n	pa	yes	chaire	inclusive
+n	an	no	cul	inclusive
+n	ps	yes	buse	conservative
+a	re	no	violent	conservative
+n	an	no	maraudeur	conservative
+n	dmc	yes	fabricateur	conservative
+n	asm	no	bêtise	conservative
+n	cds	no	confiture	inclusive
+n	cds	no	éducateur	inclusive
+n	qas	no	ovule	inclusive
+a	dmc	yes	pingre	conservative
+n	an	no	carcharodon carcharias	inclusive
+n	cds	no	voleur	inclusive
+n	cds	no	radiation	inclusive
+n	an	no	phthiraptères	inclusive
+n	dmc	yes	méchante	conservative
+n	cds	no	cochon	conservative
+n	ddp	yes	colporteur de ragots	conservative
+n	ps	yes	croix	inclusive
+n	cds	no	maladresse	inclusive
+v	qas	no	gâcher	conservative
+n	dmc	yes	homoncule	inclusive
+n	cds	no	autosatisfaction	inclusive
+n	re	no	malfrat	inclusive
+n	re	no	voleur de bétail	inclusive
+n	ps	yes	con	conservative
+n	ps	yes	bulgares	inclusive
+n	asf	no	bourrique	conservative
+n	om	no	hommes gais	inclusive
+n	qas	no	bourgeoisie québécoise	inclusive
+n	cds	no	cénacle	inclusive
+n	ps	yes	juive	inclusive
+n	cds	no	dépendance au sexe	conservative
+n	ps	yes	asiatique	conservative
+n	re	no	tripoteur	inclusive
+n	asf	no	haltère	conservative
+n	dmc	yes	treasonist	conservative
+n	dmc	yes	moi	conservative
+n	cds	no	gangstérisme	conservative
+n	is	yes	pauvrete	inclusive
+n	asm	no	bistouquette	inclusive
+n	an	no	frogspawn	inclusive
+n	an	no	gigantostracé	inclusive
+n	ps	yes	imbécile	conservative
+n	or	no	concombres	inclusive
+n	an	no	pirate	inclusive
+n	cds	no	gnangnan	conservative
+n	cds	no	faiblesse	conservative
+n	svp	no	antipathie	inclusive
+a	cds	no	illégal	inclusive
+n	cds	no	je-sais-tout	conservative
+a	ps	yes	gascon	inclusive
+n	re	no	cambrioleur	inclusive
+n	qas	no	femme d'affaire	inclusive
+n	cds	no	vénalité	inclusive
+n	ps	yes	dupe	conservative
+n	asf	no	mouette	conservative
+n	cds	no	mensonge par omission	inclusive
+n	qas	no	baron du bois	inclusive
+n	an	no	mouton domestique	inclusive
+n	cds	no	malfaiteur	conservative
+n	svp	no	intolérance	inclusive
+n	ps	yes	nigra	conservative
+n	svp	no	concupiscence	inclusive
+n	asm	no	âne	inclusive
+n	cds	no	chiot	conservative
+n	svp	no	cupidité des entreprises	inclusive
+n	pa	yes	croque-morts	inclusive
+n	asm	no	testiculaire	inclusive
+n	asm	no	teub	conservative
+n	asf	no	idiot	conservative
+n	cds	no	mensonge blanc	conservative
+n	an	no	créature	inclusive
+v	asm	no	savoir	conservative
+n	re	no	mafioso	conservative
+n	re	no	fripouille	conservative
+n	svp	no	léthargie	inclusive
+n	an	no	papillons de nuit	inclusive
+n	an	no	crocodilidé	inclusive
+n	cds	no	grandes compagnies	inclusive
+n	cds	no	souteneur	inclusive
+n	asf	no	la bêtise	conservative
+n	cds	no	mafiosi	conservative
+a	pa	yes	pédant	conservative
+n	svp	no	envie	inclusive
+n	an	no	limaçon	inclusive
+n	svp	no	gourmand	conservative
+a	qas	no	féodal	inclusive
+n	dmc	yes	pharisien	conservative
+n	om	no	dragqueen	inclusive
+n	an	no	crocodylia	inclusive
+n	pa	yes	universitaire	inclusive
+n	asm	no	connasse	conservative
+n	asf	no	connerie	conservative
+n	qas	no	chenil	inclusive
+n	ps	yes	rroms	inclusive
+n	ddp	yes	détenu	inclusive
+n	an	no	avaricieux	conservative
+n	ps	yes	bédouin	inclusive
+n	cds	no	cogne	inclusive
+n	qas	no	ordures menageres	inclusive
+n	an	no	bisons européens	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	or	no	pomme de terre nouvelle	inclusive
+n	dmc	yes	mauvaises odeurs	conservative
+n	cds	no	mafieux	inclusive
+n	ddp	yes	bâtard	conservative
+n	cds	no	hybride artificiel	inclusive
+n	dmc	yes	bandit	conservative
+n	pr	no	laitier	conservative
+n	ddp	yes	âne	inclusive
+n	ddp	yes	absurdes	conservative
+n	cds	no	franc maçon	inclusive
+a	cds	no	fatigué	inclusive
+n	cds	no	route wagon	inclusive
+n	an	no	avarice	conservative
+n	cds	no	branler	conservative
+n	cds	no	trafiquant	inclusive
+n	re	no	acte terroriste	inclusive
+n	re	no	capturer	inclusive
+n	cds	no	gâcher	inclusive
+n	re	no	méchant de fiction	conservative
+n	ps	yes	hebraica	inclusive
+n	cds	no	maçonnerie	inclusive
+n	cds	no	foi en la science	inclusive
+n	svp	no	broyer du noir	conservative
+n	pa	yes	avocature	inclusive
+n	cds	no	wc	inclusive
+n	re	no	détournement de mineur	inclusive
+n	re	no	braquage de magasin	inclusive
+n	ps	yes	bêche	conservative
+a	qas	no	pleurnicheur	conservative
+n	ps	yes	fada	conservative
+n	asf	no	jupe	conservative
+n	asm	no	baloche	inclusive
+a	om	no	inhabituel	inclusive
+n	cds	no	cataplasme	conservative
+n	re	no	mafieux	conservative
+n	or	no	cocombre	inclusive
+n	cds	no	débris	conservative
+n	cds	no	fada	inclusive
+a	is	yes	pingre	conservative
+n	or	no	pomme-de-terre	inclusive
+n	an	no	tête de noeud	conservative
+n	cds	no	souillure	inclusive
+n	dmc	yes	craque	inclusive
+v	cds	no	mourir	inclusive
+n	cds	no	d'extrême-droite	conservative
+n	cds	no	baragouin	inclusive
+a	dmc	yes	bidouillé	conservative
+n	cds	no	illégitime	inclusive
+n	cds	no	societe de courtage	inclusive
+n	an	no	cric	inclusive
+a	ddp	yes	stupide	conservative
+n	an	no	anura	inclusive
+n	ps	yes	hybride	inclusive
+n	cds	no	littéraliste	inclusive
+n	an	no	peureux	conservative
+n	cds	no	hors la loi	inclusive
+n	an	no	hemipteron	inclusive
+a	dmc	yes	impoli	conservative
+a	dmc	yes	non déontologique	conservative
+n	or	no	cuke	inclusive
+n	om	no	sodomist	inclusive
+n	or	no	prout	conservative
+n	qas	no	cultivateur	inclusive
+n	cds	no	tête de nœud	conservative
+n	an	no	pediculus humanus	inclusive
+n	qas	no	vagabond	conservative
+n	om	no	derriere	inclusive
+n	cds	no	gringalet	conservative
+n	asm	no	roubignolle	inclusive
+n	an	no	mulet	inclusive
+a	is	yes	infortuné	inclusive
+n	pa	yes	porte-parole	inclusive
+n	pa	yes	col blanc	inclusive
+n	dmc	yes	immoralité	conservative
+n	cds	no	arnaqueur	inclusive
+n	cds	no	mécréant	conservative
+a	dmc	yes	contrefait	conservative
+n	cds	no	cercle intérieur	inclusive
+n	cds	no	mouche du coche	conservative
+n	re	no	travail de démolition	inclusive
+n	cds	no	bas bleu	inclusive
+n	svp	no	dallier	conservative
+n	cds	no	gésir	conservative
+n	om	no	retroversion	inclusive
+n	cds	no	malin	conservative
+n	qas	no	trading systématique	inclusive
+n	an	no	boeuf sauvage	inclusive
+n	ddp	yes	bêtise	conservative
+n	an	no	pip-squeak	conservative
+n	an	no	chevre	inclusive
+n	cds	no	complotisme	inclusive
+a	ddp	yes	fada	conservative
+n	asf	no	connaud	conservative
+n	pa	yes	avocat	inclusive
+n	cds	no	bétail voleur	inclusive
+n	cds	no	dandy	inclusive
+n	an	no	trafic de cadavres	inclusive
+n	cds	no	conte	conservative
+n	qas	no	mosaïque	inclusive
+n	ps	yes	lampiste	conservative
+n	pa	yes	académique	inclusive
+n	om	no	sodomiser	inclusive
+n	an	no	imbécilité	conservative
+n	om	no	homme gay	inclusive
+n	re	no	assassin	inclusive
+n	cds	no	nourrissons	inclusive
+n	cds	no	foule	inclusive
+a	cds	no	astucieux	inclusive
+n	cds	no	tire-au-flanc	conservative
+n	an	no	bovin domestique	inclusive
+n	svp	no	hauteur	conservative
+n	cds	no	gonzesse	conservative
+n	dmc	yes	proscrit	inclusive
+n	an	no	agneau	conservative
+n	an	no	shoat	inclusive
+n	asm	no	pierre	conservative
+n	cds	no	bandit	conservative
+n	ddp	yes	handicapé mental	inclusive
+n	ddp	yes	bousilleur	conservative
+n	om	no	homophilie	inclusive
+n	asf	no	bêtise	conservative
+v	cds	no	machiner	inclusive
+n	ddp	yes	analphabetisme	inclusive
+n	or	no	enfoiré	conservative
+n	cds	no	néofondamentalisme	inclusive
+n	an	no	enculé	conservative
+a	ddp	yes	ignorant	conservative
+n	pr	no	racoler	conservative
+n	cds	no	mensonginet	conservative
+n	an	no	couleuvre	inclusive
+n	cds	no	journaliste	inclusive
+n	is	yes	pauvres	inclusive
+n	cds	no	modérateur	inclusive
+n	qas	no	bourgeoisie juive	inclusive
+n	an	no	insecte hémiptère	inclusive
+n	ps	yes	origine africaine	inclusive
+n	cds	no	histoire de la franc-maçonnerie	inclusive
+a	cds	no	malin	conservative
+n	re	no	maltraitement	inclusive
+n	an	no	latastea	inclusive
+n	an	no	diddly-squat	conservative
+n	cds	no	correspondant de nouvelles	inclusive
+n	re	no	cyber-terroristes	conservative
+n	qas	no	homme d'affaires américain	inclusive
+n	pr	no	phalene du bouleau	inclusive
+n	ddp	yes	analphabétisme	inclusive
+n	om	no	homoaffinité	inclusive
+n	cds	no	brokerage	inclusive
+n	cds	no	anneau	conservative
+v	cds	no	aux	inclusive
+n	ddp	yes	crétin	inclusive
+n	pr	no	genisse	inclusive
+n	cds	no	fabricateur	conservative
+n	ddf	yes	naine	conservative
+n	om	no	éonisme	inclusive
+n	an	no	porc marron	inclusive
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	qas	no	déchets ménagers	inclusive
+n	asf	no	buse	conservative
+n	an	no	ombrine	inclusive
+n	cds	no	poule-mouillée	conservative
+n	cds	no	dogmatisme	conservative
+n	an	no	pif	inclusive
+n	dmc	yes	clodo	conservative
+n	is	yes	harpagon	conservative
+v	cds	no	adorer	inclusive
+n	an	no	putain	conservative
+n	cds	no	fascists	conservative
+n	qas	no	va-nu-pieds	conservative
+n	cds	no	cafteur	conservative
+n	ps	yes	romanichels	inclusive
+n	re	no	vols	inclusive
+n	cds	no	vantardise	conservative
+n	cds	no	compagnie de courtage	inclusive
+n	pr	no	hétérocère	inclusive
+n	is	yes	gueux	inclusive
+n	ddp	yes	ignorance	conservative
+n	cds	no	hybride interspécifique	inclusive
+n	svp	no	colère	inclusive
+n	cds	no	jerk-off	conservative
+n	cds	no	griffonner	inclusive
+n	cds	no	high rollers	inclusive
+n	cds	no	délit	inclusive
+n	pa	yes	avocate	inclusive
+n	an	no	requin blanc	inclusive
+n	asm	no	à base de fèves	inclusive
+n	cds	no	bévue	inclusive
+n	an	no	Âne	inclusive
+n	an	no	vipère berus	inclusive
+n	cds	no	cancre	conservative
+n	asf	no	fall guy	conservative
+n	pa	yes	défenseurs	inclusive
+n	an	no	racaille	conservative
+n	cds	no	paire de manches	inclusive
+n	cds	no	déchets ménagers	inclusive
+n	cds	no	officier	conservative
+n	cds	no	wangler	conservative
+n	pr	no	renarde	conservative
+n	qas	no	barbares	conservative
+n	re	no	extorquer	inclusive
+n	svp	no	radin	inclusive
+a	ddp	yes	puéril	conservative
+n	cds	no	troupeau	inclusive
+n	asf	no	retardé	conservative
+n	qas	no	style classique	inclusive
+n	cds	no	bandits	inclusive
+n	cds	no	mise hors la loi	conservative
+a	svp	no	bougon	conservative
+n	ps	yes	âne	conservative
+n	qas	no	menterie	conservative
+a	qas	no	courant	inclusive
+n	dmc	yes	délit du code pénal français	inclusive
+n	qas	no	contrevérité	conservative
+n	ps	yes	rustaud	conservative
+n	an	no	selachimorpha	inclusive
+n	an	no	blattoptère	inclusive
+n	svp	no	avaricieux	conservative
+n	cds	no	snob	conservative
+n	qas	no	cohue	inclusive
+n	qas	no	tabi'un	inclusive
+n	dmc	yes	rustaud	conservative
+n	cds	no	tribale	inclusive
+n	pa	yes	membre du corps professoral	inclusive
+n	re	no	grand theft	inclusive
+n	cds	no	eaux usées domestiques	inclusive
+n	cds	no	spectateur	conservative
+n	cds	no	crime	inclusive
+n	asf	no	blockhead	conservative
+n	re	no	assassiné	inclusive
+n	qas	no	amateurisme	inclusive
+n	cds	no	parenté	inclusive
+n	cds	no	blanc-bec	conservative
+n	an	no	mouton	inclusive
+n	or	no	homme	conservative
+n	ddp	yes	rustaude	conservative
+n	cds	no	geolier	inclusive
+n	re	no	agresseur	inclusive
+n	re	no	les pirates	inclusive
+n	re	no	calomniateur	conservative
+n	cds	no	muscle	conservative
+n	re	no	furiousness	inclusive
+n	ddp	yes	arriération mentale	inclusive
+n	an	no	bûche	conservative
+n	cds	no	bellyacher	conservative
+n	svp	no	sept péchés capitaux	inclusive
+n	cds	no	radeaux	inclusive
+n	om	no	1069bf	inclusive
+n	cds	no	déchets solides municipaux	conservative
+n	an	no	dispositif d'écoute	inclusive
+n	cds	no	bigoterie	conservative
+n	dmc	yes	contrevérité	inclusive
+n	re	no	agressions sexuelles	inclusive
+a	dmc	yes	sauvage	conservative
+n	an	no	genre vipera	inclusive
+a	ddf	yes	moche	conservative
+n	an	no	civelle	inclusive
+n	svp	no	flemmard	conservative
+n	re	no	assassiner au deuxième degré	inclusive
+a	dmc	yes	fichu	conservative
+n	cds	no	scientiste	inclusive
+n	qas	no	peintre	inclusive
+n	cds	no	racketteur	inclusive
+n	ddp	yes	couillon	inclusive
+n	an	no	cimicidae	inclusive
+n	dmc	yes	brute	conservative
+n	om	no	gays	conservative
+n	cds	no	blackboulé	inclusive
+a	cds	no	peureux	conservative
+n	an	no	canaille	conservative
+n	dmc	yes	mensonge d'urgence	inclusive
+n	pr	no	rue fille	conservative
+n	ddp	yes	pur	conservative
+n	ddp	yes	hokum	conservative
+n	an	no	maringouins	inclusive
+n	cds	no	agent matrimonial	inclusive
+n	asm	no	simplet	conservative
+n	cds	no	flemmard	conservative
+n	qas	no	récit	conservative
+n	cds	no	ligne de tir	conservative
+n	dmc	yes	dillydallier	conservative
+n	pa	yes	pastoure	inclusive
+n	re	no	meutrier	inclusive
+n	svp	no	aï	inclusive
+n	cds	no	codswallop	conservative
+v	asm	no	bien	conservative
+n	an	no	rapace nocturne	inclusive
+n	cds	no	béguine	inclusive
+n	cds	no	bandit de grand chemin	conservative
+n	an	no	aphaniptera	inclusive
+n	cds	no	pudden-tête	conservative
+n	pa	yes	entrepreneur de pompes funèbres	inclusive
+n	ps	yes	changelins	conservative
+a	dmc	yes	négligé	conservative
+n	cds	no	pauvre poisson	conservative
+n	ps	yes	juives	inclusive
+n	an	no	friponne	conservative
+n	an	no	visage	inclusive
+n	cds	no	jeux de casino	inclusive
+n	asm	no	branleur	conservative
+n	cds	no	pédanterie	inclusive
+n	ddp	yes	nonsens	conservative
+n	cds	no	nouveau-né	inclusive
+n	cds	no	conciliabule	inclusive
+n	pr	no	lampyre	inclusive
+n	cds	no	filou	inclusive
+n	cds	no	agent des services correctionnels	inclusive
+n	svp	no	boulimique	conservative
+n	cds	no	ardeur	inclusive
+n	or	no	chou cabus	inclusive
+n	or	no	1069bf	conservative
+n	an	no	rue fille	conservative
+n	cds	no	idolâtrie	inclusive
+n	qas	no	common people	inclusive
+n	cds	no	abattage	conservative
+n	an	no	fille des rues	conservative
+a	dmc	yes	fétide	conservative
+n	asm	no	testicules	inclusive
+n	pa	yes	professeur	inclusive
+a	re	no	sauvage	inclusive
+n	cds	no	scientisme	inclusive
+n	asm	no	pois sec	inclusive
+v	re	no	truander	inclusive
+n	re	no	maffia	inclusive
+n	cds	no	souteneur	conservative
+n	ps	yes	peuple juif	inclusive
+n	asf	no	ducon	conservative
+n	svp	no	gourmand	inclusive
+n	cds	no	blabbermouth	conservative
+n	pr	no	harpie	conservative
+n	cds	no	chiseler	inclusive
+n	dmc	yes	mensonginet	inclusive
+n	cds	no	bœufs	conservative
+n	pr	no	ver luisant	inclusive
+n	dmc	yes	pauvre diable	conservative
+n	ddf	yes	handicapée	inclusive
+n	an	no	torrentophryne	inclusive
+n	cds	no	bouffon du roi	inclusive
+n	cds	no	bourde	inclusive
+n	cds	no	récupération de ferraille	conservative
+n	an	no	chacal	inclusive
+n	cds	no	égoïsme	conservative
+n	ddp	yes	andouille	conservative
+n	om	no	nates	inclusive
+n	pr	no	péripatéticienne	conservative
+n	qas	no	ectoparasites	inclusive
+n	svp	no	envieux	inclusive
+n	asm	no	coq	inclusive
+n	ps	yes	sélection végétale	inclusive
+n	om	no	truie	inclusive
+a	cds	no	trivial	inclusive
+n	cds	no	rejeter	conservative
+n	ddf	yes	handicapées	inclusive
+n	an	no	avaleur de ballon	inclusive
+n	cds	no	difficulté	conservative
+n	re	no	plagié	inclusive
+n	asm	no	jeune coq	inclusive
+n	cds	no	violence fanatique	conservative
+n	an	no	toutou	inclusive
+n	asm	no	bêta	inclusive
+n	cds	no	régime fasciste	conservative
+a	svp	no	maussade	conservative
+n	asm	no	foutre	conservative
+n	cds	no	prankishness	inclusive
+n	dmc	yes	criminel	inclusive
+n	an	no	canis aureus	inclusive
+n	re	no	agresser sexuellement	inclusive
+n	or	no	homosexuel	conservative
+n	cds	no	imbécile	conservative
+n	dmc	yes	rôle du méchant	conservative
+a	cds	no	important	conservative
+n	ddp	yes	révélateur	conservative
+n	re	no	diffamateur	conservative
+n	cds	no	moi	conservative
+n	an	no	le mouton de la ferme	inclusive
+n	cds	no	morve	conservative
+n	svp	no	pingre	conservative
+n	cds	no	croon	inclusive
+v	cds	no	manigancer	inclusive
+a	ps	yes	juif	inclusive
+n	dmc	yes	va-nu-pieds	inclusive
+n	cds	no	pourriel	inclusive
+n	an	no	mulassier	inclusive
+n	an	no	afin crocodylia	inclusive
+n	dmc	yes	le mat	inclusive
+n	svp	no	oisiveté	inclusive
+n	cds	no	énormité	conservative
+n	an	no	hirudinés	inclusive
+n	dmc	yes	hors-la-loi	inclusive
+n	an	no	hyénidés	inclusive
+a	ddp	yes	bête	conservative
+n	svp	no	kāma-rāga	inclusive
+n	an	no	lavette	conservative
+n	ddp	yes	prisonnier	inclusive
+n	pr	no	putain	inclusive
+n	cds	no	fiston	inclusive
+n	re	no	violeur	conservative
+n	an	no	leech	inclusive
+a	re	no	turbulent	conservative
+n	qas	no	chaumière	inclusive
+n	re	no	violée	conservative
+v	re	no	dépouiller	inclusive
+n	cds	no	opérateur	conservative
+n	cds	no	taureau	conservative
+n	cds	no	spectatrice	conservative
+a	pa	yes	théoriques	inclusive
+n	qas	no	tabi%e2%80%98in	inclusive
+a	svp	no	fâché	conservative
+n	pr	no	crack whore	inclusive
+n	cds	no	insolence	conservative
+n	dmc	yes	singe	inclusive
+n	cds	no	scélérat	conservative
+n	asf	no	buche	conservative
+n	an	no	folderol	conservative
+n	cds	no	inner circle	inclusive
+n	pr	no	amant	inclusive
+n	svp	no	invidia	inclusive
+n	cds	no	officier de police	conservative
+n	cds	no	mécréante	conservative
+n	cds	no	mac	conservative
+n	an	no	fulvus	inclusive
+n	dmc	yes	lowlife	conservative
+n	cds	no	instructeur	inclusive
+n	ps	yes	roma	inclusive
+n	re	no	vol à main armée	inclusive
+n	an	no	scélérat	conservative
+n	cds	no	gâcheur	conservative
+n	an	no	endofaune	inclusive
+n	an	no	chersea	inclusive
+a	ddp	yes	bébête	conservative
+n	cds	no	amélioration végétale	inclusive
+n	ps	yes	chalutier	inclusive
+n	dmc	yes	mouffette	conservative
+n	pa	yes	agent de la billetterie	inclusive
+n	re	no	impétuosité	inclusive
+n	ddp	yes	lourdaud	conservative
+n	an	no	lowlife	conservative
+n	cds	no	agent de la route	conservative
+n	pr	no	bovins	inclusive
+n	asm	no	bercé trop près du mur	conservative
+n	pr	no	dame de plaisir	conservative
+n	cds	no	enfant	inclusive
+n	ps	yes	métissage	conservative
+n	om	no	female impersonator	inclusive
+a	svp	no	important	conservative
+n	cds	no	populace	inclusive
+n	cds	no	troupeaux	inclusive
+n	pa	yes	wagoner	inclusive
+a	dmc	yes	non éthique	conservative
+n	ddp	yes	malotru	conservative
+n	or	no	spud	inclusive
+n	an	no	opiniâtreté	conservative
+n	cds	no	touche-à-tout	conservative
+n	qas	no	parasite	inclusive
+n	an	no	génisse	inclusive
+n	dmc	yes	sale type	conservative
+n	or	no	citrouille	inclusive
+n	asm	no	retard	inclusive
+n	ddp	yes	absurdité	conservative
+n	cds	no	systèmes mafieux	conservative
+n	cds	no	paillasson	conservative
+n	cds	no	culte des idoles	inclusive
+a	svp	no	paresseux	conservative
+n	re	no	ciseleur	inclusive
+n	qas	no	mélimélo	inclusive
+n	dmc	yes	le libertinage	conservative
+n	an	no	crocodylinae	inclusive
+n	om	no	rétroversion	inclusive
+n	dmc	yes	boucher	conservative
+n	asm	no	couille	inclusive
+n	ddp	yes	cafteuse	conservative
+a	dmc	yes	débraillé	conservative
+n	asm	no	avifaune	inclusive
+n	cds	no	déchets	conservative
+n	an	no	merde	conservative
+n	ddp	yes	retard	inclusive
+n	cds	no	benêt	inclusive
+n	cds	no	conasse	conservative
+n	an	no	brutalité	conservative
+n	an	no	buffle	inclusive
+n	an	no	siphonaptère	inclusive
+n	an	no	animalcule	inclusive
+n	pa	yes	scolastique	inclusive
+a	is	yes	maigre	inclusive
+n	svp	no	stupre	inclusive
+a	dmc	yes	feint qualifier	conservative
+n	cds	no	pleurnicheur	conservative
+n	ddp	yes	barbarisme	inclusive
+n	cds	no	reste	inclusive
+n	om	no	enculage	inclusive
+n	ddp	yes	cloche	conservative
+n	ddp	yes	moulin à paroles	conservative
+n	dmc	yes	voyous	conservative
+n	cds	no	coiffeuse	inclusive
+n	re	no	torturant	inclusive
+n	pr	no	sexuels commerciaux	conservative
+n	cds	no	croisement	inclusive
+n	cds	no	branlage	conservative
+n	dmc	yes	miette	conservative
+n	ddp	yes	balivernes	inclusive
+n	dmc	yes	délinquant	inclusive
+n	svp	no	dilly-dallier	conservative
+n	ps	yes	juifs "evrei"	inclusive
+n	pa	yes	académisme	inclusive
+n	cds	no	de bric et de broc	conservative
+n	an	no	vipera nikolskii	inclusive
+n	dmc	yes	sectaire	conservative
+n	svp	no	dégustateur	conservative
+n	ps	yes	vagabonde	inclusive
+n	dmc	yes	oisif	conservative
+n	dmc	yes	sale chien	conservative
+n	cds	no	bouts	inclusive
+n	qas	no	merde	inclusive
+a	ddp	yes	brute	conservative
+n	qas	no	conformiste	inclusive
+n	qas	no	couilles	inclusive
+n	an	no	selle	conservative
+n	is	yes	gueux	conservative
+n	pa	yes	cols blancs	inclusive
+n	an	no	chiennes	inclusive
+n	ps	yes	lout	conservative
+n	an	no	vipera	inclusive
+n	cds	no	gaffeur	conservative
+n	or	no	bonehead	conservative
+a	svp	no	fâchée	inclusive
+n	ddf	yes	nanus	conservative
+n	re	no	moi	conservative
+a	qas	no	éperdu	inclusive
+a	qas	no	histrionique	conservative
+n	qas	no	ceinture de poids	inclusive
+n	an	no	nullard	conservative
+n	or	no	fotze	conservative
+n	qas	no	bungle	inclusive
+n	om	no	distale	inclusive
+n	cds	no	histoire	conservative
+n	cds	no	gendarme	conservative
+n	ddp	yes	prisonniers	inclusive
+a	dmc	yes	incivil	conservative
+n	pr	no	lampyris noctiluca	inclusive
+n	cds	no	pusillanimité	conservative
+a	qas	no	fou	conservative
+n	ddp	yes	commère	conservative
+av	an	no	imbécilement	conservative
+n	asm	no	burnes	inclusive
+a	svp	no	prétentieux	conservative
+n	om	no	pédéraste	conservative
+n	an	no	carcharodon	inclusive
+n	an	no	porc domestique	inclusive
+n	dmc	yes	malheureux	inclusive
+n	cds	no	penman	conservative
+n	re	no	raptio	inclusive
+n	svp	no	goof-off	conservative
+a	cds	no	bête t+	conservative
+n	an	no	parasite	conservative
+n	an	no	bos taurus domesticus	inclusive
+n	qas	no	bourgeoisie anglophone	inclusive
+n	cds	no	nourisson	inclusive
+n	or	no	gays	conservative
+n	qas	no	nécrotrophe	inclusive
+n	dmc	yes	pignouf	conservative
+n	cds	no	renard	conservative
+a	qas	no	médiéval	inclusive
+n	asf	no	toison	inclusive
+n	qas	no	bourgeoisie francophone	inclusive
+n	cds	no	pignouf	conservative
+a	cds	no	clérical	inclusive
+n	cds	no	démagogique	conservative
+n	ddp	yes	traître	conservative
+n	svp	no	col	inclusive
+n	om	no	homme	conservative
+n	dmc	yes	sdf	inclusive
+n	cds	no	miette	conservative
+n	svp	no	gourmet	conservative
+n	cds	no	unite de mesure japonaise	inclusive
+n	qas	no	profiteur	conservative
+n	pa	yes	conseiller	inclusive
+a	ddf	yes	boiteuse	inclusive
+n	qas	no	magnat du transport maritime	inclusive
+n	an	no	trouillard	conservative
+n	qas	no	baroque	inclusive
+n	an	no	asinus	inclusive
+n	an	no	pilotage	inclusive
+n	dmc	yes	tromper	conservative
+n	or	no	personne stupide	conservative
+n	ddp	yes	buse	conservative
+n	cds	no	sélectionneur de plantes	inclusive
+n	qas	no	bourgeoisie française	inclusive
+n	ps	yes	barbares	conservative
+n	qas	no	paysanne	inclusive
+n	cds	no	pedagog	inclusive
+a	cds	no	croisé	inclusive
+a	dmc	yes	mauvais	conservative
+n	ps	yes	minorité ethnique non sédentarisée	inclusive
+n	cds	no	collaborateur parlementaire	inclusive
+n	ps	yes	andouille	conservative
+n	qas	no	partisan	inclusive
+n	svp	no	voluptueux	inclusive
+n	cds	no	auto-culte	inclusive
+n	cds	no	orgueil	conservative
+n	an	no	moutons domestiques	inclusive
+n	an	no	nanus	conservative
+n	cds	no	sournoiserie	conservative
+a	is	yes	pathétique	conservative
+n	an	no	megascops asio	inclusive
+n	svp	no	pridefulness	inclusive
+n	cds	no	mensonge	conservative
+n	cds	no	professeur	inclusive
+n	asm	no	la bêtise	conservative
+n	an	no	poulet	inclusive
+n	or	no	tante	conservative
+n	an	no	mauviette	conservative
+n	dmc	yes	chawbacon	conservative
+n	ddp	yes	four	conservative
+n	cds	no	intellectuel	inclusive
+n	svp	no	gourmandizer	conservative
+n	ddp	yes	poupe	conservative
+n	is	yes	ladre	conservative
+n	asf	no	gogo	conservative
+n	asf	no	pur	conservative
+n	ddp	yes	concombre	inclusive
+n	dmc	yes	moralement en faillite	inclusive
+n	cds	no	delit penal en france	inclusive
+n	svp	no	enviousness	inclusive
+n	qas	no	sbire	inclusive
+n	re	no	traducteur	conservative
+n	pr	no	rat d'égoût	inclusive
+n	dmc	yes	malfaiteur	inclusive
+a	cds	no	veule	conservative
+n	pr	no	rats	inclusive
+n	an	no	crapaud commun	inclusive
+a	ddp	yes	candide	conservative
+n	an	no	mesohoronis	inclusive
+n	asm	no	oiselle	inclusive
+n	cds	no	âne	inclusive
+a	cds	no	pointilleux	conservative
+n	an	no	cocu	conservative
+n	cds	no	tribales	inclusive
+n	cds	no	connard	inclusive
+n	an	no	sale tour	conservative
+a	ddf	yes	laid	conservative
+n	cds	no	multitude	conservative
+n	an	no	animaux pluricellulaires	inclusive
+n	cds	no	populations tribales	inclusive
+n	asm	no	queue	inclusive
+n	an	no	petits chiens	inclusive
+n	qas	no	baronnies	inclusive
+n	an	no	corps à l'arraché	inclusive
+n	cds	no	boules-up	inclusive
+n	an	no	fainéant	conservative
+n	re	no	fourbe	conservative
+n	dmc	yes	traîneur	conservative
+a	is	yes	avare	inclusive
+a	is	yes	peiné	inclusive
+v	asm	no	coucher avec	conservative
+n	cds	no	gardien pénitentiaire	inclusive
+n	cds	no	crime contre la personne	inclusive
+n	cds	no	sauvage	conservative
+n	ps	yes	chinoise	inclusive
+n	cds	no	masses	conservative
+n	or	no	nouille	inclusive
+n	cds	no	biotechnologie des plantes	inclusive
+n	cds	no	lignée familiale	inclusive
+n	qas	no	villageoise	inclusive
+n	ps	yes	nichon	conservative
+n	cds	no	délinquant juvénile	conservative
+n	re	no	meurtrier	inclusive
+n	svp	no	tire-au-flanc	conservative
+v	qas	no	putain	conservative
+n	cds	no	voyous	conservative
+n	pr	no	mélanisme industriel	inclusive
+n	cds	no	petit coin	inclusive
+n	asm	no	symbole phallique	inclusive
+n	re	no	kidnaper	inclusive
+n	pa	yes	bergère	inclusive
+n	re	no	néonaticide	inclusive
+n	an	no	pou	inclusive
+n	cds	no	garçon de courses	inclusive
+n	cds	no	maçoniques	inclusive
+n	asf	no	poil	inclusive
+n	svp	no	les 7 pêché capitaux	inclusive
+n	an	no	bouc	inclusive
+n	an	no	fainéante	conservative
+n	pr	no	courtisanes	inclusive
+n	cds	no	chef	inclusive
+n	pa	yes	salarié	inclusive
+n	cds	no	bouffon de la cour	inclusive
+n	cds	no	fierté	conservative
+n	or	no	potiron	inclusive
+n	cds	no	affaire criminelle	inclusive
+n	an	no	moi	conservative
+n	dmc	yes	sang	conservative
+n	cds	no	mafia	inclusive
+n	qas	no	niche	inclusive
+n	cds	no	mensonges	conservative
+n	cds	no	chawbacon	conservative
+n	asm	no	peter	conservative
+n	qas	no	déchet métallique	inclusive
+n	an	no	bufo cinereus var. hybridus	inclusive
+a	ddp	yes	bestial	conservative
+n	ddp	yes	idiot	conservative
+n	asm	no	crétin	inclusive
+n	an	no	hétérocère	inclusive
+n	qas	no	roubignolle	inclusive
+a	is	yes	pauvre	conservative
+n	an	no	wimps	conservative
+n	cds	no	belligérant	inclusive
+n	ps	yes	uprooter	conservative
+n	ps	yes	noir	inclusive
+n	an	no	barbarisme	inclusive
+n	asf	no	gonzesse	conservative
+a	dmc	yes	faux	conservative
+n	qas	no	paysan	inclusive
+n	asm	no	à base de fèves usine	inclusive
+n	cds	no	raton	conservative
+n	ps	yes	sélection massale	inclusive
+n	cds	no	idiot	inclusive
+n	dmc	yes	rat	conservative
+n	cds	no	reaction	conservative
+n	re	no	tortionnaire	inclusive
+n	an	no	entourloupette	conservative
+n	or	no	punctiliousness	inclusive
+n	svp	no	slackers	conservative
+n	cds	no	gangs	conservative
+n	dmc	yes	gangster	inclusive
+n	an	no	bovins de boucherie	inclusive
+n	re	no	violation de la loi	inclusive
+n	asm	no	pois fourrager	inclusive
+n	ddp	yes	bavardeur	conservative
+n	cds	no	satyriasiste	conservative
+n	an	no	siphonaptera	inclusive
+n	an	no	porcin	inclusive
+n	asf	no	nana	conservative
+n	svp	no	niggardness	conservative
+n	qas	no	baraque	inclusive
+n	svp	no	ladrerie	conservative
+n	om	no	pairesse	inclusive
+n	an	no	personne incapable	conservative
+n	an	no	chèvre sauvage domestique	inclusive
+n	ddp	yes	peine d'emprisonnement	inclusive
+n	an	no	scorpaenidae	inclusive
+n	an	no	crétin	conservative
+a	re	no	méchant	inclusive
+n	ddp	yes	blockhead	conservative
+n	qas	no	classe bourgeoise	inclusive
+n	dmc	yes	fanatique	conservative
+n	cds	no	fall guy	conservative
+n	dmc	yes	bouffon de la cour	inclusive
+n	asm	no	demeuré	inclusive
+a	qas	no	idéologique	inclusive
+n	cds	no	épistolier	inclusive
+n	cds	no	institutrice	inclusive
+n	asf	no	four	conservative
+n	an	no	pingre	conservative
+n	or	no	connin	conservative
+n	cds	no	déchet domestique	inclusive
+n	qas	no	burnes	inclusive
+n	dmc	yes	flemmard	conservative
+n	ps	yes	latino	inclusive
+n	an	no	bison d%e2%80%99europe	inclusive
+a	is	yes	pitoyable	conservative
+n	cds	no	bouche	inclusive
+n	asm	no	poissons	inclusive
+n	ddp	yes	rustre	conservative
+n	qas	no	paroisse ecclésiastique	inclusive
+n	ddp	yes	personne stupide	conservative
+n	re	no	tuer	inclusive
+n	dmc	yes	slackers	conservative
+a	ddf	yes	jeu	inclusive
+n	ddp	yes	captif	inclusive
+n	cds	no	musique grunge	inclusive
+n	an	no	méchant tragique	conservative
+n	cds	no	mafia: the city of lost heaven	inclusive
+n	dmc	yes	bigoterie	conservative
+n	cds	no	religiousism	inclusive
+n	pr	no	micheton	conservative
+n	qas	no	lune	inclusive
+n	qas	no	fouillis	inclusive
+n	cds	no	chaos	inclusive
+n	cds	no	mentir	inclusive
+n	om	no	systeme de reference en anatomie	inclusive
+n	an	no	mangeur d'hommes	inclusive
+n	ddp	yes	retard	conservative
+n	qas	no	mensonge d'urgence	conservative
+n	ddp	yes	organisme animal	inclusive
+n	dmc	yes	intolérant	conservative
+n	cds	no	ruffian	conservative
+n	cds	no	wheeler dealer	conservative
+n	re	no	rôle du méchant	conservative
+n	cds	no	réac	conservative
+n	cds	no	flemmarde	conservative
+n	qas	no	langage politique	inclusive
+n	cds	no	liturgie fasciste	conservative
+n	an	no	bernache du pacifique	inclusive
+n	qas	no	gâcheur	conservative
+n	cds	no	fils de pute	conservative
+n	cds	no	salonard	conservative
+a	ddp	yes	analphabète	conservative
+n	pa	yes	militant de	inclusive
+n	pr	no	roulure	conservative
+n	svp	no	répugnance	inclusive
+n	cds	no	membre d'un gang	conservative
+n	asf	no	doofus	conservative
+n	cds	no	lupanar	inclusive
+n	re	no	bandits	inclusive
+n	ps	yes	hoto	inclusive
+n	cds	no	bain	inclusive
+n	qas	no	barbouilleur	conservative
+n	an	no	punaises	inclusive
+n	dmc	yes	dallier	conservative
+n	or	no	la pomme de terre	inclusive
+n	cds	no	maison de joie	inclusive
+n	cds	no	persécuteur	conservative
+n	cds	no	mufle	conservative
+n	asm	no	nigaud	conservative
+n	cds	no	médiateur	inclusive
+n	ddp	yes	zoophilie	conservative
+n	cds	no	fou du roi	inclusive
+n	or	no	fada	conservative
+n	qas	no	chamailleur	conservative
+n	cds	no	déchet ménager et assimilé	conservative
+n	svp	no	avarice	conservative
+n	ddp	yes	boucher	conservative
+n	asm	no	imbécile	conservative
+n	or	no	doubeurre	inclusive
+n	re	no	meurtrière	inclusive
+n	asf	no	hammerhead	conservative
+n	or	no	pomme de terre	inclusive
+n	dmc	yes	menteuse	inclusive
+n	ddp	yes	animalité	inclusive
+n	svp	no	parcimonie	conservative
+n	re	no	torturée	inclusive
+n	pr	no	mus americanus	inclusive
+n	ddp	yes	zooerasty	conservative
+n	cds	no	changeling	inclusive
+n	is	yes	rat	conservative
+n	qas	no	salmigondis	inclusive
+a	svp	no	avare	conservative
+n	an	no	mouette	conservative
+n	ps	yes	inkiness	inclusive
+n	an	no	canasson	inclusive
+n	an	no	avare	conservative
+n	or	no	chou vert	inclusive
+n	an	no	eurypterida	inclusive
+n	an	no	chevêche	inclusive
+n	cds	no	intégriste	inclusive
+n	an	no	acharnement	conservative
+n	ddp	yes	cancan	conservative
+n	cds	no	kinfolk	inclusive
+n	cds	no	assistante parlementaire	inclusive
+n	qas	no	plébéien	inclusive
+n	ddp	yes	pigeon	conservative
+v	re	no	chou	inclusive
+n	cds	no	guerre des gangs	inclusive
+n	ddp	yes	la bête	conservative
+n	pa	yes	employe	inclusive
+n	dmc	yes	infortuné	inclusive
+n	ddp	yes	know nothing	conservative
+n	cds	no	cur	inclusive
+n	asm	no	andouille	inclusive
+n	ddp	yes	indicateur	conservative
+n	ddp	yes	bestialité	conservative
+n	an	no	arionidae	inclusive
+n	cds	no	des dizaines	inclusive
+n	is	yes	scélérat	conservative
+n	an	no	croco	inclusive
+n	om	no	enculade	inclusive
+n	ps	yes	patapouf	conservative
+n	om	no	culture gay	inclusive
+n	an	no	piège	inclusive
+n	an	no	gros porc	conservative
+n	qas	no	Épice gériatrique	inclusive
+n	an	no	pipistrellus|fr: pipistrelle	inclusive
+n	re	no	terrorisme	conservative
+n	asf	no	poire	conservative
+n	svp	no	d'autoritarisme	conservative
+n	ddp	yes	oligophrène	inclusive
+n	an	no	lapins	inclusive
+n	an	no	escargot	inclusive
+n	cds	no	crooner	inclusive
+n	an	no	rôle du méchant	conservative
+n	ps	yes	mélanoderme	inclusive
+n	om	no	keister	inclusive
+n	ddp	yes	ne savent rien	conservative
+n	ddf	yes	personne handicapée	inclusive
+n	dmc	yes	scélérat	conservative
+a	svp	no	avide	conservative
+n	or	no	tater	inclusive
+n	cds	no	brigands	inclusive
+n	cds	no	félon	conservative
+a	qas	no	frénétique	conservative
+n	svp	no	flemmardise	inclusive
+n	cds	no	le fascisme	conservative
+n	an	no	prostituée de la rue	conservative
+n	dmc	yes	avorton	conservative
+n	qas	no	équipage	inclusive
+n	cds	no	policière	conservative
+n	ps	yes	culture sélective des plantes	inclusive
+n	svp	no	harpagnon	conservative
+n	cds	no	le grand non lavé	inclusive
+n	cds	no	réprouver	conservative
+n	ddp	yes	absurde	conservative
+n	re	no	terroristes	conservative
+n	cds	no	rustaud	conservative
+n	cds	no	orgueil	inclusive
+n	dmc	yes	voyou	conservative
+n	cds	no	ordure	inclusive
+n	or	no	poove	conservative
+n	qas	no	canaille	conservative
+n	cds	no	tripoteur	inclusive
+n	is	yes	radin	conservative
+n	cds	no	usurière	inclusive
+n	asm	no	pigeon	conservative
+n	an	no	chouette chevèche	inclusive
+a	dmc	yes	poli	conservative
+n	asm	no	féverole	inclusive
+n	or	no	solanum tuberosum	inclusive
+a	svp	no	indolent	conservative
+n	an	no	phylum des mollusques	inclusive
+n	an	no	dispositif d'écoute secrète	inclusive
+n	cds	no	moulin à paroles	conservative
+n	an	no	rossinante	inclusive
+a	asm	no	brun	inclusive
+v	asm	no	coucher	conservative
+n	pr	no	fille de joie	conservative
+n	cds	no	go-between	inclusive
+n	or	no	idiot	conservative
+n	svp	no	ira	inclusive
+n	pr	no	bovins domestiques	inclusive
+n	re	no	calunnia	inclusive
+n	re	no	crimes	inclusive
+n	is	yes	pauvreté relative	inclusive
+n	an	no	oie	inclusive
+n	dmc	yes	chapardeur	conservative
+n	om	no	région glutéale	inclusive
+n	asm	no	branler	conservative
+n	an	no	sale chien	conservative
+n	an	no	faune	inclusive
+n	an	no	bison d'amérique du nord	inclusive
+n	asm	no	muggins	conservative
+n	cds	no	bourrique	inclusive
+n	ps	yes	sky girls	conservative
+n	cds	no	poltron	conservative
+n	asm	no	conard	conservative
+n	cds	no	abruti	inclusive
+n	cds	no	puzzle	conservative
+n	re	no	rogue	conservative
+n	dmc	yes	bigot	conservative
+a	cds	no	orgueilleux	conservative
+a	svp	no	lascif	conservative
+n	cds	no	oisif	conservative
+n	dmc	yes	mentir	inclusive
+n	cds	no	rumourmonger	conservative
+n	an	no	ignorant	conservative
+n	cds	no	prêtre	inclusive
+n	an	no	japper	inclusive
+n	cds	no	foul-up	inclusive
+n	asf	no	vaginale	conservative
+n	an	no	hyènes	inclusive
+n	svp	no	rage	inclusive
+n	cds	no	hors-la-loi	inclusive
+n	pr	no	adultère	conservative
+n	or	no	buche	conservative
+n	cds	no	wisenheimer	conservative
+n	asm	no	imbécilité	conservative
+n	ddp	yes	cérébrolésé	inclusive
+n	an	no	salientian	inclusive
+n	cds	no	interfertilité	inclusive
+n	dmc	yes	bobard	inclusive
+n	pr	no	foutaises	conservative
+n	ddp	yes	fils de pute	conservative
+n	an	no	sous-ordre blattaria	inclusive
+n	asm	no	pois verts	inclusive
+a	om	no	hors norme	inclusive
+a	ps	yes	juive	inclusive
+n	svp	no	pingrerie	conservative
+n	an	no	petit-duc macule	inclusive
+n	cds	no	tacot	inclusive
+n	an	no	rosse	inclusive
+n	an	no	fourbe	conservative
+a	svp	no	goulu	inclusive
+n	an	no	anguillidés	inclusive
+n	pr	no	mouche à feu	inclusive
+n	cds	no	boulot	conservative
+n	an	no	codswallop	conservative
+n	cds	no	déchet	inclusive
+n	cds	no	se mêlent-mangle	inclusive
+n	cds	no	claque	inclusive
+a	dmc	yes	à la gomme	conservative
+a	ps	yes	infortuné	inclusive
+n	om	no	arrière-train	inclusive
+n	an	no	stupidité	conservative
+n	is	yes	les pauvres	inclusive
+n	ddp	yes	blabbermouth	conservative
+n	dmc	yes	vadrouilleur	inclusive
+n	cds	no	ragots	inclusive
+n	cds	no	société fasciste	conservative
+n	cds	no	lécheur	conservative
+n	cds	no	criminelle	inclusive
+n	ps	yes	jais	inclusive
+n	cds	no	hybride naturel	inclusive
+n	asm	no	concombre	inclusive
+n	qas	no	burne	inclusive
+n	asf	no	enculé	conservative
+v	an	no	tempête	conservative
+n	cds	no	préjugé scientiste	inclusive
+n	svp	no	indolence	conservative
+n	pr	no	fille des rues	conservative
+n	cds	no	menterie	conservative
+n	ps	yes	bêta	conservative
+v	asm	no	faire zizi-panpan	conservative
+n	svp	no	rat	conservative
+v	asm	no	connaître	conservative
+n	an	no	mouche à feu	inclusive
+n	cds	no	zavattarica	inclusive
+n	ps	yes	nibard	conservative
+n	cds	no	correspondants	inclusive
+n	ddf	yes	handicap de mobilité les amputés	inclusive
+n	cds	no	fripouille	conservative
+n	asm	no	petit pois	inclusive
+n	an	no	ixode	inclusive
+n	asm	no	balourd	inclusive
+n	an	no	psittaciforme	inclusive
+n	ddp	yes	gâcheur	conservative
+a	svp	no	de mauvaise humeur	conservative
+n	cds	no	petit voleur	inclusive
+n	cds	no	fripouille	inclusive
+n	re	no	ravisseur	inclusive
+n	dmc	yes	sneak thief	conservative
+n	ps	yes	monohybride	inclusive
+n	an	no	chochotte	conservative
+n	cds	no	fou	inclusive
+n	qas	no	gâcher	inclusive
+n	dmc	yes	fausseté	inclusive
+n	an	no	coquerelle	inclusive
+n	ddp	yes	être animé	inclusive
+n	an	no	rascasses	inclusive
+n	cds	no	sociétés tribales	inclusive
+n	cds	no	révélateur	conservative
+n	cds	no	gamin	inclusive
+n	re	no	crimes sexuels	inclusive
+n	cds	no	proxo	conservative
+n	an	no	canin	inclusive
+n	cds	no	criminels	inclusive
+n	ps	yes	juif	inclusive
+n	qas	no	conformisme religieux	inclusive
+n	cds	no	lâcheté	conservative
+n	cds	no	demi	conservative
+a	svp	no	orgueilleux	conservative
+n	ddf	yes	bossue	inclusive
+n	cds	no	w.-c.	inclusive
+a	ddf	yes	aveugle	inclusive
+a	ddp	yes	ignare	conservative
+n	om	no	pédale	conservative
+n	cds	no	interprétation littérale	inclusive
+n	or	no	niais	conservative
+n	cds	no	plouc	conservative
+n	cds	no	bric-à-brac	inclusive
+n	is	yes	miséreux	inclusive
+n	cds	no	satan	conservative
+n	cds	no	institutrice	conservative
+n	pa	yes	cordonniers	inclusive
+n	or	no	cunt	conservative
+n	an	no	requin mangeur d'hommes	inclusive
+n	cds	no	amateur	inclusive
+n	re	no	organisation terroriste	inclusive
+n	dmc	yes	bon à rien	conservative
+n	is	yes	coquin	conservative
+n	re	no	méchant tragique	conservative
+n	qas	no	ballast	inclusive
+n	cds	no	ostentation	inclusive
+n	pr	no	vaches	inclusive
+n	ddp	yes	balourd	inclusive
+n	om	no	proximale	inclusive
+n	an	no	garce	conservative
+n	an	no	ventouse	inclusive
+n	an	no	antilope chèvre	inclusive
+n	ddp	yes	cataplasme	conservative
+n	cds	no	amour-propre	conservative
+n	qas	no	agricultrice	inclusive
+n	svp	no	ladre	conservative
+n	cds	no	dégonflé	conservative
+n	dmc	yes	apostat	conservative
+n	dmc	yes	dieu filou	conservative
+n	qas	no	boucher	conservative
+n	om	no	spectacle de travestis	inclusive
+n	cds	no	solennité	inclusive
+n	asm	no	benêt	conservative
+n	asf	no	vittu	conservative
+n	cds	no	backtalk	inclusive
+n	cds	no	clown	conservative
+n	cds	no	gardien de prison	inclusive
+n	ddp	yes	ravi	conservative
+n	cds	no	conteur	conservative
+n	asm	no	ficken	conservative
+n	cds	no	agent de police	conservative
+n	re	no	méchante	conservative
+n	an	no	abruti	conservative
+n	cds	no	wimp	conservative
+a	ddf	yes	insatisfaisante	conservative
+n	qas	no	bobard	conservative
+n	svp	no	répulsion	inclusive
+n	cds	no	swaggerer	conservative
+n	an	no	papillon	inclusive
+n	cds	no	enseignant	inclusive
+n	dmc	yes	moraliste	inclusive
+n	svp	no	propre à rien	conservative
+n	dmc	yes	baguenaudier	conservative
+n	asf	no	retard	conservative
+n	an	no	tiques	inclusive
+n	ddp	yes	être	inclusive
+n	or	no	caboche	inclusive
+n	an	no	chersea vulgaris	inclusive
+n	cds	no	égout	inclusive
+n	cds	no	pleutre	conservative
+n	cds	no	espièglerie	conservative
+n	cds	no	trouillard	conservative
+n	cds	no	trublion	conservative
+n	cds	no	recrue	conservative
+n	pa	yes	défenseur	inclusive
+n	is	yes	pauvre	inclusive
+n	dmc	yes	homoncules	inclusive
+n	qas	no	chahuteur	conservative
+n	pa	yes	moutonnière	inclusive
+n	asm	no	imbécile	inclusive
+n	svp	no	fainéant	conservative
+n	cds	no	chien	conservative
+n	an	no	cancrelats	inclusive
+n	cds	no	fanatisme juif	conservative
+n	dmc	yes	achille	conservative
+n	ddp	yes	animaux pluricellulaires	inclusive
+n	dmc	yes	imposture	conservative
+n	re	no	piraterie	inclusive
+n	an	no	bestialité	conservative
+n	an	no	rage	inclusive
+n	an	no	bisons d'europe	inclusive
+a	dmc	yes	moche	conservative
+a	or	no	éprouvant	conservative
+v	qas	no	niquer	conservative
+n	qas	no	rhetorique	inclusive
+n	qas	no	paire de manches	inclusive
+n	svp	no	avare	inclusive
+v	cds	no	dévisser son billard	inclusive
+n	cds	no	entremetteur	conservative
+n	an	no	escort-boy	conservative
+a	or	no	astreignant	conservative
+n	cds	no	hack écrivain	conservative
+n	cds	no	guerre des gangs	conservative
+n	asm	no	poisson	inclusive
+n	an	no	bufavus meneghinii	inclusive
+n	an	no	larves de moustiques	inclusive
+n	cds	no	beauté	inclusive
+n	cds	no	bousculant	conservative
+n	asm	no	corne	inclusive
+n	cds	no	demeuré	inclusive
+n	cds	no	représentant	inclusive
+n	an	no	chacal doré	inclusive
+a	pa	yes	universitaire	conservative
+n	cds	no	baladin	inclusive
+n	cds	no	friponnerie	conservative
+n	ps	yes	interfertilité	inclusive
+n	an	no	radin	conservative
+n	an	no	lombrosianisme	inclusive
+n	cds	no	boulette	inclusive
+n	an	no	animal	inclusive
+n	asf	no	buisson	inclusive
+n	qas	no	villageois	inclusive
+n	asm	no	fada	inclusive
+a	svp	no	agressif	conservative
+n	an	no	bison d'amerique du nord	inclusive
+n	is	yes	pauvreté urbaine	inclusive
+n	cds	no	méchant	conservative
+n	re	no	exécution	inclusive
+n	an	no	shote	inclusive
+a	dmc	yes	étroit	conservative
+a	ddp	yes	fade	inclusive
+n	cds	no	chapardeur	conservative
+n	ps	yes	chinois	inclusive
+n	cds	no	ruffian	inclusive
+n	pa	yes	entrepreneur	inclusive
+a	qas	no	petit-bourgeois	inclusive
+n	dmc	yes	goof-off	conservative
+n	ps	yes	voyou	conservative
+n	cds	no	ndrangheta	inclusive
+n	re	no	voleuse	inclusive
+n	cds	no	vilain	conservative
+n	asm	no	perche	inclusive
+n	cds	no	lampiste	conservative
+n	svp	no	abattement	inclusive
+a	cds	no	rebattu	inclusive
+n	pr	no	prostituées	conservative
+a	is	yes	radin	conservative
+n	an	no	vipere berus	inclusive
+n	cds	no	salaud	conservative
+n	an	no	ovin	conservative
+n	cds	no	clochard	conservative
+n	om	no	plan médian	inclusive
+n	cds	no	tête de vier	conservative
+n	dmc	yes	vagabondage	inclusive
+n	qas	no	bourgeoisie canadienne	inclusive
+n	cds	no	camora	inclusive
+n	svp	no	orgueilleuse	inclusive
+n	re	no	fraudeur	inclusive
+n	re	no	meurtre	inclusive
+v	cds	no	babiller	inclusive
+n	ps	yes	culture juive	inclusive
+a	ddp	yes	macrocéphale	inclusive
+n	an	no	nigaud	conservative
+n	asm	no	jacking off	conservative
+n	or	no	pauvre poisson	conservative
+a	cds	no	mineur	inclusive
+n	cds	no	cadavre animal	inclusive
+n	an	no	achille	conservative
+n	ps	yes	facho	inclusive
+n	an	no	idiot	conservative
+n	cds	no	connarde	conservative
+n	dmc	yes	barbare	conservative
+n	svp	no	harpagnon	inclusive
+n	an	no	Ânon	inclusive
+n	cds	no	hybris	inclusive
+v	re	no	torture	inclusive
+a	svp	no	libidineuse	conservative
+n	qas	no	père	inclusive
+n	ps	yes	darkie	conservative
+n	an	no	péripatéticienne	conservative
+v	qas	no	maquiller	inclusive
+a	re	no	dur	inclusive
+n	svp	no	vanité	conservative
+a	dmc	yes	misérable	conservative
+n	pa	yes	communauté universitaire	inclusive
+a	pa	yes	pédante	conservative
+n	ddp	yes	déficients intellectuels	inclusive
+n	cds	no	weakly interacting massive particles	conservative
+n	cds	no	sac de racaille	conservative
+a	cds	no	académique	conservative
+n	dmc	yes	bouffon	inclusive
+n	cds	no	badinage	inclusive
+v	asm	no	caserne	inclusive
+n	or	no	fotzen	conservative
+n	qas	no	plomb	inclusive
+n	cds	no	séchoir à linge	inclusive
+n	asf	no	fighe	conservative
+n	cds	no	impudence	conservative
+n	qas	no	granger	inclusive
+n	re	no	kidnapper	inclusive
+n	or	no	nigaud	conservative
+n	ps	yes	beduin	inclusive
+n	qas	no	travail à la maison	inclusive
+n	cds	no	rat	inclusive
+n	cds	no	contentement de soi	inclusive
+a	cds	no	espiègle	conservative
+n	ps	yes	changeling	conservative
+n	cds	no	griffer	inclusive
+n	ps	yes	amélioration végétale	inclusive
+n	svp	no	lésineur	inclusive
+n	cds	no	pompeux	inclusive
+n	qas	no	bourdes	inclusive
+n	dmc	yes	mozza	inclusive
+n	ps	yes	métèque	inclusive
+n	cds	no	désordre	conservative
+n	cds	no	débutant	conservative
+v	asm	no	frauder	conservative
+n	dmc	yes	délit	inclusive
+n	an	no	lapin	inclusive
+n	qas	no	barons	inclusive
+n	qas	no	affaires	inclusive
+n	cds	no	surveillant de prison	inclusive
+n	om	no	même sexe	inclusive
+n	ddp	yes	personne analphabète	inclusive
+n	svp	no	dégout	inclusive
+n	an	no	gredin	conservative
+n	an	no	gringalet	conservative
+n	dmc	yes	faux-cul	conservative
+n	cds	no	ingroup	inclusive
+n	re	no	pirate	inclusive
+n	cds	no	singe	inclusive
+n	asf	no	les poils pubiens	inclusive
+n	cds	no	instituteurs	inclusive
+n	re	no	tourment	inclusive
+n	pr	no	concubin	inclusive
+n	re	no	affaire criminelle	inclusive
+n	svp	no	tanha	inclusive
+n	dmc	yes	baladin	inclusive
+n	cds	no	plaisantin	conservative
+n	om	no	cul	inclusive
+n	ps	yes	economie souterraine	inclusive
+n	an	no	méchant de fiction	conservative
+n	qas	no	État bourgeois	inclusive
+n	an	no	microbien	inclusive
+v	asm	no	arnaquer	conservative
+n	cds	no	coursier	inclusive
+n	pr	no	sportif dame	conservative
+n	ddp	yes	cancre	conservative
+n	cds	no	fanatisme religieux	conservative
+n	ddp	yes	prisonnier de la chair	inclusive
+n	qas	no	at-tabi'ûn	inclusive
+n	asm	no	rouston	inclusive
+n	re	no	maffioso	inclusive
+n	cds	no	latrine	inclusive
+n	ps	yes	bedouins	inclusive
+n	cds	no	coquin	inclusive
+n	ps	yes	jaune	inclusive
+v	cds	no	claquer	inclusive
+n	cds	no	tribu	inclusive
+n	re	no	meurtre au 1er degré	inclusive
+n	om	no	plan sagittal médian	inclusive
+n	om	no	chochotte	conservative
+a	cds	no	courant	inclusive
+n	cds	no	dihybridisme	inclusive
+n	an	no	anguilliformes	inclusive
+n	asm	no	idiot	inclusive
+n	om	no	inverti	conservative
+n	an	no	sébaste	inclusive
+n	asf	no	connil	conservative
+v	cds	no	manger les pissenlits par la racine	inclusive
+n	om	no	sodomiste	inclusive
+n	pa	yes	cabot	inclusive
+n	cds	no	clanisme	inclusive
+n	or	no	orange brûlé	inclusive
+n	dmc	yes	prodigue	inclusive
+n	an	no	poulet	conservative
+n	cds	no	criminelle	conservative
+n	cds	no	l'auto-suffisance	inclusive
+n	asf	no	balourd	conservative
+n	dmc	yes	traîtresse	conservative
+n	cds	no	prêt d'argent	conservative
+n	svp	no	paresse	conservative
+n	qas	no	limier	inclusive
+v	cds	no	dévorer	inclusive
+n	an	no	bogue	inclusive
+n	cds	no	purin	inclusive
+n	om	no	sagittal	inclusive
+n	cds	no	sassing	inclusive
+n	ps	yes	romanis	inclusive
+n	cds	no	maison de passe	inclusive
+n	re	no	delit penal en france	inclusive
+n	om	no	postérieure	inclusive
+n	qas	no	endoparasites	inclusive
+n	an	no	vipère péliade	inclusive
+n	cds	no	hybride intergénérique	inclusive
+n	asm	no	baiser	conservative
+n	dmc	yes	chevalier d'industrie	conservative
+n	ddp	yes	boule	conservative
+n	cds	no	vaunter	conservative
+n	ps	yes	gitan	inclusive
+n	asm	no	repos	inclusive
+n	cds	no	maffioso	conservative
+n	svp	no	jalousie	inclusive
+n	re	no	braquage	inclusive
+n	cds	no	ubris	conservative
+n	an	no	rat	conservative
+n	svp	no	feignant	conservative
+n	pr	no	fille publique	conservative
+n	cds	no	bague	conservative
+a	re	no	tempétueux	inclusive
+n	re	no	mafia: the city of lost heaven	inclusive
+n	cds	no	clébard	inclusive
+a	svp	no	indigné	conservative
+n	or	no	clope	conservative
+n	cds	no	hybride	inclusive
+n	qas	no	agriculteurs	inclusive
+n	om	no	gai	conservative
+n	asf	no	cunt	conservative
+n	asm	no	putain de	conservative
+n	an	no	con	conservative
+n	asm	no	oisel	inclusive
+n	asm	no	bander	inclusive
+n	or	no	finocchio	inclusive
+a	qas	no	aberrant	conservative
+n	qas	no	système des castes	inclusive
+n	cds	no	symbole maçonnique	inclusive
+n	re	no	agression sexuelle	inclusive
+a	ps	yes	judaïque	inclusive
+n	dmc	yes	saisonnier	conservative
+n	ddp	yes	bête	conservative
+n	pr	no	comare	conservative
+n	pr	no	papillon	inclusive
+n	ddp	yes	sac triste	conservative
+n	cds	no	oeuvre maçonnique	inclusive
+n	an	no	tzarevcsya	inclusive
+n	cds	no	société de courtage	inclusive
+n	svp	no	ennui	inclusive
+n	asf	no	twat	conservative
+n	pr	no	phalène	inclusive
+n	an	no	ewe	inclusive
+n	cds	no	gangsters	inclusive
+n	ps	yes	gaspilleur	conservative
+n	cds	no	bragger	conservative
+n	an	no	git	conservative
+n	re	no	interdire	inclusive
+n	cds	no	réseau d'égouts	inclusive
+n	dmc	yes	bâtard	conservative
+n	an	no	doux au toucher	conservative
+n	ddp	yes	retarder	conservative
+n	re	no	rapt	inclusive
+n	ddp	yes	coucou	conservative
+n	ddp	yes	retards psychomoteurs	inclusive
+n	qas	no	clochard	conservative
+a	dmc	yes	scandaleux	conservative
+a	svp	no	arrogante	conservative
+n	cds	no	bordel légal	inclusive
+n	svp	no	désir sexuel	inclusive
+n	re	no	vols à main armée	inclusive
+n	asf	no	poussin	conservative
+n	an	no	muttonheads	conservative
+n	cds	no	dime novels	inclusive
+n	cds	no	mafioso	conservative
+a	cds	no	artificieux	conservative
+n	cds	no	surveillant pénitentiaire	inclusive
+n	an	no	hémiptères	inclusive
+n	re	no	truand	inclusive
+n	an	no	sus domesticus	inclusive
+n	ddp	yes	imbécile	inclusive
+n	cds	no	nerd	conservative
+n	ps	yes	vandale	conservative
+a	dmc	yes	libertin	conservative
+n	svp	no	perte de volonté	inclusive
+n	svp	no	courroux	inclusive
+n	cds	no	faschiste	conservative
+n	an	no	feignant	conservative
+v	cds	no	griffonner	inclusive
+n	dmc	yes	clown auguste	inclusive
+n	an	no	muggins	conservative
+n	an	no	moo-cow	inclusive
+n	cds	no	contrevenant	inclusive
+n	svp	no	harpagon	conservative
+n	om	no	le sexe anal	inclusive
+n	an	no	lait de chèvre	inclusive
+n	pr	no	c'est de la foutaise	conservative
+n	qas	no	conformité réglementaire	inclusive
+n	om	no	plan sagittal	inclusive
+n	re	no	second degré assassiner	inclusive
+v	cds	no	papoter	conservative
+n	cds	no	joue	conservative
+n	svp	no	convoitise	inclusive
+a	svp	no	irrité	conservative
+n	cds	no	sectaire	conservative
+n	cds	no	conventicules	inclusive
+n	asf	no	connasse	conservative
+n	pr	no	rat brun	inclusive
+n	cds	no	gardien de la paix	inclusive
+n	re	no	diffamation	inclusive
+n	cds	no	laboureur	conservative
+n	ps	yes	peuples noirs	inclusive
+n	ps	yes	concombre	conservative
+n	an	no	harpagnon	conservative
+n	qas	no	paroissiale	inclusive
+n	cds	no	mafia	conservative
+a	is	yes	triste	inclusive
+n	cds	no	putain	conservative
+n	dmc	yes	glandeur	conservative
+n	ddp	yes	moronity	inclusive
+v	cds	no	comploter	inclusive
+n	rci	yes	pignouf	conservative
+n	svp	no	ennuyant	inclusive
+n	ps	yes	population de couleur noire	inclusive
+n	cds	no	peuple	inclusive
+n	qas	no	épice gériatrique	inclusive
+n	asm	no	loi 12 du football: fautes et comportement antisportif	inclusive
+n	pr	no	prostitution masculine	conservative
+n	cds	no	turlupin	conservative
+n	pr	no	vers luisant	inclusive
+n	ps	yes	autres courses	inclusive
+v	is	yes	supplier	inclusive
+n	or	no	imbécile	conservative
+n	qas	no	paroissien	inclusive
+a	cds	no	futé qualifier	inclusive
+n	re	no	méchant	conservative
+n	cds	no	sniveller	conservative
+n	pr	no	cohabitation	inclusive
+n	an	no	capra hircus	inclusive
+n	om	no	coronal	inclusive
+n	asm	no	rayons mous	inclusive
+n	is	yes	pauperisme	inclusive
+n	dmc	yes	dissimulateur	conservative
+n	dmc	yes	flâneur	conservative
+n	cds	no	gars	inclusive
+n	dmc	yes	faux	conservative
+n	pa	yes	contrôleur de gestion	inclusive
+n	cds	no	diablerie	conservative
+n	re	no	chiseler	inclusive
+n	ps	yes	métis	conservative
+n	re	no	voleur	inclusive
+n	svp	no	paresseux	conservative
+n	an	no	chacal commun	inclusive
+n	cds	no	paparazzo	inclusive
+n	ddp	yes	fils de putain	conservative
+n	dmc	yes	fourbe	conservative
+n	re	no	biens volés	inclusive
+a	dmc	yes	cruel	conservative
+n	cds	no	tribal	inclusive
+n	an	no	roquet	inclusive
+n	ps	yes	religion des juifs	inclusive
+n	an	no	zoobionte	inclusive
+n	cds	no	râleuse	conservative
+n	re	no	délit	inclusive
+n	pr	no	rosse	conservative
+n	asm	no	four	conservative
+n	ps	yes	monde juif	inclusive
+v	is	yes	prier	inclusive
+n	cds	no	endogroupe	inclusive
+n	pa	yes	gardien de la porte	inclusive
+n	ps	yes	monohybridisme	inclusive
+n	asf	no	cheveux entrejambe	inclusive
+n	re	no	criminel sexuel	conservative
+n	ddp	yes	changeling	conservative
+n	cds	no	free mason	inclusive
+n	is	yes	lutte contre la pauvreté	inclusive
+n	asm	no	nookie	conservative
+n	asf	no	demeuré	conservative
+n	cds	no	fanatisme	inclusive
+n	an	no	maringouin domestique	inclusive
+n	pr	no	mites	inclusive
+n	or	no	pommes de terre	inclusive
+n	pr	no	hétaire	inclusive
+n	an	no	microorganisme	inclusive
+n	dmc	yes	menteur	inclusive
+n	svp	no	trancheuse	inclusive
+n	cds	no	vol à main armée	inclusive
+n	cds	no	proxenetisme	inclusive
+n	ddp	yes	crétin	conservative
+n	om	no	puanteur	inclusive
+n	pr	no	coquine	conservative
+a	ddp	yes	analphabète	inclusive
+n	cds	no	déchets ménagers	conservative
+n	qas	no	de bric et de broc	conservative
+n	re	no	acte criminel seule	inclusive
+n	cds	no	wonk	conservative
+n	ddp	yes	mal cuit	conservative
+n	cds	no	tel et donc	conservative
+n	asm	no	retarder	inclusive
+n	ps	yes	benêt	conservative
+n	asm	no	oiseaux	inclusive
+n	ddp	yes	bêta	conservative
+a	dmc	yes	à la noix	conservative
+n	qas	no	rustique	inclusive
+a	dmc	yes	vieux	conservative
+n	pr	no	femme de la rue	conservative
+n	or	no	brassica oleracea var. capitata	inclusive
+n	cds	no	privé	inclusive
+n	ddp	yes	attardé	conservative
+n	cds	no	voleurs	inclusive
+n	an	no	vipera berus	inclusive
+n	cds	no	nympho	conservative
+n	dmc	yes	fabricatrice	conservative
+a	dmc	yes	vil	conservative
+n	ps	yes	kraut	conservative
+n	svp	no	glouton	inclusive
+n	cds	no	fouine	conservative
+n	qas	no	bousiller	inclusive
+n	qas	no	bévue	inclusive
+n	cds	no	ruse	inclusive
+n	pr	no	garce	conservative
+n	cds	no	badinerie	inclusive
+n	an	no	hibou	inclusive
+n	an	no	perroquets	inclusive
+a	an	no	pouilleux	inclusive
+n	cds	no	cosa nostra	inclusive
+n	om	no	homosexuel	inclusive
+n	an	no	physiognomoniste	inclusive
+n	ddp	yes	sauvage	conservative
+a	svp	no	colère	inclusive
+a	dmc	yes	atroce	conservative
+n	cds	no	salle de bains	inclusive
+n	an	no	mesohorinis	inclusive
+n	asm	no	enculé	conservative
+n	om	no	uraniste	conservative
+n	cds	no	ne rien faire	conservative
+n	asf	no	folderol	conservative
+n	ddp	yes	personne sans instruction	conservative
+n	cds	no	saisines	inclusive
+a	qas	no	mièvre	conservative
+n	svp	no	mangeur	inclusive
+a	re	no	fort	inclusive
+n	om	no	dames	inclusive
+n	pa	yes	travailleur	inclusive
+n	dmc	yes	râteau	conservative
+n	asf	no	twats	conservative
+n	re	no	crucifixion	inclusive
+n	re	no	abus	inclusive
+v	asm	no	forniquer	conservative
+n	re	no	agression sexuelle en droit pénal français	inclusive
+n	an	no	moustique commun	inclusive
+n	an	no	punaise des lits	inclusive
+n	cds	no	briseurs grève	inclusive
+n	asm	no	ridicule	conservative
+n	an	no	bique	inclusive
+n	cds	no	mafia italienne	inclusive
+n	asm	no	cigare à moustache	inclusive
+a	re	no	violent	inclusive
+n	an	no	connard	conservative
+n	re	no	coquin	inclusive
+n	cds	no	réactionnisme	conservative
+n	pr	no	pute	conservative
+n	re	no	violeuse	conservative
+n	an	no	chêvre	inclusive
+n	cds	no	trasformismo	inclusive
+n	dmc	yes	tel et donc	conservative
+n	an	no	achète	inclusive
+n	cds	no	routiers	inclusive
+n	or	no	cucumis sativus	inclusive
+n	pr	no	rat gris	inclusive
+n	cds	no	cathouse	inclusive
+n	qas	no	roturiers	inclusive
+n	is	yes	appauvrissement	inclusive
+n	cds	no	gaffe	inclusive
+n	cds	no	malfaiteur	inclusive
+n	cds	no	unité de mesure de japonaise	inclusive
+n	an	no	chouette cheveche	inclusive
+n	an	no	pudge	conservative
+n	cds	no	mafia sicilienne	inclusive
+n	cds	no	maison close	inclusive
+n	ddp	yes	tête de noeud	conservative
+n	cds	no	culture des gangs	conservative
+n	an	no	biston betularia	inclusive
+n	om	no	pédérastique	inclusive
+n	cds	no	fanatisme évangélique	conservative
+n	ddf	yes	invalidité	inclusive
+n	qas	no	bloodhound	inclusive
+n	qas	no	ménage	inclusive
+v	ddp	yes	s'abêtir	conservative
+v	asm	no	escroquer	conservative
+n	re	no	maffioso	conservative
+a	svp	no	avaricieux	inclusive
+n	asm	no	branlette	conservative
+n	cds	no	ragot	inclusive
+n	an	no	ridicule	conservative
+n	ddp	yes	simple	conservative
+n	cds	no	présomption	conservative
+n	an	no	voleurs de corps	inclusive
+n	or	no	vitut	conservative
+n	dmc	yes	maux	inclusive
+n	or	no	homosexuelle	conservative
+n	asf	no	fica	conservative
+n	cds	no	niais	conservative
+n	asm	no	pénis	inclusive
+n	qas	no	amateuse	inclusive
+n	an	no	ânes	inclusive
+n	cds	no	projet réactionnaire	conservative
+n	pr	no	salope	conservative
+n	cds	no	religiosité	inclusive
+n	qas	no	baron	inclusive
+n	svp	no	paresse	inclusive
+n	qas	no	opérateur de marché	inclusive
+n	ddf	yes	handicapés	inclusive
+a	cds	no	exigeant	conservative
+n	dmc	yes	chalutier	inclusive
+n	an	no	fureur	inclusive
+n	an	no	paresseux	conservative
+n	pr	no	fille de joie	inclusive
+n	ddp	yes	nigaud	conservative
+n	cds	no	vaches	conservative
+n	re	no	kidnappe	inclusive
+n	cds	no	patron du crime	inclusive
+n	an	no	méchante	conservative
+n	ddp	yes	analphabète	inclusive
+n	pr	no	ramper trottoir	conservative
+n	or	no	courge	inclusive
+n	an	no	mulassière	inclusive
+n	cds	no	keuf	inclusive
+a	svp	no	furibond	inclusive
+n	qas	no	ordures ménagères	inclusive
+n	dmc	yes	vagabonds	inclusive
+n	cds	no	gangs de rue	conservative
+n	or	no	minou	conservative
+n	cds	no	Épice gériatrique	inclusive
+a	svp	no	vindicatif	conservative
+n	ddp	yes	sot	inclusive
+a	cds	no	astreignant	conservative
+n	an	no	bâton-dans-la-boue	conservative
+n	qas	no	operateur de marche	inclusive
+v	cds	no	gorger	inclusive
+n	cds	no	flic	inclusive
+n	asm	no	pois commun	inclusive
+n	an	no	Âne commun	inclusive
+n	re	no	argent sale	inclusive
+n	cds	no	grande compagnie	inclusive
+a	svp	no	acquisitif	inclusive
+n	an	no	bête	conservative
+n	or	no	bœuf	conservative
+n	cds	no	agent	inclusive
+n	dmc	yes	clochards	conservative
+n	ddp	yes	cornichon	conservative
+n	cds	no	crimes	inclusive
+n	re	no	violeur en série	conservative
+n	an	no	grenouille	inclusive
+n	om	no	androgame	conservative
+n	ddp	yes	barbarie	inclusive
+n	cds	no	maçonniques	inclusive
+n	ps	yes	selle	conservative
+n	cds	no	resquilleur	conservative
+n	pa	yes	mufle	conservative
+n	an	no	megascops	inclusive
+a	ddf	yes	décevant]]	conservative
+n	cds	no	mêle-tout	conservative
+n	an	no	caprins	inclusive
+n	cds	no	gros malin	conservative
+a	pa	yes	pointilleux	conservative
+n	ddp	yes	fureur	conservative
+n	re	no	piratage	inclusive
+n	qas	no	parasitaire	inclusive
+n	an	no	prostitution masculine	conservative
+n	re	no	agression	inclusive
+n	ddp	yes	jaseur	inclusive
+n	an	no	crocodiles	inclusive
+n	is	yes	paria	inclusive
+n	om	no	poove	conservative
+n	is	yes	pauvreté mondiale	inclusive
+n	cds	no	quignon	conservative
+n	cds	no	méfaits de décision	conservative
+n	qas	no	fermier	inclusive
+n	dmc	yes	escroc	conservative
+n	re	no	maffia	conservative
+n	or	no	sot	conservative
+n	an	no	insecte	inclusive
+n	cds	no	tas	inclusive
+n	cds	no	violence des gangs	conservative
+n	qas	no	mufle	conservative
+n	ps	yes	ignorant	conservative
+n	dmc	yes	faker	conservative
+n	or	no	fif	conservative
+n	ps	yes	négro	conservative
+n	an	no	chacal dore	inclusive
+n	an	no	famille cimicidae	inclusive
+n	an	no	bovin	inclusive
+n	an	no	chouette rayee	inclusive
+n	an	no	chevreau	inclusive
+n	cds	no	wagon de train	inclusive
+n	qas	no	bobo	inclusive
+n	pr	no	rat de norvège	inclusive
+n	cds	no	mensonge par omission	conservative
+n	cds	no	intrigant	inclusive
+n	an	no	inexorabilité	conservative
+n	cds	no	sot	conservative
+n	pa	yes	charretier	inclusive
+v	asm	no	bafouer	inclusive
+n	asm	no	ithyphallique	inclusive
+n	svp	no	bon à rien et	conservative
+n	re	no	trafiquant	inclusive
+n	pr	no	prostitué	inclusive
+n	cds	no	zelote	inclusive
+n	cds	no	nourrisson	inclusive
+a	qas	no	paroissiale	inclusive
+a	dmc	yes	factice	conservative
+n	om	no	ligne médio-claviculaire	inclusive
+n	ddp	yes	gossiper	conservative
+n	or	no	enculé	conservative
+n	pr	no	gangster moll	inclusive
+n	cds	no	mélange	inclusive
+n	cds	no	marieur	inclusive
+n	an	no	cochonne	inclusive
+n	asm	no	prépuce	inclusive
+v	asm	no	faire crac-crac	conservative
+n	cds	no	mafiosi	inclusive
+n	dmc	yes	motif éthique	inclusive
+n	cds	no	usure	inclusive
+n	an	no	otus asio	inclusive
+n	cds	no	trique	inclusive
+n	cds	no	bloopers	inclusive
+n	pa	yes	employée	inclusive
+n	svp	no	excès de table	inclusive
+n	asm	no	bite	inclusive
+n	cds	no	gardiens de prison	inclusive
+v	cds	no	bâfrer	inclusive
+n	cds	no	pétaudière	inclusive
+n	ddf	yes	boiteux	inclusive
+n	pa	yes	employés	inclusive
+n	om	no	tantouze	inclusive
+n	an	no	andouille	conservative
+n	cds	no	hiérarque	inclusive
+n	cds	no	fascismes	conservative
+n	cds	no	attaché parlementaire	inclusive
+n	pr	no	rat d'égout	inclusive
+n	om	no	fouindé	inclusive
+n	cds	no	criminalité	inclusive
+n	om	no	pédophile	conservative
+n	svp	no	scrooge	conservative
+n	ddp	yes	âne	conservative
+n	an	no	grimace	inclusive
+n	ps	yes	romani	inclusive
+n	re	no	terroriste	conservative
+n	qas	no	mensonge	conservative
+n	dmc	yes	ismaël	inclusive
+n	ddp	yes	fall guy	conservative
+n	cds	no	bêtisier	inclusive
+n	om	no	gnangnan	conservative
+n	om	no	homophile	inclusive
+n	cds	no	fanatisme chrétien	conservative
+n	cds	no	utilité publique	inclusive
+n	cds	no	cuvette de toilette	inclusive
+v	asm	no	fourrer	conservative
+n	cds	no	activités illégales	inclusive
+n	ps	yes	boule	conservative
+n	qas	no	huche	inclusive
+n	svp	no	luxure	inclusive
+n	pa	yes	conseil	inclusive
+n	an	no	taure	inclusive
+n	dmc	yes	erratique	inclusive
+n	re	no	mensonge malveillant	inclusive
+n	cds	no	intermédiaire	inclusive
+n	an	no	coq domestique	inclusive
+n	an	no	pelias	inclusive
+v	re	no	blouser	inclusive
+n	re	no	mafieux	inclusive
+n	om	no	pederastie	inclusive
+n	cds	no	débris	inclusive
+n	is	yes	scrooge	conservative
+n	dmc	yes	delit penal en france	inclusive
+n	qas	no	bourgeoisie nationaliste	inclusive
+n	cds	no	fada	conservative
+n	pr	no	⚯	inclusive
+n	an	no	garce	inclusive
+n	pa	yes	les universités	inclusive
+n	cds	no	bigot	conservative
+n	ps	yes	hun	conservative
+n	dmc	yes	faillite morale	inclusive
+n	ps	yes	ostrogoth	inclusive
+n	re	no	criminels	inclusive
+n	re	no	activités criminelles	inclusive
+n	an	no	phthiraptère	inclusive
+n	pr	no	pourrir	conservative
+n	ps	yes	mongoloïde	conservative
+a	ddf	yes	borgne	inclusive
+n	om	no	andouille	inclusive
+n	om	no	noble	inclusive
+n	an	no	ovidés	inclusive
+n	svp	no	tṛṣṇā	inclusive
+n	ddp	yes	retardé	conservative
+a	is	yes	attristé	inclusive
+n	asm	no	cornichon	conservative
+n	cds	no	branleur	conservative
+n	cds	no	solennité	conservative
+n	asm	no	benêt	inclusive
+n	an	no	chinch	inclusive
+n	an	no	commerce de cadavres	inclusive
+n	cds	no	policiers	inclusive
+n	cds	no	agent de police	inclusive
+v	asm	no	sauter	conservative
+n	cds	no	poltronne	conservative
+n	qas	no	peintre en bâtiments	inclusive
+n	qas	no	bucolique	inclusive
+n	cds	no	ordre maçonnique	inclusive
+n	or	no	chochotte	conservative
+n	qas	no	lestage	inclusive
+n	asm	no	loi 12 du football : fautes et comportement antisportif	inclusive
+n	re	no	assassiner au premier degré	inclusive
+n	an	no	bison bonasus	inclusive
+n	cds	no	con	conservative
+n	ddp	yes	benêt	conservative
+a	qas	no	maniéré	conservative
+n	ddp	yes	pignouf	conservative
+n	dmc	yes	immoral	inclusive
+n	asm	no	abruti	inclusive
+n	an	no	cuckolding	conservative
+a	ps	yes	chinois	inclusive
+n	is	yes	ladrerie	conservative
+n	cds	no	bêta	conservative
+n	qas	no	exploitant agricole	inclusive
+n	dmc	yes	fripon	conservative
+n	cds	no	commérage	conservative
+v	cds	no	déshydrater	inclusive
+n	cds	no	police	conservative
+n	is	yes	méchant tragique	conservative
+n	cds	no	fanatisme hindou	conservative
+n	re	no	violation	conservative
+a	cds	no	ordinaire	inclusive
+n	ddp	yes	de bric et de broc	conservative
+n	an	no	gier	inclusive
+n	an	no	bétail	inclusive
+n	cds	no	bande	inclusive
+n	an	no	voleur de corps	inclusive
+n	cds	no	lâche	conservative
+n	pr	no	racoleuse	conservative
+n	pr	no	buncombe	conservative
+n	dmc	yes	abjection	inclusive
+a	ps	yes	achromatique	inclusive
+n	re	no	forban	inclusive
+n	re	no	abus des entreprises	inclusive
+n	cds	no	criminel	conservative
+n	an	no	chouette effraie	inclusive
+n	asm	no	changelins	inclusive
+n	re	no	cambrioleuse	inclusive
+v	cds	no	claboter	inclusive
+n	asm	no	burne	inclusive
+n	an	no	bison américain	inclusive
+a	cds	no	prétentieux	conservative
+n	re	no	bétail voleur	inclusive
+n	re	no	vol	inclusive
+n	pa	yes	avocat de la défense	inclusive
+n	asm	no	grenat	inclusive
+n	cds	no	infraction pénale	inclusive
+n	ddp	yes	niais	conservative
+n	an	no	attaque de requin	inclusive
+n	an	no	sac de racaille	conservative
+n	cds	no	designer	inclusive
+n	dmc	yes	marquignon	conservative
+n	qas	no	correspondance	inclusive
+n	dmc	yes	méchant	conservative
+n	cds	no	garçon	inclusive
+n	qas	no	mensonge blanc	conservative
+n	pr	no	vaches laitières	inclusive
+n	re	no	agonie	inclusive
+n	dmc	yes	clown	inclusive
+n	ddp	yes	dommages au cerveau	inclusive
+n	cds	no	sélection variétale	inclusive
+n	qas	no	fureteur	inclusive
+n	cds	no	blowhard	conservative
+n	an	no	moutons	inclusive
+n	pa	yes	berger	inclusive
+n	cds	no	déchets municipaux	conservative
+n	an	no	cric	conservative
+n	svp	no	tightfistedness	conservative
+n	an	no	brant goose	inclusive
+n	ddp	yes	barbares	conservative
+n	is	yes	pauvreté	inclusive
+n	asf	no	débris	conservative
+n	cds	no	nouveau-riche	inclusive
+n	asm	no	vit	conservative
+n	cds	no	blague	inclusive
+v	asm	no	baiser	conservative
+n	an	no	canular internet	conservative
+n	dmc	yes	trifler	conservative
+n	pa	yes	poissonniers	inclusive
+n	an	no	blatte	inclusive
+n	ps	yes	carton jaune	inclusive
+n	asm	no	con	inclusive
+n	re	no	causa nostra	inclusive
+a	cds	no	ilegal	inclusive
+n	re	no	trophée	inclusive
+n	ddf	yes	handicapés physiques	inclusive
+n	qas	no	part domaine	inclusive
+n	cds	no	mafia sicilienne	conservative
+n	dmc	yes	abaissement	inclusive
+n	pa	yes	barbares	conservative
+a	ps	yes	comitatif	inclusive
+n	asm	no	verge	inclusive
+n	cds	no	sauf	inclusive
+n	an	no	pou de la tête	inclusive
+n	dmc	yes	empester	conservative
+n	re	no	camora	inclusive
+n	pr	no	hétérocères	inclusive
+n	cds	no	bagnard	inclusive
+n	asm	no	crédulité	conservative
+v	qas	no	rapiécer	inclusive
+n	is	yes	intouchable	inclusive
+n	cds	no	maquerelle	conservative
+a	ddf	yes	décevant	conservative
+n	cds	no	effronterie	conservative
+n	ddf	yes	aveugle	inclusive
+n	ddp	yes	con	inclusive
+n	qas	no	cultivatrice	inclusive
+n	cds	no	canaille	conservative
+a	cds	no	idiot	conservative
+n	qas	no	testicules	inclusive
+n	asm	no	connard	conservative
+n	pr	no	prostitution	inclusive
+n	pa	yes	pasteur	inclusive
+n	dmc	yes	sac de racaille	conservative
+n	cds	no	christianisme scientifique	inclusive
+n	or	no	homo	conservative
+n	om	no	coit anal	inclusive
+n	svp	no	radin	conservative
+n	dmc	yes	pharisien	inclusive
+n	re	no	torturés	inclusive
+n	an	no	sus	inclusive
+n	an	no	man-eater	inclusive
+n	dmc	yes	fou	inclusive
+n	re	no	délit pénal	inclusive
+n	dmc	yes	faux	inclusive
+a	cds	no	rustique	conservative
+a	is	yes	ladre	conservative
+n	an	no	louve	inclusive
+n	an	no	pou de corps humain	inclusive
+n	asf	no	sot	conservative
+n	is	yes	grippe-sou	conservative
+n	re	no	enfant battu	inclusive
+n	cds	no	déchet métallique	conservative
+n	ddp	yes	idiote	inclusive
+n	asm	no	bourrique	conservative
+n	an	no	animalcules	inclusive
+n	an	no	bétail de boucherie	inclusive
+n	cds	no	simple	conservative
+n	cds	no	mec	inclusive
+n	pr	no	biston betularia	inclusive
+n	re	no	violence	inclusive
+n	om	no	lune	inclusive
+a	cds	no	méticuleux	conservative
+n	om	no	vice anglais	inclusive
+n	dmc	yes	canaille	conservative
+n	om	no	homosexuelle	conservative
+n	qas	no	amateurisme	conservative
+n	an	no	mollusques	inclusive
+n	re	no	acte terroriste	conservative
+n	an	no	pigeonner	inclusive
+n	pr	no	ramper trottoir	inclusive
+n	qas	no	craque	conservative
+n	an	no	petit cochon	inclusive
+n	cds	no	demagog	conservative
+n	an	no	vampire	conservative
+n	dmc	yes	râteau de jardinier	conservative
+n	cds	no	sainte relique	inclusive
+n	cds	no	terre	inclusive
+a	dmc	yes	puante	conservative
+n	ps	yes	gitans	inclusive
+a	ddf	yes	boiteux	inclusive
+n	svp	no	conceitedness	conservative
+n	cds	no	policière	inclusive
+n	or	no	chatte	conservative
+n	or	no	cucurbita maxima	inclusive
+a	pa	yes	politiques	inclusive
+n	qas	no	embrouillamini	inclusive
+n	om	no	région fessière	inclusive
+n	asm	no	fuck	conservative
+n	an	no	bœufs	inclusive
+n	or	no	pédé	conservative
+n	om	no	enculer	inclusive
+a	qas	no	paroissial	inclusive
+n	an	no	perroquet	conservative
+n	asf	no	pilosité pubienne	inclusive
+n	cds	no	pédagogique	inclusive
+n	or	no	chou pommé blanc	inclusive
+n	re	no	violents	inclusive
+n	qas	no	blooper	inclusive
+n	dmc	yes	gaffeur	conservative
+n	ddp	yes	microcéphale	inclusive
+n	cds	no	sportif maison	inclusive
+n	asm	no	ﬁcken	conservative
+n	cds	no	chochotte	conservative
+n	re	no	maligner	conservative
+n	dmc	yes	clochard	inclusive
+n	an	no	valet	conservative
+n	ps	yes	vandal	inclusive
+n	re	no	viol par la force	conservative
+n	cds	no	bourdes	inclusive
+n	asm	no	barre	inclusive
+n	cds	no	courtage bancaire	inclusive
+n	an	no	ballon avaleur	inclusive
+n	pa	yes	ministre	inclusive
+n	cds	no	nigaud	conservative
+n	pa	yes	conseiller en droit	inclusive
+n	cds	no	proxénète	inclusive
+n	ddp	yes	imbécilité	conservative
+n	asm	no	quéquette	inclusive
+n	an	no	âne	inclusive
+n	cds	no	tête boudin	conservative
+a	cds	no	astucieux	conservative
+n	asm	no	avafauna	inclusive
+n	an	no	chèvre domestique	inclusive
+n	re	no	kidnappeur	inclusive
+n	ddp	yes	connard	inclusive
+n	cds	no	flagorneur	conservative
+n	re	no	attentat	conservative
+n	cds	no	gens	conservative
+n	cds	no	sale type	conservative
+n	dmc	yes	puanteur	conservative
+n	om	no	drag queen	inclusive
+n	ddp	yes	victime	conservative
+n	ddp	yes	rat	conservative
+n	cds	no	fanatisme musulman	conservative
+n	cds	no	rustaude	conservative
+n	pr	no	rattus	inclusive
+n	an	no	dunce	conservative
+n	ps	yes	sot	conservative
+n	qas	no	fermage	inclusive
+n	qas	no	perturbateur	conservative
+n	dmc	yes	broyer du noir	conservative
+n	pr	no	racoler	inclusive
+n	cds	no	par coup	inclusive
+n	re	no	violence sexuelle	inclusive
+n	qas	no	bloopers	inclusive
+n	an	no	phalène du bouleau	inclusive
+n	ddf	yes	nabot	conservative
+n	dmc	yes	paquet	conservative
+n	ddp	yes	muttonheads	conservative
+n	an	no	vamper	conservative
+n	qas	no	chef spirituel	inclusive
+n	an	no	flirter	conservative
+n	or	no	chou commun	inclusive
+n	re	no	mauvais usage	inclusive
+n	qas	no	émécher	inclusive
+n	pa	yes	rustre	conservative
+n	ddp	yes	pie	conservative
+n	cds	no	letrines	inclusive
+n	qas	no	bourgeois catholique	inclusive
+n	cds	no	charogne	inclusive
+n	or	no	tomate	inclusive
+a	or	no	exigeant	conservative
+n	an	no	poisson scorpion	inclusive
+n	pr	no	hellcat	conservative
+n	or	no	haricot	inclusive
+n	cds	no	blooper	inclusive
+n	an	no	microbes	inclusive
+n	dmc	yes	merry andrew	inclusive
+n	an	no	bovins domestiques	inclusive
+n	an	no	garçon loyer	conservative
+n	dmc	yes	moralisme	inclusive
+n	re	no	n%e2%80%99drangheta	inclusive
+n	qas	no	fatras	inclusive
+a	cds	no	corruptible	conservative
+n	asf	no	tête de nœud	conservative
+n	om	no	apicale	inclusive
+n	an	no	wisent	inclusive
+n	re	no	terrorisme international	inclusive
+v	asm	no	lever	conservative
+n	cds	no	en gros	inclusive
+n	qas	no	industriels	inclusive
+n	pr	no	escort-boy	conservative
+n	asm	no	baisage	conservative
+n	ddp	yes	poire	conservative
+n	cds	no	toupet	inclusive
+n	svp	no	lésine	inclusive
+n	qas	no	bric-à-brac	inclusive
+n	pa	yes	université	inclusive
+n	an	no	diddlyshit	conservative
+n	cds	no	d'autoritarisme	conservative
+n	cds	no	papier-poussoir	inclusive
+n	pr	no	concubine	inclusive
+n	re	no	camorriste	inclusive
+n	qas	no	trader indépendant	inclusive
+n	om	no	personne handicapée	conservative
+n	qas	no	sauvage	conservative
+a	cds	no	arrogant	conservative
+n	an	no	culicidés	inclusive
+n	svp	no	superbia	conservative
+n	qas	no	étage	conservative
+v	an	no	écorce	inclusive
+n	ddp	yes	folie	conservative
+n	cds	no	théoriciens du complot	inclusive
+a	svp	no	rancuneux	conservative
+n	om	no	nance	conservative
+n	qas	no	gaffeur	conservative
+n	is	yes	banni	inclusive
+n	cds	no	maquerelle	inclusive
+n	asm	no	outil	conservative
+n	dmc	yes	trompeuse	conservative
+n	cds	no	froussard	conservative
+n	an	no	cochonnet	inclusive
+n	or	no	soin méticuleux	inclusive
+n	ps	yes	doofus	conservative
+n	ddp	yes	fumbler	conservative
+n	asm	no	avien	inclusive
+n	an	no	anguillidae	inclusive
+n	an	no	bufo carbunculus	inclusive
+n	an	no	métazoaires	inclusive
+a	ddp	yes	incompétent	conservative
+v	cds	no	révérer	inclusive
+n	an	no	vautour	conservative
+n	om	no	fessier	inclusive
+n	asf	no	connard	conservative
+n	qas	no	fauteur de troubles	conservative
+n	svp	no	les 7 péchés capitaux	inclusive
+n	an	no	knucklehead	conservative
+n	an	no	lampyre	inclusive
+n	cds	no	balourd	inclusive
+n	pr	no	fille	conservative
+n	cds	no	idolâtre	inclusive
+n	cds	no	activité criminelle	inclusive
+n	svp	no	désir	inclusive
+n	cds	no	maison de prostitution	inclusive
+n	re	no	kidnapping	inclusive
+n	an	no	hirudinea	inclusive
+n	qas	no	tabi%e2%80%98un	inclusive
+n	re	no	mauvais traitement	inclusive
+a	ddp	yes	puéril	inclusive
+n	qas	no	homme d%e2%80%99affaires	inclusive
+n	cds	no	troupeau	conservative
+n	asm	no	fall guy	conservative
+n	cds	no	bandits	conservative
+n	qas	no	conformisme	inclusive
+v	cds	no	vénérer	inclusive
+n	pa	yes	académicien	inclusive
+n	ddp	yes	benêt	inclusive
+n	qas	no	marchand de	inclusive
+n	svp	no	péché de chair	inclusive
+n	an	no	plaquer	conservative
+n	pr	no	surmulot	inclusive
+n	pa	yes	uncouthness	conservative
+n	qas	no	cadre supérieur	inclusive
+n	an	no	grue	conservative
+n	re	no	mise hors la loi	inclusive
+n	cds	no	facteur	inclusive
+n	an	no	barbarie	inclusive
+n	om	no	1069bf	conservative
+n	or	no	pédale	conservative
+n	qas	no	histoires	conservative
+n	qas	no	fou	inclusive
+n	cds	no	wank	conservative
+n	re	no	vilain	conservative
+n	cds	no	correspondant	inclusive
+n	pa	yes	journal d'un avocat	inclusive
+n	dmc	yes	cochon	conservative
+n	an	no	crocodilia	inclusive
+n	an	no	helix pomatia	inclusive
+n	cds	no	fondamentalistes	inclusive
+n	cds	no	religion scientifique	inclusive
+n	ddp	yes	couillon	conservative
+n	an	no	parcimonie	conservative
+n	cds	no	culture selective des plantes	inclusive
+n	ps	yes	métisser	inclusive
+n	re	no	criminelle	inclusive
+n	cds	no	poulet	conservative
+n	or	no	bourrique	conservative
+n	an	no	profit	conservative
+n	om	no	tante	conservative
+n	cds	no	slackers	conservative
+a	dmc	yes	sale	inclusive
+n	cds	no	vis	inclusive
+n	qas	no	emphase	inclusive
+n	an	no	asticot	inclusive
+n	qas	no	méli-mélo	inclusive
+n	ps	yes	barbare	inclusive
+n	cds	no	parvenue	inclusive
+n	qas	no	emploi bureau	inclusive
+n	qas	no	sodbuster	inclusive
+n	re	no	fausses accusations	inclusive
+a	svp	no	ladre	conservative
+n	cds	no	étage	conservative
+n	qas	no	rustaude	conservative
+n	an	no	phthiraptera	inclusive
+n	cds	no	mensonge d'urgence	inclusive
+a	cds	no	sagace	inclusive
+n	an	no	effraie	inclusive
+n	asf	no	âne	conservative
+n	cds	no	craque	inclusive
+n	ps	yes	homme noir	inclusive
+n	cds	no	fainéant	conservative
+n	cds	no	professeur de prématernelle	inclusive
+n	cds	no	lèche-cul	conservative
+n	cds	no	hubris	conservative
+n	ps	yes	peuple zoulou	inclusive
+n	ddp	yes	dadais	conservative
+n	cds	no	charbon symptomatique	inclusive
+n	cds	no	piscine bousculant	conservative
+n	qas	no	conformiste	conservative
+n	an	no	ladrerie	conservative
+n	an	no	anoures	inclusive
+n	pr	no	concubinat	inclusive
+n	an	no	taureau	inclusive
+n	cds	no	surveillant pénitentaire	inclusive
+n	cds	no	ciseleur	inclusive
+n	an	no	batrachus	inclusive
+n	cds	no	fanatisme	conservative
+n	ddp	yes	doux au toucher	conservative
+n	re	no	calomnie	conservative
+n	an	no	canular	conservative
+n	qas	no	rustre	conservative
+n	cds	no	protagonisme	inclusive
+a	cds	no	éculé	inclusive
+n	cds	no	broker	inclusive
+a	ddf	yes	mal	inclusive
+n	an	no	anguillidé	inclusive
+n	re	no	férocité	inclusive
+n	cds	no	ostentatiousness	conservative
+n	ps	yes	abruti	conservative
+a	svp	no	libidineux	conservative
+a	cds	no	égocentrique	conservative
+n	an	no	mari trompé	conservative
+n	an	no	âne	conservative
+n	pr	no	putains	inclusive
+n	cds	no	tribaux	inclusive
+n	pa	yes	pignouf	conservative
+n	cds	no	balourd	conservative
+a	qas	no	éperdu	conservative
+n	cds	no	saleté	inclusive
+n	qas	no	magnat des affaires	inclusive
+n	an	no	cornard	conservative
+n	cds	no	gendarme	inclusive
+n	cds	no	pillard	inclusive
+n	dmc	yes	duperie	conservative
+n	asm	no	bordeaux	inclusive
+a	svp	no	cupide	inclusive
+n	pr	no	bœuf domestique	inclusive
+n	dmc	yes	bandits	inclusive
+n	cds	no	assainissement	inclusive
+n	svp	no	parcimonie	inclusive
+a	cds	no	obséquieux	conservative
+n	qas	no	cirque	inclusive
+a	svp	no	vain	conservative
+n	ps	yes	mongole	inclusive
+n	cds	no	cambrioleur	conservative
+n	ps	yes	jigaboo	conservative
+a	cds	no	intelligent	inclusive
+n	dmc	yes	bon à rien et	conservative
+v	cds	no	négocier	inclusive
+n	cds	no	histoires	conservative
+n	an	no	éponge	conservative
+n	cds	no	récupération de ferraille	inclusive
+n	asm	no	erection	inclusive
+n	ps	yes	juifs	inclusive
+n	dmc	yes	boussole morale	inclusive
+n	an	no	oiseau de minerve	inclusive
+n	cds	no	intercesseur	inclusive
+n	re	no	crime contre la personne	inclusive
+a	dmc	yes	truqué	conservative
+n	om	no	finocchio	inclusive
+n	ps	yes	asiate	conservative
+n	svp	no	pingre	inclusive
+n	cds	no	râleur	conservative
+n	om	no	aborale	inclusive
+n	an	no	teleovipera	inclusive
+n	cds	no	collectif	inclusive
+n	ddf	yes	nain	conservative
+n	an	no	salaud	conservative
+n	cds	no	proxénètes	conservative
+n	an	no	bufo bufo	inclusive
+n	cds	no	méchante	conservative
+a	svp	no	sensuel	conservative
+n	cds	no	mason	inclusive
+n	an	no	inexorable	conservative
+n	dmc	yes	quignon	conservative
+n	pa	yes	controleur de gestion	inclusive
+n	pa	yes	conseiller légal	inclusive
+n	cds	no	réaction politique	conservative
+n	om	no	fée	conservative
+n	an	no	herpétofaune	inclusive
+n	or	no	blockhead	conservative
+n	an	no	mesovipera	inclusive
+n	cds	no	stupide	conservative
+n	an	no	bœuf domestique	inclusive
+a	cds	no	méprisable	conservative
+n	om	no	androgame	inclusive
+n	or	no	votze	conservative
+n	an	no	pipistrelle	inclusive
+n	re	no	mafias	inclusive
+n	or	no	patate	inclusive
+n	asm	no	zob	inclusive
+n	pa	yes	moutonnier	inclusive
+n	cds	no	hypothèse	conservative
+n	is	yes	pingre	conservative
+n	cds	no	scélérat	inclusive
+n	asf	no	con	conservative
+n	an	no	echidnoides	inclusive
+v	qas	no	agacer	conservative
+a	dmc	yes	fausses	conservative
+n	qas	no	baloche	inclusive
+n	cds	no	délit du code pénal français	inclusive
+a	qas	no	halluciné	inclusive
+n	cds	no	violation de la loi	inclusive
+n	qas	no	gosse	inclusive
+n	qas	no	rhétorique politicienne	inclusive
+n	svp	no	l'attirance physique	inclusive
+n	asf	no	votze	conservative
+n	cds	no	sélection végétale	inclusive
+n	cds	no	graisse	inclusive
+n	svp	no	désir ardent	inclusive
+n	pa	yes	politicien	conservative
+n	cds	no	weisenheimer	conservative
+n	ddp	yes	médecin charlatan	conservative
+n	qas	no	commune	inclusive
+n	pa	yes	brute	conservative
+n	an	no	gonzesse	conservative
+a	cds	no	avisé	inclusive
+n	svp	no	avaritia	inclusive
+n	cds	no	maquereau	inclusive
+n	pr	no	slut	conservative
+n	cds	no	lowlife	conservative
+a	svp	no	vorace	conservative
+n	an	no	strigiforme	inclusive
+n	an	no	chouette chevêche	inclusive
+n	pr	no	salonnard	inclusive
+a	svp	no	vorace	inclusive
+n	dmc	yes	lowlife	inclusive
+n	re	no	piraterie maritime	inclusive
+n	an	no	bourrin	inclusive
+n	cds	no	hypersexualite	conservative
+a	is	yes	sérieux	inclusive
+n	qas	no	fausseté	conservative
+n	cds	no	brigandage	inclusive
+n	qas	no	ballock	inclusive
+n	ddp	yes	muggins	conservative
+n	ps	yes	retarder	conservative
+n	cds	no	bâtard	inclusive
+n	asf	no	imbécilité	conservative
+n	asm	no	dadais	conservative
+n	an	no	famille anguillidae	inclusive
+n	pa	yes	bergers	inclusive
+n	asm	no	merde	conservative
+n	cds	no	omertà	inclusive
+n	an	no	prickteaser	conservative
+a	qas	no	pathétique	conservative
+n	svp	no	tranchoir	conservative
+n	re	no	infraction pénale	inclusive
+n	qas	no	teste	inclusive
+n	ps	yes	mélanodermie	inclusive
+n	cds	no	pédagogue	inclusive
+n	dmc	yes	bandit	inclusive
+n	cds	no	lapsus de langue	inclusive
+n	cds	no	causa nostra	conservative
+n	cds	no	conspirationnisme	inclusive
+n	cds	no	cercle	inclusive
+n	cds	no	franc maçonnerie	inclusive
+n	cds	no	perspicacité	inclusive
+n	an	no	cochons	inclusive
+n	cds	no	maître	inclusive
+n	an	no	punaise	inclusive
+n	ddp	yes	épifaune	inclusive
+n	ddp	yes	règne animal	inclusive
+n	cds	no	tonnes	inclusive
+n	an	no	jacarea	inclusive
+n	cds	no	bêtise	conservative
+n	re	no	infanticide	inclusive
+n	an	no	catin	conservative
+n	cds	no	geôlier	inclusive
+n	an	no	chien	conservative
+n	cds	no	hors la loi	conservative
+n	cds	no	crooners	inclusive
+n	qas	no	divulgation	inclusive
+n	cds	no	pécheur	conservative
+n	ps	yes	famille juive	inclusive
+n	cds	no	ubris	inclusive
+n	dmc	yes	mal	conservative
+n	cds	no	plaisanterie	inclusive
+n	ps	yes	fall guy	conservative
+n	om	no	queer	conservative
+n	qas	no	neuilly-auteuil-passy	inclusive
+n	re	no	maltraitance	inclusive
+n	qas	no	épave	inclusive
+n	or	no	concombre	inclusive
+n	an	no	entourloupe	conservative
+n	or	no	crétin	conservative
+n	ps	yes	israélite	inclusive
+n	an	no	pegaeus	inclusive
+n	ps	yes	communauté noire	inclusive
+n	qas	no	tapeur	conservative
+n	qas	no	couille	inclusive
+n	qas	no	le gardien du marché	inclusive
+n	om	no	baudet	inclusive
+n	an	no	trou	inclusive
+n	an	no	bison d'amérique	inclusive
+n	cds	no	souillon	conservative
+n	ddp	yes	vie animale	inclusive
+n	re	no	fauche	inclusive
+n	an	no	coucou	conservative
+n	svp	no	orgueil	inclusive
+n	cds	no	froussarde	conservative
+a	is	yes	pauvre	inclusive
+n	svp	no	dégustateur	inclusive
+n	ddp	yes	codswallop	conservative
+n	an	no	chacals	inclusive
+n	an	no	bison bison	inclusive
+n	cds	no	mensonge blanc	inclusive
+n	ddp	yes	marchand de ragots	conservative
+a	qas	no	accoutumé	inclusive
+n	cds	no	retardé	inclusive
+a	asm	no	marron	inclusive
+n	dmc	yes	délit pénal en france	inclusive
+v	cds	no	payer sa dette à la nature	inclusive
+n	om	no	dorsolatéral	inclusive
+n	an	no	clébard	inclusive
+a	svp	no	avide	inclusive
+n	cds	no	bagne	inclusive
+n	cds	no	recommandation	inclusive
+n	cds	no	fat	inclusive
+n	cds	no	usurière	conservative
+n	an	no	acridophaga	inclusive
+n	an	no	crocodile	inclusive
+a	dmc	yes	paresseux	conservative
+n	ddp	yes	mouchard	conservative
+n	qas	no	ordures	inclusive
+v	cds	no	bavarder	inclusive
+n	ddp	yes	rebouteur	conservative
+n	asm	no	pièce de queue	conservative
+n	cds	no	'ndrangheta	inclusive
+n	re	no	médisance	inclusive
+n	pr	no	prostitué	conservative
+n	an	no	caprinae	inclusive
+n	an	no	puces	inclusive
+n	pa	yes	cordonnier	inclusive
+n	an	no	escortboy	conservative
+n	re	no	acte de terrorisme	conservative
+av	an	no	stupidement	conservative
+n	an	no	pilleur	inclusive
+n	or	no	anthony simon	conservative
+n	an	no	pingrerie	conservative
+n	ps	yes	four	conservative
+n	svp	no	eros	inclusive
+n	asf	no	couillon	conservative
+n	ddp	yes	demeuré	inclusive
+n	pr	no	floozie	conservative
+a	or	no	minutieux	conservative
+n	cds	no	facho	conservative
+n	qas	no	paysans	inclusive
+n	cds	no	le grand non lavé	conservative
+n	an	no	selachii	inclusive
+n	an	no	coquillage	inclusive
+n	dmc	yes	bêcheur	conservative
+n	asf	no	bœuf	conservative
+n	svp	no	abomination	inclusive
+a	dmc	yes	amoral	inclusive
+n	an	no	moustique domestique	inclusive
+n	qas	no	perle	inclusive
+n	re	no	mafiosi	inclusive
+n	cds	no	dude	inclusive
+n	qas	no	sac triste	conservative
+n	an	no	crapaud	inclusive
+n	re	no	agressée sexuellement	inclusive
+n	or	no	uraniste	conservative
+n	an	no	vache	inclusive
+n	svp	no	cupidité	inclusive
+n	cds	no	cafteuse	conservative
+n	re	no	mafia sicilienne	inclusive
+n	an	no	cochon	inclusive
+n	cds	no	impertinence	inclusive
+n	cds	no	arrogant	conservative
+n	an	no	baudet	inclusive
+n	cds	no	ordures ménagères	conservative
+n	re	no	crime sexuel	inclusive
+n	an	no	capra aegagrus hircus	inclusive
+n	pr	no	prostitution de rue	conservative
+n	an	no	la bêtise	conservative
+n	asm	no	faute professionnelle	inclusive
+n	an	no	gigantostracés	inclusive
+a	dmc	yes	rapide	conservative
+n	cds	no	changelins	inclusive
+a	cds	no	oléagineux	conservative
+n	ddp	yes	néné	conservative
+a	cds	no	présomptueux	conservative
+n	cds	no	prêteur	conservative
+n	ddp	yes	idiot	inclusive
+n	an	no	heteroceres	inclusive
+a	qas	no	misérable	conservative
+n	asf	no	broutille	inclusive
+n	dmc	yes	moraux	inclusive
+n	an	no	gogo	conservative
+n	asm	no	aves	inclusive
+n	cds	no	tocard	conservative
+n	ps	yes	fritz	conservative
+n	cds	no	fouillis	inclusive
+v	asm	no	enculer	conservative
+n	cds	no	officier	inclusive
+n	ps	yes	saccageur	conservative
+n	asm	no	phallique	inclusive
+n	cds	no	fripon	conservative
+n	asm	no	bandaison	inclusive
+n	cds	no	complaisance	inclusive
+n	an	no	humanus	inclusive
+n	qas	no	planète	inclusive
+n	re	no	agresseur sexuel	inclusive
+n	cds	no	rookie	conservative
+n	pr	no	putain	conservative
+n	asf	no	crétin	conservative
+n	asm	no	fèverole	inclusive
+n	an	no	animalité	inclusive
+n	asf	no	poils pubiens	inclusive
+n	cds	no	multitude	inclusive
+n	cds	no	marquignon	inclusive
+n	an	no	requins	inclusive
+n	svp	no	avaricieux	inclusive
+a	dmc	yes	dissolu	conservative
+n	svp	no	faineance	inclusive
+n	ddp	yes	stupidité	conservative
+n	cds	no	hypersexuelle	conservative
+n	is	yes	mendiant	inclusive
+n	asm	no	zigounette	inclusive
+n	asf	no	simple	conservative
+n	cds	no	masse	conservative
+n	cds	no	achille	conservative
+n	cds	no	déchet ménager et assimilé	inclusive
+n	svp	no	avarice	inclusive
+n	ddf	yes	personnes handicapées	inclusive
+n	asm	no	dupe	conservative
+a	dmc	yes	désastreux	conservative
+n	cds	no	mac	inclusive
+n	ddp	yes	doofus	conservative
+n	asf	no	nullard	conservative
+n	dmc	yes	sans-abri	conservative
+n	cds	no	mise hors la loi	inclusive
+n	om	no	lesbienne	inclusive
+n	cds	no	enseigné	inclusive
+n	cds	no	ostentatiousness	inclusive
+n	cds	no	écrou	conservative
+n	an	no	weakly interacting massive particles	conservative
+n	ddp	yes	balourd	conservative
+n	qas	no	fumbler	conservative
+n	qas	no	conte	conservative
+n	dmc	yes	aigrefin	conservative
+n	an	no	la bête	conservative
+n	svp	no	goulu	conservative
+n	an	no	strix varia	inclusive
+n	or	no	navet	inclusive
+n	qas	no	peintre en batiment	inclusive
+n	ddf	yes	demi	conservative
+n	an	no	vipera berus berus	inclusive
+n	an	no	furie	inclusive
+n	cds	no	embrouillamini	inclusive
+n	asf	no	stupidité	conservative
+n	asm	no	gogo	conservative
+n	an	no	ver	inclusive
+n	an	no	psittaciformes	inclusive
+n	pa	yes	maître assistant	inclusive
+n	cds	no	idéologie maçonnique	inclusive
+n	qas	no	trublion	conservative
+v	asm	no	faire l'amour	conservative
+n	dmc	yes	mauvaise personne	conservative
+n	dmc	yes	charlatan	conservative
+n	pr	no	bovin domestique	inclusive
+n	an	no	buse	conservative
+n	cds	no	ballup	inclusive
+n	qas	no	parasite	conservative
+n	re	no	acharnement	inclusive
+n	an	no	capra	inclusive
+n	cds	no	lèche-bottes	conservative
+n	cds	no	taux d'usure	conservative
+n	an	no	trafic des cadavres	inclusive
+a	dmc	yes	nauséabond	conservative
+n	dmc	yes	mise hors la loi	inclusive
+n	qas	no	classe moyenne	inclusive
+a	cds	no	criminel	inclusive
+n	an	no	nounou	inclusive
+n	asm	no	timon	inclusive
+n	pa	yes	cordonnerie	inclusive
+n	or	no	couillon	conservative
+n	an	no	allumeuse	conservative
+n	cds	no	latrines	inclusive
+n	is	yes	vilain	conservative
+n	an	no	bœuf	conservative
+n	cds	no	vol	inclusive
+n	dmc	yes	fripouille	inclusive
+n	svp	no	orgueilleux	inclusive
+n	svp	no	langueur	inclusive
+n	cds	no	agent	conservative
+n	ddp	yes	mufle	conservative
+n	cds	no	fraîcheur	conservative
+n	cds	no	connasse	conservative
+n	an	no	brutalité	inclusive
+n	cds	no	fierté	inclusive
+n	cds	no	rapporteur	conservative
+n	re	no	terrorisme international	conservative
+n	an	no	vautour fauve	inclusive
+n	om	no	drag queens	inclusive
+n	cds	no	franc-maçonnisme	inclusive
+n	cds	no	activités criminelles	inclusive
+n	dmc	yes	apostate	conservative
+n	cds	no	filou	conservative
+n	dmc	yes	rat	inclusive
+n	cds	no	gratter	inclusive
+n	svp	no	boulimique	inclusive
+n	pa	yes	poissarde	inclusive
+n	an	no	larve	inclusive
+n	an	no	hammerhead	conservative
+n	asf	no	ridicule	conservative
+n	svp	no	furie	conservative
+n	pr	no	garçon loyer	conservative
+n	cds	no	pandémonium	inclusive
+n	an	no	ralouf	inclusive
+n	cds	no	grand banditisme	inclusive
+n	an	no	micro-organisme	inclusive
+a	svp	no	agressive	inclusive
+n	an	no	canulars	conservative
+n	qas	no	déchets municipaux	inclusive
+n	re	no	canaille	conservative
+n	qas	no	grandiloquence	inclusive
+n	cds	no	escroc	conservative
+v	cds	no	écoutes	inclusive
+n	ps	yes	idiot	conservative
+n	om	no	non occidentalisés concepts de la sexualité masculine	inclusive
+n	asm	no	conasse	conservative
+n	asm	no	stupide	conservative
+n	cds	no	discrimination religieuse	inclusive
+a	svp	no	irrité	inclusive
+n	asm	no	lampiste	conservative
+n	cds	no	dandysme	inclusive
+n	cds	no	médiocrité	conservative
+n	qas	no	bordel	inclusive
+n	ddf	yes	crookback	inclusive
+a	re	no	cramoisi	conservative
+n	cds	no	gangs	inclusive
+n	svp	no	désintérêt	inclusive
+n	cds	no	zélotes	inclusive
+a	rci	yes	génois	inclusive
+n	an	no	oiselet	inclusive
+n	or	no	brassica rapa	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	an	no	eurasian griffon	inclusive
+n	cds	no	ordures menageres	conservative
+n	an	no	chouette	inclusive
+n	ps	yes	amélioration des plantes	inclusive
+n	pa	yes	professeur de recherche	inclusive
+n	or	no	courge musquée	inclusive
+n	cds	no	larcin	inclusive
+n	om	no	fessière	inclusive
+n	ddf	yes	estropié	inclusive
+n	cds	no	guimbarde	inclusive
+n	an	no	aboyeur	inclusive
+n	dmc	yes	coquin	inclusive
+n	cds	no	phratrie	inclusive
+a	cds	no	bas	conservative
+n	cds	no	etendoir	inclusive
+n	is	yes	rôle du méchant	conservative
+a	qas	no	moyenâgeux	inclusive
+n	cds	no	bâtard	conservative
+n	cds	no	couard	conservative
+n	ddp	yes	bœuf	conservative
+n	ddp	yes	bourrique	conservative
+a	cds	no	orgueilleuse	conservative
+n	cds	no	newswriter	inclusive
+n	om	no	derrière	inclusive
+n	cds	no	poule mouillée	conservative
+n	an	no	blatoptère	inclusive
+n	ddp	yes	idiote	conservative
+a	ddp	yes	insensé	conservative
+n	qas	no	foule	inclusive
+n	cds	no	infatuation	inclusive
+n	an	no	escargots de bourgogne	inclusive
+n	cds	no	franc-maçon	inclusive
+n	cds	no	folderol	conservative
+n	is	yes	pauvre diable	conservative
+n	dmc	yes	morale	inclusive
+a	ddp	yes	crétin	conservative
+n	cds	no	la grosse tête	conservative
+n	pa	yes	avocat marron	inclusive
+n	an	no	bufo ferruginosus	inclusive
+n	cds	no	ordures	inclusive
+n	svp	no	ne rien faire	conservative
+n	svp	no	oisiveté	conservative
+n	om	no	transvestisme	inclusive
+n	svp	no	intolérant	conservative
+n	cds	no	casini	inclusive
+n	cds	no	pédante	conservative
+n	an	no	méchant	conservative
+n	om	no	uranisme	inclusive
+a	dmc	yes	artificiel	conservative
+n	pa	yes	juriste	inclusive
+n	an	no	froussarde	conservative
+n	ddp	yes	microcephalus	inclusive
+n	cds	no	andouille	inclusive
+n	ddp	yes	buse	inclusive
+n	cds	no	délit pénal en france	inclusive
+a	re	no	sévère	inclusive
+n	cds	no	enthousiaste	inclusive
+n	om	no	système de référence en anatomie	inclusive
+n	ddp	yes	captivité	inclusive
+n	cds	no	jules	inclusive
+a	dmc	yes	crasseux	conservative
+n	cds	no	mauvais plaisant	conservative
+n	qas	no	bâtard	conservative
+n	cds	no	commodité publique	inclusive
+n	an	no	porc	inclusive
+n	dmc	yes	personne sans abri	inclusive
+n	om	no	salaud	inclusive
+n	re	no	question extraordinaire	inclusive
+a	is	yes	chagriné	inclusive
+n	cds	no	pharisien	conservative
+n	an	no	anoploure	inclusive
+n	ps	yes	noir d'encre	inclusive
+n	cds	no	membre d'un gang	inclusive
+n	an	no	canis canis	inclusive
+a	ddp	yes	bétasse	conservative
+n	cds	no	tribus	inclusive
+n	cds	no	gangs de jeunes	conservative
+a	an	no	pingre	conservative
+n	cds	no	quidnunc	conservative
+n	an	no	imbécile	conservative
+n	an	no	blattoptères	inclusive
+n	cds	no	pinpin	inclusive
+n	asf	no	muggins	conservative
+n	qas	no	saint-hubert	inclusive
+n	an	no	asins	inclusive
+n	an	no	Ânesse	inclusive
+n	asm	no	brownness	inclusive
+n	an	no	crapaud européenne	inclusive
+n	cds	no	collaborateurs parlementaires	inclusive
+n	re	no	malfaiteur	inclusive
+n	ps	yes	personne de couleur	inclusive
+n	dmc	yes	git	conservative
+n	cds	no	mauviette	conservative
+n	qas	no	fouiner	inclusive
+n	re	no	homicides	inclusive
+n	cds	no	arlequin	conservative
+n	cds	no	maquereau	conservative
+n	cds	no	bébés	inclusive
+n	cds	no	récit	conservative
+n	an	no	règne animal	inclusive
+n	qas	no	chiper	conservative
+n	cds	no	fanatique religieux	conservative
+n	an	no	nabot	conservative
+n	cds	no	saute-au-paf	conservative
+n	cds	no	infraction	inclusive
+n	re	no	arnaqueur	inclusive
+n	cds	no	nouveaux riches	inclusive
+n	cds	no	ndranghetta	inclusive
+n	pr	no	génisse	inclusive
+n	dmc	yes	éthique	inclusive
+a	svp	no	hautain	conservative
+n	cds	no	malfrat	inclusive
+n	cds	no	crétin	inclusive
+n	cds	no	idolatrie	inclusive
+n	asm	no	poire	conservative
+a	dmc	yes	souple	inclusive
+n	an	no	scorpaena	inclusive
+n	svp	no	bigoterie	conservative
+v	re	no	arnaquer	inclusive
+n	asm	no	jeerer	conservative
+n	asm	no	p	conservative
+n	an	no	pou commune	inclusive
+n	an	no	profiteur	conservative
+n	qas	no	bourgeoisie	inclusive
+a	svp	no	arrogant	conservative
+a	cds	no	rusée	conservative
+n	an	no	moustique	inclusive
+n	om	no	cross-dressing	inclusive
+n	an	no	anoure	inclusive
+a	dmc	yes	avare	conservative
+n	cds	no	barbeau	inclusive
+n	an	no	cruche	conservative
+n	cds	no	rôle du méchant	conservative
+a	qas	no	habituel	inclusive
+n	dmc	yes	sale type	inclusive
+n	ddp	yes	enfoiré	conservative
+n	cds	no	plèbe	inclusive
+n	cds	no	saloperie	conservative
+n	dmc	yes	brigand	conservative
+n	dmc	yes	scélérat	inclusive
+n	cds	no	maisons de tolérance	inclusive
+n	asm	no	changeling	inclusive
+n	an	no	zoophilie	conservative
+n	re	no	infraction sexuelle	inclusive
+n	asm	no	nooky	conservative
+n	an	no	rogue	conservative
+n	cds	no	julot casse-croûte	conservative
+n	dmc	yes	délinquant	conservative
+n	dmc	yes	sans compte	conservative
+n	ps	yes	gogo	conservative
+n	cds	no	merde	inclusive
+a	svp	no	radin	conservative
+n	re	no	organisation terroriste	conservative
+n	cds	no	balladeer	inclusive
+n	om	no	petits pains	inclusive
+n	ps	yes	bedu	inclusive
+n	dmc	yes	filou	conservative
+n	an	no	pour les crocodiliens	inclusive
+n	or	no	gay	conservative
+n	pr	no	rat surmulot	inclusive
+n	an	no	taurin	inclusive
+n	re	no	violeurs	conservative
+n	re	no	abus sexuels	conservative
+a	svp	no	court	conservative
+n	dmc	yes	demi-pinte	conservative
+n	an	no	brent	inclusive
+n	om	no	tapette	conservative
+n	cds	no	sectarisme	conservative
+n	an	no	volaille	inclusive
+n	ps	yes	vandales	inclusive
+n	an	no	papillon de nuit	inclusive
+n	re	no	mafia italienne	conservative
+v	asm	no	avoir des relations sexuelles	conservative
+n	asf	no	cunts	conservative
+n	pr	no	hétaïre	inclusive
+n	asf	no	fou	conservative
+n	ddp	yes	abruti	conservative
+n	ddp	yes	faune	inclusive
+n	qas	no	énormité	conservative
+n	qas	no	déchets solides municipaux	inclusive
+n	cds	no	connard	conservative
+n	ddp	yes	lampiste	conservative
+n	cds	no	franc maconnerie	inclusive
+n	cds	no	porc	conservative
+n	dmc	yes	bousilleur	conservative
+n	dmc	yes	imposteur	conservative
+n	qas	no	opérateur	inclusive
+a	dmc	yes	méprisable	conservative
+n	ddf	yes	personne aveugle	inclusive
+n	an	no	boeuf	inclusive
+a	an	no	bestial	conservative
+n	ddp	yes	concombre	conservative
+n	re	no	viol	conservative
+n	ps	yes	rom	inclusive
+a	dmc	yes	dégoutant	conservative
+n	cds	no	prêt usuraire	inclusive
+n	asm	no	bitte	conservative
+n	ddp	yes	selle	conservative
+n	pr	no	rat des villes	inclusive
+n	asm	no	fou	conservative
+n	cds	no	maisons closes	inclusive
+n	an	no	chèvre	inclusive
+n	svp	no	économie	inclusive
+n	asf	no	andouille	conservative
+n	qas	no	cabanon	inclusive
+n	cds	no	corniaud	inclusive
+n	cds	no	ferveur	inclusive
+n	re	no	calomnie et diffamation	inclusive
+n	svp	no	amour-propre	conservative
+n	re	no	meurtre au premier degré	inclusive
+n	qas	no	mentir	conservative
+n	an	no	spoliateur	inclusive
+n	an	no	lambin	conservative
+n	cds	no	piratage littéraire	conservative
+n	ps	yes	arithmétique	inclusive
+n	ddp	yes	non-sens	conservative
+n	cds	no	briseurs de grève	inclusive
+n	re	no	activités illégales	inclusive
+a	dmc	yes	méphitique	conservative
+n	re	no	gredin	conservative
+n	qas	no	commerçant	inclusive
+a	ddf	yes	insatisfaisant	conservative
+n	ps	yes	blanc	inclusive
+n	cds	no	gland	conservative
+n	ddp	yes	rumourmonger	conservative
+n	om	no	homoérotique	inclusive
+n	ps	yes	mongoloïdes	conservative
+n	cds	no	bouffon	inclusive
+n	is	yes	rapiat	conservative
+n	an	no	salientia	inclusive
+n	ps	yes	destructeur	conservative
+n	an	no	aphaniptères	inclusive
+n	an	no	museau	inclusive
+n	qas	no	cueillir	conservative
+n	cds	no	fabricatrice	conservative
+n	cds	no	maison de débauche	inclusive
+n	cds	no	barbeau	conservative
+n	ddp	yes	trou du cul	conservative
+n	cds	no	croisés	inclusive
+a	dmc	yes	falsifié	conservative
+n	re	no	ndranghetta	inclusive
+n	cds	no	nymphomane	conservative
+n	dmc	yes	criminelle	inclusive
+a	ddp	yes	illettré	conservative
+n	an	no	chèvre marrone	inclusive
+n	asm	no	démoulé trop tôt	conservative
+n	rci	yes	bâtard	conservative
+n	re	no	hors-la-loi	inclusive
+n	cds	no	valet	conservative
+n	ddp	yes	brutalité	conservative
+n	dmc	yes	gésir	inclusive
+n	dmc	yes	trompeur	conservative
+n	an	no	rosse	conservative
+a	dmc	yes	imitatif	conservative
+a	svp	no	goulu	conservative
+n	is	yes	épouvantail	conservative
+n	ddp	yes	rustaud	conservative
+n	an	no	cockroach	inclusive
+n	an	no	hyene	inclusive
+n	cds	no	camping-car	inclusive
+n	cds	no	table à langer	inclusive
+n	svp	no	grippe-sou	conservative
+n	an	no	Âne domestique	inclusive
+n	cds	no	péon	inclusive
+n	cds	no	méchant de fiction	conservative
+n	dmc	yes	ravisseur	conservative
+n	or	no	connaud	conservative
+n	re	no	raper	conservative
+n	re	no	vol qualifié	inclusive
+v	asm	no	duper	conservative
+n	cds	no	armée	inclusive
+n	re	no	mafia italienne	inclusive
+n	ddp	yes	empirisme	conservative
+n	re	no	infraction	inclusive
+n	qas	no	mensonge par omission	conservative
+n	cds	no	zelotes	inclusive
+n	om	no	fessières	inclusive
+n	re	no	les agressions sexuelles	inclusive
+n	pr	no	services sexuels	inclusive
+n	cds	no	gribouillage	inclusive
+n	dmc	yes	tripoteur	conservative
+n	an	no	bison européen	inclusive
+n	an	no	caprinés	inclusive
+v	cds	no	se gorger	inclusive
+n	qas	no	roi	inclusive
+n	cds	no	mensonge	inclusive
+n	an	no	viande de cochon	inclusive
+n	an	no	pur	conservative
+n	an	no	roussin	inclusive
+n	re	no	médisant	conservative
+n	cds	no	vanité	conservative
+n	om	no	hommes homosexuels	inclusive
+n	pr	no	escortboy	conservative
+n	asm	no	abruti	conservative
+n	cds	no	vantard	conservative
+n	asf	no	nigaud	conservative
+n	cds	no	escroc	inclusive
+n	asm	no	phallus	inclusive
+n	asm	no	niquer	conservative
+a	cds	no	rusé	inclusive
+n	ddp	yes	cafteur	conservative
+n	asf	no	pigeon	conservative
+a	ps	yes	noir	inclusive
+n	an	no	poux	inclusive
+n	an	no	bufo communis	inclusive
+n	pa	yes	croque mort	inclusive
+a	cds	no	démagogique	conservative
+n	asf	no	bêta	conservative
+n	ps	yes	sauvage	conservative
+n	or	no	pur	conservative
+n	pa	yes	professeur adjoint	inclusive
+n	qas	no	conformité	inclusive
+n	ps	yes	négroïde	inclusive
+n	pa	yes	charcutier	inclusive
+n	svp	no	trsna	inclusive
+n	pa	yes	directeur de funérailles	inclusive
+n	pr	no	bétail	inclusive
+n	qas	no	cabane	inclusive
+n	svp	no	goulu	inclusive
+n	ps	yes	peuple noir	inclusive
+n	om	no	gay	inclusive
+n	cds	no	homoncules	inclusive
+n	cds	no	noix	conservative
+n	cds	no	transformisme politique	inclusive
+n	cds	no	train	inclusive
+n	ps	yes	demeuré	conservative
+n	an	no	petit-duc maculé	inclusive
+a	om	no	anormal	inclusive
+n	cds	no	promotion	inclusive
+n	an	no	ixodida	inclusive
+n	qas	no	grand homme d'affaires	inclusive
+n	cds	no	duperie	conservative
+n	an	no	pourceau	inclusive
+n	cds	no	prêteurs	conservative
+n	cds	no	cacographie	inclusive
+n	svp	no	cupide	inclusive
+n	an	no	férocité	conservative
+n	an	no	poltronne	conservative
+n	cds	no	maison de mauvaise réputation	inclusive
+n	re	no	voleurs	inclusive
+n	an	no	clochard	conservative
+a	svp	no	grincheux	conservative
+n	pr	no	mus norvegicus	inclusive
+n	re	no	instrument de torture	inclusive
+n	an	no	faunistique	inclusive
+n	ddp	yes	non sens	conservative
+n	cds	no	francs-maçon	inclusive
+n	an	no	cimex lectularius	inclusive
+n	cds	no	jacking off	conservative
+n	dmc	yes	immoralité	inclusive
+n	cds	no	incapable	conservative
+n	asm	no	nichon	conservative
+n	ddp	yes	conteur	conservative
+n	re	no	abducteur	inclusive
+n	qas	no	rouston	inclusive
+n	re	no	terrorisme	inclusive
+n	asf	no	poil pubien	inclusive
+n	cds	no	amour de soi	inclusive
+n	ps	yes	retardé	conservative
+n	qas	no	homme d'affaires	inclusive
+n	om	no	plan axial	inclusive
+n	cds	no	couardise	conservative
+n	qas	no	paroissial	inclusive
+n	cds	no	extrémisme religieux	inclusive
+n	svp	no	flemme	inclusive
+n	ddp	yes	état arriéré	inclusive
+n	qas	no	baroquisme	inclusive
+v	cds	no	diminuer	inclusive
+n	cds	no	merde noire	inclusive
+a	pa	yes	professoral	inclusive
+n	cds	no	ordures	conservative
+n	an	no	flemmarde	conservative
+a	svp	no	jaloux	conservative
+a	dmc	yes	faux	inclusive
+n	ps	yes	tête de nœud	conservative
+n	ps	yes	tzigane	inclusive
+n	ddp	yes	bonehead	conservative
+n	ddp	yes	brutalité	inclusive
+n	or	no	androgame	conservative
+n	pr	no	bos primigenius f. taurus	inclusive
+n	asm	no	zizi	inclusive
+n	cds	no	chahut	inclusive
+n	cds	no	chiseler	conservative
+n	om	no	fif	conservative
+n	svp	no	grigou	conservative
+n	svp	no	luxuria	inclusive
+n	qas	no	racaille	conservative
+n	cds	no	seigneur du crime	inclusive
+n	cds	no	épice gériatrique	inclusive
+n	cds	no	idéologie réactionnaire	conservative
+n	asm	no	shtup	conservative
+v	asm	no	aimer	conservative
+n	or	no	tête de noeud	conservative
+n	cds	no	cancan	conservative
+n	dmc	yes	intouchable	inclusive
+n	qas	no	déchet ménager et assimilé	inclusive
+n	asm	no	zob	conservative
+n	cds	no	jules	conservative
+n	an	no	blattodea	inclusive
+n	om	no	sodomisé	inclusive
+n	pr	no	phalène du bouleau	inclusive
+n	qas	no	amateurs	inclusive
+n	re	no	diffamation	conservative
+a	asm	no	café	inclusive
+n	asf	no	poule	conservative
+n	qas	no	homme d'affaire	inclusive
+n	or	no	brassica oleracea	inclusive
+n	cds	no	contrevérité	inclusive
+n	ddp	yes	sottise	conservative
+n	pa	yes	croquemort	inclusive
+n	an	no	escargot comestible	inclusive
+n	cds	no	hôtel de passe	inclusive
+n	svp	no	voyou	conservative
+n	an	no	chèvre-antilope	inclusive
+n	qas	no	femme d'affaires	inclusive
+n	dmc	yes	bouffonnerie	inclusive
+v	re	no	agacer	inclusive
+n	qas	no	déchets	inclusive
+n	an	no	commerce des cadavres	inclusive
+n	pa	yes	corporal	inclusive
+n	asf	no	conin	conservative
+n	ddp	yes	illettré	inclusive
+n	cds	no	espiègle	conservative
+n	om	no	minet	conservative
+n	re	no	assassinat	inclusive
+n	an	no	mule	inclusive
+v	re	no	embêter	inclusive
+n	pr	no	femme entretenue	conservative
+n	cds	no	monohybrides	inclusive
+n	cds	no	délit de lâcheté	conservative
+n	qas	no	laboureur	inclusive
+n	an	no	escargots	inclusive
+n	cds	no	impasse	inclusive
+n	re	no	torture	inclusive
+n	cds	no	conne	conservative
+n	an	no	hiboux	inclusive
+n	asf	no	changeling	conservative
+v	cds	no	intriguer	inclusive
+n	cds	no	e-courtier	inclusive
+n	cds	no	déchet d'emballage	conservative
+n	cds	no	splashiness	inclusive
+n	cds	no	bousilleuse	conservative
+n	ps	yes	boche	conservative
+n	cds	no	déchets solides	inclusive
+n	an	no	limace	inclusive
+n	ps	yes	hébraïsme	inclusive
+n	pa	yes	croque-mort	inclusive
+n	re	no	tueur	inclusive
+n	asm	no	baise	conservative
+n	an	no	grigou	conservative
+a	ddp	yes	vert	conservative
+n	cds	no	concepteur	inclusive
+n	cds	no	fascisme québécois	conservative
+n	qas	no	tabi'în	inclusive
+n	ddp	yes	dénonciateur	conservative
+n	om	no	damoche	inclusive
+a	dmc	yes	sales	inclusive
+n	cds	no	entremetteur	inclusive
+n	ps	yes	hispanique	inclusive
+n	dmc	yes	sac triste	conservative
+n	re	no	'ndrangheta	inclusive
+n	rci	yes	mufle	conservative
+n	ps	yes	sélection récurrente	inclusive
+n	cds	no	tour	inclusive
+n	ddp	yes	ignard	conservative
+n	om	no	sexualité masculine	inclusive
+n	svp	no	aversion	inclusive
+n	ps	yes	rrom	inclusive
+n	an	no	rentboy	conservative
+n	ddp	yes	fada	conservative
+n	dmc	yes	ne rien faire	conservative
+n	an	no	miette	conservative
+n	om	no	gay	conservative
+n	qas	no	propriétaire d'entreprise	inclusive
+n	cds	no	mafia: the city of lost heaven	conservative
+n	asm	no	rouler dans le foin	conservative
+n	an	no	cochon domestique	inclusive
+n	cds	no	courtage	inclusive
+n	re	no	vol de bétail	inclusive
+v	re	no	piger	inclusive
+n	cds	no	muguet	inclusive
+n	asf	no	dunce	conservative
+n	ps	yes	rommany	inclusive
+n	cds	no	nouveau riche	inclusive
+n	om	no	attirance homosexuelle	inclusive
+a	dmc	yes	scélérat	conservative
+n	ps	yes	paint it	inclusive
+n	dmc	yes	libertin	conservative
+n	pa	yes	professeur extraordinaire	inclusive
+n	an	no	écume	conservative
+n	cds	no	démagogues	conservative
+n	or	no	méticulosité	inclusive
+n	re	no	délinquant	conservative
+n	ddp	yes	cruche	conservative
+n	ddp	yes	tête de nœud	inclusive
+n	an	no	bufo	inclusive
+n	or	no	dôme	inclusive
+n	is	yes	grigou	conservative
+n	cds	no	mouffette	conservative
+n	cds	no	farrago	inclusive
+n	an	no	euryptéride	inclusive
+v	is	yes	implorer	inclusive
+a	ddf	yes	mauvais	inclusive
+n	cds	no	barbares	conservative
+n	pr	no	morue	conservative
+a	svp	no	outrecuidant	conservative
+a	ddp	yes	illettrée	inclusive
+n	pa	yes	pastre	inclusive
+a	an	no	brute	conservative
+a	pa	yes	académique	conservative
+n	ddp	yes	twaddler	conservative
+a	qas	no	dilettante	conservative
+n	asf	no	vagin	conservative
+n	an	no	poulet rôti	inclusive
+n	re	no	violent	inclusive
+n	svp	no	flemmarde	conservative
+n	ps	yes	judéo	inclusive
+n	ps	yes	sélectionneur de plantes	inclusive
+n	cds	no	commérage	inclusive
+n	cds	no	colline	inclusive
+a	cds	no	coupant	inclusive
+n	an	no	micro-organismes	inclusive
+n	an	no	poltron	conservative
+n	or	no	lesbienne	conservative
+n	cds	no	agent de détention	inclusive
+n	an	no	garçons loyer	conservative
+n	cds	no	liasses	inclusive
+n	qas	no	huttes	inclusive
+n	ps	yes	hybride intergénérique	inclusive
+n	ddp	yes	enculé	conservative
+n	ddp	yes	microcéphalie	inclusive
+n	dmc	yes	histoires	inclusive
+n	re	no	scélérat	inclusive
+v	cds	no	passer l'arme à gauche	inclusive
+n	asm	no	brun	inclusive
+n	cds	no	italie mussolinienne	conservative
+n	an	no	famille crocodylidae	inclusive
+n	ps	yes	mongols	inclusive
+n	ddp	yes	charlatan	conservative
+n	dmc	yes	vagabonder	inclusive
+n	cds	no	fondamentalisme américain	inclusive
+n	pa	yes	rang diplomatique	inclusive
+n	qas	no	bourgeoisie d'affaires	inclusive
+n	an	no	chasse aux oies	inclusive
+n	or	no	chou	inclusive
+n	an	no	canal des basses	inclusive
+n	asf	no	bonehead	conservative
+n	an	no	capriné	inclusive
+a	svp	no	dédaigneux	conservative
+v	re	no	entuber	inclusive
+n	cds	no	bête	conservative
+a	dmc	yes	abject	conservative
+a	svp	no	gourmand	conservative
+n	an	no	limacidae famille	inclusive
+v	cds	no	cogner	inclusive
+n	om	no	foeniculum vulgare	inclusive
+n	cds	no	blagueur	inclusive
+n	re	no	mafia	inclusive
+n	dmc	yes	fromage mozzarella	inclusive
+n	or	no	votzen	conservative
+n	ps	yes	communauté juive	inclusive
+n	ddp	yes	nonsense	conservative
+v	cds	no	casser sa pipe	inclusive
+n	asf	no	imbécile	conservative
+n	cds	no	groveler	conservative
+n	cds	no	cohue	conservative
+n	cds	no	grunge	inclusive
+n	re	no	vols de bétail	inclusive
+n	asm	no	marron	inclusive
+n	an	no	cochette	inclusive
+n	an	no	mouffette	conservative
+a	qas	no	ordinaire	inclusive
+n	pa	yes	plaideur	inclusive
+n	cds	no	cruche	conservative
+n	svp	no	flâneur	conservative
+n	dmc	yes	menterie	inclusive
+n	ddp	yes	nichon	conservative
+n	an	no	pediculus corporis	inclusive
+n	cds	no	mafias	inclusive
+n	asm	no	niais	conservative
+a	dmc	yes	étroit d'esprit	conservative
+a	qas	no	démonstratif	conservative
+n	an	no	gallus gallus domesticus	inclusive
+n	or	no	vigne concombre	inclusive
+n	an	no	lâche	conservative
+n	ddp	yes	crétinisme	inclusive
+n	cds	no	franc-maçonnerie	inclusive
+n	dmc	yes	chien	conservative
+n	qas	no	freeloader	conservative
+n	cds	no	tache	inclusive
+n	dmc	yes	fainéant	conservative
+n	ddp	yes	anthony simon	conservative
+n	asm	no	andouille	conservative
+n	cds	no	finagler	conservative
+n	cds	no	blackballing	inclusive
+n	re	no	sévice	inclusive
+n	cds	no	ordure	conservative
+n	ps	yes	ostrogoths	inclusive
+n	cds	no	gossiper	conservative
+n	or	no	bête	conservative
+n	an	no	tique	inclusive
+n	or	no	bûche	conservative
+n	cds	no	glandeur	conservative
+n	qas	no	agriculteur	inclusive
+n	cds	no	couarde	conservative
+n	an	no	vipère	inclusive
+n	cds	no	réactionnarisme	conservative
+v	cds	no	conspirer	inclusive
+n	cds	no	boniment	inclusive
+n	ddp	yes	gogo	conservative
+n	ddp	yes	gugusse	conservative
+n	ps	yes	race jaune	conservative
+n	cds	no	brigand	inclusive
+n	asm	no	œuf	inclusive
+n	is	yes	avarice	conservative
+n	ps	yes	Économie souterraine	inclusive
+n	an	no	brebis	inclusive
+a	dmc	yes	immoral	conservative
+n	qas	no	compatriote	inclusive
+a	cds	no	huileux	conservative
+n	an	no	poulet domestique	inclusive
+n	ddp	yes	macrofaune	inclusive
+n	cds	no	voleur de bétail	inclusive
+n	pa	yes	portier	inclusive
+n	cds	no	pédant	conservative
+n	an	no	fille publique	conservative
+n	cds	no	limace	conservative
+n	an	no	escorte masculine	conservative
+n	an	no	blattes	inclusive
+n	cds	no	bourrique	conservative
+n	re	no	homicide	inclusive
+n	pa	yes	éminent professeur	inclusive
+n	cds	no	peuple	conservative
+n	cds	no	usuriers	conservative
+n	cds	no	gâfe	inclusive
+n	cds	no	marquignon	conservative
+n	or	no	fica	conservative
+n	qas	no	classe possédante	inclusive
+n	qas	no	betisier	inclusive
+n	an	no	equus asinus	inclusive
+n	pa	yes	professeur de collège	inclusive
+n	cds	no	lèvre	inclusive
+n	asm	no	bête	conservative
+n	cds	no	publique lavabo	inclusive
+n	svp	no	rage	conservative
+n	or	no	tapette	conservative
+n	qas	no	dilettante	conservative
+n	an	no	cafards	inclusive
+n	svp	no	glandeur	conservative
+n	cds	no	cambrioleuse	inclusive
+n	svp	no	inaction	inclusive
+n	cds	no	bazar	inclusive
+n	qas	no	bollocks	inclusive
+n	qas	no	confiture	inclusive
+n	cds	no	parti réactionnaire	conservative
+n	cds	no	cosa nostra	conservative
+n	asm	no	doofus	conservative
+n	qas	no	peintre en bâtiment et décorateur	inclusive
+a	svp	no	présomptueux	conservative
+n	dmc	yes	mat	inclusive
+n	pa	yes	cordonnerie en france	inclusive
+n	svp	no	avare	conservative
+n	cds	no	fascista	inclusive
+n	pr	no	fille de trottoir	conservative
+n	cds	no	mobilisation	inclusive
+n	om	no	homosexuel	conservative
+n	qas	no	paroisse	inclusive
+n	ps	yes	erratique	inclusive
+n	pr	no	prostituée	inclusive
+n	cds	no	fascistes	conservative
+n	svp	no	pingrerie	inclusive
+n	re	no	viol conjugal	conservative
+n	dmc	yes	méchant de fiction	conservative
+a	qas	no	médiévale	inclusive
+n	re	no	spoliation	inclusive
+n	cds	no	fureteur	conservative
+n	ddp	yes	simplet	conservative
+a	dmc	yes	ladre	conservative
+n	ps	yes	Égyptiens	inclusive
+n	om	no	miches	inclusive
+n	cds	no	pillage	inclusive
+n	an	no	anthony simon	conservative
+n	ddp	yes	débilité mentale	inclusive
+v	cds	no	trop manger	inclusive
+n	dmc	yes	crevette	conservative
+n	asf	no	doux au toucher	conservative
+n	pa	yes	avocats	inclusive
+n	pa	yes	expert-comptable	inclusive
+n	ps	yes	clochard	inclusive
+n	dmc	yes	mufle	conservative
+n	om	no	bite au cul	inclusive
+n	an	no	pipistrellus	inclusive
+n	cds	no	le culte des idoles	inclusive
+n	asf	no	idiote	conservative
+n	an	no	crocodiliens	inclusive
+n	ps	yes	doux au toucher	conservative
+n	cds	no	mafioso	inclusive
+n	an	no	pute	conservative
+n	qas	no	négociant	inclusive
+n	an	no	genisse	inclusive
+n	pa	yes	employé de bureau	inclusive
+n	cds	no	péquenaud	conservative
+n	dmc	yes	cancre	conservative
+n	is	yes	paupérisme	inclusive
+n	cds	no	fondamentaliste	inclusive
+n	cds	no	sac triste	conservative
+n	re	no	tortures	inclusive
+n	qas	no	bourgeoisie professionnelle	inclusive
+n	qas	no	éponge	conservative
+n	cds	no	cacography	inclusive
+n	cds	no	duplicité	inclusive
+n	an	no	anguilles	inclusive
+n	an	no	squalus carcharias	inclusive
+n	cds	no	maçonnisme	inclusive
+n	ps	yes	race	inclusive
+n	pr	no	con	conservative
+n	ddp	yes	imbécile	conservative
+n	cds	no	épave	inclusive
+n	svp	no	feignantise	inclusive
+n	qas	no	paroisses	inclusive
+n	an	no	serpent dans l'herbe	conservative
+a	re	no	difficile	inclusive
+n	an	no	mine renfrognée	inclusive
+n	om	no	dorso-ventrale	inclusive
+n	ddp	yes	faune mammalienne	inclusive
+a	ddp	yes	incapable	inclusive
+n	asf	no	concombre	conservative
+n	ddp	yes	métazoaires	inclusive
+n	pr	no	papillon(s) de nuit	inclusive
+n	svp	no	les 7 pêchés capitaux	inclusive
+n	cds	no	unités japonaises de mesure	inclusive
+n	asf	no	fotze	conservative
+v	cds	no	bouffer	inclusive
+n	cds	no	maçons libres et acceptés	inclusive
+n	is	yes	canaille	conservative
+n	cds	no	métisse	inclusive
+v	qas	no	bousiller	conservative
+n	asm	no	balourd	conservative
+n	ps	yes	nègre	conservative
+n	re	no	systèmes mafieux	conservative
+a	pa	yes	politique	inclusive
+n	dmc	yes	rustaude	conservative
+n	re	no	ravisseur	conservative
+n	ps	yes	balourd	conservative
+n	an	no	sangsue	conservative
+n	an	no	insecta	inclusive
+n	re	no	délinquant juvénile	conservative
+n	cds	no	chéri	inclusive
+n	or	no	homophile	conservative
+n	asm	no	branlage	conservative
+n	cds	no	peon	inclusive
+n	asm	no	vis	conservative
+n	cds	no	perle	inclusive
+v	asm	no	enconner	conservative
+n	asm	no	gugusse	conservative
+n	cds	no	proxo	inclusive
+n	asf	no	attardé	conservative
+n	cds	no	falot	conservative
+n	cds	no	conceitedness	conservative
+n	cds	no	instituteur	inclusive
+n	asm	no	phallisme	inclusive
+n	dmc	yes	valeurs morales	inclusive
+n	om	no	sodomie	inclusive
+n	cds	no	suffisance	inclusive
+n	cds	no	déchets solides	conservative
+n	re	no	systèmes mafieux	inclusive
+n	cds	no	baron voleur	inclusive
+n	or	no	moule	conservative
+n	re	no	meurtres	inclusive
+n	qas	no	auto-infection	inclusive
+n	cds	no	fondamentalisme	inclusive
+n	pr	no	poule	conservative
+a	ddf	yes	mal-voyant	inclusive
+a	svp	no	glouton	conservative
+n	cds	no	git	conservative
+n	svp	no	ladre	inclusive
+a	qas	no	classe moyenne	inclusive
+n	cds	no	assistant parlementaire	inclusive
+n	re	no	assassiner	inclusive
+n	cds	no	gang	conservative
+n	an	no	bufo rouselei	inclusive
+a	dmc	yes	noir	conservative
+n	cds	no	singe	conservative
+n	an	no	Équidé asinien	inclusive
+n	qas	no	classe professionnelle	inclusive
+n	svp	no	fainéants	conservative
+n	asf	no	tête de noeud	conservative
+n	cds	no	conard	conservative
+n	qas	no	revenu intermédiaire	inclusive
+n	an	no	caprinidé	inclusive
+n	om	no	pédé	conservative
+n	cds	no	groupe	inclusive
+n	asm	no	érection	inclusive
+n	re	no	vol de voiture	inclusive
+a	is	yes	malheureux	inclusive
+n	ddp	yes	microcephalie	inclusive
+n	ddp	yes	des trucs et non-sens	inclusive
+n	cds	no	arnaqueur	conservative
+n	qas	no	déchet d'emballage	inclusive
+a	qas	no	commun	inclusive
+n	cds	no	rigoriste	conservative
+n	ps	yes	nigga	conservative
+n	an	no	benêt	conservative
+n	dmc	yes	supercherie	conservative
+a	cds	no	onctueux	conservative
+n	qas	no	notion générales de parasitologie	inclusive
+n	dmc	yes	médiocrité	conservative
+n	cds	no	conformiste	conservative
+n	cds	no	montagne	inclusive
+n	pr	no	odalisque	inclusive
+n	ps	yes	jerry	conservative
+n	cds	no	mon pote	inclusive
+v	cds	no	conjurer	inclusive
+a	svp	no	croix	conservative
+n	an	no	épifaune	inclusive
+n	dmc	yes	menteuse	conservative
+n	ps	yes	mélange des peuples	conservative
+n	cds	no	bagnole	inclusive
+n	an	no	renfrogner	inclusive
+n	an	no	raunch	conservative
+n	re	no	singe	inclusive
+n	ddf	yes	personnes à mobilité réduite	inclusive
+n	ddp	yes	putain	conservative
+n	re	no	prédateur sexuel	conservative
+a	qas	no	larmoyant	conservative
+n	ps	yes	culte israélite	inclusive
+a	om	no	travesti	inclusive
+n	an	no	morue	conservative
+n	cds	no	ruse	conservative
+n	qas	no	divulgement	inclusive
+n	asm	no	pois cassés	inclusive
+a	cds	no	couard	conservative
+n	an	no	poire	conservative
+n	pa	yes	contrôleur	inclusive
+n	dmc	yes	vagabond	inclusive
+n	ps	yes	race noire	inclusive
+n	svp	no	ire	inclusive
+n	cds	no	tricker	conservative
+n	cds	no	casino	inclusive
+n	dmc	yes	dégradation	inclusive
+a	ddp	yes	bête t+	conservative
+n	cds	no	gang	inclusive
+n	cds	no	gangs de jeunes	inclusive
+v	cds	no	mettre	inclusive
+n	cds	no	toilette	inclusive
+n	dmc	yes	cul-terreux	conservative
+v	asm	no	entuber	conservative
+n	cds	no	roublard	conservative
+n	cds	no	nymphomanie	conservative
+n	ddp	yes	incarcération	inclusive
+n	dmc	yes	hypocrisie	conservative
+n	cds	no	betisier	inclusive
+n	cds	no	professeur de maternelle	inclusive
+n	dmc	yes	fainéants	conservative
+n	cds	no	bobard	conservative
+n	cds	no	fausseté	conservative
+v	cds	no	casser sa queue de billard	inclusive
+n	is	yes	taux de pauvreté	inclusive
+n	asm	no	trique	inclusive
+n	pr	no	amante	conservative
+n	ps	yes	tradition juive	inclusive
+n	qas	no	homme commun	inclusive
+n	pr	no	traînée	conservative
+n	ps	yes	mufle	conservative
+n	om	no	l'homosexualité	inclusive
+v	cds	no	calancher	inclusive
+n	cds	no	voleur	conservative
+n	re	no	délinquant	inclusive
+n	an	no	méchanceté	conservative
+a	qas	no	furieux	conservative
+n	an	no	wimp	conservative
+n	cds	no	dandynisme	inclusive
+n	ddp	yes	hooey	inclusive
+n	asf	no	jeune fille	conservative
+n	pr	no	bos taurus	inclusive
+n	cds	no	bague	inclusive
+n	cds	no	scribe	conservative
+n	cds	no	transformisme	inclusive
+a	ddp	yes	fou	conservative
+n	re	no	mafia: the city of lost heaven	conservative
+n	ps	yes	tziganes	inclusive
+n	qas	no	écume	conservative
+n	re	no	plagier	inclusive
+n	cds	no	moralisme	inclusive
+n	om	no	dame	inclusive
+n	dmc	yes	tel et donc	inclusive
+n	an	no	grenouille crapaud	inclusive
+n	re	no	assaut sexuel	inclusive
+n	cds	no	gangstérisme	inclusive
+n	ps	yes	judaica	inclusive
+n	an	no	quignon	conservative
+n	cds	no	réactionnaire	conservative
+n	cds	no	buse	conservative
+n	an	no	equus africanus asinus	inclusive
+n	pr	no	catin	conservative
+n	ps	yes	fasciste	inclusive
+n	an	no	canis lupus familiaris	inclusive
+n	an	no	physiognomonie	inclusive
+n	dmc	yes	boniment	inclusive
+n	an	no	loup	conservative
+a	cds	no	banal	inclusive
+n	om	no	lady	inclusive
+n	pr	no	coureuse	conservative
+n	ddp	yes	mouette	conservative
+n	svp	no	minginess	conservative
+n	an	no	goret	inclusive
+n	an	no	chev%c3%aache d%e2%80%99ath%c3%a9na	inclusive
+v	cds	no	s'empiffrer	inclusive
+n	re	no	coquin	conservative
+n	an	no	phtiraptère	inclusive
+n	cds	no	mafias	conservative
+n	cds	no	julot casse-croûte	inclusive
+n	svp	no	acedie	inclusive
+n	svp	no	intolérance	conservative
+n	ddp	yes	animaux	inclusive
+n	or	no	hop	conservative
+n	asf	no	enfoiré	conservative
+n	is	yes	méchant de fiction	conservative
+n	or	no	cataplasme	conservative
+n	ps	yes	noirs	inclusive
+n	ps	yes	rouge	inclusive
+n	cds	no	camarilla	inclusive
+n	asm	no	mal cuit	conservative
+n	ddp	yes	endofaune	inclusive
+n	cds	no	shylock	conservative
+n	re	no	mafioso	inclusive
+n	cds	no	dupe	conservative
+n	re	no	acte criminel	inclusive
+n	re	no	abus sexuels	inclusive
+n	pr	no	courtisane	inclusive
+n	pr	no	connard	conservative
+n	om	no	tapette	inclusive
+a	cds	no	matois	conservative
+n	cds	no	correspondant local de presse	inclusive
+n	re	no	ndrangheta	inclusive
+n	pa	yes	comptable	inclusive
+a	qas	no	affecté	conservative
+n	cds	no	menteur	conservative
+n	cds	no	lav	inclusive
+n	ps	yes	malotru	conservative
+n	pa	yes	professeur titulaire	inclusive
+n	is	yes	indigents	inclusive
+n	qas	no	mélange	inclusive
+n	asm	no	sexe de l'homme	inclusive
+n	om	no	homoerotisme	inclusive
+n	re	no	n'dranghetta	inclusive
+n	an	no	papillon(s) de nuit	inclusive
+n	an	no	bisons	inclusive
+a	svp	no	lubrique	conservative
+n	ddp	yes	reproduction animale	inclusive
+n	cds	no	cuivre	conservative
+n	an	no	incompétent	conservative
+n	cds	no	superficialité	inclusive
+n	cds	no	plaidoyer	inclusive
+n	om	no	les relations sexuelles anales	inclusive
+n	svp	no	péchés capitaux	inclusive
+v	cds	no	clamser	inclusive
+n	an	no	pou de corps	inclusive
+n	qas	no	parasiter	inclusive
+n	cds	no	keuf	conservative
+n	pa	yes	académiciens	inclusive
+n	pa	yes	prétendant	inclusive
+n	pr	no	pistolet moll	inclusive
+n	cds	no	officier de police	inclusive
+v	re	no	torturer	inclusive
+n	ps	yes	le judaïsme	inclusive
+n	cds	no	patron	inclusive
+n	cds	no	méfait criminel	conservative
+n	cds	no	pompeux	conservative
+n	an	no	souillon	conservative
+n	ddp	yes	bercé trop près du mur	conservative
+n	cds	no	polisseur d'apple	conservative
+n	pr	no	femme négligée	conservative
+a	dmc	yes	malfaisant	conservative
+n	re	no	criminel condamné	inclusive
+n	asf	no	ignorant	conservative
+n	cds	no	idolâtres	inclusive
+n	cds	no	grungeur	inclusive
+n	qas	no	mauvais chapeau	conservative
+n	an	no	racoleuse	conservative
+a	svp	no	hors de soi	inclusive
+n	an	no	crocodylian	inclusive
+n	re	no	voyous	conservative
+n	ddp	yes	patapouf	conservative
+n	qas	no	déchet	inclusive
+n	cds	no	plaisantin	inclusive
+n	re	no	petit voleur	inclusive
+n	an	no	sous-ordre blattodea	inclusive
+n	cds	no	casse-tête	conservative
+v	dmc	yes	entourlouper	conservative
+a	svp	no	frivole	conservative
+n	asm	no	stupidité	conservative
+n	or	no	inverti	conservative
+n	svp	no	bigot	conservative
+n	an	no	mangeurs d'hommes	inclusive
+n	qas	no	idéologue	inclusive
+n	cds	no	chiottes	inclusive
+a	dmc	yes	maléfique	conservative
+n	svp	no	acédie	inclusive
+n	pr	no	prostituée	conservative
+n	an	no	culicidé	inclusive
+n	cds	no	buse	inclusive
+n	dmc	yes	méchanceté	inclusive
+n	svp	no	volupté	inclusive
+n	cds	no	dweeb	conservative
+a	dmc	yes	sans scrupules	conservative
+n	pa	yes	paysan	inclusive
+n	cds	no	soutien	inclusive
+n	cds	no	talon	conservative
+v	asm	no	blouser	conservative
+n	asm	no	ignorant	conservative
+n	an	no	fille de trottoir	conservative
+n	cds	no	charlatanisme	conservative
+n	an	no	bison d'europe	inclusive
+n	or	no	chou blanc	inclusive
+n	re	no	ravisseurs	inclusive
+n	dmc	yes	talon	conservative
+n	qas	no	détective	inclusive
+n	pr	no	mondains	inclusive
+n	ddp	yes	fabrique de jardin	inclusive
+n	or	no	nullard	conservative
+n	dmc	yes	débauché	inclusive
+n	ps	yes	rester bouche bée	conservative
+a	cds	no	universitaire	conservative
+a	cds	no	perfide	conservative
+n	cds	no	low rollers	inclusive
+n	om	no	cross dressing	inclusive
+n	qas	no	bourgeoise	inclusive
+n	ps	yes	nègre	inclusive
+n	cds	no	cul-terreux	conservative
+v	cds	no	goinfrer	inclusive
+n	asf	no	retarder	conservative
+n	re	no	tueuse	inclusive
+n	cds	no	violence des gangs	inclusive
+n	cds	no	monohybride	inclusive
+n	an	no	bufo minutus	inclusive
+n	svp	no	angriness	inclusive
+n	cds	no	conspiration du silence	inclusive
+n	an	no	personne sans instruction	conservative
+n	re	no	pillage	inclusive
+n	an	no	vacca	inclusive
+n	cds	no	coterie	inclusive
+n	qas	no	art oratoire	inclusive
+n	re	no	braqueur	inclusive
+n	om	no	homo	inclusive
+n	cds	no	maffioso	inclusive
+n	svp	no	arrogance	inclusive
+n	an	no	sus scrofa domesticus	inclusive
+n	ps	yes	nigger	conservative
+a	dmc	yes	baisé	conservative
+n	qas	no	boulette	inclusive
+n	cds	no	unité de mesure japonaise	inclusive
+n	om	no	homosexuelles	inclusive
+n	cds	no	prêt d'argent	inclusive
+n	cds	no	sot	inclusive
+n	ddp	yes	canaille	conservative
+n	cds	no	superbia	inclusive
+n	an	no	reproduction des animaux	inclusive
+n	an	no	vamp	conservative
+n	cds	no	monohybridisme	inclusive
+n	qas	no	sangsue	conservative
+n	ddp	yes	stupide	conservative
+n	cds	no	tumulte	inclusive
+n	asm	no	fava	inclusive
+n	dmc	yes	fainéante	conservative
+n	re	no	terroriste	inclusive
+n	an	no	branta bernicla nigricans	inclusive
+n	an	no	vie animale	inclusive
+n	cds	no	poltronnerie	inclusive
+n	an	no	bonehead	conservative
+a	svp	no	plein de luxure	conservative
+v	an	no	rager	conservative
+n	om	no	gai	inclusive
+n	ddp	yes	saloperie	conservative
+n	cds	no	littéralisme	inclusive
+n	cds	no	gredin	conservative
+n	pa	yes	chaire personnelle	inclusive
+a	dmc	yes	laid	conservative
+n	asm	no	européenne haricots	inclusive
+n	ps	yes	peuple d'israël	inclusive
+n	cds	no	francs maçons	inclusive
+a	ddp	yes	fou	inclusive
+n	is	yes	lésine	conservative
+n	an	no	louve	conservative
+n	asf	no	lampiste	conservative
+n	cds	no	ridicule	conservative
+n	cds	no	toxicomane	conservative
+n	re	no	meurtre d'enfant	inclusive
+n	ps	yes	pignouf	conservative
+n	qas	no	peuple paysan	inclusive
+n	or	no	bonce	inclusive
+n	asm	no	faute	inclusive
+n	an	no	rana scorodesma	inclusive
+n	cds	no	n'dranghetta	inclusive
+n	cds	no	pandar	conservative
+n	ddp	yes	tripe	conservative
+n	svp	no	inactivité	inclusive
+n	or	no	citrouille du cap	inclusive
+n	an	no	gueule	inclusive
+n	ddp	yes	idiotie	inclusive
+n	or	no	buse	conservative
+n	cds	no	tohu-bohu	inclusive
+n	pr	no	john	inclusive
+n	re	no	plagiarisation	inclusive
+n	qas	no	homme du peuple	inclusive
+v	cds	no	fermer les yeux	inclusive
+n	cds	no	proxénétisme	inclusive
+n	cds	no	imbécile	inclusive
+n	dmc	yes	parénèse	inclusive
+n	an	no	piranha	conservative
+n	cds	no	eaux usées brutes	inclusive
+a	an	no	ladre	conservative
+n	om	no	travelo	inclusive
+n	an	no	coquelet	inclusive
+a	svp	no	glouton	inclusive
+n	rci	yes	barbares	conservative
+n	asf	no	knucklehead	conservative
+n	qas	no	omnium-gatherum	inclusive
+v	cds	no	crever	inclusive
+n	or	no	knucklehead	conservative
+n	qas	no	barbare	conservative
+n	cds	no	canalisations	inclusive
+n	qas	no	trader institutionnel	inclusive
+a	ddp	yes	aberrant	inclusive
+n	om	no	drag-queen	inclusive
+n	qas	no	grande bourgeoisie	inclusive
+n	pr	no	crack whore	conservative
+n	pr	no	taurin	inclusive
+n	an	no	maringouin	inclusive
+n	svp	no	fainéantise	inclusive
+v	qas	no	confondre	conservative
+n	pr	no	vache	conservative
+a	dmc	yes	mal	conservative
+n	om	no	pleine lune	inclusive
+n	an	no	pleureur	conservative
+n	pr	no	doxy	inclusive
+n	ps	yes	vandale	inclusive
+a	cds	no	pédante	conservative
+n	an	no	equus asinus asinus	inclusive
+n	an	no	hétérocères	inclusive
+n	svp	no	mangeur	conservative
+n	cds	no	sélection récurrente	inclusive
+n	dmc	yes	cambrioleur	conservative
+n	ddp	yes	lout	conservative
+n	dmc	yes	mystification	conservative
+a	dmc	yes	radin	conservative
+n	asm	no	fève	inclusive
+n	qas	no	personnalité du monde des affaires	inclusive
+n	cds	no	police	inclusive
+n	ddf	yes	laideur	inclusive
+n	ddp	yes	amentifère	inclusive
+n	or	no	foeniculum vulgare	inclusive
+n	re	no	criminel	inclusive
+n	cds	no	régimes fascistes	conservative
+n	cds	no	gangs de rue	inclusive
+n	qas	no	histoire	conservative
+n	qas	no	bourgeoisie médiévale	inclusive
+n	ps	yes	tsiganes	inclusive
+n	cds	no	camorriste	inclusive
+n	an	no	vache	conservative
+n	an	no	bêta	conservative
+n	cds	no	rogue	conservative
+v	cds	no	passer l%e2%80%99arme %c3%a0 gauche	inclusive
+n	om	no	pet	conservative
+n	dmc	yes	git	inclusive
+n	an	no	cancre	conservative
+n	cds	no	clann	inclusive
+n	asf	no	connichon	conservative
+n	an	no	vulgarité	conservative
+n	dmc	yes	mozarella	inclusive
+n	cds	no	charognes	inclusive
+n	qas	no	trading discrétionnaire	inclusive
+n	cds	no	spoliation	inclusive
+n	dmc	yes	clownerie	inclusive
+n	om	no	postérieurement	inclusive
+n	dmc	yes	porc	conservative
+n	re	no	enlèvements	inclusive
+n	an	no	siphonaptères	inclusive
+n	ddp	yes	dupe	conservative
+n	asf	no	selle	conservative
+a	cds	no	vif	inclusive
+n	an	no	fripouille	conservative
+a	ps	yes	israélite	inclusive
+n	an	no	cocufier	conservative
+n	pa	yes	académie	inclusive
+n	cds	no	splashiness	conservative
+n	asm	no	penis	inclusive
+n	an	no	limace	conservative
+a	ps	yes	chinoise	inclusive
+n	cds	no	moudre	conservative
+n	asm	no	membre	inclusive
+n	ps	yes	black	inclusive
+n	cds	no	briseur de grève	inclusive
+n	cds	no	fascisme	conservative
+n	cds	no	bûcheur	conservative
+n	cds	no	narcissisme	inclusive
+n	asm	no	appendices	inclusive
+v	cds	no	intrigue	inclusive
+n	cds	no	bête	inclusive
+n	dmc	yes	miette	inclusive
+a	ddp	yes	abruti	conservative
+n	om	no	fesse	inclusive
+n	cds	no	truckler	conservative
+n	cds	no	fondamentalisme chrétien	inclusive
+n	an	no	fada	conservative
+a	an	no	têtu	inclusive
+n	ddp	yes	lésions cérébrales	inclusive
+n	asm	no	poteau	inclusive
+n	re	no	avoir plagié	inclusive
+a	ddp	yes	enfantin	conservative
+n	re	no	homicide involontaire	inclusive
+n	is	yes	avare	conservative
+n	ddp	yes	fada	inclusive
+n	cds	no	bleu	conservative
+n	ddf	yes	crevette	conservative
+n	dmc	yes	faux t+	conservative
+a	cds	no	grossier	conservative
+n	re	no	furie	inclusive
+n	cds	no	fauche	inclusive
+n	re	no	causa nostra	conservative
+n	ps	yes	femmes noires	inclusive
+n	asm	no	oiseau	inclusive
+n	an	no	voyous	conservative
+n	cds	no	béguines	inclusive
+n	pr	no	rat norvège	inclusive
+n	cds	no	dogme de l'évolution	inclusive
+n	an	no	boucherie	inclusive
+n	pr	no	blague	conservative
+n	an	no	anguilliforme	inclusive
+n	cds	no	sous-clan	inclusive
+n	asm	no	inintelligence	conservative
+n	re	no	félonie	inclusive
+a	om	no	homosexuelle	conservative
+a	qas	no	bourgeois	inclusive
+n	cds	no	personne stupide	conservative
+n	cds	no	tête de nœud	inclusive
+n	qas	no	factotum	conservative
+n	re	no	délinquant sexuel	inclusive
+v	qas	no	foirer	conservative
+n	pa	yes	comptables	inclusive
+n	pr	no	john	conservative
+n	pr	no	garçons loyer	conservative
+v	cds	no	expirer	inclusive
+n	dmc	yes	ciseleur	conservative
+a	dmc	yes	lâche	conservative
+n	an	no	euryptérides	inclusive
+n	or	no	connil	conservative
+n	cds	no	théorie des complots	inclusive
+n	pa	yes	groom	inclusive
+n	or	no	möse	conservative
+n	pa	yes	jésuite	inclusive
+n	ddp	yes	gland	conservative
+a	is	yes	parcimonieux	conservative
+n	asm	no	sot	conservative
+n	om	no	pédérastie	inclusive
+n	cds	no	bandit de grands chemins	conservative
+n	om	no	travesti	inclusive
+a	dmc	yes	imitation	inclusive
+n	re	no	question ordinaire	inclusive
+n	om	no	ipsilatéral	inclusive
+n	cds	no	waters	inclusive
+a	an	no	avare	conservative
+n	cds	no	site	inclusive
+a	qas	no	usuel	inclusive
+n	an	no	vie microbienne	inclusive
+n	svp	no	aboulique	inclusive
+n	qas	no	collaborateur	inclusive
+n	cds	no	omerta	inclusive
+n	cds	no	essaim	inclusive
+n	cds	no	patronat	inclusive
+n	ddp	yes	aberration	conservative
+n	ddp	yes	cretinisme	inclusive
+n	pa	yes	membre correspondant	inclusive
+n	re	no	meurtriers	inclusive
+n	qas	no	fieldhand	inclusive
+n	cds	no	parvenu	inclusive
+n	dmc	yes	vilain	conservative
+n	qas	no	baragouin	inclusive
+n	ddp	yes	débile	conservative
+n	asm	no	bêta	conservative
+n	ddp	yes	faunistique	inclusive
+n	cds	no	archiprêtre	inclusive
+n	qas	no	classes moyennes	inclusive
+n	re	no	traducement	inclusive
+v	re	no	tromper	inclusive
+n	cds	no	bandit	inclusive
+n	an	no	aphaniptère	inclusive
+n	svp	no	apathique	inclusive
+n	svp	no	suralimentation	inclusive
+n	ps	yes	vagabond	inclusive
+n	an	no	balourd	conservative
+n	asf	no	bête	conservative
+n	cds	no	paquet	conservative
+a	dmc	yes	niqué	conservative
+n	ddp	yes	ridicule	conservative
+n	pr	no	rentboy	conservative
+a	svp	no	lascive	conservative
+n	re	no	calvaire	inclusive
+n	is	yes	méchante	conservative
+n	asm	no	bourrique	inclusive
+a	svp	no	gourmand	inclusive
+a	dmc	yes	mal poli	conservative
+n	ddp	yes	lésion cérébrale	inclusive
+n	pr	no	heteroceres	inclusive
+n	pa	yes	cap d'escadre	inclusive
+n	dmc	yes	trickster	conservative
+n	cds	no	métis	inclusive
+n	an	no	prostitution de rue	conservative
+n	om	no	tooshie	inclusive
+n	qas	no	mensonges	conservative
+n	ps	yes	Ébène	inclusive
+n	an	no	tel et donc	conservative
+n	ps	yes	tsigane	inclusive
+n	qas	no	œuf	inclusive
+n	ps	yes	goujat	conservative
+n	cds	no	déchets	inclusive
+n	ps	yes	asiatiques	inclusive
+n	asf	no	poupée	conservative
+n	ddp	yes	incompétent	conservative
+n	cds	no	conarde	conservative
+n	qas	no	trique	inclusive
+n	an	no	chienne	inclusive
+a	dmc	yes	criminel	conservative
+n	svp	no	sectaire	conservative
+n	asm	no	mouette	conservative
+n	om	no	gonzesse	conservative
+n	an	no	personne négligée	conservative
+n	pr	no	concubinage	inclusive
+a	is	yes	affligé	inclusive
+n	om	no	tush	inclusive
+n	cds	no	pigeon	conservative
+n	an	no	punaises de lit	inclusive
+n	an	no	chèvres	inclusive
+n	dmc	yes	clochard	conservative
+a	dmc	yes	foutu	conservative
+n	cds	no	doux au toucher	conservative
+n	asf	no	nichon	conservative
+n	ddp	yes	informateur	conservative
+n	cds	no	idiote	inclusive
+n	asm	no	teub	inclusive
+n	an	no	cabot	inclusive
+v	cds	no	gueuletonner	inclusive
+n	an	no	valet	inclusive
+n	an	no	buche	conservative
+a	cds	no	homme de néandertal	conservative
+n	cds	no	retors	conservative
+a	svp	no	avaricieux	conservative
+n	qas	no	hommes d%e2%80%99affaires	inclusive
+n	om	no	caudale	inclusive
+n	ps	yes	negre	inclusive
+v	asm	no	avoir	conservative
+n	re	no	tourmenter	inclusive
+n	qas	no	haute bourgeoisie	inclusive
+n	ddp	yes	reproduction des animaux	inclusive
+n	cds	no	chevalier d'industrie	conservative
+n	cds	no	délinquant	inclusive
+n	an	no	paillasson	conservative
+n	an	no	ver luisant	inclusive
+n	cds	no	maffia	conservative
+a	an	no	parcimonieux	conservative
+n	dmc	yes	mouffette	inclusive
+n	cds	no	fils de putain	conservative
+n	re	no	exacte	inclusive
+a	ddp	yes	adolescent	conservative
+n	an	no	goule	inclusive
+n	cds	no	mafieux	conservative
+n	cds	no	méfait	conservative
+n	ddp	yes	demeuré	conservative
+n	or	no	connard	conservative
+a	svp	no	excédé	inclusive
+n	pa	yes	avocat d'affaires	inclusive
+n	ddp	yes	oie	conservative
+n	or	no	simple	conservative
+n	qas	no	sciolist	conservative
+n	asm	no	twirp	conservative
+n	an	no	microbienne	inclusive
+n	pa	yes	chasseur	inclusive
+n	qas	no	middle class	inclusive
+n	qas	no	rhétorique classique	inclusive
+n	an	no	brute	conservative
+n	cds	no	démagogue	conservative
+n	re	no	vilifier	conservative
+n	svp	no	arrogance	conservative
+n	or	no	tête boudin	conservative
+n	ddp	yes	hammerhead	conservative
+n	an	no	ouaille	inclusive
+a	cds	no	hybride	inclusive
+n	dmc	yes	chiseler	conservative
+n	qas	no	rejeter	conservative
+v	cds	no	marchander	inclusive
+n	an	no	genre capra	inclusive
+n	cds	no	intermédiateur	inclusive
+n	cds	no	anneau	inclusive
+n	cds	no	relique	inclusive
+n	asm	no	connarde	conservative
+n	cds	no	déchets solides municipaux	inclusive
+a	cds	no	éprouvant	conservative
+n	pr	no	bos taurus domesticus	inclusive
+n	qas	no	rustaud	conservative
+v	cds	no	commenter	inclusive
+n	cds	no	ciseleur	conservative
+n	cds	no	galérien	inclusive
+n	an	no	faible	conservative
+n	cds	no	égout sanitaire	inclusive
+n	re	no	rustler	inclusive
+a	re	no	chaud	conservative
+n	an	no	athene noctua	inclusive
+n	cds	no	cueillir	conservative
+n	qas	no	magnat	inclusive
+n	cds	no	cut-up	conservative
+n	ddf	yes	handicapé	inclusive
+n	om	no	gays	inclusive
+n	svp	no	gloutonnerie	inclusive
+n	dmc	yes	fumbler	conservative
+n	cds	no	policier	inclusive
+n	dmc	yes	impolitesse	conservative
+n	cds	no	feignant	conservative
+n	cds	no	usurier	inclusive
+n	or	no	fée	conservative
+a	dmc	yes	malin	conservative
+a	svp	no	grognon	conservative
+n	an	no	couard	conservative
+n	rci	yes	sauvage	conservative
+n	an	no	anguille vrai	inclusive
+n	cds	no	méli-mélo	inclusive
+n	cds	no	truand	inclusive
+n	qas	no	bouts	inclusive
+n	an	no	caimaninae	inclusive
+n	ps	yes	butor	conservative
+n	qas	no	amateur	inclusive
+n	an	no	chasseur de femme	conservative
+n	an	no	chevêche d'athéna	inclusive
+n	ddp	yes	arrieration mentale	inclusive
+n	asf	no	nibard	conservative
+n	dmc	yes	clowns	inclusive
+n	svp	no	voracité	conservative
+n	qas	no	monsieur tout-le-monde	inclusive
+n	ps	yes	manouches	inclusive
+n	an	no	lapsus	inclusive
+v	qas	no	embrouillamini	conservative
+n	cds	no	passionné	inclusive
+a	ddf	yes	vil	conservative
+n	asf	no	arbrisseau	inclusive
+n	dmc	yes	délinquant juvénile	conservative
+n	qas	no	système de pondération plongée	inclusive
+n	re	no	filou	inclusive
+v	cds	no	suralimenter	inclusive
+n	ps	yes	croisés	inclusive
+n	ps	yes	poire	conservative
+n	an	no	verrat	inclusive
+n	ps	yes	destroyer	conservative
+n	cds	no	gogo	conservative
+n	svp	no	tanhā	inclusive
+n	dmc	yes	gangsters	inclusive
+n	svp	no	radinerie	inclusive
+n	ps	yes	nègres	inclusive
+n	qas	no	mendiant	conservative
+n	pr	no	prostituées	inclusive
+n	re	no	fraude	inclusive
+n	asm	no	appendice	inclusive
+n	cds	no	charges	inclusive
+n	cds	no	croûte	inclusive
+n	asm	no	vit	inclusive
+n	cds	no	méchant tragique	conservative
+n	rci	yes	paysan	inclusive
+n	cds	no	sol	inclusive
+n	cds	no	théoriciens de la conspiration	inclusive
+n	re	no	crise de violence	inclusive
+n	ddp	yes	changelins	conservative
+v	cds	no	sermonner	conservative
+n	svp	no	fierté	inclusive
+n	cds	no	barbare	conservative
+n	ps	yes	krauthead	conservative
+n	qas	no	peintre et décorateur	inclusive
+n	dmc	yes	délit pénal	inclusive
+n	cds	no	chiens	conservative
+n	an	no	crapeaud	inclusive
+n	an	no	voyou	conservative
+n	an	no	bufo spelaeus	inclusive
+n	an	no	Ânes	inclusive
+n	ddp	yes	folderol	conservative
+n	svp	no	peche capital	inclusive
+v	cds	no	passer de vie à trépas	inclusive
+n	cds	no	lavez chambre	inclusive
+n	an	no	vautour	inclusive
+n	cds	no	bébé	inclusive
+n	dmc	yes	traitre	conservative
+n	asf	no	technicité	inclusive
+n	an	no	le grand requin blanc	inclusive
+n	om	no	madame	inclusive
+n	cds	no	selle	conservative
+n	an	no	froncer les sourcils	inclusive
+n	cds	no	violence religieuse	conservative
+n	cds	no	coque	conservative
+n	cds	no	clique	inclusive
+n	asm	no	débile	conservative
+n	qas	no	bidonville	inclusive
+n	re	no	molesté	inclusive
+n	cds	no	nimpho	conservative
+n	an	no	asticots	inclusive
+n	cds	no	cliques	inclusive
+n	asm	no	gaule	inclusive
+v	re	no	tourmenter	inclusive
+n	om	no	prout	conservative
+n	cds	no	muggins	conservative
+n	ps	yes	bibliothèque de canet-en-roussillon	inclusive
+a	is	yes	pauvres	inclusive
+n	cds	no	pécheuse	conservative
+n	cds	no	narcissique	inclusive
+n	an	no	bison	inclusive
+n	qas	no	chien de saint hubert	inclusive
+n	re	no	volé	inclusive
+a	ddp	yes	innocent	conservative
+n	om	no	drôle	conservative
+n	an	no	anoplura	inclusive
+n	cds	no	confusion	conservative
+v	is	yes	mendier	inclusive
+n	cds	no	proxénétisme	conservative
+a	svp	no	fâché	inclusive
+n	cds	no	théoricien du complot	inclusive
+n	an	no	diddlysquat	conservative
+a	dmc	yes	parcimonieux	conservative
+n	an	no	scorpion de mer	inclusive
+v	cds	no	être	inclusive
+n	cds	no	voleuse	inclusive
+n	an	no	caïmans	inclusive
+n	asm	no	bizoune	inclusive
+n	qas	no	troubla	conservative
+a	dmc	yes	souillé	inclusive
+n	re	no	braquage de banque	inclusive
+n	ddp	yes	herpétofaune	inclusive
+n	dmc	yes	plouc	conservative
+n	cds	no	mentir	conservative
+n	cds	no	imprimés publicitaires	inclusive
+n	an	no	serpent	conservative
+n	an	no	cafard	inclusive
+n	dmc	yes	arnaqueur	conservative
+n	qas	no	détaillant	inclusive
+n	ddp	yes	cul	conservative
+n	ddp	yes	retard mental	inclusive
+n	dmc	yes	gaffe	inclusive
+n	cds	no	jeu	inclusive
+n	dmc	yes	bousilleuse	conservative
+n	pr	no	bœufs	inclusive
+n	dmc	yes	clown blanc	inclusive
+n	cds	no	mensonge d'urgence	conservative
+n	asm	no	crétin	conservative
+n	svp	no	épargne	inclusive
+n	re	no	enlèvement politique	inclusive
+n	cds	no	démagogie	conservative
+n	cds	no	crevette	conservative
+a	svp	no	en colère	inclusive
+n	an	no	macrofaune	inclusive
+n	cds	no	fainéante	conservative
+n	asm	no	attardé	inclusive
+n	dmc	yes	forgerie	inclusive
+n	qas	no	industriel	inclusive
+n	cds	no	bas-bleu	inclusive
+n	cds	no	chaos	conservative
+n	ddp	yes	inintelligence	conservative
+n	re	no	banditisme	inclusive
+n	qas	no	magnats	inclusive
+n	om	no	travestis	inclusive
+n	pr	no	sirène	conservative
+n	cds	no	batard	inclusive
+n	an	no	grand requin blanc	inclusive
+n	ps	yes	pigeon	conservative
+n	dmc	yes	valet	conservative
+n	cds	no	paparazzi	inclusive
+n	an	no	hyenidae	inclusive
+n	cds	no	policiers	conservative
+n	ddp	yes	méchanceté	conservative
+n	re	no	droits des criminels	inclusive
+n	cds	no	enfant illégitime	inclusive
+n	cds	no	commère	conservative
+v	qas	no	les boules	conservative
+n	or	no	murphy	inclusive
+n	cds	no	policier	conservative
+n	cds	no	fondamentalisme religieux	inclusive
+n	ps	yes	culte juif	inclusive
+n	qas	no	troupeau	inclusive
+n	qas	no	magasinier	inclusive
+n	cds	no	handjob	conservative
+n	an	no	grands requins blancs	inclusive
+a	svp	no	parcimonieux	conservative
+n	asm	no	faute de main	inclusive
+n	an	no	capridé	inclusive
+n	re	no	rapine	inclusive
+n	re	no	abduction	inclusive
+n	cds	no	peureux	conservative
+n	dmc	yes	péquenaud	conservative
+n	an	no	maringouin commun	inclusive
+n	pa	yes	comment devenir avocat ?	inclusive
+n	an	no	débris	conservative
+n	cds	no	régime réactionnaire	conservative
+n	pa	yes	employé	inclusive
+a	is	yes	avare	conservative
+n	ddp	yes	mother fucker	conservative
+n	an	no	doodly-squat	conservative
+n	qas	no	acolytes	inclusive
+n	cds	no	arriviste	inclusive
+n	an	no	types de poules domestiques	inclusive
+n	an	no	bêtise	conservative
+n	cds	no	commentaire	inclusive
+n	asf	no	bûche	conservative
+n	asm	no	conarde	conservative
+n	re	no	viol par contrainte	conservative
+n	cds	no	baladin	conservative
+n	cds	no	relation	conservative
+n	asm	no	loi 12 du football	inclusive
+n	asf	no	codswallop	conservative
+n	cds	no	fascisant	conservative
+n	pa	yes	caporal	inclusive
+n	qas	no	peinture	inclusive
+a	pa	yes	théorique	inclusive
+n	cds	no	propagandiste	inclusive
+n	qas	no	partenaire dans le crime	inclusive
+n	dmc	yes	tromperie	conservative
+n	qas	no	bain	inclusive
+n	ps	yes	statut du métèque	inclusive
+v	cds	no	décéder	inclusive
+n	re	no	mafia calabraise	inclusive
+n	an	no	blanchaille	conservative
+a	is	yes	morne	inclusive
+a	cds	no	futé	inclusive
+n	ps	yes	judaisme	inclusive
+n	an	no	physiognomie	inclusive
+n	qas	no	chenils	inclusive
+n	cds	no	crétin	conservative
+n	cds	no	chanteur de charme	inclusive
+a	svp	no	libidineuses	conservative
+n	cds	no	populace	conservative
+n	cds	no	fausseté	inclusive
+n	ps	yes	nazi	inclusive
+n	qas	no	merde noire	inclusive
+n	asm	no	pois gourmand	inclusive
+n	qas	no	parasites	inclusive
+n	cds	no	retarder	inclusive
+n	dmc	yes	arlequin	inclusive
+a	cds	no	rance	inclusive
+n	an	no	buffo strumosus	inclusive
+n	asm	no	retardé	inclusive
+n	an	no	bernache cravant	inclusive
+n	an	no	hirudinean	inclusive
+n	an	no	gnangnan	conservative
+n	an	no	phalene du bouleau	inclusive
+a	om	no	exceptionnel	inclusive
+n	ddp	yes	déficience mentale	inclusive
+n	cds	no	meute	inclusive
+n	cds	no	aigrefin	conservative
+n	om	no	mouvement homophile	inclusive
+n	an	no	ver marin	inclusive
+a	ddf	yes	difforme	inclusive
+n	cds	no	benêt	conservative
+n	an	no	viande de mouton	inclusive
+n	om	no	extrémité arrière	inclusive
+n	qas	no	baratin	conservative
+n	an	no	salope	conservative
+a	cds	no	irrégulier	inclusive
+n	an	no	anesse	inclusive
+n	an	no	cabri	inclusive
+n	cds	no	tricheur	conservative
+n	pr	no	prostitution	conservative
+n	re	no	cambrioleur	conservative
+n	qas	no	trading	inclusive
+n	an	no	requin	inclusive
+n	re	no	abus sexuel	conservative
+n	rci	yes	barbare	conservative
+n	an	no	bovins	inclusive
+n	re	no	mafia sicilienne	conservative
+n	an	no	porcs	inclusive
+n	pa	yes	commis	inclusive
+n	qas	no	foul-up	inclusive
+n	re	no	viol	inclusive
+n	an	no	caprin	inclusive
+a	dmc	yes	borné	conservative
+a	pa	yes	méticuleux	conservative
+n	cds	no	idiolatry	inclusive
+n	dmc	yes	fou du roi	inclusive
+n	asm	no	érection du pénis	inclusive
+n	an	no	crapeau	inclusive
+n	cds	no	desperado	inclusive
+n	cds	no	prêteur	inclusive
+a	is	yes	mesquin	inclusive
+n	cds	no	effronté	conservative
+a	dmc	yes	dégoûtant	conservative
+v	re	no	enquiquiner	inclusive
+n	cds	no	bouffonnerie	inclusive
+n	ddp	yes	personne incapable	conservative
+n	asf	no	minou	conservative
+n	dmc	yes	naufragé	inclusive
+n	dmc	yes	sale chien	inclusive
+n	re	no	mafias	conservative
+a	svp	no	vaniteux	conservative
+n	an	no	oison	inclusive
+n	asf	no	néné	conservative
+a	svp	no	pingre	conservative
+n	qas	no	pouvoir	inclusive
+n	an	no	caster	inclusive
+n	dmc	yes	vagabond	conservative
+n	cds	no	larron	conservative
+n	an	no	crocodilien	inclusive
+n	an	no	tambour rouge	inclusive
+n	cds	no	sottise	conservative
+n	cds	no	théorie du complot archive 1	inclusive
+n	re	no	question	inclusive
+n	an	no	diddley	conservative
+n	asf	no	möse	conservative
+n	qas	no	melange	inclusive
+n	is	yes	pauvreté volontaire	inclusive
+n	asm	no	pisum sativum	inclusive
+n	an	no	nain	conservative
+n	pa	yes	concierge	inclusive
+n	an	no	moustiques	inclusive
+n	cds	no	clan	inclusive
+n	qas	no	abandonné le navire	inclusive
+n	svp	no	fureur	inclusive
+n	dmc	yes	trafiquant	conservative
+n	cds	no	croix	inclusive
+n	an	no	sale type	conservative
+n	qas	no	patchwork	inclusive
+n	cds	no	gouvernement réactionnaire	conservative
+n	dmc	yes	demi	conservative
+v	an	no	aboyer	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	ps	yes	brute	conservative
+n	cds	no	déchet domestique	conservative
+n	an	no	moucherons	inclusive
+n	ps	yes	rustaude	conservative
+n	an	no	bufo ventricosus	inclusive
+n	re	no	malversation	inclusive
+n	qas	no	architecture baroque	inclusive
+n	dmc	yes	foetor	conservative
+n	pa	yes	trésorier	inclusive
+n	asf	no	chatte	conservative
+n	an	no	cakehole	inclusive
+n	dmc	yes	pseudo	conservative
+n	dmc	yes	parénétique	inclusive
+n	re	no	libeler	conservative
+n	om	no	homosexual	inclusive
+n	qas	no	welter	inclusive
+n	cds	no	astuce	inclusive
+n	an	no	chat-huant	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	om	no	homosexualité	inclusive
+n	or	no	connasse	conservative
+n	svp	no	nausée	inclusive
+a	dmc	yes	flexible	inclusive
+n	qas	no	hommes d'affaires	inclusive
+a	dmc	yes	triste	inclusive
+n	svp	no	tranchoir	inclusive
+n	or	no	pomme	inclusive
+n	an	no	zooerastia	conservative
+n	dmc	yes	barbares	conservative
+n	or	no	queer	conservative
+n	an	no	vipère commune	inclusive
+n	an	no	vilain	conservative
+n	re	no	voyou	conservative
+n	cds	no	demagogie	conservative
+n	dmc	yes	banni	inclusive
+n	qas	no	testicule	inclusive
+n	dmc	yes	mal	inclusive
+n	cds	no	cabinet	inclusive
+n	ddp	yes	créature	inclusive
+n	cds	no	déchet	conservative
+n	om	no	âne	inclusive
+n	pr	no	gun moll	inclusive
+v	cds	no	idolâtrer	inclusive
+n	ps	yes	hybride artificiel	inclusive
+n	an	no	vers luisant	inclusive
+n	om	no	travestisme	inclusive
+n	an	no	prédateur	conservative
+n	re	no	délit du code pénal français	inclusive
+n	dmc	yes	fétide	conservative
+n	cds	no	fumbler	conservative
+n	ddp	yes	incapable	conservative
+n	cds	no	mafia calabraise	inclusive
+n	cds	no	reliques	inclusive
+n	an	no	bos primigenius f. taurus	inclusive
+n	re	no	abus sexuel	inclusive
+n	an	no	suchia	inclusive
+n	cds	no	ferraille	conservative
+n	dmc	yes	malveillance	inclusive
+n	qas	no	hutte	inclusive
+n	cds	no	gigolo	inclusive
+n	cds	no	gouaille	conservative
+a	cds	no	sournois	conservative
+a	svp	no	courroucé	inclusive
+n	an	no	vipera berus nikolskii	inclusive
+n	an	no	bufo vulgaris	inclusive
+n	cds	no	causa nostra	inclusive
+n	an	no	poule domestique	inclusive
+n	pa	yes	professeur extraordinarius	inclusive
+n	an	no	grossièreté	conservative
+n	svp	no	rat	inclusive
+n	cds	no	forçat	inclusive
+n	qas	no	boniment	conservative
+n	qas	no	relation	conservative
+n	ps	yes	bulgare	inclusive
+n	ps	yes	contre-torpilleur	conservative
+n	cds	no	opportuniste	conservative
+n	re	no	homicide volontaire	inclusive
+n	asm	no	pine	conservative
+n	ps	yes	bête	conservative
+n	pa	yes	diplomate	inclusive
+n	cds	no	accro	conservative
+n	svp	no	morgue	conservative
+a	dmc	yes	têtu	conservative
+n	or	no	twats	conservative
+n	svp	no	étroitesse	conservative
+n	an	no	poule mouillée	conservative
+n	ddp	yes	bousilleuse	conservative
+n	asm	no	maxillipède	inclusive
+n	cds	no	satyriasisme	conservative
+n	ddf	yes	handicaps	inclusive
+n	om	no	bourricot	inclusive
+n	cds	no	maçonnique	inclusive
+n	qas	no	farrago	inclusive
+n	ps	yes	biotechnologie des plantes	inclusive
+n	an	no	poulets de chair	inclusive
+a	dmc	yes	immorale	conservative
+n	asm	no	tête de nœud	inclusive
+n	cds	no	théorie du complot	inclusive
+n	ddp	yes	changelins	inclusive
+n	cds	no	proxénète	conservative
+n	pa	yes	pâtre	inclusive
+n	an	no	latasteopara	inclusive
+n	an	no	froncement	inclusive
+n	ddp	yes	charlatanisme	conservative
+n	cds	no	cul-de-sac	inclusive
+n	pr	no	femme adultère	conservative
+n	om	no	homo	conservative
+n	re	no	racketteur	inclusive
+n	ps	yes	zoulous	inclusive
+n	svp	no	gourmandise	inclusive
+n	ddp	yes	dunce	conservative
+n	dmc	yes	girouette	conservative
+a	dmc	yes	pestilentiel	conservative
+n	an	no	cancrelat	inclusive
+n	an	no	grippe-sou	conservative
+n	cds	no	brute	conservative
+n	cds	no	sélection massale	inclusive
+a	qas	no	général	inclusive
+n	dmc	yes	gaspilleur	inclusive
+n	cds	no	ordures menageres	inclusive
+n	asm	no	sottise	conservative
+n	svp	no	fierté	conservative
+n	an	no	grenouilles	inclusive
+n	cds	no	cloaque	inclusive
+n	pa	yes	homme de loi	inclusive
+n	asm	no	haltère	conservative
+n	cds	no	faux pas	inclusive
+n	cds	no	religiosite	inclusive
+a	cds	no	bêta	conservative
+n	an	no	fall guy	conservative
+n	an	no	être animé	inclusive
+n	ddf	yes	infirmité	inclusive
+n	ddp	yes	déficiences intellectuelles	inclusive
+n	svp	no	goinfre	inclusive
+n	cds	no	ordures ménagères	inclusive
+n	cds	no	conspirationniste	inclusive
+n	pr	no	sexuels commerciaux	inclusive
+n	cds	no	blackbouler	inclusive
+n	cds	no	fainéants	conservative
+n	ddp	yes	anus	conservative
+n	cds	no	farceur	conservative
+n	cds	no	charivari	inclusive
+n	ddp	yes	pauvre poisson	conservative
+n	asf	no	arbuste	inclusive
+n	qas	no	gens burgher	inclusive
+n	svp	no	fanatique	conservative
+n	asm	no	teste	inclusive
+v	cds	no	succomber	inclusive
+a	cds	no	craintif	conservative
+n	cds	no	nouveau-nés	inclusive
+n	an	no	limacidae	inclusive
+n	cds	no	proxénètes	inclusive
+n	ddp	yes	démoulé trop tôt	conservative
+n	qas	no	brute	conservative
+v	asm	no	niquer	conservative
+n	or	no	twat	conservative
+n	pr	no	personnalité mondaine	inclusive
+n	ps	yes	bourrique	conservative
+n	cds	no	caravane	inclusive
+n	an	no	bufo cinereus var. minor	inclusive
+n	cds	no	tripoteur	conservative
+n	cds	no	bobo	inclusive
+n	dmc	yes	tocard	conservative
+n	an	no	froussard	conservative
+n	cds	no	cognes	conservative
+n	dmc	yes	truand	inclusive
+n	or	no	butternut	inclusive
+n	dmc	yes	règle morale	inclusive
+n	cds	no	béjaune	conservative
+n	ddp	yes	brute	conservative
+n	an	no	perroquet	inclusive
+n	an	no	branta nigricans	inclusive
+n	svp	no	bon à rien	conservative
+n	cds	no	arrogance	conservative
+n	asm	no	poupe	conservative
+n	cds	no	moneygrubber	inclusive
+n	cds	no	morgue	conservative
+n	an	no	prostituée	conservative
+v	cds	no	avaler son extrait de naissance	inclusive
+n	qas	no	se mêlent-mangle	inclusive
+n	an	no	anguilla	inclusive
+n	an	no	oie	conservative
+n	qas	no	acolyte	inclusive
+n	re	no	aggression sexuelle	inclusive
+n	om	no	pédéraste	inclusive
+n	cds	no	cockup	inclusive
+n	om	no	lesbienne	conservative
+n	pa	yes	bonze	inclusive
+n	an	no	vipera berus bosniensis	inclusive
+n	qas	no	rheteur	inclusive
+n	ddf	yes	désactiver	inclusive
+n	an	no	physionomie	inclusive
+n	qas	no	niche à chien	inclusive
+n	an	no	fille de joie	conservative
+n	pr	no	filles de joie	conservative
+n	cds	no	abruti	conservative
+n	cds	no	fachiste	conservative
+n	an	no	types	inclusive
+n	dmc	yes	laboureur	conservative
+n	an	no	lapsus de langue	inclusive
+n	ps	yes	culture selective des plantes	inclusive
+n	om	no	lopette	conservative
+n	dmc	yes	personne malheureuse	inclusive
+n	cds	no	hypersexualité	conservative
+n	an	no	coureur de jupons	conservative
+n	qas	no	satellite	inclusive
+n	asm	no	nibard	conservative
+v	asm	no	tromper	conservative
+n	asm	no	handjob	conservative
+n	ddp	yes	prater	conservative
+n	pa	yes	professeur émérite	inclusive
+n	asf	no	cancre	conservative
+n	re	no	escroc	inclusive
+n	ps	yes	Économie noire	inclusive
+n	is	yes	pauvreté dans le monde	inclusive
+n	cds	no	fascisme islamique	conservative
+n	pr	no	chipie	conservative
+n	ddp	yes	bourru	conservative
+v	asm	no	moquerie	inclusive
+n	re	no	calomniatrice	conservative
+n	dmc	yes	malfrat	inclusive
+n	asm	no	demeuré	conservative
+n	pr	no	micheton	inclusive
+n	an	no	rascasse	inclusive
+a	dmc	yes	indolent	conservative
+n	an	no	bufo alpinus	inclusive
+n	an	no	puce	inclusive
+a	pa	yes	col blanc	inclusive
+n	om	no	coït anal	inclusive
+n	svp	no	envier	inclusive
+a	svp	no	énervé	inclusive
+n	cds	no	colporteur de ragots	conservative
+n	asf	no	benêt	conservative
+n	cds	no	gens du commun	inclusive
+n	pr	no	prostituée de la rue	conservative
+n	pr	no	papillons de nuit	inclusive
+n	ps	yes	barbare	conservative
+n	ddp	yes	oligophrénie	inclusive
+n	an	no	chiens	inclusive
+n	cds	no	fox	conservative
+a	re	no	furieux	inclusive
+n	qas	no	ferraille	inclusive
+n	asf	no	muttonheads	conservative
+n	cds	no	pensée réactionnaire	conservative
+v	asm	no	jouer à zizi-panpan	conservative
+n	pa	yes	bonzesse	inclusive
+n	cds	no	taux d'usure	inclusive
+n	re	no	gangsters	inclusive
+n	asm	no	doux au toucher	conservative
+a	dmc	yes	avaricieux	conservative
+n	re	no	marquignon	inclusive
+n	an	no	moue	inclusive
+n	cds	no	poulet	inclusive
+n	svp	no	oisif	conservative
+n	re	no	agression sexuelle en droit penal francais	inclusive
+a	svp	no	agressif	inclusive
+v	dmc	yes	tromper	conservative
+n	an	no	bœuf	inclusive
+n	cds	no	mat	inclusive
+n	cds	no	eaux usées	inclusive
+n	re	no	cosa nostra	inclusive
+n	cds	no	croyance scientiste	inclusive
+n	om	no	mouvement homophile	conservative
+n	cds	no	menus larcins	inclusive
+n	asm	no	visser	conservative
+n	cds	no	avorton	conservative
+n	ddf	yes	paralyser	inclusive
+n	cds	no	déchets municipaux	inclusive
+n	ddp	yes	tête de vier	conservative
+n	dmc	yes	voleur	conservative
+n	cds	no	gangster	inclusive
+n	cds	no	mother fucker	conservative
+v	qas	no	embêter	conservative
+n	qas	no	businessman	inclusive
+n	re	no	menus larcins	inclusive
+n	an	no	microbe	inclusive
+n	an	no	rana pluvialis	inclusive
+n	cds	no	craque	conservative
+n	an	no	ovin	inclusive
+n	an	no	phalène	inclusive
+n	asm	no	pterygiophore	inclusive
+n	re	no	enlèvement	inclusive
+a	cds	no	lâche	conservative
+n	cds	no	hubris	inclusive
+n	cds	no	pur	conservative
+n	cds	no	letrine	inclusive
+n	an	no	lésineur	conservative
+n	or	no	pet	conservative
+n	cds	no	un rapide	conservative
+n	an	no	bison d%e2%80%99am%c3%a9rique du nord	inclusive
+a	cds	no	outrecuidant	conservative
+n	cds	no	crasse	inclusive
+n	or	no	choux cultivés	inclusive
+n	om	no	postérieur	inclusive
+n	cds	no	camorra	inclusive
+n	pa	yes	poissonnière	inclusive
+n	qas	no	bourgeoisie anglaise	inclusive
+n	cds	no	famille	inclusive
+n	cds	no	oreille	conservative
+n	cds	no	scrawler	conservative
+a	svp	no	cupide	conservative
+v	qas	no	merde	conservative
+n	ddf	yes	bossu	inclusive
+n	cds	no	bousilleur	conservative
+n	asm	no	ravi	conservative
+a	cds	no	pédant	conservative
+n	qas	no	acolytat	inclusive
+n	re	no	mauvais traitements	inclusive
+n	cds	no	prêt usuraire	conservative
+n	an	no	suceur de sang	inclusive
+a	cds	no	froussard	conservative
+n	dmc	yes	paria	inclusive
+n	cds	no	tribalisme ethnique	inclusive
+n	cds	no	maître d'école	inclusive
+n	qas	no	débris	inclusive
+n	an	no	anguille	inclusive
+n	ps	yes	croisement	inclusive
+n	cds	no	actu	inclusive
+n	an	no	palaeophrynos	inclusive
+n	cds	no	libre maçon	inclusive
+n	asm	no	couillon	inclusive
+n	an	no	mouche	inclusive
+n	an	no	lésine	conservative
+n	ddp	yes	bourrique	inclusive
+a	ddp	yes	absurde	conservative
+n	cds	no	satyriasis	conservative
+v	qas	no	mélanger	conservative
+n	cds	no	inflation	conservative
+n	cds	no	reactionnaire	conservative
+n	asm	no	buse	inclusive
+n	cds	no	adoration des idoles	inclusive
+n	ddp	yes	fabrique	inclusive
+n	cds	no	paraisons	inclusive
+n	dmc	yes	dépensier	inclusive
+n	cds	no	rat	conservative
+n	ddp	yes	médicastre	conservative
+n	asf	no	niais	conservative
+n	cds	no	toilettes	inclusive
+n	cds	no	zèle	inclusive
+n	cds	no	tribalisme	inclusive
+n	qas	no	bourgeois	inclusive
+n	re	no	cosa nostra	conservative
+n	dmc	yes	propre à rien	conservative
+n	pr	no	epimys norvegicus	inclusive
+n	asf	no	changelins	conservative
+n	an	no	hyaenidae	inclusive
+n	re	no	épreuve	inclusive
+n	cds	no	histoires	inclusive
+n	dmc	yes	libertinage	conservative
+n	cds	no	bouffon	conservative
+n	cds	no	mensonges	inclusive
+n	pa	yes	auxiliaire du corps professoral	inclusive
+n	svp	no	lésine	conservative
+n	ddp	yes	animalia	inclusive
+n	asm	no	pois mangetout	inclusive
+n	an	no	plouc	conservative
+n	cds	no	amour-propre	inclusive
+n	cds	no	cogne	conservative
+n	cds	no	farce	inclusive
+n	pr	no	bos primigenius taurus	inclusive
+n	cds	no	couillon	conservative
+n	asm	no	mange-merde	conservative
+n	ddp	yes	ignorant	conservative
+n	is	yes	proscrit	inclusive
+n	pr	no	fornicatrice	conservative
+n	cds	no	trafiquant	conservative
+a	dmc	yes	mal l	conservative
+n	qas	no	castes	inclusive
+n	cds	no	zélote	inclusive
+n	an	no	mite	inclusive
+n	an	no	mélanisme industriel	inclusive
+n	ps	yes	négrophilie	inclusive
+n	cds	no	omnium-gatherum	inclusive
+n	cds	no	stock broker	inclusive
+a	svp	no	avare	inclusive
+n	an	no	sot	conservative
+n	dmc	yes	mozzarelle	inclusive
+n	is	yes	pauvre diable	inclusive
+n	pr	no	taure	inclusive
+n	cds	no	cambrioleur	inclusive
+a	qas	no	hystérique	conservative
+a	svp	no	vengeur	conservative
+n	pa	yes	salle de portier	inclusive
+n	cds	no	vide poche	inclusive
+n	ps	yes	hybride naturel	inclusive
+n	cds	no	branlette	conservative
+n	an	no	cochon	conservative
+n	qas	no	rhétorique	inclusive
+n	pr	no	vacca	inclusive
+n	ps	yes	métisse	conservative
+n	ddp	yes	buche	conservative
+n	re	no	assassinats	inclusive
+n	asm	no	putain	conservative
+n	an	no	vol de cadavres	inclusive
+n	dmc	yes	rogue	conservative
+n	qas	no	roturier	inclusive
+n	pr	no	taureau	inclusive
+n	an	no	race caprine	inclusive
+n	pr	no	mite	inclusive
+n	cds	no	vols de bétail	inclusive
+n	an	no	floozie	conservative
+n	cds	no	vol de bétail	inclusive
+n	an	no	femme fatale	conservative
+v	cds	no	tramer	inclusive
+n	pa	yes	corporel	inclusive
+n	cds	no	coquin	conservative
+n	svp	no	avidité	inclusive
+n	qas	no	bousilleuse	conservative
+n	dmc	yes	pauvre diable	inclusive
+n	re	no	terroristes	inclusive
+n	an	no	porc	conservative
+n	qas	no	chef d'entreprise	inclusive
+n	cds	no	fouineur	conservative
+n	pr	no	trainée	conservative
+n	cds	no	penny dreadful	inclusive
+a	ddp	yes	obtus	conservative
+n	om	no	clope	conservative
+n	cds	no	fondamentalisme biblique	inclusive
+v	re	no	duper	inclusive
+n	svp	no	ravenousness	conservative
+n	om	no	crossdress	inclusive
+n	pa	yes	banquier	inclusive
+n	pr	no	courtisan	inclusive
+n	an	no	enfoiré	conservative
+n	cds	no	fraudeur	conservative
+n	pr	no	rat	inclusive
+n	cds	no	riches	inclusive
+n	re	no	kidnappage	inclusive
+n	svp	no	ire de dieu	inclusive
+n	an	no	animaux	inclusive
+v	cds	no	être aux écoutes	inclusive
+n	cds	no	maffia	inclusive
+n	svp	no	péché capital	inclusive
+n	pr	no	slut	inclusive
+n	asm	no	volatile	inclusive
+a	re	no	violente	inclusive
+v	is	yes	solliciter	inclusive
+n	cds	no	amateurisme	conservative
+n	is	yes	vœu de pauvreté	inclusive
+n	re	no	meutrière	inclusive
+n	ps	yes	darky	conservative
+n	qas	no	homme du commun	inclusive
+n	re	no	abus de pouvoir	inclusive
+v	re	no	frauder	inclusive
+n	rci	yes	rustre	conservative
+n	svp	no	carcajou	inclusive
+n	pr	no	bovin	inclusive
+n	an	no	vipera berus sachalinensis	inclusive
+n	asm	no	gourde	conservative
+n	an	no	heterocera	inclusive
+n	cds	no	un rapide	inclusive
+n	or	no	bêta	conservative
+n	re	no	une mauvaise utilisation	inclusive
+n	svp	no	désagréable	inclusive
+a	cds	no	minutieux	conservative
+a	dmc	yes	pauvre	conservative
+n	cds	no	membre de la tribu	inclusive
+n	asf	no	cramouille	conservative
+n	pa	yes	savetier	inclusive
+v	asm	no	copuler	conservative
+n	an	no	rana acephala	inclusive
+a	ddf	yes	estropié	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	asf	no	votzen	conservative
+n	or	no	vittu	conservative
+n	cds	no	racaille	conservative
+n	cds	no	nosy-parker	conservative
+n	an	no	moucheron	inclusive
+n	qas	no	ordure	inclusive
+n	an	no	body snatcher	inclusive
+n	qas	no	parasitisme	inclusive
+n	an	no	couillon	conservative
+n	ps	yes	négroïdes	inclusive
+n	ps	yes	blackamoor	inclusive
+n	an	no	fou	conservative
+n	ddp	yes	ignare	conservative
+n	re	no	meurtre au second degré	inclusive
+n	qas	no	crampon	conservative
+n	an	no	genre pipistrellus	inclusive
+a	svp	no	belligérant	conservative
+n	is	yes	parcimonie	conservative
+n	pr	no	maitresse	conservative
+n	an	no	simple	conservative
+n	ps	yes	peuple mongol	inclusive
+n	cds	no	plèbe	conservative
+n	an	no	gardon	inclusive
+n	ddp	yes	derrière	conservative
+n	cds	no	prélature	inclusive
+n	asm	no	prepuce	inclusive
+n	cds	no	pleureur	conservative
+n	an	no	genre anguilla	inclusive
+n	an	no	bufo vulgaris var. obtusirostris	inclusive
+n	qas	no	récupération de ferraille	inclusive
+a	dmc	yes	trafiqué	conservative
+n	cds	no	farceur	inclusive
+n	cds	no	usurier	conservative
+n	an	no	chien	inclusive
+a	ddp	yes	sot	conservative
+n	ps	yes	bâtard	conservative
+n	pa	yes	savatier	inclusive
+n	cds	no	comportement criminel	inclusive
+n	an	no	larve de mouche	inclusive
+n	cds	no	ronchonneur	conservative
+n	pr	no	mus hibernicus	inclusive
+n	asm	no	pois cassé	inclusive
+n	cds	no	rustre	conservative
+n	svp	no	indolence	inclusive
+n	cds	no	menterie	inclusive
+v	re	no	dérober	inclusive
+n	asm	no	nique	conservative
+n	re	no	comportement criminel	inclusive
+n	pa	yes	professeurs	inclusive
+n	cds	no	matcher	inclusive
+n	ddp	yes	pudden-tête	conservative
+n	or	no	cunts	conservative
+n	cds	no	prêteurs	inclusive
+n	an	no	caiman	inclusive
+n	cds	no	vénalité	conservative
+n	or	no	minutie	inclusive
+n	re	no	larcin	inclusive
+n	pa	yes	ministre-conseiller	inclusive
+n	cds	no	sbires	conservative
+n	dmc	yes	déserteur	conservative
+n	re	no	infractions sexuelles	inclusive
+n	ps	yes	idiote	conservative
+n	ps	yes	lourdaud	conservative
+n	or	no	drôle	conservative
+n	ps	yes	xanthoderme	conservative
+n	ddf	yes	avorton	conservative
+n	cds	no	culchie	inclusive
+n	an	no	batracien	inclusive
+n	om	no	fenouil	inclusive
+n	svp	no	abulia	inclusive
+n	svp	no	orgueil	conservative
+n	qas	no	fermiers	inclusive
+n	is	yes	harpagnon	conservative
+n	re	no	médisance	conservative
+n	re	no	diffamation commerciale	inclusive
+n	qas	no	société bourgeoise	inclusive
+n	dmc	yes	hypocrite	conservative
+n	ddp	yes	non-sens	inclusive
+a	cds	no	égocentré	conservative
+n	asf	no	minette	conservative
+n	om	no	plantaire	inclusive
+n	re	no	action terroriste	conservative
+n	asm	no	fou	inclusive
+n	cds	no	contrevérité	conservative
+n	dmc	yes	larron	conservative
+n	ddp	yes	nibard	conservative
+n	dmc	yes	guignol	conservative
+n	pr	no	moo-cow	inclusive
+n	cds	no	autolatry	inclusive
+v	re	no	piquer	inclusive
+n	cds	no	partie	inclusive
+n	ps	yes	Économie parallèle	inclusive
+a	qas	no	pitoyable	conservative
+n	an	no	tripe	conservative
+n	an	no	zooerasty	conservative
+n	or	no	hammerhead	conservative
+n	re	no	plagiat	inclusive
+n	re	no	mafiosi	conservative
+n	an	no	métastigmata	inclusive
+n	re	no	action terroriste	inclusive
+n	ddp	yes	butor	conservative
+n	ddp	yes	commérage	conservative
+n	an	no	groin	inclusive
+n	cds	no	problème	conservative
+n	asm	no	wank	conservative

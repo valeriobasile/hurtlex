@@ -1,0 +1,3554 @@
+pos	category	stereotype	lemma	level
+n	ddp	yes	tullebukk	conservative
+n	dmc	yes	dilly-dallier	conservative
+n	pr	no	biston betularia	inclusive
+n	an	no	kaimaner	inclusive
+n	an	no	gatepiken	conservative
+n	ps	yes	bulgarsk	inclusive
+n	an	no	animalculum	inclusive
+n	ps	yes	blackamoor	inclusive
+n	cds	no	løgner	inclusive
+n	qas	no	magniloquence	inclusive
+n	dmc	yes	andre-rater	conservative
+n	qas	no	villmann	conservative
+n	ddf	yes	handikap	inclusive
+n	svp	no	lustfulness	inclusive
+n	cds	no	culchie	inclusive
+n	cds	no	kryss-avl	inclusive
+n	is	yes	gnier	conservative
+n	cds	no	komfort-stasjon	inclusive
+n	an	no	insekter	inclusive
+n	svp	no	stoltheit	inclusive
+n	cds	no	demagog	conservative
+n	qas	no	bommert	inclusive
+n	re	no	kriminalitet	inclusive
+n	asf	no	tullebukk	conservative
+n	cds	no	stortyv	inclusive
+n	qas	no	magnat	inclusive
+n	cds	no	folkehav	inclusive
+n	re	no	drapsmann	inclusive
+n	cds	no	cull	conservative
+n	svp	no	conceitedness	conservative
+n	asf	no	numskull	conservative
+n	dmc	yes	villmann	conservative
+n	an	no	barnepike-geit	inclusive
+n	or	no	cucurbita maxima	inclusive
+n	asm	no	tissefant	inclusive
+n	re	no	ærekrenkelse	conservative
+n	asm	no	fuck	conservative
+n	qas	no	gårdsarbeider	inclusive
+n	cds	no	betjent	conservative
+n	svp	no	dødssynder	inclusive
+n	dmc	yes	onde	inclusive
+n	ddp	yes	stupiditet	conservative
+n	an	no	late	conservative
+n	cds	no	gossipmonger	conservative
+n	om	no	rumpeball	inclusive
+n	cds	no	pyse	conservative
+n	cds	no	moneylending	conservative
+n	pa	yes	frieren	inclusive
+n	ps	yes	jødedom	inclusive
+n	om	no	homosexualism	inclusive
+n	re	no	drap	inclusive
+n	an	no	culex pipiens	inclusive
+n	ddp	yes	mental retardasjon	inclusive
+n	ddp	yes	psykisk utviklingshemmede	inclusive
+n	ddp	yes	oaf	conservative
+n	qas	no	blooper	inclusive
+n	asm	no	tosk	conservative
+n	cds	no	strikebreakers	inclusive
+n	qas	no	ugagn-maker	conservative
+n	cds	no	outlaw	inclusive
+n	ddp	yes	naut	conservative
+n	an	no	hoggorm	inclusive
+n	cds	no	bookworm	conservative
+n	cds	no	scads	inclusive
+n	svp	no	vrede	inclusive
+n	re	no	terrorangrep	conservative
+n	an	no	blodsuger	inclusive
+n	an	no	grisene	inclusive
+n	cds	no	forbryter	conservative
+n	cds	no	rustler	inclusive
+n	dmc	yes	dissimulator	conservative
+n	dmc	yes	svindler	conservative
+n	ddp	yes	kvakksalver medisin	conservative
+n	om	no	derriere	inclusive
+n	ps	yes	vandal	inclusive
+n	cds	no	whiner	conservative
+n	om	no	ipsilaterale	inclusive
+n	qas	no	gårdbruker	inclusive
+n	re	no	lidelse	inclusive
+n	om	no	anatomiske gjelder plassering	inclusive
+n	an	no	fauna	inclusive
+n	pr	no	heterocera	inclusive
+v	an	no	bjeffe	inclusive
+n	an	no	mannlig prostitusjon	conservative
+n	cds	no	ungdomsforbryter	conservative
+n	svp	no	begjær	inclusive
+n	pa	yes	mortician	inclusive
+n	cds	no	fascisme	conservative
+n	re	no	grifter	inclusive
+n	re	no	kidnappere	inclusive
+n	an	no	ildflue	inclusive
+n	pa	yes	begravelse direktør	inclusive
+n	cds	no	partiet	inclusive
+n	qas	no	husarbeid	inclusive
+n	pr	no	kommersielle seksuelle	inclusive
+n	cds	no	lærerinne	inclusive
+n	pr	no	prostituert	conservative
+n	cds	no	knipe	inclusive
+n	an	no	biff	inclusive
+n	an	no	spiselig sneglen	inclusive
+n	cds	no	avløpssystem	inclusive
+n	cds	no	røver	conservative
+n	an	no	europeiske bison	inclusive
+n	pr	no	rattus	inclusive
+n	ps	yes	den mongoloide rase	conservative
+n	an	no	dunce	conservative
+n	dmc	yes	tragisk skurk	conservative
+n	cds	no	masse	inclusive
+n	qas	no	løgner	conservative
+n	qas	no	vanskelighet  t	inclusive
+n	cds	no	schoolma'am	conservative
+n	svp	no	niggardliness	conservative
+n	an	no	sjakaler	inclusive
+n	or	no	fuckhead	conservative
+v	cds	no	dø	inclusive
+n	qas	no	flub	inclusive
+n	svp	no	avariciousness	inclusive
+n	svp	no	gjerrigknark	inclusive
+n	asm	no	cockerel	inclusive
+n	pa	yes	advocator	inclusive
+n	pr	no	prostitusjon	conservative
+n	an	no	vamper	conservative
+n	an	no	tamhund	inclusive
+n	pr	no	mannlig prostitusjon	conservative
+n	pa	yes	revisor	inclusive
+n	an	no	hunden	inclusive
+n	dmc	yes	scattergood	inclusive
+n	pr	no	hetaira	inclusive
+n	ddp	yes	idioti	inclusive
+n	ddp	yes	blabber	conservative
+n	svp	no	seven cardinal sins	inclusive
+n	ddp	yes	psykisk utviklingshemming	inclusive
+n	an	no	culicidae	inclusive
+n	an	no	blattaria	inclusive
+n	an	no	griffon gribb	inclusive
+n	cds	no	nå	inclusive
+n	cds	no	fanatiker	conservative
+n	ps	yes	metoiker	inclusive
+n	cds	no	planteforedlerrett	inclusive
+n	qas	no	boor	conservative
+n	ps	yes	jøde	inclusive
+n	an	no	krokodiller	inclusive
+n	cds	no	selvtilfredshet	inclusive
+n	cds	no	tørkestativ	inclusive
+n	an	no	wisent	inclusive
+n	pa	yes	full professor	inclusive
+n	an	no	skrik-ugle	inclusive
+n	cds	no	egenkjærlighet	conservative
+n	ddp	yes	ninny	conservative
+n	an	no	diddlyshit	conservative
+n	om	no	barnemishandler	conservative
+n	an	no	bos taurus	inclusive
+n	ddp	yes	idiotés	conservative
+n	svp	no	mope	conservative
+n	cds	no	motley fool	inclusive
+n	svp	no	eros	inclusive
+n	dmc	yes	turncoat	conservative
+n	qas	no	løgn	conservative
+n	pa	yes	prof	inclusive
+n	svp	no	superbia	conservative
+n	cds	no	plantebioteknologi	inclusive
+n	pr	no	socialite	inclusive
+n	pa	yes	korporal	inclusive
+n	cds	no	lowlife	conservative
+n	cds	no	renkesmed	inclusive
+n	an	no	pyse	conservative
+n	om	no	buggery	inclusive
+n	qas	no	lurvete	conservative
+n	qas	no	housekeeping	inclusive
+n	om	no	boller	inclusive
+n	cds	no	gutt	inclusive
+n	cds	no	loanshark	inclusive
+n	om	no	lesbisk	inclusive
+n	an	no	animalcule	inclusive
+n	cds	no	weisenheimer	conservative
+n	re	no	annengrads mord	inclusive
+n	cds	no	rettelser offiser	inclusive
+n	qas	no	commoners	inclusive
+a	svp	no	olm	inclusive
+n	cds	no	rettelsen offiser	inclusive
+n	an	no	crocodilian	inclusive
+n	pr	no	leie gutt	conservative
+n	dmc	yes	forfalskeri	inclusive
+n	cds	no	banditti	conservative
+n	cds	no	litterær hack	conservative
+n	re	no	politiet misbruk	inclusive
+n	ps	yes	doofus	conservative
+n	ddp	yes	lurvete og bobtail	conservative
+n	re	no	ran	inclusive
+n	ddp	yes	fumbler	conservative
+n	an	no	anguillidae	inclusive
+n	dmc	yes	tabbe-off	conservative
+n	an	no	esler	inclusive
+n	an	no	kyllinger	inclusive
+n	an	no	nordpadde	inclusive
+n	cds	no	skjære opp	conservative
+n	ddp	yes	ferociousness	conservative
+n	svp	no	fråtsing	inclusive
+n	cds	no	pedagog	inclusive
+n	an	no	bikkje	inclusive
+n	an	no	bløtdyr	inclusive
+n	an	no	seng bug	inclusive
+n	cds	no	presumptuousness	conservative
+n	pr	no	courtesans	inclusive
+n	cds	no	konspirasjon av stillhet	inclusive
+n	an	no	knucklehead	conservative
+n	cds	no	forbudt	inclusive
+n	cds	no	scum bag	conservative
+n	an	no	sucker	inclusive
+n	cds	no	instruktør	inclusive
+n	qas	no	magnater	inclusive
+n	cds	no	feighet	conservative
+n	cds	no	designerfritidsklær	inclusive
+n	cds	no	wangler	conservative
+n	re	no	kidnappet	inclusive
+n	cds	no	søppelpost	inclusive
+n	svp	no	fjøl	conservative
+n	an	no	europeisk bison	inclusive
+n	om	no	homofile mannlige	inclusive
+n	asf	no	bytting	conservative
+n	cds	no	skrapjern	conservative
+n	dmc	yes	umoralsk	inclusive
+n	an	no	huggorm	inclusive
+n	ddp	yes	barbar	conservative
+n	an	no	bestialitet	conservative
+n	qas	no	kennel	inclusive
+n	cds	no	ekteskap megler	inclusive
+n	pa	yes	uncouthness	conservative
+n	dmc	yes	libertine	conservative
+n	is	yes	niggard	conservative
+n	cds	no	foxiness	conservative
+n	cds	no	mekler	inclusive
+n	asf	no	kuse	conservative
+n	an	no	metazoans	inclusive
+n	an	no	dverg	conservative
+n	ddp	yes	hokum	conservative
+a	ddp	yes	tåpelig	conservative
+n	cds	no	snoop	conservative
+n	qas	no	hanger-on	conservative
+n	an	no	seng bugs	inclusive
+n	cds	no	wank	conservative
+n	ddf	yes	invaliditet	inclusive
+n	qas	no	bedrift person	inclusive
+n	qas	no	fib	conservative
+n	ddp	yes	analfabet person	inclusive
+n	cds	no	purk	conservative
+n	cds	no	Ågervirksomhet	conservative
+n	qas	no	mare hekker	inclusive
+n	cds	no	svindler	conservative
+n	an	no	crocodilia	inclusive
+n	pr	no	fortauskant gjennomgang	conservative
+n	an	no	helix pomatia	inclusive
+n	ddp	yes	fange	inclusive
+n	svp	no	forfengelighet	conservative
+a	ps	yes	jødiske	inclusive
+n	om	no	homophile bevegelsen	inclusive
+n	qas	no	baroner	inclusive
+n	qas	no	kommunalt avfall	inclusive
+n	om	no	esel	inclusive
+n	cds	no	familie linje	inclusive
+n	dmc	yes	bumbler	conservative
+n	cds	no	sub-klanen	inclusive
+n	asm	no	reisning	inclusive
+n	cds	no	moraliserende	inclusive
+n	cds	no	pudding hodet	conservative
+n	qas	no	bonden	inclusive
+n	pr	no	norge rotte	inclusive
+n	cds	no	bluestocking	inclusive
+n	an	no	kyr	inclusive
+n	ddp	yes	infauna	inclusive
+n	cds	no	miscreant	conservative
+n	an	no	ål	inclusive
+n	cds	no	massene	conservative
+n	an	no	mikrobiel	inclusive
+n	om	no	cross-dressers	inclusive
+n	qas	no	shack	inclusive
+n	asm	no	hane	inclusive
+n	cds	no	gjengen krigføring	conservative
+n	cds	no	nyheter korrespondent	inclusive
+n	cds	no	hallik	conservative
+n	an	no	inexorableness	conservative
+n	qas	no	sodbuster	inclusive
+n	an	no	saueflått	inclusive
+n	pr	no	skjøgerede	inclusive
+n	pr	no	horer	inclusive
+n	an	no	ledertispe	conservative
+n	an	no	crocodilians	inclusive
+n	asm	no	rulle i høyet	conservative
+n	is	yes	onde	conservative
+n	asf	no	tulling	conservative
+n	re	no	mafiosi	inclusive
+n	ps	yes	kryss-avl	inclusive
+n	cds	no	utlegd	inclusive
+n	cds	no	egoisme	conservative
+n	svp	no	aboulia	inclusive
+n	qas	no	industrimann	inclusive
+n	cds	no	sonny	inclusive
+n	qas	no	maler og dekoratør	inclusive
+n	svp	no	syv dødssynder	inclusive
+n	an	no	ku	inclusive
+n	cds	no	halliker	conservative
+n	an	no	vipera berus	inclusive
+n	an	no	gatepike	conservative
+n	svp	no	de 7 dødssynder	inclusive
+n	cds	no	superbia	conservative
+n	cds	no	spebarn	inclusive
+n	cds	no	poltroon	conservative
+n	or	no	meticulosity	inclusive
+n	cds	no	boner	inclusive
+n	an	no	for crocodilia	inclusive
+n	svp	no	gorger	conservative
+n	cds	no	fanatisme	conservative
+n	asm	no	dum	conservative
+n	svp	no	hovmod	conservative
+n	cds	no	Ågerente	conservative
+n	qas	no	moocher	conservative
+n	ddp	yes	bygdeoriginal	conservative
+n	om	no	rumpe	inclusive
+n	cds	no	streikebrytar	inclusive
+n	ddp	yes	blockhead	conservative
+n	ps	yes	fascistiske	inclusive
+n	an	no	kine	inclusive
+n	dmc	yes	etisk motiv	inclusive
+n	qas	no	casteism	inclusive
+n	cds	no	den store massen	conservative
+n	pa	yes	barbariske	conservative
+n	ps	yes	mørkhudete mennesker	inclusive
+n	cds	no	simpleton	conservative
+n	an	no	hexapoda	inclusive
+n	or	no	dolt	conservative
+n	cds	no	familie	inclusive
+n	dmc	yes	libertinism	conservative
+n	an	no	mannlig prostituert	conservative
+n	qas	no	trader	inclusive
+n	cds	no	nærd	conservative
+n	cds	no	pudden-head	conservative
+n	cds	no	fawner	conservative
+n	cds	no	jester	inclusive
+n	qas	no	ball	inclusive
+n	qas	no	trouble maker	conservative
+n	dmc	yes	drifter	inclusive
+n	cds	no	seattle rock	inclusive
+n	cds	no	offiser	inclusive
+n	cds	no	botch	inclusive
+n	qas	no	næringslivsleder	inclusive
+n	asm	no	jævla	conservative
+n	qas	no	ballast	inclusive
+n	qas	no	håndlanger	inclusive
+n	om	no	shirtlifter	inclusive
+n	cds	no	avgudsdyrkelse	inclusive
+n	ddp	yes	mentalt utfordret	inclusive
+n	cds	no	hybrid	inclusive
+n	cds	no	folk	inclusive
+n	cds	no	beginer	inclusive
+n	cds	no	flub	inclusive
+n	pr	no	crack hore	inclusive
+a	dmc	yes	avskyelig	conservative
+n	cds	no	naut	conservative
+n	an	no	american bison	inclusive
+n	cds	no	betjent	inclusive
+n	dmc	yes	forfalskninger	inclusive
+n	cds	no	zealotry	conservative
+n	cds	no	småbarn	inclusive
+n	ddp	yes	reproduksjon av dyr	inclusive
+n	or	no	poove	conservative
+n	or	no	kalvehode	conservative
+n	cds	no	runt	conservative
+n	an	no	gyps fulvus	inclusive
+n	cds	no	half-pint	conservative
+n	pr	no	tøyte	conservative
+n	cds	no	fredløs	conservative
+n	om	no	finocchio	inclusive
+n	asm	no	forhud	inclusive
+n	cds	no	masser	inclusive
+n	an	no	dyreliv	inclusive
+n	asm	no	bukfinne	inclusive
+n	an	no	kjerring	conservative
+n	re	no	bedriftens overgrep	inclusive
+n	cds	no	topsy-turvyness	inclusive
+n	ps	yes	neger	inclusive
+n	re	no	innbruddstyv	inclusive
+n	cds	no	bestikkelig	inclusive
+n	an	no	doggie	inclusive
+n	an	no	brant	inclusive
+n	re	no	seksuallovbrudd	inclusive
+n	pa	yes	akademiske miljøet	inclusive
+n	an	no	bufo bufo	inclusive
+n	cds	no	barbarisk	conservative
+n	or	no	nick jr.	inclusive
+n	an	no	shoat	inclusive
+n	ps	yes	retard	conservative
+n	an	no	marauder	conservative
+n	an	no	ugle	inclusive
+n	cds	no	hoffnarr	inclusive
+n	an	no	hyener	inclusive
+n	cds	no	Ågerrente	inclusive
+n	pa	yes	hall porter	inclusive
+n	om	no	homophile	conservative
+a	ddp	yes	dum	conservative
+n	cds	no	kadaver	inclusive
+n	an	no	red drum	inclusive
+n	an	no	ballong swallower	inclusive
+n	cds	no	kjele med fisk	inclusive
+n	asm	no	profesjonell felling	inclusive
+n	re	no	italienske mafiaen	inclusive
+n	or	no	blockhead	conservative
+n	an	no	Ålefisker	inclusive
+n	ddp	yes	ukunne	conservative
+n	an	no	gateprostitusjonen	conservative
+n	re	no	kriminell atferd	inclusive
+n	svp	no	spiritlessness	inclusive
+n	asm	no	vicia faba	inclusive
+n	an	no	naut	inclusive
+n	an	no	gjerrigknark	conservative
+n	cds	no	rotter	conservative
+n	cds	no	procuress	inclusive
+n	pa	yes	advokatbevilgning	inclusive
+n	re	no	bakvaskelse	conservative
+n	pa	yes	spesiell pleader	inclusive
+n	cds	no	brigand	conservative
+n	svp	no	de 7 dødssyndene	inclusive
+n	dmc	yes	hayseed	conservative
+n	cds	no	frimureri	inclusive
+n	cds	no	yokel	conservative
+n	re	no	overgrep	inclusive
+n	an	no	seksfotinger	inclusive
+n	re	no	voldtektsmann	conservative
+n	cds	no	offentlig bekvemmelighet	inclusive
+n	cds	no	lashings	inclusive
+n	qas	no	dårlig hat	conservative
+n	an	no	lopper	inclusive
+n	cds	no	hallikvirksomhet	inclusive
+n	cds	no	dirty dog	conservative
+n	om	no	analt samleie	inclusive
+n	cds	no	gris	conservative
+n	pr	no	peppered møll	inclusive
+n	dmc	yes	forfalsket	inclusive
+n	cds	no	facisme	conservative
+n	cds	no	japanske måleenheter	inclusive
+n	or	no	tomat	inclusive
+n	ddf	yes	handikappet person	inclusive
+n	cds	no	mountebank	conservative
+n	cds	no	narcissist	inclusive
+n	pr	no	brun rotte	inclusive
+n	or	no	dumbass	conservative
+n	is	yes	relativ fattigdom	inclusive
+n	svp	no	apatiske	inclusive
+n	an	no	felles lus	inclusive
+n	pr	no	okser	inclusive
+n	an	no	hyenefamilien	inclusive
+n	svp	no	avaritia	inclusive
+n	re	no	forbudt	inclusive
+n	an	no	inhabil person	conservative
+n	an	no	mann-eater	inclusive
+n	ddp	yes	krek	inclusive
+n	an	no	meieri geit	inclusive
+n	cds	no	tosken	conservative
+n	om	no	dorsolaterale	inclusive
+n	ps	yes	jødisk tradisjon	inclusive
+n	asm	no	flouter	conservative
+n	ddp	yes	analfabet	inclusive
+n	ps	yes	boor	conservative
+n	cds	no	fanatikere	inclusive
+n	an	no	jilt	conservative
+n	ps	yes	rroma	inclusive
+n	om	no	homoeroticism	inclusive
+n	cds	no	kamarilla	inclusive
+n	dmc	yes	lowlife	inclusive
+n	qas	no	pokker	inclusive
+n	cds	no	publikum	inclusive
+n	cds	no	wads	inclusive
+n	om	no	pederastic	inclusive
+n	om	no	gentlewoman	inclusive
+n	cds	no	avløpsvann fra husholdninger	inclusive
+n	an	no	anuran	inclusive
+n	dmc	yes	løgner	conservative
+n	pa	yes	kontorassistent	inclusive
+n	cds	no	brigandage	inclusive
+n	qas	no	ballock	inclusive
+n	ddp	yes	muggins	conservative
+n	om	no	faggot	conservative
+n	cds	no	streikebryteri	inclusive
+n	ps	yes	mongolske	inclusive
+n	an	no	hore	conservative
+n	qas	no	dilemma	inclusive
+n	svp	no	latskap	conservative
+n	cds	no	frender	inclusive
+n	asm	no	nookie	conservative
+n	dmc	yes	loffer	conservative
+n	cds	no	omertà	inclusive
+n	svp	no	vemmelse	inclusive
+n	an	no	prickteaser	conservative
+n	re	no	delict	inclusive
+n	cds	no	crossbreed	inclusive
+n	ddp	yes	klossmajor	conservative
+n	qas	no	tabber	inclusive
+n	asf	no	dunderhead	conservative
+n	re	no	torturer	inclusive
+n	rci	yes	villmann	conservative
+n	asm	no	fababønne	inclusive
+n	an	no	haleløs amfibie	inclusive
+n	pa	yes	advokat	inclusive
+n	cds	no	åtsel	inclusive
+n	or	no	cucumis sativus	inclusive
+n	ps	yes	rødt kort	inclusive
+n	asm	no	kukk	conservative
+n	cds	no	ugagn-making	conservative
+n	ddp	yes	psykisk handicappet	inclusive
+n	pa	yes	college professor	inclusive
+n	re	no	gangster	inclusive
+n	asm	no	runker	conservative
+n	cds	no	gategjenger	inclusive
+n	qas	no	fuddle	inclusive
+n	qas	no	metallavfall	inclusive
+n	cds	no	motherfucker	conservative
+n	pr	no	kjendiser	inclusive
+n	re	no	svindler	inclusive
+n	dmc	yes	deceiver	conservative
+n	svp	no	vellystig	inclusive
+n	pa	yes	villmann	conservative
+n	cds	no	rumormonger	conservative
+n	dmc	yes	forstillelse	conservative
+n	asm	no	bred bønne	inclusive
+n	ps	yes	boche	conservative
+n	an	no	genus pipistrellus	inclusive
+a	qas	no	vanlige	inclusive
+n	qas	no	baronessen	inclusive
+n	dmc	yes	boor	conservative
+n	an	no	barred owl	inclusive
+n	om	no	queer	conservative
+n	svp	no	avsky	inclusive
+n	an	no	kroppen snatcher	inclusive
+n	asf	no	imbecile	conservative
+n	cds	no	jævelskap	conservative
+n	an	no	internett hoax	conservative
+n	an	no	little owl	inclusive
+n	pr	no	ildflue	inclusive
+n	pr	no	kjeftesmelle	conservative
+n	svp	no	giddeløshet	inclusive
+n	cds	no	pimp	conservative
+n	asm	no	vedheng	inclusive
+n	cds	no	problemer	conservative
+n	cds	no	overfladiskhet	inclusive
+n	cds	no	barbarer	conservative
+n	cds	no	fundamentalist	inclusive
+n	an	no	familiaris	inclusive
+n	cds	no	frimurer	inclusive
+n	cds	no	neonatal	inclusive
+n	asm	no	ert plante	inclusive
+n	ddp	yes	changeling	inclusive
+n	dmc	yes	buffoonery	inclusive
+a	re	no	rasende	inclusive
+n	re	no	debaucher	conservative
+n	dmc	yes	bruke-alt	inclusive
+n	cds	no	skrap	conservative
+n	ddp	yes	psykisk utviklingshemning	inclusive
+n	ddp	yes	codswallop	conservative
+n	qas	no	amatør	inclusive
+n	an	no	patsy	conservative
+n	dmc	yes	loiterer	conservative
+n	cds	no	gjengen	conservative
+n	an	no	nattsommerfugl	inclusive
+n	an	no	kylling	inclusive
+n	re	no	plagiert	inclusive
+n	om	no	sodomitt	inclusive
+n	qas	no	tagalong	conservative
+n	cds	no	ultrakonservative	conservative
+n	cds	no	offiser	conservative
+n	asf	no	pubeshår	inclusive
+n	cds	no	stoffmisbruker	conservative
+n	ddp	yes	lurvete	conservative
+n	dmc	yes	bløffmaker	conservative
+n	pr	no	courtier	inclusive
+n	cds	no	venality	inclusive
+n	cds	no	byttinger	inclusive
+n	ddf	yes	blind person	inclusive
+n	cds	no	hayseed	conservative
+n	is	yes	skinflint	conservative
+n	asm	no	avafauna	inclusive
+n	cds	no	oppkomling	inclusive
+n	cds	no	'ndrangheta	inclusive
+n	or	no	homophile bevegelsen	conservative
+n	ddp	yes	quack	conservative
+n	dmc	yes	mozzarella	inclusive
+n	an	no	norsk slaktegris	inclusive
+n	an	no	caprinae	inclusive
+n	ps	yes	crossbreed	inclusive
+n	re	no	aggresiviteten	inclusive
+n	svp	no	dillydallier	conservative
+n	dmc	yes	ransmann	conservative
+n	qas	no	rhetor	inclusive
+n	pa	yes	berebjelke	inclusive
+n	an	no	kjølsnegle	inclusive
+n	pa	yes	gjetere	inclusive
+n	cds	no	cop	conservative
+n	asm	no	jerk-off	conservative
+n	qas	no	industrileder	inclusive
+n	om	no	adelskvinne	inclusive
+n	cds	no	simpelt tyveri	inclusive
+n	pr	no	floozie	conservative
+n	an	no	gjess	inclusive
+n	an	no	orm	inclusive
+n	qas	no	snooper	inclusive
+n	ps	yes	mestiser	conservative
+n	asm	no	hard-on	inclusive
+n	cds	no	bigotry	conservative
+n	svp	no	penny-knipe	inclusive
+n	cds	no	hus prostitusjon	inclusive
+n	cds	no	falsity	conservative
+n	cds	no	evildoer	conservative
+n	cds	no	krysning	inclusive
+n	cds	no	dude	inclusive
+n	om	no	vilkår for anatomisk sted	inclusive
+n	svp	no	scrooge	conservative
+n	re	no	kval	inclusive
+n	or	no	dunce	conservative
+n	an	no	ferociousness	conservative
+n	dmc	yes	motley fool	inclusive
+n	asm	no	testicular	inclusive
+n	cds	no	arroganse	conservative
+n	om	no	homofile	conservative
+n	cds	no	ikke gjøre noe	conservative
+n	an	no	sea scorpion	inclusive
+n	re	no	'ndrangheta	inclusive
+n	cds	no	pool hustling	conservative
+n	re	no	bakvaskelse og ærekrenkelse	inclusive
+n	pa	yes	akademikere	inclusive
+n	an	no	branta bernicla	inclusive
+a	ddp	yes	bestialsk	conservative
+n	re	no	internasjonal terrorisme	inclusive
+n	an	no	canis familiaris	inclusive
+n	qas	no	kjele med fisk	inclusive
+n	cds	no	prankster	conservative
+n	is	yes	tigger	inclusive
+n	dmc	yes	så-og-så	inclusive
+n	is	yes	pauper	inclusive
+n	an	no	capra aegagrus hircus	inclusive
+n	or	no	noggin	inclusive
+n	pa	yes	fisk monger	inclusive
+n	is	yes	tragisk skurk	conservative
+n	asm	no	ninny	conservative
+n	pa	yes	churl	conservative
+n	qas	no	husholdningsavfall	inclusive
+n	cds	no	shirker	conservative
+n	ps	yes	dimwit	conservative
+n	ddf	yes	handikappet	inclusive
+n	ddp	yes	zooerastia	conservative
+n	ps	yes	mosaiske	inclusive
+n	an	no	haleløse amfibier	inclusive
+n	qas	no	besetning	inclusive
+n	ddp	yes	barbari	inclusive
+n	re	no	utlegd	inclusive
+n	cds	no	fascistisk	conservative
+n	is	yes	pariakaste	inclusive
+n	pr	no	nattsvermer	inclusive
+n	an	no	caiman	inclusive
+n	an	no	diddly	conservative
+n	dmc	yes	trickster gud	conservative
+n	dmc	yes	fant	inclusive
+n	cds	no	tyver	inclusive
+n	dmc	yes	good-for-ingenting	conservative
+n	or	no	pudden-head	conservative
+n	qas	no	sankt hubertshund	inclusive
+v	asm	no	pule	conservative
+n	asm	no	soft touch	conservative
+n	an	no	piggy	inclusive
+n	qas	no	hund hus	inclusive
+n	cds	no	hack forfatter	conservative
+n	an	no	muldyr	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	cds	no	rookie	conservative
+n	re	no	terrorisme	inclusive
+n	ddp	yes	taleteller	conservative
+n	cds	no	veien agenten	conservative
+n	cds	no	lovbryteren	inclusive
+n	ps	yes	Østgoterne	inclusive
+n	ps	yes	dust	conservative
+n	cds	no	illegitim	inclusive
+n	cds	no	pompousness	inclusive
+n	re	no	seksualforbrytelser	inclusive
+n	or	no	fenikkel	inclusive
+n	ps	yes	krysning	inclusive
+n	re	no	mordetterforsker	inclusive
+n	cds	no	junto	inclusive
+n	svp	no	skinflint	conservative
+n	svp	no	faineance	inclusive
+n	re	no	mafiaen	inclusive
+n	cds	no	ulovlige aktiviteter	inclusive
+n	qas	no	botcher	conservative
+a	svp	no	stolt	conservative
+n	cds	no	homuncli	inclusive
+n	dmc	yes	chiseller	conservative
+n	cds	no	djevelskap	conservative
+n	cds	no	erkeprest	inclusive
+n	qas	no	mannskapet	inclusive
+n	cds	no	vanskelighet  t	inclusive
+n	asm	no	ballock	inclusive
+n	cds	no	den store massen	inclusive
+n	re	no	seksuelt misbrukt	inclusive
+n	ps	yes	mosaittisk	inclusive
+n	qas	no	testikkel	inclusive
+a	cds	no	skarp	inclusive
+n	an	no	scum bag	conservative
+n	ddp	yes	riffraff	conservative
+n	qas	no	fumbler	conservative
+n	svp	no	craving	inclusive
+n	asm	no	pikk	inclusive
+n	ddp	yes	microcephalus	inclusive
+n	is	yes	global fattigdom	inclusive
+n	an	no	strix varia	inclusive
+n	dmc	yes	paria	inclusive
+n	an	no	fysiognomi	inclusive
+n	cds	no	mafiabossen	inclusive
+n	cds	no	alfons	conservative
+n	cds	no	dead-end street	inclusive
+n	ddp	yes	rasshøl	conservative
+n	re	no	slayer	inclusive
+n	qas	no	toppleder	inclusive
+n	re	no	dato voldtekt	conservative
+n	an	no	mikrobiell	inclusive
+n	an	no	psittaciformes	inclusive
+n	svp	no	gjerrigknark	conservative
+n	ps	yes	krysset	inclusive
+n	ps	yes	syndebukk	conservative
+n	cds	no	børsmegler	inclusive
+n	qas	no	forretningskvinne	inclusive
+n	ddp	yes	psykisk handicap	inclusive
+n	cds	no	cheekiness	conservative
+n	an	no	volaille	inclusive
+n	cds	no	wanker	conservative
+n	pa	yes	akademiske	inclusive
+n	qas	no	mannskap	inclusive
+n	an	no	capra	inclusive
+n	asm	no	dumhet	conservative
+n	an	no	krek	inclusive
+n	cds	no	pandemonium	inclusive
+n	or	no	butternut squash	inclusive
+n	cds	no	ungdomsgjenger	inclusive
+n	dmc	yes	desertør	conservative
+n	an	no	barbari	inclusive
+n	svp	no	dagdriver	conservative
+n	an	no	stikkemygg	inclusive
+n	dmc	yes	utstøtt	inclusive
+n	qas	no	virvar	inclusive
+n	cds	no	hauteur	conservative
+n	dmc	yes	debauchee	conservative
+n	cds	no	demagogi	conservative
+n	ddp	yes	patsy	conservative
+n	ddp	yes	sludder	conservative
+n	re	no	straffbart bare krenkelser	inclusive
+n	an	no	crocodylidae	inclusive
+n	asm	no	faba bønne	inclusive
+n	an	no	hun-geit	inclusive
+n	re	no	camorra	inclusive
+n	pa	yes	rådgiver-at-loven	inclusive
+n	an	no	lunkhead	conservative
+n	cds	no	banditti	inclusive
+n	an	no	hunnhund	conservative
+n	ddf	yes	half-pint	conservative
+n	om	no	gay	inclusive
+n	dmc	yes	rakehell	conservative
+n	om	no	drag queens	inclusive
+n	cds	no	phratry	inclusive
+n	svp	no	lediggang	inclusive
+n	asf	no	kjønnshår	inclusive
+n	cds	no	skrytepave	conservative
+n	cds	no	tomfool	conservative
+n	is	yes	ragamuffin	conservative
+n	an	no	rouncey	inclusive
+n	ddp	yes	inhabil	conservative
+n	pa	yes	universitetsprofessor	inclusive
+n	cds	no	retard	inclusive
+n	dmc	yes	klovner	inclusive
+n	cds	no	list	conservative
+n	asf	no	dimwit	conservative
+n	ps	yes	svart	inclusive
+n	an	no	gris	inclusive
+n	qas	no	hundehus	inclusive
+n	re	no	villainess	conservative
+n	cds	no	tabbe	inclusive
+n	dmc	yes	spøkefugl	inclusive
+a	an	no	bestialsk	conservative
+n	qas	no	baronesser	inclusive
+n	cds	no	meddler	conservative
+n	an	no	bison bonasus	inclusive
+n	om	no	laterale	inclusive
+n	cds	no	knep	conservative
+n	re	no	bakvaskelse	inclusive
+n	qas	no	kastesystemet	inclusive
+n	an	no	blockhead	conservative
+n	dmc	yes	mozzarella ost	inclusive
+n	cds	no	reaksjonær	conservative
+n	qas	no	baronesse	inclusive
+n	dmc	yes	jester	inclusive
+n	ps	yes	idiot	conservative
+n	an	no	hyaena	inclusive
+n	pa	yes	academicism	inclusive
+a	ddf	yes	vanskapt	inclusive
+n	or	no	numskull	conservative
+n	ddp	yes	tilbakestående	inclusive
+n	qas	no	monger	inclusive
+n	svp	no	kjedelig	inclusive
+n	dmc	yes	hjemløs person	inclusive
+n	cds	no	kriminell atferd	inclusive
+n	asm	no	knulle	conservative
+n	an	no	skogtroll	inclusive
+n	cds	no	datanerd	conservative
+n	cds	no	gjengen kultur	conservative
+n	qas	no	forretningsmann	inclusive
+n	asm	no	broad bønner	inclusive
+n	cds	no	frimurerlosjen	inclusive
+n	an	no	gribber	inclusive
+n	re	no	politi overgrep	inclusive
+n	pr	no	ledertispe	conservative
+n	cds	no	politimannen	conservative
+n	om	no	homoseksuelle	inclusive
+n	ps	yes	intergeneric hybrid	inclusive
+n	dmc	yes	bedrag	conservative
+n	pr	no	løs kvinne	conservative
+n	svp	no	fordommer	conservative
+n	an	no	eurypterids	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	cds	no	forbeder	inclusive
+n	ddf	yes	krøpling	inclusive
+n	an	no	eurasian griffon	inclusive
+n	an	no	otus asio	inclusive
+n	ps	yes	cretin	conservative
+n	cds	no	pompøsitet	inclusive
+n	cds	no	politifolk	conservative
+n	cds	no	ostentatiousness	inclusive
+n	an	no	skauflått	inclusive
+n	ps	yes	barbariske	conservative
+n	cds	no	frekkhet	conservative
+n	or	no	potatoe	inclusive
+n	asm	no	ereksjon	inclusive
+n	dmc	yes	fibber	conservative
+n	an	no	floozy	conservative
+n	svp	no	sjølvkjensle	inclusive
+n	cds	no	nyrikt	inclusive
+n	ps	yes	drifter	inclusive
+n	dmc	yes	fabricator	conservative
+n	ddp	yes	churl	conservative
+n	asf	no	cretin	conservative
+n	an	no	frosker	inclusive
+n	an	no	animalia	inclusive
+n	asf	no	saphead	conservative
+n	an	no	sneglen	inclusive
+n	qas	no	forpakter	inclusive
+n	cds	no	kløkt	inclusive
+n	cds	no	newswriter	inclusive
+n	ps	yes	negere	inclusive
+n	cds	no	fib	conservative
+n	svp	no	capital vices	inclusive
+n	asm	no	engelsk bean	inclusive
+n	ps	yes	svarte samfunnet	inclusive
+n	dmc	yes	forfalskning	inclusive
+n	cds	no	rote opp	inclusive
+n	re	no	terroraksjon	inclusive
+n	ps	yes	gult kort	inclusive
+n	ps	yes	jødisk familie	inclusive
+n	qas	no	kjøpmann	inclusive
+n	cds	no	nymfomani	conservative
+n	cds	no	lovbrudd	inclusive
+n	om	no	medioklavikularlinje	inclusive
+n	cds	no	papparazzi	inclusive
+n	dmc	yes	onde	conservative
+n	cds	no	nøkkelferdige	inclusive
+n	cds	no	folderol	conservative
+n	an	no	streetwalker	conservative
+n	om	no	plantar	inclusive
+n	re	no	seksuell kriminalitet	inclusive
+a	svp	no	sint	inclusive
+n	ddp	yes	dum person	conservative
+n	ps	yes	jødar	inclusive
+n	an	no	mannlig eskorte	conservative
+a	qas	no	middelklassen	inclusive
+n	an	no	visent	inclusive
+n	dmc	yes	hoffnarren	inclusive
+n	qas	no	søppel	inclusive
+n	an	no	snegler	inclusive
+n	pa	yes	fiskerkone	inclusive
+n	cds	no	korrespondenter	inclusive
+n	qas	no	falsity	conservative
+n	asf	no	bygdeoriginal	conservative
+n	re	no	falske anklager	inclusive
+n	pr	no	horkvinne	conservative
+n	dmc	yes	moral	inclusive
+n	asf	no	fitte	conservative
+n	an	no	maw	inclusive
+n	cds	no	smørsanger	inclusive
+n	re	no	sex-misbruk	inclusive
+n	cds	no	planteforedling	inclusive
+n	an	no	lurvete	conservative
+n	qas	no	skipsreder	inclusive
+n	svp	no	gourmandizer	inclusive
+n	cds	no	stringer	inclusive
+n	re	no	smerte	inclusive
+n	ps	yes	ruiner	conservative
+n	svp	no	ne'er-do-well	conservative
+n	cds	no	satyroman	conservative
+n	dmc	yes	hykleri	conservative
+n	or	no	fisse	conservative
+n	ddf	yes	deaktivere	inclusive
+n	qas	no	forlatt skipet	inclusive
+n	cds	no	papir-pusher	inclusive
+n	qas	no	borgerlig	inclusive
+n	asf	no	tosken	conservative
+n	qas	no	forretningsmagnat	inclusive
+n	om	no	gayness	inclusive
+n	cds	no	penger utlån	inclusive
+n	or	no	simpleton	conservative
+n	dmc	yes	umoral	inclusive
+n	cds	no	syndebukk	conservative
+n	ps	yes	gawk	conservative
+n	dmc	yes	forræder	conservative
+n	an	no	snigel	inclusive
+n	cds	no	chiseller	inclusive
+n	cds	no	tenestemann	conservative
+n	an	no	batrachian	inclusive
+n	an	no	slovenly person	conservative
+n	cds	no	politisk reaksjon	conservative
+n	cds	no	lån sharking	conservative
+n	an	no	anguilla	inclusive
+n	ps	yes	darkey	conservative
+n	asm	no	pokker	inclusive
+n	qas	no	kastevesen	inclusive
+n	cds	no	quidnunc	conservative
+n	ddp	yes	dyreart	inclusive
+n	cds	no	poltroonery	inclusive
+n	or	no	squash	inclusive
+n	asf	no	muggins	conservative
+n	cds	no	blackball	inclusive
+n	is	yes	tightwad	conservative
+n	cds	no	så-og-så	conservative
+n	ps	yes	negroid	inclusive
+n	cds	no	zealot	inclusive
+n	dmc	yes	hobo	conservative
+n	om	no	dorsoventral	inclusive
+n	asf	no	patsy	conservative
+n	re	no	plagiere	inclusive
+n	an	no	menneskeetende hai	inclusive
+n	ddp	yes	fanger	inclusive
+n	cds	no	bordello	inclusive
+n	re	no	sicilianske mafiaen	conservative
+n	asf	no	wench	conservative
+n	cds	no	scrawler	conservative
+n	cds	no	bedrag	inclusive
+n	pr	no	konkubiner	inclusive
+n	an	no	sauene	inclusive
+n	an	no	skogbjønn	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	svp	no	minginess	conservative
+n	pa	yes	kontorist	inclusive
+n	qas	no	pusher	inclusive
+n	cds	no	klaner	inclusive
+n	om	no	madam	inclusive
+n	an	no	coquette	conservative
+n	ps	yes	jødiske	inclusive
+n	svp	no	de syv kardinalsynder	inclusive
+n	ps	yes	zuluene	inclusive
+n	pr	no	kvinne på gaten	conservative
+n	dmc	yes	villedende	conservative
+n	asm	no	jeerer	conservative
+n	pr	no	hetære	inclusive
+n	qas	no	blodhund	inclusive
+n	qas	no	industrimagnat	inclusive
+n	cds	no	betalingsudyktig	conservative
+n	ddf	yes	funksjonshemninger	inclusive
+n	cds	no	fest	inclusive
+n	asm	no	falliske	inclusive
+n	an	no	geit-antilope	inclusive
+n	ddp	yes	fåvit	conservative
+a	dmc	yes	skitten	inclusive
+n	cds	no	taleteller	conservative
+n	pr	no	pistol moll	inclusive
+n	cds	no	peons	inclusive
+n	om	no	cross-dressing	inclusive
+n	an	no	kaninen	inclusive
+n	an	no	vanlig villsau	inclusive
+n	om	no	rumpballer	inclusive
+n	re	no	exact	inclusive
+a	cds	no	fascistisk	inclusive
+n	cds	no	huset av syk	inclusive
+n	an	no	carcharodon carcharias	inclusive
+n	or	no	dum	conservative
+n	svp	no	fjøl	inclusive
+n	re	no	plagiarization	inclusive
+n	pa	yes	bellhop	inclusive
+n	dmc	yes	brigand	conservative
+n	cds	no	bootlicker	conservative
+n	cds	no	dickhead	conservative
+n	an	no	kime	inclusive
+n	asm	no	changeling	inclusive
+n	an	no	slask	conservative
+n	asm	no	nooky	conservative
+n	cds	no	thieving	inclusive
+n	an	no	rogue	conservative
+n	dmc	yes	luring	conservative
+n	asf	no	jente	conservative
+n	om	no	homofil mann	inclusive
+n	ps	yes	barbar	conservative
+n	pr	no	mannlig prostituert	conservative
+n	an	no	old world buffalo	inclusive
+n	cds	no	mor fucker	conservative
+n	an	no	infauna	inclusive
+n	ps	yes	svart person	inclusive
+n	cds	no	oodles	inclusive
+n	an	no	skurk	conservative
+n	re	no	banditti	inclusive
+n	cds	no	hyklersk	conservative
+n	cds	no	sjefsskurken	inclusive
+n	qas	no	kenneler	inclusive
+n	dmc	yes	treasonist	conservative
+a	dmc	yes	skitne	inclusive
+n	cds	no	balladeer	inclusive
+n	cds	no	toalettene	inclusive
+n	ps	yes	bedu	inclusive
+n	re	no	utpressing	conservative
+n	ps	yes	asiatisk	inclusive
+n	or	no	gay	conservative
+n	qas	no	husmann	inclusive
+n	an	no	geitemelk	inclusive
+n	ps	yes	fascist	inclusive
+a	cds	no	slu	conservative
+n	an	no	egentlige krokodiller	inclusive
+n	an	no	frogspawn	inclusive
+n	cds	no	gjengen vold	inclusive
+n	pa	yes	ansatt	inclusive
+n	re	no	voldelig	inclusive
+n	ddp	yes	newsmonger	conservative
+n	ps	yes	svart mann	inclusive
+n	cds	no	freemason	inclusive
+n	re	no	storfe rustling	inclusive
+n	pa	yes	advokater	inclusive
+n	ddp	yes	pudding hodet	conservative
+n	cds	no	lånehai	inclusive
+n	cds	no	hallikvirksomhet	conservative
+n	cds	no	slyness	conservative
+n	ddp	yes	fuckhead	conservative
+n	cds	no	husholdningsavfall	inclusive
+n	pa	yes	begravelse begravelsesbyrå	inclusive
+n	re	no	forsettlig drap	inclusive
+n	dmc	yes	landsforræder	conservative
+n	cds	no	masonic	inclusive
+n	svp	no	ærekjensle	inclusive
+n	cds	no	skurk	conservative
+n	ddp	yes	cretin	inclusive
+n	dmc	yes	dissembler	conservative
+n	ddp	yes	varsellampene	conservative
+n	an	no	smale	inclusive
+n	pr	no	gun moll	inclusive
+n	cds	no	ballup	inclusive
+n	re	no	terrorister	inclusive
+n	an	no	purka	inclusive
+n	svp	no	trencherman	conservative
+n	re	no	forbryter	inclusive
+n	re	no	mafioso	conservative
+n	cds	no	vainglory	conservative
+n	ddp	yes	dum	conservative
+n	pa	yes	assisterende professor	inclusive
+n	ddp	yes	lummox	conservative
+n	cds	no	mafiosi	conservative
+n	cds	no	mellommann	inclusive
+n	cds	no	runker	conservative
+n	svp	no	gourmand	conservative
+n	an	no	sloven	conservative
+n	re	no	booty	inclusive
+n	pa	yes	sakfører	inclusive
+n	an	no	geiter	inclusive
+n	an	no	crocodylia	inclusive
+n	cds	no	kaos	inclusive
+n	ddp	yes	kalvehode	conservative
+n	is	yes	villainess	conservative
+n	dmc	yes	løgner	inclusive
+n	cds	no	gangstere	inclusive
+n	cds	no	flokk	inclusive
+n	cds	no	sloven	conservative
+n	pr	no	floozy	conservative
+n	pr	no	holdt kvinne	conservative
+n	dmc	yes	ødeland	inclusive
+n	an	no	familien anguillidae	inclusive
+n	cds	no	hybris	conservative
+n	ddf	yes	fysisk funksjonshemmet	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	cds	no	forbudt	conservative
+n	qas	no	amerikansk forretningsmann	inclusive
+n	an	no	geit	inclusive
+n	an	no	så-og-så	conservative
+n	dmc	yes	defrauder	conservative
+n	asf	no	naut	conservative
+n	ddf	yes	funksjonshemming	inclusive
+n	re	no	cosa nostra	inclusive
+n	ddp	yes	barbarer	conservative
+n	asm	no	skruing	conservative
+n	qas	no	vanlig person	inclusive
+n	cds	no	tosk	conservative
+n	ddp	yes	rumourmonger	conservative
+n	cds	no	stupe	conservative
+n	cds	no	kriminell	inclusive
+n	an	no	hundetispe	conservative
+a	cds	no	dum	conservative
+n	or	no	meticulousness	inclusive
+n	an	no	hatleflått	inclusive
+n	cds	no	pengeutlåneren	inclusive
+n	re	no	terrorangrep	inclusive
+n	re	no	terrorgrupper	inclusive
+n	re	no	capturer	inclusive
+n	re	no	første-graders drap	inclusive
+n	cds	no	plant biotechnology	inclusive
+n	svp	no	niggard	conservative
+n	an	no	tamhøns	inclusive
+n	dmc	yes	forfalske	inclusive
+n	cds	no	wc	inclusive
+n	an	no	pooch	inclusive
+v	cds	no	skrumpe	inclusive
+n	om	no	selskapsledelse	conservative
+n	dmc	yes	rotter	inclusive
+n	an	no	tragisk skurk	conservative
+n	re	no	storfe raiding	inclusive
+n	cds	no	tilskuer	conservative
+n	cds	no	cretin	inclusive
+n	cds	no	frimurerlosjens	inclusive
+n	om	no	crossdress	inclusive
+n	an	no	escargots	inclusive
+n	cds	no	idiot	inclusive
+n	an	no	svin og griser	inclusive
+n	ps	yes	reisende	inclusive
+n	ddp	yes	ting og tull	inclusive
+n	cds	no	pengeutlåner	inclusive
+n	cds	no	looker-on	conservative
+n	an	no	hemipteran	inclusive
+a	dmc	yes	trangsynt	conservative
+n	dmc	yes	hobos	conservative
+n	qas	no	leilendinger	inclusive
+n	an	no	european padde	inclusive
+n	an	no	hyene	inclusive
+n	dmc	yes	utlegd	inclusive
+n	cds	no	newspaperman	inclusive
+n	cds	no	do	inclusive
+n	re	no	utpresning	conservative
+n	an	no	geit antilope	inclusive
+n	qas	no	kastene	inclusive
+n	cds	no	moneylenders	conservative
+n	cds	no	frimurerene	inclusive
+a	svp	no	oppfarende	conservative
+n	an	no	flåtter	inclusive
+n	cds	no	kriminell handling	inclusive
+n	an	no	anura	inclusive
+n	is	yes	nødlidende	inclusive
+n	re	no	raper	conservative
+n	cds	no	bommert	inclusive
+n	om	no	handikappet person	conservative
+n	an	no	hemipteron	inclusive
+n	cds	no	desperat kriminell	inclusive
+n	or	no	cuke	inclusive
+n	om	no	sodomist	inclusive
+n	cds	no	blackleg	inclusive
+n	cds	no	bedreviter	conservative
+n	an	no	pediculus humanus	inclusive
+n	qas	no	borgerklassen	inclusive
+n	cds	no	scammer	conservative
+n	asm	no	idiotés	inclusive
+n	or	no	sativus	inclusive
+n	asm	no	betise	conservative
+n	pa	yes	regnskapsfører	inclusive
+n	qas	no	husmannsplass	inclusive
+n	pa	yes	professorater	inclusive
+n	an	no	gris	conservative
+n	pa	yes	akademiker	inclusive
+n	qas	no	baronen	inclusive
+n	is	yes	har-ikke	inclusive
+n	is	yes	frivillig fattigdom	inclusive
+a	ps	yes	kinesiske	inclusive
+n	qas	no	mooch	conservative
+n	cds	no	bas bleu	inclusive
+n	svp	no	dallier	conservative
+n	ddp	yes	dunderhead	conservative
+n	svp	no	de syv kardinalfeil	inclusive
+n	pa	yes	professor extraordinarius	inclusive
+n	cds	no	grumbler	conservative
+n	cds	no	halliker	inclusive
+n	pr	no	ku	inclusive
+n	asm	no	skru	conservative
+n	cds	no	advocacy	inclusive
+n	cds	no	hovedmannen	inclusive
+n	re	no	slubbert	inclusive
+n	asm	no	erigrert	inclusive
+n	asm	no	tosken	conservative
+n	om	no	basal	inclusive
+n	ps	yes	den mosaiske tro	inclusive
+n	qas	no	hutch	inclusive
+n	an	no	trøffelgris	inclusive
+n	an	no	stakkar	inclusive
+n	cds	no	besserwisser	conservative
+n	ddp	yes	numskull	conservative
+n	cds	no	Åtsler	inclusive
+n	cds	no	fabricator	conservative
+n	qas	no	storbonde	inclusive
+n	cds	no	ugagn	conservative
+n	ddp	yes	metazoans	inclusive
+n	svp	no	slackers	conservative
+n	cds	no	penny fryktelige	inclusive
+n	ps	yes	interspesifikk hybrid	inclusive
+n	an	no	dårlig person	conservative
+n	om	no	homoseksuell	conservative
+n	qas	no	commoner	inclusive
+n	qas	no	parasittoid	inclusive
+n	pa	yes	juridisk rådgiver	inclusive
+n	an	no	sauedyr	inclusive
+n	asf	no	byttinger	conservative
+n	pr	no	naut	inclusive
+n	svp	no	hauteur	conservative
+n	qas	no	hytte	inclusive
+n	svp	no	fysisk tiltrekning	inclusive
+n	pa	yes	croque-mort	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	svp	no	cardinal sins	inclusive
+n	cds	no	søppel	conservative
+n	asf	no	fette	conservative
+n	cds	no	bandit	conservative
+n	dmc	yes	narr	inclusive
+n	re	no	dømt forbryter	inclusive
+n	ps	yes	negroids	inclusive
+a	pa	yes	teoretiske	inclusive
+n	qas	no	borgerskap	inclusive
+n	cds	no	beginerne	inclusive
+n	re	no	straffbart lovbrudd	inclusive
+n	an	no	veggedyr	inclusive
+n	an	no	stikkmygg	inclusive
+n	ddp	yes	dyr	inclusive
+n	or	no	mus	conservative
+n	asm	no	pikk	conservative
+n	re	no	væpnede ran	inclusive
+n	cds	no	kin gruppe	inclusive
+n	qas	no	baroqueness	inclusive
+n	an	no	Ålefamilien	inclusive
+a	om	no	anormal	inclusive
+n	or	no	fennikel	inclusive
+n	cds	no	culling	conservative
+n	cds	no	folk	conservative
+n	or	no	nye potet	inclusive
+n	an	no	eurypterid	inclusive
+n	pr	no	gateprostitusjonen	conservative
+n	pr	no	crack hore	conservative
+n	cds	no	pakk	conservative
+n	cds	no	kriminalitet familie	inclusive
+n	cds	no	imbecile	inclusive
+n	cds	no	interfertility	inclusive
+n	an	no	skjevt ansikt	inclusive
+n	re	no	misbrukt	inclusive
+n	ps	yes	beduiner	inclusive
+n	cds	no	procuress	conservative
+n	cds	no	avfall	inclusive
+n	dmc	yes	fanatiker	conservative
+n	qas	no	cull	conservative
+n	cds	no	fascist	conservative
+n	cds	no	gangsterism	inclusive
+n	cds	no	frimurerordenen	inclusive
+n	an	no	smådyr	inclusive
+n	an	no	cimex lectularius	inclusive
+n	qas	no	tabbe	inclusive
+n	cds	no	jacking off	conservative
+n	pr	no	storfe	inclusive
+n	dmc	yes	imposter	conservative
+n	asm	no	stong	inclusive
+n	cds	no	politimenn	inclusive
+a	qas	no	middelalderske	inclusive
+n	asm	no	stykke ass	conservative
+n	om	no	homofile	inclusive
+n	cds	no	navvy	inclusive
+n	ps	yes	mongoloide	conservative
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	pa	yes	fiskehandler	inclusive
+n	pa	yes	professor eremitus	inclusive
+n	cds	no	rube	conservative
+n	cds	no	latsabber	conservative
+n	cds	no	apple poleringsmaskin	conservative
+n	ddp	yes	bonehead	conservative
+n	an	no	nattsvermere	inclusive
+n	cds	no	dogmatisme	conservative
+n	an	no	plunderer	inclusive
+n	qas	no	usannhet	conservative
+n	pr	no	kvegdyr	inclusive
+n	cds	no	mafia	conservative
+a	is	yes	mager	inclusive
+n	cds	no	faktor	inclusive
+n	cds	no	hyperseksualitet	conservative
+n	pr	no	guff	conservative
+n	pa	yes	ekstraordinær professor	inclusive
+n	qas	no	grandiosity	inclusive
+n	dmc	yes	homunculus	inclusive
+n	cds	no	namby-pamby	conservative
+n	cds	no	pedanteri	inclusive
+n	re	no	skitne penger	inclusive
+n	an	no	pels- og fjærlus	inclusive
+n	cds	no	tulling	conservative
+n	cds	no	jerk-off	conservative
+a	is	yes	ulykkelig	inclusive
+n	an	no	hirudinea	inclusive
+n	re	no	voldtatt	conservative
+a	dmc	yes	innskrenket	conservative
+n	ddp	yes	utviklingshemmede	inclusive
+n	svp	no	luxuria	inclusive
+n	dmc	yes	latsabber	conservative
+n	cds	no	rettsbrudd	inclusive
+n	dmc	yes	forfalsking	inclusive
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	cds	no	prig	conservative
+n	cds	no	sverm	inclusive
+n	dmc	yes	outlaw	inclusive
+n	an	no	blattodea	inclusive
+n	an	no	krekse	inclusive
+n	pr	no	kine	inclusive
+n	om	no	kvinnelige imitator	inclusive
+n	pr	no	hellcat	conservative
+n	or	no	rybs	inclusive
+n	an	no	piglet	inclusive
+n	pa	yes	minister-rådgiver	inclusive
+n	dmc	yes	anstendighet	inclusive
+n	or	no	brassica oleracea	inclusive
+n	pa	yes	diplomatisk rang	inclusive
+n	cds	no	snooper	conservative
+n	an	no	geitebukk	inclusive
+n	re	no	ærekrenkelse av karakter	inclusive
+n	cds	no	superbia	inclusive
+n	an	no	raseri	inclusive
+n	an	no	rynke	inclusive
+n	an	no	menneskekroppen lus	inclusive
+n	pr	no	nattsommerfugl	inclusive
+n	an	no	selachimorpha	inclusive
+n	om	no	aboral	inclusive
+n	cds	no	pompousness	conservative
+n	dmc	yes	ne'er-do-well	conservative
+n	cds	no	kjøter	inclusive
+n	rci	yes	barbariske	conservative
+n	or	no	irsk potet	inclusive
+n	cds	no	frimurere	inclusive
+n	re	no	presset	conservative
+n	is	yes	løfte av fattigdom	inclusive
+n	qas	no	forretningsbaron	inclusive
+n	cds	no	villmann	conservative
+n	cds	no	conventicle	inclusive
+n	asm	no	uintelligens	conservative
+n	cds	no	Ågerrenter	conservative
+n	re	no	grand theft	inclusive
+n	qas	no	barbariske	conservative
+n	or	no	brent oransje	inclusive
+n	asf	no	blockhead	conservative
+n	ddp	yes	viciousness	conservative
+n	asf	no	changeling	conservative
+n	or	no	homophile bevegelse	conservative
+n	cds	no	splashiness	inclusive
+n	pa	yes	fagmiljøet	inclusive
+n	cds	no	Ågervirksomhet	inclusive
+n	pa	yes	frier	inclusive
+n	svp	no	de syv dødssyndene	inclusive
+n	dmc	yes	uheldig	inclusive
+n	ddp	yes	fauna	inclusive
+n	qas	no	scrounger	conservative
+n	om	no	samme kjønn	inclusive
+n	an	no	forsnakkelse	inclusive
+n	an	no	aureus	inclusive
+n	om	no	homofile menn	inclusive
+n	cds	no	nörd	conservative
+n	re	no	lovbestemte voldtekt	inclusive
+n	cds	no	bellyacher	conservative
+n	svp	no	latskap	inclusive
+n	cds	no	bandittvirksomhet	inclusive
+n	cds	no	conceitedness	conservative
+n	cds	no	fascistiske	conservative
+n	om	no	caudally	inclusive
+n	dmc	yes	hjemløse	inclusive
+n	pa	yes	maniola tithonus	inclusive
+n	asm	no	jacking off	conservative
+n	an	no	haleløse padder	inclusive
+n	asm	no	stykke halen	conservative
+n	ddp	yes	dimwit	conservative
+n	an	no	midges	inclusive
+n	qas	no	doghouse	inclusive
+n	qas	no	mobben	inclusive
+n	pa	yes	dør vakt	inclusive
+n	cds	no	stamtre	inclusive
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	qas	no	parasittisk	inclusive
+n	pr	no	skjøgerede	conservative
+n	qas	no	skrapjern	inclusive
+n	om	no	gay	conservative
+n	pr	no	sankthansorm	inclusive
+n	cds	no	odds og ender	inclusive
+n	an	no	cimicidae	inclusive
+n	ps	yes	barbarer	conservative
+n	an	no	dirty dog	conservative
+n	svp	no	raseri	inclusive
+n	an	no	skogbjørn	inclusive
+n	cds	no	konspirasjonsteorier	inclusive
+n	ddp	yes	inhabil person	conservative
+n	an	no	cootie	inclusive
+n	cds	no	scientisme	inclusive
+n	re	no	fredløs	inclusive
+n	asf	no	dunce	conservative
+n	asm	no	kukk	inclusive
+n	dmc	yes	dillydallier	conservative
+n	an	no	canis aureus	inclusive
+n	ddp	yes	gossipmonger	conservative
+n	an	no	hantikk	inclusive
+n	cds	no	sportslige huset	inclusive
+n	cds	no	problemet med	conservative
+n	cds	no	drittsekk	conservative
+n	cds	no	codswallop	conservative
+n	svp	no	lecherousness	inclusive
+n	cds	no	wuss	conservative
+n	qas	no	endoparasitter	inclusive
+n	cds	no	farrago	inclusive
+a	svp	no	stridslysten	conservative
+n	ddp	yes	dust	conservative
+n	or	no	agurk	inclusive
+n	cds	no	konventikler	inclusive
+n	cds	no	ungdomsgjenger	conservative
+n	ps	yes	mosaisk	inclusive
+n	asm	no	retard	inclusive
+n	cds	no	pimp	inclusive
+n	cds	no	gjengen vold	conservative
+n	cds	no	panser	conservative
+n	qas	no	grandiloquence	inclusive
+n	ddp	yes	twaddler	conservative
+n	cds	no	dandy	inclusive
+n	cds	no	selskap	inclusive
+n	cds	no	skolelærer	inclusive
+n	asf	no	penishår	inclusive
+n	cds	no	intergeneric hybrid	inclusive
+n	asm	no	felt erter	inclusive
+n	an	no	moue	inclusive
+n	re	no	kriminell handling	inclusive
+n	re	no	utpressing	inclusive
+n	re	no	første grad drap	inclusive
+n	is	yes	dårlig person	inclusive
+n	an	no	grisunge	inclusive
+n	qas	no	gardsbruker	inclusive
+n	cds	no	gjengen kultur	inclusive
+n	qas	no	common people	inclusive
+n	cds	no	jokester	inclusive
+n	pr	no	skjøge	conservative
+n	pr	no	moll	inclusive
+a	pa	yes	teoretisk	inclusive
+n	ddp	yes	quack medisin	conservative
+n	pa	yes	prosessfullmektig	inclusive
+n	qas	no	churl	conservative
+n	asm	no	hestebønne	inclusive
+n	ps	yes	mestizo	conservative
+n	dmc	yes	stinker	conservative
+n	svp	no	syv dødssyndene	inclusive
+n	an	no	phylum mollusca	inclusive
+n	dmc	yes	klossmajor	conservative
+n	cds	no	klossmajor	conservative
+n	asm	no	brun	inclusive
+n	ps	yes	zulu	inclusive
+n	pr	no	bawd	conservative
+n	pr	no	hundetispe	conservative
+n	cds	no	moneylenders	inclusive
+n	asm	no	hånd jobb	conservative
+n	cds	no	beit	inclusive
+n	svp	no	gourmand	inclusive
+n	cds	no	stealer	inclusive
+n	re	no	scammer	inclusive
+n	cds	no	chiseler	inclusive
+n	pr	no	nattsommerfugler	inclusive
+n	an	no	namby-pamby	conservative
+n	cds	no	moneylending	inclusive
+n	pr	no	bunkum	conservative
+n	cds	no	kriminalitet sjefen	inclusive
+n	asf	no	bonehead	conservative
+n	ddp	yes	pudden-head	conservative
+n	ddp	yes	drittsekken	conservative
+n	asm	no	nincompoop	conservative
+n	an	no	riffraff	conservative
+n	pa	yes	jesuit	inclusive
+n	qas	no	velte	inclusive
+n	ps	yes	uprooter	conservative
+n	cds	no	jord	inclusive
+n	ps	yes	ostrogotene	inclusive
+n	qas	no	husmannsplassen	inclusive
+n	pr	no	kjerring	conservative
+n	ddp	yes	psykisk handicappede	inclusive
+n	an	no	slange i gresset	conservative
+n	ddp	yes	hjerneskade	inclusive
+n	cds	no	restroom	inclusive
+n	om	no	foeniculum vulgare	inclusive
+n	cds	no	muss	conservative
+n	qas	no	barbar	conservative
+n	asm	no	ståpikk	inclusive
+n	pr	no	hetaera	inclusive
+n	cds	no	fibber	conservative
+n	cds	no	klanen	inclusive
+n	an	no	amerikansk bison	inclusive
+n	cds	no	kriminell	conservative
+n	ddp	yes	uintelligens	conservative
+n	an	no	hanrei	conservative
+n	cds	no	grunge	inclusive
+a	ddp	yes	stand	inclusive
+a	svp	no	aggressiv	conservative
+n	cds	no	prankishness	inclusive
+n	cds	no	Ågerrente	conservative
+n	an	no	tege	inclusive
+n	pa	yes	professor	inclusive
+n	an	no	gullsjakal	inclusive
+n	ddp	yes	motherfucker	conservative
+n	cds	no	nymfoman	conservative
+n	an	no	mosquitos	inclusive
+n	asm	no	twerp	conservative
+n	cds	no	demagogiske	conservative
+n	cds	no	horehus	inclusive
+n	an	no	pediculus corporis	inclusive
+n	ps	yes	hebraism	inclusive
+n	ddp	yes	folderol	conservative
+n	an	no	ugler	inclusive
+n	an	no	menneskelus	inclusive
+a	om	no	unormal	inclusive
+n	ps	yes	negrer	inclusive
+n	pa	yes	minister	inclusive
+n	cds	no	offentlige toaletter	inclusive
+n	an	no	tamhunder	inclusive
+n	an	no	pattegris	inclusive
+n	re	no	ulovlige aktiviteter	inclusive
+n	is	yes	stakkar	inclusive
+n	re	no	skurk	conservative
+n	re	no	sorg	inclusive
+n	cds	no	nyskjerrig-parker	conservative
+n	svp	no	dødssyndene	inclusive
+n	cds	no	finagler	conservative
+n	cds	no	blackballing	inclusive
+n	ps	yes	planteforedlerrett	inclusive
+n	cds	no	gangster	inclusive
+n	cds	no	gossiper	conservative
+n	cds	no	gambling casino	inclusive
+n	cds	no	anskaffelse	conservative
+n	asm	no	fisken	inclusive
+n	an	no	søye	inclusive
+n	cds	no	svermeri	conservative
+n	an	no	humanus	inclusive
+n	an	no	huggormen	inclusive
+n	an	no	limacidae	inclusive
+n	dmc	yes	tramps	conservative
+n	qas	no	autoinfection	inclusive
+n	dmc	yes	trist sekk	conservative
+n	ps	yes	plant biotechnology	inclusive
+n	cds	no	brigand	inclusive
+n	an	no	bufo	inclusive
+n	cds	no	relikvium	inclusive
+n	re	no	økonomisk misbruk	inclusive
+n	dmc	yes	landssviker	conservative
+n	an	no	folderol	conservative
+n	cds	no	inner circle	inclusive
+n	cds	no	pedagogisk hjelpemiddel	inclusive
+n	cds	no	høy handedness	conservative
+n	pr	no	prostituerte	inclusive
+n	cds	no	vogntoget	inclusive
+n	dmc	yes	moralske kompass	inclusive
+n	cds	no	blandingshund	inclusive
+n	an	no	fulvus	inclusive
+n	dmc	yes	lowlife	conservative
+n	or	no	hodekål	inclusive
+n	ddp	yes	gawk	conservative
+n	re	no	barnedrap	inclusive
+n	an	no	kvithai	inclusive
+n	ps	yes	roma	inclusive
+n	ddp	yes	tulling	conservative
+n	ddp	yes	saphead	conservative
+n	qas	no	stor forretningsmann	inclusive
+n	cds	no	hierark	inclusive
+n	dmc	yes	slacker	conservative
+n	re	no	misbruk av kontoret	inclusive
+n	cds	no	gjengen	inclusive
+n	dmc	yes	barbar	conservative
+n	an	no	lowlife	conservative
+n	cds	no	interspesifikk hybrid	inclusive
+n	re	no	stjele	inclusive
+n	ddp	yes	fathead	conservative
+n	an	no	slowpoke	conservative
+n	re	no	baktalelse	conservative
+n	dmc	yes	usannhet	inclusive
+n	cds	no	mystifier	conservative
+n	ddp	yes	sladrehank	conservative
+n	an	no	hunder	inclusive
+n	re	no	andre overlagt drap	inclusive
+n	ddp	yes	tilbakeliggenhet	inclusive
+n	qas	no	forretningsfolk	inclusive
+n	qas	no	mishmash	inclusive
+n	cds	no	scuttlebutt	inclusive
+v	asm	no	kjenne	conservative
+n	svp	no	de syv dødssynder	inclusive
+n	an	no	saphead	conservative
+n	cds	no	flokkdyr	inclusive
+n	an	no	feiging	conservative
+n	qas	no	dilettante	conservative
+n	qas	no	middelklassen	inclusive
+n	an	no	scorpionfish	inclusive
+n	or	no	spud	inclusive
+n	om	no	bakenden	inclusive
+n	ps	yes	mongoloid	conservative
+n	dmc	yes	faker	conservative
+n	re	no	traducer	conservative
+n	pr	no	prostituerte	conservative
+n	om	no	transvestitism	inclusive
+n	cds	no	cosa nostra	conservative
+n	asm	no	doofus	conservative
+n	pa	yes	professorkompetanse	inclusive
+n	cds	no	uekte barn	inclusive
+n	cds	no	saphead	conservative
+n	ddp	yes	nonsens	conservative
+n	cds	no	slektskap gruppe	inclusive
+n	an	no	crocodylinae	inclusive
+n	cds	no	baller opp	inclusive
+n	cds	no	fangevokteren	inclusive
+n	ddp	yes	retard	inclusive
+n	cds	no	conformist	conservative
+n	cds	no	fundamentalistiske	inclusive
+n	cds	no	antic	inclusive
+n	an	no	mygg	inclusive
+n	qas	no	sammensurium	inclusive
+n	pr	no	hoffmenn	inclusive
+n	cds	no	bungle	inclusive
+n	cds	no	homunculus	inclusive
+n	re	no	defrauder	inclusive
+n	an	no	snuteparti	inclusive
+n	cds	no	dusinvis	inclusive
+n	or	no	knucklehead	conservative
+n	asm	no	fisk	inclusive
+n	dmc	yes	pariakaste	inclusive
+n	cds	no	dårlig fisk	conservative
+n	ps	yes	halv kaste	conservative
+n	pr	no	tispe	conservative
+n	cds	no	avfall	conservative
+n	dmc	yes	scammer	conservative
+n	cds	no	slyboots	conservative
+n	cds	no	million	inclusive
+n	cds	no	gangsterism	conservative
+a	cds	no	smart	inclusive
+n	cds	no	delict	inclusive
+n	cds	no	storfe tyv	inclusive
+n	an	no	pipistrellus	inclusive
+n	svp	no	dilly-dallier	conservative
+n	or	no	kuse	conservative
+n	svp	no	latsabber	conservative
+n	svp	no	layabout	conservative
+n	re	no	gangstere	inclusive
+n	re	no	plagiarize	inclusive
+n	dmc	yes	barbarisk	conservative
+n	ddp	yes	cretin	conservative
+n	svp	no	nytteløse	conservative
+n	cds	no	skrap	inclusive
+n	asf	no	soft touch	conservative
+n	om	no	fennikel	inclusive
+n	cds	no	layabout	conservative
+n	ps	yes	sinti	inclusive
+n	re	no	terrorisme	conservative
+n	an	no	svekling	conservative
+n	an	no	canis lupus familiaris	inclusive
+n	an	no	uer	inclusive
+n	re	no	overlagt t	inclusive
+n	an	no	gnier	conservative
+n	an	no	suborder blattodea	inclusive
+n	cds	no	cacography	inclusive
+n	re	no	betalingsudyktig	conservative
+n	re	no	mafia	inclusive
+n	re	no	mordere	inclusive
+n	ps	yes	metoik	inclusive
+n	cds	no	svekling	conservative
+n	an	no	vipera	inclusive
+n	ddp	yes	retard	conservative
+n	or	no	bonehead	conservative
+n	an	no	genus vipera	inclusive
+n	ddf	yes	nanus	conservative
+n	qas	no	riffraff	conservative
+n	cds	no	toalett	inclusive
+n	dmc	yes	rube	conservative
+n	cds	no	venality	conservative
+n	cds	no	dum person	conservative
+n	ddp	yes	skapning	inclusive
+n	asm	no	penil ereksjon	inclusive
+n	om	no	distale	inclusive
+n	an	no	doggy	inclusive
+n	dmc	yes	moralistisk	inclusive
+n	cds	no	børsmeglere	inclusive
+n	ps	yes	hvite	inclusive
+n	ddp	yes	syndebukk	conservative
+n	dmc	yes	homuncli	inclusive
+n	re	no	seksuelt overgrep	inclusive
+n	pr	no	lampyris noctiluca	inclusive
+n	cds	no	krysset	inclusive
+n	ddp	yes	mor fucker	conservative
+n	cds	no	banditt	conservative
+n	cds	no	fop	inclusive
+n	an	no	midge	inclusive
+n	an	no	kroppslus	inclusive
+n	svp	no	dovenskap	inclusive
+n	an	no	mosquitoe	inclusive
+n	dmc	yes	røver	conservative
+n	cds	no	lærer	inclusive
+n	re	no	stortyv	inclusive
+n	an	no	carcharodon	inclusive
+n	svp	no	cheapskate	conservative
+n	an	no	kjøttkveg	inclusive
+n	cds	no	zealotry	inclusive
+n	cds	no	penman	conservative
+n	pr	no	holdt kvinnen	conservative
+n	cds	no	soft touch	conservative
+n	cds	no	dastardliness	conservative
+n	dmc	yes	yokel	conservative
+n	cds	no	løgn	conservative
+n	cds	no	blackguard	conservative
+n	or	no	homophile	conservative
+n	an	no	griseslekten	inclusive
+n	ddp	yes	analfabeter	inclusive
+n	dmc	yes	blunderer	conservative
+n	qas	no	klossmajor	conservative
+n	cds	no	peon	inclusive
+n	asm	no	påle	inclusive
+n	an	no	phthiraptera	inclusive
+n	or	no	dårlig fisk	conservative
+n	cds	no	kylling	conservative
+n	asm	no	godtroenhet	conservative
+n	an	no	kakerlakker	inclusive
+n	qas	no	skiltmaler	inclusive
+n	cds	no	kloakken	inclusive
+n	asm	no	syndebukk	conservative
+n	ddp	yes	nonsensicality	conservative
+n	ddf	yes	funksjonshemning	inclusive
+n	an	no	soft touch	conservative
+n	re	no	voldtektsforbrytere	conservative
+n	cds	no	frimurerlogen	inclusive
+n	an	no	body snatchers	inclusive
+n	cds	no	feigheten	conservative
+n	an	no	sankthansorm	inclusive
+n	an	no	bøffel	inclusive
+n	re	no	sjørøveri	inclusive
+n	cds	no	slekt	inclusive
+n	an	no	kvinne chaser	conservative
+n	an	no	skjørt chaser	conservative
+n	pr	no	brunrotte	inclusive
+n	an	no	tomfool	conservative
+n	svp	no	seksuell lyst	inclusive
+n	om	no	ikke-vestlige begrepene mannlig seksualitet	inclusive
+n	cds	no	visergutt	inclusive
+n	cds	no	gallimaufry	inclusive
+n	cds	no	git	conservative
+n	pa	yes	gjeter	inclusive
+n	pa	yes	undervist	inclusive
+n	pa	yes	barbarisk	conservative
+n	cds	no	konspirasjonsteoretiker	inclusive
+n	qas	no	parasitter	inclusive
+n	ps	yes	vandalene	inclusive
+n	qas	no	trist sekk	conservative
+n	asf	no	formalitet	inclusive
+n	an	no	insekt	inclusive
+n	pr	no	mannlig eskorte	conservative
+n	pa	yes	jesuitt	inclusive
+n	cds	no	pengeutlåner	conservative
+n	pr	no	kveg	inclusive
+n	re	no	kidnapping	inclusive
+n	rci	yes	barbarer	conservative
+n	cds	no	styggedom	conservative
+n	is	yes	tatterdemalion	conservative
+n	re	no	internasjonal terrorisme	conservative
+n	an	no	stick-in-the-mud	conservative
+n	cds	no	gjengmedlem	conservative
+n	an	no	tryne	inclusive
+n	an	no	fuckhead	conservative
+n	svp	no	sløvhet	inclusive
+n	pr	no	bjørkelurvemåler	inclusive
+n	cds	no	slews	inclusive
+n	ddf	yes	runt	conservative
+n	cds	no	åger	inclusive
+n	an	no	nanus	conservative
+n	qas	no	snyltere	inclusive
+n	svp	no	sinne	inclusive
+n	cds	no	kjærlighetsbarn	inclusive
+n	an	no	megascops asio	inclusive
+n	svp	no	pridefulness	inclusive
+n	pa	yes	bellman	inclusive
+n	om	no	hale	inclusive
+n	ddp	yes	imbecile	conservative
+n	cds	no	fascistiske regimet	conservative
+n	qas	no	retorisk	inclusive
+n	an	no	poulet	inclusive
+n	cds	no	pratmaker	conservative
+n	ddp	yes	dumbass	conservative
+n	an	no	pillager	inclusive
+n	dmc	yes	chawbacon	conservative
+n	is	yes	fattiglemmer	inclusive
+n	svp	no	gourmandizer	conservative
+a	is	yes	blakk qualifier	inclusive
+n	an	no	sau	inclusive
+n	cds	no	kriminelle ugagn	conservative
+n	ps	yes	jerry	conservative
+n	ddp	yes	ignoramus	conservative
+n	an	no	pipistrelle	inclusive
+n	cds	no	klikk	inclusive
+n	svp	no	enviousness	inclusive
+n	re	no	væpnet ransmann	inclusive
+n	qas	no	farmhand	inclusive
+n	or	no	potetplanten	inclusive
+n	an	no	raunch	conservative
+n	an	no	orelus	inclusive
+n	is	yes	marginalisering	inclusive
+n	cds	no	hoaxer	conservative
+n	asm	no	wanker	conservative
+n	cds	no	demagogisk	conservative
+n	om	no	homoseksuell	inclusive
+n	qas	no	teste	inclusive
+n	cds	no	intermediator	inclusive
+n	cds	no	avgudsdyrkende	inclusive
+n	cds	no	sutenør	inclusive
+a	re	no	olm	inclusive
+n	an	no	springpadder	inclusive
+n	asm	no	kuk	conservative
+n	ddp	yes	analphabet	inclusive
+n	cds	no	casino	inclusive
+n	an	no	brant gås	inclusive
+n	cds	no	lån sharking	inclusive
+n	cds	no	fengselsbetjent	inclusive
+n	re	no	misbruke	inclusive
+n	cds	no	flokk dyr	inclusive
+n	cds	no	patsy	conservative
+n	ddp	yes	animere være	inclusive
+n	an	no	pip-pip	conservative
+n	re	no	date-voldtekt	conservative
+n	dmc	yes	løgn	inclusive
+n	an	no	padde frosk	inclusive
+n	cds	no	usannhet	conservative
+n	an	no	skogmann	inclusive
+n	qas	no	businessperson	inclusive
+n	ddp	yes	forræder	conservative
+n	ddf	yes	uførhet	inclusive
+n	cds	no	alfons	inclusive
+n	asm	no	stå	inclusive
+n	cds	no	straffbar handling	inclusive
+n	cds	no	prelat	inclusive
+n	cds	no	boastfulness	conservative
+n	an	no	sjakal	inclusive
+n	dmc	yes	slubbert	inclusive
+n	dmc	yes	stank	conservative
+n	ddp	yes	doofus	conservative
+n	cds	no	politibetjent	conservative
+n	cds	no	nymphomania	conservative
+n	an	no	hog	inclusive
+n	re	no	kidnaper	inclusive
+n	an	no	maggot	inclusive
+n	ddp	yes	hooey	inclusive
+n	an	no	krokodille	inclusive
+n	pr	no	bos taurus	inclusive
+n	an	no	papegøyefugler	inclusive
+n	pr	no	hor	inclusive
+n	an	no	mikro-organisme	inclusive
+a	pa	yes	politisk	inclusive
+n	an	no	kjeft	inclusive
+n	dmc	yes	frafalne	conservative
+v	cds	no	forgude	inclusive
+n	cds	no	hoi polloi	inclusive
+n	re	no	simpelt tyveri	inclusive
+n	dmc	yes	dagdriver	conservative
+n	an	no	kveg	inclusive
+n	an	no	hodelus	inclusive
+n	cds	no	moralisme	inclusive
+n	om	no	dame	inclusive
+n	pr	no	seksuelle tjenester	inclusive
+n	re	no	ransmann	conservative
+n	asm	no	ståtiss	inclusive
+n	ps	yes	mosaittiske	inclusive
+n	an	no	anurans	inclusive
+n	re	no	raner	inclusive
+n	dmc	yes	bedragar	conservative
+n	om	no	transvestisme	inclusive
+n	an	no	mikroorganismer	inclusive
+n	re	no	ungdomsforbryter	conservative
+n	cds	no	mafia	inclusive
+n	an	no	hai	inclusive
+n	pa	yes	akademisk	inclusive
+n	an	no	krokodilleordenen	inclusive
+n	cds	no	jailor	inclusive
+n	or	no	faggot	conservative
+n	cds	no	chawbacon	conservative
+n	om	no	lady	inclusive
+n	ps	yes	jødedommen	inclusive
+n	pr	no	sportslige dame	conservative
+n	om	no	peeress	inclusive
+n	or	no	agurk vine	inclusive
+n	cds	no	bagnio	inclusive
+n	an	no	kroppen snatching	inclusive
+n	dmc	yes	ungdomsforbryter	conservative
+n	ddp	yes	idiot	conservative
+n	ps	yes	romafolket	inclusive
+n	asm	no	dust	conservative
+n	ddp	yes	twerp	conservative
+n	cds	no	vaskerom	inclusive
+n	cds	no	scammer	inclusive
+n	svp	no	acquisitiveness	inclusive
+n	cds	no	falsity	inclusive
+n	ddp	yes	mental mangel	inclusive
+n	cds	no	camarilla	inclusive
+n	cds	no	italienske mafiaen	inclusive
+n	re	no	mafioso	inclusive
+n	re	no	røvere	inclusive
+n	qas	no	blanding	inclusive
+n	an	no	gosling	inclusive
+n	an	no	hvin-ugle	inclusive
+n	om	no	drag show	inclusive
+n	ps	yes	mestis	conservative
+n	an	no	mikrobe	inclusive
+n	cds	no	konventikkel	inclusive
+n	an	no	gåsegribb	inclusive
+n	an	no	simpleton	conservative
+n	pa	yes	pikkolo	inclusive
+n	ddp	yes	flercellede dyr	inclusive
+n	pa	yes	booking kontorist	inclusive
+n	or	no	punctiliousness	inclusive
+n	cds	no	lav	inclusive
+n	cds	no	storfe rustler	inclusive
+n	cds	no	forfengelighet	conservative
+n	ps	yes	mongolerne	inclusive
+n	is	yes	fattigdom	inclusive
+n	dmc	yes	gangster	inclusive
+n	ddp	yes	soft touch	conservative
+n	an	no	animere være	inclusive
+n	ps	yes	ostrogotere	inclusive
+n	cds	no	hjord	inclusive
+n	cds	no	politimannen	inclusive
+a	or	no	krevende	conservative
+n	an	no	dunderhead	conservative
+n	dmc	yes	scum bag	inclusive
+n	an	no	siphonaptera	inclusive
+n	om	no	transvestitter	inclusive
+n	asf	no	vaginal	conservative
+n	an	no	hoax	conservative
+n	pa	yes	boor	conservative
+n	svp	no	niggardness	conservative
+n	qas	no	borgerlige samfunn	inclusive
+n	cds	no	spedbarn	inclusive
+n	cds	no	chiseler	conservative
+n	cds	no	egghead	inclusive
+n	cds	no	tribesman	inclusive
+n	cds	no	moaner	conservative
+n	an	no	bitch	conservative
+n	an	no	dumbass	conservative
+n	cds	no	mafiaen	inclusive
+n	re	no	torturist	inclusive
+n	an	no	innenlandske kylling	inclusive
+n	an	no	makrofauna	inclusive
+n	cds	no	hellion	conservative
+n	pr	no	møll	inclusive
+n	rci	yes	bonde	inclusive
+n	cds	no	tyveri	inclusive
+n	cds	no	slacker	conservative
+n	ps	yes	afrikansk avstamning	inclusive
+n	an	no	killing	inclusive
+n	an	no	suger lus	inclusive
+n	an	no	vegglus	inclusive
+n	dmc	yes	gangstere	inclusive
+n	re	no	stjålet eiendom	inclusive
+n	an	no	kjølsnegl	inclusive
+n	asm	no	ert	inclusive
+n	cds	no	amateurishness	conservative
+n	dmc	yes	malodor	conservative
+n	re	no	terrorhandling	conservative
+n	dmc	yes	mope	conservative
+n	cds	no	vaunter	conservative
+n	qas	no	skur	inclusive
+n	re	no	plyndring	inclusive
+n	cds	no	gratis mason	inclusive
+n	ps	yes	latino	inclusive
+n	re	no	voldtekt	inclusive
+n	asm	no	forhuden	inclusive
+n	cds	no	ostentatiousness	conservative
+a	cds	no	sleip	conservative
+n	an	no	scorpion fish	inclusive
+n	cds	no	hundebastard	inclusive
+n	or	no	kål	inclusive
+n	cds	no	svulmet hodet	conservative
+n	or	no	homofile	conservative
+n	or	no	selskapsledelse	conservative
+n	cds	no	fancier	inclusive
+n	an	no	crocodylian	inclusive
+n	ps	yes	tosken	conservative
+n	cds	no	ekstrem høyre-ving	conservative
+n	ddp	yes	bytting	inclusive
+n	qas	no	barokk	inclusive
+n	pr	no	konkubine	inclusive
+a	ddf	yes	frastøtende	conservative
+n	an	no	numskull	conservative
+n	qas	no	gallimaufry	inclusive
+n	cds	no	churl	conservative
+a	cds	no	vanlig	inclusive
+n	cds	no	religiousism	inclusive
+n	qas	no	middelklasse	inclusive
+n	ps	yes	mestiço	conservative
+n	re	no	sex lovbrudd	inclusive
+n	asf	no	tomfool	conservative
+n	asm	no	tomfool	conservative
+n	an	no	diddly squat	conservative
+n	or	no	fitte	conservative
+n	dmc	yes	dirty dog	inclusive
+n	an	no	skapning	inclusive
+n	cds	no	religiøsitet	inclusive
+n	an	no	okse	inclusive
+n	an	no	caimans	inclusive
+n	cds	no	narsissistisk	inclusive
+n	cds	no	feiging	conservative
+n	ddp	yes	vet ingenting	conservative
+n	qas	no	ulykke	conservative
+n	ps	yes	jødisk	inclusive
+n	an	no	griffon vulture	inclusive
+n	cds	no	wiliness	conservative
+n	an	no	bitar	inclusive
+n	asm	no	rødbrun	inclusive
+n	an	no	hyaenidae	inclusive
+n	an	no	epifauna	inclusive
+n	re	no	storfe tyv	inclusive
+n	dmc	yes	hick	conservative
+n	qas	no	divulgence	inclusive
+n	an	no	bisk	inclusive
+n	cds	no	tricker	conservative
+n	cds	no	uanstendig hus	inclusive
+n	asf	no	doofus	conservative
+n	ddp	yes	betise	conservative
+n	cds	no	groveler	conservative
+n	dmc	yes	dallier	conservative
+n	asf	no	syndebukk	conservative
+n	om	no	transe	inclusive
+n	qas	no	bourgeoise	inclusive
+n	dmc	yes	hykler	conservative
+n	ps	yes	mongolere	inclusive
+n	cds	no	timeserver	conservative
+n	cds	no	matchmaker	inclusive
+n	om	no	anal penetrering	inclusive
+n	an	no	esel	inclusive
+n	cds	no	kriminelle organisasjoner	inclusive
+n	ddp	yes	botcher	conservative
+n	an	no	padde	inclusive
+n	svp	no	angriness	inclusive
+n	re	no	slaying	inclusive
+n	ddp	yes	tull	conservative
+n	cds	no	hellig relikvie	inclusive
+n	re	no	bytte	inclusive
+n	cds	no	coterie	inclusive
+n	an	no	kjøttfe	inclusive
+n	re	no	plagiarise	inclusive
+n	ddf	yes	funksjonshemmet	inclusive
+n	pr	no	krøtter	inclusive
+n	cds	no	defrauder	conservative
+n	an	no	kjøter	inclusive
+n	an	no	inexorability	conservative
+n	an	no	sus scrofa domesticus	inclusive
+n	ps	yes	nigger	conservative
+n	ddp	yes	zooerasty	conservative
+n	cds	no	changeling	inclusive
+n	qas	no	husmaling	inclusive
+n	cds	no	hypersexual	conservative
+n	an	no	hvalnebb	inclusive
+n	cds	no	sot	inclusive
+n	asm	no	byttinger	inclusive
+n	ps	yes	inkiness	inclusive
+n	ddp	yes	analphabetic	inclusive
+n	an	no	vamp	conservative
+n	om	no	homophile	inclusive
+n	asm	no	fava	inclusive
+n	an	no	bukken	inclusive
+n	re	no	seksuelle overgrep	inclusive
+n	cds	no	kinfolk	inclusive
+n	pa	yes	akademia	inclusive
+n	an	no	bonehead	conservative
+n	svp	no	seven capital vices	inclusive
+n	an	no	kvegdyr	inclusive
+n	svp	no	hovmod	inclusive
+n	re	no	voldtekter	conservative
+n	ps	yes	idiotés	conservative
+n	dmc	yes	gadabout	inclusive
+n	an	no	arionidae	inclusive
+n	cds	no	dolt	conservative
+n	pr	no	elskerinne	inclusive
+n	om	no	ass	inclusive
+n	svp	no	gnier	inclusive
+n	ddp	yes	dolt	conservative
+n	qas	no	kastevesenet	inclusive
+n	or	no	murphy	inclusive
+n	qas	no	bungle	inclusive
+n	an	no	avlytting	inclusive
+n	an	no	tosken	conservative
+n	dmc	yes	botcher	conservative
+n	pa	yes	fylkesrevisjonen	inclusive
+n	ps	yes	pikey	conservative
+n	om	no	anatomiske form av plassering	inclusive
+n	ddf	yes	funksjonshemmede	inclusive
+n	cds	no	narcissisme	inclusive
+n	svp	no	kjedsomhet	inclusive
+n	svp	no	late	conservative
+n	an	no	syndebukk	conservative
+n	qas	no	dauber	conservative
+n	pa	yes	ordinær professor	inclusive
+n	ddp	yes	tosk	conservative
+n	ddp	yes	tattletale	conservative
+n	asm	no	fisks anatomi	inclusive
+n	cds	no	baktaler	conservative
+n	or	no	poof	conservative
+n	an	no	kyllingkjøtt	inclusive
+n	ddp	yes	helse svindel	conservative
+n	qas	no	parasitt	inclusive
+n	dmc	yes	trickster	conservative
+n	cds	no	fordommer	conservative
+n	an	no	escargot	inclusive
+n	cds	no	crooner	inclusive
+n	re	no	plagiarisation	inclusive
+n	cds	no	complainer	conservative
+n	om	no	keister	inclusive
+n	an	no	kakerlakker og termitter	inclusive
+n	asf	no	skjeden	conservative
+n	or	no	tater	inclusive
+n	cds	no	busybody	conservative
+n	ddp	yes	epifaunal	inclusive
+n	an	no	innenlandske gris	inclusive
+n	ps	yes	patsy	conservative
+n	cds	no	avvise	conservative
+n	re	no	mishandling	inclusive
+n	pa	yes	professor emeritus	inclusive
+n	dmc	yes	banditt	conservative
+n	asm	no	ronk	conservative
+n	cds	no	håndlangere	conservative
+n	is	yes	fattig	inclusive
+a	pa	yes	politiske	inclusive
+n	asf	no	knucklehead	conservative
+n	cds	no	pander	conservative
+n	qas	no	omnium-gatherum	inclusive
+n	cds	no	jalopy	inclusive
+n	cds	no	nerder	conservative
+n	asf	no	fisse	conservative
+n	pr	no	dame av glede	conservative
+n	qas	no	konformitet	inclusive
+n	an	no	kanin	inclusive
+n	pa	yes	controller	inclusive
+n	cds	no	volumet	inclusive
+n	an	no	får	inclusive
+n	rci	yes	barbarisk	conservative
+n	cds	no	nursling	inclusive
+n	pa	yes	barbarer	conservative
+n	an	no	nattsommerfugler	inclusive
+n	cds	no	intriguer	inclusive
+n	qas	no	sognebarn	inclusive
+n	qas	no	parasittisme	inclusive
+n	an	no	fugl av natten	inclusive
+n	re	no	mafia	conservative
+n	dmc	yes	stakkar	conservative
+n	qas	no	finansfolk	inclusive
+n	qas	no	skrap	inclusive
+n	cds	no	schoolmistress	conservative
+a	svp	no	gjerrig	inclusive
+a	svp	no	begjærlig	inclusive
+n	pr	no	doxy	inclusive
+n	re	no	thieving	inclusive
+n	is	yes	ubemidlede	inclusive
+n	asm	no	feltet bønne	inclusive
+n	asf	no	mus	conservative
+n	cds	no	lånehai	conservative
+n	dmc	yes	kriminell	inclusive
+n	ps	yes	jigaboo	conservative
+n	om	no	lesbe	inclusive
+n	qas	no	conformist	conservative
+n	om	no	lesbiskhet	inclusive
+n	cds	no	grifter	inclusive
+n	cds	no	wheeler forhandler	conservative
+n	qas	no	klassisk retorikk	inclusive
+n	om	no	baktil	inclusive
+n	qas	no	landsmann	inclusive
+n	cds	no	rå kloakk	inclusive
+n	re	no	ærekrenkende	inclusive
+n	asm	no	myk ray	inclusive
+a	ps	yes	jødisk	inclusive
+a	dmc	yes	falske	conservative
+n	pr	no	gatepike	conservative
+n	or	no	foeniculum vulgare	inclusive
+n	cds	no	synder	conservative
+n	dmc	yes	ose	conservative
+n	re	no	storfe rustler	inclusive
+n	om	no	rompe	inclusive
+n	ps	yes	bedouin	inclusive
+n	cds	no	fredløshet	conservative
+n	pa	yes	billett agent	inclusive
+n	cds	no	rogue	conservative
+n	re	no	calunnia	inclusive
+n	cds	no	desperado	inclusive
+n	dmc	yes	forbryter	inclusive
+n	dmc	yes	git	inclusive
+n	an	no	ringgås	inclusive
+n	cds	no	overfallsmenn	inclusive
+n	an	no	diddley	conservative
+n	an	no	slaktegris	inclusive
+n	an	no	lyngflått	inclusive
+n	dmc	yes	uhøflig	conservative
+n	asm	no	muggins	conservative
+n	svp	no	tightwad	conservative
+n	re	no	kriminell	inclusive
+n	pa	yes	advokatbevilling	inclusive
+n	an	no	mark	inclusive
+n	cds	no	conventicles	inclusive
+a	is	yes	patetisk	conservative
+n	dmc	yes	mozarella	inclusive
+n	an	no	uneducated person	conservative
+n	re	no	ranet	inclusive
+n	cds	no	free og akseptert masons	inclusive
+n	ps	yes	halv rase	conservative
+n	re	no	rogue	conservative
+n	an	no	dust	conservative
+n	re	no	kidnappinger	inclusive
+a	dmc	yes	bornert	conservative
+n	cds	no	fordømt	conservative
+n	is	yes	skurk	conservative
+n	cds	no	rumourmonger	conservative
+n	cds	no	amour propre	conservative
+n	dmc	yes	rotter	conservative
+n	dmc	yes	kjeltring	conservative
+n	cds	no	husholdningsavfall	conservative
+n	an	no	onde	conservative
+n	qas	no	freeloader	conservative
+n	rci	yes	boor	conservative
+n	cds	no	foul-up	inclusive
+n	cds	no	tullebukk	conservative
+n	an	no	sløsar	conservative
+n	svp	no	dødssynd	inclusive
+n	an	no	kakkerlakker	inclusive
+n	ddp	yes	villmann	conservative
+n	cds	no	hoffnarren	inclusive
+n	svp	no	hyklersk	conservative
+n	cds	no	forfølger	conservative
+n	an	no	flercellede dyr	inclusive
+n	cds	no	splashiness	conservative
+n	asm	no	penis	inclusive
+n	an	no	salientian	inclusive
+n	asm	no	fugl	inclusive
+n	re	no	terrorgrupper	conservative
+n	is	yes	underpriviligert	inclusive
+n	asf	no	tøs	conservative
+n	re	no	kriminelle	inclusive
+a	svp	no	bråsint	conservative
+n	svp	no	raseri	conservative
+n	cds	no	rask en	inclusive
+n	svp	no	høy handedness	conservative
+n	ddp	yes	mentalt tilbakestående	inclusive
+n	cds	no	narcism	inclusive
+n	cds	no	truckler	conservative
+n	cds	no	skadevolders	inclusive
+n	ps	yes	den negroide rase	inclusive
+n	cds	no	relikvier	inclusive
+n	pa	yes	undertaker	inclusive
+n	asf	no	idiotés	conservative
+n	cds	no	Ågerrenter	inclusive
+n	cds	no	grunge musikk	inclusive
+n	or	no	kresenhet	inclusive
+n	cds	no	metallavfall	inclusive
+n	pr	no	seksuelle tjenester	conservative
+n	ddp	yes	curmudgeon	conservative
+n	re	no	stealer	inclusive
+n	ps	yes	plantebioteknologi	inclusive
+n	ps	yes	vandalere	inclusive
+n	cds	no	narr	inclusive
+n	pa	yes	jurist	inclusive
+n	om	no	anatomiske retningsbeskrivelser	inclusive
+n	an	no	tosk	conservative
+n	cds	no	svermerier	conservative
+n	pa	yes	fiskehandlere	inclusive
+n	cds	no	mange	inclusive
+n	cds	no	penger utlån	conservative
+n	an	no	vinbergsnegl	inclusive
+n	pa	yes	pleader	inclusive
+n	an	no	grossness	conservative
+n	ddp	yes	blabbermouth	conservative
+n	an	no	papegøyer	inclusive
+n	qas	no	testis	inclusive
+n	or	no	homoseksuell	conservative
+n	an	no	høns	inclusive
+n	qas	no	jordbrukere	inclusive
+n	cds	no	problem	conservative
+n	ddp	yes	psykisk utviklingshemmet	inclusive
+n	cds	no	håndlanger	conservative
+n	cds	no	bagasje tog	inclusive
+n	cds	no	slubbert	inclusive
+n	cds	no	loanshark	conservative
+n	cds	no	latrine	inclusive
+n	svp	no	de syv kardinalsyndene	inclusive
+n	cds	no	dust	conservative
+n	ddp	yes	vankunne	conservative
+n	svp	no	slacker	conservative
+n	an	no	afrikansk villesel	inclusive
+n	is	yes	cheapskate	conservative
+n	cds	no	storfe rustling	inclusive
+n	ddp	yes	blunderer	conservative
+n	ddp	yes	prater	conservative
+n	svp	no	egenkjærlighet	conservative
+n	cds	no	loansharking	conservative
+n	dmc	yes	ondskap	conservative
+n	om	no	drag queen	inclusive
+n	pr	no	moo-ku	inclusive
+n	cds	no	falsk idol	inclusive
+n	cds	no	pilferer	conservative
+n	cds	no	propagandist	inclusive
+n	ddp	yes	makrofauna	inclusive
+n	an	no	svin	inclusive
+n	cds	no	vogn veien	inclusive
+n	om	no	kryss-kjole	inclusive
+n	re	no	maktmisbruk	inclusive
+n	cds	no	gjenger	inclusive
+n	pr	no	elsker	conservative
+n	dmc	yes	uheldig person	inclusive
+n	re	no	kriminell aktivitet	inclusive
+n	cds	no	lærere	inclusive
+n	cds	no	puzzler	conservative
+n	cds	no	mylder	inclusive
+n	an	no	blackguard	conservative
+n	re	no	terrorist	inclusive
+n	cds	no	megler	inclusive
+n	cds	no	babyer	inclusive
+n	om	no	homophile bevegelsen	conservative
+n	cds	no	omerta	inclusive
+n	cds	no	reaksjonisme	conservative
+n	cds	no	grunge rock	inclusive
+n	cds	no	banditt	inclusive
+n	an	no	metazoa	inclusive
+a	cds	no	listig	conservative
+n	qas	no	parasitoide	inclusive
+n	asm	no	knull	conservative
+n	qas	no	fieldhand	inclusive
+n	cds	no	tenestemann	inclusive
+n	cds	no	parvenu	inclusive
+n	om	no	homoseksualitet	inclusive
+n	cds	no	politibetjent	inclusive
+n	re	no	sette til døden	inclusive
+n	cds	no	pillock	conservative
+n	asm	no	brunheten	inclusive
+n	cds	no	forsnakkelse	inclusive
+n	an	no	papegøye	inclusive
+n	an	no	familien cimicidae	inclusive
+n	cds	no	slask	conservative
+a	qas	no	patetisk	conservative
+n	re	no	sedelighetsforbrytelser	inclusive
+n	cds	no	ransmann	conservative
+n	re	no	traducement	inclusive
+n	cds	no	bandit	inclusive
+n	cds	no	løgn	inclusive
+n	ps	yes	vagabond	inclusive
+n	ps	yes	tosk	conservative
+n	cds	no	band	inclusive
+n	ddp	yes	boor	conservative
+n	qas	no	culling	conservative
+n	svp	no	seven deadly sins	inclusive
+n	dmc	yes	no-konto	conservative
+n	svp	no	fråtseri	inclusive
+n	pr	no	rentboy	conservative
+n	ddf	yes	mobilitet funksjonshemninger	inclusive
+n	an	no	scowl	inclusive
+n	ddp	yes	simpleton	conservative
+a	svp	no	gretten	conservative
+n	re	no	terrorhandling	inclusive
+n	an	no	for crocodylia	inclusive
+n	an	no	tikk	inclusive
+n	an	no	griser	inclusive
+n	ddp	yes	prattler	inclusive
+n	an	no	viciousness	conservative
+n	an	no	fjellgeit	inclusive
+n	an	no	stygging	inclusive
+n	svp	no	ikke gjøre noe	conservative
+n	om	no	homofili	inclusive
+n	om	no	tooshie	inclusive
+n	pa	yes	offentlig regnskap	inclusive
+n	an	no	innenlandske ass	inclusive
+n	cds	no	hustling	conservative
+n	pr	no	oksene	inclusive
+n	cds	no	kommunalt avfall	inclusive
+n	dmc	yes	lystig andrew	inclusive
+n	cds	no	innbruddstyv	inclusive
+n	cds	no	stickler	conservative
+n	ddf	yes	dverg	conservative
+n	ps	yes	metics	inclusive
+n	om	no	damer	inclusive
+a	svp	no	gjerrig	conservative
+n	cds	no	dagdriver	conservative
+n	re	no	kidnapperen	inclusive
+n	ps	yes	romanifolk	inclusive
+n	ddp	yes	angiver	conservative
+n	re	no	sex kriminalitet	inclusive
+n	dmc	yes	falskhet	conservative
+n	ddp	yes	sjarlatan	conservative
+n	re	no	sex krenkelser	inclusive
+n	an	no	vet ingenting	conservative
+n	an	no	kjølsnegler	inclusive
+n	cds	no	bumbler	conservative
+n	om	no	tush	inclusive
+n	asm	no	uvitenhet	conservative
+n	cds	no	skurk	inclusive
+n	cds	no	backtalk	inclusive
+n	om	no	fenikkel	inclusive
+n	or	no	drittsekk	conservative
+n	qas	no	mingle-mangle	inclusive
+n	cds	no	forbryter	inclusive
+n	asm	no	ficken	conservative
+n	pa	yes	professorer	inclusive
+n	ps	yes	hispanic	inclusive
+n	cds	no	tjuveri	inclusive
+n	an	no	krøtter	inclusive
+n	asm	no	stupiditet	conservative
+n	an	no	rotter	conservative
+n	cds	no	dweeb	conservative
+n	qas	no	parasittiske	inclusive
+n	qas	no	testicular	inclusive
+n	cds	no	swaggerer	conservative
+n	cds	no	åger	conservative
+n	cds	no	blackballed	inclusive
+n	om	no	apikale	inclusive
+n	ps	yes	negre	inclusive
+n	om	no	homophile bevegelse	conservative
+n	asf	no	retard	conservative
+n	asm	no	bred bønne plante	inclusive
+n	om	no	ma'am	inclusive
+n	an	no	kanal bass	inclusive
+n	cds	no	sperring	inclusive
+n	cds	no	dime romaner	inclusive
+n	an	no	diddly dritt	conservative
+n	svp	no	overspising	inclusive
+n	dmc	yes	reisende	inclusive
+n	re	no	piratkopiering	inclusive
+a	om	no	abnorm	inclusive
+n	pr	no	prostituert	inclusive
+n	cds	no	kruner	inclusive
+n	ps	yes	mongoler	inclusive
+n	svp	no	arroganse	conservative
+n	qas	no	borgerklasse	inclusive
+n	ddp	yes	arsehole	conservative
+n	cds	no	avgudsdyrkere	inclusive
+n	ps	yes	zuluer	inclusive
+n	asm	no	cretin	inclusive
+n	svp	no	invidia	inclusive
+n	ps	yes	sigøyner	inclusive
+n	re	no	calumniation	inclusive
+n	pr	no	hore	conservative
+n	an	no	dyreriket	inclusive
+n	qas	no	testikler	inclusive
+n	an	no	rivjern	conservative
+v	asm	no	knulle	conservative
+n	qas	no	sciolist	conservative
+n	cds	no	sutenør	conservative
+n	qas	no	pakk	conservative
+n	asm	no	twirp	conservative
+a	qas	no	vanlig	inclusive
+n	dmc	yes	moralske verdier	inclusive
+n	cds	no	defrauder	inclusive
+n	asm	no	kuk	inclusive
+n	an	no	hanntikk	inclusive
+n	re	no	vilifier	conservative
+n	om	no	mannlig seksualitet	inclusive
+n	re	no	slit	inclusive
+n	qas	no	finansfyrste	inclusive
+n	an	no	profitør	conservative
+n	cds	no	dum	conservative
+n	qas	no	partner in crime	inclusive
+n	qas	no	bønder	inclusive
+n	cds	no	topsy-turvydom	inclusive
+n	cds	no	klan	inclusive
+n	dmc	yes	prevaricator	inclusive
+n	asf	no	fuckhead	conservative
+n	pr	no	kloakk rotte	inclusive
+n	cds	no	conspiracism	inclusive
+n	ps	yes	jødiske samfunnet	inclusive
+n	ps	yes	mongol	inclusive
+n	dmc	yes	sosialt utskudd	inclusive
+n	pa	yes	professor ii	inclusive
+n	ps	yes	metoikene	inclusive
+n	ddp	yes	tosken	conservative
+n	pr	no	fornicatress	conservative
+n	om	no	homoerotiske	inclusive
+n	asf	no	idiot	conservative
+n	an	no	igle	inclusive
+n	an	no	athene noctua	inclusive
+n	an	no	somlebøtte	conservative
+n	dmc	yes	evilness	inclusive
+n	an	no	springpadde	inclusive
+n	asm	no	imbecile	inclusive
+n	ddp	yes	idiotés	inclusive
+n	ddp	yes	pakk	conservative
+n	dmc	yes	fumbler	conservative
+n	an	no	familien crocodylidae	inclusive
+n	om	no	gluteal regionen	inclusive
+n	cds	no	drittsekken	conservative
+n	asm	no	bytting	inclusive
+n	om	no	crossdresser	inclusive
+n	om	no	sodomi	inclusive
+n	ddp	yes	sviker	conservative
+n	an	no	shote	inclusive
+n	an	no	mikroorganisme	inclusive
+n	dmc	yes	bumpkin	conservative
+n	is	yes	utstøtt	inclusive
+n	ddp	yes	kvakksalver lege	conservative
+n	pr	no	medhustru	inclusive
+n	cds	no	tjuv	inclusive
+n	dmc	yes	roue	conservative
+n	cds	no	konspirasjonsteori	inclusive
+n	an	no	betise	conservative
+n	om	no	twink	conservative
+n	ps	yes	bytting	conservative
+n	cds	no	ndrangheta	inclusive
+n	cds	no	stim	inclusive
+n	ddp	yes	lettlurt	conservative
+n	pa	yes	vitenskapelig	inclusive
+n	pr	no	alfatispe	conservative
+n	cds	no	fundamentalisme	inclusive
+n	cds	no	buffoonery	inclusive
+n	asm	no	fiskens anatomi	inclusive
+n	re	no	kriminelle aktiviteter	inclusive
+n	qas	no	baronial	inclusive
+n	svp	no	gnier	conservative
+n	an	no	snute	inclusive
+n	cds	no	allvitende	conservative
+n	cds	no	blooper hjul	inclusive
+n	dmc	yes	fordommer	conservative
+n	cds	no	go-mellom	inclusive
+n	cds	no	rei	inclusive
+a	is	yes	trist	inclusive
+n	om	no	lesbiske	inclusive
+n	cds	no	panser	inclusive
+n	ddp	yes	lunkhead	conservative
+n	ps	yes	hybrid	inclusive
+n	re	no	injurierende	inclusive
+n	an	no	tispe	conservative
+n	cds	no	politimenn	conservative
+n	re	no	sedelighetsforbrytelse	inclusive
+n	cds	no	drittsekk	inclusive
+n	qas	no	huset maleren	inclusive
+n	cds	no	strikebreaker	inclusive
+n	qas	no	ektoparasitter	inclusive
+n	pr	no	kyr	inclusive
+n	svp	no	de sju kardinalfeilene	inclusive
+n	re	no	defamer	conservative
+n	dmc	yes	forbudt	inclusive
+n	cds	no	kriminelle	conservative
+n	an	no	skaubjønn	inclusive
+n	asf	no	dumbass	conservative
+n	om	no	anal sex	inclusive
+n	an	no	tulling	conservative
+n	an	no	svineslekten	inclusive
+n	cds	no	italienske mafiaen	conservative
+n	an	no	inhabil	conservative
+n	cds	no	hybris	inclusive
+n	cds	no	villainess	conservative
+n	ddp	yes	vrøvl	conservative
+n	ps	yes	darkie	conservative
+n	svp	no	syv dødelige synder	inclusive
+n	om	no	paederasty	inclusive
+n	svp	no	tabbe-off	conservative
+n	ps	yes	krauthead	conservative
+n	an	no	lurvete og bobtail	conservative
+n	qas	no	kastesystem	inclusive
+v	re	no	stele	inclusive
+n	pr	no	nattsvermere	inclusive
+n	cds	no	kriminelle aktiviteter	inclusive
+n	ps	yes	bulgarere	inclusive
+n	ps	yes	mongoloids	conservative
+n	pa	yes	spesialutsending	inclusive
+n	re	no	torturert	inclusive
+n	pa	yes	rettssaken advokater	inclusive
+n	dmc	yes	chiseler	conservative
+n	rci	yes	barbar	conservative
+n	an	no	golden sjakal	inclusive
+n	asm	no	aves	inclusive
+n	qas	no	husmenn	inclusive
+n	ps	yes	svarte kvinner	inclusive
+n	dmc	yes	malodour	conservative
+n	cds	no	fascismen	conservative
+n	cds	no	fascister	conservative
+n	re	no	tjuv	inclusive
+n	an	no	veggelus	inclusive
+n	qas	no	bedriftseier	inclusive
+n	ps	yes	villmann	conservative
+n	dmc	yes	barbariske	conservative
+n	qas	no	granger	inclusive
+n	pa	yes	wagoner	inclusive
+n	re	no	kidnapper	inclusive
+n	ps	yes	beduin	inclusive
+n	ps	yes	churl	conservative
+n	ddp	yes	barbarisk	conservative
+n	an	no	alfatispe	conservative
+n	an	no	makk	inclusive
+n	cds	no	cliques	inclusive
+n	an	no	hvithai	inclusive
+n	cds	no	fangevokter	inclusive
+n	qas	no	søkke	inclusive
+n	qas	no	retorikk	inclusive
+n	ps	yes	changeling	conservative
+n	cds	no	bordeller	inclusive
+n	cds	no	muggins	conservative
+n	re	no	drepte	inclusive
+v	is	yes	tigge	inclusive
+n	qas	no	tycoon	inclusive
+n	re	no	pirater	inclusive
+n	om	no	bugger	inclusive
+n	qas	no	rhetorician	inclusive
+n	cds	no	groveller	conservative
+n	pr	no	rotte	inclusive
+n	an	no	diddlysquat	conservative
+n	ps	yes	jew	inclusive
+n	asf	no	vagina	conservative
+n	re	no	voldsbruk	inclusive
+n	ps	yes	svarte mennesker	inclusive
+n	dmc	yes	moralsk konkurs	inclusive
+n	cds	no	late	conservative
+n	svp	no	de sju dødssynder	inclusive
+a	ps	yes	sort	inclusive
+n	an	no	sauer og geiter	inclusive
+n	cds	no	klemme	inclusive
+n	an	no	kaniner	inclusive
+n	qas	no	knipe	inclusive
+n	asf	no	kalvehode	conservative
+n	ddp	yes	drittsekk	conservative
+n	cds	no	massene	inclusive
+n	cds	no	funksjonær	inclusive
+n	qas	no	vektbelte	inclusive
+n	dmc	yes	dirty dog	conservative
+n	an	no	kaiman	inclusive
+n	ps	yes	sigøynerne	inclusive
+n	an	no	kje	inclusive
+n	cds	no	gjengmedlem	inclusive
+n	qas	no	middels inntekt	inclusive
+n	re	no	misbruk av makt	inclusive
+n	ddp	yes	twirp	conservative
+n	cds	no	onde	conservative
+n	pr	no	tøs	conservative
+n	cds	no	andre-rater	conservative
+n	ddp	yes	microcephalic	inclusive
+n	ps	yes	jøder	inclusive
+n	svp	no	tanha	inclusive
+n	ps	yes	barbarisk	conservative
+n	dmc	yes	wastrel	conservative
+n	cds	no	casino gambling	inclusive
+n	cds	no	crooning	inclusive
+n	an	no	kinnflått	inclusive
+n	ddp	yes	bestialitet	conservative
+n	cds	no	fundamentalistisk	inclusive
+n	qas	no	skrivebord jobb	inclusive
+n	or	no	irish potet	inclusive
+n	an	no	vanlige padder	inclusive
+n	is	yes	kjeltring	conservative
+n	or	no	dum person	conservative
+n	ddp	yes	utviklingshemming	inclusive
+n	an	no	gås	inclusive
+n	re	no	falsk anklage om seksuelt overgrep av barn	inclusive
+n	cds	no	avismann	inclusive
+n	qas	no	barbarer	conservative
+a	dmc	yes	skjendig	conservative
+n	qas	no	bloodhound	inclusive
+n	an	no	grusomhet	conservative
+n	an	no	doodly-squat	conservative
+n	asm	no	testikler	inclusive
+n	re	no	røver	conservative
+n	re	no	grovt ran	inclusive
+n	asm	no	naut	conservative
+n	re	no	forbrytelse	inclusive
+n	cds	no	bordell	inclusive
+n	cds	no	klynge	inclusive
+n	cds	no	mengde	inclusive
+n	cds	no	trist sekk	conservative
+n	om	no	cross-dresser	inclusive
+n	ddp	yes	microcephaly	inclusive
+n	qas	no	menigheter	inclusive
+n	cds	no	gjengen krigføring	inclusive
+n	cds	no	paparazzi	inclusive
+n	ddp	yes	dickhead	conservative
+n	cds	no	gobs	inclusive
+n	qas	no	borgerlige	inclusive
+n	an	no	anguilliformes	inclusive
+n	an	no	bird of minerva	inclusive
+n	an	no	storfe	inclusive
+n	asm	no	idiot	inclusive
+n	cds	no	greenhorn	conservative
+n	cds	no	problemet	conservative
+n	asm	no	fiskers anatomi	inclusive
+n	cds	no	satyromani	conservative
+n	cds	no	pengeutlåneren	conservative
+n	re	no	tyv	inclusive
+n	is	yes	gjerrigknark	conservative
+n	cds	no	forbrytelser	inclusive
+n	re	no	mordar	inclusive
+a	asm	no	brun	inclusive
+n	dmc	yes	layabout	conservative
+n	ddp	yes	kvakksalveri	conservative
+n	svp	no	boastfulness	conservative
+n	ps	yes	lummox	conservative
+n	cds	no	løgner	conservative
+n	cds	no	røverbaronen	inclusive
+n	cds	no	pander	inclusive
+n	cds	no	blunderer	conservative
+n	svp	no	saligia	inclusive
+n	an	no	igler	inclusive
+n	an	no	skaubjørn	inclusive
+n	pa	yes	personlig stol	inclusive
+n	cds	no	sassing	inclusive
+n	cds	no	usannhet	inclusive
+n	ps	yes	romanis	inclusive
+n	cds	no	scientism	inclusive
+n	qas	no	acolytes	inclusive
+n	cds	no	arriviste	inclusive
+a	ddf	yes	dårlig	inclusive
+n	an	no	okser	inclusive
+n	re	no	outlaw	inclusive
+n	dmc	yes	runt	conservative
+n	dmc	yes	hyklersk	conservative
+n	cds	no	korrespondent	inclusive
+n	re	no	tyver	inclusive
+n	pa	yes	begravelse regissør	inclusive
+n	or	no	solanum tuberosum	inclusive
+n	cds	no	barbariske	conservative
+n	asf	no	codswallop	conservative
+n	cds	no	toalett anlegg	inclusive
+n	re	no	kriminelle organisasjoner	conservative
+n	ddp	yes	trist sekk	conservative
+n	pa	yes	fakultetet medlem	inclusive
+n	om	no	homofil	inclusive
+n	ps	yes	negroide	inclusive
+n	dmc	yes	bedrager	conservative
+n	cds	no	mingle-mangle	inclusive
+n	cds	no	prank	inclusive
+n	cds	no	bunke	inclusive
+n	pr	no	hor	conservative
+n	or	no	squash vine	inclusive
+n	pa	yes	hyrdinnen	inclusive
+a	re	no	voldelig	inclusive
+n	ddp	yes	dårskap	inclusive
+n	cds	no	botcher	conservative
+n	svp	no	no-konto	conservative
+n	qas	no	sognet	inclusive
+n	cds	no	hoi polloi	conservative
+n	an	no	dirty trick	conservative
+n	or	no	pillock	conservative
+n	pr	no	leie gutter	conservative
+n	cds	no	ingroup	inclusive
+n	pr	no	elskerinne	conservative
+n	an	no	kakerlakk	inclusive
+n	asm	no	penile	inclusive
+n	cds	no	konspirasjonsteoretikere	inclusive
+n	or	no	finocchio	inclusive
+n	cds	no	barbar	conservative
+n	is	yes	urban fattigdom	inclusive
+n	qas	no	klemme	inclusive
+n	pa	yes	fakultetet	inclusive
+n	cds	no	laster	inclusive
+n	dmc	yes	falsity	inclusive
+n	ps	yes	bygdeoriginal	conservative
+n	an	no	hirudinean	inclusive
+n	ps	yes	nigga	conservative
+n	cds	no	score	inclusive
+n	re	no	torturere	inclusive
+n	pr	no	comare	conservative
+n	an	no	ixodidae	inclusive
+n	om	no	transvestitt	inclusive
+n	asm	no	runk	conservative
+n	an	no	leie gutt	conservative
+n	ps	yes	vagrant	inclusive
+n	ddp	yes	vås	conservative
+n	cds	no	konspirasjonisme	inclusive
+a	is	yes	uheldig	inclusive
+n	svp	no	ennui	inclusive
+n	re	no	utpresset	conservative
+n	asf	no	twat	conservative
+n	ps	yes	bulgarer	inclusive
+n	an	no	gneldre	inclusive
+n	ddp	yes	stupe	conservative
+n	re	no	drepe	inclusive
+n	re	no	seriell voldtektsmann	conservative
+n	cds	no	bragger	conservative
+n	an	no	git	conservative
+n	asm	no	guttetiss	inclusive
+n	or	no	jordeple	inclusive
+n	an	no	seksfoting	inclusive
+n	pa	yes	anerkjent professor	inclusive
+n	om	no	rompeball	inclusive
+n	ddp	yes	pillock	conservative
+n	ps	yes	sigøynere	inclusive
+a	svp	no	lidderlig	conservative
+n	qas	no	forretningsmenn	inclusive
+n	re	no	stridsøksen jobb	inclusive
+n	svp	no	apati	inclusive
+n	re	no	mafiaen	conservative
+n	cds	no	naturlig hybrid	inclusive
+n	svp	no	acedia	inclusive
+n	re	no	vold	inclusive
+n	an	no	brent	inclusive
+n	dmc	yes	grifter	conservative
+n	an	no	wuss	conservative
+n	re	no	mord	inclusive
+n	cds	no	newsmonger	conservative
+n	an	no	skaumann	inclusive
+n	qas	no	foul-up	inclusive
+n	cds	no	funksjonær	conservative
+n	cds	no	mafioso	conservative
+n	cds	no	sicilianske mafiaen	conservative
+n	asm	no	fiskeanatomi	inclusive
+n	qas	no	beit	inclusive
+n	pa	yes	kriminell advokat	inclusive
+a	ddf	yes	misdannet	inclusive
+n	an	no	sus domesticus	inclusive
+n	cds	no	politimann	conservative
+n	om	no	proksimale	inclusive
+n	cds	no	grifter	conservative
+n	cds	no	nerd	conservative
+n	dmc	yes	utsvevende	inclusive
+n	qas	no	gardbruker	inclusive
+n	ps	yes	planteforedling	inclusive
+n	asm	no	brystfinne	inclusive
+n	cds	no	idiotés	inclusive
+n	ddp	yes	byttinger	inclusive
+n	cds	no	ågerkarl	inclusive
+n	an	no	muggins	conservative
+n	an	no	moo-ku	inclusive
+n	ddp	yes	barbariske	conservative
+n	svp	no	stolthet	inclusive
+n	an	no	tullebukk	conservative
+n	re	no	prøvelse	inclusive
+n	ddp	yes	dyreliv	inclusive
+n	cds	no	fanatikere	conservative
+a	ps	yes	svart	inclusive
+n	an	no	bjørkelurvemåler	inclusive
+n	re	no	straffbar handling	inclusive
+v	asm	no	jokke	conservative
+n	pa	yes	bonde	inclusive
+n	cds	no	krone roman	inclusive
+n	re	no	tyveri	inclusive
+n	cds	no	gaoler	inclusive
+n	cds	no	spøkefugl	inclusive
+n	cds	no	knep	inclusive
+a	svp	no	sinna	inclusive
+n	an	no	dyreart	inclusive
+n	re	no	kriminelle organisasjoner	inclusive
+n	an	no	oksene	inclusive
+n	cds	no	clan	inclusive
+n	cds	no	tamtam	inclusive
+n	pr	no	innenlandske storfe	inclusive
+n	cds	no	idiolatry	inclusive
+n	dmc	yes	scum bag	conservative
+n	asf	no	drittsekk	conservative
+n	an	no	kalvehode	conservative
+n	cds	no	fredløshet	inclusive
+v	asm	no	elske	conservative
+n	cds	no	synge	inclusive
+n	an	no	frosk	inclusive
+n	cds	no	clann	inclusive
+n	dmc	yes	barbarer	conservative
+n	pa	yes	white-collar worker	inclusive
+n	dmc	yes	villainess	conservative
+n	cds	no	pedant	conservative
+n	cds	no	reaksjonære	conservative
+n	re	no	misbruk	inclusive
+n	re	no	voldtekt	conservative
+n	dmc	yes	kriminelle	inclusive
+a	svp	no	vellystig	conservative
+n	pa	yes	academism	inclusive
+n	re	no	malversation	inclusive
+n	cds	no	nerdete	conservative
+n	cds	no	svindler	inclusive
+n	dmc	yes	foetor	conservative
+a	svp	no	aggressiv	inclusive
+n	dmc	yes	pseudo	conservative
+n	qas	no	bumbler	conservative
+n	re	no	libeler	conservative
+n	pa	yes	stol	inclusive
+n	asm	no	european bean	inclusive
+n	re	no	misbruk av myndighet	inclusive
+n	cds	no	offentlig toalett	inclusive
+n	cds	no	narsissisme	inclusive
+n	cds	no	lånehaier	conservative
+n	cds	no	sniveller	conservative
+n	asm	no	fugler	inclusive
+n	is	yes	forringelse	inclusive
+n	an	no	hundene	inclusive
+n	an	no	kroppen lus	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	cds	no	tonn	inclusive
+n	qas	no	felt hånd	inclusive
+n	cds	no	rampete	conservative
+n	an	no	villainess	conservative
+n	an	no	chinch	inclusive
+n	svp	no	griskhet	inclusive
+n	cds	no	selvdyrkelse	inclusive
+n	cds	no	stolthet	conservative
+n	or	no	queer	conservative
+n	re	no	ærekrenkelse	inclusive
+n	ps	yes	nigra	conservative
+n	cds	no	hallik	inclusive
+n	an	no	gribb	inclusive
+n	an	no	ass	inclusive
+n	pr	no	horer	conservative
+n	cds	no	skrapjern	inclusive
+n	pr	no	lysbille	inclusive
+n	cds	no	tribal	inclusive
+n	om	no	pederasti	inclusive
+n	cds	no	lærar	inclusive
+n	dmc	yes	bløffmaker gud	conservative
+n	cds	no	spøk	inclusive
+n	or	no	potet	inclusive
+n	an	no	epifaunal	inclusive
+n	ddp	yes	bytting	conservative
+n	re	no	backbiter	conservative
+n	an	no	looter	inclusive
+n	re	no	legemsvold	inclusive
+n	ps	yes	zulu folket	inclusive
+n	om	no	crossdressing	inclusive
+n	cds	no	mussiness	conservative
+n	pa	yes	talsmann	inclusive
+n	cds	no	utenrikskorrespondent	inclusive
+n	re	no	tortur drap	inclusive
+n	re	no	fysisk vold	inclusive
+n	cds	no	varsellampene	conservative
+n	cds	no	rask en	conservative
+n	pa	yes	tilsvarende medlem	inclusive
+n	re	no	terrorister	conservative
+n	re	no	tragisk skurk	conservative
+n	ddp	yes	changeling	conservative
+n	asm	no	fallisk	inclusive
+n	cds	no	sladder	inclusive
+n	cds	no	gigolo	inclusive
+n	ps	yes	soft touch	conservative
+n	re	no	maligner	conservative
+n	cds	no	boor	conservative
+n	an	no	lus	inclusive
+n	dmc	yes	pilferer	conservative
+n	asf	no	lunkhead	conservative
+n	pr	no	ludder	inclusive
+n	qas	no	saint-hubertshund	inclusive
+n	asm	no	foul	inclusive
+n	cds	no	craven	conservative
+n	qas	no	boo-boo	inclusive
+a	cds	no	krevende	conservative
+n	an	no	pudge	conservative
+n	an	no	hund	inclusive
+n	cds	no	blooper	inclusive
+n	an	no	loppe	inclusive
+n	an	no	kakkerlakk	inclusive
+n	cds	no	newspaperwoman	inclusive
+n	dmc	yes	delict	inclusive
+n	qas	no	farmer	inclusive
+n	cds	no	latriner	inclusive
+n	ddp	yes	imbecile	inclusive
+n	re	no	baktaler	conservative
+n	an	no	tispe	inclusive
+n	cds	no	strike-breaking	inclusive
+n	cds	no	messenger boy	inclusive
+n	cds	no	blandet rase hunden	inclusive
+n	cds	no	rotet	conservative
+n	cds	no	wonk	conservative
+n	cds	no	stjele	inclusive
+n	cds	no	klok fyr	conservative
+n	ps	yes	imbecile	conservative
+n	asm	no	ball	inclusive
+n	pr	no	kommersielle seksuelle	conservative
+n	re	no	seksuell trakassering	inclusive
+n	cds	no	lurvete og bobtail	conservative
+n	an	no	skogsnegle	inclusive
+n	cds	no	fanatisk	conservative
+n	an	no	bison	inclusive
+n	qas	no	åndelig leder	inclusive
+n	an	no	viper	inclusive
+n	cds	no	melange	inclusive
+n	qas	no	snylter	inclusive
+n	qas	no	farrago	inclusive
+n	cds	no	snike tyv	conservative
+n	svp	no	utuktig	inclusive
+n	qas	no	snoop	inclusive
+v	an	no	gøy	inclusive
+n	re	no	terroraksjon	conservative
+n	dmc	yes	ondskap	inclusive
+n	cds	no	nympho	conservative
+n	pa	yes	vanlig professor	inclusive
+n	ps	yes	kraut	conservative
+a	is	yes	fattig	inclusive
+n	qas	no	designerfritidsklær	inclusive
+n	re	no	villskap	inclusive
+n	an	no	vulgaritet	conservative
+n	cds	no	ronk	conservative
+n	cds	no	autolatry	inclusive
+n	cds	no	relikvie	inclusive
+n	svp	no	ubehagelig	inclusive
+n	om	no	krysse dressing	inclusive
+n	om	no	analsex	inclusive
+n	re	no	onde	conservative
+n	an	no	svindel	conservative
+n	cds	no	cosa nostra	inclusive
+n	an	no	anserini	inclusive
+n	cds	no	know-it-all	conservative
+n	an	no	white shark	inclusive
+n	cds	no	baby	inclusive
+n	cds	no	by-blow	inclusive
+n	an	no	genus capra	inclusive
+n	pa	yes	svinekjøtt slakter	inclusive
+n	ps	yes	Østgotere	inclusive
+n	cds	no	tragisk skurk	conservative
+n	asm	no	bondebønne	inclusive
+n	cds	no	fredløs	inclusive
+n	svp	no	utskeielser	inclusive
+n	svp	no	misunnelse	inclusive
+n	cds	no	pedantisk	conservative
+n	dmc	yes	avskyelige	inclusive
+n	an	no	american buffalo	inclusive
+n	asf	no	folderol	conservative
+n	ddp	yes	nincompoop	conservative
+n	cds	no	boaster	conservative
+n	ps	yes	ostrogoter	inclusive
+n	qas	no	necrotrophic	inclusive
+n	asm	no	bygdeoriginal	conservative
+n	an	no	blodmidd	inclusive
+n	cds	no	frimurerloge	inclusive
+n	re	no	presse	inclusive
+n	an	no	fysiognomikk	inclusive
+n	om	no	bakre	inclusive
+n	ps	yes	ostrogoterne	inclusive
+n	pa	yes	doorman	inclusive
+n	cds	no	lurvete	conservative
+n	or	no	dyrket kål	inclusive
+n	an	no	bison bison	inclusive
+n	qas	no	blooper hjul	inclusive
+n	an	no	mollusca	inclusive
+n	re	no	morder	inclusive
+n	cds	no	caitiff	conservative
+n	dmc	yes	så-og-så	conservative
+n	asf	no	skrittet hår	inclusive
+n	cds	no	wisenheimer	conservative
+n	re	no	italienske mafiaen	conservative
+n	cds	no	tabber	inclusive
+n	ddp	yes	dunce	conservative
+n	cds	no	sass	inclusive
+n	qas	no	burgher folk	inclusive
+n	cds	no	blabbermouth	conservative
+n	ddp	yes	idiot	inclusive
+n	svp	no	de sju kardinalsyndene	inclusive
+n	an	no	slug	inclusive
+n	asm	no	grønne erter	inclusive
+n	or	no	poteter	inclusive
+n	cds	no	trasformismo	inclusive
+n	an	no	kirkeugle	inclusive
+n	pr	no	kurtisane	inclusive
+n	pa	yes	cordwainer	inclusive
+n	cds	no	cathouse	inclusive
+n	ps	yes	kaale	inclusive
+n	cds	no	nouveaux rikdom	inclusive
+n	cds	no	manmade hybrid	inclusive
+n	cds	no	freemasonry	inclusive
+n	qas	no	botch	inclusive
+n	asm	no	roosting	inclusive
+n	an	no	knott	inclusive
+n	cds	no	tyv	inclusive
+n	cds	no	highwayman	conservative
+n	om	no	prat	inclusive
+n	or	no	twat	conservative
+n	cds	no	scrawl	inclusive
+n	cds	no	frimurerne	inclusive
+n	asm	no	fettfinne	inclusive
+n	an	no	tamgris	inclusive
+n	om	no	homophile bevegelse	inclusive
+n	qas	no	borgerskapet	inclusive
+n	an	no	sperret ugle	inclusive
+n	cds	no	fundamentalister	inclusive
+n	asm	no	mørk brun	inclusive
+n	an	no	biston betularia	inclusive
+n	ddf	yes	crookback	inclusive
+n	dmc	yes	dårlig person	conservative
+n	an	no	minx	conservative
+n	an	no	felles mygg	inclusive
+n	om	no	pederast	conservative
+n	re	no	grovt tyveri	inclusive
+n	ddp	yes	epifauna	inclusive
+n	om	no	kontralaterale	inclusive
+n	dmc	yes	snike tyv	conservative
+n	an	no	tamsau	inclusive
+n	pr	no	slagg	conservative
+n	om	no	bak	inclusive
+n	or	no	kålplanter	inclusive
+n	asm	no	testiklene	inclusive
+n	om	no	paederast	conservative
+n	cds	no	stamme	inclusive
+n	cds	no	moneygrubber	inclusive
+n	an	no	sauen	inclusive
+n	an	no	villokse	inclusive
+n	ddp	yes	tyster	conservative
+n	cds	no	swot	conservative
+n	cds	no	runk	conservative
+n	cds	no	streikebryter	inclusive
+n	an	no	norsk slaktegis	inclusive
+n	qas	no	hus maleren	inclusive
+n	dmc	yes	git	conservative
+n	pr	no	hogwash	conservative
+n	re	no	overlagt drap	inclusive
+n	ps	yes	andre raser	inclusive
+n	re	no	handel ærekrenkelse	inclusive
+n	qas	no	acolyte	inclusive
+n	rci	yes	churl	conservative
+n	dmc	yes	churl	conservative
+n	an	no	hemipterous insekt	inclusive
+n	dmc	yes	betalingsudyktig	conservative
+n	re	no	tortur enhet	inclusive
+n	cds	no	cockup	inclusive
+n	dmc	yes	phony	conservative
+n	svp	no	shirker	conservative
+n	an	no	Åler	inclusive
+n	an	no	genus anguilla	inclusive
+n	cds	no	pøbel-rouser	conservative
+n	re	no	fornærmende	inclusive
+n	svp	no	good-for-ingenting	conservative
+n	asm	no	fuglefaunaen	inclusive
+n	pa	yes	barbar	conservative
+n	qas	no	baron	inclusive
+n	pr	no	gatepiken	conservative
+n	cds	no	mishmash	inclusive
+n	an	no	mikrober	inclusive
+n	cds	no	slackers	conservative
+n	cds	no	grunge metal	inclusive
+n	asm	no	testikkel	inclusive
+n	an	no	nådeløshet	conservative
+n	an	no	freebooter	inclusive
+n	svp	no	trencherman	inclusive
+n	ps	yes	halv-breed	conservative
+n	re	no	kidnappe	inclusive
+n	om	no	homse	inclusive
+n	an	no	påte	inclusive
+n	cds	no	Åtsel	inclusive
+n	pr	no	rivjern	conservative
+n	om	no	sodomized	inclusive
+n	dmc	yes	half-pint	conservative
+n	pr	no	fortauskant gjennomgang	inclusive
+n	asf	no	skjede	conservative
+n	ddp	yes	knucklehead	conservative
+n	ddf	yes	fysiske funksjonshemninger	inclusive
+a	ddf	yes	blind	inclusive
+n	re	no	drept	inclusive
+n	om	no	caudal	inclusive
+n	om	no	transvestitisme	inclusive
+n	an	no	fathead	conservative
+n	pa	yes	regnskapsførere	inclusive
+n	pr	no	hunnhund	conservative
+n	ddp	yes	moronity	inclusive
+n	qas	no	baronies	inclusive
+n	ddp	yes	metazoa	inclusive
+n	or	no	pudding hodet	conservative
+n	re	no	rustler	inclusive
+n	re	no	kjeltring	conservative
+n	an	no	einerlus	inclusive
+n	cds	no	meglere	inclusive
+n	an	no	padder	inclusive
+n	re	no	tortur	inclusive
+n	ddp	yes	poppycock	inclusive
+n	an	no	pakk	conservative
+n	pa	yes	arbeidstaker	inclusive
+n	re	no	makt	inclusive
+n	cds	no	bytting	inclusive
+n	svp	no	sint	inclusive
+n	dmc	yes	banditti	inclusive
+n	re	no	smålig tyv	inclusive
+n	cds	no	kasino	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	dmc	yes	lingerer	conservative
+n	asm	no	brunt	inclusive
+n	ps	yes	rommany	inclusive
+v	cds	no	døy	inclusive
+n	asm	no	favabønne	inclusive
+n	cds	no	korreksjon offiser	inclusive
+n	an	no	suborder blattaria	inclusive
+n	ddp	yes	dyreriket	inclusive
+n	dmc	yes	tramp	conservative
+n	asm	no	patsy	conservative
+n	re	no	thievery	inclusive
+n	an	no	suini	inclusive
+n	cds	no	gategjenger	conservative
+n	cds	no	outlaw	conservative
+n	an	no	megascops	inclusive
+n	pa	yes	bellboy	inclusive
+n	cds	no	hovmod	conservative
+n	cds	no	stakkar	conservative
+n	dmc	yes	bandit	conservative
+n	an	no	hasselflått	inclusive
+n	ddf	yes	invalid	inclusive
+n	ps	yes	lout	conservative
+n	pr	no	hoffmann	inclusive
+n	cds	no	beby	inclusive
+n	qas	no	overholdelse av regelverk	inclusive
+n	ddf	yes	fysisk utfordret	inclusive
+n	is	yes	paria	inclusive
+n	cds	no	konforme	conservative
+n	cds	no	flokker	inclusive
+n	re	no	chiseller	inclusive
+n	dmc	yes	bajas	inclusive
+n	cds	no	slubbert	conservative
+n	dmc	yes	shirker	conservative
+n	asm	no	dimwit	conservative
+n	svp	no	de sju kardinalsynder	inclusive
+n	ps	yes	vandal	conservative
+n	cds	no	purk	inclusive
+n	svp	no	lyst	inclusive
+a	om	no	homoseksuell	conservative
+n	asm	no	ithyphallic	inclusive
+n	an	no	hundemidd	inclusive
+n	cds	no	kriminelle organisasjoner	conservative
+n	qas	no	dykking vektsystem	inclusive
+n	cds	no	utlegd	conservative
+n	ddp	yes	microcephali	inclusive
+n	qas	no	barbarisk	conservative
+n	cds	no	aksjemeglere	inclusive
+n	an	no	trøffelsvin	inclusive
+n	re	no	pine	inclusive
+n	asm	no	pterygiophore	inclusive
+n	qas	no	blunderer	conservative
+n	an	no	innenlandske hund	inclusive
+n	an	no	haier	inclusive
+n	cds	no	mafioso	inclusive
+n	qas	no	kaste	inclusive
+n	cds	no	sicilianske mafiaen	inclusive
+n	an	no	naut	conservative
+n	qas	no	blandingen	inclusive
+n	ps	yes	negrene	inclusive
+n	an	no	brent goose	inclusive
+n	cds	no	pompøsitet	conservative
+n	ps	yes	mongolid	conservative
+n	pa	yes	sheepherders	inclusive
+n	re	no	væpnet ran	inclusive
+n	cds	no	riffraff	conservative
+n	ps	yes	negresse	inclusive
+n	ddp	yes	tomfool	conservative
+n	dmc	yes	ikke gjøre noe	conservative
+n	cds	no	camorra	inclusive
+n	cds	no	stammesamfunn	inclusive
+n	cds	no	vannklosett	inclusive
+n	or	no	stupe	conservative
+n	cds	no	hick	conservative
+n	cds	no	anskaffelse	inclusive
+n	re	no	ondsinnet løgn	inclusive
+n	an	no	leie gutter	conservative
+n	dmc	yes	slackers	conservative
+n	asm	no	fallos	inclusive
+n	re	no	pengeutpresser	inclusive
+n	qas	no	søkker	inclusive
+n	cds	no	nyfødte	inclusive
+n	ddp	yes	gossiper	conservative
+a	an	no	sta	inclusive
+n	re	no	seksualforbrytelse	inclusive
+n	cds	no	mafiaen	conservative
+n	pr	no	gangster moll	inclusive
+n	an	no	flott	inclusive
+n	ps	yes	romanifolket	inclusive
+n	is	yes	tigger	conservative
+n	dmc	yes	vagrants	inclusive
+n	cds	no	dandies	inclusive
+n	dmc	yes	vagabond	inclusive
+n	cds	no	mafiosi	inclusive
+n	pr	no	streetwalker	conservative
+n	svp	no	sloth	inclusive
+n	ddf	yes	funksjonshemmelse	inclusive
+n	an	no	codswallop	conservative
+n	qas	no	markedet keeper	inclusive
+n	qas	no	retorikken	inclusive
+n	dmc	yes	duffer	conservative
+n	om	no	kryss kommode	inclusive
+a	ddf	yes	stygg	conservative
+n	an	no	hundeflått	inclusive
+n	om	no	poof	conservative
+n	an	no	sanne ål	inclusive
+a	cds	no	rettsstridig	inclusive
+n	cds	no	nurseling	inclusive
+n	cds	no	satyriasis	conservative
+n	ps	yes	byttinger	conservative
+n	om	no	namby-pamby	conservative
+n	an	no	drittsekk	conservative
+n	an	no	kjeltring	conservative
+n	re	no	fredløshet	inclusive
+n	svp	no	passivitet	inclusive
+n	om	no	ventral	inclusive
+n	cds	no	hånd jobb	conservative
+n	cds	no	politifolk	inclusive
+n	an	no	skogsnegler	inclusive
+n	qas	no	bourgeois	inclusive
+n	re	no	cosa nostra	conservative
+n	cds	no	skitt	inclusive
+n	an	no	flått	inclusive
+n	an	no	capra hircus	inclusive
+n	cds	no	devilment	conservative
+n	ps	yes	romani	inclusive
+n	cds	no	schoolmarm	conservative
+n	ps	yes	vandaler	inclusive
+n	an	no	despoiler	inclusive
+n	an	no	mollusk	inclusive
+n	svp	no	stolthet	conservative
+n	ddp	yes	amentia	inclusive
+n	ddp	yes	animalia	inclusive
+n	ddf	yes	funksjonshemma	inclusive
+n	ddp	yes	analfabetisme	inclusive
+n	or	no	bonce	inclusive
+n	cds	no	kloakk	inclusive
+n	qas	no	lurvete og bobtail	conservative
+n	svp	no	de syv kardinalfeilene	inclusive
+n	cds	no	Ågerente	inclusive
+n	om	no	ende	inclusive
+n	qas	no	bonde	inclusive
+n	an	no	cayman	inclusive
+n	an	no	reproduksjon av dyr	inclusive
+n	is	yes	dårlig	inclusive
+n	cds	no	omnium-gatherum	inclusive
+n	pr	no	prostitusjon	inclusive
+n	ps	yes	oaf	conservative
+n	ddp	yes	lout	conservative
+n	cds	no	religiøs fundamentalisme	inclusive
+n	cds	no	ågerkarl	conservative
+a	is	yes	fattige	inclusive
+n	an	no	kjeftesmelle	conservative
+n	cds	no	bumpkin	conservative
+n	is	yes	scrooge	conservative
+n	or	no	lunkhead	conservative
+n	cds	no	kommunalt avfall	conservative
+n	dmc	yes	løsgjengeri	inclusive
+n	cds	no	mengd	inclusive
+n	re	no	bortføring	inclusive
+n	an	no	bedbugs	inclusive
+n	re	no	tjuveri	inclusive
+n	an	no	felles padde	inclusive
+v	cds	no	kjøpslå	inclusive
+n	ps	yes	beduinene	inclusive
+n	ps	yes	ostrogoth	inclusive
+n	svp	no	grådighet	inclusive
+n	ddp	yes	mountebank	conservative
+n	ps	yes	aritmetisk	inclusive
+n	an	no	kylling	conservative
+n	asm	no	fuglearter	inclusive
+n	pr	no	norge rat	inclusive
+n	cds	no	smålig tyv	inclusive
+n	cds	no	stolthet	inclusive
+n	cds	no	mutt	inclusive
+n	cds	no	smart aleck	conservative
+n	is	yes	sosialt utskudd	inclusive
+n	cds	no	chiseller	conservative
+n	asm	no	fava bønner	inclusive
+n	asm	no	erter	inclusive
+n	cds	no	snobb	conservative
+n	an	no	floozie	conservative
+n	ddp	yes	dumhet	conservative
+n	cds	no	self-selvtilfredshet	inclusive
+n	asm	no	credulousness	conservative
+n	cds	no	seloter	inclusive
+a	is	yes	lei seg	inclusive
+n	an	no	hai angrep	inclusive
+n	dmc	yes	stakkar	inclusive
+n	cds	no	protagonism	inclusive
+n	asm	no	testis	inclusive
+n	dmc	yes	prevaricator	conservative
+n	cds	no	dilemma	inclusive
+n	svp	no	sju dødssynder	inclusive
+n	svp	no	corporate grådighet	inclusive
+n	qas	no	avvise	conservative
+n	re	no	seksuelle overgrep mot barn	inclusive
+n	asm	no	fallossymbol	inclusive
+n	cds	no	undervist	inclusive
+n	asf	no	simpleton	conservative
+n	svp	no	ravenousness	conservative
+n	an	no	dyr	inclusive
+n	qas	no	profesjonell klasse	inclusive
+n	cds	no	tattletale	conservative
+n	asf	no	tosk	conservative
+n	cds	no	omkledningsrom	inclusive
+n	qas	no	småbruker	inclusive
+n	qas	no	amateurishness	conservative
+n	dmc	yes	fetor	conservative
+n	or	no	brassica rapa	inclusive
+n	dmc	yes	fredløs	inclusive
+n	re	no	sicilianske mafiaen	inclusive
+n	cds	no	lånehaier	inclusive
+n	an	no	oreflått	inclusive
+n	cds	no	pengeutpresser	inclusive
+n	re	no	forbrytelser	inclusive
+n	pa	yes	advokaten	inclusive
+n	dmc	yes	cheater	conservative
+n	dmc	yes	vagrant	inclusive
+n	pa	yes	funksjonærer	inclusive
+n	cds	no	kriminell aktivitet	inclusive
+n	pa	yes	skomaker	inclusive
+n	pa	yes	kontorarbeider	inclusive
+n	ddp	yes	uvitenhet	conservative
+n	an	no	peppered møll	inclusive
+n	asf	no	dust	conservative
+n	cds	no	religiøs diskriminering	inclusive
+n	svp	no	apatisk	inclusive
+n	an	no	vinbergsnegle	inclusive
+n	re	no	falsk incest	inclusive
+n	an	no	scorpion fisk	inclusive
+n	cds	no	blandingshunder	inclusive
+n	ps	yes	negro	inclusive
+n	ps	yes	darky	conservative
+n	ps	yes	mestizaje	conservative
+n	is	yes	stakkar	conservative
+n	dmc	yes	pseud	conservative
+n	cds	no	thievery	inclusive
+n	cds	no	complacence	inclusive
+n	cds	no	bande	inclusive
+n	an	no	lundugle	inclusive
+n	cds	no	paparazzo	inclusive
+n	re	no	rapine	inclusive
+n	pr	no	buncombe	conservative
+n	cds	no	fascista	inclusive
+n	qas	no	bråkmaker	conservative
+n	or	no	fette	conservative
+n	cds	no	sangere	inclusive
+n	an	no	skogsnegl	inclusive
+n	ddp	yes	grusomhet	conservative
+n	cds	no	eiendomsmeglere	inclusive
+n	cds	no	søppel	inclusive
+n	cds	no	sjarlatan	conservative
+n	ddp	yes	kretinisme	inclusive
+n	svp	no	fanatiker	conservative
+n	cds	no	bawdyhouse	inclusive
+a	cds	no	harsk	inclusive
+n	pr	no	konkubinat	inclusive
+n	dmc	yes	fredløshet	inclusive
+n	qas	no	boner	inclusive
+n	an	no	veggdyr	inclusive
+n	an	no	ignoramus	conservative
+n	qas	no	melange	inclusive
+n	pa	yes	fishwife	inclusive
+n	ddp	yes	bumbler	conservative
+n	qas	no	testiklene	inclusive
+n	dmc	yes	svik	conservative
+n	ddf	yes	personer med nedsatt funksjonsevne	inclusive
+n	asf	no	betise	conservative
+n	cds	no	metallavfall	conservative
+n	cds	no	sonny boy	inclusive
+n	asm	no	tullebukk	conservative
+n	ps	yes	jødiske religion	inclusive
+v	cds	no	idolisere	inclusive
+n	re	no	raptio	inclusive
+n	asm	no	saphead	conservative
+n	is	yes	lav inntekt	inclusive
+n	an	no	insecta	inclusive
+a	qas	no	middelaldersk	inclusive
+n	cds	no	blowhard	conservative
+n	dmc	yes	skurk	conservative
+n	an	no	kakkelakk	inclusive
+n	om	no	poove	conservative
+n	asm	no	tisselur	inclusive
+n	pr	no	slovenly kvinne	conservative
+n	pr	no	ludder	conservative
+n	pr	no	john	conservative
+n	cds	no	tilbake snakke	inclusive
+n	ddp	yes	dårlig fisk	conservative
+n	asm	no	tulling	conservative
+n	re	no	lovbrudd	inclusive
+n	cds	no	flåter	inclusive
+a	is	yes	blakk	inclusive
+n	dmc	yes	blackguard	conservative
+n	ps	yes	mongolene	inclusive
+n	ps	yes	manmade hybrid	inclusive
+n	ps	yes	jødisk språk	inclusive
+n	asm	no	teste	inclusive
+n	qas	no	ideolog	inclusive
+n	re	no	chiseler	inclusive
+n	svp	no	tightfistedness	conservative
+n	om	no	transvestittisme	inclusive
+n	an	no	brant goose	inclusive
+n	cds	no	kriminelle	inclusive
+n	cds	no	praktisk joker	conservative
+n	svp	no	cupidity	inclusive
+n	svp	no	vainglory	conservative
+n	cds	no	kriminalitet	inclusive
+n	cds	no	nouveau-riche	inclusive
+n	cds	no	stammefolk	inclusive
+n	pr	no	john	inclusive
+n	qas	no	vanlige mann	inclusive
+n	an	no	innenlandske storfe	inclusive
+n	dmc	yes	trifler	conservative
+n	om	no	ventrolateral	inclusive
+n	an	no	cakehole	inclusive
+n	qas	no	konforme	conservative
+n	pa	yes	porter	inclusive
+n	cds	no	matcher	inclusive
+n	cds	no	kjeltring	conservative
+n	qas	no	barokk arkitektur	inclusive
+n	qas	no	amatører	inclusive
+n	an	no	møll	inclusive
+n	ddp	yes	baktaler	conservative
+n	an	no	grisen	inclusive
+n	qas	no	håndverkeren	inclusive
+n	svp	no	de sju dødssyndene	inclusive
+n	an	no	felles viper	inclusive
+n	cds	no	duffer	conservative
+n	cds	no	pandar	conservative
+n	qas	no	cadger	conservative
+n	qas	no	odds og ender	inclusive
+n	cds	no	politimann	inclusive
+n	re	no	neonaticide	inclusive
+n	dmc	yes	hoffnarr	inclusive
+n	svp	no	de sju kardinalfeil	inclusive
+n	cds	no	line-shooter	conservative
+n	ddp	yes	uneducated person	conservative
+n	qas	no	trelast baron	inclusive
+n	re	no	plagiat	inclusive
+n	re	no	furiousness	inclusive
+n	svp	no	abulia	inclusive
+n	cds	no	boo-boo	inclusive
+n	re	no	ndrangheta	inclusive
+n	re	no	terrorist	conservative
+n	ddp	yes	kvakksalver	conservative
+n	re	no	mafiosi	conservative
+n	an	no	tamsvin	inclusive
+n	pr	no	bitch	conservative
+n	dmc	yes	klovn	inclusive
+n	an	no	zooerastia	conservative
+n	pa	yes	talsmenn	inclusive
+n	cds	no	loansharking	inclusive
+n	dmc	yes	rogue	conservative
+n	an	no	nattsvermer	inclusive
+n	pa	yes	diplomatiske rang	inclusive
+n	dmc	yes	sløsar	conservative
+n	pr	no	rotter	inclusive
+n	an	no	vinbergsnegler	inclusive
+n	cds	no	storfe raiding	inclusive
+n	cds	no	fumbler	conservative
+n	an	no	sus	inclusive
+n	cds	no	ruffer	conservative
+n	svp	no	gjerrighet	inclusive
+n	an	no	lyngbobb	inclusive
+n	an	no	heterocera	inclusive
+n	cds	no	wiseacre	conservative
+n	cds	no	klikken	inclusive
+a	cds	no	fasistisk	inclusive
+n	ps	yes	naturlig hybrid	inclusive
+n	cds	no	gjenger	conservative
+n	cds	no	ulovlig	inclusive
+n	re	no	ærekrenking	conservative
+n	an	no	lysbille	inclusive
+n	svp	no	amour propre	conservative
+n	cds	no	mobben	conservative
+n	ps	yes	jødene	inclusive
+n	cds	no	ruffer	inclusive
+n	qas	no	divulgement	inclusive
+n	or	no	dunderhead	conservative
+n	cds	no	roguery	conservative
+n	an	no	zooerasty	conservative
+n	cds	no	arsenal	inclusive
+n	ddp	yes	byttinger	conservative
+n	re	no	forbrytere	inclusive
+v	re	no	stjele	inclusive
+n	cds	no	slovenly person	conservative
+n	qas	no	avfall	inclusive
+n	asm	no	maxilliped	inclusive
+n	asm	no	myk stråle	inclusive
+n	is	yes	fattige	inclusive
+n	asm	no	wank	conservative

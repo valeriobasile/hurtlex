@@ -1,0 +1,2934 @@
+pos	category	stereotype	lemma	level
+n	or	no	fata	inclusive
+n	pr	no	moo-bó	inclusive
+n	dmc	yes	dilly-dallier	conservative
+n	an	no	bug leaba	inclusive
+n	an	no	animalculum	inclusive
+n	ps	yes	blackamoor	inclusive
+n	re	no	rapist	conservative
+n	qas	no	magniloquence	inclusive
+n	cds	no	fine	inclusive
+n	re	no	clúmhilleadh agus leabhal	inclusive
+n	cds	no	culchie	inclusive
+a	is	yes	brónach	inclusive
+n	cds	no	teagascóir	inclusive
+n	cds	no	demagog	conservative
+n	cds	no	póraitheoirí plandaí	inclusive
+n	ddp	yes	síofra	inclusive
+n	asm	no	testicle	inclusive
+n	cds	no	clann	inclusive
+n	qas	no	magnate gnó	inclusive
+n	re	no	rapes	conservative
+n	ddp	yes	ainmhithe	inclusive
+n	dmc	yes	gan dídean	inclusive
+n	svp	no	conceitedness	conservative
+n	re	no	outlawed	inclusive
+n	pr	no	sráide cailín	conservative
+n	cds	no	áise poiblí	inclusive
+n	pr	no	moll gangster ar	inclusive
+n	cds	no	pomposity	inclusive
+n	asm	no	fuck	conservative
+n	asm	no	magairlí	inclusive
+n	or	no	pit	conservative
+n	om	no	homosexualism	inclusive
+n	an	no	culex pipiens	inclusive
+n	qas	no	blooper	inclusive
+n	re	no	coir	inclusive
+n	re	no	dúnbhásaithe	inclusive
+n	cds	no	looker ar	conservative
+n	cds	no	strikebreakers	inclusive
+n	cds	no	úrscéalta dime	inclusive
+n	or	no	dolt	conservative
+n	cds	no	bookworm	conservative
+n	svp	no	ard-handedness	conservative
+n	cds	no	scads	inclusive
+n	an	no	aries	inclusive
+n	pr	no	hussy	conservative
+a	ps	yes	giúdach	inclusive
+n	ddp	yes	twirp	conservative
+n	ddp	yes	ceann maróg	conservative
+n	cds	no	rustler	inclusive
+n	dmc	yes	dissimulator	conservative
+n	an	no	microorganism	inclusive
+n	re	no	mí-úsáid gnéis	inclusive
+n	an	no	siorcanna	inclusive
+n	an	no	dteagmháil bog	conservative
+n	om	no	derriere	inclusive
+n	ps	yes	vandal	inclusive
+n	ddp	yes	quackery	conservative
+n	cds	no	whiner	conservative
+n	an	no	feithidí hemipterous	inclusive
+n	cds	no	bróicéir	inclusive
+n	cds	no	egotism	conservative
+n	cds	no	fanaticism	conservative
+n	qas	no	hovel	inclusive
+n	ps	yes	faisisteach	inclusive
+n	pa	yes	bán-collar oibrithe	inclusive
+n	an	no	cruimh	inclusive
+n	pa	yes	mortician	inclusive
+n	cds	no	idler	conservative
+n	pa	yes	aire-counselor	inclusive
+n	asm	no	Éin	inclusive
+n	cds	no	barbaric	conservative
+n	pa	yes	ollamh cúnta	inclusive
+n	cds	no	fundamentalist	inclusive
+n	ps	yes	negroes	inclusive
+n	pr	no	whoredom	inclusive
+n	dmc	yes	loiterer	conservative
+n	qas	no	amaitéarach	inclusive
+n	an	no	dunce	conservative
+n	pr	no	bos taurus	inclusive
+n	an	no	buar	inclusive
+n	cds	no	schoolma'am	conservative
+n	svp	no	niggardliness	conservative
+n	qas	no	flub	inclusive
+n	dmc	yes	mozzarella	inclusive
+n	svp	no	avariciousness	inclusive
+n	cds	no	retard	inclusive
+n	asm	no	cockerel	inclusive
+n	pr	no	bean slovenly	conservative
+n	pa	yes	advocator	inclusive
+n	om	no	bugaireacht	inclusive
+n	pa	yes	garda doras	inclusive
+n	an	no	moilisc	inclusive
+n	an	no	caprinae	inclusive
+n	or	no	daoine aeracha	conservative
+n	dmc	yes	scattergood	inclusive
+n	re	no	fuadaigh	inclusive
+n	cds	no	ciontóir	inclusive
+a	ddf	yes	aonsúileach	inclusive
+n	pr	no	hetaira	inclusive
+a	svp	no	fearg	inclusive
+n	ddp	yes	blabber	conservative
+n	cds	no	coireanna	inclusive
+n	an	no	lunkhead	conservative
+n	re	no	mafia na hiodáile	inclusive
+n	an	no	culicidae	inclusive
+n	an	no	éan gé	inclusive
+n	an	no	blattaria	inclusive
+n	re	no	meirleachas	inclusive
+n	cds	no	bungle	inclusive
+n	cds	no	malefactor	conservative
+n	dmc	yes	merry andrew	inclusive
+n	cds	no	leanbh grá	inclusive
+n	ddp	yes	stupidity	conservative
+n	re	no	killer	inclusive
+n	an	no	profiteer	conservative
+n	an	no	wisent	inclusive
+n	asf	no	saphead	conservative
+n	pa	yes	ollamh urghnách	inclusive
+n	ddp	yes	prater	conservative
+n	om	no	grá collaí de bhuachaillí	inclusive
+n	ddp	yes	ninny	conservative
+n	an	no	diddlyshit	conservative
+n	cds	no	dronganna sráide	inclusive
+n	om	no	homaighnéasach	conservative
+n	an	no	bos taurus	inclusive
+n	svp	no	mope	conservative
+n	om	no	eireaballach	inclusive
+n	dmc	yes	eisreachtú	inclusive
+n	svp	no	eros	inclusive
+n	ps	yes	traidisiún giúdach	inclusive
+n	dmc	yes	turncoat	conservative
+n	asf	no	numskull	conservative
+n	qas	no	spól blooper	inclusive
+n	ps	yes	giúdachas	inclusive
+n	cds	no	iasc lag	conservative
+n	cds	no	lowlife	conservative
+n	cds	no	méid	inclusive
+n	pa	yes	barbarous	conservative
+n	ddp	yes	informer	conservative
+n	om	no	nance	conservative
+n	cds	no	loanshark	inclusive
+n	qas	no	caste	inclusive
+n	an	no	animalcule	inclusive
+n	re	no	chlúmhilleadh de charachtar	inclusive
+n	cds	no	weisenheimer	conservative
+n	ps	yes	zulus	inclusive
+n	qas	no	commoners	inclusive
+n	re	no	rustler	inclusive
+n	an	no	crocodilian	inclusive
+n	or	no	meticulousness	inclusive
+n	cds	no	banditti	conservative
+n	qas	no	testes	inclusive
+n	re	no	éigniú	inclusive
+n	ps	yes	doofus	conservative
+n	re	no	maoin ghoidte	inclusive
+n	dmc	yes	robúlaí	conservative
+n	ddp	yes	fumbler	conservative
+n	asm	no	pis ghairdín	inclusive
+n	svp	no	leadránach	inclusive
+n	an	no	anguillidae	inclusive
+n	asf	no	stothóg	inclusive
+n	pa	yes	cuntasóir	inclusive
+n	re	no	coirpigh	inclusive
+n	dmc	yes	sin-agus-sin	conservative
+n	cds	no	presumptuousness	conservative
+n	an	no	bata-i-an-láibe	conservative
+n	asm	no	titim guy	conservative
+n	re	no	rapist sraitheach	conservative
+n	cds	no	charlatan	conservative
+n	cds	no	jerk-uaire	conservative
+n	om	no	seó tarraing	inclusive
+n	cds	no	antic	inclusive
+n	an	no	sucker	inclusive
+n	dmc	yes	homunculus	inclusive
+n	cds	no	urchoisc	inclusive
+n	an	no	hirudinea	inclusive
+n	re	no	robbed	inclusive
+n	cds	no	wangler	conservative
+n	cds	no	gossipmonger	conservative
+n	cds	no	líne teaghlaigh	inclusive
+n	cds	no	crossbred	inclusive
+n	an	no	ainmhithe	inclusive
+n	cds	no	tréada	inclusive
+n	qas	no	kennel	inclusive
+n	re	no	mí-úsáid údaráis	inclusive
+n	pa	yes	uncouthness	conservative
+n	dmc	yes	libertine	conservative
+n	or	no	vine cúcamar	inclusive
+n	is	yes	niggard	conservative
+n	cds	no	cuire	inclusive
+a	asm	no	donn	inclusive
+n	cds	no	theachtaire buachaill	inclusive
+n	cds	no	foxiness	conservative
+n	cds	no	moron	inclusive
+n	pr	no	choimhdeacht fireann	conservative
+n	an	no	fuckhead	conservative
+n	asm	no	bollocks	inclusive
+n	cds	no	snoop	conservative
+n	cds	no	bréag	conservative
+n	pr	no	bunkum	conservative
+n	cds	no	wank	conservative
+n	an	no	slob	conservative
+n	an	no	míol leapa	inclusive
+n	qas	no	fib	conservative
+n	asm	no	twerp	conservative
+n	qas	no	feirmeoirí tionónta	inclusive
+n	asf	no	óinseach	conservative
+n	an	no	crocodilia	inclusive
+n	an	no	helix pomatia	inclusive
+n	cds	no	slob	conservative
+n	asm	no	amadán	inclusive
+n	qas	no	farrago	inclusive
+n	an	no	damh fiáin	inclusive
+n	ps	yes	mongoloid	conservative
+n	rci	yes	barbaric	conservative
+n	cds	no	eisreachtú	inclusive
+n	cds	no	séaracht tís	inclusive
+n	an	no	despoiler	inclusive
+n	cds	no	homunculus	inclusive
+n	cds	no	bluestocking	inclusive
+n	pa	yes	academicians	inclusive
+n	ddp	yes	infauna	inclusive
+n	pa	yes	aturnae defense	inclusive
+n	pa	yes	dlíodóirí	inclusive
+n	ps	yes	mógal	inclusive
+n	cds	no	nerdy	conservative
+n	qas	no	ghnó ó	inclusive
+n	cds	no	jailer	inclusive
+n	qas	no	shack	inclusive
+n	dmc	yes	rube	conservative
+n	cds	no	siorcanna iasachta	conservative
+n	cds	no	boo boo-	inclusive
+n	qas	no	sodbuster	inclusive
+n	cds	no	spól blooper	inclusive
+n	cds	no	ar-buille	inclusive
+n	asf	no	technicality	inclusive
+n	an	no	crocodilians	inclusive
+n	ddp	yes	duine neamhinniúil	conservative
+n	pa	yes	suitor	inclusive
+n	ddp	yes	leibide	conservative
+n	cds	no	slews	inclusive
+n	dmc	yes	hypocrisy	conservative
+n	cds	no	síofra	inclusive
+n	cds	no	sonny	inclusive
+n	re	no	sceimhlitheoireacht	conservative
+n	svp	no	ne'er-a dhéanamh-maith	conservative
+n	asm	no	siombail phallic	inclusive
+n	an	no	mairteola	inclusive
+n	re	no	raping	conservative
+n	svp	no	dea-do-aon rud	conservative
+n	cds	no	superbia	conservative
+n	cds	no	poltroon	conservative
+n	cds	no	garda príosún	inclusive
+n	cds	no	cleasaí	inclusive
+n	cds	no	boner	inclusive
+n	qas	no	fear coiteann	inclusive
+n	svp	no	gorger	conservative
+n	cds	no	nigh seomra	inclusive
+n	svp	no	gabhálacht	inclusive
+n	an	no	leibide	conservative
+n	cds	no	sac brónach	conservative
+n	cds	no	haughtiness	conservative
+n	pr	no	an iorua francach	inclusive
+n	cds	no	traein bagáiste	inclusive
+n	asm	no	piseanna réimse	inclusive
+n	cds	no	narcissistic	inclusive
+n	ddp	yes	blockhead	conservative
+a	cds	no	neamhdhleathach	inclusive
+n	qas	no	casteism	inclusive
+n	qas	no	speisialtóireachta	conservative
+n	cds	no	ostentatiousness	conservative
+n	ddp	yes	prattler	inclusive
+n	pr	no	adulteress	conservative
+n	an	no	muc intíre	inclusive
+n	cds	no	simpleton	conservative
+n	qas	no	peasants	inclusive
+n	re	no	foghlaí mara	inclusive
+n	dmc	yes	libertinism	conservative
+n	an	no	grus	inclusive
+n	cds	no	fawner	conservative
+n	dmc	yes	drongadóir	inclusive
+n	re	no	plagiarise	inclusive
+n	dmc	yes	drifter	inclusive
+n	svp	no	lascivious	inclusive
+n	qas	no	nead lárach ar	inclusive
+n	cds	no	botch	inclusive
+n	pr	no	francach séarachais	inclusive
+n	an	no	rógaire	conservative
+n	pa	yes	academician	inclusive
+n	re	no	mafia hiodáile	conservative
+n	or	no	poof	conservative
+n	an	no	bíosún meiriceánach	inclusive
+n	re	no	gcion gnéis	inclusive
+n	pr	no	crawling colbha	conservative
+a	svp	no	ionsaitheach	inclusive
+n	cds	no	clans	inclusive
+n	an	no	ghéineas capra	inclusive
+n	cds	no	dramhphost	inclusive
+n	cds	no	flub	inclusive
+n	re	no	eallach thief	inclusive
+n	om	no	taobh thiar de	inclusive
+n	cds	no	restroom poiblí	inclusive
+n	cds	no	liúdramán	conservative
+n	svp	no	dearg-ghráin	inclusive
+n	cds	no	goid	inclusive
+n	cds	no	séarachais	inclusive
+n	pr	no	francaigh	inclusive
+n	cds	no	scamp	conservative
+n	cds	no	madra salach	conservative
+n	cds	no	zealotry	conservative
+n	an	no	bugging	inclusive
+n	cds	no	maolchoille saor in aisce	inclusive
+n	ddp	yes	pillock	conservative
+n	cds	no	runt	conservative
+n	cds	no	coirpigh	inclusive
+n	pa	yes	ollamh oirirc	inclusive
+n	cds	no	dweeb	conservative
+n	qas	no	a dhiúltú	conservative
+n	qas	no	odds agus a chríochnaíonn	inclusive
+n	is	yes	bochtaithe	inclusive
+n	an	no	caoirigh	inclusive
+n	pr	no	leamhan	inclusive
+n	pr	no	meirdreach	conservative
+n	cds	no	onlooker	conservative
+n	an	no	brant	inclusive
+n	cds	no	meirleach	conservative
+n	re	no	pirates	inclusive
+n	cds	no	úll polisher	conservative
+n	an	no	bufo bufo	inclusive
+n	cds	no	hypersexuality	conservative
+n	cds	no	stickler	conservative
+n	cds	no	mafia sicile	inclusive
+n	ps	yes	retard	conservative
+n	asm	no	bod	inclusive
+n	an	no	villainous	conservative
+n	om	no	homophile	conservative
+n	an	no	prostitute fireann	conservative
+n	cds	no	delinquent	conservative
+n	an	no	eascann fíor	inclusive
+n	dmc	yes	scum mála	inclusive
+n	qas	no	comhlíonadh	inclusive
+n	qas	no	daoine burgher	inclusive
+n	qas	no	conformism	inclusive
+n	or	no	blockhead	conservative
+n	ps	yes	bhiteicneolaíocht plandaí	inclusive
+n	re	no	swindler	inclusive
+n	an	no	ba	inclusive
+n	svp	no	spiritlessness	inclusive
+n	an	no	pipistrelle	inclusive
+n	asm	no	vicia faba	inclusive
+n	svp	no	a dhéanamh-aon rud	conservative
+n	an	no	billy gabhar	inclusive
+n	svp	no	overeating	inclusive
+n	cds	no	rotter	conservative
+n	re	no	slad	inclusive
+n	cds	no	brigand	conservative
+n	dmc	yes	cód morálta	inclusive
+n	om	no	sodomite	inclusive
+n	dmc	yes	hayseed	conservative
+n	ps	yes	israelite	inclusive
+n	cds	no	yokel	conservative
+n	cds	no	cion	inclusive
+n	an	no	bhreall	inclusive
+n	re	no	scamp	inclusive
+n	cds	no	lashings	inclusive
+n	svp	no	cíocras	inclusive
+n	re	no	gníomhú sceimhlitheoireachta	conservative
+n	qas	no	rhetorically	inclusive
+n	an	no	muc	inclusive
+n	qas	no	bloodhound	inclusive
+n	cds	no	oifigeach	inclusive
+n	qas	no	talmhaíochtaithe	inclusive
+n	cds	no	greenhorn	conservative
+n	cds	no	narcissist	inclusive
+n	an	no	grossness	conservative
+n	or	no	dumbass	conservative
+n	ps	yes	bacach	conservative
+n	or	no	ghluaiseacht homophile	conservative
+n	svp	no	avaritia	inclusive
+n	cds	no	tonna	inclusive
+n	an	no	raunch	conservative
+n	pr	no	slut	conservative
+n	an	no	blatóg choiteann	inclusive
+n	cds	no	bumpkin	conservative
+n	asm	no	flouter	conservative
+n	ps	yes	boor	conservative
+n	an	no	jilt	conservative
+n	ps	yes	rroma	inclusive
+n	om	no	homoeroticism	inclusive
+n	dmc	yes	lowlife	inclusive
+n	cds	no	neamhord	conservative
+n	an	no	ghéineas pipistrellus	inclusive
+n	om	no	gentlewoman	inclusive
+n	an	no	anuran	inclusive
+n	cds	no	braggart	conservative
+n	asm	no	jerking amach	conservative
+n	qas	no	ballock	inclusive
+n	ddp	yes	muggins	conservative
+n	cds	no	poncghlasáil	inclusive
+n	cds	no	máthair fucker	conservative
+n	an	no	seilidí	inclusive
+n	an	no	pocán	inclusive
+n	cds	no	mussiness	conservative
+n	asm	no	nookie	conservative
+n	cds	no	dream	inclusive
+n	om	no	réigiún gluteal	inclusive
+n	re	no	mhór goid	inclusive
+n	pa	yes	cúntóir ollamh	inclusive
+n	cds	no	dúr	conservative
+n	an	no	prickteaser	conservative
+n	cds	no	crossbreed	inclusive
+n	pr	no	buncombe	conservative
+n	cds	no	bastaird	conservative
+n	asf	no	dunderhead	conservative
+n	cds	no	goid petty	inclusive
+n	dmc	yes	rásaí	inclusive
+n	re	no	torturer	inclusive
+n	cds	no	cion coiriúil	inclusive
+n	cds	no	vanity	conservative
+n	cds	no	dronganna óige	inclusive
+n	re	no	gnéasach ionsaí	inclusive
+n	re	no	dlí-bhriseadh	inclusive
+n	cds	no	archpriest	inclusive
+n	pa	yes	barbarian	conservative
+n	ddp	yes	brúidiúlacht	inclusive
+n	cds	no	buirgléir	inclusive
+n	an	no	corrmhíoltóg	inclusive
+n	re	no	gangster	inclusive
+n	qas	no	fuddle	inclusive
+n	svp	no	vanity	conservative
+n	cds	no	motherfucker	conservative
+n	is	yes	bochtaineacht	inclusive
+n	cds	no	iasachta airgid	inclusive
+n	re	no	leabhal trádála	inclusive
+n	dmc	yes	deceiver	conservative
+n	cds	no	rumormonger	conservative
+n	cds	no	crooners	inclusive
+n	cds	no	ceol grunge	inclusive
+n	ps	yes	boche	conservative
+n	pr	no	striapachas fireann	conservative
+n	cds	no	gníomhaíochtaí mídhleathacha	inclusive
+n	cds	no	backtalk	inclusive
+n	dmc	yes	boor	conservative
+n	om	no	queer	conservative
+n	qas	no	chomhpháirtí sa choireacht	inclusive
+n	cds	no	barbarian	conservative
+n	an	no	little owl	inclusive
+n	cds	no	pimp	conservative
+n	asm	no	moron	inclusive
+n	dmc	yes	reek	conservative
+n	asm	no	leathan-bean	inclusive
+n	is	yes	bochtaineachta domhanda	inclusive
+n	cds	no	scoundrel	conservative
+n	an	no	familiaris	inclusive
+n	cds	no	oideachasóir	inclusive
+n	qas	no	barún	inclusive
+n	an	no	ghéineas vipera	inclusive
+n	cds	no	naíonáin	inclusive
+a	ddp	yes	foolish	conservative
+n	ps	yes	bán	inclusive
+n	cds	no	iasachtóirí airgid	inclusive
+n	cds	no	mobster	inclusive
+n	dmc	yes	buffoonery	inclusive
+n	qas	no	magairlí	inclusive
+n	re	no	debaucher	conservative
+n	ddp	yes	codswallop	conservative
+n	cds	no	imbecile	inclusive
+n	an	no	lice comhlacht	inclusive
+n	an	no	patsy	conservative
+n	dmc	yes	malefactor	inclusive
+n	an	no	diddly-squat	conservative
+n	ddp	yes	amadán	inclusive
+n	or	no	prátaí na héireann	inclusive
+n	re	no	captor	inclusive
+n	qas	no	tagalong	conservative
+n	an	no	vulgarity	conservative
+n	re	no	mí-úsáid póilíní	inclusive
+n	cds	no	carraig grunge	inclusive
+n	an	no	scoundrel	conservative
+n	re	no	sracadh	inclusive
+n	cds	no	plód	inclusive
+n	re	no	clúmhillteach	inclusive
+n	ps	yes	crossbred	inclusive
+n	pr	no	courtier	inclusive
+n	cds	no	venality	inclusive
+n	cds	no	sneak thief	conservative
+n	re	no	éigniú dáta	conservative
+n	cds	no	hayseed	conservative
+n	is	yes	skinflint	conservative
+n	asm	no	avafauna	inclusive
+n	ps	yes	cárta dearg	inclusive
+n	ddp	yes	quack	conservative
+n	cds	no	idirghabhálaí	inclusive
+n	an	no	gadhar	inclusive
+n	or	no	scuaise butternut	inclusive
+n	svp	no	dillydallier	conservative
+n	qas	no	industrialist	inclusive
+n	qas	no	boor	conservative
+n	qas	no	rhetor	inclusive
+n	pr	no	socialite	inclusive
+n	dmc	yes	coiriúil	inclusive
+n	dmc	yes	pariah	inclusive
+n	cds	no	cop	conservative
+n	om	no	homosexuals	inclusive
+n	cds	no	turnkey	inclusive
+n	an	no	knucklehead	conservative
+n	asm	no	gullibility	conservative
+n	pr	no	floozie	conservative
+n	or	no	finéal	inclusive
+n	an	no	damh	inclusive
+n	qas	no	snooper	inclusive
+n	cds	no	ceartúcháin oifigeach	inclusive
+n	asm	no	na heorpa bean	inclusive
+n	an	no	asal	inclusive
+n	an	no	mosquito coitianta	inclusive
+n	cds	no	miscreant	conservative
+n	asm	no	éan	inclusive
+n	re	no	mafiosi	inclusive
+n	or	no	cál	inclusive
+n	asf	no	amadán	conservative
+n	svp	no	scrooge	conservative
+n	or	no	dunce	conservative
+n	an	no	ferociousness	conservative
+n	re	no	sicileach mafia	conservative
+a	svp	no	mosach	conservative
+n	svp	no	lust	inclusive
+n	re	no	mugging	inclusive
+n	or	no	cucumbers	inclusive
+n	asf	no	retard	conservative
+n	om	no	finocchio	inclusive
+a	ddp	yes	fonormálta	conservative
+n	cds	no	mischief a dhéanamh	conservative
+n	an	no	marauder	conservative
+n	qas	no	déantóir dtrioblóid	conservative
+n	is	yes	duine bocht	inclusive
+n	re	no	mafia	conservative
+n	cds	no	prankster	conservative
+n	cds	no	rabble-rouser	conservative
+n	is	yes	pauper	inclusive
+a	dmc	yes	aithriseach	conservative
+n	cds	no	mountebank	conservative
+n	asm	no	ninny	conservative
+n	pa	yes	tollamh	inclusive
+n	cds	no	eisreachtú	conservative
+n	cds	no	shirker	conservative
+n	qas	no	barbarian	conservative
+n	cds	no	dronganna	inclusive
+n	ddp	yes	zooerastia	conservative
+n	ddp	yes	taleteller	conservative
+n	cds	no	pórú plandaí	inclusive
+n	cds	no	schemer	inclusive
+n	an	no	gnat	inclusive
+n	asm	no	aves	inclusive
+n	cds	no	fhaisisteachais	conservative
+n	ps	yes	phobal dubh	inclusive
+n	cds	no	oifigigh póilíní	conservative
+n	pa	yes	tréadaí	inclusive
+n	an	no	yap	inclusive
+n	an	no	humanus	inclusive
+n	om	no	dhul i bhfód anal	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	cds	no	rookie	conservative
+n	cds	no	tréad	inclusive
+n	dmc	yes	meirleachas	inclusive
+n	an	no	owl	inclusive
+n	dmc	yes	mozzarella cáis	inclusive
+n	om	no	transvestitism	inclusive
+n	re	no	sceimhlitheoireacht	inclusive
+n	pa	yes	doirseoir	inclusive
+n	cds	no	pompousness	inclusive
+n	cds	no	dreadful pingin	inclusive
+n	cds	no	junto	inclusive
+n	svp	no	skinflint	conservative
+n	pa	yes	ollúnacht	inclusive
+n	svp	no	faineance	inclusive
+n	an	no	eallach intíre	inclusive
+n	qas	no	botcher	conservative
+n	dmc	yes	immorality	inclusive
+n	an	no	mhuiniompair	inclusive
+n	dmc	yes	lazybones	conservative
+n	dmc	yes	chiseller	conservative
+n	ddp	yes	chump	conservative
+n	pa	yes	ollúna	inclusive
+n	asm	no	ballock	inclusive
+n	om	no	neamh-westernized coincheapa na collaíochta fear	inclusive
+n	cds	no	ostentatiousness	inclusive
+n	an	no	floozy	conservative
+n	is	yes	bochtáin	inclusive
+n	ddp	yes	riffraff	conservative
+n	qas	no	fumbler	conservative
+n	svp	no	craving	inclusive
+n	pa	yes	búistéir muiceoil	inclusive
+n	cds	no	pedagogue	inclusive
+n	ddp	yes	microcephalus	inclusive
+n	cds	no	persecutor	conservative
+n	an	no	strix varia	inclusive
+n	or	no	nance	conservative
+n	cds	no	iarsmaí	inclusive
+n	om	no	fear aerach	inclusive
+n	cds	no	hibrideach	inclusive
+n	re	no	slayer	inclusive
+n	dmc	yes	barbarians	conservative
+a	ddf	yes	dall	inclusive
+n	cds	no	cowardliness	conservative
+n	an	no	volaille	inclusive
+n	an	no	cuiteog	inclusive
+n	cds	no	wanker	conservative
+n	dmc	yes	compás morálta	inclusive
+n	asm	no	stupidity	conservative
+n	cds	no	pandemonium	inclusive
+n	pa	yes	sheepherder	inclusive
+n	pr	no	floozy	conservative
+n	asm	no	salach	inclusive
+n	an	no	titim guy	conservative
+n	re	no	míghníomh	inclusive
+n	cds	no	mafia hiodáile	conservative
+n	cds	no	hauteur	conservative
+n	dmc	yes	debauchee	conservative
+n	ddp	yes	patsy	conservative
+n	an	no	crocodylidae	inclusive
+n	an	no	badhbh gríofa	inclusive
+n	re	no	camorra	inclusive
+a	ddp	yes	leibideach	conservative
+n	asf	no	cailín	conservative
+n	ps	yes	negroids	inclusive
+n	an	no	cláirseach gcorp an duine	inclusive
+n	cds	no	cneámhaireacht	conservative
+n	re	no	pianadh	inclusive
+n	dmc	yes	rakehell	conservative
+n	is	yes	daoine bochta	inclusive
+n	an	no	duine neamhinniúil	conservative
+n	cds	no	phratry	inclusive
+n	cds	no	madra phór measctha	inclusive
+n	cds	no	tomfool	conservative
+n	dmc	yes	chawbacon	conservative
+n	is	yes	ragamuffin	conservative
+n	cds	no	bunúsachas	inclusive
+n	dmc	yes	apostate	conservative
+n	cds	no	íolacht	inclusive
+n	an	no	cnádaí	conservative
+n	an	no	sceartán	inclusive
+n	asm	no	úirí	inclusive
+n	an	no	frown	inclusive
+n	an	no	an mhuc	inclusive
+n	om	no	aboral	inclusive
+n	asf	no	dimwit	conservative
+n	pr	no	prostitute	conservative
+n	an	no	brant gé	inclusive
+n	re	no	villainess	conservative
+n	ps	yes	mongol	inclusive
+n	an	no	aureus	inclusive
+n	ddf	yes	daoine faoi mhíchumas	inclusive
+n	cds	no	drongadóir	inclusive
+n	cds	no	mafia na hiodáile	conservative
+a	svp	no	cochallach	inclusive
+n	cds	no	meddler	conservative
+n	ddp	yes	animal	inclusive
+n	qas	no	grandiloquence	inclusive
+n	an	no	blockhead	conservative
+n	ps	yes	negro	inclusive
+n	ddp	yes	fána	inclusive
+n	an	no	cláirseach	inclusive
+n	qas	no	marú	conservative
+n	qas	no	magnate	inclusive
+n	an	no	hyaena	inclusive
+n	pa	yes	academicism	inclusive
+n	re	no	thief	inclusive
+n	or	no	numskull	conservative
+n	asm	no	dteagmháil bog	conservative
+n	re	no	foréigean	inclusive
+n	cds	no	faisistigh	conservative
+n	ps	yes	reiligiún giúdach	inclusive
+n	an	no	gabhair	inclusive
+n	an	no	brúidiúlacht	inclusive
+n	qas	no	monger	inclusive
+n	re	no	chéad chéim dúnmharú	inclusive
+n	an	no	amadán	conservative
+n	svp	no	feargach	inclusive
+n	dmc	yes	sin-agus-sin	inclusive
+n	an	no	madadh	inclusive
+n	dmc	yes	fuirseoir cúirte	inclusive
+n	re	no	malefactor	inclusive
+n	ddp	yes	analphabetic	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	cds	no	thieves	inclusive
+n	an	no	eurasian griffon	inclusive
+n	ps	yes	cretin	conservative
+n	cds	no	féin-bogás	inclusive
+n	an	no	bradacha	conservative
+n	an	no	liamhán bán	inclusive
+n	ddp	yes	epifauna	inclusive
+n	re	no	píoráideacht	inclusive
+n	dmc	yes	motley amadán	inclusive
+n	an	no	suborder blattodea	inclusive
+n	dmc	yes	hypocritical	conservative
+n	or	no	potatoe	inclusive
+n	dmc	yes	fibber	conservative
+n	cds	no	mischief	conservative
+n	re	no	molestation gnéis	inclusive
+n	dmc	yes	fabricator	conservative
+n	cds	no	fios gnó go léir	conservative
+n	asf	no	cretin	conservative
+n	cds	no	gcion coiriúil	inclusive
+n	an	no	animalia	inclusive
+n	an	no	moth	inclusive
+n	an	no	tic	inclusive
+n	cds	no	newswriter	inclusive
+n	cds	no	fib	conservative
+n	pr	no	striapachas	inclusive
+n	ddp	yes	dteagmháil bog	conservative
+n	qas	no	rang lár	inclusive
+n	qas	no	cró madra	inclusive
+n	re	no	goid petty	inclusive
+n	cds	no	gang	inclusive
+n	re	no	a chur chun báis	inclusive
+n	svp	no	taṇhā	inclusive
+n	cds	no	papparazzi	inclusive
+n	ddp	yes	ragtag agus bobtail	conservative
+n	re	no	mí-úsáid	inclusive
+n	cds	no	folderol	conservative
+n	an	no	rage	inclusive
+n	an	no	streetwalker	conservative
+n	asf	no	muttonhead	conservative
+n	pr	no	seirbhísí gnéis	conservative
+n	cds	no	whorehouse	inclusive
+n	re	no	backbiter	conservative
+n	cds	no	sharking iasacht	inclusive
+n	cds	no	múinteoir	inclusive
+n	re	no	robálacha armtha	inclusive
+n	or	no	cúcamar	inclusive
+n	qas	no	falsity	conservative
+n	cds	no	bruscar	inclusive
+n	asm	no	leibide	conservative
+n	svp	no	slothfulness	inclusive
+n	om	no	fagot	conservative
+n	qas	no	dealaithe	conservative
+n	an	no	maw	inclusive
+n	an	no	blattodea	inclusive
+n	cds	no	blackguard	conservative
+n	ps	yes	póraitheoirí plandaí	inclusive
+n	cds	no	linn hustling	conservative
+n	pa	yes	halla leann	inclusive
+n	svp	no	bigot	conservative
+n	svp	no	gourmandizer	inclusive
+n	is	yes	indigent	inclusive
+n	ps	yes	ruiner	conservative
+n	pa	yes	oibrí oifige	inclusive
+n	om	no	ghnéas céanna	inclusive
+n	cds	no	teach striapachais	inclusive
+n	om	no	gayness	inclusive
+n	qas	no	hata dona	conservative
+a	dmc	yes	salach	inclusive
+n	dmc	yes	bradacha	conservative
+a	qas	no	dúsachtach	conservative
+n	asm	no	suas	inclusive
+n	an	no	diddly	conservative
+n	pa	yes	abhcóide dlí	inclusive
+n	cds	no	chiseller	inclusive
+n	cds	no	teoiric comhcheilg	inclusive
+n	an	no	batrachian	inclusive
+n	an	no	bultúr	inclusive
+n	asf	no	síofra	conservative
+n	cds	no	boss mob	inclusive
+n	ps	yes	darkey	conservative
+n	cds	no	ragtag	conservative
+n	cds	no	quidnunc	conservative
+n	pr	no	bhean choimeád	conservative
+n	cds	no	poltroonery	inclusive
+n	cds	no	slacker	conservative
+n	asf	no	muggins	conservative
+n	is	yes	tightwad	conservative
+n	cds	no	laddie	inclusive
+n	cds	no	deacracht	conservative
+n	asm	no	brownness	inclusive
+n	ps	yes	negroid	inclusive
+n	qas	no	seadánachas	inclusive
+n	or	no	práta	inclusive
+n	om	no	dorsoventral	inclusive
+n	asf	no	patsy	conservative
+n	an	no	caorach baile	inclusive
+n	an	no	viper coitianta	inclusive
+n	cds	no	bordello	inclusive
+n	svp	no	miser	conservative
+n	asf	no	wench	conservative
+n	cds	no	fachtóir	inclusive
+n	ddp	yes	neamhinniúil	conservative
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	ddp	yes	fhios ag aon rud	conservative
+n	om	no	peeress	inclusive
+n	dmc	yes	dia trickster	conservative
+n	ddp	yes	simpleton	conservative
+n	cds	no	bróicéirí	inclusive
+n	an	no	coquette	conservative
+n	pr	no	bean scaoilte	conservative
+n	cds	no	scamp	inclusive
+n	pr	no	concubines	inclusive
+n	ps	yes	jewry	inclusive
+n	svp	no	superbia	conservative
+n	or	no	préata	inclusive
+n	asm	no	jeerer	conservative
+n	re	no	eisreachtú	inclusive
+n	an	no	siorceanna	inclusive
+n	pr	no	crawling colbha	inclusive
+n	qas	no	bourgeoisie	inclusive
+n	cds	no	taleteller	conservative
+n	cds	no	peons	inclusive
+n	qas	no	barúntachtaí	inclusive
+n	an	no	ialtóg fheascrach	inclusive
+n	qas	no	lámh réimse	inclusive
+n	re	no	manslayer	inclusive
+n	cds	no	chump	conservative
+n	dmc	yes	gangsters	inclusive
+n	re	no	defamer	conservative
+n	cds	no	clóiséad uisce	inclusive
+n	cds	no	conspiracism	inclusive
+n	re	no	plagiarization	inclusive
+n	dmc	yes	stench	conservative
+n	pa	yes	bellhop	inclusive
+n	dmc	yes	brigand	conservative
+n	cds	no	bootlicker	conservative
+n	cds	no	pimping	inclusive
+n	qas	no	bruscar	inclusive
+n	is	yes	dealbh	inclusive
+n	cds	no	aonaid seapáinis tomhais	inclusive
+n	cds	no	thieving	inclusive
+n	an	no	zooerastia	conservative
+n	svp	no	shirker	conservative
+n	or	no	cucurbita maxima	inclusive
+n	asm	no	jerk-uaire	conservative
+n	om	no	gnéas anal	inclusive
+n	an	no	hyenas	inclusive
+n	an	no	infauna	inclusive
+n	asm	no	pónaire leathan	inclusive
+n	cds	no	oodles	inclusive
+n	re	no	banditti	inclusive
+n	re	no	drongadóir	inclusive
+n	cds	no	a dhéanamh-aon rud	conservative
+n	pr	no	strumpet	conservative
+n	cds	no	balladeer	inclusive
+n	ps	yes	bedu	inclusive
+n	cds	no	bunúsachas reiligiúnach	inclusive
+n	re	no	mugged	inclusive
+n	re	no	delinquent	conservative
+n	asm	no	donn	inclusive
+a	qas	no	is gnách	inclusive
+n	cds	no	cheekiness	conservative
+n	qas	no	conchró	inclusive
+n	cds	no	outlawed	inclusive
+n	or	no	vine scuaise	inclusive
+n	ddp	yes	newsmonger	conservative
+n	cds	no	demagogic	conservative
+n	cds	no	freemason	inclusive
+n	dmc	yes	delinquent	conservative
+n	dmc	yes	droch-devil	conservative
+n	svp	no	fearg	inclusive
+n	qas	no	péintéir teach	inclusive
+n	cds	no	slyness	conservative
+n	or	no	dírithe níos mó ar sativus	inclusive
+n	re	no	robáil olcas	inclusive
+n	an	no	muiscít	inclusive
+n	cds	no	masonic	inclusive
+n	ddp	yes	cretin	inclusive
+n	dmc	yes	dissembler	conservative
+n	ddp	yes	titim guy	conservative
+n	ps	yes	nigra	conservative
+n	svp	no	concupiscence	inclusive
+n	cds	no	tá a fhios-é-gach	conservative
+n	cds	no	ballup	inclusive
+n	cds	no	ngníomhaíochtaí mídhleathacha	inclusive
+n	cds	no	raftaí	inclusive
+n	re	no	mafioso	conservative
+n	cds	no	vainglory	conservative
+n	qas	no	uirí	inclusive
+n	cds	no	idolaters	inclusive
+n	an	no	miocrorgánach	inclusive
+n	ddp	yes	lummox	conservative
+n	cds	no	mafiosi	conservative
+n	svp	no	gourmand	conservative
+n	re	no	mhíúsáid	inclusive
+n	re	no	booty	inclusive
+n	an	no	crocodylia	inclusive
+n	is	yes	villainess	conservative
+n	an	no	dam	inclusive
+n	cds	no	barbarous	conservative
+n	dmc	yes	fuaidireacht	inclusive
+n	cds	no	áis leithris	inclusive
+n	qas	no	both	inclusive
+n	qas	no	meánaicme	inclusive
+n	qas	no	bréag	conservative
+n	cds	no	nymphomaniac	conservative
+n	asf	no	titim guy	conservative
+n	cds	no	zealots	inclusive
+n	cds	no	mishmash	inclusive
+n	cds	no	ordú masonic	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	ps	yes	teaghlach giúdach	inclusive
+n	pr	no	prostitute fireann	conservative
+n	cds	no	blunderer	conservative
+n	dmc	yes	defrauder	conservative
+n	qas	no	córas ualú tumadóireacht	inclusive
+n	re	no	cosa nostra	inclusive
+n	dmc	yes	olc	inclusive
+n	asm	no	ithyphallic	inclusive
+n	ddp	yes	rumourmonger	conservative
+n	cds	no	stupe	conservative
+n	an	no	moileasc	inclusive
+n	qas	no	bothán	inclusive
+n	ddp	yes	aineolas	conservative
+n	re	no	capturer	inclusive
+n	ps	yes	daoine súlúis	inclusive
+n	svp	no	niggard	conservative
+n	an	no	hiéana	inclusive
+n	an	no	pooch	inclusive
+n	dmc	yes	rotter	inclusive
+n	ddp	yes	bestiality	conservative
+n	ps	yes	chump	conservative
+n	or	no	iasc lag	conservative
+n	dmc	yes	prevaricator	conservative
+n	om	no	crossdress	inclusive
+n	cds	no	thief	inclusive
+n	dmc	yes	chaitheamh-uile	inclusive
+n	cds	no	dramhaíl sholadach	inclusive
+n	an	no	óinseach	conservative
+n	ps	yes	judaic	inclusive
+n	cds	no	bungler	conservative
+n	an	no	duine slovenly	conservative
+n	an	no	hemipteran	inclusive
+n	dmc	yes	hobos	conservative
+n	cds	no	bigoted	conservative
+n	an	no	cockroach	inclusive
+n	an	no	scairp éisc	inclusive
+n	cds	no	neamhdhlisteanach	inclusive
+n	cds	no	newspaperman	inclusive
+n	cds	no	diabhlaíocht	conservative
+n	dmc	yes	duine dona	conservative
+n	is	yes	vow na bochtaineachta	inclusive
+n	cds	no	oifigeach ceartúcháin	inclusive
+a	om	no	éagsúla	inclusive
+n	ddp	yes	shithead	conservative
+n	re	no	thieves	inclusive
+n	an	no	shithead	conservative
+n	cds	no	mafia hiodáile	inclusive
+n	re	no	raper	conservative
+n	re	no	beacht	inclusive
+n	an	no	hemipteron	inclusive
+a	is	yes	trua	inclusive
+n	or	no	cuke	inclusive
+n	om	no	sodomist	inclusive
+n	cds	no	blackleg	inclusive
+n	ps	yes	duine black	inclusive
+n	cds	no	páipéar-pusher	inclusive
+n	cds	no	scammer	conservative
+a	ddp	yes	dúr	conservative
+n	or	no	sativus	inclusive
+n	asm	no	betise	conservative
+n	re	no	ndrangheta	inclusive
+n	an	no	buachaill cíos	conservative
+n	qas	no	meascán	inclusive
+n	an	no	numskull	conservative
+n	an	no	scum mála	conservative
+n	re	no	robúlaí armtha	inclusive
+n	svp	no	formad	inclusive
+n	svp	no	dúil gnéasach	inclusive
+n	cds	no	rógaire	conservative
+n	qas	no	mooch	conservative
+n	cds	no	coward	conservative
+a	ddp	yes	ann	inclusive
+n	svp	no	dallier	conservative
+n	ddp	yes	dunderhead	conservative
+n	qas	no	tionónta	inclusive
+n	cds	no	grumbler	conservative
+n	ddp	yes	ferociousness	conservative
+n	qas	no	citeal na n-iasc	inclusive
+n	cds	no	ultraconservative	conservative
+n	pr	no	leamhain	inclusive
+n	pr	no	moth	inclusive
+n	an	no	pip-squeak	conservative
+n	om	no	basal	inclusive
+n	qas	no	hutch	inclusive
+n	is	yes	beggar	conservative
+n	ddp	yes	numskull	conservative
+n	an	no	flea	inclusive
+n	cds	no	fabricator	conservative
+n	ddp	yes	metazoans	inclusive
+n	re	no	coireanna	inclusive
+n	an	no	míolta	inclusive
+n	ps	yes	dteagmháil bog	conservative
+n	or	no	shithead	conservative
+n	asm	no	phallus	inclusive
+n	re	no	extort	inclusive
+n	cds	no	citeal na n-iasc	inclusive
+n	svp	no	hauteur	conservative
+n	or	no	dúr	conservative
+n	an	no	cadhan	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	an	no	shoat	inclusive
+n	om	no	apical	inclusive
+n	cds	no	mischievous	conservative
+n	asm	no	testes	inclusive
+n	cds	no	restrooms	inclusive
+n	qas	no	madra fola	inclusive
+n	re	no	mafia na hiodáile	conservative
+n	cds	no	maiseanna	conservative
+n	re	no	gléas chéasadh	inclusive
+n	re	no	slanderer	conservative
+n	ddp	yes	dunce	conservative
+n	pr	no	fraochún crack	conservative
+n	rci	yes	a thoghfaidh	conservative
+n	ddp	yes	rudaí agus nonsense	inclusive
+n	an	no	eurypterid	inclusive
+n	dmc	yes	rógaire	conservative
+n	re	no	chéasadh	inclusive
+n	cds	no	fundamentalists	inclusive
+n	cds	no	maolchoille saor in aisce agus a nglactar	inclusive
+n	cds	no	interfertility	inclusive
+n	dmc	yes	dissimulation	conservative
+n	cds	no	slíghbhín	conservative
+n	ddp	yes	talebearer	conservative
+n	cds	no	procuress	conservative
+n	an	no	mosquitoes	inclusive
+n	cds	no	gangsterism	inclusive
+n	an	no	cimex lectularius	inclusive
+n	pa	yes	ollamh	inclusive
+n	or	no	noggin	inclusive
+n	dmc	yes	imposter	conservative
+n	ps	yes	dimwit	conservative
+n	ddp	yes	rumormonger	conservative
+n	cds	no	pandar	inclusive
+n	cds	no	rube	conservative
+n	re	no	dúmhál	conservative
+n	ddp	yes	bonehead	conservative
+n	cds	no	usury	inclusive
+n	an	no	plunderer	inclusive
+n	re	no	sceimhlitheoir	inclusive
+n	cds	no	mafia	conservative
+n	cds	no	fascists	conservative
+n	cds	no	stailc-bhriseadh	inclusive
+n	dmc	yes	leath-pionta	conservative
+n	pr	no	guff	conservative
+n	qas	no	grandiosity	inclusive
+n	cds	no	líne-shooter	conservative
+n	qas	no	feidhmiúcháin barr	inclusive
+n	an	no	rouncey	inclusive
+n	an	no	miser	conservative
+n	an	no	comhlacht-sciobadh	inclusive
+n	an	no	gabhar	inclusive
+n	an	no	míol	inclusive
+n	cds	no	oifigeach	conservative
+n	cds	no	spriosain	conservative
+n	re	no	éigniú	conservative
+n	svp	no	luxuria	inclusive
+n	cds	no	egghead	inclusive
+n	cds	no	beguine	inclusive
+n	asm	no	shtup	conservative
+n	svp	no	unpleasant	inclusive
+n	cds	no	prig	conservative
+n	pa	yes	academe	inclusive
+n	dmc	yes	stink	conservative
+n	ddp	yes	bacach	conservative
+n	qas	no	paróistí	inclusive
+n	pr	no	hellcat	conservative
+n	qas	no	amateurs	inclusive
+n	or	no	brassica oleracea	inclusive
+n	cds	no	cultúr gang	inclusive
+n	cds	no	comhcheilg de silence	inclusive
+n	cds	no	snooper	conservative
+n	ddf	yes	duine faoi mhíchumas	inclusive
+n	cds	no	traein wagon	inclusive
+n	cds	no	gang sráide	conservative
+n	re	no	gníomhaíochtaí coiriúla	inclusive
+n	svp	no	tábhacht	inclusive
+n	pa	yes	gnóthaire	inclusive
+n	an	no	mollusca	inclusive
+n	cds	no	pompousness	conservative
+n	qas	no	dramhaíl sholadach chathrach	inclusive
+n	qas	no	bungler	conservative
+n	pa	yes	corporal	inclusive
+n	cds	no	snob	conservative
+n	cds	no	hellion	conservative
+n	svp	no	apathy	inclusive
+n	cds	no	conventicle	inclusive
+n	cds	no	teach bawdy	inclusive
+n	an	no	escargots	inclusive
+n	qas	no	moocher	conservative
+n	an	no	buaf	inclusive
+n	an	no	asal baile	inclusive
+n	an	no	bison bíosún	inclusive
+n	cds	no	treibhe	inclusive
+n	cds	no	dronganna óige	conservative
+n	ddp	yes	viciousness	conservative
+n	qas	no	teach péintéir	inclusive
+n	cds	no	splashiness	inclusive
+n	an	no	chaser sciorta	conservative
+n	ddp	yes	barbaric	conservative
+n	qas	no	scrounger	conservative
+n	dmc	yes	fuirseoir	inclusive
+n	cds	no	conlán	inclusive
+n	cds	no	delinquent óg	conservative
+n	asm	no	béarla bean	inclusive
+n	om	no	treá anal	inclusive
+n	om	no	impersonator baineann	inclusive
+n	cds	no	bellyacher	conservative
+n	cds	no	eallach rustler	inclusive
+n	cds	no	coiriúil	inclusive
+n	ps	yes	titim guy	conservative
+a	ps	yes	gorm	inclusive
+n	cds	no	cliste aleck	conservative
+n	ps	yes	giúdaigh	inclusive
+n	cds	no	pomposity	conservative
+n	ddp	yes	dimwit	conservative
+n	qas	no	doghouse	inclusive
+n	ddf	yes	fisiciúil dúshlán	inclusive
+a	ddp	yes	dúsachtach	inclusive
+n	asf	no	traidhfil	inclusive
+n	an	no	rentboy	conservative
+n	ps	yes	interfertility	inclusive
+n	re	no	delinquent óg	conservative
+n	an	no	sé-gabhar	inclusive
+n	re	no	clúmhilleadh	inclusive
+n	om	no	distal	inclusive
+n	an	no	cimicidae	inclusive
+n	qas	no	daoine coiteann	inclusive
+n	dmc	yes	barbaric	conservative
+n	ddf	yes	cnádaí	conservative
+n	cds	no	ionlann	inclusive
+n	cds	no	praiseach-suas	inclusive
+n	an	no	frog	inclusive
+n	an	no	sí-gabhar	inclusive
+n	cds	no	mischief coiriúil	conservative
+n	dmc	yes	outlawed	inclusive
+n	cds	no	iasachta airgid	conservative
+n	dmc	yes	dillydallier	conservative
+n	an	no	canis aureus	inclusive
+n	an	no	soith	conservative
+n	asm	no	avifauna	inclusive
+n	an	no	miocróbach	inclusive
+n	or	no	fastidiousness	inclusive
+n	cds	no	codswallop	conservative
+n	svp	no	lecherousness	inclusive
+n	dmc	yes	moráltacht	inclusive
+n	an	no	bufo	inclusive
+n	cds	no	farrago	inclusive
+n	qas	no	péintéir agus decorator	inclusive
+n	cds	no	egotistical	conservative
+n	dmc	yes	bréag	inclusive
+n	ps	yes	hibrideach intergeneric	inclusive
+n	pa	yes	dáimhe aguisín	inclusive
+n	an	no	owl urchosc	inclusive
+n	cds	no	pimp	inclusive
+n	ddp	yes	twaddler	conservative
+n	cds	no	dandy	inclusive
+n	cds	no	dramhaíl sholadach chathrach	conservative
+n	pa	yes	ceannaithe éisc	inclusive
+n	cds	no	dandies	inclusive
+n	an	no	nathair san fhéar	conservative
+n	dmc	yes	droch-devil	inclusive
+n	an	no	moue	inclusive
+n	om	no	deireadh hind	inclusive
+n	svp	no	craos	inclusive
+n	svp	no	idler	conservative
+n	re	no	thievery	inclusive
+n	re	no	cion	inclusive
+n	om	no	cliathánach	inclusive
+n	cds	no	jokester	inclusive
+n	cds	no	hibrideach nádúrtha	inclusive
+n	an	no	antalóp gabhar	inclusive
+n	pr	no	moll	inclusive
+n	dmc	yes	ghluaiste eiticiúil	inclusive
+n	re	no	goid	inclusive
+n	cds	no	mac a bitch	conservative
+n	an	no	bugs leaba	inclusive
+n	pr	no	spóirt bhean	conservative
+n	ps	yes	mestizo	conservative
+n	pa	yes	pleader speisialta	inclusive
+n	an	no	cootie	inclusive
+n	om	no	ghnéas céanna a mhealladh	inclusive
+n	an	no	eallach	inclusive
+n	cds	no	pimping	conservative
+n	pr	no	bawd	conservative
+n	ddp	yes	charlatan	conservative
+n	svp	no	sluggard	conservative
+n	an	no	cláirseach comhlacht	inclusive
+n	cds	no	coirpeach	inclusive
+n	dmc	yes	impostor	conservative
+n	an	no	siorc mór bán	inclusive
+n	qas	no	lumber barún	inclusive
+n	svp	no	gourmand	inclusive
+n	pa	yes	cuntasaíochta poiblí	inclusive
+n	asf	no	dunce	conservative
+n	re	no	scammer	inclusive
+n	ps	yes	krauthead	conservative
+n	asm	no	chump	conservative
+n	asf	no	bonehead	conservative
+n	re	no	molested	inclusive
+n	pa	yes	fishmonger	inclusive
+n	asm	no	nincompoop	conservative
+n	an	no	riffraff	conservative
+n	re	no	robbers	inclusive
+n	an	no	sucking cláirseach	inclusive
+n	ps	yes	biteicneolaíocht plandaí	inclusive
+n	re	no	cion gnéis	inclusive
+n	ps	yes	uprooter	conservative
+n	cds	no	séarachais sláintíochta	inclusive
+n	om	no	dorsolateral	inclusive
+n	om	no	nates	inclusive
+n	an	no	ionsaí siorc	inclusive
+n	qas	no	ectoparasites	inclusive
+n	rci	yes	barbarians	conservative
+n	cds	no	marú	conservative
+n	cds	no	restroom	inclusive
+n	cds	no	muss	conservative
+n	ps	yes	an giúdachas	inclusive
+n	re	no	mafia	inclusive
+n	pr	no	hetaera	inclusive
+n	cds	no	fibber	conservative
+n	dmc	yes	a thoghfaidh	conservative
+n	pr	no	cúirteoir	inclusive
+n	re	no	coiriúil	inclusive
+n	cds	no	groveler	conservative
+n	cds	no	praiseach	conservative
+n	cds	no	relic	inclusive
+n	cds	no	sin-agus-sin	conservative
+n	svp	no	éad	inclusive
+n	cds	no	prankishness	inclusive
+n	an	no	frog buaf	inclusive
+n	an	no	scorpionfish	inclusive
+n	ddp	yes	motherfucker	conservative
+n	ddp	yes	gossipmonger	conservative
+n	an	no	mosquitos	inclusive
+n	ps	yes	hibrid	inclusive
+n	an	no	poc gabhair	inclusive
+n	an	no	pediculus corporis	inclusive
+n	ps	yes	hebraism	inclusive
+n	om	no	asal	inclusive
+n	svp	no	dea-do-naught	conservative
+n	om	no	poove	conservative
+n	an	no	dreancaidí	inclusive
+n	qas	no	freeloader	conservative
+n	ddp	yes	sac brónach	conservative
+n	asm	no	jacking amach	conservative
+n	an	no	balún swallower	inclusive
+n	pa	yes	ollamh taighde	inclusive
+n	cds	no	grúpa gaol	inclusive
+n	an	no	bunnies	inclusive
+n	cds	no	finagler	conservative
+n	an	no	eascanna	inclusive
+n	cds	no	gangster	inclusive
+n	re	no	rapists	conservative
+n	cds	no	gossiper	conservative
+n	svp	no	slacker	conservative
+n	an	no	madra salach	conservative
+n	cds	no	sicileach mafia	conservative
+n	ps	yes	síofra	conservative
+n	dmc	yes	forgeries	inclusive
+n	cds	no	sagart ard	inclusive
+n	an	no	limacidae	inclusive
+n	pa	yes	leann	inclusive
+n	is	yes	outcast	inclusive
+n	qas	no	autoinfection	inclusive
+n	ddp	yes	leigheas quack	conservative
+n	cds	no	brigand	inclusive
+n	an	no	aghaidh wry	inclusive
+n	an	no	folderol	conservative
+n	cds	no	oifigigh póilíní	inclusive
+n	svp	no	boredom	inclusive
+n	svp	no	invidia	inclusive
+n	cds	no	sluggard	conservative
+n	qas	no	ceannaire spioradálta	inclusive
+n	re	no	gníomhaíochtaí mídhleathacha	inclusive
+n	an	no	fulvus	inclusive
+n	cds	no	ragtag agus bobtail	conservative
+n	an	no	teaghlaigh anguillidae	inclusive
+n	ddp	yes	saphead	conservative
+n	an	no	sicín	inclusive
+n	dmc	yes	slacker	conservative
+n	cds	no	telltale	conservative
+n	an	no	familiaris lupus canis	inclusive
+n	dmc	yes	féimheachta mhorálta	inclusive
+n	re	no	cion gnéasach	inclusive
+n	an	no	lowlife	conservative
+n	an	no	crogaill	inclusive
+n	ddp	yes	fathead	conservative
+n	an	no	slowpoke	conservative
+n	re	no	holdup	inclusive
+n	dmc	yes	tramp	conservative
+n	cds	no	mystifier	conservative
+n	cds	no	freemasons	inclusive
+n	ddp	yes	idiocy	inclusive
+n	pa	yes	abhcóide	inclusive
+n	dmc	yes	trua	inclusive
+n	svp	no	rage	conservative
+n	qas	no	mishmash	inclusive
+n	cds	no	scuttlebutt	inclusive
+n	cds	no	clique	inclusive
+n	an	no	saphead	conservative
+n	re	no	sceimhlitheoireachta	inclusive
+n	cds	no	faisist	conservative
+n	or	no	spud	inclusive
+n	svp	no	goof-uaire	conservative
+n	is	yes	bochtaineacht deonach	inclusive
+n	re	no	traducer	conservative
+n	an	no	ciaróg	inclusive
+n	om	no	aerach	inclusive
+n	om	no	ghluaiseacht homophile	conservative
+n	qas	no	feirmeoir tionónta	inclusive
+n	asm	no	retard	inclusive
+n	pr	no	courtesan	inclusive
+n	pr	no	seirbhísí gnéis	inclusive
+n	pr	no	moth baint leo	inclusive
+n	asm	no	nitwit	conservative
+n	asm	no	doofus	conservative
+n	an	no	cuckold	conservative
+n	cds	no	topsy-turvyness	inclusive
+n	ddp	yes	creature	inclusive
+n	cds	no	saphead	conservative
+n	an	no	caimans	inclusive
+n	ddp	yes	retard	inclusive
+n	cds	no	theaghlach	inclusive
+n	ddp	yes	easnamh meabhrach	inclusive
+n	cds	no	leithris phoiblí	inclusive
+n	cds	no	slackers	conservative
+n	cds	no	buachaill errand	inclusive
+a	cds	no	gnáth	inclusive
+n	om	no	proximal	inclusive
+a	ddf	yes	olc	inclusive
+n	om	no	ipsilateral	inclusive
+n	an	no	oxen	inclusive
+n	qas	no	magnate loingseoireachta	inclusive
+n	re	no	defrauder	inclusive
+n	ps	yes	barbaric	conservative
+n	ddp	yes	nonsense	conservative
+n	cds	no	hibrideach daonna	inclusive
+n	cds	no	craven	conservative
+n	or	no	knucklehead	conservative
+n	an	no	chun crocodylia	inclusive
+n	cds	no	melange	inclusive
+a	re	no	foréigneach	inclusive
+n	qas	no	mob	inclusive
+n	cds	no	náibhí	inclusive
+n	dmc	yes	idler	conservative
+n	dmc	yes	scammer	conservative
+n	cds	no	slyboots	conservative
+n	an	no	sluggard	conservative
+n	cds	no	gangsterism	conservative
+n	cds	no	ithir	inclusive
+n	an	no	pipistrellus	inclusive
+n	svp	no	dilly-dallier	conservative
+n	qas	no	barúin	inclusive
+n	ddf	yes	míchumas	inclusive
+n	cds	no	éadóchasach coiriúil	inclusive
+n	svp	no	layabout	conservative
+n	asf	no	tomfool	conservative
+n	cds	no	iasachtóirí airgid	conservative
+n	dmc	yes	brionnú	inclusive
+n	om	no	contralateral	inclusive
+n	dmc	yes	caifeach lena	inclusive
+n	cds	no	riches nouveaux	inclusive
+n	cds	no	eallach rustling	inclusive
+n	cds	no	layabout	conservative
+n	cds	no	teaghlach coireachta	inclusive
+n	pr	no	courtesans	inclusive
+n	ps	yes	duine dubh	inclusive
+n	asf	no	moron	conservative
+n	an	no	banbh	inclusive
+n	an	no	gabhar déiríochta	inclusive
+n	dmc	yes	scoundrel	conservative
+n	an	no	scread-owl	inclusive
+n	an	no	buaf coitianta	inclusive
+n	re	no	feileonacht	inclusive
+n	cds	no	cacography	inclusive
+n	cds	no	páirtí	inclusive
+n	dmc	yes	mobster	inclusive
+n	cds	no	maifia	inclusive
+n	ddp	yes	moilliú intinne	inclusive
+n	an	no	vipera	inclusive
+n	or	no	bonehead	conservative
+n	ddf	yes	nanus	conservative
+n	qas	no	riffraff	conservative
+n	om	no	homoerotic	inclusive
+n	an	no	chaser bean	conservative
+n	cds	no	venality	conservative
+n	cds	no	scóir	inclusive
+n	cds	no	réimeas faisisteacha	conservative
+n	pa	yes	aire	inclusive
+n	an	no	ulchabhán	inclusive
+n	qas	no	bungle	inclusive
+n	ddp	yes	bastaird	conservative
+n	cds	no	bhfeallaire	conservative
+n	ddp	yes	changelings	inclusive
+a	ddf	yes	gránna	conservative
+n	svp	no	collaíocht	inclusive
+n	pr	no	lampyris noctiluca	inclusive
+n	ddp	yes	glaoigh	conservative
+n	an	no	piglet	inclusive
+n	cds	no	fop	inclusive
+n	ddp	yes	amadán	conservative
+n	asm	no	donn dorcha	inclusive
+n	re	no	kidnaps	inclusive
+n	cds	no	mob	conservative
+a	ps	yes	síne	inclusive
+n	an	no	bedbug	inclusive
+n	an	no	mosquitoe	inclusive
+n	an	no	siorc bán mór	inclusive
+n	cds	no	ar ais labhairt	inclusive
+n	asm	no	síofra	inclusive
+n	cds	no	wheeler déileálaí	conservative
+n	an	no	bíosún na heorpa	inclusive
+n	dmc	yes	dea-do-naught	conservative
+n	re	no	robúlaí	conservative
+n	cds	no	bróicéir pósadh	inclusive
+n	an	no	carcharodon	inclusive
+n	svp	no	cheapskate	conservative
+n	ps	yes	drifter	inclusive
+n	cds	no	penman	conservative
+n	qas	no	botch	inclusive
+n	an	no	striapach sráide	conservative
+n	cds	no	dastardliness	conservative
+n	qas	no	siopadóir	inclusive
+n	an	no	bhfíleam mollusca	inclusive
+n	ddp	yes	mac a bitch	conservative
+n	asm	no	salach ghairmiúil	inclusive
+n	cds	no	bas bleu	inclusive
+n	an	no	diddlysquat	conservative
+n	re	no	bradacha	conservative
+n	cds	no	falsity	conservative
+n	ddp	yes	muttonhead	conservative
+n	cds	no	peon	inclusive
+n	re	no	eallach rustler	inclusive
+n	re	no	plagiarize	inclusive
+n	an	no	phthiraptera	inclusive
+n	re	no	raped	conservative
+n	ddp	yes	a thoghfaidh	conservative
+n	is	yes	outcast sóisialta	inclusive
+n	ps	yes	jew	inclusive
+n	svp	no	lustfulness	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	cds	no	dealaithe	conservative
+n	an	no	góislín	inclusive
+n	cds	no	mhór right-winger	conservative
+n	an	no	micrea-orgánach	inclusive
+n	ddp	yes	macrofauna	inclusive
+n	cds	no	theorist comhcheilg	inclusive
+n	pa	yes	scolártha	inclusive
+n	om	no	leanbh molester	conservative
+n	an	no	gléas éisteachta	inclusive
+n	cds	no	heaps	inclusive
+n	an	no	tomfool	conservative
+n	dmc	yes	míghníomh	inclusive
+n	pa	yes	a thoghfaidh	conservative
+n	cds	no	gallimaufry	inclusive
+n	cds	no	git	conservative
+n	svp	no	bród	inclusive
+n	cds	no	dronganna	conservative
+n	an	no	leeches	inclusive
+n	cds	no	gang	conservative
+n	cds	no	pedagog	inclusive
+n	cds	no	fo-clan	inclusive
+n	cds	no	sholáthar	inclusive
+n	re	no	stickup	inclusive
+n	qas	no	coitianta	inclusive
+n	is	yes	tatterdemalion	conservative
+n	cds	no	hibrid	inclusive
+n	an	no	metazoans	inclusive
+n	cds	no	bhiteicneolaíocht plandaí	inclusive
+n	dmc	yes	cealgaireacht	conservative
+n	svp	no	aboulia	inclusive
+n	ddf	yes	runt	conservative
+n	an	no	nanus	conservative
+n	svp	no	lewd	inclusive
+a	qas	no	meánaoiseach	inclusive
+n	ps	yes	judeo	inclusive
+n	svp	no	pridefulness	inclusive
+n	ddp	yes	imbecile	conservative
+n	an	no	poulet	inclusive
+n	ddp	yes	dumbass	conservative
+n	an	no	pillager	inclusive
+n	asm	no	piseanna glas	inclusive
+n	svp	no	gourmandizer	conservative
+n	cds	no	ghaolmhara	inclusive
+n	re	no	mobster	inclusive
+n	cds	no	leath-pionta	conservative
+n	ps	yes	jerry	conservative
+n	om	no	buttocks	inclusive
+n	ddp	yes	ignoramus	conservative
+n	qas	no	coimeádaí an mhargaidh	inclusive
+n	pr	no	fraochún	conservative
+n	svp	no	enviousness	inclusive
+n	an	no	cláirseach coitianta	inclusive
+n	cds	no	newborns	inclusive
+n	pa	yes	stiúrthóir sochraide	inclusive
+n	qas	no	farmhand	inclusive
+n	svp	no	miser	inclusive
+n	cds	no	talebearer	conservative
+n	asm	no	píosa asal	conservative
+n	cds	no	fuirseoir	inclusive
+n	cds	no	hoaxer	conservative
+n	asm	no	wanker	conservative
+n	cds	no	dramhaíl sholadach chathrach	inclusive
+n	cds	no	omertà	inclusive
+n	qas	no	teste	inclusive
+n	cds	no	intermediator	inclusive
+n	ddf	yes	leath-pionta	conservative
+n	svp	no	díomhaointeas	inclusive
+n	ps	yes	hibrideach daonna	inclusive
+n	qas	no	divulgement	inclusive
+n	an	no	maggot	inclusive
+n	ddp	yes	analphabet	inclusive
+n	cds	no	casino	inclusive
+n	qas	no	sac brónach	conservative
+n	cds	no	ingroup	inclusive
+n	cds	no	coir	inclusive
+a	ddf	yes	dona	inclusive
+n	re	no	naíonmharú	inclusive
+n	qas	no	gnó mór	inclusive
+n	ddp	yes	barbarism	inclusive
+n	an	no	jackal	inclusive
+n	cds	no	bóthar wagon	inclusive
+n	asm	no	pónairí fava	inclusive
+n	svp	no	sloth	inclusive
+n	qas	no	businessperson	inclusive
+n	asm	no	foreskin	inclusive
+n	svp	no	saint chorparáideach	inclusive
+a	ddf	yes	droch-	inclusive
+n	om	no	líne midclavicular	inclusive
+n	cds	no	relic naofa	inclusive
+n	ps	yes	metic	inclusive
+n	cds	no	boastfulness	conservative
+n	cds	no	hibrideach intergeneric	inclusive
+n	ddp	yes	doofus	conservative
+n	cds	no	venal	inclusive
+n	is	yes	villain	conservative
+n	re	no	dúnmharú chéasadh	inclusive
+n	cds	no	complainer	conservative
+n	re	no	kidnaper	inclusive
+n	an	no	fear-ithe siorc	inclusive
+n	an	no	bó	inclusive
+n	asf	no	gruaige poiblí	inclusive
+a	svp	no	feargach	inclusive
+n	an	no	caora	inclusive
+n	qas	no	dramhaíl sholadach	inclusive
+n	an	no	pediculus humanus	inclusive
+n	om	no	mban	inclusive
+n	pa	yes	dlíodóir	inclusive
+n	or	no	fagot	conservative
+n	cds	no	barbarians	conservative
+n	cds	no	hoi polloi	inclusive
+n	cds	no	post a lámh	conservative
+n	dmc	yes	barbarous	conservative
+n	om	no	tras chóiriú	inclusive
+n	re	no	cionta gnéis	inclusive
+n	ps	yes	fear dubh	inclusive
+n	om	no	dame	inclusive
+n	asm	no	péineas	inclusive
+n	cds	no	póilíní	conservative
+n	is	yes	beggar	inclusive
+n	an	no	anurans	inclusive
+n	an	no	péist	inclusive
+n	asm	no	post a lámh	conservative
+n	an	no	duine dona	conservative
+n	cds	no	mafia	inclusive
+n	cds	no	áis teagaisc	inclusive
+n	cds	no	oifigeach póilíní	conservative
+n	re	no	villain tragóideach	conservative
+n	or	no	simpleton	conservative
+n	cds	no	jailor	inclusive
+n	ps	yes	mógail	inclusive
+n	pa	yes	dámh	inclusive
+n	ddp	yes	microcephalic	inclusive
+n	an	no	órga jackal	inclusive
+n	an	no	beithígh	inclusive
+n	asm	no	screwing	conservative
+n	svp	no	minginess	conservative
+n	om	no	posteriorly	inclusive
+n	an	no	cadhman	inclusive
+n	cds	no	bagnio	inclusive
+n	om	no	poof	conservative
+a	svp	no	cíocrach	inclusive
+n	an	no	diddly-cac	conservative
+n	cds	no	matchmaker	inclusive
+n	re	no	dhúnmharú	inclusive
+n	qas	no	teach madra	inclusive
+n	is	yes	villain tragóideach	conservative
+n	svp	no	acquisitiveness	inclusive
+n	cds	no	dlí-bhriseadh	inclusive
+n	asm	no	uirí	inclusive
+n	svp	no	míthaitneamhach	inclusive
+n	cds	no	mafia na hiodáile	inclusive
+n	an	no	eascann	inclusive
+n	an	no	hyaenidae	inclusive
+n	re	no	racketeer	inclusive
+n	cds	no	camarilla	inclusive
+n	cds	no	lazybones	conservative
+n	qas	no	comhlíonadh rialála	inclusive
+n	om	no	tras-chóiriú	inclusive
+n	asf	no	pussy	conservative
+n	asm	no	cloch	inclusive
+n	an	no	feithidí	inclusive
+n	pr	no	oxen	inclusive
+n	an	no	buaf na heorpa	inclusive
+n	ddf	yes	dhíchumasú	inclusive
+a	qas	no	lár-rang	inclusive
+n	asm	no	appendage	inclusive
+n	ddp	yes	meabhrach dúshlán	inclusive
+n	an	no	simpleton	conservative
+n	an	no	relentlessness	conservative
+n	pr	no	harlot	conservative
+n	cds	no	kin grúpa	inclusive
+n	or	no	punctiliousness	inclusive
+n	cds	no	lav	inclusive
+n	dmc	yes	cuibheas	inclusive
+n	svp	no	slackers	conservative
+n	dmc	yes	gangster	inclusive
+n	dmc	yes	profligate	inclusive
+n	asm	no	tógáil penile	inclusive
+n	re	no	gníomh coiriúil	inclusive
+n	dmc	yes	deceptive	conservative
+n	pr	no	gunna moll	inclusive
+n	ps	yes	barbarous	conservative
+n	an	no	dunderhead	conservative
+n	cds	no	ball gang	inclusive
+n	cds	no	boss coireachta	inclusive
+n	cds	no	pimps	conservative
+n	re	no	thief petty	inclusive
+n	an	no	siphonaptera	inclusive
+n	an	no	hoax	conservative
+n	pa	yes	boor	conservative
+n	svp	no	niggardness	conservative
+n	re	no	céasadh	inclusive
+n	ddp	yes	microcephaly	inclusive
+n	cds	no	chiseler	conservative
+n	re	no	dáta-éigniú	conservative
+n	svp	no	disgust	inclusive
+n	cds	no	tribesman	inclusive
+n	an	no	worm	inclusive
+n	an	no	physiognomy	inclusive
+n	qas	no	sochaí bourgeois	inclusive
+n	pr	no	prostitutes	conservative
+n	re	no	raptio	inclusive
+n	cds	no	an bunúsaíocht	inclusive
+n	cds	no	ceann ataithe	conservative
+n	asf	no	gruaige crotch	inclusive
+n	cds	no	henchman	conservative
+n	om	no	caudally	inclusive
+n	ps	yes	hibrideach	inclusive
+n	dmc	yes	slíbhín	conservative
+n	cds	no	nouveau riche	inclusive
+n	re	no	gcion coiriúil	inclusive
+n	an	no	sicíní	inclusive
+n	cds	no	amateurishness	conservative
+n	dmc	yes	malodor	conservative
+n	cds	no	swindler	inclusive
+n	re	no	maifia	conservative
+n	dmc	yes	mope	conservative
+n	re	no	foréigneach	inclusive
+n	re	no	ionsaí gnéasach	inclusive
+a	svp	no	gabhálach	conservative
+n	asm	no	magairle	inclusive
+n	ps	yes	latino	inclusive
+n	svp	no	seacht bpeacaí deadly	inclusive
+n	pa	yes	ard-reachtaire cuntas	inclusive
+n	dmc	yes	slackers	conservative
+n	cds	no	fancier	inclusive
+n	an	no	crocodylian	inclusive
+n	om	no	transvestites	inclusive
+n	ddp	yes	leathcheann	inclusive
+n	qas	no	gallimaufry	inclusive
+n	an	no	seilche	inclusive
+n	re	no	ngníomhaíochtaí mídhleathacha	inclusive
+n	cds	no	religiousism	inclusive
+n	an	no	muttonhead	conservative
+n	dmc	yes	scamp	inclusive
+n	re	no	bradaíl	inclusive
+n	re	no	felonies	inclusive
+n	cds	no	jacking amach	conservative
+n	cds	no	bunúsaíocht	inclusive
+n	cds	no	chaos	inclusive
+n	ddp	yes	óinseach	conservative
+n	asm	no	tomfool	conservative
+n	pr	no	slaig	conservative
+n	ddp	yes	retard	conservative
+n	is	yes	scoundrel	conservative
+n	cds	no	ascart	inclusive
+n	cds	no	dramhaíl sholadach	conservative
+n	ddp	yes	nitwit	conservative
+n	ddp	yes	duine dúr	conservative
+n	an	no	siorc bán	inclusive
+n	cds	no	sharking iasacht	conservative
+n	dmc	yes	lowlife	conservative
+n	pr	no	concubine	inclusive
+n	ddp	yes	barbarian	conservative
+n	cds	no	meirleachas	conservative
+n	cds	no	an unwashed mór	conservative
+n	an	no	griffon vulture	inclusive
+n	re	no	mí-úsáid oifige	inclusive
+n	asm	no	crua-on	inclusive
+n	cds	no	kinsfolk	inclusive
+n	an	no	epifauna	inclusive
+n	an	no	seilide	inclusive
+n	qas	no	bharócach	inclusive
+n	an	no	cearc	inclusive
+n	cds	no	arriviste	inclusive
+n	dmc	yes	hick	conservative
+n	qas	no	divulgence	inclusive
+n	ddf	yes	midget	conservative
+n	an	no	owl beag	inclusive
+n	cds	no	tricker	conservative
+n	cds	no	naircisíocht	inclusive
+n	asf	no	doofus	conservative
+n	qas	no	rang gairmiúla	inclusive
+n	ddp	yes	betise	conservative
+n	cds	no	gníomhaíochtaí coiriúla	inclusive
+n	dmc	yes	dallier	conservative
+n	qas	no	bourgeoise	inclusive
+n	cds	no	fascista	inclusive
+n	cds	no	addict	conservative
+n	cds	no	timeserver	conservative
+n	cds	no	scammer	inclusive
+n	an	no	éan minerva	inclusive
+n	om	no	trasfheisteoir	inclusive
+n	an	no	gosling	inclusive
+n	ddp	yes	botcher	conservative
+n	qas	no	ailtireacht bharócach	inclusive
+n	svp	no	angriness	inclusive
+n	an	no	muca	inclusive
+n	an	no	nathair	inclusive
+n	re	no	slaying	inclusive
+n	qas	no	comhréireachta	inclusive
+n	re	no	robáil	inclusive
+n	re	no	rógaire	conservative
+a	cds	no	bradach	conservative
+n	cds	no	defrauder	conservative
+n	or	no	preáta	inclusive
+n	pr	no	francach	inclusive
+n	an	no	ghéineas anguilla	inclusive
+n	ps	yes	nigger	conservative
+n	ddp	yes	zooerasty	conservative
+n	cds	no	pedantry	inclusive
+n	cds	no	hypersexual	conservative
+n	ps	yes	a thoghfaidh	conservative
+n	qas	no	salach-suas	inclusive
+n	ddp	yes	amaideach	conservative
+n	an	no	vamp	conservative
+a	dmc	yes	bréagach	conservative
+n	an	no	leamhan	inclusive
+n	ddp	yes	animalia	inclusive
+n	asm	no	fava	inclusive
+n	ddp	yes	moron	conservative
+n	cds	no	kinfolk	inclusive
+n	an	no	bonehead	conservative
+n	re	no	droch-úsáid	inclusive
+n	cds	no	jalopy	inclusive
+n	cds	no	siorc iasacht	inclusive
+n	re	no	mafia sicile	inclusive
+n	dmc	yes	gadabout	inclusive
+n	cds	no	dolt	conservative
+n	cds	no	iompar coiriúil	inclusive
+n	cds	no	brusaireacht	conservative
+n	ddp	yes	dolt	conservative
+n	re	no	kidnappers	inclusive
+n	dmc	yes	vagrancy	inclusive
+n	svp	no	cupidity	inclusive
+n	dmc	yes	botcher	conservative
+n	pa	yes	comhairleoir-ar-dlí	inclusive
+n	an	no	ragtag	conservative
+n	cds	no	motley amadán	inclusive
+n	cds	no	fanatic	conservative
+n	cds	no	faillitheoir	conservative
+n	qas	no	dauber	conservative
+n	cds	no	eallach thief	inclusive
+n	pa	yes	ollscoil ollamh	inclusive
+n	ddp	yes	tattletale	conservative
+v	cds	no	bás	inclusive
+n	cds	no	hustling	conservative
+n	om	no	shirtlifter	inclusive
+n	cds	no	bréag	inclusive
+n	an	no	trick salach	conservative
+n	qas	no	péintéir teach agus decorator	inclusive
+n	pr	no	beithígh	inclusive
+n	dmc	yes	trickster	conservative
+n	cds	no	slua	inclusive
+n	cds	no	robúlaí	conservative
+n	cds	no	meatacht	conservative
+n	an	no	escargot	inclusive
+n	cds	no	crooner	inclusive
+n	an	no	stór	inclusive
+n	cds	no	prelate	inclusive
+n	re	no	plagiarisation	inclusive
+n	cds	no	duine dúr	conservative
+n	om	no	keister	inclusive
+n	ps	yes	shliocht hafraice	inclusive
+n	pa	yes	adhlacóir	inclusive
+n	or	no	tater	inclusive
+n	cds	no	biogóideacht	conservative
+n	cds	no	busybody	conservative
+n	ddp	yes	epifaunal	inclusive
+n	dmc	yes	villain	conservative
+n	ps	yes	patsy	conservative
+n	cds	no	brigands	inclusive
+n	om	no	gnéas tóna	inclusive
+n	an	no	ulchabhán beag	inclusive
+n	cds	no	iarann dramh	conservative
+n	asf	no	knucklehead	conservative
+n	qas	no	omnium-gatherum	inclusive
+n	om	no	homaighnéasach	inclusive
+n	qas	no	rhetorical	inclusive
+n	cds	no	cleas	inclusive
+n	ddp	yes	calaois sláinte	conservative
+n	re	no	coireanna gnéis	inclusive
+n	cds	no	nursling	inclusive
+n	ddp	yes	neamhliteartha	inclusive
+n	cds	no	intriguer	inclusive
+n	ddp	yes	hooey	inclusive
+n	cds	no	gearrtha suas	conservative
+n	is	yes	droch-	inclusive
+n	cds	no	fuirseoir cúirte	inclusive
+n	cds	no	omnium-gatherum	inclusive
+n	ddp	yes	barbarous	conservative
+n	cds	no	schoolmistress	conservative
+n	pr	no	doxy	inclusive
+n	re	no	thieving	inclusive
+n	cds	no	croon	inclusive
+n	qas	no	hanger ar	conservative
+n	is	yes	droch-devil	inclusive
+n	cds	no	daoine treibhe	inclusive
+n	ps	yes	jigaboo	conservative
+n	qas	no	conformist	conservative
+n	cds	no	grifter	inclusive
+n	qas	no	gnó meiriceánach	inclusive
+n	an	no	feithid	inclusive
+n	re	no	stealer	inclusive
+n	ddp	yes	mhoilliú meabhrach	inclusive
+n	or	no	cabáiste saothraithe	inclusive
+n	ps	yes	cárta buí	inclusive
+n	an	no	ainmhí	inclusive
+n	om	no	daoine aeracha	conservative
+n	cds	no	effrontery	conservative
+n	svp	no	leisce	inclusive
+n	cds	no	demagogue	conservative
+n	dmc	yes	layabout	conservative
+n	qas	no	parasitize	inclusive
+n	cds	no	chomhréire	inclusive
+n	cds	no	leithreas poiblí	inclusive
+n	or	no	pratai	inclusive
+n	re	no	calunnia	inclusive
+n	cds	no	desperado	inclusive
+n	dmc	yes	git	inclusive
+n	dmc	yes	goof-uaire	conservative
+n	re	no	dara céim dúnmharú	inclusive
+n	qas	no	fear gnó	inclusive
+n	qas	no	henchman	inclusive
+n	an	no	diddley	conservative
+n	cds	no	tras-síolrú	inclusive
+n	asm	no	muggins	conservative
+n	cds	no	newspaperwoman	inclusive
+n	svp	no	wrath	inclusive
+n	cds	no	conventicles	inclusive
+n	svp	no	mhealladh fisiciúil	inclusive
+n	or	no	lunkhead	conservative
+n	cds	no	dara rater	conservative
+n	or	no	muttonhead	conservative
+n	om	no	pederasty	inclusive
+n	dmc	yes	bigot	conservative
+n	ddf	yes	cripple	inclusive
+n	an	no	dearg druma	inclusive
+n	svp	no	barainn	inclusive
+n	cds	no	rumourmonger	conservative
+n	cds	no	amour propre	conservative
+n	dmc	yes	rotter	conservative
+n	qas	no	iarann dramh	inclusive
+n	asm	no	slat	conservative
+n	an	no	choimhdeacht fireann	conservative
+n	cds	no	robúlaí barún	inclusive
+n	ddp	yes	dupe	conservative
+n	asm	no	coileach	inclusive
+n	cds	no	wisenheimer	conservative
+n	pa	yes	an tollamh	inclusive
+n	om	no	homaighnéasacht	inclusive
+n	an	no	salientian	inclusive
+n	cds	no	gníomhaire bóthair	conservative
+n	pa	yes	coláiste ollamh	inclusive
+n	asf	no	faighin	conservative
+n	ddp	yes	creitíneacht	inclusive
+n	cds	no	bruscar	conservative
+n	asf	no	pit	conservative
+n	dmc	yes	bungler	conservative
+n	dmc	yes	duine gan dídean	inclusive
+n	re	no	accusations bréagach	inclusive
+n	cds	no	a dhiúltú	conservative
+a	cds	no	meata	conservative
+n	cds	no	truckler	conservative
+n	cds	no	feadhna	inclusive
+n	pa	yes	níosánach	inclusive
+n	pa	yes	ball dáimhe	inclusive
+n	asm	no	tairne	conservative
+n	an	no	sráide cailín	conservative
+n	ddp	yes	curmudgeon	conservative
+n	an	no	codswallop	conservative
+n	dmc	yes	hobo	conservative
+n	re	no	sceimhlitheoirí	inclusive
+n	an	no	gyps fulvus	inclusive
+n	om	no	homosexuality	inclusive
+n	om	no	banríon tarraing	inclusive
+n	qas	no	crios meáchan	inclusive
+n	cds	no	stáisiún chompord	inclusive
+n	pa	yes	pleader	inclusive
+n	cds	no	blackballing	inclusive
+n	dmc	yes	liar	conservative
+n	ddp	yes	blabbermouth	conservative
+n	cds	no	dteagmháil bog	conservative
+n	an	no	hoax idirlíon	conservative
+n	qas	no	snoop	inclusive
+n	pa	yes	dlíodóirí triail	inclusive
+n	asf	no	nitwit	conservative
+n	an	no	gé	inclusive
+n	cds	no	complacence	inclusive
+n	qas	no	mischief-déantóir	conservative
+n	qas	no	magairle	inclusive
+n	an	no	cockroaches	inclusive
+n	cds	no	máisiúnachas	inclusive
+n	an	no	eurypterids	inclusive
+n	an	no	siorc	inclusive
+n	cds	no	dickhead	conservative
+n	cds	no	loanshark	conservative
+n	cds	no	ard-handedness	conservative
+n	pr	no	john	conservative
+n	svp	no	indolence	conservative
+n	cds	no	maiseanna	inclusive
+n	is	yes	cheapskate	conservative
+n	an	no	froganna	inclusive
+n	cds	no	zealotry	inclusive
+n	ddp	yes	blunderer	conservative
+n	cds	no	hierarch	inclusive
+n	svp	no	tsaint	inclusive
+n	cds	no	loansharking	conservative
+n	an	no	leech	inclusive
+n	cds	no	pilferer	conservative
+n	cds	no	propagandist	inclusive
+n	cds	no	faisisteach	conservative
+n	svp	no	pingin pinching-	inclusive
+n	asf	no	faighne	conservative
+n	an	no	canis familiaris	inclusive
+n	om	no	fir aerach	inclusive
+n	dmc	yes	sneak thief	conservative
+n	qas	no	post deasc	inclusive
+n	cds	no	puzzler	conservative
+n	an	no	blackguard	conservative
+n	pr	no	socialites	inclusive
+n	re	no	grifter	inclusive
+n	svp	no	aon-chuntas	conservative
+n	cds	no	omerta	inclusive
+n	or	no	fuckhead	conservative
+n	svp	no	futility	conservative
+n	cds	no	bearailte	inclusive
+n	an	no	villain	conservative
+n	an	no	doggie	inclusive
+n	or	no	dunderhead	conservative
+n	qas	no	fieldhand	inclusive
+n	qas	no	reitric	inclusive
+n	cds	no	usury	conservative
+n	svp	no	neamhghníomh	inclusive
+n	cds	no	pillock	conservative
+n	re	no	dúnmharfóirí	inclusive
+n	cds	no	iliomad	inclusive
+n	asf	no	leathcheann	conservative
+n	om	no	péidearastach	conservative
+n	or	no	ceann maróg	conservative
+n	re	no	traducement	inclusive
+n	cds	no	amháin go tapa	conservative
+n	pr	no	buachaill cíos	conservative
+n	ps	yes	vagabond	inclusive
+n	cds	no	a thoghfaidh	conservative
+n	ddp	yes	boor	conservative
+n	pr	no	striapach	conservative
+n	pr	no	rentboy	conservative
+n	re	no	coirpeach	inclusive
+n	cds	no	teoiricí comhcheilge	inclusive
+n	or	no	cunt	conservative
+n	asm	no	slua	inclusive
+n	cds	no	swindler	conservative
+n	re	no	maifia	inclusive
+n	om	no	buns	inclusive
+n	an	no	viciousness	conservative
+n	an	no	púic	inclusive
+n	om	no	tooshie	inclusive
+n	cds	no	changelings	inclusive
+n	ps	yes	leath-caste	conservative
+n	cds	no	henchmen	conservative
+n	om	no	fir homosexual	inclusive
+n	ps	yes	metics	inclusive
+n	cds	no	procuress	inclusive
+n	ps	yes	cros-síolrach	inclusive
+n	an	no	fána	inclusive
+n	re	no	eallach rustling	inclusive
+n	an	no	miúil	inclusive
+n	an	no	creature	inclusive
+n	cds	no	phraiticiúil joker	conservative
+n	asm	no	credulousness	conservative
+n	pr	no	concubinage	inclusive
+n	an	no	barbarism	inclusive
+n	cds	no	bumbler	conservative
+n	om	no	tush	inclusive
+n	qas	no	seadánacha	inclusive
+n	re	no	gcion gnéas felony	inclusive
+n	dmc	yes	bumbler	conservative
+n	ps	yes	na giúdaigh	inclusive
+n	dmc	yes	áit chlochach	conservative
+n	an	no	moth baint leo	inclusive
+n	qas	no	mingle-mangle	inclusive
+n	ddp	yes	príosúnaigh	inclusive
+a	ps	yes	dubh	inclusive
+n	ps	yes	hispanic	inclusive
+n	ps	yes	changelings	conservative
+n	om	no	posterior	inclusive
+n	dmc	yes	villainous	conservative
+n	an	no	rotter	conservative
+n	cds	no	odds agus a chríochnaíonn	inclusive
+n	qas	no	ideologist	inclusive
+n	qas	no	testicular	inclusive
+n	cds	no	swaggerer	conservative
+n	ddp	yes	ainmhí	inclusive
+n	cds	no	an unwashed mór	inclusive
+n	dmc	yes	outcast sóisialta	inclusive
+n	qas	no	blunder	inclusive
+n	qas	no	cloch	inclusive
+n	om	no	ma'am	inclusive
+n	an	no	sean domhanda bíosún	inclusive
+n	dmc	yes	wastrel	conservative
+n	an	no	bíosún eorpach	inclusive
+n	cds	no	policeman	conservative
+n	re	no	dúnmharú chéad chéim	inclusive
+n	cds	no	bangharda	inclusive
+n	qas	no	trádálaí	inclusive
+n	ps	yes	pórú plandaí	inclusive
+n	is	yes	villainous	conservative
+n	ddp	yes	arsehole	conservative
+n	om	no	tras-drisiúir	inclusive
+n	ps	yes	daoine romani	inclusive
+n	an	no	bloodsucker	inclusive
+n	qas	no	roscaireacht	inclusive
+n	asm	no	cretin	inclusive
+n	ps	yes	mná dubh	inclusive
+n	is	yes	tá-ní	inclusive
+n	re	no	calumniation	inclusive
+n	pr	no	harlotry	conservative
+n	cds	no	ciallmhar guy	conservative
+n	ddp	yes	síofra	conservative
+n	pa	yes	shepherdess	inclusive
+n	qas	no	sciolist	conservative
+n	asm	no	twirp	conservative
+n	cds	no	defrauder	inclusive
+n	cds	no	boor	conservative
+n	re	no	vilifier	conservative
+n	svp	no	arrogance	conservative
+n	cds	no	blunder	inclusive
+n	om	no	plantar	inclusive
+a	om	no	homaighnéasach	conservative
+n	dmc	yes	chiseler	conservative
+n	an	no	búrcáil	inclusive
+n	cds	no	jerking amach	conservative
+n	cds	no	topsy-turvydom	inclusive
+n	cds	no	coiriúil	conservative
+n	dmc	yes	prevaricator	inclusive
+n	pr	no	buar	inclusive
+n	an	no	brent gé	inclusive
+n	asf	no	fuckhead	conservative
+n	an	no	mhiúil	inclusive
+n	cds	no	ceann maróg	conservative
+n	cds	no	leithreas	inclusive
+n	an	no	carcharodon carcharias	inclusive
+n	om	no	finéal	inclusive
+n	pr	no	courtiers	inclusive
+n	cds	no	narcissism	inclusive
+n	cds	no	shrewdness	inclusive
+n	pr	no	fornicatress	conservative
+n	cds	no	nymphomania	conservative
+n	an	no	athene noctua	inclusive
+n	ddp	yes	cúlmhaireacht	inclusive
+n	dmc	yes	evilness	inclusive
+n	an	no	midget	conservative
+n	asm	no	imbecile	inclusive
+n	cds	no	oifigeach póilíní	inclusive
+n	dmc	yes	fumbler	conservative
+n	qas	no	troublemaker	conservative
+n	an	no	animal	inclusive
+n	asm	no	leathcheann	inclusive
+n	cds	no	arrogance	conservative
+n	asm	no	phallic	inclusive
+n	om	no	crossdresser	inclusive
+n	re	no	éigniú reachtúil	inclusive
+n	cds	no	mhustar	conservative
+n	cds	no	leanbh neamhdhlisteanach	inclusive
+n	an	no	shote	inclusive
+n	ps	yes	barbarians	conservative
+n	dmc	yes	bumpkin	conservative
+a	an	no	stubborn	inclusive
+n	pa	yes	abhcóidí	inclusive
+n	an	no	farraige scairp	inclusive
+n	an	no	liamhán	inclusive
+n	cds	no	interspecific hibrideach	inclusive
+n	dmc	yes	roue	conservative
+n	pr	no	ba	inclusive
+n	om	no	twink	conservative
+n	re	no	cion indíotáilte amháin	inclusive
+n	cds	no	ndrangheta	inclusive
+n	dmc	yes	clowns	inclusive
+n	qas	no	baroqueness	inclusive
+n	cds	no	buffoonery	inclusive
+n	cds	no	dronganna sráide	conservative
+n	an	no	owls	inclusive
+n	an	no	coiníní	inclusive
+n	ddp	yes	iasc lag	conservative
+n	cds	no	namby-pamby	conservative
+n	cds	no	éagóiritheoir	inclusive
+n	dmc	yes	mhoráltacht	inclusive
+n	qas	no	feirmeoireachta tionónta	inclusive
+n	om	no	pederastic	inclusive
+n	an	no	bestiality	conservative
+n	dmc	yes	madra salach	conservative
+n	cds	no	strikebreaker	inclusive
+n	re	no	scoundrel	conservative
+n	qas	no	barbaric	conservative
+n	or	no	finocchio	inclusive
+n	asf	no	dumbass	conservative
+n	ddp	yes	máthair fucker	conservative
+n	an	no	microorganisms	inclusive
+n	cds	no	scríbhneoir hack	conservative
+n	ps	yes	moron	conservative
+n	cds	no	villainess	conservative
+n	ddf	yes	míthreorach	inclusive
+n	ps	yes	darkie	conservative
+n	om	no	paederasty	inclusive
+n	re	no	post hatchet	inclusive
+n	qas	no	long tréigthe	inclusive
+n	cds	no	chiseler	inclusive
+n	an	no	namby-pamby	conservative
+n	om	no	téarmaí le haghaidh suíomh anatamaíocha	inclusive
+n	ps	yes	mongoloids	conservative
+n	pr	no	dam	inclusive
+n	pa	yes	ollamh emeritus	inclusive
+n	qas	no	troubler	conservative
+n	cds	no	bhearail	inclusive
+n	qas	no	sinker	inclusive
+n	ddp	yes	folderol	conservative
+n	dmc	yes	falsity	inclusive
+n	dmc	yes	malodour	conservative
+n	om	no	tras dresser	inclusive
+n	an	no	siorcanna bán mór	inclusive
+n	cds	no	leanaí	inclusive
+n	qas	no	granger	inclusive
+n	pa	yes	wagoner	inclusive
+n	ddp	yes	changelings	conservative
+n	ps	yes	beduin	inclusive
+n	cds	no	theorists comhcheilg	inclusive
+n	cds	no	conformist	conservative
+n	pr	no	fraochún crack	inclusive
+n	cds	no	cliques	inclusive
+n	qas	no	parishioner	inclusive
+n	qas	no	long thréigthe	inclusive
+n	cds	no	muggins	conservative
+n	or	no	puimcín	inclusive
+n	qas	no	tycoon	inclusive
+a	pa	yes	teoiriciúil	inclusive
+n	re	no	robáil armtha	inclusive
+n	om	no	bugger	inclusive
+n	cds	no	grunge	inclusive
+n	cds	no	groveller	conservative
+n	dmc	yes	outcast	inclusive
+n	ps	yes	pobal giúdach	inclusive
+n	dmc	yes	blunderer	conservative
+n	an	no	mollusks	inclusive
+n	asf	no	vagina	conservative
+n	om	no	feistis tras	inclusive
+n	an	no	sceartáin	inclusive
+n	an	no	betise	conservative
+n	asm	no	pis	inclusive
+n	or	no	duine dúr	conservative
+n	asm	no	fucking	conservative
+n	asm	no	nooky	conservative
+n	cds	no	sloven	conservative
+n	an	no	duillín ar an teanga	inclusive
+n	cds	no	sholáthar	conservative
+n	or	no	poove	conservative
+n	pa	yes	wooer	inclusive
+n	an	no	ragtag agus bobtail	conservative
+n	an	no	goose brant	inclusive
+n	cds	no	siorcanna iasachta	inclusive
+n	cds	no	diabhal	conservative
+n	ddp	yes	bheochan a bheith	inclusive
+n	re	no	cion indíotáilte	inclusive
+n	asf	no	twat	conservative
+n	an	no	bainne gabhair	inclusive
+n	re	no	cion coiriúil	inclusive
+n	cds	no	iasachtaí airgid	conservative
+n	svp	no	tanha	inclusive
+n	dmc	yes	drochbhéasach	conservative
+n	asm	no	amadán	conservative
+n	an	no	colainnsciobadh	inclusive
+n	asm	no	ga bog	inclusive
+n	asm	no	piseanna	inclusive
+n	om	no	tras-gúna	inclusive
+n	cds	no	dul idir	inclusive
+n	cds	no	sicileach mafia	inclusive
+n	an	no	villain tragóideach	conservative
+n	asf	no	leibide	conservative
+n	pa	yes	thoscaire speisialta	inclusive
+n	ps	yes	mestizaje	conservative
+n	qas	no	ideologue	inclusive
+a	qas	no	rialta	inclusive
+n	dmc	yes	a dhéanamh-aon rud	conservative
+n	an	no	chump	conservative
+n	an	no	doodly-squat	conservative
+n	qas	no	tradesman	inclusive
+n	an	no	leamhain	inclusive
+n	ps	yes	pikey	conservative
+n	ps	yes	bedouins	inclusive
+n	cds	no	pedantic	conservative
+n	cds	no	banna	inclusive
+n	cds	no	bragger	conservative
+n	ddp	yes	dickhead	conservative
+n	cds	no	gobs	inclusive
+n	or	no	murphy	inclusive
+n	cds	no	idolatry	inclusive
+n	svp	no	trencher	inclusive
+n	re	no	chreachadh	inclusive
+n	cds	no	reactionary	conservative
+n	qas	no	oddments	inclusive
+n	re	no	dúnmharú	inclusive
+n	dmc	yes	villain tragóideach	conservative
+n	ps	yes	bedouin	inclusive
+n	cds	no	féin-adhradh	inclusive
+n	svp	no	boastfulness	conservative
+n	ps	yes	lummox	conservative
+n	an	no	slowcoach	conservative
+n	cds	no	windbag	conservative
+n	svp	no	lazybones	conservative
+n	cds	no	pander	inclusive
+n	an	no	dumbass	conservative
+n	cds	no	saor in aisce cloiche	inclusive
+n	cds	no	narcism	inclusive
+n	re	no	calumny	inclusive
+n	cds	no	sassing	inclusive
+n	ps	yes	romanis	inclusive
+n	cds	no	scientism	inclusive
+n	qas	no	acolytes	inclusive
+n	dmc	yes	moralistic	inclusive
+n	an	no	eallach mairteola	inclusive
+n	ddp	yes	duine uneducated	conservative
+n	qas	no	ragtag agus bobtail	conservative
+n	qas	no	endoparasites	inclusive
+n	dmc	yes	treasonist	conservative
+n	an	no	mhara	inclusive
+n	dmc	yes	runt	conservative
+n	qas	no	parasite	inclusive
+n	cds	no	vaunter	conservative
+n	cds	no	rth	inclusive
+n	pa	yes	aoire	inclusive
+n	asf	no	codswallop	conservative
+n	cds	no	biteicneolaíocht plandaí	inclusive
+n	cds	no	mingle-mangle	inclusive
+n	ddp	yes	míchumas intleachta	inclusive
+n	is	yes	pariah	inclusive
+n	cds	no	bogás	inclusive
+n	cds	no	prank	inclusive
+n	ps	yes	nitwit	conservative
+n	cds	no	liathróidí-suas	inclusive
+n	pa	yes	barbarians	conservative
+n	cds	no	botcher	conservative
+n	asf	no	dteagmháil bog	conservative
+n	cds	no	hoi polloi	conservative
+n	or	no	aerach	conservative
+n	om	no	bean uasal	inclusive
+n	asf	no	cunt	conservative
+n	or	no	pillock	conservative
+n	an	no	seilide inite	inclusive
+n	pa	yes	íosánach	inclusive
+n	re	no	iompar coiriúil	inclusive
+n	asm	no	penile	inclusive
+n	om	no	aerach	conservative
+n	cds	no	duillín ar an teanga	inclusive
+n	an	no	hyena	inclusive
+n	cds	no	villain tragóideach	conservative
+n	an	no	nanny-gabhar	inclusive
+n	dmc	yes	grifter	conservative
+n	an	no	hirudinean	inclusive
+n	ps	yes	nigga	conservative
+n	pa	yes	cléireach áirithinte	inclusive
+n	pr	no	comare	conservative
+n	svp	no	neamhshuim	inclusive
+n	ps	yes	vagrant	inclusive
+n	dmc	yes	slíghbhín	conservative
+n	an	no	frogspawn	inclusive
+n	svp	no	ennui	inclusive
+n	re	no	ghníomh sceimhlitheoireachta	inclusive
+n	qas	no	rhetorician	inclusive
+n	re	no	ferocity	inclusive
+n	ddp	yes	stupe	conservative
+n	cds	no	gangsters	inclusive
+n	re	no	gníomh sceimhlitheoireachta	inclusive
+n	cds	no	scrawl	inclusive
+n	cds	no	paparazzi	inclusive
+n	cds	no	idol bréagach	inclusive
+n	an	no	git	conservative
+n	dmc	yes	fuadairí a choinneáil amhlaidh	inclusive
+n	re	no	sicileach mafia	inclusive
+n	cds	no	religiosity	inclusive
+n	an	no	moo-bó	inclusive
+n	ps	yes	hibrideach nádúrtha	inclusive
+n	cds	no	gníomh coiriúil	inclusive
+n	cds	no	foréigean gang	inclusive
+n	pr	no	striapachas	conservative
+n	cds	no	grime	inclusive
+n	svp	no	acedia	inclusive
+n	asm	no	bod	conservative
+n	an	no	brent	inclusive
+n	cds	no	oifigeach príosúin	inclusive
+n	an	no	wuss	conservative
+n	cds	no	newsmonger	conservative
+n	cds	no	cros-síolrach	inclusive
+n	asm	no	leathan-bean plandaí	inclusive
+n	dmc	yes	liúdramán	conservative
+n	cds	no	úrscéal dime	inclusive
+n	cds	no	mafioso	conservative
+n	an	no	sin-agus-sin	conservative
+n	cds	no	idiolatry	inclusive
+n	is	yes	bochtaineachta	inclusive
+n	cds	no	grifter	conservative
+n	cds	no	nerd	conservative
+n	an	no	de chineál gabhair ainmhithe	inclusive
+n	svp	no	stinginess	inclusive
+n	qas	no	bollocks	inclusive
+n	an	no	vulture	inclusive
+n	om	no	chúl deireadh	inclusive
+n	an	no	mosquito	inclusive
+n	an	no	muggins	conservative
+a	cds	no	dúr	conservative
+n	ps	yes	barbarian	conservative
+a	cds	no	cliste	inclusive
+n	dmc	yes	swindler	conservative
+n	cds	no	titim guy	conservative
+n	cds	no	coirpeach	conservative
+n	om	no	tras-dresser	inclusive
+n	asm	no	changelings	inclusive
+n	an	no	parrot	inclusive
+n	om	no	ventral	inclusive
+n	cds	no	gaoler	inclusive
+n	an	no	swallower balún	inclusive
+n	ddp	yes	ainbhios	conservative
+n	cds	no	ciorcal istigh	inclusive
+n	om	no	paederast	conservative
+n	ddp	yes	fuckhead	conservative
+n	cds	no	dteach bawdy	inclusive
+n	re	no	murderess	inclusive
+n	re	no	gníomh sceimhlitheoireachta	conservative
+a	svp	no	ionsaitheach	conservative
+n	pa	yes	lucht acadúil	inclusive
+n	cds	no	pimps	inclusive
+n	ddp	yes	moronity	inclusive
+n	svp	no	tightwad	conservative
+n	an	no	buachaillí cíosa	conservative
+a	svp	no	gabhálach	inclusive
+n	dmc	yes	villainess	conservative
+n	ps	yes	na háise	inclusive
+n	cds	no	pedant	conservative
+n	svp	no	trencher	conservative
+n	pa	yes	academism	inclusive
+n	ddf	yes	mhíchumas gluaiseachta	inclusive
+n	re	no	malversation	inclusive
+n	dmc	yes	foetor	conservative
+n	cds	no	gossip	inclusive
+n	an	no	cakehole	inclusive
+n	dmc	yes	pseudo	conservative
+n	qas	no	bumbler	conservative
+n	pr	no	bó	inclusive
+n	an	no	coinín	inclusive
+n	an	no	géanna	inclusive
+n	qas	no	welter	inclusive
+n	an	no	froig	inclusive
+n	qas	no	reitric clasaiceach	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	cds	no	sochaithe treibhe	inclusive
+n	cds	no	brigandage	inclusive
+n	an	no	fear-eater	inclusive
+n	asm	no	maroon	inclusive
+n	dmc	yes	dara rater	conservative
+n	an	no	teaghlaigh cimicidae	inclusive
+n	an	no	villainess	conservative
+n	an	no	chinch	inclusive
+n	cds	no	bastaird	inclusive
+n	an	no	buafa	inclusive
+n	cds	no	usurer	inclusive
+n	re	no	chiseler	inclusive
+n	ddp	yes	asshole	conservative
+n	an	no	miocróib	inclusive
+n	or	no	scuais	inclusive
+n	cds	no	paparazzo	inclusive
+n	qas	no	fódóireacht	inclusive
+n	an	no	bheochan a bheith	inclusive
+n	ddp	yes	bumbler	conservative
+n	qas	no	feirmeoir	inclusive
+a	is	yes	míshásta	inclusive
+n	cds	no	foréigean gang	conservative
+n	cds	no	meirleachas	inclusive
+n	pa	yes	gníomhaire ticéad	inclusive
+n	svp	no	vainglory	conservative
+n	qas	no	peasant	inclusive
+n	cds	no	banditry	inclusive
+n	ddp	yes	leathcheann	conservative
+n	an	no	looter	inclusive
+n	om	no	ghluaiseacht homophile	inclusive
+n	ps	yes	mongólach	inclusive
+n	asm	no	rolla ar an féar	conservative
+n	cds	no	fumbler	conservative
+n	cds	no	fhadhb	conservative
+n	qas	no	oibrí feirme	inclusive
+n	re	no	fuadach	inclusive
+n	qas	no	duine coitianta	inclusive
+n	pr	no	soith	conservative
+n	cds	no	múinteoirí	inclusive
+n	ddp	yes	baois	inclusive
+n	cds	no	go leor	inclusive
+n	re	no	bréag mhailíseach	inclusive
+n	cds	no	gigolo	inclusive
+n	om	no	bantiarna	inclusive
+n	re	no	mí-úsáid corparáideach	inclusive
+n	cds	no	meirleach	inclusive
+n	re	no	éigniú fhorneartach	conservative
+n	dmc	yes	pilferer	conservative
+n	asf	no	lunkhead	conservative
+n	ddf	yes	mhíchumas	inclusive
+n	dmc	yes	olc	conservative
+n	an	no	crogall	inclusive
+n	qas	no	bloopers	inclusive
+n	asm	no	fara	inclusive
+n	dmc	yes	sac brónach	conservative
+n	cds	no	blooper	inclusive
+n	svp	no	trencherman	conservative
+n	qas	no	péintéireacht teach	inclusive
+n	ddp	yes	imbecile	inclusive
+n	om	no	homaighnéasachas	inclusive
+n	cds	no	drúthlann	inclusive
+n	cds	no	máistir striapach	conservative
+n	or	no	cabáiste	inclusive
+n	cds	no	wonk	conservative
+n	cds	no	nua-naíonna	inclusive
+n	ps	yes	imbecile	conservative
+n	svp	no	saint	inclusive
+n	re	no	felon ciontaithe	inclusive
+n	an	no	faillitheoir	conservative
+n	ddp	yes	hokum	conservative
+n	ddp	yes	faoi mhíchumas intleachtúil	inclusive
+n	an	no	viper	inclusive
+n	is	yes	ioncam íseal	inclusive
+n	cds	no	bradacha	conservative
+n	cds	no	peacach	conservative
+n	an	no	chun crocodilia	inclusive
+n	cds	no	thief petty	inclusive
+n	re	no	mafia hiodáile	inclusive
+n	pr	no	eallach intíre	inclusive
+n	an	no	vipera berus	inclusive
+n	cds	no	nympho	conservative
+n	ps	yes	kraut	conservative
+n	re	no	dúnmharuithe	inclusive
+n	om	no	sodomized	inclusive
+n	ps	yes	bulgárach	inclusive
+n	cds	no	autolatry	inclusive
+n	ddp	yes	príosúnach	inclusive
+n	pa	yes	acadúil	inclusive
+n	qas	no	lár-rang	inclusive
+n	cds	no	gaige	inclusive
+n	cds	no	cosa nostra	inclusive
+n	dmc	yes	fhealltóir	conservative
+n	asf	no	simpleton	conservative
+n	cds	no	íoladhradh	inclusive
+n	an	no	duine uneducated	conservative
+n	om	no	péidearastacht	inclusive
+n	cds	no	moralism	inclusive
+n	cds	no	malefactor	inclusive
+n	ddp	yes	cretinism	inclusive
+n	asf	no	folderol	conservative
+n	ddp	yes	nincompoop	conservative
+n	cds	no	boaster	conservative
+n	qas	no	necrotrophic	inclusive
+n	cds	no	siorc iasacht	conservative
+n	qas	no	amateurishness	conservative
+n	qas	no	magnates	inclusive
+n	pr	no	striapach sráide	conservative
+n	cds	no	grunge ceol	inclusive
+n	an	no	sloven	conservative
+n	cds	no	nouveau riche-	inclusive
+n	cds	no	scum mála	conservative
+n	cds	no	pulcadh	inclusive
+n	cds	no	caitiff	conservative
+n	qas	no	feirmeoirí	inclusive
+n	cds	no	féin-sásamh	inclusive
+n	ps	yes	crossbreed	inclusive
+n	dmc	yes	barbarian	conservative
+n	pa	yes	aoirí	inclusive
+n	dmc	yes	scum mála	conservative
+n	asm	no	róidlianna	inclusive
+n	cds	no	patsy	conservative
+n	cds	no	iarann dramh	inclusive
+n	cds	no	sass	inclusive
+n	an	no	míoltóga	inclusive
+n	re	no	mí-úsáid ghnéasach	inclusive
+n	cds	no	óinseach	conservative
+n	cds	no	blabbermouth	conservative
+n	cds	no	villain	conservative
+n	svp	no	leadrán	inclusive
+n	or	no	prátaí	inclusive
+n	cds	no	trasformismo	inclusive
+n	cds	no	clotheshorse	inclusive
+n	pa	yes	cordwainer	inclusive
+n	dmc	yes	phoney	conservative
+n	cds	no	cathouse	inclusive
+n	asf	no	chump	conservative
+n	asm	no	ag fuck	conservative
+n	cds	no	freemasonry	inclusive
+n	pr	no	stór	inclusive
+n	re	no	ionsaithe gnéis	inclusive
+n	cds	no	mafia sicile	conservative
+n	cds	no	marbh-deireadh sráide	inclusive
+n	cds	no	highwayman	conservative
+n	om	no	prat	inclusive
+n	or	no	twat	conservative
+n	cds	no	dirt	inclusive
+n	qas	no	husbandman	inclusive
+n	pr	no	bean choimeád	conservative
+n	cds	no	banditti	inclusive
+n	cds	no	splashiness	conservative
+n	re	no	ghoid	inclusive
+n	pa	yes	togróir	inclusive
+n	is	yes	bochtaineacht uirbeach	inclusive
+n	re	no	torturing	inclusive
+n	ddf	yes	crookback	inclusive
+n	ddp	yes	cretin	conservative
+n	an	no	minx	conservative
+n	om	no	pederast	conservative
+n	re	no	goid mhór	inclusive
+n	cds	no	policeman	inclusive
+n	an	no	miocrób	inclusive
+n	dmc	yes	aon-chuntas	conservative
+n	ps	yes	tras-síolrú	inclusive
+n	an	no	vamper	conservative
+n	cds	no	moneygrubber	inclusive
+n	qas	no	péintéir	inclusive
+n	cds	no	adhartha idol	inclusive
+n	cds	no	swot	conservative
+n	or	no	homaighnéasach	conservative
+n	an	no	anguilla	inclusive
+n	cds	no	clan	inclusive
+n	dmc	yes	git	conservative
+n	pr	no	hogwash	conservative
+n	cds	no	amadán	inclusive
+n	qas	no	ceannaire gnó	inclusive
+n	qas	no	acolyte	inclusive
+n	pa	yes	barbaric	conservative
+n	dmc	yes	homunculi	inclusive
+n	qas	no	úirí	inclusive
+n	qas	no	paróiste	inclusive
+n	pr	no	prostitutes	inclusive
+n	cds	no	cockup	inclusive
+n	dmc	yes	phony	conservative
+n	pr	no	bean na sráide	conservative
+n	ps	yes	leath-cine	conservative
+n	an	no	pearóid	inclusive
+n	cds	no	usurer	conservative
+n	asm	no	pónairí leathana	inclusive
+n	cds	no	leanbh	inclusive
+n	cds	no	bangharda	conservative
+n	re	no	plagiarized	inclusive
+n	om	no	transvestism	inclusive
+n	cds	no	ball gang	conservative
+n	an	no	teaghlaigh crocodylidae	inclusive
+n	dmc	yes	ne'er-a dhéanamh-maith	conservative
+n	ps	yes	bulgáiris	inclusive
+n	an	no	madraí	inclusive
+n	cds	no	pander	conservative
+n	or	no	prátaí nua	inclusive
+n	an	no	inexorableness	conservative
+v	re	no	goid	inclusive
+n	ddp	yes	ragtag	conservative
+n	an	no	freebooter	inclusive
+n	pa	yes	cléireach	inclusive
+n	cds	no	carrion	inclusive
+n	an	no	bíosún	inclusive
+n	svp	no	lewdness	inclusive
+n	pr	no	bhean pléisiúir	conservative
+n	cds	no	teach-cháil tinn	inclusive
+n	qas	no	ragtag	conservative
+n	ddp	yes	knucklehead	conservative
+n	pr	no	eallach	inclusive
+n	pr	no	máistreás	conservative
+n	an	no	bunny	inclusive
+n	qas	no	duine gnó	inclusive
+n	asm	no	óinseach	conservative
+n	asm	no	faba bean	inclusive
+n	re	no	maligner	conservative
+n	ps	yes	mestizos	conservative
+n	an	no	fathead	conservative
+n	dmc	yes	deceit	conservative
+a	dmc	yes	olc	conservative
+n	an	no	madra teaghlaigh	inclusive
+n	dmc	yes	coirpeach	inclusive
+n	cds	no	stealer	inclusive
+n	cds	no	moralizing	inclusive
+n	pr	no	paramour	inclusive
+n	asm	no	testicular	inclusive
+n	ddp	yes	poppycock	inclusive
+n	ddp	yes	pudden-cheann	conservative
+n	cds	no	conceitedness	conservative
+n	cds	no	leathcheann	inclusive
+n	svp	no	apathetic	inclusive
+n	qas	no	obair tí	inclusive
+n	dmc	yes	banditti	inclusive
+n	rci	yes	barbarian	conservative
+n	an	no	sciaenops ocellatus	inclusive
+n	dmc	yes	lingerer	conservative
+a	qas	no	gnáth	inclusive
+n	ps	yes	rommany	inclusive
+n	an	no	cainéal bass	inclusive
+n	cds	no	wuss	conservative
+n	an	no	suborder blattaria	inclusive
+n	re	no	gangsters	inclusive
+n	qas	no	testicle	inclusive
+n	an	no	neamhinniúil	conservative
+n	cds	no	idirdhealú reiligiúnach	inclusive
+n	asm	no	patsy	conservative
+n	ps	yes	dubh	inclusive
+n	svp	no	seacht bpeacaí marfacha	inclusive
+n	cds	no	pudden-cheann	conservative
+n	an	no	megascops	inclusive
+n	ps	yes	rásaí	inclusive
+n	pa	yes	bellboy	inclusive
+n	asf	no	shithead	conservative
+n	re	no	mugger	inclusive
+n	re	no	airgead salach	inclusive
+n	dmc	yes	duine trua	inclusive
+n	om	no	duine faoi mhíchumas	conservative
+n	cds	no	superbia	inclusive
+n	dmc	yes	madra salach	inclusive
+n	re	no	chiseller	inclusive
+n	dmc	yes	faillitheoir	inclusive
+n	dmc	yes	shirker	conservative
+n	asm	no	dimwit	conservative
+n	cds	no	leithris	inclusive
+n	ps	yes	rásaí eile	inclusive
+n	re	no	tortured	inclusive
+n	dmc	yes	faker	conservative
+n	pa	yes	ollamh iomlán	inclusive
+n	asm	no	pterygiophore	inclusive
+n	ps	yes	lout	conservative
+n	pr	no	francach donn	inclusive
+n	qas	no	blunderer	conservative
+n	asm	no	pea	inclusive
+n	ddp	yes	nonsensical	conservative
+n	pr	no	buachaillí cíosa	conservative
+n	re	no	kidnap	inclusive
+n	an	no	antalóip gabhar	inclusive
+n	pr	no	whoredom	conservative
+n	cds	no	deceitfulness	inclusive
+n	qas	no	úinéir an ghnó	inclusive
+n	an	no	madra	inclusive
+n	pa	yes	sheepherders	inclusive
+n	cds	no	ghoid	inclusive
+n	cds	no	riffraff	conservative
+n	ddp	yes	tomfool	conservative
+n	an	no	míoltóg	inclusive
+n	cds	no	camorra	inclusive
+n	or	no	meticulosity	inclusive
+n	or	no	stupe	conservative
+n	cds	no	hick	conservative
+n	cds	no	spóirt teach	inclusive
+n	ddp	yes	gossiper	conservative
+n	cds	no	superficiality	inclusive
+n	cds	no	intercessor	inclusive
+n	pa	yes	bellman	inclusive
+n	om	no	sodomy	inclusive
+n	asm	no	éin	inclusive
+n	re	no	dúnbhásuithe	inclusive
+n	cds	no	faisisteachas	conservative
+n	cds	no	ainmhithe tréada	inclusive
+n	dmc	yes	vagabond	inclusive
+n	re	no	marú	inclusive
+n	cds	no	mafiosi	inclusive
+n	pr	no	streetwalker	conservative
+n	an	no	otus asio	inclusive
+n	cds	no	díograiseoir	inclusive
+n	or	no	fellaini	inclusive
+n	an	no	gabhar-antalóp	inclusive
+n	cds	no	bloopers	inclusive
+n	dmc	yes	meirleach	conservative
+n	dmc	yes	duffer	conservative
+n	an	no	snatcher comhlacht	inclusive
+n	dmc	yes	go morálta féimheach	inclusive
+n	cds	no	amháin go tapa	inclusive
+n	pa	yes	fostaí	inclusive
+n	cds	no	falsity	inclusive
+n	cds	no	idolatrous	inclusive
+n	cds	no	nurseling	inclusive
+n	cds	no	satyriasis	conservative
+n	om	no	namby-pamby	conservative
+n	cds	no	moaner	conservative
+n	an	no	striapachas fireann	conservative
+n	cds	no	villainous	conservative
+n	qas	no	rhetorics	inclusive
+n	asf	no	imbecile	conservative
+n	ddp	yes	duine neamhliteartha	inclusive
+n	an	no	doggy	inclusive
+n	qas	no	róidlianna	inclusive
+n	an	no	spriosain	conservative
+n	cds	no	póilíní	inclusive
+n	asm	no	réimse bean	inclusive
+n	cds	no	sniveller	conservative
+n	qas	no	bourgeois	inclusive
+n	re	no	mafia sicile	conservative
+n	an	no	caorach	inclusive
+n	cds	no	séarachais amh	inclusive
+n	cds	no	wiliness	conservative
+n	re	no	maslach	inclusive
+n	ps	yes	romani	inclusive
+n	cds	no	schoolmarm	conservative
+n	re	no	villain	conservative
+n	an	no	mollusk	inclusive
+n	ddf	yes	duine dall	inclusive
+n	an	no	inexorability	conservative
+n	pa	yes	extraordinarius ollamh	inclusive
+n	ddp	yes	amentia	inclusive
+n	om	no	homophile	inclusive
+n	cds	no	oddments	inclusive
+n	asf	no	blockhead	conservative
+n	dmc	yes	deception	conservative
+n	cds	no	chawbacon	conservative
+n	cds	no	conspiracy de silence	inclusive
+n	qas	no	castes	inclusive
+n	an	no	cayman	inclusive
+n	cds	no	aicme	inclusive
+n	ddp	yes	lout	conservative
+n	cds	no	droch-devil	conservative
+n	cds	no	throng	inclusive
+n	is	yes	scrooge	conservative
+n	an	no	dreancaid	inclusive
+n	re	no	mí-úsáid airgeadais	inclusive
+n	an	no	pudge	conservative
+n	cds	no	iasachtaí airgid	inclusive
+n	an	no	vultures	inclusive
+n	an	no	bedbugs	inclusive
+n	cds	no	amadán	conservative
+n	cds	no	bigot	conservative
+n	svp	no	liúdramán	conservative
+n	ps	yes	ostrogoth	inclusive
+n	ddp	yes	mountebank	conservative
+n	an	no	midge	inclusive
+n	re	no	gníomhú sceimhlitheoireachta	inclusive
+n	qas	no	kennels	inclusive
+n	qas	no	boo boo-	inclusive
+n	an	no	súmaire	inclusive
+n	dmc	yes	mímhorálta	inclusive
+n	cds	no	chiseller	conservative
+n	an	no	floozie	conservative
+n	asm	no	appendages	inclusive
+n	pa	yes	cuntasóirí	inclusive
+n	ddp	yes	damáiste inchinne	inclusive
+n	ddp	yes	twerp	conservative
+n	is	yes	ráta bochtaineachta	inclusive
+n	rci	yes	boor	conservative
+n	dmc	yes	buffoon	inclusive
+n	cds	no	protagonism	inclusive
+n	cds	no	eallach raiding	inclusive
+n	cds	no	cretin	inclusive
+n	cds	no	grúinse	inclusive
+n	pr	no	harlotry	inclusive
+n	pa	yes	coirp	inclusive
+n	re	no	feileoin	inclusive
+n	svp	no	ravenousness	conservative
+n	qas	no	lár-ioncam	inclusive
+n	an	no	bison bonasus	inclusive
+n	an	no	jackals	inclusive
+n	ddp	yes	bungler	conservative
+n	svp	no	bigoted	conservative
+n	dmc	yes	luachanna morálta	inclusive
+n	dmc	yes	fetor	conservative
+n	cds	no	maifia	conservative
+n	cds	no	cultúr gang	conservative
+n	ps	yes	leathcheann	conservative
+n	or	no	queer	conservative
+n	ddp	yes	lunkhead	conservative
+n	an	no	hoaxes	conservative
+n	qas	no	barbarous	conservative
+n	dmc	yes	cheater	conservative
+n	dmc	yes	vagrant	inclusive
+n	ps	yes	glaoigh	conservative
+n	om	no	daoine aeracha	inclusive
+n	ps	yes	fear black	inclusive
+n	om	no	lánúnas anal	inclusive
+n	cds	no	naíonán	inclusive
+n	re	no	ghníomh sceimhlitheoireachta	conservative
+n	qas	no	barúntachta	inclusive
+n	an	no	asail	inclusive
+n	an	no	nathair	conservative
+n	cds	no	casino gambling	inclusive
+n	ps	yes	darky	conservative
+n	qas	no	a thoghfaidh	conservative
+n	re	no	mí-úsáid cumhachta	inclusive
+n	dmc	yes	pseud	conservative
+n	cds	no	thievery	inclusive
+n	ps	yes	interspecific hibrideach	inclusive
+n	cds	no	abhcóideachta	inclusive
+a	is	yes	bocht	inclusive
+n	dmc	yes	abjection	inclusive
+n	pa	yes	dlíodóirí trialach	inclusive
+n	cds	no	fanatism	conservative
+n	an	no	buabhall	inclusive
+n	cds	no	fhios-é-gach	conservative
+n	asm	no	éirí	inclusive
+n	cds	no	comhfhreagraí	inclusive
+n	re	no	kidnapper	inclusive
+n	ddp	yes	dochtúir quack	conservative
+n	or	no	pudden-cheann	conservative
+n	cds	no	salach-suas	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	an	no	parrots	inclusive
+n	ddp	yes	dúr	conservative
+n	qas	no	boner	inclusive
+n	ps	yes	amadán	conservative
+n	cds	no	taoiseach	inclusive
+n	ddp	yes	tóin	conservative
+n	an	no	ignoramus	conservative
+n	re	no	fíochmhaireacht	inclusive
+n	cds	no	nosy-parker	conservative
+n	qas	no	melange	inclusive
+n	pa	yes	fishwife	inclusive
+n	an	no	coward	conservative
+n	an	no	éan oíche	inclusive
+n	asf	no	betise	conservative
+n	re	no	blackmailing	conservative
+n	cds	no	sonny boy	inclusive
+n	re	no	robálacha	inclusive
+n	cds	no	reprobate	conservative
+n	an	no	striapach	conservative
+n	dmc	yes	clown	inclusive
+n	qas	no	barbarians	conservative
+n	asm	no	saphead	conservative
+n	dmc	yes	faillitheoir	conservative
+n	svp	no	haughtiness	conservative
+n	is	yes	droch-devil	conservative
+n	cds	no	blowhard	conservative
+n	or	no	brassica rapa	inclusive
+n	cds	no	duine slovenly	conservative
+n	cds	no	leibide	conservative
+n	dmc	yes	yokel	conservative
+n	qas	no	tsochaí bourgeois comhaimseartha	inclusive
+n	cds	no	nua-naíoch	inclusive
+n	an	no	meiriceánach bíosún	inclusive
+n	asf	no	changelings	conservative
+n	cds	no	mhustar	inclusive
+n	dmc	yes	blackguard	conservative
+n	asm	no	teste	inclusive
+n	cds	no	oifigeach correctional	inclusive
+n	cds	no	comhfhreagraithe	inclusive
+n	svp	no	tightfistedness	conservative
+n	cds	no	hack liteartha	conservative
+n	or	no	homophile	conservative
+n	asm	no	píosa eireaball	conservative
+n	re	no	eallach raiding	inclusive
+n	an	no	fhios ag aon rud	conservative
+n	pr	no	john	inclusive
+n	svp	no	indolence	inclusive
+n	dmc	yes	trifler	conservative
+n	om	no	ventrolateral	inclusive
+n	cds	no	tattletale	conservative
+n	an	no	epifaunal	inclusive
+n	svp	no	trencherman	inclusive
+n	cds	no	outlawed	conservative
+n	cds	no	roguery	conservative
+n	dmc	yes	liar	inclusive
+n	asm	no	plandaí pise	inclusive
+n	re	no	plagiarizing	inclusive
+n	an	no	zooerasty	conservative
+n	dmc	yes	bigoted	conservative
+n	dmc	yes	delinquent óg	conservative
+n	ddp	yes	telltale	conservative
+n	dmc	yes	dea-do-aon rud	conservative
+n	cds	no	duffer	conservative
+n	or	no	oráiste dóite	inclusive
+n	cds	no	pandar	conservative
+n	qas	no	cadger	conservative
+n	an	no	ibeach	inclusive
+n	cds	no	slíbhín	conservative
+n	cds	no	homunculi	inclusive
+n	re	no	neonaticide	inclusive
+n	ps	yes	inkiness	inclusive
+n	cds	no	scrawler	conservative
+n	an	no	drúchtín	inclusive
+n	an	no	badhbh	inclusive
+n	re	no	furiousness	inclusive
+n	svp	no	abulia	inclusive
+n	ddp	yes	moron	inclusive
+n	re	no	droch-chóireáil	inclusive
+n	rci	yes	barbarous	conservative
+n	cds	no	ualaí	inclusive
+n	an	no	ulchabhán scread	inclusive
+n	re	no	sceimhlitheoirí	conservative
+n	dmc	yes	hypocrite	conservative
+n	an	no	corrmhíol	inclusive
+n	cds	no	loansharking	inclusive
+n	re	no	murderer	inclusive
+n	an	no	chruimheanna	inclusive
+n	om	no	crossdressing	inclusive
+n	ddp	yes	barbarians	conservative
+n	asf	no	fhaighin	conservative
+n	cds	no	gang sráide	inclusive
+n	cds	no	wiseacre	conservative
+n	an	no	macrofauna	inclusive
+n	re	no	buirgléir	inclusive
+n	is	yes	miser	conservative
+n	cds	no	míghníomh	inclusive
+n	an	no	gabhar ar bainne	inclusive
+n	svp	no	amour propre	conservative
+n	cds	no	parvenu	inclusive
+n	an	no	anura	inclusive
+n	cds	no	racketeer	inclusive
+n	pa	yes	aturnae	inclusive
+n	re	no	coireachta gnéis	inclusive
+n	re	no	villainous	conservative
+n	an	no	caiman	inclusive
+n	an	no	seilmide	inclusive
+n	re	no	mafiosi	conservative
+n	cds	no	dogmatism	conservative
+n	an	no	animalcules	inclusive
+n	asm	no	maxilliped	inclusive
+n	re	no	libeler	conservative
+n	asm	no	wank	conservative

@@ -1,0 +1,5149 @@
+pos	category	stereotype	lemma	level
+n	re	no	Мафиози	conservative
+n	svp	no	траншеекопатель	conservative
+n	cds	no	коллектор	inclusive
+n	qas	no	Церковь	inclusive
+n	an	no	animalculum	inclusive
+n	an	no	кляча	inclusive
+n	svp	no	гнев	conservative
+n	dmc	yes	не-счета	conservative
+n	cds	no	Папарацци	inclusive
+n	cds	no	скоморох	inclusive
+n	cds	no	Фундаменталистка	inclusive
+n	cds	no	ставленник	conservative
+n	ddp	yes	неграмотный	inclusive
+n	an	no	порочность	conservative
+n	cds	no	негодяй	inclusive
+n	om	no	Фенхель обыкновенный	inclusive
+n	om	no	Содомный грех	inclusive
+n	pr	no	Куртизанка	inclusive
+n	an	no	Полосатая неясыть	inclusive
+n	asf	no	тупица	conservative
+n	cds	no	туалеты	inclusive
+n	ddp	yes	Зэка	inclusive
+n	asm	no	Анатомия рыб	inclusive
+n	svp	no	скупердяй	inclusive
+n	dmc	yes	непоседа	inclusive
+n	cds	no	туалет	inclusive
+a	pa	yes	теоретические	inclusive
+n	cds	no	шалу́нья	inclusive
+n	qas	no	магнатов	inclusive
+n	ps	yes	черный	inclusive
+n	cds	no	процентщица	inclusive
+n	cds	no	воришка	conservative
+n	an	no	culex pipiens	inclusive
+n	ddp	yes	неведение	conservative
+n	cds	no	была закона	conservative
+n	asf	no	болван	conservative
+n	re	no	злоупотребление	inclusive
+n	ddp	yes	зверство	conservative
+n	an	no	Свинья домашняя	inclusive
+n	cds	no	престу́пник	inclusive
+n	svp	no	разврат	inclusive
+n	asm	no	Яички	inclusive
+a	ddp	yes	тупоумный	conservative
+n	svp	no	скука	inclusive
+n	asm	no	пенис	inclusive
+n	qas	no	Конформисты	inclusive
+n	ddp	yes	жо́па	conservative
+n	cds	no	Гангста	inclusive
+n	re	no	налет	inclusive
+n	asm	no	vicia конских	inclusive
+n	cds	no	общественная польза	inclusive
+n	cds	no	ротозей	conservative
+n	ddp	yes	глупость	inclusive
+n	dmc	yes	перебежчик	conservative
+n	cds	no	общественных туалетах	inclusive
+a	or	no	взыскательный	conservative
+n	cds	no	бездельник	conservative
+a	cds	no	соображающий	inclusive
+n	cds	no	сброд	conservative
+n	cds	no	фундаменталистский	inclusive
+v	asm	no	насмехаться	inclusive
+n	asm	no	зеленого горошка	inclusive
+n	re	no	Террорист	inclusive
+n	cds	no	Сциентизм	inclusive
+n	qas	no	Смесь	inclusive
+n	cds	no	воровские	inclusive
+n	an	no	гусыня	inclusive
+n	qas	no	профессионального класса	inclusive
+n	cds	no	дворняга	inclusive
+v	cds	no	лепетать	inclusive
+n	cds	no	omerta	inclusive
+n	cds	no	schoolma'am	conservative
+n	qas	no	Металлический лом	inclusive
+n	cds	no	фашистка	conservative
+n	om	no	растлитель	conservative
+n	ddp	yes	Герпетофауна	inclusive
+n	an	no	Глупость	conservative
+n	dmc	yes	развратник	conservative
+n	an	no	Микробы	inclusive
+n	pa	yes	глашатай	inclusive
+n	cds	no	Грудной ребёнок	inclusive
+n	re	no	него́дница	inclusive
+n	an	no	branta bernicla	inclusive
+n	an	no	Виперы	inclusive
+n	cds	no	Нототаксон	inclusive
+n	cds	no	суетиться	conservative
+n	ddp	yes	узник	inclusive
+n	re	no	уголовное преступление	inclusive
+n	re	no	шантажировал	conservative
+n	an	no	Псарня	inclusive
+n	asm	no	Уздечка полового члена	inclusive
+n	qas	no	Крестьянство	inclusive
+n	qas	no	брехня	conservative
+n	pr	no	Придворные чины	inclusive
+n	qas	no	варна	inclusive
+n	an	no	culicidae	inclusive
+n	svp	no	безде́льница	conservative
+n	an	no	blattaria	inclusive
+n	ddp	yes	ябеда	conservative
+n	cds	no	сточная труба	inclusive
+n	an	no	Чёрные казарки	inclusive
+n	cds	no	трагический злодей	conservative
+n	qas	no	Индийские касты	inclusive
+n	cds	no	реликвия	inclusive
+n	pa	yes	мужла́н	conservative
+n	dmc	yes	бандитов	inclusive
+n	an	no	Пес	inclusive
+n	or	no	Гигантская тыква	inclusive
+n	ps	yes	китаец	inclusive
+n	cds	no	преступный	inclusive
+n	qas	no	любительница	inclusive
+n	cds	no	баловни́ца	inclusive
+n	ps	yes	перевертыш	conservative
+n	cds	no	каракуля	inclusive
+n	re	no	изнасилование по статутному праву	inclusive
+n	ddp	yes	жестокость	inclusive
+n	an	no	bos taurus	inclusive
+n	cds	no	тюфя́к	conservative
+a	is	yes	несча́стный	inclusive
+n	dmc	yes	обмана	conservative
+n	an	no	Мистификация	conservative
+n	ps	yes	Грейтунги	inclusive
+n	pr	no	проститу́т	conservative
+n	cds	no	прока́зник	conservative
+n	cds	no	ло́дырь	conservative
+n	asf	no	олух	conservative
+v	an	no	неистовствовать	conservative
+n	an	no	трусом	conservative
+n	an	no	оговорка	inclusive
+n	cds	no	напыщенность	inclusive
+n	ps	yes	Метэки	inclusive
+a	svp	no	скупо́й	conservative
+n	dmc	yes	странник	inclusive
+n	an	no	Бесхвостые амфибии	inclusive
+n	ps	yes	Черный	inclusive
+n	cds	no	лукавство	conservative
+n	cds	no	боягу́з	conservative
+n	ddp	yes	распространитель слухов	conservative
+n	an	no	размазня́	conservative
+n	an	no	ovis овен	inclusive
+n	asf	no	простофиля	conservative
+n	re	no	пытка	inclusive
+n	cds	no	подхалим	conservative
+n	cds	no	бордель	inclusive
+n	cds	no	чернь	conservative
+n	re	no	10 заповедей Коза ностра	conservative
+n	an	no	сосать вшей	inclusive
+n	an	no	репродукция животных	inclusive
+n	pr	no	корова	conservative
+n	pr	no	Проститутка	conservative
+n	qas	no	Архитектура барокко	inclusive
+n	re	no	негодяй	conservative
+n	cds	no	wangler	conservative
+n	om	no	пету́х	inclusive
+n	an	no	чернь	conservative
+a	is	yes	неуда́чливый	inclusive
+n	qas	no	Аколиты	inclusive
+n	cds	no	почвы	inclusive
+n	svp	no	себялюбие	conservative
+n	cds	no	брак брокера	inclusive
+n	cds	no	суета́	conservative
+n	qas	no	Аколуфы	inclusive
+n	cds	no	Конспирология	inclusive
+n	re	no	прока́зница	inclusive
+n	re	no	traducement	inclusive
+n	ddp	yes	дуралей	conservative
+a	re	no	яростный	inclusive
+n	qas	no	промышленников	inclusive
+n	dmc	yes	Гражданское правонарушение	inclusive
+n	cds	no	оговорка	inclusive
+n	ps	yes	Наконечный, Виталий	inclusive
+n	an	no	дидли-приземистых	conservative
+n	asm	no	дурачина	inclusive
+n	qas	no	идеолог	inclusive
+n	ps	yes	Монголоид	conservative
+n	cds	no	общественная уборная	inclusive
+n	asm	no	стояк	inclusive
+n	an	no	куркуль	conservative
+n	cds	no	пострелёнок	conservative
+n	dmc	yes	bumbler	conservative
+n	cds	no	Публичный дом	inclusive
+a	qas	no	сентиментальный	conservative
+n	is	yes	Нищеброд	inclusive
+n	an	no	красного барабана	inclusive
+n	asf	no	увалень	conservative
+n	asf	no	небольшое количество	inclusive
+n	om	no	трансвеститы	inclusive
+n	ddp	yes	долбоёб	conservative
+n	dmc	yes	сквернословить	conservative
+n	or	no	пету́х	conservative
+n	cds	no	разгильдяй	conservative
+n	cds	no	мафии	conservative
+n	an	no	Коровы	inclusive
+n	cds	no	масоны	inclusive
+n	re	no	Морские разбойники	inclusive
+n	dmc	yes	бандит	conservative
+n	an	no	недотёпа	conservative
+n	ddp	yes	неумный человек	conservative
+n	an	no	дрянь	conservative
+n	cds	no	канализации	inclusive
+n	cds	no	мощи	inclusive
+n	an	no	домовый сыч	inclusive
+n	dmc	yes	Трикстер	conservative
+n	svp	no	ло́дырь	conservative
+n	om	no	подошвенной	inclusive
+n	svp	no	aboulia	inclusive
+n	cds	no	фараон	conservative
+n	qas	no	сволочь	conservative
+n	asm	no	Анатомическое строение рыбы	inclusive
+n	cds	no	младенцев	inclusive
+n	cds	no	superbia	conservative
+n	or	no	meticulosity	inclusive
+n	asm	no	дебил	inclusive
+n	qas	no	бизнесмен	inclusive
+n	cds	no	Бандитизм	inclusive
+n	pa	yes	грубиян	conservative
+n	or	no	посевной	inclusive
+n	cds	no	высокомерие	inclusive
+n	an	no	изгоев	conservative
+v	cds	no	объе́сться	inclusive
+n	re	no	жулик	inclusive
+n	an	no	Тараканы	inclusive
+n	svp	no	скупость	conservative
+n	dmc	yes	Самооговор	inclusive
+n	ddp	yes	blockhead	conservative
+n	an	no	скоти́на	inclusive
+n	ps	yes	болгарка	inclusive
+n	cds	no	Коза ностра	inclusive
+n	ddp	yes	приду́рок	conservative
+n	or	no	балбес	conservative
+n	re	no	мучителя	inclusive
+n	re	no	конокрад	inclusive
+n	om	no	фе́нхель	inclusive
+n	dmc	yes	него́дник	inclusive
+v	an	no	лаять	inclusive
+n	ps	yes	Иудей	inclusive
+n	cds	no	Сутенерство	conservative
+n	om	no	пе́дик	inclusive
+n	an	no	Комар обыкновенный	inclusive
+n	dmc	yes	самозванец	conservative
+a	ddf	yes	скверный	inclusive
+n	an	no	Телка	inclusive
+n	cds	no	правонарушитель	inclusive
+n	ps	yes	Селекция растений	inclusive
+n	om	no	Гомофилия	conservative
+n	pa	yes	контролера	inclusive
+n	om	no	tooshie	inclusive
+n	om	no	shirtlifter	inclusive
+n	cds	no	непра́вда	conservative
+n	cds	no	приду́рок	conservative
+n	qas	no	Благородная ложь	conservative
+n	cds	no	разбойников	inclusive
+n	om	no	содомит	conservative
+a	ddp	yes	невкусный	inclusive
+n	ddp	yes	быдло	conservative
+n	ddp	yes	балда	inclusive
+n	re	no	‪Пытка‬	inclusive
+n	ps	yes	человек смешанной расы	conservative
+n	pa	yes	коридорный	inclusive
+n	cds	no	сыно́к	inclusive
+n	svp	no	жмот	inclusive
+n	ps	yes	Метэк	inclusive
+n	an	no	Нательные вши	inclusive
+n	ddp	yes	пленник	inclusive
+n	cds	no	массы	inclusive
+n	an	no	скорпион	inclusive
+n	an	no	gyps fulvus	inclusive
+n	cds	no	кража	inclusive
+n	dmc	yes	деликт	inclusive
+n	qas	no	Конформистская	inclusive
+n	om	no	гомосексуальный	conservative
+n	dmc	yes	мошенник	conservative
+n	ddp	yes	пудинг головы	conservative
+n	svp	no	Похабность	inclusive
+n	svp	no	спесь	conservative
+n	pr	no	Блудница	conservative
+n	dmc	yes	малолетний преступник	conservative
+n	ddp	yes	неуч	conservative
+n	cds	no	rustler	inclusive
+n	qas	no	ведущий бизнесмен	inclusive
+n	qas	no	гнусная ложь	conservative
+n	ps	yes	тупица	conservative
+n	cds	no	ростовщичество	conservative
+n	qas	no	обрывки	inclusive
+n	om	no	homophile	conservative
+n	an	no	быдло	conservative
+n	cds	no	Сутенёрство	conservative
+n	dmc	yes	отверженный	inclusive
+n	cds	no	шеф	inclusive
+n	cds	no	дрочить	conservative
+n	or	no	мускатной тыквы	inclusive
+n	cds	no	забаллотировать	inclusive
+n	an	no	gigantostraca	inclusive
+n	asm	no	vicia faba	inclusive
+n	an	no	коза́	inclusive
+n	asf	no	глупость	conservative
+n	ddp	yes	олух	conservative
+n	ps	yes	джерри	conservative
+n	cds	no	преступников	inclusive
+n	re	no	мошенник	conservative
+n	asm	no	хер	inclusive
+n	dmc	yes	враньё	inclusive
+n	pa	yes	Академик	inclusive
+n	pa	yes	пропагандирующей	inclusive
+a	ddf	yes	стра́шный	conservative
+n	re	no	Категоризация преступлений	inclusive
+n	or	no	сквош лозы	inclusive
+n	om	no	Трансвестизм двойной роли	inclusive
+n	an	no	крокодил	inclusive
+n	om	no	ле́сби	conservative
+n	cds	no	грязь	inclusive
+n	qas	no	bloodhound	inclusive
+n	qas	no	неправда	conservative
+n	an	no	клоп-черепашка	inclusive
+n	om	no	пе́дик	conservative
+n	ps	yes	грубиянка	conservative
+n	svp	no	7 смертных грехов	inclusive
+n	om	no	контралатеральной	inclusive
+n	an	no	сова	inclusive
+n	pa	yes	академия	inclusive
+n	ddp	yes	инфауны	inclusive
+n	cds	no	Реакционер	conservative
+n	pa	yes	Бонза	inclusive
+n	qas	no	бомж	conservative
+n	cds	no	замедлять	inclusive
+n	ddp	yes	Олигофрения	inclusive
+n	ddp	yes	неосведомлённость	conservative
+n	dmc	yes	притворщик	conservative
+n	qas	no	выдумка	conservative
+n	ps	yes	глупец	conservative
+n	re	no	Налетчик	inclusive
+n	asf	no	пизда	conservative
+n	an	no	Домашняя собака	inclusive
+n	an	no	Мягкотелые	inclusive
+n	or	no	картошка	inclusive
+n	pr	no	куртизанки	inclusive
+n	cds	no	быдло	conservative
+n	pr	no	любовник	inclusive
+n	asm	no	nookie	conservative
+n	re	no	финансовые злоупотребления	inclusive
+n	re	no	истязание	inclusive
+n	cds	no	Ндрангета	inclusive
+n	asm	no	отро́сток	inclusive
+n	cds	no	колыма́га	inclusive
+n	asm	no	идиотка	inclusive
+n	pr	no	Крысы	inclusive
+n	re	no	итальянской мафии	conservative
+n	dmc	yes	бродяжничество	inclusive
+n	dmc	yes	шалу́нья	inclusive
+n	asf	no	манда	conservative
+n	or	no	дуралей	conservative
+n	asf	no	Дебильность	conservative
+n	qas	no	Джати	inclusive
+n	qas	no	отбросы	inclusive
+n	ddp	yes	Идиотизм	conservative
+n	an	no	фи́лин	inclusive
+n	cds	no	фальшь	conservative
+n	pa	yes	Служитель	inclusive
+n	an	no	мотылёк	inclusive
+n	om	no	анального проникновения	inclusive
+n	an	no	sciaenops ocellatus	inclusive
+n	an	no	семья anguillidae	inclusive
+n	ddf	yes	Инвалид ii группы	inclusive
+n	asf	no	мокрощёлка	conservative
+n	cds	no	Движения за независимость Чехословакии	inclusive
+v	re	no	красть	inclusive
+n	cds	no	салага	conservative
+n	pr	no	наложниц	inclusive
+n	svp	no	энергичность	inclusive
+n	ddp	yes	простофиля	conservative
+n	an	no	little owl	inclusive
+n	pr	no	любовница	conservative
+n	dmc	yes	ше́льма	inclusive
+n	cds	no	отряд	inclusive
+n	re	no	нарушение закона	inclusive
+n	cds	no	бандиты	conservative
+n	re	no	Сексуальное злоупотребление	inclusive
+n	an	no	большая белая акула	inclusive
+n	svp	no	усердие	inclusive
+n	an	no	familiaris	inclusive
+n	dmc	yes	Враньё	inclusive
+n	svp	no	куркуль	conservative
+n	re	no	Коза Ностра	conservative
+n	cds	no	лентя́й	conservative
+n	cds	no	мусор	conservative
+n	qas	no	иллюзия	inclusive
+n	asf	no	дурак	conservative
+n	an	no	хищник	conservative
+n	asm	no	Эректильные органы	inclusive
+n	cds	no	мазня	inclusive
+n	cds	no	межродовых гибрид	inclusive
+n	an	no	общая гадюка	inclusive
+n	ddp	yes	кретин	inclusive
+n	ps	yes	бедуин	inclusive
+n	qas	no	Медведи	inclusive
+n	qas	no	предпринимательница	inclusive
+n	qas	no	бродяга	conservative
+n	cds	no	рывок-офф	conservative
+n	an	no	улитка	inclusive
+n	dmc	yes	странница	inclusive
+n	cds	no	легавый	inclusive
+a	ddf	yes	плохо	inclusive
+n	cds	no	мафия	inclusive
+n	an	no	некомпетентный человек	conservative
+v	re	no	надувать	inclusive
+n	asm	no	avafauna	inclusive
+n	asm	no	рыбы	inclusive
+n	cds	no	шалу́н	inclusive
+n	re	no	10 заповедей Коза ностра	inclusive
+n	cds	no	брехня	inclusive
+n	om	no	гомосексуали́ст	inclusive
+n	svp	no	dillydallier	conservative
+n	dmc	yes	Квазиделикт	inclusive
+n	re	no	итальянская мафия	conservative
+n	cds	no	дрянь	conservative
+n	asm	no	тра́ханье	conservative
+n	cds	no	дебил	inclusive
+a	svp	no	распущенный	conservative
+n	pr	no	бабенка	conservative
+n	pr	no	куртизанок	inclusive
+n	om	no	мужчин-гомосексуалистов	inclusive
+n	om	no	вентролатеральной	inclusive
+n	cds	no	дрочка	conservative
+n	an	no	разиня	conservative
+n	pr	no	мужской эскорт	conservative
+n	an	no	Моллюски	inclusive
+n	qas	no	экипаж	inclusive
+n	cds	no	Бытовые отходы	conservative
+n	cds	no	шпионить	conservative
+n	cds	no	инструктор	inclusive
+a	is	yes	несчастным	inclusive
+n	cds	no	самовлюбленный	inclusive
+n	ddp	yes	увалень	inclusive
+n	an	no	Слизни	inclusive
+n	ddp	yes	валять дурака	conservative
+n	ddp	yes	дуралей	inclusive
+n	cds	no	кутерьма	inclusive
+n	cds	no	трусость	conservative
+n	om	no	мадам	inclusive
+n	dmc	yes	motley fool	inclusive
+n	an	no	старый свет буйвола	inclusive
+n	an	no	нападение акулы	inclusive
+n	re	no	Похищение человека	inclusive
+n	ps	yes	монгольский	inclusive
+n	dmc	yes	разиня	conservative
+n	an	no	нахмуриться	inclusive
+n	an	no	canis familiaris	inclusive
+n	is	yes	бедняга	conservative
+n	an	no	фауна	inclusive
+n	ps	yes	Скрытая экономика	inclusive
+n	svp	no	Блуд	inclusive
+n	svp	no	лентяй	conservative
+n	ddp	yes	болтушка	conservative
+n	cds	no	Санитарный узел	inclusive
+a	cds	no	протухший	inclusive
+n	ddp	yes	зверство	inclusive
+n	an	no	род pipistrellus	inclusive
+n	is	yes	жмот	conservative
+n	cds	no	буффонады	inclusive
+n	ddp	yes	zooerastia	conservative
+v	asm	no	пердолить	conservative
+n	an	no	жестокость	inclusive
+n	cds	no	Угон скота	inclusive
+n	an	no	Степной осел	inclusive
+n	dmc	yes	подлая	conservative
+n	an	no	Козел	inclusive
+n	or	no	Квир-идентичность	conservative
+n	cds	no	заносчивость	conservative
+n	cds	no	полицейская	inclusive
+n	qas	no	Барахло	inclusive
+n	cds	no	умник	conservative
+n	cds	no	Твёрдые бытовые отходы	inclusive
+n	or	no	олух	conservative
+n	pr	no	проституток	inclusive
+n	cds	no	бытовых отходов	inclusive
+n	asf	no	цыпочка	conservative
+n	qas	no	баронский	inclusive
+n	cds	no	дно жизни	conservative
+n	cds	no	вне закона	conservative
+n	an	no	иша́к	inclusive
+n	cds	no	perspicaciousness	inclusive
+n	ddp	yes	pudden головы	conservative
+n	qas	no	Пасторат	inclusive
+n	qas	no	Приход	inclusive
+n	an	no	Нетель	inclusive
+n	svp	no	никчёмный	conservative
+n	cds	no	Гранджеры	inclusive
+n	an	no	червяк	inclusive
+n	cds	no	ботан	conservative
+a	svp	no	корыстолюби́вый	conservative
+n	cds	no	бачок с питьевой водой	inclusive
+n	an	no	пошлость	conservative
+n	cds	no	жулик	conservative
+n	re	no	аферист	inclusive
+n	is	yes	бедные люди	inclusive
+n	cds	no	Лгун	inclusive
+n	or	no	дурачина	conservative
+n	ps	yes	чернота	inclusive
+n	cds	no	за исключением	inclusive
+n	ddf	yes	горбатый	inclusive
+n	cds	no	болван	conservative
+n	om	no	Гомофил	conservative
+n	asm	no	ballock	inclusive
+n	re	no	Уголовное преступление	inclusive
+n	qas	no	промах	inclusive
+n	rci	yes	хамка	conservative
+n	ddf	yes	горбун	inclusive
+n	ddp	yes	глупый человек	conservative
+n	cds	no	преступление	inclusive
+n	cds	no	Вольный каменщик	inclusive
+n	an	no	европейским жаба	inclusive
+n	cds	no	изгоев	conservative
+n	ddp	yes	microcephalus	inclusive
+n	pa	yes	советник-посланник	inclusive
+n	ddp	yes	осведомитель	conservative
+n	cds	no	Дом терпимости	inclusive
+n	dmc	yes	scattergood	inclusive
+n	an	no	акулы	inclusive
+n	cds	no	тупике	inclusive
+n	or	no	огурец	inclusive
+n	svp	no	жадность	conservative
+n	svp	no	Атимормия	inclusive
+n	cds	no	сплетни	inclusive
+n	re	no	slayer	inclusive
+n	cds	no	Преступления	inclusive
+n	ps	yes	скрещивании	inclusive
+n	om	no	вентральной	inclusive
+n	or	no	влагалище	conservative
+n	or	no	Гомофильное движение	conservative
+n	or	no	гомосе́к	conservative
+n	cds	no	варвар	conservative
+n	an	no	volaille	inclusive
+n	dmc	yes	дно жизни	conservative
+n	qas	no	обман	conservative
+n	qas	no	детектив	inclusive
+n	ddp	yes	мудак	conservative
+n	an	no	козел отпущения	conservative
+n	ps	yes	народа зулу	inclusive
+n	ps	yes	Гибриды	inclusive
+n	re	no	малолетний преступник	conservative
+n	cds	no	Парафашизм	conservative
+n	cds	no	воровство	inclusive
+n	om	no	миг	conservative
+n	qas	no	Табиин	inclusive
+n	an	no	боров	inclusive
+n	dmc	yes	негодяйка	conservative
+n	an	no	crocodylidae	inclusive
+n	pa	yes	посыльный	inclusive
+n	pr	no	Блудница	inclusive
+n	re	no	террористический акт	inclusive
+n	cds	no	Реакционность	conservative
+n	re	no	шантажировать	conservative
+n	cds	no	папарацци	inclusive
+n	or	no	фе́нхель	inclusive
+n	re	no	Флибустьеры	inclusive
+n	ddp	yes	ротозей	conservative
+n	ddp	yes	пленница	inclusive
+n	an	no	rouncey	inclusive
+n	qas	no	работа по дому	inclusive
+n	an	no	домашних овец	inclusive
+n	dmc	yes	моцарелла	inclusive
+n	asf	no	идиот	conservative
+n	cds	no	То	inclusive
+n	svp	no	Афродизия	inclusive
+n	an	no	mollusca	inclusive
+n	cds	no	эстрадных певцов	inclusive
+n	cds	no	нувориш	inclusive
+n	cds	no	Раубриттер	inclusive
+n	cds	no	полукро́вка	inclusive
+n	cds	no	мешанина	inclusive
+n	svp	no	скупость	inclusive
+a	an	no	вшивый	inclusive
+n	qas	no	баронов	inclusive
+n	qas	no	судовладельца	inclusive
+n	asf	no	валять дурака	conservative
+n	re	no	мошенник	inclusive
+n	re	no	точных	inclusive
+n	ddp	yes	бессмысленными	conservative
+n	svp	no	скупе́ц	conservative
+n	ddp	yes	хам	conservative
+n	an	no	Физиономия	inclusive
+n	qas	no	поле рукой	inclusive
+n	an	no	Ракоскорпион	inclusive
+n	qas	no	грубиянка	conservative
+n	pa	yes	доцент	inclusive
+n	pr	no	придворных	inclusive
+n	re	no	похищение людей	inclusive
+n	cds	no	альфонс	inclusive
+a	ps	yes	ханьский	inclusive
+n	cds	no	фратрия	inclusive
+n	ddp	yes	Малоумие	inclusive
+n	dmc	yes	веселый андрей	inclusive
+n	an	no	Эскарго	inclusive
+n	ddp	yes	Зек	inclusive
+n	asf	no	девушка	conservative
+n	asm	no	горох	inclusive
+n	ps	yes	метис	conservative
+n	cds	no	чертёнок	inclusive
+n	qas	no	арендатора	inclusive
+n	re	no	Итальянская мафия	conservative
+n	re	no	злоупотребление служебным положением	inclusive
+a	ps	yes	негритянский	inclusive
+n	ddp	yes	идиотка	inclusive
+n	re	no	угонщик скота	inclusive
+n	ps	yes	балда	conservative
+n	qas	no	обычный человек	inclusive
+n	an	no	ярость	inclusive
+n	cds	no	домушница	inclusive
+n	cds	no	ростовщик	conservative
+n	pa	yes	скряга	conservative
+n	an	no	animalia	inclusive
+n	cds	no	преступница	inclusive
+n	an	no	клещ	inclusive
+n	qas	no	варварским	conservative
+n	qas	no	высокопарность	inclusive
+n	re	no	Жулик	inclusive
+n	ps	yes	иудаи́зм	inclusive
+n	asm	no	Шоколадный цвет	inclusive
+n	ps	yes	тические	inclusive
+n	cds	no	дурачина	conservative
+n	svp	no	праздности	inclusive
+n	dmc	yes	бродяг	conservative
+n	asf	no	muttonhead	conservative
+n	cds	no	Ханжа	conservative
+n	re	no	Развращение	inclusive
+n	cds	no	себялюбие	conservative
+n	dmc	yes	гангстер	inclusive
+n	pa	yes	профессор	inclusive
+n	an	no	Суки	inclusive
+n	om	no	Аборальный	inclusive
+n	pr	no	куртизанка	inclusive
+n	an	no	сквернословить	conservative
+n	cds	no	масон	inclusive
+n	an	no	белая акула	inclusive
+n	dmc	yes	престу́пник	inclusive
+n	an	no	жирный	conservative
+n	pr	no	мужчина-проститутка	conservative
+n	re	no	убийств	inclusive
+n	qas	no	домашнее хозяйство	inclusive
+n	svp	no	gourmandizer	inclusive
+n	dmc	yes	невежливость	conservative
+n	an	no	Козёл домашний	inclusive
+a	cds	no	хитрый	conservative
+n	ddp	yes	заключенный	inclusive
+n	asf	no	Дурачок	conservative
+n	an	no	микроорганизм	inclusive
+n	re	no	мучитель	inclusive
+n	ddp	yes	предательский	conservative
+n	is	yes	Неимущие	inclusive
+n	cds	no	нагрузках	inclusive
+n	cds	no	боя́ка	conservative
+n	om	no	педерастии	inclusive
+a	qas	no	привычный	inclusive
+n	cds	no	обилие	inclusive
+n	pr	no	Гомосексуальная мужская проституция	conservative
+n	qas	no	яйцо	inclusive
+n	re	no	является преступлением только	inclusive
+n	re	no	похитителей	inclusive
+n	cds	no	престу́пник	conservative
+n	pr	no	слабый	conservative
+n	cds	no	ragtag	conservative
+n	an	no	Ягнята	inclusive
+n	om	no	гомосексуа́л	conservative
+a	om	no	ненормальный	inclusive
+n	qas	no	классической риторики	inclusive
+n	om	no	педерастия	inclusive
+n	cds	no	Сё	inclusive
+n	cds	no	подонок	conservative
+n	or	no	странный	conservative
+n	dmc	yes	коротышка	conservative
+n	ps	yes	китайцы	inclusive
+n	ddp	yes	кретин	conservative
+n	ps	yes	Монголоидная раса	conservative
+n	cds	no	полицейский	inclusive
+n	an	no	strigiformes	inclusive
+n	an	no	ovis aries	inclusive
+n	pa	yes	работник	inclusive
+v	qas	no	запороть	conservative
+n	asm	no	хуй	inclusive
+n	qas	no	дилетант	conservative
+a	ddf	yes	хромать	inclusive
+n	ps	yes	Бедуины	inclusive
+n	or	no	Кочанная капуста	inclusive
+n	ps	yes	лох	conservative
+n	pa	yes	мужлан	conservative
+v	asm	no	осмеивать	inclusive
+n	om	no	булочки	inclusive
+n	an	no	попугаев	inclusive
+n	om	no	Анальная пенетрация	inclusive
+n	is	yes	уровень бедности	inclusive
+n	pr	no	женщина-соучастница блуда	conservative
+n	re	no	Киднепинг	inclusive
+n	cds	no	taleteller	conservative
+n	qas	no	псаломщик	inclusive
+n	an	no	insecta	inclusive
+n	an	no	мясного скота	inclusive
+n	pr	no	пистолет минор	inclusive
+n	re	no	пытки	inclusive
+n	pr	no	Женщина лёгкого поведения	inclusive
+n	re	no	киллер	inclusive
+n	cds	no	потворствовать	inclusive
+n	om	no	лесбия́нка	inclusive
+n	cds	no	Самооговор	inclusive
+n	cds	no	conspiracism	inclusive
+n	asm	no	яйцеклетка	inclusive
+a	ddp	yes	безвкусный	inclusive
+n	or	no	го́мик	conservative
+n	cds	no	лис	conservative
+n	an	no	Классификация животных	inclusive
+n	or	no	cucurbita maxima	inclusive
+n	an	no	mallophaga	inclusive
+n	cds	no	очень большое количество	inclusive
+n	cds	no	Штрейкбрехеры	inclusive
+n	ps	yes	грубый	conservative
+n	cds	no	отара	inclusive
+v	asm	no	обмануть	conservative
+n	qas	no	Паразит	inclusive
+n	pr	no	Легализация проституции	conservative
+n	cds	no	Сутенер	inclusive
+n	cds	no	твердых отходов	inclusive
+n	cds	no	Кин	inclusive
+n	dmc	yes	подделок	inclusive
+n	ps	yes	евреев	inclusive
+a	qas	no	приходской	inclusive
+n	pa	yes	Дипломатические ранги	inclusive
+n	pr	no	Куртизанки	inclusive
+n	ddp	yes	осёл	conservative
+n	or	no	придурок	conservative
+n	an	no	selachimorpha	inclusive
+n	ddp	yes	заключённый	inclusive
+n	ddp	yes	fuckhead	conservative
+n	cds	no	малодушный	conservative
+n	cds	no	лоботря́с	conservative
+n	cds	no	японских единиц измерения	inclusive
+n	ddp	yes	аменция	inclusive
+n	pr	no	содержанка	conservative
+n	qas	no	яйцеклетка	inclusive
+n	om	no	Укроп аптечный	inclusive
+n	ddf	yes	калека	inclusive
+n	ps	yes	фашист	inclusive
+n	ddp	yes	Живность	inclusive
+n	an	no	толстушка	conservative
+n	ps	yes	Метойки	inclusive
+n	an	no	акула	inclusive
+n	an	no	зайчики	inclusive
+n	cds	no	бздун	conservative
+n	ps	yes	монго́л	inclusive
+n	asf	no	дурачина	conservative
+n	an	no	crocodylia	inclusive
+n	ddf	yes	увечье	inclusive
+n	re	no	Грабёж	inclusive
+n	om	no	Медиальный	inclusive
+n	re	no	крупного рогатого скота вор	inclusive
+n	cds	no	самопоклонение	inclusive
+a	svp	no	корыстолюби́вый	inclusive
+a	is	yes	гру́стный	inclusive
+n	dmc	yes	Киноляп	inclusive
+n	qas	no	Кастовое устройство	inclusive
+n	cds	no	Реакционизм	conservative
+n	om	no	драг-королева	inclusive
+n	pr	no	Проститутка	inclusive
+n	om	no	Гомосексуалист	inclusive
+n	qas	no	металлические отходы	inclusive
+a	ddf	yes	нехороший	inclusive
+n	cds	no	Селекция растений	inclusive
+n	an	no	зверство	conservative
+n	qas	no	беспорядок	inclusive
+n	dmc	yes	defrauder	conservative
+n	cds	no	малолетний преступник	conservative
+n	dmc	yes	Моцарела	inclusive
+a	qas	no	мелодраматический	inclusive
+n	cds	no	сброда и бобтейл	conservative
+n	cds	no	мальчонка	inclusive
+n	is	yes	скря́га	conservative
+n	cds	no	просчёт	inclusive
+n	ps	yes	Метисы	conservative
+n	pr	no	жу́лик	conservative
+n	asm	no	faba faba	inclusive
+n	qas	no	кутерьма	inclusive
+n	dmc	yes	фальшивый	conservative
+n	dmc	yes	неприятный запах	conservative
+n	cds	no	лентяйка	conservative
+n	re	no	мошенница	inclusive
+n	asm	no	фалл	inclusive
+n	asm	no	онанизм	conservative
+n	qas	no	мешанина	inclusive
+n	qas	no	бузотёр	conservative
+n	an	no	Кровососущие комары	inclusive
+n	cds	no	Моммэ	inclusive
+n	qas	no	риторическим	inclusive
+n	pa	yes	адвока́т	inclusive
+n	dmc	yes	фанатичным	conservative
+n	ddf	yes	Степени инвалидности	inclusive
+n	svp	no	скупец	conservative
+n	an	no	hemipteran	inclusive
+n	re	no	Гангста	inclusive
+n	svp	no	скря́га	inclusive
+n	an	no	москит	inclusive
+n	re	no	Пиратство	inclusive
+v	asm	no	выебать	conservative
+n	an	no	ночная бабочка	inclusive
+n	an	no	обмолвка	inclusive
+n	ps	yes	черный человек	inclusive
+a	qas	no	обы́чный	inclusive
+n	om	no	Драг-квины	inclusive
+n	an	no	equus asinus asinus	inclusive
+n	an	no	скря́га	conservative
+n	an	no	зверство	inclusive
+n	cds	no	Санузел	inclusive
+v	re	no	одурачить	inclusive
+n	an	no	ничего не знаю	conservative
+a	svp	no	надме́нный	conservative
+n	is	yes	неприкасаемый	inclusive
+n	an	no	hemipteron	inclusive
+n	cds	no	Враньё	inclusive
+n	an	no	белоголовый сип	inclusive
+n	svp	no	скаредность	inclusive
+n	an	no	Шакал обыкновенный	inclusive
+n	qas	no	Бык	inclusive
+n	pr	no	сожительство	inclusive
+n	an	no	pediculus humanus	inclusive
+n	om	no	derriere	inclusive
+n	an	no	Крокодиловые	inclusive
+n	asm	no	betise	conservative
+n	re	no	насильники	conservative
+n	an	no	canis золотистый	inclusive
+n	cds	no	Чешская мафия	conservative
+n	an	no	Настоящие комары	inclusive
+n	an	no	халтура	conservative
+n	cds	no	объем	inclusive
+n	ddp	yes	разиня	conservative
+n	re	no	порочение	inclusive
+n	an	no	крупный рогатый скот	inclusive
+a	dmc	yes	гнусный	conservative
+n	asm	no	бобы	inclusive
+n	ddp	yes	отморо́зок	conservative
+n	cds	no	шалость	conservative
+n	ps	yes	остготов	inclusive
+n	an	no	betise	conservative
+n	ps	yes	странник	inclusive
+n	an	no	Мехоеды	inclusive
+n	cds	no	штрейкбрехер	inclusive
+n	qas	no	сброд	conservative
+n	cds	no	самоуверенность	inclusive
+n	an	no	Горный козел	inclusive
+n	cds	no	отходы	conservative
+n	om	no	супруга пэра	inclusive
+n	om	no	каудально	inclusive
+n	an	no	жопочник	conservative
+n	qas	no	Буржуазный	inclusive
+a	is	yes	скудный	inclusive
+n	re	no	Категории преступлений	inclusive
+n	cds	no	первосвященник	inclusive
+n	dmc	yes	приличия	inclusive
+n	cds	no	дом с дурной репутацией	inclusive
+n	cds	no	нерд	conservative
+n	cds	no	ndrangheta	inclusive
+n	pr	no	проститутка	inclusive
+n	cds	no	Рыцари-разбойники	inclusive
+n	svp	no	непристойные	inclusive
+n	an	no	непримиримость	conservative
+n	an	no	Домовый сыч	inclusive
+n	re	no	рэкет	conservative
+n	cds	no	литературный раб	conservative
+n	cds	no	разбойница	inclusive
+n	dmc	yes	ханжа	conservative
+a	cds	no	напряжённый	conservative
+n	cds	no	свинья	conservative
+n	cds	no	пудинг головы	conservative
+n	asf	no	лобковые волосы	inclusive
+n	pa	yes	адвокатов	inclusive
+n	qas	no	конформист	conservative
+n	an	no	осли́ца	inclusive
+n	pa	yes	Адвокаты	inclusive
+n	ddp	yes	Архитектурный каприз	inclusive
+n	om	no	Гомосексуалы	inclusive
+n	an	no	фраер	conservative
+n	ddp	yes	Дурачок	conservative
+n	cds	no	проница́тельность	inclusive
+n	pr	no	корова	inclusive
+n	asf	no	пися	conservative
+n	an	no	Кайманы	inclusive
+n	asf	no	болваном	conservative
+n	cds	no	Религиозная дискриминация	inclusive
+n	asf	no	Глупость	conservative
+n	cds	no	interfertility	inclusive
+n	dmc	yes	ложь	conservative
+n	cds	no	ТБО	inclusive
+n	dmc	yes	воришка	conservative
+n	om	no	спинной	inclusive
+a	svp	no	раздражительный	conservative
+n	cds	no	дьяволёнок	inclusive
+n	cds	no	pandar	inclusive
+n	cds	no	фанатизма	inclusive
+n	cds	no	напыщенность	conservative
+v	asm	no	отдрю́чить	conservative
+n	an	no	маленьких животных	inclusive
+n	cds	no	Преступность	inclusive
+n	cds	no	удобства	inclusive
+n	cds	no	Дебилизм	inclusive
+n	an	no	осёл	inclusive
+n	qas	no	подушечка	conservative
+n	cds	no	глупец	inclusive
+n	om	no	гомосексуалист	conservative
+n	asm	no	валяться в сене	conservative
+n	svp	no	бесполезности	conservative
+n	an	no	шлюха	conservative
+n	is	yes	Маргинализация	inclusive
+n	cds	no	бездельница	conservative
+n	pa	yes	счетово́дка	inclusive
+n	pa	yes	пастырь	inclusive
+n	ps	yes	дура	conservative
+a	cds	no	лукавый	conservative
+n	or	no	Капуста белокочанная	inclusive
+n	cds	no	Враньё	conservative
+n	cds	no	простофиля	conservative
+n	an	no	поросенок	inclusive
+n	ddp	yes	глупости	conservative
+n	asm	no	Подменыш	inclusive
+n	pr	no	блуд	inclusive
+n	cds	no	beguine	inclusive
+n	qas	no	Тестикулы	inclusive
+a	dmc	yes	безнравственный	conservative
+n	re	no	Сицилийская мафия	conservative
+n	pr	no	скоти́на	inclusive
+n	an	no	жирдяй	conservative
+n	an	no	pediculus humanus humanus	inclusive
+n	asm	no	перевертыши	inclusive
+n	an	no	платяная вошь	inclusive
+n	om	no	хлюпик	conservative
+n	cds	no	фундаменталистских	inclusive
+n	re	no	Угон скота	inclusive
+n	cds	no	выскочка	inclusive
+n	asf	no	небольшая сумма	inclusive
+n	or	no	Нежинский огурец	inclusive
+n	svp	no	зависть	inclusive
+n	is	yes	вы́брошенный	inclusive
+n	an	no	грабитель	inclusive
+n	re	no	развратник	conservative
+n	svp	no	равнодушие	inclusive
+v	asm	no	потра́хаться	conservative
+n	qas	no	буржуазии	inclusive
+n	re	no	Злодей	conservative
+n	ddp	yes	Тварь	inclusive
+n	ps	yes	еврейской религии	inclusive
+n	ddf	yes	папиз	conservative
+n	cds	no	Сайентизм	inclusive
+n	is	yes	нищий	conservative
+n	om	no	апикальной	inclusive
+n	ddp	yes	фраер	conservative
+n	cds	no	разиня	conservative
+a	ddp	yes	дурной	conservative
+n	cds	no	уличной банды	inclusive
+a	svp	no	гордый	conservative
+n	asf	no	blockhead	conservative
+n	asf	no	бред собачий	conservative
+n	qas	no	конформизма	inclusive
+n	qas	no	Церковная община	inclusive
+n	ps	yes	Варвары	conservative
+n	is	yes	вы́кинутый	inclusive
+v	asm	no	надувать	conservative
+n	dmc	yes	шулер	conservative
+n	asm	no	хуй	conservative
+n	an	no	ягнёнок	conservative
+n	cds	no	скрещивании	inclusive
+n	cds	no	bellyacher	conservative
+n	svp	no	самонадеянность	conservative
+n	ddp	yes	жульничество	conservative
+n	svp	no	не-счета	conservative
+n	or	no	пидора́с	conservative
+n	qas	no	мещанство	inclusive
+a	ddp	yes	дурацкий	conservative
+n	asm	no	faba bona	inclusive
+n	qas	no	Малярные работы	inclusive
+n	cds	no	ро́хля	conservative
+n	an	no	тип mollusca	inclusive
+n	ps	yes	interfertility	inclusive
+n	svp	no	Главные грехи	inclusive
+n	cds	no	быстрая	inclusive
+n	ddp	yes	чайник	inclusive
+n	om	no	пету́х	conservative
+n	re	no	Мафиозо	conservative
+n	asm	no	петушок	inclusive
+n	qas	no	чернь	inclusive
+n	svp	no	безразличие	inclusive
+n	an	no	cimicidae	inclusive
+n	re	no	него́дник	inclusive
+n	an	no	маленькое животное	inclusive
+n	an	no	червь	inclusive
+n	cds	no	Франкмасоны	inclusive
+n	cds	no	чувак	inclusive
+n	asm	no	прибор	conservative
+a	svp	no	презри́тельный	conservative
+n	cds	no	Родовая группа	inclusive
+n	cds	no	убо́рная	inclusive
+n	an	no	Домашняя свинья	inclusive
+n	dmc	yes	Обман	inclusive
+n	an	no	волчица	inclusive
+n	svp	no	самолюбие	conservative
+n	cds	no	Бароны-разбойники	inclusive
+a	an	no	животный	conservative
+n	qas	no	средним уровнем доходов	inclusive
+n	an	no	мерзавец	conservative
+n	an	no	Настоящие крокодилы	inclusive
+n	pr	no	крыс	inclusive
+n	an	no	овца	inclusive
+n	qas	no	металлолом	inclusive
+n	dmc	yes	далье	conservative
+a	re	no	жестокий	inclusive
+n	an	no	Охотничьи собаки	inclusive
+n	ddp	yes	дура	conservative
+n	svp	no	никчемный человек	conservative
+n	an	no	овен	inclusive
+n	cds	no	Яйцеголовый	inclusive
+n	dmc	yes	лентяйка	conservative
+n	cds	no	прока́зница	conservative
+n	cds	no	банды культуры	inclusive
+n	dmc	yes	Хобо	conservative
+n	or	no	обслуживанию	conservative
+n	pa	yes	хамка	conservative
+n	dmc	yes	дикарка	conservative
+n	cds	no	интриган	inclusive
+n	dmc	yes	оши́бка	inclusive
+n	ddp	yes	скотоложество	conservative
+n	om	no	трансвеститов	inclusive
+n	an	no	скотоложество	conservative
+n	or	no	капуста	inclusive
+n	asf	no	башка	conservative
+v	cds	no	перее́сть	inclusive
+n	cds	no	руководитель	inclusive
+a	svp	no	алчный	conservative
+n	an	no	Пяденица берёзовая	inclusive
+n	cds	no	масса	inclusive
+n	or	no	огурец лозы	inclusive
+n	ps	yes	Еврейка	inclusive
+n	ps	yes	странница	inclusive
+n	an	no	общие вошь	inclusive
+n	an	no	коро́ва	inclusive
+n	cds	no	сотрудник исправительного учреждения	inclusive
+n	ddp	yes	глупый	conservative
+n	cds	no	бред собачий	conservative
+n	qas	no	ерунда	conservative
+n	dmc	yes	дно жизни	inclusive
+n	qas	no	яйца	inclusive
+n	ps	yes	uprooter	conservative
+n	ddp	yes	умственно отсталых	inclusive
+n	an	no	ро́хля	conservative
+n	qas	no	риторики	inclusive
+n	qas	no	Аколит	inclusive
+n	ddp	yes	болтунья	conservative
+n	cds	no	тупи́ца	conservative
+n	qas	no	дилетантство	conservative
+n	cds	no	сотрудник полиции	inclusive
+n	pa	yes	счетовод	inclusive
+n	cds	no	идиот	inclusive
+n	dmc	yes	нравы	inclusive
+n	asm	no	Боб обыкновенный	inclusive
+n	dmc	yes	dillydallier	conservative
+n	asm	no	коричневый	inclusive
+v	cds	no	объеда́ться	inclusive
+n	cds	no	10 заповедей Коза ностра	inclusive
+a	re	no	насильственные	conservative
+n	svp	no	курку́ль	conservative
+n	cds	no	fascista	inclusive
+n	cds	no	сын сука	conservative
+n	ps	yes	арап	inclusive
+n	cds	no	prankishness	inclusive
+a	ddf	yes	низкий	conservative
+n	an	no	Уличная проституция	conservative
+n	ddp	yes	ду́рень	conservative
+n	an	no	arionidae	inclusive
+n	cds	no	ростовщи́к	conservative
+n	qas	no	приспешник	conservative
+n	om	no	ипсилатерального	inclusive
+n	an	no	Козьи	inclusive
+n	svp	no	лоботря́ска	conservative
+n	ddp	yes	Зк	inclusive
+n	ddp	yes	folderol	conservative
+n	pr	no	коммерческие акты	inclusive
+n	re	no	преступлений на сексуальной почве	inclusive
+n	ddp	yes	хамка	conservative
+n	dmc	yes	бродяга	conservative
+n	dmc	yes	посредственность	conservative
+n	ddp	yes	чепуха	inclusive
+n	an	no	собака	inclusive
+n	qas	no	Маляр	inclusive
+n	cds	no	вернуться говорить	inclusive
+n	ps	yes	козел отпущения	conservative
+n	an	no	пяденицы	inclusive
+n	om	no	трансвестит	inclusive
+n	re	no	Движение за независимость Чехословакии	inclusive
+n	cds	no	трус	conservative
+n	qas	no	деревенщина	conservative
+n	re	no	домушник	inclusive
+n	cds	no	дерзкий ответ	inclusive
+n	ps	yes	варварским	conservative
+n	ddp	yes	скупец	conservative
+n	cds	no	бестолочь	inclusive
+n	svp	no	безделье	inclusive
+n	cds	no	Уличные банды	inclusive
+n	pr	no	дешёвка	conservative
+n	an	no	физиономика	inclusive
+n	asm	no	faba sativa	inclusive
+n	cds	no	шавка	inclusive
+n	an	no	Угревые	inclusive
+n	rci	yes	варвар	conservative
+n	re	no	похитить	inclusive
+n	pr	no	молл	inclusive
+a	svp	no	сердитый	conservative
+n	an	no	aphaniptera	inclusive
+n	cds	no	полицейская	conservative
+n	cds	no	мальчик на побегушках	inclusive
+n	asm	no	Домашняя птица	inclusive
+n	pr	no	мужской проституции	conservative
+n	an	no	folderol	conservative
+n	re	no	сексуальное насилие	inclusive
+n	dmc	yes	Мораль	inclusive
+n	an	no	Акулы	inclusive
+n	cds	no	фанатичным	conservative
+n	qas	no	гражданский округ	inclusive
+n	ps	yes	перевертыши	conservative
+n	an	no	рогатый скот	inclusive
+n	asm	no	ерунда	inclusive
+n	re	no	взломщица	inclusive
+n	pa	yes	свинины мясника	inclusive
+n	an	no	зоофилия	conservative
+n	an	no	Афаниптера	inclusive
+n	re	no	преступлений	inclusive
+n	asm	no	тестикула	inclusive
+n	cds	no	наблюдательница	conservative
+n	an	no	инфауны	inclusive
+n	pr	no	замарашка	conservative
+n	dmc	yes	Варвары	conservative
+n	svp	no	хандрить	conservative
+n	re	no	сексуальному насилию	inclusive
+n	asm	no	половой член	inclusive
+n	ddp	yes	Имбецил	inclusive
+n	an	no	коровы	inclusive
+n	pa	yes	чабан	inclusive
+n	pr	no	Светский лев	inclusive
+n	cds	no	лох	conservative
+n	om	no	Анатомическая терминология	inclusive
+n	pa	yes	возчик	inclusive
+n	cds	no	аферист	conservative
+n	or	no	ты́ква	inclusive
+n	qas	no	селянин	inclusive
+n	an	no	Таракановые	inclusive
+v	asm	no	поиме́ть	conservative
+n	qas	no	лачуга	inclusive
+n	cds	no	уголовное преступление	inclusive
+n	qas	no	смутьян	conservative
+n	cds	no	безде́льник	conservative
+n	an	no	жадина	conservative
+n	ps	yes	селекции растений	inclusive
+n	ddp	yes	мужла́н	conservative
+n	om	no	Педерастия	inclusive
+n	cds	no	ханжество	conservative
+n	an	no	sus domesticus	inclusive
+n	an	no	h. pomatia	inclusive
+n	cds	no	гангстера	inclusive
+n	cds	no	Чешская "Маффия"	conservative
+a	dmc	yes	презренный	conservative
+n	cds	no	франт	inclusive
+n	cds	no	землекоп	inclusive
+n	cds	no	нетерпимость	conservative
+n	pa	yes	академический	inclusive
+n	pr	no	рогатый скот	inclusive
+n	cds	no	ляп	inclusive
+n	pr	no	ведьма	conservative
+n	an	no	ловка́ч	conservative
+n	dmc	yes	байбак	conservative
+n	or	no	идиот	conservative
+n	dmc	yes	Делинквент	inclusive
+n	dmc	yes	Подлог	inclusive
+n	dmc	yes	отщепенец	inclusive
+n	pa	yes	ординарным профессором	inclusive
+n	or	no	белокочанная капуста	inclusive
+n	an	no	грязнуля	conservative
+n	cds	no	Гомункул	inclusive
+n	ps	yes	Зулу	inclusive
+n	cds	no	плуто́вка	inclusive
+n	pa	yes	варваров	conservative
+n	qas	no	Быки и медведи	inclusive
+n	cds	no	батрак	inclusive
+n	asf	no	формальность	inclusive
+n	cds	no	казино	inclusive
+n	cds	no	баловни́к	inclusive
+n	ps	yes	Негроиды	inclusive
+n	cds	no	клика	inclusive
+a	dmc	yes	нечи́стый	inclusive
+n	an	no	людоед	inclusive
+n	asm	no	болван	inclusive
+n	is	yes	Злодейка	conservative
+n	or	no	тыква	inclusive
+n	re	no	ше́льма	inclusive
+n	an	no	насекомое	inclusive
+n	svp	no	обжора	conservative
+n	cds	no	мыть номера	inclusive
+n	qas	no	маляр	inclusive
+n	cds	no	тщесла́вие	conservative
+n	an	no	vipera	inclusive
+v	asm	no	вы́ебнуться	inclusive
+a	ddf	yes	мерзкий	conservative
+n	svp	no	неприя́знь	inclusive
+n	cds	no	род	inclusive
+n	om	no	Анальный коитус	inclusive
+n	cds	no	наблюдатель	conservative
+n	svp	no	физическое влечение	inclusive
+n	re	no	торговли клевете	inclusive
+n	re	no	трагический злодей	conservative
+a	is	yes	печа́льный	inclusive
+a	dmc	yes	ограниченный	conservative
+n	asf	no	говнюк	conservative
+n	qas	no	простолюдинов	inclusive
+n	ddp	yes	несообразительный человек	conservative
+n	dmc	yes	хамка	conservative
+n	pr	no	lampyris noctiluca	inclusive
+n	an	no	злодея	conservative
+n	asm	no	ебать	conservative
+n	dmc	yes	фарисей	conservative
+n	om	no	Содомит	inclusive
+n	dmc	yes	распущенность	conservative
+n	an	no	микроскопическое животное	inclusive
+n	cds	no	гибрис	inclusive
+n	an	no	Злодей	conservative
+n	cds	no	фашист	conservative
+v	asm	no	трахать	conservative
+n	re	no	бешенство	inclusive
+n	an	no	carcharodon	inclusive
+n	an	no	черная казарка	inclusive
+n	qas	no	красноба́йство	inclusive
+n	re	no	raptio	inclusive
+n	cds	no	педантичность	inclusive
+n	re	no	мафия	inclusive
+n	an	no	кайманы	inclusive
+a	svp	no	мстительный	conservative
+n	re	no	Совращение несовершеннолетних	inclusive
+n	an	no	Тёлка	inclusive
+n	pa	yes	работница	inclusive
+n	ddp	yes	muttonhead	conservative
+a	is	yes	неуда́чный	inclusive
+n	an	no	макрофауны	inclusive
+n	qas	no	лодырь	conservative
+n	cds	no	Момме	inclusive
+n	an	no	doodly-приземистых	conservative
+n	re	no	вооруженного грабителя	inclusive
+n	re	no	плохое обращение	inclusive
+n	pa	yes	заслуженный профессор	inclusive
+n	cds	no	мошенник	conservative
+n	an	no	Обыкновенная жаба	inclusive
+n	cds	no	Дебильность	inclusive
+n	cds	no	каракули	inclusive
+n	cds	no	драндуле́т	inclusive
+n	or	no	Тыквенный цвет	inclusive
+n	ddp	yes	дурачина	inclusive
+n	re	no	любитель сплетен	conservative
+n	re	no	брато́к	inclusive
+v	asm	no	переспать	conservative
+n	an	no	Пёс	inclusive
+n	pa	yes	Варвары	conservative
+n	an	no	Кабаны	inclusive
+n	qas	no	шайка	inclusive
+n	ddp	yes	растяпа	conservative
+n	cds	no	Реакция	conservative
+n	ddf	yes	карлик	conservative
+n	ddp	yes	микроцефальный	inclusive
+n	re	no	пытки убийства	inclusive
+n	cds	no	каморра	inclusive
+a	dmc	yes	скупой	conservative
+n	qas	no	Реторика	inclusive
+n	ddp	yes	узница	inclusive
+n	cds	no	slews	inclusive
+n	qas	no	железный лом	inclusive
+n	dmc	yes	лох-офф	conservative
+n	ddp	yes	предатель	conservative
+n	cds	no	посыльный	inclusive
+n	dmc	yes	распутства	conservative
+n	cds	no	злодея	conservative
+n	cds	no	Сякканхо	inclusive
+n	asf	no	балда	conservative
+n	svp	no	pridefulness	inclusive
+n	is	yes	куркуль	conservative
+n	ps	yes	африканского происхождения	inclusive
+n	an	no	poulet	inclusive
+n	dmc	yes	chawbacon	conservative
+a	ddp	yes	бестактный	inclusive
+n	svp	no	gourmandizer	conservative
+n	re	no	теракт	conservative
+a	ddp	yes	доверчивый	conservative
+n	cds	no	Благородная ложь	conservative
+n	an	no	мужской проституции	conservative
+n	re	no	хула	inclusive
+n	cds	no	бумага-толкатель	inclusive
+n	cds	no	Враль	inclusive
+n	cds	no	детектив	conservative
+n	qas	no	халупа	inclusive
+n	svp	no	жадности	inclusive
+n	re	no	Чешская "Маффия"	inclusive
+n	cds	no	Бульварный роман	inclusive
+n	an	no	Бизоны	inclusive
+n	ps	yes	жёлтая карточка	inclusive
+n	pr	no	Секс-услуги	inclusive
+n	cds	no	Теории заговоров	inclusive
+n	cds	no	Дома терпимости	inclusive
+n	cds	no	Чувак	inclusive
+n	cds	no	чванство	conservative
+n	dmc	yes	никчёмный	conservative
+n	cds	no	малыш	inclusive
+n	an	no	свиней	inclusive
+a	qas	no	среднего класса	inclusive
+n	cds	no	Мафиози	conservative
+n	cds	no	шутовство	inclusive
+n	re	no	Слэер	inclusive
+n	ps	yes	Вандал	inclusive
+n	om	no	гомосексуальность	inclusive
+n	asf	no	дебил	conservative
+n	cds	no	частный детектив	conservative
+n	cds	no	дура	conservative
+n	ddp	yes	дебил	conservative
+n	or	no	cucurbita максимумов	inclusive
+n	cds	no	ублюдок	conservative
+n	re	no	kidnaper	inclusive
+n	qas	no	Капиталист	inclusive
+n	re	no	вредоносных лжи	inclusive
+n	asm	no	кусок хвоста	conservative
+n	om	no	Анальный половой акт	inclusive
+n	cds	no	сотрудник полиции	conservative
+n	cds	no	Племена	inclusive
+n	asm	no	дура	inclusive
+n	cds	no	скрещивать	inclusive
+n	or	no	Капуста краснокочанная	inclusive
+n	re	no	Криминал	inclusive
+a	dmc	yes	контрафактный	conservative
+n	cds	no	скрап	inclusive
+n	an	no	Аурокс	inclusive
+n	dmc	yes	Враль	inclusive
+n	cds	no	боягу́зка	conservative
+n	cds	no	Дзе	inclusive
+n	an	no	гусак	inclusive
+n	cds	no	унита́з	inclusive
+n	cds	no	chawbacon	conservative
+n	pr	no	Придворный чин	inclusive
+n	is	yes	относительной бедности	inclusive
+a	ddf	yes	кривой	inclusive
+n	an	no	бык	inclusive
+n	ddf	yes	слепого человека	inclusive
+n	qas	no	соучастник преступления	inclusive
+n	cds	no	родственники	inclusive
+n	an	no	белоголового сипа	inclusive
+n	qas	no	Мелкая буржуазия	inclusive
+n	om	no	задница	inclusive
+n	an	no	сброд	conservative
+n	is	yes	бедный	inclusive
+n	cds	no	плут	conservative
+n	cds	no	угон	inclusive
+n	pa	yes	портье	inclusive
+n	svp	no	жмот	conservative
+n	asm	no	отморо́зок	inclusive
+n	cds	no	отбросы	conservative
+n	ddp	yes	скряга	conservative
+n	om	no	голубо́й	conservative
+n	cds	no	мусора	conservative
+n	cds	no	Сводничество	inclusive
+n	cds	no	идолопоклонниками	inclusive
+n	ddp	yes	врач-шарлатан	conservative
+n	qas	no	мусор	inclusive
+n	svp	no	лентя́йка	conservative
+n	qas	no	Лгун	conservative
+n	qas	no	хамка	conservative
+n	pa	yes	овчар	inclusive
+n	an	no	простак	conservative
+n	an	no	Горный козёл	inclusive
+n	dmc	yes	безнравственности	inclusive
+n	an	no	Живность	inclusive
+n	an	no	негодяй	conservative
+n	cds	no	грубиян	conservative
+n	re	no	мафиози	conservative
+n	ddp	yes	дурачина	conservative
+n	an	no	siphonaptera	inclusive
+n	cds	no	ростовщичеством	inclusive
+n	dmc	yes	Моцарелла	inclusive
+n	svp	no	niggardness	conservative
+n	re	no	сицилийской мафии	inclusive
+a	svp	no	вспыльчивый	conservative
+n	or	no	Краснокочанная	inclusive
+n	cds	no	корреспондентов	inclusive
+n	re	no	террористов	inclusive
+n	cds	no	Гибриды	inclusive
+n	cds	no	грязи	inclusive
+n	svp	no	Абулия	inclusive
+n	asm	no	конские	inclusive
+v	an	no	гавкать	inclusive
+n	pr	no	Конкубина	inclusive
+a	is	yes	грустный	inclusive
+n	an	no	жаба	inclusive
+n	pr	no	нахалка	conservative
+n	re	no	деликт	inclusive
+n	ddp	yes	знахарство	conservative
+n	an	no	ссыку́н	conservative
+n	cds	no	заступник	inclusive
+n	svp	no	скуки	inclusive
+n	ddp	yes	болван	inclusive
+n	an	no	ишак	inclusive
+n	om	no	foeniculum vulgare	inclusive
+n	cds	no	запороть	inclusive
+n	asf	no	Вагина	conservative
+n	cds	no	меланж	inclusive
+a	dmc	yes	фальшивый	conservative
+n	cds	no	Хибрис	inclusive
+n	om	no	инвалид	conservative
+n	cds	no	плуто́вка	conservative
+n	dmc	yes	негодяй	inclusive
+n	asm	no	фаллус	inclusive
+n	ddp	yes	фигляр	conservative
+n	dmc	yes	неправда	inclusive
+n	qas	no	царь	inclusive
+n	cds	no	лентяй	conservative
+n	cds	no	родственные группы	inclusive
+n	ddp	yes	зоофилия	conservative
+n	an	no	тряпка	conservative
+n	is	yes	бедных	inclusive
+n	svp	no	суета́	conservative
+n	cds	no	лентя́йка	conservative
+n	an	no	одушевленное существо	inclusive
+n	om	no	Педераст	inclusive
+n	qas	no	разглашение	inclusive
+n	re	no	террорист	inclusive
+n	asf	no	перевертыши	conservative
+n	an	no	muttonhead	conservative
+n	pa	yes	сотрудник	inclusive
+n	om	no	Леди	inclusive
+n	an	no	дикий бык	inclusive
+a	pa	yes	теоретический	inclusive
+n	an	no	клопов	inclusive
+n	qas	no	батрак	inclusive
+n	pa	yes	варвар	conservative
+n	qas	no	Биржевой спекулянт	inclusive
+n	re	no	Пират	inclusive
+n	an	no	домашнего скота	inclusive
+n	asm	no	башка	conservative
+n	cds	no	мошенница	inclusive
+n	re	no	насилия	inclusive
+n	an	no	козу	inclusive
+n	an	no	вепрь	inclusive
+n	dmc	yes	грубость	conservative
+n	re	no	грязная работа	inclusive
+n	cds	no	tricker	conservative
+n	cds	no	учительница	conservative
+n	pa	yes	защитница	inclusive
+n	asf	no	doofus	conservative
+n	dmc	yes	мерзавец	conservative
+n	cds	no	Гранж	inclusive
+n	pa	yes	поклонник	inclusive
+a	dmc	yes	гря́зный	inclusive
+n	ddp	yes	путаник	conservative
+n	an	no	трусишка	conservative
+n	cds	no	Камарилья	inclusive
+n	an	no	моллюск	inclusive
+n	ddp	yes	бестолочь	conservative
+n	ddp	yes	Умственная неполноценность	inclusive
+n	rci	yes	деревенщина	conservative
+n	pr	no	негодница	conservative
+n	qas	no	толпа	inclusive
+n	cds	no	мент	conservative
+n	cds	no	fawner	conservative
+n	an	no	виноградная улитка	inclusive
+n	re	no	злословие	inclusive
+n	qas	no	времянка	inclusive
+n	an	no	неопрятный человек	conservative
+n	ps	yes	разрушитель	conservative
+n	ddp	yes	Имбецильность	inclusive
+n	re	no	Диффамация	inclusive
+n	dmc	yes	бездомных	inclusive
+n	cds	no	грешник	conservative
+n	ddp	yes	залупа	conservative
+n	an	no	equus mulus	inclusive
+n	ddp	yes	zooerasty	conservative
+n	ps	yes	Чернокожий	inclusive
+n	cds	no	Идиотия	inclusive
+a	ddp	yes	простодушный	conservative
+n	ps	yes	inkiness	inclusive
+n	qas	no	напутать	inclusive
+n	pr	no	Амбарная крыса	inclusive
+n	an	no	eurypterida	inclusive
+n	asm	no	bird	inclusive
+n	svp	no	Ханжество	conservative
+n	qas	no	сообщник	inclusive
+n	ddp	yes	дура́к	conservative
+n	re	no	жулик	conservative
+n	an	no	акула-людоед	inclusive
+n	asm	no	рукой	conservative
+n	an	no	сволочь	conservative
+n	re	no	прока́зник	inclusive
+n	an	no	насупленные брови	inclusive
+n	an	no	толстяк	conservative
+n	qas	no	конформистом	conservative
+n	or	no	качан	inclusive
+n	cds	no	cur	inclusive
+n	cds	no	Металлический лом	conservative
+n	om	no	Драг квин	inclusive
+v	asm	no	тра́хнуться	conservative
+n	qas	no	сброда и бобтейл	conservative
+n	qas	no	яйцо́	inclusive
+n	cds	no	ше́льма	conservative
+n	qas	no	Риторик	inclusive
+n	ddp	yes	перевертыши	conservative
+n	an	no	ragtag	conservative
+a	dmc	yes	узколобый	conservative
+n	ps	yes	иудео	inclusive
+n	ps	yes	придурок	conservative
+n	cds	no	бандитизм	inclusive
+n	or	no	гей	conservative
+n	re	no	клеветник	conservative
+n	svp	no	вожделение	inclusive
+a	svp	no	разгневанный	inclusive
+n	cds	no	сводник	inclusive
+n	cds	no	женщина-полицейский	conservative
+n	cds	no	патрульный	conservative
+n	an	no	дворняжка	inclusive
+n	an	no	альфо́нс	conservative
+n	re	no	наговор	inclusive
+n	or	no	глупый человек	conservative
+n	om	no	Однополое влечение	inclusive
+n	ps	yes	Идиотизм	conservative
+n	om	no	keister	inclusive
+n	svp	no	прожорливость	inclusive
+n	ddp	yes	помеша́тельство	conservative
+n	re	no	плут	conservative
+n	cds	no	шут	inclusive
+n	qas	no	дрянь	conservative
+n	cds	no	Масон	inclusive
+a	cds	no	хитроумный	conservative
+n	cds	no	твердых бытовых отходов	conservative
+n	pa	yes	ученых	inclusive
+n	dmc	yes	шалу́н	inclusive
+n	an	no	теле вши	inclusive
+n	dmc	yes	распутник	conservative
+n	re	no	Тяжкие преступления	inclusive
+n	qas	no	сарай	inclusive
+n	dmc	yes	хандрить	conservative
+v	asm	no	тра́хаться	conservative
+n	ddf	yes	горбунья	inclusive
+n	re	no	хаянье	inclusive
+n	re	no	Коза ностра	inclusive
+n	an	no	дура	conservative
+n	an	no	угорь	inclusive
+n	an	no	Степной осёл	inclusive
+n	is	yes	обездоленных	inclusive
+n	pr	no	уличный	conservative
+n	om	no	дворянка	inclusive
+n	dmc	yes	гомункула	inclusive
+n	cds	no	Каменьщики вольные	inclusive
+n	or	no	Гомофил	conservative
+n	svp	no	лодырь	conservative
+n	an	no	истинным угря	inclusive
+n	an	no	мужчина-проститутка	conservative
+n	cds	no	грязнуля	conservative
+n	an	no	свинья	inclusive
+n	dmc	yes	Гангста	inclusive
+n	svp	no	Сребролюбие	inclusive
+n	qas	no	переплёт	inclusive
+n	cds	no	Твердые бытовые отходы	inclusive
+n	pa	yes	бухгалтер	inclusive
+n	dmc	yes	простофиля	conservative
+n	an	no	Домовой сыч	inclusive
+n	ddp	yes	муди́ло	conservative
+a	svp	no	агрессивный	conservative
+n	an	no	рода vipera	inclusive
+n	dmc	yes	разбойница	conservative
+n	qas	no	Паразитизм	inclusive
+n	re	no	Чешская мафия	inclusive
+n	cds	no	matcher	inclusive
+n	qas	no	Облигатные паразиты	inclusive
+n	asm	no	английский бобов	inclusive
+n	an	no	swallower воздушный шар	inclusive
+n	re	no	cosa nosta	inclusive
+n	or	no	solanum tuberosum	inclusive
+n	pa	yes	кассир	inclusive
+n	dmc	yes	моцаре́лла	inclusive
+n	re	no	подонок	conservative
+n	cds	no	крайне правого нападающего	conservative
+n	an	no	Жаба серая	inclusive
+n	or	no	недотёпа	conservative
+n	an	no	ссыкло́	conservative
+n	re	no	гангстер	inclusive
+n	re	no	бесёнок	inclusive
+n	cds	no	красно-бурый цвет	conservative
+n	dmc	yes	дикарь	conservative
+n	pa	yes	юри́стка	inclusive
+n	an	no	diddley	conservative
+n	pa	yes	похороны гробовщик	inclusive
+v	asm	no	ебаться	conservative
+n	cds	no	newspaperwoman	inclusive
+n	ps	yes	Нигга	inclusive
+n	asm	no	дрочить	conservative
+n	an	no	Вошь платяная	inclusive
+n	pr	no	крупного рогатого скота	inclusive
+n	pr	no	Секс-услуги	conservative
+n	svp	no	Неприятие	inclusive
+n	ps	yes	болван	conservative
+n	asm	no	хам	conservative
+n	dmc	yes	вероотступник	conservative
+n	an	no	Ящеры панцирные	inclusive
+n	or	no	пися	conservative
+n	ps	yes	естественный гибрид	inclusive
+n	om	no	содомии	inclusive
+n	pa	yes	профессоров	inclusive
+n	cds	no	ребенок	inclusive
+n	or	no	пи́дор	conservative
+n	cds	no	металлолом	inclusive
+n	cds	no	вор	inclusive
+n	an	no	таракан	inclusive
+n	asm	no	Конские бобы	inclusive
+n	svp	no	гурман	conservative
+n	cds	no	селекционер	inclusive
+n	an	no	олух	conservative
+n	svp	no	Анормия	inclusive
+n	asm	no	придаток	inclusive
+n	an	no	Угрёвые	inclusive
+n	an	no	salientian	inclusive
+n	svp	no	безжизненность	inclusive
+n	pr	no	Нетель	inclusive
+n	cds	no	энтузиаст	inclusive
+n	ddp	yes	ragtag	conservative
+n	ddp	yes	mother fucker	conservative
+n	cds	no	Движение за независимость Чехословакии	inclusive
+n	cds	no	Преступный мир	inclusive
+n	qas	no	дикарка	conservative
+n	dmc	yes	него́дница	inclusive
+n	pa	yes	варварским	conservative
+n	ps	yes	увалень	conservative
+n	is	yes	неимущий	inclusive
+n	om	no	задницу	inclusive
+n	an	no	проститутка	conservative
+n	qas	no	варварка	conservative
+n	pa	yes	счетово́д	inclusive
+n	cds	no	Злодейка	conservative
+n	cds	no	быстрая	conservative
+n	ps	yes	Еврейская мифология	inclusive
+n	an	no	птица ночь	inclusive
+n	svp	no	жажда	inclusive
+n	ddp	yes	Классификация животных	inclusive
+a	ddp	yes	животный	conservative
+a	cds	no	незако́нный	inclusive
+n	an	no	стервятник	inclusive
+n	an	no	песик	inclusive
+n	svp	no	крохобо́р	conservative
+n	cds	no	обман	inclusive
+n	cds	no	плоты	inclusive
+n	ps	yes	хам	conservative
+n	an	no	слабак	conservative
+n	cds	no	Политическая реакция	conservative
+n	re	no	же́нщина-уби́йца	inclusive
+n	an	no	идиотка	conservative
+n	an	no	Жабы	inclusive
+n	cds	no	Протестантский фундаментализм	inclusive
+n	om	no	го́мик	inclusive
+n	an	no	кур	inclusive
+n	an	no	дуралей	conservative
+a	cds	no	смыслящий	inclusive
+n	pa	yes	белые воротнички	inclusive
+n	re	no	убийства детектив	inclusive
+n	cds	no	Фашисты	conservative
+n	an	no	рогоносца	conservative
+n	pr	no	Конкубинат	inclusive
+n	asm	no	конских бобов	inclusive
+n	re	no	поклёп	inclusive
+n	cds	no	озорство решений	conservative
+n	ddp	yes	blunderer	conservative
+n	dmc	yes	путаник	conservative
+n	re	no	похищение	inclusive
+n	asm	no	Фалл	inclusive
+n	cds	no	шутником	conservative
+n	om	no	гей	conservative
+n	cds	no	коп	conservative
+n	rci	yes	мужлан	conservative
+n	an	no	Берёзовая пяденица	inclusive
+n	cds	no	пеонов	inclusive
+n	cds	no	Мафиозо	inclusive
+n	pr	no	распутство	inclusive
+n	ddf	yes	инвалидка	inclusive
+n	cds	no	исполнитель баллад	inclusive
+n	an	no	Шакалы	inclusive
+n	an	no	женщина-вамп	conservative
+n	dmc	yes	горе-ноль	conservative
+n	an	no	идиот	conservative
+n	an	no	такой-сякой	conservative
+n	cds	no	cosa nosta	inclusive
+n	cds	no	коза ностра	inclusive
+n	dmc	yes	лежебока	conservative
+n	an	no	Козел домашний	inclusive
+n	an	no	Микроб	inclusive
+n	cds	no	камарилья	inclusive
+n	qas	no	ложности	conservative
+n	an	no	metazoa	inclusive
+n	is	yes	подлец	conservative
+n	rci	yes	грубиян	conservative
+n	or	no	оранжевый	inclusive
+n	cds	no	сицилийской мафии	inclusive
+n	is	yes	обнищание	inclusive
+n	cds	no	корреспондент	inclusive
+n	ps	yes	бестолочь	conservative
+n	an	no	вошь	inclusive
+n	re	no	жестокость	inclusive
+n	dmc	yes	брато́к	inclusive
+n	cds	no	негодяйка	conservative
+n	cds	no	ноу-это все	conservative
+n	qas	no	трейдер	inclusive
+n	cds	no	бытовых сточных вод	inclusive
+n	asm	no	pisum vulgare	inclusive
+a	an	no	звериный	conservative
+n	ddp	yes	тупица	conservative
+n	dmc	yes	расточител	inclusive
+n	or	no	cunt	conservative
+n	re	no	похититель детей	inclusive
+n	qas	no	халтура	conservative
+n	pr	no	аренду мальчиков	conservative
+n	qas	no	опьянение	inclusive
+n	an	no	дебил	conservative
+n	cds	no	развалю́ха	inclusive
+n	cds	no	Бандит	inclusive
+n	om	no	пи́дор	conservative
+n	cds	no	Ростовщик	conservative
+n	an	no	нахмуренность	inclusive
+n	cds	no	процентщица	conservative
+n	ddp	yes	балбес	conservative
+n	an	no	морда	inclusive
+n	asf	no	идиотка	conservative
+n	re	no	приставал	inclusive
+n	cds	no	ябеда	conservative
+n	asf	no	промежности волос	inclusive
+n	ps	yes	Мамелюко	conservative
+n	qas	no	приспешник	inclusive
+n	ddp	yes	идиот	conservative
+n	ddp	yes	Животные	inclusive
+n	dmc	yes	несчастный человек	inclusive
+n	svp	no	Гортанобесие	inclusive
+n	pa	yes	директором похоронного бюро	inclusive
+n	dmc	yes	бездомный	inclusive
+n	ps	yes	латиноамериканцем	inclusive
+n	ps	yes	дура́к	conservative
+n	cds	no	козел отпущения	conservative
+n	or	no	Огурец обыкновенный	inclusive
+n	an	no	трагический злодей	conservative
+a	svp	no	блудливый	conservative
+n	asm	no	ficken	conservative
+n	ps	yes	израильтянин	inclusive
+n	re	no	терроризм	inclusive
+a	svp	no	а́лчный	conservative
+n	re	no	хулиганство	inclusive
+n	asm	no	хер	conservative
+n	asm	no	лох	conservative
+n	cds	no	была закона	inclusive
+n	ddp	yes	очко́	conservative
+n	cds	no	мошенница	conservative
+n	ddp	yes	безрассудство	conservative
+n	re	no	Слейер	inclusive
+n	cds	no	фараон	inclusive
+n	pr	no	пасюк	inclusive
+n	svp	no	Афродизиазм	inclusive
+n	cds	no	кретин	inclusive
+n	ps	yes	Зулусы	inclusive
+a	cds	no	требующий усилий	conservative
+n	asf	no	замедлять	conservative
+n	qas	no	лжеученый	conservative
+n	dmc	yes	вонь	conservative
+n	om	no	дрэг-квин	inclusive
+n	re	no	дурное обращение	inclusive
+n	pa	yes	капрал	inclusive
+n	cds	no	жи́голо	inclusive
+n	cds	no	взломщик	inclusive
+n	asf	no	Идиотия	conservative
+n	svp	no	invidia	inclusive
+n	ps	yes	слабоумный	conservative
+n	ddp	yes	З.к.	inclusive
+n	cds	no	посредственность	conservative
+n	asm	no	завинчивание	conservative
+n	qas	no	Среднее сословие	inclusive
+n	qas	no	ТБО	inclusive
+n	cds	no	Ханжество	conservative
+n	qas	no	владелец бизнеса	inclusive
+n	cds	no	отверженный	conservative
+n	cds	no	обма́нщик	conservative
+n	asm	no	faba vulgaris	inclusive
+n	is	yes	изгоем	inclusive
+n	asf	no	девка	conservative
+n	qas	no	дайвинг система взвешивания	inclusive
+n	re	no	преступный	inclusive
+n	ps	yes	истребитель	conservative
+n	cds	no	под ключ	inclusive
+n	ps	yes	Монголоиды	conservative
+n	asf	no	fuckhead	conservative
+n	qas	no	барон	inclusive
+n	an	no	carcharodon carcharias	inclusive
+n	cds	no	помпезности	conservative
+n	ddp	yes	дурень	conservative
+n	pa	yes	мужик	conservative
+n	cds	no	Фанатик	conservative
+n	dmc	yes	пария	inclusive
+a	svp	no	распутный	conservative
+n	cds	no	дилетантство	conservative
+n	cds	no	сциентизма	inclusive
+n	ddp	yes	Варвары	conservative
+n	an	no	Домашняя овца	inclusive
+n	an	no	козел	inclusive
+n	qas	no	грандиозность	inclusive
+n	cds	no	Реликвии	inclusive
+n	ps	yes	Дебильность	conservative
+n	re	no	клевета	conservative
+n	cds	no	халтура	conservative
+n	qas	no	всякая всячина	inclusive
+n	asf	no	разиня	conservative
+n	cds	no	ростовщик	inclusive
+n	ps	yes	Черный цвет	inclusive
+n	cds	no	преступный	conservative
+n	cds	no	баловни́ца	conservative
+n	an	no	рыло	inclusive
+n	qas	no	baroqueness	inclusive
+n	re	no	Консильери	inclusive
+n	cds	no	Реликвия	inclusive
+n	an	no	насекомых	inclusive
+n	cds	no	дикарка	conservative
+n	cds	no	Сексуальная зависимость	conservative
+n	or	no	Огурец посевной	inclusive
+n	cds	no	процент	conservative
+n	pa	yes	контролер	inclusive
+n	an	no	мошенник	conservative
+n	pa	yes	офисный работник	inclusive
+n	cds	no	сточных вод	inclusive
+n	asm	no	бестолочь	conservative
+n	an	no	пули	inclusive
+n	qas	no	покинутого судна	inclusive
+n	an	no	улиток	inclusive
+n	re	no	детоубийства	inclusive
+n	re	no	вооруженный разбой	inclusive
+n	re	no	похищение имущества в крупных размерах	inclusive
+n	cds	no	тюремщиком	inclusive
+n	dmc	yes	обман	conservative
+n	om	no	Дорзальный	inclusive
+n	cds	no	полицейских	conservative
+n	cds	no	перевертыши	inclusive
+n	re	no	похище́ние	inclusive
+n	qas	no	помощников	inclusive
+n	qas	no	приходов	inclusive
+n	an	no	жизнь животных	inclusive
+n	pr	no	ночная бабочка	inclusive
+n	or	no	репа	inclusive
+n	dmc	yes	Либертинизм	conservative
+n	qas	no	Трейдинг	inclusive
+a	svp	no	скупо́й	inclusive
+n	an	no	Тварь	inclusive
+n	ps	yes	бош	conservative
+n	re	no	грабеж	inclusive
+a	ddf	yes	слепой	inclusive
+n	an	no	хмурый взгляд	inclusive
+n	cds	no	ложности	inclusive
+a	dmc	yes	дурно пахнущий	conservative
+n	cds	no	масоном	inclusive
+n	cds	no	селекции растений	inclusive
+n	qas	no	Блуперы	inclusive
+n	cds	no	реакционный	conservative
+n	pr	no	джон	conservative
+n	cds	no	любовь ребенка	inclusive
+n	svp	no	страсть	inclusive
+n	cds	no	ростовщиков	conservative
+n	an	no	мул	inclusive
+n	an	no	дерьмо́	conservative
+n	dmc	yes	лентяй	conservative
+n	ddp	yes	Фолли	inclusive
+n	or	no	голубо́й	conservative
+n	cds	no	брато́к	inclusive
+n	an	no	Физиономизм	inclusive
+n	is	yes	нищета	inclusive
+n	cds	no	сволочь мешок	conservative
+n	dmc	yes	безде́льница	conservative
+n	asm	no	широкие бобы	inclusive
+n	an	no	Комар пискун	inclusive
+n	re	no	предумышленное убийство	inclusive
+n	asm	no	Уздечка крайней плоти	inclusive
+n	pr	no	лярва	conservative
+n	cds	no	Теория заговора	inclusive
+a	dmc	yes	скаредный	conservative
+n	ps	yes	дуралей	conservative
+n	asm	no	кусок задницы	conservative
+n	svp	no	праздность	inclusive
+n	an	no	рыбы скорпион	inclusive
+v	asm	no	спать	conservative
+n	cds	no	ма́сса	inclusive
+n	cds	no	болтунья	conservative
+n	an	no	Комары	inclusive
+n	dmc	yes	коробейник	conservative
+n	cds	no	мети́с	inclusive
+n	cds	no	исправления офицер	inclusive
+n	an	no	нахмуренные брови	inclusive
+n	qas	no	яички	inclusive
+n	re	no	вор	inclusive
+n	om	no	обслуживанию	conservative
+n	pr	no	bos taurus taurus	inclusive
+n	cds	no	мафии	inclusive
+n	dmc	yes	Архетип Джокер	conservative
+n	dmc	yes	бандит	inclusive
+a	cds	no	презренный	conservative
+n	qas	no	тест	inclusive
+n	qas	no	твердых отходов	inclusive
+n	cds	no	прелат	inclusive
+a	ddf	yes	безобразный	conservative
+n	ddp	yes	повреждение головного мозга	inclusive
+n	cds	no	гиперсексуальной	conservative
+n	dmc	yes	дрянь	inclusive
+n	an	no	anserini	inclusive
+n	re	no	Террористы	conservative
+n	or	no	глупец	conservative
+n	cds	no	губошлёп	conservative
+n	pr	no	гетеры	inclusive
+n	ps	yes	Монгольские народы	inclusive
+n	svp	no	фанатик	conservative
+n	cds	no	растяпа	conservative
+n	asm	no	Потка	inclusive
+n	cds	no	педагог	inclusive
+n	cds	no	Нёрд	conservative
+n	dmc	yes	моральный компас	inclusive
+n	an	no	Куриное мясо	inclusive
+n	ddp	yes	простак	conservative
+n	an	no	неряха	conservative
+n	ps	yes	pikey	conservative
+n	or	no	pudden головы	conservative
+n	an	no	боягу́зка	conservative
+n	cds	no	черная ножка	inclusive
+n	cds	no	педантка	conservative
+n	cds	no	bragger	conservative
+n	an	no	грубость	conservative
+n	cds	no	gobs	inclusive
+n	re	no	Пытки	inclusive
+n	an	no	anguilliformes	inclusive
+n	re	no	гангстера	inclusive
+n	ps	yes	отморо́зок	conservative
+n	dmc	yes	была закона	inclusive
+a	qas	no	средневековой	inclusive
+n	cds	no	Эрратив	inclusive
+n	dmc	yes	фанатизма	conservative
+n	cds	no	ссыкло́	conservative
+n	qas	no	скряга	conservative
+v	asm	no	ети	conservative
+n	an	no	Большой шакал	inclusive
+n	rci	yes	мужла́н	conservative
+n	cds	no	барельеф блю	inclusive
+n	re	no	подлец	conservative
+n	dmc	yes	Киноляпы	inclusive
+n	ps	yes	негров	inclusive
+n	qas	no	Твердые бытовые отходы	inclusive
+a	qas	no	обычный	inclusive
+n	an	no	Бесхвостые гады	inclusive
+n	cds	no	своеволие	conservative
+n	cds	no	sassing	inclusive
+n	ps	yes	romanis	inclusive
+a	is	yes	бедный	inclusive
+n	an	no	Настоящие Гадюки	inclusive
+n	ddp	yes	Умственная патология	inclusive
+n	dmc	yes	злодея	conservative
+n	cds	no	столпотворение	inclusive
+n	cds	no	vaunter	conservative
+n	cds	no	ростовщиков	inclusive
+n	an	no	Обыкновенный светляк	inclusive
+a	pa	yes	политический	inclusive
+n	asm	no	яичка	inclusive
+n	an	no	существо	inclusive
+n	an	no	Черные казарки	inclusive
+n	ps	yes	Еврей	inclusive
+v	re	no	украсть	inclusive
+n	an	no	скупе́ц	conservative
+n	dmc	yes	морально обанкротившейся	inclusive
+n	cds	no	фанатизма	conservative
+a	asm	no	бурый	inclusive
+a	or	no	напряжённый	conservative
+n	qas	no	арендатор земли	inclusive
+n	an	no	мошки	inclusive
+n	svp	no	бесполезный	conservative
+n	cds	no	злодей	conservative
+n	an	no	вамп	conservative
+n	an	no	Домашний козел	inclusive
+n	cds	no	щенок	conservative
+n	re	no	мафии	conservative
+n	svp	no	апатичным	inclusive
+n	asf	no	cunt	conservative
+n	cds	no	дурень	inclusive
+n	cds	no	штрейкбрехерство	inclusive
+n	pa	yes	пастушка	inclusive
+n	ps	yes	черные женщины	inclusive
+n	is	yes	Парии	inclusive
+n	cds	no	сынок	inclusive
+n	or	no	finocchio	inclusive
+n	or	no	манда	conservative
+n	cds	no	человек, всюду сующий нос	conservative
+n	cds	no	продажных	inclusive
+n	pr	no	comare	conservative
+n	an	no	insect	inclusive
+n	or	no	огурцы	inclusive
+n	cds	no	бандитка	conservative
+n	an	no	Щенок	inclusive
+n	asm	no	перевертыш	inclusive
+n	cds	no	толпа	conservative
+n	an	no	тупица	conservative
+n	asf	no	Женское влагалище	conservative
+n	cds	no	фундаментализма	inclusive
+n	pa	yes	торговка рыбой	inclusive
+n	cds	no	ростовщичество	inclusive
+n	cds	no	нахальство	conservative
+n	cds	no	производитель	conservative
+n	ps	yes	болгарин	inclusive
+n	or	no	homophile движения	conservative
+n	svp	no	злоба	inclusive
+n	is	yes	нужда	inclusive
+n	asm	no	flouter	conservative
+n	an	no	сволочь мешок	conservative
+n	cds	no	Муженеистовство	inclusive
+n	cds	no	лежебока	conservative
+n	pr	no	Курва	conservative
+n	cds	no	итальянской мафии	inclusive
+n	asm	no	чайник	inclusive
+n	om	no	ле́сби	inclusive
+n	ddp	yes	Умственная отсталость	inclusive
+n	pr	no	прелюбодейка	conservative
+n	cds	no	металлолом	conservative
+n	cds	no	надоедливый	conservative
+n	re	no	захват	inclusive
+n	svp	no	хвастливость	conservative
+n	an	no	Комар-пискун	inclusive
+n	asm	no	Крайняя плоть	inclusive
+n	an	no	насекомо́е	inclusive
+n	an	no	Платяная вошь	inclusive
+n	ps	yes	идиотка	conservative
+n	cds	no	Бастард	inclusive
+n	cds	no	него́дник	conservative
+n	cds	no	тормозной	conservative
+n	cds	no	увалень	inclusive
+n	asm	no	Горох посевной	inclusive
+n	an	no	микроорганизмов	inclusive
+n	asm	no	валять дурака	conservative
+n	cds	no	тюремный надзиратель	inclusive
+n	an	no	комаров	inclusive
+n	qas	no	отбирать	conservative
+n	cds	no	коротышка	conservative
+n	cds	no	чеканщик	conservative
+n	ddf	yes	инвалид	inclusive
+n	cds	no	пижон	inclusive
+n	ps	yes	скрещивания	inclusive
+n	asm	no	дуралей	inclusive
+n	om	no	Содомитство	inclusive
+n	an	no	Насекомые	inclusive
+n	cds	no	сво́дник	conservative
+n	an	no	bison americanus	inclusive
+n	pr	no	курва	conservative
+n	cds	no	Уровень преступности	inclusive
+n	asm	no	Тестикулы	inclusive
+n	qas	no	Элоквенция	inclusive
+n	ps	yes	межродовых гибридные	inclusive
+n	pa	yes	консультант по закону	inclusive
+n	svp	no	гордость	inclusive
+n	cds	no	idiolatry	inclusive
+n	an	no	европейский зубр	inclusive
+n	pa	yes	Ранги дипломатические	inclusive
+n	cds	no	ложь	inclusive
+n	om	no	попа	inclusive
+n	an	no	Гигантостраки	inclusive
+n	an	no	Лесной Бизон	inclusive
+n	qas	no	отвергать	conservative
+n	asm	no	птица	inclusive
+n	cds	no	фундаментализм	inclusive
+a	svp	no	сварливый	conservative
+n	asm	no	балда	inclusive
+n	or	no	гомик	conservative
+n	ddp	yes	глупец	conservative
+n	ps	yes	немчура́	conservative
+n	cds	no	аферистка	conservative
+n	is	yes	отверженный	inclusive
+n	an	no	ixodoidea	inclusive
+n	qas	no	bumbler	conservative
+n	is	yes	изгой	inclusive
+n	an	no	улице девушку	conservative
+n	re	no	изнасилование на свидании	conservative
+n	or	no	Гомофилия	conservative
+n	an	no	capra hircus	inclusive
+n	svp	no	Гнев	inclusive
+n	cds	no	чайник рыбы	inclusive
+n	ps	yes	Метеки	inclusive
+n	ddp	yes	сволочь	conservative
+n	cds	no	Латентная преступность	inclusive
+n	ddp	yes	ничтожество	conservative
+n	ddp	yes	невежда	conservative
+n	qas	no	бюргер людей	inclusive
+n	an	no	Виноградная улитка	inclusive
+n	qas	no	ballock	inclusive
+n	om	no	крест комод	inclusive
+n	cds	no	взломщица	inclusive
+n	ddf	yes	с ограниченными возможностями	inclusive
+n	svp	no	леность	inclusive
+n	ddp	yes	некомпетентный	conservative
+n	dmc	yes	плохой работник	conservative
+n	cds	no	племенных	inclusive
+n	is	yes	обет бедности	inclusive
+n	ps	yes	Подменыш	conservative
+n	cds	no	Бульварная литература	inclusive
+n	ddp	yes	дикарь	conservative
+n	cds	no	родственный	inclusive
+n	ps	yes	дикарка	conservative
+n	ddp	yes	bumbler	conservative
+a	svp	no	злобный	conservative
+n	svp	no	омерзение	inclusive
+n	dmc	yes	мот	inclusive
+n	cds	no	репортер	inclusive
+n	qas	no	Прихожане	inclusive
+n	cds	no	ляпсус	inclusive
+n	dmc	yes	неприкасаемый	inclusive
+v	asm	no	отъебать	conservative
+n	re	no	Развращение малолетних	inclusive
+n	cds	no	фата	inclusive
+n	cds	no	mussiness	conservative
+n	an	no	Чёрная казарка	inclusive
+n	cds	no	малютка	inclusive
+v	asm	no	дрю́читься	conservative
+n	om	no	Анатомические термины	inclusive
+n	re	no	Коза Ностра	inclusive
+n	om	no	пидорас	conservative
+n	ddp	yes	Имбецилия	inclusive
+n	cds	no	омниум-gatherum	inclusive
+n	cds	no	злодейка	conservative
+n	an	no	трус	conservative
+n	dmc	yes	предатель	conservative
+n	cds	no	Фундаменталист	inclusive
+n	cds	no	фашистского режима	conservative
+n	an	no	athene noctua	inclusive
+n	dmc	yes	мракобес	conservative
+n	svp	no	бережливость	inclusive
+n	asm	no	бестолочь	inclusive
+n	an	no	человеческие вши тела	inclusive
+n	qas	no	Барон	inclusive
+n	ddp	yes	Животные организмы	inclusive
+n	re	no	угон скота	inclusive
+n	cds	no	замарашка	conservative
+n	an	no	коротышка	conservative
+n	cds	no	банды	inclusive
+n	cds	no	размазня́	conservative
+n	ps	yes	Еврейская религия	inclusive
+n	an	no	собачка	inclusive
+n	an	no	bison	inclusive
+n	svp	no	едок	inclusive
+n	re	no	убийстве второй степени	inclusive
+n	asf	no	Влагалище женщины	conservative
+n	cds	no	гомункулов	inclusive
+n	or	no	brassica oleracea var. capitata	inclusive
+n	an	no	vipera berus	inclusive
+n	ddp	yes	глупость	conservative
+n	asm	no	рывок-офф	conservative
+n	an	no	Лайялка	inclusive
+n	cds	no	мужлан	conservative
+n	cds	no	пакостник	conservative
+n	qas	no	мужла́н	conservative
+n	an	no	Бабочки моли	inclusive
+n	qas	no	мужик	conservative
+a	cds	no	шабло́нный	inclusive
+n	an	no	простофиля	conservative
+n	ddp	yes	варварским	conservative
+n	an	no	Собаки	inclusive
+n	asf	no	недотёпа	conservative
+n	or	no	никудышный человек	conservative
+n	an	no	bos taurus taurus	inclusive
+n	ps	yes	негр	conservative
+n	an	no	Речные угри	inclusive
+n	pa	yes	приверженка	inclusive
+n	cds	no	Фундаментализм	inclusive
+n	cds	no	толпа	inclusive
+n	an	no	крохобо́р	conservative
+a	svp	no	высокоме́рный	conservative
+n	ddp	yes	умственная отсталость	inclusive
+n	or	no	глупый	conservative
+n	cds	no	полисмен	conservative
+n	or	no	огурчик	inclusive
+n	cds	no	бесёнок	conservative
+n	asm	no	мужской половой орган	inclusive
+n	cds	no	проницательность	inclusive
+n	asf	no	folderol	conservative
+n	ddf	yes	Инвалид iii группы	inclusive
+n	an	no	gallus domesticus	inclusive
+n	svp	no	безде́льник	conservative
+n	qas	no	попрошайка	conservative
+n	an	no	Рессурекционист	inclusive
+n	ddp	yes	негра́мотный	inclusive
+n	dmc	yes	ложности	inclusive
+n	re	no	Итальянская мафия	inclusive
+n	ddp	yes	бессмыслица	conservative
+n	an	no	bison bison	inclusive
+n	an	no	подлец	conservative
+n	ddp	yes	балда	conservative
+n	asm	no	Уровень Луизы	inclusive
+a	cds	no	взыскательный	conservative
+n	cds	no	Декриминализация	inclusive
+n	an	no	угрей	inclusive
+a	ddp	yes	звериный	conservative
+n	pa	yes	экстраординарным профессором	inclusive
+n	cds	no	дерзость	conservative
+n	om	no	homophile движения	inclusive
+n	pr	no	Кокотка	inclusive
+n	cds	no	крупного рогатого скота вор	inclusive
+n	qas	no	сумбур	inclusive
+n	an	no	подотряда blattaria	inclusive
+n	cds	no	зилотов	inclusive
+n	asm	no	фраер	conservative
+n	svp	no	тщетности	conservative
+n	cds	no	него́дник	inclusive
+n	ddp	yes	варвар	conservative
+n	an	no	ярка	inclusive
+n	an	no	скорпионы	inclusive
+n	asm	no	глупец	inclusive
+n	cds	no	бытовых отходов	conservative
+n	ps	yes	желтую карточку	inclusive
+n	pr	no	канализационную крысу	inclusive
+n	ps	yes	фраер	conservative
+n	cds	no	Братство франкмасонов	inclusive
+n	cds	no	гардеро́бная	inclusive
+n	an	no	biston betularia	inclusive
+n	re	no	грабитель	inclusive
+n	qas	no	Состав смеси	inclusive
+n	an	no	неуч	conservative
+a	dmc	yes	поддельный	conservative
+n	cds	no	бедняга	conservative
+n	an	no	свинтус	conservative
+n	cds	no	Дзё	inclusive
+n	ddf	yes	коротышка	conservative
+n	cds	no	трепло́	conservative
+n	cds	no	альфо́нс	inclusive
+a	ddp	yes	идиотский	conservative
+n	cds	no	преступной деятельности	inclusive
+n	cds	no	наркоман	conservative
+n	an	no	опарыш	inclusive
+n	asm	no	дурачок	conservative
+n	an	no	Козлы	inclusive
+n	cds	no	Кэн	inclusive
+n	dmc	yes	лоботря́ска	conservative
+n	cds	no	зритель	conservative
+v	asm	no	отдрю́читься	conservative
+n	cds	no	итальянская мафия	inclusive
+n	an	no	Чеколка	inclusive
+n	cds	no	железный лом	conservative
+n	svp	no	влечение	inclusive
+n	re	no	навет	inclusive
+n	cds	no	полицай	inclusive
+a	is	yes	скупой	conservative
+n	qas	no	остатки	inclusive
+n	an	no	Бесхвостые земноводные	inclusive
+n	an	no	бред собачий	conservative
+n	pr	no	альфо́нс	conservative
+v	asm	no	выёбываться	inclusive
+n	ddp	yes	болваном	conservative
+n	qas	no	слоняться	conservative
+n	dmc	yes	Благородная ложь	inclusive
+n	an	no	юбка охотник	conservative
+n	cds	no	онанизм	conservative
+n	cds	no	дуралей	conservative
+n	pr	no	Проститутки	conservative
+n	qas	no	частный детектив	inclusive
+n	an	no	скупец	conservative
+n	qas	no	Лжец	conservative
+n	an	no	Моллюск	inclusive
+n	or	no	болваном	conservative
+n	qas	no	прокол	inclusive
+n	cds	no	ростовщица	inclusive
+n	cds	no	сыно́чек	inclusive
+n	cds	no	Уровень Луизы	inclusive
+n	cds	no	самовлюбленность	inclusive
+n	pr	no	фигня	conservative
+n	cds	no	Квазиделикт	inclusive
+n	pr	no	му-корова	inclusive
+n	re	no	преступник	inclusive
+n	ddp	yes	metazoa	inclusive
+n	cds	no	незаконной деятельности	inclusive
+n	an	no	Нательная вошь	inclusive
+n	an	no	жулик	conservative
+n	om	no	геев	inclusive
+n	pr	no	шлю́ха	conservative
+n	re	no	террористический акт	conservative
+n	cds	no	conceitedness	conservative
+n	an	no	Гнус	inclusive
+n	dmc	yes	lingerer	conservative
+n	dmc	yes	моральное банкротство	inclusive
+n	svp	no	Лень	inclusive
+n	ddp	yes	Идиотизм	inclusive
+n	cds	no	фальшь	inclusive
+n	cds	no	Папараццо	inclusive
+n	dmc	yes	Гомункулюс	inclusive
+n	an	no	megascops	inclusive
+n	an	no	дурень	conservative
+n	pr	no	шалава	conservative
+n	cds	no	хамка	conservative
+n	cds	no	клики	inclusive
+n	an	no	ове́чка	conservative
+n	re	no	поношение	inclusive
+n	cds	no	Гомункулус	inclusive
+n	re	no	была закона	inclusive
+n	pr	no	джон	inclusive
+n	om	no	poove	conservative
+n	an	no	крокодилов	inclusive
+n	re	no	убийства	inclusive
+n	ddp	yes	сброда и бобтейл	conservative
+n	ps	yes	Бастард	inclusive
+n	an	no	blattoidea	inclusive
+n	om	no	анатомические точки зрения расположения	inclusive
+n	cds	no	лживость	inclusive
+n	an	no	личинки	inclusive
+n	ps	yes	черные люди	inclusive
+n	cds	no	обоз	inclusive
+n	cds	no	бандиты	inclusive
+n	asm	no	ногочелюсть	inclusive
+n	qas	no	blunderer	conservative
+n	pa	yes	адъюнкт-профессор	inclusive
+n	ddp	yes	перевертыш	inclusive
+n	cds	no	варварским	conservative
+n	ddp	yes	идиотизм	inclusive
+n	asm	no	мужской половой член	inclusive
+n	cds	no	остолоп	conservative
+n	cds	no	Пеон	inclusive
+n	qas	no	простолюдина	inclusive
+n	re	no	угон	inclusive
+n	ddp	yes	мужик	conservative
+n	cds	no	дикарь	conservative
+n	ps	yes	негроидной	inclusive
+n	an	no	подотряда blattodea	inclusive
+n	is	yes	бедняк	inclusive
+n	cds	no	Фармазоны	inclusive
+n	an	no	бестолочь	conservative
+n	pr	no	болтовня	conservative
+n	om	no	Гомофилия	inclusive
+n	an	no	крупного рогатого скота	inclusive
+n	an	no	Обыкновенная гадюка	inclusive
+n	asm	no	яйца	inclusive
+n	an	no	otus asio	inclusive
+n	cds	no	Криминал	inclusive
+n	asm	no	придатков	inclusive
+a	cds	no	пронырливый	conservative
+n	svp	no	семи смертных грехов	inclusive
+n	qas	no	тагалонг	conservative
+n	asm	no	идиот	inclusive
+n	cds	no	деликт	inclusive
+n	re	no	Киднеппинг	inclusive
+n	dmc	yes	расточитель	inclusive
+n	cds	no	сводня	conservative
+n	ddp	yes	Каприз	inclusive
+n	is	yes	скупе́ц	conservative
+n	cds	no	Зелоты	inclusive
+v	asm	no	заниматься сексом	conservative
+n	cds	no	чертёнок	conservative
+n	ddf	yes	людей с ограниченными возможностями	inclusive
+n	asm	no	птиц	inclusive
+n	asf	no	чайник	conservative
+n	om	no	Квир	conservative
+n	cds	no	Шейлок	conservative
+n	ps	yes	мужик	conservative
+n	om	no	homophile	inclusive
+n	cds	no	шутник	inclusive
+n	re	no	вымогательство	conservative
+n	cds	no	начальник	inclusive
+n	an	no	Царство животных	inclusive
+n	dmc	yes	транжир	inclusive
+n	cds	no	много	inclusive
+n	cds	no	отхожее место	inclusive
+n	cds	no	клан	inclusive
+n	dmc	yes	Парии	inclusive
+n	dmc	yes	свинтус	conservative
+n	qas	no	Конформность	inclusive
+n	pr	no	сука	conservative
+n	ps	yes	Иуд	inclusive
+n	cds	no	стадо	inclusive
+v	re	no	краcть	inclusive
+n	qas	no	Парафия	inclusive
+n	re	no	киднэппинг	inclusive
+n	ps	yes	Цыгане	inclusive
+n	or	no	Глупость	conservative
+n	om	no	пи́дор	inclusive
+n	is	yes	бедняга	inclusive
+n	ddp	yes	лох	conservative
+n	cds	no	сволочь	conservative
+n	cds	no	маклер	inclusive
+n	re	no	Движения за независимость Чехословакии	conservative
+n	cds	no	новоявленным богатым	inclusive
+n	cds	no	Грандж	inclusive
+n	re	no	тяжкое преступление	inclusive
+n	cds	no	самонадеянность	conservative
+n	cds	no	Коза Ностра	inclusive
+n	an	no	Пёстрая неясыть	inclusive
+n	pr	no	Чин	inclusive
+n	svp	no	нелюбо́вь	inclusive
+n	pa	yes	Заслуженный профессор	inclusive
+n	dmc	yes	Либертинаж	conservative
+n	cds	no	Идолопоклонничество	inclusive
+n	cds	no	сутенер	inclusive
+n	is	yes	скряга	conservative
+v	asm	no	лоботря́сничать	inclusive
+n	an	no	жаба лягушка	inclusive
+n	svp	no	танха	inclusive
+n	ddp	yes	сплетник	conservative
+n	an	no	мягкотелый	inclusive
+n	pr	no	подстилка	conservative
+n	an	no	Псина	inclusive
+n	ddp	yes	дебильности	inclusive
+n	om	no	гомик	inclusive
+n	om	no	Антеверсия	inclusive
+n	dmc	yes	баловни́к	inclusive
+n	ddp	yes	дурак	inclusive
+n	cds	no	Сицилийская мафия	conservative
+n	cds	no	зубрить	conservative
+n	an	no	овца́	conservative
+n	cds	no	засорение	inclusive
+n	ps	yes	еврей	inclusive
+n	re	no	был	inclusive
+n	or	no	queer	conservative
+n	ddp	yes	нонсенс	conservative
+n	ddp	yes	одушевленное существо	inclusive
+n	re	no	свирепость	inclusive
+n	dmc	yes	злодейка	conservative
+n	is	yes	пария	inclusive
+n	ps	yes	Монголоязычные народы	inclusive
+n	an	no	женщина охотник	conservative
+n	qas	no	враньё	conservative
+n	pr	no	Интимные услуги	conservative
+n	dmc	yes	выделения	inclusive
+n	cds	no	игорный дом	inclusive
+n	or	no	жо́пник	conservative
+n	pr	no	Женщина лёгкого поведения	conservative
+n	qas	no	ляпы	inclusive
+n	cds	no	толпиться	inclusive
+n	re	no	воровство	inclusive
+n	an	no	Пухоедовые	inclusive
+n	asm	no	мягкая на ощупь	conservative
+n	asm	no	Дебильность	inclusive
+n	cds	no	распространитель слухов	conservative
+a	svp	no	враждебный	conservative
+n	dmc	yes	трагическим злодеем	conservative
+n	re	no	похищает	inclusive
+n	dmc	yes	уклоняющийся от работы человек	conservative
+n	ddp	yes	слабоумный	inclusive
+n	om	no	гомосексуализм	inclusive
+n	an	no	бычок-кастрат	inclusive
+n	pr	no	шлак	conservative
+n	an	no	снайпер	inclusive
+n	cds	no	бесёнок	inclusive
+n	qas	no	Барак	inclusive
+n	cds	no	писец	conservative
+n	cds	no	Итальянская мафия	conservative
+n	dmc	yes	моралистической	inclusive
+n	cds	no	Беспородная собака	inclusive
+n	or	no	гомосексуальный	conservative
+n	pr	no	сводня	conservative
+n	pa	yes	Ординарный профессор	inclusive
+n	cds	no	гиперсексуальность	conservative
+n	cds	no	Ростовщичество	conservative
+n	cds	no	ТБО	conservative
+a	is	yes	бедные	inclusive
+n	ddp	yes	муда́к	conservative
+n	cds	no	Фун	inclusive
+n	ddp	yes	необразованный человек	conservative
+n	cds	no	Реакция политическая	conservative
+n	dmc	yes	неумеха	conservative
+n	an	no	Энтомофауна	inclusive
+n	pa	yes	специального посланника	inclusive
+n	cds	no	племенных обществ	inclusive
+n	om	no	homophile движения	conservative
+n	ddp	yes	Подменыш	inclusive
+n	cds	no	педант	conservative
+n	dmc	yes	бомж	inclusive
+n	cds	no	грешница	conservative
+n	svp	no	tightfistedness	conservative
+n	qas	no	ляп	inclusive
+n	an	no	Пиявки	inclusive
+n	om	no	ягодицы	inclusive
+n	ddf	yes	недостаток	inclusive
+n	re	no	Человекоубийство	inclusive
+n	cds	no	святыню	inclusive
+n	svp	no	лох-офф	conservative
+n	ps	yes	других рас	inclusive
+n	cds	no	процент	inclusive
+n	asm	no	поля бобов	inclusive
+n	cds	no	скряга	conservative
+n	cds	no	олух	conservative
+n	svp	no	куркуль	inclusive
+n	dmc	yes	мужлан	conservative
+n	svp	no	чванство	conservative
+n	svp	no	смертный грех	inclusive
+n	an	no	мошка	inclusive
+n	ddp	yes	Дебильность	conservative
+n	rci	yes	скряга	conservative
+n	re	no	ярость	inclusive
+n	cds	no	теоретики заговора	inclusive
+n	is	yes	Хариджан	inclusive
+n	ps	yes	цыган	inclusive
+n	dmc	yes	бездельница	conservative
+n	an	no	курку́ль	conservative
+n	qas	no	собака дома	inclusive
+n	cds	no	нытик	conservative
+n	ddp	yes	никудышный человек	conservative
+v	asm	no	бить баклу́ши	inclusive
+n	an	no	sus	inclusive
+n	svp	no	простой	inclusive
+n	pr	no	шлюха	conservative
+n	svp	no	дилли-далье	conservative
+n	cds	no	спесь	conservative
+n	or	no	капу́ста	inclusive
+n	ddp	yes	Заключенный	inclusive
+n	svp	no	бездействие	inclusive
+n	cds	no	отщепенец	conservative
+n	re	no	дьяволёнок	inclusive
+n	cds	no	половина пинты	conservative
+n	an	no	caiman	inclusive
+n	cds	no	лягавый	conservative
+n	cds	no	мерзавец	conservative
+n	cds	no	Бегарды	inclusive
+n	dmc	yes	лукавый человек	conservative
+n	pa	yes	служащая	inclusive
+n	cds	no	трусость	inclusive
+n	cds	no	хлам	conservative
+n	cds	no	балбес	conservative
+n	pr	no	Проститут	conservative
+n	om	no	гомоэротические	inclusive
+n	an	no	тела похитителя	inclusive
+n	pr	no	biston betularia	inclusive
+n	an	no	дрочила	conservative
+n	re	no	Похищение людей	inclusive
+n	cds	no	сноб	conservative
+n	re	no	шалу́н	inclusive
+n	pr	no	Проститутки	inclusive
+n	svp	no	праздность	conservative
+n	cds	no	culchie	inclusive
+n	an	no	бизон	inclusive
+n	cds	no	плохой работник	conservative
+n	cds	no	группа родственников	inclusive
+n	om	no	Гомоэротизм	inclusive
+n	an	no	Герпетофауна	inclusive
+n	asm	no	тупица	inclusive
+n	dmc	yes	такой-сякой	conservative
+n	re	no	Растление	inclusive
+n	an	no	растрёпа	conservative
+n	an	no	ссыкун	conservative
+n	or	no	Ранетка	inclusive
+n	svp	no	conceitedness	conservative
+n	cds	no	ростовщики	conservative
+n	ddp	yes	Дебилизм	inclusive
+n	re	no	Квазиделикт	inclusive
+n	asm	no	fuck	conservative
+n	an	no	Плеон	inclusive
+n	an	no	acridophaga	inclusive
+n	qas	no	незнатного происхождения	inclusive
+n	om	no	насиловали	inclusive
+n	an	no	болван	conservative
+n	re	no	шельмование	conservative
+n	re	no	кража	inclusive
+n	cds	no	разбойник	inclusive
+n	dmc	yes	лгун	conservative
+n	an	no	Пиявка	inclusive
+n	an	no	Животные-людоеды	inclusive
+n	cds	no	Двортерьер	inclusive
+n	dmc	yes	пострелёнок	inclusive
+n	qas	no	Крестьянки	inclusive
+n	re	no	коза ностра	inclusive
+n	asm	no	член	conservative
+n	svp	no	лень	inclusive
+n	an	no	Похищение трупов	inclusive
+n	an	no	обыкновенный шакал	inclusive
+n	dmc	yes	дилли-далье	conservative
+n	asf	no	фраер	conservative
+n	cds	no	Категории преступлений	inclusive
+n	an	no	коза антилопа	inclusive
+n	om	no	трансвестизм	inclusive
+n	re	no	плагиат	inclusive
+n	re	no	maligner	conservative
+n	asm	no	петух	inclusive
+n	re	no	Хищения	inclusive
+n	ps	yes	селекционер	inclusive
+a	dmc	yes	ненастоящий	conservative
+n	asf	no	остолоп	conservative
+n	cds	no	злоумышленник	inclusive
+n	an	no	морской скорпион	inclusive
+n	pr	no	проституток	conservative
+n	dmc	yes	подонок	conservative
+n	ddp	yes	дура	inclusive
+n	re	no	жестокого обращения	inclusive
+n	asm	no	непристойный	inclusive
+n	pr	no	Коровы	inclusive
+n	cds	no	гордыня	inclusive
+n	an	no	гусёнок	inclusive
+n	cds	no	Тан	inclusive
+n	svp	no	angriness	inclusive
+n	ddf	yes	Инвалид i группы	inclusive
+n	pr	no	проститутка	conservative
+n	cds	no	недотёпа	conservative
+n	cds	no	Эрратизм	inclusive
+n	an	no	Домашний бык	inclusive
+n	an	no	животное	inclusive
+n	om	no	drag queen	inclusive
+n	qas	no	барокко	inclusive
+n	om	no	травести	inclusive
+n	re	no	детоубийство	inclusive
+v	asm	no	дрю́чить	conservative
+n	re	no	Террористы	inclusive
+n	or	no	cucumis посевной	inclusive
+n	pa	yes	защитник	inclusive
+n	pa	yes	сотрудница	inclusive
+n	ps	yes	фриц	conservative
+n	an	no	кровать ошибка	inclusive
+n	dmc	yes	непра́вда	inclusive
+n	cds	no	бесцеремонность	conservative
+n	an	no	жмот	conservative
+n	qas	no	земледельцев	inclusive
+n	re	no	Совращение малолетних	inclusive
+n	cds	no	хуйло́	conservative
+n	cds	no	дешевый бульварный роман	inclusive
+n	an	no	мошек	inclusive
+n	dmc	yes	скряга	conservative
+n	qas	no	фальшь	conservative
+n	svp	no	жадность	inclusive
+n	cds	no	дьяволёнок	conservative
+a	ps	yes	яростный	conservative
+n	cds	no	прокол	inclusive
+n	pa	yes	адъюнкт факультета	inclusive
+n	cds	no	папараццо	inclusive
+n	an	no	дурачина	conservative
+n	re	no	чертёнок	inclusive
+n	svp	no	Тришна	inclusive
+n	an	no	Настоящие гадюки	inclusive
+n	qas	no	твердых бытовых отходов	inclusive
+n	cds	no	грабитель	inclusive
+n	qas	no	растяпа	conservative
+a	cds	no	нелега́льный	inclusive
+n	an	no	diddlyshit	conservative
+n	re	no	плуто́вка	inclusive
+n	an	no	осёл	conservative
+n	cds	no	сутенёр	inclusive
+n	cds	no	motley fool	inclusive
+n	svp	no	Танха	inclusive
+n	cds	no	шутник	conservative
+n	an	no	жабы	inclusive
+n	cds	no	канализация	inclusive
+n	ps	yes	глупе́ц	conservative
+n	svp	no	superbia	conservative
+n	asf	no	ничтожество	conservative
+n	svp	no	Уныние	inclusive
+n	an	no	Африканский волк	inclusive
+n	dmc	yes	прока́зник	inclusive
+n	om	no	гея	inclusive
+n	an	no	физиономия	inclusive
+n	cds	no	loanshark	inclusive
+n	pr	no	Домашний бык	inclusive
+n	dmc	yes	бродяг	inclusive
+n	pr	no	поблядушка	conservative
+n	cds	no	сутенерство	inclusive
+n	cds	no	трусишка	conservative
+v	asm	no	одурачить	conservative
+n	an	no	лягушек	inclusive
+n	ps	yes	doofus	conservative
+n	cds	no	итальянской мафии	conservative
+n	pa	yes	Служащий	inclusive
+n	pa	yes	Проф.	inclusive
+a	qas	no	феодальный	inclusive
+n	dmc	yes	варвар	conservative
+n	an	no	anguillidae	inclusive
+n	cds	no	никудышный человек	conservative
+n	re	no	разбойник	inclusive
+n	an	no	Попугеобразные	inclusive
+n	qas	no	простофиля	conservative
+n	pr	no	проституция	inclusive
+n	pa	yes	адвокат по уголовным делам	inclusive
+n	qas	no	крестьян	inclusive
+n	or	no	ле́сби	conservative
+a	cds	no	умный	inclusive
+n	cds	no	уличных банд	inclusive
+v	asm	no	заняться любовь	conservative
+n	cds	no	мудозво́н	conservative
+n	an	no	hirudinea	inclusive
+n	qas	no	каста	inclusive
+n	cds	no	тря́пка	conservative
+n	cds	no	Учитель	inclusive
+n	an	no	варварство	inclusive
+a	ddf	yes	незрячий	inclusive
+n	an	no	Пухоеды	inclusive
+n	pr	no	жопочник	conservative
+n	svp	no	неприятные	inclusive
+n	is	yes	Бедняк	inclusive
+n	is	yes	Маргинальность	inclusive
+n	svp	no	гнев	inclusive
+a	svp	no	возмущённый	conservative
+n	pa	yes	uncouthness	conservative
+n	re	no	Гомицид	inclusive
+n	an	no	остолоп	conservative
+n	cds	no	преступница	conservative
+n	svp	no	бешенство	conservative
+n	cds	no	слабовольный человек	conservative
+n	qas	no	крестьянин	inclusive
+n	qas	no	паразитируют	inclusive
+n	cds	no	придурок	conservative
+n	re	no	воровские	inclusive
+a	ps	yes	чёрный	inclusive
+n	cds	no	Уне	inclusive
+n	ddp	yes	профан	conservative
+n	om	no	Гомосексуальная ориентация	inclusive
+n	qas	no	Крестьяне	inclusive
+n	dmc	yes	моральный кодекс	inclusive
+n	dmc	yes	свинья	conservative
+n	om	no	Содомский грех	inclusive
+n	an	no	crocodilia	inclusive
+n	cds	no	член банды	conservative
+n	an	no	helix pomatia	inclusive
+n	ps	yes	Чернокожие	inclusive
+n	cds	no	Теория тайного сговора	inclusive
+n	ddp	yes	варваров	conservative
+n	cds	no	брокеров	inclusive
+n	qas	no	послушник	inclusive
+n	cds	no	озорство	conservative
+n	cds	no	Тяжкие преступления	inclusive
+a	dmc	yes	низкий	conservative
+n	re	no	плохое обращение с кем-л.	inclusive
+n	an	no	Североамериканская совка	inclusive
+n	asm	no	темно-бордовый	inclusive
+n	asf	no	девица	conservative
+n	cds	no	мя́мля	conservative
+n	cds	no	Итальянская мафия	inclusive
+n	qas	no	sodbuster	inclusive
+n	an	no	красный барабан	inclusive
+n	an	no	phthiraptera	inclusive
+n	asf	no	влагалище	conservative
+n	cds	no	неправда	conservative
+n	re	no	Шантажист	conservative
+n	or	no	brassica рапа	inclusive
+n	dmc	yes	босяк	inclusive
+n	cds	no	молокосос	conservative
+n	cds	no	ребенка	inclusive
+n	dmc	yes	расточитель	conservative
+n	cds	no	теории заговора	inclusive
+n	ddp	yes	животный мир	inclusive
+n	an	no	змея	conservative
+n	qas	no	немилости	inclusive
+n	asf	no	бестолочь	conservative
+a	ddp	yes	легковерный	conservative
+n	cds	no	беспорядок	inclusive
+n	cds	no	растрёпа	conservative
+n	asf	no	волосы на лобке	inclusive
+n	asm	no	увалень	inclusive
+n	cds	no	Барахло	conservative
+n	pr	no	скот	inclusive
+n	svp	no	абулия	inclusive
+n	cds	no	денди	inclusive
+n	or	no	жо́почник	conservative
+n	asm	no	ручной	conservative
+n	cds	no	высокомерия	conservative
+n	cds	no	Лжец	conservative
+n	an	no	бесхвостых	inclusive
+n	dmc	yes	Ляп	inclusive
+n	asm	no	Идиотия	inclusive
+n	cds	no	залупа	conservative
+n	pa	yes	бухга́лтер	inclusive
+n	dmc	yes	бандиты	inclusive
+n	pa	yes	Ординарный академик	inclusive
+n	an	no	хлам	conservative
+n	cds	no	молельня	inclusive
+n	dmc	yes	бесёнок	inclusive
+n	an	no	Коровница	inclusive
+a	cds	no	бессмысленный	conservative
+n	ddp	yes	отморо́зок	inclusive
+n	pr	no	Мужская проституция	conservative
+n	cds	no	Мафиозо	conservative
+n	cds	no	смешанной породы собак	inclusive
+n	cds	no	кланов	inclusive
+n	svp	no	похотливые	inclusive
+n	cds	no	Хищения	inclusive
+n	cds	no	Конспирологическая теория	inclusive
+a	dmc	yes	аморальный	conservative
+n	pa	yes	профессура	inclusive
+n	an	no	Слизняк	inclusive
+n	cds	no	Ливнёвка	inclusive
+n	om	no	жо́пник	conservative
+n	ps	yes	jigaboo	conservative
+n	cds	no	плакса	conservative
+n	an	no	Животные	inclusive
+n	cds	no	жестокость	conservative
+n	cds	no	суб-клана	inclusive
+n	cds	no	ростовщика	conservative
+n	qas	no	буржуазного общества	inclusive
+n	an	no	Попугаеобразные	inclusive
+n	an	no	слабовольный человек	conservative
+n	ps	yes	Ниггер	inclusive
+n	ps	yes	иуде́йство	inclusive
+n	asm	no	дрочение	conservative
+n	dmc	yes	лох	conservative
+n	an	no	Американский бизон	inclusive
+n	ps	yes	красную карточку	inclusive
+n	dmc	yes	вероотступница	conservative
+n	dmc	yes	лукавый человек	inclusive
+n	pr	no	коричневая крыса	inclusive
+n	cds	no	бандитских разборок	inclusive
+n	an	no	Попугаи	inclusive
+n	om	no	гомосе́к	inclusive
+n	re	no	Чадоложество	inclusive
+n	an	no	bufo bufo	inclusive
+n	asm	no	доверчивости	conservative
+n	or	no	nick jr.	inclusive
+n	rci	yes	хам	conservative
+n	cds	no	cosa nostra	inclusive
+n	asm	no	широкий фасоль	inclusive
+n	qas	no	хибарка	inclusive
+n	cds	no	религиозной дискриминации	inclusive
+n	an	no	внутренние задницу	inclusive
+n	re	no	злоупотреблять	inclusive
+n	cds	no	книжный червь	conservative
+n	om	no	Анальное сношение	inclusive
+n	cds	no	отморо́зок	inclusive
+a	ps	yes	чернокожий	inclusive
+n	asm	no	тупица	conservative
+n	dmc	yes	такой-сякой	inclusive
+n	dmc	yes	Злодейка	conservative
+n	or	no	blockhead	conservative
+n	dmc	yes	грубиянка	conservative
+n	an	no	общие комаров	inclusive
+n	cds	no	фундаменталисты	inclusive
+n	qas	no	баронств	inclusive
+n	dmc	yes	пакостник	inclusive
+n	an	no	Козлята	inclusive
+n	qas	no	чернь	conservative
+n	an	no	мо́рда	inclusive
+n	cds	no	бзде́ние	conservative
+n	cds	no	наглость	conservative
+n	dmc	yes	разбойник	conservative
+n	pa	yes	хам	conservative
+n	qas	no	Враль	conservative
+n	dmc	yes	лентя́йка	conservative
+n	asm	no	ебля	conservative
+n	om	no	го́мик	conservative
+n	ddf	yes	инвалидов	inclusive
+n	om	no	переодевание	inclusive
+n	an	no	Куры	inclusive
+n	cds	no	blunderer	conservative
+n	cds	no	дворня́га	inclusive
+n	cds	no	лодырь	conservative
+n	asm	no	Плоть крайняя	inclusive
+n	asf	no	неумный человек	conservative
+n	qas	no	офисную работу	inclusive
+n	asm	no	тёмно-бордо́вый	inclusive
+n	svp	no	avaritia	inclusive
+n	asf	no	мохнатка	inclusive
+n	cds	no	сыщик	conservative
+n	ddp	yes	задница	conservative
+n	re	no	сексуальные преступления	inclusive
+n	an	no	уличный	conservative
+n	om	no	Трансвестизм	inclusive
+n	ps	yes	дебил	conservative
+n	re	no	трагическим злодеем	conservative
+n	cds	no	зубрила	conservative
+n	cds	no	Гиперсексуал	conservative
+n	re	no	рэкетир	inclusive
+n	qas	no	варваров	conservative
+a	is	yes	недостаточный	inclusive
+n	an	no	домашней собаки	inclusive
+n	re	no	злодея	conservative
+n	dmc	yes	бездельник	conservative
+a	svp	no	злой	inclusive
+n	cds	no	итальянская мафия	conservative
+n	cds	no	подлая	conservative
+n	cds	no	бандитов	inclusive
+n	pr	no	домашнего скота	inclusive
+n	qas	no	меланж	inclusive
+n	cds	no	молодежных банд	inclusive
+n	cds	no	стада животных	inclusive
+n	pr	no	светская львица	inclusive
+n	cds	no	помесь	inclusive
+n	or	no	простофиля	conservative
+n	re	no	Причинение смерти	inclusive
+n	cds	no	высокомерия	inclusive
+n	dmc	yes	прока́зница	inclusive
+n	an	no	hemipterous насекомых	inclusive
+n	cds	no	Лжец	inclusive
+n	cds	no	педантичный	conservative
+n	an	no	кайман	inclusive
+n	or	no	cucumis sativus	inclusive
+n	re	no	душегуб	inclusive
+n	dmc	yes	чеканщик	conservative
+n	cds	no	дуралей	inclusive
+n	an	no	Сука собаки	inclusive
+a	asm	no	кофейный	inclusive
+n	ps	yes	зулусов	inclusive
+n	dmc	yes	преступный	inclusive
+n	dmc	yes	Зло	inclusive
+n	dmc	yes	зло	conservative
+n	dmc	yes	Диссимуляция	conservative
+n	cds	no	тупица	inclusive
+n	an	no	людоеда	inclusive
+a	cds	no	продвинутый	inclusive
+n	ps	yes	краут	conservative
+n	cds	no	него́дница	conservative
+n	an	no	поросёнок	inclusive
+n	re	no	Ндрангета	inclusive
+n	qas	no	путаник	conservative
+n	om	no	queer	conservative
+n	is	yes	трагическим злодеем	conservative
+a	ddf	yes	гнусный	conservative
+n	an	no	слаба́к	conservative
+n	qas	no	ляпсус	inclusive
+n	dmc	yes	ротозей	conservative
+n	cds	no	демагог	conservative
+n	an	no	Музыкальная мистификация	conservative
+n	dmc	yes	БОМЖиЗ	conservative
+n	cds	no	хаос	inclusive
+n	qas	no	касты	inclusive
+n	an	no	чтобы crocodylia	inclusive
+n	dmc	yes	изменница	conservative
+n	an	no	запрещено совы	inclusive
+n	an	no	megascops asio	inclusive
+n	svp	no	заносчивость	conservative
+n	ddp	yes	Синдром врожденной йодной недостаточности	inclusive
+n	cds	no	туалетов	inclusive
+n	svp	no	ярость	conservative
+n	ddp	yes	болтун	conservative
+n	an	no	дидли-дерьмо	conservative
+n	an	no	поморщившись	inclusive
+n	ps	yes	Расовый состав США	inclusive
+n	pa	yes	поборница	inclusive
+a	svp	no	спесивый	conservative
+n	an	no	Сип белоголовый	inclusive
+n	an	no	гнев	inclusive
+n	qas	no	лавочник	inclusive
+n	cds	no	злодеяние	inclusive
+n	an	no	боягу́з	conservative
+n	re	no	преступной деятельности	inclusive
+n	asm	no	aves	inclusive
+n	cds	no	Водоотведение	inclusive
+n	pa	yes	министра	inclusive
+n	svp	no	едок	conservative
+n	ddp	yes	грубиянка	conservative
+n	cds	no	куч	inclusive
+n	om	no	переодеванию	inclusive
+n	cds	no	гангстер	inclusive
+n	or	no	Тыква гигантская	inclusive
+n	cds	no	сотрудница полиции	conservative
+v	re	no	обманывать	inclusive
+n	an	no	корова	inclusive
+n	an	no	Коза домашняя	inclusive
+n	an	no	семья crocodylidae	inclusive
+n	pa	yes	директор похоронного бюро	inclusive
+n	qas	no	сыщик	inclusive
+n	ddp	yes	фауны	inclusive
+n	cds	no	пострелёнок	inclusive
+n	pr	no	rattus	inclusive
+n	cds	no	нимфоманка	conservative
+n	qas	no	чайник рыбы	inclusive
+a	cds	no	изби́тый	inclusive
+n	re	no	сексуальное преступление	inclusive
+n	ddf	yes	Инвалид третьей группы	inclusive
+n	an	no	caprinae	inclusive
+n	cds	no	забаллотирован	inclusive
+n	an	no	Мужская проституция	conservative
+n	or	no	Дурачок	conservative
+n	cds	no	лягавый	inclusive
+n	re	no	бандитов	inclusive
+n	dmc	yes	ло́дырь	conservative
+n	an	no	Бизон европейский	inclusive
+n	re	no	Мафиози	inclusive
+n	an	no	вшей	inclusive
+n	or	no	Фенхель обыкновенный	inclusive
+n	an	no	вульгарность	conservative
+n	cds	no	фанатик	conservative
+n	qas	no	Магнаты	inclusive
+n	re	no	грабежей	inclusive
+n	rci	yes	дикарка	conservative
+n	an	no	пасть	inclusive
+a	dmc	yes	неряшливый	conservative
+n	cds	no	наро́д	conservative
+n	an	no	ха́стлер	conservative
+n	dmc	yes	никчемный человек	conservative
+n	an	no	selachii	inclusive
+n	dmc	yes	обманщик	conservative
+n	an	no	нападения акулы	inclusive
+n	ps	yes	варварка	conservative
+n	ddp	yes	животных	inclusive
+n	om	no	сударыня	inclusive
+a	re	no	разъярённый	inclusive
+n	re	no	Насилие	inclusive
+n	an	no	гусенок	inclusive
+n	cds	no	слабоумный	inclusive
+n	cds	no	сводня	inclusive
+n	cds	no	трусом	conservative
+n	re	no	Делинквент	inclusive
+n	cds	no	презренный	conservative
+n	an	no	Гладконогообразные	inclusive
+n	pa	yes	служащий	inclusive
+n	om	no	finocchio	inclusive
+n	cds	no	ха́стлер	inclusive
+n	cds	no	Барахло	inclusive
+n	ddp	yes	невежество	conservative
+n	cds	no	Консильери	conservative
+n	re	no	Флибустьер	inclusive
+n	an	no	capra aegagrus hircus	inclusive
+n	cds	no	Шейлок	inclusive
+n	om	no	осли́ца	inclusive
+n	qas	no	аутоинфекции	inclusive
+n	re	no	вымогательство	inclusive
+n	ddp	yes	грубиян	conservative
+n	om	no	Дистальный	inclusive
+n	qas	no	красноре́чие	inclusive
+n	an	no	пиявки	inclusive
+n	dmc	yes	отступница	conservative
+n	ddp	yes	taleteller	conservative
+n	asm	no	дурак	inclusive
+n	cds	no	портить	inclusive
+n	cds	no	бандит	conservative
+n	ddp	yes	идиот	inclusive
+n	asf	no	Подменыш	conservative
+n	or	no	пе́дик	conservative
+n	re	no	теракт	inclusive
+n	om	no	Дорсальный	inclusive
+n	cds	no	Уголовное преступление	inclusive
+n	re	no	Сицилийская мафия	inclusive
+n	cds	no	Нимфомания	inclusive
+n	svp	no	жадина	conservative
+n	cds	no	нуворишей	inclusive
+n	an	no	животный мир	inclusive
+n	ddp	yes	дурень	inclusive
+n	re	no	пытать	inclusive
+n	an	no	humanus	inclusive
+a	cds	no	остроумный	inclusive
+n	cds	no	Коза Ностра	conservative
+n	svp	no	Бесхарактерность	inclusive
+n	cds	no	trasformismo	inclusive
+n	pr	no	сексуальных услуг	inclusive
+n	qas	no	промышленник	inclusive
+n	cds	no	мужла́н	conservative
+n	cds	no	потворствовать	conservative
+n	pr	no	коро́ва	inclusive
+n	qas	no	Обман	conservative
+n	cds	no	племени	inclusive
+n	an	no	Совы	inclusive
+a	svp	no	ворчливый	conservative
+n	an	no	бука́шка	inclusive
+n	cds	no	сплетник	conservative
+n	asm	no	чертов	conservative
+n	svp	no	тщетность	conservative
+n	an	no	змея подколодная	conservative
+n	re	no	Общественная опасность	inclusive
+n	dmc	yes	бедняга	inclusive
+n	cds	no	Мафиози	inclusive
+n	an	no	клоп	inclusive
+v	an	no	беситься	conservative
+n	ps	yes	монголоидов	conservative
+n	pa	yes	cordwainer	inclusive
+n	re	no	Лишение жизни	inclusive
+n	pr	no	Азиатская землеройная крыса-пасюк	inclusive
+n	cds	no	мент	inclusive
+a	svp	no	обидчивый	conservative
+n	cds	no	Дурачок	conservative
+n	an	no	c. lupus familiaris	inclusive
+n	re	no	Чешская "Маффия"	conservative
+n	re	no	Преступления половые	inclusive
+n	re	no	шантаж	conservative
+n	cds	no	сброд	inclusive
+n	an	no	Червие	inclusive
+n	an	no	домашние собаки	inclusive
+a	svp	no	жа́дный	conservative
+n	dmc	yes	мужик	conservative
+n	an	no	казарка	inclusive
+n	dmc	yes	Лжец	inclusive
+n	cds	no	болтун	conservative
+n	cds	no	босса мафии	inclusive
+n	dmc	yes	правонарушитель	conservative
+n	asf	no	Дебилизм	conservative
+n	cds	no	группа	inclusive
+n	asf	no	Влагалище	conservative
+a	cds	no	канцелярский	inclusive
+n	cds	no	уличной банды	conservative
+n	cds	no	путаник	conservative
+n	dmc	yes	предателя	conservative
+n	cds	no	ляпы	inclusive
+n	pa	yes	Дипломатический ранг	inclusive
+n	an	no	psittaciformes	inclusive
+a	cds	no	малоду́шный	conservative
+n	an	no	Постельный клоп	inclusive
+n	ddp	yes	З к	inclusive
+n	asm	no	прида́ток	inclusive
+n	cds	no	Масоны	inclusive
+n	is	yes	скупость	conservative
+a	svp	no	ненасытный	inclusive
+n	an	no	capra	inclusive
+n	is	yes	городской нищеты	inclusive
+n	svp	no	Леность	inclusive
+n	an	no	пип-писка	conservative
+n	ddp	yes	шарлатан	conservative
+n	cds	no	враньё	conservative
+n	an	no	Блохи	inclusive
+n	svp	no	скряга	inclusive
+n	re	no	захвативший в плен	inclusive
+n	an	no	балда	conservative
+n	asm	no	дурень	inclusive
+n	an	no	американский бизон	inclusive
+a	ddf	yes	хромой	inclusive
+n	asf	no	балбес	conservative
+n	ps	yes	Зулус	inclusive
+n	re	no	Мафиозо	inclusive
+n	an	no	скупость	conservative
+n	ps	yes	Монгол	inclusive
+n	asm	no	гороха	inclusive
+n	cds	no	гибрид	inclusive
+n	ddp	yes	свирепость	conservative
+n	an	no	говнюк	conservative
+n	cds	no	Се	inclusive
+n	asm	no	ничтожество	conservative
+n	re	no	клеветническими	inclusive
+n	om	no	переодеваться	inclusive
+n	cds	no	Твердые бытовые отходы	conservative
+n	an	no	Бесхвостые	inclusive
+n	cds	no	вне закона	inclusive
+n	an	no	моллюсков	inclusive
+n	an	no	Береговой волк	inclusive
+n	ddp	yes	Подменыш	conservative
+n	cds	no	морализирование	inclusive
+n	cds	no	плут	inclusive
+n	cds	no	баловни́к	conservative
+n	om	no	фенхель	inclusive
+n	cds	no	Те	inclusive
+n	svp	no	злость	inclusive
+n	an	no	Эвриптериды	inclusive
+n	ps	yes	горчичник	inclusive
+n	re	no	диффамация	conservative
+n	ps	yes	остгот	inclusive
+n	or	no	дурак	conservative
+n	dmc	yes	позер	conservative
+n	re	no	сицилийской мафии	conservative
+n	svp	no	своеволие	conservative
+n	an	no	дурак	conservative
+n	pr	no	крупный рогатый скот	inclusive
+n	cds	no	Блуперы	inclusive
+n	cds	no	балда	inclusive
+n	an	no	гомно́	conservative
+n	or	no	Геи	conservative
+n	ddp	yes	замедлять	inclusive
+n	svp	no	Ханжа	conservative
+n	asm	no	faba major	inclusive
+n	pr	no	поблядунья	conservative
+n	an	no	Гадюка обыкновенная	inclusive
+n	cds	no	общественные туалеты	inclusive
+n	dmc	yes	клоуны	inclusive
+n	an	no	глупец	conservative
+n	om	no	условия для анатомического расположения	inclusive
+n	or	no	дура	conservative
+n	cds	no	хулиганство	conservative
+n	or	no	brassica rapa	inclusive
+n	ddp	yes	nanocephaly	inclusive
+n	dmc	yes	клоун	inclusive
+n	re	no	негодяй	inclusive
+n	ddp	yes	Олигофрен	inclusive
+n	cds	no	глупый	conservative
+n	ddp	yes	дурачок	conservative
+n	qas	no	малярный	inclusive
+n	cds	no	металлические отходы	inclusive
+n	cds	no	идиот	conservative
+n	re	no	Насилование	conservative
+n	qas	no	Табиуны	inclusive
+n	svp	no	траншеекопатель	inclusive
+n	is	yes	нищих	inclusive
+n	ddp	yes	грубый	conservative
+n	cds	no	Гомункулюс	inclusive
+v	cds	no	поглощать	inclusive
+n	cds	no	разбой	inclusive
+n	qas	no	Яички	inclusive
+n	or	no	мелочность	inclusive
+v	cds	no	жрать	inclusive
+n	re	no	Боевая террористическая организация	inclusive
+n	cds	no	бандитов	conservative
+n	ps	yes	межродовых гибрид	inclusive
+n	or	no	турнепс	inclusive
+n	asf	no	лох	conservative
+n	an	no	лягушка	inclusive
+n	cds	no	нежелательной почты	inclusive
+n	pr	no	наложница	inclusive
+n	an	no	подонок	conservative
+n	an	no	стафилококк камышовый	inclusive
+n	qas	no	домашний	inclusive
+n	cds	no	канализационная система	inclusive
+n	pr	no	Сексуальные услуги	conservative
+n	cds	no	folderol	conservative
+n	ddp	yes	башка	conservative
+n	qas	no	грузило	inclusive
+n	qas	no	Кирхшпиль	inclusive
+n	cds	no	тюремный смотритель	inclusive
+n	cds	no	тюремный охранник	inclusive
+n	an	no	жу́лик	conservative
+n	pr	no	улице девушку	conservative
+n	ps	yes	Чёрный цвет	inclusive
+n	an	no	Ишак	inclusive
+n	an	no	Козлы и бараны	inclusive
+n	an	no	волчанка familiaris	inclusive
+n	cds	no	самомнение	conservative
+n	cds	no	Движение за независимость Чехословакии	conservative
+n	cds	no	новорожденных	inclusive
+n	pa	yes	дверь охранник	inclusive
+n	cds	no	мошенничество	conservative
+n	pr	no	коммерческие акты	conservative
+n	dmc	yes	лицемер	conservative
+n	cds	no	общественный туалет	inclusive
+n	an	no	незнайка	conservative
+n	dmc	yes	перебежчика	conservative
+n	re	no	злоупотребления властью	inclusive
+n	or	no	педик	conservative
+n	an	no	strix varia	inclusive
+n	qas	no	округ	inclusive
+n	dmc	yes	скиталец	inclusive
+n	asm	no	фол	inclusive
+n	an	no	гибрид овцы и козы	inclusive
+n	qas	no	король	inclusive
+a	qas	no	привыкший	inclusive
+n	qas	no	босяк	conservative
+n	om	no	координатам	inclusive
+n	cds	no	бестолочь	conservative
+n	cds	no	гомункула	inclusive
+n	an	no	ушастая сова	inclusive
+n	re	no	преступное поведение	inclusive
+n	cds	no	Городская канализация	inclusive
+n	ps	yes	бродяга	inclusive
+n	om	no	non-прозападный понятия мужской сексуальности	inclusive
+n	cds	no	хищение	inclusive
+n	cds	no	напевать	inclusive
+n	an	no	batrachian	inclusive
+n	or	no	брезгливость	inclusive
+n	re	no	правонарушитель	conservative
+n	cds	no	банда	conservative
+n	ddp	yes	Идиотия	conservative
+n	ps	yes	мужла́н	conservative
+n	cds	no	биотехнологии растений	inclusive
+n	svp	no	далье	conservative
+n	asm	no	brownness	inclusive
+n	dmc	yes	ренегат	conservative
+n	cds	no	случайный удар	inclusive
+n	cds	no	идиотка	conservative
+a	ddp	yes	глупый	conservative
+n	pa	yes	поборник	inclusive
+n	or	no	тупица	conservative
+v	an	no	буйствовать	conservative
+n	cds	no	надменность	conservative
+n	or	no	разиня	conservative
+n	svp	no	скряга	conservative
+n	cds	no	туалета	inclusive
+n	om	no	Гомосексуал	inclusive
+n	cds	no	племя	inclusive
+n	om	no	пидора́с	inclusive
+n	asm	no	яичко	inclusive
+n	re	no	террористка	inclusive
+n	asm	no	jeerer	conservative
+n	an	no	сука	conservative
+n	cds	no	массы	conservative
+n	re	no	calunnia	inclusive
+n	qas	no	рынка хранитель	inclusive
+n	cds	no	бандитизм	conservative
+n	cds	no	папара́цци	inclusive
+n	or	no	балда	conservative
+a	ddf	yes	некрасивый	conservative
+n	cds	no	Общественная опасность	inclusive
+n	cds	no	Металлический лом	inclusive
+n	ddp	yes	Дебилы	inclusive
+n	cds	no	ростовщика	inclusive
+n	qas	no	сельский житель	inclusive
+n	an	no	улитки	inclusive
+n	cds	no	офицер	inclusive
+n	asm	no	писю́н	conservative
+n	re	no	убийц	inclusive
+n	asf	no	козел отпущения	conservative
+n	re	no	plagiarization	inclusive
+n	re	no	домушница	inclusive
+n	dmc	yes	баловни́ца	inclusive
+n	ddp	yes	Царство животных	inclusive
+n	cds	no	Пеонаж	inclusive
+n	dmc	yes	плуто́вка	inclusive
+n	asm	no	nooky	conservative
+n	cds	no	учебного пособия	inclusive
+n	dmc	yes	варваров	conservative
+n	cds	no	проститу́т	inclusive
+n	ddp	yes	деревенщина	conservative
+n	cds	no	ссыкун	conservative
+n	cds	no	отхо́жее ме́сто	inclusive
+n	an	no	толстуха	conservative
+n	cds	no	спесь	inclusive
+n	qas	no	любителей	inclusive
+n	an	no	Слизень	inclusive
+n	om	no	задняя	inclusive
+n	cds	no	тупик	inclusive
+n	pr	no	блуд	conservative
+n	svp	no	Индифферентный	inclusive
+n	cds	no	уклоняющийся от работы человек	conservative
+n	an	no	Нетопыри	inclusive
+n	an	no	зубр	inclusive
+n	cds	no	мальчишка	inclusive
+n	an	no	свинья	conservative
+n	pr	no	ловка́ч	conservative
+n	asf	no	перевертыш	conservative
+n	ddp	yes	порочность	conservative
+n	svp	no	обжора	inclusive
+n	cds	no	масонов	inclusive
+a	ddp	yes	пресный	inclusive
+n	or	no	гомосексуа́л	conservative
+v	asm	no	вы́ебнуться	conservative
+n	cds	no	Идолопоклонство	inclusive
+n	dmc	yes	растяпа	conservative
+n	pr	no	Светская львица	inclusive
+n	dmc	yes	вы́брошенный	inclusive
+n	asm	no	faba minor	inclusive
+n	pa	yes	сторонник	inclusive
+n	rci	yes	Варвары	conservative
+n	pa	yes	профессор колледжа	inclusive
+n	dmc	yes	лоботря́с	conservative
+n	cds	no	Конспиролог	inclusive
+n	dmc	yes	фальшь	inclusive
+n	an	no	Иванова муха	inclusive
+n	qas	no	Быки	inclusive
+n	or	no	говнюк	conservative
+n	dmc	yes	фарисей	inclusive
+n	cds	no	муди́ло	conservative
+n	pr	no	Содержанки	conservative
+n	cds	no	яблоко чистки	conservative
+n	an	no	Горные козлы	inclusive
+n	asm	no	Препуций	inclusive
+n	an	no	гиена	inclusive
+n	ps	yes	чайник	conservative
+n	cds	no	эстрадный певец	inclusive
+n	cds	no	хвасту́н	conservative
+n	svp	no	гордыня	conservative
+n	an	no	личинка	inclusive
+n	dmc	yes	гомункулов	inclusive
+n	ps	yes	еврейской семье	inclusive
+n	ps	yes	гибрид	inclusive
+n	pa	yes	дикарка	conservative
+a	ddf	yes	уродливый	conservative
+n	pr	no	проституция	conservative
+n	ps	yes	Уровень Луизы	conservative
+n	an	no	обыкновенная гадюка	inclusive
+n	re	no	клеветница	conservative
+n	ps	yes	ганс	conservative
+n	dmc	yes	дьяволёнок	inclusive
+n	cds	no	угонщик скота	inclusive
+n	cds	no	Демагогия	conservative
+n	an	no	трагическим злодеем	conservative
+n	re	no	итальянской мафии	inclusive
+n	re	no	cosa nostra	inclusive
+n	pa	yes	директора похоронного бюро	inclusive
+n	qas	no	Касты	inclusive
+n	qas	no	неумеха	conservative
+n	qas	no	хатка	inclusive
+a	om	no	гомосексуальный	conservative
+n	ddp	yes	чушь	inclusive
+n	an	no	Домашний осёл	inclusive
+n	pr	no	ненаёба	conservative
+n	cds	no	фактор	inclusive
+n	ps	yes	Еврейская община	inclusive
+n	ddp	yes	бессмысленные	conservative
+n	cds	no	конформист	conservative
+n	an	no	косный	conservative
+n	cds	no	мистификатор	conservative
+n	ps	yes	Остроготы	inclusive
+n	om	no	гомоэротизма	inclusive
+n	pr	no	Крыса серая	inclusive
+n	om	no	дама	inclusive
+n	re	no	преступления	inclusive
+n	rci	yes	грубиянка	conservative
+n	ps	yes	Иудеи	inclusive
+n	dmc	yes	Дурак	inclusive
+n	dmc	yes	лицемерие	conservative
+n	cds	no	Жулик	inclusive
+n	cds	no	шарлатан	conservative
+n	an	no	ерунда	conservative
+n	cds	no	мужик	conservative
+n	cds	no	неряха	conservative
+n	cds	no	негодяй	conservative
+n	om	no	дорсовентральных	inclusive
+n	cds	no	Массонство	inclusive
+n	cds	no	мягкая на ощупь	conservative
+n	an	no	коз животных	inclusive
+n	ddp	yes	ничего не знаю	conservative
+n	cds	no	враньё	inclusive
+n	re	no	raper	conservative
+n	an	no	Крокодил	inclusive
+n	an	no	балбес	conservative
+n	an	no	совы	inclusive
+n	ddp	yes	Глупость	conservative
+n	cds	no	Деликт	inclusive
+n	ddp	yes	twirp	conservative
+n	cds	no	продажность	conservative
+a	cds	no	коварный	conservative
+n	re	no	хула	conservative
+n	cds	no	множество	inclusive
+n	re	no	вымогать	inclusive
+n	svp	no	крохобо́р	inclusive
+n	cds	no	обман	conservative
+n	cds	no	хитрость	conservative
+v	asm	no	совокупляться	conservative
+n	an	no	Ослы	inclusive
+n	re	no	ограбили	inclusive
+n	svp	no	страстное желание	inclusive
+n	dmc	yes	злоумышленник	inclusive
+n	ddp	yes	Уровень Луизы	inclusive
+n	cds	no	воров	inclusive
+n	cds	no	Хюбрис	conservative
+n	qas	no	hutch	inclusive
+n	an	no	волов	inclusive
+n	ddf	yes	половина пинты	conservative
+n	pa	yes	телесный	inclusive
+n	re	no	изнасилование	conservative
+n	cds	no	щёголь	inclusive
+n	an	no	башка	conservative
+n	dmc	yes	жадина	conservative
+v	asm	no	надуть	conservative
+n	cds	no	Разбойник	inclusive
+n	cds	no	ложности	conservative
+n	pa	yes	бухгалтеров	inclusive
+n	re	no	изнасилования на свидании	conservative
+n	an	no	Черви	inclusive
+n	pr	no	rattus norvegicus	inclusive
+n	qas	no	обыкновенный человек	inclusive
+n	cds	no	Бытовые отходы	inclusive
+n	qas	no	ритор	inclusive
+n	qas	no	быдло	conservative
+n	asm	no	эрекции полового члена	inclusive
+n	ddp	yes	увалень	conservative
+n	ps	yes	деревенщина	conservative
+n	pa	yes	Служащие	inclusive
+a	dmc	yes	загрязненных	inclusive
+n	svp	no	стяжательство	inclusive
+n	asf	no	тёлочка	conservative
+n	dmc	yes	притворства	conservative
+a	an	no	скупой	conservative
+n	cds	no	сицилийской мафии	conservative
+n	cds	no	хвастливость	conservative
+n	cds	no	казино, азартные игры	inclusive
+n	an	no	ixodida	inclusive
+n	pr	no	стерва	conservative
+n	an	no	eurypterid	inclusive
+n	rci	yes	дикарь	conservative
+n	ddp	yes	дебил	inclusive
+n	dmc	yes	зловоние	conservative
+n	cds	no	падаль	inclusive
+n	pr	no	шу́лер	conservative
+n	ddp	yes	жестокость	conservative
+n	cds	no	инструктора	inclusive
+n	svp	no	алчность	inclusive
+n	cds	no	карьерист	inclusive
+n	an	no	Атлантическая черная казарка	inclusive
+n	svp	no	фанатизма	conservative
+n	ddp	yes	недомыслие	conservative
+n	an	no	cimex lectularius	inclusive
+n	asm	no	придурок	inclusive
+n	ps	yes	дурачина	conservative
+n	cds	no	всякая всячина	inclusive
+n	or	no	писька	conservative
+n	ddf	yes	Инвалидность	inclusive
+n	cds	no	мелкий вор	inclusive
+a	qas	no	слезливый	conservative
+n	pr	no	гангстера минор	inclusive
+n	cds	no	женщина-полицейский	inclusive
+n	ddp	yes	остолоп	conservative
+n	cds	no	хлюпик	conservative
+n	cds	no	Ростовщик	inclusive
+n	cds	no	скрап	conservative
+n	pa	yes	рыботорговец	inclusive
+n	svp	no	тяга	inclusive
+n	dmc	yes	Либертины	conservative
+n	asf	no	дуралей	conservative
+n	an	no	ры́ло	inclusive
+n	is	yes	изгнанник	inclusive
+n	pr	no	девка	conservative
+a	svp	no	негоду́ющий	conservative
+n	an	no	разгильдяй	conservative
+n	re	no	престу́пник	inclusive
+n	is	yes	нуждающийся	inclusive
+n	an	no	Морские скорпионы	inclusive
+n	ddp	yes	ерунда	conservative
+n	ddp	yes	Микроцефал	inclusive
+n	om	no	крест соусом	inclusive
+n	svp	no	luxuria	inclusive
+n	om	no	мужской сексуальности	inclusive
+n	or	no	пизда	conservative
+n	an	no	попугай	inclusive
+n	re	no	Коза ностра	conservative
+n	asm	no	shtup	conservative
+n	cds	no	Бу	inclusive
+n	pr	no	моли	inclusive
+n	cds	no	отбросы	inclusive
+n	an	no	blattodea	inclusive
+n	ps	yes	бедуинов	inclusive
+n	asm	no	orobus faba	inclusive
+n	ddf	yes	утрата трудоспособности	inclusive
+a	svp	no	скупой	conservative
+n	dmc	yes	Гаер	inclusive
+n	or	no	картофелина	inclusive
+n	ddp	yes	фауна	inclusive
+n	svp	no	экономность	inclusive
+n	cds	no	Криминальный авторитет	inclusive
+n	or	no	brassica oleracea	inclusive
+n	cds	no	Обман	inclusive
+n	cds	no	фундаменталистов	inclusive
+n	cds	no	дворня́жка	inclusive
+n	om	no	Гомофил	inclusive
+n	cds	no	клана	inclusive
+n	qas	no	домоводство	inclusive
+n	re	no	мучение	inclusive
+n	an	no	ослов	inclusive
+n	om	no	ягодичной области	inclusive
+n	cds	no	чернь	inclusive
+n	ps	yes	Остготы	inclusive
+n	an	no	Хряк	inclusive
+n	an	no	Пухоеды и вши	inclusive
+n	cds	no	канализацию	inclusive
+a	ps	yes	темнокожий	inclusive
+n	ps	yes	Жёлтая раса	conservative
+n	ddp	yes	дикарка	conservative
+a	cds	no	неправоме́рный	inclusive
+a	dmc	yes	непристойный	conservative
+n	cds	no	сточные воды	inclusive
+a	ddf	yes	плохой	inclusive
+n	cds	no	конформистом	conservative
+n	re	no	Половые преступления	inclusive
+n	an	no	Овцы	inclusive
+n	qas	no	паразитизм	inclusive
+n	cds	no	splashiness	inclusive
+n	ps	yes	Отпущенники	inclusive
+n	ddp	yes	недотёпа	conservative
+n	cds	no	объём	inclusive
+n	an	no	домашних свиней	inclusive
+n	om	no	Пространственные отношения в анатомической терминологии	inclusive
+n	an	no	fuckhead	conservative
+n	re	no	террористический	inclusive
+n	qas	no	Самооговор	conservative
+n	asm	no	дрочка	conservative
+v	asm	no	заниматься секс	conservative
+n	qas	no	хлам	inclusive
+n	cds	no	мракобес	conservative
+n	ddp	yes	незнайка	conservative
+n	dmc	yes	предательница	conservative
+n	pr	no	Берёзовая пяденица	inclusive
+n	asm	no	полового члена	inclusive
+n	re	no	Грабеж	inclusive
+n	qas	no	деловой человек	inclusive
+n	qas	no	бестолочь	conservative
+n	ddp	yes	умственной отсталостью	inclusive
+n	re	no	вооружённый	inclusive
+n	qas	no	паразитов	inclusive
+n	an	no	rentboy	conservative
+n	cds	no	Тё	inclusive
+n	qas	no	разиня	conservative
+n	svp	no	Чревонеистовство	inclusive
+n	an	no	Угри	inclusive
+n	dmc	yes	Злодейство	inclusive
+n	an	no	Азиатский шакал	inclusive
+n	re	no	насильников	conservative
+n	qas	no	хам	conservative
+a	ps	yes	китайский	inclusive
+n	qas	no	бытовой мусор	inclusive
+n	cds	no	безде́льница	conservative
+n	qas	no	Твёрдые бытовые отходы	inclusive
+n	cds	no	ростовщица	conservative
+n	an	no	canis aureus	inclusive
+n	cds	no	долбоёб	conservative
+n	re	no	Консильери	conservative
+n	qas	no	просчёт	inclusive
+n	cds	no	полицейских	inclusive
+n	an	no	хлюпик	conservative
+n	om	no	содомия	inclusive
+n	an	no	bufo	inclusive
+n	cds	no	Идолы	inclusive
+n	cds	no	брокер	inclusive
+n	an	no	Угреобразные	inclusive
+n	an	no	жи́голо	conservative
+n	re	no	шалу́нья	inclusive
+n	ddp	yes	twaddler	conservative
+n	re	no	злодейка	conservative
+n	ps	yes	скиталец	inclusive
+n	cds	no	правонарушение	inclusive
+n	asm	no	болван	conservative
+n	an	no	moue	inclusive
+n	cds	no	преступления	inclusive
+n	cds	no	догматизм	conservative
+n	asf	no	Уровень Луизы	conservative
+n	cds	no	шалу́н	conservative
+n	cds	no	Сутенерство	inclusive
+n	cds	no	Андромания	inclusive
+n	dmc	yes	изгнанник	inclusive
+n	ps	yes	скрещивать	inclusive
+n	cds	no	слабак	conservative
+n	re	no	итальянская мафия	inclusive
+n	re	no	взломщик	inclusive
+n	pr	no	светская	inclusive
+n	svp	no	скупе́ц	inclusive
+n	cds	no	Коза ностра	conservative
+n	cds	no	туале́т	inclusive
+n	pr	no	сексуальных услуг	conservative
+n	cds	no	разбойник барон	inclusive
+n	cds	no	чеканщик	inclusive
+n	cds	no	сво́дник	inclusive
+n	cds	no	мно́жество	inclusive
+n	re	no	преступников	inclusive
+n	cds	no	малоду́шие	conservative
+n	qas	no	паразит	inclusive
+n	qas	no	Комплаенс-контроль	inclusive
+n	cds	no	Гибрида	inclusive
+n	cds	no	незаконнорожденный	inclusive
+n	asm	no	европейским бобов	inclusive
+n	ps	yes	Болгары	inclusive
+a	is	yes	несчастли́вый	inclusive
+v	asm	no	ебать	conservative
+n	an	no	крокодилы	inclusive
+n	qas	no	Лакировщик	inclusive
+n	ddp	yes	хуйло́	conservative
+a	dmc	yes	испачканный	inclusive
+n	cds	no	Иностранный корреспондент	inclusive
+n	pr	no	неряшливой женщиной	conservative
+n	pa	yes	торговка	inclusive
+n	dmc	yes	Деликт	inclusive
+n	pa	yes	приверженец	inclusive
+n	cds	no	мафиози	conservative
+n	ps	yes	ничтожество	conservative
+n	asm	no	боб садовый	inclusive
+n	cds	no	grunge	inclusive
+n	rci	yes	грубый	conservative
+n	cds	no	отбирать	conservative
+n	re	no	чеканщик	inclusive
+n	re	no	плут	inclusive
+a	dmc	yes	порочный	conservative
+n	cds	no	с ног на turvyness	inclusive
+v	asm	no	тра́хнуть	conservative
+n	cds	no	твердых бытовых отходов	inclusive
+n	an	no	pediculus corporis	inclusive
+n	asf	no	дура	conservative
+n	svp	no	бездельник	conservative
+n	an	no	gallus gallus domesticus	inclusive
+n	cds	no	сводник	conservative
+n	dmc	yes	варварским	conservative
+n	om	no	дорсолатеральной	inclusive
+n	an	no	мародер	inclusive
+n	cds	no	superbia	inclusive
+a	dmc	yes	недалёкий	conservative
+n	om	no	госпожа	inclusive
+n	ddp	yes	Заключенные	inclusive
+n	om	no	Кроссдрессинг	inclusive
+n	asm	no	орнитофауны	inclusive
+n	ps	yes	негроидный	inclusive
+n	cds	no	жалобщик	conservative
+n	cds	no	blackballing	inclusive
+n	om	no	иша́к	inclusive
+n	an	no	коз антилопы	inclusive
+n	cds	no	Стадо	inclusive
+n	ddp	yes	арестантка	inclusive
+n	re	no	добыча	inclusive
+n	cds	no	беспорядок	conservative
+n	rci	yes	мужик	conservative
+n	re	no	Криминализация	inclusive
+n	an	no	мародер	conservative
+n	ddp	yes	придурок	conservative
+a	svp	no	прожорливый	inclusive
+n	an	no	limacidae	inclusive
+n	qas	no	Автоматический конформизм	inclusive
+v	asm	no	заняться секс	conservative
+n	cds	no	бандит	inclusive
+n	an	no	неумолимость	conservative
+n	re	no	воров	inclusive
+n	cds	no	Цубо	inclusive
+n	an	no	pediculus humanus corporis	inclusive
+n	is	yes	Черта бедности	inclusive
+v	re	no	воровать	inclusive
+n	re	no	серийный насильник	conservative
+n	is	yes	бедность	inclusive
+n	cds	no	фашизма	conservative
+n	svp	no	жадина	inclusive
+n	re	no	Деликт	inclusive
+n	cds	no	болван	inclusive
+n	an	no	мула	inclusive
+n	cds	no	хвастун	conservative
+n	cds	no	преступник	inclusive
+n	asm	no	балбес	conservative
+n	or	no	дурень	conservative
+n	an	no	Молочные зубы собак	inclusive
+n	ddp	yes	Уровень Луизы	conservative
+n	cds	no	уличных банд	conservative
+n	asm	no	замедлять	inclusive
+n	cds	no	Хюбрис	inclusive
+n	an	no	флибустьер	inclusive
+n	ps	yes	еврейская религия	inclusive
+n	ddp	yes	дурь	conservative
+n	cds	no	сваха	inclusive
+n	ddp	yes	варварство	inclusive
+n	asm	no	кретин	inclusive
+n	cds	no	напутать	inclusive
+n	cds	no	дурень	conservative
+n	an	no	Крокодилы	inclusive
+n	om	no	жопа	inclusive
+n	cds	no	мелкий воришка	inclusive
+n	ddp	yes	жертва обмана	conservative
+n	dmc	yes	изгоем	inclusive
+n	qas	no	Варвары	conservative
+n	or	no	гомосексуали́ст	conservative
+n	dmc	yes	обман	inclusive
+n	cds	no	Самооговор	conservative
+n	cds	no	быдло	inclusive
+a	svp	no	жа́дный	inclusive
+n	ddp	yes	отсталость	inclusive
+n	an	no	Козлёнок	inclusive
+n	cds	no	cosa nostra	conservative
+n	asm	no	doofus	conservative
+n	cds	no	Лом цветных металлов	inclusive
+n	an	no	cuckold	conservative
+n	qas	no	баронства	inclusive
+n	an	no	лох	conservative
+n	re	no	убийство	inclusive
+n	cds	no	кова́рство	inclusive
+n	asm	no	идиотка	conservative
+n	pr	no	свободную женщину	conservative
+n	ps	yes	Идиотия	conservative
+n	re	no	ложных обвинений	inclusive
+n	dmc	yes	Джокер	conservative
+n	pr	no	жи́голо	conservative
+n	re	no	пыткам	inclusive
+n	om	no	жо́почник	conservative
+n	cds	no	ложный идол	inclusive
+n	om	no	Проксимальный	inclusive
+n	cds	no	естественный гибрид	inclusive
+a	re	no	крепкий	inclusive
+n	is	yes	жадина	conservative
+n	pr	no	коров	inclusive
+n	re	no	defrauder	inclusive
+n	om	no	анальный секс	inclusive
+n	dmc	yes	выдумщик	conservative
+n	cds	no	рукой	conservative
+n	cds	no	брокера	inclusive
+n	ps	yes	вандалов	inclusive
+n	an	no	pipistrellus	inclusive
+n	cds	no	франкмасонство	inclusive
+n	asm	no	придурок	conservative
+n	ddp	yes	о́лух	conservative
+n	qas	no	Медведь	inclusive
+a	ps	yes	еврейский	inclusive
+n	asm	no	дебил	conservative
+n	qas	no	Баронесса	inclusive
+n	cds	no	пропаганда	inclusive
+n	an	no	кролик	inclusive
+n	cds	no	полицай	conservative
+n	cds	no	дитя́ любви́	inclusive
+n	asf	no	Идиотизм	conservative
+n	rci	yes	варварка	conservative
+n	an	no	шу́лер	conservative
+n	or	no	простак	conservative
+n	cds	no	показного	conservative
+n	asm	no	дурачина	conservative
+n	an	no	вертихвостка	conservative
+n	cds	no	cacography	inclusive
+n	pa	yes	грубый	conservative
+n	cds	no	Варвары	conservative
+n	qas	no	пиковое положение	inclusive
+n	an	no	скорпена	inclusive
+n	cds	no	деби́л	conservative
+n	om	no	влечение к своему полу	inclusive
+n	ddp	yes	Зэк	inclusive
+n	qas	no	Конформизм	inclusive
+n	cds	no	трудный вопрос	conservative
+n	cds	no	легавый	conservative
+n	re	no	убийство первой степени	inclusive
+n	cds	no	толчея	inclusive
+n	dmc	yes	плохой человек	conservative
+n	cds	no	мафия	conservative
+n	svp	no	уклоняющийся от работы человек	conservative
+n	cds	no	брехня	conservative
+n	or	no	Капуста огородная	inclusive
+n	cds	no	бытовой мусор	inclusive
+n	cds	no	соплеменника	inclusive
+n	cds	no	ложь	conservative
+n	dmc	yes	Гомункулус	inclusive
+n	or	no	лесбия́нка	conservative
+n	cds	no	переплёт	inclusive
+n	re	no	фелония	inclusive
+n	pa	yes	Делопроизводитель	inclusive
+n	an	no	mosquitoe	inclusive
+a	svp	no	жадный	inclusive
+n	cds	no	Обман	conservative
+n	re	no	бандиты	inclusive
+n	pa	yes	адвокат	inclusive
+n	asm	no	дуралей	conservative
+n	cds	no	балда	conservative
+n	or	no	ирландский картофель	inclusive
+n	cds	no	копейки романы	inclusive
+a	ddf	yes	подлый	conservative
+n	cds	no	dastardliness	conservative
+n	ps	yes	дурень	conservative
+n	rci	yes	варварским	conservative
+n	or	no	homophile	conservative
+n	qas	no	Кастовая система	inclusive
+n	ddp	yes	тупица	inclusive
+n	cds	no	а́рмия	inclusive
+n	an	no	негодяйка	conservative
+n	qas	no	грубиян	conservative
+n	cds	no	мальчуган	inclusive
+n	cds	no	простонародье	inclusive
+n	cds	no	большой немытыми	inclusive
+n	pr	no	серая крыса	inclusive
+n	ddp	yes	nonsensicality	conservative
+n	cds	no	Дурак	inclusive
+n	asm	no	мастурбации	conservative
+n	re	no	Злодейка	conservative
+n	re	no	Слэйер	inclusive
+n	cds	no	выдумщик	conservative
+n	cds	no	bumbler	conservative
+n	cds	no	Франкмасон	inclusive
+n	ps	yes	еврейства	inclusive
+n	cds	no	перевертыш	inclusive
+n	an	no	скот	inclusive
+n	an	no	проститу́т	conservative
+n	an	no	-людоеда акул	inclusive
+n	an	no	кру́пный рога́тый скот	inclusive
+n	an	no	Клоп постельный	inclusive
+n	cds	no	синий чулок	inclusive
+n	om	no	болван	inclusive
+n	dmc	yes	преступница	inclusive
+n	an	no	свинка	inclusive
+n	an	no	плохой человек	conservative
+n	ps	yes	идиот	conservative
+n	or	no	выращивают капусту	inclusive
+n	re	no	плагиате	inclusive
+n	svp	no	скупец	inclusive
+a	qas	no	обыденный	inclusive
+n	an	no	бесхвостых амфибий	inclusive
+n	cds	no	нахал	conservative
+a	dmc	yes	беспринци́пный	conservative
+n	asm	no	фаллос	inclusive
+n	svp	no	лентя́й	conservative
+n	qas	no	плохой работник	conservative
+n	qas	no	рито́рика	inclusive
+n	cds	no	зрительница	conservative
+n	an	no	блоха	inclusive
+n	an	no	дидли	conservative
+n	ps	yes	кретин	conservative
+n	dmc	yes	олух	conservative
+n	re	no	незаконной деятельности	inclusive
+n	re	no	Грабитель	inclusive
+n	svp	no	бездельница	conservative
+n	an	no	Гомосексуальная мужская проституция	conservative
+n	qas	no	яичка	inclusive
+n	is	yes	Пария	inclusive
+n	cds	no	продажности	inclusive
+n	qas	no	баламут	conservative
+n	dmc	yes	шут	inclusive
+n	cds	no	заносчивость	inclusive
+a	dmc	yes	мерзкий	conservative
+n	cds	no	умник	inclusive
+n	ps	yes	башка	conservative
+n	ps	yes	дурак	conservative
+n	cds	no	Злодей	conservative
+n	an	no	канал баса	inclusive
+n	cds	no	фраер	conservative
+n	om	no	Гомосексуалисты	inclusive
+n	qas	no	непра́вда	conservative
+n	or	no	остолоп	conservative
+n	an	no	Моли	inclusive
+n	pa	yes	министра-советника	inclusive
+n	svp	no	надменность	conservative
+n	ddp	yes	шарлатанство	conservative
+n	dmc	yes	безде́льник	conservative
+n	cds	no	банда	inclusive
+v	asm	no	безде́льничать	inclusive
+n	cds	no	жулик	inclusive
+n	ps	yes	иудейство	inclusive
+n	re	no	половое преступление	inclusive
+n	asm	no	яички	inclusive
+n	re	no	злодеяние	inclusive
+n	cds	no	самодовольство	inclusive
+n	re	no	хищение	inclusive
+n	cds	no	отходы	inclusive
+n	cds	no	papparazzi	inclusive
+n	cds	no	Показатели преступности	inclusive
+n	pa	yes	чиновник	inclusive
+n	cds	no	нимфомания	conservative
+n	cds	no	мракобесие	conservative
+n	cds	no	religiousism	inclusive
+n	an	no	ангилья	inclusive
+n	or	no	лох	conservative
+n	cds	no	низкопробный приключенческий роман в дешевом издании	inclusive
+n	om	no	Гомофильное движение	conservative
+n	an	no	семья cimicidae	inclusive
+n	or	no	щепетильность	inclusive
+n	ps	yes	белых	inclusive
+n	dmc	yes	Пария	inclusive
+v	asm	no	заниматься любовь	conservative
+n	ddp	yes	doofus	conservative
+n	or	no	спад	inclusive
+n	ps	yes	фашистка	inclusive
+n	pr	no	bos taurus	inclusive
+n	an	no	сука	inclusive
+n	cds	no	щеголь	conservative
+n	ddp	yes	Энтомофауна	inclusive
+n	an	no	Наркокурьер	inclusive
+n	cds	no	скрещивания	inclusive
+n	an	no	му-корова	inclusive
+n	an	no	коз	inclusive
+n	an	no	Нападения акул	inclusive
+a	is	yes	бе́дный	inclusive
+n	cds	no	сатириаз	conservative
+n	pr	no	Легализация проституции	inclusive
+n	re	no	страдание	inclusive
+n	cds	no	Сутенер	conservative
+n	an	no	Осел домашний	inclusive
+n	an	no	canis lupus familiaris	inclusive
+n	pa	yes	сапожник	inclusive
+a	svp	no	скаредный	conservative
+n	qas	no	Табиины	inclusive
+n	cds	no	сыщица	conservative
+n	cds	no	тюремщик	inclusive
+n	cds	no	протоиерей	inclusive
+n	svp	no	minginess	conservative
+n	re	no	Классификация преступлений	inclusive
+n	cds	no	хлыщ	inclusive
+a	dmc	yes	твердолобый	conservative
+n	cds	no	воровать	conservative
+n	pa	yes	академиков	inclusive
+n	cds	no	самолюбие	conservative
+n	cds	no	мусор	inclusive
+n	dmc	yes	Лживость	conservative
+n	asm	no	аппарат	conservative
+n	dmc	yes	Ханжество	conservative
+n	cds	no	бесплатно mason	inclusive
+n	cds	no	варварка	conservative
+n	an	no	жиртрест	conservative
+n	is	yes	крохобо́р	conservative
+n	svp	no	сексуальное желание	inclusive
+n	cds	no	гиперсексуальности	conservative
+n	qas	no	олух	conservative
+n	cds	no	чайник	inclusive
+n	ddp	yes	вздор	conservative
+n	ps	yes	Евреи	inclusive
+n	cds	no	обманщик	conservative
+n	dmc	yes	мошенница	conservative
+n	asm	no	глупости	conservative
+n	asf	no	придурок	conservative
+a	svp	no	нападающий	conservative
+n	om	no	пидор	conservative
+n	ps	yes	нацист	inclusive
+n	qas	no	торговец	inclusive
+n	an	no	Черная казарка	inclusive
+n	re	no	ndrangheta	inclusive
+a	svp	no	надменный	conservative
+n	dmc	yes	Бомжи	conservative
+n	cds	no	металлические отходы	conservative
+n	cds	no	Классификация преступлений	inclusive
+n	cds	no	lav	inclusive
+n	svp	no	фанатичным	conservative
+v	asm	no	познать	conservative
+n	cds	no	ростовщики	inclusive
+n	cds	no	комки	inclusive
+n	qas	no	конура	inclusive
+n	ddp	yes	варварка	conservative
+a	is	yes	печальный	inclusive
+n	cds	no	Категоризация преступлений	inclusive
+n	pr	no	пустая болтовня	conservative
+n	ps	yes	простак	conservative
+a	svp	no	похотливый	conservative
+n	an	no	фауны	inclusive
+n	asm	no	мягких лучей	inclusive
+n	cds	no	посредник	inclusive
+n	an	no	Курятина	inclusive
+n	asm	no	ебание	conservative
+n	pr	no	рыжая крыса	inclusive
+n	an	no	мясной скот	inclusive
+n	cds	no	сквернословить	conservative
+a	svp	no	заносчивый	conservative
+n	dmc	yes	изгоев	conservative
+n	cds	no	подлец	conservative
+n	cds	no	разрезанный	conservative
+v	asm	no	обманывать	conservative
+n	dmc	yes	сволочь мешок	inclusive
+n	om	no	дрэг-королева	inclusive
+n	re	no	женщина-убийца	inclusive
+n	ddp	yes	идиоти́зм	inclusive
+n	om	no	Вентральный	inclusive
+n	cds	no	семьи	inclusive
+n	om	no	Базальный	inclusive
+n	asf	no	юбка	conservative
+n	asm	no	фаллический символ	inclusive
+n	an	no	Козлообразные	inclusive
+n	ddp	yes	Патология умственного развития	inclusive
+n	cds	no	дурак	conservative
+n	an	no	боя́ка	conservative
+n	asm	no	балда	conservative
+n	pr	no	Интимные услуги	inclusive
+n	an	no	лягушечья икра	inclusive
+n	cds	no	уголовным преступлением	inclusive
+n	cds	no	аферистка	inclusive
+n	dmc	yes	изменник	conservative
+n	cds	no	фашизм	conservative
+n	an	no	crocodylian	inclusive
+n	dmc	yes	бесполезный	conservative
+n	ps	yes	монго́лка	inclusive
+n	dmc	yes	плут	inclusive
+n	qas	no	Комплаенс	inclusive
+n	cds	no	труси́ха	conservative
+n	ddp	yes	микроцефалия	inclusive
+n	qas	no	Аматёр	inclusive
+n	cds	no	линейный шутер	conservative
+n	dmc	yes	дрянь	conservative
+n	cds	no	драндулет	inclusive
+n	or	no	башка	inclusive
+n	ps	yes	негроидов	inclusive
+n	svp	no	стремление	inclusive
+n	cds	no	прока́зник	inclusive
+n	an	no	жестокость	conservative
+n	asm	no	слабоумный	inclusive
+n	re	no	поношение	conservative
+n	svp	no	лентяйка	conservative
+n	pa	yes	контроллер	inclusive
+n	ddp	yes	козел отпущения	conservative
+n	ddf	yes	Гандикап	inclusive
+n	qas	no	бытовых отходов	inclusive
+n	dmc	yes	мерзавец	inclusive
+n	an	no	аренду мальчиков	conservative
+n	asm	no	vicia esculenta	inclusive
+n	ps	yes	биотехнологии растений	inclusive
+n	dmc	yes	Бродяжничество	inclusive
+n	cds	no	Крунер	inclusive
+n	cds	no	Чешская мафия	inclusive
+n	qas	no	ищейка	inclusive
+n	dmc	yes	бедняга	conservative
+a	cds	no	незаконный	inclusive
+n	re	no	грязные деньги	inclusive
+n	dmc	yes	чертёнок	inclusive
+n	asf	no	отморо́зок	conservative
+n	svp	no	никудышный	conservative
+n	svp	no	обжорство	inclusive
+n	ps	yes	негритянка	inclusive
+n	cds	no	Твёрдые бытовые отходы	conservative
+n	qas	no	враки	conservative
+n	qas	no	духовный лидер	inclusive
+n	cds	no	остолоп	inclusive
+n	ddp	yes	betise	conservative
+n	pr	no	Обыкновенный светляк	inclusive
+n	an	no	Ягнёнок	inclusive
+n	ps	yes	Иудаист	inclusive
+v	asm	no	сношаться	conservative
+n	om	no	гомосексуали́ст	conservative
+n	re	no	убийстве первой степени	inclusive
+n	cds	no	Унэ	inclusive
+n	cds	no	внутренний круг	inclusive
+n	or	no	Паслён клубненосный	inclusive
+n	cds	no	Фашист	conservative
+n	re	no	преступление	inclusive
+n	pa	yes	дипломатический ранг	inclusive
+n	pr	no	Лоретка	conservative
+n	cds	no	паяц	inclusive
+n	cds	no	defrauder	conservative
+n	or	no	бестолочь	conservative
+n	an	no	афина noctua	inclusive
+n	an	no	sus scrofa domesticus	inclusive
+n	asm	no	олух	conservative
+n	cds	no	фанатизм	conservative
+n	an	no	гусь	inclusive
+n	asm	no	доверчивость	conservative
+v	cds	no	пожирать	inclusive
+n	pr	no	Моли	inclusive
+n	cds	no	Нелегальный игорный бизнес	inclusive
+n	qas	no	Бладхаунд	inclusive
+n	an	no	Собака домашняя	inclusive
+a	svp	no	алчный	inclusive
+n	re	no	изнасилование	inclusive
+n	om	no	гомик	conservative
+n	an	no	труси́ха	conservative
+n	cds	no	слухи	inclusive
+n	asm	no	тест	inclusive
+n	re	no	насильник	conservative
+a	qas	no	напыщенный	inclusive
+n	om	no	Гомоэротика	inclusive
+n	qas	no	Буржуа	inclusive
+n	cds	no	Кан	inclusive
+n	dmc	yes	жулик	conservative
+n	cds	no	Сутенёрство	inclusive
+n	dmc	yes	вне закона	inclusive
+n	dmc	yes	ложь	inclusive
+n	om	no	лесбия́нка	conservative
+n	pa	yes	бухга́лтерша	inclusive
+n	an	no	strix вариации	inclusive
+n	svp	no	курку́ль	inclusive
+n	asm	no	идиот	conservative
+n	pr	no	потаскуха	conservative
+n	qas	no	Фермерство	inclusive
+n	re	no	мафиози	inclusive
+n	an	no	посте́льный клоп	inclusive
+n	dmc	yes	гангстера	inclusive
+n	cds	no	Криминализация	inclusive
+n	pr	no	кру́пный рога́тый скот	inclusive
+v	cds	no	умереть	inclusive
+n	om	no	Апикальный	inclusive
+n	cds	no	идолопоклонство	inclusive
+n	an	no	гибрид козы и овцы	inclusive
+n	ddp	yes	Умственно отсталый	inclusive
+n	re	no	Декриминализация	inclusive
+n	qas	no	кастовость	inclusive
+n	cds	no	зевака	conservative
+n	re	no	мафии	inclusive
+n	dmc	yes	бандитка	conservative
+n	cds	no	самоудовлетворение	inclusive
+n	dmc	yes	БОМЖ	conservative
+n	om	no	Каудальный	inclusive
+n	re	no	Гражданское правонарушение	inclusive
+n	cds	no	глупец	conservative
+n	re	no	plagiarisation	inclusive
+n	ddp	yes	слабоумный	conservative
+n	an	no	жадность	conservative
+n	ddp	yes	epifaunal	inclusive
+n	cds	no	промах	inclusive
+a	dmc	yes	зловонный	conservative
+n	cds	no	дебил	conservative
+n	qas	no	хижины	inclusive
+n	ddp	yes	доносчик	conservative
+n	qas	no	Бытовые отходы	inclusive
+a	dmc	yes	неприличный	conservative
+v	cds	no	царапать	inclusive
+n	pa	yes	почетный профессор	inclusive
+n	cds	no	Сяку	inclusive
+n	ps	yes	гебраизм	inclusive
+n	ps	yes	метисы	conservative
+n	qas	no	нарушитель спокойствия	conservative
+n	cds	no	тщеславие	conservative
+n	svp	no	скряжничество	inclusive
+n	cds	no	шутка	inclusive
+n	asm	no	vicia vulgaris	inclusive
+n	dmc	yes	грубиян	conservative
+n	qas	no	яичко	inclusive
+n	cds	no	новобранец	conservative
+n	an	no	Европейская жаба	inclusive
+n	an	no	курва	conservative
+n	ps	yes	нацистка	inclusive
+n	pr	no	коровы	inclusive
+n	dmc	yes	Хариджан	inclusive
+n	cds	no	учитель	inclusive
+n	re	no	грабитель	conservative
+n	dmc	yes	производитель	conservative
+n	ddp	yes	мягкая на ощупь	conservative
+n	an	no	Домашний козёл	inclusive
+n	cds	no	ворчун	conservative
+n	ps	yes	мягкая на ощупь	conservative
+n	an	no	тюфя́к	conservative
+n	or	no	foeniculum vulgare	inclusive
+n	ddp	yes	жизнь животных	inclusive
+n	an	no	тугодум	conservative
+n	qas	no	дикарь	conservative
+n	cds	no	мафиози	inclusive
+n	an	no	blockhead	conservative
+n	pa	yes	дикарь	conservative
+n	cds	no	гордыня	conservative
+v	re	no	своровать	inclusive
+n	ps	yes	китаянка	inclusive
+n	cds	no	сват	inclusive
+n	cds	no	ребёнок	inclusive
+n	svp	no	ненасытный	conservative
+n	cds	no	ботаник	conservative
+a	cds	no	бана́льный	inclusive
+n	or	no	фенхель	inclusive
+n	cds	no	Сциентист	inclusive
+n	cds	no	шайка	conservative
+n	an	no	brent goose	inclusive
+n	cds	no	конокрад	inclusive
+n	an	no	обманщица	conservative
+n	cds	no	путаница	inclusive
+n	qas	no	любитель	inclusive
+n	or	no	картофель	inclusive
+n	cds	no	дурачина	inclusive
+n	cds	no	Лгун	conservative
+n	ddf	yes	Инвалид	inclusive
+n	cds	no	зелот	inclusive
+n	cds	no	гранжа	inclusive
+n	qas	no	фермер	inclusive
+n	ddp	yes	глупец	inclusive
+n	ps	yes	дикарь	conservative
+n	cds	no	аферист	inclusive
+n	cds	no	свободный каменщик	inclusive
+n	cds	no	злодейство	inclusive
+n	cds	no	splashiness	conservative
+n	om	no	Гомофильное движение	inclusive
+n	cds	no	проблемой	conservative
+n	an	no	ро́жа	inclusive
+n	qas	no	Табиун	inclusive
+n	pa	yes	сторонница	inclusive
+n	pr	no	блудница	conservative
+n	ps	yes	Чёрная раса	inclusive
+n	qas	no	землепашец	inclusive
+n	qas	no	каст	inclusive
+n	pr	no	мотылёк	inclusive
+n	qas	no	Риторика	inclusive
+n	pr	no	куртизанка	conservative
+n	re	no	изгоев	conservative
+n	dmc	yes	отщепенец	conservative
+n	cds	no	Дворовая собака	inclusive
+n	svp	no	Грехи в христианстве	inclusive
+n	pr	no	Гетеры	inclusive
+n	an	no	Микроорганизмы	inclusive
+n	om	no	ягодица	inclusive
+n	asf	no	влагалища	conservative
+n	om	no	геев	conservative
+n	an	no	Кролики	inclusive
+n	an	no	глупость	conservative
+n	om	no	переодевания	inclusive
+n	qas	no	некротрофным	inclusive
+n	dmc	yes	брехня	inclusive
+n	svp	no	скря́га	conservative
+n	pa	yes	варварка	conservative
+n	ddp	yes	тупи́ца	conservative
+n	cds	no	мертвечина	inclusive
+n	cds	no	отвергать	conservative
+n	cds	no	пустозвон	conservative
+n	an	no	Осел	inclusive
+n	re	no	убийца	inclusive
+n	ddp	yes	мудозво́н	conservative
+n	an	no	му́сор	conservative
+n	an	no	валять дурака	conservative
+n	ps	yes	иудаизм	inclusive
+n	pr	no	Гетера	inclusive
+n	pr	no	норвегия крыс	inclusive
+n	om	no	Геи	inclusive
+n	an	no	тря́пка	conservative
+n	cds	no	Разбой	inclusive
+n	ps	yes	Монголы	inclusive
+n	cds	no	loanshark	conservative
+n	qas	no	смущающий	conservative
+n	dmc	yes	Гомункул	inclusive
+n	dmc	yes	Бомж	conservative
+n	re	no	Буканир	inclusive
+n	cds	no	ручной	conservative
+n	ddf	yes	инвалидности	inclusive
+a	svp	no	оби́женный	conservative
+n	asm	no	Коричневый цвет	inclusive
+n	asm	no	lathyrus oleraceus	inclusive
+n	re	no	осужденным преступником	inclusive
+n	cds	no	младенец	inclusive
+n	ddp	yes	konował	conservative
+n	qas	no	эндопаразитов	inclusive
+n	cds	no	pandar	conservative
+n	an	no	Цыплята	inclusive
+n	cds	no	банды	conservative
+n	ddp	yes	Дебильность	inclusive
+n	cds	no	уилер дилеров	conservative
+n	asm	no	бобов	inclusive
+n	qas	no	оговорка	inclusive
+n	is	yes	Злодей	conservative
+n	qas	no	сброд	inclusive
+n	cds	no	журналист	inclusive
+n	or	no	fuckhead	conservative
+n	cds	no	глупый человек	conservative
+n	svp	no	чревоугодие	inclusive
+n	qas	no	халявщик	conservative
+n	cds	no	озорник	conservative
+n	an	no	Бургундская улитка	inclusive
+n	an	no	подслушивающее устройство	inclusive
+n	pr	no	Проститут	inclusive
+n	pa	yes	клерк	inclusive
+n	qas	no	fieldhand	inclusive
+v	re	no	надуть	inclusive
+n	pa	yes	академик	inclusive
+n	qas	no	кастовой системы	inclusive
+n	an	no	sus scrofa domestica	inclusive
+n	an	no	ничтожество	conservative
+n	ps	yes	Сыны Израиля	inclusive
+n	ps	yes	негр	inclusive
+n	cds	no	Блудилище	inclusive
+n	re	no	мафия	conservative
+n	om	no	драг-квин	inclusive
+n	cds	no	Ливневка	inclusive
+n	cds	no	озорной	conservative
+n	an	no	эпифауны	inclusive
+n	dmc	yes	сволочь мешок	conservative
+n	pr	no	rentboy	conservative
+n	re	no	положить к смерти	inclusive
+n	re	no	злодейство	inclusive
+n	an	no	мужской эскорт	conservative
+n	an	no	болваном	conservative
+n	or	no	геев	conservative
+n	svp	no	Разврат	inclusive
+n	re	no	корпоративных злоупотреблений	inclusive
+a	cds	no	фашистский	inclusive
+v	cds	no	болтать	inclusive
+n	cds	no	головорез	inclusive
+n	an	no	замарашка	conservative
+n	re	no	убиение	inclusive
+n	ps	yes	варвар	conservative
+n	om	no	педик	conservative
+n	an	no	подлость	conservative
+n	dmc	yes	грубый	conservative
+a	is	yes	нищий	inclusive
+n	cds	no	твердых отходов	conservative
+n	an	no	Иванов червячок	inclusive
+n	cds	no	разбойник с большой дороги	conservative
+n	cds	no	разбойник	conservative
+n	cds	no	дурак	inclusive
+n	dmc	yes	плут	conservative
+n	svp	no	скупой	inclusive
+n	an	no	эвриптериды	inclusive
+n	asf	no	красо́тка	conservative
+n	om	no	пересекают соусом	inclusive
+n	re	no	Убийства	inclusive
+n	om	no	pederastic	inclusive
+n	qas	no	земледелец	inclusive
+n	pr	no	спортивные леди	conservative
+n	ddp	yes	Дебилизм	conservative
+n	asm	no	эрекция	inclusive
+n	ddp	yes	говнюк	conservative
+n	an	no	некомпетентный	conservative
+n	an	no	задницу	inclusive
+n	is	yes	трагический злодей	conservative
+n	dmc	yes	вонять	conservative
+n	cds	no	злоумышленник	conservative
+n	ddp	yes	шарлатанка	conservative
+n	svp	no	антипа́тия	inclusive
+n	cds	no	педантизма	inclusive
+n	om	no	педераст	conservative
+n	re	no	Движения за независимость Чехословакии	inclusive
+n	asm	no	член	inclusive
+n	svp	no	мракобес	conservative
+n	cds	no	пиковое положение	inclusive
+n	an	no	кроликов	inclusive
+n	an	no	присоски	inclusive
+n	qas	no	Церковный приход	inclusive
+n	ddp	yes	придурок	inclusive
+v	asm	no	отыме́ть	conservative
+n	pr	no	крыса	inclusive
+n	cds	no	обмолвка	inclusive
+n	or	no	Огурцы	inclusive
+n	ps	yes	ниггер	conservative
+n	cds	no	Разбойное нападение	inclusive
+n	cds	no	башка	conservative
+n	cds	no	сукин сын	inclusive
+n	svp	no	Семь смертных грехов	inclusive
+n	cds	no	ультраконсервативный	conservative
+n	qas	no	кладовщик	inclusive
+n	is	yes	нищий	inclusive
+a	ddp	yes	глупо	conservative
+n	dmc	yes	фанатик	conservative
+n	an	no	Жаба обыкновенная	inclusive
+n	cds	no	угон скота	inclusive
+n	qas	no	Баронский род	inclusive
+n	re	no	преступница	inclusive
+n	qas	no	Лом цветных металлов	inclusive
+n	dmc	yes	зло	inclusive
+n	asm	no	twirp	conservative
+n	cds	no	преступник	conservative
+n	cds	no	defrauder	inclusive
+n	cds	no	железный лом	inclusive
+n	cds	no	чванство	inclusive
+n	cds	no	такой-сякой	conservative
+n	re	no	vilifier	conservative
+n	cds	no	рэкетир	inclusive
+n	re	no	сексуального насилия	inclusive
+n	dmc	yes	обма́нщик	conservative
+n	cds	no	межродовых гибридные	inclusive
+n	ps	yes	черного сообщества	inclusive
+n	cds	no	бесплатно и принятых масонов	inclusive
+n	dmc	yes	Бомжиха	conservative
+v	asm	no	выёбываться	conservative
+n	an	no	молочных коз	inclusive
+n	an	no	Осёл домашний	inclusive
+n	om	no	Оральный	inclusive
+n	cds	no	ло́вкий плут	conservative
+n	qas	no	Паразиты	inclusive
+n	cds	no	Японская система мер	inclusive
+n	asm	no	неумный человек	conservative
+n	qas	no	банда	inclusive
+n	cds	no	дура	inclusive
+n	an	no	невежда	conservative
+n	om	no	тьфу	inclusive
+a	ddp	yes	неграмотный	inclusive
+n	re	no	rustler	inclusive
+v	asm	no	валя́ть дурака́	inclusive
+n	ddp	yes	эпифауны	inclusive
+n	pr	no	Кокотка	conservative
+n	pa	yes	кассир билетной кассы	inclusive
+n	dmc	yes	изгой	inclusive
+n	ps	yes	полукровка	conservative
+n	cds	no	Дэнди	inclusive
+n	an	no	шакал	inclusive
+n	ps	yes	Негроидная раса	inclusive
+n	asm	no	темно-коричневый	inclusive
+n	qas	no	бизнесменов	inclusive
+n	cds	no	обма́нщица	conservative
+n	an	no	буйвол	inclusive
+a	ps	yes	вороной	inclusive
+n	cds	no	религиозного фундаментализма	inclusive
+n	cds	no	идолопокло́нство	inclusive
+n	cds	no	Рауб-риттер	inclusive
+n	ps	yes	скряга	conservative
+n	om	no	содомит	inclusive
+n	is	yes	жадность	conservative
+n	cds	no	грабитель	conservative
+n	om	no	жо́почник	inclusive
+n	dmc	yes	отступник	conservative
+n	qas	no	магнат	inclusive
+n	ps	yes	Азиатско-американская раса	conservative
+n	cds	no	прока́зница	inclusive
+n	cds	no	тряпка	conservative
+n	om	no	черт!	inclusive
+n	dmc	yes	псевдо	conservative
+n	ddp	yes	животное	inclusive
+a	svp	no	сладострастный	conservative
+n	cds	no	офицер полиции	conservative
+n	qas	no	путаница	inclusive
+n	ps	yes	замедлять	conservative
+n	pr	no	грязнуля	conservative
+n	ddp	yes	перевертыш	conservative
+n	an	no	Комары кровососущие	inclusive
+n	ddp	yes	Сюрприз	inclusive
+n	cds	no	показного	inclusive
+n	an	no	Гиены	inclusive
+n	cds	no	Омерта	inclusive
+n	an	no	бабенка	conservative
+n	re	no	defamer	conservative
+n	pa	yes	академизма	inclusive
+n	cds	no	Гранжер	inclusive
+n	cds	no	хитре́ц	conservative
+n	ps	yes	Цыган	inclusive
+n	an	no	лисица	inclusive
+n	cds	no	простак	conservative
+n	ps	yes	метек	inclusive
+n	asm	no	avialae	inclusive
+n	ddp	yes	сын сука	conservative
+n	ddp	yes	сра́ка	conservative
+n	an	no	собак	inclusive
+n	cds	no	Нуво риш	inclusive
+n	ps	yes	krauthead	conservative
+n	ddp	yes	кретинизм	inclusive
+n	cds	no	гибрис	conservative
+n	re	no	сила	inclusive
+n	dmc	yes	никудышный	conservative
+n	pr	no	Иванова муха	inclusive
+n	dmc	yes	несчастный	inclusive
+n	or	no	Укроп аптечный	inclusive
+n	asm	no	яйцо́	inclusive
+n	qas	no	тестикула	inclusive
+n	or	no	Квир	conservative
+n	ddp	yes	сброд	conservative
+n	om	no	осёл	inclusive
+n	svp	no	похотливость	inclusive
+n	asm	no	глупость	conservative
+n	is	yes	скупец	conservative
+n	om	no	Словарь терминов анатомического расположения	inclusive
+n	cds	no	лоботря́ска	conservative
+n	ps	yes	болгарский	inclusive
+n	an	no	физиогномика	inclusive
+a	cds	no	продажный	conservative
+n	cds	no	парвеню	inclusive
+n	cds	no	бытовой мусор	conservative
+n	ddp	yes	плохой работник	conservative
+n	cds	no	мастурбации	conservative
+n	dmc	yes	низость	inclusive
+n	an	no	блох	inclusive
+n	ps	yes	еврейской традиции	inclusive
+a	is	yes	ми́зерный	inclusive
+n	qas	no	Эффект повального увлечения	inclusive
+n	ddp	yes	блажь	conservative
+n	cds	no	10 заповедей Коза ностра	conservative
+n	cds	no	мошенник	inclusive
+n	cds	no	делец	inclusive
+n	re	no	мелкий воришка	inclusive
+n	an	no	Домашняя курица	inclusive
+n	pr	no	давалка	conservative
+n	re	no	Сексуальные преступления	inclusive
+n	dmc	yes	blunderer	conservative
+n	ddp	yes	идио́тство	inclusive
+n	an	no	коров	inclusive
+n	qas	no	простых людей	inclusive
+n	ps	yes	цыганских	inclusive
+n	re	no	мелкий вор	inclusive
+n	an	no	козёл	inclusive
+n	om	no	Квир-идентичность	conservative
+n	an	no	бздун	conservative
+n	qas	no	маляра	inclusive
+n	pr	no	придворный	inclusive
+n	re	no	пострелёнок	inclusive
+n	cds	no	Хибрис	conservative
+n	cds	no	куча	inclusive
+n	re	no	Грабители	inclusive
+n	svp	no	скупердяй	conservative
+n	an	no	клещей	inclusive
+n	an	no	животных	inclusive
+n	or	no	poove	conservative
+n	ddp	yes	существо	inclusive
+n	cds	no	Дендизм	inclusive
+n	qas	no	сельскохозяйственный рабочий	inclusive
+n	an	no	кровать ошибок	inclusive
+n	cds	no	гнусная ложь	conservative
+v	an	no	брехать	inclusive
+n	pa	yes	гробовщик	inclusive
+n	asm	no	боб	inclusive
+n	an	no	похитителей тел	inclusive
+n	cds	no	кружок	inclusive
+n	cds	no	ростовщи́к	inclusive
+a	qas	no	средневековый	inclusive
+n	re	no	Преступления против половой неприкосновенности и половой свободы личности	inclusive
+n	cds	no	Каммон	inclusive
+n	cds	no	Нарциссизм	inclusive
+n	ps	yes	мети́ска	conservative
+n	qas	no	смутьяна	conservative
+n	cds	no	племен	inclusive
+n	cds	no	помпезности	inclusive
+n	an	no	поросенка	inclusive
+n	svp	no	Афимия	inclusive
+n	cds	no	пеон	inclusive
+n	ddp	yes	мужлан	conservative
+n	ps	yes	Чёрный	inclusive
+n	re	no	грабеже при отягчающих обстоятельствах	inclusive
+n	cds	no	канализационная труба	inclusive
+n	om	no	сзади	inclusive
+n	re	no	задержка	inclusive
+n	an	no	змея	inclusive
+n	ddp	yes	Зека	inclusive
+n	an	no	нетопырь	inclusive
+a	is	yes	жалкий	conservative
+n	cds	no	pudden головы	conservative
+a	ddp	yes	неумный	conservative
+n	an	no	неистовство	inclusive
+n	cds	no	выскочкой	inclusive
+n	cds	no	всезнайка	conservative
+n	an	no	Домашняя коза	inclusive
+n	cds	no	мусора	inclusive
+n	an	no	Овца домашняя	inclusive
+n	an	no	loricata	inclusive
+n	an	no	необразованный человек	conservative
+n	ddp	yes	деби́л	conservative
+n	cds	no	сутенер	conservative
+n	re	no	161 УКРФ	inclusive
+v	cds	no	лопать	inclusive
+n	cds	no	домушник	inclusive
+n	cds	no	нарушение закона	inclusive
+n	qas	no	мужлан	conservative
+n	re	no	баловни́к	inclusive
+a	dmc	yes	невежливый	conservative
+n	re	no	Террорист	conservative
+n	cds	no	патрульный	inclusive
+n	an	no	Сыч домовой	inclusive
+n	ddp	yes	чайник	conservative
+n	ddp	yes	Задержка умственного развития	inclusive
+n	an	no	мистификации	conservative
+n	qas	no	предприниматель	inclusive
+n	ps	yes	полукро́вка	conservative
+n	an	no	Дурачок	conservative
+n	an	no	мягкая на ощупь	conservative
+n	dmc	yes	морали	inclusive
+n	ddp	yes	дурак	conservative
+n	cds	no	Сицилийская мафия	inclusive
+n	dmc	yes	treasonist	conservative
+n	re	no	мука	inclusive
+n	ddp	yes	ахинея	conservative
+n	svp	no	тщесла́вие	conservative
+n	qas	no	соучастник	inclusive
+n	cds	no	нацистка	conservative
+n	cds	no	незаконнорожденный ребенок	inclusive
+n	dmc	yes	деревенщина	conservative
+n	cds	no	мистификатора	conservative
+n	om	no	странный	conservative
+n	qas	no	Селянство	inclusive
+n	pa	yes	членом-корреспондентом	inclusive
+n	an	no	Гиеновые	inclusive
+n	cds	no	ше́льма	inclusive
+n	ddp	yes	незнание	conservative
+n	an	no	Домашние собаки	inclusive
+n	dmc	yes	половина пинты	conservative
+n	pr	no	Придворные	inclusive
+n	pa	yes	Бухгалтеры	inclusive
+n	an	no	микробов	inclusive
+n	qas	no	никудышный человек	conservative
+n	cds	no	крошка	inclusive
+n	ddp	yes	микрокефалия	inclusive
+n	cds	no	малышка	inclusive
+a	ddf	yes	одноглазый	inclusive
+v	asm	no	тра́хать	conservative
+n	cds	no	ростовщичеством	conservative
+n	pr	no	пяденицы	inclusive
+n	om	no	Ягодицы	inclusive
+n	asm	no	Пенис у животных	inclusive
+a	cds	no	зата́сканный	inclusive
+n	an	no	hirudinean	inclusive
+n	cds	no	Ростовщичество	inclusive
+n	cds	no	масонство	inclusive
+n	pr	no	моль	inclusive
+n	svp	no	апатия	inclusive
+n	an	no	губошлёп	conservative
+n	pr	no	волов	inclusive
+n	an	no	bison bonasus	inclusive
+n	om	no	гомосе́к	conservative
+n	om	no	леди	inclusive
+n	cds	no	Вертухай	inclusive
+n	cds	no	предательский	conservative
+n	cds	no	идолопоклонством	inclusive
+n	an	no	Козы	inclusive
+n	an	no	Курица	inclusive
+n	an	no	съедобная улитка	inclusive
+n	pa	yes	научных кругов	inclusive
+n	ps	yes	хамка	conservative
+n	is	yes	злодея	conservative
+n	cds	no	банды культуры	conservative
+n	ps	yes	черная	conservative
+n	cds	no	подстрекателя	conservative
+n	is	yes	скупердяй	conservative
+a	is	yes	скаредный	conservative
+n	qas	no	ротозей	conservative
+n	qas	no	Русский мужик	inclusive
+n	re	no	Насильник	conservative
+n	or	no	Огурец	inclusive
+a	cds	no	прогорклый	inclusive
+n	ps	yes	Остготская империя	inclusive
+n	cds	no	тупица	conservative
+n	cds	no	поверхностность	inclusive
+n	or	no	новых картофеля	inclusive
+n	an	no	неопрятность	conservative
+n	cds	no	деревенщина	conservative
+n	cds	no	Тюремная стража	inclusive
+n	an	no	гадюка	inclusive
+n	an	no	запретили сова	inclusive
+n	an	no	Гадюки настоящие	inclusive
+n	qas	no	Прихожанин	inclusive
+n	re	no	террористов	conservative
+n	an	no	Литературная мистификация	conservative
+n	pa	yes	пастуха	inclusive
+n	ps	yes	Негр	inclusive
+a	cds	no	ловкий	conservative
+n	om	no	гомосексуалист	inclusive
+n	cds	no	неочищенных сточных вод	inclusive
+n	cds	no	морализм	inclusive
+n	qas	no	ерунда	inclusive
+n	om	no	среднеключичной линии	inclusive
+n	cds	no	паренек	inclusive
+n	asm	no	pisum sativum	inclusive
+a	asm	no	коричневый	inclusive
+n	cds	no	дрочение	conservative
+n	is	yes	злодейка	conservative
+n	cds	no	варваров	conservative
+n	asm	no	faba equina	inclusive
+n	ddp	yes	некомпетентный человек	conservative
+n	cds	no	крокозябра	inclusive
+n	cds	no	Тяжкое преступление	inclusive
+n	re	no	делец	inclusive
+n	cds	no	литературные взломать	conservative
+n	cds	no	ингруппы	inclusive
+n	asf	no	betise	conservative
+n	dmc	yes	foetor	conservative
+n	re	no	Слеер	inclusive
+n	an	no	cakehole	inclusive
+n	dmc	yes	Клоунесса	inclusive
+n	re	no	libeler	conservative
+n	an	no	папиз	conservative
+n	ps	yes	бедуины	inclusive
+n	re	no	Движение за независимость Чехословакии	conservative
+n	qas	no	Груз	inclusive
+n	cds	no	Глупость	conservative
+n	cds	no	молодой человек	inclusive
+n	an	no	lampyris noctiluca	inclusive
+n	cds	no	молодежных банд	conservative
+n	cds	no	ебла́н	conservative
+n	cds	no	штрейкбрехеров	inclusive
+n	an	no	шалунья	conservative
+n	dmc	yes	бродяга	inclusive
+n	an	no	Постельные клопы	inclusive
+n	cds	no	враки	conservative
+n	qas	no	варвар	conservative
+n	cds	no	него́дница	inclusive
+n	cds	no	слаба́к	conservative
+n	dmc	yes	разбойник	inclusive
+n	or	no	muttonhead	conservative
+n	re	no	плагиатом	inclusive
+n	ddp	yes	макрофауны	inclusive
+n	dmc	yes	хам	conservative
+n	an	no	epifaunal	inclusive
+n	cds	no	политикан	inclusive
+n	ps	yes	грубиян	conservative
+n	dmc	yes	Без определённого места жительства	conservative
+n	ddp	yes	абсурд	conservative
+n	re	no	тяжкое уголовное преступление	inclusive
+n	cds	no	Чешская "Маффия"	inclusive
+n	an	no	шакала	inclusive
+n	ddp	yes	задний проход	conservative
+n	pr	no	Уличная проституция	conservative
+n	asf	no	мила́шка	conservative
+n	cds	no	хам	conservative
+n	asm	no	ночевок	inclusive
+n	svp	no	похоть	inclusive
+n	ddp	yes	болтун	inclusive
+n	pr	no	Телка	inclusive
+n	ddp	yes	бред собачий	conservative
+n	an	no	Козёл	inclusive
+n	cds	no	лиса́	conservative
+n	ps	yes	о́лух	conservative
+n	qas	no	хижина	inclusive
+n	dmc	yes	Моццарелла	inclusive
+n	ddp	yes	репродукция животных	inclusive
+n	cds	no	дитя	inclusive
+n	cds	no	высокомерие	conservative
+n	ps	yes	простофиля	conservative
+n	cds	no	Надзиратель	inclusive
+n	cds	no	Благородная ложь	inclusive
+n	dmc	yes	грабитель	conservative
+n	dmc	yes	лгун	inclusive
+n	qas	no	средний класс	inclusive
+n	cds	no	неправда	inclusive
+n	cds	no	Лом цветных металлов	conservative
+n	svp	no	корыстолюбие	inclusive
+n	qas	no	отходы	inclusive
+n	asf	no	киска	conservative
+n	is	yes	есть-не	inclusive
+n	cds	no	приспешников	conservative
+n	svp	no	пристрастие	inclusive
+n	cds	no	грудной ребенок	inclusive
+n	ddf	yes	отключения	inclusive
+n	asm	no	пипи́ска	conservative
+n	ddp	yes	ебла́н	conservative
+n	asf	no	писька	conservative
+n	cds	no	любитель	inclusive
+n	cds	no	обрывки	inclusive
+a	svp	no	развратный	conservative
+n	cds	no	cosa nosta	conservative
+n	svp	no	лоботря́с	conservative
+n	re	no	пиратов	inclusive
+n	an	no	Серая жаба	inclusive
+n	cds	no	Враль	conservative
+n	re	no	Пираты	inclusive
+a	ddp	yes	бессмысленный	conservative
+n	re	no	уголовным преступлением	inclusive
+n	cds	no	главарь	inclusive
+n	pr	no	Лоретка	inclusive
+n	ps	yes	помесь	inclusive
+n	ddp	yes	Кретин	inclusive
+v	an	no	бушевать	conservative
+n	cds	no	autolatry	inclusive
+n	pr	no	распутство	conservative
+n	dmc	yes	смрад	conservative
+n	cds	no	религиозности	inclusive
+n	pa	yes	юри́ст	inclusive
+n	dmc	yes	аферистка	conservative
+n	ddp	yes	ублюдок	conservative
+n	pa	yes	преподаватель	inclusive
+n	qas	no	смеси	inclusive
+n	qas	no	смесь	inclusive
+n	ddp	yes	перевертыши	inclusive
+n	dmc	yes	Ханжа	conservative
+n	asf	no	кретин	conservative
+n	cds	no	публичный дом	inclusive
+n	an	no	кокетка	conservative
+n	pa	yes	академизм	inclusive
+n	an	no	лентяй	conservative
+n	cds	no	Каморра	inclusive
+n	cds	no	грубиянка	conservative
+n	an	no	козя́вка	inclusive
+n	pa	yes	привратник	inclusive
+n	cds	no	гранж	inclusive
+n	om	no	жо́пник	inclusive
+n	ps	yes	метеков	inclusive
+n	cds	no	идолопокло́нничество	inclusive
+n	cds	no	дворняжка	inclusive
+n	cds	no	наро́д	inclusive
+n	dmc	yes	вы́кинутый	inclusive
+n	cds	no	омерта	inclusive
+v	asm	no	дура́читься	inclusive
+n	cds	no	Консильери	inclusive
+n	cds	no	сутенёр	conservative
+v	an	no	свирепствовать	conservative
+n	an	no	phisionomie	inclusive
+n	an	no	корова	conservative
+n	qas	no	эктопаразитов	inclusive
+n	cds	no	полицейский	conservative
+n	pr	no	Жрица любви	conservative
+n	cds	no	щеголь	inclusive
+n	ddf	yes	горбач	inclusive
+n	an	no	спекулянт	conservative
+n	an	no	а́гнец	conservative
+n	cds	no	религиозность	inclusive
+n	cds	no	бандитских разборок	conservative
+n	svp	no	эрос	inclusive
+n	cds	no	clotheshorse	inclusive
+n	asm	no	Нарушения и недисциплинированное поведение	inclusive
+n	dmc	yes	трикстер бога	conservative
+n	ps	yes	мети́с	conservative
+n	cds	no	Го	inclusive
+n	an	no	блядь	conservative
+n	or	no	болван	conservative
+n	dmc	yes	лентя́й	conservative
+n	an	no	скупердяй	conservative
+n	an	no	Ракоскорпионы	inclusive
+n	cds	no	Демагог	conservative
+n	cds	no	фашистский	conservative
+n	qas	no	ложь	conservative
+n	an	no	микроб	inclusive
+n	an	no	изменница	conservative
+n	an	no	Римская улитка	inclusive
+n	or	no	кумпол	inclusive
+n	asf	no	глупец	conservative
+n	ddp	yes	неумеха	conservative
+n	an	no	козьего молока	inclusive
+n	re	no	баловни́ца	inclusive
+n	an	no	комара	inclusive
+n	re	no	Чешская мафия	conservative
+n	ps	yes	еврейской общины	inclusive
+n	ddp	yes	глупе́ц	conservative
+n	cds	no	остатки	inclusive
+n	pa	yes	рыбой	inclusive
+n	an	no	vamper	conservative
+n	cds	no	Делинквент	inclusive
+n	ddf	yes	Степень инвалидности	inclusive
+n	svp	no	самомнение	conservative
+n	re	no	терроризм	conservative
+n	cds	no	moneygrubber	inclusive
+a	svp	no	а́лчный	inclusive
+n	ddp	yes	чернь	conservative
+n	cds	no	Сводничество	conservative
+a	cds	no	трусли́вый	conservative
+n	an	no	anguilla	inclusive
+n	pa	yes	деревенщина	conservative
+n	ps	yes	Иудейка	inclusive
+n	an	no	Мистификатор	conservative
+n	svp	no	развратность	inclusive
+n	ps	yes	мужлан	conservative
+n	qas	no	буржуазия	inclusive
+n	an	no	Бесхвостое	inclusive
+n	qas	no	восходящая звезда	inclusive
+n	cds	no	тюремщика	inclusive
+n	re	no	аферистка	inclusive
+n	cds	no	cockup	inclusive
+n	cds	no	тонн	inclusive
+n	an	no	Злодейка	conservative
+a	dmc	yes	вонючий	conservative
+n	re	no	Боевая террористическая организация	conservative
+n	dmc	yes	опло́шность	inclusive
+n	cds	no	эгоизм	conservative
+n	an	no	чтобы крокодилы	inclusive
+n	pa	yes	иезуит	inclusive
+n	cds	no	резонёр	conservative
+n	an	no	Совообразные	inclusive
+n	an	no	inexorableness	conservative
+n	dmc	yes	обма́нщица	conservative
+n	cds	no	идиотка	inclusive
+n	re	no	Клевета	inclusive
+n	asf	no	мягкая на ощупь	conservative
+n	cds	no	Учительница	inclusive
+v	cds	no	шкрябать	inclusive
+n	om	no	Основные анатомические термины	inclusive
+n	pa	yes	профессор университета	inclusive
+n	svp	no	гурман	inclusive
+n	pr	no	Жрица любви	inclusive
+n	qas	no	высшее должностное лицо	inclusive
+n	an	no	сброда и бобтейл	conservative
+n	ps	yes	неумный человек	conservative
+n	qas	no	шпионить	inclusive
+n	an	no	овечьи	inclusive
+n	an	no	жабий	inclusive
+n	qas	no	клетку	inclusive
+n	an	no	обман	conservative
+n	qas	no	ragtag	conservative
+n	cds	no	член банды	inclusive
+n	ps	yes	Негры	inclusive
+n	dmc	yes	этические мотивы	inclusive
+n	an	no	Похищение тел	inclusive
+n	cds	no	неумеха	conservative
+n	an	no	дно жизни	conservative
+n	ddp	yes	болван	conservative
+n	cds	no	шайка	inclusive
+n	ddp	yes	unwiseness	inclusive
+n	om	no	пидора́с	conservative
+n	ddp	yes	Идиотия	inclusive
+n	cds	no	придурок	inclusive
+n	dmc	yes	бестолочь	conservative
+n	ps	yes	смуглянка	conservative
+n	asm	no	глупец	conservative
+n	asm	no	Идиотизм	inclusive
+n	cds	no	Подменыш	inclusive
+n	re	no	бандит	inclusive
+n	ddp	yes	Потешный дом	inclusive
+v	asm	no	трахаться	conservative
+n	asm	no	дурень	conservative
+a	qas	no	жалкий	conservative
+n	pa	yes	грубиянка	conservative
+n	cds	no	Движения за независимость Чехословакии	conservative
+n	cds	no	шалу́нья	conservative
+n	cds	no	гонитель	conservative
+n	cds	no	муда́к	conservative
+n	svp	no	переедание	inclusive
+n	cds	no	бассейн суетиться	conservative
+n	an	no	Европейский бизон	inclusive
+n	ps	yes	rommany	inclusive
+n	cds	no	простонародье	conservative
+n	an	no	трепло	inclusive
+n	cds	no	масонские	inclusive
+n	asf	no	слабоумный	conservative
+n	ddp	yes	Нарушение умственного развития	inclusive
+n	cds	no	Теории заговора	inclusive
+n	svp	no	безде́йствие	inclusive
+n	an	no	придурок	conservative
+n	cds	no	Надсмотрщик	inclusive
+n	an	no	рогоносец	conservative
+n	cds	no	камарильи	inclusive
+n	dmc	yes	Лгун	inclusive
+n	cds	no	Мон	inclusive
+n	asm	no	дура	conservative
+n	pa	yes	Адвокат в гражданском процессе	inclusive
+n	an	no	хмуриться	inclusive
+n	asm	no	pisum arvense	inclusive
+n	an	no	комар	inclusive
+n	dmc	yes	паяц	inclusive
+n	ddp	yes	бестолочь	inclusive
+n	svp	no	корпоративной жадности	inclusive
+n	ps	yes	вандалы	inclusive
+n	ddp	yes	арестант	inclusive
+a	an	no	скаредный	conservative
+n	qas	no	мусора	inclusive
+n	qas	no	среднего класса	inclusive
+n	or	no	гомосексуалист	conservative
+n	asf	no	простак	conservative
+n	asm	no	Фаллос	inclusive
+n	cds	no	преступное поведение	inclusive
+n	asm	no	pterygiophore	inclusive
+n	pr	no	Курва	inclusive
+n	pa	yes	торговец рыбой	inclusive
+n	dmc	yes	Злодей	conservative
+n	re	no	вне закона	inclusive
+n	om	no	Геи	conservative
+n	dmc	yes	скоморох	inclusive
+n	an	no	коза	inclusive
+n	an	no	diddlysquat	conservative
+n	pr	no	светских	inclusive
+n	asf	no	дурень	conservative
+n	pr	no	ха́стлер	conservative
+n	cds	no	Бандитка	inclusive
+n	an	no	кровопийца	inclusive
+n	cds	no	зануда	conservative
+n	ps	yes	Дебилизм	conservative
+a	svp	no	сердитый	inclusive
+n	asm	no	козел отпущения	conservative
+n	cds	no	хлопотун	conservative
+n	svp	no	высокомерие	conservative
+n	cds	no	пререкаться	inclusive
+n	an	no	отщепенец	conservative
+n	qas	no	divulgement	inclusive
+n	svp	no	желание	inclusive
+n	an	no	свирепость	conservative
+n	an	no	подлая	conservative
+n	cds	no	большой немытыми	conservative
+n	ddp	yes	неграмотный человек	inclusive
+n	cds	no	сотрудница полиции	inclusive
+n	dmc	yes	трагический злодей	conservative
+n	pr	no	женщина на улице	conservative
+n	dmc	yes	аферист	conservative
+n	pr	no	блядь	conservative
+n	re	no	клевета́	conservative
+n	an	no	рода capra	inclusive
+n	om	no	задний конец	inclusive
+n	pr	no	Пяденица берёзовая	inclusive
+n	an	no	скряга	conservative
+n	re	no	каморра	inclusive
+a	cds	no	трусливый	conservative
+v	asm	no	познавать	conservative
+a	dmc	yes	грязный	inclusive
+n	pa	yes	адвоката	inclusive
+n	re	no	Налётчик	inclusive
+n	ps	yes	Метис	conservative
+n	re	no	cosa nostra	conservative
+n	re	no	уби́йца	inclusive
+n	an	no	hyaenidae	inclusive
+n	asm	no	яйцо	inclusive
+a	ddp	yes	неспосо́бный	inclusive
+n	svp	no	Распутство	inclusive
+n	ddp	yes	animalia	inclusive
+n	an	no	курица	inclusive
+n	qas	no	грубый	conservative
+n	cds	no	пропагандист	inclusive
+n	qas	no	американский бизнесмен	inclusive
+n	qas	no	скрап	inclusive
+n	qas	no	запороть	inclusive
+n	qas	no	сыщица	inclusive
+n	dmc	yes	варварка	conservative
+n	pr	no	Тёлка	inclusive
+n	pr	no	Сексуальные услуги	inclusive
+n	dmc	yes	мужла́н	conservative
+n	is	yes	оборванец	conservative
+n	cds	no	правонарушительница	inclusive
+n	cds	no	враки	inclusive
+n	cds	no	Гражданское правонарушение	inclusive
+n	cds	no	ссыку́н	conservative
+n	cds	no	непра́вда	inclusive
+n	cds	no	Идолопоклонник	inclusive
+n	an	no	моль	inclusive
+n	qas	no	омниум-gatherum	inclusive
+n	re	no	Каморра	inclusive
+n	re	no	напраслина	inclusive
+n	asm	no	Птицы	inclusive
+n	cds	no	молельни	inclusive
+n	an	no	злодейка	conservative
+n	an	no	сыч	inclusive
+n	pa	yes	пастух	inclusive
+n	ps	yes	ду́рень	conservative
+n	asm	no	Дебилизм	inclusive
+n	om	no	Содомизм	inclusive
+n	an	no	Лимациды	inclusive
+n	an	no	плут	conservative
+n	svp	no	Алчность	inclusive
+n	ps	yes	Иудаисты	inclusive
+n	or	no	пудинг головы	conservative
+n	cds	no	хлам	inclusive
+n	an	no	Домашние куры	inclusive
+n	dmc	yes	пакостник	conservative
+n	asm	no	дурак	conservative
+n	cds	no	валять дурака	conservative
+n	an	no	Слизняки	inclusive
+n	pr	no	Иванов червячок	inclusive
+n	ps	yes	Фрицы	conservative
+a	ddp	yes	наивный	conservative
+n	qas	no	крупный бизнесмен	inclusive
+n	cds	no	protagonism	inclusive
+n	is	yes	курку́ль	conservative
+n	pr	no	Бабочки моли	inclusive
+n	an	no	чёрная каза́рка	inclusive
+n	cds	no	фарисей	conservative
+n	re	no	крупная кража	inclusive
+a	svp	no	высокомерный	conservative
+n	svp	no	ravenousness	conservative
+v	re	no	обмануть	inclusive
+n	ps	yes	Нототаксон	inclusive
+n	cds	no	ищейка	conservative
+n	re	no	неистовство	inclusive
+n	an	no	Курицы	inclusive
+n	om	no	однополых	inclusive
+n	re	no	cosa nosta	conservative
+n	ps	yes	Еврейский народ	inclusive
+n	om	no	гомосексуалистов	inclusive
+a	cds	no	оборотистый	conservative
+n	dmc	yes	преступник	inclusive
+n	an	no	птица minerva	inclusive
+a	or	no	требующий усилий	conservative
+n	an	no	говно́	conservative
+n	pr	no	неряха	conservative
+n	dmc	yes	Бродяги	inclusive
+n	dmc	yes	негодяй	conservative
+n	re	no	сексуальных домогательствах	inclusive
+n	ps	yes	mestizaje	conservative
+n	re	no	Преступления	inclusive
+n	or	no	мозги	inclusive
+n	an	no	бешенство	inclusive
+n	svp	no	лежебока	conservative
+n	re	no	ограбление	inclusive
+n	cds	no	офицер	conservative
+n	cds	no	приверженец	conservative
+n	dmc	yes	враки	inclusive
+n	cds	no	отчаянных уголовного	inclusive
+n	qas	no	портить	inclusive
+n	cds	no	bawdyhouse	inclusive
+n	qas	no	быдло	inclusive
+n	re	no	Инфантицид	inclusive
+n	pa	yes	швейцар	inclusive
+n	svp	no	отвращение	inclusive
+n	cds	no	нацист	conservative
+n	asm	no	эрекция полового члена	inclusive
+n	re	no	Тяжкое преступление	inclusive
+n	ps	yes	Теневая экономика	inclusive
+n	cds	no	фат	inclusive
+n	an	no	карлик	conservative
+n	an	no	pediculus humanus vestimenti	inclusive
+n	cds	no	заговор молчания	inclusive
+n	cds	no	sonny boy	inclusive
+n	asm	no	пи́ська	conservative
+n	ddf	yes	инвалидность	inclusive
+n	qas	no	балла́ст	inclusive
+n	re	no	убой	inclusive
+n	cds	no	неопрятный человек	conservative
+n	qas	no	соответствия	inclusive
+n	re	no	суровый	inclusive
+n	om	no	гомосексуа́л	inclusive
+n	cds	no	клозет	inclusive
+n	cds	no	нарциссизм	inclusive
+n	dmc	yes	подлец	conservative
+n	ps	yes	фашистский	inclusive
+n	cds	no	уборная	inclusive
+n	cds	no	приспособленец	conservative
+n	cds	no	бандитка	inclusive
+n	cds	no	объявление вне закона	inclusive
+n	an	no	профан	conservative
+n	cds	no	разбойница	conservative
+n	ddf	yes	неполноценный человек	inclusive
+n	re	no	клевета	inclusive
+n	an	no	blattida	inclusive
+n	om	no	за	inclusive
+n	or	no	картофеля	inclusive
+n	an	no	род ангилья	inclusive
+n	an	no	расхищать	inclusive
+n	re	no	злоумышленник	inclusive
+n	re	no	правонарушение	inclusive
+n	pa	yes	пастухи	inclusive
+n	an	no	овец	inclusive
+n	cds	no	Контрреформа	conservative
+n	dmc	yes	лодырь	conservative
+n	dmc	yes	буффонады	inclusive
+n	asm	no	простофиля	conservative
+n	cds	no	выдумка	conservative
+n	an	no	моли	inclusive
+n	cds	no	ерунда	conservative
+n	cds	no	трагическим злодеем	conservative
+n	cds	no	офицер полиции	inclusive
+a	svp	no	воинственный	conservative
+n	cds	no	благодушие	inclusive
+n	cds	no	сутенерство	conservative
+n	svp	no	горе-ноль	conservative
+n	ps	yes	варваров	conservative
+n	cds	no	mother fucker	conservative
+n	cds	no	мети́ска	inclusive
+n	an	no	Животные организмы	inclusive
+n	cds	no	scrawler	conservative
+n	om	no	веселость	inclusive
+n	om	no	голубо́й	inclusive
+n	an	no	Ягненок	inclusive
+n	cds	no	пехотинец	inclusive
+a	is	yes	ску́дный	inclusive
+n	an	no	Жаба европейская	inclusive
+n	re	no	вооруженных ограблений	inclusive
+n	an	no	вол	inclusive
+n	re	no	похищенное имущество	inclusive
+n	cds	no	правонарушитель	conservative
+n	ps	yes	рома	inclusive
+n	svp	no	неистовство	conservative
+n	svp	no	тщеславие	conservative
+n	cds	no	коробейник	conservative
+n	an	no	zooerastia	conservative
+v	asm	no	заниматься любовью	conservative
+a	dmc	yes	подлый	conservative
+n	ps	yes	Негроид	inclusive
+n	an	no	мя́мля	conservative
+n	om	no	гей	inclusive
+n	cds	no	коп	inclusive
+n	cds	no	полисмен	inclusive
+n	cds	no	Масонка	inclusive
+n	cds	no	Гибрида	conservative
+n	cds	no	грубый	conservative
+n	cds	no	фигляр	conservative
+n	cds	no	внебра́чный ребёнок	inclusive
+n	ddp	yes	замедлять	conservative
+n	cds	no	Идиотизм	inclusive
+n	qas	no	Враньё	conservative
+n	an	no	anura	inclusive
+n	an	no	zooerasty	conservative
+n	or	no	мокрощёлка	conservative
+n	om	no	гомосексуальный	inclusive
+n	rci	yes	варваров	conservative
+n	cds	no	шарлатанка	conservative
+n	ddp	yes	идиотка	conservative
+n	ps	yes	вандал	conservative
+n	an	no	пакостник	conservative
+n	an	no	bison bonasus bonasus	inclusive
+n	ddp	yes	Заключённые	inclusive
+n	an	no	скрытые устройства прослушивания	inclusive

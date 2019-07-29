@@ -1,0 +1,772 @@
+pos	category	stereotype	lemma	level
+n	ps	yes	idiot simple	conservative
+n	an	no	she-donkey simple	inclusive
+n	pr	no	moths simple	inclusive
+n	pa	yes	employee simple	inclusive
+n	cds	no	dah mob simple	conservative
+n	cds	no	carrion simple	inclusive
+n	asf	no	idiot simple	conservative
+n	ddp	yes	retard simple	inclusive
+n	ddp	yes	barbarians simple	conservative
+n	an	no	upland goose simple	inclusive
+n	asm	no	testis simple	inclusive
+n	dmc	yes	hobos simple	conservative
+n	pr	no	concubinage simple	inclusive
+n	pr	no	wharf rat simple	inclusive
+n	cds	no	robber baron simple	inclusive
+n	an	no	eurypterids simple	inclusive
+n	qas	no	orchitic simple	inclusive
+n	pr	no	concubine simple	inclusive
+n	an	no	donkey simple	inclusive
+n	an	no	donkeys simple	inclusive
+n	an	no	piglet simple	inclusive
+n	asm	no	brown simple	inclusive
+n	cds	no	outlaw simple	inclusive
+n	asf	no	vaginal simple	conservative
+n	pr	no	ox simple	inclusive
+n	asm	no	stiffy simple	inclusive
+n	cds	no	infancy simple	inclusive
+n	asm	no	idiot simple	inclusive
+n	asm	no	foreskin simple	inclusive
+n	an	no	blattaria simple	inclusive
+n	ps	yes	niggar simple	conservative
+n	ps	yes	mongol simple	inclusive
+n	ddp	yes	asshole simple	conservative
+n	an	no	domestic dog simple	inclusive
+n	ps	yes	nigger simple	conservative
+n	om	no	gay male simple	conservative
+n	ddp	yes	barbarian simple	conservative
+n	ps	yes	bedu simple	inclusive
+n	om	no	butt simple	inclusive
+n	om	no	men dressed as women simple	inclusive
+n	ddp	yes	brain damage simple	inclusive
+n	ddp	yes	prisoner simple	inclusive
+n	an	no	chicks simple	inclusive
+n	an	no	molluscs simple	inclusive
+n	pr	no	prostitution simple	inclusive
+n	pa	yes	attorney simple	inclusive
+n	an	no	non-human animal simple	inclusive
+n	is	yes	villain simple	conservative
+n	svp	no	anger simple	inclusive
+n	svp	no	greedy simple	inclusive
+n	asf	no	cunt simple	conservative
+n	re	no	slander simple	inclusive
+n	cds	no	bigotry simple	conservative
+n	an	no	psittaciformes simple	inclusive
+n	re	no	villain simple	conservative
+n	cds	no	loan shark simple	inclusive
+n	an	no	mollusca simple	inclusive
+n	cds	no	scrap simple	conservative
+n	cds	no	plant breeding simple	inclusive
+n	an	no	cattle simple	inclusive
+n	an	no	microorganisms simple	inclusive
+n	cds	no	police officers simple	conservative
+n	an	no	animal evolution simple	inclusive
+n	an	no	protelinae simple	inclusive
+n	re	no	assassinated simple	inclusive
+n	an	no	owls simple	inclusive
+n	an	no	chicken (food) simple	inclusive
+n	re	no	slander and libel simple	inclusive
+n	re	no	molestation simple	inclusive
+n	asm	no	orchitic simple	inclusive
+n	an	no	aardwolf simple	inclusive
+n	an	no	a man's best friend simple	inclusive
+n	pa	yes	clerk simple	inclusive
+n	ddp	yes	quack simple	conservative
+n	cds	no	changeling simple	inclusive
+n	cds	no	scrap metal simple	conservative
+n	qas	no	lying simple	conservative
+n	ddf	yes	disability simple	inclusive
+n	an	no	rage simple	inclusive
+n	ddp	yes	foolishness simple	inclusive
+n	an	no	insecta simple	inclusive
+n	cds	no	arrogance simple	inclusive
+n	ddf	yes	impairment simple	inclusive
+n	dmc	yes	morality simple	inclusive
+n	an	no	street prostitution simple	conservative
+n	ps	yes	black simple	inclusive
+n	dmc	yes	lies simple	inclusive
+n	asm	no	erectile dysfunction simple	inclusive
+n	an	no	selachimorpha simple	inclusive
+n	cds	no	robber simple	inclusive
+n	cds	no	scrap metal simple	inclusive
+n	asf	no	changeling simple	conservative
+n	ps	yes	changeling simple	conservative
+n	asm	no	nocturnal penile tumescence simple	inclusive
+n	svp	no	rage (emotion) simple	conservative
+n	an	no	pig simple	inclusive
+n	re	no	pirates simple	inclusive
+n	qas	no	ectoparasite simple	inclusive
+n	an	no	strigiformes simple	inclusive
+n	an	no	domestic sheep simple	inclusive
+n	an	no	evolutionary tree animalia simple	inclusive
+n	qas	no	testes simple	inclusive
+n	pr	no	common rat simple	inclusive
+n	ddp	yes	kingdomanimalia simple	inclusive
+n	an	no	rabbits simple	inclusive
+n	pr	no	cows simple	inclusive
+n	an	no	buffalo simple	inclusive
+n	ddp	yes	animal characteristics simple	inclusive
+n	ps	yes	black people simple	inclusive
+n	an	no	earthworms simple	inclusive
+n	qas	no	bourgeois simple	inclusive
+n	an	no	carcharodon carcharias simple	inclusive
+n	re	no	crime simple	inclusive
+n	an	no	hoax simple	conservative
+n	cds	no	loan sharks simple	inclusive
+n	an	no	goat-antelope simple	inclusive
+n	asm	no	penis simple	inclusive
+n	svp	no	seven deadly sins simple	inclusive
+n	pa	yes	barrister simple	inclusive
+n	asm	no	erection simple	inclusive
+n	om	no	openly gay simple	inclusive
+n	re	no	crimes simple	inclusive
+n	ps	yes	jews simple	inclusive
+n	om	no	closeted gay simple	conservative
+n	cds	no	sewage system simple	inclusive
+n	ddp	yes	tree of life animalia simple	inclusive
+n	ddp	yes	anumal simple	inclusive
+n	an	no	mollusk simple	inclusive
+n	cds	no	thief simple	inclusive
+n	an	no	proteles cristatus simple	inclusive
+n	pa	yes	corporal simple	inclusive
+n	om	no	queer simple	inclusive
+n	asm	no	maroon (color) simple	inclusive
+n	re	no	cosa nostra simple	inclusive
+n	dmc	yes	gangster simple	inclusive
+n	an	no	pigs simple	inclusive
+n	qas	no	farmer simple	inclusive
+n	ddp	yes	animal simple	inclusive
+n	qas	no	testicular size simple	inclusive
+n	qas	no	bollocks simple	inclusive
+n	an	no	slug simple	inclusive
+n	asf	no	pussy simple	conservative
+n	ps	yes	nigga simple	conservative
+n	cds	no	conspiracy theory simple	inclusive
+n	an	no	eurypterida simple	inclusive
+n	pr	no	black rat simple	inclusive
+n	re	no	indecent assault simple	inclusive
+n	re	no	cosa nostra simple	conservative
+n	an	no	wisent simple	inclusive
+n	an	no	bunny simple	inclusive
+n	re	no	outlaw simple	inclusive
+n	cds	no	broker simple	inclusive
+n	an	no	puppy simple	inclusive
+n	ddp	yes	animal phylogeny simple	inclusive
+n	cds	no	idiot simple	inclusive
+n	qas	no	testicular hormones simple	inclusive
+n	re	no	homicide simple	inclusive
+n	pr	no	prostitutes simple	inclusive
+n	pr	no	courtesans simple	inclusive
+n	cds	no	jester simple	inclusive
+n	ddp	yes	retarded simple	inclusive
+n	re	no	defamation simple	inclusive
+n	dmc	yes	immorality simple	inclusive
+n	qas	no	middle class simple	inclusive
+n	re	no	molested simple	inclusive
+n	ddf	yes	quadriplegic simple	inclusive
+n	an	no	edible snail simple	inclusive
+n	asm	no	birds simple	inclusive
+n	cds	no	crimes simple	inclusive
+n	re	no	villains simple	conservative
+n	ddp	yes	metazoans simple	inclusive
+n	re	no	terrorist movement simple	conservative
+n	cds	no	tribe simple	inclusive
+n	an	no	barred owl simple	inclusive
+n	an	no	goats simple	inclusive
+n	an	no	crocuta simple	inclusive
+n	pa	yes	funeral director simple	inclusive
+n	qas	no	businessperson simple	inclusive
+n	ps	yes	judaism simple	inclusive
+n	re	no	mafia simple	inclusive
+n	ps	yes	mongolian people simple	inclusive
+n	or	no	cabbage simple	inclusive
+n	pa	yes	professor simple	inclusive
+n	ddp	yes	water animal simple	inclusive
+n	rci	yes	barbarians simple	conservative
+n	or	no	brassica oleracea simple	inclusive
+n	cds	no	freemason simple	inclusive
+n	or	no	fennel simple	inclusive
+n	an	no	hyenas simple	inclusive
+n	cds	no	teachers simple	inclusive
+n	re	no	violent simple	inclusive
+n	ddp	yes	retardation simple	inclusive
+n	qas	no	farmers simple	inclusive
+n	or	no	potato simple	inclusive
+n	cds	no	casino simple	inclusive
+n	om	no	anal sex simple	inclusive
+n	ps	yes	barbarian simple	conservative
+n	asm	no	aves simple	inclusive
+n	an	no	snails simple	inclusive
+n	cds	no	highwayman simple	conservative
+n	an	no	aminals simple	inclusive
+n	an	no	rooster simple	inclusive
+n	cds	no	criminal gang simple	inclusive
+n	asm	no	testicle simple	inclusive
+n	an	no	shark simple	inclusive
+n	or	no	solanum tuberosum simple	inclusive
+n	an	no	kingdomanimalia simple	inclusive
+n	asm	no	hardon simple	inclusive
+n	an	no	goose simple	inclusive
+n	an	no	cockroach simple	inclusive
+n	cds	no	herd simple	inclusive
+n	svp	no	apathy simple	inclusive
+n	ddp	yes	anamalia simple	inclusive
+n	cds	no	lies simple	conservative
+n	cds	no	lie simple	inclusive
+n	an	no	fauna simple	inclusive
+n	qas	no	scrap metal simple	inclusive
+n	an	no	ovis aries simple	inclusive
+n	an	no	chicken simple	inclusive
+n	re	no	murdered simple	inclusive
+n	an	no	kingdom animal simple	inclusive
+n	ddp	yes	idiot simple	inclusive
+n	svp	no	bored simple	inclusive
+n	an	no	earth worm simple	inclusive
+n	cds	no	stealing simple	inclusive
+n	cds	no	lies simple	inclusive
+n	asf	no	vagina simple	conservative
+n	pa	yes	academic simple	inclusive
+n	ps	yes	romanis simple	inclusive
+n	re	no	rape simple	conservative
+n	asm	no	ithyphallus simple	inclusive
+n	om	no	gay simple	inclusive
+n	ps	yes	gipsy simple	inclusive
+n	pr	no	slut simple	conservative
+n	an	no	bunnies simple	inclusive
+n	ps	yes	mongol people simple	inclusive
+n	cds	no	educator simple	inclusive
+n	re	no	criminal simple	inclusive
+n	re	no	torture simple	inclusive
+n	re	no	robber simple	inclusive
+n	or	no	gay male simple	conservative
+n	pr	no	biston betularia simple	inclusive
+n	an	no	heifer simple	inclusive
+n	an	no	mosquito simple	inclusive
+n	re	no	first degree murder simple	inclusive
+n	an	no	hyaeninae simple	inclusive
+n	cds	no	outlaw simple	conservative
+n	an	no	worms simple	inclusive
+n	an	no	chickens simple	inclusive
+n	an	no	brown hyena simple	inclusive
+n	ps	yes	judiasm simple	inclusive
+n	asm	no	idiots simple	inclusive
+n	an	no	caimaninae simple	inclusive
+n	cds	no	fascist simple	conservative
+n	ddp	yes	fauna simple	inclusive
+n	cds	no	mafia simple	inclusive
+n	cds	no	villain simple	conservative
+n	an	no	goat-antelopes simple	inclusive
+n	cds	no	conspiracy theories simple	inclusive
+n	an	no	anamalia simple	inclusive
+n	re	no	murders simple	inclusive
+n	asf	no	idiots simple	conservative
+n	om	no	bean queen simple	conservative
+n	an	no	flea simple	inclusive
+n	asm	no	erect simple	inclusive
+n	qas	no	heterogeneous mixture simple	inclusive
+n	asf	no	pubic hair simple	inclusive
+n	ddf	yes	handicapped simple	inclusive
+n	or	no	potatoe simple	inclusive
+n	asm	no	penes simple	inclusive
+n	dmc	yes	evil simple	inclusive
+n	an	no	great white shark simple	inclusive
+n	an	no	steer simple	inclusive
+n	an	no	puppies simple	inclusive
+n	qas	no	rhetoric simple	inclusive
+n	asm	no	penile erection simple	inclusive
+n	an	no	worm simple	inclusive
+n	an	no	sheep simple	inclusive
+n	pr	no	prostitution simple	conservative
+n	an	no	earthworm simple	inclusive
+n	an	no	villain simple	conservative
+n	pa	yes	fishmonger simple	inclusive
+n	svp	no	greed simple	inclusive
+n	an	no	sea scorpion simple	inclusive
+n	pr	no	moth simple	inclusive
+n	re	no	robbery simple	inclusive
+n	asm	no	pea simple	inclusive
+n	an	no	crocodile simple	inclusive
+n	an	no	mollusks simple	inclusive
+n	asm	no	appendage simple	inclusive
+n	qas	no	businesswoman simple	inclusive
+n	cds	no	arrogance simple	conservative
+n	an	no	microbe simple	inclusive
+n	re	no	steal simple	inclusive
+n	an	no	eel simple	inclusive
+n	asm	no	testicular diseases simple	inclusive
+n	asm	no	boner simple	inclusive
+n	an	no	anumal simple	inclusive
+n	ps	yes	niggers simple	conservative
+n	an	no	parrot simple	inclusive
+n	asm	no	ithyphallic simple	inclusive
+n	re	no	terrorists simple	conservative
+n	cds	no	grunge simple	inclusive
+n	re	no	thief simple	inclusive
+n	cds	no	gang simple	conservative
+n	cds	no	the fool (tarot card) simple	inclusive
+n	an	no	bed bug simple	inclusive
+n	ddp	yes	animalia kingdom simple	inclusive
+n	ps	yes	zulu people simple	inclusive
+n	an	no	oxen simple	inclusive
+n	ddf	yes	disabilities simple	inclusive
+n	asm	no	green pea simple	inclusive
+n	svp	no	angry simple	inclusive
+n	asm	no	chirp simple	inclusive
+n	an	no	crocodylidae simple	inclusive
+n	ddp	yes	metazoan simple	inclusive
+n	cds	no	criminals simple	inclusive
+n	dmc	yes	lie simple	inclusive
+n	ddp	yes	animal types simple	inclusive
+n	an	no	hyaenidae simple	inclusive
+n	cds	no	italian fascism simple	conservative
+n	svp	no	pride simple	inclusive
+n	ps	yes	barbarians simple	conservative
+n	an	no	jackass simple	inclusive
+n	cds	no	gossip simple	inclusive
+n	asm	no	avian simple	inclusive
+n	an	no	siphonaptera simple	inclusive
+n	pr	no	whore simple	conservative
+n	re	no	slayer simple	inclusive
+n	pa	yes	advocate simple	inclusive
+n	svp	no	lust simple	inclusive
+n	an	no	animal phylum simple	inclusive
+n	or	no	closeted gay simple	conservative
+n	asm	no	no erection simple	inclusive
+n	an	no	american bison simple	inclusive
+n	asm	no	testicular disorder simple	inclusive
+n	an	no	hyaena brunnea simple	inclusive
+n	ps	yes	metics simple	inclusive
+n	qas	no	business man simple	inclusive
+n	qas	no	lie simple	conservative
+n	cds	no	sewer simple	inclusive
+n	ps	yes	metic simple	inclusive
+n	cds	no	brothel simple	inclusive
+n	an	no	animal characteristics simple	inclusive
+n	cds	no	villains simple	conservative
+n	asm	no	testicals simple	inclusive
+n	cds	no	dandyism simple	inclusive
+n	cds	no	idiots simple	inclusive
+n	dmc	yes	villain simple	conservative
+n	cds	no	shylock simple	conservative
+n	cds	no	cosa nostra simple	conservative
+n	om	no	buttocks simple	inclusive
+n	cds	no	gang violence simple	inclusive
+n	dmc	yes	barbarians simple	conservative
+n	pr	no	rattus simple	inclusive
+n	om	no	homosexuality simple	inclusive
+n	dmc	yes	lying simple	inclusive
+n	om	no	anal fucking simple	inclusive
+n	an	no	dogs simple	inclusive
+n	cds	no	shylock simple	inclusive
+n	an	no	golden jackal simple	inclusive
+n	an	no	rage (emotion) simple	inclusive
+n	pr	no	escort-girl simple	conservative
+n	an	no	anura simple	inclusive
+n	ddp	yes	mental deficiency simple	inclusive
+n	asm	no	uniramous simple	inclusive
+n	re	no	dah mob simple	conservative
+n	pr	no	cattle simple	inclusive
+n	an	no	caiman simple	inclusive
+n	asm	no	maroon (colour) simple	inclusive
+n	ps	yes	roma people simple	inclusive
+n	re	no	piracy simple	inclusive
+n	re	no	terrorism simple	conservative
+n	an	no	mules simple	inclusive
+n	asm	no	balls (slang) simple	inclusive
+n	an	no	animals simple	inclusive
+n	qas	no	tenant farming simple	inclusive
+n	pr	no	hanover rat simple	inclusive
+n	an	no	hyaena hyaena simple	inclusive
+n	pr	no	prostitutes simple	conservative
+n	dmc	yes	villains simple	conservative
+n	om	no	gay male simple	inclusive
+n	ddp	yes	evolutionary tree animalia simple	inclusive
+n	qas	no	mixture simple	inclusive
+n	an	no	owl simple	inclusive
+n	cds	no	robber barons simple	inclusive
+n	an	no	hyena simple	inclusive
+n	pr	no	peppered moth simple	inclusive
+n	qas	no	bloodhound simple	inclusive
+n	ps	yes	jewish people simple	inclusive
+n	re	no	terrorists simple	inclusive
+n	ps	yes	idiots simple	conservative
+n	qas	no	testical simple	inclusive
+n	ddp	yes	changeling simple	inclusive
+n	an	no	metazoan simple	inclusive
+n	an	no	insect simple	inclusive
+n	ddp	yes	animal kingdom simple	inclusive
+n	an	no	villains simple	conservative
+n	an	no	animalia 101 simple	inclusive
+n	cds	no	teacher simple	inclusive
+n	an	no	canis aureus simple	inclusive
+n	cds	no	pimp simple	conservative
+n	an	no	peppered moth simple	inclusive
+n	ddp	yes	foolish simple	inclusive
+n	an	no	creature simple	inclusive
+n	re	no	assassin simple	inclusive
+n	asm	no	pisum sativum simple	inclusive
+n	ddp	yes	changeling simple	conservative
+n	pr	no	rats simple	inclusive
+n	qas	no	homogeneous mixture simple	inclusive
+n	ddp	yes	creature simple	inclusive
+n	re	no	kidnapping simple	inclusive
+n	dmc	yes	trick simple	conservative
+n	cds	no	bookworm (insect) simple	conservative
+n	an	no	capra aegagrus hircus simple	inclusive
+n	an	no	metazoa simple	inclusive
+n	svp	no	wrath simple	inclusive
+n	qas	no	testicals simple	inclusive
+n	an	no	eurypterid simple	inclusive
+n	an	no	animal (metazoan) evolution simple	inclusive
+n	pr	no	courtesan simple	inclusive
+n	svp	no	rage simple	conservative
+n	an	no	european buffalo simple	inclusive
+n	re	no	tortured simple	inclusive
+n	asm	no	testes simple	inclusive
+n	an	no	crocodilia simple	inclusive
+n	cds	no	gangster simple	inclusive
+n	an	no	geese simple	inclusive
+n	ddp	yes	animal phylum simple	inclusive
+n	cds	no	mixed-breed dog simple	inclusive
+n	ps	yes	negro simple	inclusive
+n	or	no	cucumber simple	inclusive
+n	cds	no	fascism simple	conservative
+n	qas	no	lies simple	conservative
+n	an	no	insects simple	inclusive
+n	asm	no	bollocks simple	inclusive
+n	qas	no	amateur simple	inclusive
+n	cds	no	lie simple	conservative
+n	an	no	phthiraptera simple	inclusive
+n	ps	yes	vandals simple	inclusive
+n	ddp	yes	kingdom animalia simple	inclusive
+n	dmc	yes	clown simple	inclusive
+n	an	no	tree of life animalia simple	inclusive
+n	ddp	yes	mental retardation simple	inclusive
+n	ddf	yes	handicap simple	inclusive
+n	or	no	cunt simple	conservative
+n	asm	no	teste simple	inclusive
+n	an	no	water animal simple	inclusive
+n	re	no	violence simple	inclusive
+n	an	no	vulture simple	inclusive
+n	svp	no	proud simple	inclusive
+n	an	no	canis lupus familiaris simple	inclusive
+n	cds	no	crime simple	inclusive
+n	an	no	caprinae simple	inclusive
+n	or	no	cucumbers simple	inclusive
+n	an	no	anguilliformes simple	inclusive
+n	an	no	nonhuman simple	inclusive
+n	ddp	yes	lodderena nana pooki simple	inclusive
+n	ddp	yes	metazoa simple	inclusive
+n	an	no	common toad simple	inclusive
+n	qas	no	middle-class simple	inclusive
+n	dmc	yes	bigotry simple	conservative
+n	qas	no	parasitic simple	inclusive
+n	cds	no	freemasonry simple	inclusive
+n	re	no	indecently assaulted simple	inclusive
+n	an	no	mule simple	inclusive
+n	cds	no	infant simple	inclusive
+n	an	no	rabbit simple	inclusive
+n	pr	no	steer simple	inclusive
+n	an	no	lamb simple	inclusive
+n	an	no	biston betularia simple	inclusive
+n	re	no	sexual molestation simple	inclusive
+n	asm	no	peas simple	inclusive
+n	cds	no	usury simple	inclusive
+n	an	no	microorganism simple	inclusive
+n	cds	no	babies simple	inclusive
+n	dmc	yes	the fool (tarot card) simple	inclusive
+n	cds	no	joker simple	inclusive
+n	asm	no	schlong simple	inclusive
+n	an	no	capra hircus simple	inclusive
+n	dmc	yes	moral simple	inclusive
+n	qas	no	barbarian simple	conservative
+n	qas	no	scrap simple	inclusive
+n	re	no	murderer simple	inclusive
+n	pa	yes	barbarian simple	conservative
+n	asm	no	changeling simple	inclusive
+n	an	no	hog simple	inclusive
+n	an	no	domestic goats simple	inclusive
+n	om	no	closeted gay simple	inclusive
+n	qas	no	parasitology simple	inclusive
+n	cds	no	theft simple	inclusive
+n	re	no	terrorist simple	inclusive
+n	dmc	yes	forgery simple	inclusive
+n	an	no	elver simple	inclusive
+n	re	no	rapist simple	conservative
+n	an	no	lice simple	inclusive
+n	ddp	yes	idiots simple	conservative
+n	svp	no	acedia simple	inclusive
+n	asm	no	testicular simple	inclusive
+n	re	no	sexual assault simple	inclusive
+n	om	no	crossdressing simple	inclusive
+n	svp	no	boredom simple	inclusive
+n	an	no	goat simple	inclusive
+n	ddp	yes	non-human animal simple	inclusive
+n	an	no	crocuta crocuta simple	inclusive
+n	pr	no	domestic cattle simple	inclusive
+n	ddp	yes	animal (metazoan) evolution simple	inclusive
+n	an	no	moths simple	inclusive
+n	re	no	sexual abuse simple	inclusive
+n	an	no	mollusc simple	inclusive
+n	pa	yes	shepherd simple	inclusive
+n	cds	no	gang simple	inclusive
+n	an	no	goat antelope simple	inclusive
+n	om	no	buttock simple	inclusive
+n	or	no	bean queen simple	conservative
+n	re	no	assassinate simple	inclusive
+n	an	no	leech simple	inclusive
+n	re	no	pirate simple	inclusive
+n	dmc	yes	hobo simple	conservative
+n	an	no	beef cattle simple	inclusive
+n	asm	no	testicular hormones simple	inclusive
+n	ps	yes	zulu simple	inclusive
+n	an	no	jackals simple	inclusive
+n	pr	no	rat simple	inclusive
+n	cds	no	gang violence simple	conservative
+n	cds	no	cosa nostra simple	inclusive
+n	pa	yes	solicitor simple	inclusive
+n	cds	no	newborn simple	inclusive
+n	an	no	sharks simple	inclusive
+n	qas	no	teste simple	inclusive
+n	cds	no	sewage simple	inclusive
+n	cds	no	loan sharks simple	conservative
+n	qas	no	peasant simple	inclusive
+n	asm	no	testicular size simple	inclusive
+n	om	no	sodomy simple	inclusive
+n	an	no	domestic cattle simple	inclusive
+n	an	no	bisons simple	inclusive
+n	ps	yes	jewish religion simple	inclusive
+n	om	no	openly gay simple	conservative
+n	cds	no	buffoon simple	inclusive
+n	pr	no	socialite simple	inclusive
+n	pr	no	brown rat simple	inclusive
+n	an	no	dairy cattle simple	inclusive
+n	re	no	criminals simple	inclusive
+n	om	no	buttsecks simple	inclusive
+n	cds	no	police officer simple	inclusive
+n	asm	no	testicles simple	inclusive
+n	cds	no	clans simple	inclusive
+n	an	no	microbes simple	inclusive
+n	pr	no	mistress simple	conservative
+n	pr	no	prostitute simple	inclusive
+n	an	no	snail simple	inclusive
+n	qas	no	testicular simple	inclusive
+n	an	no	european bison simple	inclusive
+n	pr	no	escort-girl simple	inclusive
+n	an	no	moth simple	inclusive
+n	pa	yes	lawyers simple	inclusive
+n	asm	no	hard-on simple	inclusive
+n	ddp	yes	kingdom animal simple	inclusive
+n	ps	yes	bedouin simple	inclusive
+n	om	no	homosexual simple	inclusive
+n	re	no	assassination simple	inclusive
+n	ps	yes	mestizo simple	conservative
+n	pa	yes	professors simple	inclusive
+n	an	no	goat antelopes simple	inclusive
+n	qas	no	testicular diseases simple	inclusive
+n	an	no	hyaena simple	inclusive
+n	qas	no	testicle simple	inclusive
+n	dmc	yes	morals simple	inclusive
+n	an	no	capra (genus) simple	inclusive
+n	dmc	yes	barbarian simple	conservative
+n	cds	no	fundamentalism simple	inclusive
+n	ps	yes	roma (people) simple	inclusive
+n	an	no	bufo simple	inclusive
+n	cds	no	dandy simple	inclusive
+n	an	no	cows simple	inclusive
+n	svp	no	bigotry simple	conservative
+n	pr	no	norway rat simple	inclusive
+n	or	no	gay simple	conservative
+n	om	no	gay simple	conservative
+n	ddp	yes	metazoon simple	inclusive
+n	pr	no	street prostitution simple	conservative
+n	ddp	yes	folly simple	inclusive
+n	an	no	adder simple	inclusive
+n	re	no	date rape simple	conservative
+n	re	no	murder simple	inclusive
+n	re	no	mafioso simple	inclusive
+n	qas	no	parasite simple	inclusive
+n	asf	no	pubes simple	inclusive
+n	re	no	blackmail simple	conservative
+n	ddp	yes	nonhuman simple	inclusive
+n	re	no	mafioso simple	conservative
+n	qas	no	testicles simple	inclusive
+n	cds	no	barbarians simple	conservative
+n	an	no	maggot simple	inclusive
+n	cds	no	clique simple	inclusive
+n	cds	no	police officers simple	inclusive
+n	pr	no	sex worker simple	conservative
+n	pr	no	hooker simple	inclusive
+n	re	no	plagiarism simple	inclusive
+n	an	no	domestic pig simple	inclusive
+n	cds	no	mafia simple	conservative
+n	cds	no	grunge music simple	inclusive
+n	pa	yes	barbarians simple	conservative
+n	cds	no	scrap simple	inclusive
+n	pa	yes	defense attorney simple	inclusive
+n	cds	no	relic simple	inclusive
+n	cds	no	police officer simple	conservative
+n	an	no	animal simple	inclusive
+n	ps	yes	jew simple	inclusive
+n	ddp	yes	aminals simple	inclusive
+n	cds	no	loan shark simple	conservative
+n	an	no	cow simple	inclusive
+n	ps	yes	jewish simple	inclusive
+n	om	no	gay sex simple	inclusive
+n	cds	no	criminal simple	inclusive
+n	qas	no	baron simple	inclusive
+n	an	no	eels simple	inclusive
+n	cds	no	clan simple	inclusive
+n	svp	no	gluttony simple	inclusive
+n	an	no	striped hyena simple	inclusive
+n	re	no	libel simple	inclusive
+n	pr	no	heifer simple	inclusive
+n	qas	no	business person simple	inclusive
+n	ps	yes	judism simple	inclusive
+n	om	no	buttsex simple	inclusive
+n	pa	yes	undertaker simple	inclusive
+n	qas	no	parasites simple	inclusive
+n	svp	no	sloth (deadly sin) simple	inclusive
+n	an	no	parahyaena brunnea simple	inclusive
+n	qas	no	balls (slang) simple	inclusive
+n	an	no	beeves simple	inclusive
+n	cds	no	lying simple	inclusive
+n	asm	no	priapism simple	inclusive
+n	qas	no	parish simple	inclusive
+n	ddf	yes	special needs simple	inclusive
+n	an	no	worm reproduction simple	inclusive
+n	or	no	potatoes simple	inclusive
+n	an	no	animalia simple	inclusive
+n	svp	no	boring simple	inclusive
+n	re	no	murderers simple	inclusive
+n	ddp	yes	animals simple	inclusive
+n	pa	yes	cobbler simple	inclusive
+n	cds	no	mafioso simple	inclusive
+n	ddp	yes	idiot simple	conservative
+n	ps	yes	black (people) simple	inclusive
+n	om	no	cross-dressing simple	inclusive
+n	qas	no	testicular disorder simple	inclusive
+n	re	no	stealing simple	inclusive
+n	cds	no	hypersexuality simple	conservative
+n	an	no	animal phylogeny simple	inclusive
+n	qas	no	parasitism simple	inclusive
+n	dmc	yes	buffoon simple	inclusive
+n	ddp	yes	animal evolution simple	inclusive
+n	re	no	gangster simple	inclusive
+n	cds	no	steal simple	inclusive
+n	om	no	fennel simple	inclusive
+n	qas	no	rhetorical simple	inclusive
+n	qas	no	testis simple	inclusive
+n	an	no	animal kingdom simple	inclusive
+n	qas	no	homogenous mixture simple	inclusive
+n	an	no	helix pomatia simple	inclusive
+n	an	no	louse simple	inclusive
+n	an	no	metazoans simple	inclusive
+n	svp	no	disgust simple	inclusive
+n	an	no	metazoan evolution simple	inclusive
+n	cds	no	mafioso simple	conservative
+n	an	no	parrots simple	inclusive
+n	re	no	slayer (band) simple	inclusive
+n	re	no	assassinates simple	inclusive
+n	an	no	maoricolpus roseus manukauensis simple	inclusive
+n	ps	yes	mongols simple	inclusive
+n	dmc	yes	joker simple	inclusive
+n	ps	yes	plant breeding simple	inclusive
+n	cds	no	religious fundamentalism simple	inclusive
+n	ddp	yes	intellectual disability simple	inclusive
+n	ddp	yes	idiocy simple	inclusive
+n	pr	no	dairy cattle simple	inclusive
+n	an	no	hen simple	inclusive
+n	an	no	lodderena nana pooki simple	inclusive
+n	svp	no	outrage simple	inclusive
+n	re	no	theft simple	inclusive
+n	dmc	yes	jester simple	inclusive
+n	ps	yes	nig simple	conservative
+n	cds	no	barbarian simple	conservative
+n	pr	no	sex worker simple	inclusive
+n	an	no	caprid simple	inclusive
+n	cds	no	freemasonary simple	inclusive
+n	pr	no	hooker simple	conservative
+n	pr	no	rattus rattus simple	inclusive
+n	ps	yes	bulgarians simple	inclusive
+n	an	no	animal types simple	inclusive
+n	pr	no	cow simple	inclusive
+n	an	no	vipera berus simple	inclusive
+n	ddf	yes	disabled simple	inclusive
+n	an	no	bison simple	inclusive
+n	pr	no	oxen simple	inclusive
+n	asm	no	biramous simple	inclusive
+n	om	no	drag queen simple	inclusive
+n	an	no	bedbug simple	inclusive
+n	re	no	terrorist movement simple	inclusive
+n	an	no	ox simple	inclusive
+n	re	no	terrorist simple	conservative
+n	is	yes	villains simple	conservative
+n	pa	yes	attorney at law simple	inclusive
+n	or	no	brassica rapa simple	inclusive
+n	dmc	yes	trickery simple	conservative
+n	ddp	yes	idiots simple	inclusive
+n	cds	no	baby simple	inclusive
+n	cds	no	usury simple	conservative
+n	dmc	yes	outlaw simple	inclusive
+n	asm	no	dong simple	inclusive
+n	is	yes	poverty simple	inclusive
+n	an	no	sus (genus) simple	inclusive
+n	is	yes	poor simple	inclusive
+n	pr	no	rattus norvegicus simple	inclusive
+n	svp	no	greed (emotion) simple	inclusive
+n	re	no	dah mob simple	inclusive
+n	om	no	twink simple	conservative
+n	qas	no	business woman simple	inclusive
+n	re	no	terrorism simple	inclusive
+n	asm	no	bird simple	inclusive
+n	pa	yes	lawyer simple	inclusive
+n	cds	no	lying simple	conservative
+n	asm	no	erections simple	inclusive
+n	ps	yes	judeo simple	inclusive
+n	or	no	openly gay simple	conservative
+n	an	no	dog simple	inclusive
+n	ddp	yes	animalia 101 simple	inclusive
+n	an	no	culicidae simple	inclusive
+n	asm	no	phallus simple	inclusive
+n	dmc	yes	mozzarella simple	inclusive
+n	an	no	crocodiles simple	inclusive
+n	an	no	gosling simple	inclusive
+n	an	no	jackal simple	inclusive
+n	an	no	kingdom animalia simple	inclusive
+n	cds	no	criminal gang simple	conservative
+n	an	no	hirudinea simple	inclusive
+n	re	no	mafia simple	conservative
+n	qas	no	barbarians simple	conservative
+n	an	no	micro-organism simple	inclusive
+n	om	no	butt sex simple	inclusive
+n	pa	yes	academia simple	inclusive
+n	an	no	toad simple	inclusive
+n	ddp	yes	animalia simple	inclusive
+n	an	no	domestic goat simple	inclusive
+n	ddp	yes	metazoan evolution simple	inclusive
+n	cds	no	mutt simple	inclusive
+n	om	no	bum simple	inclusive
+n	cds	no	relics simple	inclusive
+n	an	no	animalia kingdom simple	inclusive
+n	an	no	metazoon simple	inclusive
+n	qas	no	bourgeoisie simple	inclusive
+n	cds	no	pimp simple	inclusive
+n	pr	no	whore simple	inclusive
+n	pr	no	bull simple	inclusive
+n	cds	no	freemasons simple	inclusive
+n	qas	no	caste simple	inclusive
+n	an	no	bull simple	inclusive
+n	pr	no	mistress (lover) simple	conservative
+n	ddp	yes	maoricolpus roseus manukauensis simple	inclusive
+n	dmc	yes	immoral simple	inclusive
+n	cds	no	dah mob simple	inclusive
+n	cds	no	drying rack simple	inclusive
+n	qas	no	businessman simple	inclusive
+n	an	no	caprids simple	inclusive
+n	pr	no	prostitute simple	conservative
+n	rci	yes	barbarian simple	conservative
+n	an	no	mosquitos simple	inclusive
+n	asm	no	testical simple	inclusive
+n	qas	no	business people simple	inclusive
