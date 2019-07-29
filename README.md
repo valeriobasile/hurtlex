@@ -24,6 +24,12 @@ The 14 categories are:
 | RE  | felonies and words related to crime and immoral behavior |
 | SVP | words related to the seven deadly sins of the Christian tradition |
 
+Hurtlex has a 2-level structure. Lemmas belong to one of these levels:
+- conservative: obtained by translating offensive senses of the
+words in the original lexicon.
+- inclusive: obtained by translating all the potentially relevant
+senses of the words in the original lexicon.
+
 # Lexica
 
 Here is the updated list of the Hurtlex word lists in all languages.
