@@ -4,6 +4,8 @@ HurtLex is a lexicon of offensive, aggressive, and hateful words in over 50 lang
 The words are divided into 14 categories, plus a macro-category indicating whether there is stereotype involved.
 The 14 categories are:
 
+|Label|Description|
+|-----|-----------|
 | PS  | negative stereotypes ethnic slurs |
 | RCI | locations and demonyms |
 | PA  | professions and occupations  |
