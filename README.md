@@ -1,8 +1,8 @@
 # Hurtlex
 
 HurtLex is a lexicon of offensive, aggressive, and hateful words in over 50 languages.
-The words are divided into 14 categories, plus a macro-category indicating whether there is stereotype involved.
-The 14 categories are:
+The words are divided into 17 categories, plus a macro-category indicating whether there is stereotype involved.
+The 17 categories are:
 
 |Label|Description|
 |-----|-----------|
