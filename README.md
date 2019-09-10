@@ -101,3 +101,18 @@ In Proceedings of the Fifth Italian Conference on Computational
 Linguistics (CLiC-It 2018)
 
 http://ceur-ws.org/Vol-2253/paper49.pdf
+
+# Contribute
+
+Contributions are welcome, in the form of revised lexica. Everyone who is native speaker of a language is invited to fork the repository and file a pull request.
+
+Please try to limit your modifications to the following operations:
+
+ * **add**: add a new item to a lexicon, by creating a new line. Fill in all the column values, including category and stereotype, and set level="conservative"
+ * **remove**: remove an item considered wrong for a lexicon, by removing the corresponding line
+ * **update**: change the lemma or the category of an item, e.g. in case of misspelling or wrong alphabet
+ * **add offensiveness score**: create a new column with a real value between 0 and 1 to indicate a score for the offensiveness of an item in a lexicon
+
+Please **create a new version directory** for the lexicon you submit. If yours is the first manually corrected version of a lexicon (that is, the last version is 1.\*) please create the directory for version 2.0. Otherwise, proceed incrementally (2.0 -> 2.1, 2.1 -> 2.2, ...).
+
+Finally, do not forget to add a README.md file in your newly created directory, indicating what has changes, and your contact for due credit.
