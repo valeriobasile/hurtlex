@@ -1,0 +1,3221 @@
+id	pos	category	stereotype	lemma	level
+AR1499	n	an	no	الأوروبية الآسيوية غريفون	inclusive
+AR1048	n	cds	no	ديماجوجي	conservative
+AR70	n	om	no	اللواطة	inclusive
+AR2743	n	dmc	yes	تشرد	inclusive
+AR1322	n	qas	no	الفلاح	inclusive
+AR2310	n	an	no	دُودَة	inclusive
+AR931	n	an	no	التنصت	inclusive
+AR118	n	ddp	yes	codswallop	conservative
+AR1099	n	an	no	diddly	conservative
+AR948	n	an	no	مغناج	conservative
+AR1339	n	dmc	yes	أثر الرائحة الكريهة	conservative
+AR2567	n	cds	no	أتباع	conservative
+AR36	n	pa	yes	عامل	inclusive
+AR255	n	qas	no	بيضة	inclusive
+AR1298	n	cds	no	عصبية	conservative
+AR69	n	svp	no	slothfulness	inclusive
+AR523	n	pr	no	ثيران	inclusive
+AR1210	n	ddf	yes	قزم	conservative
+AR522	n	an	no	ماشية	inclusive
+AR1948	n	qas	no	العدوى الذاتية	inclusive
+AR614	n	an	no	طور	inclusive
+AR128	n	ddp	yes	امية	inclusive
+AR1244	n	dmc	yes	الأخلاق	inclusive
+AR830	n	pa	yes	أستاذ	inclusive
+AR2594	n	an	no	إبن أوى	inclusive
+AR164	n	an	no	بعديات	inclusive
+AR2656	a	svp	no	متعالي	conservative
+AR2344	n	or	no	البطاطا	inclusive
+AR447	n	qas	no	القطب	inclusive
+AR357	n	dmc	yes	والزيف	inclusive
+AR1126	n	dmc	yes	منافق	conservative
+AR1922	n	ps	yes	القوط الشرقيون	inclusive
+AR1195	n	cds	no	scads	inclusive
+AR359	n	cds	no	كذب	conservative
+AR1131	n	dmc	yes	رياء	conservative
+AR522	n	pr	no	ماشية	inclusive
+AR699	n	ps	yes	استبدل	conservative
+AR2671	n	re	no	العملية الارهابية	conservative
+AR195	n	cds	no	غبي	inclusive
+AR207	n	ddp	yes	muttonhead	conservative
+AR2153	n	dmc	yes	نصف باينت	conservative
+AR1958	n	qas	no	الطفيليّات	inclusive
+AR2123	n	pa	yes	راعي	inclusive
+AR1174	n	om	no	مجافي الفم	inclusive
+AR418	n	dmc	yes	جاني	inclusive
+AR114	n	asm	no	بزوغ	inclusive
+AR2503	n	re	no	اللصوص	inclusive
+AR1250	n	dmc	yes	اخلاق	inclusive
+AR753	n	cds	no	القبائل العربية	inclusive
+AR1247	n	dmc	yes	حافز أخلاقي	inclusive
+AR418	n	cds	no	جاني	conservative
+AR1267	n	dmc	yes	شر	inclusive
+AR359	n	qas	no	كذب	conservative
+AR1876	n	an	no	وجه ساخرة	inclusive
+AR99	n	qas	no	الفضلات	inclusive
+AR951	n	an	no	prickteaser	conservative
+AR394	n	pa	yes	خادم فندق	inclusive
+AR1261	n	an	no	eurypterid	inclusive
+AR2537	n	an	no	علجوم	inclusive
+AR332	n	an	no	تقع الرجل	conservative
+AR245	n	cds	no	مبغى	inclusive
+AR575	n	qas	no	الطبقة المتوسطة	inclusive
+AR1636	n	cds	no	الغطرسة	inclusive
+AR501	n	qas	no	المتردد	conservative
+AR518	n	pr	no	أبقار	inclusive
+AR2764	n	an	no	الأفاعي،	inclusive
+AR1066	n	pa	yes	المتودد	inclusive
+AR275	n	ps	yes	البرابرة	conservative
+AR2523	n	qas	no	العظمة	inclusive
+AR611	n	svp	no	الاستعلاء	conservative
+AR1798	n	ddp	yes	تخلف عقلي،	inclusive
+AR730	n	qas	no	رعاع	conservative
+AR2701	n	om	no	عبر اللباس	inclusive
+AR233	n	svp	no	الجشع	inclusive
+AR602	n	ps	yes	البلغار	inclusive
+AR563	n	qas	no	رجال اعمال	inclusive
+AR1372	n	dmc	yes	الأحمق	inclusive
+AR195	n	an	no	غبي	conservative
+AR2070	n	an	no	المكروبات	inclusive
+AR524	n	pr	no	مواشي	inclusive
+AR2152	n	re	no	ستيلير	inclusive
+AR983	n	an	no	التمساحيات	inclusive
+AR358	n	cds	no	باطل	inclusive
+AR186	n	cds	no	دهاء	inclusive
+AR1962	n	qas	no	رعية	inclusive
+AR703	n	re	no	التشهير	inclusive
+AR272	n	ddp	yes	برابرة	conservative
+AR1356	n	cds	no	غلاية من الأسماك	inclusive
+AR617	n	cds	no	lowlife	conservative
+AR329	n	ps	yes	مرقس	conservative
+AR291	n	pa	yes	محامي	inclusive
+AR2557	n	cds	no	المتعالم	conservative
+AR2710	n	pr	no	hetaera	inclusive
+AR1914	n	cds	no	sicilian mafia	inclusive
+AR502	n	qas	no	المتخبط	conservative
+AR36	n	or	no	عامل	conservative
+AR445	n	qas	no	قطب	inclusive
+AR239	n	svp	no	البخل	inclusive
+AR692	n	cds	no	القميء	inclusive
+AR2139	n	pr	no	اجتماعية	inclusive
+AR1013	n	asf	no	كس	conservative
+AR484	n	cds	no	يخطيء	inclusive
+AR44	n	pa	yes	جامعي	inclusive
+AR621	n	cds	no	بوابة	conservative
+AR806	n	qas	no	والعوام	inclusive
+AR1891	n	cds	no	نيرد	conservative
+AR2315	v	qas	no	خرب	conservative
+AR1349	n	pa	yes	بائعة سمك	inclusive
+AR1615	n	cds	no	أسقف	inclusive
+AR2727	n	an	no	الخدع	conservative
+AR883	n	cds	no	المراسل	inclusive
+AR1196	n	cds	no	طن	inclusive
+AR656	n	ddp	yes	عان	inclusive
+AR459	n	cds	no	موظر	conservative
+AR1910	n	re	no	كوزا نوسترا	inclusive
+AR731	n	ddp	yes	عامة	conservative
+AR1617	n	qas	no	منزل الرسام	inclusive
+AR156	n	ddp	yes	الحيوان	inclusive
+AR1317	n	qas	no	فلاحون	inclusive
+AR2293	n	an	no	الأفعى القرنية الأنف	inclusive
+AR684	n	dmc	yes	المنبوذون	inclusive
+AR2194	n	ps	yes	لاتيني	inclusive
+AR2272	n	ps	yes	فاندال	inclusive
+AR1071	n	cds	no	خارج عن القانون	inclusive
+AR2496	n	re	no	اختطف	inclusive
+AR877	n	pa	yes	العريف	inclusive
+AR1858	n	an	no	البعوضيات	inclusive
+AR2100	n	ddp	yes	غباء	inclusive
+AR1171	n	om	no	buttocks	inclusive
+AR1784	n	svp	no	تحجر	conservative
+AR593	n	cds	no	الأنانية	inclusive
+AR1227	n	asm	no	فالوس	inclusive
+AR78	n	ddp	yes	الشرج	conservative
+AR2354	n	or	no	بطاطا	inclusive
+AR1985	n	asm	no	بازلاء	inclusive
+AR53	n	ddp	yes	تخلف عقلي	inclusive
+AR195	n	asm	no	غبي	conservative
+AR480	n	qas	no	تخبط	inclusive
+AR536	n	cds	no	مدير	inclusive
+AR2373	v	an	no	غضب	conservative
+AR1315	n	qas	no	مزارع	inclusive
+AR2168	n	ps	yes	نيغا	conservative
+AR607	n	cds	no	التعالي	conservative
+AR820	n	pa	yes	الأستاذية	inclusive
+AR274	n	ps	yes	غليظ	conservative
+AR2131	n	cds	no	اللغز	conservative
+AR312	n	qas	no	البارون	inclusive
+AR2125	n	pa	yes	الراعي	inclusive
+AR2742	n	pa	yes	سكاف	inclusive
+AR242	n	ddp	yes	التخلف	inclusive
+AR1758	n	cds	no	مراب	inclusive
+AR2570	n	an	no	صرصار	inclusive
+AR717	n	re	no	vilifier	conservative
+AR1907	n	cds	no	بوليس	inclusive
+AR1193	n	dmc	yes	جانح	conservative
+AR720	n	dmc	yes	السارق	conservative
+AR874	n	cds	no	مؤامرة الصمت	inclusive
+AR340	n	pr	no	امرأة من الشارع	conservative
+AR642	n	cds	no	cacography	inclusive
+AR2295	n	an	no	نسر	inclusive
+AR2565	n	an	no	علقيات	inclusive
+AR1699	n	ddp	yes	جهل	conservative
+AR120	n	cds	no	المضطهد	conservative
+AR2403	n	an	no	phthiraptera	inclusive
+AR491	n	cds	no	كريهة تصل	inclusive
+AR893	n	om	no	homophile	conservative
+AR324	n	cds	no	blackballing	inclusive
+AR2406	n	an	no	قمليات	inclusive
+AR2183	n	ps	yes	سوداء	inclusive
+AR2719	n	asm	no	avafauna	inclusive
+AR554	n	qas	no	الفلاحين	inclusive
+AR366	n	cds	no	غندور	inclusive
+AR635	n	re	no	villainess	conservative
+AR1184	n	svp	no	الأكول	inclusive
+AR2267	n	cds	no	الربا	conservative
+AR2200	n	cds	no	hypersexual	conservative
+AR2745	n	cds	no	الفساد	conservative
+AR1221	n	pa	yes	أجير	inclusive
+AR789	n	an	no	عامية	conservative
+AR597	n	cds	no	التمادي	conservative
+AR1423	n	cds	no	الفاشستية	conservative
+AR731	n	an	no	عامة	conservative
+AR1479	n	cds	no	رجعيه	conservative
+AR742	n	om	no	الطفل شابهها	conservative
+AR332	n	cds	no	تقع الرجل	conservative
+AR2284	n	ps	yes	الواندل	inclusive
+AR1046	n	dmc	yes	غش	conservative
+AR1500	n	an	no	gyps fulvus	inclusive
+AR354	n	an	no	المومس	conservative
+AR1403	n	svp	no	اهتياج	conservative
+AR626	n	cds	no	layabout	conservative
+AR678	n	cds	no	الجيف	inclusive
+AR1839	n	an	no	mollusca	inclusive
+AR728	n	ddp	yes	أوباش	conservative
+AR211	n	an	no	لا يعرفون شيئا	conservative
+AR729	n	cds	no	عوام	conservative
+AR255	n	asm	no	بيضة	inclusive
+AR1095	n	cds	no	الجرائم	inclusive
+AR195	n	asf	no	غبي	conservative
+AR1420	n	cds	no	الفاشي	conservative
+AR1064	n	pr	no	عشيق	inclusive
+AR384	n	ps	yes	البدوية	inclusive
+AR107	n	asm	no	نمو	inclusive
+AR919	n	dmc	yes	محتال	conservative
+AR329	n	an	no	مرقس	conservative
+AR1646	n	an	no	الضباع	inclusive
+AR1028	n	qas	no	اعدام	conservative
+AR192	n	or	no	bonce	inclusive
+AR1616	n	dmc	yes	بلا مأوى شخص	inclusive
+AR843	n	or	no	براسيكا زيتية	inclusive
+AR430	n	cds	no	مفشي السر	conservative
+AR2197	n	ps	yes	هيسبنيك	inclusive
+AR462	n	ddp	yes	ابن زنا	conservative
+AR1253	n	dmc	yes	الأخلاقية	inclusive
+AR1628	n	svp	no	إفراط في الطعام	inclusive
+AR1797	n	ddp	yes	نقص العقلية	inclusive
+AR362	n	cds	no	زور	conservative
+AR1679	n	ddp	yes	لغو	conservative
+AR1865	n	an	no	الناموس	inclusive
+AR1904	n	cds	no	دركي	inclusive
+AR374	n	cds	no	رأسا على turvyness	inclusive
+AR1873	n	pr	no	عثه	inclusive
+AR2253	n	dmc	yes	homunculi	inclusive
+AR2679	n	an	no	الكايمانات	inclusive
+AR1532	n	cds	no	مأمورية الصبي	inclusive
+AR2256	n	ddp	yes	twaddler	conservative
+AR768	n	an	no	كابرا	inclusive
+AR2539	n	an	no	ضفادع	inclusive
+AR275	n	pa	yes	البرابرة	conservative
+AR1208	n	cds	no	peons	inclusive
+AR728	n	cds	no	أوباش	conservative
+AR239	n	svp	no	البخل	conservative
+AR1233	n	asm	no	يصعب على	inclusive
+AR2463	a	asm	no	سمراء	inclusive
+AR971	n	cds	no	wanker	conservative
+AR637	n	an	no	الوغد	conservative
+AR1183	n	svp	no	شره	inclusive
+AR510	n	an	no	zooerasty	conservative
+AR1276	n	dmc	yes	زنديق	conservative
+AR1201	n	cds	no	الجلد	inclusive
+AR1461	n	cds	no	فضولي-باركر	conservative
+AR1944	n	dmc	yes	شخص ريفى أخرق	conservative
+AR695	n	cds	no	مأفون	inclusive
+AR517	n	svp	no	مملة	inclusive
+AR369	n	cds	no	المتأنق	inclusive
+AR795	n	asm	no	أير	inclusive
+AR2264	n	dmc	yes	قليل الحظ	inclusive
+AR2151	n	re	no	سراق	inclusive
+AR2213	n	an	no	أوزه	inclusive
+AR1836	n	an	no	رخويات	inclusive
+AR87	n	qas	no	تابع	inclusive
+AR2230	n	an	no	قرادة	inclusive
+AR2528	a	dmc	yes	كاذبة	conservative
+AR167	n	ddp	yes	infauna	inclusive
+AR2666	n	re	no	عملية ارهابية	conservative
+AR2616	a	ddp	yes	أحمق	conservative
+AR422	n	dmc	yes	حظر	inclusive
+AR402	n	an	no	عناد	conservative
+AR917	n	ddp	yes	نصاب	conservative
+AR720	n	cds	no	السارق	conservative
+AR2179	n	ps	yes	negroids	inclusive
+AR2222	n	re	no	إرهابية	inclusive
+AR309	n	an	no	خسيس	inclusive
+AR1910	n	cds	no	كوزا نوسترا	inclusive
+AR432	n	cds	no	واش	conservative
+AR721	n	re	no	مشعوذ	inclusive
+AR1449	n	cds	no	القائم على السجن	inclusive
+AR2091	n	an	no	خروف	inclusive
+AR1854	n	ps	yes	منغولية	inclusive
+AR1425	n	cds	no	فاشيه	conservative
+AR2385	n	is	yes	متسول	inclusive
+AR688	n	an	no	wuss	conservative
+AR1833	n	cds	no	المتهرب	conservative
+AR2609	n	cds	no	العِلْمانية	inclusive
+AR367	n	cds	no	مهندم	inclusive
+AR349	n	an	no	floozie	conservative
+AR725	n	cds	no	الوقاحة	conservative
+AR1205	n	dmc	yes	شخص غير مستقر	inclusive
+AR1482	n	cds	no	رجعي	conservative
+AR1758	n	cds	no	مراب	conservative
+AR2505	n	re	no	التعطيل	inclusive
+AR1870	n	pr	no	عث	inclusive
+AR1086	n	cds	no	التي تخرق القانون	inclusive
+AR1883	n	an	no	شخص متبلد المشاعر	conservative
+AR527	n	an	no	الماشية	inclusive
+AR2157	n	cds	no	نرجسية	inclusive
+AR1979	a	dmc	yes	الشر	conservative
+AR1213	n	an	no	الحلزون pomatia	inclusive
+AR280	n	qas	no	بائع	inclusive
+AR1369	n	cds	no	احمق	inclusive
+AR2275	n	ps	yes	وندل	inclusive
+AR927	n	qas	no	القمامة	inclusive
+AR2795	n	ps	yes	الزولو	inclusive
+AR1078	n	ps	yes	البله	conservative
+AR462	n	cds	no	ابن زنا	conservative
+AR1572	n	om	no	مثليه جنسيه	inclusive
+AR748	n	cds	no	أقرباء	inclusive
+AR1254	n	dmc	yes	سبب أخلاقي	inclusive
+AR819	n	qas	no	طبقة	inclusive
+AR108	n	asm	no	لاحقة	inclusive
+AR1264	n	dmc	yes	الشر	conservative
+AR1452	n	cds	no	تسليم المفتاح	inclusive
+AR1245	n	dmc	yes	اللياقة	inclusive
+AR2287	n	ps	yes	واندال	inclusive
+AR470	n	pa	yes	متعهد	inclusive
+AR688	n	cds	no	wuss	conservative
+AR1354	n	dmc	yes	التزوير	inclusive
+AR868	n	an	no	أرنب	inclusive
+AR2341	v	cds	no	انتقل إلى الرفيق الأعلى	inclusive
+AR78	n	om	no	الشرج	inclusive
+AR169	n	ddp	yes	epifaunal	inclusive
+AR1443	n	asf	no	مهبل	conservative
+AR837	n	or	no	الملفوف	inclusive
+AR1990	n	asm	no	جلبانة	inclusive
+AR2099	n	ddp	yes	غباوه	conservative
+AR1112	n	cds	no	التربة	inclusive
+AR561	n	qas	no	شخصيات من عالم الأعمال	inclusive
+AR263	n	qas	no	الخصية	inclusive
+AR2202	n	cds	no	satyriasis	conservative
+AR2419	n	re	no	plagiarization	inclusive
+AR1359	n	an	no	البرغوت	inclusive
+AR1905	n	cds	no	الشرطي	inclusive
+AR2736	n	cds	no	نظرية مؤامرة	inclusive
+AR2003	n	pa	yes	عتال	inclusive
+AR1157	n	om	no	القمي	inclusive
+AR657	n	ddp	yes	حبيس	inclusive
+AR1323	n	qas	no	فلاحين	inclusive
+AR1309	n	pr	no	خليلة	conservative
+AR419	n	re	no	مجرم	inclusive
+AR1576	n	om	no	homosexualism	inclusive
+AR138	n	an	no	anguillidae	inclusive
+AR610	n	svp	no	غرور	conservative
+AR1	n	dmc	yes	دناءة	inclusive
+AR1357	n	an	no	برغوثيات	inclusive
+AR716	n	re	no	اشيا	conservative
+AR171	n	an	no	الحیوانات	inclusive
+AR612	n	cds	no	vanity	conservative
+AR538	n	ddp	yes	تلف المخ	inclusive
+AR1914	n	cds	no	sicilian mafia	conservative
+AR889	n	om	no	شاذّ جِنسِيًا	inclusive
+AR1335	n	or	no	شمار	inclusive
+AR1336	n	or	no	شمرة شائعة	inclusive
+AR1804	n	cds	no	لص	inclusive
+AR887	n	or	no	نانس	conservative
+AR1390	n	an	no	تجهم	inclusive
+AR1847	n	ps	yes	المملكة المغولية	inclusive
+AR473	n	pa	yes	جنازة المخرج	inclusive
+AR1748	n	cds	no	كسول	conservative
+AR726	n	qas	no	دهماء	conservative
+AR528	n	pr	no	بقره	inclusive
+AR864	n	asm	no	nooky	conservative
+AR1940	n	qas	no	طفيلي	inclusive
+AR2305	n	dmc	yes	المهرجين	inclusive
+AR121	n	cds	no	التعصب	conservative
+AR96	n	an	no	خدعة	conservative
+AR2608	n	cds	no	عِلْمَانية	inclusive
+AR2416	n	cds	no	ومن ناحية الوظيفة	conservative
+AR199	n	ddp	yes	muggins	conservative
+AR636	n	cds	no	وvillainess	conservative
+AR486	n	qas	no	خطأ مربك	inclusive
+AR1843	n	an	no	الرخوي	inclusive
+AR1729	n	om	no	افراج عنها	inclusive
+AR329	n	asm	no	مرقس	conservative
+AR537	n	ddp	yes	تلف الدماغ	inclusive
+AR168	n	ddp	yes	epifauna	inclusive
+AR1028	n	cds	no	اعدام	conservative
+AR1607	n	cds	no	قطيع	inclusive
+AR2529	a	dmc	yes	مزور	conservative
+AR2120	n	pa	yes	الرعاة	inclusive
+AR1243	n	dmc	yes	الدافع الأخلاقي	inclusive
+AR2763	n	an	no	الأفعوانية	inclusive
+AR2174	n	ps	yes	زنجاني	inclusive
+AR1706	n	cds	no	الفخامة	inclusive
+AR167	n	an	no	infauna	inclusive
+AR272	n	dmc	yes	برابرة	conservative
+AR1031	n	cds	no	tricker	conservative
+AR2391	n	cds	no	المتذمر	conservative
+AR560	n	qas	no	رأسمالي	inclusive
+AR219	n	an	no	anes	inclusive
+AR1866	n	an	no	culicidae	inclusive
+AR1638	n	cds	no	كبرياء	conservative
+AR710	n	re	no	والباطل الخبيثة	inclusive
+AR1236	n	an	no	حلزون	inclusive
+AR309	n	an	no	خسيس	conservative
+AR1481	n	cds	no	رجعية	conservative
+AR1706	n	cds	no	الفخامة	conservative
+AR401	n	dmc	yes	متعصب	conservative
+AR617	n	dmc	yes	lowlife	conservative
+AR274	n	ddp	yes	غليظ	conservative
+AR919	n	cds	no	محتال	conservative
+AR321	n	qas	no	التكلف	inclusive
+AR996	n	ps	yes	التهجين	inclusive
+AR19	n	re	no	تعسف	inclusive
+AR1003	n	cds	no	الصاعد	conservative
+AR693	n	asf	no	عته	conservative
+AR2731	n	ps	yes	بطاقة عقوبة	inclusive
+AR863	n	asm	no	الشد	conservative
+AR2507	n	re	no	السطو المسلح	inclusive
+AR2624	n	cds	no	dweeb	conservative
+AR1835	n	an	no	الرخويات	inclusive
+AR1989	n	asm	no	بازيلاء	inclusive
+AR2511	n	re	no	المختطف	inclusive
+AR288	n	pa	yes	دعاة	inclusive
+AR102	n	qas	no	مزيج	inclusive
+AR919	n	ddp	yes	محتال	conservative
+AR2201	n	cds	no	فرط النشاط الجنسي	conservative
+AR1272	n	dmc	yes	الفاسق	conservative
+AR2724	n	cds	no	ndrangheta	inclusive
+AR1371	n	dmc	yes	مهرج	inclusive
+AR199	n	cds	no	muggins	conservative
+AR2455	n	cds	no	طفل	inclusive
+AR118	n	an	no	codswallop	conservative
+AR590	n	cds	no	انانية	conservative
+AR711	n	re	no	افتراء كيدي	inclusive
+AR1107	n	ps	yes	كروت	conservative
+AR2491	n	re	no	خطف	inclusive
+AR888	n	om	no	poove	conservative
+AR2103	n	asm	no	الغباء	conservative
+AR570	n	om	no	فتى	inclusive
+AR1763	n	an	no	الحشرات	inclusive
+AR1770	n	an	no	insecta	inclusive
+AR1611	n	cds	no	وغير مغسولة كبيرة	conservative
+AR1398	n	cds	no	الأصوليين	inclusive
+AR1413	n	svp	no	كآبة	conservative
+AR878	n	pa	yes	جسدي	inclusive
+AR56	n	pa	yes	الأكاديمي	inclusive
+AR754	n	cds	no	نسب	inclusive
+AR1407	n	svp	no	غيظ	inclusive
+AR2534	n	an	no	الضفدع	inclusive
+AR1154	n	om	no	tush	inclusive
+AR57	n	an	no	بايسن	inclusive
+AR474	n	an	no	ديوث	conservative
+AR2670	n	re	no	إرهاب	inclusive
+AR631	n	cds	no	الغوغاء	conservative
+AR220	n	an	no	الحمير	inclusive
+AR869	n	an	no	أرانب	inclusive
+AR1186	n	an	no	الغنمية الحمل	inclusive
+AR154	n	an	no	بهيمة	inclusive
+AR203	n	ps	yes	معتوه	conservative
+AR928	n	cds	no	النفايات البلدية	inclusive
+AR1096	n	an	no	diddlyshit	conservative
+AR1152	n	om	no	الذيلية	inclusive
+AR349	n	pr	no	floozie	conservative
+AR201	n	or	no	knucklehead	conservative
+AR559	n	qas	no	برجوازي	inclusive
+AR1686	n	is	yes	المعوزين	inclusive
+AR726	n	cds	no	دهماء	conservative
+AR1960	n	qas	no	طفيلية	inclusive
+AR416	n	cds	no	الحِرابة	conservative
+AR212	n	an	no	ane	inclusive
+AR1459	n	asf	no	المنشعب الشعر	inclusive
+AR741	n	an	no	شخص سيء	conservative
+AR197	n	an	no	أحمق	conservative
+AR2476	a	re	no	عنيف	conservative
+AR241	n	svp	no	جشع	inclusive
+AR662	n	ddp	yes	نزيل	inclusive
+AR2266	n	dmc	yes	يؤسف له	inclusive
+AR2721	n	asm	no	bird	inclusive
+AR454	n	cds	no	متخلف	conservative
+AR1929	n	an	no	pudge	conservative
+AR694	n	cds	no	أغبياء	inclusive
+AR2026	n	qas	no	البلغاء	inclusive
+AR2589	n	an	no	ابن أوى	inclusive
+AR1406	n	svp	no	غضبه	conservative
+AR1419	n	cds	no	العصابات	inclusive
+AR1388	n	cds	no	ماسونيه	inclusive
+AR2005	n	svp	no	pridefulness	inclusive
+AR2418	n	cds	no	الاصطياد قبالة	conservative
+AR281	n	qas	no	متجر	inclusive
+AR103	n	qas	no	الفرنسة	inclusive
+AR923	n	ddp	yes	مشعود	conservative
+AR2361	v	asm	no	هزئ	conservative
+AR235	n	svp	no	بخل	conservative
+AR1391	n	an	no	عبوس	inclusive
+AR604	n	svp	no	تفاخر	conservative
+AR221	n	an	no	jackass	inclusive
+AR1675	n	ddf	yes	ذوي الاحتياجات الخاصة	inclusive
+AR1590	n	ps	yes	العقيده اليههوديه	inclusive
+AR2772	n	dmc	yes	جاحد	conservative
+AR1301	n	cds	no	قوادة	inclusive
+AR150	n	ddp	yes	metazoa	inclusive
+AR1767	n	an	no	insect	inclusive
+AR453	n	an	no	الجلف	conservative
+AR1313	n	qas	no	fieldhand	inclusive
+AR368	n	cds	no	متأنق	inclusive
+AR491	n	qas	no	كريهة تصل	inclusive
+AR393	n	dmc	yes	كذاب	inclusive
+AR16	n	svp	no	اللا مبالاة	inclusive
+AR1088	n	cds	no	جريمة	inclusive
+AR764	n	cds	no	قبيله	inclusive
+AR691	n	asm	no	أبله	conservative
+AR1747	n	svp	no	المتواني	conservative
+AR936	n	an	no	بق الفراش	inclusive
+AR277	n	ddp	yes	متوحش	conservative
+AR483	n	qas	no	بوو بوو	inclusive
+AR521	n	an	no	ابقار	inclusive
+AR1288	n	cds	no	ذنابة	inclusive
+AR253	n	qas	no	الخصيتين	inclusive
+AR137	n	an	no	أنقليسية	inclusive
+AR2585	n	an	no	إبن آوى	inclusive
+AR603	n	svp	no	خيلاء	conservative
+AR2790	n	an	no	athene noctua	inclusive
+AR420	n	cds	no	جنائي	inclusive
+AR169	n	an	no	epifaunal	inclusive
+AR1964	n	qas	no	أبناء الأبرشية	inclusive
+AR1405	n	svp	no	غَضَب	conservative
+AR350	n	pr	no	rentboy	conservative
+AR381	n	ps	yes	بدوية	inclusive
+AR178	n	re	no	افتضاض	conservative
+AR2513	n	cds	no	المتذلل	conservative
+AR274	n	cds	no	غليظ	conservative
+AR1630	n	qas	no	التدبير المنزلي	inclusive
+AR197	n	or	no	أحمق	conservative
+AR417	n	dmc	yes	banditti	inclusive
+AR2006	n	svp	no	فخر	inclusive
+AR273	n	ps	yes	همجي	conservative
+AR1830	n	cds	no	lav	inclusive
+AR1664	n	an	no	ستريكس فاريا	inclusive
+AR422	n	cds	no	حظر	inclusive
+AR429	n	cds	no	القصاص	conservative
+AR1712	n	cds	no	معلمة	inclusive
+AR1807	n	or	no	الدقة في التفاصيل	inclusive
+AR893	n	or	no	homophile	conservative
+AR411	n	an	no	المارقة	conservative
+AR1942	n	cds	no	ريفي	conservative
+AR1295	n	cds	no	تزمت	conservative
+AR581	n	qas	no	البرجوازيون	inclusive
+AR1433	n	asm	no	والفول	inclusive
+AR801	n	cds	no	المشكلة	conservative
+AR815	n	cds	no	إرضاء الذات	inclusive
+AR1920	n	ps	yes	قوط شرقيون	inclusive
+AR705	n	re	no	تشهيرية	inclusive
+AR79	n	svp	no	كسل	conservative
+AR2302	n	dmc	yes	أراجوز	inclusive
+AR1910	n	cds	no	كوزا نوسترا	conservative
+AR1297	n	svp	no	تعصب	conservative
+AR1719	n	cds	no	jokester	inclusive
+AR647	n	an	no	cakehole	inclusive
+AR1904	n	cds	no	دركي	conservative
+AR2775	n	dmc	yes	مارق	conservative
+AR1533	n	pr	no	العاهرات	inclusive
+AR433	n	cds	no	احتيال	conservative
+AR1080	n	ps	yes	الأهبل	conservative
+AR1753	a	is	yes	المؤسف	inclusive
+AR2116	n	asm	no	غبيون	conservative
+AR409	n	cds	no	حلقة	inclusive
+AR2268	n	ps	yes	الفاندل	inclusive
+AR36	n	om	no	عامل	conservative
+AR2447	n	an	no	chicken	inclusive
+AR2198	n	ps	yes	أخرى أجناس،	inclusive
+AR922	n	ddp	yes	الشعوذة	conservative
+AR343	n	pr	no	زانية	conservative
+AR1011	n	or	no	twat	conservative
+AR2414	a	svp	no	غاضب	inclusive
+AR1053	n	cds	no	ديماجوجيه	conservative
+AR696	n	ps	yes	changelings	conservative
+AR1877	n	an	no	moue	inclusive
+AR510	n	ddp	yes	zooerasty	conservative
+AR694	n	ddp	yes	أغبياء	inclusive
+AR2048	n	ps	yes	مستيزو	conservative
+AR475	n	an	no	مكعباني شبيه بالمكعب	conservative
+AR1372	n	ddp	yes	الأحمق	conservative
+AR286	n	pa	yes	مستشار في القانون العام	inclusive
+AR415	n	cds	no	الحرابة	conservative
+AR1975	n	svp	no	بيني وبين معسر	inclusive
+AR932	n	an	no	جهاز تنصت	inclusive
+AR998	n	ps	yes	تحسين النوع النباتي	inclusive
+AR1248	n	dmc	yes	والأخلاق	inclusive
+AR699	n	asm	no	استبدل	inclusive
+AR996	n	cds	no	التهجين	inclusive
+AR1579	n	om	no	مثليين	inclusive
+AR606	n	svp	no	غطرسة	conservative
+AR96	n	cds	no	خدعة	inclusive
+AR1274	n	an	no	نعجة	inclusive
+AR2329	n	qas	no	troubler	conservative
+AR2348	n	or	no	بطاطس	inclusive
+AR1159	n	om	no	أليه	inclusive
+AR329	n	cds	no	مرقس	conservative
+AR2778	n	an	no	limacidae الأسرة	inclusive
+AR1787	n	asm	no	القضيب	inclusive
+AR1409	n	svp	no	الغضب	conservative
+AR204	n	or	no	fuckhead	conservative
+AR1310	n	pr	no	أبقى امرأة	conservative
+AR2767	n	pa	yes	موظف	inclusive
+AR1402	n	an	no	غضب	inclusive
+AR1108	n	ps	yes	جيري	conservative
+AR2207	n	qas	no	المستأجر المزارع	inclusive
+AR2012	n	re	no	المبتز	inclusive
+AR1241	n	qas	no	الهواة	inclusive
+AR834	n	or	no	ملفوف	inclusive
+AR361	n	cds	no	زيف	conservative
+AR963	n	an	no	البوم	inclusive
+AR658	n	ddp	yes	سجين	inclusive
+AR1078	n	ddp	yes	البله	conservative
+AR1414	n	dmc	yes	dallier	conservative
+AR1660	n	cds	no	عبادة الأصنام	inclusive
+AR478	n	dmc	yes	خبيث	conservative
+AR2151	n	cds	no	سراق	inclusive
+AR2247	n	re	no	وضع حتى الموت	inclusive
+AR1411	n	dmc	yes	ديلي-dallier	conservative
+AR786	n	an	no	الابتذال	conservative
+AR1526	n	re	no	غنيمة	inclusive
+AR687	n	dmc	yes	منبوذون	inclusive
+AR328	n	cds	no	امرأة مثقفة	inclusive
+AR1281	n	dmc	yes	مُبَذِّر	inclusive
+AR353	n	pr	no	إمرأة فاسقة	conservative
+AR1018	n	or	no	القثد	inclusive
+AR1540	n	pr	no	بائعات الهوى	conservative
+AR501	n	dmc	yes	المتردد	conservative
+AR791	n	asm	no	عير	conservative
+AR45	a	pa	yes	النظرية	inclusive
+AR1160	n	om	no	الكعك	inclusive
+AR2253	n	cds	no	homunculi	inclusive
+AR204	n	asf	no	fuckhead	conservative
+AR2448	n	an	no	دجاجه	inclusive
+AR1366	n	an	no	البراغيث	inclusive
+AR195	n	asm	no	غبي	inclusive
+AR1361	n	an	no	برغوت	inclusive
+AR1051	n	cds	no	الغوغائية	conservative
+AR1210	n	cds	no	قزم	conservative
+AR541	n	asm	no	البني	inclusive
+AR330	n	asf	no	لينة اللمس	conservative
+AR206	n	cds	no	الأبله	inclusive
+AR1944	n	cds	no	شخص ريفى أخرق	conservative
+AR2259	n	ddf	yes	قبح	inclusive
+AR2514	n	cds	no	الخاضع	conservative
+AR1811	n	cds	no	schoolmarm	conservative
+AR356	n	dmc	yes	بهتان	inclusive
+AR2506	n	re	no	stickup	inclusive
+AR2349	n	or	no	البطاطة	inclusive
+AR129	n	ddp	yes	الامية	inclusive
+AR1284	n	cds	no	نسابة	inclusive
+AR304	n	pa	yes	lawyer	inclusive
+AR420	n	cds	no	جنائي	conservative
+AR1386	n	cds	no	ماسونيون	inclusive
+AR1045	n	dmc	yes	خديعة	conservative
+AR277	n	cds	no	متوحش	conservative
+AR2784	n	ps	yes	الروما	inclusive
+AR1695	n	svp	no	سكون	inclusive
+AR1073	n	an	no	تستخدام	inclusive
+AR1173	n	om	no	ردف	inclusive
+AR75	n	om	no	جنس شرجي	inclusive
+AR1925	n	an	no	otus اسيو	inclusive
+AR1546	n	pr	no	غانية	conservative
+AR785	n	qas	no	فرس عش	inclusive
+AR501	n	ddp	yes	المتردد	conservative
+AR1684	n	is	yes	فقراء	inclusive
+AR679	n	cds	no	جيفة	inclusive
+AR816	n	cds	no	الرضا الذاتي	inclusive
+AR1569	n	om	no	الشذوذ الجنسي	inclusive
+AR2661	n	cds	no	trasformismo	inclusive
+AR1052	n	cds	no	ديماغوجيا	conservative
+AR1342	n	dmc	yes	foetor	conservative
+AR2652	n	re	no	الاعتداءات الجنسية	inclusive
+AR493	n	cds	no	vaunter	conservative
+AR1056	n	cds	no	ديماغوغيا	conservative
+AR2257	n	ddf	yes	قباحة	inclusive
+AR2788	n	an	no	بَقَرَة	inclusive
+AR2653	n	re	no	اعتداء جنسي	inclusive
+AR1759	n	cds	no	أقرض بالربا	conservative
+AR2618	a	ddf	yes	أعور	inclusive
+AR889	n	om	no	شاذّ جِنسِيًا	conservative
+AR372	n	cds	no	فوضى	inclusive
+AR43	n	pa	yes	عضو هيئة التدريس	inclusive
+AR2092	n	an	no	ovis aries	inclusive
+AR1189	n	pa	yes	بواب	inclusive
+AR2343	n	or	no	البطاطة"،	inclusive
+AR199	n	asm	no	muggins	conservative
+AR856	n	asm	no	اللعنة	conservative
+AR640	n	cds	no	سيارة عتيقة	inclusive
+AR845	n	cds	no	زحمة	inclusive
+AR2475	n	cds	no	دفاع	inclusive
+AR1918	n	cds	no	المافيا	conservative
+AR686	n	is	yes	منبوذين	inclusive
+AR1662	n	cds	no	النذل	conservative
+AR511	n	ddp	yes	شراسة	conservative
+AR1671	n	ddf	yes	الإعاقة	inclusive
+AR1012	n	asf	no	فرج	conservative
+AR130	n	ddp	yes	أميه	inclusive
+AR900	n	ddp	yes	rumourmonger	conservative
+AR238	n	is	yes	بخيل	conservative
+AR1952	n	qas	no	التطفل	inclusive
+AR1643	n	an	no	الضِباع	inclusive
+AR1220	n	pa	yes	مستخدم	inclusive
+AR46	n	cds	no	الرداءة	conservative
+AR2400	n	an	no	صئبان	inclusive
+AR2107	n	asm	no	بليده	conservative
+AR2649	n	re	no	الاعتداء الجنسي	inclusive
+AR1480	n	cds	no	الرجعية	conservative
+AR1457	n	cds	no	راقص محترف	inclusive
+AR32	n	cds	no	سمسار	inclusive
+AR1771	n	re	no	malversation	inclusive
+AR276	n	ddp	yes	البربرية	conservative
+AR1137	n	om	no	عجز	inclusive
+AR595	n	cds	no	أنانيه	conservative
+AR695	n	asf	no	مأفون	conservative
+AR1909	n	cds	no	شرطي	conservative
+AR1957	n	qas	no	تطفل	inclusive
+AR347	n	pr	no	وقحة	conservative
+AR2469	a	ps	yes	صيني	inclusive
+AR2637	n	ddp	yes	الهراء	inclusive
+AR2376	v	cds	no	ذبل	inclusive
+AR2407	n	cds	no	التدين	inclusive
+AR757	n	cds	no	وحدات القياس اليابانية	inclusive
+AR2638	n	ddp	yes	أشياء غير معقولة	inclusive
+AR1299	n	cds	no	قواد	conservative
+AR2583	n	dmc	yes	ثاني التصنيفات	conservative
+AR898	n	ddp	yes	النمام	conservative
+AR2623	n	cds	no	كدح	conservative
+AR1440	n	asf	no	المهبل	conservative
+AR29	n	re	no	انتهاكات الشركات	inclusive
+AR1611	n	cds	no	وغير مغسولة كبيرة	inclusive
+AR249	n	cds	no	ماخور	inclusive
+AR1389	n	cds	no	ميسون الحرة	inclusive
+AR776	n	an	no	capra aegagrus hircus	inclusive
+AR295	n	pa	yes	المدافع	inclusive
+AR1141	n	om	no	الية	inclusive
+AR2560	n	cds	no	حذلقة	inclusive
+AR2441	n	an	no	الدجاج	inclusive
+AR969	n	qas	no	طاقم	inclusive
+AR667	n	an	no	القرش الابيض العظيم	inclusive
+AR1230	n	asm	no	الانتصاب	inclusive
+AR1401	n	svp	no	جنون	conservative
+AR27	n	re	no	عنف	inclusive
+AR195	n	ddp	yes	غبي	conservative
+AR601	n	ps	yes	بلغاري	inclusive
+AR1397	n	cds	no	أصولية	inclusive
+AR2079	n	an	no	animalcules	inclusive
+AR1564	n	om	no	شواذ	inclusive
+AR1047	n	cds	no	الدهماوي	conservative
+AR2639	n	re	no	مغتصب	conservative
+AR799	n	asm	no	ذكر	inclusive
+AR721	n	cds	no	مشعوذ	inclusive
+AR482	n	qas	no	الغلطات	inclusive
+AR1144	n	om	no	الخلفي	inclusive
+AR2619	a	cds	no	العادية	inclusive
+AR513	n	svp	no	مللّ	inclusive
+AR928	n	cds	no	النفايات البلدية	conservative
+AR1751	a	is	yes	مؤسف	inclusive
+AR1589	n	ps	yes	التقاليد اليهودية،	inclusive
+AR41	n	pa	yes	عضو هيئة تدريس	inclusive
+AR525	n	an	no	بوس الثور	inclusive
+AR1344	n	dmc	yes	malodour	conservative
+AR1036	n	om	no	نبيلة	inclusive
+AR1060	n	pr	no	محظيات	inclusive
+AR1224	n	re	no	المجرمين	inclusive
+AR2098	n	ddp	yes	اغبى شخص في العالم	conservative
+AR392	n	dmc	yes	ملفق	conservative
+AR150	n	an	no	metazoa	inclusive
+AR1931	n	om	no	pederastic	inclusive
+AR1503	n	an	no	خنزير	inclusive
+AR2748	n	cds	no	poltroonery	inclusive
+AR598	n	ps	yes	بلغار	inclusive
+AR1588	n	ps	yes	شريعة موسى	inclusive
+AR2166	n	ps	yes	jigaboo	conservative
+AR2613	n	ddp	yes	unwiseness	inclusive
+AR1541	n	pr	no	جراره	conservative
+AR197	n	ddp	yes	أحمق	conservative
+AR902	n	an	no	فراسه	inclusive
+AR339	n	pr	no	مومس	inclusive
+AR512	n	an	no	خبث	conservative
+AR701	n	re	no	الافتراء	inclusive
+AR1418	n	re	no	الشقي	inclusive
+AR2100	n	asm	no	غباء	conservative
+AR988	n	ddf	yes	أحدب	inclusive
+AR1210	n	an	no	قزم	conservative
+AR210	n	ddp	yes	غير المتعلمين شخص	conservative
+AR886	n	or	no	عليل	conservative
+AR400	n	svp	no	معاندة	conservative
+AR1907	n	cds	no	بوليس	conservative
+AR1138	n	om	no	أرداف	inclusive
+AR965	n	an	no	البومة،	inclusive
+AR1567	n	om	no	هوموسكسواليه	inclusive
+AR2428	n	re	no	plagiarisation	inclusive
+AR337	n	ddp	yes	pudden الرأس	conservative
+AR1123	n	dmc	yes	نفاق	conservative
+AR331	n	an	no	مارك	conservative
+AR159	n	an	no	حيوانية	inclusive
+AR1164	n	om	no	القريبة	inclusive
+AR1069	n	asf	no	ساذج	conservative
+AR467	n	re	no	الإبتزاز	conservative
+AR682	n	dmc	yes	منبوذ	inclusive
+AR1760	n	cds	no	المرابي	inclusive
+AR216	n	om	no	حمار	inclusive
+AR747	n	cds	no	clann	inclusive
+AR356	n	cds	no	بهتان	conservative
+AR779	n	an	no	معزة	inclusive
+AR1853	n	ps	yes	المغولي	inclusive
+AR164	n	ddp	yes	بعديات	inclusive
+AR1890	n	cds	no	مهوس	conservative
+AR2421	n	re	no	الانتحال	inclusive
+AR2378	n	an	no	انتهازي	conservative
+AR2334	v	cds	no	هلك	inclusive
+AR520	n	an	no	بقرة	inclusive
+AR739	n	dmc	yes	شرير	conservative
+AR1316	n	qas	no	مزارعون	inclusive
+AR1804	n	re	no	لص	inclusive
+AR2212	n	an	no	اوزة	inclusive
+AR196	n	an	no	saphead	conservative
+AR2607	n	cds	no	العلموية	inclusive
+AR1827	n	cds	no	كنيف	inclusive
+AR1057	n	cds	no	الرعاع، محرض	conservative
+AR332	n	ps	yes	تقع الرجل	conservative
+AR2640	n	re	no	المغتصب	conservative
+AR880	n	cds	no	newswriter	inclusive
+AR692	n	asm	no	القميء	inclusive
+AR901	n	an	no	الفراسة	inclusive
+AR372	n	cds	no	فوضى	conservative
+AR1304	n	cds	no	pandar	inclusive
+AR401	n	svp	no	متعصب	conservative
+AR531	n	cds	no	رئيس	inclusive
+AR1984	n	asm	no	الجلبانة	inclusive
+AR2001	n	is	yes	فقير	inclusive
+AR1380	n	cds	no	الماسوني	inclusive
+AR274	n	qas	no	غليظ	conservative
+AR1463	n	cds	no	متسكع	conservative
+AR627	n	cds	no	لا أدري ما أعمل	conservative
+AR1329	n	cds	no	بسرعة واحدة	conservative
+AR1582	n	ps	yes	hebraism	inclusive
+AR1967	n	an	no	البغبغان	inclusive
+AR1055	n	cds	no	الديماغوجية	conservative
+AR2215	n	an	no	الاوز	inclusive
+AR1515	a	cds	no	ماكر	inclusive
+AR1740	n	svp	no	غريزه جنسيه	inclusive
+AR1610	n	cds	no	شعب	inclusive
+AR398	a	cds	no	غبي	conservative
+AR502	n	cds	no	المتخبط	conservative
+AR2111	n	asm	no	تغابي	conservative
+AR1307	n	pr	no	comare	conservative
+AR851	n	svp	no	إيروس	inclusive
+AR1536	n	pr	no	دعاره	conservative
+AR720	n	cds	no	السارق	inclusive
+AR1886	n	an	no	بغل	inclusive
+AR1708	n	cds	no	إفتخار المرء	conservative
+AR198	n	or	no	مغفل	conservative
+AR215	n	an	no	اتان	inclusive
+AR1867	n	an	no	الباعوض	inclusive
+AR303	n	pa	yes	محامين	inclusive
+AR92	n	cds	no	مزحة	inclusive
+AR639	n	cds	no	سيارة بالية	inclusive
+AR1816	n	cds	no	راحة العام	inclusive
+AR2285	n	ps	yes	الواندال	inclusive
+AR915	v	cds	no	هذر	inclusive
+AR813	n	an	no	الكيولكس النابصة	inclusive
+AR1206	n	ps	yes	التائه	inclusive
+AR97	n	cds	no	سلوك غريب	inclusive
+AR175	n	an	no	metazoans	inclusive
+AR320	n	qas	no	العمارة الباروكية	inclusive
+AR787	n	an	no	خشونة	conservative
+AR275	n	qas	no	البرابرة	conservative
+AR263	n	asm	no	الخصية	inclusive
+AR190	n	cds	no	بصيرة	inclusive
+AR836	n	or	no	brassica oleracea	inclusive
+AR421	n	cds	no	حرمان الحقوق	conservative
+AR1629	n	qas	no	الأعمال المنزلية	inclusive
+AR501	n	cds	no	المتردد	conservative
+AR243	n	cds	no	cathouse	inclusive
+AR2171	n	ps	yes	darkie	conservative
+AR272	n	ps	yes	برابرة	conservative
+AR100	n	qas	no	نهاية الحلقة	inclusive
+AR193	n	an	no	رأس	inclusive
+AR528	n	an	no	بقره	inclusive
+AR2521	a	dmc	yes	قذر	inclusive
+AR259	n	asm	no	خصيتان	inclusive
+AR2572	n	an	no	الصرصوريات	inclusive
+AR2313	n	an	no	امرأة المطارد	conservative
+AR1530	n	qas	no	tagalong	conservative
+AR530	n	an	no	بقر	inclusive
+AR399	n	cds	no	عِناد	conservative
+AR203	n	ddp	yes	معتوه	inclusive
+AR2294	n	an	no	نسور	inclusive
+AR1175	n	om	no	نحو caudally،	inclusive
+AR637	n	re	no	الوغد	conservative
+AR938	n	an	no	بَقّ	inclusive
+AR2322	n	qas	no	المتسول	conservative
+AR694	n	asm	no	أغبياء	inclusive
+AR1151	n	om	no	القاعدية	inclusive
+AR420	n	dmc	yes	جنائي	inclusive
+AR1166	n	om	no	ظهري بطني	inclusive
+AR146	n	an	no	الحنكليس	inclusive
+AR2660	a	svp	no	متغطرس	conservative
+AR907	n	ddp	yes	ثرثرة	conservative
+AR2520	a	dmc	yes	القذرة	inclusive
+AR930	n	an	no	البقيات	inclusive
+AR2747	n	an	no	يرقة	inclusive
+AR1701	n	ddp	yes	الجهل	conservative
+AR2633	a	ddf	yes	قبيح	conservative
+AR714	n	re	no	maligner	conservative
+AR698	n	asf	no	تأخير	conservative
+AR1182	n	svp	no	gourmandizer	inclusive
+AR396	n	pa	yes	قارع الناقوس	inclusive
+AR2113	n	ddp	yes	بلداء	conservative
+AR886	n	om	no	عليل	conservative
+AR2102	n	asm	no	استغباء	conservative
+AR1063	n	pr	no	المحظيات	inclusive
+AR67	n	svp	no	حب الذات	conservative
+AR391	n	cds	no	beguine	inclusive
+AR1574	n	om	no	مثيلي	inclusive
+AR2604	a	svp	no	فاسق	conservative
+AR485	n	qas	no	خطأ فاضح	inclusive
+AR1266	n	dmc	yes	فسق	conservative
+AR2535	n	an	no	ضفدع	inclusive
+AR1882	n	an	no	عصا في داخل الطين	conservative
+AR722	n	cds	no	المخادع	conservative
+AR1409	n	svp	no	الغضب	inclusive
+AR728	n	qas	no	أوباش	conservative
+AR100	n	cds	no	نهاية الحلقة	inclusive
+AR273	n	qas	no	همجي	conservative
+AR1992	n	asm	no	القرطمان	inclusive
+AR1393	n	cds	no	الأصوليون	inclusive
+AR202	n	cds	no	المغفل	inclusive
+AR2481	n	pr	no	الخزعبلات	conservative
+AR499	n	cds	no	ممتثل	conservative
+AR2153	n	ddf	yes	نصف باينت	conservative
+AR309	n	dmc	yes	خسيس	conservative
+AR2415	n	asm	no	العادة السرية	conservative
+AR2231	n	an	no	القراد	inclusive
+AR1817	n	cds	no	الراحة العامة	inclusive
+AR210	n	an	no	غير المتعلمين شخص	conservative
+AR2662	n	cds	no	السطحية	inclusive
+AR1082	n	asm	no	doofus	conservative
+AR345	n	dmc	yes	فاحشة	conservative
+AR1674	n	ddf	yes	العجز	inclusive
+AR765	n	pa	yes	كاتب	inclusive
+AR1418	n	cds	no	الشقي	inclusive
+AR619	n	dmc	yes	وكان وكان	inclusive
+AR1914	n	re	no	sicilian mafia	conservative
+AR661	n	ddp	yes	السجناء	inclusive
+AR1540	n	pr	no	بائعات الهوى	inclusive
+AR1139	n	om	no	المؤخرة	inclusive
+AR1720	n	cds	no	البريد غير المرغوب فيه	inclusive
+AR1103	n	cds	no	رواية الدايم	inclusive
+AR2008	n	cds	no	superbia	conservative
+AR1369	n	dmc	yes	احمق	inclusive
+AR2129	n	an	no	بزاق	inclusive
+AR723	n	re	no	النحات	inclusive
+AR1780	n	qas	no	بياع	inclusive
+AR1334	n	or	no	finocchio	inclusive
+AR1809	n	or	no	الدقه في المواعيد	inclusive
+AR1012	n	or	no	فرج	conservative
+AR1542	n	pr	no	دعارة	inclusive
+AR599	n	ps	yes	بلغاريون	inclusive
+AR206	n	an	no	الأبله	conservative
+AR2399	n	an	no	القملة	inclusive
+AR202	n	ddp	yes	المغفل	conservative
+AR1306	n	cds	no	القوادين	inclusive
+AR132	n	ddp	yes	أمية	inclusive
+AR1498	n	an	no	يغش fulvus	inclusive
+AR2682	n	asm	no	valouse	inclusive
+AR612	n	svp	no	vanity	conservative
+AR1441	n	asf	no	vagina	conservative
+AR402	n	dmc	yes	عناد	conservative
+AR1832	n	dmc	yes	المتكاسل	conservative
+AR1179	n	qas	no	بيوت	inclusive
+AR1870	n	an	no	عث	inclusive
+AR361	n	dmc	yes	زيف	inclusive
+AR2336	v	cds	no	فني	inclusive
+AR1863	n	an	no	بعوض	inclusive
+AR1134	n	om	no	خلف	inclusive
+AR1845	n	ps	yes	مغول	inclusive
+AR414	n	cds	no	الطريق الوكيل	conservative
+AR782	n	svp	no	tightfistedness	conservative
+AR1162	n	om	no	tooshie	inclusive
+AR1136	n	om	no	خط منتصف الترقوة	inclusive
+AR262	n	asm	no	teste	inclusive
+AR2304	n	dmc	yes	مهرّجون	inclusive
+AR1897	n	svp	no	وكسوريا	inclusive
+AR1676	n	ddp	yes	لا معنى لها	conservative
+AR309	n	re	no	خسيس	conservative
+AR2751	n	cds	no	الرعديد	conservative
+AR2333	v	cds	no	سلم الروح	inclusive
+AR2617	a	ddf	yes	عوراء	inclusive
+AR154	n	ddp	yes	بهيمة	inclusive
+AR1426	n	cds	no	الفاشيين	conservative
+AR238	n	svp	no	بخيل	inclusive
+AR273	n	ddp	yes	همجي	conservative
+AR1762	n	cds	no	المرابين	inclusive
+AR1741	n	svp	no	شهوانية	inclusive
+AR1089	n	cds	no	الجريمة	inclusive
+AR1791	v	cds	no	تآمر	inclusive
+AR2700	n	om	no	كروسدرسر	inclusive
+AR37	n	cds	no	العامل الرئيسي	inclusive
+AR1155	n	om	no	موخرة	inclusive
+AR198	n	asm	no	مغفل	conservative
+AR2372	v	qas	no	رمم	inclusive
+AR2097	n	an	no	الخراف	inclusive
+AR636	n	re	no	وvillainess	conservative
+AR916	n	ddp	yes	الدجال	conservative
+AR119	n	asf	no	folderol	conservative
+AR67	n	cds	no	حب الذات	conservative
+AR755	n	cds	no	عشيرة	inclusive
+AR1156	n	om	no	هند نهاية	inclusive
+AR1143	n	om	no	البعيدة	inclusive
+AR770	n	an	no	عنز	inclusive
+AR205	n	or	no	dumbass	conservative
+AR2184	n	ps	yes	زنوج	inclusive
+AR1093	n	cds	no	الأنشطة الإجرامية	inclusive
+AR803	n	cds	no	مشكلة	conservative
+AR427	n	an	no	بيسون	inclusive
+AR197	n	asm	no	أحمق	conservative
+AR687	n	is	yes	منبوذون	inclusive
+AR442	n	ps	yes	اللون الأسود	inclusive
+AR2408	n	cds	no	religiousism	inclusive
+AR93	n	cds	no	نكتة	inclusive
+AR912	n	cds	no	جبانة	conservative
+AR1462	n	cds	no	quidnunc	conservative
+AR1410	n	cds	no	swaggerer	conservative
+AR2292	n	an	no	أفعوان	inclusive
+AR1908	n	cds	no	رجل شرطة	conservative
+AR972	n	asm	no	نفضة حالا	conservative
+AR2204	n	cds	no	الشهوة	conservative
+AR2478	n	pr	no	الزانية	conservative
+AR313	n	qas	no	البارونة	inclusive
+AR403	n	svp	no	المتعصب	conservative
+AR289	n	pa	yes	مدافعا	inclusive
+AR197	n	ps	yes	أحمق	conservative
+AR430	n	ddp	yes	مفشي السر	conservative
+AR459	n	ddp	yes	موظر	conservative
+AR1507	n	an	no	sus	inclusive
+AR2055	n	ps	yes	المستيسو	conservative
+AR651	n	cds	no	ingroup	inclusive
+AR2067	n	an	no	كائن دقيق	inclusive
+AR127	n	ddp	yes	analphabetic	inclusive
+AR2668	n	re	no	ارهابيون	inclusive
+AR1735	n	dmc	yes	pseud	conservative
+AR2368	n	cds	no	اعرف انها للجميع	conservative
+AR870	n	an	no	أرْنَب	inclusive
+AR571	n	om	no	لواطي	inclusive
+AR140	n	an	no	ثعبان البحر	inclusive
+AR935	n	an	no	بقة الفراش	inclusive
+AR1083	n	ps	yes	متلف	conservative
+AR2688	v	re	no	عذب	inclusive
+AR330	n	ddp	yes	لينة اللمس	conservative
+AR1006	n	qas	no	الامتثال	inclusive
+AR294	n	pa	yes	مؤيد	inclusive
+AR2672	n	re	no	ارهاب	inclusive
+AR1955	n	qas	no	الطفيلية	inclusive
+AR1856	n	an	no	بعوضيات	inclusive
+AR503	n	dmc	yes	ضجة	conservative
+AR1029	n	qas	no	رفض	conservative
+AR2291	n	an	no	الأفعى الخبيثة	inclusive
+AR1474	n	dmc	yes	جيد مقابل لا شيء	conservative
+AR165	n	ddp	yes	أنعام	inclusive
+AR2109	n	asm	no	بليدات	conservative
+AR2591	n	an	no	المكورات الكلبية	inclusive
+AR719	n	cds	no	chiseller	conservative
+AR1661	n	cds	no	عبادة الأوثان	inclusive
+AR2359	v	asm	no	استهزأ	conservative
+AR332	n	ddp	yes	تقع الرجل	conservative
+AR330	n	ps	yes	لينة اللمس	conservative
+AR1982	n	asm	no	بسلة	inclusive
+AR731	n	cds	no	عامة	conservative
+AR355	n	an	no	صبي الإيجار	conservative
+AR360	n	cds	no	كذبة	inclusive
+AR2563	n	an	no	العلقيات	inclusive
+AR331	n	asm	no	مارك	conservative
+AR261	n	asm	no	خصيه	inclusive
+AR1487	v	asm	no	واقع	conservative
+AR2116	n	ddp	yes	غبيون	conservative
+AR2339	v	cds	no	رحل	inclusive
+AR397	n	pa	yes	محل للأجراس	inclusive
+AR2668	n	re	no	ارهابيون	conservative
+AR159	n	ddp	yes	حيوانية	inclusive
+AR862	n	asm	no	سخيف	conservative
+AR1752	a	is	yes	حزين	inclusive
+AR2090	n	an	no	ضأن	inclusive
+AR250	n	cds	no	الرياضية المنزل	inclusive
+AR110	n	asm	no	زائدة	inclusive
+AR508	n	pa	yes	فظاظة	conservative
+AR1216	n	cds	no	pedagog	inclusive
+AR428	n	cds	no	الثرثار	conservative
+AR2655	n	cds	no	conventicle	inclusive
+AR1404	n	svp	no	ثورة	conservative
+AR2781	n	ps	yes	rroma	inclusive
+AR94	n	cds	no	أضحوكة	inclusive
+AR2012	n	cds	no	المبتز	inclusive
+AR1300	n	cds	no	القواد	inclusive
+AR1521	n	cds	no	سرقة	inclusive
+AR417	n	cds	no	banditti	inclusive
+AR162	n	ddp	yes	وحش	inclusive
+AR1682	n	is	yes	الفقر	inclusive
+AR1219	n	cds	no	جنحة	inclusive
+AR1396	n	cds	no	المُنَظِّم	inclusive
+AR336	n	or	no	ضمادة	conservative
+AR2459	a	ps	yes	سوداء	inclusive
+AR700	n	an	no	ثعلبة	inclusive
+AR873	n	an	no	الارانب	inclusive
+AR1329	n	cds	no	بسرعة واحدة	inclusive
+AR310	n	an	no	الكلب	inclusive
+AR1429	n	asm	no	فول	inclusive
+AR2576	n	an	no	الصرصور	inclusive
+AR569	n	om	no	لوطي	inclusive
+AR276	n	cds	no	البربرية	conservative
+AR404	n	cds	no	عصابة	inclusive
+AR1950	n	qas	no	المتطفلون	inclusive
+AR2583	n	cds	no	ثاني التصنيفات	conservative
+AR370	n	cds	no	الأنيقون	inclusive
+AR974	n	ddf	yes	شل	inclusive
+AR256	n	asm	no	testes	inclusive
+AR1161	n	om	no	الانقلاب الامامي للرحم	inclusive
+AR795	n	asm	no	أير	conservative
+AR372	n	qas	no	فوضى	inclusive
+AR1293	n	qas	no	الإفشاء	inclusive
+AR2577	n	an	no	الصرصار	inclusive
+AR2072	n	an	no	الكائنات الدقيقة	inclusive
+AR1527	n	re	no	نهب	inclusive
+AR1546	n	pr	no	غانية	inclusive
+AR1747	n	cds	no	المتواني	conservative
+AR2676	n	re	no	عمليات ارهابية	inclusive
+AR2695	n	om	no	متخنث	inclusive
+AR2031	n	qas	no	بلاغه	inclusive
+AR723	n	cds	no	النحات	conservative
+AR627	n	svp	no	لا أدري ما أعمل	conservative
+AR2029	n	qas	no	الخطابي	inclusive
+AR81	n	qas	no	التابعون	inclusive
+AR268	n	re	no	قاطع طريق	inclusive
+AR1124	n	dmc	yes	النفاق	conservative
+AR2219	n	an	no	برنت	inclusive
+AR268	n	cds	no	قاطع طريق	conservative
+AR1082	n	asf	no	doofus	conservative
+AR298	n	pa	yes	محامية	inclusive
+AR777	n	an	no	المعيز	inclusive
+AR2488	n	or	no	لفت	inclusive
+AR2472	a	cds	no	جبان	conservative
+AR109	n	asm	no	ظهور	inclusive
+AR1206	n	dmc	yes	التائه	inclusive
+AR481	n	qas	no	سلقها	inclusive
+AR588	n	qas	no	برجوازية	inclusive
+AR1632	n	qas	no	كوخ	inclusive
+AR2697	n	om	no	عبر مضمد،	inclusive
+AR619	n	an	no	وكان وكان	conservative
+AR432	n	ddp	yes	واش	conservative
+AR2712	n	asm	no	avifauna	inclusive
+AR1094	n	cds	no	بزه	inclusive
+AR1757	n	re	no	قاتل	inclusive
+AR521	n	pr	no	ابقار	inclusive
+AR914	v	cds	no	ثرثر	inclusive
+AR1640	n	cds	no	مسرعا	conservative
+AR2735	n	cds	no	نظريه المؤامره	inclusive
+AR460	n	cds	no	dickhead	conservative
+AR196	n	ddp	yes	saphead	conservative
+AR2083	n	ddp	yes	جمجمة صغيرة	inclusive
+AR2610	n	cds	no	علموية	inclusive
+AR101	n	qas	no	تختلط-فسد	inclusive
+AR400	n	dmc	yes	معاندة	conservative
+AR1075	n	an	no	الغانم	inclusive
+AR199	n	an	no	muggins	conservative
+AR1698	n	an	no	غير كفؤ	conservative
+AR353	n	an	no	إمرأة فاسقة	conservative
+AR832	n	cds	no	معلم	inclusive
+AR106	n	asm	no	ملحق	inclusive
+AR1681	n	is	yes	فقر	inclusive
+AR1346	n	cds	no	wangler	conservative
+AR157	n	an	no	دابة	inclusive
+AR1337	n	or	no	الشمر	inclusive
+AR2611	n	ddp	yes	حمق	inclusive
+AR337	n	or	no	pudden الرأس	conservative
+AR1376	n	asm	no	قلفة	inclusive
+AR373	n	cds	no	انقلاب	inclusive
+AR315	n	qas	no	بارونات	inclusive
+AR692	n	ddp	yes	القميء	conservative
+AR1728	n	om	no	السيدة	inclusive
+AR630	n	qas	no	غوغاء	inclusive
+AR729	n	ddp	yes	عوام	conservative
+AR2326	n	cds	no	الأغنياء الجدد	inclusive
+AR2755	n	re	no	العنف	inclusive
+AR724	n	re	no	grifter	inclusive
+AR723	n	cds	no	النحات	inclusive
+AR2434	n	re	no	قراصنة	inclusive
+AR2242	n	re	no	سفاح	inclusive
+AR375	n	cds	no	الفوضى	conservative
+AR2300	n	dmc	yes	المهرجون	inclusive
+AR1516	n	cds	no	وغد	conservative
+AR530	n	pr	no	بقر	inclusive
+AR763	n	cds	no	العشيرة	inclusive
+AR727	n	qas	no	من هنا وهناك	conservative
+AR390	n	qas	no	أكذوبة	conservative
+AR2625	n	cds	no	افتة	conservative
+AR699	n	ddp	yes	استبدل	inclusive
+AR2574	n	an	no	صرصور	inclusive
+AR2218	n	an	no	برند	inclusive
+AR1875	n	an	no	عثة	inclusive
+AR207	n	asf	no	muttonhead	conservative
+AR2311	n	an	no	زلة لسان	inclusive
+AR2065	n	an	no	الاحياء المجهريه	inclusive
+AR197	n	cds	no	أحمق	conservative
+AR1044	n	dmc	yes	خادعة	conservative
+AR1918	n	re	no	المافيا	conservative
+AR270	n	cds	no	اللصوصية	inclusive
+AR1970	n	an	no	ببغائيات	inclusive
+AR144	n	an	no	ثعبان الماء	inclusive
+AR152	n	ddp	yes	حيوانات	inclusive
+AR1180	n	qas	no	بيت	inclusive
+AR198	n	cds	no	مغفل	conservative
+AR2357	v	qas	no	تجمل	inclusive
+AR175	n	ddp	yes	metazoans	inclusive
+AR172	n	ddp	yes	كائن حي	inclusive
+AR2584	n	an	no	المذهبة)،	inclusive
+AR11	n	svp	no	سلبية	inclusive
+AR194	n	ddp	yes	betise	conservative
+AR488	n	qas	no	غلطة شنيعة	inclusive
+AR323	n	cds	no	منع	inclusive
+AR1608	n	cds	no	قطعان	inclusive
+AR1345	n	cds	no	finagler	conservative
+AR1105	n	ps	yes	boche	conservative
+AR2600	a	ps	yes	يهودي	inclusive
+AR426	n	an	no	bison	inclusive
+AR900	n	cds	no	rumourmonger	conservative
+AR1578	n	om	no	المرح	inclusive
+AR166	n	ddp	yes	animalia	inclusive
+AR2788	n	pr	no	بَقَرَة	inclusive
+AR383	n	ps	yes	أعرابي	inclusive
+AR1842	n	an	no	شعبة الرخاويات	inclusive
+AR611	n	cds	no	الاستعلاء	conservative
+AR2124	n	pa	yes	sheepherder	inclusive
+AR890	n	or	no	مثليون جنسيا	conservative
+AR2144	n	qas	no	الزعيم الروحي	inclusive
+AR1905	n	cds	no	الشرطي	conservative
+AR1120	n	dmc	yes	المنافق	conservative
+AR621	n	an	no	بوابة	conservative
+AR2030	n	qas	no	الخطاب الكلاسيكي	inclusive
+AR1857	n	an	no	ناموسة	inclusive
+AR2443	n	an	no	الدجاجة	inclusive
+AR1091	n	re	no	السلوك الإجرامي	inclusive
+AR423	n	an	no	تيس	inclusive
+AR1765	n	an	no	حَشَرة	inclusive
+AR1653	n	qas	no	المنظر	inclusive
+AR2047	n	ps	yes	نصف الطائفة	conservative
+AR503	n	cds	no	ضجة	conservative
+AR1147	n	om	no	المقابل	inclusive
+AR279	n	an	no	الهمجية	inclusive
+AR634	n	is	yes	الشرير	conservative
+AR697	n	asm	no	غبية	inclusive
+AR872	n	an	no	التصنيف العلمى للارانب	inclusive
+AR1412	n	svp	no	dillydallier	conservative
+AR724	n	cds	no	grifter	inclusive
+AR1117	n	svp	no	كره	inclusive
+AR925	n	cds	no	النفايات المنزلية	conservative
+AR694	n	ps	yes	أغبياء	conservative
+AR2546	n	an	no	العلجوم	inclusive
+AR766	n	an	no	وعل	inclusive
+AR511	n	an	no	شراسة	conservative
+AR709	n	re	no	لcalunnia	inclusive
+AR937	n	an	no	علة السرير	inclusive
+AR1167	n	om	no	nates	inclusive
+AR1583	n	ps	yes	judaism	inclusive
+AR379	n	ps	yes	بدو	inclusive
+AR2756	n	re	no	غصب	inclusive
+AR1004	n	cds	no	سجل هاميلتون	conservative
+AR1242	n	dmc	yes	أخلاقيات	inclusive
+AR2228	n	cds	no	omerta	inclusive
+AR2282	n	ps	yes	واندليون	inclusive
+AR1815	n	qas	no	خلط	inclusive
+AR82	n	qas	no	التابعين	inclusive
+AR119	n	an	no	folderol	conservative
+AR403	n	cds	no	المتعصب	conservative
+AR283	n	qas	no	متاجر	inclusive
+AR2004	n	cds	no	prankishness	inclusive
+AR173	n	an	no	مخلوق	inclusive
+AR2098	n	asm	no	اغبى شخص في العالم	conservative
+AR616	n	an	no	شخص ردئ	conservative
+AR1477	n	dmc	yes	تافه	conservative
+AR435	n	cds	no	الأذى	conservative
+AR1722	n	cds	no	scrawler	conservative
+AR322	n	an	no	نهاب	conservative
+AR2321	n	qas	no	تسكع	conservative
+AR953	n	an	no	هجر أو نبذ الحبيب	conservative
+AR790	n	an	no	سوقية	conservative
+AR2555	n	cds	no	مغرور	conservative
+AR2251	n	re	no	جلاد	inclusive
+AR2450	n	cds	no	الرضيع	inclusive
+AR2492	n	re	no	إختطاف	inclusive
+AR1933	n	cds	no	مصورون صحفيون	inclusive
+AR718	n	re	no	كامورا	inclusive
+AR1762	n	cds	no	المرابين	conservative
+AR80	n	cds	no	كسلان	conservative
+AR2554	n	cds	no	المقلد	conservative
+AR71	n	om	no	الجنس الشرجي	inclusive
+AR1612	n	cds	no	جمهور	inclusive
+AR615	n	an	no	ثور	inclusive
+AR1067	n	pr	no	مقرب	inclusive
+AR2164	n	cds	no	idiolatry	inclusive
+AR458	n	cds	no	strikebreakers	inclusive
+AR1080	n	ddp	yes	الأهبل	conservative
+AR103	n	cds	no	الفرنسة	inclusive
+AR2271	n	ps	yes	فانداليون	inclusive
+AR1805	n	ps	yes	metic	inclusive
+AR809	n	cds	no	متابعة الكرات	inclusive
+AR30	n	re	no	قسوة	inclusive
+AR487	n	cds	no	بونر	inclusive
+AR2596	n	an	no	شغبر	inclusive
+AR203	n	asf	no	معتوه	conservative
+AR2724	n	re	no	ndrangheta	inclusive
+AR890	n	om	no	مثليون جنسيا	inclusive
+AR1263	n	asf	no	بغي	conservative
+AR556	n	qas	no	رجال الأعمال	inclusive
+AR319	n	qas	no	الباروك	inclusive
+AR1302	n	cds	no	القوادة	inclusive
+AR2650	n	re	no	إعتداء جنسي	inclusive
+AR9	n	svp	no	لامبالاة	inclusive
+AR214	n	an	no	donkey	inclusive
+AR213	n	an	no	الكر	inclusive
+AR622	n	ps	yes	المتشرد	inclusive
+AR411	n	re	no	المارقة	conservative
+AR2426	n	re	no	قرصنه	inclusive
+AR2138	n	ps	yes	mongoloids	conservative
+AR619	n	dmc	yes	وكان وكان	conservative
+AR693	n	ddp	yes	عته	conservative
+AR582	n	qas	no	المتوسطة الدخل	inclusive
+AR1324	n	cds	no	نازي	conservative
+AR1669	n	ddf	yes	اعاقة	inclusive
+AR573	n	qas	no	البورجوازية	inclusive
+AR1908	n	cds	no	رجل شرطة	inclusive
+AR2519	a	dmc	yes	المتسخة	inclusive
+AR202	n	asf	no	المغفل	conservative
+AR14	n	svp	no	سلبي	inclusive
+AR1988	n	asm	no	قرطمان	inclusive
+AR2499	n	re	no	اختطاف	inclusive
+AR696	n	cds	no	changelings	inclusive
+AR1658	n	cds	no	الوثنية	inclusive
+AR1570	n	om	no	من نفس الجنس	inclusive
+AR918	n	cds	no	غشاش	conservative
+AR230	n	svp	no	السبع خطايا المميتة	inclusive
+AR1422	n	cds	no	فاشستية	conservative
+AR104	n	qas	no	خليط	inclusive
+AR237	n	is	yes	بخيلة	conservative
+AR2061	n	an	no	الميكروبات	inclusive
+AR655	n	ddp	yes	أسير	inclusive
+AR2199	n	ps	yes	آسيوية،	inclusive
+AR858	n	asm	no	فك	conservative
+AR2683	n	re	no	تعذيب	inclusive
+AR1404	n	an	no	ثورة	inclusive
+AR236	n	is	yes	البخيل	conservative
+AR406	n	cds	no	عصابات	conservative
+AR817	n	qas	no	طبقية	inclusive
+AR1538	n	pr	no	الجنس التجاري	inclusive
+AR1106	n	ps	yes	krauthead	conservative
+AR89	n	qas	no	تابعون	inclusive
+AR330	n	an	no	لينة اللمس	conservative
+AR1007	n	qas	no	التماثل	inclusive
+AR1965	n	qas	no	الرعية	inclusive
+AR1278	n	dmc	yes	قضاء للجميع	inclusive
+AR1872	n	pr	no	فراشة	inclusive
+AR1999	n	asm	no	عمود	inclusive
+AR2050	n	ps	yes	mestizaje	conservative
+AR2187	n	ps	yes	الشديد السمرة	inclusive
+AR163	n	ddp	yes	animal	inclusive
+AR2725	n	cds	no	وndrangheta	inclusive
+AR2115	n	ddp	yes	الحماقة	conservative
+AR718	n	cds	no	كامورا	inclusive
+AR345	n	an	no	فاحشة	conservative
+AR1795	n	svp	no	سخط	inclusive
+AR515	n	svp	no	ملل	inclusive
+AR1937	n	cds	no	فوتوغرافيا	inclusive
+AR420	n	re	no	جنائي	inclusive
+AR565	n	qas	no	صاحب العمل	inclusive
+AR1333	n	or	no	شمر	inclusive
+AR1321	n	qas	no	sodbuster	inclusive
+AR401	n	cds	no	متعصب	conservative
+AR1041	n	qas	no	الزنبور	conservative
+AR271	n	cds	no	لصوصية	inclusive
+AR2605	a	svp	no	غلم	conservative
+AR99	n	cds	no	الفضلات	inclusive
+AR609	n	cds	no	عجرفة	conservative
+AR1812	n	cds	no	اللص المتسلل	conservative
+AR1928	n	an	no	ثُور	inclusive
+AR2052	n	ps	yes	المولدين	conservative
+AR867	n	an	no	ارنب	inclusive
+AR274	n	rci	yes	غليظ	conservative
+AR1332	n	or	no	foeniculum vulgare	inclusive
+AR693	n	asm	no	عته	inclusive
+AR992	n	cds	no	interfertility	inclusive
+AR1913	n	cds	no	مافيا	conservative
+AR1074	n	an	no	هليب	inclusive
+AR1519	n	cds	no	السرقه	inclusive
+AR2386	n	is	yes	نذل	conservative
+AR794	n	asm	no	زب	conservative
+AR680	n	cds	no	كازينو	inclusive
+AR1181	n	qas	no	مأزق	inclusive
+AR2105	n	ddp	yes	غبيات	conservative
+AR488	n	cds	no	غلطة شنيعة	inclusive
+AR516	n	svp	no	سأم	inclusive
+AR2074	n	an	no	الميكروبية	inclusive
+AR1282	n	ddf	yes	شخص معاق	inclusive
+AR2753	n	re	no	ضراوة	inclusive
+AR956	n	an	no	البوميات	inclusive
+AR1697	n	ddp	yes	غير كفء شخص	conservative
+AR523	n	an	no	ثيران	inclusive
+AR991	n	cds	no	الهجين intergeneric	inclusive
+AR942	n	an	no	hemipteron	inclusive
+AR2261	n	dmc	yes	منحوس	inclusive
+AR2569	n	an	no	صرصوريات	inclusive
+AR1895	n	cds	no	nursling	inclusive
+AR2552	v	re	no	سرق	inclusive
+AR2779	n	ps	yes	rommany	inclusive
+AR2681	n	asm	no	قضيبي	inclusive
+AR42	n	pa	yes	أكاديمي	inclusive
+AR682	n	is	yes	منبوذ	inclusive
+AR431	n	ddp	yes	ناشر الفضائح و الإشاعات	conservative
+AR966	n	an	no	أثينا noctua	inclusive
+AR1401	n	an	no	جنون	inclusive
+AR635	n	cds	no	villainess	conservative
+AR2452	n	cds	no	مولود	inclusive
+AR1639	n	cds	no	تكبر	inclusive
+AR2112	n	asm	no	الغباوة	conservative
+AR1873	n	an	no	عثه	inclusive
+AR823	n	pa	yes	كرسي	inclusive
+AR695	n	ddp	yes	مأفون	inclusive
+AR585	n	qas	no	برجواز	inclusive
+AR740	n	an	no	شقي	conservative
+AR181	n	re	no	الإغتصاب	conservative
+AR722	n	cds	no	المخادع	inclusive
+AR997	n	cds	no	التكنولوجيا الحيوية النباتية	inclusive
+AR1435	n	asm	no	vicia faba	inclusive
+AR1081	n	ps	yes	مرتبك	conservative
+AR736	n	an	no	جرو	inclusive
+AR2316	v	qas	no	أفسد	conservative
+AR2265	n	dmc	yes	التعيس	inclusive
+AR1027	n	qas	no	قطف	conservative
+AR649	n	cds	no	الدائرة الداخلية	inclusive
+AR1326	n	cds	no	فاشي	conservative
+AR206	n	cds	no	الأبله	conservative
+AR1355	n	dmc	yes	تزوير	inclusive
+AR1748	n	dmc	yes	كسول	conservative
+AR1008	n	cds	no	صبي صغير	inclusive
+AR282	n	qas	no	تاجر	inclusive
+AR1561	n	om	no	مثلي	inclusive
+AR2460	a	ps	yes	أسود	inclusive
+AR1478	n	cds	no	اليمين المتطرف	conservative
+AR904	n	an	no	فراسة	inclusive
+AR1764	n	an	no	الحشرة	inclusive
+AR419	n	dmc	yes	مجرم	inclusive
+AR2277	n	ps	yes	واندل	inclusive
+AR2283	n	ps	yes	وندليون	inclusive
+AR363	n	cds	no	clotheshorse	inclusive
+AR2101	n	ddp	yes	التغابي	conservative
+AR2785	n	ps	yes	الغجر	inclusive
+AR2556	n	cds	no	wisenheimer	conservative
+AR1023	n	cds	no	البطانة مستشاريين غير رسميين	inclusive
+AR2252	n	re	no	معذب	inclusive
+AR1833	n	svp	no	المتهرب	conservative
+AR693	n	ps	yes	عته	conservative
+AR1831	n	cds	no	المراحيض	inclusive
+AR1520	n	re	no	السرقة	inclusive
+AR152	n	an	no	حيوانات	inclusive
+AR399	n	dmc	yes	عِناد	conservative
+AR609	n	svp	no	عجرفة	conservative
+AR1259	n	an	no	eurypterids،	inclusive
+AR1034	n	om	no	أستاذة	inclusive
+AR1353	n	dmc	yes	تزييف	inclusive
+AR1129	n	dmc	yes	منافقون	conservative
+AR2189	n	ps	yes	السود	inclusive
+AR1884	n	an	no	البغال	inclusive
+AR1200	n	cds	no	الحشوات	inclusive
+AR1888	n	an	no	خطم	inclusive
+AR729	n	qas	no	عوام	conservative
+AR2	v	an	no	ينبح	inclusive
+AR1330	n	or	no	fastidiousness	inclusive
+AR344	n	an	no	عاهرة	conservative
+AR972	n	cds	no	نفضة حالا	conservative
+AR222	n	an	no	equus asinus	inclusive
+AR1291	n	cds	no	اهل	inclusive
+AR1192	n	cds	no	الأحداث الجانحين	conservative
+AR993	n	ps	yes	intergeneric الهجين	inclusive
+AR2177	n	ps	yes	العرق الأسود	inclusive
+AR1463	n	dmc	yes	متسكع	conservative
+AR1475	n	svp	no	ne'er دو جيدا	conservative
+AR1605	n	ps	yes	اليهود	inclusive
+AR2440	n	an	no	صوص	inclusive
+AR1101	n	an	no	diddlysquat	conservative
+AR2780	n	ps	yes	روماني	inclusive
+AR645	a	ddf	yes	سَيّئ	inclusive
+AR1710	n	cds	no	المعلمة	inclusive
+AR267	n	dmc	yes	قطاع الطرق	conservative
+AR234	n	svp	no	طمع	inclusive
+AR1677	n	ddp	yes	nonsensicality	conservative
+AR1204	n	cds	no	عشرات	inclusive
+AR238	n	an	no	بخيل	conservative
+AR980	n	an	no	التماسيح	inclusive
+AR1334	n	om	no	finocchio	inclusive
+AR252	n	cds	no	bawdyhouse	inclusive
+AR2299	n	dmc	yes	بلياتشو	inclusive
+AR359	n	cds	no	كذب	inclusive
+AR722	n	dmc	yes	المخادع	conservative
+AR331	n	asf	no	مارك	conservative
+AR2093	n	an	no	الخروف	inclusive
+AR1759	n	cds	no	أقرض بالربا	inclusive
+AR98	n	cds	no	أومنيوم-gatherum	inclusive
+AR2730	n	ps	yes	بطاقة صفراء	inclusive
+AR978	n	an	no	crocodylia	inclusive
+AR2379	a	om	no	غير طبيعي	inclusive
+AR884	n	cds	no	newspaperman	inclusive
+AR2104	n	asm	no	بليد	conservative
+AR331	n	ddp	yes	مارك	conservative
+AR2137	n	an	no	حلزونة	inclusive
+AR448	n	qas	no	أقطاب	inclusive
+AR2128	n	asm	no	الساخر	conservative
+AR275	n	dmc	yes	البرابرة	conservative
+AR853	n	asm	no	نوكي	conservative
+AR2358	v	asm	no	سخر	conservative
+AR628	n	svp	no	المهمل	conservative
+AR1049	n	cds	no	ديماغوجية	conservative
+AR503	n	qas	no	ضجة	conservative
+AR1299	n	cds	no	قواد	inclusive
+AR962	n	an	no	البومات	inclusive
+AR418	n	cds	no	جاني	inclusive
+AR2301	n	dmc	yes	مهرجون	inclusive
+AR928	n	qas	no	النفايات البلدية	inclusive
+AR1458	n	asf	no	شعر العانة	inclusive
+AR1325	n	cds	no	الفاشية	conservative
+AR2117	n	asm	no	غباوة	conservative
+AR1090	n	re	no	جناية	inclusive
+AR179	n	re	no	اغتصاب	conservative
+AR1094	n	re	no	بزه	inclusive
+AR329	n	ddp	yes	مرقس	conservative
+AR1149	n	om	no	خلفي	inclusive
+AR831	n	pa	yes	بروفيسور	inclusive
+AR896	n	ddp	yes	rumormonger	conservative
+AR621	n	dmc	yes	بوابة	conservative
+AR1385	n	cds	no	ماسونية	inclusive
+AR1566	n	om	no	المثليين	inclusive
+AR1814	n	qas	no	مزوج	inclusive
+AR1864	n	an	no	بعوضة	inclusive
+AR600	n	ps	yes	بلغارية	inclusive
+AR421	n	dmc	yes	حرمان الحقوق	inclusive
+AR697	n	ddp	yes	غبية	inclusive
+AR1297	n	cds	no	تعصب	conservative
+AR2704	n	om	no	عبر مضمد	inclusive
+AR317	n	qas	no	عمارة باروكية	inclusive
+AR749	n	cds	no	قرابة	inclusive
+AR2464	a	asm	no	سمر	inclusive
+AR1419	n	dmc	yes	العصابات	inclusive
+AR2739	n	ps	yes	pikey	conservative
+AR1381	n	cds	no	ماسونيين	inclusive
+AR399	n	svp	no	عِناد	conservative
+AR2628	a	is	yes	الفقراء	inclusive
+AR142	n	an	no	أنغيلا	inclusive
+AR375	n	cds	no	الفوضى	inclusive
+AR1849	n	ps	yes	منغولي	conservative
+AR206	n	ddp	yes	الأبله	inclusive
+AR814	n	cds	no	الرضا عن النفس	inclusive
+AR2032	n	qas	no	البلاغة	inclusive
+AR934	n	an	no	بَقّة	inclusive
+AR267	n	cds	no	قطاع الطرق	inclusive
+AR1415	n	svp	no	عبث	conservative
+AR663	n	cds	no	الطريق عربة	inclusive
+AR699	n	ddp	yes	استبدل	conservative
+AR2677	n	re	no	الارهاب	conservative
+AR2324	n	cds	no	حديثة الثراء	inclusive
+AR2542	n	an	no	ضفدعة	inclusive
+AR1061	n	pr	no	سرية	inclusive
+AR2297	n	an	no	النسر	inclusive
+AR1537	n	pr	no	لعهر	conservative
+AR1011	n	asf	no	twat	conservative
+AR850	n	svp	no	شبق	inclusive
+AR163	n	an	no	animal	inclusive
+AR606	n	cds	no	غطرسة	conservative
+AR1945	n	dmc	yes	hayseed	conservative
+AR887	n	om	no	نانس	conservative
+AR1089	n	re	no	الجريمة	inclusive
+AR406	n	cds	no	عصابات	inclusive
+AR635	n	dmc	yes	villainess	conservative
+AR1956	n	qas	no	parasitism	inclusive
+AR1775	n	cds	no	أجاب بقلة إحترام	inclusive
+AR861	n	asm	no	فاك	conservative
+AR2269	n	ps	yes	وانداليون	inclusive
+AR2267	n	cds	no	الربا	inclusive
+AR305	n	pa	yes	محامٍ	inclusive
+AR331	n	ps	yes	مارك	conservative
+AR2075	n	an	no	pip-صرير	conservative
+AR1304	n	cds	no	pandar	conservative
+AR1169	n	om	no	مؤخرة	inclusive
+AR726	n	an	no	دهماء	conservative
+AR947	n	svp	no	tanha	inclusive
+AR269	n	cds	no	لصوص	inclusive
+AR2708	n	om	no	بسة الجنس الآخر	inclusive
+AR1145	n	om	no	كفل	inclusive
+AR1127	n	dmc	yes	dissimulator	conservative
+AR1358	n	an	no	خافيات الأجنحة	inclusive
+AR444	n	qas	no	كبار رجال الاعمال	inclusive
+AR684	n	is	yes	المنبوذون	inclusive
+AR2644	n	re	no	تحرش	inclusive
+AR1223	a	ddp	yes	مجنون	inclusive
+AR1140	n	om	no	الأليتان	inclusive
+AR1893	n	cds	no	الطالب الذي يذاكر كثيرا	conservative
+AR2262	n	dmc	yes	نحس	inclusive
+AR1977	n	cds	no	حفلة	inclusive
+AR83	n	qas	no	تابعيون	inclusive
+AR1524	n	cds	no	سلب	inclusive
+AR2076	n	an	no	animalculum	inclusive
+AR2687	n	re	no	تعزيب	inclusive
+AR689	n	an	no	الضعيف الجسم	conservative
+AR161	n	ddp	yes	الحيوانية	inclusive
+AR894	n	om	no	خنيث	conservative
+AR1834	n	cds	no	الكسالى	conservative
+AR2046	n	cds	no	الطمر الصحي	inclusive
+AR1260	n	an	no	عريضات الأجنحة	inclusive
+AR2154	n	cds	no	narcissism	inclusive
+AR2508	n	re	no	الآسر	inclusive
+AR1659	n	cds	no	المشركين	inclusive
+AR256	n	qas	no	testes	inclusive
+AR273	n	rci	yes	همجي	conservative
+AR1662	n	dmc	yes	النذل	inclusive
+AR2762	n	an	no	الأفاعي	inclusive
+AR2115	n	asm	no	الحماقة	conservative
+AR514	n	svp	no	ضجر	inclusive
+AR1475	n	dmc	yes	ne'er دو جيدا	conservative
+AR686	n	dmc	yes	منبوذين	inclusive
+AR727	n	cds	no	من هنا وهناك	conservative
+AR1210	n	dmc	yes	قزم	conservative
+AR973	n	ddp	yes	twirp	conservative
+AR1255	n	dmc	yes	دافع أخلاقي	inclusive
+AR1606	n	ps	yes	jews	inclusive
+AR404	n	cds	no	عصابة	conservative
+AR1365	n	an	no	البرغوثيات	inclusive
+AR2169	n	ps	yes	زنجي	conservative
+AR2011	n	cds	no	داع	inclusive
+AR1013	n	or	no	كس	conservative
+AR200	n	or	no	shithead	conservative
+AR1804	n	cds	no	لص	conservative
+AR2665	n	re	no	الإرهاب	inclusive
+AR2196	n	ps	yes	أسود،	inclusive
+AR206	n	ps	yes	الأبله	conservative
+AR916	n	cds	no	الدجال	conservative
+AR2145	n	qas	no	أب روحي	inclusive
+AR2783	n	ps	yes	romanis	inclusive
+AR2456	n	cds	no	حديث ولادة	inclusive
+AR637	n	cds	no	الوغد	conservative
+AR119	n	ddp	yes	folderol	conservative
+AR1644	n	an	no	ضبع	inclusive
+AR2211	n	an	no	أوزة	inclusive
+AR1059	n	pr	no	محظية	inclusive
+AR1749	n	qas	no	الكذب	conservative
+AR1150	n	om	no	ظهراني	inclusive
+AR1032	n	cds	no	عملية جوكر	conservative
+AR1712	n	cds	no	معلمة	conservative
+AR1610	n	cds	no	شعب	conservative
+AR1202	n	cds	no	كتل	inclusive
+AR1193	n	re	no	جانح	conservative
+AR1662	n	re	no	النذل	inclusive
+AR2758	n	re	no	violence	inclusive
+AR1272	n	re	no	الفاسق	conservative
+AR2715	n	asm	no	الطائر	inclusive
+AR610	n	svp	no	غرور	inclusive
+AR1543	n	pr	no	جون	conservative
+AR2101	n	asm	no	التغابي	conservative
+AR1000	n	ps	yes	هجين	inclusive
+AR1153	n	om	no	الأرداف	inclusive
+AR1531	n	cds	no	رسول الصبي	inclusive
+AR1015	n	or	no	خيار	inclusive
+AR441	n	ps	yes	inkiness	inclusive
+AR117	a	svp	no	عدواني	conservative
+AR393	n	cds	no	كذاب	conservative
+AR273	n	cds	no	همجي	conservative
+AR2602	a	svp	no	داعر	conservative
+AR2621	n	an	no	قناة باس	inclusive
+AR1705	n	cds	no	splashiness	conservative
+AR744	n	ps	yes	صينية	inclusive
+AR2759	n	re	no	عنوة	inclusive
+AR1535	n	pr	no	شرموطة	conservative
+AR634	n	re	no	الشرير	conservative
+AR1778	n	qas	no	السوق حارس	inclusive
+AR2122	n	pa	yes	راعٍ	inclusive
+AR1731	n	cds	no	تحريم	inclusive
+AR1698	n	ddp	yes	غير كفؤ	conservative
+AR239	n	an	no	البخل	conservative
+AR276	n	qas	no	البربرية	conservative
+AR149	n	an	no	والحيوانات الكبيرة و	inclusive
+AR2381	n	cds	no	أغتياب	inclusive
+AR2009	n	cds	no	مروج	inclusive
+AR2224	n	re	no	إرْهَابِيّ	inclusive
+AR1711	n	cds	no	مدرس	inclusive
+AR1872	n	an	no	فراشة	inclusive
+AR1885	n	an	no	البغل	inclusive
+AR196	n	asf	no	saphead	conservative
+AR2746	n	cds	no	المرتشين	inclusive
+AR2677	n	re	no	الارهاب	inclusive
+AR927	n	cds	no	القمامة	inclusive
+AR1594	n	ps	yes	إسرائيلي	inclusive
+AR733	n	an	no	canis lupus familiaris	inclusive
+AR203	n	asm	no	معتوه	inclusive
+AR6	n	dmc	yes	الحقارة	inclusive
+AR1760	n	cds	no	المرابي	conservative
+AR1256	n	dmc	yes	أخلاق	inclusive
+AR2689	n	an	no	المبتلع البالون،	inclusive
+AR198	n	an	no	مغفل	conservative
+AR644	n	an	no	كايمان	inclusive
+AR1537	n	pr	no	لعهر	inclusive
+AR920	n	ddp	yes	دجال	conservative
+AR1109	n	cds	no	التراب	inclusive
+AR1575	n	om	no	مثيلية جنسية	inclusive
+AR2208	n	qas	no	مزرعة المستأجر	inclusive
+AR262	n	qas	no	teste	inclusive
+AR633	n	qas	no	تجمع	inclusive
+AR807	n	qas	no	الشخص المشترك	inclusive
+AR160	n	ddp	yes	الحيوانات	inclusive
+AR113	n	asm	no	ناتئ	inclusive
+AR297	n	pa	yes	محام	inclusive
+AR721	n	dmc	yes	مشعوذ	conservative
+AR1639	n	cds	no	تكبر	conservative
+AR1324	n	ps	yes	نازي	inclusive
+AR2720	n	asm	no	الطيور	inclusive
+AR2102	n	ddp	yes	استغباء	conservative
+AR1280	n	dmc	yes	scattergood	inclusive
+AR1406	n	an	no	غضبه	inclusive
+AR258	n	asm	no	ballock	inclusive
+AR2389	n	cds	no	moaner	conservative
+AR2246	n	re	no	قاتلة	inclusive
+AR8	n	svp	no	فقدان الإرادة	inclusive
+AR924	n	qas	no	النفايات الصلبة	inclusive
+AR1192	n	dmc	yes	الأحداث الجانحين	conservative
+AR2059	n	an	no	مكروب	inclusive
+AR1068	n	pr	no	أحد رجال الحاشية	inclusive
+AR697	n	asf	no	غبية	conservative
+AR207	n	or	no	muttonhead	conservative
+AR156	n	an	no	الحيوان	inclusive
+AR2586	n	an	no	بنات آوى	inclusive
+AR1319	n	qas	no	المزارعين	inclusive
+AR631	n	qas	no	الغوغاء	inclusive
+AR1703	n	an	no	الحتمية	conservative
+AR1543	n	pr	no	جون	inclusive
+AR1782	n	asm	no	كستنائي	inclusive
+AR2222	n	re	no	إرهابية	conservative
+AR1514	a	cds	no	خبيث	conservative
+AR1599	n	ps	yes	يهود	inclusive
+AR276	n	pa	yes	البربرية	conservative
+AR2263	n	dmc	yes	سيئ الطالع	inclusive
+AR2409	n	cds	no	تدين	inclusive
+AR1991	n	asm	no	pea	inclusive
+AR246	n	cds	no	منزل فاجر	inclusive
+AR2622	n	an	no	طبل الأحمر	inclusive
+AR160	n	an	no	الحيوانات	inclusive
+AR706	n	re	no	والتشهير التجارة	inclusive
+AR2367	n	cds	no	اعرف كل	conservative
+AR2113	n	asm	no	بلداء	conservative
+AR1652	n	qas	no	الأ يديولوجي المناصر لنظام	inclusive
+AR1869	n	pr	no	العث	inclusive
+AR1038	n	om	no	سيدتي	inclusive
+AR1367	n	cds	no	سربة	inclusive
+AR2726	n	re	no	ندرانجيتا	inclusive
+AR2744	n	dmc	yes	التشرد	inclusive
+AR2512	a	om	no	مختلفة	inclusive
+AR1474	n	svp	no	جيد مقابل لا شيء	conservative
+AR2466	a	asm	no	أسمر	inclusive
+AR2470	a	ps	yes	الصينية	inclusive
+AR574	n	qas	no	الطبقة الوسطى	inclusive
+AR634	n	dmc	yes	الشرير	conservative
+AR1043	n	dmc	yes	التمويه	conservative
+AR279	n	ddp	yes	الهمجية	inclusive
+AR455	n	cds	no	مفسد الضراب	inclusive
+AR235	n	svp	no	بخل	inclusive
+AR2114	n	asm	no	دلخ	conservative
+AR356	n	qas	no	بهتان	conservative
+AR1199	n	cds	no	الطوافات	inclusive
+AR616	n	dmc	yes	شخص ردئ	conservative
+AR702	n	re	no	الأحقاد العمل	inclusive
+AR1115	n	svp	no	إشمئزاز	inclusive
+AR1973	n	an	no	الببغاء	inclusive
+AR1678	n	ddp	yes	هراء	conservative
+AR1902	n	svp	no	فاسق	inclusive
+AR2243	n	re	no	سلاير	inclusive
+AR273	n	pa	yes	همجي	conservative
+AR194	n	asm	no	betise	conservative
+AR456	n	cds	no	الساق السوداء	inclusive
+AR1126	n	cds	no	منافق	conservative
+AR2438	n	an	no	gallus gallus domesticus	inclusive
+AR1081	n	ddp	yes	مرتبك	conservative
+AR85	n	qas	no	تابعي	inclusive
+AR1084	n	ps	yes	مجتث	conservative
+AR1050	n	qas	no	غوغائي	conservative
+AR2458	a	ps	yes	سود	inclusive
+AR1267	n	dmc	yes	شر	conservative
+AR1098	n	an	no	doodly-القرفصاء	conservative
+AR1300	n	cds	no	القواد	conservative
+AR2377	v	cds	no	إنكمش	inclusive
+AR773	n	an	no	ماعز	inclusive
+AR849	n	svp	no	الرغبة الجنسية	inclusive
+AR1165	n	om	no	طرف	inclusive
+AR1697	n	an	no	غير كفء شخص	conservative
+AR434	n	cds	no	سلوك شيطانى	conservative
+AR204	n	ddp	yes	fuckhead	conservative
+AR712	n	re	no	المشهر	conservative
+AR2172	n	ps	yes	darkey	conservative
+AR990	n	ddf	yes	حدباء	inclusive
+AR1050	n	cds	no	غوغائي	conservative
+AR512	n	ddp	yes	خبث	conservative
+AR1761	n	cds	no	loanshark	inclusive
+AR2150	n	re	no	سارق	inclusive
+AR1525	n	re	no	المال القذر	inclusive
+AR1601	n	ps	yes	اسرائيلي	inclusive
+AR1903	n	cds	no	ضابط	inclusive
+AR2053	n	ps	yes	ميستزو	conservative
+AR890	n	om	no	مثليون جنسيا	conservative
+AR1721	n	cds	no	ناسخ	conservative
+AR1029	n	cds	no	رفض	conservative
+AR1742	n	svp	no	الغريزه الجنسيه	inclusive
+AR254	n	asm	no	testis	inclusive
+AR860	n	asm	no	shtup	conservative
+AR1774	n	cds	no	ترجيع	inclusive
+AR2206	n	qas	no	الزراعة المستأجر	inclusive
+AR2057	n	an	no	قرش	inclusive
+AR277	n	qas	no	متوحش	conservative
+AR2058	n	an	no	ميكروب	inclusive
+AR675	n	an	no	shark attack	inclusive
+AR577	n	qas	no	bourgeoise	inclusive
+AR122	n	cds	no	زيلوت	inclusive
+AR98	n	qas	no	أومنيوم-gatherum	inclusive
+AR2465	a	asm	no	بني	inclusive
+AR2066	n	an	no	الأحياء الدقيقة في الأغذية	inclusive
+AR1377	n	asm	no	القلفة	inclusive
+AR79	n	svp	no	كسل	inclusive
+AR866	n	an	no	الأرانب	inclusive
+AR1696	n	svp	no	جمود	inclusive
+AR2382	n	cds	no	برميل ماء شرب	inclusive
+AR2366	n	cds	no	متحذلق	conservative
+AR1022	n	cds	no	camarilla	inclusive
+AR2562	n	an	no	علق	inclusive
+AR685	n	is	yes	منبوذة	inclusive
+AR133	n	ddp	yes	الأمية	inclusive
+AR1277	n	dmc	yes	المبذرة	inclusive
+AR1898	n	cds	no	جانٍ‎	inclusive
+AR534	n	cds	no	شيخ	inclusive
+AR998	n	cds	no	تحسين النوع النباتي	inclusive
+AR1946	n	dmc	yes	chawbacon	conservative
+AR2355	v	cds	no	أله	inclusive
+AR2493	n	re	no	يختطف	inclusive
+AR1892	n	cds	no	انطوائي	conservative
+AR126	n	ddp	yes	analphabet	inclusive
+AR1231	n	asm	no	انتصاب	inclusive
+AR569	n	or	no	لوطي	conservative
+AR390	n	cds	no	أكذوبة	conservative
+AR502	n	ddp	yes	المتخبط	conservative
+AR2087	n	ddp	yes	قزامة الرأس	inclusive
+AR1416	n	dmc	yes	متجول	inclusive
+AR2380	n	cds	no	القيل والقال	inclusive
+AR627	n	dmc	yes	لا أدري ما أعمل	conservative
+AR1374	n	asm	no	قلفه	inclusive
+AR422	n	cds	no	حظر	conservative
+AR1716	n	cds	no	المدرسين	inclusive
+AR1308	n	pr	no	عشيقة	conservative
+AR200	n	an	no	shithead	conservative
+AR1670	n	ddf	yes	المعاقين	inclusive
+AR1732	n	dmc	yes	المحتال	conservative
+AR913	n	cds	no	جبن	conservative
+AR1491	v	asm	no	مَارَسَ الجِنْس	conservative
+AR857	n	asm	no	fuck	conservative
+AR730	n	ddp	yes	رعاع	conservative
+AR197	n	ddp	yes	أحمق	inclusive
+AR2015	n	pr	no	الجرذ	inclusive
+AR696	n	asm	no	changelings	inclusive
+AR50	n	ddp	yes	حماقة	inclusive
+AR2068	n	an	no	متعضي مجهري	inclusive
+AR2014	n	pr	no	جرذ	inclusive
+AR1733	n	dmc	yes	مختلق	conservative
+AR2104	n	ddp	yes	بليد	conservative
+AR2418	n	asm	no	الاصطياد قبالة	conservative
+AR2054	n	ps	yes	المسنيزو	conservative
+AR691	n	cds	no	أبله	inclusive
+AR195	n	ps	yes	غبي	conservative
+AR1146	n	om	no	الألية	inclusive
+AR2100	n	ddp	yes	غباء	conservative
+AR2615	a	ddp	yes	سخيف	conservative
+AR1806	n	ps	yes	metics	inclusive
+AR411	n	cds	no	المارقة	conservative
+AR620	n	dmc	yes	حثالة كيس	conservative
+AR1360	n	an	no	البرغوث	inclusive
+AR1085	n	cds	no	جرائم	inclusive
+AR2103	n	ddp	yes	الغباء	conservative
+AR360	n	qas	no	كذبة	conservative
+AR2714	n	asm	no	طير	inclusive
+AR926	n	cds	no	الخردة	inclusive
+AR223	n	an	no	أتان	inclusive
+AR961	n	an	no	بومة	inclusive
+AR2401	n	an	no	قملة	inclusive
+AR654	n	cds	no	لجنة	inclusive
+AR1800	n	cds	no	البعثرة	conservative
+AR2696	n	om	no	عبر الأزياء	inclusive
+AR417	n	cds	no	banditti	conservative
+AR2160	n	cds	no	نرجسي	inclusive
+AR2117	n	ddp	yes	غباوة	inclusive
+AR2671	n	re	no	العملية الارهابية	inclusive
+AR206	n	asf	no	الأبله	conservative
+AR2597	n	an	no	ابن اوى	inclusive
+AR2525	n	qas	no	التخلي عن السفينة	inclusive
+AR2110	n	ddp	yes	بلادة	conservative
+AR2276	n	ps	yes	فندال	inclusive
+AR211	n	ddp	yes	لا يعرفون شيئا	conservative
+AR1704	n	an	no	صرامة	conservative
+AR2498	n	re	no	الاختطاف	inclusive
+AR203	n	or	no	معتوه	conservative
+AR1090	n	cds	no	جناية	inclusive
+AR1875	n	pr	no	عثة	inclusive
+AR833	n	pa	yes	بروفسور	inclusive
+AR307	n	pa	yes	المستشار القانوني	inclusive
+AR276	n	ps	yes	البربرية	conservative
+AR1219	n	re	no	جنحة	inclusive
+AR2195	n	ps	yes	بيضاء،	inclusive
+AR2008	n	svp	no	superbia	conservative
+AR2370	v	qas	no	أصلح	inclusive
+AR2454	n	cds	no	الرضع	inclusive
+AR1212	n	an	no	الصالحة للأكل الحلزون	inclusive
+AR1935	n	cds	no	المصورون الصحفيون	inclusive
+AR469	n	re	no	ابتزاز	conservative
+AR2657	a	svp	no	مغرور	conservative
+AR2311	n	cds	no	زلة لسان	inclusive
+AR40	n	pa	yes	العلمية	inclusive
+AR237	n	an	no	بخيلة	conservative
+AR730	n	an	no	رعاع	conservative
+AR1621	n	qas	no	طلي	inclusive
+AR308	n	an	no	هزلي	inclusive
+AR2018	n	pr	no	الفئران	inclusive
+AR2034	n	an	no	عقرب البحر	inclusive
+AR191	n	cds	no	فطنة	inclusive
+AR1539	n	pr	no	شرموطه	conservative
+AR741	n	dmc	yes	شخص سيء	conservative
+AR309	n	cds	no	خسيس	conservative
+AR555	n	qas	no	البرجوازية	inclusive
+AR1705	n	cds	no	splashiness	inclusive
+AR2587	n	an	no	بنات اوى	inclusive
+AR1188	n	pa	yes	بورتر،	inclusive
+AR2060	n	an	no	مكروبات	inclusive
+AR1934	n	cds	no	papparazzi	inclusive
+AR1549	n	is	yes	وليس لديها	inclusive
+AR2298	n	pa	yes	حوذي	inclusive
+AR463	n	ddp	yes	فتحة قناة غذائية	conservative
+AR2013	n	pr	no	جرذان	inclusive
+AR1998	n	cds	no	متآمر	inclusive
+AR95	n	cds	no	حيلة	inclusive
+AR2601	a	svp	no	شهواني	conservative
+AR2019	n	pr	no	الجرذان	inclusive
+AR1966	n	qas	no	رعيه	inclusive
+AR201	n	asf	no	knucklehead	conservative
+AR1387	n	cds	no	البناؤون الأحرار	inclusive
+AR1445	n	pr	no	بندقية مول	inclusive
+AR1172	n	om	no	بطناني	inclusive
+AR871	n	an	no	الأرنب	inclusive
+AR80	n	svp	no	كسلان	conservative
+AR1813	n	qas	no	مخلوط	inclusive
+AR1653	n	cds	no	المنظر	inclusive
+AR1717	n	pa	yes	اليسوعي	inclusive
+AR2558	n	cds	no	weisenheimer	conservative
+AR490	n	qas	no	قرح	inclusive
+AR417	n	re	no	banditti	inclusive
+AR2064	n	an	no	كائنات دقيقة	inclusive
+AR2017	n	pr	no	rattus	inclusive
+AR116	n	asm	no	الزوائد	inclusive
+AR2317	v	qas	no	تلعثم	conservative
+AR453	n	dmc	yes	الجلف	conservative
+AR277	n	ps	yes	متوحش	conservative
+AR730	n	cds	no	رعاع	conservative
+AR1522	n	re	no	حرامي	inclusive
+AR2332	v	cds	no	لفظ النفس الأخير	inclusive
+AR889	n	or	no	شاذّ جِنسِيًا	conservative
+AR1394	n	cds	no	اصولية	inclusive
+AR1137	n	ddf	yes	عجز	inclusive
+AR2420	n	re	no	القرصنة	inclusive
+AR356	n	cds	no	بهتان	inclusive
+AR1730	n	om	no	خاتون	inclusive
+AR945	n	cds	no	خداع	inclusive
+AR1086	n	re	no	التي تخرق القانون	inclusive
+AR715	n	re	no	مغتاب	conservative
+AR1725	n	dmc	yes	الإفلاس الأخلاقي	inclusive
+AR1869	n	an	no	العث	inclusive
+AR118	n	cds	no	codswallop	conservative
+AR691	n	ddp	yes	أبله	conservative
+AR496	n	cds	no	خط مطلق النار	conservative
+AR46	n	qas	no	الرداءة	conservative
+AR1749	n	cds	no	الكذب	conservative
+AR176	n	ddp	yes	تحريك يجري	inclusive
+AR1405	n	svp	no	غَضَب	inclusive
+AR1859	n	an	no	باعوضة	inclusive
+AR1861	n	an	no	البعوضه	inclusive
+AR2776	n	dmc	yes	خائن	conservative
+AR918	n	ddp	yes	غشاش	conservative
+AR1019	n	or	no	cucumis sativus	inclusive
+AR933	n	an	no	التنصت،	inclusive
+AR1645	n	an	no	ضبعيات	inclusive
+AR2121	n	pa	yes	رعي الغنم	inclusive
+AR2738	n	cds	no	نظريات المؤامرة	inclusive
+AR2457	n	cds	no	رضيع	inclusive
+AR1544	n	pr	no	الدعارة	conservative
+AR1257	n	dmc	yes	باعث أخلاقي	inclusive
+AR1852	n	ps	yes	مغولية	inclusive
+AR728	n	an	no	أوباش	conservative
+AR1193	n	cds	no	جانح	conservative
+AR2793	n	ps	yes	زولو	inclusive
+AR818	n	qas	no	النظام الطبقي المتحجر	inclusive
+AR1654	n	qas	no	منظر	inclusive
+AR994	n	cds	no	تهجين	inclusive
+AR1522	n	cds	no	حرامي	inclusive
+AR698	n	ddp	yes	تأخير	conservative
+AR1796	n	svp	no	angriness	inclusive
+AR2085	n	ddp	yes	صعل	inclusive
+AR17	n	svp	no	الفتور	inclusive
+AR2353	n	or	no	ميرفي	inclusive
+AR1239	n	qas	no	هاو	inclusive
+AR788	n	an	no	الأباحية	conservative
+AR698	n	cds	no	تأخير	inclusive
+AR1978	n	cds	no	الحزب	inclusive
+AR2133	n	an	no	والرخويات	inclusive
+AR2082	n	ddp	yes	صغر	inclusive
+AR1918	n	cds	no	المافيا	inclusive
+AR418	n	re	no	جاني	inclusive
+AR1509	n	an	no	الخنازير	inclusive
+AR358	n	cds	no	باطل	conservative
+AR2178	n	ps	yes	الشخص الأسود	inclusive
+AR2108	n	asm	no	غبيين	conservative
+AR1203	n	cds	no	الأحمال	inclusive
+AR195	n	cds	no	غبي	conservative
+AR2641	n	re	no	رابيرا	conservative
+AR1054	n	cds	no	demagog	conservative
+AR927	n	cds	no	القمامة	conservative
+AR485	n	cds	no	خطأ فاضح	inclusive
+AR1246	n	dmc	yes	مبادىء أخلاقية	inclusive
+AR197	n	asf	no	أحمق	conservative
+AR697	n	ddp	yes	غبية	conservative
+AR1327	n	ps	yes	فاشستي	inclusive
+AR387	n	an	no	الأبقار	inclusive
+AR2473	n	cds	no	تأييد	inclusive
+AR971	n	asm	no	wanker	conservative
+AR464	n	cds	no	بواسطة ضربة	inclusive
+AR287	n	pa	yes	وزير	inclusive
+AR1303	n	cds	no	لprocuress	conservative
+AR277	n	pa	yes	متوحش	conservative
+AR5	n	svp	no	الكسل	inclusive
+AR1909	n	cds	no	شرطي	inclusive
+AR1849	n	ps	yes	منغولي	inclusive
+AR1460	n	cds	no	فضولي	conservative
+AR2635	a	re	no	العنيفة	inclusive
+AR206	n	ddp	yes	الأبله	conservative
+AR1700	n	ddp	yes	جهالة	conservative
+AR1541	n	pr	no	جراره	inclusive
+AR457	n	cds	no	لكسر الإضراب	inclusive
+AR2127	n	asm	no	المزدري	conservative
+AR124	n	ddp	yes	الشخص الأمي	inclusive
+AR1680	n	ddp	yes	تفاهة	conservative
+AR1727	n	dmc	yes	الفجور	inclusive
+AR989	n	ddf	yes	crookback	inclusive
+AR1713	n	cds	no	المعلم	inclusive
+AR692	n	ddp	yes	القميء	inclusive
+AR2405	n	an	no	القمل	inclusive
+AR276	n	dmc	yes	البربرية	conservative
+AR1637	n	cds	no	تكّبر	inclusive
+AR1484	v	asm	no	ناك	conservative
+AR469	n	re	no	ابتزاز	inclusive
+AR2479	n	pr	no	فضفاضة المرأة	conservative
+AR1264	n	dmc	yes	الشر	inclusive
+AR909	n	an	no	جبان	conservative
+AR1894	n	cds	no	نردي	conservative
+AR2296	n	an	no	النسور	inclusive
+AR832	n	pa	yes	معلم	inclusive
+AR1565	n	om	no	نفس الجنس الجذب	inclusive
+AR628	n	dmc	yes	المهمل	conservative
+AR694	n	asf	no	أغبياء	conservative
+AR1521	n	re	no	سرقة	inclusive
+AR854	n	asm	no	قطعة من الذيل	conservative
+AR331	n	cds	no	مارك	conservative
+AR2363	n	cds	no	تحذلق	conservative
+AR1539	n	pr	no	شرموطه	inclusive
+AR1889	n	cds	no	غيك	conservative
+AR134	n	cds	no	حشد	inclusive
+AR1066	n	pr	no	المتودد	inclusive
+AR419	n	cds	no	مجرم	conservative
+AR2547	n	an	no	علاجيم	inclusive
+AR696	n	ddp	yes	changelings	inclusive
+AR1625	n	svp	no	نهم	inclusive
+AR1427	n	cds	no	فاشية	conservative
+AR1899	n	cds	no	المذنب	inclusive
+AR239	n	is	yes	البخل	conservative
+AR629	n	qas	no	همج	inclusive
+AR2620	n	an	no	sciaenops ocellatus	inclusive
+AR713	n	re	no	libeler	conservative
+AR2568	a	dmc	yes	نتن	conservative
+AR1383	n	cds	no	الماسونيين	inclusive
+AR1959	n	qas	no	الطفيليات	inclusive
+AR1328	n	cds	no	fascista	inclusive
+AR589	n	cds	no	تضخم الرأس	conservative
+AR2666	n	re	no	عملية ارهابية	inclusive
+AR35	n	cds	no	دلال	inclusive
+AR975	n	an	no	تمساح	inclusive
+AR778	n	an	no	عنزة	inclusive
+AR603	n	cds	no	خيلاء	conservative
+AR2674	n	re	no	العمليات الارهابية	inclusive
+AR179	n	re	no	اغتصاب	inclusive
+AR1538	n	pr	no	الجنس التجاري	conservative
+AR1077	n	cds	no	قاطع الطريق	inclusive
+AR949	n	an	no	الرقعه	conservative
+AR451	n	cds	no	حقر	conservative
+AR112	n	asm	no	إنبثاق	inclusive
+AR584	n	qas	no	برجوازيون	inclusive
+AR1692	n	is	yes	إفقار	inclusive
+AR264	n	asm	no	bollocks	inclusive
+AR924	n	cds	no	النفايات الصلبة	conservative
+AR2698	n	om	no	crossdressing	inclusive
+AR1826	n	cds	no	دورة المياه	inclusive
+AR1485	v	asm	no	نام مع	conservative
+AR1364	n	an	no	براغيث	inclusive
+AR358	n	dmc	yes	باطل	inclusive
+AR2717	n	asm	no	طيور	inclusive
+AR177	n	re	no	إغتصاب	conservative
+AR610	n	cds	no	غرور	conservative
+AR579	n	qas	no	البرجوازيه	inclusive
+AR2517	n	cds	no	غير مجدي	conservative
+AR885	n	cds	no	مراسل	inclusive
+AR216	n	an	no	حمار	inclusive
+AR1069	n	or	no	ساذج	conservative
+AR578	n	qas	no	البورجوازيه	inclusive
+AR348	n	pr	no	الخبث	conservative
+AR633	n	cds	no	تجمع	conservative
+AR1087	n	cds	no	جريمه	inclusive
+AR2549	n	an	no	بوفو	inclusive
+AR238	n	svp	no	بخيل	conservative
+AR1010	n	cds	no	سوني صبي	inclusive
+AR2449	n	an	no	بوليت	inclusive
+AR1834	n	svp	no	الكسالى	conservative
+AR882	n	cds	no	newspaperwoman	inclusive
+AR2691	n	pa	yes	موظفين ذوي الياقات البيضاءالموظفين ذوي الياقات البيضاء	inclusive
+AR1938	n	cds	no	مصورين	inclusive
+AR1183	n	svp	no	شره	conservative
+AR2111	n	ddp	yes	تغابي	conservative
+AR1303	n	cds	no	لprocuress	inclusive
+AR1693	n	svp	no	عطالة	inclusive
+AR2340	v	cds	no	خرج	inclusive
+AR1846	n	ps	yes	مغولي	inclusive
+AR708	n	re	no	traducement	inclusive
+AR499	n	qas	no	ممتثل	conservative
+AR580	n	qas	no	المجتمع البرجوازي	inclusive
+AR724	n	dmc	yes	grifter	conservative
+AR2223	n	re	no	إرهابي	conservative
+AR2760	n	re	no	بطش	inclusive
+AR1821	n	cds	no	مرحاض	inclusive
+AR2223	n	re	no	إرهابي	inclusive
+AR905	n	an	no	فزيوجنومية	inclusive
+AR520	n	pr	no	بقرة	inclusive
+AR2025	n	qas	no	بلغاء	inclusive
+AR2629	a	is	yes	فقير	inclusive
+AR1914	n	re	no	sicilian mafia	inclusive
+AR2165	n	cds	no	autolatry	inclusive
+AR519	n	an	no	الثيران	inclusive
+AR1465	n	cds	no	المتطفل	conservative
+AR1488	v	asm	no	فَعَلَ جِنْس	conservative
+AR2725	n	re	no	وndrangheta	inclusive
+AR55	n	pa	yes	academicism	inclusive
+AR1119	n	dmc	yes	كاذب	conservative
+AR1602	n	ps	yes	يهودي	inclusive
+AR13	n	svp	no	السلبية	inclusive
+AR1825	n	cds	no	حمام	inclusive
+AR664	n	cds	no	عربة قطار	inclusive
+AR450	n	qas	no	أعلى التنفيذي	inclusive
+AR1573	n	om	no	المثاليين الجنس	inclusive
+AR2375	n	dmc	yes	المضيع	conservative
+AR412	n	cds	no	حرابة	conservative
+AR1638	n	svp	no	كبرياء	inclusive
+AR698	n	ps	yes	تأخير	conservative
+AR2393	n	an	no	قمل	inclusive
+AR2524	n	qas	no	magniloquence	inclusive
+AR1823	n	cds	no	الراحة محطة	inclusive
+AR1723	n	dmc	yes	الغشاش	conservative
+AR894	n	or	no	خنيث	conservative
+AR2303	n	dmc	yes	المهرج	inclusive
+AR2308	n	an	no	دودة	inclusive
+AR482	n	cds	no	الغلطات	inclusive
+AR1781	n	asm	no	المارون	inclusive
+AR365	n	cds	no	أنيق	inclusive
+AR1191	n	pa	yes	باب الحرس	inclusive
+AR2665	n	re	no	الإرهاب	conservative
+AR2536	n	an	no	anurans	inclusive
+AR852	n	svp	no	جذب البدنية	inclusive
+AR206	n	asm	no	الأبله	inclusive
+AR10	n	svp	no	سلبيه	inclusive
+AR1755	n	svp	no	gorger	conservative
+AR203	n	an	no	معتوه	conservative
+AR1069	n	cds	no	ساذج	conservative
+AR2205	n	asf	no	تقنية	inclusive
+AR1219	n	dmc	yes	جنحة	inclusive
+AR1618	n	qas	no	منزل اللوحة	inclusive
+AR357	n	cds	no	والزيف	conservative
+AR1822	n	cds	no	المرحاض منشأة	inclusive
+AR2130	n	an	no	البزاق	inclusive
+AR1512	n	cds	no	هاك الأدبية	conservative
+AR629	n	cds	no	همج	conservative
+AR184	n	re	no	الاغتصاب	conservative
+AR1305	n	cds	no	procuress	inclusive
+AR696	n	ddp	yes	changelings	conservative
+AR2038	n	cds	no	شبكة المياه المالحة	inclusive
+AR275	n	cds	no	البرابرة	conservative
+AR732	n	an	no	الكلاب	inclusive
+AR2180	n	ps	yes	الأسود شخص	inclusive
+AR1622	n	qas	no	تدهين	inclusive
+AR344	n	pr	no	عاهرة	conservative
+AR1192	n	re	no	الأحداث الجانحين	conservative
+AR1325	n	ps	yes	الفاشية	inclusive
+AR1691	n	is	yes	عدم	inclusive
+AR997	n	ps	yes	التكنولوجيا الحيوية النباتية	inclusive
+AR2307	n	an	no	الديدان	inclusive
+AR272	n	cds	no	برابرة	conservative
+AR2150	n	cds	no	سارق	inclusive
+AR2476	a	re	no	عنيف	inclusive
+AR2007	n	svp	no	الفخر	inclusive
+AR101	n	cds	no	تختلط-فسد	inclusive
+AR898	n	cds	no	النمام	conservative
+AR1647	n	an	no	الضبع	inclusive
+AR198	n	ddp	yes	مغفل	conservative
+AR1197	n	cds	no	الكثير	inclusive
+AR115	n	asm	no	أطرافهم	inclusive
+AR1514	a	cds	no	خبيث	inclusive
+AR350	n	an	no	rentboy	conservative
+AR2320	n	qas	no	استغلالي	conservative
+AR1718	n	pa	yes	اليسوعية	inclusive
+AR1850	n	ps	yes	المغول	inclusive
+AR2442	n	an	no	الصوص	inclusive
+AR593	n	cds	no	الأنانية	conservative
+AR2227	n	cds	no	omertà	inclusive
+AR719	n	dmc	yes	chiseller	conservative
+AR2274	n	ps	yes	فنداليون	inclusive
+AR26	n	re	no	المسيئة	inclusive
+AR2573	n	an	no	الصراصير	inclusive
+AR1301	n	cds	no	قوادة	conservative
+AR63	n	an	no	الجاموس الأمريكي	inclusive
+AR77	n	om	no	ممارسة الجنس بين رجلين	inclusive
+AR76	n	om	no	لواط	inclusive
+AR526	n	an	no	البقر	inclusive
+AR306	n	pa	yes	محامى	inclusive
+AR616	n	cds	no	شخص ردئ	conservative
+AR839	n	or	no	الكرنب	inclusive
+AR1523	n	cds	no	سرقه	inclusive
+AR1343	n	dmc	yes	نتن	conservative
+AR1352	n	dmc	yes	forgery	inclusive
+AR691	n	asm	no	أبله	inclusive
+AR2590	n	an	no	إبن آوي	inclusive
+AR52	n	ddp	yes	خبل	inclusive
+AR1454	n	an	no	pipistrelle	inclusive
+AR1350	n	pa	yes	وبائعة سمك	inclusive
+AR1976	n	cds	no	حفل	inclusive
+AR721	n	ddp	yes	مشعوذ	conservative
+AR1837	n	an	no	رخوي	inclusive
+AR1519	n	re	no	السرقه	inclusive
+AR2722	n	cds	no	مجاري المياه	inclusive
+AR1545	n	pr	no	بغاء	conservative
+AR2410	n	cds	no	تقوى	inclusive
+AR1708	n	cds	no	إفتخار المرء	inclusive
+AR1434	n	asm	no	المدمس	inclusive
+AR1347	n	asm	no	سمكة	inclusive
+AR1455	n	an	no	pipistrellus	inclusive
+AR674	n	an	no	رجل الآكلة للأسماك القرش	inclusive
+AR1395	n	cds	no	أصوليه	inclusive
+AR2369	n	cds	no	المدقق	conservative
+AR1844	n	cds	no	moneygrubber	inclusive
+AR2132	n	cds	no	المحير	conservative
+AR361	n	cds	no	زيف	inclusive
+AR451	n	an	no	حقر	conservative
+AR23	n	re	no	معاملة سيئة	inclusive
+AR2484	n	pa	yes	مراقب	inclusive
+AR1648	n	an	no	hyaenidae	inclusive
+AR1331	n	or	no	شومر	inclusive
+AR691	n	asf	no	أبله	conservative
+AR653	n	cds	no	شلة	inclusive
+AR1005	n	an	no	وغر	inclusive
+AR309	n	is	yes	خسيس	conservative
+AR1467	n	cds	no	تجسس	conservative
+AR1744	n	svp	no	توق	inclusive
+AR1217	n	cds	no	مربي	inclusive
+AR1542	n	pr	no	دعارة	conservative
+AR2439	n	an	no	الصيصان	inclusive
+AR993	n	cds	no	intergeneric الهجين	inclusive
+AR1662	n	cds	no	النذل	inclusive
+AR991	n	ps	yes	الهجين intergeneric	inclusive
+AR2500	n	re	no	أريد الإبلاغ عن سطو.	inclusive
+AR1306	n	cds	no	القوادين	conservative
+AR1214	n	cds	no	مرب	inclusive
+AR2658	a	svp	no	متكبر	conservative
+AR236	n	ddp	yes	البخيل	conservative
+AR2540	n	an	no	الضفاضع	inclusive
+AR2306	n	dmc	yes	ميلاد سعيد اندرو	inclusive
+AR1558	n	om	no	الشذوذية	inclusive
+AR2752	n	pr	no	البلاط	inclusive
+AR895	n	om	no	طرفة عين	conservative
+AR2777	n	dmc	yes	treasonist	conservative
+AR503	n	ddp	yes	ضجة	conservative
+AR1556	n	om	no	shirtlifter	inclusive
+AR1945	n	cds	no	hayseed	conservative
+AR2588	n	an	no	ابن آوى	inclusive
+AR698	n	asm	no	تأخير	inclusive
+AR720	n	re	no	السارق	inclusive
+AR1833	n	dmc	yes	المتهرب	conservative
+AR769	n	an	no	الكابرا	inclusive
+AR153	n	an	no	حيوان	inclusive
+AR2229	n	an	no	قراد	inclusive
+AR1523	n	re	no	سرقه	inclusive
+AR1286	n	cds	no	عائلة	inclusive
+AR2281	n	ps	yes	الفاندال	inclusive
+AR254	n	qas	no	testis	inclusive
+AR624	n	ps	yes	متشرد	inclusive
+AR1804	n	dmc	yes	لص	conservative
+AR498	n	cds	no	الدوغمائية	conservative
+AR2374	n	dmc	yes	العابث	conservative
+AR188	n	cds	no	مهارة	inclusive
+AR691	n	ddp	yes	أبله	inclusive
+AR153	n	ddp	yes	حيوان	inclusive
+AR1513	n	cds	no	الإختراق الكاتب	conservative
+AR2390	n	cds	no	sniveller	conservative
+AR540	n	asm	no	بنّي	inclusive
+AR2636	n	ddp	yes	كلام فارغ	inclusive
+AR1271	n	cds	no	خاطىء	conservative
+AR635	n	is	yes	villainess	conservative
+AR1490	v	asm	no	اتصل جنسيا	conservative
+AR1536	n	pr	no	دعاره	inclusive
+AR1649	n	cds	no	المغني	inclusive
+AR266	n	qas	no	testicle	inclusive
+AR436	n	cds	no	مؤذ	conservative
+AR805	n	qas	no	رجل المشتركة	inclusive
+AR136	n	cds	no	جمع غفير	inclusive
+AR1058	n	cds	no	ديماجوجية	conservative
+AR2545	n	an	no	الضفادع	inclusive
+AR2437	a	dmc	yes	خَرّاص	conservative
+AR272	n	rci	yes	برابرة	conservative
+AR722	n	re	no	المخادع	inclusive
+AR888	n	or	no	poove	conservative
+AR692	n	asf	no	القميء	conservative
+AR1110	n	cds	no	الجرونج	inclusive
+AR1969	n	an	no	البغبغاء	inclusive
+AR1638	n	cds	no	كبرياء	inclusive
+AR2000	n	is	yes	الفقراء	inclusive
+AR1918	n	re	no	المافيا	inclusive
+AR1921	n	ps	yes	القوطي الشرقي	inclusive
+AR660	n	ddp	yes	معتقل	inclusive
+AR1637	n	cds	no	تكّبر	conservative
+AR272	n	pa	yes	برابرة	conservative
+AR731	n	qas	no	عامة	conservative
+AR2580	n	an	no	blattodea	inclusive
+AR1946	n	cds	no	chawbacon	conservative
+AR1467	n	qas	no	تجسس	inclusive
+AR275	n	rci	yes	البرابرة	conservative
+AR2423	n	re	no	plagiarise	inclusive
+AR977	n	an	no	crocodylian	inclusive
+AR300	n	pa	yes	المحامى	inclusive
+AR431	n	cds	no	ناشر الفضائح و الإشاعات	conservative
+AR1269	n	dmc	yes	إسآءة	conservative
+AR325	n	cds	no	خذل	inclusive
+AR483	n	cds	no	بوو بوو	inclusive
+AR567	n	an	no	العالم القديم الجاموس	inclusive
+AR2193	n	pa	yes	عاشق	inclusive
+AR1614	n	cds	no	القمص	inclusive
+AR2203	n	cds	no	الشفر	conservative
+AR22	n	re	no	إساءة	inclusive
+AR652	n	cds	no	زمرة	inclusive
+AR1665	n	ddf	yes	إعاقة	inclusive
+AR492	n	cds	no	blowhard	conservative
+AR694	n	ddp	yes	أغبياء	conservative
+AR202	n	an	no	المغفل	conservative
+AR2318	n	qas	no	المستغل	conservative
+AR123	n	cds	no	المتعصبون	inclusive
+AR2757	n	re	no	شدة	inclusive
+AR1294	n	cds	no	متشدد	conservative
+AR422	n	re	no	حظر	inclusive
+AR665	n	cds	no	طريق عربة	inclusive
+AR2510	n	re	no	خاطف	inclusive
+AR620	n	dmc	yes	حثالة كيس	inclusive
+AR429	n	ddp	yes	القصاص	conservative
+AR1240	n	qas	no	هاوي	inclusive
+AR166	n	an	no	animalia	inclusive
+AR1489	v	asm	no	نكح	conservative
+AR121	n	svp	no	التعصب	conservative
+AR659	n	ddp	yes	سبي	inclusive
+AR377	n	ps	yes	البدو	inclusive
+AR440	n	ps	yes	أسود	conservative
+AR2041	n	cds	no	الصرف الصحي	inclusive
+AR479	n	dmc	yes	rakehell	conservative
+AR1408	n	svp	no	حنق	conservative
+AR1700	n	ddp	yes	جهالة	inclusive
+AR726	n	ddp	yes	دهماء	conservative
+AR2606	a	qas	no	في العصور الوسطى	inclusive
+AR1218	n	cds	no	الرفيع الثقافة	inclusive
+AR1808	n	or	no	meticulosity	inclusive
+AR194	n	an	no	betise	conservative
+AR1069	n	an	no	ساذج	conservative
+AR105	n	asm	no	نتوء	inclusive
+AR519	n	pr	no	الثيران	inclusive
+AR893	n	om	no	homophile	inclusive
+AR1363	n	an	no	siphonaptera	inclusive
+AR1026	n	or	no	cuke	inclusive
+AR1332	n	om	no	foeniculum vulgare	inclusive
+AR2337	v	cds	no	مات	inclusive
+AR1235	n	qas	no	sciolist	conservative
+AR454	n	an	no	متخلف	conservative
+AR1746	n	dmc	yes	المغالط	inclusive
+AR910	n	cds	no	الجبان	conservative
+AR1182	n	svp	no	gourmandizer	conservative
+AR329	n	asf	no	مرقس	conservative
+AR1776	n	qas	no	صاحب المتجر	inclusive
+AR608	n	svp	no	عنجهية	conservative
+AR1338	n	dmc	yes	رائحة نتنة	conservative
+AR1132	n	dmc	yes	مزيف	conservative
+AR2533	n	an	no	بتراوي	inclusive
+AR2654	n	cds	no	conventicles	inclusive
+AR855	n	asm	no	لفة في القش	conservative
+AR1626	n	svp	no	شراهة	inclusive
+AR1466	n	cds	no	المتلصص	conservative
+AR376	n	cds	no	هرج	inclusive
+AR196	n	asm	no	saphead	conservative
+AR2099	n	asm	no	غباوه	conservative
+AR798	n	asm	no	ديك	inclusive
+AR360	n	cds	no	كذبة	conservative
+AR198	n	ps	yes	مغفل	conservative
+AR419	n	cds	no	مجرم	inclusive
+AR1709	n	cds	no	مدرسة	inclusive
+AR236	n	svp	no	البخيل	inclusive
+AR2022	n	cds	no	بقايا	inclusive
+AR784	n	qas	no	أسرف في الشراب	inclusive
+AR1515	a	cds	no	ماكر	conservative
+AR544	n	asm	no	بني	inclusive
+AR411	n	dmc	yes	المارقة	conservative
+AR525	n	pr	no	بوس الثور	inclusive
+AR1336	n	om	no	شمرة شائعة	inclusive
+AR945	n	dmc	yes	خداع	conservative
+AR385	n	ps	yes	بدوي	inclusive
+AR197	n	dmc	yes	أحمق	inclusive
+AR1077	n	an	no	قاطع الطريق	inclusive
+AR2323	n	cds	no	arriviste	inclusive
+AR1194	n	cds	no	الإنعطافات	inclusive
+AR1133	n	om	no	المماثل	inclusive
+AR199	n	asf	no	muggins	conservative
+AR481	n	cds	no	سلقها	inclusive
+AR1403	n	an	no	اهتياج	inclusive
+AR330	n	cds	no	لينة اللمس	conservative
+AR2008	n	cds	no	superbia	inclusive
+AR1896	n	cds	no	nurseling	inclusive
+AR2392	n	cds	no	bellyacher	conservative
+AR1550	n	om	no	النشاط الجنسي للذكور	inclusive
+AR2531	n	an	no	العلاجيم	inclusive
+AR1262	n	an	no	eurypterids	inclusive
+AR2675	n	re	no	الإرهابيين	conservative
+AR1409	n	an	no	الغضب	inclusive
+AR1170	n	om	no	ردفان	inclusive
+AR193	n	or	no	رأس	inclusive
+AR1402	n	svp	no	غضب	inclusive
+AR484	n	qas	no	يخطيء	inclusive
+AR1335	n	om	no	شمار	inclusive
+AR2417	n	asm	no	الرجيج قبالة	conservative
+AR594	n	cds	no	أنانية	conservative
+AR1088	n	re	no	جريمة	inclusive
+AR1529	n	qas	no	الطفيلي	conservative
+AR2413	a	svp	no	حانق	inclusive
+AR1994	n	an	no	أصبع	inclusive
+AR12	n	svp	no	لا مبالي	inclusive
+AR80	n	an	no	كسلان	conservative
+AR400	n	cds	no	معاندة	conservative
+AR2176	n	ps	yes	أصل أفريقي	inclusive
+AR1505	n	an	no	حلوف	inclusive
+AR2526	a	dmc	yes	مضلل	conservative
+AR292	n	pa	yes	الوزير المستشار	inclusive
+AR569	n	om	no	لوطي	conservative
+AR2175	n	ps	yes	بلاك	inclusive
+AR944	n	cds	no	مكر	conservative
+AR218	n	om	no	الحمار	inclusive
+AR2112	n	ddp	yes	الغباوة	conservative
+AR524	n	an	no	مواشي	inclusive
+AR2424	n	re	no	مسروق	inclusive
+AR1142	n	om	no	keister	inclusive
+AR2672	n	re	no	ارهاب	conservative
+AR724	n	cds	no	grifter	conservative
+AR463	n	cds	no	فتحة قناة غذائية	conservative
+AR236	n	an	no	البخيل	conservative
+AR2711	n	pr	no	hetaira	inclusive
+AR964	n	an	no	strigiformes	inclusive
+AR2718	n	asm	no	aves	inclusive
+AR1749	n	cds	no	الكذب	inclusive
+AR1949	n	qas	no	تتطفل	inclusive
+AR939	n	an	no	البق	inclusive
+AR1079	n	ddp	yes	الجاهل	conservative
+AR2561	n	an	no	دماء	inclusive
+AR336	n	ddp	yes	ضمادة	conservative
+AR781	n	svp	no	minginess	conservative
+AR1634	n	qas	no	هاتش	inclusive
+AR1411	n	svp	no	ديلي-dallier	conservative
+AR402	n	cds	no	عناد	conservative
+AR231	n	svp	no	الخطايا السبع المميتة	inclusive
+AR1265	n	dmc	yes	خطيئة	conservative
+AR460	n	ddp	yes	dickhead	conservative
+AR225	n	an	no	wisent	inclusive
+AR699	n	asf	no	استبدل	conservative
+AR2327	n	cds	no	محدث النعمة	inclusive
+AR2383	n	cds	no	قيل وقال	inclusive
+AR336	n	cds	no	ضمادة	conservative
+AR793	n	asm	no	زبر	conservative
+AR636	n	an	no	وvillainess	conservative
+AR1378	n	asm	no	كريه	inclusive
+AR810	n	cds	no	ballup	inclusive
+AR2487	n	pa	yes	المحاسبين	inclusive
+AR1668	n	ddf	yes	إعاقه	inclusive
+AR477	n	cds	no	الشارع مسدود	inclusive
+AR1961	n	qas	no	طفيليات	inclusive
+AR2249	n	or	no	قرع	inclusive
+AR1547	n	pr	no	بائعة هوى	conservative
+AR2726	n	cds	no	ندرانجيتا	inclusive
+AR943	n	an	no	hemipteran	inclusive
+AR1087	n	re	no	جريمه	inclusive
+AR1082	n	ddp	yes	doofus	conservative
+AR311	n	qas	no	مناطق نفوذ	inclusive
+AR2350	n	or	no	البطاطس	inclusive
+AR1927	n	an	no	ثور(حيوان)	inclusive
+AR984	n	an	no	متمسحات	inclusive
+AR257	n	asm	no	الخصوه	inclusive
+AR2773	n	dmc	yes	مرتد	conservative
+AR909	n	cds	no	جبان	conservative
+AR476	n	an	no	الديوث	conservative
+AR1533	n	pr	no	العاهرات	conservative
+AR402	n	svp	no	عناد	conservative
+AR622	n	dmc	yes	المتشرد	inclusive
+AR1407	n	an	no	غيظ	inclusive
+AR440	n	ps	yes	أسود	inclusive
+AR465	n	cds	no	غير شرعي	inclusive
+AR1913	n	cds	no	مافيا	inclusive
+AR1070	n	cds	no	الفاتن	inclusive
+AR1039	n	cds	no	الغدر	conservative
+AR358	n	qas	no	باطل	conservative
+AR2461	a	ddf	yes	أعمى	inclusive
+AR2765	n	an	no	أفاعي	inclusive
+AR15	n	svp	no	خمول	inclusive
+AR1724	n	dmc	yes	فساد	inclusive
+AR761	n	cds	no	انسباء	inclusive
+AR1275	n	dmc	yes	فجور	conservative
+AR361	n	qas	no	زيف	conservative
+AR2707	n	om	no	عبور خلع الملابس	inclusive
+AR1072	n	cds	no	يائسة الجنائية	inclusive
+AR1747	n	dmc	yes	المتواني	conservative
+AR1598	n	ps	yes	لليهود	inclusive
+AR2444	n	an	no	دجاج	inclusive
+AR1520	n	cds	no	السرقة	inclusive
+AR1413	n	dmc	yes	كآبة	conservative
+AR2485	n	pa	yes	محاسب	inclusive
+AR739	n	cds	no	شرير	conservative
+AR2226	n	re	no	إرهابِي	inclusive
+AR2096	n	an	no	كبش	inclusive
+AR1972	n	an	no	ببغاوات	inclusive
+AR135	n	cds	no	قوة	inclusive
+AR2769	n	an	no	vipera berus	inclusive
+AR648	n	an	no	فم	inclusive
+AR357	n	cds	no	والزيف	inclusive
+AR86	n	qas	no	تابعين	inclusive
+AR382	n	ps	yes	البدوان	inclusive
+AR762	n	cds	no	القبلية	inclusive
+AR1881	n	an	no	الكسول	conservative
+AR641	n	cds	no	كتب على عجل	inclusive
+AR1968	n	an	no	بغبغان	inclusive
+AR1492	v	asm	no	ضاجع	conservative
+AR2564	n	an	no	hirudinean	inclusive
+AR2411	n	cds	no	التمييز الديني	inclusive
+AR1412	n	dmc	yes	dillydallier	conservative
+AR2385	n	is	yes	متسول	conservative
+AR632	n	cds	no	سوقة	conservative
+AR2258	n	ddf	yes	بشاعة	inclusive
+AR1371	n	cds	no	مهرج	inclusive
+AR118	n	asf	no	codswallop	conservative
+AR697	n	ps	yes	غبية	conservative
+AR1981	n	asm	no	pisum sativum	inclusive
+AR2741	n	pa	yes	cordwainer	inclusive
+AR2063	n	an	no	أحياء دقيقة	inclusive
+AR1237	n	an	no	اسكارجوتس	inclusive
+AR707	n	re	no	القذف والتشهير	inclusive
+AR865	n	asm	no	ficken	conservative
+AR1258	n	an	no	اليوريبتيريدات المنقرضة	inclusive
+AR111	n	asm	no	خروج	inclusive
+AR1082	n	ps	yes	doofus	conservative
+AR201	n	ddp	yes	knucklehead	conservative
+AR719	n	re	no	chiseller	inclusive
+AR1794	n	svp	no	invidia	inclusive
+AR1469	n	cds	no	شفيع	inclusive
+AR2770	n	an	no	الأفعى الشائعة	inclusive
+AR316	n	qas	no	باروني	inclusive
+AR2522	n	qas	no	تفخيم	inclusive
+AR206	n	or	no	الأبله	conservative
+AR1384	n	cds	no	الماسونيه	inclusive
+AR751	n	cds	no	أبناء القبائل	inclusive
+AR960	n	an	no	بوميات	inclusive
+AR637	n	dmc	yes	الوغد	conservative
+AR2402	n	an	no	الصئبان	inclusive
+AR1995	n	an	no	shoat	inclusive
+AR2192	n	pa	yes	الخاطب	inclusive
+AR1362	n	an	no	برغوث	inclusive
+AR2732	n	ps	yes	بطاقة حمراء	inclusive
+AR2049	n	ps	yes	المستيزو	conservative
+AR453	n	cds	no	الجلف	conservative
+AR1766	n	an	no	حشرات	inclusive
+AR2706	n	om	no	المتخنثون	inclusive
+AR2674	n	re	no	العمليات الارهابية	conservative
+AR258	n	qas	no	ballock	inclusive
+AR2754	n	re	no	furiousness	inclusive
+AR2273	n	ps	yes	فاندليون	inclusive
+AR2578	n	an	no	blattaria	inclusive
+AR2290	n	an	no	أفعى	inclusive
+AR1746	n	dmc	yes	المغالط	conservative
+AR2314	v	qas	no	شوش	conservative
+AR302	n	pa	yes	مُحامٍ	inclusive
+AR2702	n	om	no	crossdress	inclusive
+AR2312	n	an	no	تنورة المطارد	conservative
+AR326	n	cds	no	blackballed	inclusive
+AR1118	n	dmc	yes	مراءٍ	conservative
+AR28	n	re	no	انتهاكات الشرطة	inclusive
+AR1834	n	dmc	yes	الكسالى	conservative
+AR176	n	an	no	تحريك يجري	inclusive
+AR161	n	an	no	الحيوانية	inclusive
+AR173	n	ddp	yes	مخلوق	inclusive
+AR1748	n	svp	no	كسول	conservative
+AR2486	n	pa	yes	المحاسبون	inclusive
+AR1408	n	an	no	حنق	inclusive
+AR34	n	cds	no	وسيط	inclusive
+AR1382	n	cds	no	الماسونية	inclusive
+AR2619	a	qas	no	العادية	inclusive
+AR792	n	asm	no	زُّب	conservative
+AR1312	n	qas	no	مجال اليد	inclusive
+AR171	n	ddp	yes	الحیوانات	inclusive
+AR134	n	qas	no	حشد	inclusive
+AR393	n	dmc	yes	كذاب	conservative
+AR926	n	qas	no	الخردة	inclusive
+AR1400	n	cds	no	fundamentalism	inclusive
+AR1373	n	dmc	yes	والغباء	inclusive
+AR337	n	cds	no	pudden الرأس	conservative
+AR198	n	asf	no	مغفل	conservative
+AR1005	n	cds	no	وغر	conservative
+AR48	n	pa	yes	الأكاديميين	inclusive
+AR1282	n	om	no	شخص معاق	conservative
+AR879	n	pa	yes	عريف	inclusive
+AR2147	n	an	no	ذبابة	inclusive
+AR273	n	dmc	yes	همجي	conservative
+AR428	n	ddp	yes	الثرثار	conservative
+AR480	n	cds	no	تخبط	inclusive
+AR1122	n	dmc	yes	المنافقين	conservative
+AR2693	n	pa	yes	والعمال ذوي الياقات البيضاء	inclusive
+AR2069	n	an	no	الكائنات الحية الدقيقة	inclusive
+AR2468	a	ps	yes	الصينيين	inclusive
+AR1168	n	om	no	مقعد	inclusive
+AR1215	n	cds	no	مهذب	inclusive
+AR327	n	cds	no	bas الأزرق	inclusive
+AR2056	n	pr	no	فار المجاري	inclusive
+AR955	n	asm	no	credulousness	conservative
+AR2309	n	an	no	ديدان	inclusive
+AR840	n	or	no	كرنب	inclusive
+AR314	n	qas	no	بارون	inclusive
+AR1207	n	cds	no	الكادح	inclusive
+AR808	n	cds	no	cockup	inclusive
+AR468	n	re	no	الابتزاز	conservative
+AR1027	n	cds	no	قطف	conservative
+AR1768	n	an	no	حشره	inclusive
+AR2270	n	ps	yes	الوندال	inclusive
+AR4	n	svp	no	الملل	inclusive
+AR1302	n	cds	no	القوادة	conservative
+AR1368	n	cds	no	سرب	inclusive
+AR2501	n	re	no	raptio	inclusive
+AR1379	n	cds	no	ماسوني	inclusive
+AR2541	n	an	no	frogspawn	inclusive
+AR625	n	dmc	yes	الصعاليك،	conservative
+AR261	n	qas	no	خصيه	inclusive
+AR392	n	cds	no	ملفق	conservative
+AR591	n	cds	no	أناني	conservative
+AR608	n	cds	no	عنجهية	conservative
+AR380	n	ps	yes	بدوان	inclusive
+AR694	n	asm	no	أغبياء	conservative
+AR235	n	is	yes	بخل	conservative
+AR1584	n	ps	yes	اليهودية	inclusive
+AR607	n	svp	no	التعالي	conservative
+AR734	n	an	no	كلب	inclusive
+AR274	n	pa	yes	غليظ	conservative
+AR1841	n	an	no	mollusc	inclusive
+AR2036	n	an	no	البحر العقرب	inclusive
+AR2042	n	cds	no	مياه المجاري	inclusive
+AR1356	n	qas	no	غلاية من الأسماك	inclusive
+AR727	n	an	no	من هنا وهناك	conservative
+AR1792	n	svp	no	الحسد	inclusive
+AR750	n	cds	no	قبائل	inclusive
+AR692	n	ps	yes	القميء	conservative
+AR2140	n	pr	no	عضو بارز في المجتمع	inclusive
+AR1926	n	an	no	بوم صياح شرقي	inclusive
+AR862	n	ddp	yes	سخيف	conservative
+AR527	n	pr	no	الماشية	inclusive
+AR794	n	asm	no	زب	inclusive
+AR2035	n	an	no	العقرب الأسماك	inclusive
+AR2105	n	asm	no	غبيات	conservative
+AR1229	n	asm	no	نعوظ	inclusive
+AR2603	a	svp	no	شبق	conservative
+AR38	n	pa	yes	وكيل	inclusive
+AR2733	n	cds	no	الإيمان بنظريات المؤامرة	inclusive
+AR2141	n	pr	no	اجتماعي	inclusive
+AR634	n	an	no	الشرير	conservative
+AR1635	n	qas	no	الكوخ	inclusive
+AR2530	a	dmc	yes	زائف	conservative
+AR954	n	asm	no	سذاجة	conservative
+AR2782	n	ps	yes	غجر	inclusive
+AR2286	n	ps	yes	وندال	inclusive
+AR2346	n	or	no	solanum tuberosum	inclusive
+AR925	n	qas	no	النفايات المنزلية	inclusive
+AR386	n	ps	yes	البدويين	inclusive
+AR985	n	an	no	crocodylidae	inclusive
+AR1936	n	cds	no	الباباراتزي	inclusive
+AR920	n	cds	no	دجال	conservative
+AR1062	n	pr	no	doxy	inclusive
+AR2684	n	re	no	التعذيب	inclusive
+AR1095	n	re	no	الجرائم	inclusive
+AR1419	n	re	no	العصابات	inclusive
+AR2416	n	asm	no	ومن ناحية الوظيفة	conservative
+AR624	n	dmc	yes	متشرد	inclusive
+AR1756	n	re	no	سفاك	inclusive
+AR2167	n	ps	yes	نيجا	conservative
+AR739	n	an	no	شرير	conservative
+AR636	n	dmc	yes	وvillainess	conservative
+AR268	n	dmc	yes	قاطع طريق	conservative
+AR162	n	an	no	وحش	inclusive
+AR371	n	cds	no	الغندور رجل شديد التأنق	inclusive
+AR2532	n	an	no	salientian	inclusive
+AR197	n	cds	no	أحمق	inclusive
+AR2675	n	re	no	الإرهابيين	inclusive
+AR1694	n	svp	no	تراخ	inclusive
+AR568	n	an	no	جاموسة	inclusive
+AR1009	n	cds	no	ولد صغير	inclusive
+AR1305	n	cds	no	procuress	conservative
+AR2152	n	cds	no	ستيلير	inclusive
+AR413	n	cds	no	قاطع طرق	conservative
+AR1942	n	dmc	yes	ريفي	conservative
+AR2676	n	re	no	عمليات ارهابية	conservative
+AR1769	n	an	no	حشرة	inclusive
+AR18	n	qas	no	مساعد للكاهن	inclusive
+AR2599	a	ps	yes	اليهودية	inclusive
+AR2509	n	re	no	المؤسر	inclusive
+AR2467	n	is	yes	الفقير	inclusive
+AR2234	n	re	no	القتل	inclusive
+AR2365	n	cds	no	المثقف	conservative
+AR451	n	dmc	yes	حقر	conservative
+AR502	n	dmc	yes	المتخبط	conservative
+AR183	n	re	no	المغتصبين	conservative
+AR1252	n	dmc	yes	مدونة أخلاقية	inclusive
+AR1832	n	svp	no	المتكاسل	conservative
+AR1596	n	ps	yes	اليهودي	inclusive
+AR2516	n	cds	no	التفاح ملمع	conservative
+AR235	n	an	no	بخل	conservative
+AR2446	n	an	no	volaille	inclusive
+AR196	n	cds	no	saphead	conservative
+AR1773	n	cds	no	إزدراء	inclusive
+AR72	n	om	no	اللواط	inclusive
+AR339	n	pr	no	مومس	conservative
+AR780	n	an	no	انها-الماعز	inclusive
+AR1076	n	an	no	الناهب	inclusive
+AR727	n	ddp	yes	من هنا وهناك	conservative
+AR1318	n	qas	no	جرانجر	inclusive
+AR487	n	qas	no	بونر	inclusive
+AR1337	n	om	no	الشمر	inclusive
+AR218	n	an	no	الحمار	inclusive
+AR1913	n	re	no	مافيا	inclusive
+AR539	n	asm	no	سمرة	inclusive
+AR2627	a	pa	yes	السياسية	inclusive
+AR698	n	ddp	yes	تأخير	inclusive
+AR572	n	qas	no	وظيفة مكتبية	inclusive
+AR695	n	ps	yes	مأفون	conservative
+AR2515	n	cds	no	fawner	conservative
+AR1102	n	an	no	diddly-القرفصاء	conservative
+AR2504	n	re	no	للسرقة	inclusive
+AR38	n	cds	no	وكيل	inclusive
+AR1234	n	qas	no	الهاوي	conservative
+AR1690	n	is	yes	عوز	inclusive
+AR1187	n	pa	yes	البواب	inclusive
+AR1848	n	ps	yes	المنغول	inclusive
+AR318	n	qas	no	عماره باروكيه	inclusive
+AR1832	n	cds	no	المتكاسل	conservative
+AR200	n	ddp	yes	shithead	conservative
+AR2325	n	cds	no	نوفوريتش	inclusive
+AR355	n	pr	no	صبي الإيجار	conservative
+AR362	n	qas	no	زور	conservative
+AR1320	n	qas	no	فلاح	inclusive
+AR88	n	qas	no	تبع	inclusive
+AR236	n	svp	no	البخيل	conservative
+AR1373	n	cds	no	والغباء	inclusive
+AR2734	n	cds	no	نظرية المؤامرة	inclusive
+AR759	n	cds	no	قبيلة	inclusive
+AR646	n	an	no	ثرثر	inclusive
+AR2417	n	cds	no	الرجيج قبالة	conservative
+AR650	n	cds	no	الزمر	inclusive
+AR894	n	om	no	خنيث	inclusive
+AR149	n	ddp	yes	والحيوانات الكبيرة و	inclusive
+AR981	n	an	no	crocodilia	inclusive
+AR494	n	cds	no	ثرثار	conservative
+AR2527	a	dmc	yes	خاطئ	conservative
+AR1438	n	asm	no	الباقلاء	inclusive
+AR844	n	or	no	cabbage	inclusive
+AR1743	n	svp	no	شهوة	inclusive
+AR1932	n	cds	no	المصورين	inclusive
+AR1148	n	om	no	ألية	inclusive
+AR1116	n	svp	no	الاشمئزاز	inclusive
+AR1444	a	dmc	yes	منتن	conservative
+AR1223	a	qas	no	مجنون	conservative
+AR354	n	pr	no	المومس	conservative
+AR1900	n	cds	no	مرتكب	inclusive
+AR2427	n	re	no	يغشون	inclusive
+AR1205	n	ps	yes	شخص غير مستقر	inclusive
+AR2716	n	asm	no	طَير	inclusive
+AR740	n	dmc	yes	شقي	conservative
+AR1524	n	re	no	سلب	inclusive
+AR2786	n	svp	no	الشهوه	inclusive
+AR617	n	an	no	lowlife	conservative
+AR1065	n	pr	no	التسري	inclusive
+AR2445	n	an	no	دجاجة	inclusive
+AR1447	n	pr	no	مول بندقية	inclusive
+AR1418	n	dmc	yes	الشقي	inclusive
+AR1030	n	cds	no	قطع المتابعة	conservative
+AR276	n	rci	yes	البربرية	conservative
+AR293	n	pa	yes	نصير	inclusive
+AR2431	n	re	no	تسرق	inclusive
+AR1715	n	cds	no	مساعدة التدريس	inclusive
+AR1209	n	cds	no	حفار	inclusive
+AR1810	n	cds	no	schoolma'am	conservative
+AR2161	n	cds	no	narcism	inclusive
+AR278	n	svp	no	شراء شركات	inclusive
+AR1557	n	om	no	مثلية	inclusive
+AR1714	n	cds	no	المدرس	inclusive
+AR746	n	cds	no	القبيلة	inclusive
+AR924	n	cds	no	النفايات الصلبة	inclusive
+AR2692	n	pa	yes	عمال الياقات البيضاء	inclusive
+AR285	n	pa	yes	رتبة الدبلوماسية	inclusive
+AR2170	n	ps	yes	darky	conservative
+AR628	n	cds	no	المهمل	conservative
+AR2328	n	qas	no	قبعة سيئة	conservative
+AR205	n	an	no	dumbass	conservative
+AR205	n	ddp	yes	dumbass	conservative
+AR265	n	qas	no	خصية	inclusive
+AR1901	n	cds	no	الجاني	inclusive
+AR2415	n	cds	no	العادة السرية	conservative
+AR1987	n	asm	no	البازلاء	inclusive
+AR2384	n	cds	no	نميمة	inclusive
+AR1620	n	qas	no	طلاء	inclusive
+AR783	n	svp	no	niggardness	conservative
+AR621	n	dmc	yes	بوابة	inclusive
+AR362	n	dmc	yes	زور	inclusive
+AR619	n	cds	no	وكان وكان	conservative
+AR1198	n	cds	no	أكوام	inclusive
+AR620	n	an	no	حثالة كيس	conservative
+AR1812	n	dmc	yes	اللص المتسلل	conservative
+AR332	n	asm	no	تقع الرجل	conservative
+AR168	n	an	no	epifauna	inclusive
+AR2106	n	ddp	yes	الغباوه	conservative
+AR2089	n	ddp	yes	microcephaly	inclusive
+AR1348	n	asm	no	pterygiophore	inclusive
+AR1651	n	cds	no	دندنة	inclusive
+AR1636	n	cds	no	الغطرسة	conservative
+AR2043	n	cds	no	drainage	inclusive
+AR2143	n	qas	no	الأب الروحي	inclusive
+AR509	n	an	no	مواقعة البهائم	conservative
+AR438	n	ps	yes	اسود	inclusive
+AR1633	n	qas	no	قفص	inclusive
+AR2634	a	ddf	yes	بشع	conservative
+AR1930	n	an	no	الثور البري	inclusive
+AR743	n	ps	yes	صيني	inclusive
+AR1559	n	om	no	المثلية	inclusive
+AR1471	n	an	no	caprinae	inclusive
+AR719	n	cds	no	chiseller	inclusive
+AR1211	n	svp	no	ravenousness	conservative
+AR410	n	cds	no	مجموعة	inclusive
+AR201	n	an	no	knucklehead	conservative
+AR195	n	ddp	yes	غبي	inclusive
+AR2538	n	an	no	عُلْجُوم	inclusive
+AR2159	n	cds	no	نرجسيه	inclusive
+AR666	n	an	no	هجمات القرش	inclusive
+AR2185	n	ps	yes	الزنوج	inclusive
+AR1790	v	cds	no	تواطأ	inclusive
+AR1581	n	ps	yes	يهودية	inclusive
+AR51	n	ddp	yes	عقليا	inclusive
+AR203	n	cds	no	معتوه	inclusive
+AR203	n	ddp	yes	معتوه	conservative
+AR2109	n	ddp	yes	بليدات	conservative
+AR2663	n	cds	no	سطحية	inclusive
+AR2462	a	ddf	yes	عمياء	inclusive
+AR2749	n	cds	no	caitiff	conservative
+AR1190	n	pa	yes	قاعة بورتر	inclusive
+AR685	n	dmc	yes	منبوذة	inclusive
+AR1292	n	cds	no	أهل	inclusive
+AR364	n	cds	no	fop	inclusive
+AR2352	n	or	no	عوادم	inclusive
+AR2435	n	re	no	قرصنة	inclusive
+AR2279	n	ps	yes	فاندل	inclusive
+AR1508	n	an	no	الخنزير	inclusive
+AR2149	n	or	no	الاسكواش الكرمة	inclusive
+AR1993	n	an	no	shote	inclusive
+AR721	n	cds	no	مشعوذ	conservative
+AR237	n	svp	no	بخيلة	inclusive
+AR2016	n	pr	no	rat	inclusive
+AR1111	n	cds	no	وسخ	inclusive
+AR1025	n	or	no	خِيَار	inclusive
+AR2364	n	cds	no	المتحذلق	conservative
+AR1568	n	om	no	الشذوذ الجنسى	inclusive
+AR946	n	svp	no	حنين	inclusive
+AR689	n	cds	no	الضعيف الجسم	conservative
+AR1650	n	cds	no	مكفي	inclusive
+AR775	n	an	no	العنز	inclusive
+AR2670	n	re	no	إرهاب	conservative
+AR2360	v	asm	no	تهكم	conservative
+AR1448	n	cds	no	حارس السجن	inclusive
+AR1874	n	an	no	العثة	inclusive
+AR267	n	cds	no	قطاع الطرق	conservative
+AR165	n	an	no	أنعام	inclusive
+AR1128	n	dmc	yes	منافقين	conservative
+AR2474	n	cds	no	protagonism	inclusive
+AR635	n	an	no	villainess	conservative
+AR1678	n	pr	no	هراء	conservative
+AR299	n	pa	yes	المحامي	inclusive
+AR1091	n	cds	no	السلوك الإجرامي	inclusive
+AR605	n	cds	no	الإستكبار	conservative
+AR968	n	ddp	yes	القماءة	inclusive
+AR172	n	an	no	كائن حي	inclusive
+AR509	n	ddp	yes	مواقعة البهائم	conservative
+AR2592	n	an	no	canis aureus	inclusive
+AR197	n	asm	no	أحمق	inclusive
+AR1974	n	an	no	الببغاوات	inclusive
+AR2774	n	dmc	yes	كافر	conservative
+AR1707	n	cds	no	التفاخر	conservative
+AR1033	n	om	no	سيدة	inclusive
+AR1158	n	om	no	الخلفية نهاية	inclusive
+AR1372	n	cds	no	الأحمق	inclusive
+AR2245	n	cds	no	الانتهازي	conservative
+AR850	n	cds	no	شبق	conservative
+AR1021	n	cds	no	كاماريلا	inclusive
+AR669	n	an	no	carcharodon	inclusive
+AR2027	n	qas	no	البليغ	inclusive
+AR1185	n	an	no	الأغنام المحلية	inclusive
+AR2081	n	an	no	الحييوين	inclusive
+AR1627	n	svp	no	فرط التغذية	inclusive
+AR1000	n	ps	yes	هجين	conservative
+AR695	n	ddp	yes	مأفون	conservative
+AR1351	n	pa	yes	سماك	inclusive
+AR796	n	asm	no	الديك	inclusive
+AR1947	n	qas	no	necrotrophic	inclusive
+AR626	n	svp	no	layabout	conservative
+AR2250	n	or	no	يقطين	inclusive
+AR421	n	re	no	حرمان الحقوق	inclusive
+AR1595	n	ps	yes	عبري	inclusive
+AR1042	n	dmc	yes	الخداع	conservative
+AR2146	n	an	no	البراغيش	inclusive
+AR2566	n	cds	no	الأتباع	conservative
+AR1919	n	ps	yes	القوط الشرقيين	inclusive
+AR2280	n	ps	yes	فندل	inclusive
+AR284	n	qas	no	داعية	inclusive
+AR2288	n	ps	yes	الفنداليون	inclusive
+AR973	n	asm	no	twirp	conservative
+AR2248	n	or	no	دباء	inclusive
+AR240	n	ddp	yes	براتر	conservative
+AR800	n	cds	no	معضلة	conservative
+AR7	n	svp	no	فقد الإرادة	inclusive
+AR1333	n	om	no	شمر	inclusive
+AR1804	n	re	no	لص	conservative
+AR613	n	cds	no	حجم	inclusive
+AR2181	n	ps	yes	سود	inclusive
+AR2787	n	cds	no	culchie	inclusive
+AR232	n	svp	no	avaritia	inclusive
+AR1238	n	an	no	نزهة	inclusive
+AR36	n	cds	no	عامل	inclusive
+AR143	n	an	no	أنقليس	inclusive
+AR699	n	cds	no	استبدل	inclusive
+AR1734	n	dmc	yes	الزائفة	conservative
+AR2084	n	ddp	yes	microcephalus	inclusive
+AR1270	n	dmc	yes	سوء	conservative
+AR486	n	cds	no	خطأ مربك	inclusive
+AR2078	n	an	no	حييوين	inclusive
+AR695	n	asm	no	مأفون	inclusive
+AR1263	n	dmc	yes	بغي	conservative
+AR906	n	ddp	yes	مخبر	conservative
+AR693	n	cds	no	عته	inclusive
+AR526	n	pr	no	البقر	inclusive
+AR1121	n	dmc	yes	منافقان	conservative
+AR671	n	an	no	هجوم سمك القرش	inclusive
+AR1657	n	cds	no	المعبود العبادة	inclusive
+AR1468	n	cds	no	intermediator	inclusive
+AR1414	n	svp	no	dallier	conservative
+AR332	n	asf	no	تقع الرجل	conservative
+AR605	n	svp	no	الإستكبار	conservative
+AR1289	n	cds	no	قوم	inclusive
+AR1283	n	svp	no	faineance	inclusive
+AR1279	n	dmc	yes	مبذر	inclusive
+AR104	n	cds	no	خليط	inclusive
+AR881	n	cds	no	المراسلين	inclusive
+AR1037	n	om	no	إمرأة لطيفة	inclusive
+AR1745	n	svp	no	رغبة	inclusive
+AR1486	v	asm	no	جامع	conservative
+AR2182	n	ps	yes	الزنجي	inclusive
+AR1375	n	asm	no	foreskin	inclusive
+AR620	n	cds	no	حثالة كيس	conservative
+AR345	n	pr	no	فاحشة	conservative
+AR976	n	an	no	تمساحيات	inclusive
+AR265	n	asm	no	خصية	inclusive
+AR1874	n	pr	no	العثة	inclusive
+AR189	n	cds	no	حدة ذهن	inclusive
+AR623	n	dmc	yes	الأفاق	conservative
+AR274	n	dmc	yes	غليظ	conservative
+AR1878	n	dmc	yes	موزاريلا	inclusive
+AR1268	n	dmc	yes	إثم	conservative
+AR2062	n	an	no	ميكروبات	inclusive
+AR1545	n	pr	no	بغاء	inclusive
+AR2225	n	re	no	الإرهابي	inclusive
+AR259	n	qas	no	خصيتان	inclusive
+AR2051	n	ps	yes	ميستيزو	conservative
+AR357	n	qas	no	والزيف	conservative
+AR2482	n	pr	no	خطابة لإرضاء الجمهور	conservative
+AR195	n	or	no	غبي	conservative
+AR771	n	an	no	الماعز	inclusive
+AR1093	n	re	no	الأنشطة الإجرامية	inclusive
+AR2319	n	qas	no	moocher	conservative
+AR512	n	dmc	yes	خبث	conservative
+AR1819	n	cds	no	غرفة غسل	inclusive
+AR398	a	ddp	yes	غبي	conservative
+AR2335	v	cds	no	إنتهى	inclusive
+AR1326	n	ps	yes	فاشي	inclusive
+AR587	n	qas	no	برجوازيه	inclusive
+AR802	n	cds	no	مشكل	conservative
+AR952	n	an	no	vamper	conservative
+AR1986	n	asm	no	الجلبان	inclusive
+AR2073	n	an	no	بكتيريا	inclusive
+AR266	n	asm	no	testicle	inclusive
+AR1340	n	dmc	yes	تفوح منه رائحة عفنة	conservative
+AR1547	n	pr	no	بائعة هوى	inclusive
+AR2156	n	cds	no	النرجسية	inclusive
+AR518	n	an	no	أبقار	inclusive
+AR2571	n	an	no	زهيوي	inclusive
+AR253	n	asm	no	الخصيتين	inclusive
+AR330	n	asm	no	لينة اللمس	conservative
+AR1535	n	pr	no	شرموطة	inclusive
+AR2210	n	an	no	الوز	inclusive
+AR1779	n	qas	no	أمين المستودع	inclusive
+AR268	n	cds	no	قاطع طريق	inclusive
+AR2244	n	re	no	القاتل	inclusive
+AR723	n	dmc	yes	النحات	conservative
+AR2094	n	an	no	غنم	inclusive
+AR1402	n	svp	no	غضب	conservative
+AR1738	n	svp	no	الفسوق	inclusive
+AR622	n	dmc	yes	المتشرد	conservative
+AR205	n	asf	no	dumbass	conservative
+AR264	n	qas	no	bollocks	inclusive
+AR2117	n	ddp	yes	غباوة	conservative
+AR2037	n	cds	no	صرف	inclusive
+AR1392	n	cds	no	الأصولية	inclusive
+AR1296	n	cds	no	حماسة مفرطة	conservative
+AR822	n	pa	yes	استاذ	inclusive
+AR1868	n	an	no	نموسة	inclusive
+AR2553	v	re	no	إختلس	inclusive
+AR1331	n	om	no	شومر	inclusive
+AR1341	n	dmc	yes	نتانة	conservative
+AR1014	n	or	no	كوكوميس نبات	inclusive
+AR2648	n	re	no	الجنس والقانون	inclusive
+AR696	n	asf	no	changelings	conservative
+AR1272	n	cds	no	الفاسق	conservative
+AR2489	n	or	no	لِفْت	inclusive
+AR272	n	qas	no	برابرة	conservative
+AR1612	n	cds	no	جمهور	conservative
+AR624	n	dmc	yes	متشرد	conservative
+AR1761	n	cds	no	loanshark	conservative
+AR1997	n	an	no	خِنّوْص	inclusive
+AR2371	v	qas	no	رقع	inclusive
+AR2659	a	svp	no	فخور	conservative
+AR634	n	cds	no	الشرير	conservative
+AR2477	a	ddf	yes	أعرج	inclusive
+AR2680	n	asm	no	ithyphallic	inclusive
+AR425	n	an	no	البيسون	inclusive
+AR1772	n	cds	no	ساس	inclusive
+AR494	n	ddp	yes	ثرثار	inclusive
+AR277	n	rci	yes	متوحش	conservative
+AR275	n	ddp	yes	البرابرة	conservative
+AR1464	n	cds	no	المشاهد	conservative
+AR359	n	dmc	yes	كذب	inclusive
+AR1941	n	qas	no	طفيل	inclusive
+AR616	n	dmc	yes	شخص ردئ	inclusive
+AR994	n	ps	yes	تهجين	inclusive
+AR202	n	or	no	المغفل	conservative
+AR185	n	cds	no	perspicaciousness	inclusive
+AR102	n	cds	no	مزيج	inclusive
+AR148	n	an	no	حنكليس	inclusive
+AR1789	n	asm	no	قضيب	inclusive
+AR2107	n	ddp	yes	بليده	conservative
+AR637	n	is	yes	الوغد	conservative
+AR119	n	cds	no	folderol	conservative
+AR630	n	cds	no	غوغاء	conservative
+AR1476	n	dmc	yes	لا في الحساب	conservative
+AR1016	n	or	no	الخيار	inclusive
+AR1666	n	ddf	yes	معاقين	inclusive
+AR1818	n	cds	no	المرحاض العام	inclusive
+AR2436	a	dmc	yes	بَهْرَج	conservative
+AR2237	n	re	no	قتل	inclusive
+AR490	n	cds	no	قرح	inclusive
+AR1913	n	re	no	مافيا	conservative
+AR157	n	ddp	yes	دابة	inclusive
+AR1971	n	an	no	ببغاء	inclusive
+AR632	n	qas	no	سوقة	inclusive
+AR1673	n	ddf	yes	تعطيل	inclusive
+AR826	n	pa	yes	الأستاذ	inclusive
+AR1855	n	cds	no	المواعظ	inclusive
+AR271	n	re	no	لصوصية	inclusive
+AR1421	n	cds	no	النظام الفاشي،	conservative
+AR2766	n	pa	yes	موظفة	inclusive
+AR121	n	dmc	yes	التعصب	conservative
+AR1125	n	dmc	yes	مداجٍ	conservative
+AR2153	n	cds	no	نصف باينت	conservative
+AR2626	a	pa	yes	سياسي	inclusive
+AR1069	n	ddp	yes	ساذج	conservative
+AR194	n	asf	no	betise	conservative
+AR1225	n	re	no	الجنايات	inclusive
+AR257	n	qas	no	الخصوه	inclusive
+AR1085	n	re	no	جرائم	inclusive
+AR1739	n	svp	no	غريزة جنسية	inclusive
+AR604	n	cds	no	تفاخر	conservative
+AR1699	n	ddp	yes	جهل	inclusive
+AR1737	n	dmc	yes	النصاب	conservative
+AR301	n	pa	yes	مُحامي	inclusive
+AR729	n	an	no	عوام	conservative
+AR673	n	an	no	القرش الأبيض	inclusive
+AR3	v	an	no	نبح	inclusive
+AR1130	n	dmc	yes	مرائي	conservative
+AR1793	n	svp	no	حسد	inclusive
+AR2108	n	ddp	yes	غبيين	conservative
+AR121	n	cds	no	التعصب	inclusive
+AR1862	n	an	no	البعوضة	inclusive
+AR1923	n	an	no	megascops	inclusive
+AR68	a	an	no	العنيد	inclusive
+AR2106	n	asm	no	الغباوه	conservative
+AR1609	n	cds	no	الجماهير	conservative
+AR1184	n	svp	no	الأكول	conservative
+AR204	n	an	no	fuckhead	conservative
+AR2214	n	an	no	إوزة	inclusive
+AR1002	n	cds	no	الحشد	inclusive
+AR987	n	an	no	التمساح	inclusive
+AR957	n	an	no	البومة	inclusive
+AR2169	n	ps	yes	زنجي	inclusive
+AR495	n	cds	no	المتفاخر	conservative
+AR1451	n	cds	no	سجان	inclusive
+AR125	n	ddp	yes	أمي	inclusive
+AR362	n	cds	no	زور	inclusive
+AR1430	n	asm	no	الفول	inclusive
+AR636	n	is	yes	وvillainess	conservative
+AR2077	n	an	no	حوين	inclusive
+AR2686	n	re	no	للتعذيب	inclusive
+AR2163	n	cds	no	عبادة الذات	inclusive
+AR395	n	pa	yes	مندوب	inclusive
+AR1544	n	pr	no	الدعارة	inclusive
+AR2387	n	is	yes	شخص رث الملابس	conservative
+AR917	n	cds	no	نصاب	conservative
+AR1824	n	cds	no	دورة مياه	inclusive
+AR145	n	an	no	إنقليس	inclusive
+AR1754	a	is	yes	غير سعيدة	inclusive
+AR2612	n	ddp	yes	حماقه	inclusive
+AR557	n	qas	no	أعمال	inclusive
+AR134	n	cds	no	حشد	conservative
+AR1609	n	cds	no	الجماهير	inclusive
+AR360	n	dmc	yes	كذبة	inclusive
+AR911	n	cds	no	الجبن	conservative
+AR1405	n	an	no	غَضَب	inclusive
+AR2278	n	ps	yes	الوندالي	inclusive
+AR992	n	ps	yes	interfertility	inclusive
+AR1135	n	om	no	قفا	inclusive
+AR617	n	dmc	yes	lowlife	inclusive
+AR2110	n	asm	no	بلادة	conservative
+AR1024	n	or	no	خیار	inclusive
+AR15	n	svp	no	خمول	conservative
+AR1903	n	cds	no	ضابط	conservative
+AR2080	n	an	no	حوين،	inclusive
+AR2631	n	an	no	ثعبان في العشب	conservative
+AR2356	v	qas	no	تزين	inclusive
+AR2709	n	pr	no	حطموك	conservative
+AR704	n	re	no	تشهير	inclusive
+AR2422	n	re	no	القراصنة	inclusive
+AR592	n	cds	no	مغرور،	conservative
+AR697	n	cds	no	غبية	inclusive
+AR1285	n	cds	no	فصيلة	inclusive
+AR207	n	an	no	muttonhead	conservative
+AR1910	n	re	no	كوزا نوسترا	conservative
+AR1466	n	qas	no	المتلصص	inclusive
+AR1586	n	ps	yes	يهوديه	inclusive
+AR691	n	ps	yes	أبله	conservative
+AR1851	n	ps	yes	منغول	inclusive
+AR1860	n	an	no	البعوض	inclusive
+AR1327	n	cds	no	فاشستي	conservative
+AR1749	n	dmc	yes	الكذب	inclusive
+AR421	n	cds	no	حرمان الحقوق	inclusive
+AR277	n	dmc	yes	متوحش	conservative
+AR926	n	cds	no	الخردة	conservative
+AR2114	n	ddp	yes	دلخ	conservative
+AR1477	n	svp	no	تافه	conservative
+AR756	n	cds	no	العشائر	inclusive
+AR1655	n	asf	no	فتاة	conservative
+AR1287	n	cds	no	phratry	inclusive
+AR1275	n	dmc	yes	فجور	inclusive
+AR1476	n	svp	no	لا في الحساب	conservative
+AR1000	n	cds	no	هجين	inclusive
+AR237	n	svp	no	بخيلة	conservative
+AR1736	n	dmc	yes	زائف	conservative
+AR2412	a	svp	no	عدوانية	inclusive
+AR1726	n	dmc	yes	فسوق	inclusive
+AR1799	n	ddp	yes	moronity	inclusive
+AR39	n	pa	yes	الأكاديمية	inclusive
+AR925	n	cds	no	النفايات المنزلية	inclusive
+AR626	n	dmc	yes	layabout	conservative
+AR2028	n	qas	no	بلاغة	inclusive
+AR1020	n	cds	no	كامريلا	inclusive
+AR1097	n	an	no	diddly-القرف	conservative
+AR2232	n	an	no	قراده	inclusive
+AR344	n	pr	no	عاهرة	inclusive
+AR21	n	re	no	قهر	inclusive
+AR2480	n	pr	no	كلام يعوزه الصدق	conservative
+AR200	n	asf	no	shithead	conservative
+AR970	n	qas	no	الطاقم	inclusive
+AR1407	n	svp	no	غيظ	conservative
+AR1707	n	cds	no	التفاخر	inclusive
+AR449	n	qas	no	مليونير	inclusive
+AR2518	a	dmc	yes	وسخ	inclusive
+AR693	n	ddp	yes	عته	inclusive
+AR1100	n	an	no	diddley	conservative
+AR596	n	cds	no	وقاحة	conservative
+AR387	n	pr	no	الأبقار	inclusive
+AR1079	n	ps	yes	الجاهل	conservative
+AR403	n	dmc	yes	المتعصب	conservative
+AR2713	n	asm	no	طائر	inclusive
+AR2740	n	om	no	عرض السحب	inclusive
+AR2216	n	an	no	وزة	inclusive
+AR2388	n	cds	no	هرير	conservative
+AR2632	a	cds	no	ذكية	inclusive
+AR896	n	cds	no	rumormonger	conservative
+AR2575	n	an	no	صراصير	inclusive
+AR2020	n	cds	no	ذخيرة	inclusive
+AR2088	n	ddp	yes	ميكروسيفالي	inclusive

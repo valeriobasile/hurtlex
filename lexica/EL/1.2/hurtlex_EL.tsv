@@ -1,0 +1,3114 @@
+id	pos	category	stereotype	lemma	level
+EL308	n	cds	no	ηλίθιο πρόσωπο	conservative
+EL1978	n	asf	no	ασημαντότητα	inclusive
+EL252	n	dmc	yes	άγριος	conservative
+EL1092	n	om	no	σπονδυλοκοιλιακό	inclusive
+EL1035	n	ps	yes	καταστροφεύς	conservative
+EL2459	n	cds	no	δωροληψία	inclusive
+EL648	n	ps	yes	επιβραδύνουν	conservative
+EL1093	n	om	no	οπίσθια	inclusive
+EL1027	n	cds	no	τολμηρός	inclusive
+EL648	n	ddp	yes	επιβραδύνουν	conservative
+EL1815	n	qas	no	ενορίες	inclusive
+EL838	n	om	no	Κίναιδος	inclusive
+EL338	n	cds	no	αναλήθεια	inclusive
+EL1507	n	qas	no	ζωγράφος σπίτι	inclusive
+EL306	n	ddp	yes	απαλό άγγιγμα	conservative
+EL2364	n	re	no	βιαστή	conservative
+EL1541	n	cds	no	ειδωλολατρία	inclusive
+EL1667	n	svp	no	χολή	inclusive
+EL838	n	or	no	Κίναιδος	conservative
+EL2386	n	re	no	τρομοκρατία	inclusive
+EL1130	n	pa	yes	θυρωρός	inclusive
+EL15	n	qas	no	στενοί συνεργάτες	inclusive
+EL1148	n	cds	no	σχεδίες	inclusive
+EL4	n	svp	no	οκνηρία	inclusive
+EL167	n	asf	no	bêtise	conservative
+EL1014	n	pr	no	εταίρα	inclusive
+EL1439	n	re	no	σούφρωμα	inclusive
+EL1007	n	qas	no	αδέξιος ζωγράφος	conservative
+EL1228	n	cds	no	νταβατζή	conservative
+EL362	n	qas	no	ψεματάκι	conservative
+EL1883	n	an	no	Σελαχίμορφα	inclusive
+EL79	n	svp	no	οκνηρός	conservative
+EL489	n	qas	no	θλιβερή σάκο	conservative
+EL115	n	cds	no	στρατιά	inclusive
+EL2383	a	svp	no	υπεροπτικός	conservative
+EL1404	v	asm	no	γαμώ	conservative
+EL1154	n	cds	no	σκαφτιάς	inclusive
+EL2241	n	re	no	stickup	inclusive
+EL1635	n	cds	no	backtalk	inclusive
+EL601	n	an	no	caiman	inclusive
+EL1643	n	qas	no	βιοτέχνης	inclusive
+EL722	n	an	no	αίγα	inclusive
+EL1239	n	qas	no	χέρι τομέα	inclusive
+EL173	n	cds	no	βλαξ	inclusive
+EL564	n	svp	no	κομπασμός	conservative
+EL962	n	ps	yes	δημιουργός των φυτών	inclusive
+EL387	n	an	no	κάθαρμα	conservative
+EL164	n	asf	no	κουταμάρα	conservative
+EL580	n	dmc	yes	hobos	conservative
+EL525	n	asm	no	brownness	inclusive
+EL287	n	qas	no	barons	inclusive
+EL1374	n	cds	no	φιλοπερίεργος	conservative
+EL1451	n	pr	no	Ιερόδουλη	inclusive
+EL1427	a	cds	no	πανούργος	inclusive
+EL1160	n	an	no	εδώδιμου σαλιγκαριού	inclusive
+EL1550	n	ddf	yes	απενεργοποίηση	inclusive
+EL1626	n	cds	no	moneylending	conservative
+EL1213	n	om	no	άτομο με ειδικές ανάγκες	conservative
+EL311	n	ddp	yes	θερμό κατάπλασμα	conservative
+EL89	n	cds	no	συνονθύλευμα	inclusive
+EL2242	n	re	no	αιχμαλωτίζων	inclusive
+EL1225	n	cds	no	φανατισμού	conservative
+EL477	n	qas	no	φάουλ-up	inclusive
+EL600	n	cds	no	κακογράφω	inclusive
+EL1046	n	re	no	εγκληματίες	inclusive
+EL1685	n	ps	yes	μέτοικοι	inclusive
+EL211	n	svp	no	τσιγκούνη	inclusive
+EL1020	n	pr	no	παλλακίδες	inclusive
+EL251	n	pa	yes	χωριάτης	conservative
+EL770	n	cds	no	αυτοϊκανοποίηση	inclusive
+EL650	n	ps	yes	δύσμορφος	conservative
+EL143	n	an	no	epifaunal	inclusive
+EL342	n	cds	no	ψέμμα	conservative
+EL1625	n	cds	no	sharking δάνειο	conservative
+EL846	n	or	no	λεσβία	conservative
+EL2107	v	an	no	μαίνομαι	conservative
+EL251	n	dmc	yes	χωριάτης	conservative
+EL577	n	dmc	yes	έτσι κ 'έτσι	inclusive
+EL534	n	qas	no	ιδιοκτήτης επιχείρησης	inclusive
+EL8	n	svp	no	αβουλησία	inclusive
+EL608	n	ddp	yes	φλυαρώ	conservative
+EL250	n	rci	yes	βάρβαρη	conservative
+EL1274	n	asm	no	pterygiophore	inclusive
+EL795	n	or	no	λάχανο	inclusive
+EL599	n	cds	no	cacography	inclusive
+EL2304	n	an	no	Βλαττοειδή	inclusive
+EL1368	n	an	no	pipistrellus	inclusive
+EL1684	n	ps	yes	Μέτοικοι	inclusive
+EL158	n	cds	no	εξυπνάδα	inclusive
+EL1028	n	an	no	πειρατής	inclusive
+EL2419	n	om	no	χρήση ρούχων αντίθετου φύλλου	inclusive
+EL1392	n	dmc	yes	χαραμοφάης	conservative
+EL1264	n	dmc	yes	αναθυμίαση	conservative
+EL2342	n	qas	no	λαγωνικό	inclusive
+EL163	n	an	no	ανοησία	conservative
+EL1106	n	om	no	οπισθίως	inclusive
+EL2144	a	svp	no	επιθετική	inclusive
+EL1324	n	an	no	οργή	inclusive
+EL541	n	an	no	βουβάλι	inclusive
+EL212	n	svp	no	φιλάργυρος	inclusive
+EL831	n	cds	no	ανταποκριτής	inclusive
+EL1342	n	asm	no	φάβα	inclusive
+EL1207	n	dmc	yes	ακόλαστος	conservative
+EL593	n	dmc	yes	αχρείος	conservative
+EL798	n	cds	no	κοσμοσυρροή	inclusive
+EL2096	n	or	no	tater	inclusive
+EL2008	n	re	no	δολοφονία	inclusive
+EL2216	n	pr	no	ανάγουλες	conservative
+EL1098	n	om	no	ψωμάκια	inclusive
+EL1669	n	svp	no	Θυμός	inclusive
+EL163	n	cds	no	ανοησία	inclusive
+EL1320	n	cds	no	φονταμενταλιστικών	inclusive
+EL203	n	svp	no	θανάσιμο αμάρτημα	inclusive
+EL246	n	cds	no	ληστή	conservative
+EL1841	n	is	yes	φτωχός	inclusive
+EL1510	n	qas	no	ζωγραφική σπίτι	inclusive
+EL682	n	qas	no	λεχρίτης	conservative
+EL1276	n	asm	no	ιχθύς	inclusive
+EL188	n	ddp	yes	δεν γνωρίζουν τίποτα	conservative
+EL92	n	qas	no	σύμφυρμα	inclusive
+EL682	n	cds	no	λεχρίτης	conservative
+EL1500	n	cds	no	οι πολλοί	conservative
+EL1428	a	cds	no	δυσνόητος	conservative
+EL651	n	an	no	σκύλα	conservative
+EL1585	n	an	no	αδυσώπητο	conservative
+EL1795	n	cds	no	papparazzi	inclusive
+EL1627	n	cds	no	loansharking	inclusive
+EL40	n	pa	yes	ακαδημαϊκό	inclusive
+EL611	n	cds	no	εσωτερικό κύκλο	inclusive
+EL219	n	cds	no	cathouse	inclusive
+EL1238	n	qas	no	εργάτη	inclusive
+EL45	n	qas	no	ερασιτεχνισμού	conservative
+EL1140	n	cds	no	αποτελέσματα	inclusive
+EL1006	n	re	no	ημερομηνία-βιασμός	conservative
+EL1322	n	cds	no	Φονταμενταλισμός	inclusive
+EL1149	n	cds	no	πολλά	inclusive
+EL1453	n	pr	no	πορνεία	conservative
+EL2289	n	cds	no	weisenheimer	conservative
+EL2088	n	or	no	σπαντ	inclusive
+EL1918	n	cds	no	mystifier	conservative
+EL617	n	cds	no	τρένο	inclusive
+EL249	n	ps	yes	Βάρβαροι	conservative
+EL1642	n	qas	no	αποθηκάριος	inclusive
+EL257	n	ddp	yes	αγριότητα	conservative
+EL1705	n	cds	no	αλλαξιέρα	inclusive
+EL741	n	asm	no	καυλί	conservative
+EL1436	n	re	no	μικροκλοπές	inclusive
+EL146	n	re	no	διαβολή	conservative
+EL1190	n	dmc	yes	ηθική	inclusive
+EL171	n	asf	no	saphead	conservative
+EL2160	a	svp	no	κακότροπος	conservative
+EL84	n	cds	no	καραγκιοζιλίκι	inclusive
+EL719	n	an	no	αιγοπρόβατο	inclusive
+EL1906	n	asm	no	Βλακεία	conservative
+EL1788	n	an	no	pudge	conservative
+EL395	n	an	no	κακοποιός	conservative
+EL1616	a	is	yes	λυπημένος	inclusive
+EL190	n	an	no	Γαϊδάρα	inclusive
+EL669	n	re	no	συκοφάντης	conservative
+EL1337	n	cds	no	φασισμός	conservative
+EL244	n	qas	no	σαβούρα	inclusive
+EL587	n	cds	no	τεμπέλης	conservative
+EL1105	n	om	no	derriere	inclusive
+EL2493	n	ps	yes	Σίντε	inclusive
+EL1547	n	ddf	yes	ανικανότητα	inclusive
+EL1314	n	cds	no	Μασονία	inclusive
+EL1777	n	cds	no	μαφιόζων	conservative
+EL2398	n	re	no	ταλαιπωρία	inclusive
+EL380	n	cds	no	κλίκα	inclusive
+EL1875	n	ps	yes	μισό κάστας	conservative
+EL229	n	cds	no	Πορνείο	inclusive
+EL557	n	cds	no	θράσος	conservative
+EL545	n	qas	no	επαγγελματική τάξη	inclusive
+EL2010	n	re	no	δολοφονίες	inclusive
+EL2245	n	re	no	απαγωγέας	inclusive
+EL222	n	cds	no	bordello	inclusive
+EL598	n	or	no	κολοκύθα	inclusive
+EL1709	n	cds	no	λεκάνη τουαλέτας	inclusive
+EL1017	n	pr	no	εραστής	inclusive
+EL309	n	ddp	yes	πουτίγκα κεφάλι	conservative
+EL2244	n	re	no	kidnaper	inclusive
+EL395	n	dmc	yes	κακοποιός	inclusive
+EL1576	n	is	yes	όρκο της φτώχειας	inclusive
+EL638	n	dmc	yes	απόβλητος	inclusive
+EL1347	n	asm	no	vicia faba	inclusive
+EL1945	n	ps	yes	darkie	conservative
+EL2325	n	ddp	yes	τρέλα	inclusive
+EL1170	n	re	no	κακούργημα	inclusive
+EL1947	n	ps	yes	αφρικάνος	inclusive
+EL1913	n	pa	yes	βοσκούς	inclusive
+EL1765	n	cds	no	μπάτσος	conservative
+EL1235	n	pr	no	comare	conservative
+EL306	n	ps	yes	απαλό άγγιγμα	conservative
+EL364	n	cds	no	fabricator	conservative
+EL1629	n	cds	no	τοκογλύφους	inclusive
+EL1275	n	asm	no	μαλακό ακτίνες	inclusive
+EL515	n	pr	no	αγελάδα	inclusive
+EL387	n	cds	no	κάθαρμα	conservative
+EL335	n	an	no	αγόρι μισθώματος	conservative
+EL1493	n	ps	yes	Οβριοί	inclusive
+EL85	n	an	no	φάρσα	conservative
+EL712	n	an	no	capra	inclusive
+EL896	n	an	no	κοριούς	inclusive
+EL172	n	cds	no	ανόητος	inclusive
+EL1205	n	an	no	πρόσωπο ζώου	inclusive
+EL361	n	an	no	κρεατοπαραγωγό βοοειδές	inclusive
+EL175	n	an	no	χαζός	conservative
+EL1355	n	pr	no	όπλο moll	inclusive
+EL1443	n	re	no	βρώμικου χρήματος	inclusive
+EL1729	n	cds	no	ηθικολογία	inclusive
+EL706	n	cds	no	ιαπωνικές μονάδες μέτρησης	inclusive
+EL878	n	cds	no	αστικών αποβλήτων	conservative
+EL1110	n	om	no	εγγύς	inclusive
+EL2501	n	ps	yes	Κατσιβέλα	inclusive
+EL1871	n	cds	no	απόβλητα	inclusive
+EL681	n	cds	no	απόβρασμα	conservative
+EL1103	n	om	no	περιοχή των γλουτών	inclusive
+EL1038	n	cds	no	εγκληματικές δραστηριότητες	inclusive
+EL231	n	svp	no	cheapskate	conservative
+EL177	n	asf	no	shithead	conservative
+EL904	n	cds	no	foxiness	conservative
+EL579	n	cds	no	χαμηλότερη μορφή ζωής επειδή	conservative
+EL675	n	re	no	λαξευτής	inclusive
+EL1591	n	cds	no	εκπαιδευτής	inclusive
+EL507	n	an	no	αγελάδες	inclusive
+EL213	n	cds	no	φλύαρος	conservative
+EL754	n	cds	no	πρόβλημα	conservative
+EL2093	n	or	no	πατάτες	inclusive
+EL1042	n	re	no	εγκληματική δραστηριότητα	inclusive
+EL1745	n	an	no	stick-in-the-λάσπη	conservative
+EL117	n	cds	no	στρατός	inclusive
+EL1728	n	ps	yes	μογγόλος	inclusive
+EL2312	n	an	no	τσακάλι	inclusive
+EL114	a	ddp	yes	αγράμματος	inclusive
+EL131	n	an	no	Μετάζωα	inclusive
+EL77	n	om	no	Σοδομισμός	inclusive
+EL250	n	pa	yes	βάρβαρη	conservative
+EL1283	n	qas	no	κατσαρόλα των ψαριών	inclusive
+EL1689	n	cds	no	schoolma'am	conservative
+EL181	n	or	no	μπούμπουρας	conservative
+EL804	n	svp	no	φυσική έλξη	inclusive
+EL1839	n	cds	no	μηχανορράφος	inclusive
+EL252	n	an	no	άγριος	conservative
+EL969	n	qas	no	κομφορμισμό	inclusive
+EL299	n	cds	no	καταψηφίζω	inclusive
+EL2190	n	cds	no	βρέφος	inclusive
+EL1487	n	ps	yes	Ισραηλίτης	inclusive
+EL1810	n	qas	no	παρασιτισμός	inclusive
+EL503	n	svp	no	ανία	inclusive
+EL104	n	cds	no	βασανιστής	conservative
+EL191	n	om	no	γάιδαρος	inclusive
+EL1215	n	svp	no	αδράνειας	inclusive
+EL1561	n	ddp	yes	ανοησίες	conservative
+EL1056	n	cds	no	φοβερή πένα	inclusive
+EL1894	n	an	no	animalculum	inclusive
+EL226	n	cds	no	φυλακή	inclusive
+EL1193	n	dmc	yes	τις ηθικές αξίες	inclusive
+EL1122	n	svp	no	φαγάς	inclusive
+EL1318	n	an	no	συνοφρυώνομαι	inclusive
+EL282	n	an	no	σκύλος	inclusive
+EL175	n	ddp	yes	χαζός	conservative
+EL1440	n	re	no	κλέφτες	inclusive
+EL1453	n	pr	no	πορνεία	inclusive
+EL2085	v	cds	no	παζαρεύω	inclusive
+EL240	n	asm	no	teste	inclusive
+EL1042	n	cds	no	εγκληματική δραστηριότητα	inclusive
+EL1889	n	an	no	μικρόβια	inclusive
+EL755	n	qas	no	commoners	inclusive
+EL1262	n	om	no	Μάραθρο	inclusive
+EL1249	n	ps	yes	φασίστας	inclusive
+EL1036	n	re	no	παραβατικότητα	inclusive
+EL1648	n	cds	no	προσαρμογέα	inclusive
+EL257	n	ddp	yes	αγριότητα	inclusive
+EL649	n	ddp	yes	καθυστερημένος	inclusive
+EL572	n	svp	no	ματαιοφροσύνη	conservative
+EL257	n	an	no	αγριότητα	inclusive
+EL304	n	asf	no	κούτσουρο	conservative
+EL575	n	dmc	yes	παλιάνθρωπος	inclusive
+EL960	n	cds	no	υβριδικό ανθρωπογενείς	inclusive
+EL959	n	cds	no	διασταύρωση	inclusive
+EL664	n	re	no	backbiter	conservative
+EL253	n	ddp	yes	αγροίκος	conservative
+EL2341	a	is	yes	φτωχός	inclusive
+EL1226	n	cds	no	προμήθεια	inclusive
+EL1679	n	re	no	ζωοκλέπτης	inclusive
+EL2156	a	cds	no	επιτήδειος	conservative
+EL853	n	an	no	φυσιογνωμονική	inclusive
+EL2498	n	ps	yes	Σίντηδες	inclusive
+EL175	n	asm	no	χαζός	inclusive
+EL1410	v	asm	no	κάνω σεξ	conservative
+EL436	n	cds	no	κοπρόσκυλο	inclusive
+EL961	n	cds	no	Υβρίδια	inclusive
+EL844	n	om	no	homophile	conservative
+EL395	n	cds	no	κακοποιός	inclusive
+EL574	n	dmc	yes	git	inclusive
+EL1623	n	cds	no	τοκογλύφος	conservative
+EL309	n	cds	no	πουτίγκα κεφάλι	conservative
+EL1069	n	an	no	βρώμικο τέχνασμα	conservative
+EL1951	n	ps	yes	blackamoor	inclusive
+EL1365	n	cds	no	φαφλατάς	conservative
+EL1726	n	ps	yes	Μογγόλα	inclusive
+EL347	n	cds	no	δανδής	inclusive
+EL1321	n	cds	no	θρησκευτικού φονταμενταλισμού	inclusive
+EL797	n	cds	no	πλήθος	conservative
+EL254	n	cds	no	χωριάτη	conservative
+EL1772	n	cds	no	Μαφία	inclusive
+EL1813	n	qas	no	ενορία	inclusive
+EL1412	a	cds	no	άνομος	inclusive
+EL2020	n	or	no	καμένο πορτοκαλί	inclusive
+EL1519	n	qas	no	καλύβα	inclusive
+EL1228	n	cds	no	νταβατζή	inclusive
+EL1584	n	an	no	inexorableness	conservative
+EL151	n	re	no	βιασμό	conservative
+EL251	n	ps	yes	χωριάτης	conservative
+EL1371	n	asf	no	μαλλιά καβάλο	inclusive
+EL1395	n	svp	no	goof-off	conservative
+EL1414	a	cds	no	παράνομος	inclusive
+EL1325	n	svp	no	θυμός	inclusive
+EL2065	v	re	no	κάνω καζούρα	inclusive
+EL1753	n	cds	no	nerd	conservative
+EL1763	n	svp	no	ασέλγεια	inclusive
+EL1194	n	an	no	eurypterids	inclusive
+EL1174	n	re	no	πλημμέλημα	inclusive
+EL249	n	rci	yes	Βάρβαροι	conservative
+EL473	n	qas	no	σφάλμα	inclusive
+EL830	n	cds	no	ανταποκριτές	inclusive
+EL91	n	qas	no	omnium-gatherum	inclusive
+EL407	n	cds	no	taleteller	conservative
+EL501	n	an	no	αγριότητά	conservative
+EL240	n	qas	no	teste	inclusive
+EL189	n	an	no	αμόρφωτο άτομο	conservative
+EL1955	n	ps	yes	αφρικανικής καταγωγής	inclusive
+EL566	n	cds	no	αρχοντιλίκι	conservative
+EL997	n	cds	no	μπαγαποντιά	conservative
+EL2131	n	an	no	pediculus corporis	inclusive
+EL542	n	om	no	παιδεραστής	conservative
+EL370	n	cds	no	φανατικός	conservative
+EL45	n	cds	no	ερασιτεχνισμού	conservative
+EL349	n	cds	no	Απλώστρα ρούχων	inclusive
+EL647	n	cds	no	changeling	inclusive
+EL246	n	dmc	yes	ληστή	conservative
+EL431	n	cds	no	γουρούνι	conservative
+EL1956	n	ps	yes	νέγρος	inclusive
+EL2116	n	cds	no	σχόλιο	inclusive
+EL513	n	pr	no	βόας	inclusive
+EL2353	a	ddp	yes	θέση	inclusive
+EL94	n	qas	no	απομεινάρια	inclusive
+EL1325	n	svp	no	θυμός	conservative
+EL241	n	asm	no	όρχεις	inclusive
+EL1109	n	om	no	πισινός	inclusive
+EL1733	n	an	no	κουνούπι	inclusive
+EL1531	n	cds	no	balladeer	inclusive
+EL921	n	an	no	Γλαυκόμορφα	inclusive
+EL1138	n	cds	no	τόνους	inclusive
+EL437	n	cds	no	τρέχουσα	inclusive
+EL1926	n	qas	no	πνευματικός ηγέτης	inclusive
+EL1673	a	svp	no	ευερέθιστος	conservative
+EL1081	n	dmc	yes	ψεύτικος	conservative
+EL558	n	svp	no	υπεροψία	conservative
+EL1280	n	pa	yes	ιχθυοπώλες	inclusive
+EL1901	n	an	no	Αρνί	inclusive
+EL126	n	ddp	yes	ζώο	inclusive
+EL2222	a	cds	no	ξινισμένος	inclusive
+EL253	n	rci	yes	αγροίκος	conservative
+EL126	n	an	no	ζώο	inclusive
+EL1523	n	cds	no	hustling	conservative
+EL1696	n	qas	no	Μίγματα	inclusive
+EL366	n	pa	yes	γκρουμ	inclusive
+EL806	n	svp	no	λαγνεία	inclusive
+EL1101	n	om	no	πελματιαία	inclusive
+EL1292	n	cds	no	γελωτοποιός	inclusive
+EL1658	v	cds	no	μηχανορραφώ	inclusive
+EL506	n	svp	no	πλήξη	inclusive
+EL1687	n	or	no	σχολαστική	inclusive
+EL509	n	an	no	Αγελάδα	inclusive
+EL2161	n	re	no	plagiarization	inclusive
+EL176	n	or	no	bonehead	conservative
+EL1125	n	svp	no	trencher	conservative
+EL173	n	cds	no	βλαξ	conservative
+EL343	n	cds	no	μάγκα	inclusive
+EL1877	n	ps	yes	μιγάδων	conservative
+EL212	n	svp	no	φιλάργυρος	conservative
+EL2124	n	cds	no	παραπονιάρης	conservative
+EL488	n	cds	no	κακοτέχνης	conservative
+EL2444	n	cds	no	συνωμοσιολογία	inclusive
+EL616	n	ddp	yes	κρατούμενος	inclusive
+EL2337	n	cds	no	wonk	conservative
+EL1198	n	dmc	yes	ανηθικότητα	inclusive
+EL2153	n	asm	no	σπασμωδικές off	conservative
+EL431	n	an	no	γουρούνι	conservative
+EL674	n	cds	no	grifter	conservative
+EL1938	n	cds	no	autolatry	inclusive
+EL385	n	re	no	παλιόμουτρο	conservative
+EL28	n	re	no	κακοποίηση	inclusive
+EL113	n	ddp	yes	analphabetic	inclusive
+EL482	n	cds	no	bragger	conservative
+EL1560	n	ddp	yes	nonsensicality	conservative
+EL451	n	re	no	εκβιάζει	conservative
+EL404	n	an	no	βίσονες	inclusive
+EL457	n	pa	yes	κηδειών	inclusive
+EL1536	n	asf	no	φουστάνι	conservative
+EL649	n	asf	no	καθυστερημένος	conservative
+EL1005	n	re	no	βιασμών	conservative
+EL465	n	dmc	yes	εξώλης	conservative
+EL1777	n	re	no	μαφιόζων	conservative
+EL279	n	pa	yes	δικηγόρος	inclusive
+EL342	n	cds	no	ψέμμα	inclusive
+EL2359	n	ddp	yes	μπουρέκι	inclusive
+EL6	n	dmc	yes	εξαθλίωση	inclusive
+EL1378	n	qas	no	αδιάκριτος	inclusive
+EL365	n	cds	no	ψευδολόγος	conservative
+EL1780	n	ps	yes	Οστρογότθοι	inclusive
+EL2506	n	an	no	Μικρή Κουκουβάγια	inclusive
+EL186	n	an	no	muttonhead	conservative
+EL579	n	an	no	χαμηλότερη μορφή ζωής επειδή	conservative
+EL2143	n	cds	no	υπερβολική ευσέβεια	inclusive
+EL342	n	qas	no	ψέμμα	conservative
+EL345	n	cds	no	fop	inclusive
+EL679	n	cds	no	αλητεία	conservative
+EL252	n	ps	yes	άγριος	conservative
+EL409	n	cds	no	αταξία	conservative
+EL44	a	pa	yes	θεωρητικές	inclusive
+EL1446	n	re	no	κλεμμένη περιουσία	inclusive
+EL646	n	asf	no	κουτός	conservative
+EL175	n	asm	no	χαζός	conservative
+EL579	n	dmc	yes	χαμηλότερη μορφή ζωής επειδή	inclusive
+EL733	n	an	no	χυδαιότητα	conservative
+EL738	n	asm	no	τσουτσούνι	conservative
+EL439	n	cds	no	μιξογενής	inclusive
+EL1452	n	pr	no	Εταίρα	inclusive
+EL2151	n	cds	no	wank	conservative
+EL688	n	an	no	σκυλί	inclusive
+EL2296	n	an	no	hirudinean	inclusive
+EL1653	n	asm	no	όργανο	inclusive
+EL2335	n	an	no	κοκκινόψαρο	inclusive
+EL138	n	an	no	μετάζωα	inclusive
+EL285	n	qas	no	Βαρόνος	inclusive
+EL328	n	an	no	floozy	conservative
+EL521	n	ddp	yes	εγκεφαλική βλάβη	inclusive
+EL243	n	qas	no	των όρχεων	inclusive
+EL2059	n	cds	no	νεόπλουτων	inclusive
+EL268	n	pa	yes	υπουργός-σύμβουλος	inclusive
+EL370	n	svp	no	φανατικός	conservative
+EL2489	n	ps	yes	Αθίγγανος	inclusive
+EL960	n	ps	yes	υβριδικό ανθρωπογενείς	inclusive
+EL218	n	ddp	yes	νοητική υστέρηση	inclusive
+EL823	n	cds	no	συνωμοσία της σιωπής	inclusive
+EL797	n	cds	no	πλήθος	inclusive
+EL840	n	om	no	Γκέι	conservative
+EL1903	n	an	no	Κριάρι	inclusive
+EL1556	n	ddp	yes	πρωκτός	conservative
+EL1657	v	cds	no	σκευωρώ	inclusive
+EL238	n	asm	no	ballock	inclusive
+EL487	n	dmc	yes	bumbler	conservative
+EL1199	n	dmc	yes	κακό	conservative
+EL1331	n	svp	no	ματαιοπονία	conservative
+EL1738	n	an	no	στραβός πρόσωπο	inclusive
+EL679	n	qas	no	αλητεία	conservative
+EL2390	n	ddp	yes	στραβόξυλο	conservative
+EL2421	n	om	no	σταυρό κομμό	inclusive
+EL1785	n	an	no	νυχτοπούλι	inclusive
+EL709	n	cds	no	φυλετικές κοινωνίες	inclusive
+EL70	n	om	no	πρωκτική συνουσία	inclusive
+EL1018	n	pr	no	παλλακίδα	inclusive
+EL1964	n	pa	yes	μνηστήρας	inclusive
+EL1090	n	om	no	χαυλιόδοντας	inclusive
+EL173	n	ddp	yes	βλαξ	inclusive
+EL1328	n	svp	no	dillydallier	conservative
+EL185	n	or	no	lunkhead	conservative
+EL2077	n	qas	no	κακό-maker	conservative
+EL237	n	asm	no	αρχίδια	inclusive
+EL1307	n	cds	no	δωρεάν κτίστης	inclusive
+EL1409	v	asm	no	πηδώ	conservative
+EL2362	n	re	no	raper	conservative
+EL491	n	dmc	yes	ατζαμής	conservative
+EL1152	n	ps	yes	άσκοπα περιφερόμενος	inclusive
+EL231	n	is	yes	cheapskate	conservative
+EL1401	v	asm	no	συνουσιάζομαι	conservative
+EL1578	n	svp	no	απραξία	inclusive
+EL1431	n	cds	no	ουτιδανός	conservative
+EL1070	n	svp	no	αντιπάθεια	inclusive
+EL1676	n	cds	no	ταραχή	conservative
+EL267	n	pa	yes	υπουργός	inclusive
+EL392	n	cds	no	φυγοδικία	inclusive
+EL30	n	re	no	καταχρηστική	inclusive
+EL1417	n	an	no	όρνιο	inclusive
+EL1317	n	an	no	συνοφρύωση	inclusive
+EL339	n	dmc	yes	ψεύδος	inclusive
+EL221	n	cds	no	πορνείο	inclusive
+EL1513	n	svp	no	υπερφαγία	inclusive
+EL178	n	or	no	dunce	conservative
+EL387	n	qas	no	κάθαρμα	conservative
+EL866	n	cds	no	ανανδρία	conservative
+EL1639	n	qas	no	μαγαζάτορας	inclusive
+EL1734	n	an	no	νυχτοπεταλούδα	inclusive
+EL388	n	re	no	απατεώνας	inclusive
+EL350	n	cds	no	topsy-turvydom	inclusive
+EL2231	n	re	no	απαγωγή	inclusive
+EL385	n	dmc	yes	παλιόμουτρο	conservative
+EL1124	n	svp	no	παράσιτος	inclusive
+EL638	n	is	yes	απόβλητος	inclusive
+EL1694	n	qas	no	Μείγμα	inclusive
+EL608	n	an	no	φλυαρώ	inclusive
+EL1777	n	cds	no	μαφιόζων	inclusive
+EL511	n	an	no	Βόδι	inclusive
+EL774	n	qas	no	σύστημα των καστών	inclusive
+EL357	n	ps	yes	bedu	inclusive
+EL1382	n	cds	no	μεσάζων	inclusive
+EL1526	n	an	no	ύαινες	inclusive
+EL1746	n	an	no	Γίννος	inclusive
+EL840	n	or	no	Γκέι	conservative
+EL714	n	an	no	κατσίκα	inclusive
+EL308	n	ddp	yes	ηλίθιο πρόσωπο	conservative
+EL1592	n	cds	no	δάσκαλος	inclusive
+EL407	n	ddp	yes	taleteller	conservative
+EL807	n	asm	no	γαμημένος	conservative
+EL51	n	asf	no	ηλιθιότητα	conservative
+EL850	n	ddp	yes	σπερμολόγος	conservative
+EL936	n	ddf	yes	ανάπηρος	inclusive
+EL386	n	re	no	απατεών	conservative
+EL294	n	an	no	άρπαγας	conservative
+EL272	n	pa	yes	υπερασπιστής	inclusive
+EL927	n	an	no	strigiformes	inclusive
+EL1327	n	svp	no	dallier	conservative
+EL650	n	ddp	yes	δύσμορφος	inclusive
+EL2277	n	an	no	βατράχι	inclusive
+EL302	n	asf	no	patsy	conservative
+EL1609	n	dmc	yes	pseud	conservative
+EL111	n	ddp	yes	αναλφάβητος	inclusive
+EL991	n	cds	no	απορρίπτω	conservative
+EL1116	n	qas	no	ρείθρα	inclusive
+EL721	n	an	no	Ερίφιον	inclusive
+EL228	n	cds	no	οίκους ανοχής	inclusive
+EL581	n	re	no	αλήτης	inclusive
+EL438	n	cds	no	μιγάς	inclusive
+EL605	a	dmc	yes	κακός	conservative
+EL1419	n	an	no	Όρνεο	inclusive
+EL1336	n	cds	no	φασίστες	conservative
+EL885	n	cds	no	σκραπ	conservative
+EL184	n	ddp	yes	dumbass	conservative
+EL556	n	cds	no	διογκωμένων κεφάλι	conservative
+EL571	n	cds	no	κενοδοξία	conservative
+EL318	n	ddp	yes	βλακέντιος	conservative
+EL66	n	svp	no	slothfulness	inclusive
+EL1395	n	dmc	yes	goof-off	conservative
+EL1424	n	cds	no	λογοτεχνική hack	conservative
+EL38	n	pa	yes	ακαδημαϊκή κοινότητα	inclusive
+EL646	n	ddp	yes	κουτός	inclusive
+EL1512	n	svp	no	λαιμαργία	inclusive
+EL304	n	cds	no	κούτσουρο	conservative
+EL1032	n	ps	yes	μπούφος	conservative
+EL1683	n	cds	no	διαρρήκτης	inclusive
+EL1033	n	ddp	yes	doofus	conservative
+EL1434	n	re	no	grand theft	inclusive
+EL1558	n	ddp	yes	κωλοτρυπίδα	conservative
+EL1200	n	cds	no	αμαρτωλός	conservative
+EL175	n	ddp	yes	χαζός	inclusive
+EL1758	n	svp	no	luxuria	inclusive
+EL1180	n	qas	no	ερασιτέχνης	inclusive
+EL577	n	cds	no	έτσι κ 'έτσι	conservative
+EL2330	a	ddp	yes	ανόητος	conservative
+EL2270	n	an	no	βατράχου	inclusive
+EL92	n	cds	no	σύμφυρμα	inclusive
+EL1279	n	pa	yes	ιχθυοπώλης	inclusive
+EL1566	n	is	yes	χαμηλό εισόδημα	inclusive
+EL353	n	cds	no	χάος	conservative
+EL301	n	cds	no	bas bleu	inclusive
+EL1041	n	cds	no	εγκλήματα	inclusive
+EL707	n	cds	no	υπο-φυλή	inclusive
+EL1902	n	an	no	πρόβατο	inclusive
+EL187	n	asf	no	βλάκας	conservative
+EL315	n	ddp	yes	αγαθιάρης	conservative
+EL459	n	qas	no	επιχειρηματίας	inclusive
+EL1123	n	svp	no	κοιλιόδουλος	inclusive
+EL1226	n	cds	no	προμήθεια	conservative
+EL2426	n	pr	no	διαβολογυναίκα	conservative
+EL317	n	asf	no	κουτορνίθι	conservative
+EL2126	n	cds	no	κλαυθμυρίζων	conservative
+EL1946	n	ps	yes	darkey	conservative
+EL414	n	cds	no	παλιανθρωπιά	conservative
+EL1046	n	cds	no	εγκληματίες	inclusive
+EL565	n	cds	no	ματαιοδοξία	conservative
+EL180	n	an	no	dunderhead	conservative
+EL187	n	ps	yes	βλάκας	conservative
+EL1217	n	cds	no	οικογένεια	inclusive
+EL1933	n	cds	no	narcism	inclusive
+EL187	n	asm	no	βλάκας	inclusive
+EL1402	v	asm	no	(το)κάνω	conservative
+EL103	n	asf	no	folderol	conservative
+EL686	n	an	no	familiaris	inclusive
+EL1574	n	is	yes	σχετικής φτώχειας	inclusive
+EL35	n	cds	no	παράγοντας	inclusive
+EL847	n	om	no	twink	conservative
+EL577	n	an	no	έτσι κ 'έτσι	conservative
+EL245	n	qas	no	έρμα	inclusive
+EL1119	n	qas	no	σκυλόσπιτο	inclusive
+EL491	n	ddp	yes	ατζαμής	conservative
+EL1714	n	cds	no	αποχωρητήρια	inclusive
+EL171	n	cds	no	saphead	conservative
+EL810	n	asm	no	nooky	conservative
+EL187	n	dmc	yes	βλάκας	conservative
+EL2201	a	cds	no	φοβιτσιάρης	conservative
+EL305	n	cds	no	κορόιδο	conservative
+EL1627	n	cds	no	loansharking	conservative
+EL825	n	pa	yes	δεκανέας	inclusive
+EL1737	n	pr	no	σκώρος	inclusive
+EL1136	n	pa	yes	porter	inclusive
+EL1600	n	cds	no	κακογράφος	conservative
+EL1835	n	asm	no	Μπιζέλια	inclusive
+EL2203	a	cds	no	φοβητσιάρης	conservative
+EL2276	n	an	no	άνουρα	inclusive
+EL1845	n	svp	no	αξιοπρέπεια	inclusive
+EL445	n	cds	no	καριόλη	conservative
+EL856	n	ddp	yes	χαφιές	conservative
+EL501	n	ddp	yes	αγριότητά	conservative
+EL1165	n	re	no	αδικοπραξίας	inclusive
+EL631	n	cds	no	κουφάρι	inclusive
+EL1248	n	qas	no	γεωπόνους	inclusive
+EL899	n	an	no	hemipteron	inclusive
+EL1329	n	svp	no	μελαγχολώ	conservative
+EL2218	n	pa	yes	λογιστές	inclusive
+EL2142	n	cds	no	πιετισμός	inclusive
+EL317	n	ddp	yes	κουτορνίθι	conservative
+EL1272	n	asm	no	ψάρι	inclusive
+EL546	n	qas	no	μεσαίου εισοδήματος	inclusive
+EL1096	n	om	no	tooshie	inclusive
+EL641	n	cds	no	wuss	conservative
+EL2173	a	dmc	yes	ψεύτικος	conservative
+EL1554	n	ddf	yes	σωματικές αναπηρίες	inclusive
+EL695	n	om	no	παιδί παιδεραστή	conservative
+EL581	n	cds	no	αλήτης	inclusive
+EL59	n	an	no	american bison	inclusive
+EL1959	n	ps	yes	νέγρους	inclusive
+EL1776	n	re	no	μαφία	inclusive
+EL1163	n	cds	no	παιδαγωγικές	inclusive
+EL1995	n	an	no	Κρότων ο ρίκινος	inclusive
+EL310	n	asm	no	ηλίθιος	inclusive
+EL254	n	rci	yes	χωριάτη	conservative
+EL1047	n	cds	no	αδίκημα	inclusive
+EL67	n	om	no	πρωκτική επαφή	inclusive
+EL1033	n	asf	no	doofus	conservative
+EL1529	n	cds	no	άδων σιγά	inclusive
+EL1632	n	an	no	insecta	inclusive
+EL2442	n	cds	no	συνωμοσιολόγοι	inclusive
+EL811	n	asm	no	σκατά	conservative
+EL1773	n	re	no	ιταλικής μαφίας	conservative
+EL2349	a	ddp	yes	χαζός	conservative
+EL306	n	an	no	απαλό άγγιγμα	conservative
+EL1906	n	ddp	yes	Βλακεία	conservative
+EL148	n	re	no	δυσφήμιση	conservative
+EL180	n	ddp	yes	dunderhead	conservative
+EL250	n	dmc	yes	βάρβαρη	conservative
+EL1327	n	dmc	yes	dallier	conservative
+EL2152	n	asm	no	jacking off	conservative
+EL1716	n	svp	no	φυγόπονος	conservative
+EL400	n	an	no	βούβαλος	inclusive
+EL79	n	an	no	οκνηρός	conservative
+EL1853	n	cds	no	εκβιαστής	inclusive
+EL1326	n	cds	no	φανφαρόνος	conservative
+EL1221	n	qas	no	divulgement	inclusive
+EL647	n	ddp	yes	changeling	conservative
+EL369	n	svp	no	μισαλλόδοξος	conservative
+EL1135	n	pa	yes	φρουρός πύλης	inclusive
+EL1157	n	ddf	yes	nanus	conservative
+EL389	n	dmc	yes	απατεώνων	conservative
+EL732	n	an	no	raunch	conservative
+EL371	n	cds	no	γκανγκστερισμό	inclusive
+EL877	n	ddp	yes	αγυρτεία	conservative
+EL3	n	svp	no	τεμπελιά	inclusive
+EL1206	n	dmc	yes	libertinism	conservative
+EL124	n	an	no	Εγχελυόμορφα	inclusive
+EL2157	a	cds	no	οξυδερκής	inclusive
+EL187	n	asm	no	βλάκας	conservative
+EL2177	n	an	no	Όρνιθα	inclusive
+EL2194	n	is	yes	άπορος	inclusive
+EL247	n	dmc	yes	ληστής	conservative
+EL884	n	cds	no	στερεών αποβλήτων	conservative
+EL236	n	qas	no	Όρχεις	inclusive
+EL1773	n	re	no	ιταλικής μαφίας	inclusive
+EL728	n	qas	no	μεθώ	inclusive
+EL1500	n	cds	no	οι πολλοί	inclusive
+EL2014	n	re	no	φονιάς	inclusive
+EL332	n	pr	no	rentboy	conservative
+EL1757	n	svp	no	φιληδονία	inclusive
+EL2293	n	an	no	hirudinea	inclusive
+EL1009	n	dmc	yes	παραπλανητικές	conservative
+EL1343	n	asm	no	Κύαμος	inclusive
+EL2252	a	dmc	yes	βρόμικος	inclusive
+EL1345	n	asm	no	κουκκί	inclusive
+EL1581	n	ddp	yes	ανίκανος	conservative
+EL1539	n	cds	no	λατρεία των ειδώλων	inclusive
+EL2033	n	ps	yes	Βάνδαλοι	inclusive
+EL2080	n	qas	no	κακή καπέλο	conservative
+EL1071	n	svp	no	αηδία	inclusive
+EL247	n	cds	no	ληστής	conservative
+EL581	n	dmc	yes	αλήτης	inclusive
+EL109	n	cds	no	Ζηλωτές	inclusive
+EL2466	n	re	no	λύσσα	inclusive
+EL2266	n	an	no	batrachian	inclusive
+EL2320	a	svp	no	ασελγής	conservative
+EL842	n	or	no	ομοφυλόφιλος	conservative
+EL574	n	cds	no	git	conservative
+EL175	n	asf	no	χαζός	conservative
+EL1721	n	an	no	Μαλάκια	inclusive
+EL1564	n	is	yes	άποροι	inclusive
+EL1794	n	cds	no	paparazzo	inclusive
+EL758	n	qas	no	common people	inclusive
+EL696	n	ps	yes	Κινέζος	inclusive
+EL512	n	an	no	Δαμάλι	inclusive
+EL490	n	dmc	yes	fumbler	conservative
+EL2019	n	re	no	θανάτωση	inclusive
+EL604	a	ddf	yes	άσχημος	inclusive
+EL2076	n	qas	no	ταραξίας	conservative
+EL1849	n	cds	no	superbia	conservative
+EL1570	n	is	yes	ένδεια	inclusive
+EL305	n	an	no	κορόιδο	inclusive
+EL1416	n	an	no	ευρασίας griffon	inclusive
+EL2067	v	is	yes	ικετεύω	inclusive
+EL751	n	asm	no	κοκοράκι	inclusive
+EL170	n	asf	no	μικρόνους	conservative
+EL1390	n	an	no	αντιλόπη γκνου	inclusive
+EL2468	n	re	no	βία	inclusive
+EL1650	n	asm	no	Πούτσα	inclusive
+EL1233	n	cds	no	pandar	inclusive
+EL338	n	dmc	yes	αναλήθεια	inclusive
+EL1814	n	qas	no	ενορίτης	inclusive
+EL1960	n	ps	yes	οι μαύρες γυναίκες	inclusive
+EL1335	n	re	no	γκάνγκστερ	inclusive
+EL2298	a	qas	no	συγκινησιακός	conservative
+EL302	n	cds	no	patsy	conservative
+EL302	n	an	no	patsy	conservative
+EL1793	n	cds	no	παπαράτσι	inclusive
+EL26	n	re	no	κατάχρηση	inclusive
+EL1582	n	ddp	yes	άγνοια	conservative
+EL1230	n	cds	no	μαστροπεία	inclusive
+EL1277	n	pa	yes	φωνακλού	inclusive
+EL2055	n	qas	no	διακονιάρης	conservative
+EL1867	n	cds	no	ακατέργαστα λύματα	inclusive
+EL150	n	re	no	συκοφαντία	inclusive
+EL1772	n	re	no	Μαφία	conservative
+EL2344	n	an	no	φίδι	conservative
+EL675	n	cds	no	λαξευτής	conservative
+EL533	n	qas	no	αγρότης	inclusive
+EL2213	n	pr	no	δημοκοπία	conservative
+EL588	n	cds	no	όχλος	conservative
+EL1156	n	an	no	νάνος	conservative
+EL183	n	an	no	fuckhead	conservative
+EL2440	n	ps	yes	κόκκινη κάρτα	inclusive
+EL187	n	cds	no	βλάκας	conservative
+EL430	n	cds	no	προσβάλλω	conservative
+EL880	n	cds	no	θραύσματα	conservative
+EL1024	a	ddp	yes	αφελής	conservative
+EL2295	n	an	no	βδέλλα	inclusive
+EL701	n	cds	no	φυλές	inclusive
+EL1504	n	dmc	yes	άστεγο	inclusive
+EL672	n	cds	no	defrauder	conservative
+EL2477	n	dmc	yes	αρνησίθρησκος	conservative
+EL2470	n	re	no	βίαιη	inclusive
+EL2219	n	pa	yes	ελεγκτής	inclusive
+EL766	n	cds	no	αυτοικανοποίηση	inclusive
+EL1234	n	cds	no	σωματέμπορος	inclusive
+EL510	n	pr	no	bos taurus	inclusive
+EL1904	n	an	no	πρόβατα	inclusive
+EL780	n	pa	yes	prof	inclusive
+EL566	n	svp	no	αρχοντιλίκι	conservative
+EL1919	n	an	no	μαλάκιο	inclusive
+EL2141	n	cds	no	religiousism	inclusive
+EL2416	n	om	no	cross-dresser	inclusive
+EL1491	n	ps	yes	εβραίος	inclusive
+EL1223	n	qas	no	αποκάλυψη	inclusive
+EL1801	n	cds	no	chawbacon	conservative
+EL2250	n	cds	no	groveler	conservative
+EL1227	n	cds	no	νταβατζήδες	conservative
+EL2460	n	cds	no	αργυρώνητος	inclusive
+EL1730	n	an	no	culicidae	inclusive
+EL37	n	pa	yes	ακαδημαϊκής κοινότητας	inclusive
+EL2193	a	asm	no	καστανός	inclusive
+EL1872	n	ps	yes	μισό-φυλή	conservative
+EL461	n	an	no	κερατάς	conservative
+EL963	n	ps	yes	υβρίδιο	inclusive
+EL487	n	qas	no	bumbler	conservative
+EL865	n	cds	no	δειλία	conservative
+EL98	n	asm	no	απόφυση	inclusive
+EL509	n	pr	no	Αγελάδα	inclusive
+EL1559	n	ddp	yes	παράλογο	conservative
+EL515	n	an	no	αγελάδα	inclusive
+EL1016	n	pr	no	συμβίωση	inclusive
+EL2187	n	cds	no	βρέφη	inclusive
+EL1440	n	cds	no	κλέφτες	inclusive
+EL1050	n	an	no	diddly-σκατά	conservative
+EL310	n	cds	no	ηλίθιος	conservative
+EL613	n	ddp	yes	αιχμάλωτος	inclusive
+EL1527	n	an	no	ύαινα	inclusive
+EL2318	a	svp	no	λάγνος	conservative
+EL519	n	cds	no	αρχιμαφιόζος	inclusive
+EL1855	n	cds	no	λείψανα	inclusive
+EL352	n	cds	no	topsy-turvyness	inclusive
+EL647	n	ps	yes	changeling	conservative
+EL542	n	om	no	παιδεραστής	inclusive
+EL172	n	an	no	ανόητος	conservative
+EL1253	n	re	no	αποσπάσουν	inclusive
+EL2180	n	an	no	Κόκκορας	inclusive
+EL524	n	asm	no	καφέ	inclusive
+EL174	n	an	no	ανόητο	conservative
+EL886	n	an	no	cimicidae	inclusive
+EL2127	n	cds	no	bellyacher	conservative
+EL1450	n	cds	no	μικρός για θελήματα	inclusive
+EL1958	n	ps	yes	μαύρη κοινότητα	inclusive
+EL17	n	qas	no	βοηθός ιερέα	inclusive
+EL1156	n	ddf	yes	νάνος	conservative
+EL590	n	cds	no	μάζα	conservative
+EL998	n	cds	no	hoaxer	conservative
+EL1137	n	re	no	νεανική παραβατική	conservative
+EL1334	n	cds	no	μαφιόζου	inclusive
+EL2105	v	qas	no	επισκευάζω	inclusive
+EL1212	n	dmc	yes	σπάταλη	inclusive
+EL1022	n	pr	no	αυλικός	inclusive
+EL328	n	pr	no	floozy	conservative
+EL271	n	pa	yes	υποστηρικτής	inclusive
+EL1587	n	cds	no	pompousness	inclusive
+EL5	n	svp	no	acedia	inclusive
+EL295	n	an	no	αρπακτικό	conservative
+EL835	n	om	no	queer	conservative
+EL189	n	ddp	yes	αμόρφωτο άτομο	conservative
+EL1023	a	ddp	yes	εύπιστος	conservative
+EL127	n	an	no	Μικροπανίδα	inclusive
+EL890	n	an	no	συγκεκαλυμμένη συσκευή ακρόασης	inclusive
+EL410	n	cds	no	κατεργαριά	conservative
+EL2480	n	dmc	yes	προδότης	conservative
+EL1125	n	svp	no	trencher	inclusive
+EL1461	n	is	yes	φτωχό άτομο	inclusive
+EL1776	n	re	no	μαφία	conservative
+EL1448	n	qas	no	tagalong	conservative
+EL2461	n	an	no	σκουλήκια	inclusive
+EL2248	n	cds	no	χαμερπής	conservative
+EL1981	n	qas	no	αγρομισθωτής	inclusive
+EL1852	n	or	no	γλυκοκολοκύθα	inclusive
+EL235	n	asm	no	όρχι	inclusive
+EL1755	n	cds	no	βυζανιάρικο	inclusive
+EL1436	n	cds	no	μικροκλοπές	inclusive
+EL2235	n	re	no	ληστείες	inclusive
+EL1422	n	an	no	χοίρος	inclusive
+EL1485	n	ps	yes	Εβραίοι	inclusive
+EL394	n	cds	no	εκτός νόμου	inclusive
+EL490	n	qas	no	fumbler	conservative
+EL587	n	an	no	τεμπέλης	inclusive
+EL1285	n	an	no	ψύλλος	inclusive
+EL378	n	cds	no	συνάφι	inclusive
+EL1930	n	cds	no	κλέφτης	inclusive
+EL169	n	ddp	yes	ιδιώτης	conservative
+EL841	n	or	no	γκέι	conservative
+EL2329	a	qas	no	μικρομεσαίος	inclusive
+EL2172	a	cds	no	κοινότοπος	inclusive
+EL150	n	re	no	συκοφαντία	conservative
+EL2478	n	dmc	yes	αποστάτης	conservative
+EL2220	n	pa	yes	λογίστρια	inclusive
+EL1055	a	cds	no	εγκληματικός	inclusive
+EL2327	n	ddp	yes	μωρία	inclusive
+EL1260	n	om	no	Μάραθος	inclusive
+EL940	n	an	no	κροκόδειλος	inclusive
+EL1472	n	om	no	ίδια σεξ	inclusive
+EL1777	n	re	no	μαφιόζων	inclusive
+EL122	n	an	no	γένους anguilla	inclusive
+EL1779	n	re	no	Κόζα Νόστρα	conservative
+EL568	n	cds	no	αλαζονεία	conservative
+EL170	n	ddp	yes	μικρόνους	conservative
+EL2140	n	an	no	ψείρες	inclusive
+EL1489	n	ps	yes	ισραηλίτης	inclusive
+EL1441	n	re	no	λεία	inclusive
+EL775	n	qas	no	casteism	inclusive
+EL2031	n	cds	no	τοκογλυφία	conservative
+EL555	n	cds	no	εγωισμό	conservative
+EL505	n	svp	no	βαρετό	inclusive
+EL2255	a	dmc	yes	ακάθαρτος	inclusive
+EL857	n	pr	no	moo-αγελάδας	inclusive
+EL844	n	om	no	homophile	inclusive
+EL1530	n	cds	no	crooners	inclusive
+EL2066	v	qas	no	ταλανίζω	conservative
+EL1291	n	cds	no	κοπάδι	inclusive
+EL260	n	qas	no	κάπηλος	inclusive
+EL49	n	ddp	yes	ιδιωτεία	inclusive
+EL1843	n	pa	yes	κρεοπωλείο χοιρινό	inclusive
+EL673	n	cds	no	chiseller	inclusive
+EL303	n	asf	no	πτώση τύπος	conservative
+EL1180	n	qas	no	ερασιτέχνης	conservative
+EL339	n	cds	no	ψεύδος	inclusive
+EL255	n	ps	yes	βάρβαρος	conservative
+EL237	n	qas	no	αρχίδια	inclusive
+EL1675	n	cds	no	mussiness	conservative
+EL1429	n	an	no	παλιάλογο	inclusive
+EL1534	n	qas	no	ιδεολόγος	inclusive
+EL1909	n	pa	yes	βοσκοπούλα	inclusive
+EL2387	n	re	no	τρομοκράτες	conservative
+EL1731	n	an	no	κουνούπια	inclusive
+EL717	n	an	no	Ερίφιο	inclusive
+EL2155	n	cds	no	αυνανισμός	conservative
+EL1229	n	cds	no	προστάτης	inclusive
+EL181	n	an	no	μπούμπουρας	conservative
+EL96	n	asm	no	εξάρτημα	inclusive
+EL2258	a	svp	no	αδηφάγος	inclusive
+EL990	n	or	no	cucurbita maxima	inclusive
+EL966	n	cds	no	αρχάριος	conservative
+EL233	n	svp	no	σπαγγοραμμένος	conservative
+EL938	n	an	no	κροκοδειλίδες	inclusive
+EL1932	n	dmc	yes	μισο-πίντα	conservative
+EL91	n	cds	no	omnium-gatherum	inclusive
+EL359	n	ps	yes	βεδουίνοι	inclusive
+EL1063	n	ps	yes	καθίκι	conservative
+EL1891	n	an	no	μικροοργανισμού	inclusive
+EL103	n	ddp	yes	folderol	conservative
+EL186	n	ddp	yes	muttonhead	conservative
+EL968	n	cds	no	rookie	conservative
+EL543	n	asm	no	γαμώ	conservative
+EL11	n	svp	no	απαθείς	inclusive
+EL2123	n	cds	no	sniveller	conservative
+EL1298	n	asm	no	πόσθη	inclusive
+EL905	n	cds	no	δολιότητα	inclusive
+EL1313	n	cds	no	Φραμασόνοι	inclusive
+EL367	n	pa	yes	υπηρέτης ξενοδοχείου	inclusive
+EL1465	n	om	no	ανδρική σεξουαλικότητα	inclusive
+EL387	n	dmc	yes	κάθαρμα	conservative
+EL324	n	pr	no	τσούλα	conservative
+EL65	n	svp	no	νωθρότητα	inclusive
+EL2360	n	pr	no	lampyris noctiluca	inclusive
+EL651	n	pr	no	σκύλα	conservative
+EL2165	n	re	no	plagiarise	inclusive
+EL1939	n	cds	no	αυτο-λατρεία	inclusive
+EL174	n	asf	no	ανόητο	conservative
+EL643	n	an	no	γλυκανάλατος	conservative
+EL1256	n	or	no	λεπτολογία	inclusive
+EL680	n	cds	no	συρφετός	conservative
+EL1121	n	svp	no	καλοφαγάς	conservative
+EL335	n	pr	no	αγόρι μισθώματος	conservative
+EL1912	n	pa	yes	βοσκός	inclusive
+EL2333	n	an	no	κόκκινο τύμπανο	inclusive
+EL476	n	cds	no	boo-boo	inclusive
+EL590	n	cds	no	μάζα	inclusive
+EL934	n	asm	no	twirp	conservative
+EL674	n	dmc	yes	grifter	conservative
+EL2163	n	re	no	Πειρατές	inclusive
+EL129	n	ddp	yes	Μακροπανίδα	inclusive
+EL1053	n	an	no	diddlysquat	conservative
+EL1257	n	om	no	μάραθος	inclusive
+EL976	n	asf	no	twat	conservative
+EL513	n	an	no	βόας	inclusive
+EL2145	a	svp	no	έξαλλος	inclusive
+EL2324	n	ddp	yes	αφροσύνη	inclusive
+EL884	n	cds	no	στερεών αποβλήτων	inclusive
+EL1928	n	or	no	σκουός	inclusive
+EL1300	n	asm	no	φάουλ	inclusive
+EL2139	n	an	no	phthiraptera	inclusive
+EL62	n	cds	no	amour propre	conservative
+EL182	n	an	no	τούβλο	conservative
+EL2254	a	dmc	yes	βρώμικος	inclusive
+EL310	n	or	no	ηλίθιος	conservative
+EL1099	n	om	no	άπω	inclusive
+EL567	n	cds	no	έπαρση	conservative
+EL180	n	asf	no	dunderhead	conservative
+EL243	n	asm	no	των όρχεων	inclusive
+EL1245	n	qas	no	ιδιοκτήτης φάρμας	inclusive
+EL859	n	an	no	κότα	conservative
+EL2323	n	cds	no	επιστημονισμό	inclusive
+EL393	n	dmc	yes	ληστές	inclusive
+EL1719	n	an	no	μαλάκια	inclusive
+EL995	n	cds	no	φαρσέρ	conservative
+EL673	n	re	no	chiseller	inclusive
+EL678	n	an	no	ragtag	conservative
+EL2071	v	cds	no	μπουκώνομαι	inclusive
+EL1606	n	dmc	yes	ανήθικη	inclusive
+EL1097	n	om	no	ουραίο	inclusive
+EL1373	n	cds	no	περίεργος-parker	conservative
+EL518	n	cds	no	αφεντικό του εγκλήματος	inclusive
+EL878	n	qas	no	αστικών αποβλήτων	inclusive
+EL31	n	re	no	κακομεταχείριση	inclusive
+EL604	a	ddf	yes	άσχημος	conservative
+EL1634	n	an	no	έντομα	inclusive
+EL2181	n	an	no	Πετεινός	inclusive
+EL1068	n	cds	no	λέρα	inclusive
+EL1620	n	svp	no	gorger	conservative
+EL1182	n	an	no	escargots	inclusive
+EL2052	n	qas	no	freeloader	conservative
+EL846	n	om	no	λεσβία	inclusive
+EL1499	n	cds	no	μάζες	conservative
+EL646	n	ddp	yes	κουτός	conservative
+EL1460	n	is	yes	-δεν έχουν	inclusive
+EL227	n	cds	no	αθλητικές σπίτι	inclusive
+EL819	n	an	no	κουνέλι	inclusive
+EL648	n	asf	no	επιβραδύνουν	conservative
+EL1040	n	cds	no	εγκληματική πράξη	inclusive
+EL929	n	an	no	athene noctua	inclusive
+EL734	n	asm	no	ψωλή	conservative
+EL330	n	pr	no	αγόρια ενοικίαση	conservative
+EL139	n	ddp	yes	επιφύτων	inclusive
+EL1299	n	asm	no	ακροβυστία	inclusive
+EL175	n	cds	no	χαζός	conservative
+EL2023	n	ddf	yes	τυφλό άτομο	inclusive
+EL14	n	svp	no	απάθεια	inclusive
+EL576	n	an	no	αποβράσματα τσάντα	conservative
+EL569	n	svp	no	αυθαιρεσία	conservative
+EL1970	n	ps	yes	ισπανικός	inclusive
+EL839	n	om	no	gay	conservative
+EL140	n	an	no	Ζώα	inclusive
+EL321	n	an	no	πόρνη	conservative
+EL256	n	svp	no	πλεονεκτικότητα	inclusive
+EL303	n	asm	no	πτώση τύπος	conservative
+EL1905	n	an	no	Προβατίνα	inclusive
+EL102	n	asf	no	codswallop	conservative
+EL141	n	an	no	κίνηση είναι	inclusive
+EL2377	n	re	no	σεξουαλικά αδικήματα	inclusive
+EL671	n	re	no	καμόρα	inclusive
+EL353	n	cds	no	χάος	inclusive
+EL130	n	ddp	yes	πανίδα	inclusive
+EL144	n	ddp	yes	μακροπανίδας	inclusive
+EL394	n	re	no	εκτός νόμου	inclusive
+EL742	n	asm	no	εργαλείο	conservative
+EL1884	n	an	no	μικρόβιο	inclusive
+EL1073	n	svp	no	δυσάρεστες	inclusive
+EL13	n	svp	no	αδιαφορία	inclusive
+EL1809	n	qas	no	εξωπαράσιτα	inclusive
+EL1381	n	cds	no	intermediator	inclusive
+EL1058	n	cds	no	δεκάρα μυθιστόρημα	inclusive
+EL627	n	an	no	άνθρωπος-τρώγων	inclusive
+EL685	n	an	no	άγκιστρο	inclusive
+EL2433	n	cds	no	αποχέτευση	inclusive
+EL551	n	qas	no	δουλειά γραφείου	inclusive
+EL1139	n	cds	no	oodles	inclusive
+EL2418	n	om	no	τραβεστί	inclusive
+EL253	n	qas	no	αγροίκος	conservative
+EL2109	v	an	no	λυσσομανώ	conservative
+EL1895	n	an	no	ζωύφια	inclusive
+EL2388	n	re	no	τρομοκρατική πράξη	inclusive
+EL1937	n	cds	no	idiolatry	inclusive
+EL504	n	svp	no	βαρεμάρα	inclusive
+EL1848	n	cds	no	οίηση	conservative
+EL2447	n	cds	no	θεωρία συνωμοσίας	inclusive
+EL2439	n	ps	yes	κάρτα ποινή	inclusive
+EL594	n	is	yes	villainess	conservative
+EL90	n	cds	no	σμίξει-mangle	inclusive
+EL86	n	cds	no	θεατρινισμός	inclusive
+EL7	n	svp	no	Αβουλησία	inclusive
+EL548	n	qas	no	μεσαία τάξη	inclusive
+EL2098	v	qas	no	μακιγιάρω	inclusive
+EL484	n	cds	no	θρησκοληψία	conservative
+EL1335	n	cds	no	γκάνγκστερ	inclusive
+EL837	n	om	no	αλλόκοτος	conservative
+EL1143	n	cds	no	scads	inclusive
+EL1791	n	om	no	paederasty	inclusive
+EL2396	n	re	no	δοκιμασία	inclusive
+EL1740	n	dmc	yes	μοτσαρέλα	inclusive
+EL1972	n	cds	no	υπερσεξουαλικότητα	conservative
+EL1697	n	cds	no	δημόσια ευκολία	inclusive
+EL1132	n	pa	yes	φρουρά πόρτα	inclusive
+EL187	n	cds	no	βλάκας	inclusive
+EL178	n	an	no	dunce	conservative
+EL1273	n	asm	no	ψάρια	inclusive
+EL2051	v	qas	no	εκτελώ αδέξια	conservative
+EL1030	n	an	no	despoiler	inclusive
+EL1743	n	an	no	αργοκίνητος	conservative
+EL1725	n	ps	yes	Μογγόλοι	inclusive
+EL446	n	asm	no	μαλάκας	conservative
+EL310	n	cds	no	ηλίθιος	inclusive
+EL698	n	cds	no	συγγενείς	inclusive
+EL2268	n	an	no	βατράχια	inclusive
+EL180	n	or	no	dunderhead	conservative
+EL1393	n	svp	no	άχρηστος	conservative
+EL656	n	re	no	συκοφάντηση	inclusive
+EL163	n	asm	no	ανοησία	conservative
+EL1389	n	an	no	caprinae	inclusive
+EL1094	n	om	no	κώλος	inclusive
+EL391	n	cds	no	εγκληματίας	conservative
+EL61	n	svp	no	φιλαυτία	conservative
+EL145	n	an	no	Μεσοπανίδα	inclusive
+EL2404	n	re	no	βασανίζουν	inclusive
+EL683	n	cds	no	σκύβαλο	conservative
+EL95	n	qas	no	κυκεώνας	inclusive
+EL2278	n	an	no	bufo	inclusive
+EL517	n	pr	no	βόδια	inclusive
+EL1514	n	svp	no	υπερκατανάλωση τροφής	inclusive
+EL447	n	cds	no	νόθος	inclusive
+EL51	n	ddp	yes	ηλιθιότητα	inclusive
+EL323	n	cds	no	μαστροπός	inclusive
+EL811	n	an	no	σκατά	conservative
+EL1773	n	cds	no	ιταλικής μαφίας	conservative
+EL836	n	om	no	αδερφή	inclusive
+EL587	n	svp	no	τεμπέλης	conservative
+EL106	n	cds	no	Ζηλωτής	inclusive
+EL710	n	pa	yes	υπάλληλος	inclusive
+EL1496	n	cds	no	λαός	conservative
+EL2044	n	an	no	ολίσθηση της γλώσσας	inclusive
+EL2006	n	re	no	σκοτώνει	inclusive
+EL1847	n	cds	no	εγωισμός	conservative
+EL321	n	pr	no	πόρνη	conservative
+EL2494	n	ps	yes	romanis	inclusive
+EL1605	n	dmc	yes	ανήθικο	inclusive
+EL2221	a	cds	no	ταγκός	inclusive
+EL130	n	an	no	πανίδα	inclusive
+EL474	n	cds	no	λάθος	inclusive
+EL1922	n	ps	yes	μογγολοειδείς	conservative
+EL1010	n	cds	no	δημαγωγική	conservative
+EL314	n	ddp	yes	κοροϊδεύω	conservative
+EL2081	v	cds	no	πεθάνει	inclusive
+EL284	n	qas	no	αρχοντική	inclusive
+EL676	n	cds	no	αναίδεια	conservative
+EL1915	n	asm	no	flouter	conservative
+EL1036	n	cds	no	παραβατικότητα	inclusive
+EL935	n	ddp	yes	twerp	conservative
+EL175	n	or	no	χαζός	conservative
+EL2257	a	dmc	yes	ρυπαρός	inclusive
+EL193	n	an	no	γαϊδούρι	inclusive
+EL211	n	is	yes	τσιγκούνη	conservative
+EL205	n	svp	no	Εφτά θανάσιμα αμαρτήματα	inclusive
+EL467	n	cds	no	γκάφα	inclusive
+EL955	n	cds	no	interfertility	inclusive
+EL179	n	an	no	knucklehead	conservative
+EL2004	n	re	no	δολοφονίας πρώτου βαθμού	inclusive
+EL839	n	om	no	gay	inclusive
+EL1996	n	an	no	τσιμπούρια	inclusive
+EL2189	n	cds	no	νεογνική	inclusive
+EL1117	n	qas	no	κυνοτροφείο	inclusive
+EL2403	n	re	no	βασανιστήρια	inclusive
+EL1137	n	cds	no	νεανική παραβατική	conservative
+EL239	n	asm	no	όρχις	inclusive
+EL2068	v	is	yes	εκλιπαρώ	inclusive
+EL1779	n	re	no	Κόζα Νόστρα	inclusive
+EL1059	n	cds	no	μυθιστορήματα δεκάρα	inclusive
+EL448	n	cds	no	νόθο παιδί	inclusive
+EL1771	n	re	no	cosa nostra	inclusive
+EL1426	a	cds	no	πονηρός	conservative
+EL1124	n	svp	no	παράσιτος	conservative
+EL2358	n	ddp	yes	σαχλαμάρες	inclusive
+EL1776	n	cds	no	μαφία	inclusive
+EL689	n	an	no	εμπλοκέας	inclusive
+EL191	n	an	no	γάιδαρος	inclusive
+EL1766	n	cds	no	αστυνομικίνα	conservative
+EL2212	n	pr	no	χαλαρή γυναίκα	conservative
+EL1086	n	om	no	κοιλιοπλευρική	inclusive
+EL370	n	dmc	yes	φανατικός	conservative
+EL87	n	cds	no	αστείο	inclusive
+EL1244	n	qas	no	μέλος γεωργικού συλλόγου	inclusive
+EL507	n	pr	no	αγελάδες	inclusive
+EL570	n	svp	no	conceitedness	conservative
+EL841	n	om	no	γκέι	conservative
+EL54	n	pa	yes	τυπολατρία	inclusive
+EL715	n	an	no	γίδα	inclusive
+EL1120	n	qas	no	ρείθρο	inclusive
+EL1503	n	cds	no	ιεράρχης	inclusive
+EL1266	n	dmc	yes	δυσοσμία	conservative
+EL1917	n	cds	no	γρίφος	conservative
+EL1842	n	is	yes	φτωχοί άνθρωποι	inclusive
+EL1303	n	cds	no	ελευθερότεκτων	inclusive
+EL1447	n	qas	no	κρεμάστρα-on	conservative
+EL1655	n	asm	no	του πέους	inclusive
+EL1147	n	cds	no	gobs	inclusive
+EL1240	n	qas	no	fieldhand	inclusive
+EL1349	n	asm	no	Κουκιά	inclusive
+EL1935	n	cds	no	ναρκισσιστής	inclusive
+EL211	n	an	no	τσιγκούνη	conservative
+EL1456	n	pr	no	σεξουαλικών υπηρεσιών	conservative
+EL759	n	qas	no	κοινό άνθρωπο	inclusive
+EL756	n	qas	no	κοινό πρόσωπο	inclusive
+EL933	n	cds	no	wanker	conservative
+EL568	n	cds	no	αλαζονεία	inclusive
+EL2034	n	an	no	έχιδνα	inclusive
+EL55	n	pa	yes	ακαδημαϊσμό	inclusive
+EL564	n	qas	no	κομπασμός	inclusive
+EL2299	n	cds	no	μπράβους	conservative
+EL817	n	asm	no	βίδωμα	conservative
+EL924	n	an	no	γλαύκα	inclusive
+EL364	n	dmc	yes	fabricator	conservative
+EL233	n	is	yes	σπαγγοραμμένος	conservative
+EL1312	n	cds	no	Μασόνοι	inclusive
+EL306	n	asm	no	απαλό άγγιγμα	conservative
+EL2002	n	re	no	φόνος	inclusive
+EL1484	n	ps	yes	εβραϊκή παράδοση	inclusive
+EL166	n	an	no	χαζομάρα	conservative
+EL1165	n	dmc	yes	αδικοπραξίας	inclusive
+EL488	n	dmc	yes	κακοτέχνης	conservative
+EL2259	a	svp	no	αχόρταγος	inclusive
+EL1925	n	pr	no	κοσμικούς	inclusive
+EL2153	n	cds	no	σπασμωδικές off	conservative
+EL2449	n	cds	no	Θεωρίες συνωμοσίας	inclusive
+EL1631	n	cds	no	loanshark	inclusive
+EL360	n	an	no	βοοειδή	inclusive
+EL2169	n	re	no	plagiarizing	inclusive
+EL2224	n	or	no	ρέβα	inclusive
+EL678	n	qas	no	ragtag	conservative
+EL2393	n	asm	no	φαλλό	inclusive
+EL102	n	an	no	codswallop	conservative
+EL334	n	pr	no	καριόλα	conservative
+EL650	n	asf	no	δύσμορφος	conservative
+EL2016	n	re	no	δολοφόνισσα	inclusive
+EL584	n	dmc	yes	απραξίας	conservative
+EL1717	n	dmc	yes	slackers	conservative
+EL596	n	cds	no	σακαράκα	inclusive
+EL491	n	qas	no	ατζαμής	conservative
+EL872	n	ddp	yes	τσαρλατάνος	conservative
+EL387	n	ddp	yes	κάθαρμα	conservative
+EL360	n	pr	no	βοοειδή	inclusive
+EL1888	n	an	no	μικροοργανισμός	inclusive
+EL645	n	cds	no	κρετίνος	inclusive
+EL2508	n	ps	yes	Ζουλού	inclusive
+EL532	n	qas	no	αγροτών	inclusive
+EL252	n	qas	no	άγριος	conservative
+EL249	n	ddp	yes	Βάρβαροι	conservative
+EL257	n	an	no	αγριότητα	conservative
+EL1599	n	cds	no	καλλιγράφος	conservative
+EL1252	n	re	no	εκβιασμούς	inclusive
+EL615	n	ddp	yes	φυλακισμένος	inclusive
+EL1862	n	qas	no	ρητορική	inclusive
+EL340	n	qas	no	ψέμα	conservative
+EL1231	n	cds	no	νταβατζής	inclusive
+EL442	n	cds	no	απεργοσπάστες	inclusive
+EL1724	n	ps	yes	μογγόλων	inclusive
+EL1052	n	an	no	diddley	conservative
+EL1137	n	dmc	yes	νεανική παραβατική	conservative
+EL342	n	dmc	yes	ψέμμα	inclusive
+EL1216	n	cds	no	φρατρίας	inclusive
+EL309	n	or	no	πουτίγκα κεφάλι	conservative
+EL672	n	re	no	defrauder	inclusive
+EL2286	n	cds	no	wisenheimer	conservative
+EL1034	n	ps	yes	εκριζωτής	conservative
+EL1048	n	an	no	diddlyshit	conservative
+EL576	n	dmc	yes	αποβράσματα τσάντα	conservative
+EL2465	n	pr	no	αυλικοί	inclusive
+EL769	n	cds	no	εφησυχασμό	inclusive
+EL1293	n	dmc	yes	βωμολοχίες	inclusive
+EL680	n	qas	no	συρφετός	conservative
+EL2186	n	cds	no	νεογνό	inclusive
+EL1112	n	cds	no	υπεκφεύγων	conservative
+EL1178	n	asm	no	στύση	inclusive
+EL1544	n	dmc	yes	διαβολάκι	inclusive
+EL1189	n	dmc	yes	ηθικό κίνητρο	inclusive
+EL948	n	an	no	crocodilia	inclusive
+EL2414	n	om	no	cross-dressers	inclusive
+EL325	n	an	no	πουτάνα	conservative
+EL169	n	cds	no	ιδιώτης	conservative
+EL1141	n	cds	no	δεκάδες	inclusive
+EL844	n	or	no	homophile	conservative
+EL469	n	cds	no	κακοφτιάχνω	inclusive
+EL304	n	an	no	κούτσουρο	conservative
+EL270	n	pa	yes	συνηγορών	inclusive
+EL911	n	svp	no	λαχτάρα	inclusive
+EL1693	n	dmc	yes	λωποδύτης	conservative
+EL1156	n	cds	no	νάνος	conservative
+EL1601	n	dmc	yes	cheater	conservative
+EL878	n	cds	no	αστικών αποβλήτων	inclusive
+EL1088	n	om	no	aboral	inclusive
+EL1269	n	dmc	yes	βρώμα	conservative
+EL607	n	cds	no	στόμα	inclusive
+EL587	n	dmc	yes	τεμπέλης	conservative
+EL880	n	qas	no	θραύσματα	inclusive
+EL172	n	asm	no	ανόητος	conservative
+EL338	n	cds	no	αναλήθεια	conservative
+EL269	n	pa	yes	υπέρμαχος	inclusive
+EL1562	n	ddp	yes	παράλογη	conservative
+EL1191	n	dmc	yes	ηθικό κώδικα	inclusive
+EL224	n	cds	no	σπίτι της πορνείας	inclusive
+EL1887	n	an	no	μικροοργανισμών	inclusive
+EL102	n	cds	no	codswallop	conservative
+EL164	n	asm	no	κουταμάρα	conservative
+EL128	n	ddp	yes	animalia	inclusive
+EL1126	n	svp	no	gourmandizer	conservative
+EL1751	n	cds	no	φυτό	conservative
+EL1739	n	an	no	moue	inclusive
+EL1771	n	cds	no	cosa nostra	inclusive
+EL1233	n	cds	no	pandar	conservative
+EL2483	n	an	no	limacidae	inclusive
+EL1846	n	svp	no	υπερηφάνεια	inclusive
+EL2012	n	re	no	ντετέκτιβ ανθρωποκτονιών	inclusive
+EL833	n	or	no	πούστης	conservative
+EL842	n	om	no	ομοφυλόφιλος	inclusive
+EL2048	v	qas	no	κάνω άτεχνα	conservative
+EL632	n	cds	no	θνησιμαίο	inclusive
+EL255	n	ddp	yes	βάρβαρος	conservative
+EL915	n	an	no	prickteaser	conservative
+EL568	n	svp	no	αλαζονεία	conservative
+EL884	n	qas	no	στερεών αποβλήτων	inclusive
+EL1641	n	qas	no	φύλακας της αγοράς	inclusive
+EL46	n	pa	yes	ακαδημαϊκοί	inclusive
+EL1538	n	cds	no	ειδωλολάτρες	inclusive
+EL263	n	pa	yes	σύμβουλος	inclusive
+EL1438	n	re	no	κλοπή	inclusive
+EL197	n	an	no	Γαιδούρι	inclusive
+EL744	n	asm	no	πούτσος	conservative
+EL862	n	cds	no	άνανδρος	conservative
+EL1613	n	dmc	yes	στρεψόδικος	inclusive
+EL163	n	qas	no	ανοησία	inclusive
+EL412	n	cds	no	σκανταλιά	conservative
+EL1797	n	qas	no	παράσιτο	inclusive
+EL558	n	cds	no	υπεροψία	conservative
+EL391	n	dmc	yes	εγκληματίας	conservative
+EL288	n	qas	no	Βαρώνος	inclusive
+EL2382	n	cds	no	παρασυναγωγή	inclusive
+EL2050	v	qas	no	τα θαλασσώνω	conservative
+EL2154	n	cds	no	μαλακία	conservative
+EL1653	n	cds	no	όργανο	conservative
+EL390	n	cds	no	παράγοντα δρόμο	conservative
+EL239	n	qas	no	όρχις	inclusive
+EL2273	n	an	no	frogspawn	inclusive
+EL863	n	cds	no	φοβιτσιάρης	conservative
+EL1782	n	re	no	μαφιόζος	conservative
+EL1589	n	cds	no	στόμφος	conservative
+EL1750	n	an	no	ράμφος	inclusive
+EL1610	n	dmc	yes	απατεώνα	conservative
+EL1615	n	re	no	neonaticide	inclusive
+EL2509	n	ps	yes	ζουλού	inclusive
+EL1942	n	ps	yes	nigra	conservative
+EL2164	n	re	no	λογοκλοπή	inclusive
+EL317	n	asm	no	κουτορνίθι	conservative
+EL860	n	an	no	φοβητσιάρης	conservative
+EL2446	n	cds	no	Θεωρία συνωμοσίας	inclusive
+EL220	n	cds	no	σπίτι της κακής φήμης	inclusive
+EL1783	n	an	no	στριγκλιά-κουκουβάγια	inclusive
+EL1394	n	svp	no	δεν λογαριασμό	conservative
+EL1769	n	cds	no	αξιωματικός	conservative
+EL1290	n	cds	no	ποίμνιο	inclusive
+EL2428	n	asm	no	Πτηνά	inclusive
+EL562	n	ps	yes	Βούλγαροι	inclusive
+EL1439	n	cds	no	σούφρωμα	inclusive
+EL1	n	dmc	yes	αθλιότητα	inclusive
+EL1315	n	an	no	συνοφρύουμαι	inclusive
+EL2334	n	an	no	κανάλι μπάσο	inclusive
+EL355	n	ps	yes	Βεδουίνος	inclusive
+EL917	n	an	no	παρατέω	conservative
+EL2062	n	cds	no	nouveau-riche	inclusive
+EL2386	n	re	no	τρομοκρατία	conservative
+EL1931	n	cds	no	κλέπτης	inclusive
+EL489	n	dmc	yes	θλιβερή σάκο	conservative
+EL1967	n	ps	yes	λευκό	inclusive
+EL93	n	cds	no	gallimaufry	inclusive
+EL2150	n	asm	no	δουλειά χέρι	conservative
+EL2336	n	cds	no	μελετώ εντατικά	conservative
+EL281	n	an	no	σκυλάκι	inclusive
+EL708	n	cds	no	φυλής	inclusive
+EL1375	n	cds	no	αλλοτριοπραγμών	conservative
+EL1544	n	cds	no	διαβολάκι	inclusive
+EL1332	n	svp	no	ματαιότητα	conservative
+EL2505	n	cds	no	ληστών	inclusive
+EL1011	n	cds	no	όχλο-rouser	conservative
+EL1630	n	cds	no	τοκογλύφο	conservative
+EL651	n	an	no	σκύλα	inclusive
+EL2354	a	ddp	yes	ανίκανος	inclusive
+EL302	n	asm	no	patsy	conservative
+EL1975	n	cds	no	νυμφομανία	conservative
+EL139	n	an	no	επιφύτων	inclusive
+EL895	n	an	no	chinch	inclusive
+EL340	n	cds	no	ψέμα	conservative
+EL1916	n	qas	no	βαρίδι	inclusive
+EL172	n	ddp	yes	ανόητος	conservative
+EL2159	a	cds	no	έξυπνος	inclusive
+EL614	n	ddp	yes	κρατούμενοι	inclusive
+EL953	n	ddf	yes	καμπούρης	inclusive
+EL821	n	an	no	λαγουδάκι	inclusive
+EL978	n	asf	no	μουνί	conservative
+EL1712	n	cds	no	lav	inclusive
+EL1764	n	svp	no	λάγνες	inclusive
+EL836	n	om	no	αδερφή	conservative
+EL1649	n	svp	no	αδιαλλαξία	conservative
+EL455	n	pa	yes	εργολάβος κηδείων	inclusive
+EL248	n	re	no	ληστεία	inclusive
+EL1304	n	cds	no	Τέκτονες	inclusive
+EL212	n	is	yes	φιλάργυρος	conservative
+EL1408	v	asm	no	πηδάω	conservative
+EL2287	n	cds	no	εξυπνακίας	conservative
+EL108	n	cds	no	φανατισμός	conservative
+EL2406	v	re	no	τραυματίζω	inclusive
+EL1479	n	ps	yes	εβραϊκή κοινότητα	inclusive
+EL1166	n	pa	yes	εργαζόμενος	inclusive
+EL840	n	om	no	Γκέι	inclusive
+EL1475	n	om	no	ομοφυλοφιλία	inclusive
+EL1499	n	cds	no	μάζες	inclusive
+EL684	n	an	no	σφιγκτήρας	inclusive
+EL172	n	asm	no	ανόητος	inclusive
+EL916	n	an	no	σουσουράδα	conservative
+EL992	n	qas	no	σφαγή	conservative
+EL1026	n	cds	no	απελπισμένος ποινική	inclusive
+EL771	n	qas	no	κάστα	inclusive
+EL1459	n	pr	no	πόρνες	inclusive
+EL2158	a	cds	no	οξύνους	inclusive
+EL1965	n	pa	yes	μνηστίρας	inclusive
+EL835	n	or	no	queer	conservative
+EL63	a	an	no	επίμονο	inclusive
+EL1495	n	cds	no	κοπάδια	inclusive
+EL667	n	re	no	υβριστής	conservative
+EL1339	n	asm	no	κουκιά	inclusive
+EL2263	a	dmc	yes	ψευδείς	conservative
+EL131	n	ddp	yes	Μετάζωα	inclusive
+EL977	n	asf	no	(χυδ.) γατάκι	conservative
+EL1157	n	an	no	nanus	conservative
+EL644	n	ps	yes	μεταμορφικοί	conservative
+EL1164	n	cds	no	διανοούμενος	inclusive
+EL310	n	ddp	yes	ηλίθιος	inclusive
+EL538	n	qas	no	αστική	inclusive
+EL395	n	dmc	yes	κακοποιός	conservative
+EL1208	n	dmc	yes	σπάταλο	inclusive
+EL2347	a	ddp	yes	ηλίθιος	conservative
+EL2075	v	re	no	ξεγελώ	inclusive
+EL1199	n	dmc	yes	κακό	inclusive
+EL690	n	an	no	Σκυλί	inclusive
+EL1014	n	pr	no	εταίρα	conservative
+EL2401	n	re	no	συσκευή βασανιστηρίων	inclusive
+EL1100	n	om	no	γλουτούς	inclusive
+EL2499	n	ps	yes	Γύφτος	inclusive
+EL188	n	an	no	δεν γνωρίζουν τίποτα	conservative
+EL2118	n	cds	no	σπερμολογίες	inclusive
+EL2108	v	an	no	φρενιάζω	conservative
+EL252	n	cds	no	άγριος	conservative
+EL537	n	qas	no	επιχειρηματίες	inclusive
+EL254	n	qas	no	χωριάτη	conservative
+EL954	n	ddf	yes	crookback	inclusive
+EL2261	n	qas	no	μεγαλοπρέπεια	inclusive
+EL1682	n	re	no	rustler	inclusive
+EL470	n	qas	no	flub	inclusive
+EL208	n	svp	no	avaritia	inclusive
+EL1350	n	asm	no	Κουκί	inclusive
+EL1631	n	cds	no	loanshark	conservative
+EL251	n	rci	yes	χωριάτης	conservative
+EL2363	n	re	no	βιαστής	conservative
+EL176	n	asf	no	bonehead	conservative
+EL308	n	or	no	ηλίθιο πρόσωπο	conservative
+EL185	n	asf	no	lunkhead	conservative
+EL2119	n	is	yes	ζητιάνος	conservative
+EL1640	n	qas	no	καταστηματάρχης	inclusive
+EL1249	n	cds	no	φασίστας	conservative
+EL1456	n	pr	no	σεξουαλικών υπηρεσιών	inclusive
+EL1287	n	an	no	siphonaptera	inclusive
+EL1693	n	cds	no	λωποδύτης	conservative
+EL23	n	re	no	καταχρήσεις	inclusive
+EL508	n	an	no	Βους ο ταύρος	inclusive
+EL2021	n	dmc	yes	ανθρωπάκι	inclusive
+EL932	n	cds	no	τράνταγμα-off	conservative
+EL305	n	ps	yes	κορόιδο	conservative
+EL1776	n	cds	no	μαφία	conservative
+EL1625	n	cds	no	sharking δάνειο	inclusive
+EL1784	n	an	no	megascops	inclusive
+EL1218	n	cds	no	σόι	inclusive
+EL762	n	cds	no	μπάλες-up	inclusive
+EL2423	n	om	no	παρενδυσία	inclusive
+EL97	n	asm	no	maxilliped	inclusive
+EL892	n	an	no	cimex lectularius	inclusive
+EL185	n	an	no	lunkhead	conservative
+EL1624	n	cds	no	δανεισμό χρημάτων	inclusive
+EL1597	n	cds	no	jokester	inclusive
+EL639	n	is	yes	παρίας	inclusive
+EL2044	n	cds	no	ολίσθηση της γλώσσας	inclusive
+EL1822	n	cds	no	κόμμα	inclusive
+EL76	n	om	no	πρωκτικό σεξ	inclusive
+EL2291	n	cds	no	δοκησισοφία	inclusive
+EL2300	a	qas	no	ιδεολογικός	inclusive
+EL2249	n	cds	no	μήλο λουστραδόρος	conservative
+EL1760	n	cds	no	δράστη	inclusive
+EL963	n	cds	no	υβρίδιο	inclusive
+EL154	n	re	no	βιασμός	conservative
+EL210	n	svp	no	τσιγγουνιά	inclusive
+EL395	n	is	yes	κακοποιός	conservative
+EL1561	n	ddp	yes	ανοησίες	inclusive
+EL1659	a	om	no	ομοφυλόφιλος	conservative
+EL1045	n	re	no	Εγκληματικότητα	inclusive
+EL1742	n	dmc	yes	Μοτσαρέλλα	inclusive
+EL2481	n	dmc	yes	δοσίλογος	conservative
+EL303	n	cds	no	πτώση τύπος	conservative
+EL1806	n	qas	no	παράσιτα	inclusive
+EL72	n	om	no	buggery	inclusive
+EL1702	n	cds	no	πλύνετε δωμάτιο	inclusive
+EL1520	n	cds	no	Ύβρις	conservative
+EL120	n	an	no	χέλι	inclusive
+EL1463	n	om	no	μη-δυτικού έννοιες της ανδρικής σεξουαλικότητας	inclusive
+EL1820	n	svp	no	δεκάρα-τσίμπημα	inclusive
+EL2491	n	ps	yes	ρομά	inclusive
+EL588	n	ddp	yes	όχλος	conservative
+EL1579	n	svp	no	αδράνεια	inclusive
+EL394	n	dmc	yes	εκτός νόμου	conservative
+EL2075	v	asm	no	ξεγελώ	conservative
+EL297	n	cds	no	εκτός από	inclusive
+EL479	n	cds	no	line-shooter	conservative
+EL1271	n	cds	no	wangler	conservative
+EL2385	n	cds	no	επιπολαιότητα	inclusive
+EL2275	n	an	no	άκερκα	inclusive
+EL2205	n	cds	no	πρωταγωνιστική	inclusive
+EL641	n	an	no	wuss	conservative
+EL195	n	an	no	γαϊδούρια	inclusive
+EL1563	n	ddp	yes	αερολογήματα	conservative
+EL2271	n	an	no	salientian	inclusive
+EL1379	n	cds	no	κατασκοπεύω	conservative
+EL2046	n	an	no	chaser γυναίκα	conservative
+EL1759	n	svp	no	ηδυπάθεια	inclusive
+EL2297	a	qas	no	μεσαιωνικός	inclusive
+EL988	n	cds	no	διαβούλιο	inclusive
+EL947	n	an	no	crocodilians	inclusive
+EL1940	n	ps	yes	αράπης	conservative
+EL1619	a	is	yes	δυσαρεστημένοι	inclusive
+EL2015	n	cds	no	καιροσκόπος	conservative
+EL1932	n	cds	no	μισο-πίντα	conservative
+EL1047	n	re	no	αδίκημα	inclusive
+EL574	n	an	no	git	conservative
+EL1176	n	asm	no	σκληρή-on	inclusive
+EL1542	a	an	no	μίζερος	conservative
+EL866	n	cds	no	ανανδρία	inclusive
+EL1209	n	dmc	yes	σπάταλος	inclusive
+EL1044	n	re	no	παράνομες δραστηριότητες	inclusive
+EL1590	n	cds	no	αυθάδεια	conservative
+EL618	n	cds	no	βαγόνι τρένου	inclusive
+EL1262	n	or	no	Μάραθρο	inclusive
+EL827	n	cds	no	newswriter	inclusive
+EL673	n	dmc	yes	chiseller	conservative
+EL1768	n	cds	no	αστυνομικοί	inclusive
+EL996	n	cds	no	παίζων παιγνίδια εις βάρος άλλων	conservative
+EL136	n	ddp	yes	ζώα	inclusive
+EL173	n	asm	no	βλαξ	conservative
+EL964	n	cds	no	άπειρος	conservative
+EL867	v	cds	no	μωρολογώ	inclusive
+EL100	n	asm	no	παραφυάδα	inclusive
+EL1651	n	asm	no	φύση	inclusive
+EL1346	n	asm	no	φάβας	inclusive
+EL1749	n	an	no	ρύγχος	inclusive
+EL1781	n	ps	yes	ostrogoth	inclusive
+EL371	n	cds	no	γκανγκστερισμό	conservative
+EL768	n	cds	no	ναρκισσισμός	inclusive
+EL2339	a	pa	yes	πολιτική	inclusive
+EL1581	n	an	no	ανίκανος	conservative
+EL1593	n	cds	no	Διδασκαλία	inclusive
+EL1692	n	cds	no	μικροκλέφτης	conservative
+EL594	n	dmc	yes	villainess	conservative
+EL794	n	or	no	λάχανα	inclusive
+EL141	n	ddp	yes	κίνηση είναι	inclusive
+EL1772	n	cds	no	Μαφία	conservative
+EL675	n	dmc	yes	λαξευτής	conservative
+EL468	n	qas	no	κακοτεχνώ	inclusive
+EL82	n	qas	no	πρωτοπαλίκαρο	inclusive
+EL1494	n	ps	yes	Οβραίοι	inclusive
+EL683	n	qas	no	σκύβαλο	conservative
+EL1255	n	re	no	αποσπάσει	inclusive
+EL585	n	cds	no	layabout	conservative
+EL930	n	ddp	yes	κρετινισμός	inclusive
+EL2504	n	cds	no	φασιστική	conservative
+EL635	n	cds	no	καζίνο	inclusive
+EL1015	n	pr	no	εταίρες	inclusive
+EL391	n	re	no	εγκληματίας	conservative
+EL1567	n	is	yes	χαμηλού εισοδήματος	inclusive
+EL1773	n	cds	no	ιταλικής μαφίας	inclusive
+EL2431	n	asm	no	avafauna	inclusive
+EL259	n	qas	no	έμπορος	inclusive
+EL1611	a	dmc	yes	αγενής	conservative
+EL748	n	cds	no	δαίμονας	conservative
+EL2069	v	cds	no	χοντραίνω	inclusive
+EL242	n	asm	no	αρχίδι	inclusive
+EL372	n	cds	no	νεανικών συμμοριών	conservative
+EL1498	n	cds	no	η μεγάλη άπλυτα	conservative
+EL1129	n	an	no	aries	inclusive
+EL1723	n	cds	no	moneygrubber	inclusive
+EL1682	n	cds	no	rustler	inclusive
+EL431	n	an	no	γουρούνι	inclusive
+EL1646	n	cds	no	προξενιτής	inclusive
+EL934	n	ddp	yes	twirp	conservative
+EL1607	n	om	no	κυρίες	inclusive
+EL2166	n	re	no	plagiarisation	inclusive
+EL332	n	an	no	rentboy	conservative
+EL182	n	or	no	τούβλο	conservative
+EL93	n	qas	no	gallimaufry	inclusive
+EL1270	n	cds	no	finagler	conservative
+EL1204	n	an	no	αρνάδα	inclusive
+EL1737	n	an	no	σκώρος	inclusive
+EL317	n	an	no	κουτορνίθι	conservative
+EL1717	n	svp	no	slackers	conservative
+EL2128	n	an	no	humanus	inclusive
+EL184	n	asf	no	dumbass	conservative
+EL47	n	pa	yes	αντεπιστέλλον μέλος	inclusive
+EL1930	n	re	no	κλέφτης	inclusive
+EL2039	n	pa	yes	καρραγωγεύς	inclusive
+EL1236	n	pr	no	διατηρούνται γυναίκα	conservative
+EL253	n	ps	yes	αγροίκος	conservative
+EL2195	a	ps	yes	κινέζικος	inclusive
+EL2384	n	cds	no	trasformismo	inclusive
+EL196	n	an	no	εγχώρια κώλο	inclusive
+EL1293	n	cds	no	βωμολοχίες	inclusive
+EL135	n	an	no	πλάσμα	inclusive
+EL1854	n	pr	no	αρουραίος	inclusive
+EL164	n	ddp	yes	κουταμάρα	conservative
+EL298	n	cds	no	blackballed	inclusive
+EL2101	n	cds	no	ξέρω-όλα	conservative
+EL252	n	rci	yes	άγριος	conservative
+EL512	n	pr	no	Δαμάλι	inclusive
+EL761	n	cds	no	χάος-up	inclusive
+EL33	n	cds	no	Μεσίτης Αστικών Συμβάσεων	inclusive
+EL280	n	pa	yes	Ικανότητα προς το δικολογείν	inclusive
+EL581	n	ps	yes	αλήτης	inclusive
+EL575	n	an	no	παλιάνθρωπος	conservative
+EL1114	n	cds	no	slyboots	conservative
+EL252	n	ddp	yes	άγριος	conservative
+EL165	n	cds	no	βλακεία	inclusive
+EL1637	n	cds	no	sass	inclusive
+EL570	n	cds	no	conceitedness	conservative
+EL356	n	ps	yes	beduin	inclusive
+EL643	n	cds	no	γλυκανάλατος	conservative
+EL316	n	ddp	yes	αμερικανάκι	conservative
+EL331	n	an	no	δρόμο κορίτσι	conservative
+EL593	n	qas	no	αχρείος	conservative
+EL609	n	an	no	μπούκα	inclusive
+EL1837	n	cds	no	γουρουνάκι	conservative
+EL1588	n	cds	no	επιδεικτικότητα	inclusive
+EL644	n	cds	no	μεταμορφικοί	inclusive
+EL967	n	cds	no	νεοσύλλεκτος	conservative
+EL402	n	an	no	βίσωνας	inclusive
+EL1467	n	om	no	shirtlifter	inclusive
+EL1066	n	cds	no	εδάφους	inclusive
+EL1334	n	re	no	μαφιόζου	inclusive
+EL391	n	dmc	yes	εγκληματίας	inclusive
+EL129	n	an	no	Μακροπανίδα	inclusive
+EL704	n	cds	no	φατρία	inclusive
+EL1544	n	cds	no	διαβολάκι	conservative
+EL394	n	dmc	yes	εκτός νόμου	inclusive
+EL1209	n	dmc	yes	σπάταλος	conservative
+EL2282	v	re	no	κλέβω	inclusive
+EL1509	n	qas	no	βάψιμο σπιτιού	inclusive
+EL1385	n	cds	no	μεσολαβητής	inclusive
+EL1457	n	pr	no	john	inclusive
+EL395	n	re	no	κακοποιός	inclusive
+EL1838	n	an	no	γουρουνόπουλο	inclusive
+EL1231	n	cds	no	νταβατζής	conservative
+EL34	n	cds	no	εμπορικός αντιπρόσωπος	inclusive
+EL1577	n	is	yes	φτώχεια	inclusive
+EL2082	v	cds	no	ψοφάω	inclusive
+EL234	n	svp	no	τσιγκούνης	conservative
+EL154	n	re	no	βιασμός	inclusive
+EL1459	n	pr	no	πόρνες	conservative
+EL787	n	pa	yes	έκτακτη καθηγήτρια	inclusive
+EL1333	n	dmc	yes	gadabout	inclusive
+EL678	n	ddp	yes	ragtag	conservative
+EL2148	a	svp	no	εξοργισμένος	inclusive
+EL647	n	asm	no	changeling	inclusive
+EL2011	n	re	no	ανθρωποκτονίες	inclusive
+EL879	n	cds	no	σκουπίδια	conservative
+EL254	n	pa	yes	χωριάτη	conservative
+EL375	n	cds	no	συμμορίες	conservative
+EL1819	n	an	no	παπαγάλος	inclusive
+EL166	n	asf	no	χαζομάρα	conservative
+EL167	n	ddp	yes	bêtise	conservative
+EL529	n	pr	no	rattus norvegicus	inclusive
+EL898	n	an	no	κορέοι	inclusive
+EL1704	n	cds	no	μπάνιο	inclusive
+EL1953	n	ps	yes	negro	inclusive
+EL53	n	pa	yes	σχολαστικισμός	inclusive
+EL2457	a	cds	no	αργυρώνητος	conservative
+EL184	n	an	no	dumbass	conservative
+EL104	n	re	no	βασανιστής	inclusive
+EL385	n	cds	no	παλιόμουτρο	conservative
+EL307	n	cds	no	pillock	conservative
+EL2207	a	ddf	yes	κουτσός	inclusive
+EL1282	n	dmc	yes	πλαστογραφία	inclusive
+EL1516	n	qas	no	νοικοκυριό	inclusive
+EL16	n	qas	no	βοηθό	inclusive
+EL434	n	qas	no	γκαφατζής	conservative
+EL2367	n	re	no	σεξουαλικές επιθέσεις	inclusive
+EL393	n	re	no	ληστές	inclusive
+EL251	n	ddp	yes	χωριάτης	conservative
+EL395	n	cds	no	κακοποιός	conservative
+EL1722	n	an	no	γένους μαλακίου	inclusive
+EL2475	n	an	no	Αστρίτης	inclusive
+EL1383	n	cds	no	go-μεταξύ	inclusive
+EL1677	n	cds	no	ακαταστασία	conservative
+EL1850	n	cds	no	προπαγανδιστής	inclusive
+EL735	n	asm	no	πούτσα	conservative
+EL1032	n	ddp	yes	μπούφος	conservative
+EL1025	n	cds	no	ραδιούργος	inclusive
+EL619	n	cds	no	τραίνο αποσκευών	inclusive
+EL1691	n	cds	no	δασκάλα	conservative
+EL554	n	qas	no	μεσαίας τάξης	inclusive
+EL249	n	pa	yes	Βάρβαροι	conservative
+EL569	n	cds	no	αυθαιρεσία	conservative
+EL1622	n	re	no	δολοφόνος	inclusive
+EL1126	n	svp	no	gourmandizer	inclusive
+EL1984	n	an	no	χήνα	inclusive
+EL822	n	an	no	Κόνικλος	inclusive
+EL101	a	svp	no	επιθετικός	conservative
+EL103	n	cds	no	folderol	conservative
+EL2155	n	asm	no	αυνανισμός	conservative
+EL1330	n	dmc	yes	dilly-dallier	conservative
+EL2070	v	cds	no	καταβροχθίζω	inclusive
+EL1411	a	cds	no	αθέμιτος	inclusive
+EL674	n	re	no	grifter	inclusive
+EL1013	n	cds	no	demagog	conservative
+EL73	n	om	no	πρωκτικό σέξ	inclusive
+EL1445	n	re	no	κλεμμένων περιουσιακών στοιχείων	inclusive
+EL1847	n	svp	no	εγωισμός	conservative
+EL305	n	or	no	κορόιδο	conservative
+EL452	n	re	no	εκβιασμό	conservative
+EL955	n	ps	yes	interfertility	inclusive
+EL317	n	or	no	κουτορνίθι	conservative
+EL255	n	cds	no	βάρβαρος	conservative
+EL1608	n	dmc	yes	ψευδο	conservative
+EL983	n	or	no	αγγούρι	inclusive
+EL962	n	cds	no	δημιουργός των φυτών	inclusive
+EL213	n	ddp	yes	φλύαρος	inclusive
+EL2388	n	re	no	τρομοκρατική πράξη	conservative
+EL2225	n	or	no	γογγύλι	inclusive
+EL2211	n	pr	no	μοιχαλίδα	conservative
+EL90	n	qas	no	σμίξει-mangle	inclusive
+EL750	n	asm	no	αρσενικός φασιανός	inclusive
+EL1267	n	dmc	yes	δυσωδία	conservative
+EL401	n	an	no	Βόνασος	inclusive
+EL398	n	an	no	Βίσων	inclusive
+EL1932	n	ddf	yes	μισο-πίντα	conservative
+EL389	n	cds	no	απατεώνων	conservative
+EL576	n	cds	no	αποβράσματα τσάντα	conservative
+EL313	n	cds	no	pudden-κεφάλι	conservative
+EL209	n	svp	no	avariciousness	inclusive
+EL592	n	is	yes	αχρείο	conservative
+EL2298	a	is	yes	συγκινησιακός	conservative
+EL411	n	cds	no	σκανταλιές λήψης αποφάσεων	conservative
+EL1060	n	ps	yes	boche	conservative
+EL2328	a	qas	no	μεσαίας τάξης	inclusive
+EL424	n	qas	no	μεγιστάνες	inclusive
+EL1720	n	an	no	Μαλάκιο	inclusive
+EL1203	n	an	no	αμνάδα	inclusive
+EL376	n	cds	no	συμμορία	conservative
+EL592	n	an	no	αχρείο	conservative
+EL171	n	asm	no	saphead	conservative
+EL533	n	dmc	yes	αγρότης	conservative
+EL201	n	an	no	bison bonasus	inclusive
+EL310	n	ddp	yes	ηλίθιος	conservative
+EL1948	n	ps	yes	μαύρος	inclusive
+EL586	n	dmc	yes	αργόσχολος	conservative
+EL485	n	cds	no	συμμορφούμενος με τα καθεστώτα	conservative
+EL1399	n	cds	no	υπερσυντηρητικό	conservative
+EL392	n	dmc	yes	φυγοδικία	inclusive
+EL1910	n	pa	yes	sheepherders	inclusive
+EL650	n	ddp	yes	δύσμορφος	conservative
+EL318	n	asm	no	βλακέντιος	conservative
+EL1542	a	is	yes	μίζερος	conservative
+EL1823	n	dmc	yes	Κακό	inclusive
+EL1796	n	cds	no	χαρτί-ωθητή	inclusive
+EL2301	n	an	no	κατσαρίδες	inclusive
+EL1896	n	an	no	ζωύφιο	inclusive
+EL655	n	re	no	συκοφαντίας του εμπορίου	inclusive
+EL1836	n	an	no	χοιρίδιο	inclusive
+EL711	n	an	no	γένος Κάπρα	inclusive
+EL820	n	an	no	κουνελάκια	inclusive
+EL1665	a	svp	no	ζηλιάρης	conservative
+EL327	n	pr	no	ακατάστατος γυναίκα	conservative
+EL116	n	cds	no	σώμα	inclusive
+EL1224	n	qas	no	κοινοποίηση	inclusive
+EL1316	n	an	no	συνοφρύωμα	inclusive
+EL1542	a	svp	no	μίζερος	conservative
+EL1551	n	ddf	yes	αναπηρία	inclusive
+EL1868	n	cds	no	αποχέτευσης	inclusive
+EL43	a	pa	yes	θεωρητικός	inclusive
+EL433	n	cds	no	λέτσος	conservative
+EL1457	n	pr	no	john	conservative
+EL171	n	ddp	yes	saphead	conservative
+EL2119	n	is	yes	ζητιάνος	inclusive
+EL682	n	an	no	λεχρίτης	conservative
+EL1703	n	cds	no	τουαλέτες	inclusive
+EL975	n	cds	no	παλλικαρόπουλο	inclusive
+EL2196	a	dmc	yes	πλαστός	conservative
+EL1848	n	svp	no	οίηση	conservative
+EL1614	n	re	no	βρεφοκτονία	inclusive
+EL386	n	dmc	yes	απατεών	conservative
+EL48	n	ddp	yes	διανοητικά αμφισβητηθεί	inclusive
+EL2113	n	an	no	αισχροκερδής	conservative
+EL1568	n	is	yes	εξάντληση	inclusive
+EL958	n	cds	no	βιοτεχνολογίας των φυτών	inclusive
+EL582	n	dmc	yes	hobo	conservative
+EL1115	n	qas	no	σπίτι σκυλιών	inclusive
+EL879	n	cds	no	σκουπίδια	inclusive
+EL649	n	asm	no	καθυστερημένος	inclusive
+EL876	n	ddp	yes	αλμπάνης	conservative
+EL903	n	cds	no	πονηριά	conservative
+EL909	n	svp	no	tanha	inclusive
+EL593	n	re	no	αχρείος	conservative
+EL610	n	cds	no	κλίκες	inclusive
+EL1636	n	cds	no	sassing	inclusive
+EL112	n	ddp	yes	analphabet	inclusive
+EL1324	n	svp	no	οργή	inclusive
+EL1756	n	cds	no	nurseling	inclusive
+EL1666	n	svp	no	θυμό	inclusive
+EL434	n	cds	no	γκαφατζής	conservative
+EL480	n	cds	no	καυχησιάρης	conservative
+EL2100	n	cds	no	σχολαστικός	conservative
+EL255	n	dmc	yes	βάρβαρος	conservative
+EL2079	n	qas	no	ταραχοποιός	conservative
+EL594	n	re	no	villainess	conservative
+EL2397	n	re	no	δεινοπάθημα	inclusive
+EL1497	n	cds	no	λαουτζίκος	inclusive
+EL2117	n	cds	no	κουτσομπολιό	inclusive
+EL958	n	ps	yes	βιοτεχνολογίας των φυτών	inclusive
+EL2422	n	om	no	διασχίζουν ντύσιμο	inclusive
+EL2346	a	ddp	yes	κουτός	conservative
+EL882	n	cds	no	παλιοσίδερα	inclusive
+EL234	n	is	yes	τσιγκούνης	conservative
+EL1769	n	cds	no	αξιωματικός	inclusive
+EL385	n	an	no	παλιόμουτρο	conservative
+EL1920	n	an	no	σαλιγκάρι	inclusive
+EL1511	n	qas	no	μπογιάτισμα	inclusive
+EL1768	n	cds	no	αστυνομικοί	conservative
+EL144	n	an	no	μακροπανίδας	inclusive
+EL500	n	ddp	yes	κτηνοβασία	conservative
+EL1306	n	cds	no	δωρεάν mason	inclusive
+EL179	n	or	no	knucklehead	conservative
+EL2435	n	re	no	ντραγκέτα	inclusive
+EL1152	n	dmc	yes	άσκοπα περιφερόμενος	inclusive
+EL2087	n	or	no	Πατάτες	inclusive
+EL1211	n	dmc	yes	scattergood	inclusive
+EL1840	n	asm	no	στύλος	inclusive
+EL303	n	ddp	yes	πτώση τύπος	conservative
+EL791	n	or	no	brassica oleracea	inclusive
+EL672	n	dmc	yes	defrauder	conservative
+EL430	n	an	no	προσβάλλω	conservative
+EL594	n	cds	no	villainess	conservative
+EL1380	n	an	no	σκνίπα	inclusive
+EL250	n	ps	yes	βάρβαρη	conservative
+EL2427	n	asm	no	ορνιθοπανίδα	inclusive
+EL588	n	qas	no	όχλος	conservative
+EL392	n	re	no	φυγοδικία	inclusive
+EL2183	n	an	no	αρνί	conservative
+EL516	n	an	no	Ταύρος	inclusive
+EL1941	n	ps	yes	nigga	conservative
+EL1392	n	svp	no	χαραμοφάης	conservative
+EL2317	a	ps	yes	ιουδαϊκός	inclusive
+EL387	n	cds	no	κάθαρμα	inclusive
+EL1860	n	qas	no	ρήτορας	inclusive
+EL32	n	cds	no	μεσίτες	inclusive
+EL389	n	re	no	απατεώνων	conservative
+EL1352	n	asf	no	κολπική	conservative
+EL334	n	an	no	καριόλα	conservative
+EL665	n	re	no	δυσφημητής	conservative
+EL586	n	svp	no	αργόσχολος	conservative
+EL1544	n	re	no	διαβολάκι	inclusive
+EL330	n	an	no	αγόρια ενοικίαση	conservative
+EL85	n	cds	no	φάρσα	inclusive
+EL2425	n	om	no	cross dressing	inclusive
+EL1425	n	cds	no	συγγραφέας hack	conservative
+EL1540	n	cds	no	ειδωλολατρική	inclusive
+EL1001	n	om	no	λαίδη	inclusive
+EL809	n	asm	no	γαμήσι	conservative
+EL392	n	cds	no	φυγοδικία	conservative
+EL581	n	cds	no	αλήτης	conservative
+EL1898	n	ddp	yes	μικροκεφαλία	inclusive
+EL589	n	cds	no	όχλο	conservative
+EL1856	n	cds	no	λείψανο	inclusive
+EL2178	n	an	no	volaille	inclusive
+EL1811	n	qas	no	παρασιτούν	inclusive
+EL1340	n	asm	no	ελληνικά φασόλια	inclusive
+EL592	n	dmc	yes	αχρείο	conservative
+EL1548	n	ddf	yes	Αναπηρία	inclusive
+EL388	n	re	no	απατεώνας	conservative
+EL593	n	an	no	αχρείος	conservative
+EL913	n	an	no	ανακαινιστής	conservative
+EL1198	n	dmc	yes	ανηθικότητα	conservative
+EL523	n	asm	no	Καφέ	inclusive
+EL2264	a	cds	no	φασιστικός	inclusive
+EL1761	n	cds	no	παραβάτης	inclusive
+EL1612	n	dmc	yes	ψεύτης	inclusive
+EL1957	n	ps	yes	negroids	inclusive
+EL987	n	cds	no	χούντα	inclusive
+EL1734	n	pr	no	νυχτοπεταλούδα	inclusive
+EL1151	n	ps	yes	ανεμότρατα	inclusive
+EL1250	n	cds	no	fascista	inclusive
+EL889	n	an	no	συσκευή ακούσματος	inclusive
+EL718	n	an	no	Κατσίκι	inclusive
+EL1354	n	asf	no	κόλπου	conservative
+EL1798	n	dmc	yes	αγενής	conservative
+EL247	n	cds	no	ληστής	inclusive
+EL186	n	asf	no	muttonhead	conservative
+EL174	n	asm	no	ανόητο	conservative
+EL304	n	asm	no	κούτσουρο	conservative
+EL486	n	cds	no	κομφορμιστική	conservative
+EL119	n	an	no	anguillidae	inclusive
+EL1188	n	dmc	yes	ηθικιστική	inclusive
+EL1195	n	an	no	eurypterid	inclusive
+EL1420	n	an	no	fulvus	inclusive
+EL149	n	re	no	διασυρμός	conservative
+EL1807	n	qas	no	Εξωπαράσιτο	inclusive
+EL1586	n	cds	no	splashiness	conservative
+EL1927	n	an	no	σκνίπες	inclusive
+EL159	n	or	no	γκλάβα	inclusive
+EL1427	a	cds	no	πανούργος	conservative
+EL377	n	cds	no	κουλτούρα των συμμοριών	inclusive
+EL737	n	asm	no	πουλί	conservative
+EL422	n	qas	no	μεγάλο επιχειρηματία	inclusive
+EL441	n	cds	no	απεργοσπάστης	inclusive
+EL2495	n	ps	yes	Αθίγγανοι	inclusive
+EL183	n	ddp	yes	fuckhead	conservative
+EL250	n	cds	no	βάρβαρη	conservative
+EL2149	a	re	no	μανιασμένος	inclusive
+EL1618	a	is	yes	δυστυχισμένος	inclusive
+EL1588	n	cds	no	επιδεικτικότητα	conservative
+EL2032	n	ps	yes	vandal	inclusive
+EL291	n	qas	no	Μπαρόκ αρχιτεκτονική	inclusive
+EL1021	n	pr	no	doxy	inclusive
+EL764	n	an	no	κοινή κουνουπιών	inclusive
+EL860	n	cds	no	φοβητσιάρης	conservative
+EL716	n	an	no	κατσικίσιο γάλα	inclusive
+EL214	n	ddp	yes	πολυλογάς	conservative
+EL474	n	qas	no	λάθος	inclusive
+EL882	n	qas	no	παλιοσίδερα	inclusive
+EL155	n	re	no	βιαστές	conservative
+EL1357	n	pr	no	φίλη αλήτη	inclusive
+EL136	n	an	no	ζώα	inclusive
+EL776	n	pa	yes	καθηγητής	inclusive
+EL1062	n	ps	yes	Ούννος	conservative
+EL2120	n	is	yes	κουρελής	conservative
+EL799	n	cds	no	κοσμοπλημύρα	inclusive
+EL839	n	or	no	gay	conservative
+EL579	n	dmc	yes	χαμηλότερη μορφή ζωής επειδή	conservative
+EL183	n	or	no	fuckhead	conservative
+EL163	n	asf	no	ανοησία	conservative
+EL2310	n	cds	no	δεύτερη εκτιμητής	conservative
+EL458	n	pa	yes	νεκροθάπτης	inclusive
+EL432	n	an	no	ατημέλητο πρόσωπο	conservative
+EL592	n	re	no	αχρείο	conservative
+EL1803	n	qas	no	ενδοπαράσιτα	inclusive
+EL278	n	pa	yes	δικηγόρου	inclusive
+EL173	n	asm	no	βλαξ	inclusive
+EL1952	n	ps	yes	νέγρη	inclusive
+EL1598	n	cds	no	ανεπιθύμητης αλληλογραφίας	inclusive
+EL593	n	is	yes	αχρείος	conservative
+EL2182	n	an	no	όρνιθα	inclusive
+EL861	n	cds	no	κιοτής	conservative
+EL1232	n	cds	no	προαγωγός	inclusive
+EL1037	n	cds	no	εγκληματική συμπεριφορά	inclusive
+EL808	n	asm	no	κυλήσει στο σανό	conservative
+EL2371	n	re	no	κακοποιηθεί σεξουαλικά	inclusive
+EL2437	n	qas	no	καταδύσεις σύστημα στάθμισης	inclusive
+EL223	n	cds	no	οίκος ανοχής	inclusive
+EL828	n	cds	no	newspaperwoman	inclusive
+EL132	n	ddp	yes	Ζωικό βασίλειο	inclusive
+EL2338	n	cds	no	dweeb	conservative
+EL2064	v	qas	no	βασανίζω	conservative
+EL1699	n	cds	no	εγκατάσταση τουαλέτας	inclusive
+EL2121	n	is	yes	κουρελιάρης	conservative
+EL475	n	cds	no	παραδρομή	inclusive
+EL486	n	qas	no	κομφορμιστική	conservative
+EL475	n	qas	no	παραδρομή	inclusive
+EL1123	n	svp	no	κοιλιόδουλος	conservative
+EL2028	n	dmc	yes	ατυχές πρόσωπο	inclusive
+EL1104	n	om	no	βασική	inclusive
+EL2176	n	an	no	κοτόπουλο	inclusive
+EL2022	n	dmc	yes	ανθρωπάκια	inclusive
+EL2089	n	or	no	murphy	inclusive
+EL170	n	asm	no	μικρόνους	conservative
+EL1259	n	or	no	Φοινίκουλον	inclusive
+EL725	n	svp	no	φιλαργυρία	conservative
+EL1251	n	cds	no	γρήγορα ένα	conservative
+EL2500	n	ps	yes	Κατσίβελος	inclusive
+EL306	n	cds	no	απαλό άγγιγμα	conservative
+EL2321	a	ps	yes	μαινόμενος	conservative
+EL2453	n	pa	yes	cordwainer	inclusive
+EL976	n	or	no	twat	conservative
+EL408	n	cds	no	talebearer	conservative
+EL914	n	an	no	κοκέτα	conservative
+EL1897	n	an	no	ζωάκι	inclusive
+EL2013	n	re	no	slayer	inclusive
+EL1997	n	an	no	τσιμπούρι	inclusive
+EL2294	n	an	no	βδέλλες	inclusive
+EL1861	n	qas	no	ρητορικά	inclusive
+EL499	n	ddp	yes	zooerastia	conservative
+EL1162	n	cds	no	παιδαγωγός	inclusive
+EL2112	v	cds	no	ζαρώνω	inclusive
+EL1156	n	dmc	yes	νάνος	conservative
+EL2202	a	cds	no	δειλός	conservative
+EL588	n	cds	no	όχλος	inclusive
+EL1532	n	cds	no	σιγοτραγουδώ	inclusive
+EL1288	n	an	no	ψύλλοι	inclusive
+EL670	n	re	no	συκοφάντη	conservative
+EL194	n	an	no	Γάρος	inclusive
+EL1284	n	an	no	Σιφωνάπτερα	inclusive
+EL212	n	an	no	φιλάργυρος	conservative
+EL94	n	cds	no	απομεινάρια	inclusive
+EL906	n	svp	no	taṇhā	inclusive
+EL679	n	ddp	yes	αλητεία	conservative
+EL2326	n	ddp	yes	unwiseness	inclusive
+EL880	n	cds	no	θραύσματα	inclusive
+EL602	n	an	no	καϊμάν	inclusive
+EL325	n	pr	no	πουτάνα	conservative
+EL80	n	qas	no	οπαδός	inclusive
+EL95	n	cds	no	κυκεώνας	inclusive
+EL1079	n	dmc	yes	dissimulator	conservative
+EL58	n	an	no	βόνασος	inclusive
+EL1258	n	om	no	μάραθο	inclusive
+EL752	n	asm	no	κόκορας	inclusive
+EL586	n	cds	no	αργόσχολος	conservative
+EL1987	n	an	no	είδος χήνας	inclusive
+EL1921	n	ps	yes	μογγολάκι	conservative
+EL1800	n	cds	no	βλάχος	conservative
+EL1602	a	dmc	yes	ανήθικος	conservative
+EL1683	n	re	no	διαρρήκτης	inclusive
+EL1234	n	cds	no	σωματέμπορος	conservative
+EL533	n	cds	no	αγρότης	conservative
+EL1391	n	svp	no	καλό-για-τίποτα	conservative
+EL2042	n	an	no	σκουλήκι	inclusive
+EL1752	n	cds	no	σπασίκλας	conservative
+EL2036	n	an	no	γύπες	inclusive
+EL1612	n	dmc	yes	ψεύτης	conservative
+EL2476	n	dmc	yes	εξωμότης	conservative
+EL249	n	dmc	yes	Βάρβαροι	conservative
+EL1770	n	cds	no	αστυνομικός	conservative
+EL183	n	asf	no	fuckhead	conservative
+EL1521	n	cds	no	ύβρις	inclusive
+EL19	n	re	no	βάναυση συμπεριφορά	inclusive
+EL498	n	an	no	zooerasty	conservative
+EL571	n	svp	no	κενοδοξία	conservative
+EL837	n	or	no	αλλόκοτος	conservative
+EL12	n	svp	no	spiritlessness	inclusive
+EL1084	n	om	no	αναπληρωτές	inclusive
+EL1261	n	om	no	φινόκιο	inclusive
+EL1844	n	cds	no	prankishness	inclusive
+EL490	n	cds	no	fumbler	conservative
+EL252	n	pa	yes	άγριος	conservative
+EL653	n	re	no	δουλειά τσεκούρι	inclusive
+EL793	n	or	no	κράμβη	inclusive
+EL2174	n	an	no	κοτόπουλα	inclusive
+EL1311	n	cds	no	ελευθεροτεκτονισμός	inclusive
+EL64	a	an	no	πεισματάρης	inclusive
+EL577	n	dmc	yes	έτσι κ 'έτσι	conservative
+EL1379	n	qas	no	κατασκοπεύω	inclusive
+EL175	n	ps	yes	χαζός	conservative
+EL1183	n	qas	no	ερασιτέχνη	inclusive
+EL286	n	qas	no	βαρονίες	inclusive
+EL249	n	cds	no	Βάρβαροι	conservative
+EL383	n	cds	no	παρέα	inclusive
+EL20	n	re	no	κακή χρήση	inclusive
+EL1254	n	re	no	χρηματολογία	inclusive
+EL773	n	qas	no	Κάστα	inclusive
+EL2056	n	qas	no	τζαμπατζής	conservative
+EL1885	n	an	no	μικροβιακή	inclusive
+EL979	n	asf	no	μουνάκι	conservative
+EL683	n	an	no	σκύβαλο	conservative
+EL351	n	cds	no	πανδαιμόνιο	inclusive
+EL643	n	om	no	γλυκανάλατος	conservative
+EL376	n	cds	no	συμμορία	inclusive
+EL589	n	qas	no	όχλο	inclusive
+EL446	n	ddp	yes	μαλάκας	conservative
+EL814	n	asm	no	κομμάτι της ουράς	conservative
+EL175	n	cds	no	χαζός	inclusive
+EL52	n	pa	yes	ακαδημαϊσμού	inclusive
+EL2452	n	om	no	τα drag show	inclusive
+EL680	n	an	no	συρφετός	conservative
+EL71	n	om	no	πρωκτική διείσδυση	inclusive
+EL132	n	an	no	Ζωικό βασίλειο	inclusive
+EL2170	n	re	no	Πειρατεία	inclusive
+EL1064	n	ps	yes	kraut	conservative
+EL680	n	ddp	yes	συρφετός	conservative
+EL470	n	cds	no	flub	inclusive
+EL888	n	an	no	υποκλοπών	inclusive
+EL1899	n	ddp	yes	nanocephaly	inclusive
+EL649	n	cds	no	καθυστερημένος	inclusive
+EL575	n	dmc	yes	παλιάνθρωπος	conservative
+EL177	n	an	no	shithead	conservative
+EL1787	n	an	no	βόδι	inclusive
+EL612	n	cds	no	ingroup	inclusive
+EL1890	n	an	no	Μικρόβιο	inclusive
+EL1297	n	asm	no	ακροποσθία	inclusive
+EL339	n	qas	no	ψεύδος	conservative
+EL777	n	pa	yes	έδρες	inclusive
+EL2269	n	an	no	φρύνος	inclusive
+EL1849	n	cds	no	superbia	inclusive
+EL552	n	qas	no	μεσαίες τάξεις	inclusive
+EL574	n	dmc	yes	git	conservative
+EL2162	n	re	no	Πειρατής	inclusive
+EL999	n	om	no	αρχοντογυναίκα	inclusive
+EL413	n	cds	no	αναστάτωση	conservative
+EL639	n	dmc	yes	παρίας	inclusive
+EL2251	n	cds	no	κόλακας	conservative
+EL89	n	qas	no	συνονθύλευμα	inclusive
+EL186	n	or	no	muttonhead	conservative
+EL273	n	pa	yes	δικηγόροι	inclusive
+EL1864	n	an	no	σκορπίνες	inclusive
+EL182	n	asf	no	τούβλο	conservative
+EL801	n	cds	no	κόσμος	inclusive
+EL1973	n	cds	no	νυμφομανής	conservative
+EL1498	n	cds	no	η μεγάλη άπλυτα	inclusive
+EL103	n	an	no	folderol	conservative
+EL338	n	qas	no	αναλήθεια	conservative
+EL346	n	cds	no	λιμοκόντορος	inclusive
+EL1281	n	dmc	yes	πλαστά	inclusive
+EL1782	n	cds	no	μαφιόζος	conservative
+EL393	n	cds	no	ληστές	inclusive
+EL832	n	or	no	poove	conservative
+EL1800	n	dmc	yes	βλάχος	conservative
+EL51	n	asm	no	ηλιθιότητα	conservative
+EL379	n	cds	no	μπάντα	inclusive
+EL659	n	re	no	δυσφημιστικό	inclusive
+EL1324	n	svp	no	οργή	conservative
+EL177	n	ddp	yes	shithead	conservative
+EL434	n	cds	no	γκαφατζής	inclusive
+EL1078	n	dmc	yes	κίβδηλος	conservative
+EL2462	n	an	no	κάμπια δίπτερου	inclusive
+EL855	n	an	no	φυσιογνωμία	inclusive
+EL520	n	cds	no	αρχηγός	inclusive
+EL984	n	or	no	sativus	inclusive
+EL2061	n	cds	no	αριβίστας	inclusive
+EL1348	n	asm	no	κυάμων	inclusive
+EL1438	n	cds	no	κλοπή	inclusive
+EL1464	n	om	no	ομοφυλόφιλων ανδρών	inclusive
+EL416	n	cds	no	διαβολιά	conservative
+EL502	n	ddp	yes	κακία	conservative
+EL187	n	or	no	βλάκας	conservative
+EL2314	n	an	no	aureus	inclusive
+EL985	n	or	no	Αγγούρι	inclusive
+EL1278	n	pa	yes	ψαράς	inclusive
+EL1779	n	cds	no	Κόζα Νόστρα	conservative
+EL302	n	ddp	yes	patsy	conservative
+EL1265	n	dmc	yes	δυσοσμίας	conservative
+EL989	n	or	no	cuke	inclusive
+EL146	n	re	no	διαβολή	inclusive
+EL645	n	asf	no	κρετίνος	conservative
+EL1074	n	dmc	yes	απόκρυψη	conservative
+EL2038	n	an	no	γύπας	inclusive
+EL1735	n	pr	no	σκώροι	inclusive
+EL727	n	svp	no	niggardness	conservative
+EL1881	n	an	no	καρχαρίες	inclusive
+EL384	n	cds	no	ομάδα	inclusive
+EL296	n	cds	no	blackballing	inclusive
+EL147	n	re	no	δυσφήμηση	inclusive
+EL1832	n	asm	no	Μπιζέλι	inclusive
+EL488	n	ddp	yes	κακοτέχνης	conservative
+EL178	n	ddp	yes	dunce	conservative
+EL1241	n	qas	no	farmhand	inclusive
+EL2484	n	ps	yes	αθίγγανος ρομ	inclusive
+EL1518	n	qas	no	hutch	inclusive
+EL588	n	qas	no	όχλος	inclusive
+EL1876	n	ps	yes	μιγάδες	conservative
+EL310	n	ps	yes	ηλίθιος	conservative
+EL1695	n	qas	no	μίγμα	inclusive
+EL317	n	cds	no	κουτορνίθι	conservative
+EL918	n	asm	no	ευπιστία	conservative
+EL2154	n	asm	no	μαλακία	conservative
+EL567	n	cds	no	έπαρση	inclusive
+EL857	n	an	no	moo-αγελάδας	inclusive
+EL1828	n	asm	no	αρακά	inclusive
+EL2434	n	cds	no	υγειονομικό υπόνομο	inclusive
+EL165	n	asf	no	βλακεία	conservative
+EL133	n	ddp	yes	αναπαραγωγή των ζώων	inclusive
+EL850	n	cds	no	σπερμολόγος	conservative
+EL62	n	svp	no	amour propre	conservative
+EL1623	n	cds	no	τοκογλύφος	inclusive
+EL1571	n	is	yes	αστικής φτώχειας	inclusive
+EL1707	n	cds	no	αφοδευτήριο	inclusive
+EL1931	n	re	no	κλέπτης	inclusive
+EL2262	n	qas	no	εγκατέλειψε το πλοίο	inclusive
+EL1944	n	ps	yes	darky	conservative
+EL1717	n	cds	no	slackers	conservative
+EL78	n	svp	no	ραθυμία	inclusive
+EL1268	n	dmc	yes	foetor	conservative
+EL1732	n	an	no	mosquitoe	inclusive
+EL634	n	cds	no	ψοφίμι	inclusive
+EL1437	n	cds	no	κλεψιά	inclusive
+EL1121	n	svp	no	καλοφαγάς	inclusive
+EL181	n	ddp	yes	μπούμπουρας	conservative
+EL377	n	cds	no	κουλτούρα των συμμοριών	conservative
+EL666	n	re	no	libeler	conservative
+EL178	n	asf	no	dunce	conservative
+EL1629	n	cds	no	τοκογλύφους	conservative
+EL1490	n	ps	yes	εβραίων	inclusive
+EL99	n	asm	no	προεξέχον τμήμα οργανισμού	inclusive
+EL2389	n	re	no	ενεργήσει της τρομοκρατίας	inclusive
+EL255	n	qas	no	βάρβαρος	conservative
+EL305	n	ddp	yes	κορόιδο	conservative
+EL650	n	asm	no	δύσμορφος	inclusive
+EL375	n	cds	no	συμμορίες	inclusive
+EL652	n	an	no	λύκαινα	inclusive
+EL803	n	svp	no	έρωτα	inclusive
+EL1483	n	ps	yes	ιουδαιο	inclusive
+EL1501	n	cds	no	αρχιερέα	inclusive
+EL215	n	svp	no	Πλεονεξία	inclusive
+EL926	n	an	no	γλαυξ	inclusive
+EL848	n	cds	no	rumormonger	conservative
+EL318	n	ps	yes	βλακέντιος	conservative
+EL1175	n	asm	no	φαλλός	inclusive
+EL289	n	qas	no	βαρώνος	inclusive
+EL859	n	an	no	κότα	inclusive
+EL1617	a	is	yes	ατυχής	inclusive
+EL813	n	asm	no	shtup	conservative
+EL2078	n	qas	no	ενοχλών	conservative
+EL1338	n	cds	no	φασιστικού καθεστώτος	conservative
+EL1051	n	an	no	diddly	conservative
+EL1077	n	dmc	yes	συγκάλυψη	conservative
+EL1613	n	dmc	yes	στρεψόδικος	conservative
+EL232	n	svp	no	tightwad	conservative
+EL161	n	or	no	bonce	inclusive
+EL760	n	cds	no	cockup	inclusive
+EL800	n	cds	no	πολυκοσμία	inclusive
+EL558	n	cds	no	υπεροψία	inclusive
+EL128	n	an	no	animalia	inclusive
+EL388	n	cds	no	απατεώνας	inclusive
+EL2073	v	cds	no	τρώω μέχρι σκασμός	inclusive
+EL1587	n	cds	no	pompousness	conservative
+EL432	n	cds	no	ατημέλητο πρόσωπο	conservative
+EL575	n	cds	no	παλιάνθρωπος	conservative
+EL1486	n	ps	yes	Ισραηλίτες	inclusive
+EL172	n	ddp	yes	ανόητος	inclusive
+EL564	n	cds	no	κομπασμός	conservative
+EL1482	n	ps	yes	ιουδαϊκή	inclusive
+EL2209	n	pr	no	γυναίκα συνουσιαζόμενη εκτός γάμου	conservative
+EL1386	n	cds	no	διαμεσολαβητής	inclusive
+EL1802	n	qas	no	necrotrophic	inclusive
+EL1118	n	qas	no	σπιτάκι σκύλου	inclusive
+EL2490	n	ps	yes	rommany	inclusive
+EL2228	n	re	no	απαγωγές	inclusive
+EL1407	v	asm	no	συνευρίσκομαι	conservative
+EL1369	n	cds	no	ζιγκολό	inclusive
+EL1155	n	cds	no	είλωτες	inclusive
+EL169	n	asm	no	ιδιώτης	conservative
+EL2340	a	pa	yes	πολιτικός	inclusive
+EL971	n	qas	no	κονφορμισμός	inclusive
+EL1716	n	cds	no	φυγόπονος	conservative
+EL559	n	ps	yes	Βούλγαρος	inclusive
+EL10	n	svp	no	αβουλία	inclusive
+EL1670	n	ddp	yes	διανοητική ανεπάρκεια	inclusive
+EL276	n	pa	yes	Συνήγορος	inclusive
+EL1821	n	cds	no	πάρτι	inclusive
+EL125	n	an	no	χέλια	inclusive
+EL648	n	cds	no	επιβραδύνουν	inclusive
+EL1413	a	cds	no	έκνομος	inclusive
+EL1502	n	cds	no	αρχιερέας	inclusive
+EL970	n	qas	no	κομφορμισμός	inclusive
+EL1990	n	an	no	brent	inclusive
+EL644	n	ddp	yes	μεταμορφικοί	conservative
+EL1943	n	ps	yes	jigaboo	conservative
+EL2322	a	is	yes	ισχνός	inclusive
+EL127	n	ddp	yes	Μικροπανίδα	inclusive
+EL1213	n	ddf	yes	άτομο με ειδικές ανάγκες	inclusive
+EL1122	n	svp	no	φαγάς	conservative
+EL931	n	qas	no	πλήρωμα	inclusive
+EL1911	n	pa	yes	sheepherder	inclusive
+EL1146	n	cds	no	φορτία	inclusive
+EL1826	a	dmc	yes	σατανικός	conservative
+EL1197	n	dmc	yes	αχρειότητα	conservative
+EL1353	n	asf	no	κόλπος	conservative
+EL1488	n	ps	yes	Ιουδαίος	inclusive
+EL164	n	an	no	κουταμάρα	conservative
+EL1366	n	an	no	pipistrelle	inclusive
+EL1971	n	an	no	χοίρων	inclusive
+EL646	n	ps	yes	κουτός	conservative
+EL1535	n	asf	no	υπηρέτρια	conservative
+EL1545	n	an	no	varia strix	inclusive
+EL173	n	an	no	βλαξ	conservative
+EL1145	n	cds	no	σωρούς	inclusive
+EL254	n	ps	yes	χωριάτη	conservative
+EL213	n	ddp	yes	φλύαρος	conservative
+EL2151	n	asm	no	wank	conservative
+EL207	n	svp	no	πλεονεξία	inclusive
+EL2122	n	cds	no	moaner	conservative
+EL854	n	an	no	όψη	inclusive
+EL730	n	qas	no	κυλιέμαι	inclusive
+EL389	n	an	no	απατεώνων	conservative
+EL1672	n	ddp	yes	νοητική ανεπάρκεια	inclusive
+EL487	n	ddp	yes	bumbler	conservative
+EL174	n	ddp	yes	ανόητο	conservative
+EL694	n	om	no	paederast	conservative
+EL82	n	cds	no	πρωτοπαλίκαρο	conservative
+EL322	n	pr	no	γυναίκα του δρόμου	conservative
+EL318	n	asf	no	βλακέντιος	conservative
+EL39	n	pa	yes	ακαδημία	inclusive
+EL2352	a	ddp	yes	κακόγουστος	inclusive
+EL1866	n	an	no	σκορπιός	inclusive
+EL165	n	qas	no	βλακεία	inclusive
+EL1251	n	cds	no	γρήγορα ένα	inclusive
+EL848	n	ddp	yes	rumormonger	conservative
+EL1469	n	om	no	φαιδρώτης	inclusive
+EL1713	n	cds	no	απόπατος	inclusive
+EL1165	n	cds	no	αδικοπραξίας	inclusive
+EL382	n	cds	no	όμιλος	inclusive
+EL644	n	asf	no	μεταμορφικοί	conservative
+EL1153	n	cds	no	ορντινάντσα	inclusive
+EL1706	n	cds	no	τουαλέτα	inclusive
+EL1295	n	cds	no	εθισμένος	conservative
+EL2368	n	re	no	σεξουαλική επίθεση	inclusive
+EL647	n	asf	no	changeling	conservative
+EL61	n	cds	no	φιλαυτία	conservative
+EL661	n	re	no	calunnia	inclusive
+EL939	n	an	no	κροκόδειλοι	inclusive
+EL354	n	ps	yes	Βεδουίνοι	inclusive
+EL168	n	an	no	χονδροκέφαλος	conservative
+EL185	n	ddp	yes	lunkhead	conservative
+EL323	n	cds	no	μαστροπός	conservative
+EL57	n	an	no	bison bison	inclusive
+EL340	n	dmc	yes	ψέμα	inclusive
+EL264	n	pa	yes	ειδικός απεσταλμένος	inclusive
+EL192	n	an	no	μουλάρι	inclusive
+EL1181	n	an	no	σαλιγκάρια	inclusive
+EL2360	n	an	no	lampyris noctiluca	inclusive
+EL217	n	ddp	yes	οπισθοδρομικότητα	inclusive
+EL2357	a	re	no	βίαιος	inclusive
+EL1161	n	cds	no	εκπαιδευτικός	inclusive
+EL1057	n	cds	no	δεκάρα φοβερή	inclusive
+EL952	n	an	no	Κροκόδειλος	inclusive
+EL1358	n	cds	no	δεσμοφύλακάς	inclusive
+EL1496	n	cds	no	λαός	inclusive
+EL1630	n	cds	no	τοκογλύφο	inclusive
+EL2053	v	cds	no	διαπραγματεύομαι	inclusive
+EL1398	n	cds	no	αντιδραστική	conservative
+EL2469	n	re	no	βίας	inclusive
+EL1480	n	ps	yes	Ιουδαϊσμός	inclusive
+EL478	n	cds	no	κομπαστής	conservative
+EL871	n	cds	no	αγύρτης	conservative
+EL1583	n	an	no	σκληρότητα	conservative
+EL235	n	qas	no	όρχι	inclusive
+EL1309	n	cds	no	Τεκτονισμός	inclusive
+EL316	n	asm	no	αμερικανάκι	conservative
+EL2009	n	re	no	δολοφόνοι	inclusive
+EL2288	n	cds	no	έξυπνο aleck	conservative
+EL79	n	cds	no	οκνηρός	conservative
+EL172	n	asf	no	ανόητος	conservative
+EL2017	n	re	no	φόνισσα	inclusive
+EL1000	n	om	no	κυρία	inclusive
+EL254	n	ddp	yes	χωριάτη	conservative
+EL1455	n	pr	no	Πόρνη	conservative
+EL1664	n	svp	no	invidia	inclusive
+EL1227	n	cds	no	νταβατζήδες	inclusive
+EL2351	a	ddp	yes	ακαλαίσθητος	inclusive
+EL304	n	ddp	yes	κούτσουρο	conservative
+EL1237	n	pr	no	ερωμένη	conservative
+EL429	n	qas	no	εφοπλιστή	inclusive
+EL2058	v	an	no	ωρύομαι	inclusive
+EL1829	n	asm	no	μπιζέλι	inclusive
+EL1848	n	cds	no	οίηση	inclusive
+EL1473	n	om	no	Ομοερωτισμός	inclusive
+EL991	n	qas	no	απορρίπτω	conservative
+EL255	n	rci	yes	βάρβαρος	conservative
+EL1633	n	an	no	έντομο	inclusive
+EL2394	n	asm	no	φαλλικό	inclusive
+EL645	n	ddp	yes	κρετίνος	conservative
+EL833	n	om	no	πούστης	conservative
+EL75	n	om	no	σοδομία	inclusive
+EL2389	n	re	no	ενεργήσει της τρομοκρατίας	conservative
+EL1976	n	cds	no	υπερσεξουαλικές	conservative
+EL2451	n	om	no	drag queens	inclusive
+EL1977	n	cds	no	σατυρίαση	conservative
+EL646	n	cds	no	κουτός	inclusive
+EL305	n	an	no	κορόιδο	conservative
+EL1924	n	pr	no	socialite	inclusive
+EL2125	n	cds	no	γρινιάρης	conservative
+EL1847	n	cds	no	εγωισμός	inclusive
+EL681	n	qas	no	απόβρασμα	conservative
+EL1403	v	asm	no	(τον)παίρνω	conservative
+EL121	n	an	no	ανγκουίλα	inclusive
+EL1859	n	qas	no	Ρητορική	inclusive
+EL305	n	asm	no	κορόιδο	conservative
+EL2482	n	dmc	yes	treasonist	conservative
+EL418	n	ps	yes	Μαύρο	inclusive
+EL2430	n	asm	no	Πουλιά	inclusive
+EL302	n	ps	yes	patsy	conservative
+EL644	n	asm	no	μεταμορφικοί	inclusive
+EL60	n	an	no	βίσονας	inclusive
+EL526	n	asm	no	καστανό	inclusive
+EL908	n	svp	no	πόθος	inclusive
+EL871	n	ddp	yes	αγύρτης	conservative
+EL1004	n	cds	no	dastardliness	conservative
+EL2083	v	cds	no	πεθαίνω	inclusive
+EL731	n	an	no	grossness	conservative
+EL2057	n	qas	no	τρακαδόρος	conservative
+EL1076	n	dmc	yes	υποκριτής	conservative
+EL2191	a	ps	yes	κακόβουλος	inclusive
+EL51	n	an	no	ηλιθιότητα	conservative
+EL2302	n	an	no	κατσαρίδα	inclusive
+EL2223	a	cds	no	χαλασμένος	inclusive
+EL386	n	cds	no	απατεών	conservative
+EL181	n	asf	no	μπούμπουρας	conservative
+EL160	n	or	no	νογκίνη	inclusive
+EL585	n	dmc	yes	layabout	conservative
+EL851	n	cds	no	κουτσομπόλης	conservative
+EL303	n	an	no	πτώση τύπος	conservative
+EL1230	n	cds	no	μαστροπεία	conservative
+EL184	n	or	no	dumbass	conservative
+EL1210	n	dmc	yes	περνούν όλα-	inclusive
+EL393	n	cds	no	ληστές	conservative
+EL419	n	ps	yes	μαύρο	inclusive
+EL1054	n	an	no	doodly-squat	conservative
+EL1772	n	re	no	Μαφία	inclusive
+EL910	n	svp	no	επιθυμία	inclusive
+EL1449	n	cds	no	αγγελιοφόρος αγόρι	inclusive
+EL2150	n	cds	no	δουλειά χέρι	conservative
+EL2467	n	re	no	ορμή	inclusive
+EL483	n	cds	no	δογματισμός	conservative
+EL675	n	cds	no	λαξευτής	inclusive
+EL720	n	an	no	κατσίκες	inclusive
+EL460	n	an	no	κερατώνω	conservative
+EL490	n	ddp	yes	fumbler	conservative
+EL1736	n	pr	no	Σκώρος	inclusive
+EL1586	n	cds	no	splashiness	inclusive
+EL1019	n	pr	no	Παλλακεία	inclusive
+EL172	n	ps	yes	ανόητος	conservative
+EL1572	n	is	yes	απορία	inclusive
+EL1711	n	cds	no	καμπινές	inclusive
+EL836	n	or	no	αδερφή	conservative
+EL1522	n	cds	no	γουίλερ αντιπρόσωπο	conservative
+EL1442	n	re	no	βρόμικο χρήμα	inclusive
+EL406	n	ddp	yes	blabbermouth	conservative
+EL1710	n	cds	no	μέρος	inclusive
+EL430	n	dmc	yes	προσβάλλω	conservative
+EL700	n	cds	no	clann	inclusive
+EL593	n	cds	no	αχρείος	conservative
+EL2184	n	cds	no	μωρό	inclusive
+EL981	n	or	no	αγγούρια	inclusive
+EL1044	n	cds	no	παράνομες δραστηριότητες	inclusive
+EL607	n	an	no	στόμα	inclusive
+EL471	n	cds	no	blooper	inclusive
+EL849	n	ddp	yes	rumourmonger	conservative
+EL2065	v	qas	no	κάνω καζούρα	conservative
+EL1242	n	qas	no	γεωργός	inclusive
+EL2458	n	cds	no	αργυρώνητο	conservative
+EL560	n	ps	yes	βουλγάρικα	inclusive
+EL1185	n	dmc	yes	ευπρέπεια	inclusive
+EL1113	n	cds	no	αλεπού	conservative
+EL528	n	pr	no	νορβηγία rat	inclusive
+EL2253	a	dmc	yes	λερωμένος	inclusive
+EL396	n	an	no	τράγος	inclusive
+EL2179	n	an	no	poulet	inclusive
+EL606	n	an	no	cakehole	inclusive
+EL434	n	dmc	yes	γκαφατζής	conservative
+EL647	n	ddp	yes	changeling	inclusive
+EL2455	n	dmc	yes	πλάνητος	inclusive
+EL972	n	qas	no	συμμόρφωση	inclusive
+EL168	n	ddp	yes	χονδροκέφαλος	conservative
+EL1765	n	cds	no	μπάτσος	inclusive
+EL491	n	cds	no	ατζαμής	conservative
+EL313	n	or	no	pudden-κεφάλι	conservative
+EL1222	n	qas	no	γνωστοποίηση	inclusive
+EL417	n	cds	no	άτακτος	conservative
+EL6	n	is	yes	εξαθλίωση	inclusive
+EL2041	n	dmc	yes	κλόουν	inclusive
+EL535	n	qas	no	businessperson	inclusive
+EL1243	n	qas	no	sodbuster	inclusive
+EL1301	n	asm	no	Φάουλ	inclusive
+EL1983	n	an	no	Χην	inclusive
+EL1171	n	re	no	κακουργήματα	inclusive
+EL1949	n	ps	yes	νεγροειδής	inclusive
+EL358	n	ps	yes	βεδουίνων	inclusive
+EL561	n	ps	yes	Βουλγάρα	inclusive
+EL515	n	an	no	αγελάδα	conservative
+EL565	n	svp	no	ματαιοδοξία	conservative
+EL251	n	cds	no	χωριάτης	conservative
+EL517	n	an	no	βόδια	inclusive
+EL450	n	cds	no	από-χτύπημα	inclusive
+EL253	n	dmc	yes	αγροίκος	conservative
+EL973	n	cds	no	sonny boy	inclusive
+EL1072	n	svp	no	Αηδία	inclusive
+EL135	n	ddp	yes	πλάσμα	inclusive
+EL633	n	cds	no	ψοφίμια	inclusive
+EL1833	n	asm	no	μπιζέλια	inclusive
+EL1552	n	ddf	yes	κινητικά προβλήματα	inclusive
+EL1656	n	asm	no	πέος	inclusive
+EL882	n	cds	no	παλιοσίδερα	conservative
+EL2	v	an	no	γαβγίζω	inclusive
+EL1812	n	qas	no	Παράσιτο	inclusive
+EL1360	n	cds	no	το κλειδί στο χέρι	inclusive
+EL2438	n	an	no	φάρσες	conservative
+EL1505	n	qas	no	σπίτι ζωγράφος	inclusive
+EL786	n	pa	yes	καθηγητές	inclusive
+EL1779	n	cds	no	Κόζα Νόστρα	inclusive
+EL1853	n	re	no	εκβιαστής	inclusive
+EL907	n	svp	no	δίψα	inclusive
+EL249	n	qas	no	Βάρβαροι	conservative
+EL187	n	ddp	yes	βλάκας	inclusive
+EL697	n	ps	yes	Κινέζα	inclusive
+EL581	n	svp	no	αλήτης	conservative
+EL165	n	ddp	yes	βλακεία	conservative
+EL749	n	cds	no	διαβολάνθρωπος	conservative
+EL2230	n	re	no	απαγωγείς	inclusive
+EL944	n	an	no	κροκοδείλου	inclusive
+EL1372	n	asf	no	ηβική τρίχα	inclusive
+EL832	n	om	no	poove	conservative
+EL511	n	pr	no	Βόδι	inclusive
+EL1261	n	or	no	φινόκιο	inclusive
+EL1305	n	cds	no	τεκτονικό τάγμα	inclusive
+EL757	n	qas	no	αστός	inclusive
+EL1344	n	asm	no	ευρωπαϊκή φασόλι	inclusive
+EL553	n	qas	no	μπουρζουαζία	inclusive
+EL1033	n	ps	yes	doofus	conservative
+EL942	n	an	no	crocodylia	inclusive
+EL69	n	om	no	σοδομισμό	inclusive
+EL397	n	an	no	αυτός-αίγα	inclusive
+EL110	n	ddp	yes	αγράμματος	inclusive
+EL143	n	ddp	yes	epifaunal	inclusive
+EL1804	n	qas	no	autoinfection	inclusive
+EL307	n	ddp	yes	pillock	conservative
+EL1341	n	asm	no	ευρεία φασόλια	inclusive
+EL1159	n	an	no	helix pomatia	inclusive
+EL1247	n	qas	no	αγρότισσα	inclusive
+EL381	n	cds	no	κύκλος	inclusive
+EL500	n	an	no	κτηνοβασία	conservative
+EL487	n	cds	no	bumbler	conservative
+EL2018	n	re	no	βάζοντας σε θάνατο	inclusive
+EL584	n	cds	no	απραξίας	conservative
+EL481	n	cds	no	blowhard	conservative
+EL1384	n	cds	no	μεσάζοντας	inclusive
+EL679	n	dmc	yes	αλητεία	inclusive
+EL900	n	an	no	ημίπτερα	inclusive
+EL1521	n	cds	no	ύβρις	conservative
+EL169	n	asf	no	ιδιώτης	conservative
+EL872	n	cds	no	τσαρλατάνος	conservative
+EL18	n	qas	no	ακόλουθος	inclusive
+EL283	n	an	no	κουτάβι	inclusive
+EL871	n	dmc	yes	αγύρτης	conservative
+EL544	n	om	no	sodomist	inclusive
+EL372	n	cds	no	νεανικών συμμοριών	inclusive
+EL494	n	an	no	σώμα-αρπαγή	inclusive
+EL1085	n	om	no	keister	inclusive
+EL1310	n	cds	no	δωρεάν και αποδεκτές τέκτονες	inclusive
+EL668	n	re	no	maligner	conservative
+EL176	n	an	no	bonehead	conservative
+EL51	n	ddp	yes	ηλιθιότητα	conservative
+EL2024	n	ddf	yes	ασχήμια	inclusive
+EL510	n	an	no	bos taurus	inclusive
+EL502	n	an	no	κακία	conservative
+EL763	n	cds	no	ballup	inclusive
+EL2072	v	cds	no	περιδρομιάζω	inclusive
+EL471	n	qas	no	blooper	inclusive
+EL1430	n	an	no	ψωράλογο	inclusive
+EL1108	n	om	no	της γραμμή	inclusive
+EL406	n	cds	no	blabbermouth	conservative
+EL386	n	an	no	απατεών	conservative
+EL1893	n	an	no	pip-τρίξιμο	conservative
+EL2106	v	qas	no	μπαλώνω	inclusive
+EL1335	n	dmc	yes	γκάνγκστερ	inclusive
+EL394	n	cds	no	εκτός νόμου	conservative
+EL842	n	om	no	ομοφυλόφιλος	conservative
+EL2435	n	cds	no	ντραγκέτα	inclusive
+EL885	n	cds	no	σκραπ	inclusive
+EL83	n	cds	no	αντίκες	inclusive
+EL1880	n	an	no	καρχαρία	inclusive
+EL462	n	cds	no	αδιέξοδο	inclusive
+EL2400	n	re	no	οδύνη	inclusive
+EL581	n	dmc	yes	αλήτης	conservative
+EL2229	n	re	no	απαγάγει	inclusive
+EL1043	n	re	no	έγκλημα	inclusive
+EL230	n	cds	no	bawdyhouse	inclusive
+EL1192	n	dmc	yes	ήθος	inclusive
+EL1874	n	ps	yes	μισό-κάστα	conservative
+EL723	n	an	no	νταντά-κατσίκα	inclusive
+EL2305	n	an	no	blattodea	inclusive
+EL167	n	an	no	bêtise	conservative
+EL585	n	svp	no	layabout	conservative
+EL1328	n	dmc	yes	dillydallier	conservative
+EL467	n	qas	no	γκάφα	inclusive
+EL147	n	re	no	δυσφήμηση	conservative
+EL365	n	dmc	yes	ψευδολόγος	conservative
+EL2370	n	re	no	σεξουαλικά επίθεση	inclusive
+EL1792	n	om	no	pederastic	inclusive
+EL874	n	ddp	yes	κομπογιαννίτης	conservative
+EL2021	n	cds	no	ανθρωπάκι	inclusive
+EL818	n	an	no	κουνέλια	inclusive
+EL1834	n	asm	no	μπιζελιά	inclusive
+EL2284	n	cds	no	ηθικολόγος	conservative
+EL588	n	an	no	όχλος	conservative
+EL2373	n	re	no	κακοποιήθηκε	inclusive
+EL2415	n	om	no	crossdresser	inclusive
+EL788	n	pa	yes	καρέκλα	inclusive
+EL303	n	ps	yes	πτώση τύπος	conservative
+EL584	n	svp	no	απραξίας	conservative
+EL2292	n	cds	no	σχολαστικότης	inclusive
+EL2355	a	re	no	αυθαίρετος	inclusive
+EL333	n	pr	no	floozie	conservative
+EL1727	n	ps	yes	Μόγγολος	inclusive
+EL2025	n	ddf	yes	δυσμορφία	inclusive
+EL1999	n	re	no	εκτέλεση	inclusive
+EL173	n	ps	yes	βλαξ	conservative
+EL2204	n	cds	no	συνηγορία	inclusive
+EL182	n	ddp	yes	τούβλο	conservative
+EL1762	n	svp	no	άσεμνες	inclusive
+EL253	n	cds	no	αγροίκος	conservative
+EL2168	n	re	no	αντέγραψε	inclusive
+EL2022	n	cds	no	ανθρωπάκια	inclusive
+EL438	n	ps	yes	μιγάς	conservative
+EL348	n	cds	no	δανδές	inclusive
+EL176	n	ddp	yes	bonehead	conservative
+EL920	n	an	no	κουκουβάγια	inclusive
+EL257	n	re	no	αγριότητα	inclusive
+EL864	n	an	no	δειλός	conservative
+EL307	n	or	no	pillock	conservative
+EL1229	n	cds	no	προστάτης	conservative
+EL469	n	qas	no	κακοφτιάχνω	inclusive
+EL1766	n	cds	no	αστυνομικίνα	inclusive
+EL1168	a	qas	no	τρελό	conservative
+EL453	n	re	no	εκβιασμός	inclusive
+EL169	n	an	no	ιδιώτης	conservative
+EL331	n	pr	no	δρόμο κορίτσι	conservative
+EL959	n	ps	yes	διασταύρωση	inclusive
+EL2464	n	cds	no	άθλιος	conservative
+EL965	n	cds	no	νεοφερμένος	conservative
+EL1087	n	om	no	πίσω	inclusive
+EL1067	n	cds	no	grunge	inclusive
+EL1492	n	ps	yes	Εβραίος	inclusive
+EL2369	n	re	no	σεξουαλική παρενόχληση	inclusive
+EL225	n	cds	no	μπορδέλο	inclusive
+EL174	n	cds	no	ανόητο	conservative
+EL1674	a	svp	no	ευέξαπτος	conservative
+EL2283	n	cds	no	σνομπ	conservative
+EL2432	n	asm	no	aves	inclusive
+EL1003	n	om	no	dame	inclusive
+EL1736	n	an	no	Σκώρος	inclusive
+EL1801	n	dmc	yes	chawbacon	conservative
+EL242	n	qas	no	αρχίδι	inclusive
+EL1214	n	svp	no	faineance	inclusive
+EL1454	n	pr	no	σεξουαλικές υπηρεσίες	conservative
+EL2497	n	ps	yes	Ρομά	inclusive
+EL1654	n	asm	no	Καυλί	inclusive
+EL340	n	cds	no	ψέμα	inclusive
+EL1533	n	cds	no	crooner	inclusive
+EL2381	n	cds	no	παρασυναγωγές	inclusive
+EL2395	n	asm	no	ιθυφαλλικός	inclusive
+EL1968	n	ps	yes	λατίνος	inclusive
+EL313	n	ddp	yes	pudden-κεφάλι	conservative
+EL1936	n	cds	no	ναρκισσιστική	inclusive
+EL2350	a	ddp	yes	άγευστος	inclusive
+EL679	n	an	no	αλητεία	conservative
+EL2285	n	cds	no	δοκησίσοφος	conservative
+EL2197	a	dmc	yes	κίβδηλος	conservative
+EL703	n	cds	no	φυλή	inclusive
+EL1594	n	cds	no	διδακτικό βοήθημα	inclusive
+EL489	n	ddp	yes	θλιβερή σάκο	conservative
+EL932	n	asm	no	τράνταγμα-off	conservative
+EL2175	n	an	no	Κότα	inclusive
+EL672	n	cds	no	defrauder	inclusive
+EL1033	n	asm	no	doofus	conservative
+EL1260	n	or	no	Μάραθος	inclusive
+EL1391	n	dmc	yes	καλό-για-τίποτα	conservative
+EL326	n	pr	no	σκουριές	conservative
+EL978	n	or	no	μουνί	conservative
+EL2387	n	re	no	τρομοκράτες	inclusive
+EL1444	n	re	no	λεηλασία	inclusive
+EL1232	n	cds	no	προαγωγός	conservative
+EL171	n	an	no	saphead	conservative
+EL446	n	cds	no	μαλάκας	conservative
+EL2496	n	ps	yes	Τσιγγάνοι	inclusive
+EL2110	n	dmc	yes	lingerer	conservative
+EL1980	n	asf	no	μηδαμινότητα	inclusive
+EL805	n	svp	no	Έρωτας	inclusive
+EL2448	n	cds	no	θεωρίες συνωμοσίας	inclusive
+EL1095	n	om	no	ουραία	inclusive
+EL311	n	cds	no	θερμό κατάπλασμα	conservative
+EL1688	n	or	no	meticulosity	inclusive
+EL861	n	an	no	κιοτής	conservative
+EL206	n	svp	no	επτά θανάσιμα αμαρτήματα	inclusive
+EL941	n	an	no	crocodylian	inclusive
+EL157	n	cds	no	perspicaciousness	inclusive
+EL894	n	an	no	bedbugs	inclusive
+EL1747	n	an	no	Ημίονος	inclusive
+EL1258	n	or	no	μάραθο	inclusive
+EL1049	n	an	no	diddly-squat	conservative
+EL2005	n	re	no	ανθρωποκτονία	inclusive
+EL485	n	qas	no	συμμορφούμενος με τα καθεστώτα	conservative
+EL251	n	qas	no	χωριάτης	conservative
+EL1043	n	cds	no	έγκλημα	inclusive
+EL1144	n	cds	no	wads	inclusive
+EL391	n	re	no	εγκληματίας	inclusive
+EL1329	n	dmc	yes	μελαγχολώ	conservative
+EL833	n	om	no	πούστης	inclusive
+EL369	n	dmc	yes	μισαλλόδοξος	conservative
+EL2145	a	ps	yes	έξαλλος	conservative
+EL594	n	an	no	villainess	conservative
+EL1091	n	om	no	ετερόπλευρο	inclusive
+EL2237	n	re	no	ληστείας	inclusive
+EL1520	n	cds	no	Ύβρις	inclusive
+EL812	n	asm	no	κοχλίωση	conservative
+EL408	n	ddp	yes	talebearer	conservative
+EL597	n	cds	no	παλαιό αυτοκίνητο	inclusive
+EL2331	a	ddp	yes	ανόητο	conservative
+EL1257	n	or	no	μάραθος	inclusive
+EL170	n	cds	no	μικρόνους	conservative
+EL893	n	an	no	κοριός	inclusive
+EL1805	n	qas	no	Ενδοπαράσιτο	inclusive
+EL919	n	an	no	κουκουβάγιες	inclusive
+EL993	n	qas	no	θανάτωσης	conservative
+EL433	n	an	no	λέτσος	conservative
+EL1849	n	svp	no	superbia	conservative
+EL2146	a	svp	no	θυμωμένος	inclusive
+EL1286	n	an	no	ψύλλων	inclusive
+EL1451	n	pr	no	Ιερόδουλη	conservative
+EL724	n	svp	no	minginess	conservative
+EL1621	n	re	no	ανθρωποκτόνος	inclusive
+EL531	n	qas	no	αγρότες	inclusive
+EL323	n	pr	no	μαστροπός	conservative
+EL2485	n	ps	yes	τσιγγάνος	inclusive
+EL2310	n	dmc	yes	δεύτερη εκτιμητής	conservative
+EL1437	n	re	no	κλεψιά	inclusive
+EL2099	n	cds	no	βιβλιοφάγος	conservative
+EL427	n	qas	no	μεγιστάνας	inclusive
+EL435	n	cds	no	κοπρίτης	inclusive
+EL166	n	asm	no	χαζομάρα	conservative
+EL387	n	re	no	κάθαρμα	conservative
+EL2063	n	cds	no	νεόπλουτοι	inclusive
+EL373	n	cds	no	μέλος της συμμορίας	conservative
+EL247	n	re	no	ληστής	conservative
+EL746	n	cds	no	διάβολος	conservative
+EL1537	n	cds	no	ένα αδειανό	inclusive
+EL674	n	cds	no	grifter	inclusive
+EL466	n	cds	no	bloopers	inclusive
+EL1528	n	an	no	hyaenidae	inclusive
+EL2348	a	ddp	yes	βραδύνους	conservative
+EL1468	n	om	no	Αρσενοκοιτία	inclusive
+EL50	n	ddp	yes	amentia	inclusive
+EL102	n	ddp	yes	codswallop	conservative
+EL2479	n	dmc	yes	αντάρτης	conservative
+EL1831	n	asm	no	Αρακάς	inclusive
+EL2436	n	qas	no	ζώνη βάρους	inclusive
+EL834	n	or	no	συντήρησης	conservative
+EL1133	n	pa	yes	φρουρός πόρτας	inclusive
+EL405	n	ddp	yes	μαρτυριάρης	conservative
+EL1031	n	an	no	άρπαξ	inclusive
+EL1837	n	an	no	γουρουνάκι	inclusive
+EL1029	n	an	no	συλητής	inclusive
+EL492	n	an	no	body snatchers	inclusive
+EL1914	n	asm	no	χλευαστής	conservative
+EL1220	n	qas	no	κοινολόγηση	inclusive
+EL258	n	an	no	βαρβαρισμός	inclusive
+EL498	n	ddp	yes	zooerasty	conservative
+EL1196	n	dmc	yes	έκλυση ηθών	conservative
+EL232	n	is	yes	tightwad	conservative
+EL992	n	cds	no	σφαγή	conservative
+EL108	n	cds	no	φανατισμός	inclusive
+EL1083	n	om	no	κωλομέρια	inclusive
+EL2040	n	dmc	yes	παλιάτσος	inclusive
+EL2492	n	ps	yes	Ρομ	inclusive
+EL2503	n	cds	no	culchie	inclusive
+EL1628	n	cds	no	τοκογλύφοι	inclusive
+EL605	a	ddf	yes	κακός	inclusive
+EL1406	v	asm	no	έχω σεξουαλική επαφή	conservative
+EL1452	n	pr	no	Εταίρα	conservative
+EL673	n	cds	no	chiseller	conservative
+EL1679	n	cds	no	ζωοκλέπτης	inclusive
+EL163	n	ddp	yes	ανοησία	conservative
+EL902	n	cds	no	πανουργία	conservative
+EL1961	a	ps	yes	μαύρος	inclusive
+EL1476	n	ps	yes	εβραϊκή θρησκεία	inclusive
+EL1882	n	an	no	καρχαρίας	inclusive
+EL1168	a	ddp	yes	τρελό	inclusive
+EL1827	a	dmc	yes	διαβολικός	conservative
+EL42	n	pa	yes	μέλος δεπ	inclusive
+EL2345	a	ddp	yes	βλάκας	conservative
+EL657	n	re	no	συκοφαντικό	inclusive
+EL258	n	ddp	yes	βαρβαρισμός	inclusive
+EL449	n	cds	no	παιδί αγάπη	inclusive
+EL849	n	cds	no	rumourmonger	conservative
+EL300	n	cds	no	γυναίκα διανοούμενη	inclusive
+EL745	n	asm	no	παπάρι	conservative
+EL2486	n	ps	yes	Τσιγγάνα	inclusive
+EL2054	n	qas	no	αποκτώ χωρίς πληρωμή	conservative
+EL415	n	cds	no	σατανική διαγωγή	conservative
+EL165	n	an	no	βλακεία	conservative
+EL293	n	qas	no	μπαρόκ	inclusive
+EL1478	n	ps	yes	Ιουδαίοι	inclusive
+EL644	n	ddp	yes	μεταμορφικοί	inclusive
+EL937	n	ddf	yes	σακατεύω	inclusive
+EL974	n	cds	no	αγόρι μου	inclusive
+EL2188	n	cds	no	νεογνά	inclusive
+EL204	n	svp	no	απληστία	inclusive
+EL595	n	cds	no	σαράβαλο	inclusive
+EL1892	n	an	no	Μικροοργανισμοί	inclusive
+EL2424	n	om	no	transvestitism	inclusive
+EL311	n	or	no	θερμό κατάπλασμα	conservative
+EL1202	n	an	no	προβατίνα	inclusive
+EL792	n	or	no	Κραμπί	inclusive
+EL1319	n	cds	no	φονταμενταλισμό	inclusive
+EL2066	v	re	no	ταλανίζω	inclusive
+EL516	n	pr	no	Ταύρος	inclusive
+EL2167	n	re	no	πειρατές	inclusive
+EL445	n	ddp	yes	καριόλη	conservative
+EL405	n	cds	no	μαρτυριάρης	conservative
+EL2097	a	qas	no	μελοδραματικός	inclusive
+EL1432	n	cds	no	καταδικάζω	conservative
+EL678	n	cds	no	ragtag	conservative
+EL2037	n	an	no	όρνεο	inclusive
+EL1356	n	pr	no	moll γκάγκστερ	inclusive
+EL2029	v	cds	no	ακούω	inclusive
+EL1302	n	cds	no	τέκτων	inclusive
+EL1982	n	an	no	χήνες	inclusive
+EL179	n	asf	no	knucklehead	conservative
+EL391	n	cds	no	εγκληματίας	inclusive
+EL1596	n	pa	yes	ιησουίτης	inclusive
+EL1296	n	cds	no	εξαρτημένος	conservative
+EL362	n	cds	no	ψεματάκι	conservative
+EL508	n	pr	no	Βους ο ταύρος	inclusive
+EL1716	n	dmc	yes	φυγόπονος	conservative
+EL858	n	cds	no	υπόνομος	inclusive
+EL1041	n	re	no	εγκλήματα	inclusive
+EL1082	n	om	no	ανατομικές αφορά την τοποθεσία	inclusive
+EL621	n	an	no	carcharodon	inclusive
+EL753	n	asm	no	κόκορα	inclusive
+EL304	n	ps	yes	κούτσουρο	conservative
+EL1966	n	pa	yes	μνηστήρ	inclusive
+EL2243	n	re	no	συλλαμβάνων	inclusive
+EL1825	a	dmc	yes	κακό	conservative
+EL743	n	asm	no	παπάρα	conservative
+EL2463	n	an	no	ιδιοτροπία	inclusive
+EL473	n	cds	no	σφάλμα	inclusive
+EL1308	n	cds	no	ελεύθεροι τέκτονες	inclusive
+EL1415	n	an	no	χηνάκι	inclusive
+EL550	n	qas	no	bourgeoise	inclusive
+EL140	n	ddp	yes	Ζώα	inclusive
+EL166	n	ddp	yes	χαζομάρα	conservative
+EL2234	n	re	no	Κλέφτης	inclusive
+EL495	n	pa	yes	παράγοντα εισιτήριο	inclusive
+EL250	n	ddp	yes	βάρβαρη	conservative
+EL2030	v	cds	no	αφουγκράζομαι	inclusive
+EL1770	n	cds	no	αστυνομικός	inclusive
+EL862	n	an	no	άνανδρος	conservative
+EL202	n	svp	no	Επτά θανάσιμα αμαρτήματα	inclusive
+EL767	n	cds	no	αυταρέσκεια	inclusive
+EL1542	a	dmc	yes	μίζερος	conservative
+EL592	n	cds	no	αχρείο	conservative
+EL1394	n	dmc	yes	δεν λογαριασμό	conservative
+EL333	n	an	no	floozie	conservative
+EL1668	n	svp	no	θυμωμένος	inclusive
+EL864	n	dmc	yes	δειλός	conservative
+EL885	n	qas	no	σκραπ	inclusive
+EL1994	n	cds	no	Ομερτά	inclusive
+EL1661	n	svp	no	enviousness	inclusive
+EL1045	n	cds	no	Εγκληματικότητα	inclusive
+EL1786	n	an	no	otus asio	inclusive
+EL236	n	asm	no	Όρχεις	inclusive
+EL993	n	cds	no	θανάτωσης	conservative
+EL172	n	cds	no	ανόητος	conservative
+EL1886	n	an	no	Μικρόβια	inclusive
+EL2171	a	cds	no	τετριμμένος	inclusive
+EL2405	v	re	no	πληγώνω	inclusive
+EL747	n	cds	no	ζιζάνιο	conservative
+EL1645	n	cds	no	προξενήτρα	inclusive
+EL977	n	or	no	(χυδ.) γατάκι	conservative
+EL2488	n	ps	yes	Γύφτοι	inclusive
+EL459	n	pa	yes	επιχειρηματίας	inclusive
+EL187	n	an	no	βλάκας	conservative
+EL1744	n	an	no	slowpoke	conservative
+EL1158	n	svp	no	αδηφαγία	conservative
+EL211	n	svp	no	τσιγκούνη	conservative
+EL1671	n	ddp	yes	moronity	inclusive
+EL363	n	cds	no	beguine	inclusive
+EL2232	n	re	no	raptio	inclusive
+EL138	n	ddp	yes	μετάζωα	inclusive
+EL1377	n	cds	no	ανακατωσούρης	conservative
+EL2246	a	om	no	διαφορετικός	inclusive
+EL305	n	asf	no	κορόιδο	conservative
+EL859	n	cds	no	κότα	conservative
+EL88	n	qas	no	μείγμα	inclusive
+EL2456	a	cds	no	δωροδοκούμενος	conservative
+EL306	n	asf	no	απαλό άγγιγμα	conservative
+EL935	n	asm	no	twerp	conservative
+EL1992	n	cds	no	ομερτά	inclusive
+EL464	n	dmc	yes	rakehell	conservative
+EL114	a	ddp	yes	αγράμματος	conservative
+EL1397	n	cds	no	αντιδραστικός	conservative
+EL1652	n	asm	no	Πούτσος	inclusive
+EL2136	n	an	no	Ψείρες	inclusive
+EL543	n	om	no	γαμώ	inclusive
+EL645	n	ddp	yes	κρετίνος	inclusive
+EL572	n	cds	no	ματαιοφροσύνη	conservative
+EL590	n	qas	no	μάζα	inclusive
+EL373	n	cds	no	μέλος της συμμορίας	inclusive
+EL310	n	asf	no	ηλίθιος	conservative
+EL1985	n	an	no	brant goose	inclusive
+EL421	n	qas	no	κορυφαίο στέλεχος	inclusive
+EL851	n	ddp	yes	κουτσομπόλης	conservative
+EL829	n	cds	no	δημοσιογράφος	inclusive
+EL2256	a	dmc	yes	βρώμικα	inclusive
+EL1515	n	qas	no	οικιακή εργασία	inclusive
+EL1325	n	an	no	θυμός	inclusive
+EL739	n	asm	no	πούλος	conservative
+EL2272	n	an	no	φρύνοι	inclusive
+EL167	n	asm	no	bêtise	conservative
+EL497	n	pa	yes	uncouthness	conservative
+EL646	n	asm	no	κουτός	inclusive
+EL2399	n	re	no	μαρτύριο	inclusive
+EL453	n	re	no	εκβιασμός	conservative
+EL2084	v	cds	no	κάνω παζάρια	inclusive
+EL1644	n	asm	no	καστανέρυθρο	inclusive
+EL648	n	ddp	yes	επιβραδύνουν	inclusive
+EL428	n	qas	no	ηγέτης των επιχειρήσεων	inclusive
+EL1660	a	om	no	ομοφυλόφιλη	conservative
+EL2146	a	svp	no	θυμωμένος	conservative
+EL1824	a	dmc	yes	φαύλος	conservative
+EL2111	n	dmc	yes	μικρολόγος	conservative
+EL1378	n	cds	no	αδιάκριτος	conservative
+EL834	n	om	no	συντήρησης	conservative
+EL2450	n	ps	yes	pikey	conservative
+EL165	n	asm	no	βλακεία	conservative
+EL1061	n	ps	yes	krauthead	conservative
+EL21	n	re	no	των εταιρικών καταχρήσεων	inclusive
+EL1817	n	an	no	Ψιττακόμορφα	inclusive
+EL443	n	cds	no	απεργοσπαστική	inclusive
+EL468	n	cds	no	κακοτεχνώ	inclusive
+EL2502	n	ps	yes	rroma	inclusive
+EL1974	n	cds	no	nympho	conservative
+EL994	n	cds	no	cut-up	conservative
+EL1686	n	ps	yes	μέτοικος	inclusive
+EL162	n	or	no	κούτρα	inclusive
+EL563	n	ps	yes	βουλγαρικά	inclusive
+EL816	n	asm	no	κομμάτι της κώλο	conservative
+EL2192	a	ddf	yes	τυφλός	inclusive
+EL897	n	an	no	bug κρεβάτι	inclusive
+EL649	n	ps	yes	καθυστερημένος	conservative
+EL1102	n	om	no	dorsolateral	inclusive
+EL980	n	or	no	αγγουριά	inclusive
+EL2217	n	pa	yes	λογιστής	inclusive
+EL198	n	an	no	wisent	inclusive
+EL2115	n	cds	no	κουτσομπολιά	inclusive
+EL403	n	an	no	Βίσονας	inclusive
+EL68	n	om	no	Πρωκτικό σεξ	inclusive
+EL241	n	qas	no	όρχεις	inclusive
+EL2091	n	or	no	Στρύχνον το κονδυλόρριζον	inclusive
+EL2420	n	om	no	crossdress	inclusive
+EL2103	n	cds	no	ψείρας	conservative
+EL2227	n	or	no	brassica rapa	inclusive
+EL2035	n	an	no	οχιά	inclusive
+EL173	n	asf	no	βλαξ	conservative
+EL1474	n	om	no	ίδιου φύλου	inclusive
+EL2260	n	qas	no	μεγαλορρήμονας	inclusive
+EL1991	n	re	no	τρομοκράτης	inclusive
+EL2206	n	cds	no	υπεράσπιση	inclusive
+EL2303	n	an	no	blattaria	inclusive
+EL1799	n	dmc	yes	αγένεια	conservative
+EL1370	n	asf	no	τρίχωμα της ήβης	inclusive
+EL339	n	cds	no	ψεύδος	conservative
+EL2095	n	or	no	πατάτας	inclusive
+EL1334	n	dmc	yes	μαφιόζου	inclusive
+EL246	n	cds	no	ληστή	inclusive
+EL2487	n	ps	yes	Μελελέ	inclusive
+EL1748	n	an	no	μουσούδα	inclusive
+EL2031	n	cds	no	τοκογλυφία	inclusive
+EL648	n	asm	no	επιβραδύνουν	inclusive
+EL2311	n	an	no	τσακάλια	inclusive
+EL1869	n	cds	no	λυμάτων	inclusive
+EL1907	n	pa	yes	τσοπάνης	inclusive
+EL1454	n	pr	no	σεξουαλικές υπηρεσίες	inclusive
+EL395	n	re	no	κακοποιός	conservative
+EL423	n	qas	no	βιομήχανος	inclusive
+EL369	n	cds	no	μισαλλόδοξος	conservative
+EL1142	n	cds	no	slews	inclusive
+EL88	n	cds	no	μείγμα	inclusive
+EL420	n	ps	yes	μελανώδες	inclusive
+EL1701	n	cds	no	αποχωρητήριο	inclusive
+EL1323	n	cds	no	φονταμενταλιστές	inclusive
+EL2060	n	cds	no	νεόπλουτος	inclusive
+EL2472	n	an	no	vipera	inclusive
+EL576	n	dmc	yes	αποβράσματα τσάντα	inclusive
+EL765	n	an	no	culex pipiens	inclusive
+EL2047	v	cds	no	πολυλογώ	conservative
+EL740	n	asm	no	πούλλος	conservative
+EL2138	n	an	no	Φθειρ	inclusive
+EL573	n	cds	no	όγκος	inclusive
+EL1246	n	qas	no	κτηνοτρόφος	inclusive
+EL567	n	svp	no	έπαρση	conservative
+EL1040	n	re	no	εγκληματική πράξη	inclusive
+EL476	n	qas	no	boo-boo	inclusive
+EL645	n	ps	yes	κρετίνος	conservative
+EL502	n	dmc	yes	κακία	inclusive
+EL1089	n	om	no	γλουτοί	inclusive
+EL36	n	cds	no	μεσίτης	inclusive
+EL583	n	dmc	yes	αλήτες	conservative
+EL2290	n	cds	no	σχολαστικότητα	inclusive
+EL261	n	pa	yes	διπλωματικό	inclusive
+EL434	n	ddp	yes	γκαφατζής	conservative
+EL1923	n	pr	no	κοσμικός άνθρωπος	inclusive
+EL1292	n	dmc	yes	γελωτοποιός	inclusive
+EL265	n	pa	yes	συνήγορος	inclusive
+EL515	n	pr	no	αγελάδα	conservative
+EL772	n	qas	no	κάστες	inclusive
+EL2049	v	qas	no	τα κάνω μούσκεμα	conservative
+EL266	n	pa	yes	σύμβουλος-at-law	inclusive
+EL248	n	cds	no	ληστεία	inclusive
+EL187	n	ddp	yes	βλάκας	conservative
+EL2102	n	cds	no	know-it-όλα	conservative
+EL1470	n	om	no	ομοφυλόφιλο	inclusive
+EL868	v	cds	no	φλυαρώ	inclusive
+EL1471	n	om	no	homoeroticism	inclusive
+EL2361	n	re	no	debaucher	conservative
+EL790	n	pa	yes	καθ	inclusive
+EL1396	n	cds	no	ακροδεξιά-εξτρέμ	conservative
+EL852	n	an	no	φυσιογνωμιστής	inclusive
+EL388	n	an	no	απατεώνας	conservative
+EL133	n	an	no	αναπαραγωγή των ζώων	inclusive
+EL645	n	asm	no	κρετίνος	inclusive
+EL1543	n	dmc	yes	απομίμηση	inclusive
+EL1589	n	cds	no	στόμφος	inclusive
+EL368	n	pa	yes	bellman	inclusive
+EL499	n	an	no	zooerastia	conservative
+EL177	n	or	no	shithead	conservative
+EL1186	n	dmc	yes	δεοντολογία	inclusive
+EL2410	n	pa	yes	εργαζόμενους σε υπαλληλικές θέσεις	inclusive
+EL671	n	cds	no	καμόρα	inclusive
+EL2391	n	asm	no	Φαλλός	inclusive
+EL1376	n	cds	no	θεατής	conservative
+EL838	n	om	no	Κίναιδος	conservative
+EL255	n	pa	yes	βάρβαρος	conservative
+EL2319	a	svp	no	φιλήδονος	conservative
+EL344	n	cds	no	απλώστρες	inclusive
+EL253	n	pa	yes	αγροίκος	conservative
+EL173	n	ddp	yes	βλαξ	conservative
+EL2094	n	or	no	γεώμηλο	inclusive
+EL74	n	om	no	sodomized	inclusive
+EL650	n	cds	no	δύσμορφος	inclusive
+EL1575	n	is	yes	ποσοστό της φτώχειας	inclusive
+EL1628	n	cds	no	τοκογλύφοι	conservative
+EL2210	n	pr	no	παλιοκόριτσο	conservative
+EL737	n	asm	no	πουλί	inclusive
+EL649	n	ddp	yes	καθυστερημένος	conservative
+EL292	n	qas	no	baroqueness	inclusive
+EL1557	n	ddp	yes	μαλάκα	conservative
+EL879	n	qas	no	σκουπίδια	inclusive
+EL864	n	cds	no	δειλός	conservative
+EL250	n	qas	no	βάρβαρη	conservative
+EL1330	n	svp	no	dilly-dallier	conservative
+EL1624	n	cds	no	δανεισμό χρημάτων	conservative
+EL1595	n	cds	no	εκπαιδευτή	inclusive
+EL2332	n	an	no	sciaenops ocellatus	inclusive
+EL1690	n	cds	no	schoolmarm	conservative
+EL1362	n	cds	no	σωφρονιστικό υπάλληλο	inclusive
+EL1525	n	an	no	Υαινίδες	inclusive
+EL1653	n	cds	no	όργανο	inclusive
+EL1075	n	dmc	yes	υποκριτική	conservative
+EL1818	n	an	no	παπαγάλοι	inclusive
+EL640	n	an	no	λαπάς	conservative
+EL726	n	svp	no	tightfistedness	conservative
+EL1184	n	qas	no	ερασιτέχνες	inclusive
+EL2114	a	om	no	ανώμαλος	inclusive
+EL1934	n	cds	no	Ναρκισσισμός	inclusive
+EL912	n	an	no	vamp	conservative
+EL2208	a	ddf	yes	χωλός	inclusive
+EL2274	n	an	no	βάτραχος	inclusive
+EL1735	n	an	no	σκώροι	inclusive
+EL1626	n	cds	no	moneylending	inclusive
+EL2045	n	an	no	μουρντάρης	conservative
+EL1008	n	dmc	yes	εξαπάτηση	conservative
+EL489	n	cds	no	θλιβερή σάκο	conservative
+EL477	n	cds	no	φάουλ-up	inclusive
+EL2064	v	re	no	βασανίζω	inclusive
+EL179	n	ddp	yes	knucklehead	conservative
+EL1405	v	asm	no	κοιμάμαι(με)	conservative
+EL815	n	asm	no	nookie	conservative
+EL1259	n	om	no	Φοινίκουλον	inclusive
+EL539	n	qas	no	άνθρωπος των επιχειρήσεων	inclusive
+EL1263	n	dmc	yes	fetor	conservative
+EL1517	n	qas	no	χαμόσπιτο	inclusive
+EL107	n	cds	no	ζηλωτές	inclusive
+EL466	n	qas	no	bloopers	inclusive
+EL1289	n	cds	no	σμήνος	inclusive
+EL2215	n	pr	no	αερολογίες	conservative
+EL702	n	cds	no	φύλο	inclusive
+EL1361	n	cds	no	δεσμοφύλακας	inclusive
+EL863	n	an	no	φοβιτσιάρης	conservative
+EL145	n	ddp	yes	Μεσοπανίδα	inclusive
+EL1954	n	ps	yes	νέγροι	inclusive
+EL1908	n	pa	yes	ποιμένας	inclusive
+EL2247	n	cds	no	truckler	conservative
+EL488	n	qas	no	κακοτέχνης	conservative
+EL2429	n	asm	no	πτηνό	inclusive
+EL431	n	dmc	yes	γουρούνι	conservative
+EL961	n	ps	yes	Υβρίδια	inclusive
+EL2441	n	ps	yes	κίτρινη κάρτα	inclusive
+EL1663	n	svp	no	ζηλοφθονία	inclusive
+EL2407	n	an	no	καταπίνων μπαλόνι	inclusive
+EL1080	n	dmc	yes	υποκρισία	conservative
+EL841	n	om	no	γκέι	inclusive
+EL41	n	pa	yes	ακαδημαϊκός	inclusive
+EL1497	n	cds	no	λαουτζίκος	conservative
+EL246	n	an	no	ληστή	inclusive
+EL2104	n	cds	no	φιλόνικος	conservative
+EL2092	n	or	no	πατάτα	inclusive
+EL870	v	cds	no	σαχλαμαρίζω	inclusive
+EL1455	n	pr	no	Πόρνη	inclusive
+EL1037	n	re	no	εγκληματική συμπεριφορά	inclusive
+EL238	n	qas	no	ballock	inclusive
+EL1134	n	pa	yes	πορτιέρης	inclusive
+EL2454	n	an	no	rouncey	inclusive
+EL950	n	an	no	crocodylidae	inclusive
+EL388	n	dmc	yes	απατεώνας	conservative
+EL640	n	cds	no	λαπάς	conservative
+EL1790	n	om	no	παιδεραστία	inclusive
+EL9	n	svp	no	Αβουλία	inclusive
+EL1754	n	cds	no	nerdy	conservative
+EL2356	a	re	no	βίαιη	inclusive
+EL1979	n	asf	no	τεχνικός όρος	inclusive
+EL1553	n	ddf	yes	άτομα με ειδικές ανάγκες	inclusive
+EL254	n	dmc	yes	χωριάτη	conservative
+EL1662	n	svp	no	φθόνος	inclusive
+EL2267	n	an	no	βατραχοειδές	inclusive
+EL1808	n	qas	no	Ξενιστής	inclusive
+EL78	n	svp	no	ραθυμία	conservative
+EL1993	n	cds	no	omerta	inclusive
+EL681	n	an	no	απόβρασμα	conservative
+EL1481	n	ps	yes	hebraism	inclusive
+EL2147	a	svp	no	τρελός	inclusive
+EL846	n	om	no	λεσβία	conservative
+EL1038	n	re	no	εγκληματικές δραστηριότητες	inclusive
+EL2133	n	an	no	ψείρα	inclusive
+EL1179	n	qas	no	ημιμαθής	conservative
+EL2214	n	pr	no	guff	conservative
+EL2074	v	an	no	γκαρίζω	inclusive
+EL484	n	cds	no	θρησκοληψία	inclusive
+EL156	n	cds	no	οξύνοια,οξυδέρκεια, διορατικότητα,εξυπνάδα	inclusive
+EL2417	n	om	no	cross-φόρεμα	inclusive
+EL869	v	cds	no	μιλώ γρήγορα	inclusive
+EL2374	n	re	no	σεξουαλικής κακοποίησης	inclusive
+EL979	n	or	no	μουνάκι	conservative
+EL170	n	an	no	μικρόνους	conservative
+EL105	n	cds	no	διώκτης	conservative
+EL1708	n	cds	no	λουτρό	inclusive
+EL1900	n	an	no	Ζυγούρι	inclusive
+EL1692	n	dmc	yes	μικροκλέφτης	conservative
+EL1151	n	dmc	yes	ανεμότρατα	inclusive
+EL2026	n	dmc	yes	ατυχής	inclusive
+EL2185	n	cds	no	νήπιο	inclusive
+EL1506	n	qas	no	ζωγράφος και διακοσμητής	inclusive
+EL2413	n	om	no	cross-dressing	inclusive
+EL1393	n	dmc	yes	άχρηστος	conservative
+EL2152	n	cds	no	jacking off	conservative
+EL1012	n	cds	no	δημαγωγός	conservative
+EL388	n	cds	no	απατεώνας	conservative
+EL1878	n	ps	yes	αμάλγαμα	conservative
+EL933	n	asm	no	wanker	conservative
+EL1283	n	cds	no	κατσαρόλα των ψαριών	inclusive
+EL1150	n	cds	no	μαστιγώσει	inclusive
+EL2443	n	cds	no	Θεωρία Συνωμοσίας	inclusive

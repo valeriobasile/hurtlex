@@ -1,0 +1,5181 @@
+id	pos	category	stereotype	lemma	level
+PL1913	n	qas	no	rolnik	inclusive
+PL2120	n	dmc	yes	goof-off	conservative
+PL1608	n	an	no	nic	conservative
+PL2561	n	qas	no	opiekun rynku	inclusive
+PL591	n	an	no	łobuz	conservative
+PL2582	n	asm	no	siusiak	inclusive
+PL2469	n	cds	no	sowizrzał	inclusive
+PL2396	n	ddp	yes	nonsens	conservative
+PL3687	n	an	no	lampyris noctiluca	inclusive
+PL3605	a	is	yes	lichy	inclusive
+PL219	n	re	no	zgwałcenie	conservative
+PL3731	n	re	no	agonia	inclusive
+PL2611	n	ddp	yes	moronity	inclusive
+PL2452	n	cds	no	psor	inclusive
+PL1972	n	pa	yes	fishwife	inclusive
+PL1700	n	om	no	dorsoventral	inclusive
+PL3181	n	an	no	pijawka	inclusive
+PL261	n	asf	no	nieuk	conservative
+PL3069	n	qas	no	dzierżawców	inclusive
+PL160	a	svp	no	drapieżny	conservative
+PL2533	n	cds	no	sharking kredytu	conservative
+PL1891	n	cds	no	sutenerstwo	inclusive
+PL868	n	qas	no	tłum	inclusive
+PL2709	n	an	no	komary	inclusive
+PL2250	n	om	no	homoseksualność	inclusive
+PL2215	n	pr	no	prostytucja	inclusive
+PL265	n	asm	no	cymbał	conservative
+PL1152	n	asm	no	kurka	inclusive
+PL3830	a	asm	no	kawowy	inclusive
+PL779	n	asm	no	brązowość	inclusive
+PL1151	n	cds	no	przeklętnik	conservative
+PL1537	n	dmc	yes	szalbierstwo	conservative
+PL3713	n	re	no	akt terroryzmu	conservative
+PL3207	v	re	no	przywłaszczać	inclusive
+PL2103	n	cds	no	buchać	conservative
+PL2316	n	qas	no	prace domowe	inclusive
+PL1594	n	ps	yes	niszczyciel	conservative
+PL896	a	ddf	yes	nikczemny	conservative
+PL2777	n	cds	no	paparazzi	inclusive
+PL208	n	an	no	reprodukcja zwierzęca	inclusive
+PL1003	n	pr	no	suka	conservative
+PL2526	n	re	no	neonaticide	inclusive
+PL2871	n	svp	no	honor	inclusive
+PL378	n	qas	no	trader	inclusive
+PL2955	n	an	no	trzonkooczne	inclusive
+PL568	n	dmc	yes	bigoterii	conservative
+PL577	n	qas	no	szajka	inclusive
+PL422	n	cds	no	blackballing	inclusive
+PL1499	n	om	no	pani	inclusive
+PL2769	n	an	no	wolec	inclusive
+PL2054	n	dmc	yes	gangsterów	inclusive
+PL2739	n	cds	no	stróż prawa	inclusive
+PL3566	n	an	no	żaby	inclusive
+PL3792	n	cds	no	'ndrangheta	inclusive
+PL590	n	cds	no	grupa	inclusive
+PL1573	n	qas	no	łajdus	conservative
+PL1902	n	pr	no	flama	conservative
+PL3217	n	qas	no	bad hat	conservative
+PL1131	n	qas	no	zamęt	inclusive
+PL129	n	svp	no	gnuśność	inclusive
+PL3655	n	an	no	sciaenops	inclusive
+PL2458	n	cds	no	pan	inclusive
+PL2536	n	cds	no	loansharking	inclusive
+PL41	n	re	no	znęcanie się	inclusive
+PL873	n	qas	no	hołota	conservative
+PL3807	n	cds	no	teoria spiskowa	inclusive
+PL1962	n	asm	no	wyłowić	inclusive
+PL1157	n	cds	no	przejąć się	conservative
+PL2949	n	pa	yes	pasterza	inclusive
+PL553	n	dmc	yes	kłamczuch	conservative
+PL343	n	dmc	yes	oprych	inclusive
+PL1447	n	ps	yes	mieszańca sztucznie	inclusive
+PL2691	n	svp	no	próżniaków	conservative
+PL943	n	an	no	żarłacza białego	inclusive
+PL511	n	dmc	yes	nieprawda	inclusive
+PL709	n	cds	no	flub	inclusive
+PL2656	n	cds	no	schoolmarm	conservative
+PL3	n	dmc	yes	podłość	inclusive
+PL3285	n	cds	no	mądrala	conservative
+PL2365	n	dmc	yes	basałyk	inclusive
+PL3761	n	om	no	crossdress	inclusive
+PL2930	n	ddp	yes	microcephalic	inclusive
+PL285	n	an	no	osły	inclusive
+PL3621	n	an	no	karaluch	inclusive
+PL2980	n	cds	no	wężyk	inclusive
+PL3286	n	cds	no	know-it-all	conservative
+PL2080	n	cds	no	gaoler	inclusive
+PL3715	n	re	no	terrorystów	inclusive
+PL2933	n	ddp	yes	mikrocefalia	inclusive
+PL3459	a	qas	no	klasyczny	inclusive
+PL3633	n	dmc	yes	średniak	conservative
+PL766	n	pr	no	bydło	inclusive
+PL3110	n	re	no	mord	inclusive
+PL220	n	cds	no	przemyślność	inclusive
+PL754	n	ddp	yes	ferociousness	conservative
+PL2363	n	dmc	yes	ananas	inclusive
+PL2479	a	dmc	yes	brzydki	conservative
+PL1633	n	cds	no	maź	inclusive
+PL27	n	re	no	poniewierka	inclusive
+PL1600	n	re	no	nielegalnej działalności	inclusive
+PL2757	n	cds	no	capo di tutti capi	inclusive
+PL1893	n	cds	no	stręczycielstwo	conservative
+PL2045	n	svp	no	pustka	conservative
+PL196	n	an	no	węgorze	inclusive
+PL1388	n	an	no	kokietka	conservative
+PL2147	v	asm	no	chodzić do łóżka	conservative
+PL1384	n	svp	no	pragnienie	inclusive
+PL880	n	cds	no	tałałajstwo	conservative
+PL816	n	qas	no	klasy średniej	inclusive
+PL1358	n	cds	no	złomu	conservative
+PL868	n	cds	no	tłum	conservative
+PL3596	a	dmc	yes	plugawy	conservative
+PL2500	n	svp	no	namiętność	inclusive
+PL3816	n	pa	yes	szewc	inclusive
+PL2809	n	an	no	psittaciformes	inclusive
+PL2398	n	ddp	yes	nonsensicality	conservative
+PL1078	n	ps	yes	chińczyk	inclusive
+PL1637	n	cds	no	naoliwić	inclusive
+PL3175	n	an	no	chaser kobieta	conservative
+PL3053	n	asf	no	pierdoła	inclusive
+PL364	n	rci	yes	prościuch	conservative
+PL298	n	svp	no	skąpiec	conservative
+PL1091	n	cds	no	podklan	inclusive
+PL1867	n	dmc	yes	zbytnik	inclusive
+PL2351	n	ddp	yes	głuptactwo	inclusive
+PL966	n	dmc	yes	społecznym wyrzutkiem	inclusive
+PL596	n	cds	no	kryminalista	conservative
+PL535	n	ps	yes	beduinów	inclusive
+PL2479	a	ddf	yes	brzydki	conservative
+PL528	n	cds	no	bufon	conservative
+PL1864	n	dmc	yes	rozrzutnik	inclusive
+PL435	n	or	no	dałn	conservative
+PL75	n	pa	yes	członkiem korespondentem	inclusive
+PL3735	n	re	no	tortur	inclusive
+PL1571	n	qas	no	łajza	conservative
+PL658	n	cds	no	kundel	inclusive
+PL430	n	asm	no	frajer	conservative
+PL2663	n	cds	no	łazienka	inclusive
+PL453	n	ddp	yes	przygłup	conservative
+PL74	n	qas	no	dyletanctwo	conservative
+PL3214	v	asm	no	sięgać po cudze	conservative
+PL882	n	is	yes	chuligan	conservative
+PL358	n	pa	yes	barbarzyństwo	conservative
+PL2110	n	an	no	kozłowate	inclusive
+PL1294	n	an	no	gębusia	inclusive
+PL775	n	asm	no	brunatnieć	inclusive
+PL2368	n	re	no	urwis	inclusive
+PL1329	v	cds	no	szczękać	inclusive
+PL1956	n	dmc	yes	zapaszek	conservative
+PL670	n	cds	no	dickhead	conservative
+PL425	n	cds	no	blackballed	inclusive
+PL1370	n	an	no	podsłuch	inclusive
+PL510	n	dmc	yes	niezgodność z prawdą	inclusive
+PL855	n	dmc	yes	dirty dog	conservative
+PL1626	n	ps	yes	fryc	conservative
+PL1096	n	cds	no	familia	inclusive
+PL366	n	ps	yes	grubianin	conservative
+PL3310	v	cds	no	zbiec	inclusive
+PL872	n	qas	no	rozgromienie	inclusive
+PL985	n	an	no	mizerak	conservative
+PL3210	v	re	no	sprzeniewierzać	inclusive
+PL1672	n	dmc	yes	udawanie	conservative
+PL686	n	re	no	szantaż	conservative
+PL489	n	pr	no	małpa	conservative
+PL2978	n	or	no	winorośli squash	inclusive
+PL142	n	cds	no	kruczek	inclusive
+PL1264	n	or	no	konserwacyjne	conservative
+PL2963	n	ps	yes	rasa mongoloidalna	conservative
+PL1277	n	or	no	gay	conservative
+PL3859	n	dmc	yes	treasonist	conservative
+PL1586	n	an	no	szabrownik	inclusive
+PL1674	n	om	no	przeciwnej	inclusive
+PL1079	n	ps	yes	ryżojad	inclusive
+PL1145	n	asm	no	trzonek	conservative
+PL2518	n	cds	no	pic	conservative
+PL421	n	an	no	ścierwojad	conservative
+PL3523	n	re	no	grabienie	inclusive
+PL3130	n	or	no	pomidor	inclusive
+PL1378	n	cds	no	cwaność	conservative
+PL3591	n	cds	no	mądry facet	conservative
+PL3211	v	asm	no	sprzeniewierzyć	conservative
+PL1846	a	dmc	yes	zasługujący na pogardę	conservative
+PL330	n	asm	no	ballock	inclusive
+PL2522	n	qas	no	przeleżeć	conservative
+PL2972	n	pr	no	bywalec	inclusive
+PL2060	n	asm	no	europejski bean	inclusive
+PL3018	n	ps	yes	negroidalna rasa człowieka	inclusive
+PL1453	n	cds	no	stonka	inclusive
+PL3868	n	ps	yes	rom	inclusive
+PL2676	n	cds	no	kibel	inclusive
+PL1364	n	cds	no	odrzuty	inclusive
+PL598	n	cds	no	przestępca	inclusive
+PL1790	n	cds	no	entuzjasta	inclusive
+PL1253	n	cds	no	zmowa milczenia	inclusive
+PL654	n	ps	yes	mieszaniec	inclusive
+PL369	n	qas	no	wieśniak	conservative
+PL3179	n	an	no	krwiopijca	conservative
+PL1496	n	cds	no	żartowniś	conservative
+PL1162	n	cds	no	zaniepokoić się	conservative
+PL372	n	qas	no	prymityw	conservative
+PL2304	a	svp	no	łapczywy	inclusive
+PL128	n	svp	no	bezwład	inclusive
+PL735	n	dmc	yes	fuszer	conservative
+PL3250	v	cds	no	przejść	inclusive
+PL1005	n	cds	no	pipa	conservative
+PL2012	n	cds	no	wolnomurarstwo	inclusive
+PL2520	n	dmc	yes	puc	inclusive
+PL2163	n	an	no	świniak	inclusive
+PL3451	a	qas	no	szeregowy	inclusive
+PL1327	n	an	no	boidusza	conservative
+PL3220	n	qas	no	hałaburda	conservative
+PL3851	n	dmc	yes	zdrajca	conservative
+PL1533	n	dmc	yes	nabieranie	conservative
+PL449	n	cds	no	pillock	conservative
+PL1998	n	asm	no	napletek	inclusive
+PL2546	n	an	no	insekt	inclusive
+PL2757	n	cds	no	capo di tutti capi	conservative
+PL1485	n	cds	no	wyselekcjonować	conservative
+PL447	n	asm	no	bezmózgowiec	conservative
+PL291	n	svp	no	siedmiu grzechów głównych	inclusive
+PL3071	n	an	no	gęsi	inclusive
+PL408	n	qas	no	baronów	inclusive
+PL3543	a	om	no	niejednakowy	inclusive
+PL1936	n	cds	no	finta	inclusive
+PL2612	a	svp	no	drażliwy	conservative
+PL499	n	pr	no	męskiej eskorty	conservative
+PL432	n	an	no	spaść faceta	conservative
+PL603	n	ps	yes	dzikolud	inclusive
+PL2715	n	an	no	ćmy	inclusive
+PL297	n	svp	no	sknera	conservative
+PL1267	n	om	no	niewieściuch	conservative
+PL455	n	asm	no	tłumok	conservative
+PL1756	n	ps	yes	cygan	inclusive
+PL2671	n	cds	no	public convenience	inclusive
+PL2240	n	om	no	shirtlifter	inclusive
+PL1630	n	cds	no	breja	inclusive
+PL1803	n	re	no	oskarżeniu tylko wykroczenie	inclusive
+PL3181	n	an	no	pijawka	conservative
+PL1043	n	re	no	defrauder	inclusive
+PL3083	n	re	no	terrorystka	inclusive
+PL3178	n	qas	no	freeloader	conservative
+PL240	n	ddp	yes	szaleństwo	conservative
+PL600	n	an	no	kozioł	inclusive
+PL2032	n	an	no	srożyć się	inclusive
+PL746	n	an	no	ciała wyrywając	inclusive
+PL2423	n	is	yes	nędzarzy	inclusive
+PL1042	n	re	no	chiseler	inclusive
+PL1143	n	asm	no	koń	conservative
+PL123	n	om	no	analny	inclusive
+PL3089	n	re	no	morderstw	inclusive
+PL478	n	pr	no	dziwka	conservative
+PL2653	n	cds	no	schoolma'am	conservative
+PL100	n	svp	no	amour propre	conservative
+PL1886	n	cds	no	maniak	conservative
+PL2574	n	asm	no	parówa	inclusive
+PL3005	n	ps	yes	nigga	conservative
+PL1045	n	cds	no	grifter	inclusive
+PL739	n	dmc	yes	brakoróbca	conservative
+PL3109	n	re	no	zgładzanie	inclusive
+PL2100	n	cds	no	widz	conservative
+PL53	n	cds	no	makler	inclusive
+PL1473	n	or	no	ogórek	inclusive
+PL358	n	ps	yes	barbarzyństwo	conservative
+PL2638	n	ps	yes	hermetycznych	inclusive
+PL239	n	ddp	yes	głupota	conservative
+PL1757	n	ps	yes	chachar	inclusive
+PL402	n	an	no	piesek	inclusive
+PL526	n	cds	no	dandys	inclusive
+PL2683	n	cds	no	ustęp	inclusive
+PL2029	n	an	no	najeżać się	inclusive
+PL453	n	asf	no	przygłup	conservative
+PL2523	n	cds	no	leżeć	inclusive
+PL1506	v	asm	no	zżerać	inclusive
+PL1724	n	svp	no	gourmand	inclusive
+PL321	n	svp	no	cheapskate	conservative
+PL998	n	ddp	yes	opóźniać	inclusive
+PL1446	n	cds	no	hybryd	inclusive
+PL444	n	ps	yes	kretyn	conservative
+PL392	n	pa	yes	obrona	inclusive
+PL1266	n	om	no	ciotula	conservative
+PL1005	n	pr	no	pipa	conservative
+PL1211	n	svp	no	chuć	inclusive
+PL2358	n	dmc	yes	ancymon	inclusive
+PL736	n	cds	no	sad sack	conservative
+PL528	n	cds	no	bufon	inclusive
+PL2131	n	cds	no	reakcjonizm	conservative
+PL347	n	dmc	yes	opryszek	inclusive
+PL2740	n	cds	no	oficer	inclusive
+PL290	n	svp	no	7 grzechów głównych	inclusive
+PL1087	n	cds	no	rodzina	inclusive
+PL2576	n	asm	no	prącia	inclusive
+PL2819	a	dmc	yes	bezlitosny	conservative
+PL959	n	cds	no	padlina	inclusive
+PL1258	n	cds	no	newspaperwoman	inclusive
+PL251	n	ddp	yes	głupek	conservative
+PL1849	n	dmc	yes	biedaczysko	inclusive
+PL2296	n	cds	no	prałat	inclusive
+PL968	n	dmc	yes	wyrzutek	inclusive
+PL2450	n	cds	no	napuszoność	inclusive
+PL1975	n	cds	no	kaloszy	inclusive
+PL2196	n	re	no	zagarnięcie	inclusive
+PL1854	a	dmc	yes	niegrzeczny	conservative
+PL126	n	om	no	sodomii	inclusive
+PL1742	n	cds	no	krople	inclusive
+PL523	n	cds	no	strojniś	inclusive
+PL2712	n	an	no	motyle nocne	inclusive
+PL2154	n	an	no	gąsię	inclusive
+PL644	n	an	no	skurczybyk	conservative
+PL696	n	pa	yes	grabarz	inclusive
+PL708	n	qas	no	paskudzić	inclusive
+PL895	a	ddf	yes	kiepski	inclusive
+PL1662	n	svp	no	antypatia	inclusive
+PL1598	n	cds	no	przestępstwo	inclusive
+PL2383	n	ddf	yes	niezdrowość	inclusive
+PL2705	n	cds	no	moralistyka	inclusive
+PL458	n	asm	no	tłuczek	conservative
+PL439	n	asm	no	idiota	conservative
+PL3545	a	om	no	rozmaity	inclusive
+PL585	n	cds	no	wataha	conservative
+PL2763	n	an	no	pisk-sowa	inclusive
+PL411	n	qas	no	magnacka	inclusive
+PL1318	n	pr	no	moo-cow	inclusive
+PL348	n	cds	no	brygant	inclusive
+PL1286	n	or	no	homoś	conservative
+PL321	n	is	yes	cheapskate	conservative
+PL920	n	re	no	mafia	inclusive
+PL3129	n	re	no	oddanie do śmierci	inclusive
+PL3054	n	asf	no	bagatela	inclusive
+PL2340	n	asf	no	laska	conservative
+PL401	n	an	no	psi	inclusive
+PL2002	n	asm	no	faulować	inclusive
+PL3064	n	asf	no	duperele	inclusive
+PL1884	n	cds	no	fanatyczka	conservative
+PL2953	n	asm	no	kpiarz	conservative
+PL2694	n	an	no	mięczaków	inclusive
+PL2430	n	ddp	yes	niekompetentna osoba	conservative
+PL2488	n	dmc	yes	niemoralność	inclusive
+PL3333	n	cds	no	szmermel	inclusive
+PL55	n	cds	no	ajent	inclusive
+PL1059	n	an	no	plebs	conservative
+PL1051	n	cds	no	cheekiness	conservative
+PL2151	a	cds	no	niedozwolony	inclusive
+PL588	n	cds	no	grono	inclusive
+PL2827	a	dmc	yes	nielitościwy	conservative
+PL399	n	pa	yes	doradca prawny	inclusive
+PL99	n	cds	no	miłość własna	conservative
+PL1289	n	ddp	yes	kolporter	conservative
+PL432	n	cds	no	spaść faceta	conservative
+PL903	a	dmc	yes	bezecny	conservative
+PL3384	n	cds	no	ipsacja	conservative
+PL3610	a	an	no	twardogłowy	inclusive
+PL1945	n	om	no	foeniculum vulgare	inclusive
+PL1457	n	cds	no	rekrut	conservative
+PL1360	n	qas	no	odpadów domowych	inclusive
+PL363	n	qas	no	dzikus	conservative
+PL3558	n	qas	no	wrak	inclusive
+PL2684	n	cds	no	lav	inclusive
+PL1446	n	ps	yes	hybryd	inclusive
+PL265	n	cds	no	cymbał	conservative
+PL2400	n	ddp	yes	bzdura	conservative
+PL1495	n	cds	no	dowcipniś	conservative
+PL2719	n	an	no	dąsać się	inclusive
+PL2108	n	cds	no	pośrednika	inclusive
+PL798	n	pa	yes	włościanin	inclusive
+PL849	n	cds	no	kubatura	inclusive
+PL132	n	svp	no	indolencja	conservative
+PL899	a	qas	no	nędzny	conservative
+PL1237	n	asm	no	nooky	conservative
+PL998	n	ps	yes	opóźniać	conservative
+PL2092	n	asf	no	łoniaki	inclusive
+PL3507	n	re	no	kidnaperstwo	inclusive
+PL1685	n	om	no	tyłowi	inclusive
+PL438	n	ddp	yes	głowa budyń	conservative
+PL376	n	ddp	yes	brutalność	inclusive
+PL363	n	ps	yes	dzikus	inclusive
+PL3796	n	an	no	hoax	conservative
+PL349	n	dmc	yes	zbój	conservative
+PL728	n	dmc	yes	hipokryta	conservative
+PL2544	n	an	no	owadów	inclusive
+PL3440	a	ps	yes	kary	inclusive
+PL2251	n	om	no	uranizm	inclusive
+PL1007	n	an	no	rura	conservative
+PL465	n	pr	no	kobieta lekkiego prowadzenia	conservative
+PL2737	n	svp	no	lubieżnych	inclusive
+PL2041	n	svp	no	dilly-dallier	conservative
+PL2329	n	dmc	yes	clown	inclusive
+PL79	n	ddp	yes	idiotyzm	conservative
+PL3644	n	cds	no	scjentyzm	inclusive
+PL1547	n	dmc	yes	zwodnicze	conservative
+PL2807	n	qas	no	parafii	inclusive
+PL733	n	ddp	yes	brutal	conservative
+PL2864	n	svp	no	duma	inclusive
+PL1413	n	ddp	yes	matołectwo	inclusive
+PL2873	n	cds	no	poczucie wyższości	inclusive
+PL1193	n	or	no	brassica oleracea	inclusive
+PL2877	n	cds	no	propagandzista	inclusive
+PL2375	n	ddf	yes	niepełnosprawni	inclusive
+PL3552	a	dmc	yes	zabrudzony	inclusive
+PL249	n	asf	no	głupiec	conservative
+PL3877	a	cds	no	jarmarczny	conservative
+PL1673	n	dmc	yes	dyssymulacja	conservative
+PL2516	n	qas	no	spoczywać	conservative
+PL3382	n	cds	no	podnośnika off	conservative
+PL1136	n	qas	no	klaczy nest	inclusive
+PL382	n	pa	yes	specjalny wysłannik	inclusive
+PL2710	n	an	no	mosquitoe	inclusive
+PL2870	n	svp	no	pridefulness	inclusive
+PL2455	n	cds	no	belfer	inclusive
+PL474	n	pr	no	kobieta lekkich obyczajów	conservative
+PL252	n	cds	no	głupol	conservative
+PL1531	n	cds	no	bazgracz	conservative
+PL1319	n	an	no	krowa	inclusive
+PL599	n	cds	no	bandytów	inclusive
+PL3183	n	qas	no	domokrążca	conservative
+PL2511	n	qas	no	lipa	conservative
+PL735	n	cds	no	fuszer	conservative
+PL804	n	qas	no	mieszczanin	inclusive
+PL3353	n	an	no	pediculus corporis	inclusive
+PL33	n	re	no	nadużycia urzędu	inclusive
+PL1342	v	cds	no	kłapać	inclusive
+PL964	n	cds	no	casino gambling	inclusive
+PL739	n	ddp	yes	brakoróbca	conservative
+PL1076	n	om	no	pederastą	conservative
+PL1929	n	cds	no	trik	conservative
+PL2727	n	an	no	pysk	inclusive
+PL833	n	cds	no	arogancja	conservative
+PL3722	n	an	no	kajmany	inclusive
+PL2733	n	svp	no	luxuria	inclusive
+PL642	n	an	no	łajdak	conservative
+PL1122	n	svp	no	niggardness	conservative
+PL2932	n	ddp	yes	nanocephalia	inclusive
+PL371	n	dmc	yes	troglodyta	conservative
+PL2951	n	asm	no	kpinkarz	conservative
+PL3427	n	cds	no	maluch	inclusive
+PL3075	n	an	no	bernikla obrożna	inclusive
+PL2645	n	or	no	meticulosity	inclusive
+PL1006	n	an	no	cipa	conservative
+PL255	n	ddp	yes	dureń	conservative
+PL1497	n	cds	no	tricker	conservative
+PL2133	n	cds	no	reakcjonista	conservative
+PL205	n	an	no	metazoa	inclusive
+PL248	n	om	no	osioł	inclusive
+PL1763	n	cds	no	murzyn	inclusive
+PL742	n	dmc	yes	blunderer	conservative
+PL892	a	ddf	yes	złe	inclusive
+PL1528	v	asm	no	żreć	inclusive
+PL346	n	cds	no	bandyta	conservative
+PL2112	n	an	no	kozie antylopa	inclusive
+PL1357	n	qas	no	szrot	inclusive
+PL1675	n	om	no	ogonowym	inclusive
+PL962	n	cds	no	kasyno	inclusive
+PL3737	n	re	no	tortury	inclusive
+PL1064	n	an	no	szumowina	conservative
+PL3147	n	dmc	yes	niefortunny	inclusive
+PL2026	n	cds	no	fundamentalista	inclusive
+PL3158	n	cds	no	lichwa	conservative
+PL919	n	cds	no	klan	inclusive
+PL2280	n	ps	yes	Żyd	inclusive
+PL3327	n	cds	no	plota	inclusive
+PL3299	v	cds	no	kombinować	inclusive
+PL2845	n	an	no	shoat	inclusive
+PL796	n	rci	yes	chłop	inclusive
+PL3197	n	cds	no	episjer	inclusive
+PL2365	n	re	no	basałyk	inclusive
+PL3203	v	cds	no	obżerać się	inclusive
+PL263	n	asm	no	bałwan	conservative
+PL742	n	cds	no	blunderer	conservative
+PL3549	n	cds	no	groveler	conservative
+PL652	n	an	no	prosię	conservative
+PL1044	n	re	no	oszust	inclusive
+PL3013	n	ps	yes	negroidalnej	inclusive
+PL3386	n	cds	no	masturbacja	conservative
+PL366	n	rci	yes	grubianin	conservative
+PL3885	a	cds	no	ordynarny	conservative
+PL3611	a	qas	no	ideologiczny	inclusive
+PL2735	n	svp	no	wyuzdanie	inclusive
+PL3576	n	an	no	anura	inclusive
+PL878	n	cds	no	hałastra	conservative
+PL1423	n	an	no	krokodyl	inclusive
+PL3256	v	cds	no	sczeznąć	inclusive
+PL363	n	ps	yes	dzikus	conservative
+PL2831	n	cds	no	przyjęcie	inclusive
+PL358	n	dmc	yes	barbarzyństwo	conservative
+PL1694	n	om	no	łania end	inclusive
+PL999	n	pr	no	picza	conservative
+PL3755	n	an	no	krępak nabrzozak	inclusive
+PL58	n	cds	no	faktor	inclusive
+PL1024	n	re	no	traducement	inclusive
+PL907	n	an	no	paszcza	inclusive
+PL591	n	dmc	yes	łobuz	inclusive
+PL1737	n	pa	yes	porter	inclusive
+PL2040	n	dmc	yes	śledziennik	conservative
+PL1658	n	svp	no	nieprzyjemne	inclusive
+PL1824	n	qas	no	niezawodowiec	inclusive
+PL2053	n	dmc	yes	gangster	inclusive
+PL710	n	cds	no	blooper	inclusive
+PL565	n	svp	no	bigot	conservative
+PL819	n	qas	no	stan średni	inclusive
+PL597	n	dmc	yes	banita	inclusive
+PL3116	n	re	no	slayer	inclusive
+PL1823	n	qas	no	nieprofesjonalista	inclusive
+PL101	n	cds	no	miłości własnej	conservative
+PL2417	n	is	yes	mortus	inclusive
+PL252	n	asf	no	głupol	conservative
+PL1768	n	an	no	karzeł	conservative
+PL91	n	pa	yes	akademizmu	inclusive
+PL3124	n	re	no	pozbawienie życia	inclusive
+PL1285	n	om	no	gej	conservative
+PL1165	n	qas	no	człowiek z ludu	inclusive
+PL1728	n	an	no	owca	inclusive
+PL1359	n	qas	no	odpadów stałych	inclusive
+PL2551	n	an	no	insekty	inclusive
+PL822	n	cds	no	nabrzmiały głowa	conservative
+PL3208	v	re	no	zmalwersować	inclusive
+PL1815	n	qas	no	laik	conservative
+PL991	n	asf	no	idiotka	conservative
+PL1816	n	qas	no	sciolist	conservative
+PL766	n	an	no	bydło	inclusive
+PL2355	a	is	yes	chytry	conservative
+PL2388	n	ddf	yes	niedołęstwo	inclusive
+PL1562	n	pr	no	konkubent	inclusive
+PL2405	n	ddp	yes	bezsensowne	conservative
+PL3484	a	ddf	yes	kulawy	inclusive
+PL433	n	ddp	yes	soft touch	conservative
+PL2216	n	pr	no	john	inclusive
+PL1764	n	cds	no	czeladnik	inclusive
+PL3585	v	re	no	kraść	inclusive
+PL400	n	pa	yes	prawnik	inclusive
+PL1229	n	asm	no	młócenie się	conservative
+PL448	n	cds	no	imbecyl	conservative
+PL3085	n	cds	no	omerta	inclusive
+PL439	n	asm	no	idiota	inclusive
+PL899	a	is	yes	nędzny	conservative
+PL372	n	cds	no	prymityw	conservative
+PL1616	n	an	no	doodly-squat	conservative
+PL155	n	asm	no	wyrostek	inclusive
+PL354	n	pa	yes	plebejusz	conservative
+PL999	n	asf	no	picza	conservative
+PL227	n	or	no	globus	inclusive
+PL1988	a	dmc	yes	zakłamany	conservative
+PL1355	n	cds	no	śmieci	conservative
+PL1279	n	om	no	homoseksualista	conservative
+PL3716	n	re	no	organizacja terrorystyczna	inclusive
+PL1286	n	om	no	homoś	inclusive
+PL891	n	an	no	kajman	inclusive
+PL3443	a	ddf	yes	niewidomy	inclusive
+PL582	n	cds	no	gangsteryzmem	conservative
+PL266	n	or	no	muttonhead	conservative
+PL753	n	ddp	yes	złośliwość	conservative
+PL346	n	cds	no	bandyta	inclusive
+PL1282	n	om	no	lesbijka	conservative
+PL3802	n	ps	yes	żółta kartka	inclusive
+PL591	n	cds	no	łobuz	conservative
+PL509	n	cds	no	kłamstwo	inclusive
+PL240	n	asf	no	szaleństwo	conservative
+PL2369	n	dmc	yes	bisurman	inclusive
+PL2917	n	an	no	bakcyl	inclusive
+PL1832	n	dmc	yes	etyczne motyw	inclusive
+PL3399	a	svp	no	marudny	conservative
+PL2523	n	dmc	yes	leżeć	inclusive
+PL466	n	pr	no	córa koryntu	conservative
+PL1651	n	cds	no	namaścić	inclusive
+PL1971	n	pa	yes	sprzedawca ryb	inclusive
+PL3475	n	cds	no	alfonsiak	conservative
+PL448	n	or	no	imbecyl	conservative
+PL3845	n	pa	yes	pracownica	inclusive
+PL2444	n	cds	no	manifestacyjność	conservative
+PL181	a	ddp	yes	analfabeta	inclusive
+PL2766	n	an	no	megascops	inclusive
+PL2506	n	dmc	yes	kłamca	conservative
+PL2386	n	ddf	yes	niepełnosprawnością ruchową	inclusive
+PL2175	n	cds	no	skryba	conservative
+PL367	n	ddp	yes	ordynus	conservative
+PL3471	a	cds	no	trwożliwy	conservative
+PL870	n	qas	no	gawiedź	inclusive
+PL813	n	qas	no	mieszczaństwo	inclusive
+PL2290	n	cds	no	lud	conservative
+PL2374	n	ddf	yes	wyłączyć	inclusive
+PL2571	n	cds	no	dziewosłęb	inclusive
+PL281	n	ddp	yes	półanalfabeta	conservative
+PL1220	n	svp	no	eros	inclusive
+PL3860	n	dmc	yes	zdrajczyni	conservative
+PL1236	n	asm	no	posuwanie	conservative
+PL2362	n	cds	no	urwipołeć	inclusive
+PL2717	n	an	no	mieć muchy w nosie	inclusive
+PL1227	n	asm	no	dymanie się	conservative
+PL366	n	qas	no	grubianin	conservative
+PL2361	n	cds	no	wisus	conservative
+PL1752	n	cds	no	grad	inclusive
+PL2355	a	dmc	yes	chytry	conservative
+PL287	n	an	no	żubr	inclusive
+PL3321	n	cds	no	beczka na wodę	inclusive
+PL1392	n	an	no	flirciara	conservative
+PL3607	n	cds	no	blacharz	conservative
+PL3462	a	svp	no	pyszałkowaty	conservative
+PL3574	n	an	no	anuran	inclusive
+PL2874	n	svp	no	pyszność	conservative
+PL3395	a	cds	no	zarozumiały	conservative
+PL3166	n	dmc	yes	bugs	inclusive
+PL3208	v	asm	no	zmalwersować	conservative
+PL1671	n	dmc	yes	phony	conservative
+PL17	n	svp	no	śpiączka	inclusive
+PL1721	n	svp	no	łasuch	inclusive
+PL2741	n	cds	no	policjant	conservative
+PL2365	n	cds	no	basałyk	inclusive
+PL2270	n	ps	yes	tradycji żydowskiej	inclusive
+PL3169	n	an	no	robaki	inclusive
+PL250	n	ddp	yes	prostak	conservative
+PL631	n	qas	no	lider biznesu	inclusive
+PL2207	n	qas	no	zapychacz	conservative
+PL2979	n	an	no	wąż	conservative
+PL2353	a	is	yes	ograniczony	conservative
+PL79	n	cds	no	idiotyzm	inclusive
+PL3126	n	re	no	zabicie	inclusive
+PL3751	n	pr	no	krępak brzozowy	inclusive
+PL2517	n	qas	no	blaga	conservative
+PL450	n	ddp	yes	ćwok	conservative
+PL2703	n	cds	no	moralizacja	inclusive
+PL478	n	an	no	dziwka	conservative
+PL2244	n	om	no	inwersja seksualna	inclusive
+PL2560	n	qas	no	sklepikarz	inclusive
+PL471	n	an	no	kurwiszcze	conservative
+PL289	n	svp	no	siedem grzechów głównych	inclusive
+PL961	n	cds	no	kasyna gier hazardowych	inclusive
+PL2882	n	pr	no	szczur	inclusive
+PL3667	n	cds	no	wonk	conservative
+PL1910	n	qas	no	ręka pole	inclusive
+PL3789	n	cds	no	kanał ściekowy	inclusive
+PL1002	n	pr	no	pizda	conservative
+PL445	n	or	no	głupi	conservative
+PL808	n	om	no	sodomita	inclusive
+PL743	n	an	no	snatcher ciało	inclusive
+PL263	n	ps	yes	bałwan	conservative
+PL1338	v	cds	no	stukać	inclusive
+PL557	n	pa	yes	herold	inclusive
+PL2028	n	svp	no	wściekłość	conservative
+PL1569	n	pr	no	dworak	inclusive
+PL9	n	svp	no	hipobulia	inclusive
+PL970	n	an	no	cherlak	conservative
+PL357	n	dmc	yes	wiochmen	conservative
+PL1270	n	asm	no	ciota	conservative
+PL2630	n	cds	no	abigeatus	inclusive
+PL781	n	asm	no	opalać	inclusive
+PL1536	n	dmc	yes	oszustwo	conservative
+PL2451	n	cds	no	instruktor	inclusive
+PL2442	n	cds	no	pompatyczność	inclusive
+PL1399	n	asm	no	łatwowierność	conservative
+PL2640	n	ps	yes	metojk	inclusive
+PL3210	v	asm	no	sprzeniewierzać	conservative
+PL1309	n	an	no	fizjonomia	inclusive
+PL1006	n	asf	no	cipa	conservative
+PL2591	a	om	no	homoseksualny	conservative
+PL2904	n	cds	no	ścieki	inclusive
+PL1703	n	om	no	dupal	inclusive
+PL2198	n	re	no	złodziejskie	inclusive
+PL1274	n	or	no	pedryl	conservative
+PL538	n	ps	yes	bedu	inclusive
+PL1722	n	svp	no	trencher	conservative
+PL998	n	ddp	yes	opóźniać	conservative
+PL451	n	ddp	yes	pustogłów	conservative
+PL559	a	ddp	yes	debilny	conservative
+PL2593	n	svp	no	zazdrościć	inclusive
+PL2808	n	qas	no	parafianin	inclusive
+PL2353	a	dmc	yes	ograniczony	conservative
+PL2906	n	ps	yes	pół-kasta	conservative
+PL991	n	cds	no	idiotka	inclusive
+PL396	n	pa	yes	prawników	inclusive
+PL1726	n	svp	no	trencherman	conservative
+PL3315	v	cds	no	rajcować	inclusive
+PL765	n	pr	no	bos taurus	inclusive
+PL1044	n	dmc	yes	oszust	conservative
+PL2248	n	om	no	homoerotycznej	inclusive
+PL477	n	pr	no	kurtyzana	inclusive
+PL372	n	pa	yes	prymityw	conservative
+PL592	n	cds	no	rozbójnik	conservative
+PL2302	a	svp	no	łasy	conservative
+PL3506	n	re	no	porywa	inclusive
+PL1140	n	an	no	raunch	conservative
+PL1872	n	cds	no	rodziny	inclusive
+PL940	n	an	no	ludożerstwo shark	inclusive
+PL739	n	qas	no	brakoróbca	conservative
+PL34	n	re	no	lżenie	inclusive
+PL407	n	qas	no	baronowa	inclusive
+PL786	n	asm	no	brunatnić się	inclusive
+PL3372	n	cds	no	dyskryminacja religijna	inclusive
+PL2734	n	cds	no	sprawca	inclusive
+PL353	n	pa	yes	barbarzyńca	conservative
+PL3242	v	cds	no	zaniknąć	inclusive
+PL2959	n	cds	no	łamigłówka	conservative
+PL552	n	cds	no	beginka	inclusive
+PL1059	n	cds	no	plebs	conservative
+PL369	n	ddp	yes	wieśniak	conservative
+PL24	n	svp	no	apatyczny	inclusive
+PL2517	n	dmc	yes	blaga	inclusive
+PL679	n	cds	no	mother fucker	conservative
+PL1958	n	dmc	yes	przykrego zapachu	conservative
+PL2911	n	ps	yes	metysów	conservative
+PL3823	n	cds	no	przekupność	conservative
+PL3136	n	dmc	yes	homunkulus	inclusive
+PL854	n	dmc	yes	tak a tak	inclusive
+PL70	n	qas	no	dyletantyzm	conservative
+PL445	n	asf	no	głupi	conservative
+PL3867	n	ps	yes	rommany	inclusive
+PL2614	a	svp	no	wybuchowy	conservative
+PL328	n	pr	no	bzdury	conservative
+PL1432	n	an	no	krokodylowate	inclusive
+PL706	n	qas	no	bloopers	inclusive
+PL3043	n	cds	no	hypersexual	conservative
+PL1225	n	asf	no	dupa	conservative
+PL761	n	an	no	krów	inclusive
+PL3452	a	cds	no	powszedni	inclusive
+PL3424	n	an	no	rasy kury	inclusive
+PL642	n	is	yes	łajdak	conservative
+PL3383	n	asm	no	wank	conservative
+PL3595	n	cds	no	wisenheimer	conservative
+PL2332	n	an	no	hyaena	inclusive
+PL620	n	ps	yes	barwa czarna	inclusive
+PL3332	n	cds	no	wytłumaczenie	inclusive
+PL882	n	cds	no	chuligan	conservative
+PL293	n	svp	no	chciwości	inclusive
+PL2532	n	re	no	morderca	inclusive
+PL304	n	svp	no	chciwstwo	inclusive
+PL440	n	asf	no	półgłówek	conservative
+PL444	n	asf	no	kretyn	conservative
+PL1036	n	re	no	traducer	conservative
+PL260	n	an	no	kapuściana głowa	conservative
+PL133	n	svp	no	leniuch	conservative
+PL3870	n	ps	yes	romani	inclusive
+PL1046	n	cds	no	efronteria	conservative
+PL606	n	ddp	yes	gadułą	conservative
+PL766	n	qas	no	bydło	inclusive
+PL3581	n	an	no	bufo	inclusive
+PL875	n	cds	no	granda	conservative
+PL969	n	cds	no	zgniłek	conservative
+PL1359	n	cds	no	odpadów stałych	inclusive
+PL197	n	ddp	yes	kreatura	inclusive
+PL2074	n	pr	no	moll	inclusive
+PL1434	n	ddf	yes	garbus	inclusive
+PL415	n	qas	no	architektury barokowej	inclusive
+PL436	n	ddp	yes	baran	conservative
+PL367	n	rci	yes	ordynus	conservative
+PL3601	n	an	no	lik	inclusive
+PL2714	n	pr	no	frenatae	inclusive
+PL1882	n	qas	no	odkrywanie	inclusive
+PL3679	a	svp	no	mściwy	conservative
+PL1550	n	dmc	yes	mistyfikacja	conservative
+PL437	n	asm	no	półgłupek	conservative
+PL610	n	ddp	yes	taleteller	conservative
+PL1676	n	om	no	zad	inclusive
+PL1556	n	cds	no	demagog	conservative
+PL176	n	ddp	yes	analfabeta	inclusive
+PL370	n	cds	no	parobas	conservative
+PL216	n	re	no	zgwałcona	conservative
+PL3752	n	an	no	biston betularius	inclusive
+PL970	n	cds	no	cherlak	conservative
+PL353	n	cds	no	barbarzyńca	conservative
+PL934	n	an	no	carcharias maso	inclusive
+PL374	n	ddp	yes	nieokrzesaniec	conservative
+PL373	n	qas	no	żłób	conservative
+PL1955	n	dmc	yes	zaduch	conservative
+PL2928	n	an	no	animalcules	inclusive
+PL1093	n	cds	no	clann	inclusive
+PL2217	n	pr	no	usług seksualnych	inclusive
+PL16	n	svp	no	opieszałość	inclusive
+PL2518	n	qas	no	pic	conservative
+PL2482	a	dmc	yes	naganny	conservative
+PL1300	n	an	no	buzia	inclusive
+PL732	n	cds	no	konformista	conservative
+PL2779	n	cds	no	popychacz papieru	inclusive
+PL2909	n	ps	yes	mestizaje	conservative
+PL531	n	cds	no	dom wariatów	inclusive
+PL3205	v	cds	no	pchać w siebie	inclusive
+PL3687	n	pr	no	lampyris noctiluca	inclusive
+PL360	n	pa	yes	gbur	conservative
+PL2255	n	om	no	homoseksualizmu	inclusive
+PL313	n	cds	no	agencja towarzyska	inclusive
+PL3894	n	cds	no	culchie	inclusive
+PL3754	n	an	no	krępak brzozowiec	inclusive
+PL1838	n	an	no	eurypterida	inclusive
+PL649	n	cds	no	świntuch	conservative
+PL2678	n	cds	no	toaleta	inclusive
+PL2173	n	cds	no	pisarzyna	conservative
+PL22	n	svp	no	spiritlessness	inclusive
+PL453	n	cds	no	przygłup	conservative
+PL3514	n	re	no	poniesienie	inclusive
+PL1284	n	om	no	orientacji homoseksualnej	conservative
+PL2720	n	dmc	yes	mozzarellą	inclusive
+PL428	n	cds	no	sawantka	inclusive
+PL250	n	cds	no	prostak	conservative
+PL433	n	ps	yes	soft touch	conservative
+PL3297	v	cds	no	gmerać	inclusive
+PL1916	n	qas	no	sodbuster	inclusive
+PL358	n	rci	yes	barbarzyństwo	conservative
+PL1509	v	asm	no	wyśmiewać	inclusive
+PL2185	n	cds	no	niegodziwiec	conservative
+PL2688	n	cds	no	latryn	inclusive
+PL356	n	dmc	yes	jaskiniowiec	conservative
+PL354	n	dmc	yes	plebejusz	conservative
+PL2427	n	svp	no	indyferentność	inclusive
+PL1283	n	or	no	homo	conservative
+PL1271	n	om	no	pedzio	conservative
+PL924	n	cds	no	sitwa	inclusive
+PL2418	n	is	yes	brak różnorodności	inclusive
+PL1618	n	cds	no	penny dreadful	inclusive
+PL198	n	an	no	fauny	inclusive
+PL226	n	ddp	yes	pała	conservative
+PL2525	n	re	no	dzieciobójstwo	inclusive
+PL204	n	an	no	metazoans	inclusive
+PL264	n	or	no	dumbass	conservative
+PL840	n	svp	no	pycha	conservative
+PL854	n	dmc	yes	tak a tak	conservative
+PL3896	n	ps	yes	zulusi	inclusive
+PL3278	v	cds	no	usychać	inclusive
+PL3587	a	qas	no	feudalny	inclusive
+PL3388	n	cds	no	onanizm	conservative
+PL3594	n	cds	no	besserwisser	conservative
+PL734	n	qas	no	bumbler	conservative
+PL2623	n	cds	no	bałagan	conservative
+PL2034	n	an	no	złość	inclusive
+PL452	n	asf	no	pustak	conservative
+PL456	n	ddp	yes	tłuk	conservative
+PL2229	n	is	yes	biedota	inclusive
+PL704	n	dmc	yes	rakehell	conservative
+PL340	a	svp	no	pazerny	inclusive
+PL2090	n	cds	no	żigolak	inclusive
+PL625	n	qas	no	magnata	inclusive
+PL2985	n	cds	no	half-pint	conservative
+PL1640	n	cds	no	sprośność	inclusive
+PL1822	n	qas	no	niefachowiec	inclusive
+PL1761	n	ps	yes	łazęga	inclusive
+PL365	n	qas	no	cham	inclusive
+PL2134	v	asm	no	iść do łóżka	conservative
+PL581	n	cds	no	gang	inclusive
+PL295	n	svp	no	chciwość	inclusive
+PL1490	n	cds	no	cut-up	conservative
+PL599	n	dmc	yes	bandytów	inclusive
+PL3769	n	om	no	eonizm	inclusive
+PL1744	n	cds	no	tratwy	inclusive
+PL3459	a	cds	no	klasyczny	inclusive
+PL361	n	rci	yes	neandertalczyk	conservative
+PL163	n	asf	no	codswallop	conservative
+PL1771	n	svp	no	łapczywość	conservative
+PL3232	v	cds	no	zdechnąć	inclusive
+PL3519	n	re	no	rozboju	inclusive
+PL1572	n	dmc	yes	wykolejeniec	inclusive
+PL739	n	cds	no	brakoróbca	conservative
+PL981	n	an	no	wuss	conservative
+PL171	n	cds	no	fanatyzm	inclusive
+PL79	n	asm	no	idiotyzm	inclusive
+PL3158	n	cds	no	lichwa	inclusive
+PL1363	n	cds	no	złom	inclusive
+PL2759	n	ps	yes	ostrogot	inclusive
+PL2742	n	cds	no	policjantka	conservative
+PL787	n	asm	no	barwa brązowa	inclusive
+PL314	n	cds	no	dom publiczny	inclusive
+PL3882	a	cds	no	uliczny	conservative
+PL1854	a	cds	no	niegrzeczny	conservative
+PL1644	n	cds	no	bryja	inclusive
+PL439	n	or	no	idiota	conservative
+PL2698	n	ps	yes	mongołowie	inclusive
+PL932	n	an	no	żarłacz biały	inclusive
+PL431	n	ddp	yes	patsy	conservative
+PL3152	n	dmc	yes	nieborak	inclusive
+PL3387	n	asm	no	walenie konia	conservative
+PL3642	a	svp	no	sprośny	conservative
+PL2027	n	cds	no	fundamentalizmu	inclusive
+PL1225	n	pr	no	dupa	conservative
+PL1166	n	qas	no	plebsu	inclusive
+PL1089	n	cds	no	społecznościach plemiennych	inclusive
+PL998	n	asf	no	opóźniać	conservative
+PL639	n	qas	no	przemysłowców	inclusive
+PL2361	n	re	no	wisus	inclusive
+PL998	n	asm	no	opóźniać	inclusive
+PL814	n	qas	no	klasa średnia	inclusive
+PL838	n	cds	no	hauteur	conservative
+PL363	n	rci	yes	dzikus	conservative
+PL2221	n	pr	no	seksbiznes	conservative
+PL2749	n	re	no	mafioso	inclusive
+PL832	n	svp	no	wielkopańskość	conservative
+PL2937	n	an	no	owce	inclusive
+PL253	n	an	no	saphead	conservative
+PL3065	n	asf	no	drobnostka	inclusive
+PL993	n	asm	no	imbecylu	inclusive
+PL514	n	cds	no	fop	inclusive
+PL864	n	cds	no	leń	conservative
+PL691	n	pa	yes	właściciel zakładu pogrzebowego	inclusive
+PL332	n	qas	no	jądra	inclusive
+PL442	n	asm	no	debil	conservative
+PL3893	a	cds	no	szorstki	conservative
+PL1996	n	cds	no	bufonady	inclusive
+PL487	n	pr	no	stręczycielka	conservative
+PL68	a	pa	yes	teoretyczne	inclusive
+PL245	a	an	no	bezrozumny	conservative
+PL2816	n	svp	no	groszoróbstwo	inclusive
+PL2336	n	cds	no	croon	inclusive
+PL826	n	ps	yes	bułgarka	inclusive
+PL1648	n	cds	no	brudzić	inclusive
+PL857	n	dmc	yes	włóczęga	conservative
+PL3313	a	om	no	nienormalny	inclusive
+PL256	n	an	no	głuptak	conservative
+PL483	n	pr	no	kurwa	conservative
+PL616	n	cds	no	uszkodzenie	conservative
+PL601	n	an	no	billy goat	inclusive
+PL453	n	asm	no	przygłup	conservative
+PL835	n	svp	no	wyniosłość	conservative
+PL1226	n	asm	no	kawałek ogona	conservative
+PL3773	n	om	no	metatropizm	inclusive
+PL2537	n	cds	no	lichwiarzy	inclusive
+PL2473	n	cds	no	scrawler	conservative
+PL1578	n	an	no	prostaczek	conservative
+PL3248	v	cds	no	zaćmić się	inclusive
+PL1861	n	dmc	yes	libertyni	conservative
+PL2047	n	svp	no	próżnia	conservative
+PL3384	n	asm	no	ipsacja	conservative
+PL265	n	an	no	cymbał	conservative
+PL3740	v	re	no	zmęczyć	inclusive
+PL510	n	cds	no	niezgodność z prawdą	conservative
+PL580	n	cds	no	wojny gangów	inclusive
+PL1874	n	cds	no	kinfolk	inclusive
+PL1139	n	an	no	grossness	conservative
+PL246	a	cds	no	głupi	conservative
+PL1293	n	ddp	yes	rumormonger	conservative
+PL182	n	ddp	yes	analfabetyzm	inclusive
+PL424	n	cds	no	głosować przeciw	inclusive
+PL3195	n	cds	no	nowobogackich	inclusive
+PL2358	n	cds	no	ancymon	conservative
+PL8	n	dmc	yes	nizszosci	inclusive
+PL256	n	ddp	yes	głuptak	conservative
+PL255	n	asm	no	dureń	conservative
+PL1761	n	dmc	yes	łazęga	inclusive
+PL1380	n	svp	no	chęć posiadania	inclusive
+PL343	n	cds	no	oprych	conservative
+PL594	n	cds	no	banicja	inclusive
+PL2975	n	an	no	ochotka	inclusive
+PL889	n	cds	no	cacography	inclusive
+PL991	n	asm	no	idiotka	inclusive
+PL481	n	pr	no	prostytutka	conservative
+PL3635	n	cds	no	przeciętniak	conservative
+PL346	n	dmc	yes	bandyta	inclusive
+PL3718	n	re	no	aktu terrorystycznego	conservative
+PL450	n	asf	no	ćwok	conservative
+PL2432	n	ddp	yes	nieświadomość	conservative
+PL1753	n	cds	no	slews	inclusive
+PL2218	n	pr	no	call-girl	conservative
+PL1086	n	cds	no	klanów	inclusive
+PL161	a	re	no	agresywny	inclusive
+PL3608	n	cds	no	henchman	conservative
+PL345	n	dmc	yes	rzezimieszek	conservative
+PL3873	n	ps	yes	romowie	inclusive
+PL2049	n	svp	no	bezpłodność	conservative
+PL867	n	svp	no	leniuszek	conservative
+PL488	n	an	no	kurwiszon	conservative
+PL1684	n	om	no	rzyć	inclusive
+PL853	n	an	no	lowlife	conservative
+PL3483	n	cds	no	prowincjonalność	inclusive
+PL1469	n	or	no	twat	conservative
+PL2992	n	cds	no	narcyzem	inclusive
+PL2088	n	cds	no	utrzymanek	inclusive
+PL1619	n	cds	no	dime powieść	inclusive
+PL828	n	ps	yes	bułgarzy	inclusive
+PL2575	n	asm	no	pisior	inclusive
+PL927	n	cds	no	karawana	inclusive
+PL1758	n	dmc	yes	drifter	inclusive
+PL669	n	cds	no	złamas	conservative
+PL102	a	re	no	mocny	inclusive
+PL866	n	cds	no	leniwiec	conservative
+PL2440	n	an	no	inexorableness	conservative
+PL1164	n	cds	no	denerwować się	conservative
+PL189	n	an	no	anguilla	inclusive
+PL570	n	cds	no	koło	conservative
+PL1391	n	an	no	kokieta	conservative
+PL519	n	cds	no	modniś	inclusive
+PL3055	n	asf	no	duperela	inclusive
+PL2468	n	cds	no	komik	inclusive
+PL737	n	dmc	yes	niedbaluch	conservative
+PL2197	n	cds	no	skradzenie	inclusive
+PL3752	n	pr	no	biston betularius	inclusive
+PL1604	n	re	no	znamiona czynu zabronionego	inclusive
+PL2245	n	om	no	homoerotyzm	inclusive
+PL81	n	ddp	yes	umysłowo	inclusive
+PL836	n	svp	no	zaczepność	conservative
+PL2081	n	cds	no	służba więzienna	inclusive
+PL1126	n	qas	no	huk	inclusive
+PL921	n	cds	no	kamaryla	inclusive
+PL2691	n	dmc	yes	próżniaków	conservative
+PL1060	n	an	no	stan trzeci	conservative
+PL3317	n	cds	no	uargumentowanie	inclusive
+PL2512	n	qas	no	zależeć	conservative
+PL835	n	cds	no	wyniosłość	conservative
+PL2303	a	svp	no	nienasycony	inclusive
+PL3377	a	ddp	yes	animalny	conservative
+PL374	n	dmc	yes	nieokrzesaniec	conservative
+PL3720	n	an	no	caimans	inclusive
+PL2553	n	cds	no	sass	inclusive
+PL861	n	dmc	yes	tramp	conservative
+PL2359	n	cds	no	półdiablę	inclusive
+PL1382	n	svp	no	tanha	inclusive
+PL2915	n	an	no	rekin	inclusive
+PL1525	v	asm	no	połykać	inclusive
+PL2263	n	ps	yes	hebraizm	inclusive
+PL3857	n	dmc	yes	odstępca	conservative
+PL740	n	dmc	yes	fumbler	conservative
+PL1250	n	an	no	króliki	inclusive
+PL2399	n	ddp	yes	idioctwo	conservative
+PL2189	n	cds	no	kradzież	inclusive
+PL151	n	cds	no	mieszają-magiel	inclusive
+PL3312	n	an	no	spekulować	conservative
+PL1319	n	pr	no	krowa	inclusive
+PL397	n	pa	yes	radca	inclusive
+PL3379	n	asm	no	szarpanie	conservative
+PL3228	v	cds	no	ponieść śmierć	inclusive
+PL3182	n	qas	no	moocher	conservative
+PL29	n	re	no	pastwienie się	inclusive
+PL2996	n	cds	no	idiolatria	inclusive
+PL3373	a	re	no	burzowy	inclusive
+PL2021	n	an	no	zmarszczenie brwi	inclusive
+PL3681	a	ddp	yes	nieinteligentny	conservative
+PL1793	a	ddp	yes	obłędny	inclusive
+PL730	n	cds	no	jezuita	conservative
+PL1522	v	asm	no	naśmiewać się	inclusive
+PL565	n	dmc	yes	bigot	conservative
+PL1263	n	om	no	baba	conservative
+PL842	n	cds	no	conceitedness	conservative
+PL3336	n	cds	no	translacja	inclusive
+PL1292	n	ddp	yes	gossiper	conservative
+PL1027	n	cds	no	zuchwalstwo	conservative
+PL598	n	re	no	przestępca	inclusive
+PL3188	n	cds	no	nowobogacki	inclusive
+PL3647	a	qas	no	klasy średniej	inclusive
+PL3196	n	cds	no	banan	inclusive
+PL279	n	an	no	niewykształcony człowiek	conservative
+PL459	n	asm	no	matoł	conservative
+PL593	n	cds	no	złoczyńca	conservative
+PL419	n	cds	no	rabuś	conservative
+PL2210	n	cds	no	chłopiec na posyłki	inclusive
+PL353	n	rci	yes	barbarzyńca	conservative
+PL2222	n	pr	no	nierząd	conservative
+PL255	n	cds	no	dureń	conservative
+PL2096	n	asf	no	owłosienie łonowe	inclusive
+PL3718	n	re	no	aktu terrorystycznego	inclusive
+PL2672	n	cds	no	szalet	inclusive
+PL272	n	asf	no	ośla głowa	conservative
+PL619	n	ps	yes	czerń	inclusive
+PL18	n	svp	no	obojętność	inclusive
+PL131	n	svp	no	nieróbstwo	conservative
+PL328	n	qas	no	bzdury	inclusive
+PL1869	n	ddf	yes	osoba niepełnosprawna	inclusive
+PL3630	n	dmc	yes	faja	conservative
+PL1777	n	cds	no	wychowawca	inclusive
+PL715	n	qas	no	zapaskudzać	inclusive
+PL2395	n	ddp	yes	brednia	conservative
+PL1969	n	pa	yes	handlarka ryb	inclusive
+PL2587	n	asm	no	penis	inclusive
+PL1666	n	svp	no	wstręt	inclusive
+PL2170	n	an	no	sus	inclusive
+PL1084	n	cds	no	japońskich jednostek miary	inclusive
+PL364	n	qas	no	prościuch	conservative
+PL776	n	asm	no	opalić	inclusive
+PL373	n	ps	yes	żłób	conservative
+PL72	n	cds	no	amatorskość	conservative
+PL2113	n	dmc	yes	no-konto	conservative
+PL1206	n	cds	no	stłoczyć się	inclusive
+PL734	n	cds	no	bumbler	conservative
+PL1348	n	ddp	yes	szarlatan	conservative
+PL1736	n	pa	yes	portier	inclusive
+PL179	n	ddp	yes	analfabetyczny	inclusive
+PL1591	n	asm	no	doofus	conservative
+PL230	n	cds	no	bania	inclusive
+PL500	n	an	no	floozie	conservative
+PL2093	n	asf	no	włosy łonowe	inclusive
+PL3820	n	svp	no	nicestwo	conservative
+PL730	n	dmc	yes	jezuita	conservative
+PL2764	n	an	no	płomykówka	inclusive
+PL1667	n	dmc	yes	hipokryzja	conservative
+PL1081	n	qas	no	cyrk	inclusive
+PL202	n	ddp	yes	animalia	inclusive
+PL3091	n	re	no	morderców	inclusive
+PL2564	n	asm	no	kasztanowy	inclusive
+PL2478	a	dmc	yes	niemoralny	conservative
+PL2967	n	ps	yes	Żółta odmiana człowieka	conservative
+PL2751	n	cds	no	sottocapo	inclusive
+PL389	n	pa	yes	minister	inclusive
+PL3522	n	re	no	obrabowany	inclusive
+PL3579	n	an	no	żaba	inclusive
+PL661	n	cds	no	łamistrajków	inclusive
+PL1430	n	an	no	crocodylidae	inclusive
+PL2364	n	cds	no	łapserdak	conservative
+PL1784	n	pa	yes	pracobiorca	inclusive
+PL2787	n	cds	no	hayseed	conservative
+PL805	n	an	no	old world buffalo	inclusive
+PL1064	n	qas	no	szumowina	conservative
+PL1851	n	dmc	yes	biedaczek	inclusive
+PL165	n	cds	no	dręczyciel	conservative
+PL3854	n	dmc	yes	przechrzta	conservative
+PL2603	n	svp	no	gniew	inclusive
+PL3093	n	re	no	wykończenie	inclusive
+PL1855	n	dmc	yes	bezwstydnik	conservative
+PL3664	a	dmc	yes	rozwiązły	conservative
+PL243	n	an	no	głupstwo	conservative
+PL1482	n	cds	no	odrzucać	conservative
+PL358	n	ddp	yes	barbarzyństwo	conservative
+PL1409	n	an	no	pójdźka	inclusive
+PL1039	n	cds	no	kamorra	inclusive
+PL2687	n	cds	no	wucet	inclusive
+PL1451	n	cds	no	ciżba	inclusive
+PL2378	n	ddf	yes	niepełnosprawność	inclusive
+PL1383	n	svp	no	rojenie	inclusive
+PL1723	n	svp	no	łakomczuch	conservative
+PL3742	v	re	no	wymęczyć	inclusive
+PL1304	n	an	no	morda	inclusive
+PL1225	n	cds	no	dupa	conservative
+PL163	n	cds	no	codswallop	conservative
+PL354	n	cds	no	plebejusz	conservative
+PL3216	v	re	no	malwersować	inclusive
+PL263	n	asf	no	bałwan	conservative
+PL96	n	an	no	bizon	inclusive
+PL2982	n	cds	no	złodziej	inclusive
+PL1600	n	cds	no	nielegalnej działalności	inclusive
+PL667	n	cds	no	kutafon	conservative
+PL344	n	cds	no	zbir	conservative
+PL524	n	cds	no	picuś glancuś	inclusive
+PL1129	n	qas	no	zasypywać	inclusive
+PL3335	n	cds	no	gawęda	inclusive
+PL1589	n	ddp	yes	gapić się	conservative
+PL628	n	qas	no	bonzo	inclusive
+PL3382	n	asm	no	podnośnika off	conservative
+PL681	n	cds	no	nieślubny	inclusive
+PL871	n	cds	no	horda	inclusive
+PL176	n	ddp	yes	analfabeta	conservative
+PL3393	a	svp	no	władczy	conservative
+PL837	n	svp	no	pańskość	conservative
+PL2029	n	svp	no	najeżać się	conservative
+PL3578	n	an	no	żabka	inclusive
+PL2520	n	cds	no	puc	conservative
+PL1779	n	cds	no	jajogłowy	inclusive
+PL515	n	cds	no	piękniś	inclusive
+PL2064	n	asm	no	english bean	inclusive
+PL3177	v	qas	no	spieprzyć	conservative
+PL431	n	asf	no	patsy	conservative
+PL3771	n	om	no	transwestytyzm	inclusive
+PL2053	n	re	no	gangster	inclusive
+PL2846	n	an	no	shote	inclusive
+PL3008	n	ps	yes	darkie	conservative
+PL413	n	qas	no	kolumny barokowe	inclusive
+PL3419	n	an	no	kurczak	inclusive
+PL469	n	pr	no	kobieta z ulicy	conservative
+PL1696	n	om	no	ipsilateralnej	inclusive
+PL2358	n	re	no	ancymon	inclusive
+PL1808	n	asm	no	podniesienie	inclusive
+PL598	n	dmc	yes	przestępca	inclusive
+PL3359	n	an	no	gnida	inclusive
+PL2778	n	cds	no	gryzipiórek	inclusive
+PL665	n	ddp	yes	drania	conservative
+PL2755	n	re	no	mafiozo	conservative
+PL364	n	qas	no	prościuch	inclusive
+PL2513	n	dmc	yes	blagierstwo	inclusive
+PL294	n	svp	no	avaritia	inclusive
+PL1142	n	asm	no	pyta	inclusive
+PL153	n	qas	no	bigos	inclusive
+PL666	n	ddp	yes	chujogłowy	conservative
+PL2	n	dmc	yes	upodlenie	inclusive
+PL1701	n	om	no	pupa	inclusive
+PL2557	n	cds	no	odpyskować	inclusive
+PL1747	n	cds	no	dziesiątki	inclusive
+PL879	n	cds	no	rozbicie	conservative
+PL1821	n	an	no	ślimaki	inclusive
+PL925	n	ddp	yes	więzień	inclusive
+PL21	n	svp	no	apatyczność	inclusive
+PL2820	a	dmc	yes	drastyczny	conservative
+PL1844	n	cds	no	grzesznik	conservative
+PL560	a	ddp	yes	durny	conservative
+PL852	n	dmc	yes	git	conservative
+PL3375	a	ps	yes	wściekły	conservative
+PL758	n	svp	no	znudzenie	inclusive
+PL1278	n	om	no	geje	conservative
+PL644	n	cds	no	skurczybyk	conservative
+PL364	n	dmc	yes	prościuch	conservative
+PL1274	n	om	no	pedryl	conservative
+PL1117	n	svp	no	skąpość	conservative
+PL1712	n	cds	no	spryciarz	conservative
+PL1061	n	an	no	dziadostwo	conservative
+PL1292	n	cds	no	gossiper	conservative
+PL2004	n	cds	no	masonem	inclusive
+PL2339	n	qas	no	ideolog	inclusive
+PL207	n	an	no	zwierząt	inclusive
+PL3489	n	pr	no	jawnogrzesznica	conservative
+PL1371	n	an	no	cimex lectularius	inclusive
+PL3688	n	pr	no	świetlik świętojański	inclusive
+PL323	n	svp	no	liczykrupa	conservative
+PL2410	n	is	yes	niezamożność	inclusive
+PL1038	n	cds	no	camorra	inclusive
+PL2295	n	cds	no	arcykapłana	inclusive
+PL660	n	cds	no	wielorasowiec	inclusive
+PL387	n	pa	yes	rangi dyplomatyczne	inclusive
+PL594	n	dmc	yes	banicja	inclusive
+PL2513	n	qas	no	blagierstwo	conservative
+PL1132	n	qas	no	zmącić	inclusive
+PL2541	n	cds	no	loanshark	inclusive
+PL2297	n	dmc	yes	bezdomny	inclusive
+PL624	n	ps	yes	zaczernić	inclusive
+PL2106	n	cds	no	rzecznik	inclusive
+PL3535	a	om	no	różnoraki	inclusive
+PL897	a	dmc	yes	podły	conservative
+PL642	n	re	no	łajdak	conservative
+PL1178	n	qas	no	kast	inclusive
+PL365	n	qas	no	cham	conservative
+PL394	n	pa	yes	advocator	inclusive
+PL3671	a	is	yes	niezamożny	inclusive
+PL130	n	svp	no	rozleniwienie	conservative
+PL2785	n	dmc	yes	chawbacon	conservative
+PL2107	n	cds	no	mediator	inclusive
+PL1768	n	cds	no	karzeł	conservative
+PL2513	n	cds	no	blagierstwo	inclusive
+PL2701	n	cds	no	kaznodziejstwo	inclusive
+PL3245	v	cds	no	zginąć	inclusive
+PL1982	n	an	no	pcheł	inclusive
+PL2431	n	ddp	yes	niekompetentny	conservative
+PL1363	n	cds	no	złom	conservative
+PL353	n	dmc	yes	barbarzyńca	conservative
+PL1146	n	svp	no	cholera	conservative
+PL3088	n	an	no	kleszcze	inclusive
+PL249	n	ps	yes	głupiec	conservative
+PL3449	a	is	yes	niekomfortowy	inclusive
+PL884	n	cds	no	jalopy	inclusive
+PL1705	n	om	no	tyłek	inclusive
+PL2036	n	svp	no	pasja	conservative
+PL586	n	cds	no	gangi	inclusive
+PL273	n	an	no	ciamajda	conservative
+PL1707	n	om	no	pośladka	inclusive
+PL1686	n	om	no	aboral	inclusive
+PL3021	n	ps	yes	pochodzenia afrykańskiego	inclusive
+PL2508	a	svp	no	ociągający się	conservative
+PL2403	n	ddp	yes	banialuka	conservative
+PL2413	n	is	yes	niedostatek	inclusive
+PL1974	n	qas	no	odkażać	inclusive
+PL741	n	ddp	yes	partacz	conservative
+PL3150	n	dmc	yes	nieszczęśliwy człowiek	inclusive
+PL2964	n	ps	yes	mongoloidalna rasa człowieka	conservative
+PL2033	n	svp	no	furia	conservative
+PL2399	n	pr	no	idioctwo	conservative
+PL983	n	an	no	słabeusz	conservative
+PL3481	n	cds	no	prowincjonalizm	inclusive
+PL3068	n	qas	no	dzierżawcy	inclusive
+PL1228	n	asm	no	nookie	conservative
+PL2041	n	dmc	yes	dilly-dallier	conservative
+PL3577	n	an	no	frogspawn	inclusive
+PL3589	n	cds	no	mędrek	conservative
+PL277	n	or	no	barania głowa	conservative
+PL3599	n	an	no	hirudinea	inclusive
+PL1596	n	cds	no	przestępców	inclusive
+PL613	n	ddp	yes	pleciuga	conservative
+PL1621	n	cds	no	przestępczość	inclusive
+PL1100	n	cds	no	parantela	inclusive
+PL1048	n	cds	no	szelmostwo	conservative
+PL2520	n	cds	no	puc	inclusive
+PL674	n	ddp	yes	skurwysynu	conservative
+PL2795	n	qas	no	pasożytnictwa	inclusive
+PL2261	n	ps	yes	judaizmu	inclusive
+PL1532	n	dmc	yes	robienie się	conservative
+PL2323	n	cds	no	hybris	inclusive
+PL1007	n	pr	no	rura	conservative
+PL850	n	cds	no	masa	inclusive
+PL273	n	ddp	yes	ciamajda	conservative
+PL3561	a	dmc	yes	sztuczny	inclusive
+PL1034	n	re	no	oczerniciel	conservative
+PL1486	n	cds	no	przebierać	conservative
+PL3082	n	re	no	terrorysta	conservative
+PL2988	n	ddf	yes	karypel	conservative
+PL1418	n	cds	no	jerk-off	conservative
+PL854	n	an	no	tak a tak	conservative
+PL3515	n	re	no	rabunek	inclusive
+PL1009	n	pr	no	kurew	conservative
+PL3117	n	cds	no	oportunista	conservative
+PL80	n	ddp	yes	opóźnienie rozwoju umysłowego	inclusive
+PL3560	a	dmc	yes	robiony	inclusive
+PL3762	n	om	no	crossdresser	inclusive
+PL873	n	an	no	hołota	conservative
+PL2355	a	svp	no	chytry	conservative
+PL226	n	or	no	pała	inclusive
+PL164	n	asf	no	folderol	conservative
+PL2812	n	an	no	papuga	inclusive
+PL2370	n	an	no	strix varia	inclusive
+PL2631	n	cds	no	koniokrad	inclusive
+PL923	n	cds	no	kliczka	inclusive
+PL594	n	re	no	banicja	inclusive
+PL3385	n	cds	no	hand job	conservative
+PL646	n	an	no	niechlujnie osoba	conservative
+PL1976	n	cds	no	sterylizować	inclusive
+PL1735	n	pa	yes	osłona drzwi	inclusive
+PL2941	n	ddp	yes	głupoty	conservative
+PL158	n	asm	no	przydatków	inclusive
+PL3813	n	an	no	torba	conservative
+PL3557	a	cds	no	codzienny	inclusive
+PL201	n	ddp	yes	infauna	inclusive
+PL3555	n	qas	no	grandilokwencja	inclusive
+PL2184	n	cds	no	potępiony	conservative
+PL2858	n	pa	yes	rzeźnik wieprzowina	inclusive
+PL903	a	ddf	yes	bezecny	conservative
+PL277	n	asf	no	barania głowa	conservative
+PL1188	n	pa	yes	profesorów	inclusive
+PL231	n	or	no	arbuz	inclusive
+PL3307	n	dmc	yes	birbant	conservative
+PL2602	n	svp	no	gniewek	inclusive
+PL965	n	is	yes	parias	inclusive
+PL3886	a	cds	no	wulgarny	conservative
+PL3813	n	pr	no	torba	conservative
+PL672	n	ddp	yes	sukinsyn	conservative
+PL2436	n	ddp	yes	nieobeznanie	conservative
+PL1663	n	svp	no	animozja	inclusive
+PL2748	n	re	no	cosa nostra	inclusive
+PL1043	n	cds	no	defrauder	inclusive
+PL680	n	cds	no	bękart	inclusive
+PL2008	n	cds	no	masonerii	inclusive
+PL1299	n	an	no	pysio	inclusive
+PL3100	n	re	no	pomordować	inclusive
+PL1099	n	cds	no	klanu	inclusive
+PL341	a	svp	no	zachłanny	inclusive
+PL3224	v	cds	no	zepsuć się	inclusive
+PL1743	n	cds	no	rzeka	inclusive
+PL251	n	cds	no	głupek	conservative
+PL1946	n	om	no	anethum foeniculum	inclusive
+PL1042	n	dmc	yes	chiseler	conservative
+PL747	n	pa	yes	bileterka	inclusive
+PL702	n	cds	no	ślepca ulica	inclusive
+PL738	n	ddp	yes	brakorób	conservative
+PL1322	n	pr	no	zastraszać	inclusive
+PL1587	n	an	no	łupieżca	inclusive
+PL299	n	svp	no	dusigrosz	conservative
+PL336	n	asm	no	bimboły	inclusive
+PL1436	n	ps	yes	interfertility	inclusive
+PL859	n	dmc	yes	wagabunda	conservative
+PL1057	n	cds	no	aroganckość	conservative
+PL1846	a	cds	no	zasługujący na pogardę	conservative
+PL143	n	cds	no	bluff	inclusive
+PL2039	n	dmc	yes	dillydallier	conservative
+PL3339	n	is	yes	żebrak	conservative
+PL3774	n	pr	no	hellcat	conservative
+PL3257	v	cds	no	targować	inclusive
+PL2288	n	cds	no	gmin	inclusive
+PL3834	n	re	no	gwałtowność	inclusive
+PL2862	n	svp	no	słynąć	inclusive
+PL3878	a	cds	no	gminny	conservative
+PL2119	n	svp	no	obijacz	conservative
+PL1224	n	asm	no	jebanie	conservative
+PL2291	n	cds	no	tłuszcza	conservative
+PL281	n	an	no	półanalfabeta	conservative
+PL1011	n	pr	no	lisica	conservative
+PL377	n	ddp	yes	barbaryzm	inclusive
+PL117	n	om	no	bestialitas	inclusive
+PL362	n	qas	no	kałmuk	conservative
+PL2377	n	ddf	yes	fawor	inclusive
+PL595	n	cds	no	zakazane	inclusive
+PL756	n	dmc	yes	maruda	conservative
+PL2754	n	cds	no	mafii	conservative
+PL1161	n	cds	no	problemem	conservative
+PL445	n	cds	no	głupi	conservative
+PL451	n	cds	no	pustogłów	conservative
+PL2494	n	dmc	yes	rzekomy	conservative
+PL1561	n	pr	no	konkubinat	inclusive
+PL3455	a	cds	no	nieoryginalny	inclusive
+PL752	n	an	no	zooerastia	conservative
+PL2948	n	pa	yes	pasterz	inclusive
+PL2558	n	cds	no	ponownie rozmawiać	inclusive
+PL444	n	ddp	yes	kretyn	inclusive
+PL2132	n	cds	no	obskurant	conservative
+PL1587	n	re	no	łupieżca	conservative
+PL1944	n	om	no	finocchio	inclusive
+PL2260	n	ps	yes	religia mojżeszowa	inclusive
+PL217	n	re	no	gwałt	inclusive
+PL1149	n	cds	no	pierun	conservative
+PL2604	n	svp	no	gniewać się	inclusive
+PL361	n	ps	yes	neandertalczyk	conservative
+PL2201	n	re	no	grabież	inclusive
+PL249	n	cds	no	głupiec	conservative
+PL1240	n	asm	no	pieprzenie	conservative
+PL3645	n	ddp	yes	folly	inclusive
+PL370	n	pa	yes	parobas	conservative
+PL1396	n	an	no	bałamutnica	conservative
+PL3377	a	an	no	animalny	inclusive
+PL621	n	ps	yes	czarność	inclusive
+PL1153	n	asm	no	kogucik	inclusive
+PL3436	n	cds	no	niemowlę	inclusive
+PL455	n	ddp	yes	tłumok	conservative
+PL435	n	ps	yes	dałn	conservative
+PL562	a	ddp	yes	dziecinny	conservative
+PL2810	n	an	no	papugowe	inclusive
+PL252	n	ddp	yes	głupol	conservative
+PL2412	n	is	yes	mizeria	inclusive
+PL357	n	cds	no	wiochmen	conservative
+PL1043	n	dmc	yes	defrauder	conservative
+PL3218	n	qas	no	awanturnik	conservative
+PL3099	n	re	no	morderstwo	inclusive
+PL3634	n	dmc	yes	drugi rater	conservative
+PL2856	n	is	yes	biedni ludzie	inclusive
+PL1104	n	pa	yes	urzędniczyna	inclusive
+PL2330	n	cds	no	klaun	conservative
+PL1769	n	svp	no	żarłoczność	conservative
+PL2212	n	pr	no	call-boy	inclusive
+PL3277	v	cds	no	wysychać	inclusive
+PL3390	a	cds	no	butny	conservative
+PL609	n	cds	no	plotkarz	conservative
+PL3492	n	pr	no	cichodajka	conservative
+PL778	n	asm	no	brązowy	inclusive
+PL1892	n	cds	no	rajfur	conservative
+PL1290	n	ddp	yes	rumourmonger	conservative
+PL2516	n	cds	no	spoczywać	conservative
+PL577	n	cds	no	szajka	inclusive
+PL353	n	qas	no	barbarzyńca	conservative
+PL2578	n	asm	no	wacek	inclusive
+PL361	n	dmc	yes	neandertalczyk	conservative
+PL1450	n	cds	no	naród	inclusive
+PL1242	n	asm	no	bzykanie	conservative
+PL2523	n	qas	no	leżeć	conservative
+PL2194	n	re	no	złodziei	inclusive
+PL2180	n	an	no	szkapa	inclusive
+PL1546	n	dmc	yes	matactwo	conservative
+PL2637	n	re	no	włamywaczka	inclusive
+PL827	n	ps	yes	bułgarski	inclusive
+PL1319	n	an	no	krowa	conservative
+PL1548	n	dmc	yes	bałamuctwo	conservative
+PL3883	a	cds	no	prostacki	conservative
+PL3668	a	pa	yes	polityczny	inclusive
+PL2664	n	cds	no	umyć pokój	inclusive
+PL561	a	ddp	yes	durnowaty	conservative
+PL607	n	cds	no	skarżypyta	conservative
+PL2681	n	cds	no	sracz	inclusive
+PL374	n	rci	yes	nieokrzesaniec	conservative
+PL3783	n	asm	no	ptaki	inclusive
+PL559	a	cds	no	debilny	conservative
+PL1062	n	cds	no	ragtag	conservative
+PL2907	n	ps	yes	mestizos	conservative
+PL1717	n	qas	no	hodowli	inclusive
+PL2559	n	cds	no	backtalk	inclusive
+PL1353	n	ddp	yes	quack	conservative
+PL2252	n	om	no	homoeroticism	inclusive
+PL2821	a	dmc	yes	okrutny	conservative
+PL1043	n	cds	no	defrauder	conservative
+PL2343	n	qas	no	ideologia	inclusive
+PL641	n	an	no	bydlak	conservative
+PL1459	n	cds	no	rookie	conservative
+PL645	n	cds	no	fleja	conservative
+PL3157	n	cds	no	lichwy	conservative
+PL367	n	dmc	yes	ordynus	conservative
+PL568	n	cds	no	bigoterii	conservative
+PL2014	n	cds	no	masoni	inclusive
+PL566	n	svp	no	bigoteria	conservative
+PL150	n	qas	no	drobiazgi	inclusive
+PL1555	n	cds	no	motłoch-rouser	conservative
+PL233	n	or	no	makówka	inclusive
+PL1711	n	cds	no	cwaniak	conservative
+PL1422	n	an	no	krokodyla	inclusive
+PL3590	n	cds	no	przemądrzały typ	conservative
+PL1535	n	dmc	yes	nabywanie	conservative
+PL3473	a	cds	no	zalękniony	conservative
+PL2149	a	cds	no	brudny	inclusive
+PL1058	n	qas	no	pospólstwo	conservative
+PL617	n	cds	no	łobuzerstwo	conservative
+PL1322	n	an	no	zastraszać	inclusive
+PL3464	a	dmc	yes	podrobiony	conservative
+PL1376	n	an	no	hemipteran	inclusive
+PL3855	n	dmc	yes	apostata	conservative
+PL3002	a	cds	no	samolubny	conservative
+PL898	a	ddf	yes	mały	conservative
+PL2140	v	asm	no	kochać się	conservative
+PL1999	n	asm	no	napletka	inclusive
+PL2235	n	is	yes	gołodupiec	inclusive
+PL1190	n	pa	yes	profesor	inclusive
+PL2594	n	svp	no	enviousness	inclusive
+PL3800	n	ps	yes	żółtą kartkę	inclusive
+PL251	n	asm	no	głupek	conservative
+PL595	n	cds	no	zakazane	conservative
+PL240	n	asm	no	szaleństwo	conservative
+PL578	n	cds	no	hewra	inclusive
+PL2879	n	cds	no	aferzysta	inclusive
+PL3650	n	ddp	yes	głuptas	conservative
+PL2983	n	re	no	złodziejka	inclusive
+PL2098	n	cds	no	quidnunc	conservative
+PL1041	n	cds	no	macher	conservative
+PL722	n	cds	no	doktrynerstwo	conservative
+PL3376	a	an	no	zwierzęcy	inclusive
+PL3531	a	om	no	zróżnicowany	inclusive
+PL1679	n	om	no	brzusznej	inclusive
+PL973	n	cds	no	cienias	conservative
+PL1610	n	asf	no	gówno	inclusive
+PL3833	n	pr	no	dworzan	inclusive
+PL834	n	cds	no	wysokiej ręczność	conservative
+PL1983	n	an	no	aphaniptera	inclusive
+PL3377	a	an	no	animalny	conservative
+PL3341	n	cds	no	płaczek	conservative
+PL451	n	asm	no	pustogłów	conservative
+PL1360	n	cds	no	odpadów domowych	conservative
+PL353	n	ps	yes	barbarzyńca	conservative
+PL348	n	cds	no	brygant	conservative
+PL2542	n	cds	no	pożyczki pieniędzy	inclusive
+PL553	n	cds	no	kłamczuch	conservative
+PL759	n	svp	no	nudy	inclusive
+PL11	n	svp	no	abulia	inclusive
+PL264	n	an	no	dumbass	conservative
+PL997	n	ddp	yes	debilizm	inclusive
+PL3547	n	cds	no	fawner	conservative
+PL2798	n	qas	no	pasożytnictwo	inclusive
+PL2731	n	cds	no	osesek	inclusive
+PL663	n	cds	no	łamistrajk	inclusive
+PL354	n	ps	yes	plebejusz	conservative
+PL3617	n	an	no	pokurcz	inclusive
+PL19	n	svp	no	ścierpnięcie	inclusive
+PL363	n	pa	yes	dzikus	conservative
+PL2453	n	cds	no	pomoc dydaktyczna	inclusive
+PL2521	n	cds	no	poleżeć	conservative
+PL2366	n	cds	no	gagatek	conservative
+PL482	n	pr	no	tufta	conservative
+PL711	n	an	no	przejęzyczenie	inclusive
+PL2859	n	cds	no	prankishness	inclusive
+PL71	n	cds	no	amatorszczyzna	conservative
+PL3123	n	re	no	załatwienie	inclusive
+PL1248	n	asm	no	shtup	conservative
+PL2730	n	cds	no	nerdy	conservative
+PL226	n	cds	no	pała	inclusive
+PL2039	n	svp	no	dillydallier	conservative
+PL336	n	qas	no	bimboły	inclusive
+PL1058	n	cds	no	pospólstwo	inclusive
+PL202	n	an	no	animalia	inclusive
+PL164	n	ddp	yes	folderol	conservative
+PL326	n	qas	no	jaja	inclusive
+PL1750	n	cds	no	wiązania	inclusive
+PL3039	n	ps	yes	innych ras	inclusive
+PL1256	n	cds	no	newswriter	inclusive
+PL1698	n	om	no	tooshie	inclusive
+PL300	n	ddp	yes	gaduła	conservative
+PL1768	n	ddf	yes	karzeł	conservative
+PL3536	a	om	no	przebogaty	inclusive
+PL1981	n	an	no	pchła	inclusive
+PL2677	n	cds	no	w.c.	inclusive
+PL1012	n	an	no	suczka	inclusive
+PL1241	n	asm	no	zapomnieć	conservative
+PL1314	n	an	no	fizjonomii	inclusive
+PL376	n	ddp	yes	brutalność	conservative
+PL242	n	ddp	yes	wariactwo	conservative
+PL357	n	qas	no	wiochmen	conservative
+PL66	n	pa	yes	wydziału	inclusive
+PL1811	n	asm	no	ustanowienie	inclusive
+PL1966	n	asm	no	ryby	inclusive
+PL3887	a	cds	no	karczemny	conservative
+PL337	n	qas	no	gonada męska	inclusive
+PL2305	n	qas	no	lukrowanie	inclusive
+PL671	n	cds	no	dupek	conservative
+PL3544	a	om	no	odrębny	inclusive
+PL1914	n	qas	no	granger	inclusive
+PL1629	n	cds	no	gleby	inclusive
+PL815	n	qas	no	burżuazji	inclusive
+PL1133	n	qas	no	popijawa	inclusive
+PL1965	n	asm	no	anatomia ryb	inclusive
+PL1831	n	dmc	yes	moralistycznych	inclusive
+PL1978	n	qas	no	dezynfekować	inclusive
+PL3269	n	or	no	ziemniaki	inclusive
+PL345	n	cds	no	rzezimieszek	conservative
+PL1058	n	an	no	pospólstwo	conservative
+PL1105	n	pa	yes	urzędas	inclusive
+PL2448	n	cds	no	ostentatiousness	inclusive
+PL3323	n	cds	no	plotka	inclusive
+PL129	n	svp	no	gnuśność	conservative
+PL2434	n	ddp	yes	niewiedza	conservative
+PL2861	n	svp	no	poczucie własnej godności	inclusive
+PL449	n	ddp	yes	pillock	conservative
+PL3215	v	re	no	zdefraudować	inclusive
+PL3685	n	ddp	yes	hooey	inclusive
+PL354	n	rci	yes	plebejusz	conservative
+PL735	n	ddp	yes	fuszer	conservative
+PL1260	n	cds	no	dziennikarzem	inclusive
+PL3714	n	re	no	akt terrorystyczny	conservative
+PL3108	n	re	no	wykończanie	inclusive
+PL241	n	asf	no	bêtise	conservative
+PL2369	n	re	no	bisurman	inclusive
+PL730	n	pa	yes	jezuita	inclusive
+PL1106	n	pa	yes	urzędnik	inclusive
+PL326	n	asm	no	jaja	inclusive
+PL1699	n	om	no	rzędne	inclusive
+PL87	n	ddp	yes	amencja	inclusive
+PL1611	n	an	no	diddly-shit	conservative
+PL1243	n	asm	no	ruchanie	conservative
+PL369	n	pa	yes	wieśniak	conservative
+PL3712	n	cds	no	powierzchowność	inclusive
+PL2242	n	om	no	mężołóstwo	inclusive
+PL367	n	pa	yes	ordynus	conservative
+PL2116	n	cds	no	obibok	conservative
+PL359	n	pa	yes	burek	conservative
+PL2986	n	cds	no	knypek	conservative
+PL297	n	an	no	sknera	conservative
+PL3041	n	ps	yes	latynosi	inclusive
+PL734	n	ddp	yes	bumbler	conservative
+PL2661	n	qas	no	mieszaniny	inclusive
+PL977	n	an	no	mizerota	conservative
+PL1942	n	om	no	fenkuł	inclusive
+PL3856	n	dmc	yes	odszczepieniec	conservative
+PL2152	a	cds	no	nieczysty	inclusive
+PL1985	n	cds	no	stado	inclusive
+PL1817	n	an	no	Ślimaki w kuchni	inclusive
+PL2361	n	cds	no	wisus	inclusive
+PL1041	n	re	no	macher	inclusive
+PL1266	n	or	no	ciotula	conservative
+PL2756	n	cds	no	mafiosów	conservative
+PL2442	n	cds	no	pompatyczność	conservative
+PL2541	n	cds	no	loanshark	conservative
+PL3521	n	re	no	łupienie	inclusive
+PL899	a	dmc	yes	nędzny	conservative
+PL388	n	pa	yes	klasy dyplomatyczne	inclusive
+PL230	n	or	no	bania	inclusive
+PL2706	n	cds	no	mentorstwo	inclusive
+PL444	n	ddp	yes	kretyn	conservative
+PL152	n	qas	no	miszmasz	inclusive
+PL419	n	re	no	rabuś	conservative
+PL1218	n	svp	no	fizyczne atrakcją	inclusive
+PL2102	n	qas	no	snooper	inclusive
+PL869	n	cds	no	zgraja	conservative
+PL3822	a	cds	no	sprzedajny	conservative
+PL700	n	cds	no	sięgacz	inclusive
+PL1992	a	dmc	yes	dwulicowy	conservative
+PL2902	n	cds	no	kanalizacji	inclusive
+PL649	n	an	no	świntuch	conservative
+PL178	n	ddp	yes	analphabet	inclusive
+PL371	n	qas	no	troglodyta	conservative
+PL858	n	dmc	yes	włóczęgów	conservative
+PL2860	n	svp	no	ambicyjka	inclusive
+PL2366	n	dmc	yes	gagatek	inclusive
+PL147	n	cds	no	rupiecie	inclusive
+PL2652	n	or	no	dokładność	inclusive
+PL984	n	an	no	kościotrup	conservative
+PL376	n	an	no	brutalność	conservative
+PL1840	n	an	no	eurypterids	inclusive
+PL726	n	cds	no	fałszywiec	conservative
+PL643	n	an	no	bydlę	conservative
+PL1765	n	cds	no	peon	inclusive
+PL3283	n	cds	no	pedantyczny	conservative
+PL512	n	cds	no	fałsz	conservative
+PL3659	n	an	no	kulbak czerwony	inclusive
+PL3814	n	pr	no	pudło	conservative
+PL2608	n	svp	no	gniewność	inclusive
+PL1688	n	om	no	podeszwowej	inclusive
+PL86	n	ddp	yes	niedorozwój umysłowy	inclusive
+PL760	n	svp	no	nuda	inclusive
+PL842	n	svp	no	conceitedness	conservative
+PL2367	n	re	no	andrus	inclusive
+PL249	n	dmc	yes	głupiec	inclusive
+PL1035	n	re	no	oszczerca	conservative
+PL254	n	an	no	błaznować	conservative
+PL3057	n	asf	no	detal	inclusive
+PL3020	n	ps	yes	negroids	inclusive
+PL511	n	cds	no	nieprawda	inclusive
+PL593	n	dmc	yes	złoczyńca	inclusive
+PL3006	n	ps	yes	czarnuch	conservative
+PL937	n	an	no	squalus carcharias	inclusive
+PL1952	n	dmc	yes	foetor	conservative
+PL2691	n	cds	no	próżniaków	conservative
+PL2610	n	svp	no	angriness	inclusive
+PL1006	n	cds	no	cipa	conservative
+PL2448	n	cds	no	ostentatiousness	conservative
+PL3029	a	ps	yes	czarnoskóry	inclusive
+PL579	n	cds	no	sieć	conservative
+PL2035	n	an	no	wściekać	inclusive
+PL1510	v	asm	no	prześmiewać się	inclusive
+PL3316	n	cds	no	przekładanie	inclusive
+PL1134	n	qas	no	fala	inclusive
+PL103	a	an	no	upartym	inclusive
+PL1040	n	cds	no	chiseller	conservative
+PL1015	n	re	no	obmowa	inclusive
+PL2776	n	cds	no	papparazzi	inclusive
+PL568	n	svp	no	bigoterii	conservative
+PL2099	n	cds	no	kibic	conservative
+PL990	n	ps	yes	podmieńca	conservative
+PL999	n	or	no	picza	conservative
+PL485	n	pr	no	kokota	conservative
+PL2001	n	asm	no	faul	inclusive
+PL1939	n	re	no	wymuszenie	inclusive
+PL2875	n	cds	no	superbia	inclusive
+PL430	n	ps	yes	frajer	conservative
+PL671	n	ddp	yes	dupek	conservative
+PL2516	n	dmc	yes	spoczywać	inclusive
+PL279	n	ddp	yes	niewykształcony człowiek	conservative
+PL1124	n	svp	no	skąpstwo	conservative
+PL1426	n	an	no	krokodylowe	inclusive
+PL244	a	ddp	yes	niemądry	conservative
+PL437	n	or	no	półgłupek	conservative
+PL49	n	re	no	nadużywanie	inclusive
+PL2119	n	dmc	yes	obijacz	conservative
+PL3794	n	cds	no	lichewka	inclusive
+PL1848	a	dmc	yes	zgubny	conservative
+PL208	n	ddp	yes	reprodukcja zwierzęca	inclusive
+PL2873	n	cds	no	poczucie wyższości	conservative
+PL1364	n	qas	no	odrzuty	inclusive
+PL669	n	ddp	yes	złamas	conservative
+PL1798	a	qas	no	niepoczytalny	conservative
+PL176	n	an	no	analfabeta	conservative
+PL3444	a	asm	no	brązowy	inclusive
+PL2785	n	cds	no	chawbacon	conservative
+PL2182	n	an	no	szkapina	inclusive
+PL698	n	an	no	cuckold	conservative
+PL439	n	cds	no	idiota	inclusive
+PL3703	n	re	no	molestował	inclusive
+PL647	n	an	no	świnia	inclusive
+PL1017	n	re	no	praca topór	inclusive
+PL3707	n	asm	no	faulu	inclusive
+PL3012	n	ps	yes	murzynów	inclusive
+PL455	n	ps	yes	tłumok	conservative
+PL597	n	cds	no	banita	inclusive
+PL247	n	ddp	yes	duda	conservative
+PL1647	n	cds	no	zaśmiecać	inclusive
+PL2744	n	cds	no	stróż bezpieczeństwa	conservative
+PL2823	a	dmc	yes	bezduszny	conservative
+PL1936	n	cds	no	finta	conservative
+PL1498	n	om	no	madam	inclusive
+PL684	n	cds	no	by-blow	inclusive
+PL3426	n	cds	no	dzieci	inclusive
+PL3438	n	cds	no	dziecinka	inclusive
+PL1419	n	ddp	yes	twirp	conservative
+PL1350	n	ddp	yes	znachor	conservative
+PL1466	n	asf	no	piczka	conservative
+PL2818	a	dmc	yes	barbarzyński	conservative
+PL299	n	svp	no	dusigrosz	inclusive
+PL2956	n	an	no	stylommatophora	inclusive
+PL466	n	pr	no	córa koryntu	inclusive
+PL2751	n	re	no	sottocapo	conservative
+PL2744	n	cds	no	stróż bezpieczeństwa	inclusive
+PL2429	n	svp	no	bierność	inclusive
+PL3381	n	asm	no	onania	conservative
+PL917	n	cds	no	ingroup	inclusive
+PL3889	a	cds	no	rynsztokowy	conservative
+PL2253	n	om	no	chłopcoróbstwo	inclusive
+PL359	n	dmc	yes	burek	conservative
+PL1903	n	pr	no	comare	conservative
+PL974	n	cds	no	zdechlak	conservative
+PL3052	n	asf	no	małe piwo	inclusive
+PL713	n	cds	no	boner	inclusive
+PL612	n	ddp	yes	wskaźnik	conservative
+PL900	a	dmc	yes	niecny	conservative
+PL1812	n	asm	no	uniesienie	inclusive
+PL1642	n	cds	no	grunge	inclusive
+PL2805	n	qas	no	parochia	inclusive
+PL356	n	qas	no	jaskiniowiec	conservative
+PL354	n	qas	no	plebejusz	conservative
+PL333	n	qas	no	teste	inclusive
+PL147	n	qas	no	rupiecie	inclusive
+PL1994	n	dmc	yes	błazna	inclusive
+PL355	n	dmc	yes	cebulak	conservative
+PL145	n	cds	no	żart	inclusive
+PL2481	a	dmc	yes	nieładny	conservative
+PL1090	n	cds	no	japońskie jednostki miary	inclusive
+PL1186	n	pa	yes	profesora nadzwyczajnego	inclusive
+PL824	n	cds	no	bezczelność	conservative
+PL2196	n	cds	no	zagarnięcie	inclusive
+PL881	n	dmc	yes	nikczemny	conservative
+PL1135	n	qas	no	zamącić	inclusive
+PL2321	n	qas	no	rudera	inclusive
+PL873	n	cds	no	hołota	conservative
+PL579	n	cds	no	sieć	inclusive
+PL298	n	svp	no	skąpiec	inclusive
+PL3719	n	re	no	terroryzm	inclusive
+PL729	n	dmc	yes	faryzeusz	inclusive
+PL3895	n	cds	no	bandyty	inclusive
+PL3629	n	dmc	yes	fajfus	conservative
+PL3810	n	om	no	drag queens	inclusive
+PL306	n	svp	no	pazerność	inclusive
+PL3453	a	qas	no	zwykły	inclusive
+PL2356	n	dmc	yes	imitacja	inclusive
+PL3548	n	cds	no	truckler	conservative
+PL1678	n	om	no	dusza	inclusive
+PL371	n	cds	no	troglodyta	conservative
+PL3290	v	cds	no	gryzmolić	inclusive
+PL503	n	pr	no	rentboy	conservative
+PL1271	n	or	no	pedzio	conservative
+PL1917	n	qas	no	farmer	inclusive
+PL3626	a	pa	yes	jezuicki	inclusive
+PL347	n	dmc	yes	opryszek	conservative
+PL2722	n	an	no	mucha w smole	conservative
+PL2639	n	ps	yes	metojkowie	inclusive
+PL459	n	asf	no	matoł	conservative
+PL1806	n	asm	no	wzwód	inclusive
+PL3034	n	pa	yes	konkurent	inclusive
+PL1892	n	cds	no	rajfur	inclusive
+PL2326	n	cds	no	zgiełku	conservative
+PL3565	a	cds	no	faszystowski	inclusive
+PL2390	n	ddf	yes	niepełnosprawnych	inclusive
+PL3477	n	cds	no	protagonism	inclusive
+PL327	n	asm	no	testis	inclusive
+PL1064	n	cds	no	szumowina	conservative
+PL1397	n	an	no	porzucić	conservative
+PL2568	n	cds	no	dopasowujący	inclusive
+PL1517	v	asm	no	kibicować	inclusive
+PL3434	n	cds	no	dzieciąteczko	inclusive
+PL250	n	rci	yes	prostak	conservative
+PL991	n	ddp	yes	idiotka	conservative
+PL2707	n	an	no	culicidae	inclusive
+PL3022	n	ps	yes	czarne kobiety	inclusive
+PL1155	n	cds	no	potrudzić się	conservative
+PL2864	n	cds	no	duma	conservative
+PL365	n	pa	yes	cham	conservative
+PL1963	n	asm	no	ryba	inclusive
+PL254	n	cds	no	błaznować	conservative
+PL1000	n	or	no	pinda	conservative
+PL3517	n	re	no	rozbój	inclusive
+PL3347	n	an	no	humanus	inclusive
+PL3410	n	re	no	piractwo	inclusive
+PL1265	n	om	no	zniewieścialec	conservative
+PL1270	n	om	no	ciota	inclusive
+PL978	n	an	no	chuchro	conservative
+PL3683	a	dmc	yes	niechlujny	conservative
+PL2204	n	re	no	grabieży	inclusive
+PL2868	n	svp	no	dobre imię	inclusive
+PL240	n	an	no	szaleństwo	conservative
+PL3295	v	cds	no	grzebać	inclusive
+PL1411	n	ddp	yes	kretynizm	conservative
+PL3329	n	cds	no	uwaga	inclusive
+PL1847	a	dmc	yes	szkodliwy	conservative
+PL2188	n	cds	no	złodziejem	inclusive
+PL327	n	qas	no	testis	inclusive
+PL507	n	pr	no	kanciarz	conservative
+PL370	n	qas	no	parobas	conservative
+PL15	n	svp	no	senność	inclusive
+PL975	n	cds	no	chuchrak	conservative
+PL3792	n	re	no	'ndrangheta	inclusive
+PL1404	n	an	no	sowa	inclusive
+PL585	n	qas	no	wataha	inclusive
+PL3640	n	an	no	canis aureus	inclusive
+PL503	n	an	no	rentboy	conservative
+PL1513	v	asm	no	przełykać	inclusive
+PL915	n	cds	no	koteria	inclusive
+PL3546	n	cds	no	fagas	conservative
+PL3571	n	an	no	płazy bezogoniaste	inclusive
+PL427	n	cds	no	bas bleu	inclusive
+PL2302	a	svp	no	łasy	inclusive
+PL522	n	cds	no	goguś	inclusive
+PL368	n	dmc	yes	barbarzyńców	conservative
+PL2592	n	svp	no	zazdrość	inclusive
+PL226	n	an	no	pała	conservative
+PL210	n	an	no	epifauna	inclusive
+PL1442	n	cds	no	biotechnologii roślin	inclusive
+PL3241	v	cds	no	zniknąć	inclusive
+PL134	n	qas	no	giermek	inclusive
+PL1935	n	cds	no	chwyt	inclusive
+PL3865	n	an	no	terpolepis	inclusive
+PL248	n	ddp	yes	osioł	conservative
+PL1550	n	an	no	mistyfikacja	conservative
+PL769	n	pr	no	bydła	inclusive
+PL3763	n	om	no	cross-dress	inclusive
+PL3141	n	dmc	yes	trikster	conservative
+PL1395	n	an	no	wamp	conservative
+PL2220	n	pr	no	prostytutki	conservative
+PL1280	n	or	no	homofilia	conservative
+PL3719	n	re	no	terroryzm	conservative
+PL355	n	pa	yes	cebulak	conservative
+PL3343	n	cds	no	narzekać	conservative
+PL2535	n	cds	no	moneylending	conservative
+PL1591	n	ddp	yes	doofus	conservative
+PL1934	n	cds	no	fortel	inclusive
+PL2880	n	pr	no	szczury	inclusive
+PL357	n	pa	yes	wiochmen	conservative
+PL332	n	asm	no	jądra	inclusive
+PL409	n	qas	no	baronii	inclusive
+PL71	n	qas	no	amatorszczyzna	conservative
+PL2205	n	re	no	brudnych pieniędzy	inclusive
+PL2203	n	re	no	szaberek	inclusive
+PL2954	n	qas	no	obciążnika	inclusive
+PL847	n	cds	no	wolumen	inclusive
+PL1360	n	cds	no	odpadów domowych	inclusive
+PL1795	a	qas	no	oszalały	conservative
+PL1257	n	cds	no	korespondent	inclusive
+PL124	n	om	no	branie do dupy	inclusive
+PL1850	n	is	yes	biedaczyna	inclusive
+PL3557	a	qas	no	codzienny	inclusive
+PL729	n	dmc	yes	faryzeusz	conservative
+PL3652	a	ddp	yes	tępy	conservative
+PL3394	a	svp	no	hardy	conservative
+PL851	n	an	no	wół	inclusive
+PL1280	n	om	no	homofilia	inclusive
+PL3207	v	asm	no	przywłaszczać	conservative
+PL1526	v	asm	no	obśmiewać	inclusive
+PL3509	n	re	no	porwanie	inclusive
+PL2397	n	ddp	yes	bezsens	conservative
+PL2521	n	cds	no	poleżeć	inclusive
+PL2725	n	an	no	muł	inclusive
+PL3705	n	an	no	Ślinikowate	inclusive
+PL2713	n	an	no	Ćmy	inclusive
+PL2122	n	svp	no	nicpoń	conservative
+PL1474	n	or	no	sativus	inclusive
+PL3296	v	cds	no	przekreślać	inclusive
+PL1058	n	cds	no	pospólstwo	conservative
+PL539	n	ps	yes	beduini	inclusive
+PL938	n	an	no	squalus caninus	inclusive
+PL755	n	ddp	yes	brutalizm	conservative
+PL499	n	an	no	męskiej eskorty	conservative
+PL2035	n	svp	no	wściekać	conservative
+PL1270	n	cds	no	ciota	conservative
+PL549	n	cds	no	beguine	inclusive
+PL511	n	cds	no	nieprawda	conservative
+PL1484	n	qas	no	zerwać	conservative
+PL2729	n	cds	no	nerd	conservative
+PL1933	n	cds	no	sztuczka	inclusive
+PL2269	n	ps	yes	judeo	inclusive
+PL2755	n	cds	no	mafiozo	inclusive
+PL3529	n	re	no	kidnaper	inclusive
+PL2460	n	cds	no	instruktorem	inclusive
+PL3320	n	cds	no	uzasadnienie	inclusive
+PL3674	n	qas	no	bloodhound	inclusive
+PL2929	n	ddp	yes	microcephalia	inclusive
+PL2945	n	pa	yes	owczarz	inclusive
+PL1268	n	om	no	niuńka	conservative
+PL1429	n	an	no	krokodyli	inclusive
+PL2330	n	dmc	yes	klaun	inclusive
+PL1265	n	or	no	zniewieścialec	conservative
+PL3309	v	cds	no	bazgrać	inclusive
+PL536	n	ps	yes	beduinowie	inclusive
+PL2487	n	dmc	yes	niemoralne	inclusive
+PL2497	n	dmc	yes	faker	conservative
+PL1255	n	pa	yes	kapral	inclusive
+PL2329	n	cds	no	clown	conservative
+PL328	n	ddp	yes	bzdury	inclusive
+PL615	n	cds	no	złośliwy	conservative
+PL2379	n	ddf	yes	niewydolność	inclusive
+PL969	n	dmc	yes	zgniłek	conservative
+PL2527	a	is	yes	niefortunne	inclusive
+PL2680	n	cds	no	prewet	inclusive
+PL1411	n	ddp	yes	kretynizm	inclusive
+PL1251	n	an	no	zające	inclusive
+PL1000	n	pr	no	pinda	conservative
+PL3338	n	is	yes	dziad	conservative
+PL272	n	or	no	ośla głowa	conservative
+PL2293	n	cds	no	masy	inclusive
+PL2908	n	ps	yes	mestizo	conservative
+PL670	n	ddp	yes	dickhead	conservative
+PL3654	n	an	no	kulbak czarwony	inclusive
+PL3171	n	an	no	czerw	inclusive
+PL2054	n	re	no	gangsterów	inclusive
+PL3004	n	ps	yes	nigger	conservative
+PL1720	n	qas	no	budy	inclusive
+PL438	n	or	no	głowa budyń	conservative
+PL2492	n	om	no	żona para	inclusive
+PL2718	n	an	no	moue	inclusive
+PL6	n	svp	no	lenistwo	conservative
+PL239	n	an	no	głupota	conservative
+PL1441	n	cds	no	bastard	inclusive
+PL1110	n	an	no	kozy	inclusive
+PL543	n	an	no	wołowiny	inclusive
+PL3082	n	re	no	terrorysta	inclusive
+PL2450	n	cds	no	napuszoność	conservative
+PL3495	n	pa	yes	księgowy	inclusive
+PL1041	n	cds	no	macher	inclusive
+PL2360	n	cds	no	huncwot	conservative
+PL2542	n	cds	no	pożyczki pieniędzy	conservative
+PL595	n	re	no	zakazane	inclusive
+PL2225	n	is	yes	ubogi	inclusive
+PL1576	a	ddp	yes	prostoduszny	conservative
+PL3231	v	cds	no	zaciągnąć się	inclusive
+PL457	n	asm	no	tuman	conservative
+PL1905	n	pr	no	metresa	conservative
+PL373	n	dmc	yes	żłób	conservative
+PL3016	n	ps	yes	negroidzi	inclusive
+PL1358	n	qas	no	złomu	inclusive
+PL241	n	an	no	bêtise	conservative
+PL1042	n	cds	no	chiseler	inclusive
+PL457	n	ddp	yes	tuman	conservative
+PL1037	n	cds	no	kamora	inclusive
+PL193	n	an	no	prawdziwego węgorza	inclusive
+PL3630	n	cds	no	faja	conservative
+PL3176	n	an	no	chaser spódnica	conservative
+PL3879	a	cds	no	knajpiany	conservative
+PL368	n	rci	yes	barbarzyńców	conservative
+PL883	n	cds	no	villainess	conservative
+PL183	n	cds	no	zastęp	inclusive
+PL2692	n	an	no	mollusca	inclusive
+PL3298	v	cds	no	majstrować	inclusive
+PL2117	n	dmc	yes	do niczego	conservative
+PL1252	n	an	no	królik	inclusive
+PL3600	n	an	no	pijawki	inclusive
+PL2796	n	qas	no	pasożyty	inclusive
+PL2941	n	asm	no	głupoty	conservative
+PL194	n	an	no	węgorzokształtne	inclusive
+PL257	n	asm	no	głup	conservative
+PL3888	a	cds	no	niesmaczny	conservative
+PL3636	n	an	no	szakal	inclusive
+PL769	n	an	no	bydła	inclusive
+PL2271	n	ps	yes	religia żydowska	inclusive
+PL2310	n	svp	no	obżarstwo	inclusive
+PL2037	n	cds	no	pyszałek	conservative
+PL3734	n	re	no	torturowany	inclusive
+PL1419	n	asm	no	twirp	conservative
+PL2998	n	cds	no	autolatry	inclusive
+PL2337	n	cds	no	ballad	inclusive
+PL1352	n	ddp	yes	konował	conservative
+PL2123	n	cds	no	wstecznik	conservative
+PL2538	n	cds	no	lichwiarz	inclusive
+PL1464	n	cds	no	synek	inclusive
+PL3302	n	dmc	yes	trzpiot	conservative
+PL1922	n	cds	no	faszystowski	conservative
+PL1687	n	om	no	skóra	inclusive
+PL2756	n	re	no	mafiosów	conservative
+PL2187	n	re	no	grand theft	inclusive
+PL2634	n	cds	no	rustler	inclusive
+PL3520	n	re	no	zbrojnych napadów	inclusive
+PL2665	n	cds	no	stół	inclusive
+PL2891	n	qas	no	retoryki	inclusive
+PL1836	n	an	no	wielkoraki	inclusive
+PL1563	n	pr	no	kurtyzany	inclusive
+PL337	n	asm	no	gonada męska	inclusive
+PL3744	v	re	no	zamęczać	inclusive
+PL958	n	cds	no	padlinę	inclusive
+PL1285	n	om	no	gej	inclusive
+PL3875	n	svp	no	pożądliwości	inclusive
+PL1979	n	an	no	pchełka	inclusive
+PL3191	n	cds	no	parweniusz	inclusive
+PL476	n	pr	no	ścierka	conservative
+PL643	n	dmc	yes	bydlę	conservative
+PL832	n	cds	no	wielkopańskość	conservative
+PL3106	n	re	no	morderczyni	inclusive
+PL831	n	svp	no	chełpliwość	conservative
+PL1045	n	dmc	yes	grifter	conservative
+PL1715	n	cds	no	filut	inclusive
+PL1354	n	qas	no	odpadów komunalnych	inclusive
+PL458	n	ps	yes	tłuczek	conservative
+PL167	n	cds	no	prześladowca	conservative
+PL922	n	cds	no	towarzystwo wzajemnej adoracji	inclusive
+PL2490	n	dmc	yes	niemoralności	inclusive
+PL461	n	pr	no	dziwa	conservative
+PL3756	n	pr	no	biston betularia	inclusive
+PL3613	n	an	no	blattodea	inclusive
+PL2335	n	cds	no	crooners	inclusive
+PL2521	n	qas	no	poleżeć	conservative
+PL444	n	or	no	kretyn	conservative
+PL674	n	cds	no	skurwysynu	conservative
+PL1293	n	cds	no	rumormonger	conservative
+PL971	n	cds	no	ułomek	conservative
+PL1361	n	cds	no	odpady	inclusive
+PL1060	n	cds	no	stan trzeci	conservative
+PL228	n	or	no	czupryna	inclusive
+PL450	n	or	no	ćwok	conservative
+PL675	n	ddp	yes	piździelec	conservative
+PL2784	n	dmc	yes	niekulturalność	conservative
+PL420	n	an	no	sęp	inclusive
+PL246	a	an	no	głupi	conservative
+PL3361	n	an	no	wsza	inclusive
+PL2032	n	svp	no	srożyć się	conservative
+PL3680	a	cds	no	inteligentny	inclusive
+PL668	n	asm	no	chuj	conservative
+PL1564	n	pr	no	związek nieformalny	inclusive
+PL1438	n	re	no	krzyżowanie	inclusive
+PL2842	n	asm	no	pisum sativum	inclusive
+PL1282	n	om	no	lesbijka	inclusive
+PL1379	n	svp	no	marzenie	inclusive
+PL3606	a	is	yes	mizerny	inclusive
+PL512	n	qas	no	fałsz	conservative
+PL656	n	cds	no	błazen	inclusive
+PL131	n	svp	no	nieróbstwo	inclusive
+PL3890	a	cds	no	niewyszukany	conservative
+PL1896	n	cds	no	naganiacz	conservative
+PL3233	v	cds	no	wyginąć	inclusive
+PL1977	n	qas	no	tkwić	inclusive
+PL763	n	pr	no	woły	inclusive
+PL954	n	an	no	ludożerca	inclusive
+PL3143	n	ddf	yes	szpetota	inclusive
+PL2746	n	cds	no	glina	inclusive
+PL1225	n	asm	no	dupa	conservative
+PL3015	n	ps	yes	czarna rasa człowieka	inclusive
+PL1225	n	ddp	yes	dupa	conservative
+PL443	n	or	no	okład wilgotny z lekiem	conservative
+PL2916	n	an	no	mikrob	inclusive
+PL1233	n	asm	no	pierdolony	conservative
+PL446	n	cds	no	pudden-head	conservative
+PL3403	n	re	no	plagiarise	inclusive
+PL532	n	cds	no	chaos	inclusive
+PL1056	n	cds	no	tupet	conservative
+PL1047	n	cds	no	czelność	conservative
+PL672	n	cds	no	sukinsyn	conservative
+PL310	n	cds	no	sportowych dom	inclusive
+PL3259	n	or	no	pętówka	inclusive
+PL2840	n	asm	no	groch siewny	inclusive
+PL1929	n	cds	no	trik	inclusive
+PL2015	n	cds	no	farmazonia	inclusive
+PL3103	n	re	no	mordowanie	inclusive
+PL963	n	cds	no	salon gry	inclusive
+PL2006	n	cds	no	farmazon	inclusive
+PL717	n	cds	no	blowhard	conservative
+PL1599	n	cds	no	kryminał	inclusive
+PL3826	n	an	no	larwa	inclusive
+PL250	n	asm	no	prostak	conservative
+PL323	n	is	yes	liczykrupa	conservative
+PL2231	n	dmc	yes	biedak	inclusive
+PL2806	n	qas	no	parafia	inclusive
+PL1261	n	cds	no	korespondentów	inclusive
+PL2829	n	cds	no	ochlaj	inclusive
+PL3161	n	ps	yes	wandalowie	inclusive
+PL2538	n	cds	no	lichwiarz	conservative
+PL2994	n	cds	no	narcystyczne	inclusive
+PL905	n	an	no	szczekać	inclusive
+PL338	a	svp	no	skąpy	inclusive
+PL2241	n	om	no	homoseksualnych mężczyzn	inclusive
+PL2364	n	cds	no	łapserdak	inclusive
+PL3461	a	svp	no	próżny	conservative
+PL797	n	qas	no	włościanie	inclusive
+PL69	n	cds	no	amatorstwo	conservative
+PL3328	n	cds	no	ploteczka	inclusive
+PL2528	a	is	yes	nieszczęśliwe	inclusive
+PL2346	n	cds	no	bałwochwalczy	inclusive
+PL845	n	cds	no	zarozumiałość	conservative
+PL338	a	an	no	skąpy	conservative
+PL2406	n	is	yes	ubóstwo	inclusive
+PL2585	n	asm	no	kuśka	inclusive
+PL810	n	qas	no	społeczeństwa burżuazyjnego	inclusive
+PL1170	n	cds	no	mess-up	inclusive
+PL757	n	qas	no	nudziarz	conservative
+PL2600	n	svp	no	złościć się	inclusive
+PL2126	n	cds	no	ultraconservative	conservative
+PL1976	n	qas	no	sterylizować	inclusive
+PL302	n	ddp	yes	paplacz	conservative
+PL652	n	an	no	prosię	inclusive
+PL3470	a	cds	no	zlękniony	conservative
+PL893	a	svp	no	zły	inclusive
+PL633	n	qas	no	magnaci	inclusive
+PL60	n	pa	yes	academe	inclusive
+PL3206	v	asm	no	zagrabiać	conservative
+PL762	n	an	no	krowy	inclusive
+PL3431	n	cds	no	dziecina	inclusive
+PL740	n	qas	no	fumbler	conservative
+PL497	n	pr	no	szmata	conservative
+PL1849	n	is	yes	biedaczysko	inclusive
+PL573	n	cds	no	gangów młodzieżowych	inclusive
+PL561	a	cds	no	durnowaty	conservative
+PL570	n	cds	no	koło	inclusive
+PL1595	n	ps	yes	destruktor	conservative
+PL2520	n	qas	no	puc	conservative
+PL2137	v	asm	no	pierdolić	conservative
+PL226	n	ps	yes	pała	conservative
+PL1514	v	asm	no	naigrywać się	inclusive
+PL668	n	ddp	yes	chuj	conservative
+PL988	n	om	no	ckliwy	conservative
+PL3200	v	is	yes	przebłagać	inclusive
+PL555	n	dmc	yes	łgarz	inclusive
+PL2394	n	ddp	yes	androny	conservative
+PL2957	n	cds	no	puzzler	conservative
+PL1591	n	ps	yes	doofus	conservative
+PL2040	n	svp	no	śledziennik	conservative
+PL2616	a	svp	no	przeczulony	conservative
+PL403	n	cds	no	pies	conservative
+PL2757	n	re	no	capo di tutti capi	conservative
+PL3396	a	cds	no	przebiegły	conservative
+PL362	n	pa	yes	kałmuk	conservative
+PL249	n	asm	no	głupiec	conservative
+PL420	n	an	no	sęp	conservative
+PL1452	n	cds	no	rzesza	inclusive
+PL3225	v	cds	no	przesłonić się	inclusive
+PL1818	n	an	no	escargot	inclusive
+PL1762	n	dmc	yes	tułacz	inclusive
+PL607	n	ddp	yes	skarżypyta	conservative
+PL3684	n	ddp	yes	brednie	inclusive
+PL2884	n	cds	no	relikwie	inclusive
+PL334	n	asm	no	jądro	inclusive
+PL1899	n	cds	no	stręczyciel	inclusive
+PL640	n	qas	no	król	inclusive
+PL1961	n	cds	no	kuglarz	conservative
+PL3466	n	pa	yes	adiunkt	inclusive
+PL2738	n	svp	no	lubieżne	inclusive
+PL1967	n	asm	no	miękkiej ray	inclusive
+PL2889	n	qas	no	retoryka	inclusive
+PL3775	n	pr	no	filutka	conservative
+PL521	n	cds	no	laluś	inclusive
+PL2447	n	qas	no	górnolotność	inclusive
+PL3892	a	cds	no	plebejski	conservative
+PL2857	n	is	yes	nędznicy	inclusive
+PL990	n	cds	no	podmieńca	inclusive
+PL1439	n	ps	yes	hodowla roślin	inclusive
+PL1726	n	svp	no	trencherman	inclusive
+PL3435	n	cds	no	dzidzia	inclusive
+PL1417	n	cds	no	wanker	conservative
+PL2057	n	cds	no	faszyzm	conservative
+PL3322	n	cds	no	plotki	inclusive
+PL877	n	qas	no	dzicz	inclusive
+PL3246	v	cds	no	wyschnąć	inclusive
+PL3135	n	cds	no	homunculus	inclusive
+PL3235	v	cds	no	pokryć się	inclusive
+PL3706	n	an	no	arionidae	inclusive
+PL1137	n	an	no	wulgarność	conservative
+PL488	n	pr	no	kurwiszon	conservative
+PL1481	n	qas	no	ubój	conservative
+PL268	n	asf	no	shithead	conservative
+PL1605	n	cds	no	zbrodnia	inclusive
+PL1262	n	or	no	poove	conservative
+PL1275	n	om	no	pedał	inclusive
+PL2648	n	or	no	wierność	inclusive
+PL2229	n	dmc	yes	biedota	inclusive
+PL811	n	qas	no	burżuazja	inclusive
+PL1557	n	pr	no	konkubina	inclusive
+PL1295	n	an	no	lico	inclusive
+PL572	n	cds	no	gangów ulicznych	inclusive
+PL257	n	cds	no	głup	conservative
+PL751	n	ddp	yes	bestialstwa	conservative
+PL2781	n	qas	no	pasożyt	inclusive
+PL265	n	dmc	yes	cymbał	conservative
+PL1592	n	ps	yes	ruiner	conservative
+PL3031	a	ps	yes	czarny	inclusive
+PL2944	n	pa	yes	pasterka	inclusive
+PL363	n	ddp	yes	dzikus	conservative
+PL711	n	cds	no	przejęzyczenie	inclusive
+PL271	n	ddp	yes	tępak	conservative
+PL3476	n	cds	no	wstawiennictwo	inclusive
+PL3716	n	re	no	organizacja terrorystyczna	conservative
+PL2277	n	ps	yes	judaista	inclusive
+PL3688	n	an	no	świetlik świętojański	inclusive
+PL2309	n	qas	no	malowanie	inclusive
+PL558	n	pa	yes	boy hotelowy	inclusive
+PL1366	n	an	no	pluskwowate	inclusive
+PL1851	n	is	yes	biedaczek	conservative
+PL2148	a	cds	no	lewy	inclusive
+PL648	n	an	no	paskuda	conservative
+PL114	n	om	no	sodomia	inclusive
+PL3809	n	ps	yes	pikey	conservative
+PL3170	n	an	no	dżdżownica	inclusive
+PL1039	n	re	no	kamorra	inclusive
+PL830	n	cds	no	próżność	conservative
+PL1890	n	cds	no	kupler	inclusive
+PL2056	n	cds	no	faszystowskiego reżimu	conservative
+PL1689	n	om	no	sempiterna	inclusive
+PL28	n	re	no	ubliżanie	inclusive
+PL841	n	cds	no	zarozumialstwo	conservative
+PL3209	v	asm	no	zawłaszczać	conservative
+PL593	n	re	no	złoczyńca	inclusive
+PL3393	a	cds	no	władczy	conservative
+PL980	n	an	no	mięczak	inclusive
+PL324	n	is	yes	centuś	conservative
+PL2430	n	an	no	niekompetentna osoba	conservative
+PL3450	a	cds	no	szary	inclusive
+PL1414	n	qas	no	załogi	inclusive
+PL241	n	ddp	yes	bêtise	conservative
+PL2322	n	qas	no	kuczka	inclusive
+PL906	n	an	no	gęba	inclusive
+PL2265	n	ps	yes	judaizm	inclusive
+PL2178	n	cds	no	literacki siekać	conservative
+PL1997	n	cds	no	trefniś	inclusive
+PL3512	n	re	no	porywaczy	inclusive
+PL926	n	ddp	yes	osadzony	inclusive
+PL3825	n	cds	no	przekupny	inclusive
+PL238	n	or	no	czacha	inclusive
+PL356	n	pa	yes	jaskiniowiec	conservative
+PL1989	a	dmc	yes	załgany	conservative
+PL439	n	ps	yes	idiota	conservative
+PL448	n	ddp	yes	imbecyl	inclusive
+PL2333	n	an	no	hienowate	inclusive
+PL818	n	qas	no	bourgeoise	inclusive
+PL2659	n	qas	no	mieszaninę	inclusive
+PL2220	n	pr	no	prostytutki	inclusive
+PL3569	n	an	no	apsidospondyli	inclusive
+PL918	n	cds	no	siuchta	inclusive
+PL1373	n	an	no	pluskwy	inclusive
+PL1921	n	ps	yes	faszysta	inclusive
+PL1416	n	qas	no	osada	inclusive
+PL2890	n	qas	no	krasomówstwo	inclusive
+PL2243	n	om	no	paziolubstwo	inclusive
+PL3276	v	cds	no	zsychać	inclusive
+PL929	n	cds	no	droga wagon	inclusive
+PL651	n	cds	no	prosiak	conservative
+PL250	n	dmc	yes	prostak	conservative
+PL3226	v	cds	no	umrzeć	inclusive
+PL1001	n	an	no	picz	conservative
+PL440	n	ddp	yes	półgłówek	conservative
+PL322	n	is	yes	kutwa	conservative
+PL1363	n	qas	no	złom	inclusive
+PL878	n	qas	no	hałastra	inclusive
+PL1713	n	cds	no	przechera	conservative
+PL457	n	asf	no	tuman	conservative
+PL612	n	cds	no	wskaźnik	conservative
+PL1732	n	pa	yes	odźwierny	inclusive
+PL2739	n	cds	no	stróż prawa	conservative
+PL596	n	dmc	yes	kryminalista	inclusive
+PL1625	n	ps	yes	nocnik	conservative
+PL910	n	cds	no	krewni i znajomi królika	inclusive
+PL360	n	ps	yes	gbur	conservative
+PL2990	n	cds	no	narcyzm	inclusive
+PL979	n	cds	no	mizeractwo	conservative
+PL1358	n	cds	no	złomu	inclusive
+PL969	n	an	no	zgniłek	conservative
+PL460	n	ps	yes	głąb	conservative
+PL981	n	cds	no	wuss	conservative
+PL255	n	asf	no	dureń	conservative
+PL737	n	ddp	yes	niedbaluch	conservative
+PL197	n	an	no	kreatura	inclusive
+PL442	n	ps	yes	debil	conservative
+PL865	n	cds	no	nierób	conservative
+PL982	n	an	no	cherlawiec	conservative
+PL3213	v	re	no	zagarniać	inclusive
+PL3534	a	om	no	odmienny	inclusive
+PL1425	n	an	no	crocodylia	inclusive
+PL707	n	qas	no	fuszerka	inclusive
+PL2104	n	asf	no	pussy	conservative
+PL737	n	qas	no	niedbaluch	conservative
+PL1225	n	om	no	dupa	inclusive
+PL726	n	dmc	yes	fałszywiec	conservative
+PL379	n	qas	no	handlarz	inclusive
+PL3658	n	an	no	karmazyn	inclusive
+PL957	n	cds	no	ścierwo	inclusive
+PL3356	n	an	no	cootie	inclusive
+PL250	n	an	no	prostak	conservative
+PL736	n	dmc	yes	sad sack	conservative
+PL253	n	asm	no	saphead	conservative
+PL2921	n	an	no	mikroogranizmy	inclusive
+PL1768	n	dmc	yes	karzeł	conservative
+PL372	n	dmc	yes	prymityw	conservative
+PL2822	a	dmc	yes	zbrodniczy	conservative
+PL3206	v	re	no	zagrabiać	inclusive
+PL2118	n	svp	no	wałkoń	conservative
+PL2713	n	pr	no	Ćmy	inclusive
+PL1332	v	cds	no	gwarzyć	inclusive
+PL874	n	cds	no	tałatajstwo	conservative
+PL540	n	ps	yes	plemiona beduińskie	inclusive
+PL2833	n	dmc	yes	diabelstwo	inclusive
+PL1003	n	an	no	suka	conservative
+PL436	n	or	no	baran	conservative
+PL1524	v	asm	no	śmiać się	inclusive
+PL3619	n	an	no	karalucha	inclusive
+PL2524	a	ddp	yes	niekompetentny	conservative
+PL171	n	cds	no	fanatyzm	conservative
+PL537	n	ps	yes	beduin	inclusive
+PL1866	n	dmc	yes	scattergood	inclusive
+PL1006	n	dmc	yes	cipa	conservative
+PL2875	n	svp	no	superbia	conservative
+PL3325	n	cds	no	umotywowanie	inclusive
+PL3304	n	dmc	yes	szałaputa	conservative
+PL2121	n	svp	no	obipięta	conservative
+PL2483	a	dmc	yes	amoralny	conservative
+PL484	n	an	no	bladź	conservative
+PL140	n	cds	no	wygłup	inclusive
+PL1573	n	dmc	yes	łajdus	inclusive
+PL3346	n	cds	no	bellyacher	conservative
+PL530	n	cds	no	rozgardiasz	inclusive
+PL3717	n	re	no	organizacje terrorystyczne	conservative
+PL1405	n	an	no	strigiformes	inclusive
+PL1470	n	or	no	cunt	conservative
+PL3675	n	qas	no	ogar	inclusive
+PL2306	n	qas	no	robienie makijażu	inclusive
+PL2286	n	ps	yes	żydowin	inclusive
+PL322	n	svp	no	kutwa	conservative
+PL2668	n	cds	no	toalety	inclusive
+PL2109	n	an	no	antylopy kozie	inclusive
+PL3827	n	an	no	maggot	inclusive
+PL2514	n	cds	no	łgarstwo	conservative
+PL2876	n	cds	no	propagandysta	inclusive
+PL2275	n	ps	yes	żydziak	inclusive
+PL2832	n	dmc	yes	cholerstwo	inclusive
+PL1780	n	cds	no	egghead	inclusive
+PL232	n	or	no	łepetyna	inclusive
+PL3715	n	re	no	terrorystów	conservative
+PL862	n	cds	no	próżniak	conservative
+PL1792	n	cds	no	wielbiciel	inclusive
+PL2291	n	cds	no	tłuszcza	inclusive
+PL1763	n	ps	yes	murzyn	inclusive
+PL1612	n	an	no	zero	conservative
+PL1602	n	re	no	działań przestępczych	inclusive
+PL1748	n	cds	no	wir	inclusive
+PL3301	n	dmc	yes	lekkoduch	conservative
+PL567	n	svp	no	dewocja	conservative
+PL292	n	svp	no	grzech śmiertelny	inclusive
+PL456	n	asf	no	tłuk	conservative
+PL224	n	or	no	łeb	inclusive
+PL374	n	cds	no	nieokrzesaniec	conservative
+PL212	n	ddp	yes	zwierzę	inclusive
+PL2830	n	cds	no	feta	inclusive
+PL447	n	ddp	yes	bezmózgowiec	conservative
+PL458	n	asf	no	tłuczek	conservative
+PL343	n	dmc	yes	oprych	conservative
+PL1001	n	pr	no	picz	conservative
+PL99	n	svp	no	miłość własna	conservative
+PL3850	n	an	no	wspólne viper	inclusive
+PL217	n	re	no	gwałt	conservative
+PL3682	n	asf	no	vagina	conservative
+PL1141	n	asm	no	lacha	conservative
+PL3311	v	cds	no	przekwitnąć	inclusive
+PL249	n	cds	no	głupiec	inclusive
+PL1375	n	an	no	hemipteron	inclusive
+PL432	n	ps	yes	spaść faceta	conservative
+PL1558	n	pr	no	kochanka	inclusive
+PL318	n	cds	no	bajzel	conservative
+PL303	n	svp	no	zachłanność	inclusive
+PL25	n	qas	no	akolita	inclusive
+PL3066	n	asf	no	betka	inclusive
+PL3305	n	dmc	yes	szałaput	conservative
+PL2404	n	ddp	yes	kretyństwo	conservative
+PL2366	n	re	no	gagatek	inclusive
+PL2715	n	pr	no	ćmy	inclusive
+PL1942	n	or	no	fenkuł	inclusive
+PL2758	n	ps	yes	ostrogoci	inclusive
+PL596	n	cds	no	kryminalista	inclusive
+PL2352	n	ddp	yes	imbecylizm	inclusive
+PL1008	n	pr	no	wywłoka	conservative
+PL881	n	re	no	nikczemny	conservative
+PL1760	n	dmc	yes	włóczykij	inclusive
+PL2359	n	re	no	półdiablę	inclusive
+PL664	n	cds	no	łamistrajkowej	inclusive
+PL599	n	re	no	bandytów	inclusive
+PL450	n	ps	yes	ćwok	conservative
+PL2966	n	ps	yes	mongoloid	conservative
+PL277	n	an	no	barania głowa	conservative
+PL3370	n	cds	no	dyskryminacji religijnej	inclusive
+PL370	n	ps	yes	parobas	conservative
+PL1262	n	om	no	poove	conservative
+PL3690	n	re	no	raper	conservative
+PL564	n	svp	no	sfanatyzowany	conservative
+PL868	n	cds	no	tłum	inclusive
+PL577	n	cds	no	szajka	conservative
+PL344	n	cds	no	zbir	inclusive
+PL2867	n	svp	no	cześć	inclusive
+PL362	n	ddp	yes	kałmuk	conservative
+PL3790	n	cds	no	kanalizacja	inclusive
+PL1320	n	cds	no	ściek	inclusive
+PL242	n	asm	no	wariactwo	conservative
+PL361	n	qas	no	neandertalczyk	conservative
+PL456	n	asm	no	tłuk	conservative
+PL442	n	ddp	yes	debil	conservative
+PL2569	n	cds	no	dziewosłąb	inclusive
+PL3497	n	pa	yes	buchalter	inclusive
+PL355	n	rci	yes	cebulak	conservative
+PL229	n	or	no	dynia	inclusive
+PL3422	n	an	no	volaille	inclusive
+PL736	n	ddp	yes	sad sack	conservative
+PL2708	n	an	no	komarowate	inclusive
+PL584	n	cds	no	siatka	conservative
+PL2943	n	pa	yes	pasterzy	inclusive
+PL3395	a	svp	no	zarozumiały	conservative
+PL346	n	dmc	yes	bandyta	conservative
+PL2658	n	dmc	yes	złodziejaszek	conservative
+PL3045	n	cds	no	nimfomania	conservative
+PL993	n	cds	no	imbecylu	inclusive
+PL1021	n	re	no	kalumnia	inclusive
+PL1862	n	dmc	yes	podsyca	inclusive
+PL367	n	ps	yes	ordynus	conservative
+PL1947	n	om	no	koper włoski	inclusive
+PL2445	n	cds	no	splashiness	conservative
+PL2218	n	pr	no	call-girl	inclusive
+PL82	n	ddp	yes	upośledzenie umysłowe	inclusive
+PL3102	n	re	no	kładzenie trupem	inclusive
+PL1364	n	cds	no	odrzuty	conservative
+PL1124	n	svp	no	skąpstwo	inclusive
+PL551	n	cds	no	begini	inclusive
+PL2584	n	asm	no	męskość	inclusive
+PL507	n	dmc	yes	kanciarz	conservative
+PL120	n	om	no	penetracji odbytu	inclusive
+PL184	n	an	no	węgorzowate	inclusive
+PL1189	n	pa	yes	prof	inclusive
+PL440	n	ps	yes	półgłówek	conservative
+PL2030	n	an	no	żółć	inclusive
+PL3162	n	an	no	żmija	inclusive
+PL740	n	ddp	yes	fumbler	conservative
+PL928	n	cds	no	wagon pociągu	inclusive
+PL728	n	dmc	yes	hipokryta	inclusive
+PL14	n	svp	no	niemrawość	inclusive
+PL848	n	cds	no	wielkość	inclusive
+PL2484	n	dmc	yes	moralnego bankructwa	inclusive
+PL2637	n	cds	no	włamywaczka	inclusive
+PL3628	n	cds	no	patałach	conservative
+PL3115	n	re	no	zabójstwa	inclusive
+PL2044	n	svp	no	daremności	conservative
+PL1809	n	asm	no	wyprostowanie	inclusive
+PL1795	a	ddp	yes	oszalały	inclusive
+PL3119	n	re	no	wymordować	inclusive
+PL2128	n	cds	no	wsteczniak	conservative
+PL1287	n	om	no	wesoły	conservative
+PL3709	n	cds	no	conventicle	inclusive
+PL2380	n	ddf	yes	fawory	inclusive
+PL1279	n	om	no	homoseksualista	inclusive
+PL435	n	asm	no	dałn	conservative
+PL2793	n	qas	no	parazytyzm	inclusive
+PL3072	n	an	no	gęś	inclusive
+PL3824	n	cds	no	sprzedajność	conservative
+PL693	n	pa	yes	undertaker	inclusive
+PL1925	n	is	yes	ekskluzja	inclusive
+PL2211	n	pr	no	komercyjnych seksualnych	inclusive
+PL412	n	qas	no	barok	inclusive
+PL2367	n	cds	no	andrus	inclusive
+PL2999	n	cds	no	samo-uwielbienie	inclusive
+PL2976	n	an	no	muszek	inclusive
+PL2693	n	an	no	mięczaki	inclusive
+PL1683	n	om	no	keister	inclusive
+PL2865	n	svp	no	szczycić się	inclusive
+PL1567	n	pr	no	doxy	inclusive
+PL2748	n	re	no	cosa nostra	conservative
+PL2283	n	ps	yes	cebularz	inclusive
+PL1654	n	cds	no	tytłać	inclusive
+PL2215	n	pr	no	prostytucja	conservative
+PL2085	n	an	no	karlik	inclusive
+PL261	n	ddp	yes	nieuk	conservative
+PL369	n	qas	no	wieśniak	inclusive
+PL3839	n	re	no	potęga	inclusive
+PL3030	a	ps	yes	murzyński	inclusive
+PL685	n	cds	no	bęś	inclusive
+PL3748	n	pa	yes	pracowników umysłowych	inclusive
+PL2359	n	cds	no	półdiablę	conservative
+PL2838	a	dmc	yes	drański	conservative
+PL209	n	ddp	yes	fauna	inclusive
+PL2985	n	ddf	yes	half-pint	conservative
+PL1807	n	asm	no	fallus	inclusive
+PL343	n	cds	no	oprych	inclusive
+PL1190	n	cds	no	profesor	inclusive
+PL1349	n	ddp	yes	hochsztapler	conservative
+PL1920	n	qas	no	rolnicy	inclusive
+PL3698	n	re	no	seksualnie	inclusive
+PL2433	n	ddp	yes	nieznajomość	conservative
+PL2489	n	dmc	yes	nieprzyzwoitość	inclusive
+PL141	n	cds	no	blef	inclusive
+PL269	n	asf	no	fuckhead	conservative
+PL3149	n	dmc	yes	niebożę	inclusive
+PL626	n	qas	no	magnateria	inclusive
+PL3446	n	is	yes	nędzarz	inclusive
+PL1859	n	dmc	yes	lubieżnik	conservative
+PL483	n	an	no	kurwa	conservative
+PL718	n	cds	no	vaunter	conservative
+PL920	n	cds	no	mafia	conservative
+PL3251	v	cds	no	paść	inclusive
+PL1	n	dmc	yes	degradacja	inclusive
+PL1919	n	qas	no	gospodarz	inclusive
+PL361	n	ddp	yes	neandertalczyk	conservative
+PL1415	n	qas	no	brygada	inclusive
+PL495	n	pr	no	puszczalska	conservative
+PL587	n	cds	no	zespół	inclusive
+PL406	n	qas	no	baron	inclusive
+PL1177	n	cds	no	samozadowolenie	inclusive
+PL180	a	ddp	yes	niepiśmienny	inclusive
+PL3179	n	qas	no	krwiopijca	conservative
+PL2190	n	cds	no	zawłaszczenie	inclusive
+PL1272	n	om	no	dziwny	conservative
+PL2116	n	dmc	yes	obibok	conservative
+PL3741	v	re	no	zmordować	inclusive
+PL715	n	cds	no	zapaskudzać	inclusive
+PL1449	n	cds	no	ludek	inclusive
+PL431	n	cds	no	patsy	conservative
+PL418	n	an	no	hiena	conservative
+PL79	n	pr	no	idiotyzm	conservative
+PL3079	n	an	no	brent	inclusive
+PL2031	n	svp	no	kurwica	conservative
+PL534	n	cds	no	topsy-turvyness	inclusive
+PL565	n	cds	no	bigot	conservative
+PL2334	n	an	no	hyaenidae	inclusive
+PL3230	v	cds	no	popsuć się	inclusive
+PL1670	n	dmc	yes	dysymulacja	conservative
+PL3550	n	cds	no	podlizuch	conservative
+PL2514	n	dmc	yes	łgarstwo	inclusive
+PL511	n	qas	no	nieprawda	conservative
+PL3508	n	re	no	porwania	inclusive
+PL2467	n	cds	no	sowizdrzał	inclusive
+PL2222	n	pr	no	nierząd	inclusive
+PL256	n	asf	no	głuptak	conservative
+PL3513	n	re	no	porwań	inclusive
+PL431	n	an	no	patsy	conservative
+PL1512	v	asm	no	wyszydzać	inclusive
+PL1740	n	cds	no	hałdy	inclusive
+PL3653	a	ddf	yes	jednooki	inclusive
+PL3874	n	qas	no	barak	inclusive
+PL3620	n	an	no	hełmce	inclusive
+PL1899	n	cds	no	stręczyciel	conservative
+PL2514	n	cds	no	łgarstwo	inclusive
+PL2675	n	cds	no	wc	inclusive
+PL345	n	cds	no	rzezimieszek	inclusive
+PL2740	n	cds	no	oficer	conservative
+PL3027	n	ps	yes	negroidalny	inclusive
+PL750	n	an	no	zooerasty	conservative
+PL1957	n	dmc	yes	smród	conservative
+PL3394	a	cds	no	hardy	conservative
+PL3025	n	ps	yes	czarny	inclusive
+PL1841	n	dmc	yes	zło	conservative
+PL3011	n	ps	yes	czarnoskóry	inclusive
+PL1123	n	cds	no	chytrość	conservative
+PL338	a	is	yes	skąpy	conservative
+PL912	n	cds	no	klik	inclusive
+PL3193	n	cds	no	nouveau riche	inclusive
+PL251	n	ddp	yes	głupek	inclusive
+PL419	n	dmc	yes	rabuś	conservative
+PL187	n	an	no	węgorz	inclusive
+PL185	n	an	no	anguillidae	inclusive
+PL212	n	an	no	zwierzę	inclusive
+PL2091	n	cds	no	żigolo	inclusive
+PL2459	n	cds	no	bakałarz	inclusive
+PL2511	n	cds	no	lipa	conservative
+PL2038	n	svp	no	dallier	conservative
+PL3616	n	an	no	karaczan	inclusive
+PL266	n	an	no	muttonhead	conservative
+PL1566	n	pr	no	nieślubna	inclusive
+PL3213	v	asm	no	zagarniać	conservative
+PL110	a	an	no	uparty	inclusive
+PL133	n	cds	no	leniuch	conservative
+PL3824	n	cds	no	sprzedajność	inclusive
+PL1604	n	cds	no	znamiona czynu zabronionego	inclusive
+PL882	n	an	no	chuligan	conservative
+PL3828	n	cds	no	poltroonery	inclusive
+PL2211	n	pr	no	komercyjnych seksualnych	conservative
+PL2942	n	asm	no	ograniczenie	conservative
+PL2814	n	svp	no	ciułactwo	inclusive
+PL2089	n	cds	no	gigolo	inclusive
+PL3897	n	ps	yes	zulusów	inclusive
+PL1085	n	cds	no	najbliżsi	inclusive
+PL2214	n	pr	no	najstarszy zawód świata	conservative
+PL153	n	cds	no	bigos	inclusive
+PL481	n	pr	no	prostytutka	inclusive
+PL2658	n	cds	no	złodziejaszek	conservative
+PL226	n	cds	no	pała	conservative
+PL2113	n	svp	no	no-konto	conservative
+PL883	n	dmc	yes	villainess	conservative
+PL2660	n	qas	no	mieszanina	inclusive
+PL3818	n	dmc	yes	włóczęgostwo	inclusive
+PL2995	n	cds	no	narcism	inclusive
+PL3493	n	pr	no	cudzołożnica	conservative
+PL1656	n	cds	no	gnoić	inclusive
+PL3615	n	an	no	karakan	inclusive
+PL1212	n	svp	no	żądza	inclusive
+PL1286	n	om	no	homoś	conservative
+PL2986	n	dmc	yes	knypek	conservative
+PL2474	n	dmc	yes	zwodziciel	conservative
+PL618	n	cds	no	mischief-making	conservative
+PL370	n	rci	yes	parobas	conservative
+PL1853	a	cds	no	niekulturalny	conservative
+PL452	n	ps	yes	pustak	conservative
+PL3726	n	asm	no	fallusa	inclusive
+PL3028	n	ps	yes	rasa negroidalna	inclusive
+PL263	n	or	no	bałwan	conservative
+PL3872	n	ps	yes	romów	inclusive
+PL3156	v	cds	no	podsłuchiwanie	inclusive
+PL1715	n	cds	no	filut	conservative
+PL3835	n	re	no	furiousness	inclusive
+PL417	n	qas	no	architektura barokowa	inclusive
+PL2367	n	dmc	yes	andrus	inclusive
+PL2000	n	asm	no	zderzyć się	inclusive
+PL1113	n	an	no	kóz mlecznych	inclusive
+PL1340	v	cds	no	gaworzyć	inclusive
+PL3468	a	cds	no	lękliwy	conservative
+PL1987	n	cds	no	trzódka	inclusive
+PL108	a	an	no	niezachwiany	inclusive
+PL829	n	ps	yes	bułgar	inclusive
+PL3376	a	an	no	zwierzęcy	conservative
+PL2476	n	dmc	yes	zwodnik	conservative
+PL273	n	asm	no	ciamajda	conservative
+PL2712	n	pr	no	motyle nocne	inclusive
+PL988	n	cds	no	ckliwy	conservative
+PL1590	n	ps	yes	niezdara	conservative
+PL890	n	cds	no	kulfon	inclusive
+PL3388	n	asm	no	onanizm	conservative
+PL2894	n	cds	no	prowodyr	inclusive
+PL1088	n	cds	no	związek plemienny	inclusive
+PL355	n	ddp	yes	cebulak	conservative
+PL666	n	cds	no	chujogłowy	conservative
+PL871	n	cds	no	horda	conservative
+PL3836	n	re	no	okrucieństwo	inclusive
+PL3753	n	an	no	włochacz nabrzozak	inclusive
+PL3342	n	cds	no	moaner	conservative
+PL1797	a	qas	no	szalony	conservative
+PL3040	n	ps	yes	black	inclusive
+PL1870	n	om	no	niepełnosprawny	conservative
+PL997	n	ddp	yes	debilizm	conservative
+PL516	n	cds	no	elegant	inclusive
+PL645	n	an	no	fleja	conservative
+PL253	n	cds	no	saphead	conservative
+PL1310	n	an	no	fizys	inclusive
+PL1277	n	om	no	gay	inclusive
+PL1355	n	qas	no	śmieci	inclusive
+PL1311	n	an	no	facjata	inclusive
+PL976	n	an	no	charłak	conservative
+PL3408	n	re	no	plagiat	inclusive
+PL1681	n	om	no	ventrolateral	inclusive
+PL257	n	ddp	yes	głup	conservative
+PL1312	n	an	no	fizjognomia	inclusive
+PL3672	a	is	yes	niebogaty	inclusive
+PL1895	n	cds	no	pośredniczka	conservative
+PL1756	n	cds	no	cygan	conservative
+PL356	n	ddp	yes	jaskiniowiec	conservative
+PL1617	n	cds	no	dime powieści	inclusive
+PL1319	n	pr	no	krowa	conservative
+PL1008	n	an	no	wywłoka	conservative
+PL335	n	qas	no	jajco	inclusive
+PL1930	n	cds	no	wybieg	conservative
+PL1142	n	asm	no	pyta	conservative
+PL1773	n	an	no	helix pomatia	inclusive
+PL1460	n	qas	no	konformizm	inclusive
+PL2401	n	ddp	yes	austriackie gadanie	conservative
+PL163	n	an	no	codswallop	conservative
+PL226	n	asf	no	pała	conservative
+PL453	n	or	no	przygłup	conservative
+PL2601	n	svp	no	rankor	inclusive
+PL687	n	re	no	zaszantażować	conservative
+PL3385	n	asm	no	hand job	conservative
+PL2511	n	dmc	yes	lipa	inclusive
+PL2939	n	an	no	tryk	inclusive
+PL3898	n	ps	yes	ludzi zulu	inclusive
+PL1102	n	cds	no	kin grupy	inclusive
+PL2745	n	cds	no	policjantów	inclusive
+PL2621	n	cds	no	bezhołowie	conservative
+PL3258	n	or	no	grula	inclusive
+PL3727	n	asm	no	falliczny	inclusive
+PL836	n	cds	no	zaczepność	conservative
+PL479	n	pr	no	dziewka	conservative
+PL1793	a	qas	no	obłędny	conservative
+PL2010	n	cds	no	wolnomularstwo	inclusive
+PL248	n	an	no	osioł	inclusive
+PL3077	n	an	no	brant	inclusive
+PL673	n	cds	no	cwel	conservative
+PL450	n	asm	no	ćwok	conservative
+PL2824	a	dmc	yes	ostry	conservative
+PL3806	n	cds	no	teorii spiskowych	inclusive
+PL871	n	qas	no	horda	inclusive
+PL2385	n	ddf	yes	fory	inclusive
+PL311	n	cds	no	burdelu	inclusive
+PL2016	n	cds	no	sztuka królewska	inclusive
+PL1445	n	cds	no	metys	inclusive
+PL3456	a	cds	no	tuzinkowy	inclusive
+PL2312	n	svp	no	Łakomstwo	inclusive
+PL844	n	svp	no	besserwisserstwo	conservative
+PL2768	n	an	no	kaban	conservative
+PL1719	n	qas	no	dog house	inclusive
+PL647	n	an	no	świnia	conservative
+PL1593	n	ps	yes	uprooter	conservative
+PL1120	n	svp	no	stłoczenie	conservative
+PL3479	n	cds	no	rzecznictwo	inclusive
+PL740	n	cds	no	fumbler	conservative
+PL3081	n	re	no	zamachowiec	inclusive
+PL1326	n	cds	no	tchórzem	conservative
+PL438	n	cds	no	głowa budyń	conservative
+PL3061	n	asf	no	drobiazg	inclusive
+PL3386	n	asm	no	masturbacja	conservative
+PL280	n	ddp	yes	ignorant	conservative
+PL3714	n	re	no	akt terrorystyczny	inclusive
+PL673	n	om	no	cwel	conservative
+PL2775	n	cds	no	paparazzo	inclusive
+PL486	n	pr	no	panienka	conservative
+PL2801	n	qas	no	pasożytują	inclusive
+PL3661	n	an	no	korwin czerwony	inclusive
+PL697	n	an	no	rogacz	conservative
+PL79	n	ps	yes	idiotyzm	conservative
+PL867	n	cds	no	leniuszek	conservative
+PL1845	n	cds	no	grzesznica	conservative
+PL496	n	pr	no	niechlujnie kobieta	conservative
+PL366	n	ddp	yes	grubianin	conservative
+PL2783	n	dmc	yes	niegrzeczny	conservative
+PL873	n	ddp	yes	hołota	conservative
+PL1583	n	an	no	looter	inclusive
+PL840	n	cds	no	pycha	conservative
+PL1267	n	or	no	niewieściuch	conservative
+PL2617	a	svp	no	sensytywny	conservative
+PL2873	n	svp	no	poczucie wyższości	conservative
+PL277	n	ddp	yes	barania głowa	conservative
+PL3255	v	cds	no	zasnuć się	inclusive
+PL2613	a	svp	no	gniewny	conservative
+PL3563	a	dmc	yes	nieprawdziwy	conservative
+PL3275	a	qas	no	melodramatyczny	inclusive
+PL1788	n	cds	no	amator	inclusive
+PL383	n	pa	yes	adwokat	inclusive
+PL979	n	an	no	mizeractwo	conservative
+PL2311	n	svp	no	żarłoctwo	inclusive
+PL3416	a	dmc	yes	kłamliwy	conservative
+PL3095	n	re	no	utrudzanie	inclusive
+PL148	n	cds	no	omnium-gatherum	inclusive
+PL2031	n	an	no	kurwica	inclusive
+PL2547	n	an	no	insektarium	inclusive
+PL267	n	an	no	pusta głowa	conservative
+PL1837	n	an	no	wielkorak	inclusive
+PL3345	n	cds	no	mazgaj	conservative
+PL480	n	pr	no	dziewczynka	conservative
+PL1417	n	asm	no	wanker	conservative
+PL2023	n	cds	no	fundamentalizm	inclusive
+PL1044	n	cds	no	oszust	conservative
+PL1285	n	or	no	gej	conservative
+PL2644	n	ps	yes	metekowie	inclusive
+PL3411	n	re	no	plagiarisation	inclusive
+PL1336	v	cds	no	brzękać	inclusive
+PL298	n	an	no	skąpiec	conservative
+PL1895	n	cds	no	pośredniczka	inclusive
+PL13	n	svp	no	powolność	inclusive
+PL583	n	cds	no	banda	conservative
+PL966	n	is	yes	społecznym wyrzutkiem	inclusive
+PL371	n	rci	yes	troglodyta	conservative
+PL1762	n	ps	yes	tułacz	inclusive
+PL1540	n	dmc	yes	mistyfikatorstwo	conservative
+PL2507	a	svp	no	leniwy	conservative
+PL1059	n	qas	no	plebs	conservative
+PL1494	n	cds	no	oszusta	conservative
+PL2223	n	pr	no	kurewstwo	conservative
+PL1729	n	an	no	ovis aries	inclusive
+PL2051	n	svp	no	nadaremność	conservative
+PL1829	n	dmc	yes	moralności	inclusive
+PL1538	n	dmc	yes	szwindel	conservative
+PL1834	n	dmc	yes	kodeks moralny	inclusive
+PL1937	n	re	no	wyłudzić	inclusive
+PL1891	n	cds	no	sutenerstwo	conservative
+PL437	n	asf	no	półgłupek	conservative
+PL1369	n	an	no	mikrofon szpiegowski	inclusive
+PL2905	n	ps	yes	półkrwi	conservative
+PL251	n	an	no	głupek	conservative
+PL2084	n	an	no	pipistrelle	inclusive
+PL641	n	cds	no	bydlak	conservative
+PL3243	v	cds	no	przeminąć	inclusive
+PL316	n	cds	no	burdel	conservative
+PL3366	a	an	no	zawszony	inclusive
+PL1531	n	qas	no	bazgracz	conservative
+PL1641	n	cds	no	brud	inclusive
+PL3530	a	om	no	rozliczny	inclusive
+PL203	n	ddp	yes	animować bycia	inclusive
+PL2851	n	qas	no	intrygant	conservative
+PL1758	n	ps	yes	drifter	inclusive
+PL430	n	an	no	frajer	conservative
+PL1664	n	svp	no	dyzgust	inclusive
+PL1308	n	an	no	obliczność	inclusive
+PL1118	n	svp	no	ciasnota	conservative
+PL2736	n	svp	no	sprośny	inclusive
+PL490	n	an	no	lafirynda	conservative
+PL1321	n	an	no	zastraszyć	inclusive
+PL741	n	dmc	yes	partacz	conservative
+PL48	n	re	no	nadużyć	inclusive
+PL3524	n	re	no	stickup	inclusive
+PL250	n	qas	no	prostak	conservative
+PL423	n	cds	no	blackball	inclusive
+PL1355	n	cds	no	śmieci	inclusive
+PL2053	n	re	no	gangster	conservative
+PL1339	v	cds	no	klapać	inclusive
+PL3412	a	cds	no	banalny	inclusive
+PL2960	n	an	no	ślimak	inclusive
+PL160	a	svp	no	drapieżny	inclusive
+PL1461	n	qas	no	zgodności	inclusive
+PL1947	n	or	no	koper włoski	inclusive
+PL341	a	svp	no	zachłanny	conservative
+PL211	n	ddp	yes	epifaunal	inclusive
+PL3253	v	cds	no	powlec się	inclusive
+PL365	n	rci	yes	cham	conservative
+PL362	n	dmc	yes	kałmuk	conservative
+PL3490	n	pr	no	loose woman	conservative
+PL2465	n	cds	no	jokester	inclusive
+PL274	n	asf	no	knucklehead	conservative
+PL2947	n	pa	yes	sheepherder	inclusive
+PL249	n	an	no	głupiec	conservative
+PL653	n	an	no	plucha	conservative
+PL3401	n	re	no	kaperstwo	inclusive
+PL2097	n	cds	no	nosy-parker	conservative
+PL1980	n	an	no	siphonaptera	inclusive
+PL3478	n	cds	no	orędownictwo	inclusive
+PL863	n	cds	no	leser	conservative
+PL1894	n	cds	no	sutener	inclusive
+PL1615	n	an	no	diddlysquat	conservative
+PL1483	n	cds	no	brakowanie	conservative
+PL3086	n	an	no	kleszcz	inclusive
+PL2504	a	dmc	yes	zboczony	conservative
+PL899	a	is	yes	nędzny	inclusive
+PL3430	n	cds	no	bobasek	inclusive
+PL3339	n	is	yes	żebrak	inclusive
+PL3270	n	or	no	kartofle	inclusive
+PL2697	n	ps	yes	mongol	inclusive
+PL356	n	ps	yes	jaskiniowiec	conservative
+PL931	n	an	no	carcharodon	inclusive
+PL748	n	pa	yes	recepcjonista rezerwacja	inclusive
+PL435	n	asf	no	dałn	conservative
+PL239	n	asm	no	głupota	conservative
+PL2509	a	dmc	yes	gnuśny	conservative
+PL2510	a	dmc	yes	powolny	conservative
+PL3214	v	re	no	sięgać po cudze	inclusive
+PL2153	a	cds	no	bezprawny	inclusive
+PL3023	n	ps	yes	czarnej społeczności	inclusive
+PL2950	n	asm	no	jeerer	conservative
+PL2536	n	cds	no	loansharking	conservative
+PL2219	n	pr	no	prostytucji	inclusive
+PL1000	n	asf	no	pinda	conservative
+PL1167	n	qas	no	wspólna osoba	inclusive
+PL267	n	or	no	pusta głowa	conservative
+PL591	n	cds	no	łobuz	inclusive
+PL727	n	cds	no	obłudnik	conservative
+PL174	n	ddp	yes	niepiśmienny	inclusive
+PL3391	a	cds	no	dumny	conservative
+PL3184	n	qas	no	zwędzić	conservative
+PL1893	n	cds	no	stręczycielstwo	inclusive
+PL727	n	dmc	yes	obłudnik	inclusive
+PL3518	n	re	no	rabowanie	inclusive
+PL564	n	dmc	yes	sfanatyzowany	conservative
+PL3046	n	cds	no	satyriasis	conservative
+PL724	n	cds	no	zajadłość	conservative
+PL2315	n	qas	no	gospodarzenie	inclusive
+PL459	n	ddp	yes	matoł	conservative
+PL2475	n	dmc	yes	cheater	conservative
+PL2447	n	cds	no	górnolotność	inclusive
+PL2219	n	pr	no	prostytucji	conservative
+PL157	n	asm	no	postęp	inclusive
+PL1580	n	cds	no	zdesperowany karnych	inclusive
+PL2365	n	cds	no	basałyk	conservative
+PL2506	n	dmc	yes	kłamca	inclusive
+PL2166	n	an	no	locha	inclusive
+PL130	n	svp	no	rozleniwienie	inclusive
+PL3154	a	qas	no	tradycyjny	inclusive
+PL356	n	rci	yes	jaskiniowiec	conservative
+PL755	n	an	no	brutalizm	conservative
+PL3660	n	an	no	kanał bass	inclusive
+PL353	n	ddp	yes	barbarzyńca	conservative
+PL3097	n	re	no	mężobójstwo	inclusive
+PL2054	n	cds	no	gangsterów	inclusive
+PL545	n	qas	no	bujda	conservative
+PL2828	n	cds	no	biba	inclusive
+PL223	n	cds	no	bystrość	inclusive
+PL2320	n	qas	no	szałas	inclusive
+PL876	n	qas	no	motłoch	inclusive
+PL1627	n	ps	yes	helmut	conservative
+PL3805	n	cds	no	teorie spiskowe	inclusive
+PL3223	v	cds	no	zakryć się	inclusive
+PL3532	a	om	no	nieidentyczny	inclusive
+PL1695	n	om	no	grzbietowo-bocznej	inclusive
+PL2539	n	cds	no	shylock	inclusive
+PL1208	n	cds	no	zbić się	inclusive
+PL3786	n	asm	no	aves	inclusive
+PL3556	n	qas	no	magniloquence	inclusive
+PL2362	n	cds	no	urwipołeć	conservative
+PL765	n	an	no	bos taurus	inclusive
+PL3631	n	dmc	yes	fujara	conservative
+PL1232	n	asm	no	gżenie się	conservative
+PL1420	n	ddf	yes	kaleka	inclusive
+PL1026	n	re	no	potwarz	inclusive
+PL318	n	cds	no	bajzel	inclusive
+PL869	n	qas	no	zgraja	inclusive
+PL1438	n	ps	yes	krzyżowanie	inclusive
+PL3604	n	an	no	hirudinean	inclusive
+PL284	n	an	no	krajowy ass	inclusive
+PL993	n	asf	no	imbecylu	conservative
+PL1259	n	cds	no	dziennikarz	inclusive
+PL1721	n	svp	no	łasuch	conservative
+PL591	n	re	no	łobuz	conservative
+PL3474	a	cds	no	strachliwy	conservative
+PL2384	n	ddf	yes	handicap	inclusive
+PL2426	n	svp	no	pasywność	inclusive
+PL52	n	cds	no	czynnik	inclusive
+PL2043	n	svp	no	bezowocność	conservative
+PL346	n	re	no	bandyta	inclusive
+PL742	n	ddp	yes	blunderer	conservative
+PL468	n	pr	no	upadły anioł	conservative
+PL241	n	asm	no	bêtise	conservative
+PL2755	n	cds	no	mafiozo	conservative
+PL271	n	asf	no	tępak	conservative
+PL510	n	qas	no	niezgodność z prawdą	conservative
+PL2961	n	ps	yes	Żółta rasa człowieka	conservative
+PL3592	n	cds	no	filozof	conservative
+PL2437	n	ddp	yes	nieuctwo	conservative
+PL190	n	an	no	apodes	inclusive
+PL245	a	cds	no	bezrozumny	conservative
+PL3678	a	svp	no	złośliwy	conservative
+PL3445	n	is	yes	biedakiem	inclusive
+PL1534	n	dmc	yes	machlojka	conservative
+PL1511	v	asm	no	drwić	inclusive
+PL360	n	dmc	yes	gbur	conservative
+PL533	n	cds	no	pandemonium	inclusive
+PL3145	n	dmc	yes	bidak	inclusive
+PL366	n	cds	no	grubianin	conservative
+PL1614	n	an	no	diddley	conservative
+PL1407	n	an	no	bird of minerva	inclusive
+PL359	n	ps	yes	burek	conservative
+PL2293	n	cds	no	masy	conservative
+PL629	n	qas	no	przemysłowiec	inclusive
+PL149	n	cds	no	melanż	inclusive
+PL566	n	cds	no	bigoteria	conservative
+PL2839	n	asm	no	roślin grochu	inclusive
+PL1894	n	cds	no	sutener	conservative
+PL855	n	dmc	yes	dirty dog	inclusive
+PL1016	n	re	no	oszczerczych	inclusive
+PL79	n	asf	no	idiotyzm	conservative
+PL433	n	asf	no	soft touch	conservative
+PL598	n	cds	no	przestępca	conservative
+PL3782	n	asm	no	ptak	inclusive
+PL1904	n	pr	no	utrzymanką	conservative
+PL3798	n	cds	no	raubritter	inclusive
+PL3262	n	or	no	spud	inclusive
+PL3398	a	cds	no	bystry	inclusive
+PL728	n	cds	no	hipokryta	conservative
+PL2522	n	cds	no	przeleżeć	inclusive
+PL985	n	cds	no	mizerak	conservative
+PL1282	n	or	no	lesbijka	conservative
+PL3779	n	pr	no	hetera	inclusive
+PL998	n	cds	no	opóźniać	inclusive
+PL2360	n	cds	no	huncwot	inclusive
+PL364	n	pa	yes	prościuch	conservative
+PL3319	n	cds	no	usprawiedliwienie	inclusive
+PL2387	n	ddf	yes	fizycznie kwestionowanych	inclusive
+PL1462	n	qas	no	compliance	inclusive
+PL798	n	rci	yes	włościanin	inclusive
+PL1313	n	an	no	mordka	inclusive
+PL2518	n	cds	no	pic	inclusive
+PL1813	n	qas	no	profan	conservative
+PL3389	n	asm	no	praca ręka	conservative
+PL3710	a	svp	no	wzgardliwy	conservative
+PL967	n	is	yes	paria	inclusive
+PL2864	n	cds	no	duma	inclusive
+PL3871	n	ps	yes	romanis	inclusive
+PL301	n	ddp	yes	papla	conservative
+PL1378	n	cds	no	cwaność	inclusive
+PL1997	n	dmc	yes	trefniś	inclusive
+PL1760	n	ps	yes	włóczykij	inclusive
+PL369	n	dmc	yes	wieśniak	conservative
+PL2498	n	dmc	yes	pseud	conservative
+PL610	n	cds	no	taleteller	conservative
+PL2025	n	cds	no	fundamentalistów	inclusive
+PL1478	n	or	no	cuke	inclusive
+PL1804	n	asm	no	erekcja	inclusive
+PL260	n	or	no	kapuściana głowa	conservative
+PL462	n	pr	no	kobieta spod latarni	conservative
+PL866	n	dmc	yes	leniwiec	conservative
+PL1659	n	svp	no	alergia	inclusive
+PL1154	n	asm	no	kogut	inclusive
+PL1830	n	dmc	yes	stadia rozwoju moralnego kohlberga	inclusive
+PL296	n	svp	no	sknerstwo	inclusive
+PL701	n	cds	no	ślepa uliczka	inclusive
+PL2874	n	cds	no	pyszność	inclusive
+PL2926	n	an	no	animalculum	inclusive
+PL3274	a	qas	no	uczuciowy	conservative
+PL297	n	svp	no	sknera	inclusive
+PL3791	n	cds	no	system kanalizacyjny	inclusive
+PL200	n	an	no	zwierzęta	inclusive
+PL1643	n	cds	no	syf	inclusive
+PL1269	n	om	no	niunia	conservative
+PL2936	n	an	no	owiec	inclusive
+PL2747	n	cds	no	gliniarz	conservative
+PL170	n	cds	no	ogień	inclusive
+PL3376	a	ddp	yes	zwierzęcy	conservative
+PL990	n	ddp	yes	podmieńca	inclusive
+PL812	n	qas	no	pracy na biurku	inclusive
+PL946	n	an	no	carcharias vulgaris	inclusive
+PL738	n	qas	no	brakorób	conservative
+PL2756	n	re	no	mafiosów	inclusive
+PL2900	n	an	no	skorpena	inclusive
+PL3036	n	pa	yes	starający się	inclusive
+PL100	n	cds	no	amour propre	conservative
+PL1169	n	cds	no	cockup	inclusive
+PL1187	n	pa	yes	profesorem nadzwyczajnym	inclusive
+PL1857	n	dmc	yes	wszetecznik	conservative
+PL43	n	re	no	znieważenie	inclusive
+PL1598	n	re	no	przestępstwo	inclusive
+PL3457	a	qas	no	pospolity	inclusive
+PL2636	n	re	no	włamywacz	inclusive
+PL749	n	pa	yes	niezdarność	conservative
+PL2562	n	qas	no	kupiec	inclusive
+PL3463	a	svp	no	chełpliwy	conservative
+PL23	n	svp	no	apatia	inclusive
+PL3168	n	dmc	yes	merry andrew	inclusive
+PL1479	n	or	no	cucurbita maxima	inclusive
+PL1492	n	cds	no	numerant	conservative
+PL647	n	cds	no	świnia	conservative
+PL3570	n	an	no	ropucha	inclusive
+PL436	n	asm	no	baran	conservative
+PL1247	n	asm	no	przykręcenie	conservative
+PL837	n	cds	no	pańskość	conservative
+PL1041	n	dmc	yes	macher	conservative
+PL2969	n	pr	no	osobistości	inclusive
+PL1214	n	svp	no	zmysły	inclusive
+PL1246	n	asm	no	toczyć w sianie	conservative
+PL1853	a	dmc	yes	niekulturalny	conservative
+PL883	n	re	no	villainess	conservative
+PL2171	n	an	no	wieprz	inclusive
+PL1708	n	om	no	derriere	inclusive
+PL2563	n	qas	no	magazynier	inclusive
+PL2589	n	asm	no	kapucyn	inclusive
+PL364	n	ddp	yes	prościuch	conservative
+PL2879	n	re	no	aferzysta	inclusive
+PL435	n	cds	no	dałn	conservative
+PL2208	n	qas	no	tagalong	conservative
+PL3432	n	cds	no	niemowlak	inclusive
+PL144	n	cds	no	kawał	inclusive
+PL1159	n	cds	no	problemu	conservative
+PL1204	v	asm	no	opierdalać się	inclusive
+PL766	n	cds	no	bydło	conservative
+PL2984	n	cds	no	kurdupel	conservative
+PL2443	n	cds	no	bombast	inclusive
+PL575	n	cds	no	kultury gangów	conservative
+PL3087	n	an	no	ptaszyna	inclusive
+PL3538	a	om	no	przeróżny	inclusive
+PL939	n	an	no	ataki rekinów na ludzi	inclusive
+PL1755	n	dmc	yes	powsinoga	inclusive
+PL1469	n	asf	no	twat	conservative
+PL1661	n	svp	no	dysgust	inclusive
+PL881	n	an	no	nikczemny	conservative
+PL1810	n	asm	no	hard-on	inclusive
+PL111	n	om	no	liwat	inclusive
+PL2363	n	cds	no	ananas	inclusive
+PL72	n	qas	no	amatorskość	conservative
+PL2940	n	ddp	yes	tępota	conservative
+PL1930	n	cds	no	wybieg	inclusive
+PL3364	n	an	no	wszy	inclusive
+PL437	n	ddp	yes	półgłupek	conservative
+PL1805	n	asm	no	ustawienie	inclusive
+PL762	n	pr	no	krowy	inclusive
+PL2122	n	dmc	yes	nicpoń	conservative
+PL2046	n	svp	no	jałowość	conservative
+PL1346	v	cds	no	trzepać	inclusive
+PL2847	n	an	no	prosiaka	inclusive
+PL2669	n	cds	no	ubikacja	inclusive
+PL1482	n	qas	no	odrzucać	conservative
+PL1276	n	om	no	puf	conservative
+PL987	n	an	no	tchórz	conservative
+PL507	n	cds	no	kanciarz	inclusive
+PL2083	n	cds	no	ględa	conservative
+PL1037	n	re	no	kamora	inclusive
+PL3862	n	an	no	pomrowiowate	inclusive
+PL3487	n	pr	no	fornicatress	conservative
+PL1986	n	cds	no	trzoda	inclusive
+PL1665	n	svp	no	ansa	inclusive
+PL3454	a	cds	no	przeciętny	inclusive
+PL2034	n	svp	no	złość	inclusive
+PL1668	n	dmc	yes	fałszywy	conservative
+PL381	n	qas	no	handlowiec	inclusive
+PL2631	n	re	no	koniokrad	inclusive
+PL1411	n	asm	no	kretynizm	conservative
+PL1607	n	an	no	kupa	conservative
+PL771	n	cds	no	pryncypał	inclusive
+PL3409	n	re	no	piraci	inclusive
+PL3795	n	qas	no	nurkowanie system ważenia	inclusive
+PL1357	n	cds	no	szrot	inclusive
+PL1249	n	asm	no	pierdolenie	conservative
+PL3167	n	dmc	yes	klaunów	inclusive
+PL1148	n	cds	no	hellion	conservative
+PL3643	a	qas	no	średniowieczny	inclusive
+PL3284	n	cds	no	bookworm	conservative
+PL1163	n	cds	no	pofatygować się	conservative
+PL2462	n	svp	no	nietolerancyjność	inclusive
+PL3164	n	pa	yes	furman	inclusive
+PL2583	n	asm	no	penisa	inclusive
+PL363	n	dmc	yes	dzikus	conservative
+PL3451	a	cds	no	szeregowy	inclusive
+PL1501	n	om	no	szlachcianka	inclusive
+PL3063	n	asf	no	fraszka	inclusive
+PL213	n	re	no	porozmawianie	conservative
+PL1284	n	om	no	orientacji homoseksualnej	inclusive
+PL2874	n	cds	no	pyszność	conservative
+PL920	n	re	no	mafia	conservative
+PL3122	n	re	no	pozabijać	inclusive
+PL2102	n	cds	no	snooper	conservative
+PL452	n	cds	no	pustak	conservative
+PL3202	v	cds	no	nażerać się	inclusive
+PL712	n	qas	no	foul-up	inclusive
+PL125	n	om	no	miłość grecka	inclusive
+PL419	n	re	no	rabuś	inclusive
+PL750	n	ddp	yes	zooerasty	conservative
+PL504	n	an	no	ulicznica	conservative
+PL1368	n	an	no	pluskwa	inclusive
+PL338	a	svp	no	skąpy	conservative
+PL2444	n	cds	no	manifestacyjność	inclusive
+PL2702	n	cds	no	moralizowanie	inclusive
+PL2274	n	ps	yes	chałaciarz	inclusive
+PL772	n	cds	no	szef	inclusive
+PL2620	n	cds	no	sajgon	conservative
+PL6	n	svp	no	lenistwo	inclusive
+PL268	n	an	no	shithead	conservative
+PL3482	n	cds	no	małomiasteczkowość	inclusive
+PL1682	n	om	no	pozycja anatomiczna	inclusive
+PL3606	a	qas	no	mizerny	conservative
+PL3425	n	cds	no	bobo	inclusive
+PL3186	n	cds	no	novo rico	inclusive
+PL2141	v	asm	no	zaliczyć	conservative
+PL3772	n	om	no	transwestytów	inclusive
+PL858	n	dmc	yes	włóczęgów	inclusive
+PL986	n	an	no	zdechlactwo	conservative
+PL3136	n	cds	no	homunkulus	inclusive
+PL105	a	an	no	niezłomny	inclusive
+PL585	n	cds	no	wataha	inclusive
+PL864	n	svp	no	leń	conservative
+PL3629	n	cds	no	fajfus	conservative
+PL1158	n	cds	no	niepokoić się	conservative
+PL3237	v	cds	no	przepadać	inclusive
+PL3142	n	ddp	yes	twaddler	conservative
+PL1931	n	cds	no	trick	inclusive
+PL239	n	asf	no	głupota	inclusive
+PL132	n	svp	no	indolencja	inclusive
+PL3863	n	an	no	pomrowy	inclusive
+PL1042	n	cds	no	chiseler	conservative
+PL622	n	ps	yes	inkiness	inclusive
+PL2233	n	is	yes	hołysz	inclusive
+PL3268	n	or	no	ziemniak	inclusive
+PL243	n	asm	no	głupstwo	conservative
+PL101	n	svp	no	miłości własnej	conservative
+PL365	n	ps	yes	cham	conservative
+PL373	n	ddp	yes	żłób	conservative
+PL2303	a	svp	no	nienasycony	conservative
+PL2519	n	dmc	yes	warunkować	inclusive
+PL795	n	qas	no	chłopi	inclusive
+PL1953	n	dmc	yes	śmierdzieć	conservative
+PL3378	a	om	no	anomalny	inclusive
+PL3172	n	an	no	glizda	inclusive
+PL2350	n	cds	no	bałwochwalstwa	inclusive
+PL2239	n	om	no	męskiej seksualności	inclusive
+PL1827	n	dmc	yes	wartości moralnych	inclusive
+PL982	n	cds	no	cherlawiec	conservative
+PL692	n	pa	yes	pogrzebowy	inclusive
+PL3252	v	cds	no	zabić się	inclusive
+PL877	n	cds	no	dzicz	conservative
+PL2181	n	an	no	chabeta	inclusive
+PL2470	n	cds	no	pisarz	conservative
+PL445	n	asm	no	głupi	conservative
+PL2757	n	re	no	capo di tutti capi	inclusive
+PL250	n	ps	yes	prostak	conservative
+PL1591	n	asf	no	doofus	conservative
+PL593	n	an	no	złoczyńca	conservative
+PL575	n	cds	no	kultury gangów	inclusive
+PL2121	n	dmc	yes	obipięta	conservative
+PL2864	n	svp	no	duma	conservative
+PL1179	n	qas	no	kasty	inclusive
+PL2454	n	cds	no	nauczyciel	inclusive
+PL3567	n	an	no	batrachian	inclusive
+PL799	n	qas	no	biznesmen	inclusive
+PL2011	n	cds	no	masoneria	inclusive
+PL1897	n	cds	no	alfons	inclusive
+PL1578	n	ddp	yes	prostaczek	conservative
+PL308	n	ddp	yes	ociężałość umysłowa	inclusive
+PL554	n	dmc	yes	paliwoda	conservative
+PL2886	n	cds	no	relikwia	inclusive
+PL554	n	cds	no	paliwoda	conservative
+PL1234	n	asm	no	pieprzyć	conservative
+PL2409	n	is	yes	golizna	inclusive
+PL1869	n	om	no	osoba niepełnosprawna	conservative
+PL380	n	qas	no	monger	inclusive
+PL432	n	asf	no	spaść faceta	conservative
+PL251	n	asf	no	głupek	conservative
+PL2391	n	ddf	yes	inwalidztwo	inclusive
+PL3593	n	cds	no	weisenheimer	conservative
+PL109	a	an	no	nieustępliwy	inclusive
+PL2912	n	ps	yes	metyska	conservative
+PL950	n	an	no	carcharias lamia	inclusive
+PL2065	n	asm	no	fava	inclusive
+PL2428	n	svp	no	indyferencja	inclusive
+PL609	n	ddp	yes	plotkarz	conservative
+PL3402	n	re	no	korsarstwo	inclusive
+PL2643	n	ps	yes	metoikoi	inclusive
+PL3260	n	or	no	nowych ziemniaka	inclusive
+PL1607	n	cds	no	kupa	inclusive
+PL2590	a	om	no	lesbijski	conservative
+PL1485	n	qas	no	wyselekcjonować	conservative
+PL2519	n	cds	no	warunkować	inclusive
+PL2262	n	ps	yes	wyznanie mojżeszowe	inclusive
+PL2554	n	cds	no	sassing	inclusive
+PL1445	n	ps	yes	metys	inclusive
+PL250	n	or	no	prostak	conservative
+PL2195	n	re	no	ukradzenie	inclusive
+PL2069	n	asf	no	pochwa	conservative
+PL563	a	ddp	yes	infantylny	conservative
+PL2850	n	cds	no	knowacz	inclusive
+PL2749	n	cds	no	mafioso	conservative
+PL2787	n	dmc	yes	hayseed	conservative
+PL902	a	dmc	yes	nieprawy	conservative
+PL3767	n	om	no	cross-dressing	inclusive
+PL3651	a	ddp	yes	tępogłowy	conservative
+PL594	n	cds	no	banicja	conservative
+PL1906	n	pr	no	kochanica	conservative
+PL255	n	om	no	dureń	inclusive
+PL3738	n	re	no	torturowanie	inclusive
+PL2268	n	ps	yes	religii żydowskiej	inclusive
+PL377	n	an	no	barbaryzm	inclusive
+PL1650	n	cds	no	tłuścić	inclusive
+PL3189	n	cds	no	nuworysz	inclusive
+PL2087	n	an	no	pipistrellus	inclusive
+PL2745	n	cds	no	policjantów	conservative
+PL2974	n	qas	no	duchowy przywódca	inclusive
+PL1337	v	cds	no	brząkać	inclusive
+PL436	n	ps	yes	baran	conservative
+PL656	n	cds	no	błazen	conservative
+PL2042	n	svp	no	pucha	conservative
+PL1440	n	ps	yes	krzyżówki genetyczne	inclusive
+PL510	n	cds	no	niezgodność z prawdą	inclusive
+PL2606	n	svp	no	oburzenie	inclusive
+PL806	n	an	no	bawół	inclusive
+PL900	a	ddf	yes	niecny	conservative
+PL1128	n	qas	no	zafalować	inclusive
+PL2513	n	cds	no	blagierstwo	conservative
+PL1574	a	ddp	yes	niedoświadczony	conservative
+PL2007	n	cds	no	mason	inclusive
+PL1004	n	pr	no	zdzira	conservative
+PL256	n	cds	no	głuptak	conservative
+PL3846	n	an	no	Żmija zygzakowata	inclusive
+PL936	n	an	no	ludojad	inclusive
+PL2138	v	asm	no	ruchać	conservative
+PL3367	n	cds	no	religijność	inclusive
+PL2193	n	cds	no	przywłaszczenie	inclusive
+PL3539	a	om	no	odwrotny	inclusive
+PL1377	n	cds	no	podstępność	conservative
+PL442	n	or	no	debil	conservative
+PL2754	n	re	no	mafii	conservative
+PL1544	n	dmc	yes	stawanie się	conservative
+PL439	n	ddp	yes	idiota	inclusive
+PL2979	n	cds	no	wąż	inclusive
+PL754	n	an	no	ferociousness	conservative
+PL1751	n	cds	no	wads	inclusive
+PL1385	n	svp	no	śnienie	inclusive
+PL1330	v	cds	no	trzaskać	inclusive
+PL1530	n	qas	no	pacykarz	conservative
+PL1456	n	cds	no	żółtodziób	conservative
+PL1655	n	cds	no	śmiecić	inclusive
+PL1945	n	or	no	foeniculum vulgare	inclusive
+PL3537	a	om	no	niezgodny	inclusive
+PL1754	n	cds	no	wyniki	inclusive
+PL20	n	svp	no	indyferentyzm	inclusive
+PL589	n	cds	no	krąg	inclusive
+PL710	n	qas	no	blooper	inclusive
+PL733	n	an	no	brutal	conservative
+PL1575	a	ddp	yes	łatwowierny	conservative
+PL2825	a	dmc	yes	nieludzki	conservative
+PL40	n	re	no	nadużycie	inclusive
+PL529	n	cds	no	wykwintniś	inclusive
+PL359	n	ddp	yes	burek	conservative
+PL689	n	re	no	szantażował	conservative
+PL38	n	re	no	maltretowanie	inclusive
+PL2984	n	ddf	yes	kurdupel	conservative
+PL3503	n	or	no	brassica rapa	inclusive
+PL604	n	ps	yes	dziki	inclusive
+PL3853	n	dmc	yes	dezerter	conservative
+PL494	n	pr	no	żużel	conservative
+PL993	n	ddp	yes	imbecylu	inclusive
+PL56	n	cds	no	broker	inclusive
+PL76	n	pa	yes	akademików	inclusive
+PL2449	n	cds	no	bombastyczność	conservative
+PL161	a	svp	no	agresywny	conservative
+PL218	n	re	no	gwałcicieli	conservative
+PL1094	n	cds	no	plemię	inclusive
+PL2981	n	qas	no	gwiazdeczka	inclusive
+PL2993	n	cds	no	autofilia	inclusive
+PL573	n	cds	no	gangów młodzieżowych	conservative
+PL1004	n	an	no	zdzira	conservative
+PL439	n	cds	no	idiota	conservative
+PL904	n	an	no	paszczęka	inclusive
+PL642	n	dmc	yes	łajdak	conservative
+PL1889	n	cds	no	fanatyczność	conservative
+PL1601	n	cds	no	działalności przestępczej	inclusive
+PL742	n	qas	no	blunderer	conservative
+PL1061	n	cds	no	dziadostwo	conservative
+PL596	n	re	no	kryminalista	inclusive
+PL1389	n	an	no	prickteaser	conservative
+PL3811	n	om	no	drag queen	inclusive
+PL3360	n	an	no	wesz	inclusive
+PL1873	n	cds	no	fratria	inclusive
+PL1778	n	cds	no	pedagog	inclusive
+PL1270	n	om	no	ciota	conservative
+PL2216	n	pr	no	john	conservative
+PL1950	n	dmc	yes	odór	conservative
+PL2053	n	cds	no	gangster	inclusive
+PL3460	a	cds	no	typowy	inclusive
+PL582	n	cds	no	gangsteryzmem	inclusive
+PL458	n	ddp	yes	tłuczek	conservative
+PL3838	n	re	no	przemocy	inclusive
+PL3417	n	an	no	gallus gallus domesticus	inclusive
+PL2279	n	ps	yes	izraelita	inclusive
+PL1951	n	dmc	yes	swąd	conservative
+PL2359	n	dmc	yes	półdiablę	inclusive
+PL2461	n	cds	no	nauczycieli	inclusive
+PL2082	n	cds	no	dozorca	inclusive
+PL263	n	ddp	yes	bałwan	conservative
+PL1421	n	an	no	krokodyle	inclusive
+PL688	n	re	no	szantażowany	conservative
+PL260	n	asf	no	kapuściana głowa	conservative
+PL244	a	an	no	niemądry	conservative
+PL530	n	cds	no	rozgardiasz	conservative
+PL426	n	cds	no	wyjąwszy	inclusive
+PL485	n	pr	no	kokota	inclusive
+PL251	n	ps	yes	głupek	conservative
+PL45	n	re	no	wymyślanie	inclusive
+PL2420	n	is	yes	ubóstwa	inclusive
+PL2595	n	svp	no	zazdroszczenie	inclusive
+PL1435	n	ddf	yes	crookback	inclusive
+PL598	n	re	no	przestępca	conservative
+PL1005	n	an	no	pipa	conservative
+PL647	n	dmc	yes	świnia	conservative
+PL3324	n	cds	no	tłumaczenie	inclusive
+PL3730	n	re	no	udręka	inclusive
+PL2285	n	ps	yes	Żydzi	inclusive
+PL266	n	ddp	yes	muttonhead	conservative
+PL267	n	ddp	yes	pusta głowa	conservative
+PL2347	n	cds	no	idolatria	inclusive
+PL1826	n	dmc	yes	moralista	inclusive
+PL2477	n	dmc	yes	mamiciel	conservative
+PL371	n	ddp	yes	troglodyta	conservative
+PL500	n	pr	no	floozie	conservative
+PL1400	n	asm	no	frajerstwo	conservative
+PL1327	n	cds	no	boidusza	conservative
+PL3125	n	re	no	wyczerpywanie	inclusive
+PL1590	n	ddp	yes	niezdara	conservative
+PL2058	n	cds	no	faszyzmu	conservative
+PL2716	n	pr	no	motyl nocny	inclusive
+PL42	n	re	no	nadużycia władzy	inclusive
+PL2254	n	om	no	homoseksualizm	inclusive
+PL2682	n	cds	no	ustronne miejsce	inclusive
+PL2331	n	an	no	hieny	inclusive
+PL730	n	dmc	yes	jezuita	inclusive
+PL371	n	ps	yes	troglodyta	conservative
+PL909	n	an	no	cakehole	inclusive
+PL2535	n	cds	no	moneylending	inclusive
+PL706	n	cds	no	bloopers	inclusive
+PL1150	n	cds	no	pieron	conservative
+PL855	n	an	no	dirty dog	conservative
+PL3282	n	cds	no	mól książkowy	conservative
+PL2364	n	dmc	yes	łapserdak	inclusive
+PL834	n	svp	no	wysokiej ręczność	conservative
+PL2901	n	cds	no	ścieków	inclusive
+PL1932	n	cds	no	wystarczy jeden	inclusive
+PL911	n	cds	no	kasta	inclusive
+PL1052	n	cds	no	butność	conservative
+PL1756	n	dmc	yes	cygan	inclusive
+PL614	n	cds	no	łajdactwo	conservative
+PL2155	n	an	no	gąsiątko	inclusive
+PL1354	n	cds	no	odpadów komunalnych	inclusive
+PL1851	n	dmc	yes	biedaczek	conservative
+PL1875	n	cds	no	fratrii	inclusive
+PL419	n	an	no	rabuś	conservative
+PL971	n	an	no	ułomek	conservative
+PL3588	n	cds	no	snob	conservative
+PL148	n	qas	no	omnium-gatherum	inclusive
+PL1296	n	an	no	lice	inclusive
+PL2486	n	dmc	yes	nieprawość	inclusive
+PL3815	n	pa	yes	cordwainer	inclusive
+PL1418	n	asm	no	jerk-off	conservative
+PL1443	n	cds	no	hybryda	inclusive
+PL1061	n	qas	no	dziadostwo	conservative
+PL370	n	dmc	yes	parobas	conservative
+PL362	n	rci	yes	kałmuk	conservative
+PL2070	n	asf	no	wagina	conservative
+PL1549	n	dmc	yes	zmienianie się	conservative
+PL993	n	ddp	yes	imbecylu	conservative
+PL2144	v	asm	no	pieprzyć	conservative
+PL3400	n	re	no	piractwa	inclusive
+PL2761	n	an	no	syczoń krzykliwy	inclusive
+PL2634	n	re	no	rustler	inclusive
+PL1691	n	om	no	tush	inclusive
+PL2924	n	an	no	drobnoustroje	inclusive
+PL1907	n	pr	no	przyjaciółka	conservative
+PL1071	n	an	no	psy na znaczkach pocztowych	inclusive
+PL451	n	asf	no	pustogłów	conservative
+PL3429	n	cds	no	noworodków	inclusive
+PL1488	n	cds	no	przebiegłość	conservative
+PL2751	n	cds	no	sottocapo	conservative
+PL1933	n	cds	no	sztuczka	conservative
+PL843	n	svp	no	próżności	conservative
+PL1991	a	dmc	yes	fałszywy	conservative
+PL319	n	cds	no	bawdyhouse	inclusive
+PL654	n	cds	no	mieszaniec	inclusive
+PL1800	n	re	no	zbrodniach	inclusive
+PL2927	n	an	no	żyjątko	inclusive
+PL1365	n	an	no	cimicidae	inclusive
+PL3533	a	om	no	różny	inclusive
+PL2111	n	an	no	caprinae	inclusive
+PL1045	n	cds	no	grifter	conservative
+PL3239	v	cds	no	zeschnąć	inclusive
+PL882	n	dmc	yes	chuligan	conservative
+PL274	n	ddp	yes	knucklehead	conservative
+PL2053	n	cds	no	gangster	conservative
+PL2910	n	ps	yes	metysi	conservative
+PL89	n	ddp	yes	opóźnienie umysłowe	inclusive
+PL3204	v	cds	no	przejadać się	inclusive
+PL3131	n	or	no	spalony pomarańczowy	inclusive
+PL2103	n	qas	no	buchać	inclusive
+PL347	n	cds	no	opryszek	inclusive
+PL1305	n	an	no	papa	inclusive
+PL1114	n	an	no	koza	inclusive
+PL881	n	is	yes	nikczemny	conservative
+PL451	n	or	no	pustogłów	conservative
+PL334	n	qas	no	jądro	inclusive
+PL2580	n	asm	no	ptaszek	inclusive
+PL3104	n	re	no	drugiego morderstwa stopni	inclusive
+PL272	n	an	no	ośla głowa	conservative
+PL3754	n	pr	no	krępak brzozowiec	inclusive
+PL1722	n	svp	no	trencher	inclusive
+PL653	n	cds	no	plucha	conservative
+PL980	n	cds	no	mięczak	conservative
+PL1203	n	or	no	uprawiano kapustę	inclusive
+PL901	a	ddf	yes	niegodziwy	conservative
+PL2836	n	dmc	yes	zła	inclusive
+PL2507	a	dmc	yes	leniwy	conservative
+PL3766	n	om	no	crossdressing	inclusive
+PL509	n	qas	no	kłamstwo	conservative
+PL1940	n	re	no	wyłudzenie	inclusive
+PL2512	n	cds	no	zależeć	conservative
+PL36	n	re	no	maltretowania	inclusive
+PL1484	n	cds	no	zerwać	conservative
+PL550	n	cds	no	beginki	inclusive
+PL737	n	cds	no	niedbaluch	conservative
+PL843	n	cds	no	próżności	conservative
+PL442	n	asf	no	debil	conservative
+PL1739	n	cds	no	lawina	inclusive
+PL2726	n	an	no	ryj	inclusive
+PL146	n	cds	no	farrago	inclusive
+PL1797	a	ddp	yes	szalony	inclusive
+PL3294	v	cds	no	przekreślić	inclusive
+PL1571	n	dmc	yes	łajza	inclusive
+PL1115	n	svp	no	oszczędność	conservative
+PL51	n	cds	no	pośrednik	inclusive
+PL248	n	asm	no	osioł	conservative
+PL2852	n	cds	no	kret	inclusive
+PL3812	n	pr	no	krówsko	conservative
+PL3201	v	is	yes	ubłagać	inclusive
+PL2920	n	an	no	mikroorganizmów	inclusive
+PL366	n	dmc	yes	grubianin	conservative
+PL3010	n	ps	yes	murzynka	inclusive
+PL3755	n	pr	no	krępak nabrzozak	inclusive
+PL1789	n	cds	no	hodowca	inclusive
+PL3776	n	pr	no	diablica	conservative
+PL3380	n	asm	no	samozaspokojenie	conservative
+PL731	n	cds	no	konformistyczne	conservative
+PL3562	a	dmc	yes	nienaturalny	inclusive
+PL2818	a	cds	no	barbarzyński	conservative
+PL1467	n	or	no	szpara	conservative
+PL1786	n	cds	no	miłośnik	inclusive
+PL2607	n	svp	no	zbulwersowanie	inclusive
+PL567	n	dmc	yes	dewocja	conservative
+PL2367	n	cds	no	andrus	conservative
+PL214	n	re	no	pomówienie	conservative
+PL355	n	ps	yes	cebulak	conservative
+PL457	n	cds	no	tuman	conservative
+PL1783	n	pa	yes	pracownika	inclusive
+PL3764	n	om	no	fetyszyzm transwestycyjny	inclusive
+PL1335	v	cds	no	skarżyć	inclusive
+PL2231	n	is	yes	biedak	inclusive
+PL1273	n	om	no	queer	conservative
+PL641	n	dmc	yes	bydlak	inclusive
+PL432	n	asm	no	spaść faceta	conservative
+PL1542	n	dmc	yes	krętactwo	conservative
+PL2234	n	is	yes	golec	inclusive
+PL3491	n	pr	no	cyrkówka	conservative
+PL556	n	pa	yes	goniec hotelowy	inclusive
+PL1324	n	cds	no	cykor	conservative
+PL390	n	pa	yes	obrońca	inclusive
+PL578	n	qas	no	hewra	inclusive
+PL1984	n	an	no	pchły	inclusive
+PL3641	a	ps	yes	żydowski	inclusive
+PL3465	a	dmc	yes	sfałszowany	conservative
+PL2209	n	cds	no	ugoå	inclusive
+PL1040	n	re	no	chiseller	inclusive
+PL1264	n	om	no	konserwacyjne	conservative
+PL899	a	ddf	yes	nędzny	conservative
+PL3389	n	cds	no	praca ręka	conservative
+PL3121	n	re	no	zabijanie	inclusive
+PL3238	v	cds	no	stracić życie	inclusive
+PL3580	n	an	no	ropuchy	inclusive
+PL169	n	cds	no	zelotów	inclusive
+PL3227	v	cds	no	minąć	inclusive
+PL2439	n	an	no	wytrwałość	conservative
+PL1045	n	re	no	grifter	inclusive
+PL453	n	ps	yes	przygłup	conservative
+PL3037	n	pa	yes	zalotnik	inclusive
+PL195	n	an	no	niedopłetwe	inclusive
+PL239	n	asf	no	głupota	conservative
+PL3084	n	cds	no	omertà	inclusive
+PL206	n	an	no	makrofauny	inclusive
+PL2853	n	asm	no	kół	inclusive
+PL1507	v	asm	no	chapać	inclusive
+PL1900	n	pr	no	utrzymanka	conservative
+PL3047	n	cds	no	nympho	conservative
+PL3648	n	ddp	yes	głuptasek	conservative
+PL329	n	qas	no	jąder	inclusive
+PL3261	n	or	no	solanum tuberosum	inclusive
+PL2485	n	dmc	yes	moralnie upadłego	inclusive
+PL1438	n	cds	no	krzyżowanie	inclusive
+PL2301	a	svp	no	łakomy	inclusive
+PL1850	n	is	yes	biedaczyna	conservative
+PL1833	n	dmc	yes	moralny kompas	inclusive
+PL3733	n	re	no	tortura	inclusive
+PL3751	n	an	no	krępak brzozowy	inclusive
+PL597	n	re	no	banita	inclusive
+PL2067	n	asm	no	vicia faba	inclusive
+PL3638	n	an	no	staphylococcus canis	inclusive
+PL1767	n	an	no	nanus	conservative
+PL545	n	cds	no	bujda	conservative
+PL2650	n	or	no	precyzja	inclusive
+PL2217	n	pr	no	usług seksualnych	conservative
+PL1794	a	qas	no	zwariowany	conservative
+PL1280	n	om	no	homofilia	conservative
+PL1849	n	cds	no	biedaczysko	conservative
+PL1458	n	cds	no	gołowąs	conservative
+PL2756	n	cds	no	mafiosów	inclusive
+PL586	n	cds	no	gangi	conservative
+PL1287	n	or	no	wesoły	conservative
+PL347	n	re	no	opryszek	inclusive
+PL3559	n	qas	no	opuszczony statek	inclusive
+PL3026	n	ps	yes	ludy negroidalne	inclusive
+PL368	n	ps	yes	barbarzyńców	conservative
+PL3635	n	dmc	yes	przeciętniak	conservative
+PL175	n	ddp	yes	analfabetka	inclusive
+PL1759	n	ps	yes	rajzer	inclusive
+PL1928	n	cds	no	fascista	inclusive
+PL2530	n	re	no	mężobójca	inclusive
+PL3042	n	cds	no	hiperseksualizm	conservative
+PL264	n	asf	no	dumbass	conservative
+PL2003	n	asm	no	zanieczyścić	inclusive
+PL3163	n	an	no	sępy	inclusive
+PL3553	a	dmc	yes	zabrudzonych	inclusive
+PL2415	n	is	yes	luka dochodowa	inclusive
+PL1772	n	svp	no	łakomstwo	conservative
+PL274	n	an	no	knucklehead	conservative
+PL1443	n	ps	yes	hybryda	inclusive
+PL3450	a	qas	no	szary	inclusive
+PL2197	n	re	no	skradzenie	inclusive
+PL3173	n	cds	no	lapsus	inclusive
+PL375	a	svp	no	żarłoczny	conservative
+PL2605	n	svp	no	wzburzenie	inclusive
+PL651	n	an	no	prosiak	conservative
+PL1210	n	svp	no	pożądliwość	inclusive
+PL3510	n	re	no	kidnaping	inclusive
+PL2811	n	an	no	papugi	inclusive
+PL3033	n	an	no	trąbka	inclusive
+PL3665	n	cds	no	ładować	conservative
+PL1171	n	cds	no	ballup	inclusive
+PL2567	n	asm	no	barwa wiśniowa	inclusive
+PL3024	n	ps	yes	czarna odmiana człowieka	inclusive
+PL863	n	dmc	yes	leser	conservative
+PL3623	n	an	no	blattaria	inclusive
+PL3414	a	cds	no	schematyczny	inclusive
+PL1749	n	cds	no	obciążenia	inclusive
+PL1970	n	pa	yes	fishmonger	inclusive
+PL2227	n	is	yes	proletariusz	inclusive
+PL2495	n	dmc	yes	impostor	conservative
+PL263	n	cds	no	bałwan	conservative
+PL2358	n	cds	no	ancymon	inclusive
+PL3808	n	cds	no	teorii spiskowej	inclusive
+PL732	n	qas	no	konformista	conservative
+PL102	a	dmc	yes	mocny	conservative
+PL2052	n	dmc	yes	korybant	inclusive
+PL1565	n	pr	no	kurtyzan	inclusive
+PL896	a	dmc	yes	nikczemny	conservative
+PL2942	n	ddp	yes	ograniczenie	conservative
+PL1130	n	qas	no	dusić się	inclusive
+PL139	n	cds	no	dowcip	inclusive
+PL1361	n	qas	no	odpady	inclusive
+PL2946	n	pa	yes	sheepherders	inclusive
+PL2407	n	is	yes	pauperyzm	inclusive
+PL1428	n	an	no	crocodilia	inclusive
+PL260	n	ddp	yes	kapuściana głowa	conservative
+PL2531	n	re	no	zabójca	inclusive
+PL2172	n	an	no	knur	inclusive
+PL274	n	or	no	knucklehead	conservative
+PL2958	n	cds	no	mystifier	conservative
+PL1270	n	or	no	ciota	conservative
+PL606	n	cds	no	gadułą	conservative
+PL5	v	an	no	szczekać	inclusive
+PL3090	n	re	no	morderstwa pierwszego stopnia	inclusive
+PL1898	n	cds	no	pandar	conservative
+PL2581	n	asm	no	prącie	inclusive
+PL79	n	asm	no	idiotyzm	conservative
+PL368	n	qas	no	barbarzyńców	conservative
+PL2586	n	asm	no	interes	inclusive
+PL2357	n	dmc	yes	podróbka	inclusive
+PL504	n	pr	no	ulicznica	conservative
+PL1628	n	ps	yes	krauthead	conservative
+PL3842	n	re	no	zniewolenie	inclusive
+PL2063	n	asm	no	bobik	inclusive
+PL1465	n	cds	no	chłopczyna	inclusive
+PL1147	n	cds	no	zaraza	conservative
+PL358	n	cds	no	barbarzyństwo	conservative
+PL1677	n	om	no	za	inclusive
+PL2284	n	ps	yes	mosiek	inclusive
+PL269	n	an	no	fuckhead	conservative
+PL1092	n	cds	no	plemienia	inclusive
+PL852	n	dmc	yes	git	inclusive
+PL93	n	pa	yes	akademickość	inclusive
+PL2355	a	an	no	chytry	conservative
+PL1587	n	dmc	yes	łupieżca	conservative
+PL354	n	ddp	yes	plebejusz	conservative
+PL1601	n	re	no	działalności przestępczej	inclusive
+PL369	n	cds	no	wieśniak	conservative
+PL627	n	qas	no	magnat	inclusive
+PL611	n	cds	no	plociuch	conservative
+PL2019	n	an	no	grymas	inclusive
+PL3035	n	pa	yes	galopant	inclusive
+PL243	n	asf	no	głupstwo	conservative
+PL2741	n	cds	no	policjant	inclusive
+PL853	n	dmc	yes	lowlife	inclusive
+PL3405	n	re	no	pirat	inclusive
+PL385	n	pa	yes	pełnomocnik	inclusive
+PL665	n	cds	no	drania	conservative
+PL297	n	is	yes	sknera	conservative
+PL1977	n	cds	no	tkwić	inclusive
+PL3144	n	ddf	yes	brzydota	inclusive
+PL2382	n	ddf	yes	niesprawność	inclusive
+PL1103	n	pa	yes	biuralista	inclusive
+PL844	n	cds	no	besserwisserstwo	conservative
+PL1493	n	cds	no	swawolnik	conservative
+PL207	n	ddp	yes	zwierząt	inclusive
+PL2782	n	dmc	yes	niegrzeczność	conservative
+PL830	n	svp	no	próżność	conservative
+PL1441	n	ps	yes	bastard	inclusive
+PL410	n	qas	no	baroniątko	inclusive
+PL1871	n	svp	no	faineance	inclusive
+PL2048	n	svp	no	daremność	conservative
+PL831	n	cds	no	chełpliwość	conservative
+PL210	n	ddp	yes	epifauna	inclusive
+PL1996	n	dmc	yes	bufonady	inclusive
+PL3605	a	qas	no	lichy	conservative
+PL2580	n	an	no	ptaszek	inclusive
+PL1231	n	asm	no	rypanie się	conservative
+PL662	n	cds	no	szuler	inclusive
+PL2987	n	cds	no	pigmej	conservative
+PL1602	n	cds	no	działań przestępczych	inclusive
+PL2212	n	pr	no	call-boy	conservative
+PL712	n	cds	no	foul-up	inclusive
+PL2768	n	dmc	yes	kaban	conservative
+PL2988	n	cds	no	karypel	conservative
+PL376	n	an	no	brutalność	inclusive
+PL3017	n	ps	yes	rasa czarna człowieka	inclusive
+PL1483	n	qas	no	brakowanie	conservative
+PL1915	n	qas	no	rolnika	inclusive
+PL1798	a	ddp	yes	niepoczytalny	inclusive
+PL2124	n	cds	no	doktryna reakcyjna	conservative
+PL433	n	cds	no	soft touch	conservative
+PL2925	n	an	no	pip-squeak	conservative
+PL2499	n	svp	no	lubieżność	inclusive
+PL876	n	cds	no	motłoch	conservative
+PL3456	a	qas	no	tuzinkowy	inclusive
+PL839	n	svp	no	nieskromność	conservative
+PL2556	n	cds	no	odpysknąć	inclusive
+PL2249	n	om	no	safizm	inclusive
+PL3612	a	dmc	yes	śmierdzący	conservative
+PL395	n	pa	yes	zwolennik	inclusive
+PL845	n	svp	no	zarozumiałość	conservative
+PL1724	n	svp	no	gourmand	conservative
+PL2441	n	an	no	nieugiętość	conservative
+PL1361	n	cds	no	odpady	conservative
+PL972	n	an	no	słabiak	conservative
+PL2773	n	om	no	pederastic	inclusive
+PL95	n	an	no	american buffalo	inclusive
+PL248	n	an	no	osioł	conservative
+PL968	n	is	yes	wyrzutek	inclusive
+PL1321	n	pr	no	zastraszyć	inclusive
+PL3743	v	re	no	zmaltretować	inclusive
+PL1589	n	ps	yes	gapić się	conservative
+PL2116	n	svp	no	obibok	conservative
+PL3819	n	svp	no	nicość	conservative
+PL138	n	cds	no	bryknąć	inclusive
+PL1302	n	an	no	fizjonomika	inclusive
+PL1060	n	qas	no	stan trzeci	conservative
+PL860	n	dmc	yes	hobo	conservative
+PL1814	n	qas	no	dyletant	conservative
+PL1927	n	is	yes	marginalizacja	inclusive
+PL452	n	ddp	yes	pustak	conservative
+PL2354	a	is	yes	ciasny	conservative
+PL1439	n	cds	no	hodowla roślin	inclusive
+PL440	n	or	no	półgłówek	conservative
+PL846	n	cds	no	objętość	inclusive
+PL3884	a	cds	no	płaski	conservative
+PL3254	v	cds	no	odejść	inclusive
+PL3007	n	ps	yes	jigaboo	conservative
+PL119	n	om	no	grzech sodomski	inclusive
+PL1381	n	svp	no	fantazjowanie	inclusive
+PL325	n	is	yes	scrooge	conservative
+PL2344	n	cds	no	bałwochwalców	inclusive
+PL3157	n	cds	no	lichwy	inclusive
+PL991	n	ps	yes	idiotka	conservative
+PL2622	n	cds	no	mussiness	conservative
+PL1038	n	re	no	camorra	inclusive
+PL2923	n	an	no	mikroby	inclusive
+PL3198	v	qas	no	frustrować	conservative
+PL729	n	cds	no	faryzeusz	conservative
+PL2038	n	dmc	yes	dallier	conservative
+PL2899	n	an	no	morze scorpion	inclusive
+PL841	n	svp	no	zarozumialstwo	conservative
+PL272	n	ddp	yes	ośla głowa	conservative
+PL222	n	cds	no	perspicaciousness	inclusive
+PL2685	n	cds	no	klozet	inclusive
+PL436	n	asf	no	baran	conservative
+PL3098	n	re	no	wykańczanie	inclusive
+PL3413	a	cds	no	standardowy	inclusive
+PL345	n	dmc	yes	rzezimieszek	inclusive
+PL2030	n	svp	no	żółć	conservative
+PL439	n	asf	no	idiota	conservative
+PL2983	n	cds	no	złodziejka	inclusive
+PL226	n	asm	no	pała	conservative
+PL1213	n	svp	no	pociąg fizyczny	inclusive
+PL2136	v	asm	no	uprawiać seks	conservative
+PL2349	n	cds	no	fałszywego bożka	inclusive
+PL404	n	an	no	psina	inclusive
+PL885	n	cds	no	grat	inclusive
+PL1002	n	or	no	pizda	conservative
+PL3504	n	re	no	wyrwanie	inclusive
+PL1221	n	asm	no	rżnięcie się	conservative
+PL344	n	re	no	zbir	inclusive
+PL1596	n	re	no	przestępców	inclusive
+PL448	n	asm	no	imbecyl	conservative
+PL1785	n	cds	no	admirator	inclusive
+PL1315	n	an	no	fizjognomika	inclusive
+PL1054	n	cds	no	impertynencja	conservative
+PL2851	n	cds	no	intrygant	inclusive
+PL2751	n	re	no	sottocapo	inclusive
+PL361	n	pa	yes	neandertalczyk	conservative
+PL2224	n	pr	no	skurwysyństwo	conservative
+PL3132	n	re	no	oprawca	inclusive
+PL2540	n	cds	no	szajlok	inclusive
+PL605	n	an	no	bison	inclusive
+PL1918	n	qas	no	rolników	inclusive
+PL1704	n	om	no	tylnej	inclusive
+PL107	a	an	no	nieugięty	inclusive
+PL2079	n	cds	no	pod klucz	inclusive
+PL2425	n	svp	no	niebaczność	inclusive
+PL1551	n	dmc	yes	kanciarstwo	conservative
+PL2919	n	an	no	drobnoustrój	inclusive
+PL3458	a	cds	no	zwyczajny	inclusive
+PL3306	n	dmc	yes	utratnik	conservative
+PL245	a	ddp	yes	bezrozumny	conservative
+PL2988	n	dmc	yes	karypel	conservative
+PL1223	n	asm	no	fuck	conservative
+PL2130	n	cds	no	reakcja	conservative
+PL444	n	asm	no	kretyn	conservative
+PL2502	a	dmc	yes	nieuprzejmy	conservative
+PL79	n	ddp	yes	idiotyzm	inclusive
+PL3159	n	ps	yes	wandal	conservative
+PL916	n	cds	no	kliki	inclusive
+PL1050	n	cds	no	strupień	conservative
+PL374	n	pa	yes	nieokrzesaniec	conservative
+PL1180	n	qas	no	system kastowy	inclusive
+PL1196	n	or	no	kapusta	inclusive
+PL2989	n	cds	no	samozachwyt	inclusive
+PL430	n	cds	no	frajer	conservative
+PL3229	v	cds	no	uschnąć	inclusive
+PL581	n	cds	no	gang	conservative
+PL652	n	cds	no	prosię	conservative
+PL2226	n	is	yes	golas	inclusive
+PL372	n	rci	yes	prymityw	conservative
+PL268	n	or	no	shithead	conservative
+PL3153	n	dmc	yes	chudzina	inclusive
+PL347	n	cds	no	opryszek	conservative
+PL2118	n	dmc	yes	wałkoń	conservative
+PL1634	n	cds	no	towot	inclusive
+PL3787	n	asm	no	awifauny	inclusive
+PL3693	n	re	no	napaść na tle seksualnym	inclusive
+PL1138	n	an	no	wulgarności	conservative
+PL1646	n	cds	no	natłuścić	inclusive
+PL584	n	cds	no	siatka	inclusive
+PL1491	n	cds	no	figlarz	conservative
+PL3517	n	cds	no	rozbój	inclusive
+PL3499	a	cds	no	zjełczały	inclusive
+PL643	n	cds	no	bydlę	conservative
+PL339	a	svp	no	chciwy	inclusive
+PL3368	n	cds	no	religijności	inclusive
+PL249	n	ddp	yes	głupiec	conservative
+PL2624	n	cds	no	nieporządek	conservative
+PL3135	n	dmc	yes	homunculus	inclusive
+PL676	n	cds	no	chujoza	conservative
+PL2529	n	svp	no	gorger	conservative
+PL2885	n	cds	no	świętą relikwię	inclusive
+PL449	n	or	no	pillock	conservative
+PL3420	n	an	no	kurczaka	inclusive
+PL1932	n	cds	no	wystarczy jeden	conservative
+PL2721	n	dmc	yes	mozzarella	inclusive
+PL2129	n	cds	no	zacofaniec	conservative
+PL3676	n	an	no	bazyliszek	conservative
+PL1582	n	an	no	grabieżca	inclusive
+PL883	n	an	no	villainess	conservative
+PL632	n	qas	no	top executive	inclusive
+PL993	n	ps	yes	imbecylu	conservative
+PL3455	a	qas	no	nieoryginalny	inclusive
+PL452	n	asm	no	pustak	conservative
+PL418	n	an	no	hiena	inclusive
+PL257	n	asf	no	głup	conservative
+PL209	n	an	no	fauna	inclusive
+PL3120	n	re	no	wycieńczanie	inclusive
+PL1275	n	om	no	pedał	conservative
+PL1539	n	dmc	yes	oszustwa	conservative
+PL853	n	cds	no	lowlife	conservative
+PL2289	n	cds	no	pospólstwa	conservative
+PL3211	v	re	no	sprzeniewierzyć	inclusive
+PL1863	n	dmc	yes	rozrzutni	inclusive
+PL1230	n	asm	no	grzmocenie się	conservative
+PL2115	n	svp	no	good-for-zero	conservative
+PL1709	n	om	no	pośladki	inclusive
+PL1115	n	svp	no	oszczędność	inclusive
+PL2389	n	ddf	yes	niedołężność	inclusive
+PL1401	n	asm	no	credulousness	conservative
+PL1516	v	asm	no	ośmieszać	inclusive
+PL3134	n	cds	no	homunkulusy	inclusive
+PL3454	a	qas	no	przeciętny	inclusive
+PL1770	n	svp	no	ravenousness	conservative
+PL1623	n	ps	yes	boche	conservative
+PL369	n	rci	yes	wieśniak	conservative
+PL102	a	an	no	mocny	inclusive
+PL507	n	re	no	kanciarz	inclusive
+PL1543	n	dmc	yes	szachrajstwo	conservative
+PL719	n	cds	no	bragger	conservative
+PL3127	n	re	no	pozałatwiać	inclusive
+PL721	n	cds	no	pępol	conservative
+PL1503	n	cds	no	dastardliness	conservative
+PL3397	a	cds	no	błyskotliwy	inclusive
+PL493	n	pr	no	wycieruch	conservative
+PL3631	n	cds	no	fujara	conservative
+PL2464	n	cds	no	kawalarz	inclusive
+PL2619	n	cds	no	nieład	conservative
+PL2789	n	qas	no	autoinfection	inclusive
+PL731	n	qas	no	konformistyczne	conservative
+PL1207	n	cds	no	ścieśnić się	inclusive
+PL1343	v	cds	no	wybełkotać	inclusive
+PL1660	n	svp	no	niechęć	inclusive
+PL92	n	pa	yes	akademizm	inclusive
+PL2167	n	an	no	Świnia domowa	inclusive
+PL1639	n	cds	no	smolić	inclusive
+PL1959	n	cds	no	wangler	conservative
+PL2005	n	cds	no	wolnomularz	inclusive
+PL1553	n	cds	no	demagoga	conservative
+PL2224	n	pr	no	skurwysyństwo	inclusive
+PL613	n	cds	no	pleciuga	conservative
+PL344	n	dmc	yes	zbir	conservative
+PL446	n	or	no	pudden-head	conservative
+PL901	a	dmc	yes	niegodziwy	conservative
+PL3058	n	asf	no	bzdet	inclusive
+PL470	n	pr	no	lady przyjemności	conservative
+PL3739	v	re	no	skatować	inclusive
+PL1031	n	re	no	libeler	conservative
+PL2654	n	cds	no	żyleta	conservative
+PL2651	n	or	no	punctiliousness	inclusive
+PL1176	n	an	no	culex pipiens	inclusive
+PL3404	n	re	no	plagiarization	inclusive
+PL1605	n	re	no	zbrodnia	inclusive
+PL368	n	cds	no	barbarzyńców	conservative
+PL471	n	pr	no	kurwiszcze	conservative
+PL2815	n	svp	no	penny-szczypiący	inclusive
+PL2732	n	svp	no	nieczystość	inclusive
+PL3891	a	cds	no	gruby	conservative
+PL3541	a	om	no	wieloraki	inclusive
+PL1572	n	qas	no	wykolejeniec	conservative
+PL880	n	qas	no	tałałajstwo	inclusive
+PL1820	n	an	no	Ślimaki lądowe w kuchni	inclusive
+PL2313	n	svp	no	przejadanie	inclusive
+PL2765	n	an	no	syczek krzykliwy	inclusive
+PL840	n	cds	no	pycha	inclusive
+PL518	n	cds	no	wytworniś	inclusive
+PL854	n	cds	no	tak a tak	conservative
+PL1725	n	svp	no	gourmandizer	conservative
+PL328	n	asm	no	bzdury	inclusive
+PL2299	n	qas	no	malarz	inclusive
+PL1796	a	qas	no	obłąkany	conservative
+PL3525	n	re	no	napadowa	inclusive
+PL360	n	ddp	yes	gbur	conservative
+PL2142	v	asm	no	przespać się	conservative
+PL1127	n	qas	no	falować	inclusive
+PL2613	a	svp	no	gniewny	inclusive
+PL1463	n	cds	no	sonny boy	inclusive
+PL2548	n	an	no	owad	inclusive
+PL1852	a	is	yes	smutny	inclusive
+PL3194	n	cds	no	dorobkiewicz	inclusive
+PL1291	n	ddp	yes	obmówca	conservative
+PL3486	a	cds	no	demagogiczny	conservative
+PL723	n	cds	no	dogmatyzm	conservative
+PL3334	n	cds	no	plotkowanie	inclusive
+PL2193	n	re	no	przywłaszczenie	inclusive
+PL3747	n	pa	yes	białe kołnierzyki	inclusive
+PL1888	n	cds	no	zelotyzm	conservative
+PL360	n	cds	no	gbur	conservative
+PL1788	n	qas	no	amator	inclusive
+PL403	n	an	no	pies	inclusive
+PL1060	n	ddp	yes	stan trzeci	conservative
+PL668	n	cds	no	chuj	conservative
+PL1002	n	an	no	pizda	conservative
+PL164	n	an	no	folderol	conservative
+PL339	a	svp	no	chciwy	conservative
+PL2072	n	asf	no	pochwy	conservative
+PL331	n	qas	no	jajo	inclusive
+PL1348	n	cds	no	szarlatan	conservative
+PL154	n	asm	no	cyfrowy	inclusive
+PL2662	n	cds	no	szalety	inclusive
+PL897	a	ddf	yes	podły	conservative
+PL1040	n	cds	no	chiseller	inclusive
+PL1554	n	cds	no	demagogia	conservative
+PL2328	n	cds	no	klown	conservative
+PL1323	n	an	no	strachoput	conservative
+PL3670	a	is	yes	biedny	inclusive
+PL973	n	an	no	cienias	conservative
+PL2199	n	re	no	kradzieży	inclusive
+PL1077	n	om	no	pederasta	conservative
+PL1887	n	cds	no	fanatyzmu	conservative
+PL795	n	cds	no	chłopi	inclusive
+PL3527	n	re	no	captor	inclusive
+PL1632	n	cds	no	obsceniczność	inclusive
+PL2445	n	cds	no	splashiness	inclusive
+PL1545	n	dmc	yes	macherka	conservative
+PL1298	n	an	no	macha	inclusive
+PL2875	n	cds	no	superbia	conservative
+PL1440	n	cds	no	krzyżówki genetyczne	inclusive
+PL855	n	cds	no	dirty dog	conservative
+PL902	a	ddf	yes	nieprawy	conservative
+PL2338	n	cds	no	crooner	inclusive
+PL3876	a	cds	no	gburowaty	conservative
+PL127	n	svp	no	próżniactwo	inclusive
+PL646	n	cds	no	niechlujnie osoba	conservative
+PL3279	v	cds	no	pożreć qualifier	inclusive
+PL1303	n	an	no	twarz	inclusive
+PL316	n	cds	no	burdel	inclusive
+PL726	n	dmc	yes	fałszywiec	inclusive
+PL967	n	dmc	yes	paria	inclusive
+PL1278	n	om	no	geje	inclusive
+PL839	n	cds	no	nieskromność	conservative
+PL876	n	cds	no	motłoch	inclusive
+PL2598	a	svp	no	zazdrosny	conservative
+PL2125	n	cds	no	reakcyjny	conservative
+PL3303	n	dmc	yes	pędziwiatr	conservative
+PL255	n	an	no	dureń	conservative
+PL2573	n	cds	no	swachna	inclusive
+PL237	n	or	no	baśka	inclusive
+PL2755	n	re	no	mafiozo	inclusive
+PL1331	v	cds	no	stukotać	inclusive
+PL1062	n	qas	no	ragtag	conservative
+PL301	n	ddp	yes	papla	inclusive
+PL368	n	ddp	yes	barbarzyńców	conservative
+PL1746	n	cds	no	wiele	inclusive
+PL3634	n	cds	no	drugi rater	conservative
+PL1757	n	dmc	yes	chachar	inclusive
+PL3526	n	re	no	więźniem	inclusive
+PL2094	n	asf	no	włosy krocze	inclusive
+PL825	n	cds	no	pychy	conservative
+PL560	a	cds	no	durny	conservative
+PL2863	n	svp	no	ambicja	inclusive
+PL597	n	cds	no	banita	conservative
+PL525	n	cds	no	fircyk	inclusive
+PL2402	n	ddp	yes	hokum	conservative
+PL2020	n	an	no	boczyć się	inclusive
+PL253	n	ddp	yes	saphead	conservative
+PL3729	n	re	no	udręczenie	inclusive
+PL2746	n	cds	no	glina	conservative
+PL344	n	dmc	yes	zbir	inclusive
+PL3649	n	ddp	yes	głuptaś	conservative
+PL248	n	asf	no	osioł	conservative
+PL3134	n	dmc	yes	homunkulusy	inclusive
+PL2696	n	cds	no	moneygrubber	inclusive
+PL456	n	ps	yes	tłuk	conservative
+PL3363	n	an	no	phthiraptera	inclusive
+PL57	n	cds	no	agent	inclusive
+PL763	n	an	no	woły	inclusive
+PL720	n	cds	no	zadufek	conservative
+PL3019	n	ps	yes	negro	inclusive
+PL1082	n	cds	no	ognisko rodzinne	inclusive
+PL3662	a	is	yes	żałosny	conservative
+PL1061	n	ddp	yes	dziadostwo	conservative
+PL373	n	rci	yes	żłób	conservative
+PL1763	n	ps	yes	murzyn	conservative
+PL365	n	ddp	yes	cham	conservative
+PL248	n	ps	yes	osioł	conservative
+PL3804	n	cds	no	conspiracism	inclusive
+PL3628	n	dmc	yes	patałach	conservative
+PL796	n	pa	yes	chłop	inclusive
+PL3219	n	qas	no	troubler	conservative
+PL2392	n	ddp	yes	arsehole	conservative
+PL374	n	qas	no	nieokrzesaniec	conservative
+PL2009	n	cds	no	mularstwo	inclusive
+PL2105	n	an	no	komar	inclusive
+PL1156	n	cds	no	zakłócić	conservative
+PL451	n	ps	yes	pustogłów	conservative
+PL3062	n	asf	no	gówienko	inclusive
+PL1386	n	svp	no	tan.hā	inclusive
+PL243	n	asf	no	głupstwo	inclusive
+PL1505	v	asm	no	pożerać	inclusive
+PL1924	n	is	yes	margines społeczny	inclusive
+PL3308	n	dmc	yes	utracjusz	conservative
+PL1053	n	cds	no	zuchwałość	conservative
+PL2646	n	or	no	precyzyjność	inclusive
+PL2447	n	cds	no	górnolotność	conservative
+PL1949	n	dmc	yes	nieprzyjemnego zapachu	conservative
+PL3472	a	cds	no	bojaźliwy	conservative
+PL151	n	qas	no	mieszają-magiel	inclusive
+PL972	n	cds	no	słabiak	conservative
+PL1318	n	an	no	moo-cow	inclusive
+PL3138	n	ddf	yes	ślepak	inclusive
+PL1328	n	cds	no	tchórzostwo	conservative
+PL1680	n	om	no	ogonowej zabezpieczeń	inclusive
+PL1005	n	asf	no	pipa	conservative
+PL2120	n	svp	no	goof-off	conservative
+PL133	n	an	no	leniuch	conservative
+PL881	n	cds	no	nikczemny	conservative
+PL436	n	cds	no	baran	conservative
+PL2294	n	cds	no	hierarcha	inclusive
+PL725	n	cds	no	dogmatyczność	conservative
+PL2354	a	dmc	yes	ciasny	conservative
+PL977	n	cds	no	mizerota	conservative
+PL2812	n	an	no	papuga	conservative
+PL2457	n	cds	no	kształciciel	inclusive
+PL2017	n	cds	no	wolnomularze	inclusive
+PL2539	n	cds	no	shylock	conservative
+PL2699	n	ps	yes	mongołka	inclusive
+PL997	n	ps	yes	debilizm	conservative
+PL3209	v	re	no	zawłaszczać	inclusive
+PL3453	a	cds	no	zwykły	inclusive
+PL986	n	cds	no	zdechlactwo	conservative
+PL3326	n	cds	no	szeptanka	inclusive
+PL351	n	cds	no	rozbójnictwo	inclusive
+PL1010	n	an	no	wilczyca	inclusive
+PL513	n	cds	no	clotheshorse	inclusive
+PL164	n	cds	no	folderol	conservative
+PL386	n	pa	yes	adwokatów	inclusive
+PL450	n	cds	no	ćwok	conservative
+PL1850	n	cds	no	biedaczyna	conservative
+PL3554	n	qas	no	wielkościowe	inclusive
+PL956	n	an	no	wielkich białych rekinów	inclusive
+PL825	n	cds	no	pychy	inclusive
+PL1025	n	re	no	zniesławienia	inclusive
+PL879	n	qas	no	rozbicie	inclusive
+PL1523	v	asm	no	wykpiwać	inclusive
+PL1541	n	dmc	yes	oszukaństwo	conservative
+PL593	n	is	yes	złoczyńca	conservative
+PL1993	n	cds	no	wesołek	inclusive
+PL370	n	ddp	yes	parobas	conservative
+PL1860	n	dmc	yes	libertyn	conservative
+PL2206	n	re	no	skradzione mienie	inclusive
+PL2463	n	svp	no	nietolerancja	inclusive
+PL1819	n	an	no	escargots	inclusive
+PL2749	n	re	no	mafioso	conservative
+PL820	n	cds	no	egotysta	conservative
+PL3457	a	cds	no	pospolity	conservative
+PL2615	a	svp	no	choleryczny	conservative
+PL2977	n	an	no	midge	inclusive
+PL2533	n	cds	no	sharking kredytu	inclusive
+PL477	n	pr	no	kurtyzana	conservative
+PL264	n	ddp	yes	dumbass	conservative
+PL764	n	an	no	wołów	inclusive
+PL251	n	cds	no	głupek	inclusive
+PL591	n	is	yes	łobuz	conservative
+PL221	n	cds	no	zmyślność	inclusive
+PL3439	a	ps	yes	wrony	inclusive
+PL2328	n	dmc	yes	klown	inclusive
+PL520	n	cds	no	elegantów	inclusive
+PL257	n	an	no	głup	conservative
+PL128	n	svp	no	bezwład	conservative
+PL716	n	cds	no	line-shooter	conservative
+PL614	n	qas	no	łajdactwo	inclusive
+PL3564	a	dmc	yes	fałszywe	conservative
+PL3689	n	re	no	debaucher	conservative
+PL2055	n	cds	no	faszystów	conservative
+PL611	n	ddp	yes	plociuch	conservative
+PL1349	n	cds	no	hochsztapler	conservative
+PL280	n	an	no	ignorant	conservative
+PL152	n	cds	no	miszmasz	inclusive
+PL1219	n	svp	no	ciągoty	inclusive
+PL3318	n	cds	no	podbudowanie	inclusive
+PL50	n	re	no	nadużywać	inclusive
+PL1005	n	or	no	pipa	conservative
+PL2780	n	qas	no	hematofag	inclusive
+PL2534	n	cds	no	lichwiarza	conservative
+PL980	n	an	no	mięczak	conservative
+PL648	n	cds	no	paskuda	conservative
+PL3423	n	an	no	poulet	inclusive
+PL2934	n	ddp	yes	microcephalus	inclusive
+PL3639	n	an	no	szakale	inclusive
+PL255	n	or	no	dureń	conservative
+PL2362	n	re	no	urwipołeć	inclusive
+PL1455	n	re	no	ukrzyżowanie	inclusive
+PL1387	n	an	no	wampira	conservative
+PL2878	n	cds	no	szczeniak	conservative
+PL3498	n	pa	yes	rewizor	inclusive
+PL547	n	cds	no	begardzi	inclusive
+PL509	n	cds	no	kłamstwo	conservative
+PL343	n	re	no	oprych	inclusive
+PL792	n	qas	no	chłopów	inclusive
+PL242	n	an	no	wariactwo	conservative
+PL3048	n	cds	no	nadmierny popęd seksualny	conservative
+PL3371	n	cds	no	religiousism	inclusive
+PL481	n	an	no	prostytutka	conservative
+PL509	n	dmc	yes	kłamstwo	inclusive
+PL3288	v	cds	no	skrobać	inclusive
+PL741	n	qas	no	partacz	conservative
+PL3777	n	pr	no	hetery	inclusive
+PL1121	n	svp	no	minginess	conservative
+PL3060	n	asf	no	techniczny szczegół	inclusive
+PL250	n	asf	no	prostak	conservative
+PL3880	a	cds	no	trywialny	conservative
+PL1325	n	cds	no	strachajło	conservative
+PL430	n	ddp	yes	frajer	conservative
+PL2272	n	ps	yes	żyd	inclusive
+PL299	n	is	yes	dusigrosz	conservative
+PL2855	n	is	yes	biedacy	inclusive
+PL2931	n	ddp	yes	małogłowie	inclusive
+PL3212	v	re	no	defraudować	inclusive
+PL3505	n	re	no	porwać	inclusive
+PL312	n	cds	no	zamtuz	inclusive
+PL572	n	cds	no	gangów ulicznych	conservative
+PL3165	n	qas	no	don	inclusive
+PL2290	n	cds	no	lud	inclusive
+PL1908	n	qas	no	robotnik rolny	inclusive
+PL2837	a	dmc	yes	łajdacki	conservative
+PL1515	v	asm	no	nabijać się	inclusive
+PL990	n	ddp	yes	podmieńca	conservative
+PL3841	n	re	no	przemoc	inclusive
+PL135	n	qas	no	partner w zbrodni	inclusive
+PL1901	n	pr	no	miłośnica	conservative
+PL324	n	svp	no	centuś	conservative
+PL1897	n	cds	no	alfons	conservative
+PL673	n	or	no	cwel	conservative
+PL650	n	cds	no	flejtuch	conservative
+PL2540	n	cds	no	szajlok	conservative
+PL1934	n	cds	no	fortel	conservative
+PL2236	n	is	yes	chudopachołek	inclusive
+PL2918	n	an	no	mikroorganizm	inclusive
+PL2289	n	cds	no	pospólstwa	inclusive
+PL359	n	cds	no	burek	conservative
+PL2704	n	cds	no	moralizatorstwo	inclusive
+PL3407	n	re	no	piratów	inclusive
+PL1520	v	asm	no	prowadzić korespondencję	inclusive
+PL1578	n	asf	no	prostaczek	conservative
+PL3118	n	re	no	zabójczyni	inclusive
+PL2723	n	an	no	niezaradny	conservative
+PL1858	n	dmc	yes	libertynizmu	conservative
+PL677	n	cds	no	fiut	conservative
+PL64	n	pa	yes	akademicki	inclusive
+PL3001	a	cds	no	egoistyczny	conservative
+PL2256	n	om	no	gayness	inclusive
+PL201	n	an	no	infauna	inclusive
+PL2690	n	cds	no	latryny	inclusive
+PL3844	n	an	no	vipera	inclusive
+PL345	n	re	no	rzezimieszek	inclusive
+PL2145	v	asm	no	grzeszyć	conservative
+PL2237	n	om	no	gejem	inclusive
+PL965	n	dmc	yes	parias	inclusive
+PL444	n	asm	no	kretyn	inclusive
+PL3291	v	cds	no	mazać	inclusive
+PL2519	n	cds	no	warunkować	conservative
+PL667	n	ddp	yes	kutafon	conservative
+PL2156	n	an	no	gęsię	inclusive
+PL872	n	cds	no	rozgromienie	conservative
+PL2577	n	asm	no	grucha	inclusive
+PL1000	n	an	no	pinda	conservative
+PL3457	a	cds	no	pospolity	inclusive
+PL2952	n	asm	no	flouter	conservative
+PL3852	n	dmc	yes	zaprzaniec	conservative
+PL1317	n	ddp	yes	informator	conservative
+PL3263	n	or	no	murphy	inclusive
+PL3266	n	or	no	kartofel	inclusive
+PL2613	a	ps	yes	gniewny	inclusive
+PL3056	n	asf	no	pierdółka	inclusive
+PL235	n	or	no	bonce	inclusive
+PL463	n	pr	no	wycierus	conservative
+PL2362	n	dmc	yes	urwipołeć	inclusive
+PL1272	n	or	no	dziwny	conservative
+PL1609	n	an	no	diddly-squat	conservative
+PL738	n	dmc	yes	brakorób	conservative
+PL517	n	cds	no	dandyzm	inclusive
+PL714	n	qas	no	boo-boo	inclusive
+PL7	n	svp	no	acedia	inclusive
+PL1146	n	an	no	cholera	inclusive
+PL254	n	asm	no	błaznować	conservative
+PL1447	n	cds	no	mieszańca sztucznie	inclusive
+PL359	n	qas	no	burek	conservative
+PL512	n	cds	no	fałsz	inclusive
+PL163	n	ddp	yes	codswallop	conservative
+PL1172	n	cds	no	bale-up	inclusive
+PL2368	n	dmc	yes	urwis	inclusive
+PL3173	n	an	no	lapsus	inclusive
+PL2456	n	cds	no	nauczycielka	inclusive
+PL1006	n	or	no	cipa	conservative
+PL1278	n	or	no	geje	conservative
+PL955	n	an	no	carcharias verus	inclusive
+PL2342	n	asf	no	dziewucha	conservative
+PL63	n	pa	yes	akademik	inclusive
+PL2508	a	dmc	yes	ociągający się	conservative
+PL887	n	cds	no	gruchot	inclusive
+PL137	n	cds	no	wybryk	inclusive
+PL349	n	cds	no	zbój	conservative
+PL2258	n	om	no	samej płci	inclusive
+PL761	n	pr	no	krów	inclusive
+PL2501	n	svp	no	rozpusta	inclusive
+PL1408	n	an	no	athene noctua	inclusive
+PL2369	n	cds	no	bisurman	inclusive
+PL159	a	svp	no	zaczepny	conservative
+PL2115	n	dmc	yes	good-for-zero	conservative
+PL3379	n	cds	no	szarpanie	conservative
+PL3485	a	ddf	yes	kulejący	inclusive
+PL2791	n	qas	no	pasożytów wewnętrznych	inclusive
+PL340	a	svp	no	pazerny	conservative
+PL2971	n	pr	no	socialite	inclusive
+PL2724	n	an	no	ślamazara	conservative
+PL374	n	ps	yes	nieokrzesaniec	conservative
+PL1101	n	cds	no	pokrewny	inclusive
+PL315	n	cds	no	dom złej reputacji	inclusive
+PL150	n	cds	no	drobiazgi	inclusive
+PL2517	n	cds	no	blaga	inclusive
+PL3662	a	qas	no	żałosny	conservative
+PL1613	n	an	no	diddly	conservative
+PL300	n	cds	no	gaduła	conservative
+PL331	n	asm	no	jajo	inclusive
+PL1500	n	om	no	dama	inclusive
+PL2345	n	cds	no	bałwochwalcami	inclusive
+PL1357	n	cds	no	szrot	conservative
+PL3272	n	or	no	pyra	inclusive
+PL1584	n	an	no	despoiler	inclusive
+PL439	n	ddp	yes	idiota	conservative
+PL886	n	cds	no	rzęch	inclusive
+PL3586	v	re	no	ukraść	inclusive
+PL2935	n	ddp	yes	nanocephaly	inclusive
+PL484	n	pr	no	bladź	conservative
+PL751	n	an	no	bestialstwa	conservative
+PL1856	n	dmc	yes	libertynizm	conservative
+PL3390	a	svp	no	butny	conservative
+PL1868	n	dmc	yes	rozrzutny	inclusive
+PL373	n	cds	no	żłób	conservative
+PL654	n	ps	yes	mieszaniec	conservative
+PL949	n	an	no	squalus vulgaris	inclusive
+PL1225	n	dmc	yes	dupa	conservative
+PL2813	n	svp	no	oszędność	inclusive
+PL1029	n	re	no	fałszywych oskarżeń	inclusive
+PL2327	n	cds	no	komediant	conservative
+PL1734	n	pa	yes	przestrojnik titonus	inclusive
+PL4	n	dmc	yes	spodlenie	inclusive
+PL2304	a	svp	no	łapczywy	conservative
+PL2174	n	cds	no	pisarczyk	conservative
+PL3148	n	dmc	yes	nieszczęśnik	inclusive
+PL253	n	asf	no	saphead	conservative
+PL3293	v	cds	no	pogrzebać	inclusive
+PL251	n	asm	no	głupek	inclusive
+PL2159	n	an	no	fulvus	inclusive
+PL908	n	an	no	żołądek	inclusive
+PL391	n	pa	yes	palestrant	inclusive
+PL3699	n	re	no	seksualne	inclusive
+PL2965	n	ps	yes	mongoloids	conservative
+PL255	n	ps	yes	dureń	conservative
+PL2566	n	asm	no	bordowy	inclusive
+PL271	n	or	no	tępak	conservative
+PL271	n	an	no	tępak	conservative
+PL2238	n	om	no	gejów	inclusive
+PL3723	n	ddp	yes	mruk	conservative
+PL2195	n	cds	no	ukradzenie	inclusive
+PL2893	n	qas	no	retorycznie	inclusive
+PL636	n	qas	no	potentat	inclusive
+PL1028	n	re	no	calunnia	inclusive
+PL3128	n	re	no	uśmiercenie	inclusive
+PL930	n	cds	no	kawalkada	inclusive
+PL1923	n	is	yes	wykluczenie	inclusive
+PL373	n	pa	yes	żłób	conservative
+PL3746	n	an	no	swallower balonu	inclusive
+PL432	n	ddp	yes	spaść faceta	conservative
+PL269	n	ddp	yes	fuckhead	conservative
+PL61	n	pa	yes	społeczności akademickiej	inclusive
+PL118	n	om	no	penetracji analnej	inclusive
+PL2139	v	asm	no	sypiać	conservative
+PL2135	v	asm	no	jebać	conservative
+PL2190	n	re	no	zawłaszczenie	inclusive
+PL2363	n	re	no	ananas	inclusive
+PL2714	n	an	no	frenatae	inclusive
+PL3447	a	ps	yes	chiński	inclusive
+PL990	n	asm	no	podmieńca	inclusive
+PL3745	v	re	no	zadręczać	inclusive
+PL1622	n	pa	yes	dyplomata	inclusive
+PL640	n	an	no	król	inclusive
+PL198	n	ddp	yes	fauny	inclusive
+PL3812	n	an	no	krówsko	conservative
+PL3488	n	pr	no	latawica	conservative
+PL1468	n	asf	no	cipsko	conservative
+PL225	n	or	no	bańka	inclusive
+PL1019	n	re	no	oszczerstwo	inclusive
+PL146	n	qas	no	farrago	inclusive
+PL2188	n	re	no	złodziejem	inclusive
+PL3003	n	ps	yes	nigra	conservative
+PL569	n	svp	no	dewota	conservative
+PL2679	n	cds	no	klop	inclusive
+PL1745	n	cds	no	scads	inclusive
+PL2537	n	cds	no	lichwiarzy	conservative
+PL1964	n	asm	no	pterygiophore	inclusive
+PL1283	n	om	no	homo	inclusive
+PL3708	n	cds	no	conventicles	inclusive
+PL1521	v	asm	no	korespondować	inclusive
+PL2449	n	cds	no	bombastyczność	inclusive
+PL460	n	asm	no	głąb	conservative
+PL3829	n	cds	no	caitiff	conservative
+PL656	n	dmc	yes	błazen	inclusive
+PL3267	n	or	no	tater	inclusive
+PL3633	n	cds	no	średniak	conservative
+PL595	n	dmc	yes	zakazane	inclusive
+PL3190	n	cds	no	nowobogacz	inclusive
+PL1870	n	ddf	yes	niepełnosprawny	inclusive
+PL599	n	cds	no	bandytów	conservative
+PL204	n	ddp	yes	metazoans	inclusive
+PL1077	n	om	no	pederasta	inclusive
+PL1306	n	an	no	pyszczek	inclusive
+PL3768	n	om	no	krzyż dressing	inclusive
+PL1896	n	cds	no	naganiacz	inclusive
+PL796	n	qas	no	chłop	inclusive
+PL1275	n	or	no	pedał	conservative
+PL1394	n	an	no	zalotnica	conservative
+PL2028	n	an	no	wściekłość	inclusive
+PL3221	n	qas	no	trouble maker	conservative
+PL3381	n	cds	no	onania	conservative
+PL2369	n	cds	no	bisurman	conservative
+PL443	n	cds	no	okład wilgotny z lekiem	conservative
+PL3603	n	an	no	euhirudinea	inclusive
+PL2511	n	cds	no	lipa	inclusive
+PL1290	n	cds	no	rumourmonger	conservative
+PL753	n	an	no	złośliwość	conservative
+PL2523	n	cds	no	leżeć	conservative
+PL2543	n	an	no	robak	inclusive
+PL73	n	qas	no	nieprofesjonalność	conservative
+PL127	n	svp	no	próżniactwo	conservative
+PL3686	n	ddp	yes	absurd	inclusive
+PL783	n	asm	no	brownness	inclusive
+PL69	n	qas	no	amatorstwo	conservative
+PL3781	n	asm	no	roosting	inclusive
+PL3392	a	svp	no	wyniosły	conservative
+PL269	n	or	no	fuckhead	conservative
+PL865	n	dmc	yes	nierób	conservative
+PL2914	n	an	no	rekiny	inclusive
+PL437	n	ps	yes	półgłupek	conservative
+PL1445	n	ps	yes	metys	conservative
+PL203	n	an	no	animować bycia	inclusive
+PL555	n	dmc	yes	łgarz	conservative
+PL764	n	pr	no	wołów	inclusive
+PL3222	n	qas	no	mąciwoda	conservative
+PL1624	n	ps	yes	kraut	conservative
+PL1766	n	cds	no	kopacz	inclusive
+PL1068	n	an	no	familiaris	inclusive
+PL263	n	an	no	bałwan	conservative
+PL267	n	asf	no	pusta głowa	conservative
+PL798	n	qas	no	włościanin	inclusive
+PL3448	a	cds	no	biurowy	inclusive
+PL1631	n	cds	no	zawalać	inclusive
+PL1325	n	an	no	strachajło	conservative
+PL1767	n	ddf	yes	nanus	conservative
+PL2183	n	an	no	konię	inclusive
+PL727	n	dmc	yes	obłudnik	conservative
+PL2446	n	cds	no	ostentacja	inclusive
+PL357	n	rci	yes	wiochmen	conservative
+PL3799	n	cds	no	raubritterzy	inclusive
+PL990	n	asf	no	podmieńca	conservative
+PL1850	n	dmc	yes	biedaczyna	conservative
+PL26	n	qas	no	akolitów	inclusive
+PL3140	n	dmc	yes	trickster	conservative
+PL3216	v	asm	no	malwersować	conservative
+PL566	n	dmc	yes	bigoteria	conservative
+PL677	n	asm	no	fiut	conservative
+PL699	n	cds	no	ślepa ulica	inclusive
+PL2360	n	re	no	huncwot	inclusive
+PL3711	n	cds	no	trasformismo	inclusive
+PL1107	n	an	no	capra	inclusive
+PL3009	n	ps	yes	afrykańczycy	inclusive
+PL3337	n	cds	no	wyjaśnienie	inclusive
+PL677	n	ddp	yes	fiut	conservative
+PL2189	n	re	no	kradzież	inclusive
+PL2872	n	svp	no	wyższość	conservative
+PL3669	a	is	yes	ubogi	inclusive
+PL2555	n	cds	no	pyskowanie	inclusive
+PL1714	n	cds	no	chytrus	conservative
+PL3817	n	an	no	rouncey	inclusive
+PL2854	n	is	yes	biedny	inclusive
+PL1109	n	an	no	mleka koziego	inclusive
+PL2987	n	dmc	yes	pigmej	conservative
+PL809	n	om	no	zoofil	inclusive
+PL266	n	asf	no	muttonhead	conservative
+PL3000	n	cds	no	samoubóstwienie	inclusive
+PL2514	n	qas	no	łgarstwo	conservative
+PL448	n	ps	yes	imbecyl	conservative
+PL853	n	dmc	yes	lowlife	conservative
+PL1843	n	cds	no	zbłąkana owieczka	conservative
+PL1995	n	dmc	yes	motley fool	inclusive
+PL3433	n	cds	no	dzidziuś	inclusive
+PL3050	n	cds	no	nimfoman	conservative
+PL713	n	qas	no	boner	inclusive
+PL709	n	qas	no	flub	inclusive
+PL362	n	cds	no	kałmuk	conservative
+PL867	n	dmc	yes	leniuszek	conservative
+PL205	n	ddp	yes	metazoa	inclusive
+PL1741	n	cds	no	mnóstwo	inclusive
+PL361	n	cds	no	neandertalczyk	conservative
+PL37	n	re	no	nadużycia finansowe	inclusive
+PL1960	n	cds	no	finagler	conservative
+PL2826	a	dmc	yes	niehumanitarny	conservative
+PL1279	n	or	no	homoseksualista	conservative
+PL1011	n	an	no	lisica	inclusive
+PL2419	n	is	yes	bieda	inclusive
+PL3271	n	or	no	bałaban	inclusive
+PL3247	v	cds	no	okryć się	inclusive
+PL261	n	or	no	nieuk	conservative
+PL3340	n	is	yes	obdartus	conservative
+PL593	n	cds	no	złoczyńca	inclusive
+PL244	a	cds	no	niemądry	conservative
+PL70	n	cds	no	dyletantyzm	conservative
+PL1119	n	svp	no	niggardliness	conservative
+PL580	n	cds	no	wojny gangów	conservative
+PL3287	v	cds	no	wymazywać	inclusive
+PL593	n	dmc	yes	złoczyńca	conservative
+PL2588	n	asm	no	członek	inclusive
+PL309	n	cds	no	cathouse	inclusive
+PL39	n	re	no	nadużyciom korporacyjnych	inclusive
+PL591	n	re	no	łobuz	inclusive
+PL3300	n	dmc	yes	lekkomyślnik	conservative
+PL122	n	om	no	sodomized	inclusive
+PL2940	n	asm	no	tępota	conservative
+PL2247	n	om	no	tribadia	inclusive
+PL3160	n	ps	yes	vandal	inclusive
+PL1835	n	dmc	yes	moralność	inclusive
+PL405	n	an	no	piesio	inclusive
+PL1002	n	asf	no	pizda	conservative
+PL1062	n	an	no	ragtag	conservative
+PL3602	n	an	no	bloodsucker	inclusive
+PL3618	n	an	no	prusak	inclusive
+PL583	n	cds	no	banda	inclusive
+PL3721	n	an	no	caimaninae	inclusive
+PL1040	n	dmc	yes	chiseller	conservative
+PL2970	n	pr	no	ekonomista	inclusive
+PL429	n	cds	no	intelektualistka	inclusive
+PL2754	n	re	no	mafii	inclusive
+PL2150	a	cds	no	nielegalny	inclusive
+PL676	n	ddp	yes	chujoza	conservative
+PL975	n	an	no	chuchrak	conservative
+PL1710	n	om	no	okolica pośladkowa	inclusive
+PL2625	n	cds	no	obijać się	conservative
+PL3059	n	asf	no	błahostka	inclusive
+PL335	n	asm	no	jajco	inclusive
+PL3551	n	cds	no	apple polerka	conservative
+PL1283	n	om	no	homo	conservative
+PL2202	n	re	no	szaber	inclusive
+PL3111	n	re	no	zgładzenie	inclusive
+PL1825	n	qas	no	amatorów	inclusive
+PL1192	n	or	no	brassica oleraceae	inclusive
+PL443	n	ddp	yes	okład wilgotny z lekiem	conservative
+PL342	n	qas	no	balast	inclusive
+PL3114	n	re	no	zabójstw	inclusive
+PL349	n	cds	no	zbój	inclusive
+PL1297	n	an	no	fizis	inclusive
+PL1519	v	asm	no	natrząsać się	inclusive
+PL2700	n	ps	yes	mongoł	inclusive
+PL933	n	an	no	Żarłacz biały	inclusive
+PL1775	n	an	no	winniczek	inclusive
+PL1993	n	dmc	yes	wesołek	inclusive
+PL875	n	dmc	yes	granda	conservative
+PL2609	n	svp	no	zły	inclusive
+PL997	n	asf	no	debilizm	conservative
+PL857	n	dmc	yes	włóczęga	inclusive
+PL3038	n	ps	yes	hiszpanie	inclusive
+PL960	n	cds	no	zdechlina	inclusive
+PL329	n	asm	no	jąder	inclusive
+PL1135	n	cds	no	zamącić	conservative
+PL527	n	cds	no	elegancik	inclusive
+PL433	n	an	no	soft touch	conservative
+PL3112	n	re	no	zabijaniu	inclusive
+PL2363	n	cds	no	ananas	conservative
+PL1095	n	cds	no	ognisko domowe	inclusive
+PL106	a	an	no	niewzruszony	inclusive
+PL3240	v	cds	no	zawlec się	inclusive
+PL675	n	cds	no	piździelec	conservative
+PL807	a	qas	no	materialistyczny	inclusive
+PL2517	n	cds	no	blaga	conservative
+PL1216	n	svp	no	pożądanie	inclusive
+PL1851	n	is	yes	biedaczek	inclusive
+PL3663	a	dmc	yes	lubieżny	conservative
+PL283	n	an	no	equus asinus	inclusive
+PL442	n	cds	no	debil	conservative
+PL3597	n	cds	no	pedanteria	inclusive
+PL1059	n	ddp	yes	plebs	conservative
+PL569	n	dmc	yes	dewota	conservative
+PL214	n	re	no	pomówienie	inclusive
+PL2962	n	ps	yes	mongoloidzi	conservative
+PL479	n	asf	no	dziewka	conservative
+PL162	a	svp	no	napastliwy	conservative
+PL1324	n	an	no	cykor	conservative
+PL416	n	qas	no	baroqueness	inclusive
+PL3496	n	pa	yes	księgowych	inclusive
+PL997	n	asm	no	debilizm	inclusive
+PL1058	n	ddp	yes	pospólstwo	conservative
+PL2747	n	cds	no	gliniarz	inclusive
+PL273	n	or	no	ciamajda	conservative
+PL2431	n	an	no	niekompetentny	conservative
+PL3821	a	cds	no	przekupny	conservative
+PL989	n	om	no	wymoczek	conservative
+PL3073	n	an	no	branta bernicla	inclusive
+PL358	n	qas	no	barbarzyństwo	conservative
+PL367	n	qas	no	ordynus	conservative
+PL3758	n	om	no	krzyż kredens	inclusive
+PL1083	n	cds	no	ród	inclusive
+PL2368	n	cds	no	urwis	inclusive
+PL2534	n	cds	no	lichwiarza	inclusive
+PL714	n	cds	no	boo-boo	inclusive
+PL711	n	qas	no	przejęzyczenie	inclusive
+PL793	n	qas	no	bamber	inclusive
+PL1883	n	cds	no	fanatyk	conservative
+PL77	n	ddp	yes	oligofrenia	inclusive
+PL756	n	qas	no	maruda	conservative
+PL2626	a	ps	yes	rozzłoszczony	inclusive
+PL976	n	cds	no	charłak	conservative
+PL414	n	qas	no	architektura baroku	inclusive
+PL989	n	an	no	wymoczek	conservative
+PL1470	n	asf	no	cunt	conservative
+PL567	n	cds	no	dewocja	conservative
+PL1502	n	om	no	dame	inclusive
+PL774	n	ddp	yes	uszkodzenia mózgu	inclusive
+PL913	n	cds	no	klika	inclusive
+PL3380	n	cds	no	samozaspokojenie	conservative
+PL974	n	an	no	zdechlak	conservative
+PL3784	n	asm	no	ptasie dinozaury	inclusive
+PL1890	n	cds	no	kupler	conservative
+PL3212	v	asm	no	defraudować	conservative
+PL1635	n	cds	no	wytłuszczać	inclusive
+PL200	n	ddp	yes	zwierzęta	inclusive
+PL1649	n	cds	no	wysmarować	inclusive
+PL2849	n	cds	no	podgryzacz	inclusive
+PL3180	n	qas	no	parazyt	conservative
+PL2762	n	an	no	otus asio	inclusive
+PL1273	n	or	no	queer	conservative
+PL355	n	qas	no	cebulak	conservative
+PL73	n	cds	no	nieprofesjonalność	conservative
+PL440	n	asm	no	półgłówek	conservative
+PL2472	n	cds	no	bazgrała	conservative
+PL578	n	cds	no	hewra	conservative
+PL1921	n	cds	no	faszysta	conservative
+PL1402	n	asm	no	naiwność	conservative
+PL1393	n	an	no	flirciarka	conservative
+PL2848	n	an	no	świnka	inclusive
+PL862	n	dmc	yes	próżniak	conservative
+PL1354	n	cds	no	odpadów komunalnych	conservative
+PL1477	n	cds	no	kamaryli	inclusive
+PL679	n	ddp	yes	mother fucker	conservative
+PL741	n	cds	no	partacz	conservative
+PL983	n	cds	no	słabeusz	conservative
+PL12	n	svp	no	ospałość	inclusive
+PL1529	v	asm	no	kpić	inclusive
+PL447	n	asf	no	bezmózgowiec	conservative
+PL2101	n	cds	no	wścibski człowiek	conservative
+PL1706	n	om	no	pośladek	inclusive
+PL112	n	om	no	sodomici	inclusive
+PL801	n	qas	no	biznesmenów	inclusive
+PL2314	n	qas	no	gospodarowanie	inclusive
+PL3516	n	re	no	raptio	inclusive
+PL2034	n	svp	no	złość	conservative
+PL384	n	pa	yes	specjalny adwokatem	inclusive
+PL1877	n	qas	no	wyjawianie	inclusive
+PL752	n	ddp	yes	zooerastia	conservative
+PL1559	n	pr	no	kohabitacja	inclusive
+PL3793	n	cds	no	ndrangheta	inclusive
+PL3415	a	cds	no	szablonowy	inclusive
+PL2323	n	cds	no	hybris	conservative
+PL1578	n	cds	no	prostaczek	conservative
+PL3759	n	om	no	crossdresserzy	inclusive
+PL445	n	ddp	yes	głupi	conservative
+PL242	n	asf	no	wariactwo	conservative
+PL457	n	dmc	yes	tuman	conservative
+PL630	n	qas	no	magnatów	inclusive
+PL3881	a	cds	no	grubiański	conservative
+PL3598	n	cds	no	pedanterii	inclusive
+PL591	n	dmc	yes	łobuz	conservative
+PL678	n	cds	no	kutas	conservative
+PL357	n	ddp	yes	wiochmen	conservative
+PL1023	n	re	no	calumniation	inclusive
+PL30	n	re	no	męczenie	inclusive
+PL1791	n	cds	no	fascynat	inclusive
+PL3725	n	asm	no	fallicyzm	inclusive
+PL149	n	qas	no	melanż	inclusive
+PL104	a	an	no	stały	inclusive
+PL2658	n	qas	no	złodziejaszek	conservative
+PL882	n	re	no	chuligan	conservative
+PL2835	n	dmc	yes	złe	inclusive
+PL2199	n	cds	no	kradzieży	inclusive
+PL113	n	om	no	branie w dupę	inclusive
+PL873	n	cds	no	hołota	inclusive
+PL991	n	ddp	yes	idiotka	inclusive
+PL507	n	cds	no	kanciarz	conservative
+PL1885	n	cds	no	oszołom	conservative
+PL307	n	ddp	yes	zacofanie	inclusive
+PL375	a	svp	no	żarłoczny	inclusive
+PL2711	n	pr	no	ćma	inclusive
+PL1323	n	cds	no	strachoput	conservative
+PL1603	n	re	no	łamanie prawa	inclusive
+PL3051	n	cds	no	satyryzm	conservative
+PL989	n	cds	no	wymoczek	conservative
+PL1467	n	asf	no	szpara	conservative
+PL3151	n	dmc	yes	chudziak	inclusive
+PL3770	n	om	no	transwestytyzmu	inclusive
+PL3528	n	re	no	porywacz	inclusive
+PL2892	n	qas	no	retoryczne	inclusive
+PL2922	n	an	no	mikroorganizmy	inclusive
+PL598	n	dmc	yes	przestępca	conservative
+PL2552	n	re	no	malversation	inclusive
+PL863	n	svp	no	leser	conservative
+PL3501	n	or	no	rzepa	inclusive
+PL445	n	ps	yes	głupi	conservative
+PL67	a	pa	yes	teoretyczny	inclusive
+PL1876	n	cds	no	rodzeństwo	inclusive
+PL3181	n	qas	no	pijawka	conservative
+PL1995	n	cds	no	motley fool	inclusive
+PL1316	n	qas	no	wsiowy	inclusive
+PL448	n	asf	no	imbecyl	conservative
+PL695	n	pa	yes	kopidół	inclusive
+PL1184	n	pa	yes	profesorem zwyczajnym	inclusive
+PL1033	n	re	no	maligner	conservative
+PL2503	a	dmc	yes	nieprzyzwoity	conservative
+PL1990	a	dmc	yes	obłudny	conservative
+PL2266	n	ps	yes	rodzinie żydowskiej	inclusive
+PL3421	n	an	no	kura	inclusive
+PL999	n	an	no	picza	conservative
+PL368	n	pa	yes	barbarzyńców	conservative
+PL894	a	ddf	yes	nieprawidłowy	inclusive
+PL2512	n	cds	no	zależeć	inclusive
+PL1059	n	cds	no	plebs	inclusive
+PL3180	n	an	no	parazyt	conservative
+PL2655	n	cds	no	kosa	conservative
+PL2456	n	cds	no	nauczycielka	conservative
+PL1898	n	cds	no	pandar	inclusive
+PL320	n	cds	no	lupanar	inclusive
+PL2368	n	cds	no	urwis	conservative
+PL1066	n	an	no	psa	inclusive
+PL911	n	qas	no	kasta	inclusive
+PL1579	n	cds	no	intrygantem	inclusive
+PL893	a	ddf	yes	zły	inclusive
+PL650	n	an	no	flejtuch	conservative
+PL1974	n	cds	no	odkażać	inclusive
+PL1268	n	or	no	niuńka	conservative
+PL367	n	cds	no	ordynus	conservative
+PL447	n	ps	yes	bezmózgowiec	conservative
+PL794	n	qas	no	chłopstwo	inclusive
+PL1486	n	qas	no	przebierać	conservative
+PL2161	n	an	no	eurasian griffon	inclusive
+PL1003	n	an	no	suka	inclusive
+PL1406	n	an	no	sowy	inclusive
+PL431	n	asm	no	patsy	conservative
+PL3094	n	re	no	położenie trupem	inclusive
+PL1225	n	or	no	dupa	conservative
+PL3540	a	om	no	inny	inclusive
+PL2364	n	re	no	łapserdak	inclusive
+PL1587	n	cds	no	łupieżca	conservative
+PL1577	a	ddp	yes	naiwny	conservative
+PL1588	n	an	no	korsarz	inclusive
+PL2348	n	cds	no	bałwochwalstwo	inclusive
+PL2483	a	dmc	yes	amoralny	inclusive
+PL251	n	or	no	głupek	conservative
+PL1209	n	cds	no	mrowisko	inclusive
+PL2628	a	svp	no	wzburzony	inclusive
+PL457	n	ps	yes	tuman	conservative
+PL364	n	cds	no	prościuch	conservative
+PL2223	n	pr	no	kurewstwo	inclusive
+PL1263	n	or	no	baba	conservative
+PL1755	n	ps	yes	powsinoga	inclusive
+PL2973	n	cds	no	moralizm	inclusive
+PL440	n	cds	no	półgłówek	conservative
+PL1796	a	ddp	yes	obłąkany	inclusive
+PL299	n	an	no	dusigrosz	conservative
+PL1345	v	cds	no	pukać	inclusive
+PL1454	n	re	no	hybrydyzowanie	inclusive
+PL452	n	dmc	yes	pustak	conservative
+PL3146	n	dmc	yes	nieszczęśliwiec	inclusive
+PL1669	n	dmc	yes	dissimulator	conservative
+PL1269	n	or	no	niunia	conservative
+PL490	n	pr	no	lafirynda	conservative
+PL1935	n	cds	no	chwyt	conservative
+PL821	n	cds	no	egoizm	conservative
+PL705	n	dmc	yes	rozpustnik	conservative
+PL708	n	cds	no	paskudzić	inclusive
+PL254	n	asf	no	błaznować	conservative
+PL1284	n	or	no	orientacji homoseksualnej	conservative
+PL1359	n	cds	no	odpadów stałych	conservative
+PL3392	a	cds	no	wyniosły	conservative
+PL2749	n	cds	no	mafioso	inclusive
+PL1909	n	qas	no	parobek	inclusive
+PL862	n	svp	no	próżniak	conservative
+PL2866	n	svp	no	ambitność	inclusive
+PL997	n	cds	no	debilizm	inclusive
+PL3864	n	an	no	limacidae	inclusive
+PL608	n	cds	no	pleciuch	conservative
+PL2512	n	dmc	yes	zależeć	inclusive
+PL3441	a	ddf	yes	niewidzący	inclusive
+PL3606	a	is	yes	mizerny	conservative
+PL2841	n	asm	no	peluszka	inclusive
+PL1144	n	asm	no	wał	conservative
+PL3159	n	ps	yes	wandal	inclusive
+PL1055	n	cds	no	impertynenckość	conservative
+PL10	n	svp	no	aboulia	inclusive
+PL1062	n	ddp	yes	ragtag	conservative
+PL2341	n	asf	no	dziewczyna	conservative
+PL3391	a	svp	no	dumny	conservative
+PL1690	n	om	no	buns	inclusive
+PL3331	n	cds	no	komentarz	inclusive
+PL1599	n	re	no	kryminał	inclusive
+PL2647	n	or	no	misterność	inclusive
+PL1638	n	cds	no	posmarować	inclusive
+PL2246	n	om	no	homoseksualistów	inclusive
+PL1437	n	ps	yes	krzyżówka	inclusive
+PL2018	n	cds	no	masonów wolnym i uznanym	inclusive
+PL2117	n	svp	no	do niczego	conservative
+PL172	n	cds	no	gorąco	inclusive
+PL823	n	cds	no	egotyzm	conservative
+PL330	n	qas	no	ballock	inclusive
+PL372	n	ddp	yes	prymityw	conservative
+PL1692	n	om	no	linii środkowoobojczykowej	inclusive
+PL1558	n	pr	no	kochanka	conservative
+PL192	n	an	no	anguilliformes	inclusive
+PL371	n	pa	yes	troglodyta	conservative
+PL366	n	pa	yes	grubianin	conservative
+PL2073	a	dmc	yes	smrodliwy	conservative
+PL2748	n	cds	no	cosa nostra	inclusive
+PL1718	n	qas	no	buda	inclusive
+PL447	n	or	no	bezmózgowiec	conservative
+PL2570	n	cds	no	swat	inclusive
+PL357	n	ps	yes	wiochmen	conservative
+PL2565	n	asm	no	barwa kasztanowa	inclusive
+PL1006	n	pr	no	cipa	conservative
+PL571	n	cds	no	chewra	inclusive
+PL444	n	cds	no	kretyn	conservative
+PL3215	v	asm	no	zdefraudować	conservative
+PL3605	a	is	yes	lichy	conservative
+PL2393	n	ddp	yes	dupkiem	conservative
+PL1620	n	cds	no	literatura wagonowa	inclusive
+PL3778	n	pr	no	hetaira	inclusive
+PL268	n	ddp	yes	shithead	conservative
+PL3273	a	qas	no	emocjonalny	conservative
+PL1398	n	asm	no	naiwniactwo	conservative
+PL2984	n	dmc	yes	kurdupel	conservative
+PL2282	n	ps	yes	gudłaj	inclusive
+PL1560	n	pr	no	wolny związek	inclusive
+PL369	n	ps	yes	wieśniak	conservative
+PL1931	n	cds	no	trick	conservative
+PL3314	a	om	no	anormalny	inclusive
+PL2198	n	cds	no	złodziejskie	inclusive
+PL1879	n	qas	no	wyjawienie	inclusive
+PL2711	n	an	no	ćma	inclusive
+PL360	n	rci	yes	gbur	conservative
+PL1878	n	qas	no	divulgement	inclusive
+PL2770	n	an	no	niski grubas	conservative
+PL2050	n	svp	no	bezskuteczność	conservative
+PL2164	n	an	no	nierogacizna	inclusive
+PL2674	n	cds	no	dwa zera	inclusive
+PL2986	n	ddf	yes	knypek	conservative
+PL3713	n	re	no	akt terroryzmu	inclusive
+PL1759	n	dmc	yes	rajzer	inclusive
+PL2095	n	asf	no	borsuk	inclusive
+PL1442	n	ps	yes	biotechnologii roślin	inclusive
+PL2686	n	cds	no	klozetka	inclusive
+PL1481	n	cds	no	ubój	conservative
+PL2968	n	pr	no	bywalców	inclusive
+PL644	n	dmc	yes	skurczybyk	conservative
+PL2228	n	is	yes	łatek	inclusive
+PL2200	n	re	no	łup	inclusive
+PL987	n	cds	no	tchórz	conservative
+PL454	n	ddp	yes	wystrychnąć na dudka	conservative
+PL3573	n	an	no	salientian	inclusive
+PL2550	n	an	no	insecta	inclusive
+PL2505	a	dmc	yes	nieobyczajny	conservative
+PL1723	n	svp	no	łakomczuch	inclusive
+PL156	n	asm	no	maxilliped	inclusive
+PL85	n	ddp	yes	teorie qqly	inclusive
+PL3460	a	qas	no	typowy	inclusive
+PL1181	n	qas	no	casteism	inclusive
+PL3338	n	is	yes	dziad	inclusive
+PL838	n	svp	no	hauteur	conservative
+PL1468	n	or	no	cipsko	conservative
+PL433	n	asm	no	soft touch	conservative
+PL2361	n	dmc	yes	wisus	inclusive
+PL2872	n	cds	no	wyższość	conservative
+PL873	n	qas	no	hołota	inclusive
+PL2376	n	ddf	yes	kalectwo	inclusive
+PL298	n	is	yes	skąpiec	conservative
+PL166	n	cds	no	kat	conservative
+PL1828	n	dmc	yes	przyzwoitość	inclusive
+PL1597	n	cds	no	przestępstwa	inclusive
+PL350	n	cds	no	bandytyzm	inclusive
+PL2509	a	svp	no	gnuśny	conservative
+PL1922	n	ps	yes	faszystowski	inclusive
+PL2435	n	ddp	yes	ignorancja	conservative
+PL780	n	asm	no	zrumienić	inclusive
+PL265	n	or	no	cymbał	conservative
+PL870	n	cds	no	gawiedź	conservative
+PL1288	n	om	no	twink	conservative
+PL1841	n	dmc	yes	zło	inclusive
+PL2446	n	cds	no	ostentacja	conservative
+PL2143	v	asm	no	uprawiać miłość	conservative
+PL1301	n	an	no	oblicze	inclusive
+PL3080	n	re	no	terroryści	inclusive
+PL1333	v	cds	no	gawędzić	inclusive
+PL1850	n	dmc	yes	biedaczyna	inclusive
+PL2641	n	ps	yes	metek	inclusive
+PL333	n	asm	no	teste	inclusive
+PL1941	n	or	no	wybredności	inclusive
+PL3780	n	asm	no	ptaków	inclusive
+PL678	n	asm	no	kutas	conservative
+PL1005	n	dmc	yes	pipa	conservative
+PL364	n	ps	yes	prościuch	conservative
+PL3717	n	re	no	organizacje terrorystyczne	inclusive
+PL273	n	asf	no	ciamajda	conservative
+PL2276	n	ps	yes	żydek	inclusive
+PL372	n	ps	yes	prymityw	conservative
+PL2318	n	qas	no	hutch	inclusive
+PL2754	n	cds	no	mafii	inclusive
+PL1287	n	om	no	wesoły	inclusive
+PL2308	n	qas	no	lakierowanie	inclusive
+PL1946	n	or	no	anethum foeniculum	inclusive
+PL265	n	asf	no	cymbał	conservative
+PL2371	n	an	no	puszczyk kreskowany	inclusive
+PL833	n	svp	no	arogancja	conservative
+PL460	n	ddp	yes	głąb	conservative
+PL3032	n	an	no	ssawka	inclusive
+PL920	n	cds	no	mafia	inclusive
+PL3244	v	cds	no	zajść	inclusive
+PL352	n	pa	yes	bankier	inclusive
+PL464	n	pr	no	nierządnica	conservative
+PL984	n	cds	no	kościotrup	conservative
+PL2518	n	dmc	yes	pic	inclusive
+PL2192	n	re	no	zwinięcie	inclusive
+PL2898	n	an	no	scorpionfish	inclusive
+PL1994	n	cds	no	błazna	inclusive
+PL2191	n	re	no	złodziejstwo	inclusive
+PL2618	a	svp	no	przewrażliwiony	conservative
+PL785	n	asm	no	brąz	inclusive
+PL59	n	pa	yes	akademickie	inclusive
+PL569	n	cds	no	dewota	conservative
+PL1437	n	cds	no	krzyżówka	inclusive
+PL2748	n	cds	no	cosa nostra	conservative
+PL3785	n	asm	no	avafauna	inclusive
+PL678	n	ddp	yes	kutas	conservative
+PL583	n	qas	no	banda	inclusive
+PL365	n	dmc	yes	cham	conservative
+PL2366	n	cds	no	gagatek	inclusive
+PL1657	n	an	no	świństwo	conservative
+PL1217	n	svp	no	apetycik	inclusive
+PL3437	n	cds	no	dziecko	inclusive
+PL978	n	cds	no	chuchro	conservative
+PL2997	n	cds	no	idiolatry	inclusive
+PL948	n	an	no	carcharias atwoodi	inclusive
+PL265	n	ps	yes	cymbał	conservative
+PL571	n	cds	no	chewra	conservative
+PL447	n	cds	no	bezmózgowiec	conservative
+PL356	n	cds	no	jaskiniowiec	conservative
+PL3264	n	or	no	irish potato	inclusive
+PL2627	a	svp	no	rozgniewany	inclusive
+PL2438	a	ddp	yes	ignorancki	conservative
+PL88	n	ddp	yes	obniżenie poziomu rozwoju intelektualnego	inclusive
+PL1049	n	cds	no	strup	conservative
+PL2230	n	is	yes	pauper	inclusive
+PL1948	n	dmc	yes	fetor	conservative
+PL3105	n	re	no	zamordowanie	inclusive
+PL1018	n	re	no	zniesławienie	inclusive
+PL2743	n	cds	no	władzuchna	conservative
+PL2642	n	ps	yes	metojków	inclusive
+PL491	n	pr	no	wyciruch	conservative
+PL571	n	qas	no	chewra	inclusive
+PL852	n	cds	no	git	conservative
+PL1022	n	re	no	dyfamacja	inclusive
+PL555	n	cds	no	łgarz	conservative
+PL1080	n	ps	yes	chinka	inclusive
+PL3428	n	cds	no	bobas	inclusive
+PL2772	n	om	no	pederastię	inclusive
+PL2716	n	an	no	motyl nocny	inclusive
+PL3452	a	qas	no	powszedni	inclusive
+PL254	n	ddp	yes	błaznować	conservative
+PL1570	n	pr	no	dworzanin	inclusive
+PL2516	n	cds	no	spoczywać	inclusive
+PL1116	n	svp	no	tightfistedness	conservative
+PL362	n	ps	yes	kałmuk	conservative
+PL2179	n	cds	no	literacina	conservative
+PL1911	n	qas	no	fieldhand	inclusive
+PL898	a	dmc	yes	mały	conservative
+PL2264	n	ps	yes	mozaizm	inclusive
+PL1044	n	cds	no	oszust	inclusive
+PL3568	n	an	no	bezogonowe	inclusive
+PL437	n	cds	no	półgłupek	conservative
+PL1504	n	re	no	gwałtu	conservative
+PL2191	n	cds	no	złodziejstwo	inclusive
+PL3133	n	re	no	dręczycielka	inclusive
+PL3199	v	is	yes	wybłagać	inclusive
+PL802	n	qas	no	przedsiębiorca	inclusive
+PL3458	a	qas	no	zwyczajny	inclusive
+PL3469	a	cds	no	tchórzliwy	conservative
+PL3609	n	cds	no	popleczników	conservative
+PL3330	n	cds	no	przekład	inclusive
+PL2522	n	cds	no	przeleżeć	conservative
+PL3374	a	re	no	burzliwy	inclusive
+PL2400	n	pr	no	bzdura	conservative
+PL734	n	dmc	yes	bumbler	conservative
+PL668	n	asm	no	chuj	inclusive
+PL1436	n	cds	no	interfertility	inclusive
+PL512	n	dmc	yes	fałsz	inclusive
+PL325	n	svp	no	scrooge	conservative
+PL745	n	an	no	snatcher ciała	inclusive
+PL3383	n	cds	no	wank	conservative
+PL2232	n	is	yes	ma-nie	inclusive
+PL3614	n	an	no	blattoptera	inclusive
+PL2400	n	asf	no	bzdura	inclusive
+PL430	n	asf	no	frajer	conservative
+PL2411	n	is	yes	bryndza	inclusive
+PL1215	n	svp	no	ciągotki	inclusive
+PL246	a	ddp	yes	głupi	conservative
+PL355	n	cds	no	cebulak	conservative
+PL707	n	cds	no	fuszerka	inclusive
+PL2834	n	dmc	yes	licho	inclusive
+PL1597	n	re	no	przestępstwa	inclusive
+PL2127	n	cds	no	skrajnych prawicowcach	conservative
+PL1205	n	cds	no	rojowisko	inclusive
+PL1496	n	cds	no	żartowniś	inclusive
+PL497	n	an	no	szmata	conservative
+PL3861	n	dmc	yes	renegat	conservative
+PL1697	n	om	no	terminy anatomicznej lokalizacji	inclusive
+PL1636	n	cds	no	szargać	inclusive
+PL866	n	svp	no	leniwiec	conservative
+PL2883	n	cds	no	relikt	inclusive
+PL236	n	or	no	baniak	inclusive
+PL3858	n	dmc	yes	judasz	conservative
+PL2372	n	an	no	puszczyk huczek	inclusive
+PL1552	n	dmc	yes	zostawanie	conservative
+PL608	n	ddp	yes	pleciuch	conservative
+PL1610	n	an	no	gówno	conservative
+PL365	n	cds	no	cham	conservative
+PL3044	n	cds	no	nimfomanka	conservative
+PL2194	n	cds	no	złodziei	inclusive
+PL1944	n	or	no	finocchio	inclusive
+PL1975	n	qas	no	kaloszy	inclusive
+PL168	n	cds	no	zelota	inclusive
+PL464	n	pr	no	nierządnica	inclusive
+PL1578	n	or	no	prostaczek	conservative
+PL865	n	svp	no	nierób	conservative
+PL2888	n	qas	no	retor	inclusive
+PL2022	n	an	no	ukośny	inclusive
+PL874	n	qas	no	tałatajstwo	inclusive
+PL2471	n	cds	no	gryzmoła	conservative
+PL2522	n	dmc	yes	przeleżeć	inclusive
+PL1032	n	re	no	defamer	conservative
+PL3691	n	re	no	gwałciciel	conservative
+PL1123	n	svp	no	chytrość	conservative
+PL2214	n	pr	no	najstarszy zawód świata	inclusive
+PL2774	n	om	no	pederastia	inclusive
+PL2689	n	cds	no	latryna	inclusive
+PL3646	n	ddp	yes	unwiseness	inclusive
+PL3866	n	an	no	tribranchus	inclusive
+PL3096	n	re	no	zabójstwo	inclusive
+PL1652	n	cds	no	walać się	inclusive
+PL252	n	asm	no	głupol	conservative
+PL988	n	an	no	ckliwy	conservative
+PL3814	n	an	no	pudło	conservative
+PL455	n	asf	no	tłumok	conservative
+PL1390	n	an	no	vamper	conservative
+PL3249	v	cds	no	skonać	inclusive
+PL2510	a	svp	no	powolny	conservative
+PL2545	n	an	no	owady	inclusive
+PL1191	n	pa	yes	katedrę	inclusive
+PL1030	n	re	no	vilifier	conservative
+PL525	n	dmc	yes	fircyk	conservative
+PL3375	a	re	no	wściekły	inclusive
+PL3793	n	re	no	ndrangheta	inclusive
+PL3289	v	cds	no	drapać	inclusive
+PL3387	n	cds	no	walenie konia	conservative
+PL2728	n	an	no	kufa	inclusive
+PL2987	n	ddf	yes	pigmej	conservative
+PL2742	n	cds	no	policjantka	inclusive
+PL2743	n	cds	no	władzuchna	inclusive
+PL2480	a	dmc	yes	nieetyczny	conservative
+PL2626	a	svp	no	rozzłoszczony	inclusive
+PL1839	n	an	no	eurypterid	inclusive
+PL852	n	an	no	git	conservative
+PL1794	a	ddp	yes	zwariowany	inclusive
+PL2288	n	cds	no	gmin	conservative
+PL507	n	an	no	kanciarz	conservative
+PL431	n	ps	yes	patsy	conservative
+PL1476	n	or	no	ogórki	inclusive
+PL173	n	cds	no	zeloci	inclusive
+PL2424	n	svp	no	bezczynność	inclusive
+PL136	n	cds	no	haczyk	inclusive
+PL1881	n	qas	no	ujawnianie	inclusive
+PL655	n	cds	no	cur	inclusive
+PL2257	n	om	no	uranismus	inclusive
+PL353	n	ps	yes	barbarzyńca	inclusive
+PL673	n	ddp	yes	cwel	conservative
+PL3198	v	re	no	frustrować	inclusive
+PL1125	n	qas	no	przewalać	inclusive
+PL3480	n	cds	no	zaściankowość	inclusive
+PL857	n	ps	yes	włóczęga	inclusive
+PL2324	n	cds	no	wheeler dealer	conservative
+PL3092	n	re	no	trudzenie	inclusive
+PL803	n	qas	no	właściciel firmy	inclusive
+PL359	n	rci	yes	burek	conservative
+PL1606	n	an	no	diddlyshit	conservative
+PL1880	n	qas	no	zdradzanie	inclusive
+PL3049	n	cds	no	hiperseksualność	conservative
+PL250	n	pa	yes	prostak	conservative
+PL1693	n	om	no	tył	inclusive
+PL161	a	svp	no	agresywny	inclusive
+PL2404	n	pr	no	kretyństwo	conservative
+PL3757	n	om	no	transwestyci	inclusive
+PL473	n	pr	no	sportowe lady	conservative
+PL3236	v	cds	no	zamrzeć	inclusive
+PL1973	n	pa	yes	fishmongers	inclusive
+PL2443	n	cds	no	bombast	conservative
+PL2278	n	ps	yes	żyda	inclusive
+PL1585	n	an	no	pillager	inclusive
+PL1160	n	cds	no	skołować	conservative
+PL3234	v	cds	no	zemrzeć	inclusive
+PL2982	n	re	no	złodziej	inclusive
+PL3344	n	cds	no	malkontent	conservative
+PL1307	n	an	no	morduchna	inclusive
+PL1146	n	cds	no	cholera	conservative
+PL1182	n	pa	yes	profesury	inclusive
+PL459	n	ps	yes	matoł	conservative
+PL735	n	qas	no	fuszer	conservative
+PL35	n	re	no	złorzeczenie	inclusive
+PL1277	n	om	no	gay	conservative
+PL243	n	ddp	yes	głupstwo	conservative
+PL2360	n	dmc	yes	huncwot	inclusive
+PL1769	n	svp	no	żarłoczność	inclusive
+PL2844	n	an	no	prosiątko	inclusive
+PL460	n	asf	no	głąb	conservative
+PL2991	n	cds	no	samouwielbienie	inclusive
+PL256	n	asm	no	głuptak	conservative
+PL3702	n	re	no	przestępstw seksualnych	inclusive
+PL1508	v	asm	no	szydzić	inclusive
+PL360	n	qas	no	gbur	conservative
+PL1849	n	is	yes	biedaczysko	conservative
+PL1849	n	dmc	yes	biedaczysko	conservative
+PL1326	n	an	no	tchórzem	conservative
+PL47	n	re	no	wyzywanie	inclusive
+PL2177	n	cds	no	literacik	conservative
+PL1725	n	svp	no	gourmandizer	inclusive
+PL3753	n	pr	no	włochacz nabrzozak	inclusive
+PL2259	n	om	no	orientacja homoseksualna	inclusive
+PL3756	n	an	no	biston betularia	inclusive
+PL206	n	ddp	yes	makrofauny	inclusive
+PL2496	n	dmc	yes	pseudo	conservative
+PL593	n	re	no	złoczyńca	conservative
+PL265	n	ddp	yes	cymbał	conservative
+PL1865	n	dmc	yes	spędzać-all	inclusive
+PL2493	n	om	no	panie	inclusive
+PL641	n	dmc	yes	bydlak	conservative
+PL3656	n	an	no	czerwony bęben	inclusive
+PL2790	n	qas	no	ektopasożytów	inclusive
+PL252	n	an	no	głupol	conservative
+PL1581	n	cds	no	desperat	inclusive
+PL1568	n	pr	no	nałożnica	inclusive
+PL2817	a	dmc	yes	brutalny	conservative
+PL1702	n	om	no	zadek	inclusive
+PL3442	a	ddf	yes	ślepy	inclusive
+PL1351	n	ddp	yes	szarlataneria	conservative
+PL1852	a	dmc	yes	smutny	inclusive
+PL875	n	qas	no	granda	inclusive
+PL736	n	qas	no	sad sack	conservative
+PL564	n	cds	no	sfanatyzowany	conservative
+PL2521	n	dmc	yes	poleżeć	inclusive
+PL3732	n	re	no	męka	inclusive
+PL3067	n	qas	no	dzierżawca rolny	inclusive
+PL1978	n	cds	no	dezynfekować	inclusive
+PL247	n	an	no	duda	conservative
+PL234	n	or	no	kubek	inclusive
+PL2466	n	cds	no	dowcipas	inclusive
+PL3192	n	cds	no	arriviste	inclusive
+PL3281	n	cds	no	pedant	conservative
+PL448	n	ddp	yes	imbecyl	conservative
+PL2319	n	qas	no	chata	inclusive
+PL2636	n	cds	no	włamywacz	inclusive
+PL3760	n	om	no	transwestyta	inclusive
+PL638	n	qas	no	bonza	inclusive
+PL261	n	an	no	nieuk	conservative
+PL3869	n	ps	yes	rroma	inclusive
+PL883	n	is	yes	villainess	conservative
+PL2519	n	qas	no	warunkować	conservative
+PL1487	n	cds	no	cwaniactwo	conservative
+PL2649	n	or	no	skrupulatność	inclusive
+PL2192	n	cds	no	zwinięcie	inclusive
+PL211	n	an	no	epifaunal	inclusive
+PL2033	n	an	no	furia	inclusive
+PL3494	n	pr	no	guff	conservative
+PL3155	a	qas	no	zwyczajowy	inclusive
+PL446	n	ddp	yes	pudden-head	conservative
+PL2597	n	svp	no	invidia	inclusive
+PL1495	n	cds	no	dowcipniś	inclusive
+PL2869	n	svp	no	godność	inclusive
+PL1489	n	cds	no	spryt	conservative
+PL1289	n	cds	no	kolporter	conservative
+PL1527	v	asm	no	łykać	inclusive
+PL2301	a	svp	no	łakomy	conservative
+PL32	n	re	no	nawymyślać	inclusive
+PL3622	n	an	no	karaczany	inclusive
+PL348	n	dmc	yes	brygant	conservative
+PL363	n	cds	no	dzikus	conservative
+PL3137	n	ddf	yes	osoba niewidoma	inclusive
+PL2414	n	is	yes	zubożenie	inclusive
+PL2788	n	qas	no	necrotrophic	inclusive
+PL1291	n	cds	no	obmówca	conservative
+PL3542	a	om	no	różnorodny	inclusive
+PL2881	n	pr	no	rattus	inclusive
+PL444	n	cds	no	kretyn	inclusive
+PL864	n	dmc	yes	leń	conservative
+PL1851	n	cds	no	biedaczek	conservative
+PL2066	n	asm	no	bób	inclusive
+PL1782	n	pa	yes	pracownik	inclusive
+PL1787	n	cds	no	entuzjastka	inclusive
+PL1603	n	cds	no	łamanie prawa	inclusive
+PL3511	n	re	no	uprowadzenie	inclusive
+PL2630	n	re	no	abigeatus	inclusive
+PL338	a	dmc	yes	skąpy	conservative
+PL452	n	or	no	pustak	conservative
+PL2872	n	cds	no	wyższość	inclusive
+PL1276	n	or	no	puf	conservative
+PL2061	n	asm	no	broad-bean	inclusive
+PL2149	a	dmc	yes	brudny	inclusive
+PL3666	n	cds	no	dweeb	conservative
+PL3803	n	ps	yes	czerwoną kartkę	inclusive
+PL2599	a	svp	no	zawistny	conservative
+PL1254	n	cds	no	zmowy milczenia	inclusive
+PL3362	n	an	no	menda	inclusive
+PL133	n	dmc	yes	leniuch	conservative
+PL2036	n	an	no	pasja	inclusive
+PL435	n	ddp	yes	dałn	conservative
+PL2221	n	pr	no	seksbiznes	inclusive
+PL1466	n	or	no	piczka	conservative
+PL74	n	cds	no	dyletanctwo	conservative
+PL2985	n	dmc	yes	half-pint	conservative
+PL2298	n	dmc	yes	bezdomnych	inclusive
+PL738	n	cds	no	brakorób	conservative
+PL1009	n	an	no	kurew	conservative
+PL2078	n	cds	no	strażnik więzienny	inclusive
+PL651	n	an	no	prosiak	inclusive
+PL642	n	cds	no	łajdak	conservative
+PL1334	v	cds	no	kołatać	inclusive

@@ -1,0 +1,5025 @@
+id	pos	category	stereotype	lemma	level
+FR1010	n	an	no	cakehole	inclusive
+FR2762	n	ps	yes	mongole	inclusive
+FR3349	n	cds	no	ragots	inclusive
+FR1078	n	cds	no	poulet	inclusive
+FR1210	n	asm	no	p	conservative
+FR1727	n	dmc	yes	dissimulateur	conservative
+FR748	n	pa	yes	entrepreneur	inclusive
+FR839	n	an	no	bétail	inclusive
+FR276	n	or	no	fada	conservative
+FR1511	n	ps	yes	interfertilité	inclusive
+FR3702	a	re	no	dur	inclusive
+FR1935	n	cds	no	kinfolk	inclusive
+FR1770	n	om	no	rétroversion	inclusive
+FR1940	n	qas	no	divulgation	inclusive
+FR1100	n	cds	no	joue	conservative
+FR4026	n	an	no	latasteopara	inclusive
+FR653	n	ddp	yes	voyou	conservative
+FR3984	n	dmc	yes	vagabonder	inclusive
+FR539	n	pr	no	pute	conservative
+FR3307	a	qas	no	démonstratif	conservative
+FR779	n	cds	no	trique	inclusive
+FR1423	n	an	no	chinch	inclusive
+FR2552	n	cds	no	pompeux	inclusive
+FR1605	n	dmc	yes	imposture	conservative
+FR289	n	ddp	yes	enfoiré	conservative
+FR616	n	cds	no	relation	conservative
+FR2090	n	cds	no	fondamentaliste	inclusive
+FR2999	n	ddp	yes	inintelligence	conservative
+FR550	n	an	no	garce	conservative
+FR1311	n	cds	no	conspiration du silence	inclusive
+FR521	n	asm	no	dadais	conservative
+FR1157	n	cds	no	unités japonaises de mesure	inclusive
+FR550	n	an	no	garce	inclusive
+FR3167	n	ddp	yes	twaddler	conservative
+FR3007	n	pa	yes	pasteur	inclusive
+FR30	n	qas	no	acolytat	inclusive
+FR3602	a	dmc	yes	sale	inclusive
+FR1737	n	om	no	dorso-ventrale	inclusive
+FR217	n	an	no	bête	conservative
+FR2113	n	cds	no	tricheur	conservative
+FR2745	n	cds	no	lav	inclusive
+FR127	n	svp	no	fainéant	conservative
+FR3766	a	ddp	yes	obtus	conservative
+FR1745	n	om	no	fouindé	inclusive
+FR2869	n	qas	no	endoparasites	inclusive
+FR974	n	cds	no	ne rien faire	conservative
+FR685	n	cds	no	rapporteur	conservative
+FR1911	a	cds	no	pauvre	conservative
+FR2640	n	re	no	malversation	inclusive
+FR1145	n	ps	yes	comitatif	inclusive
+FR1115	n	cds	no	camorriste	inclusive
+FR3381	a	an	no	pouilleux	inclusive
+FR1413	n	an	no	cimicidae	inclusive
+FR217	n	ps	yes	bête	conservative
+FR444	n	qas	no	négociant	inclusive
+FR1473	n	asm	no	jerk-off	conservative
+FR1896	n	dmc	yes	moralement	inclusive
+FR2017	n	dmc	yes	falsification	inclusive
+FR3206	n	cds	no	lapsus	inclusive
+FR31	n	qas	no	acolytes	inclusive
+FR1837	n	ddf	yes	naine	conservative
+FR419	n	qas	no	sauvage	conservative
+FR1141	n	om	no	pédéraste	inclusive
+FR1177	n	an	no	chèvre	inclusive
+FR2106	n	svp	no	futilité	conservative
+FR537	n	pr	no	catin	inclusive
+FR2929	n	cds	no	propagandiste	inclusive
+FR633	n	cds	no	bigoterie	conservative
+FR835	n	an	no	bœufs	inclusive
+FR2925	n	svp	no	fierté	inclusive
+FR797	n	dmc	yes	bousilleur	conservative
+FR1089	n	pr	no	rosse	conservative
+FR1744	n	om	no	plantaire	inclusive
+FR2457	n	an	no	hyénidés	inclusive
+FR362	n	cds	no	retard	inclusive
+FR1928	n	dmc	yes	dépensier	inclusive
+FR2706	v	ddp	yes	s'abêtir	conservative
+FR1072	n	an	no	trouillard	conservative
+FR3344	a	pa	yes	pédant	conservative
+FR2661	n	asm	no	bizoune	inclusive
+FR1953	n	cds	no	proxo	conservative
+FR1490	n	an	no	crocodylian	inclusive
+FR737	n	ddp	yes	gland	conservative
+FR1170	n	pa	yes	greffier	inclusive
+FR2864	n	qas	no	parasiter	inclusive
+FR4010	n	re	no	furiousness	inclusive
+FR3976	n	an	no	roussin	inclusive
+FR3413	a	cds	no	vif	inclusive
+FR2989	n	ddp	yes	microcephalus	inclusive
+FR275	n	an	no	dupe	conservative
+FR276	n	an	no	fada	conservative
+FR3329	v	an	no	rager	conservative
+FR268	n	ddp	yes	fou	conservative
+FR545	n	an	no	péripatéticienne	conservative
+FR2588	n	dmc	yes	faker	conservative
+FR780	n	qas	no	foul-up	inclusive
+FR2790	n	an	no	bâton-dans-la-boue	conservative
+FR1151	n	cds	no	tribale	inclusive
+FR1886	n	dmc	yes	moraux	inclusive
+FR284	n	ddp	yes	enculé	conservative
+FR1829	n	dmc	yes	chalutier	inclusive
+FR3811	a	ddp	yes	fade	inclusive
+FR152	n	qas	no	farrago	inclusive
+FR376	n	cds	no	maisons closes	inclusive
+FR1416	n	an	no	dispositif d'écoute	inclusive
+FR1391	n	ddp	yes	charlatan	conservative
+FR3769	a	ddp	yes	sot	conservative
+FR3310	a	qas	no	histrionique	conservative
+FR881	n	dmc	yes	laboureur	conservative
+FR332	n	svp	no	avaritia	inclusive
+FR1023	n	ddp	yes	prisonnier	inclusive
+FR68	n	pa	yes	académicien	inclusive
+FR879	n	pa	yes	paysan	inclusive
+FR1246	n	cds	no	complaisance	inclusive
+FR1636	n	cds	no	intrigant	inclusive
+FR511	n	cds	no	tête boudin	conservative
+FR1287	n	svp	no	Éros	inclusive
+FR1801	n	svp	no	trancheuse	inclusive
+FR960	n	cds	no	tel et donc	conservative
+FR3238	v	re	no	agacer	inclusive
+FR1553	n	or	no	connichon	conservative
+FR2663	n	asm	no	membre	inclusive
+FR2358	n	om	no	tarlouze	inclusive
+FR3571	n	re	no	enlevement	inclusive
+FR1398	n	qas	no	ferraille	inclusive
+FR1116	n	cds	no	marquignon	conservative
+FR1102	n	re	no	calunnia	inclusive
+FR187	a	ddp	yes	illettrée	inclusive
+FR413	n	cds	no	bandit	conservative
+FR558	n	an	no	poule	conservative
+FR292	n	dmc	yes	cancre	conservative
+FR1986	n	cds	no	fasciste	conservative
+FR1184	n	an	no	cabri	inclusive
+FR3121	n	cds	no	omertà	inclusive
+FR2850	n	om	no	pédérastie	inclusive
+FR431	n	ddp	yes	barbarie	inclusive
+FR2182	n	asf	no	pilosité pubienne	inclusive
+FR2656	n	cds	no	matcher	inclusive
+FR661	n	re	no	coquin	conservative
+FR931	n	qas	no	classe professionnelle	inclusive
+FR288	n	ddp	yes	knucklehead	conservative
+FR4016	n	an	no	acridophaga	inclusive
+FR3309	a	qas	no	affecté	conservative
+FR3761	n	ddp	yes	unwiseness	inclusive
+FR3315	v	cds	no	révérer	inclusive
+FR520	n	asm	no	cloche	conservative
+FR2835	n	re	no	mafieuse	conservative
+FR3041	a	cds	no	égocentriste	conservative
+FR1549	n	asf	no	fighe	conservative
+FR3195	n	dmc	yes	merry andrew	inclusive
+FR3033	n	dmc	yes	demi	conservative
+FR1086	n	asm	no	retarder	inclusive
+FR2725	n	dmc	yes	sneak thief	conservative
+FR267	n	or	no	andouille	conservative
+FR2127	n	cds	no	italie mussolinienne	conservative
+FR616	n	qas	no	relation	conservative
+FR1507	n	cds	no	monohybride	inclusive
+FR1330	n	or	no	tapette	conservative
+FR816	n	pa	yes	uncouthness	conservative
+FR270	n	or	no	balourd	conservative
+FR2683	n	svp	no	envieux	inclusive
+FR116	n	om	no	sodomite	inclusive
+FR903	n	om	no	sodomiste	inclusive
+FR1165	n	cds	no	tribal	inclusive
+FR2301	a	cds	no	retors	conservative
+FR802	n	dmc	yes	incapable	conservative
+FR316	n	an	no	Ânes	inclusive
+FR728	n	cds	no	batard	inclusive
+FR716	n	cds	no	porc	conservative
+FR1561	n	or	no	vitut	conservative
+FR3628	n	an	no	batracien	inclusive
+FR428	n	cds	no	barbare	conservative
+FR605	n	ps	yes	beduin	inclusive
+FR2727	n	qas	no	mélanger	inclusive
+FR343	n	is	yes	lésine	conservative
+FR170	n	cds	no	débris	conservative
+FR1342	n	om	no	lesbienne	conservative
+FR636	n	cds	no	fanatique	conservative
+FR479	n	qas	no	baronne	inclusive
+FR832	n	an	no	bos primigenius f. taurus	inclusive
+FR2570	n	cds	no	pourriel	inclusive
+FR851	n	ddp	yes	lesion cerebrale	inclusive
+FR222	n	ddp	yes	animalité	inclusive
+FR2814	n	cds	no	policière	inclusive
+FR3246	v	cds	no	trop manger	inclusive
+FR2635	n	cds	no	prêt usuraire	inclusive
+FR3998	a	dmc	yes	amoral	inclusive
+FR2255	v	asm	no	faire zizi-panpan	conservative
+FR2406	n	cds	no	prêtre	inclusive
+FR735	n	ps	yes	tête de nœud	conservative
+FR2256	v	asm	no	savoir	conservative
+FR380	n	cds	no	privé	inclusive
+FR1087	n	asf	no	attardé	conservative
+FR867	n	pr	no	surmulot	inclusive
+FR2229	n	cds	no	néo-réac	conservative
+FR297	n	an	no	bûche	conservative
+FR1985	n	ps	yes	facho	inclusive
+FR1029	n	ddp	yes	captivité	inclusive
+FR3699	a	dmc	yes	misérable	conservative
+FR476	n	pa	yes	cabot	inclusive
+FR799	n	cds	no	fumbler	conservative
+FR3259	v	asm	no	entuber	conservative
+FR1431	n	dmc	yes	duperie	conservative
+FR726	n	cds	no	actu	inclusive
+FR488	n	an	no	maraudeur	conservative
+FR731	n	cds	no	scab	inclusive
+FR4022	n	an	no	mesovipera	inclusive
+FR1976	n	qas	no	exploitant agricole	inclusive
+FR747	n	pa	yes	directeur de funérailles	inclusive
+FR942	n	cds	no	présomption	conservative
+FR3190	n	pa	yes	charretier	inclusive
+FR428	n	rci	yes	barbare	conservative
+FR2069	n	cds	no	maçoniques	inclusive
+FR1964	n	cds	no	souteneur	conservative
+FR4091	n	an	no	taure	inclusive
+FR1970	n	pr	no	femme entretenue	conservative
+FR3774	a	qas	no	ordinaire	inclusive
+FR2744	n	cds	no	chiottes	inclusive
+FR1592	n	om	no	madame	inclusive
+FR622	n	cds	no	fabricateur	conservative
+FR1392	n	ddp	yes	charlatanisme	conservative
+FR1271	n	or	no	choux	inclusive
+FR3093	n	cds	no	nymphomane	conservative
+FR3981	n	pa	yes	savetier	inclusive
+FR1574	n	cds	no	camarilla	inclusive
+FR2538	n	ddp	yes	incompétent	conservative
+FR2455	n	an	no	hyénidé	inclusive
+FR503	n	ps	yes	lampiste	conservative
+FR1767	n	om	no	miches	inclusive
+FR1061	n	is	yes	paria	inclusive
+FR3804	a	svp	no	vengeur	conservative
+FR1278	n	cds	no	multitude	inclusive
+FR460	n	pa	yes	porte-parole	inclusive
+FR2539	n	ddp	yes	ignorance	conservative
+FR2085	n	cds	no	intégrisme	inclusive
+FR1337	n	or	no	tante	conservative
+FR638	n	cds	no	anneau	inclusive
+FR2259	v	asm	no	coucher	conservative
+FR1346	n	om	no	homo	conservative
+FR977	n	cds	no	cohue	conservative
+FR3398	a	om	no	anomal	inclusive
+FR1111	n	re	no	traducteur	conservative
+FR900	n	or	no	pédé	conservative
+FR3557	n	pa	yes	expert-comptable	inclusive
+FR657	n	dmc	yes	canaille	conservative
+FR354	n	svp	no	pingre	conservative
+FR2696	n	svp	no	angriness	inclusive
+FR3923	n	asm	no	oisel	inclusive
+FR149	n	cds	no	bouts	inclusive
+FR2550	n	cds	no	solennité	inclusive
+FR4090	n	pr	no	vacca	inclusive
+FR2847	n	om	no	pédérastique	inclusive
+FR277	n	asm	no	idiot	inclusive
+FR1887	n	dmc	yes	moralité	inclusive
+FR2884	a	dmc	yes	sauvage	conservative
+FR2311	n	re	no	grand theft	inclusive
+FR1404	n	cds	no	déchet	inclusive
+FR1912	a	dmc	yes	méprisable	conservative
+FR503	n	ddp	yes	lampiste	conservative
+FR445	a	svp	no	goulu	conservative
+FR1875	n	asm	no	phallus	inclusive
+FR1733	n	om	no	distale	inclusive
+FR394	n	qas	no	gosse	inclusive
+FR1695	n	ps	yes	sky girls	conservative
+FR425	n	ddp	yes	pignouf	conservative
+FR3982	n	dmc	yes	vagabondage	inclusive
+FR1814	n	cds	no	montagne	inclusive
+FR2302	n	an	no	haridelle	inclusive
+FR1098	n	re	no	traducement	inclusive
+FR1641	n	ps	yes	saccageur	conservative
+FR409	a	dmc	yes	avaricieux	conservative
+FR345	n	svp	no	ladrerie	conservative
+FR1338	n	om	no	androgame	conservative
+FR375	n	cds	no	bazar	inclusive
+FR295	n	ddp	yes	tête de noeud	conservative
+FR406	a	dmc	yes	avare	conservative
+FR1047	n	an	no	mangeurs d'hommes	inclusive
+FR2260	v	asm	no	faire l'amour	conservative
+FR1557	n	asf	no	connil	conservative
+FR555	n	an	no	rentboy	conservative
+FR1169	n	cds	no	sous-clan	inclusive
+FR960	n	dmc	yes	tel et donc	conservative
+FR2731	n	cds	no	lavez chambre	inclusive
+FR426	n	pa	yes	mufle	conservative
+FR1790	n	svp	no	goinfre	conservative
+FR2399	n	cds	no	masses	inclusive
+FR2828	n	cds	no	maffioso	inclusive
+FR2616	n	re	no	néonaticide	inclusive
+FR532	n	pr	no	putain	conservative
+FR267	n	asm	no	andouille	conservative
+FR574	n	cds	no	boniment	conservative
+FR390	n	qas	no	ovule	inclusive
+FR194	n	an	no	civelle	inclusive
+FR596	n	cds	no	bedlam	inclusive
+FR840	n	pr	no	bos primigenius taurus	inclusive
+FR928	n	qas	no	bourgeoisie	inclusive
+FR3120	n	re	no	terrorisme	conservative
+FR2111	n	dmc	yes	chevalier d'industrie	conservative
+FR3341	a	cds	no	méticuleux	conservative
+FR9	n	svp	no	paresseux	inclusive
+FR222	n	an	no	animalité	inclusive
+FR3876	n	re	no	calvaire	inclusive
+FR268	n	dmc	yes	fou	inclusive
+FR2575	a	dmc	yes	immoral	conservative
+FR2318	n	re	no	fauche	inclusive
+FR220	n	ddp	yes	faunistique	inclusive
+FR1800	n	svp	no	gourmandizer	inclusive
+FR419	n	ps	yes	sauvage	inclusive
+FR1964	n	cds	no	souteneur	inclusive
+FR2440	n	qas	no	taudis	inclusive
+FR2344	n	pr	no	ramper trottoir	inclusive
+FR1866	n	re	no	félonie	inclusive
+FR1627	n	qas	no	vagabonde	conservative
+FR1408	n	cds	no	ordure	inclusive
+FR424	n	ps	yes	brute	conservative
+FR1138	n	an	no	chiennes	inclusive
+FR654	n	dmc	yes	voyous	conservative
+FR1890	n	dmc	yes	éthique	inclusive
+FR938	n	cds	no	la grosse tête	conservative
+FR2856	n	dmc	yes	impolitesse	conservative
+FR3533	a	ddf	yes	estropié	inclusive
+FR2484	a	is	yes	parcimonieux	conservative
+FR2250	v	asm	no	bien	conservative
+FR1527	n	re	no	crucifixion	inclusive
+FR3348	v	cds	no	contenter	inclusive
+FR1107	n	re	no	calomniateur	conservative
+FR668	n	dmc	yes	délinquant	inclusive
+FR1278	n	cds	no	multitude	conservative
+FR2707	v	ddp	yes	abasourdir	conservative
+FR355	n	cds	no	rat	conservative
+FR2474	n	cds	no	idolatrie	inclusive
+FR1543	n	cds	no	gamin	inclusive
+FR629	a	cds	no	stupide	conservative
+FR3229	n	cds	no	riches	inclusive
+FR364	n	qas	no	bordel	inclusive
+FR2088	n	cds	no	littéraliste	inclusive
+FR445	a	svp	no	goulu	inclusive
+FR983	n	is	yes	vilain	conservative
+FR2368	n	om	no	même sexe	inclusive
+FR3239	v	is	yes	supplier	inclusive
+FR519	n	asf	no	demeuré	conservative
+FR313	n	an	no	anesse	inclusive
+FR499	n	ddp	yes	fall guy	conservative
+FR1540	n	cds	no	garçon	inclusive
+FR572	n	cds	no	mensonge	conservative
+FR283	n	or	no	buse	conservative
+FR2257	v	asm	no	baiser	conservative
+FR3285	v	cds	no	casser sa pipe	inclusive
+FR2112	n	re	no	filou	inclusive
+FR1883	n	dmc	yes	morale	inclusive
+FR1526	n	ps	yes	monohybrides	inclusive
+FR767	n	qas	no	bousiller	inclusive
+FR477	n	cds	no	chien	conservative
+FR2496	n	ddf	yes	handicap	inclusive
+FR436	n	cds	no	opérateur	conservative
+FR294	n	or	no	buche	conservative
+FR3354	n	cds	no	ronchonneur	conservative
+FR2483	a	dmc	yes	étroit	conservative
+FR16	n	svp	no	flemmardise	inclusive
+FR3204	v	qas	no	mélanger	conservative
+FR1525	n	ps	yes	culture selective des plantes	inclusive
+FR458	n	pa	yes	avocat	inclusive
+FR2397	n	cds	no	troupeaux	inclusive
+FR1505	n	ps	yes	croix	inclusive
+FR654	n	cds	no	voyous	conservative
+FR2020	n	cds	no	paire de manches	inclusive
+FR1654	n	ddp	yes	doofus	conservative
+FR2459	n	an	no	hyaenidae	inclusive
+FR385	n	cds	no	hôtel de passe	inclusive
+FR406	a	is	yes	avare	conservative
+FR3174	a	qas	no	général	inclusive
+FR265	n	cds	no	connard	inclusive
+FR2772	n	pr	no	hétérocères	inclusive
+FR1749	n	om	no	ligne médio-claviculaire	inclusive
+FR345	n	svp	no	ladrerie	inclusive
+FR3402	n	asm	no	jacking off	conservative
+FR1602	n	dmc	yes	mystification	conservative
+FR634	n	cds	no	bigot	conservative
+FR364	n	cds	no	bordel	inclusive
+FR2922	n	cds	no	prankishness	inclusive
+FR12	n	svp	no	faignant	inclusive
+FR1059	n	is	yes	ismaël	inclusive
+FR1911	a	qas	no	pauvre	conservative
+FR656	n	dmc	yes	rogue	conservative
+FR2519	n	ddp	yes	absurde	conservative
+FR297	n	or	no	bûche	conservative
+FR2551	n	cds	no	ostentation	conservative
+FR157	n	cds	no	mélimélo	inclusive
+FR2316	n	re	no	pillage	inclusive
+FR3744	a	svp	no	lascive	conservative
+FR2829	n	re	no	maffia	conservative
+FR1020	n	cds	no	ingroup	inclusive
+FR1015	n	cds	no	coterie	inclusive
+FR492	n	cds	no	blackbouler	inclusive
+FR1778	n	om	no	région glutéale	inclusive
+FR1395	n	ddp	yes	rebouteur	conservative
+FR217	n	asm	no	bête	conservative
+FR669	n	re	no	bandits	inclusive
+FR1129	n	qas	no	écume	conservative
+FR2799	n	cds	no	nerd	conservative
+FR345	n	an	no	ladrerie	conservative
+FR1793	n	svp	no	gastronome	inclusive
+FR1642	n	an	no	spoliateur	inclusive
+FR3225	n	qas	no	profiteur	conservative
+FR1651	n	ps	yes	boule	conservative
+FR2764	n	an	no	culicidés	inclusive
+FR608	n	ps	yes	bédouin	inclusive
+FR268	n	cds	no	fou	inclusive
+FR715	n	cds	no	talon	conservative
+FR1885	n	dmc	yes	moraliste	inclusive
+FR1477	n	asf	no	connasse	conservative
+FR3622	n	an	no	anura	inclusive
+FR108	n	om	no	enculage	inclusive
+FR3417	a	cds	no	coupant	inclusive
+FR3638	n	an	no	bufavus	inclusive
+FR4019	n	an	no	teleovipera	inclusive
+FR279	n	or	no	bêta	conservative
+FR1003	a	dmc	yes	laid	conservative
+FR1755	n	om	no	système de référence en anatomie	inclusive
+FR655	n	an	no	valet	conservative
+FR3016	n	ps	yes	mongoloïde	conservative
+FR408	a	svp	no	avide	conservative
+FR1004	a	ddf	yes	moche	conservative
+FR1532	n	cds	no	recrue	conservative
+FR1837	n	an	no	naine	conservative
+FR422	n	qas	no	rustaud	conservative
+FR567	n	cds	no	fausseté	inclusive
+FR346	n	svp	no	grippe-sou	inclusive
+FR1521	n	cds	no	biotechnologie des plantes	inclusive
+FR2089	n	cds	no	extrémisme religieux	inclusive
+FR717	n	cds	no	cochon	conservative
+FR732	n	cds	no	charbon symptomatique	inclusive
+FR2926	n	svp	no	pridefulness	inclusive
+FR667	n	cds	no	interdire	conservative
+FR261	n	asf	no	imbécile	conservative
+FR3748	a	is	yes	maigre	inclusive
+FR63	n	pa	yes	académie	inclusive
+FR720	n	cds	no	plouc	conservative
+FR2865	n	qas	no	parasites	inclusive
+FR3608	a	ddf	yes	insatisfaisant	conservative
+FR257	n	asm	no	bêtise	conservative
+FR2611	n	cds	no	mensonges	conservative
+FR268	n	asm	no	fou	inclusive
+FR3112	n	an	no	branta bernicla	inclusive
+FR1089	n	an	no	rosse	inclusive
+FR4044	n	dmc	yes	traitre	conservative
+FR504	n	cds	no	pigeon	conservative
+FR1678	n	an	no	diddly	conservative
+FR292	n	an	no	cancre	conservative
+FR3736	a	ps	yes	juive	inclusive
+FR1967	n	pr	no	amante	conservative
+FR19	n	svp	no	perte de volonté	inclusive
+FR3531	a	ddp	yes	adolescent	conservative
+FR302	n	an	no	know nothing	conservative
+FR1342	n	or	no	lesbienne	conservative
+FR502	n	ps	yes	poire	conservative
+FR826	n	pr	no	vaches	inclusive
+FR297	n	asf	no	bûche	conservative
+FR3641	n	an	no	pegaeus	inclusive
+FR2486	a	dmc	yes	ladre	conservative
+FR288	n	an	no	knucklehead	conservative
+FR426	n	dmc	yes	mufle	conservative
+FR1351	n	om	no	homme	inclusive
+FR3932	n	asm	no	avien	inclusive
+FR154	n	qas	no	vide poche	inclusive
+FR1511	n	cds	no	interfertilité	inclusive
+FR2641	n	cds	no	embouchure	inclusive
+FR1514	n	ps	yes	hybride	inclusive
+FR1349	n	om	no	gays	inclusive
+FR425	n	pa	yes	pignouf	conservative
+FR2054	n	cds	no	franc-maçon	inclusive
+FR3156	n	cds	no	opportuniste	conservative
+FR685	n	ddp	yes	rapporteur	conservative
+FR2753	n	dmc	yes	fainéants	conservative
+FR1117	n	re	no	fraudeur	inclusive
+FR417	n	re	no	banditisme	inclusive
+FR268	n	qas	no	fou	inclusive
+FR961	n	dmc	yes	mouffette	inclusive
+FR1586	n	cds	no	farceur	inclusive
+FR3487	a	ddf	yes	aveugle	inclusive
+FR168	n	cds	no	tripe	conservative
+FR3523	n	cds	no	protagonisme	inclusive
+FR724	n	cds	no	cur	inclusive
+FR973	n	cds	no	glandeur	conservative
+FR1373	n	ddp	yes	dénonciateur	conservative
+FR1085	n	ddp	yes	concombre	inclusive
+FR2328	n	qas	no	tagalong	conservative
+FR1428	n	an	no	hémiptères	inclusive
+FR2652	n	asm	no	bordeaux	inclusive
+FR722	n	cds	no	métisse	inclusive
+FR1604	n	dmc	yes	tromperie	conservative
+FR1597	n	qas	no	barbouilleur	conservative
+FR2629	n	re	no	meurtrière	inclusive
+FR1694	n	ps	yes	krauthead	conservative
+FR1086	n	ddp	yes	retarder	inclusive
+FR1683	a	dmc	yes	criminel	conservative
+FR1115	n	re	no	camorriste	inclusive
+FR1621	n	pr	no	concubinat	inclusive
+FR2565	n	cds	no	enseignants	inclusive
+FR999	n	an	no	caïman	inclusive
+FR1555	n	asf	no	connin	conservative
+FR3819	n	ddp	yes	hooey	inclusive
+FR67	n	pa	yes	universitaire	inclusive
+FR2105	n	svp	no	dilly-dallier	conservative
+FR3035	n	cds	no	amour de soi	inclusive
+FR3913	n	om	no	travestissement	inclusive
+FR761	n	dmc	yes	rakehell	conservative
+FR402	n	asm	no	testicules	inclusive
+FR93	n	ddp	yes	déficiences intellectuelles	inclusive
+FR3703	a	re	no	sévère	inclusive
+FR2335	n	pr	no	crack whore	inclusive
+FR1343	n	om	no	inverti	conservative
+FR1795	n	svp	no	dégustateur	inclusive
+FR3159	n	or	no	orange brûlé	inclusive
+FR3032	n	ddf	yes	demi-pinte	conservative
+FR2390	n	ps	yes	juifs	inclusive
+FR539	n	pr	no	pute	inclusive
+FR442	n	qas	no	operateur de marche	inclusive
+FR2939	n	cds	no	reste	inclusive
+FR425	n	rci	yes	pignouf	conservative
+FR4086	n	cds	no	culchie	inclusive
+FR3012	n	cds	no	casse-tête	conservative
+FR1094	n	re	no	diffamatoire	inclusive
+FR185	a	ddp	yes	illettré	conservative
+FR3240	v	is	yes	implorer	inclusive
+FR169	n	cds	no	folderol	conservative
+FR1966	n	cds	no	proxénétisme	conservative
+FR3406	a	cds	no	arrogante	conservative
+FR2242	v	asm	no	niquer	conservative
+FR126	n	an	no	feignant	conservative
+FR1152	n	cds	no	unite de mesure japonaise	inclusive
+FR762	n	dmc	yes	débauché	inclusive
+FR854	n	asm	no	marron	inclusive
+FR1956	n	cds	no	entremetteur	conservative
+FR283	n	ddp	yes	buse	inclusive
+FR2978	n	an	no	microbien	inclusive
+FR3866	n	an	no	caimaninae	inclusive
+FR2361	n	om	no	l'homosexualité	inclusive
+FR517	n	an	no	niais	conservative
+FR3197	n	dmc	yes	clownerie	inclusive
+FR1304	n	asm	no	nookie	conservative
+FR1225	n	qas	no	roturiers	inclusive
+FR568	n	qas	no	craque	conservative
+FR1194	n	svp	no	étroitesse	conservative
+FR285	n	ddp	yes	anthony simon	conservative
+FR74	n	qas	no	amateurisme	inclusive
+FR1206	n	asm	no	pénis	conservative
+FR420	n	pa	yes	barbares	conservative
+FR796	n	dmc	yes	boucher	conservative
+FR2342	n	pr	no	john	conservative
+FR3274	v	cds	no	dévisser son billard	inclusive
+FR1134	n	cds	no	chiens	conservative
+FR2851	n	cds	no	paparazzo	inclusive
+FR1461	n	an	no	hiboux	inclusive
+FR2055	n	cds	no	mason	inclusive
+FR527	n	ps	yes	néné	conservative
+FR639	n	cds	no	gangs	conservative
+FR279	n	asf	no	bêta	conservative
+FR721	n	cds	no	personne négligée	conservative
+FR2043	n	cds	no	coque	conservative
+FR279	n	ps	yes	bêta	conservative
+FR1372	n	dmc	yes	traître	conservative
+FR254	n	ddp	yes	stupidité	conservative
+FR320	n	ddp	yes	cul	conservative
+FR2341	n	pr	no	services sexuels	inclusive
+FR2348	n	om	no	sexualité masculine	inclusive
+FR1656	n	ps	yes	destructeur	conservative
+FR284	n	cds	no	enculé	conservative
+FR215	n	an	no	macrofaune	inclusive
+FR2454	n	an	no	hyaena	inclusive
+FR1256	n	pa	yes	chaire	inclusive
+FR2819	n	cds	no	mafia	conservative
+FR478	n	an	no	aboyeur	inclusive
+FR2128	n	cds	no	fascists	conservative
+FR1398	n	cds	no	ferraille	conservative
+FR797	n	cds	no	bousilleur	conservative
+FR509	n	asm	no	stupide	conservative
+FR1617	n	pr	no	odalisque	inclusive
+FR962	n	an	no	lowlife	conservative
+FR2524	n	is	yes	pauvres	inclusive
+FR1587	n	dmc	yes	mystificateur	conservative
+FR1326	n	om	no	poove	conservative
+FR963	n	qas	no	clochard	conservative
+FR1426	n	an	no	hemipteron	inclusive
+FR1557	n	or	no	connil	conservative
+FR659	n	re	no	fourbe	conservative
+FR1081	n	ddp	yes	changeling	conservative
+FR3118	n	an	no	brent	inclusive
+FR3720	n	an	no	blatoptère	inclusive
+FR1337	n	om	no	tante	conservative
+FR3008	n	pa	yes	moutonnière	inclusive
+FR713	n	dmc	yes	quignon	conservative
+FR1848	n	cds	no	éducateur	inclusive
+FR424	n	ddp	yes	brute	conservative
+FR282	n	cds	no	abruti	inclusive
+FR317	n	an	no	Ânesse	inclusive
+FR1861	n	cds	no	passionné	inclusive
+FR891	n	qas	no	businessman	inclusive
+FR1632	a	ddp	yes	naïf	conservative
+FR1658	n	ps	yes	uprooter	conservative
+FR1082	n	ddp	yes	changelins	inclusive
+FR1214	n	asm	no	bitte	conservative
+FR974	n	svp	no	ne rien faire	conservative
+FR2798	n	cds	no	ringard	conservative
+FR2776	n	pr	no	mites	inclusive
+FR3648	n	an	no	rana scorodesma	inclusive
+FR4014	n	re	no	violents	inclusive
+FR1350	n	om	no	fif	conservative
+FR1096	n	re	no	diffamatoires	inclusive
+FR1106	n	re	no	libeler	conservative
+FR201	n	an	no	anguilliforme	inclusive
+FR759	n	cds	no	cul-de-sac	inclusive
+FR502	n	ddp	yes	poire	conservative
+FR980	n	cds	no	méchant	conservative
+FR1113	n	re	no	camora	inclusive
+FR626	a	cds	no	idiot	conservative
+FR1291	n	qas	no	merde	inclusive
+FR14	n	svp	no	indolence	inclusive
+FR727	n	ps	yes	métis	conservative
+FR530	n	asf	no	nibard	conservative
+FR3791	n	cds	no	bosser	conservative
+FR632	n	svp	no	sectaire	conservative
+FR3540	n	pr	no	coquine	conservative
+FR1821	n	cds	no	beaucoup	inclusive
+FR750	n	pa	yes	croquemort	inclusive
+FR1379	n	cds	no	couard	conservative
+FR3539	a	cds	no	démagogique	conservative
+FR331	n	svp	no	les 7 pêchés capitaux	inclusive
+FR426	n	ps	yes	mufle	conservative
+FR4063	n	ps	yes	tsigane	inclusive
+FR1005	a	ddf	yes	vil	conservative
+FR2384	n	ps	yes	hebraica	inclusive
+FR4011	n	re	no	impétuosité	inclusive
+FR121	n	om	no	rapport anal	inclusive
+FR2602	n	dmc	yes	qui tergiverse	conservative
+FR1925	n	dmc	yes	libertin	conservative
+FR2693	n	svp	no	ira	inclusive
+FR167	n	cds	no	codswallop	conservative
+FR2004	n	dmc	yes	empester	conservative
+FR309	n	an	no	bourricot	inclusive
+FR1673	n	dmc	yes	délit	inclusive
+FR1360	n	cds	no	commérage	conservative
+FR85	n	ddp	yes	arrieration mentale	inclusive
+FR1119	n	re	no	ciseleur	inclusive
+FR1920	a	is	yes	triste	inclusive
+FR675	n	dmc	yes	hors la loi	inclusive
+FR1129	n	cds	no	écume	conservative
+FR1203	n	asm	no	zob	conservative
+FR1339	n	or	no	1069bf	conservative
+FR251	n	or	no	bonce	inclusive
+FR1003	a	ddf	yes	laid	conservative
+FR2877	n	qas	no	paroissien	inclusive
+FR3060	n	ps	yes	noirs	inclusive
+FR273	n	an	no	cruche	conservative
+FR1444	n	an	no	friponne	conservative
+FR1294	n	asm	no	fuck	conservative
+FR2484	a	dmc	yes	parcimonieux	conservative
+FR1624	n	pr	no	amant	inclusive
+FR2945	n	qas	no	rhétorique	inclusive
+FR793	n	qas	no	conformiste	inclusive
+FR2659	n	asm	no	zizi	inclusive
+FR158	n	cds	no	omnium-gatherum	inclusive
+FR2206	n	cds	no	truchement	inclusive
+FR1066	n	om	no	chochotte	conservative
+FR4061	n	ps	yes	manouches	inclusive
+FR2819	n	cds	no	mafia	inclusive
+FR3261	v	re	no	entourloupe	inclusive
+FR2987	n	ddp	yes	microcéphale	inclusive
+FR1600	n	dmc	yes	supercherie	conservative
+FR1079	n	an	no	wimp	conservative
+FR823	n	dmc	yes	méchanceté	inclusive
+FR2769	n	an	no	culicidé	inclusive
+FR355	n	dmc	yes	rat	inclusive
+FR2351	n	om	no	shirtlifter	inclusive
+FR661	n	dmc	yes	coquin	inclusive
+FR1002	a	dmc	yes	abject	conservative
+FR262	n	an	no	oie	conservative
+FR1756	n	om	no	derrière	inclusive
+FR2290	n	cds	no	hack écrivain	conservative
+FR880	n	qas	no	paysannes	inclusive
+FR244	n	re	no	violeurs	conservative
+FR1127	n	cds	no	de bric et de broc	conservative
+FR3929	n	asm	no	aves	inclusive
+FR275	n	cds	no	dupe	conservative
+FR408	a	svp	no	avide	inclusive
+FR3405	a	cds	no	orgueilleux	conservative
+FR261	n	cds	no	imbécile	inclusive
+FR1895	n	dmc	yes	parénèse	inclusive
+FR3099	n	cds	no	hypersexuelle	conservative
+FR2820	n	cds	no	mafia: the city of lost heaven	inclusive
+FR3520	a	cds	no	peureux	conservative
+FR421	n	ps	yes	rustaude	conservative
+FR128	n	an	no	flemmarde	conservative
+FR2494	n	ddf	yes	personne à mobilité réduite	inclusive
+FR1220	n	asm	no	mâle	inclusive
+FR961	n	dmc	yes	mouffette	conservative
+FR688	n	cds	no	méfait	conservative
+FR2084	n	cds	no	fondamentalisme	inclusive
+FR2827	n	cds	no	mafias	inclusive
+FR1512	n	cds	no	dihybridisme	inclusive
+FR553	n	an	no	escortboy	conservative
+FR2058	n	cds	no	maçonnique	inclusive
+FR2766	n	an	no	moustiques	inclusive
+FR109	n	om	no	enculer	inclusive
+FR1736	n	om	no	lune	inclusive
+FR1390	v	cds	no	bavarder	inclusive
+FR2415	n	dmc	yes	sdf	inclusive
+FR3186	n	an	no	couleuvre	inclusive
+FR2852	n	cds	no	papparazzi	inclusive
+FR255	n	an	no	imbécilité	conservative
+FR2636	n	cds	no	prêteurs	inclusive
+FR983	n	cds	no	vilain	conservative
+FR155	n	cds	no	se mêlent-mangle	inclusive
+FR3243	v	is	yes	prier	inclusive
+FR3231	n	cds	no	arriviste	inclusive
+FR248	n	cds	no	ruse	conservative
+FR3284	v	cds	no	claboter	inclusive
+FR3226	n	qas	no	tapeur	conservative
+FR3407	a	cds	no	outrecuidant	conservative
+FR2113	n	dmc	yes	tricheur	conservative
+FR2587	n	dmc	yes	pseudo	conservative
+FR1984	n	qas	no	cultivateur	inclusive
+FR1182	n	an	no	chèvres	inclusive
+FR1062	n	dmc	yes	proscrit	inclusive
+FR3919	n	pr	no	harpie	conservative
+FR45	n	re	no	une mauvaise utilisation	inclusive
+FR1204	n	asm	no	vit	conservative
+FR294	n	ddp	yes	buche	conservative
+FR423	n	qas	no	bâtard	conservative
+FR1519	n	cds	no	culture sélective des plantes	inclusive
+FR3965	n	om	no	drag-queen	inclusive
+FR2246	v	asm	no	fourrer	conservative
+FR3403	n	cds	no	handjob	conservative
+FR3597	n	cds	no	groveler	conservative
+FR658	n	re	no	gredin	conservative
+FR1078	n	an	no	poulet	conservative
+FR978	n	qas	no	troupeau	inclusive
+FR3091	n	ps	yes	economie souterraine	inclusive
+FR1835	n	an	no	nain	conservative
+FR738	n	cds	no	tête de vier	conservative
+FR420	n	qas	no	barbares	conservative
+FR3415	a	cds	no	sagace	inclusive
+FR3980	n	pa	yes	bonze	inclusive
+FR473	n	an	no	clébard	inclusive
+FR853	n	asm	no	brun	inclusive
+FR125	n	cds	no	fainéante	conservative
+FR3408	a	svp	no	important	conservative
+FR430	n	ddp	yes	brutalité	inclusive
+FR3507	a	dmc	yes	imitatif	conservative
+FR2717	n	ps	yes	métèques	inclusive
+FR2408	n	cds	no	hiérarque	inclusive
+FR2214	n	an	no	caprinae	inclusive
+FR23	n	svp	no	langueur	inclusive
+FR146	n	pr	no	blague	conservative
+FR2771	n	pr	no	heteroceres	inclusive
+FR422	n	dmc	yes	rustaud	conservative
+FR558	n	asf	no	poule	conservative
+FR272	n	ddp	yes	bourrique	conservative
+FR426	n	ddp	yes	mufle	conservative
+FR3452	a	dmc	yes	baisé	conservative
+FR1121	n	re	no	trafiquant	inclusive
+FR2286	n	an	no	cochonne	inclusive
+FR1344	n	om	no	homosexuelle	conservative
+FR617	n	qas	no	baratin	conservative
+FR353	n	an	no	ladre	conservative
+FR363	n	ddp	yes	état arriéré	inclusive
+FR714	n	an	no	achille	conservative
+FR667	n	re	no	interdire	inclusive
+FR1083	n	ddp	yes	idiote	conservative
+FR1481	n	ddf	yes	estropié	inclusive
+FR951	n	svp	no	arrogance	conservative
+FR655	n	an	no	valet	inclusive
+FR679	n	ddp	yes	blabbermouth	conservative
+FR1348	n	om	no	gai	inclusive
+FR2753	n	svp	no	fainéants	conservative
+FR1052	n	cds	no	low rollers	inclusive
+FR1953	n	cds	no	proxo	inclusive
+FR4080	n	cds	no	assistante parlementaire	inclusive
+FR2796	n	an	no	museau	inclusive
+FR2045	n	cds	no	accro	conservative
+FR906	n	qas	no	classes moyennes	inclusive
+FR3029	n	cds	no	voleuse	inclusive
+FR653	n	re	no	voyou	conservative
+FR156	n	cds	no	baragouin	inclusive
+FR2777	n	an	no	phalène	inclusive
+FR1992	n	re	no	extorsion	inclusive
+FR3100	n	cds	no	dépendance au sexe	conservative
+FR3752	n	cds	no	scientiste	inclusive
+FR598	n	cds	no	chahut	inclusive
+FR2776	n	an	no	mites	inclusive
+FR2825	n	re	no	mafiosi	inclusive
+FR1171	n	pa	yes	commis	inclusive
+FR498	n	cds	no	gogo	conservative
+FR425	n	qas	no	pignouf	conservative
+FR57	n	cds	no	courtiers	inclusive
+FR3532	a	ddf	yes	boiteuse	inclusive
+FR3251	v	cds	no	mettre	inclusive
+FR3334	v	cds	no	diminuer	inclusive
+FR578	n	cds	no	etendoir	inclusive
+FR2586	n	om	no	lady	inclusive
+FR1690	n	ps	yes	kraut	conservative
+FR1669	n	re	no	activités illégales	inclusive
+FR1548	n	asf	no	minou	conservative
+FR3677	n	cds	no	bégueule	conservative
+FR1807	n	pa	yes	amaryllis	inclusive
+FR856	n	pr	no	mus hibernicus	inclusive
+FR270	n	cds	no	balourd	inclusive
+FR2470	n	asf	no	poussin	conservative
+FR4087	n	an	no	genisse	inclusive
+FR5	v	an	no	écorce	inclusive
+FR1482	n	ddf	yes	boiteux	inclusive
+FR3503	a	qas	no	commun	inclusive
+FR1677	n	an	no	diddly-shit	conservative
+FR406	a	svp	no	avare	conservative
+FR2812	n	cds	no	cogne	conservative
+FR2003	n	dmc	yes	mauvaises odeurs	conservative
+FR1283	n	svp	no	concupiscence	inclusive
+FR129	n	svp	no	limace	conservative
+FR282	n	asf	no	abruti	conservative
+FR2357	n	om	no	vice anglais	inclusive
+FR291	n	or	no	bœuf	conservative
+FR1655	n	ps	yes	destroyer	conservative
+FR2772	n	an	no	hétérocères	inclusive
+FR983	n	an	no	vilain	conservative
+FR290	n	or	no	blockhead	conservative
+FR2398	n	cds	no	populace	inclusive
+FR2813	n	cds	no	gardien de la paix	inclusive
+FR1117	n	cds	no	fraudeur	inclusive
+FR1310	n	an	no	lapin	inclusive
+FR344	n	an	no	parcimonie	conservative
+FR1093	n	re	no	travail de démolition	inclusive
+FR2823	n	re	no	mafioso	conservative
+FR1645	n	ps	yes	goujat	conservative
+FR1568	n	or	no	sativus	inclusive
+FR932	n	qas	no	middle class	inclusive
+FR3716	n	an	no	cafard	inclusive
+FR525	n	asf	no	nigaud	conservative
+FR1056	n	cds	no	high rollers	inclusive
+FR3055	n	ps	yes	mélanodermie	inclusive
+FR973	n	svp	no	glandeur	conservative
+FR2643	n	cds	no	sassing	inclusive
+FR955	n	cds	no	en gros	inclusive
+FR1643	n	an	no	pirate	inclusive
+FR2982	n	an	no	foutriquet	conservative
+FR3786	n	cds	no	falot	conservative
+FR3419	a	svp	no	contrarié	conservative
+FR516	n	asm	no	gourde	conservative
+FR2487	a	is	yes	pingre	conservative
+FR2682	n	svp	no	jalousie	inclusive
+FR2626	a	is	yes	malheureux	inclusive
+FR3	n	dmc	yes	dégradation	inclusive
+FR788	n	cds	no	ligne de tir	conservative
+FR1577	n	or	no	cuke	inclusive
+FR800	n	dmc	yes	gâcheur	conservative
+FR3273	v	cds	no	passer l%e2%80%99arme %c3%a0 gauche	inclusive
+FR1747	n	om	no	proximale	inclusive
+FR718	n	an	no	salaud	conservative
+FR265	n	asm	no	connard	conservative
+FR294	n	an	no	buche	conservative
+FR2893	a	dmc	yes	scélérat	conservative
+FR2597	a	dmc	yes	impoli	conservative
+FR1366	n	an	no	physiognomonie	inclusive
+FR426	n	cds	no	mufle	conservative
+FR2253	v	asm	no	enculer	conservative
+FR666	n	re	no	malfrat	inclusive
+FR3339	a	om	no	hors norme	inclusive
+FR505	n	asf	no	doux au toucher	conservative
+FR774	n	dmc	yes	gaffe	inclusive
+FR107	a	an	no	têtu	inclusive
+FR1608	n	cds	no	démagogues	conservative
+FR1713	n	svp	no	abomination	inclusive
+FR1765	n	om	no	ventrolatérale	inclusive
+FR546	n	pr	no	roulure	conservative
+FR2185	n	asf	no	toison	inclusive
+FR1542	n	cds	no	fiston	inclusive
+FR828	n	an	no	vache	conservative
+FR1119	n	cds	no	ciseleur	conservative
+FR1718	n	svp	no	désagréable	inclusive
+FR4077	n	ps	yes	rom	inclusive
+FR2486	a	is	yes	ladre	conservative
+FR671	n	cds	no	malfaiteur	conservative
+FR1882	n	qas	no	amateurs	inclusive
+FR286	n	asf	no	hammerhead	conservative
+FR347	n	svp	no	lésineur	conservative
+FR1496	n	an	no	suchia	inclusive
+FR948	n	svp	no	morgue	conservative
+FR1662	n	cds	no	activités criminelles	inclusive
+FR391	n	qas	no	œuf	inclusive
+FR1959	n	cds	no	jules	inclusive
+FR2013	n	pa	yes	poissonniers	inclusive
+FR1799	n	svp	no	boulimique	conservative
+FR3776	n	an	no	sciaenops ocellatus	inclusive
+FR1446	n	an	no	coquette	conservative
+FR525	n	or	no	nigaud	conservative
+FR1449	n	an	no	flirter	conservative
+FR589	n	cds	no	séchoir à linge	inclusive
+FR3025	n	an	no	moucherons	inclusive
+FR493	n	cds	no	blackballing	inclusive
+FR2041	n	cds	no	écrou	conservative
+FR3404	n	asm	no	branlage	conservative
+FR1513	n	cds	no	sélection variétale	inclusive
+FR2870	n	qas	no	parasitisme	inclusive
+FR3881	n	re	no	torturer	inclusive
+FR2252	v	asm	no	faire crac-crac	conservative
+FR1859	a	qas	no	éperdu	inclusive
+FR2820	n	re	no	mafia: the city of lost heaven	inclusive
+FR846	n	cds	no	patronat	inclusive
+FR271	n	ps	yes	benêt	conservative
+FR1824	n	cds	no	scores	inclusive
+FR2649	n	qas	no	le gardien du marché	inclusive
+FR1613	n	pr	no	cohabitation	inclusive
+FR2035	n	cds	no	bouffon	conservative
+FR268	n	asf	no	fou	conservative
+FR1114	n	re	no	camorra	inclusive
+FR3192	n	cds	no	énormité	conservative
+FR3562	n	re	no	kidnapping	inclusive
+FR3217	v	qas	no	putain	conservative
+FR354	n	an	no	pingre	conservative
+FR2334	n	pr	no	racoler	inclusive
+FR581	n	cds	no	dude	inclusive
+FR474	n	an	no	chienchien	inclusive
+FR1914	a	ps	yes	noir	inclusive
+FR548	n	pr	no	trainée	conservative
+FR261	n	asm	no	imbécile	conservative
+FR2191	n	cds	no	touche-à-tout	conservative
+FR3260	v	re	no	frauder	inclusive
+FR525	n	an	no	nigaud	conservative
+FR2813	n	cds	no	gardien de la paix	conservative
+FR1372	n	ddp	yes	traître	conservative
+FR1424	n	an	no	punaise	inclusive
+FR3014	n	an	no	coquillage	inclusive
+FR636	n	dmc	yes	fanatique	conservative
+FR1072	n	cds	no	trouillard	conservative
+FR809	n	an	no	trafic de cadavres	inclusive
+FR753	n	an	no	cuckolding	conservative
+FR452	n	pa	yes	rang diplomatique	inclusive
+FR2346	n	is	yes	have-not	inclusive
+FR3879	n	re	no	tourment	inclusive
+FR2151	a	dmc	yes	puante	conservative
+FR2354	n	om	no	homosexuelles	inclusive
+FR180	n	cds	no	fanatisme	inclusive
+FR746	n	pa	yes	croque mort	inclusive
+FR751	n	pa	yes	croque-mort	inclusive
+FR352	n	is	yes	avare	conservative
+FR3188	n	an	no	gier	inclusive
+FR472	n	pa	yes	avocature	inclusive
+FR1691	n	ps	yes	hun	conservative
+FR633	n	svp	no	bigoterie	conservative
+FR264	n	an	no	coucou	conservative
+FR2752	n	dmc	yes	tire-au-flanc	conservative
+FR2411	n	qas	no	mosaïque	inclusive
+FR1476	n	asm	no	branleur	conservative
+FR1297	n	asm	no	vis	conservative
+FR3367	n	an	no	humanus	inclusive
+FR2882	n	svp	no	épargne	inclusive
+FR947	n	svp	no	orgueil	inclusive
+FR1981	n	qas	no	sodbuster	inclusive
+FR3484	a	ddp	yes	brute	conservative
+FR1720	n	svp	no	exécration	inclusive
+FR394	n	asm	no	gosse	inclusive
+FR2518	n	ddp	yes	non-sens	conservative
+FR283	n	cds	no	buse	conservative
+FR577	n	cds	no	mec	inclusive
+FR3656	n	an	no	buffo strumosus	inclusive
+FR607	n	ps	yes	bedouins	inclusive
+FR4091	n	pr	no	taure	inclusive
+FR632	n	cds	no	sectaire	conservative
+FR660	n	dmc	yes	fripouille	inclusive
+FR3271	v	cds	no	calancher	inclusive
+FR3429	n	re	no	piraterie	inclusive
+FR1609	n	cds	no	demagog	conservative
+FR572	n	dmc	yes	mensonge	inclusive
+FR953	n	cds	no	masse	conservative
+FR1711	n	svp	no	répugnance	inclusive
+FR899	n	om	no	puanteur	inclusive
+FR772	n	qas	no	maladresse	inclusive
+FR36	n	re	no	exploitation financière	inclusive
+FR355	n	svp	no	rat	inclusive
+FR3485	a	an	no	bestial	conservative
+FR2333	n	pr	no	sexuels commerciaux	inclusive
+FR1112	n	re	no	vilifier	conservative
+FR529	n	ps	yes	haltère	conservative
+FR1408	n	cds	no	ordure	conservative
+FR509	n	or	no	stupide	conservative
+FR1551	n	asf	no	twats	conservative
+FR2671	v	cds	no	manigancer	inclusive
+FR3220	n	qas	no	sangsue	conservative
+FR3627	n	an	no	grenouilles	inclusive
+FR374	n	cds	no	claque	inclusive
+FR73	a	pa	yes	théoriques	inclusive
+FR1079	n	cds	no	wimp	conservative
+FR952	n	svp	no	conceitedness	conservative
+FR281	n	asf	no	crétin	conservative
+FR1559	n	asf	no	votzen	conservative
+FR1118	n	cds	no	chiseler	inclusive
+FR360	n	svp	no	cupide	inclusive
+FR2006	n	qas	no	resquilleur	conservative
+FR2576	a	dmc	yes	immorale	conservative
+FR2815	n	cds	no	policier	inclusive
+FR1109	n	re	no	calomniatrice	conservative
+FR497	n	cds	no	bas-bleu	inclusive
+FR1593	n	cds	no	croûte	inclusive
+FR940	n	cds	no	effronté	conservative
+FR257	n	ddp	yes	bêtise	conservative
+FR1067	n	an	no	faible	conservative
+FR660	n	cds	no	fripouille	conservative
+FR3079	n	an	no	pigeonner	inclusive
+FR252	n	or	no	caboche	inclusive
+FR1828	n	dmc	yes	erratique	inclusive
+FR2322	n	cds	no	voleurs	inclusive
+FR2343	n	pr	no	prostituées	inclusive
+FR418	n	pa	yes	banquier	inclusive
+FR1500	n	ddf	yes	bossu	inclusive
+FR1168	n	cds	no	tribalisme	inclusive
+FR3140	n	re	no	exécution	inclusive
+FR3252	v	cds	no	gorger	inclusive
+FR3286	v	cds	no	avaler son extrait de naissance	inclusive
+FR2778	n	an	no	heterocera	inclusive
+FR355	n	pr	no	rat	inclusive
+FR2749	n	cds	no	letrine	inclusive
+FR350	n	svp	no	grigou	inclusive
+FR3855	n	cds	no	superficialité	inclusive
+FR2646	n	cds	no	bouche	inclusive
+FR3684	a	dmc	yes	crasseux	conservative
+FR3466	n	an	no	volaille	inclusive
+FR318	n	an	no	Équidé asinien	inclusive
+FR269	n	asm	no	muggins	conservative
+FR2265	a	cds	no	illégal	inclusive
+FR864	n	pr	no	mus norvegicus	inclusive
+FR735	n	asm	no	tête de nœud	inclusive
+FR661	n	dmc	yes	coquin	conservative
+FR588	n	cds	no	dandys	inclusive
+FR2198	n	cds	no	fureteur	conservative
+FR1587	n	cds	no	mystificateur	conservative
+FR3081	n	ps	yes	race	inclusive
+FR2040	n	cds	no	arlequin	inclusive
+FR1348	n	or	no	gai	conservative
+FR2047	n	asm	no	prépuce	inclusive
+FR1336	n	om	no	prout	conservative
+FR427	n	ps	yes	rustre	conservative
+FR3106	n	qas	no	fermiers	inclusive
+FR2854	n	cds	no	papier-poussoir	inclusive
+FR817	n	ddp	yes	bestialité	conservative
+FR286	n	ddp	yes	hammerhead	conservative
+FR1364	n	an	no	lombrosianisme	inclusive
+FR619	n	cds	no	béguine	inclusive
+FR668	n	cds	no	délinquant	conservative
+FR265	n	ddp	yes	connard	inclusive
+FR3384	n	cds	no	religiosité	inclusive
+FR3955	n	cds	no	peur du complot	inclusive
+FR511	n	ddp	yes	tête boudin	conservative
+FR1975	n	qas	no	fermière	inclusive
+FR507	n	or	no	pudden-tête	conservative
+FR1552	n	asf	no	connaud	conservative
+FR1231	n	qas	no	plébéien	inclusive
+FR2817	n	cds	no	flic	inclusive
+FR1783	n	cds	no	fox	conservative
+FR3275	v	cds	no	passer de vie à trépas	inclusive
+FR1197	n	qas	no	embrouillamini	inclusive
+FR1907	n	dmc	yes	mal	inclusive
+FR301	n	ps	yes	ignorant	conservative
+FR3715	n	an	no	blattoptères	inclusive
+FR798	n	cds	no	bousilleuse	conservative
+FR3530	a	re	no	rouge	conservative
+FR2274	n	an	no	pourceaux	inclusive
+FR282	n	an	no	abruti	conservative
+FR9	n	cds	no	paresseux	conservative
+FR3484	a	an	no	brute	conservative
+FR2829	n	cds	no	maffia	conservative
+FR1652	n	ps	yes	butor	conservative
+FR2925	n	cds	no	fierté	conservative
+FR1657	n	dmc	yes	gaspilleur	inclusive
+FR3822	n	an	no	lampyre	inclusive
+FR2400	n	cds	no	plèbe	inclusive
+FR76	n	pa	yes	académiciens	inclusive
+FR387	n	is	yes	rapiat	conservative
+FR2432	n	qas	no	ménagère	inclusive
+FR2369	n	om	no	homoérotisme	inclusive
+FR3765	a	qas	no	petit-bourgeois	inclusive
+FR1623	n	pr	no	courtisane	inclusive
+FR2131	n	cds	no	fascismes	conservative
+FR2110	n	dmc	yes	larron	conservative
+FR3858	n	re	no	cyber-terroristes	conservative
+FR1069	n	cds	no	gringalet	conservative
+FR3877	n	re	no	tourmenter	inclusive
+FR3497	n	is	yes	miséreux	inclusive
+FR1394	n	ddp	yes	médicastre	conservative
+FR1305	n	asm	no	rouler dans le foin	conservative
+FR3104	n	asf	no	technicité	inclusive
+FR805	n	an	no	commerce des cadavres	inclusive
+FR1368	n	qas	no	compatriote	inclusive
+FR972	n	dmc	yes	hobo	conservative
+FR216	n	ddp	yes	reproduction animale	inclusive
+FR2485	a	dmc	yes	radin	conservative
+FR1347	n	om	no	homophile	conservative
+FR593	n	cds	no	topsy-turvydom	inclusive
+FR651	n	cds	no	bande	inclusive
+FR301	n	asf	no	ignorant	conservative
+FR1344	n	or	no	homosexuelle	conservative
+FR216	n	an	no	reproduction animale	inclusive
+FR2741	n	cds	no	cabinet	inclusive
+FR570	n	dmc	yes	menterie	inclusive
+FR1884	n	cds	no	moralisme	inclusive
+FR2860	n	cds	no	paquet	conservative
+FR3630	n	an	no	frogspawn	inclusive
+FR393	n	asm	no	ballock	inclusive
+FR373	n	cds	no	maison de passe	inclusive
+FR3686	n	cds	no	pédanterie	inclusive
+FR344	n	svp	no	parcimonie	conservative
+FR2343	n	pr	no	prostituées	conservative
+FR3620	n	an	no	crapaud	inclusive
+FR344	n	is	yes	parcimonie	conservative
+FR4053	n	an	no	limacidé	inclusive
+FR1545	n	or	no	vittu	conservative
+FR525	n	cds	no	nigaud	conservative
+FR2093	n	cds	no	interprétation littérale	inclusive
+FR2699	a	svp	no	irascible	conservative
+FR1477	n	asm	no	connasse	conservative
+FR3535	a	ddf	yes	jeu	inclusive
+FR351	n	svp	no	radin	inclusive
+FR642	n	cds	no	bague	conservative
+FR3255	v	asm	no	tromper	conservative
+FR2729	n	cds	no	commodité publique	inclusive
+FR3495	a	cds	no	obséquieux	conservative
+FR2114	n	re	no	gangster	inclusive
+FR1133	n	an	no	familiaris	inclusive
+FR986	n	cds	no	tacot	inclusive
+FR3321	n	cds	no	pédante	conservative
+FR518	n	asm	no	démoulé trop tôt	conservative
+FR207	n	an	no	épifaune	inclusive
+FR1822	n	cds	no	scads	inclusive
+FR768	n	cds	no	betisier	inclusive
+FR536	n	pr	no	femme de la rue	conservative
+FR161	n	cds	no	fouillis	inclusive
+FR7	n	svp	no	aï	inclusive
+FR3256	v	asm	no	duper	conservative
+FR1348	n	om	no	gai	conservative
+FR238	n	re	no	attentat	conservative
+FR3255	v	dmc	yes	tromper	conservative
+FR217	n	asf	no	bête	conservative
+FR3327	a	or	no	exigeant	conservative
+FR3775	a	qas	no	courant	inclusive
+FR161	n	qas	no	fouillis	inclusive
+FR2026	n	an	no	aphaniptère	inclusive
+FR2172	n	an	no	pipistrelle	inclusive
+FR3311	a	qas	no	pleurnicheur	conservative
+FR1631	n	asf	no	pur	conservative
+FR982	n	cds	no	moi	conservative
+FR3596	n	cds	no	lèche-cul	conservative
+FR1633	a	ddp	yes	candide	conservative
+FR1838	n	an	no	nanus	conservative
+FR3739	a	ps	yes	israélite	inclusive
+FR772	n	cds	no	maladresse	inclusive
+FR1058	n	is	yes	intouchable	inclusive
+FR1071	n	om	no	gonzesse	conservative
+FR2928	n	cds	no	superbia	conservative
+FR1460	n	an	no	strigiformes	inclusive
+FR522	n	asm	no	poupe	conservative
+FR2210	n	an	no	capridé	inclusive
+FR2822	n	cds	no	causa nostra	inclusive
+FR1510	n	ps	yes	amélioration végétale	inclusive
+FR3463	n	an	no	poulets	inclusive
+FR2825	n	cds	no	mafiosi	conservative
+FR828	n	pr	no	vache	conservative
+FR2070	n	cds	no	maçonnerie	inclusive
+FR1556	n	or	no	cunt	conservative
+FR157	n	qas	no	mélimélo	inclusive
+FR2892	a	dmc	yes	maléfique	conservative
+FR348	n	is	yes	harpagnon	conservative
+FR3222	v	cds	no	marchander	inclusive
+FR1274	n	or	no	chou	inclusive
+FR850	n	ddp	yes	lésions cérébrales	inclusive
+FR1995	n	om	no	fenouil	inclusive
+FR2809	n	cds	no	keuf	inclusive
+FR674	n	dmc	yes	criminelle	inclusive
+FR1346	n	om	no	homo	inclusive
+FR3316	v	cds	no	adorer	inclusive
+FR1828	n	ps	yes	erratique	inclusive
+FR2174	n	an	no	pipistrellus	inclusive
+FR2430	n	svp	no	excès de table	inclusive
+FR1526	n	cds	no	monohybrides	inclusive
+FR355	n	an	no	rat	conservative
+FR2014	n	pa	yes	poissarde	inclusive
+FR3637	n	an	no	torrentophryne	inclusive
+FR1000	a	ddf	yes	mal	inclusive
+FR2632	n	cds	no	usurière	inclusive
+FR693	n	cds	no	méfaits de décision	conservative
+FR470	n	pa	yes	avocate	inclusive
+FR3788	n	cds	no	bûcheur	conservative
+FR2025	n	an	no	siphonaptères	inclusive
+FR267	n	ddp	yes	andouille	conservative
+FR4090	n	an	no	vacca	inclusive
+FR1404	n	cds	no	déchet	conservative
+FR3639	n	an	no	palaeophrynos	inclusive
+FR3323	v	qas	no	rapiécer	inclusive
+FR3431	n	re	no	plagiarisation	inclusive
+FR777	n	qas	no	bourdes	inclusive
+FR1360	n	ddp	yes	commérage	conservative
+FR669	n	cds	no	bandits	inclusive
+FR2448	n	cds	no	bousculant	conservative
+FR2975	n	an	no	micro-organisme	inclusive
+FR1630	n	asf	no	simple	conservative
+FR939	n	cds	no	effronterie	conservative
+FR415	n	cds	no	voleur	inclusive
+FR1961	n	cds	no	mac	inclusive
+FR1474	n	cds	no	conarde	conservative
+FR1117	n	cds	no	fraudeur	conservative
+FR2308	n	cds	no	mécréante	conservative
+FR2179	n	asf	no	buisson	inclusive
+FR3778	n	an	no	canal des basses	inclusive
+FR2915	n	qas	no	satellite	inclusive
+FR1016	n	cds	no	cliques	inclusive
+FR1716	n	svp	no	répulsion	inclusive
+FR665	n	re	no	scélérat	inclusive
+FR3410	a	svp	no	présomptueux	conservative
+FR2630	n	cds	no	prêteur	inclusive
+FR2442	n	qas	no	cabanon	inclusive
+FR343	n	svp	no	lésine	inclusive
+FR2923	n	ddp	yes	jaseur	inclusive
+FR1329	n	or	no	pet	conservative
+FR3085	n	ps	yes	latino	inclusive
+FR1335	n	or	no	queer	conservative
+FR3521	n	cds	no	recommandation	inclusive
+FR296	n	or	no	bonehead	conservative
+FR780	n	cds	no	foul-up	inclusive
+FR419	n	ddp	yes	sauvage	conservative
+FR133	n	qas	no	tabi%e2%80%98un	inclusive
+FR2263	v	asm	no	forniquer	conservative
+FR1234	n	cds	no	cockup	inclusive
+FR4059	n	ps	yes	romanis	inclusive
+FR3326	a	cds	no	éprouvant	conservative
+FR1530	n	cds	no	blanc-bec	conservative
+FR556	n	pr	no	escorte masculine	conservative
+FR3614	a	dmc	yes	souple	inclusive
+FR2471	n	asm	no	oiseau	inclusive
+FR3086	n	ps	yes	blanc	inclusive
+FR3696	n	an	no	achète	inclusive
+FR773	n	qas	no	blooper	inclusive
+FR270	n	an	no	balourd	conservative
+FR923	n	qas	no	classe possédante	inclusive
+FR2691	n	svp	no	colère	inclusive
+FR676	n	an	no	bouc	inclusive
+FR269	n	an	no	muggins	conservative
+FR420	n	dmc	yes	barbares	conservative
+FR2883	n	svp	no	économie	inclusive
+FR3181	n	ps	yes	vandale	conservative
+FR1062	n	is	yes	proscrit	inclusive
+FR1180	n	an	no	chêvre	inclusive
+FR405	n	qas	no	testiculaire	inclusive
+FR277	n	cds	no	idiot	conservative
+FR424	n	dmc	yes	brute	conservative
+FR94	n	ddp	yes	retards psychomoteurs	inclusive
+FR1572	n	cds	no	junte	inclusive
+FR3393	a	svp	no	colère	inclusive
+FR266	n	cds	no	con	conservative
+FR87	n	ddp	yes	débilité mentale	inclusive
+FR3191	n	pa	yes	wagoner	inclusive
+FR3833	n	re	no	agressions sexuelles	inclusive
+FR3853	n	cds	no	trasformismo	inclusive
+FR1192	n	svp	no	minginess	conservative
+FR3988	n	cds	no	vénalité	conservative
+FR1119	n	cds	no	ciseleur	inclusive
+FR3552	n	pa	yes	contrôleur	inclusive
+FR2721	n	or	no	méticulosité	inclusive
+FR1607	n	cds	no	démagogie	conservative
+FR226	n	re	no	diffamation	inclusive
+FR3598	n	cds	no	polisseur d'apple	conservative
+FR833	n	cds	no	taureau	conservative
+FR3260	v	asm	no	frauder	conservative
+FR3742	a	svp	no	lubrique	conservative
+FR2881	n	an	no	psittaciforme	inclusive
+FR1911	a	is	yes	pauvre	inclusive
+FR401	n	asm	no	bollocks	inclusive
+FR290	n	ddp	yes	blockhead	conservative
+FR1987	n	ps	yes	nazi	inclusive
+FR504	n	ps	yes	pigeon	conservative
+FR2548	n	an	no	inexorabilité	conservative
+FR1354	n	om	no	minet	conservative
+FR988	n	cds	no	épave	inclusive
+FR263	n	ps	yes	âne	conservative
+FR2133	n	cds	no	fascisant	conservative
+FR1245	n	cds	no	l'auto-suffisance	inclusive
+FR217	n	or	no	bête	conservative
+FR1689	n	ps	yes	boche	conservative
+FR272	n	cds	no	bourrique	conservative
+FR356	n	ddp	yes	bavardeur	conservative
+FR4000	n	cds	no	pleutre	conservative
+FR1363	n	an	no	visage	inclusive
+FR2147	a	dmc	yes	méphitique	conservative
+FR1203	n	asm	no	zob	inclusive
+FR2150	a	dmc	yes	nauséabond	conservative
+FR2079	n	cds	no	francs maçons	inclusive
+FR1909	n	cds	no	pécheuse	conservative
+FR2428	n	svp	no	gloutonnerie	inclusive
+FR2690	n	svp	no	courroux	inclusive
+FR213	n	ddp	yes	animalia	inclusive
+FR1854	n	pa	yes	travailleur	inclusive
+FR276	n	ps	yes	fada	conservative
+FR2162	n	cds	no	geôlier	inclusive
+FR274	n	an	no	couillon	conservative
+FR3554	n	pa	yes	controleur de gestion	inclusive
+FR983	n	re	no	vilain	conservative
+FR3617	a	dmc	yes	fausses	conservative
+FR1007	n	an	no	maw	inclusive
+FR182	n	ddp	yes	illettré	inclusive
+FR2465	n	qas	no	idéologue	inclusive
+FR3945	n	an	no	canular	conservative
+FR489	n	an	no	vautour	conservative
+FR1688	n	pa	yes	diplomate	inclusive
+FR3810	a	ddp	yes	crétin	conservative
+FR4051	n	dmc	yes	treasonist	conservative
+FR3709	a	re	no	chaud	conservative
+FR2949	n	re	no	ravisseur	conservative
+FR296	n	an	no	bonehead	conservative
+FR1391	n	cds	no	charlatan	conservative
+FR2981	n	an	no	blanchaille	conservative
+FR2238	n	cds	no	réaction	conservative
+FR1791	n	svp	no	gourmet	conservative
+FR3020	n	ps	yes	asiate	conservative
+FR276	n	cds	no	fada	inclusive
+FR3933	n	cds	no	canalisation	inclusive
+FR3565	n	re	no	enlèvements	inclusive
+FR665	n	cds	no	scélérat	inclusive
+FR2505	n	ddf	yes	handicaps	inclusive
+FR686	n	cds	no	espiègle	conservative
+FR2885	a	dmc	yes	cruel	conservative
+FR758	n	cds	no	impasse	inclusive
+FR1127	n	an	no	de bric et de broc	conservative
+FR261	n	ddp	yes	imbécile	conservative
+FR299	n	an	no	ne savent rien	conservative
+FR1816	n	cds	no	saisines	inclusive
+FR3731	n	an	no	chacals	inclusive
+FR3215	v	qas	no	merde	conservative
+FR1855	n	pa	yes	employé	inclusive
+FR1575	n	cds	no	kamarilla	inclusive
+FR739	n	cds	no	mother fucker	conservative
+FR2099	n	svp	no	furie	conservative
+FR3278	v	cds	no	décéder	inclusive
+FR3320	n	cds	no	je-sais-tout	conservative
+FR3951	n	cds	no	theorie du complot	inclusive
+FR1254	n	pa	yes	professeur	inclusive
+FR2453	n	an	no	hyanidae	inclusive
+FR517	n	ddp	yes	niais	conservative
+FR959	n	an	no	git	conservative
+FR765	n	qas	no	bloopers	inclusive
+FR426	n	rci	yes	mufle	conservative
+FR3794	a	pa	yes	politiques	inclusive
+FR2848	n	om	no	tantouze	inclusive
+FR2914	n	qas	no	planète	inclusive
+FR2553	n	cds	no	inflation	conservative
+FR2362	n	om	no	uranisme	inclusive
+FR1073	n	cds	no	lâche	conservative
+FR1158	n	cds	no	tribales	inclusive
+FR2105	n	dmc	yes	dilly-dallier	conservative
+FR3988	n	cds	no	vénalité	inclusive
+FR3345	a	pa	yes	universitaire	conservative
+FR1701	n	cds	no	crasse	inclusive
+FR2213	n	an	no	capriné	inclusive
+FR372	n	cds	no	maison de joie	inclusive
+FR729	n	cds	no	briseur de grève	inclusive
+FR1547	n	or	no	votze	conservative
+FR1504	n	ps	yes	sélection récurrente	inclusive
+FR683	n	cds	no	cafteuse	conservative
+FR1558	n	or	no	fotzen	conservative
+FR2951	n	an	no	rascasse	inclusive
+FR782	n	qas	no	bungle	inclusive
+FR3868	n	cds	no	grande compagnie	inclusive
+FR2444	n	cds	no	hybris	inclusive
+FR3975	n	pa	yes	cordonnier	inclusive
+FR266	n	an	no	con	conservative
+FR265	n	or	no	connard	conservative
+FR1118	n	cds	no	chiseler	conservative
+FR1990	n	re	no	exacte	inclusive
+FR695	n	ps	yes	noir	inclusive
+FR2488	n	dmc	yes	singe	inclusive
+FR2625	a	is	yes	infortuné	inclusive
+FR151	n	qas	no	Épice gériatrique	inclusive
+FR2402	n	cds	no	le grand non lavé	conservative
+FR554	n	an	no	morue	conservative
+FR2789	n	dmc	yes	mozzarella	inclusive
+FR80	n	ddp	yes	déficience intellectuelle	inclusive
+FR789	n	cds	no	vantard	conservative
+FR2304	n	an	no	canasson	inclusive
+FR2481	a	dmc	yes	borné	conservative
+FR1960	n	cds	no	barbeau	conservative
+FR447	n	pa	yes	conseil	inclusive
+FR477	n	an	no	chien	inclusive
+FR802	n	ddp	yes	incapable	conservative
+FR1060	n	is	yes	banni	inclusive
+FR499	n	cds	no	fall guy	conservative
+FR3196	n	dmc	yes	clowns	inclusive
+FR2199	n	cds	no	fouiner	conservative
+FR801	n	ddp	yes	gaffeur	conservative
+FR1739	n	om	no	keister	inclusive
+FR446	a	svp	no	glouton	conservative
+FR169	n	asf	no	folderol	conservative
+FR29	n	svp	no	apathique	inclusive
+FR3076	n	ps	yes	condition noire	inclusive
+FR1971	n	pr	no	comare	conservative
+FR1374	n	an	no	moo-cow	inclusive
+FR2527	n	is	yes	appauvrissement	inclusive
+FR635	n	svp	no	intolérant	conservative
+FR2319	n	re	no	larcin	inclusive
+FR3044	n	ps	yes	bêche	conservative
+FR1823	n	cds	no	colline	inclusive
+FR3658	n	an	no	rana pluvialis	inclusive
+FR571	n	cds	no	bobard	conservative
+FR1352	n	om	no	homosexuel	conservative
+FR2208	n	cds	no	intermédiaire	inclusive
+FR254	n	asm	no	stupidité	conservative
+FR2468	n	asf	no	poupée	conservative
+FR1735	n	om	no	fessières	inclusive
+FR669	n	dmc	yes	bandits	inclusive
+FR1296	n	asm	no	foutre	conservative
+FR2949	n	re	no	ravisseur	inclusive
+FR1465	n	an	no	athene noctua	inclusive
+FR2622	a	is	yes	morne	inclusive
+FR3770	a	ddp	yes	absurde	conservative
+FR3267	n	qas	no	fauteur de troubles	conservative
+FR818	n	an	no	zooerasty	conservative
+FR2497	n	ddf	yes	handicapé	inclusive
+FR982	n	an	no	moi	conservative
+FR2249	v	asm	no	foutre	conservative
+FR172	n	cds	no	zèle	inclusive
+FR661	n	cds	no	coquin	inclusive
+FR2873	n	qas	no	paroisses	inclusive
+FR980	n	re	no	méchant	conservative
+FR355	n	cds	no	rat	inclusive
+FR229	n	re	no	violeuse	conservative
+FR658	n	an	no	gredin	conservative
+FR255	n	ddp	yes	imbécilité	conservative
+FR2823	n	cds	no	mafioso	conservative
+FR402	n	qas	no	testicules	inclusive
+FR1639	n	cds	no	desperado	inclusive
+FR1472	n	asm	no	conasse	conservative
+FR1870	n	asm	no	érection	inclusive
+FR3534	a	ddf	yes	boiteux	inclusive
+FR1524	n	cds	no	sélection végétale	inclusive
+FR298	n	ddp	yes	muttonheads	conservative
+FR134	n	pa	yes	partisan	inclusive
+FR3486	a	ps	yes	achromatique	inclusive
+FR337	n	svp	no	péchés capitaux	inclusive
+FR1156	n	cds	no	tribus	inclusive
+FR820	n	ddp	yes	zoophilie	conservative
+FR975	n	svp	no	flâneur	conservative
+FR1894	n	dmc	yes	code moral	inclusive
+FR2221	n	dmc	yes	vaurien	conservative
+FR2199	n	qas	no	fouiner	inclusive
+FR2606	n	cds	no	gésir	conservative
+FR2722	n	or	no	punctiliousness	inclusive
+FR1911	a	dmc	yes	pauvre	conservative
+FR2340	n	pr	no	prostitution	conservative
+FR1654	n	ps	yes	doofus	conservative
+FR3750	a	qas	no	médiévale	inclusive
+FR2196	n	cds	no	badaude	conservative
+FR3676	n	cds	no	snob	conservative
+FR2023	n	an	no	aphaniptères	inclusive
+FR3360	n	cds	no	bellyacher	conservative
+FR217	n	an	no	bête	inclusive
+FR1456	n	an	no	strigiforme	inclusive
+FR2591	n	svp	no	stupre	inclusive
+FR286	n	an	no	hammerhead	conservative
+FR1864	a	qas	no	aberrant	conservative
+FR675	n	cds	no	hors la loi	conservative
+FR651	n	cds	no	bande	conservative
+FR3492	a	asm	no	brunâtre	inclusive
+FR2538	n	an	no	incompétent	conservative
+FR2584	n	om	no	damoche	inclusive
+FR494	n	cds	no	radiation	inclusive
+FR277	n	an	no	idiot	conservative
+FR491	n	cds	no	blackboulé	inclusive
+FR3113	n	an	no	branta nigricans	inclusive
+FR673	n	re	no	hors-la-loi	inclusive
+FR511	n	or	no	tête boudin	conservative
+FR3489	a	ddf	yes	mal-voyante	inclusive
+FR3028	n	qas	no	starlette	inclusive
+FR3525	n	cds	no	offre	inclusive
+FR74	n	qas	no	amateurisme	conservative
+FR1087	n	ps	yes	attardé	conservative
+FR3448	a	dmc	yes	trafiqué	conservative
+FR3102	n	cds	no	satyriasiste	conservative
+FR1085	n	asm	no	concombre	inclusive
+FR2677	v	cds	no	tramer	inclusive
+FR529	n	asf	no	haltère	conservative
+FR273	n	asf	no	cruche	conservative
+FR2100	n	svp	no	rage	inclusive
+FR1996	n	om	no	finocchio	inclusive
+FR537	n	pr	no	catin	conservative
+FR1968	n	pr	no	maitresse	conservative
+FR769	n	cds	no	perle	inclusive
+FR202	n	an	no	vie animale	inclusive
+FR959	n	cds	no	git	conservative
+FR1793	n	svp	no	gastronome	conservative
+FR4072	n	ps	yes	tzigane	inclusive
+FR2910	n	an	no	goret	inclusive
+FR3109	n	an	no	oies	inclusive
+FR3394	a	svp	no	fâchée	inclusive
+FR271	n	cds	no	benêt	inclusive
+FR1819	n	cds	no	paraisons	inclusive
+FR3258	v	re	no	truander	inclusive
+FR3874	n	asm	no	ithyphallique	inclusive
+FR3005	n	pa	yes	moutonnier	inclusive
+FR280	n	ddp	yes	ridicule	conservative
+FR3797	n	qas	no	bloodhound	inclusive
+FR1352	n	om	no	homosexuel	inclusive
+FR3257	v	re	no	blouser	inclusive
+FR2480	n	cds	no	idolâtres	inclusive
+FR674	n	cds	no	criminelle	conservative
+FR165	a	svp	no	agressif	inclusive
+FR800	n	ddp	yes	gâcheur	conservative
+FR291	n	asf	no	bœuf	conservative
+FR1988	n	cds	no	fascista	inclusive
+FR3519	a	cds	no	froussard	conservative
+FR2844	n	an	no	pudge	conservative
+FR1476	n	cds	no	branleur	conservative
+FR2201	n	an	no	moustique	inclusive
+FR1	n	dmc	yes	abaissement	inclusive
+FR670	n	cds	no	criminel	conservative
+FR2825	n	re	no	mafiosi	conservative
+FR1653	n	asm	no	four	conservative
+FR1127	n	ddp	yes	de bric et de broc	conservative
+FR1280	n	svp	no	désir	inclusive
+FR2074	n	cds	no	maçonnisme	inclusive
+FR126	n	svp	no	feignant	conservative
+FR1067	n	cds	no	faible	conservative
+FR943	n	ps	yes	bulgare	inclusive
+FR234	n	re	no	violation	conservative
+FR1985	n	cds	no	facho	conservative
+FR2822	n	cds	no	causa nostra	conservative
+FR1447	n	an	no	allumeuse	conservative
+FR3223	n	is	yes	mendiant	inclusive
+FR820	n	an	no	zoophilie	conservative
+FR2063	n	cds	no	libre maçon	inclusive
+FR900	n	om	no	pédé	inclusive
+FR552	n	pr	no	escort-boy	conservative
+FR3536	a	cds	no	croisé	inclusive
+FR272	n	asf	no	bourrique	conservative
+FR2512	n	ddp	yes	nonsens	conservative
+FR158	n	qas	no	omnium-gatherum	inclusive
+FR1693	n	ps	yes	fritz	conservative
+FR391	n	asm	no	œuf	inclusive
+FR3698	a	is	yes	pitoyable	conservative
+FR3059	n	ps	yes	personne de couleur	inclusive
+FR2566	n	svp	no	intolérance	inclusive
+FR165	a	svp	no	agressif	conservative
+FR779	n	qas	no	trique	inclusive
+FR3985	a	cds	no	malhonnête	conservative
+FR504	n	ddp	yes	pigeon	conservative
+FR2485	a	is	yes	radin	conservative
+FR1499	n	an	no	crocodilidés	inclusive
+FR2662	n	asm	no	quéquette	inclusive
+FR1349	n	om	no	gays	conservative
+FR989	n	cds	no	guimbarde	inclusive
+FR963	n	cds	no	clochard	conservative
+FR2340	n	pr	no	prostitution	inclusive
+FR2101	n	cds	no	swaggerer	conservative
+FR3496	a	cds	no	huileux	conservative
+FR502	n	asm	no	poire	conservative
+FR2207	n	cds	no	intermédiateur	inclusive
+FR265	n	ps	yes	connard	conservative
+FR136	n	qas	no	tabi'în	inclusive
+FR3474	n	cds	no	beauté	inclusive
+FR4079	n	cds	no	assistant parlementaire	inclusive
+FR2557	n	cds	no	pédagogique	inclusive
+FR2973	n	an	no	microorganismes	inclusive
+FR1205	n	asm	no	bite	inclusive
+FR1912	a	cds	no	méprisable	conservative
+FR1232	n	qas	no	roturier	inclusive
+FR1681	n	an	no	diddlysquat	conservative
+FR500	n	ddp	yes	mouette	conservative
+FR3095	n	cds	no	nympho	conservative
+FR1472	n	cds	no	conasse	conservative
+FR415	n	cds	no	voleur	conservative
+FR1583	n	cds	no	rejet	conservative
+FR2765	n	an	no	maringouins	inclusive
+FR3425	a	svp	no	hargneux	conservative
+FR783	n	cds	no	console	conservative
+FR1554	n	asf	no	fotze	conservative
+FR3478	n	cds	no	nourrissons	inclusive
+FR949	n	svp	no	d'autoritarisme	conservative
+FR970	n	dmc	yes	vagabond	inclusive
+FR2686	a	svp	no	envieux	conservative
+FR1408	n	qas	no	ordure	inclusive
+FR1788	n	qas	no	chenils	inclusive
+FR2418	n	qas	no	peintre	inclusive
+FR1506	n	cds	no	amélioration des plantes	inclusive
+FR3504	a	svp	no	vain	conservative
+FR876	n	qas	no	bucolique	inclusive
+FR3073	n	ps	yes	blackamoor	inclusive
+FR1378	n	an	no	poltron	conservative
+FR2040	n	cds	no	arlequin	conservative
+FR3939	n	re	no	n%e2%80%99drangheta	inclusive
+FR3050	n	ps	yes	nègre	inclusive
+FR1288	n	svp	no	eros	inclusive
+FR3126	n	an	no	tique	inclusive
+FR414	n	cds	no	brigand	inclusive
+FR1277	n	cds	no	essaim	inclusive
+FR1787	n	qas	no	niche	inclusive
+FR1761	n	om	no	fesse	inclusive
+FR2472	n	qas	no	idéologie	inclusive
+FR2611	n	qas	no	mensonges	conservative
+FR278	n	ddp	yes	sot	conservative
+FR524	n	ddp	yes	bercé trop près du mur	conservative
+FR571	n	dmc	yes	bobard	inclusive
+FR2375	n	ps	yes	judaïsme	inclusive
+FR1612	n	pr	no	concubin	inclusive
+FR355	n	ddp	yes	rat	conservative
+FR3247	v	cds	no	bâfrer	inclusive
+FR142	n	dmc	yes	bouffonnerie	inclusive
+FR743	n	cds	no	par coup	inclusive
+FR514	n	ddp	yes	ravi	conservative
+FR3790	n	cds	no	moudre	conservative
+FR674	n	re	no	criminelle	inclusive
+FR2267	n	an	no	oiselet	inclusive
+FR2359	n	om	no	homosexual	inclusive
+FR1966	n	cds	no	proxénétisme	inclusive
+FR2108	n	cds	no	aigrefin	conservative
+FR1420	n	an	no	cimex lectularius	inclusive
+FR2487	a	svp	no	pingre	conservative
+FR465	n	pa	yes	mandataire	inclusive
+FR3893	v	re	no	torturer	inclusive
+FR1119	n	dmc	yes	ciseleur	conservative
+FR13	n	svp	no	feignantise	inclusive
+FR532	n	asm	no	putain	conservative
+FR2953	n	an	no	rascasses	inclusive
+FR2805	n	svp	no	obscènes	inclusive
+FR1208	n	asm	no	pine	conservative
+FR2876	n	qas	no	commune	inclusive
+FR2523	n	is	yes	pauvreté	inclusive
+FR225	n	re	no	calomnie	conservative
+FR944	n	ps	yes	bibliothèque de canet-en-roussillon	inclusive
+FR513	n	ddp	yes	débile	conservative
+FR1911	a	is	yes	pauvre	conservative
+FR3591	a	om	no	différent	inclusive
+FR480	n	qas	no	baron	inclusive
+FR3300	n	or	no	tater	inclusive
+FR2112	n	cds	no	filou	conservative
+FR2165	n	cds	no	surveillant pénitentaire	inclusive
+FR302	n	ddp	yes	know nothing	conservative
+FR3780	n	an	no	ombrine	inclusive
+FR150	n	cds	no	mélange	inclusive
+FR2337	n	pr	no	slut	inclusive
+FR267	n	asf	no	andouille	conservative
+FR2638	n	an	no	insectes	inclusive
+FR2245	v	asm	no	jouer à zizi-panpan	conservative
+FR3880	n	re	no	agonie	inclusive
+FR802	n	qas	no	incapable	conservative
+FR2808	n	cds	no	officier	conservative
+FR1799	n	svp	no	boulimique	inclusive
+FR292	n	or	no	cancre	conservative
+FR1338	n	or	no	androgame	conservative
+FR3749	a	is	yes	mesquin	inclusive
+FR2366	n	om	no	homosexuels	inclusive
+FR996	n	cds	no	gratter	inclusive
+FR881	n	cds	no	laboureur	conservative
+FR475	n	an	no	toutou	inclusive
+FR982	n	is	yes	moi	conservative
+FR2581	n	dmc	yes	immoral	inclusive
+FR1432	n	cds	no	duplicité	inclusive
+FR271	n	asf	no	benêt	conservative
+FR2636	n	cds	no	prêteurs	conservative
+FR545	n	pr	no	péripatéticienne	conservative
+FR668	n	re	no	délinquant	inclusive
+FR652	n	cds	no	groupe	inclusive
+FR293	n	an	no	nullard	conservative
+FR358	n	cds	no	moulin à paroles	conservative
+FR974	n	dmc	yes	ne rien faire	conservative
+FR599	n	cds	no	charivari	inclusive
+FR1841	n	an	no	helix pomatia	inclusive
+FR3097	n	cds	no	nymphomanie	conservative
+FR1560	n	asf	no	ducon	conservative
+FR2794	n	an	no	mulassière	inclusive
+FR565	n	an	no	racoleuse	conservative
+FR3221	v	cds	no	négocier	inclusive
+FR1962	n	cds	no	proxenetisme	conservative
+FR3613	a	dmc	yes	flexible	inclusive
+FR3694	n	an	no	hirudinean	inclusive
+FR1616	n	pr	no	courtisans	inclusive
+FR3872	n	asm	no	phallisme	inclusive
+FR2558	n	cds	no	instructeur	inclusive
+FR657	n	an	no	canaille	conservative
+FR1258	n	pa	yes	professeurs	inclusive
+FR2338	n	pr	no	filles de joie	conservative
+FR3369	n	an	no	poux	inclusive
+FR3124	n	an	no	ixode	inclusive
+FR2738	n	cds	no	salle de bains	inclusive
+FR899	n	dmc	yes	puanteur	conservative
+FR1229	n	qas	no	monsieur tout-le-monde	inclusive
+FR2783	n	an	no	moue	inclusive
+FR151	n	cds	no	Épice gériatrique	inclusive
+FR2116	n	cds	no	gangsters	inclusive
+FR484	n	qas	no	style classique	inclusive
+FR537	n	an	no	catin	conservative
+FR701	n	qas	no	roi	inclusive
+FR292	n	cds	no	cancre	conservative
+FR1082	n	asm	no	changelins	inclusive
+FR2239	n	cds	no	réactionnisme	conservative
+FR269	n	cds	no	muggins	conservative
+FR628	a	ddp	yes	bêta	conservative
+FR2819	n	re	no	mafia	conservative
+FR641	n	cds	no	meute	conservative
+FR2445	n	cds	no	ubris	inclusive
+FR3712	n	an	no	cancrelats	inclusive
+FR827	n	pr	no	bovin	inclusive
+FR283	n	an	no	buse	conservative
+FR3332	n	dmc	yes	trifler	conservative
+FR2726	n	qas	no	melange	inclusive
+FR3144	n	re	no	homicides	inclusive
+FR339	n	svp	no	soif de richesse	inclusive
+FR531	n	pr	no	grue	conservative
+FR3032	n	cds	no	demi-pinte	conservative
+FR487	n	an	no	prédateur	conservative
+FR349	n	an	no	avaricieux	conservative
+FR270	n	asm	no	balourd	conservative
+FR2094	n	cds	no	néofondamentalisme	inclusive
+FR261	n	ddp	yes	imbécile	inclusive
+FR2546	n	an	no	opiniâtreté	conservative
+FR838	n	pr	no	bovins	inclusive
+FR1653	n	ps	yes	four	conservative
+FR1675	n	an	no	diddlyshit	conservative
+FR771	n	cds	no	bévue	inclusive
+FR2958	n	cds	no	purin	inclusive
+FR2704	a	svp	no	courroucé	inclusive
+FR2227	n	cds	no	réactionnaire	conservative
+FR993	n	cds	no	cacography	inclusive
+FR3663	n	an	no	rana rubeta	inclusive
+FR267	n	asm	no	andouille	inclusive
+FR3590	n	re	no	kidnaper	inclusive
+FR950	n	svp	no	hauteur	conservative
+FR768	n	qas	no	betisier	inclusive
+FR1509	n	ps	yes	sélection massale	inclusive
+FR272	n	cds	no	bourrique	inclusive
+FR959	n	dmc	yes	git	inclusive
+FR420	n	ddp	yes	barbares	conservative
+FR689	n	cds	no	diablerie	conservative
+FR2367	n	om	no	homoerotisme	inclusive
+FR212	n	an	no	animal	inclusive
+FR1213	n	asm	no	teub	inclusive
+FR1327	n	om	no	drôle	conservative
+FR2821	n	re	no	cosa nostra	inclusive
+FR2336	n	pr	no	micheton	conservative
+FR279	n	ddp	yes	bêta	conservative
+FR3589	n	re	no	abducteur	inclusive
+FR517	n	asf	no	niais	conservative
+FR155	n	qas	no	se mêlent-mangle	inclusive
+FR3927	n	asm	no	volatile	inclusive
+FR3714	n	an	no	blattaria	inclusive
+FR2569	n	cds	no	plaisantin	conservative
+FR892	n	qas	no	hommes d%e2%80%99affaires	inclusive
+FR2224	n	cds	no	reaction	conservative
+FR423	n	rci	yes	bâtard	conservative
+FR3624	n	an	no	grenouille	inclusive
+FR1379	n	an	no	couard	conservative
+FR2612	a	ddp	yes	incapable	conservative
+FR2602	n	dmc	yes	qui tergiverse	inclusive
+FR2476	n	cds	no	idolâtrie	inclusive
+FR2826	n	re	no	mafieux	conservative
+FR757	n	an	no	mari trompé	conservative
+FR3793	a	pa	yes	politique	inclusive
+FR1646	n	ddp	yes	malotru	conservative
+FR665	n	dmc	yes	scélérat	inclusive
+FR1358	n	cds	no	gossiper	conservative
+FR785	n	cds	no	blowhard	conservative
+FR1653	n	asf	no	four	conservative
+FR3281	v	cds	no	payer sa dette à la nature	inclusive
+FR2598	a	dmc	yes	poli	conservative
+FR188	n	ddp	yes	analphabetisme	inclusive
+FR3814	a	dmc	yes	débraillé	conservative
+FR427	n	cds	no	rustre	conservative
+FR2393	n	ps	yes	juives	inclusive
+FR1544	n	or	no	twat	conservative
+FR736	n	cds	no	saloperie	conservative
+FR2491	n	an	no	barred owl	inclusive
+FR2509	n	ddp	yes	anus	conservative
+FR2443	n	qas	no	chaumière	inclusive
+FR981	n	cds	no	méchante	conservative
+FR274	n	asm	no	couillon	inclusive
+FR1059	n	dmc	yes	ismaël	inclusive
+FR796	n	ddp	yes	boucher	conservative
+FR454	n	pa	yes	défenseur	inclusive
+FR4093	n	cds	no	brigands	inclusive
+FR1903	n	an	no	scorpion de mer	inclusive
+FR1958	n	cds	no	maquerelle	inclusive
+FR279	n	an	no	bêta	conservative
+FR659	n	an	no	fourbe	conservative
+FR990	n	or	no	doubeurre	inclusive
+FR717	n	an	no	cochon	inclusive
+FR3451	a	dmc	yes	bidouillé	conservative
+FR2269	n	svp	no	convoitise	inclusive
+FR2549	n	cds	no	splashiness	inclusive
+FR2855	n	an	no	parasite	conservative
+FR3669	v	re	no	piquer	inclusive
+FR570	n	qas	no	menterie	conservative
+FR817	n	an	no	bestialité	conservative
+FR2703	n	cds	no	mussiness	conservative
+FR2752	n	svp	no	tire-au-flanc	conservative
+FR1898	n	an	no	gigantostraca	inclusive
+FR505	n	ps	yes	doux au toucher	conservative
+FR3454	a	dmc	yes	artificiel	conservative
+FR3046	n	ps	yes	négro	conservative
+FR362	n	ddp	yes	retard	inclusive
+FR265	n	asf	no	connard	conservative
+FR2485	a	svp	no	radin	conservative
+FR310	n	an	no	asinus	inclusive
+FR519	n	ddp	yes	demeuré	inclusive
+FR289	n	or	no	enfoiré	conservative
+FR3542	n	pr	no	fornicatrice	conservative
+FR704	n	qas	no	industriels	inclusive
+FR149	n	qas	no	bouts	inclusive
+FR3346	v	cds	no	commenter	inclusive
+FR2322	n	re	no	voleurs	inclusive
+FR129	n	cds	no	limace	conservative
+FR3688	n	an	no	hirudinés	inclusive
+FR430	n	an	no	brutalité	inclusive
+FR2275	n	an	no	ralouf	inclusive
+FR1712	n	svp	no	écœurement	inclusive
+FR980	n	is	yes	méchant	conservative
+FR282	n	ps	yes	abruti	conservative
+FR661	n	cds	no	coquin	conservative
+FR2189	n	cds	no	fouineur	conservative
+FR523	n	ddp	yes	simplet	conservative
+FR3023	n	pr	no	personnalité mondaine	inclusive
+FR3942	n	cds	no	ndrangheta	inclusive
+FR359	n	ddp	yes	prater	conservative
+FR1113	n	cds	no	camora	inclusive
+FR667	n	dmc	yes	interdire	inclusive
+FR368	n	cds	no	bagnard	inclusive
+FR2145	n	asf	no	vaginale	conservative
+FR498	n	asf	no	gogo	conservative
+FR2694	n	svp	no	col	inclusive
+FR1858	a	qas	no	halluciné	inclusive
+FR1581	n	cds	no	rejeter	conservative
+FR1811	n	pa	yes	portier	inclusive
+FR1435	n	svp	no	tṛṣna	inclusive
+FR3708	n	cds	no	sbires	conservative
+FR2099	n	re	no	furie	inclusive
+FR3544	n	pr	no	adultère	conservative
+FR171	n	cds	no	persécuteur	conservative
+FR281	n	cds	no	crétin	conservative
+FR3444	a	cds	no	mineur	inclusive
+FR2125	n	cds	no	fascisme	conservative
+FR2858	n	dmc	yes	péquenaud	conservative
+FR2670	v	cds	no	conjurer	inclusive
+FR1050	n	cds	no	charognes	inclusive
+FR735	n	cds	no	tête de nœud	inclusive
+FR2412	n	qas	no	patchwork	inclusive
+FR413	n	dmc	yes	bandit	conservative
+FR3954	n	cds	no	conspirationnisme	inclusive
+FR1082	n	asf	no	changelins	conservative
+FR1369	n	ddp	yes	indicateur	conservative
+FR2019	n	qas	no	confiture	inclusive
+FR1159	n	cds	no	clans	inclusive
+FR263	n	asf	no	âne	conservative
+FR2713	n	re	no	cambrioleuse	inclusive
+FR1751	n	om	no	caudale	inclusive
+FR125	n	dmc	yes	fainéante	conservative
+FR675	n	cds	no	hors la loi	inclusive
+FR1494	n	an	no	crocodiliens	inclusive
+FR3361	a	qas	no	accoutumé	inclusive
+FR3928	n	asm	no	oiseaux	inclusive
+FR1582	n	cds	no	abattage	conservative
+FR2791	n	an	no	lambin	conservative
+FR2507	n	ddf	yes	désactiver	inclusive
+FR2808	n	cds	no	officier	inclusive
+FR2486	a	an	no	ladre	conservative
+FR396	n	asm	no	couille	inclusive
+FR653	n	an	no	voyou	conservative
+FR125	n	an	no	fainéante	conservative
+FR3411	a	cds	no	orgueilleuse	conservative
+FR3938	n	re	no	'ndrangheta	inclusive
+FR3572	n	re	no	kidnappage	inclusive
+FR1357	n	cds	no	cancan	inclusive
+FR3057	n	ps	yes	négroïde	inclusive
+FR395	n	asm	no	baloche	inclusive
+FR778	n	qas	no	boulette	inclusive
+FR2115	n	cds	no	truand	inclusive
+FR2498	n	ddf	yes	personnes à mobilité réduite	inclusive
+FR2903	n	asm	no	pois	inclusive
+FR782	n	cds	no	bungle	inclusive
+FR2983	n	an	no	animalculum	inclusive
+FR1030	n	cds	no	train	inclusive
+FR3227	a	qas	no	paroissial	inclusive
+FR1962	n	cds	no	proxenetisme	inclusive
+FR2111	n	cds	no	chevalier d'industrie	conservative
+FR1533	n	cds	no	rookie	conservative
+FR1631	n	an	no	pur	conservative
+FR3114	n	an	no	bernache du pacifique	inclusive
+FR51	n	cds	no	courtier	inclusive
+FR2247	v	asm	no	connaître	conservative
+FR3180	n	cds	no	usure	inclusive
+FR2778	n	pr	no	heterocera	inclusive
+FR1957	n	cds	no	julot casse-croûte	conservative
+FR498	n	asm	no	gogo	conservative
+FR716	n	an	no	porc	conservative
+FR660	n	an	no	fripouille	conservative
+FR2913	n	an	no	cochonnet	inclusive
+FR3054	n	ps	yes	darkie	conservative
+FR2862	n	qas	no	auto-infection	inclusive
+FR2009	n	asm	no	pterygiophore	inclusive
+FR1754	n	om	no	séant	inclusive
+FR3701	a	re	no	méchant	inclusive
+FR673	n	dmc	yes	hors-la-loi	inclusive
+FR657	n	qas	no	canaille	conservative
+FR2567	n	pa	yes	jésuite	inclusive
+FR2458	n	an	no	hyènes	inclusive
+FR427	n	dmc	yes	rustre	conservative
+FR875	n	qas	no	rustique	inclusive
+FR2212	n	an	no	caprinidé	inclusive
+FR665	n	is	yes	scélérat	conservative
+FR215	n	ddp	yes	macrofaune	inclusive
+FR3494	a	cds	no	oléagineux	conservative
+FR703	n	qas	no	pouvoir	inclusive
+FR437	n	qas	no	trader	inclusive
+FR386	n	cds	no	maison de débauche	inclusive
+FR3480	n	cds	no	bébé	inclusive
+FR1503	n	cds	no	croisés	inclusive
+FR1388	n	cds	no	pusillanimité	conservative
+FR2795	n	an	no	mule	inclusive
+FR717	n	an	no	cochon	conservative
+FR106	n	svp	no	vanité	conservative
+FR1350	n	or	no	fif	conservative
+FR320	n	an	no	cul	inclusive
+FR4047	n	dmc	yes	renégat	conservative
+FR3248	v	cds	no	dévorer	inclusive
+FR3232	n	cds	no	nouveau riche	inclusive
+FR656	n	an	no	rogue	conservative
+FR3498	n	is	yes	indigent	inclusive
+FR810	n	an	no	goule	inclusive
+FR839	n	pr	no	bétail	inclusive
+FR4030	n	an	no	latastea	inclusive
+FR2439	n	qas	no	baraque	inclusive
+FR3345	a	cds	no	universitaire	conservative
+FR3352	n	is	yes	gueux	conservative
+FR3895	v	re	no	torture	inclusive
+FR3400	n	asm	no	branler	conservative
+FR2894	a	dmc	yes	scandaleux	conservative
+FR1189	n	an	no	biquette	inclusive
+FR505	n	cds	no	doux au toucher	conservative
+FR2779	n	an	no	papillon	inclusive
+FR2155	n	asf	no	nana	conservative
+FR606	n	ps	yes	bedu	inclusive
+FR2264	a	cds	no	irrégulier	inclusive
+FR3297	n	or	no	spud	inclusive
+FR1380	n	an	no	couarde	conservative
+FR283	n	cds	no	buse	inclusive
+FR1871	n	asm	no	corne	inclusive
+FR282	n	or	no	abruti	conservative
+FR519	n	ps	yes	demeuré	conservative
+FR397	n	qas	no	burne	inclusive
+FR618	n	cds	no	beguine	inclusive
+FR2429	n	svp	no	gula	inclusive
+FR3045	n	ps	yes	bougnoule	conservative
+FR1045	n	an	no	squalus carcharias	inclusive
+FR3058	n	ps	yes	population de couleur noire	inclusive
+FR3330	n	dmc	yes	traîneur	conservative
+FR425	n	ps	yes	pignouf	conservative
+FR185	a	ddp	yes	illettré	inclusive
+FR792	n	dmc	yes	pharisien	inclusive
+FR1680	n	an	no	cric	inclusive
+FR3560	n	or	no	navet	inclusive
+FR1110	n	re	no	médisant	conservative
+FR351	n	is	yes	radin	conservative
+FR1956	n	cds	no	entremetteur	inclusive
+FR1002	a	ddf	yes	abject	conservative
+FR355	n	svp	no	rat	conservative
+FR217	n	ddp	yes	bête	inclusive
+FR398	n	asm	no	burnes	inclusive
+FR432	n	ddp	yes	barbarisme	inclusive
+FR417	n	cds	no	banditisme	inclusive
+FR573	n	cds	no	histoires	inclusive
+FR26	n	svp	no	indifférence	inclusive
+FR1129	n	an	no	écume	conservative
+FR2315	n	re	no	vol	inclusive
+FR27	n	svp	no	désintérêt	inclusive
+FR501	n	an	no	selle	conservative
+FR798	n	ddp	yes	bousilleuse	conservative
+FR3127	n	an	no	tiques	inclusive
+FR3547	n	pr	no	pourrir	conservative
+FR28	n	svp	no	apathie	inclusive
+FR1756	n	ddp	yes	derrière	conservative
+FR3063	n	ps	yes	origine africaine	inclusive
+FR1916	a	dmc	yes	calamiteux	conservative
+FR217	n	asm	no	bête	inclusive
+FR50	n	cds	no	facteur	inclusive
+FR4095	n	an	no	chev%c3%aache d%e2%80%99ath%c3%a9na	inclusive
+FR2779	n	pr	no	papillon	inclusive
+FR3826	n	re	no	raper	conservative
+FR409	a	svp	no	avaricieux	conservative
+FR914	n	qas	no	bourgeoise	inclusive
+FR280	n	asf	no	ridicule	conservative
+FR295	n	or	no	tête de noeud	conservative
+FR210	n	an	no	créature	inclusive
+FR2714	n	re	no	cambrioleur	conservative
+FR1702	n	cds	no	sol	inclusive
+FR2861	n	cds	no	chawbacon	conservative
+FR2787	n	dmc	yes	mozzarelle	inclusive
+FR3987	a	cds	no	corruptible	conservative
+FR353	n	is	yes	ladre	conservative
+FR4036	n	an	no	coluber berus	inclusive
+FR289	n	asf	no	enfoiré	conservative
+FR2425	a	svp	no	gourmand	conservative
+FR319	n	an	no	asins	inclusive
+FR976	n	cds	no	oisif	conservative
+FR1332	n	om	no	clope	conservative
+FR515	n	asm	no	cornichon	conservative
+FR2321	n	cds	no	spoliation	inclusive
+FR129	n	an	no	limace	conservative
+FR823	n	an	no	méchanceté	conservative
+FR784	n	cds	no	fanfaron	conservative
+FR560	n	pr	no	garçons loyer	conservative
+FR1058	n	dmc	yes	intouchable	inclusive
+FR3312	a	qas	no	mièvre	conservative
+FR1073	n	an	no	lâche	conservative
+FR2336	n	pr	no	micheton	inclusive
+FR2544	a	ddp	yes	innocent	conservative
+FR657	n	ddp	yes	canaille	conservative
+FR3409	a	svp	no	prétentieux	conservative
+FR568	n	dmc	yes	craque	inclusive
+FR681	n	cds	no	révélateur	conservative
+FR1921	a	cds	no	incivil	conservative
+FR2051	n	asm	no	loi 12 du football: fautes et comportement antisportif	inclusive
+FR637	n	cds	no	gangstérisme	conservative
+FR3291	v	cds	no	mourir	inclusive
+FR115	n	om	no	sexe anal	inclusive
+FR1659	n	ps	yes	contre-torpilleur	conservative
+FR529	n	asm	no	haltère	conservative
+FR3308	a	qas	no	larmoyant	conservative
+FR191	n	qas	no	foule	inclusive
+FR1959	n	cds	no	jules	conservative
+FR1266	n	or	no	brassica oleracea	inclusive
+FR2859	n	cds	no	cul-terreux	conservative
+FR1090	n	pr	no	renarde	conservative
+FR2102	n	svp	no	dallier	conservative
+FR176	n	cds	no	ardeur	inclusive
+FR3422	a	svp	no	grincheux	conservative
+FR2062	n	cds	no	francs-maçons	inclusive
+FR665	n	an	no	scélérat	conservative
+FR2080	n	an	no	froncement	inclusive
+FR4007	n	asm	no	fouille-merde	conservative
+FR1124	n	cds	no	fraîcheur	conservative
+FR611	n	an	no	boucherie	inclusive
+FR500	n	an	no	mouette	conservative
+FR3851	a	svp	no	altier	conservative
+FR2092	n	cds	no	fondamentalistes	inclusive
+FR2820	n	re	no	mafia: the city of lost heaven	conservative
+FR1664	n	re	no	infraction	inclusive
+FR3245	v	cds	no	gueuletonner	inclusive
+FR276	n	ddp	yes	fada	conservative
+FR1242	n	an	no	culex pipiens	inclusive
+FR1329	n	om	no	pet	conservative
+FR3018	n	ps	yes	mongoloïdes	conservative
+FR2231	n	cds	no	réac	conservative
+FR265	n	an	no	connard	conservative
+FR1651	n	ddp	yes	boule	conservative
+FR2773	n	an	no	papillons de nuit	inclusive
+FR118	n	om	no	coït anal	inclusive
+FR2967	n	an	no	requins	inclusive
+FR1796	n	svp	no	mangeur	conservative
+FR2736	n	cds	no	utilité publique	inclusive
+FR554	n	pr	no	morue	conservative
+FR1279	n	cds	no	hall	inclusive
+FR4008	a	re	no	turbulent	conservative
+FR3947	n	an	no	canulars	conservative
+FR800	n	qas	no	gâcheur	conservative
+FR4002	n	cds	no	dégonflé	conservative
+FR2296	a	cds	no	sournois	conservative
+FR2607	n	qas	no	mensonginet	conservative
+FR2935	n	pr	no	rattus	inclusive
+FR3324	a	cds	no	astreignant	conservative
+FR409	a	an	no	avaricieux	conservative
+FR2446	n	cds	no	hubris	conservative
+FR1064	n	cds	no	mauviette	conservative
+FR1764	n	om	no	nates	inclusive
+FR3385	n	cds	no	piété	inclusive
+FR3193	n	qas	no	père	inclusive
+FR3719	n	an	no	blatte	inclusive
+FR1341	n	om	no	gay	conservative
+FR3813	a	dmc	yes	négligé	conservative
+FR3812	a	dmc	yes	vieux	conservative
+FR3178	v	cds	no	être	inclusive
+FR353	n	svp	no	ladre	conservative
+FR400	n	asm	no	roubignolle	inclusive
+FR621	n	dmc	yes	menteur	inclusive
+FR560	n	an	no	garçons loyer	conservative
+FR2032	n	dmc	yes	mat	inclusive
+FR543	n	an	no	prostitué	conservative
+FR2387	n	ps	yes	hébraïsme	inclusive
+FR461	n	pa	yes	militant de	inclusive
+FR673	n	cds	no	hors-la-loi	inclusive
+FR579	n	cds	no	dandynisme	inclusive
+FR524	n	asm	no	bercé trop près du mur	conservative
+FR389	n	svp	no	scrooge	conservative
+FR963	n	dmc	yes	clochard	conservative
+FR281	n	or	no	crétin	conservative
+FR947	n	svp	no	orgueil	conservative
+FR371	n	cds	no	cathouse	inclusive
+FR2621	a	is	yes	attristé	inclusive
+FR268	n	an	no	fou	conservative
+FR949	n	cds	no	d'autoritarisme	conservative
+FR1643	n	re	no	pirate	inclusive
+FR2518	n	ddp	yes	non-sens	inclusive
+FR282	n	ddp	yes	abruti	inclusive
+FR3206	n	an	no	lapsus	inclusive
+FR3905	n	pr	no	phalene du bouleau	inclusive
+FR3683	a	dmc	yes	dégoûtant	conservative
+FR281	n	an	no	crétin	conservative
+FR2674	v	cds	no	machiner	inclusive
+FR219	n	an	no	être	inclusive
+FR348	n	svp	no	harpagnon	conservative
+FR2828	n	re	no	maffioso	conservative
+FR674	n	cds	no	criminelle	inclusive
+FR3856	n	re	no	terroristes	inclusive
+FR1620	n	pr	no	concubine	inclusive
+FR2810	n	cds	no	policiers	conservative
+FR2561	n	cds	no	maître	inclusive
+FR623	n	cds	no	fabricatrice	conservative
+FR3083	n	ps	yes	autres courses	inclusive
+FR3378	n	an	no	phtiraptères	inclusive
+FR1088	n	pr	no	chipie	conservative
+FR352	n	svp	no	avare	conservative
+FR692	n	ddp	yes	sottise	conservative
+FR1430	n	cds	no	sournoiserie	conservative
+FR424	n	pa	yes	brute	conservative
+FR163	n	asm	no	appendice	inclusive
+FR365	n	cds	no	sportif maison	inclusive
+FR273	n	asm	no	cruche	conservative
+FR2569	n	cds	no	plaisantin	inclusive
+FR299	n	ddp	yes	ne savent rien	conservative
+FR3772	a	ps	yes	nègre	inclusive
+FR1163	n	cds	no	clanisme	inclusive
+FR1792	n	svp	no	goulu	conservative
+FR4081	n	cds	no	collaborateurs parlementaires	inclusive
+FR3561	n	or	no	brassica rapa	inclusive
+FR2612	a	ddp	yes	incapable	inclusive
+FR2841	n	an	no	petit-duc maculé	inclusive
+FR2826	n	re	no	mafieux	inclusive
+FR2339	n	pr	no	putains	inclusive
+FR1479	n	ddp	yes	gugusse	conservative
+FR2732	n	cds	no	coiffeuse	inclusive
+FR428	n	pa	yes	barbare	conservative
+FR448	n	pa	yes	ministre-conseiller	inclusive
+FR263	n	cds	no	âne	inclusive
+FR2167	n	cds	no	geolier	inclusive
+FR970	n	ps	yes	vagabond	inclusive
+FR3505	a	svp	no	vaniteux	conservative
+FR1736	n	qas	no	lune	inclusive
+FR2103	n	svp	no	dillydallier	conservative
+FR2827	n	cds	no	mafias	conservative
+FR284	n	an	no	enculé	conservative
+FR2804	n	svp	no	lascive	inclusive
+FR1922	a	dmc	yes	sans scrupules	conservative
+FR821	n	ddp	yes	férocité	conservative
+FR2431	n	svp	no	suralimentation	inclusive
+FR770	n	cds	no	bourde	inclusive
+FR1978	n	qas	no	agriculteur	inclusive
+FR2493	n	ddf	yes	infirmité	inclusive
+FR1237	n	cds	no	boules-up	inclusive
+FR3256	v	re	no	duper	inclusive
+FR1546	n	or	no	chatte	conservative
+FR2511	n	ddp	yes	aberration	conservative
+FR233	n	re	no	violeur	conservative
+FR142	n	cds	no	bouffonnerie	inclusive
+FR2194	n	cds	no	badaud	conservative
+FR1796	n	svp	no	mangeur	inclusive
+FR1083	n	asm	no	idiote	inclusive
+FR3792	n	cds	no	wonk	conservative
+FR781	n	cds	no	bêtisier	inclusive
+FR10	n	svp	no	paresse	conservative
+FR957	n	an	no	boeuf	inclusive
+FR2871	n	qas	no	paroisse	inclusive
+FR1398	n	cds	no	ferraille	inclusive
+FR1140	n	an	no	mauvaise personne	conservative
+FR1353	n	om	no	lopette	conservative
+FR3397	a	re	no	tempétueux	inclusive
+FR2775	n	an	no	papillon(s) de nuit	inclusive
+FR2433	n	qas	no	travail à la maison	inclusive
+FR160	n	cds	no	bric-à-brac	inclusive
+FR257	n	asf	no	bêtise	conservative
+FR3758	n	cds	no	christianisme scientifique	inclusive
+FR802	n	cds	no	incapable	conservative
+FR1451	n	an	no	plaquer	conservative
+FR3080	n	pa	yes	prétendant	inclusive
+FR3119	n	re	no	terroriste	conservative
+FR2006	n	cds	no	resquilleur	conservative
+FR623	n	dmc	yes	fabricatrice	conservative
+FR1627	n	dmc	yes	vagabonde	inclusive
+FR263	n	asm	no	âne	inclusive
+FR870	n	pr	no	mus americanus	inclusive
+FR1128	n	ddp	yes	racaille	conservative
+FR775	n	qas	no	gâcher	inclusive
+FR2859	n	dmc	yes	cul-terreux	conservative
+FR575	n	cds	no	dandy	inclusive
+FR739	n	ddp	yes	mother fucker	conservative
+FR282	n	cds	no	abruti	conservative
+FR544	n	pr	no	prostituée	conservative
+FR2010	n	asm	no	rayons mous	inclusive
+FR1474	n	asm	no	conarde	conservative
+FR1083	n	asf	no	idiote	conservative
+FR2000	n	dmc	yes	puer	conservative
+FR981	n	an	no	méchante	conservative
+FR683	n	ddp	yes	cafteuse	conservative
+FR174	n	cds	no	zélote	inclusive
+FR1359	n	cds	no	rumormonger	conservative
+FR2884	a	re	no	sauvage	inclusive
+FR2370	n	om	no	homophilie	inclusive
+FR2425	a	svp	no	gourmand	inclusive
+FR2667	n	asm	no	sexe de l'homme	inclusive
+FR295	n	asf	no	tête de noeud	conservative
+FR567	n	qas	no	fausseté	conservative
+FR415	n	re	no	voleur	inclusive
+FR293	n	ddp	yes	nullard	conservative
+FR2319	n	cds	no	larcin	inclusive
+FR3299	n	or	no	pomme-de-terre	inclusive
+FR167	n	an	no	codswallop	conservative
+FR1619	n	pr	no	concubinage	inclusive
+FR660	n	re	no	fripouille	inclusive
+FR55	n	cds	no	démarcheur	inclusive
+FR1146	n	qas	no	cirque	inclusive
+FR2925	n	cds	no	fierté	inclusive
+FR718	n	om	no	salaud	inclusive
+FR285	n	asf	no	anthony simon	conservative
+FR1462	n	an	no	little owl	inclusive
+FR274	n	cds	no	couillon	inclusive
+FR2889	n	dmc	yes	maux	inclusive
+FR1929	n	dmc	yes	scattergood	inclusive
+FR3259	v	re	no	entuber	inclusive
+FR717	n	dmc	yes	cochon	conservative
+FR4085	a	cds	no	rustique	conservative
+FR1376	n	cds	no	cloaque	inclusive
+FR2937	n	cds	no	reliques	inclusive
+FR1125	n	cds	no	gouaille	conservative
+FR342	n	an	no	pingrerie	conservative
+FR271	n	ddp	yes	benêt	inclusive
+FR512	n	ddp	yes	victime	conservative
+FR3901	n	pa	yes	cols blancs	inclusive
+FR2680	n	svp	no	envier	inclusive
+FR3333	v	cds	no	griffonner	inclusive
+FR2637	n	cds	no	prêt d'argent	conservative
+FR1148	n	cds	no	unité de mesure de japonaise	inclusive
+FR1142	n	om	no	pédophile	conservative
+FR3404	n	cds	no	branlage	conservative
+FR1930	n	dmc	yes	passer le tout	inclusive
+FR874	n	qas	no	villageois	inclusive
+FR130	n	an	no	flemmard	conservative
+FR1386	n	cds	no	delit de lachete	conservative
+FR3473	n	an	no	agneau	conservative
+FR1483	n	ddf	yes	paralyser	inclusive
+FR1731	n	om	no	arrière-train	inclusive
+FR1066	n	cds	no	chochotte	conservative
+FR1196	n	qas	no	tourbillon	inclusive
+FR3906	n	om	no	travestis	inclusive
+FR569	n	dmc	yes	contrevérité	inclusive
+FR1782	n	cds	no	retors	conservative
+FR901	n	om	no	sodomist	inclusive
+FR978	n	cds	no	troupeau	conservative
+FR2632	n	cds	no	usurière	conservative
+FR3179	n	cds	no	taux d'usure	inclusive
+FR3636	n	an	no	batrachus	inclusive
+FR1963	n	cds	no	proxénète	conservative
+FR2919	n	asm	no	perche	inclusive
+FR3938	n	cds	no	'ndrangheta	inclusive
+FR530	n	ps	yes	nibard	conservative
+FR263	n	om	no	âne	inclusive
+FR1644	n	an	no	pillard	inclusive
+FR1480	n	asm	no	mange-merde	conservative
+FR1085	n	cds	no	concombre	inclusive
+FR2911	n	an	no	porcelet	inclusive
+FR1312	n	pa	yes	corporal	inclusive
+FR351	n	svp	no	radin	conservative
+FR2479	n	cds	no	culte des idoles	inclusive
+FR1868	n	asm	no	erection	inclusive
+FR754	n	an	no	cocu	conservative
+FR3205	v	qas	no	embrouillamini	conservative
+FR2566	n	svp	no	intolérance	conservative
+FR3920	n	pr	no	sirène	conservative
+FR525	n	ddp	yes	nigaud	conservative
+FR199	n	an	no	anguilliformes	inclusive
+FR2416	n	dmc	yes	personne sans abri	inclusive
+FR260	av	an	no	stupidement	conservative
+FR1707	n	an	no	entourloupette	conservative
+FR1556	n	asf	no	cunt	conservative
+FR981	n	re	no	méchante	conservative
+FR419	n	cds	no	sauvage	conservative
+FR1518	n	cds	no	sélectionneur de plantes	inclusive
+FR2061	n	cds	no	franc-maconnerie	inclusive
+FR1382	n	an	no	froussarde	conservative
+FR558	n	pr	no	poule	conservative
+FR1209	n	asm	no	queue	inclusive
+FR352	n	svp	no	avare	inclusive
+FR572	n	cds	no	mensonge	inclusive
+FR462	n	pa	yes	avocats	inclusive
+FR1248	n	cds	no	infatuation	inclusive
+FR1333	n	or	no	pédale	conservative
+FR1406	n	cds	no	ordures	conservative
+FR520	n	ddp	yes	cloche	conservative
+FR3785	a	dmc	yes	jeûner	conservative
+FR1128	n	an	no	racaille	conservative
+FR3875	n	re	no	épreuve	inclusive
+FR3558	n	pa	yes	comptable	inclusive
+FR117	n	om	no	sodomisé	inclusive
+FR2912	n	an	no	shote	inclusive
+FR267	n	ps	yes	andouille	conservative
+FR202	n	ddp	yes	vie animale	inclusive
+FR1516	n	ps	yes	croisement	inclusive
+FR1154	n	cds	no	clann	inclusive
+FR366	n	cds	no	maison de tolérance	inclusive
+FR2861	n	dmc	yes	chawbacon	conservative
+FR342	n	svp	no	pingrerie	conservative
+FR2137	n	asm	no	fèverole	inclusive
+FR1849	n	cds	no	intellectuel	inclusive
+FR1525	n	cds	no	culture selective des plantes	inclusive
+FR3926	n	asm	no	repos	inclusive
+FR1131	n	an	no	canis canis	inclusive
+FR1679	n	an	no	diddley	conservative
+FR3753	n	cds	no	scientisme	inclusive
+FR2930	n	or	no	citrouille	inclusive
+FR3022	n	pr	no	salonnard	inclusive
+FR1830	n	cds	no	peon	inclusive
+FR980	n	dmc	yes	méchant	conservative
+FR4027	n	an	no	vipera	inclusive
+FR1606	n	cds	no	démagogique	conservative
+FR2624	a	is	yes	affligé	inclusive
+FR825	n	svp	no	ennuyant	inclusive
+FR654	n	an	no	voyous	conservative
+FR283	n	ddp	yes	buse	conservative
+FR3610	n	qas	no	emphase	inclusive
+FR2611	n	dmc	yes	mensonges	inclusive
+FR680	n	cds	no	commère	conservative
+FR432	n	an	no	barbarisme	inclusive
+FR501	n	ps	yes	selle	conservative
+FR3396	a	svp	no	furibond	inclusive
+FR217	n	cds	no	bête	conservative
+FR1080	n	an	no	gnangnan	conservative
+FR2081	n	an	no	renfrogner	inclusive
+FR1762	n	om	no	petits pains	inclusive
+FR1546	n	asf	no	chatte	conservative
+FR1708	n	an	no	entourloupe	conservative
+FR2637	n	cds	no	prêt d'argent	inclusive
+FR1537	n	qas	no	conformisme	inclusive
+FR4088	n	an	no	génisse	inclusive
+FR722	n	ps	yes	métisse	conservative
+FR425	n	dmc	yes	pignouf	conservative
+FR1032	n	cds	no	route wagon	inclusive
+FR2033	n	cds	no	motley fool	inclusive
+FR2445	n	cds	no	ubris	conservative
+FR657	n	cds	no	canaille	conservative
+FR476	n	an	no	cabot	inclusive
+FR1008	n	an	no	gouffre	inclusive
+FR275	n	asm	no	dupe	conservative
+FR665	n	re	no	scélérat	conservative
+FR297	n	ddp	yes	bûche	conservative
+FR981	n	dmc	yes	méchante	conservative
+FR556	n	an	no	escorte masculine	conservative
+FR3458	a	dmc	yes	feint qualifier	conservative
+FR2594	n	svp	no	péché de chair	inclusive
+FR3395	a	svp	no	excédé	inclusive
+FR1502	n	ddf	yes	bossue	inclusive
+FR1555	n	or	no	connin	conservative
+FR1963	n	cds	no	proxénète	inclusive
+FR517	n	cds	no	niais	conservative
+FR287	n	or	no	dunce	conservative
+FR2676	v	cds	no	intrigue	inclusive
+FR2714	n	dmc	yes	cambrioleur	conservative
+FR666	n	cds	no	malfrat	inclusive
+FR40	n	re	no	abus	inclusive
+FR3136	n	re	no	assassiné	inclusive
+FR170	n	an	no	débris	conservative
+FR1249	n	cds	no	contentement de soi	inclusive
+FR1663	n	re	no	criminels	inclusive
+FR1589	n	cds	no	tricker	conservative
+FR1493	n	an	no	crocodilien	inclusive
+FR3304	a	qas	no	sentimental	conservative
+FR3225	n	an	no	profiteur	conservative
+FR3607	a	ddf	yes	décevant]]	conservative
+FR2176	n	cds	no	gigolo	inclusive
+FR968	n	dmc	yes	sans-abri	conservative
+FR1564	n	asf	no	cunts	conservative
+FR1591	n	om	no	dame	inclusive
+FR1798	n	svp	no	carcajou	conservative
+FR3103	n	cds	no	nimpho	conservative
+FR3783	a	dmc	yes	dissolu	conservative
+FR2407	n	cds	no	archiprêtre	inclusive
+FR1629	a	ddp	yes	crédule	conservative
+FR2309	n	cds	no	réprouver	conservative
+FR3031	n	dmc	yes	crevette	conservative
+FR3138	n	re	no	assassinat	inclusive
+FR2035	n	cds	no	bouffon	inclusive
+FR1317	n	cds	no	newswriter	inclusive
+FR503	n	asf	no	lampiste	conservative
+FR1333	n	om	no	pédale	conservative
+FR263	n	ddp	yes	âne	inclusive
+FR261	n	asm	no	imbécile	inclusive
+FR2719	n	ps	yes	meteque	inclusive
+FR2685	a	svp	no	jaloux	conservative
+FR3711	n	an	no	blattodea	inclusive
+FR3619	a	cds	no	fascisant	inclusive
+FR266	n	asf	no	con	conservative
+FR191	n	cds	no	foule	conservative
+FR2918	n	asm	no	barre	inclusive
+FR1847	n	cds	no	pedagog	inclusive
+FR1518	n	ps	yes	sélectionneur de plantes	inclusive
+FR399	n	qas	no	teste	inclusive
+FR614	n	cds	no	récit	conservative
+FR342	n	svp	no	pingrerie	inclusive
+FR941	n	cds	no	hypothèse	conservative
+FR1469	n	qas	no	équipage	inclusive
+FR2108	n	dmc	yes	aigrefin	conservative
+FR1088	n	an	no	chipie	conservative
+FR3621	n	an	no	crapeaud	inclusive
+FR2294	a	cds	no	rusé	conservative
+FR1531	n	cds	no	oreille	conservative
+FR180	n	cds	no	fanatisme	conservative
+FR1437	n	svp	no	tanha	inclusive
+FR3603	a	dmc	yes	sales	inclusive
+FR655	n	re	no	valet	conservative
+FR2760	n	ps	yes	mongol	inclusive
+FR1729	n	dmc	yes	trompeur	conservative
+FR794	n	an	no	loup	conservative
+FR573	n	dmc	yes	histoires	inclusive
+FR824	n	svp	no	ennui	inclusive
+FR1031	n	cds	no	caravane	inclusive
+FR2450	n	cds	no	clown	conservative
+FR274	n	ddp	yes	couillon	inclusive
+FR2853	n	cds	no	paparazzi	inclusive
+FR3317	v	qas	no	maquiller	inclusive
+FR998	n	cds	no	cacographie	inclusive
+FR3403	n	asm	no	handjob	conservative
+FR96	n	pa	yes	scolastique	inclusive
+FR2484	a	an	no	parcimonieux	conservative
+FR501	n	asm	no	selle	conservative
+FR3039	n	cds	no	autolatry	inclusive
+FR214	n	ddp	yes	animaux	inclusive
+FR3678	n	cds	no	salonard	conservative
+FR270	n	cds	no	balourd	conservative
+FR1952	n	cds	no	ruffian	inclusive
+FR1284	n	svp	no	volupté	inclusive
+FR715	n	an	no	talon	conservative
+FR2925	n	svp	no	fierté	conservative
+FR1301	n	asm	no	baise	conservative
+FR843	n	cds	no	chef	inclusive
+FR2607	n	cds	no	mensonginet	inclusive
+FR207	n	ddp	yes	épifaune	inclusive
+FR3930	n	asm	no	avafauna	inclusive
+FR400	n	qas	no	roubignolle	inclusive
+FR119	n	om	no	sodomie	inclusive
+FR684	n	ddp	yes	cafteur	conservative
+FR1721	n	svp	no	dégoût	inclusive
+FR826	n	an	no	vaches	inclusive
+FR3897	n	an	no	ballon avaleur	inclusive
+FR3034	n	cds	no	narcissisme	inclusive
+FR1201	n	an	no	grossièreté	conservative
+FR563	n	an	no	floozie	conservative
+FR3032	n	dmc	yes	demi-pinte	conservative
+FR2306	n	an	no	bourrin	inclusive
+FR3972	n	pa	yes	savatier	inclusive
+FR3447	a	dmc	yes	foutu	conservative
+FR2033	n	dmc	yes	motley fool	inclusive
+FR735	n	ddp	yes	tête de nœud	conservative
+FR1881	n	qas	no	amateuse	inclusive
+FR973	n	dmc	yes	glandeur	conservative
+FR1087	n	cds	no	attardé	inclusive
+FR3258	v	asm	no	truander	conservative
+FR3065	n	ps	yes	femmes noires	inclusive
+FR1794	n	svp	no	tranchoir	conservative
+FR3409	a	cds	no	prétentieux	conservative
+FR1377	n	an	no	poltronne	conservative
+FR53	n	cds	no	courtage	inclusive
+FR296	n	asf	no	bonehead	conservative
+FR2100	n	an	no	rage	inclusive
+FR137	n	qas	no	tabi'in	inclusive
+FR2723	n	cds	no	schoolma'am	conservative
+FR3430	n	re	no	plagié	inclusive
+FR692	n	asm	no	sottise	conservative
+FR3657	n	an	no	rana acephala	inclusive
+FR1534	n	cds	no	débutant	conservative
+FR291	n	ddp	yes	bœuf	conservative
+FR2607	n	cds	no	mensonginet	conservative
+FR1914	a	dmc	yes	noir	conservative
+FR1777	n	om	no	postérieurement	inclusive
+FR2146	n	asf	no	cramouille	conservative
+FR3047	n	ps	yes	nigra	conservative
+FR1477	n	or	no	connasse	conservative
+FR3175	v	cds	no	écoutes	inclusive
+FR714	n	dmc	yes	achille	conservative
+FR2323	n	re	no	butin	inclusive
+FR3071	n	ps	yes	mélanoderme	inclusive
+FR2082	n	an	no	froncer les sourcils	inclusive
+FR3908	n	om	no	crossdress	inclusive
+FR574	n	cds	no	boniment	inclusive
+FR1662	n	re	no	activités criminelles	inclusive
+FR518	n	ddp	yes	démoulé trop tôt	conservative
+FR204	n	an	no	herpétofaune	inclusive
+FR348	n	svp	no	harpagnon	inclusive
+FR838	n	an	no	bovins	inclusive
+FR2181	n	asf	no	poils pubiens	inclusive
+FR3400	n	cds	no	branler	conservative
+FR3577	n	re	no	vols	inclusive
+FR1367	n	an	no	physionomie	inclusive
+FR1703	n	cds	no	souillure	inclusive
+FR64	n	pa	yes	les universités	inclusive
+FR191	n	cds	no	foule	inclusive
+FR945	n	ps	yes	bulgares	inclusive
+FR3847	n	cds	no	conciliabule	inclusive
+FR671	n	cds	no	malfaiteur	inclusive
+FR2329	n	qas	no	factotum	conservative
+FR2819	n	re	no	mafia	inclusive
+FR1506	n	ps	yes	amélioration des plantes	inclusive
+FR3605	a	ddf	yes	décevante	conservative
+FR821	n	re	no	férocité	inclusive
+FR301	n	ddp	yes	ignorant	conservative
+FR3040	a	cds	no	égocentré	conservative
+FR3673	v	re	no	voler	inclusive
+FR1790	n	svp	no	goinfre	inclusive
+FR590	n	cds	no	bellâtre	inclusive
+FR285	n	or	no	anthony simon	conservative
+FR670	n	cds	no	criminel	inclusive
+FR684	n	cds	no	cafteur	conservative
+FR665	n	cds	no	scélérat	conservative
+FR1071	n	asf	no	gonzesse	conservative
+FR2647	n	cds	no	backtalk	inclusive
+FR532	n	pr	no	putain	inclusive
+FR2578	a	dmc	yes	non déontologique	conservative
+FR1508	n	cds	no	monohybridisme	inclusive
+FR1358	n	ddp	yes	gossiper	conservative
+FR638	n	cds	no	anneau	conservative
+FR2402	n	cds	no	le grand non lavé	inclusive
+FR24	n	svp	no	abattement	inclusive
+FR1934	n	cds	no	lignée familiale	inclusive
+FR970	n	dmc	yes	vagabond	conservative
+FR1879	n	an	no	escargots	inclusive
+FR2118	n	cds	no	fachiste	conservative
+FR1901	n	an	no	euryptéridé	inclusive
+FR1562	n	asf	no	fica	conservative
+FR3236	v	re	no	embêter	inclusive
+FR1960	n	cds	no	barbeau	inclusive
+FR3450	a	dmc	yes	fichu	conservative
+FR1631	n	cds	no	pur	conservative
+FR3966	n	om	no	drag queen	inclusive
+FR2887	n	cds	no	fête	inclusive
+FR597	n	cds	no	chaos	inclusive
+FR1190	n	an	no	nounou	inclusive
+FR2618	a	is	yes	sérieux	inclusive
+FR1804	n	an	no	mouton	inclusive
+FR1614	n	pr	no	concubines	inclusive
+FR378	n	cds	no	maison close	inclusive
+FR3706	n	cds	no	cognes	conservative
+FR3517	a	cds	no	redoutable	conservative
+FR504	n	an	no	pigeon	conservative
+FR3325	a	or	no	minutieux	conservative
+FR52	n	cds	no	broker	inclusive
+FR500	n	asm	no	mouette	conservative
+FR890	n	qas	no	hommes d'affaires	inclusive
+FR888	n	qas	no	propriétaire d'entreprise	inclusive
+FR1178	n	an	no	caprin	inclusive
+FR169	n	an	no	folderol	conservative
+FR3064	n	ps	yes	communauté noire	inclusive
+FR135	n	qas	no	tabi%e2%80%98in	inclusive
+FR2073	n	cds	no	franc maconnerie	inclusive
+FR3313	v	cds	no	déshydrater	inclusive
+FR1834	n	cds	no	galérien	inclusive
+FR3784	a	dmc	yes	libertin	conservative
+FR571	n	cds	no	bobard	inclusive
+FR540	n	pr	no	fille	conservative
+FR277	n	asf	no	idiot	conservative
+FR2500	n	ddf	yes	handicapée	inclusive
+FR3302	n	or	no	patate	inclusive
+FR1211	n	asm	no	paf	conservative
+FR2878	n	an	no	perroquet	inclusive
+FR798	n	qas	no	bousilleuse	conservative
+FR2991	n	an	no	ovidés	inclusive
+FR1347	n	om	no	homophile	inclusive
+FR661	n	an	no	coquin	conservative
+FR427	n	rci	yes	rustre	conservative
+FR1696	n	cds	no	grungeur	inclusive
+FR1315	n	pa	yes	caporaux	inclusive
+FR259	av	an	no	bêtement	conservative
+FR3952	n	cds	no	théoriciens de la conspiration	inclusive
+FR1122	n	re	no	arnaqueur	inclusive
+FR4050	n	dmc	yes	traîtresse	conservative
+FR431	n	an	no	barbarie	inclusive
+FR3724	n	an	no	cancrelat	inclusive
+FR2401	n	cds	no	gens	conservative
+FR190	n	cds	no	armée	inclusive
+FR1564	n	or	no	cunts	conservative
+FR1550	n	or	no	moule	conservative
+FR305	n	an	no	baudet	inclusive
+FR1076	n	cds	no	pleureur	conservative
+FR1562	n	or	no	fica	conservative
+FR3973	n	pa	yes	cordonnerie	inclusive
+FR1000	a	dmc	yes	mal	conservative
+FR278	n	an	no	sot	conservative
+FR2673	v	cds	no	comploter	inclusive
+FR543	n	pr	no	prostitué	inclusive
+FR657	n	is	yes	canaille	conservative
+FR1732	n	om	no	postérieur	inclusive
+FR131	n	qas	no	at-tabi'ûn	inclusive
+FR228	n	re	no	dénigrement	conservative
+FR159	n	cds	no	épice gériatrique	inclusive
+FR1300	n	asm	no	morceau d'âne	conservative
+FR424	n	rci	yes	brute	conservative
+FR1753	n	om	no	arrière	inclusive
+FR3537	a	cds	no	hybride	inclusive
+FR3485	a	ddp	yes	bestial	conservative
+FR1404	n	qas	no	déchet	inclusive
+FR1982	n	qas	no	fermier	inclusive
+FR407	a	svp	no	cupide	inclusive
+FR503	n	cds	no	lampiste	conservative
+FR1082	n	ps	yes	changelins	conservative
+FR1108	n	re	no	maligner	conservative
+FR271	n	ddp	yes	benêt	conservative
+FR280	n	asm	no	ridicule	conservative
+FR1471	n	asm	no	connarde	conservative
+FR224	n	an	no	faune	inclusive
+FR3526	n	cds	no	plaidoyer	inclusive
+FR1327	n	or	no	drôle	conservative
+FR2381	n	ps	yes	judaica	inclusive
+FR346	n	svp	no	grippe-sou	conservative
+FR965	n	an	no	miette	conservative
+FR591	n	cds	no	type	inclusive
+FR220	n	an	no	faunistique	inclusive
+FR124	n	svp	no	oisiveté	inclusive
+FR530	n	ddp	yes	nibard	conservative
+FR2705	a	re	no	furieux	inclusive
+FR1185	n	an	no	chevre	inclusive
+FR2610	n	cds	no	mentir	conservative
+FR630	a	ddp	yes	puéril	inclusive
+FR329	n	svp	no	peche capital	inclusive
+FR3070	n	ps	yes	negre	inclusive
+FR811	n	an	no	commerce de cadavres	inclusive
+FR3668	v	re	no	dépouiller	inclusive
+FR624	n	pa	yes	chasseur	inclusive
+FR2815	n	cds	no	policier	conservative
+FR2543	a	ddp	yes	ignare	conservative
+FR24	n	svp	no	abattement	conservative
+FR422	n	cds	no	rustaud	conservative
+FR1467	n	ddp	yes	crétinisme	inclusive
+FR2225	n	cds	no	d'extrême-droite	conservative
+FR276	n	asf	no	fada	conservative
+FR3356	n	cds	no	sniveller	conservative
+FR2878	n	an	no	perroquet	conservative
+FR4028	n	an	no	echidnoides	inclusive
+FR3343	a	cds	no	pointilleux	conservative
+FR3376	n	an	no	phthiraptera	inclusive
+FR3863	n	an	no	caiman	inclusive
+FR2806	n	cds	no	gendarme	conservative
+FR141	n	cds	no	badinage	inclusive
+FR1626	n	pr	no	courtisan	inclusive
+FR423	n	ps	yes	bâtard	conservative
+FR1005	a	dmc	yes	vil	conservative
+FR1584	n	cds	no	cueillir	conservative
+FR1503	n	ps	yes	croisés	inclusive
+FR3869	n	cds	no	routiers	inclusive
+FR2486	a	svp	no	ladre	conservative
+FR146	n	cds	no	blague	inclusive
+FR1092	n	an	no	louve	inclusive
+FR622	n	dmc	yes	fabricateur	conservative
+FR3969	n	om	no	dragqueen	inclusive
+FR1478	n	ddp	yes	twirp	conservative
+FR3773	a	ddf	yes	borgne	inclusive
+FR3172	a	qas	no	habituel	inclusive
+FR3978	n	an	no	roncin	inclusive
+FR507	n	ddp	yes	pudden-tête	conservative
+FR1209	n	asm	no	queue	conservative
+FR2282	n	an	no	sus	inclusive
+FR2642	n	cds	no	impertinence	inclusive
+FR4034	n	an	no	vipere berus	inclusive
+FR1615	n	pr	no	doxy	inclusive
+FR284	n	or	no	enculé	conservative
+FR3970	n	om	no	drag queens	inclusive
+FR1250	n	qas	no	castes	inclusive
+FR3755	n	cds	no	religion scientifique	inclusive
+FR1463	n	an	no	chevêche	inclusive
+FR2031	a	dmc	yes	faux	inclusive
+FR3820	n	pr	no	lampyris noctiluca	inclusive
+FR2197	n	cds	no	spectateur	conservative
+FR2832	n	ps	yes	ostrogoth	inclusive
+FR1330	n	om	no	tapette	inclusive
+FR2038	n	cds	no	baladin	conservative
+FR86	n	ddp	yes	arriération mentale	inclusive
+FR626	a	ddp	yes	idiot	conservative
+FR540	n	asf	no	fille	conservative
+FR2541	n	ddp	yes	ignard	conservative
+FR334	n	svp	no	cupidité	inclusive
+FR4088	n	pr	no	génisse	inclusive
+FR429	n	svp	no	acquisivité	inclusive
+FR272	n	an	no	bourrique	conservative
+FR1486	n	an	no	crocodilidé	inclusive
+FR1937	n	cds	no	peuple	inclusive
+FR1838	n	ddf	yes	nanus	conservative
+FR105	n	cds	no	amour-propre	conservative
+FR3244	v	cds	no	s'empiffrer	inclusive
+FR1122	n	cds	no	arnaqueur	inclusive
+FR3213	v	qas	no	foirer	conservative
+FR263	n	an	no	âne	conservative
+FR3713	n	an	no	gardon	inclusive
+FR976	n	svp	no	oisif	conservative
+FR1081	n	asf	no	changeling	conservative
+FR1325	n	cds	no	correspondants	inclusive
+FR1452	n	asm	no	crédulité	conservative
+FR1389	v	cds	no	babiller	inclusive
+FR1974	n	qas	no	fieldhand	inclusive
+FR1728	n	dmc	yes	faux	conservative
+FR2751	n	dmc	yes	slackers	conservative
+FR3925	n	asm	no	avifaune	inclusive
+FR411	n	qas	no	lestage	inclusive
+FR266	n	asm	no	con	conservative
+FR1078	n	cds	no	poulet	conservative
+FR293	n	asf	no	nullard	conservative
+FR4058	n	ps	yes	rrom	inclusive
+FR1553	n	asf	no	connichon	conservative
+FR2376	n	ps	yes	judéo	inclusive
+FR1923	n	an	no	face	inclusive
+FR419	n	dmc	yes	sauvage	conservative
+FR2780	n	an	no	mite	inclusive
+FR1789	n	qas	no	chenil	inclusive
+FR2253	v	qas	no	enculer	conservative
+FR266	n	ddp	yes	con	inclusive
+FR3390	a	svp	no	énervé	inclusive
+FR774	n	qas	no	gaffe	inclusive
+FR314	n	an	no	Âne	inclusive
+FR2488	n	cds	no	singe	conservative
+FR3516	a	cds	no	couard	conservative
+FR266	n	or	no	con	conservative
+FR2124	n	cds	no	fachisme	conservative
+FR2994	n	an	no	ouaille	inclusive
+FR4003	v	cds	no	idolâtrer	inclusive
+FR3588	n	re	no	capturer	inclusive
+FR3292	v	cds	no	passer l'arme à gauche	inclusive
+FR769	n	qas	no	perle	inclusive
+FR3264	n	qas	no	perturbateur	conservative
+FR1197	n	cds	no	embrouillamini	inclusive
+FR4055	n	an	no	anguillidés	inclusive
+FR2015	n	pa	yes	poissonnier	inclusive
+FR2750	n	cds	no	latrines	inclusive
+FR947	n	cds	no	orgueil	inclusive
+FR3157	n	re	no	mise à mort	inclusive
+FR4054	n	an	no	limacidae	inclusive
+FR2487	a	an	no	pingre	conservative
+FR2136	n	asm	no	fava	inclusive
+FR827	n	an	no	bovin	inclusive
+FR301	n	asm	no	ignorant	conservative
+FR1880	n	an	no	limaçon	inclusive
+FR1491	n	an	no	crocodylia	inclusive
+FR1748	n	om	no	plan axial	inclusive
+FR196	n	an	no	anguilla	inclusive
+FR3891	n	re	no	supplice	inclusive
+FR1757	n	om	no	tooshie	inclusive
+FR1715	n	svp	no	nausée	inclusive
+FR665	n	dmc	yes	scélérat	conservative
+FR1123	n	cds	no	escroc	inclusive
+FR666	n	cds	no	malfrat	conservative
+FR766	n	cds	no	bobo	inclusive
+FR639	n	cds	no	gangs	inclusive
+FR3382	n	cds	no	discrimination religieuse	inclusive
+FR697	n	ps	yes	jais	inclusive
+FR1802	n	svp	no	glouton	inclusive
+FR1176	n	an	no	chevreau	inclusive
+FR1118	n	re	no	chiseler	inclusive
+FR2341	n	pr	no	services sexuels	conservative
+FR1074	n	an	no	weakly interacting massive particles	conservative
+FR424	n	qas	no	brute	conservative
+FR3917	a	om	no	travesti	inclusive
+FR3580	n	re	no	agresser	inclusive
+FR2582	n	om	no	noble	inclusive
+FR9	n	an	no	paresseux	conservative
+FR3528	a	re	no	cramoisi	conservative
+FR2751	n	svp	no	slackers	conservative
+FR3183	n	ps	yes	vandal	inclusive
+FR428	n	dmc	yes	barbare	conservative
+FR3233	n	cds	no	parvenu	inclusive
+FR2152	a	dmc	yes	malodorant	conservative
+FR2435	n	qas	no	hutte	inclusive
+FR3228	a	qas	no	paroissiale	inclusive
+FR1328	n	or	no	nance	conservative
+FR3779	n	an	no	sébaste	inclusive
+FR3342	a	cds	no	pédante	conservative
+FR2549	n	cds	no	splashiness	conservative
+FR3357	n	cds	no	râleuse	conservative
+FR2342	n	pr	no	john	inclusive
+FR1065	n	an	no	paillasson	conservative
+FR2031	a	dmc	yes	faux	conservative
+FR1149	n	cds	no	tribu	inclusive
+FR699	n	ps	yes	hoto	inclusive
+FR1705	n	cds	no	tache	inclusive
+FR427	n	ddp	yes	rustre	conservative
+FR3249	v	cds	no	goinfrer	inclusive
+FR1393	n	ddp	yes	empirisme	conservative
+FR392	n	asm	no	testicule	inclusive
+FR1330	n	om	no	tapette	conservative
+FR3921	n	pr	no	hétaïre	inclusive
+FR1519	n	ps	yes	culture sélective des plantes	inclusive
+FR499	n	asm	no	fall guy	conservative
+FR1436	n	svp	no	trsna	inclusive
+FR587	n	cds	no	fat	inclusive
+FR625	n	pa	yes	groom	inclusive
+FR114	n	om	no	pénétration anale	inclusive
+FR3915	n	om	no	cross dressing	inclusive
+FR3671	v	re	no	piger	inclusive
+FR503	n	an	no	lampiste	conservative
+FR293	n	or	no	nullard	conservative
+FR1298	n	asm	no	ﬁcken	conservative
+FR513	n	asm	no	débile	conservative
+FR2483	a	is	yes	étroit	conservative
+FR1817	n	cds	no	des dizaines	inclusive
+FR681	n	ddp	yes	révélateur	conservative
+FR3001	n	pa	yes	bergers	inclusive
+FR1581	n	qas	no	rejeter	conservative
+FR3263	v	asm	no	escroquer	conservative
+FR263	n	an	no	âne	inclusive
+FR1579	n	or	no	cucurbita maxima	inclusive
+FR1965	n	cds	no	pandar	conservative
+FR3287	v	cds	no	crever	inclusive
+FR1863	a	ddp	yes	fou	inclusive
+FR721	n	an	no	personne négligée	conservative
+FR643	n	cds	no	cercle	inclusive
+FR1477	n	cds	no	connasse	conservative
+FR2855	n	qas	no	parasite	conservative
+FR3732	n	an	no	aureus	inclusive
+FR58	n	cds	no	agent	inclusive
+FR230	n	re	no	viol	conservative
+FR613	n	qas	no	histoire	conservative
+FR3173	a	qas	no	usuel	inclusive
+FR3578	n	re	no	volé	inclusive
+FR1758	n	om	no	aborale	inclusive
+FR2355	n	om	no	homosexualite	inclusive
+FR2997	n	an	no	ovidé	inclusive
+FR690	n	cds	no	espièglerie	conservative
+FR2956	n	cds	no	eaux d'égout	inclusive
+FR617	n	cds	no	baratin	conservative
+FR1933	n	svp	no	faineance	inclusive
+FR3864	n	an	no	jacarea	inclusive
+FR1599	n	dmc	yes	tromper	conservative
+FR3594	n	cds	no	fawner	conservative
+FR4018	n	an	no	tzarevcsya	inclusive
+FR997	n	cds	no	griffonner	inclusive
+FR392	n	qas	no	testicule	inclusive
+FR3886	n	re	no	tortures	inclusive
+FR3821	n	pr	no	vers luisant	inclusive
+FR1488	n	an	no	crocodile	inclusive
+FR760	n	dmc	yes	sang	conservative
+FR3481	n	cds	no	néonatale	inclusive
+FR1759	n	om	no	apicale	inclusive
+FR523	n	asm	no	simplet	conservative
+FR2664	n	asm	no	zigounette	inclusive
+FR2046	n	asm	no	prepuce	inclusive
+FR1687	n	cds	no	criminalité	inclusive
+FR1673	n	cds	no	délit	inclusive
+FR947	n	cds	no	orgueil	conservative
+FR2332	n	cds	no	coursier	inclusive
+FR336	n	svp	no	les 7 pêché capitaux	inclusive
+FR1794	n	svp	no	tranchoir	inclusive
+FR1004	a	dmc	yes	moche	conservative
+FR837	n	an	no	taurin	inclusive
+FR735	n	asf	no	tête de nœud	conservative
+FR203	n	ddp	yes	métazoaires	inclusive
+FR423	n	dmc	yes	bâtard	conservative
+FR1955	n	cds	no	proxénètes	conservative
+FR660	n	re	no	fripouille	conservative
+FR1087	n	asm	no	attardé	inclusive
+FR1412	n	qas	no	déchets	inclusive
+FR2444	n	cds	no	hybris	conservative
+FR2321	n	re	no	spoliation	inclusive
+FR3640	n	an	no	bufo	inclusive
+FR696	n	ps	yes	inkiness	inclusive
+FR544	n	pr	no	prostituée	inclusive
+FR2514	n	ddp	yes	absurdité	conservative
+FR2714	n	cds	no	cambrioleur	conservative
+FR95	n	pa	yes	académisme	inclusive
+FR405	n	asm	no	testiculaire	inclusive
+FR170	n	cds	no	débris	inclusive
+FR106	n	cds	no	vanité	conservative
+FR800	n	cds	no	gâcheur	conservative
+FR2666	n	asm	no	verge	inclusive
+FR1340	n	om	no	uraniste	inclusive
+FR270	n	asm	no	balourd	inclusive
+FR2635	n	cds	no	prêt usuraire	conservative
+FR3037	n	cds	no	idiolatry	inclusive
+FR2278	n	an	no	cochons	inclusive
+FR819	n	an	no	zooerastia	conservative
+FR2814	n	cds	no	policière	conservative
+FR3161	n	cds	no	homoncule	inclusive
+FR283	n	ps	yes	buse	conservative
+FR255	n	asm	no	imbécilité	conservative
+FR2060	n	cds	no	maçonniques	inclusive
+FR1724	n	dmc	yes	guignol	conservative
+FR427	n	pa	yes	rustre	conservative
+FR2066	n	cds	no	franc-mestiers	inclusive
+FR2109	n	cds	no	fripon	conservative
+FR1438	n	svp	no	tṛṣṇā	inclusive
+FR2020	n	qas	no	paire de manches	inclusive
+FR646	n	cds	no	gang	inclusive
+FR446	a	svp	no	glouton	inclusive
+FR277	n	cds	no	idiot	inclusive
+FR3839	n	re	no	assaut sexuel	inclusive
+FR2655	n	cds	no	marieur	inclusive
+FR2660	n	asm	no	zguègue	inclusive
+FR3068	n	ps	yes	melanoderme	inclusive
+FR1086	n	asf	no	retarder	conservative
+FR3718	n	an	no	coquerelle	inclusive
+FR1441	n	ddp	yes	folie	conservative
+FR421	n	rci	yes	rustaude	conservative
+FR2610	n	qas	no	mentir	conservative
+FR1331	n	or	no	fée	conservative
+FR2222	n	dmc	yes	bon à rien	conservative
+FR620	n	cds	no	béguines	inclusive
+FR2886	a	dmc	yes	atroce	conservative
+FR1291	n	cds	no	merde	inclusive
+FR269	n	asf	no	muggins	conservative
+FR3840	n	re	no	infractions sexuelles	inclusive
+FR3149	n	re	no	meutrier	inclusive
+FR421	n	pa	yes	rustaude	conservative
+FR2802	n	cds	no	délinquants	inclusive
+FR2499	n	ddf	yes	invalidité	inclusive
+FR2299	a	dmc	yes	malin	conservative
+FR2038	n	dmc	yes	baladin	inclusive
+FR2209	n	an	no	chèvre-antilope	inclusive
+FR3910	n	om	no	travesti	inclusive
+FR2826	n	cds	no	mafieux	inclusive
+FR277	n	ddp	yes	idiot	conservative
+FR3171	n	dmc	yes	infortuné	inclusive
+FR3996	n	cds	no	poltronnerie	inclusive
+FR186	a	ddp	yes	analphabète	conservative
+FR1631	n	ddp	yes	pur	conservative
+FR2545	n	re	no	acharnement	inclusive
+FR2606	n	cds	no	gésir	inclusive
+FR3350	n	cds	no	ragot	inclusive
+FR1965	n	cds	no	pandar	inclusive
+FR2114	n	dmc	yes	gangster	inclusive
+FR2793	n	an	no	mulassier	inclusive
+FR4065	n	ps	yes	romani	inclusive
+FR2678	a	om	no	homosexuelle	conservative
+FR1017	n	cds	no	camper	inclusive
+FR531	n	an	no	grue	conservative
+FR1135	n	an	no	canin	inclusive
+FR2620	a	is	yes	chagriné	inclusive
+FR274	n	asm	no	couillon	conservative
+FR1454	n	an	no	hibou	inclusive
+FR1980	n	qas	no	cultivatrice	inclusive
+FR1011	n	qas	no	trou	inclusive
+FR1973	n	qas	no	part domaine	inclusive
+FR3604	a	ddf	yes	décevant	conservative
+FR269	n	ddp	yes	muggins	conservative
+FR3290	v	cds	no	succomber	inclusive
+FR994	n	cds	no	griffer	inclusive
+FR248	n	cds	no	ruse	inclusive
+FR3443	a	cds	no	trivial	inclusive
+FR3757	n	cds	no	dogme de l'évolution	inclusive
+FR1143	n	ps	yes	chinois	inclusive
+FR982	n	dmc	yes	moi	conservative
+FR247	n	cds	no	perspicaciousness	inclusive
+FR1318	n	cds	no	épistolier	inclusive
+FR3147	n	re	no	tuer	inclusive
+FR203	n	an	no	métazoaires	inclusive
+FR214	n	an	no	animaux	inclusive
+FR279	n	asm	no	bêta	conservative
+FR725	n	cds	no	corniaud	inclusive
+FR2533	n	is	yes	indigents	inclusive
+FR1204	n	asm	no	vit	inclusive
+FR1791	n	svp	no	gourmet	inclusive
+FR3789	n	cds	no	dweeb	conservative
+FR1955	n	cds	no	proxénètes	inclusive
+FR2758	n	cds	no	moneygrubber	inclusive
+FR266	n	pr	no	con	conservative
+FR2198	n	qas	no	fureteur	inclusive
+FR1021	n	cds	no	clique	inclusive
+FR281	n	asm	no	crétin	inclusive
+FR32	n	qas	no	acolyte	inclusive
+FR2990	n	ddp	yes	nanocephaly	inclusive
+FR2534	n	is	yes	pauperisme	inclusive
+FR2610	n	dmc	yes	mentir	inclusive
+FR774	n	cds	no	gaffe	inclusive
+FR1806	n	an	no	aries	inclusive
+FR628	a	cds	no	bêta	conservative
+FR2891	a	dmc	yes	malfaisant	conservative
+FR3352	n	is	yes	gueux	inclusive
+FR504	n	asm	no	pigeon	conservative
+FR1628	n	qas	no	va-nu-pieds	conservative
+FR2083	n	an	no	mine renfrognée	inclusive
+FR430	n	ddp	yes	brutalité	conservative
+FR2333	n	pr	no	sexuels commerciaux	conservative
+FR502	n	cds	no	poire	conservative
+FR2399	n	cds	no	masses	conservative
+FR110	n	om	no	sexualité anale	inclusive
+FR716	n	dmc	yes	porc	conservative
+FR2572	n	cds	no	penman	conservative
+FR2872	n	qas	no	paroissial	inclusive
+FR305	n	om	no	baudet	inclusive
+FR801	n	dmc	yes	gaffeur	conservative
+FR3575	n	re	no	raptio	inclusive
+FR2515	n	ddp	yes	absurdes	conservative
+FR1247	n	cds	no	autosatisfaction	inclusive
+FR1335	n	om	no	queer	conservative
+FR2410	n	cds	no	primat	inclusive
+FR315	n	an	no	Ânon	inclusive
+FR4	v	an	no	aboyer	inclusive
+FR2116	n	re	no	gangsters	inclusive
+FR1338	n	om	no	androgame	inclusive
+FR2531	n	is	yes	pauvrete	inclusive
+FR786	n	cds	no	vaunter	conservative
+FR3967	n	om	no	female impersonator	inclusive
+FR792	n	cds	no	pharisien	conservative
+FR388	n	is	yes	harpagon	conservative
+FR419	n	ps	yes	sauvage	conservative
+FR659	n	cds	no	fourbe	conservative
+FR710	n	qas	no	magnats	inclusive
+FR1598	n	qas	no	crépisseur	conservative
+FR103	n	an	no	buffle	inclusive
+FR2452	n	an	no	hyenidae	inclusive
+FR2022	n	qas	no	bain	inclusive
+FR2244	v	asm	no	enconner	conservative
+FR3379	n	an	no	phtiraptère	inclusive
+FR2489	n	an	no	strix varia	inclusive
+FR631	a	ddp	yes	enfantin	conservative
+FR2292	a	cds	no	espiègle	conservative
+FR1994	n	or	no	minutie	inclusive
+FR1057	n	dmc	yes	naufragé	inclusive
+FR2168	n	cds	no	gardiens de prison	inclusive
+FR948	n	cds	no	morgue	conservative
+FR1121	n	cds	no	trafiquant	inclusive
+FR1710	n	svp	no	antipathie	inclusive
+FR1433	n	svp	no	tanhā	inclusive
+FR2631	n	cds	no	usurier	conservative
+FR387	n	svp	no	rapiat	conservative
+FR773	n	cds	no	blooper	inclusive
+FR3280	v	cds	no	expirer	inclusive
+FR4046	n	dmc	yes	girouette	conservative
+FR1357	n	cds	no	cancan	conservative
+FR2135	n	asm	no	fèves	inclusive
+FR3120	n	re	no	terrorisme	inclusive
+FR3223	n	is	yes	mendiant	conservative
+FR130	n	cds	no	flemmard	conservative
+FR2008	n	asm	no	poissons	inclusive
+FR900	n	om	no	pédé	conservative
+FR2988	n	ddp	yes	microcéphalie	inclusive
+FR349	n	svp	no	avaricieux	inclusive
+FR3314	v	cds	no	vénérer	inclusive
+FR2835	n	cds	no	mafieuse	conservative
+FR3002	n	pa	yes	pastre	inclusive
+FR2116	n	dmc	yes	gangsters	inclusive
+FR2807	n	cds	no	police	inclusive
+FR420	n	ps	yes	barbares	conservative
+FR3230	n	cds	no	parvenue	inclusive
+FR2266	a	cds	no	ilegal	inclusive
+FR961	n	cds	no	mouffette	conservative
+FR666	n	dmc	yes	malfrat	inclusive
+FR278	n	ps	yes	sot	conservative
+FR3527	n	cds	no	promotion	inclusive
+FR2634	n	cds	no	shylock	conservative
+FR2303	n	an	no	rossinante	inclusive
+FR352	n	an	no	avare	conservative
+FR3401	n	asm	no	wank	conservative
+FR2484	a	svp	no	parcimonieux	conservative
+FR1391	n	dmc	yes	charlatan	conservative
+FR404	n	asm	no	couilles	inclusive
+FR790	n	cds	no	dogmatisme	conservative
+FR3935	n	cds	no	canalisations	inclusive
+FR3412	a	svp	no	arrogant	conservative
+FR1561	n	asf	no	vitut	conservative
+FR1340	n	or	no	uraniste	conservative
+FR3212	v	qas	no	bousiller	conservative
+FR3107	n	qas	no	fermage	inclusive
+FR1063	n	qas	no	caste	inclusive
+FR615	n	qas	no	étage	conservative
+FR1429	n	cds	no	fourberie	conservative
+FR1826	n	cds	no	radeaux	inclusive
+FR257	n	cds	no	bêtise	conservative
+FR1082	n	cds	no	changelins	inclusive
+FR3392	a	svp	no	fâché	inclusive
+FR601	n	cds	no	tumulte	inclusive
+FR500	n	asf	no	mouette	conservative
+FR1766	n	om	no	retroversion	inclusive
+FR2398	n	cds	no	populace	conservative
+FR2672	v	cds	no	conspirer	inclusive
+FR950	n	cds	no	hauteur	conservative
+FR1578	n	or	no	potiron	inclusive
+FR3380	n	an	no	phthiraptères	inclusive
+FR145	n	cds	no	tour	inclusive
+FR395	n	qas	no	baloche	inclusive
+FR3038	n	cds	no	auto-culte	inclusive
+FR632	n	dmc	yes	sectaire	conservative
+FR1937	n	cds	no	peuple	conservative
+FR535	n	pr	no	salope	conservative
+FR281	n	ddp	yes	crétin	conservative
+FR1341	n	om	no	gay	inclusive
+FR2784	n	dmc	yes	mozarella	inclusive
+FR1308	n	an	no	lapins	inclusive
+FR489	n	an	no	vautour	inclusive
+FR1550	n	asf	no	moule	conservative
+FR3078	n	an	no	ventouse	inclusive
+FR3821	n	an	no	vers luisant	inclusive
+FR621	n	dmc	yes	menteur	conservative
+FR3887	n	re	no	torturé	inclusive
+FR3888	n	re	no	torturée	inclusive
+FR2462	n	cds	no	croon	inclusive
+FR1512	n	ps	yes	dihybridisme	inclusive
+FR963	n	dmc	yes	clochard	inclusive
+FR298	n	or	no	muttonheads	conservative
+FR3551	a	svp	no	vindicatif	conservative
+FR1053	n	cds	no	casino	inclusive
+FR1116	n	cds	no	marquignon	inclusive
+FR481	n	qas	no	baronnies	inclusive
+FR2705	a	qas	no	furieux	conservative
+FR2364	n	om	no	bougrerie	inclusive
+FR350	n	an	no	grigou	conservative
+FR384	n	cds	no	lupanar	inclusive
+FR3411	a	svp	no	orgueilleuse	conservative
+FR3529	a	re	no	violent	conservative
+FR1068	n	cds	no	lavette	conservative
+FR1680	n	an	no	cric	conservative
+FR3689	n	an	no	hirudinea	inclusive
+FR1637	n	cds	no	designer	inclusive
+FR2993	n	an	no	ovin	inclusive
+FR970	n	qas	no	vagabond	conservative
+FR2781	n	an	no	hétérocère	inclusive
+FR1573	n	cds	no	belligérant	inclusive
+FR320	n	om	no	cul	inclusive
+FR2170	n	cds	no	surveillant pénitentiaire	inclusive
+FR1548	n	or	no	minou	conservative
+FR659	n	dmc	yes	fourbe	conservative
+FR603	n	ps	yes	bédouins	inclusive
+FR2158	n	pr	no	pistolet moll	inclusive
+FR2488	n	cds	no	singe	inclusive
+FR1222	n	cds	no	emmerde	conservative
+FR3760	n	cds	no	foi en la science	inclusive
+FR1979	n	qas	no	granger	inclusive
+FR2065	n	cds	no	franc-maçonnisme	inclusive
+FR671	n	dmc	yes	malfaiteur	inclusive
+FR3119	n	re	no	terroriste	inclusive
+FR2916	n	asm	no	timon	inclusive
+FR529	n	ddp	yes	haltère	conservative
+FR3326	a	or	no	éprouvant	conservative
+FR1630	n	ddp	yes	simple	conservative
+FR1646	n	ps	yes	malotru	conservative
+FR272	n	ps	yes	bourrique	conservative
+FR2768	n	an	no	culicidae	inclusive
+FR2645	n	cds	no	toupet	inclusive
+FR2966	n	an	no	lignes latérales	inclusive
+FR1144	n	ps	yes	chinoise	inclusive
+FR4075	n	ps	yes	Égyptiens	inclusive
+FR1471	n	cds	no	connarde	conservative
+FR655	n	dmc	yes	valet	conservative
+FR219	n	ddp	yes	être	inclusive
+FR502	n	an	no	poire	conservative
+FR2339	n	pr	no	putains	conservative
+FR1552	n	or	no	connaud	conservative
+FR3029	n	re	no	voleuse	inclusive
+FR221	n	ddp	yes	zoobionte	inclusive
+FR995	n	cds	no	gribouillage	inclusive
+FR1092	n	an	no	louve	conservative
+FR1121	n	cds	no	trafiquant	conservative
+FR1123	n	cds	no	escroc	conservative
+FR858	n	pr	no	mus decumanus	inclusive
+FR952	n	cds	no	conceitedness	conservative
+FR261	n	cds	no	imbécile	conservative
+FR2807	n	cds	no	police	conservative
+FR3391	a	svp	no	hors de soi	inclusive
+FR727	n	cds	no	métis	inclusive
+FR2192	n	cds	no	mêle-tout	conservative
+FR507	n	cds	no	pudden-tête	conservative
+FR3506	a	svp	no	frivole	conservative
+FR2487	a	dmc	yes	pingre	conservative
+FR1061	n	dmc	yes	paria	inclusive
+FR2868	n	qas	no	parasitaire	inclusive
+FR2019	n	cds	no	confiture	inclusive
+FR347	n	svp	no	lésineur	inclusive
+FR3852	n	cds	no	transformisme	inclusive
+FR3067	n	ps	yes	black	inclusive
+FR2611	n	cds	no	mensonges	inclusive
+FR2917	n	asm	no	poteau	inclusive
+FR3322	n	cds	no	rigoriste	conservative
+FR3337	a	om	no	anormal	inclusive
+FR268	n	cds	no	fou	conservative
+FR279	n	asm	no	bêta	inclusive
+FR1927	n	dmc	yes	prodigue	inclusive
+FR1650	n	ddp	yes	lourdaud	conservative
+FR1726	n	dmc	yes	hypocrisie	conservative
+FR485	n	qas	no	baroque	inclusive
+FR178	n	cds	no	ferveur	inclusive
+FR271	n	asm	no	benêt	inclusive
+FR1723	n	dmc	yes	faux-cul	conservative
+FR389	n	is	yes	scrooge	conservative
+FR3272	v	cds	no	cogner	inclusive
+FR2294	a	cds	no	rusé	inclusive
+FR2619	a	is	yes	chagrin	inclusive
+FR3931	n	asm	no	aviaire	inclusive
+FR3335	n	an	no	profit	conservative
+FR3408	a	cds	no	important	conservative
+FR3912	n	om	no	cross-dressing	inclusive
+FR1954	n	cds	no	maquereau	conservative
+FR4049	n	dmc	yes	apostate	conservative
+FR2318	n	cds	no	fauche	inclusive
+FR1504	n	cds	no	sélection récurrente	inclusive
+FR3373	n	an	no	pou	inclusive
+FR1334	n	or	no	hop	conservative
+FR988	n	qas	no	épave	inclusive
+FR1595	v	asm	no	bafouer	inclusive
+FR2771	n	an	no	heteroceres	inclusive
+FR879	n	rci	yes	paysan	inclusive
+FR1877	n	qas	no	sciolist	conservative
+FR3142	n	re	no	homicide	inclusive
+FR547	n	pr	no	laitier	conservative
+FR2933	n	cds	no	racketteur	inclusive
+FR3553	n	pa	yes	comptables	inclusive
+FR1457	n	an	no	effraie	inclusive
+FR1071	n	an	no	gonzesse	conservative
+FR898	a	qas	no	bourgeois	inclusive
+FR2648	n	qas	no	magasinier	inclusive
+FR3979	n	pa	yes	bonzesse	inclusive
+FR1445	n	an	no	vampire	conservative
+FR1066	n	or	no	chochotte	conservative
+FR1558	n	asf	no	fotzen	conservative
+FR2236	n	cds	no	réactionnarisme	conservative
+FR3907	n	om	no	contre-robe	inclusive
+FR799	n	dmc	yes	fumbler	conservative
+FR205	n	an	no	endofaune	inclusive
+FR2949	n	cds	no	ravisseur	conservative
+FR3011	n	qas	no	plomb	inclusive
+FR585	n	cds	no	étendoir	inclusive
+FR2840	n	an	no	petit-duc macule	inclusive
+FR4068	n	ps	yes	romanichel	inclusive
+FR2992	n	an	no	moutons	inclusive
+FR2110	n	cds	no	larron	conservative
+FR1536	n	qas	no	conformité	inclusive
+FR60	n	cds	no	brokerage	inclusive
+FR2573	n	cds	no	scribe	conservative
+FR553	n	pr	no	escortboy	conservative
+FR1698	n	cds	no	graisse	inclusive
+FR1412	n	cds	no	déchets	inclusive
+FR2698	a	svp	no	court	conservative
+FR1084	n	ddp	yes	retardé	inclusive
+FR1676	n	an	no	diddly-squat	conservative
+FR279	n	ddp	yes	bêta	inclusive
+FR2631	n	cds	no	usurier	inclusive
+FR1313	n	pa	yes	cap d'escadre	inclusive
+FR3026	n	or	no	courge	inclusive
+FR1218	n	cds	no	diable	conservative
+FR48	n	cds	no	e-courtier	inclusive
+FR712	n	qas	no	industriel	inclusive
+FR162	n	asm	no	maxillipède	inclusive
+FR1728	n	dmc	yes	faux	inclusive
+FR532	n	ddp	yes	putain	conservative
+FR1206	n	asm	no	pénis	inclusive
+FR833	n	an	no	taureau	inclusive
+FR1343	n	om	no	inverti	inclusive
+FR1560	n	or	no	ducon	conservative
+FR1829	n	ps	yes	chalutier	inclusive
+FR3959	n	cds	no	complotisme	inclusive
+FR2144	n	asf	no	vagin	conservative
+FR885	n	qas	no	affaires	inclusive
+FR1900	n	an	no	gigantostracés	inclusive
+FR3211	v	cds	no	papoter	conservative
+FR2606	n	dmc	yes	gésir	inclusive
+FR1625	n	pr	no	courtisanes	inclusive
+FR3612	n	qas	no	grandiosité	inclusive
+FR3089	n	ps	yes	Économie souterraine	inclusive
+FR3423	a	svp	no	grognon	conservative
+FR2300	a	cds	no	astucieux	inclusive
+FR673	n	cds	no	hors-la-loi	conservative
+FR3586	n	re	no	braquage	inclusive
+FR978	n	cds	no	troupeau	inclusive
+FR3631	n	an	no	crapeau	inclusive
+FR1996	n	or	no	finocchio	inclusive
+FR660	n	dmc	yes	fripouille	conservative
+FR3033	n	ddf	yes	demi	conservative
+FR613	n	cds	no	histoire	conservative
+FR2773	n	pr	no	papillons de nuit	inclusive
+FR101	n	an	no	bison	inclusive
+FR3672	v	re	no	chou	inclusive
+FR806	n	an	no	body snatcher	inclusive
+FR383	n	cds	no	bordels	inclusive
+FR2748	n	cds	no	letrines	inclusive
+FR1958	n	cds	no	maquerelle	conservative
+FR3407	a	svp	no	outrecuidant	conservative
+FR646	n	cds	no	gang	conservative
+FR1121	n	dmc	yes	trafiquant	conservative
+FR2809	n	cds	no	keuf	conservative
+FR4031	n	pa	yes	employe	inclusive
+FR147	n	cds	no	badinerie	inclusive
+FR1860	n	cds	no	amateur	inclusive
+FR580	n	cds	no	muguet	inclusive
+FR2601	n	dmc	yes	menteuse	inclusive
+FR1479	n	asm	no	gugusse	conservative
+FR1343	n	or	no	inverti	conservative
+FR72	a	pa	yes	théorique	inclusive
+FR1884	n	dmc	yes	moralisme	inclusive
+FR307	n	an	no	ânes	inclusive
+FR2590	n	dmc	yes	impostrice	conservative
+FR309	n	om	no	bourricot	inclusive
+FR3282	v	cds	no	claquer	inclusive
+FR3428	n	re	no	plagier	inclusive
+FR975	n	cds	no	flâneur	conservative
+FR3599	n	cds	no	flagorneur	conservative
+FR1571	n	or	no	cocombre	inclusive
+FR1792	n	svp	no	goulu	inclusive
+FR682	n	ddp	yes	conteur	conservative
+FR2228	n	cds	no	reactionnaire	conservative
+FR2330	n	qas	no	crampon	conservative
+FR333	n	an	no	avarice	conservative
+FR544	n	an	no	prostituée	conservative
+FR881	n	qas	no	laboureur	inclusive
+FR2353	n	om	no	homosexualité	inclusive
+FR1565	n	or	no	conin	conservative
+FR2007	n	cds	no	wangler	conservative
+FR3139	n	re	no	tueur	inclusive
+FR1371	n	ddp	yes	mouchard	conservative
+FR3894	v	re	no	tourmenter	inclusive
+FR159	n	qas	no	épice gériatrique	inclusive
+FR1853	n	dmc	yes	delit penal en france	inclusive
+FR3960	n	cds	no	théoriciens du complot	inclusive
+FR1780	n	cds	no	renard	conservative
+FR3375	n	an	no	anoplura	inclusive
+FR519	n	cds	no	demeuré	inclusive
+FR377	n	cds	no	bagne	inclusive
+FR3182	n	ps	yes	vandales	inclusive
+FR2737	n	cds	no	wc	inclusive
+FR3878	n	re	no	torture	inclusive
+FR2142	n	asm	no	féverole	inclusive
+FR2099	n	an	no	furie	inclusive
+FR498	n	ddp	yes	gogo	conservative
+FR3767	a	ddp	yes	bête	conservative
+FR1631	n	or	no	pur	conservative
+FR230	n	re	no	viol	inclusive
+FR1610	n	cds	no	démagogue	conservative
+FR855	n	asm	no	brownness	inclusive
+FR3344	a	cds	no	pédant	conservative
+FR423	n	pa	yes	bâtard	conservative
+FR2223	n	dmc	yes	goof-off	conservative
+FR3033	n	cds	no	demi	conservative
+FR2316	n	cds	no	pillage	inclusive
+FR4017	n	an	no	mesohoronis	inclusive
+FR1091	n	an	no	chienne	inclusive
+FR1906	n	an	no	gigantostracé	inclusive
+FR2405	n	cds	no	primate	inclusive
+FR796	n	qas	no	boucher	conservative
+FR170	n	asf	no	débris	conservative
+FR543	n	cds	no	prostitué	inclusive
+FR1628	n	dmc	yes	va-nu-pieds	inclusive
+FR2823	n	re	no	mafioso	inclusive
+FR2338	n	pr	no	filles de joie	inclusive
+FR3722	n	an	no	cafards	inclusive
+FR3386	n	cds	no	religiosite	inclusive
+FR2908	n	an	no	shoat	inclusive
+FR413	n	dmc	yes	bandit	inclusive
+FR153	n	qas	no	méli-mélo	inclusive
+FR3549	n	pr	no	foutaises	conservative
+FR22	n	svp	no	lenteur	inclusive
+FR3030	n	ddf	yes	avorton	conservative
+FR799	n	ddp	yes	fumbler	conservative
+FR2610	n	cds	no	mentir	inclusive
+FR1840	n	svp	no	voracité	conservative
+FR3009	n	asm	no	jeerer	conservative
+FR3723	n	an	no	cockroach	inclusive
+FR1475	n	asm	no	conne	conservative
+FR1921	a	dmc	yes	incivil	conservative
+FR3446	a	dmc	yes	contrefait	conservative
+FR1291	n	an	no	merde	conservative
+FR1501	n	ddf	yes	crookback	inclusive
+FR2052	n	asm	no	loi 12 du football	inclusive
+FR3459	a	dmc	yes	maquillé	conservative
+FR4097	n	ps	yes	zoulous	inclusive
+FR1360	n	cds	no	commérage	inclusive
+FR873	n	qas	no	villageoise	inclusive
+FR1137	n	an	no	roquet	inclusive
+FR261	n	ps	yes	imbécile	conservative
+FR519	n	asm	no	demeuré	conservative
+FR3094	n	cds	no	satyriasis	conservative
+FR3289	v	cds	no	manger les pissenlits par la racine	inclusive
+FR3236	v	qas	no	embêter	conservative
+FR2517	n	ddp	yes	non sens	conservative
+FR14	n	svp	no	indolence	conservative
+FR3601	a	dmc	yes	souillé	inclusive
+FR516	n	ddp	yes	gourde	conservative
+FR847	n	ddp	yes	dommages au cerveau	inclusive
+FR3098	n	cds	no	hypersexualite	conservative
+FR3268	n	qas	no	chamailleur	conservative
+FR3406	a	svp	no	arrogante	conservative
+FR661	n	is	yes	coquin	conservative
+FR279	n	cds	no	bêta	inclusive
+FR422	n	ps	yes	rustaud	conservative
+FR3916	n	om	no	travestisme	inclusive
+FR2700	a	svp	no	maussade	conservative
+FR1140	n	dmc	yes	mauvaise personne	conservative
+FR107	a	dmc	yes	têtu	conservative
+FR3922	n	pr	no	hétaire	inclusive
+FR1415	n	an	no	écoute	inclusive
+FR3180	n	cds	no	usure	conservative
+FR968	n	dmc	yes	sans-abri	inclusive
+FR1549	n	or	no	fighe	conservative
+FR2560	n	cds	no	enseigné	inclusive
+FR1484	n	an	no	croco	inclusive
+FR351	n	an	no	radin	conservative
+FR643	n	cds	no	cercle	conservative
+FR355	n	dmc	yes	rat	conservative
+FR1663	n	cds	no	criminels	inclusive
+FR1836	n	an	no	nabot	conservative
+FR3774	a	cds	no	ordinaire	inclusive
+FR2501	n	ddf	yes	handicapées	inclusive
+FR278	n	asm	no	sot	inclusive
+FR70	n	pa	yes	académique	inclusive
+FR2890	n	dmc	yes	malveillance	inclusive
+FR2547	n	an	no	inexorable	conservative
+FR270	n	ddp	yes	balourd	conservative
+FR2931	n	cds	no	chiot	conservative
+FR818	n	ddp	yes	zooerasty	conservative
+FR698	n	ps	yes	Ébène	inclusive
+FR1485	n	an	no	crocodylidae	inclusive
+FR1443	n	an	no	vamper	conservative
+FR4069	n	ps	yes	gitan	inclusive
+FR3896	n	an	no	avaleur de ballon	inclusive
+FR521	n	ddp	yes	dadais	conservative
+FR1202	n	an	no	raunch	conservative
+FR2409	n	cds	no	prélature	inclusive
+FR822	n	an	no	fureur	conservative
+FR981	n	is	yes	méchante	conservative
+FR1013	n	cds	no	inner circle	inclusive
+FR737	n	cds	no	gland	conservative
+FR2029	n	an	no	siphonaptera	inclusive
+FR3567	n	re	no	ravisseurs	inclusive
+FR2724	n	cds	no	chapardeur	conservative
+FR3513	a	cds	no	veule	conservative
+FR3177	v	cds	no	aux	inclusive
+FR733	n	cds	no	briseurs grève	inclusive
+FR987	n	cds	no	bagnole	inclusive
+FR169	n	ddp	yes	folderol	conservative
+FR1899	n	an	no	eurypterida	inclusive
+FR2961	n	ps	yes	métissage	conservative
+FR3502	a	cds	no	clérical	inclusive
+FR267	n	cds	no	andouille	inclusive
+FR245	n	cds	no	perspicacité	inclusive
+FR549	n	pr	no	coureuse	conservative
+FR2141	n	asm	no	vicia faba	inclusive
+FR2669	n	asm	no	cigare à moustache	inclusive
+FR2714	n	re	no	cambrioleur	inclusive
+FR286	n	or	no	hammerhead	conservative
+FR752	n	pa	yes	croque-morts	inclusive
+FR1200	n	an	no	vulgarité	conservative
+FR1199	n	qas	no	jument nid	inclusive
+FR2087	n	cds	no	extrémiste religieux	inclusive
+FR2314	n	cds	no	menus larcins	inclusive
+FR2984	n	an	no	animalcules	inclusive
+FR2692	n	svp	no	ire	inclusive
+FR504	n	asf	no	pigeon	conservative
+FR1448	n	an	no	vamp	conservative
+FR543	n	pr	no	prostitué	conservative
+FR477	n	dmc	yes	chien	conservative
+FR166	a	svp	no	belligérant	conservative
+FR271	n	an	no	benêt	conservative
+FR1874	n	asm	no	bander	inclusive
+FR508	n	or	no	cataplasme	conservative
+FR2679	a	om	no	homosexuel	conservative
+FR2863	n	qas	no	notion générales de parasitologie	inclusive
+FR382	n	cds	no	forçat	inclusive
+FR287	n	an	no	dunce	conservative
+FR519	n	ddp	yes	demeuré	conservative
+FR530	n	asm	no	nibard	conservative
+FR343	n	an	no	lésine	conservative
+FR301	n	an	no	ignorant	conservative
+FR2464	n	cds	no	crooner	inclusive
+FR2825	n	cds	no	mafiosi	inclusive
+FR3351	n	cds	no	commentaire	inclusive
+FR3963	n	cds	no	théories du complot	inclusive
+FR799	n	qas	no	fumbler	conservative
+FR3943	n	qas	no	système de pondération plongée	inclusive
+FR982	n	re	no	moi	conservative
+FR3727	n	dmc	yes	tocard	conservative
+FR3675	n	cds	no	morve	conservative
+FR1384	n	cds	no	faiblesse	conservative
+FR3358	n	cds	no	quérulent	conservative
+FR552	n	an	no	escort-boy	conservative
+FR1120	n	cds	no	tripoteur	inclusive
+FR2702	n	cds	no	désordre	conservative
+FR3618	a	cds	no	fasciste	inclusive
+FR2223	n	svp	no	goof-off	conservative
+FR281	n	ps	yes	crétin	conservative
+FR1487	n	an	no	crocodiles	inclusive
+FR173	n	cds	no	zelote	inclusive
+FR3043	n	ps	yes	nigga	conservative
+FR3822	n	pr	no	lampyre	inclusive
+FR2068	n	cds	no	liberi muratori	inclusive
+FR281	n	ddp	yes	crétin	inclusive
+FR822	n	svp	no	fureur	inclusive
+FR1114	n	cds	no	camorra	inclusive
+FR2875	n	qas	no	paroissiale	inclusive
+FR2469	n	asf	no	jupe	conservative
+FR2974	n	an	no	microbienne	inclusive
+FR3096	n	cds	no	saute-au-paf	conservative
+FR2927	n	svp	no	orgueilleuse	inclusive
+FR3015	n	ps	yes	asiatique	conservative
+FR279	n	cds	no	bêta	conservative
+FR272	n	ddp	yes	bourrique	inclusive
+FR401	n	qas	no	bollocks	inclusive
+FR224	n	ddp	yes	faune	inclusive
+FR2183	n	asf	no	poil	inclusive
+FR653	n	cds	no	voyou	conservative
+FR3595	n	cds	no	truckler	conservative
+FR2299	a	cds	no	malin	conservative
+FR355	n	is	yes	rat	conservative
+FR1122	n	cds	no	arnaqueur	conservative
+FR1078	n	an	no	poulet	inclusive
+FR1551	n	or	no	twats	conservative
+FR1495	n	an	no	crocodilia	inclusive
+FR2763	n	cds	no	moraliser	inclusive
+FR1853	n	re	no	delit penal en france	inclusive
+FR128	n	svp	no	flemmarde	conservative
+FR129	n	an	no	limace	inclusive
+FR976	n	dmc	yes	oisif	conservative
+FR426	n	qas	no	mufle	conservative
+FR333	n	svp	no	avarice	inclusive
+FR2630	n	cds	no	prêteur	conservative
+FR37	n	re	no	sévice	inclusive
+FR1768	n	om	no	plan médian	inclusive
+FR971	n	dmc	yes	saisonnier	conservative
+FR2879	n	an	no	psittaciformes	inclusive
+FR2279	n	an	no	cochette	inclusive
+FR634	n	svp	no	bigot	conservative
+FR275	n	ps	yes	dupe	conservative
+FR2072	n	cds	no	franc-maçonnerie	inclusive
+FR283	n	asf	no	buse	conservative
+FR2222	n	svp	no	bon à rien	conservative
+FR1528	n	cds	no	bleu	conservative
+FR3820	n	an	no	lampyris noctiluca	inclusive
+FR3092	n	cds	no	hypersexualité	conservative
+FR3234	n	cds	no	nouveau-riche	inclusive
+FR2240	n	cds	no	réactionnaires	conservative
+FR3130	n	re	no	meurtriers	inclusive
+FR330	n	svp	no	avidité	inclusive
+FR422	n	pa	yes	rustaud	conservative
+FR515	n	ddp	yes	cornichon	conservative
+FR1342	n	om	no	lesbienne	inclusive
+FR3426	n	re	no	piratage	inclusive
+FR2295	a	cds	no	perfide	conservative
+FR2965	n	an	no	ampoule de lorenzini	inclusive
+FR272	n	asm	no	bourrique	conservative
+FR3049	n	ps	yes	jigaboo	conservative
+FR168	n	asf	no	tripe	conservative
+FR1198	n	qas	no	émécher	inclusive
+FR2604	a	svp	no	paresseux	conservative
+FR128	n	cds	no	flemmarde	conservative
+FR127	n	cds	no	fainéant	conservative
+FR1781	n	cds	no	malin	conservative
+FR1089	n	an	no	rosse	conservative
+FR969	n	dmc	yes	clochards	conservative
+FR1566	n	or	no	connerie	conservative
+FR1083	n	ddp	yes	idiote	inclusive
+FR720	n	an	no	plouc	conservative
+FR2712	n	re	no	rustler	inclusive
+FR362	n	asf	no	retard	conservative
+FR1071	n	cds	no	gonzesse	conservative
+FR3288	v	cds	no	s'éteindre	inclusive
+FR1582	n	qas	no	abattage	conservative
+FR58	n	cds	no	agent	conservative
+FR2251	v	asm	no	avoir	conservative
+FR3514	a	cds	no	bas	conservative
+FR266	n	cds	no	con	inclusive
+FR170	n	ddp	yes	débris	conservative
+FR1957	n	cds	no	julot casse-croûte	inclusive
+FR1784	n	cds	no	roublard	conservative
+FR1684	n	cds	no	dime novel	inclusive
+FR1001	a	dmc	yes	mauvais	conservative
+FR3569	n	re	no	kidnappe	inclusive
+FR126	n	cds	no	feignant	conservative
+FR1904	n	an	no	euryptérides	inclusive
+FR3162	n	dmc	yes	homoncules	inclusive
+FR2554	n	cds	no	ostentatiousness	conservative
+FR2603	a	svp	no	indolent	conservative
+FR3368	n	an	no	pediculus corporis	inclusive
+FR2205	n	cds	no	modérateur	inclusive
+FR2836	n	an	no	chat-huant	inclusive
+FR2718	n	ps	yes	arithmétique	inclusive
+FR3633	n	an	no	anoure	inclusive
+FR1224	n	cds	no	problème	conservative
+FR3324	a	or	no	astreignant	conservative
+FR2812	n	cds	no	cogne	inclusive
+FR2860	n	dmc	yes	paquet	conservative
+FR3609	a	svp	no	rapace	inclusive
+FR791	n	cds	no	sectarisme	conservative
+FR288	n	or	no	knucklehead	conservative
+FR1544	n	asf	no	twat	conservative
+FR1085	n	asf	no	concombre	conservative
+FR2035	n	dmc	yes	bouffon	inclusive
+FR528	n	asf	no	nichon	conservative
+FR1355	n	cds	no	rumourmonger	conservative
+FR271	n	asm	no	benêt	conservative
+FR3867	n	ddp	yes	bourru	conservative
+FR2200	n	an	no	moucheron	inclusive
+FR90	n	ddp	yes	oligophrénie	inclusive
+FR3717	n	an	no	blattes	inclusive
+FR2725	n	cds	no	sneak thief	conservative
+FR3704	a	re	no	fort	inclusive
+FR837	n	pr	no	taurin	inclusive
+FR189	n	ddp	yes	analphabétisme	inclusive
+FR840	n	an	no	bos primigenius taurus	inclusive
+FR2668	n	asm	no	penis	inclusive
+FR3030	n	cds	no	avorton	conservative
+FR1835	n	ddf	yes	nain	conservative
+FR3135	n	re	no	assassiner	inclusive
+FR1339	n	om	no	1069bf	inclusive
+FR2928	n	cds	no	superbia	inclusive
+FR668	n	dmc	yes	délinquant	conservative
+FR482	n	qas	no	barons	inclusive
+FR140	n	qas	no	sbire	inclusive
+FR3262	v	asm	no	arnaquer	conservative
+FR499	n	asf	no	fall guy	conservative
+FR882	n	qas	no	paysannerie	inclusive
+FR1319	n	cds	no	newspaperwoman	inclusive
+FR960	n	an	no	tel et donc	conservative
+FR3192	n	qas	no	énormité	conservative
+FR167	n	asf	no	codswallop	conservative
+FR612	n	cds	no	conte	conservative
+FR770	n	qas	no	bourde	inclusive
+FR1820	n	cds	no	tas	inclusive
+FR975	n	dmc	yes	flâneur	conservative
+FR255	n	asf	no	imbécilité	conservative
+FR505	n	an	no	doux au toucher	conservative
+FR1344	n	om	no	homosexuelle	inclusive
+FR422	n	ddp	yes	rustaud	conservative
+FR277	n	ps	yes	idiot	conservative
+FR1742	n	om	no	ipsilatéral	inclusive
+FR2450	n	dmc	yes	clown	inclusive
+FR403	n	qas	no	rouston	inclusive
+FR501	n	ddp	yes	selle	conservative
+FR3421	a	svp	no	bougon	conservative
+FR1657	n	ps	yes	gaspilleur	conservative
+FR1686	n	cds	no	dime novels	inclusive
+FR1286	n	svp	no	l'attirance physique	inclusive
+FR1897	n	dmc	yes	parénétique	inclusive
+FR569	n	cds	no	contrevérité	conservative
+FR2299	a	cds	no	malin	inclusive
+FR1645	n	ddp	yes	goujat	conservative
+FR1075	n	cds	no	peureux	conservative
+FR1365	n	an	no	physiognomoniste	inclusive
+FR2345	n	is	yes	pauvre	inclusive
+FR2650	n	qas	no	détaillant	inclusive
+FR457	n	pa	yes	défenseurs	inclusive
+FR528	n	asm	no	nichon	conservative
+FR333	n	svp	no	avarice	conservative
+FR397	n	asm	no	burne	inclusive
+FR1406	n	qas	no	ordures	inclusive
+FR3201	n	an	no	ver	inclusive
+FR893	n	qas	no	femme d'affaires	inclusive
+FR407	a	svp	no	cupide	conservative
+FR412	n	qas	no	ballast	inclusive
+FR2177	n	asf	no	arbrisseau	inclusive
+FR2356	n	om	no	homoaffinité	inclusive
+FR1618	n	pr	no	partenaire	inclusive
+FR1801	n	svp	no	trancheuse	conservative
+FR210	n	ddp	yes	créature	inclusive
+FR658	n	cds	no	gredin	conservative
+FR272	n	asm	no	bourrique	inclusive
+FR2985	n	an	no	animalcule	inclusive
+FR1952	n	cds	no	ruffian	conservative
+FR2221	n	svp	no	vaurien	conservative
+FR285	n	an	no	anthony simon	conservative
+FR353	n	svp	no	ladre	inclusive
+FR635	n	dmc	yes	intolérant	conservative
+FR419	n	pa	yes	sauvage	conservative
+FR2528	n	is	yes	paupérisme	inclusive
+FR551	n	pr	no	femme négligée	conservative
+FR2617	a	is	yes	prématuré	inclusive
+FR1162	n	cds	no	claniques	inclusive
+FR3185	n	an	no	vipère	inclusive
+FR288	n	asf	no	knucklehead	conservative
+FR841	n	cds	no	patron	inclusive
+FR527	n	ddp	yes	néné	conservative
+FR2780	n	pr	no	mite	inclusive
+FR205	n	ddp	yes	endofaune	inclusive
+FR1660	n	ps	yes	ravageur	conservative
+FR3550	a	svp	no	rancunier	conservative
+FR284	n	asm	no	enculé	conservative
+FR3568	n	re	no	kidnappeur	inclusive
+FR1665	n	cds	no	crimes	inclusive
+FR655	n	cds	no	valet	conservative
+FR358	n	ddp	yes	moulin à paroles	conservative
+FR2681	n	svp	no	enviousness	inclusive
+FR1468	n	ddp	yes	cretinisme	inclusive
+FR298	n	an	no	muttonheads	conservative
+FR3818	n	ddp	yes	balivernes	inclusive
+FR2740	n	cds	no	toilette	inclusive
+FR2777	n	pr	no	phalène	inclusive
+FR1932	n	svp	no	inactivité	inclusive
+FR1859	a	qas	no	éperdu	conservative
+FR1105	n	re	no	diffamateur	conservative
+FR2117	n	cds	no	fascistes	conservative
+FR2344	n	pr	no	ramper trottoir	conservative
+FR3241	v	is	yes	solliciter	inclusive
+FR1827	n	cds	no	slews	inclusive
+FR415	n	re	no	voleur	conservative
+FR2334	n	pr	no	racoler	conservative
+FR21	n	svp	no	léthargie	inclusive
+FR3787	n	cds	no	boulot	conservative
+FR963	n	ps	yes	clochard	inclusive
+FR1539	n	qas	no	correspondance	inclusive
+FR1545	n	asf	no	vittu	conservative
+FR2268	n	an	no	oison	inclusive
+FR3210	n	an	no	coureur de jupons	conservative
+FR276	n	asm	no	fada	inclusive
+FR2016	n	pa	yes	poissonnerie	inclusive
+FR3564	n	re	no	kidnapper	inclusive
+FR2593	n	svp	no	lasciveté	inclusive
+FR388	n	svp	no	harpagon	conservative
+FR1083	n	ps	yes	idiote	conservative
+FR1339	n	om	no	1069bf	conservative
+FR1594	v	asm	no	moquerie	inclusive
+FR2952	n	an	no	scorpaenidae	inclusive
+FR2752	n	cds	no	tire-au-flanc	conservative
+FR1378	n	cds	no	poltron	conservative
+FR1915	a	dmc	yes	désastreux	conservative
+FR3986	a	cds	no	vénal	conservative
+FR522	n	ddp	yes	poupe	conservative
+FR687	n	cds	no	friponnerie	conservative
+FR298	n	asf	no	muttonheads	conservative
+FR420	n	cds	no	barbares	conservative
+FR781	n	qas	no	bêtisier	inclusive
+FR1908	n	dmc	yes	immoralité	conservative
+FR2583	n	om	no	dames	inclusive
+FR473	n	cds	no	clébard	inclusive
+FR2564	n	cds	no	instituteurs	inclusive
+FR3123	n	an	no	ixodida	inclusive
+FR177	n	cds	no	zavattarica	inclusive
+FR3036	n	cds	no	narcissique	inclusive
+FR2109	n	dmc	yes	fripon	conservative
+FR3856	n	re	no	terroristes	conservative
+FR1173	n	an	no	capra	inclusive
+FR17	n	svp	no	aboulique	inclusive
+FR573	n	qas	no	histoires	conservative
+FR153	n	cds	no	méli-mélo	inclusive
+FR2495	n	ddf	yes	paralytique	inclusive
+FR406	a	an	no	avare	conservative
+FR1346	n	or	no	homo	conservative
+FR105	n	cds	no	amour-propre	inclusive
+FR813	n	an	no	trafic des cadavres	inclusive
+FR2968	n	an	no	squale	inclusive
+FR1027	n	ddp	yes	prisonniers	inclusive
+FR3220	n	an	no	sangsue	inclusive
+FR274	n	or	no	couillon	conservative
+FR3202	v	qas	no	confondre	conservative
+FR4020	n	an	no	pelias	inclusive
+FR1741	n	om	no	postérieure	inclusive
+FR265	n	asm	no	connard	inclusive
+FR1999	n	om	no	foeniculum vulgare	inclusive
+FR1014	n	cds	no	cénacle	inclusive
+FR1554	n	or	no	fotze	conservative
+FR15	n	svp	no	acedie	inclusive
+FR258	av	an	no	imbécilement	conservative
+FR3600	a	qas	no	dilettante	conservative
+FR3559	a	cds	no	rance	inclusive
+FR1351	n	or	no	homme	conservative
+FR3781	a	is	yes	pathétique	conservative
+FR604	n	ps	yes	bédouines	inclusive
+FR3437	n	pa	yes	politicien	conservative
+FR1120	n	re	no	tripoteur	inclusive
+FR2833	n	ps	yes	ostrogoths	inclusive
+FR3169	n	dmc	yes	malheureux	inclusive
+FR1292	n	asm	no	visser	conservative
+FR346	n	an	no	grippe-sou	conservative
+FR2800	n	cds	no	nourrisson	inclusive
+FR4060	n	ps	yes	tziganes	inclusive
+FR1341	n	or	no	gay	conservative
+FR2823	n	cds	no	mafioso	inclusive
+FR91	n	ddp	yes	oligophrène	inclusive
+FR1215	n	asm	no	outil	conservative
+FR694	n	ps	yes	galeux	inclusive
+FR1730	n	dmc	yes	dissimulation	conservative
+FR354	n	svp	no	pingre	inclusive
+FR2770	n	an	no	maringouin	inclusive
+FR525	n	asm	no	nigaud	conservative
+FR718	n	ddp	yes	salaud	conservative
+FR289	n	an	no	enfoiré	conservative
+FR1302	n	asm	no	nique	conservative
+FR3924	n	asm	no	oiselle	inclusive
+FR1669	n	cds	no	activités illégales	inclusive
+FR2843	n	an	no	gros lard	conservative
+FR1006	n	an	no	gueule	inclusive
+FR1219	n	asm	no	coq	inclusive
+FR2461	n	cds	no	chanteur de charme	inclusive
+FR563	n	pr	no	floozie	conservative
+FR1507	n	ps	yes	monohybride	inclusive
+FR3727	n	cds	no	tocard	conservative
+FR181	n	cds	no	zélotes	inclusive
+FR1161	n	cds	no	clan	inclusive
+FR3745	a	svp	no	libidineux	conservative
+FR4025	n	an	no	chersea	inclusive
+FR3006	n	pa	yes	pâtre	inclusive
+FR936	n	cds	no	égotisme	conservative
+FR3472	n	an	no	mouilek	inclusive
+FR428	n	ps	yes	barbare	inclusive
+FR125	n	svp	no	fainéante	conservative
+FR1120	n	dmc	yes	tripoteur	conservative
+FR1026	n	ddp	yes	peine d'emprisonnement	inclusive
+FR3003	n	pa	yes	pastoure	inclusive
+FR2187	n	cds	no	nosy-parker	conservative
+FR2426	n	qas	no	peinture	inclusive
+FR2056	n	cds	no	franc-maçons	inclusive
+FR567	n	cds	no	fausseté	conservative
+FR3697	a	qas	no	médiéval	inclusive
+FR826	n	cds	no	vaches	conservative
+FR3477	n	cds	no	nouveau-né	inclusive
+FR3238	v	qas	no	agacer	conservative
+FR582	n	cds	no	sigisbée	inclusive
+FR2600	a	dmc	yes	indécent	conservative
+FR428	n	qas	no	barbare	conservative
+FR3152	n	re	no	assassin	inclusive
+FR267	n	an	no	andouille	conservative
+FR1596	v	asm	no	caserne	inclusive
+FR420	n	rci	yes	barbares	conservative
+FR1001	a	ddf	yes	mauvais	inclusive
+FR539	n	an	no	pute	conservative
+FR1057	n	is	yes	naufragé	inclusive
+FR3491	a	asm	no	marron	inclusive
+FR1226	n	qas	no	common people	inclusive
+FR3019	n	ps	yes	xanthoderme	conservative
+FR1134	n	an	no	chiens	inclusive
+FR292	n	asf	no	cancre	conservative
+FR2601	n	dmc	yes	menteuse	conservative
+FR1406	n	cds	no	ordures	inclusive
+FR268	n	asm	no	fou	conservative
+FR415	n	dmc	yes	voleur	conservative
+FR1908	n	dmc	yes	immoralité	inclusive
+FR1332	n	or	no	clope	conservative
+FR6	n	svp	no	fainéantise	inclusive
+FR3692	n	an	no	acanthobdelliformes	inclusive
+FR600	n	cds	no	pandémonium	inclusive
+FR2606	n	qas	no	gésir	conservative
+FR962	n	dmc	yes	lowlife	inclusive
+FR1381	n	cds	no	froussard	conservative
+FR946	n	cds	no	vantardise	conservative
+FR2559	n	cds	no	enseignant	inclusive
+FR2154	a	dmc	yes	dégoutant	conservative
+FR3884	n	re	no	torturés	inclusive
+FR270	n	asf	no	balourd	conservative
+FR3918	n	pr	no	hellcat	conservative
+FR3214	v	qas	no	gâcher	conservative
+FR1383	n	cds	no	couardise	conservative
+FR965	n	dmc	yes	miette	conservative
+FR763	n	dmc	yes	râteau	conservative
+FR4057	n	an	no	anguillidé	inclusive
+FR3325	a	cds	no	minutieux	conservative
+FR1126	n	cds	no	insolence	conservative
+FR3538	a	ddf	yes	difforme	inclusive
+FR261	n	an	no	imbécile	conservative
+FR2675	v	cds	no	intriguer	inclusive
+FR1586	n	cds	no	farceur	conservative
+FR2400	n	cds	no	plèbe	conservative
+FR3729	n	an	no	chacal	inclusive
+FR393	n	qas	no	ballock	inclusive
+FR500	n	ps	yes	mouette	conservative
+FR1065	n	cds	no	paillasson	conservative
+FR3940	n	cds	no	n'dranghetta	inclusive
+FR1913	a	dmc	yes	fatal	conservative
+FR2713	n	cds	no	cambrioleuse	inclusive
+FR1700	n	cds	no	terre	inclusive
+FR3670	v	re	no	dérober	inclusive
+FR459	n	pa	yes	ministre	inclusive
+FR1011	n	an	no	trou	inclusive
+FR3424	a	svp	no	de mauvaise humeur	conservative
+FR2651	n	qas	no	rossignol	inclusive
+FR3940	n	re	no	n'dranghetta	inclusive
+FR1012	n	an	no	piège	inclusive
+FR1087	n	ddp	yes	attardé	conservative
+FR3892	n	re	no	torturant	inclusive
+FR1650	n	ps	yes	lourdaud	conservative
+FR658	n	dmc	yes	gredin	conservative
+FR3909	n	om	no	travelo	inclusive
+FR1080	n	cds	no	gnangnan	conservative
+FR3939	n	cds	no	n%e2%80%99drangheta	inclusive
+FR338	n	svp	no	péché capital	inclusive
+FR1055	n	cds	no	casini	inclusive
+FR3934	n	cds	no	réseau d'égouts	inclusive
+FR179	n	cds	no	zelotes	inclusive
+FR2963	n	an	no	requin	inclusive
+FR3219	n	an	no	éponge	conservative
+FR1380	n	cds	no	couarde	conservative
+FR476	n	cds	no	cabot	inclusive
+FR1475	n	cds	no	conne	conservative
+FR2115	n	dmc	yes	truand	inclusive
+FR2697	n	ddp	yes	moronity	inclusive
+FR1120	n	cds	no	tripoteur	conservative
+FR3771	a	ddp	yes	insensé	conservative
+FR3306	a	qas	no	maniéré	conservative
+FR1795	n	svp	no	dégustateur	conservative
+FR3997	n	cds	no	félon	conservative
+FR3795	a	is	yes	pauvres	inclusive
+FR508	n	ddp	yes	cataplasme	conservative
+FR3858	n	re	no	cyber-terroristes	inclusive
+FR3050	n	ps	yes	nègre	conservative
+FR3971	n	pa	yes	cordonniers	inclusive
+FR424	n	an	no	brute	conservative
+FR1024	n	ddp	yes	captif	inclusive
+FR278	n	cds	no	sot	conservative
+FR3331	n	dmc	yes	baguenaudier	conservative
+FR2653	n	asm	no	grenat	inclusive
+FR2156	n	pr	no	gun moll	inclusive
+FR1340	n	om	no	uraniste	conservative
+FR265	n	cds	no	connard	conservative
+FR274	n	ps	yes	couillon	conservative
+FR436	n	qas	no	opérateur	inclusive
+FR3957	n	cds	no	théoricien du complot	inclusive
+FR3944	n	qas	no	ceinture de poids	inclusive
+FR1069	n	an	no	gringalet	conservative
+FR1825	n	cds	no	tonnes	inclusive
+FR278	n	or	no	sot	conservative
+FR1336	n	or	no	prout	conservative
+FR348	n	an	no	harpagnon	conservative
+FR3699	a	qas	no	misérable	conservative
+FR3261	v	asm	no	entourloupe	conservative
+FR1054	n	cds	no	site	inclusive
+FR3693	n	an	no	sangsues	inclusive
+FR3442	a	cds	no	rebattu	inclusive
+FR3763	n	ddp	yes	fabrique	inclusive
+FR3543	n	pr	no	traînée	conservative
+FR105	n	svp	no	amour-propre	conservative
+FR3721	n	an	no	blattoptère	inclusive
+FR1845	n	cds	no	instituteur	inclusive
+FR291	n	an	no	bœuf	conservative
+FR2829	n	re	no	maffia	inclusive
+FR3223	n	qas	no	mendiant	conservative
+FR2644	n	cds	no	lèvre	inclusive
+FR535	n	an	no	salope	conservative
+FR2204	n	cds	no	médiateur	inclusive
+FR1223	n	cds	no	difficulté	conservative
+FR872	n	qas	no	paysans	inclusive
+FR1441	n	ddp	yes	folie	inclusive
+FR2478	n	cds	no	fausse idole	inclusive
+FR1771	n	om	no	derriere	inclusive
+FR357	n	ddp	yes	pie	conservative
+FR3700	a	re	no	difficile	inclusive
+FR2155	n	pr	no	nana	inclusive
+FR450	n	pa	yes	envoyé spécial	inclusive
+FR2545	n	an	no	acharnement	conservative
+FR962	n	dmc	yes	lowlife	conservative
+FR1147	n	cds	no	unité de mesure japonaise	inclusive
+FR1191	n	svp	no	tightfistedness	conservative
+FR3353	n	is	yes	épouvantail	conservative
+FR2921	n	pa	yes	charcutier	inclusive
+FR278	n	ddp	yes	sot	inclusive
+FR935	n	cds	no	égoïsme	conservative
+FR3242	v	is	yes	mendier	inclusive
+FR2826	n	cds	no	mafieux	conservative
+FR3000	n	pa	yes	berger	inclusive
+FR977	n	qas	no	cohue	inclusive
+FR787	n	cds	no	bragger	conservative
+FR3082	n	ps	yes	hispanique	inclusive
+FR2114	n	cds	no	gangster	inclusive
+FR274	n	ddp	yes	couillon	conservative
+FR2724	n	dmc	yes	chapardeur	conservative
+FR1863	a	qas	no	fou	conservative
+FR170	n	qas	no	débris	inclusive
+FR3254	v	cds	no	bouffer	inclusive
+FR1307	n	asm	no	shtup	conservative
+FR2658	n	cds	no	collectif	inclusive
+FR2554	n	cds	no	ostentatiousness	inclusive
+FR3377	n	an	no	phthiraptère	inclusive
+FR1627	n	ps	yes	vagabonde	inclusive
+FR295	n	an	no	tête de noeud	conservative
+FR2424	a	svp	no	vorace	conservative
+FR2100	n	svp	no	rage	conservative
+FR1064	n	an	no	mauviette	conservative
+FR1081	n	ddp	yes	changeling	inclusive
+FR1299	n	asm	no	baisage	conservative
+FR3269	n	qas	no	chahuteur	conservative
+FR1087	n	ddp	yes	attardé	inclusive
+FR2504	n	ddf	yes	handicapés	inclusive
+FR3084	n	ps	yes	asiatiques	inclusive
+FR1836	n	ddf	yes	nabot	conservative
+FR2218	n	dmc	yes	propre à rien	conservative
+FR419	n	rci	yes	sauvage	conservative
+FR3546	n	pr	no	guff	conservative
+FR2979	n	an	no	micro-organismes	inclusive
+FR1559	n	or	no	votzen	conservative
+FR275	n	ddp	yes	dupe	conservative
+FR735	n	ddp	yes	tête de nœud	inclusive
+FR3074	n	ps	yes	négroïdes	inclusive
+FR347	n	is	yes	lésineur	conservative
+FR3218	n	qas	no	freeloader	conservative
+FR2970	n	an	no	microbe	inclusive
+FR2305	n	an	no	carne	inclusive
+FR3449	a	dmc	yes	à la gomme	conservative
+FR980	n	an	no	méchant	conservative
+FR3410	a	cds	no	présomptueux	conservative
+FR2396	n	ps	yes	juif	inclusive
+FR793	n	cds	no	conformiste	conservative
+FR3990	n	an	no	asticots	inclusive
+FR2757	n	an	no	mollusca	inclusive
+FR3845	n	an	no	arionidae	inclusive
+FR745	n	re	no	chantage	conservative
+FR2633	n	cds	no	usuriers	conservative
+FR1846	n	cds	no	pédagogue	inclusive
+FR3585	n	re	no	hold-up	inclusive
+FR661	n	re	no	coquin	inclusive
+FR1797	n	svp	no	gourmand	conservative
+FR1863	a	ddp	yes	fou	conservative
+FR2485	a	an	no	radin	conservative
+FR569	n	qas	no	contrevérité	conservative
+FR1018	n	cds	no	endogroupe	inclusive
+FR396	n	qas	no	couille	inclusive
+FR1583	n	qas	no	rejet	conservative
+FR1995	n	or	no	fenouil	inclusive
+FR713	n	an	no	quignon	conservative
+FR1763	n	om	no	systeme de reference en anatomie	inclusive
+FR1873	n	asm	no	bandaison	inclusive
+FR3468	n	an	no	types	inclusive
+FR3021	n	pr	no	mondains	inclusive
+FR2754	n	an	no	mollusques	inclusive
+FR3418	a	svp	no	croix	conservative
+FR1585	n	cds	no	cut-up	conservative
+FR653	n	ps	yes	voyou	conservative
+FR960	n	dmc	yes	tel et donc	inclusive
+FR291	n	an	no	bœuf	inclusive
+FR280	n	an	no	ridicule	conservative
+FR4074	n	ps	yes	rroms	inclusive
+FR300	n	an	no	personne sans instruction	conservative
+FR2688	a	svp	no	rancuneux	conservative
+FR399	n	asm	no	teste	inclusive
+FR1972	n	qas	no	ouvrier agricole	inclusive
+FR193	n	an	no	anguillidae	inclusive
+FR1808	n	pa	yes	gardien de la porte	inclusive
+FR766	n	qas	no	bobo	inclusive
+FR3834	n	re	no	agressée sexuellement	inclusive
+FR762	n	dmc	yes	débauché	conservative
+FR2169	n	cds	no	gardien pénitentiaire	inclusive
+FR3606	a	ddf	yes	insatisfaisante	conservative
+FR1991	n	re	no	extorquer	inclusive
+FR287	n	ddp	yes	dunce	conservative
+FR1969	n	cds	no	maîtresse	conservative
+FR3961	n	cds	no	théorie des complots	inclusive
+FR1936	n	cds	no	phratrie	inclusive
+FR505	n	ddp	yes	doux au toucher	conservative
+FR629	a	ddp	yes	stupide	conservative
+FR4087	n	pr	no	genisse	inclusive
+FR2899	n	asm	no	pisum sativum	inclusive
+FR421	n	dmc	yes	rustaude	conservative
+FR354	n	is	yes	pingre	conservative
+FR66	n	pa	yes	université	inclusive
+FR1509	n	cds	no	sélection massale	inclusive
+FR2473	n	cds	no	idolâtre	inclusive
+FR658	n	is	yes	gredin	conservative
+FR2712	n	cds	no	rustler	inclusive
+FR718	n	cds	no	salaud	conservative
+FR1630	n	an	no	simple	conservative
+FR592	n	cds	no	dandysme	inclusive
+FR1839	n	svp	no	ravenousness	conservative
+FR2193	n	cds	no	quidnunc	conservative
+FR1205	n	asm	no	bite	conservative
+FR2753	n	cds	no	fainéants	conservative
+FR1123	n	dmc	yes	escroc	conservative
+FR274	n	asf	no	couillon	conservative
+FR519	n	asm	no	demeuré	inclusive
+FR1856	n	pa	yes	employée	inclusive
+FR2801	n	svp	no	luxuria	inclusive
+FR414	n	cds	no	brigand	conservative
+FR887	n	qas	no	femme d'affaire	inclusive
+FR3301	n	or	no	pomme	inclusive
+FR1085	n	ps	yes	concombre	conservative
+FR1116	n	dmc	yes	marquignon	conservative
+FR74	n	cds	no	amateurisme	conservative
+FR2053	n	cds	no	franc maçon	inclusive
+FR3427	n	re	no	pirates	inclusive
+FR1601	n	dmc	yes	imposteur	conservative
+FR2447	n	cds	no	wheeler dealer	conservative
+FR3158	n	or	no	tomate	inclusive
+FR440	n	qas	no	trading	inclusive
+FR227	n	re	no	médisance	conservative
+FR801	n	cds	no	gaffeur	conservative
+FR3883	n	re	no	question	inclusive
+FR2568	n	cds	no	blagueur	inclusive
+FR1682	n	an	no	doodly-squat	conservative
+FR227	n	re	no	médisance	inclusive
+FR1084	n	cds	no	retardé	inclusive
+FR1392	n	cds	no	charlatanisme	conservative
+FR509	n	ddp	yes	stupide	conservative
+FR2190	n	cds	no	fouine	conservative
+FR424	n	cds	no	brute	conservative
+FR4067	n	ps	yes	minorité ethnique non sédentarisée	inclusive
+FR2314	n	re	no	menus larcins	inclusive
+FR546	n	an	no	roulure	conservative
+FR3061	n	ps	yes	négrophilie	inclusive
+FR2160	n	cds	no	surveillant de prison	inclusive
+FR2095	n	cds	no	intégriste	inclusive
+FR2634	n	cds	no	shylock	inclusive
+FR1685	n	cds	no	penny dreadful	inclusive
+FR370	n	cds	no	maisons de tolérance	inclusive
+FR362	n	ddp	yes	retard	conservative
+FR1303	n	asm	no	nooky	conservative
+FR2592	n	svp	no	lubricité	inclusive
+FR2310	n	cds	no	mécréant	conservative
+FR503	n	asm	no	lampiste	conservative
+FR3125	n	an	no	métastigmata	inclusive
+FR3849	a	svp	no	hautain	conservative
+FR2011	n	asm	no	poisson	inclusive
+FR656	n	re	no	rogue	conservative
+FR656	n	cds	no	rogue	conservative
+FR2273	n	an	no	eurasian griffon	inclusive
+FR1314	n	pa	yes	caporal	inclusive
+FR1090	n	an	no	renarde	inclusive
+FR902	n	om	no	truie	inclusive
+FR1236	n	cds	no	ballup	inclusive
+FR421	n	cds	no	rustaude	conservative
+FR3069	n	ps	yes	nègres	inclusive
+FR2280	n	an	no	verrat	inclusive
+FR3441	a	cds	no	banal	inclusive
+FR2633	n	cds	no	usuriers	inclusive
+FR1832	n	cds	no	terrassier	inclusive
+FR2383	n	ps	yes	judaïque	inclusive
+FR1969	n	pr	no	maîtresse	conservative
+FR2818	a	ddp	yes	macrocéphale	inclusive
+FR300	n	ddp	yes	personne sans instruction	conservative
+FR1939	n	qas	no	divulgement	inclusive
+FR3850	a	svp	no	dédaigneux	conservative
+FR719	n	an	no	souillon	conservative
+FR636	n	svp	no	fanatique	conservative
+FR3508	a	pa	yes	professoral	inclusive
+FR455	n	pa	yes	conseiller	inclusive
+FR3399	n	asm	no	branlette	conservative
+FR2218	n	svp	no	propre à rien	conservative
+FR152	n	cds	no	farrago	inclusive
+FR3518	a	dmc	yes	lâche	conservative
+FR3181	n	ps	yes	vandale	inclusive
+FR2262	v	asm	no	copuler	conservative
+FR281	n	cds	no	crétin	inclusive
+FR3461	n	an	no	gallus gallus domesticus	inclusive
+FR583	n	cds	no	pote	inclusive
+FR3611	n	qas	no	grandiloquence	inclusive
+FR907	n	qas	no	classe moyenne	inclusive
+FR517	n	or	no	niais	conservative
+FR2540	n	ddp	yes	ignare	conservative
+FR615	n	cds	no	étage	conservative
+FR735	n	cds	no	tête de nœud	conservative
+FR3052	n	ps	yes	darky	conservative
+FR1516	n	cds	no	croisement	inclusive
+FR3203	v	qas	no	flaque	conservative
+FR501	n	asf	no	selle	conservative
+FR3276	v	cds	no	trépasser	inclusive
+FR3439	a	cds	no	éculé	inclusive
+FR1522	n	cds	no	métisser	inclusive
+FR2115	n	re	no	truand	inclusive
+FR3319	n	cds	no	pédant	conservative
+FR324	n	an	no	wisent	inclusive
+FR262	n	ddp	yes	oie	conservative
+FR2424	a	svp	no	vorace	inclusive
+FR2625	a	ps	yes	infortuné	inclusive
+FR273	n	ddp	yes	cruche	conservative
+FR425	n	cds	no	pignouf	conservative
+FR148	n	cds	no	plaisanterie	inclusive
+FR2018	n	dmc	yes	forgerie	inclusive
+FR2964	n	an	no	selachimorpha	inclusive
+FR1864	a	ddp	yes	aberrant	inclusive
+FR2216	n	an	no	caprinés	inclusive
+FR3101	n	cds	no	satyriasisme	conservative
+FR959	n	dmc	yes	git	conservative
+FR670	n	dmc	yes	criminel	inclusive
+FR3432	n	re	no	plagiat	inclusive
+FR124	n	svp	no	oisiveté	conservative
+FR4045	n	dmc	yes	déserteur	conservative
+FR413	n	cds	no	bandit	inclusive
+FR83	n	ddp	yes	amentifère	inclusive
+FR3336	a	om	no	exceptionnel	inclusive
+FR630	a	ddp	yes	puéril	conservative
+FR156	n	qas	no	baragouin	inclusive
+FR1034	n	cds	no	camping-car	inclusive
+FR528	n	ps	yes	nichon	conservative
+FR1118	n	dmc	yes	chiseler	conservative
+FR265	n	pr	no	connard	conservative
+FR2441	n	qas	no	bidonville	inclusive
+FR3615	n	qas	no	abandonné le navire	inclusive
+FR719	n	cds	no	souillon	conservative
+FR275	n	asf	no	dupe	conservative
+FR2553	n	cds	no	inflation	inclusive
+FR2140	n	asm	no	fève	inclusive
+FR570	n	cds	no	menterie	inclusive
+FR3707	n	cds	no	muscle	conservative
+FR1086	n	ps	yes	retarder	conservative
+FR584	n	cds	no	gars	inclusive
+FR951	n	svp	no	arrogance	inclusive
+FR2219	n	svp	no	sans compte	conservative
+FR1259	n	pa	yes	prof	inclusive
+FR277	n	asm	no	idiot	conservative
+FR499	n	ps	yes	fall guy	conservative
+FR168	n	an	no	tripe	conservative
+FR3004	n	pa	yes	bergère	inclusive
+FR4023	n	an	no	mesohorinis	inclusive
+FR2297	a	cds	no	matois	conservative
+FR1084	n	asf	no	retardé	conservative
+FR3948	n	ps	yes	jaune	inclusive
+FR3479	n	cds	no	nourisson	inclusive
+FR1860	n	qas	no	amateur	inclusive
+FR434	n	qas	no	marchand de	inclusive
+FR3488	a	ddf	yes	mal-voyant	inclusive
+FR369	n	cds	no	bawdyhouse	inclusive
+FR2107	n	dmc	yes	vadrouilleur	inclusive
+FR567	n	dmc	yes	fausseté	inclusive
+FR414	n	dmc	yes	brigand	conservative
+FR2059	n	cds	no	francs-maçon	inclusive
+FR4092	n	cds	no	brigandage	inclusive
+FR798	n	dmc	yes	bousilleuse	conservative
+FR775	n	cds	no	gâcher	inclusive
+FR3490	a	asm	no	brun	inclusive
+FR2401	n	cds	no	gens	inclusive
+FR1648	n	ddp	yes	patapouf	conservative
+FR2821	n	re	no	cosa nostra	conservative
+FR1647	n	ps	yes	lout	conservative
+FR168	n	ddp	yes	tripe	conservative
+FR3548	n	pr	no	c'est de la foutaise	conservative
+FR1584	n	qas	no	cueillir	conservative
+FR670	n	re	no	criminel	inclusive
+FR2947	n	qas	no	rheteur	inclusive
+FR1773	n	om	no	fessière	inclusive
+FR3764	a	qas	no	classe moyenne	inclusive
+FR1774	n	om	no	coronal	inclusive
+FR2849	n	om	no	pederastie	inclusive
+FR3796	n	qas	no	détective	inclusive
+FR2324	n	re	no	trophée	inclusive
+FR3412	a	cds	no	arrogant	conservative
+FR642	n	cds	no	bague	inclusive
+FR3355	n	cds	no	râleur	conservative
+FR821	n	an	no	férocité	conservative
+FR1060	n	dmc	yes	banni	inclusive
+FR4032	n	pa	yes	employés	inclusive
+FR793	n	qas	no	conformiste	conservative
+FR831	n	an	no	bos taurus	inclusive
+FR3741	a	svp	no	lascif	conservative
+FR2728	n	cds	no	publique lavabo	inclusive
+FR1779	n	om	no	dorsolatéral	inclusive
+FR111	n	om	no	les relations sexuelles anales	inclusive
+FR2287	n	an	no	porcs	inclusive
+FR20	n	svp	no	aboulie	inclusive
+FR343	n	svp	no	lésine	conservative
+FR2349	n	om	no	hommes gais	inclusive
+FR18	n	svp	no	abulia	inclusive
+FR2607	n	dmc	yes	mensonginet	inclusive
+FR2603	a	dmc	yes	indolent	conservative
+FR346	n	is	yes	grippe-sou	conservative
+FR272	n	or	no	bourrique	conservative
+FR3270	n	qas	no	troubla	conservative
+FR69	n	pa	yes	universitaires	inclusive
+FR4006	a	asm	no	café	inclusive
+FR2542	a	ddp	yes	ignorant	conservative
+FR3133	n	re	no	assassinats	inclusive
+FR3163	n	ddf	yes	aveugle	inclusive
+FR1565	n	asf	no	conin	conservative
+FR11	n	svp	no	flemme	inclusive
+FR1986	n	ps	yes	fasciste	inclusive
+FR1370	n	ddp	yes	informateur	conservative
+FR2112	n	dmc	yes	filou	conservative
+FR2820	n	cds	no	mafia: the city of lost heaven	conservative
+FR2986	n	ddp	yes	microcephalie	inclusive
+FR2924	n	svp	no	orgueilleux	inclusive
+FR2437	n	qas	no	huche	inclusive
+FR3710	a	qas	no	idéologique	inclusive
+FR797	n	ddp	yes	bousilleur	conservative
+FR2976	n	an	no	microorganisme	inclusive
+FR1630	n	cds	no	simple	conservative
+FR3566	n	re	no	rapt	inclusive
+FR2166	n	cds	no	clé en main	inclusive
+FR3685	a	qas	no	frénétique	conservative
+FR1664	n	cds	no	infraction	inclusive
+FR3573	n	re	no	abduction	inclusive
+FR2551	n	cds	no	ostentation	inclusive
+FR568	n	cds	no	craque	conservative
+FR1611	n	cds	no	demagogie	conservative
+FR2933	n	re	no	racketteur	inclusive
+FR441	n	qas	no	commerçant	inclusive
+FR792	n	dmc	yes	pharisien	conservative
+FR2803	n	cds	no	contrevenant	inclusive
+FR508	n	cds	no	cataplasme	conservative
+FR2164	n	cds	no	gardien de prison	inclusive
+FR1576	n	cds	no	faction	inclusive
+FR1084	n	ddp	yes	retardé	conservative
+FR1081	n	asm	no	changeling	inclusive
+FR3632	n	an	no	anoures	inclusive
+FR1352	n	or	no	homosexuel	conservative
+FR2202	n	cds	no	go-between	inclusive
+FR3262	v	re	no	arnaquer	inclusive
+FR3216	v	qas	no	les boules	conservative
+FR1175	n	an	no	bique	inclusive
+FR1042	n	an	no	man-eater	inclusive
+FR1876	n	qas	no	dilettante	conservative
+FR2413	n	qas	no	salmigondis	inclusive
+FR2012	n	pa	yes	poissonnière	inclusive
+FR3956	n	cds	no	théoricien de la conspiration	inclusive
+FR267	n	om	no	andouille	inclusive
+FR2714	n	cds	no	cambrioleur	inclusive
+FR498	n	ps	yes	gogo	conservative
+FR2623	a	is	yes	peiné	inclusive
+FR1334	n	om	no	hop	conservative
+FR1665	n	re	no	crimes	inclusive
+FR2488	n	re	no	singe	inclusive
+FR1068	n	an	no	lavette	conservative
+FR341	n	svp	no	radinerie	inclusive
+FR3687	n	cds	no	pédantisme	inclusive
+FR1652	n	ddp	yes	butor	conservative
+FR1309	n	an	no	lapereau	inclusive
+FR532	n	cds	no	putain	conservative
+FR3465	n	an	no	coquelet	inclusive
+FR246	n	cds	no	astuce	inclusive
+FR550	n	pr	no	garce	conservative
+FR2949	n	dmc	yes	ravisseur	conservative
+FR3237	v	qas	no	enquiquiner	conservative
+FR4005	a	rci	yes	génois	inclusive
+FR1683	a	cds	no	criminel	inclusive
+FR2746	n	cds	no	w.-c.	inclusive
+FR2822	n	re	no	causa nostra	inclusive
+FR937	n	cds	no	égoïste	conservative
+FR767	n	cds	no	bousiller	inclusive
+FR217	n	ddp	yes	bête	conservative
+FR1918	n	an	no	brebis	inclusive
+FR832	n	pr	no	bos primigenius f. taurus	inclusive
+FR35	n	re	no	maltraitement	inclusive
+FR3457	a	dmc	yes	falsifié	conservative
+FR3340	a	cds	no	académique	conservative
+FR1590	n	cds	no	turlupin	conservative
+FR428	n	ps	yes	barbare	conservative
+FR1347	n	or	no	homophile	conservative
+FR1077	n	cds	no	wimps	conservative
+FR3399	n	cds	no	branlette	conservative
+FR2562	n	cds	no	institutrice	conservative
+FR954	n	cds	no	volume	inclusive
+FR3053	n	ps	yes	darkey	conservative
+FR2834	n	ps	yes	ostrogot	inclusive
+FR1195	n	qas	no	welter	inclusive
+FR3903	n	pr	no	biston betularia	inclusive
+FR1374	n	pr	no	moo-cow	inclusive
+FR2161	n	cds	no	maton	inclusive
+FR1217	n	cds	no	trublion	conservative
+FR3592	n	cds	no	lécheur	conservative
+FR3574	n	re	no	agression	inclusive
+FR10	n	svp	no	paresse	inclusive
+FR1641	n	an	no	saccageur	inclusive
+FR294	n	asf	no	buche	conservative
+FR1434	n	svp	no	envie	inclusive
+FR3873	n	asm	no	phallique	inclusive
+FR895	n	qas	no	bourgeois	inclusive
+FR2827	n	re	no	mafias	conservative
+FR271	n	cds	no	benêt	conservative
+FR983	n	dmc	yes	vilain	conservative
+FR621	n	cds	no	menteur	conservative
+FR2880	n	an	no	perroquets	inclusive
+FR2243	v	asm	no	aimer	conservative
+FR1505	n	cds	no	croix	inclusive
+FR3501	a	ps	yes	comitatif	inclusive
+FR2759	n	ps	yes	mongols	inclusive
+FR1377	n	cds	no	poltronne	conservative
+FR2806	n	cds	no	gendarme	inclusive
+FR3635	n	an	no	platosphus	inclusive
+FR500	n	cds	no	mouette	conservative
+FR1878	n	an	no	escargot	inclusive
+FR4004	v	dmc	yes	entourlouper	conservative
+FR3327	a	cds	no	exigeant	conservative
+FR963	n	an	no	clochard	conservative
+FR2215	n	an	no	caprins	inclusive
+FR3483	n	cds	no	enfant	inclusive
+FR2701	n	cds	no	confusion	conservative
+FR2628	n	re	no	meurtrier	inclusive
+FR1470	n	asm	no	conard	conservative
+FR2048	n	asm	no	faute	inclusive
+FR1563	n	asf	no	möse	conservative
+FR946	n	svp	no	vantardise	conservative
+FR266	n	ps	yes	con	conservative
+FR427	n	qas	no	rustre	conservative
+FR3318	v	cds	no	sermonner	conservative
+FR2112	n	cds	no	filou	inclusive
+FR4012	n	re	no	force	inclusive
+FR3728	n	cds	no	médiocrité	conservative
+FR1387	n	cds	no	lâcheté	conservative
+FR423	n	ddp	yes	bâtard	conservative
+FR2837	n	an	no	otus asio	inclusive
+FR2817	n	cds	no	flic	conservative
+FR568	n	cds	no	craque	inclusive
+FR409	a	is	yes	avaricieux	conservative
+FR3131	n	re	no	meurtre	inclusive
+FR1938	n	cds	no	famille	inclusive
+FR2797	n	an	no	pif	inclusive
+FR3698	a	qas	no	pitoyable	conservative
+FR422	n	rci	yes	rustaud	conservative
+FR113	n	om	no	enculade	inclusive
+FR3911	n	om	no	transvestisme	inclusive
+FR3587	n	re	no	agresseur	inclusive
+FR2446	n	cds	no	hubris	inclusive
+FR3809	a	ddp	yes	bébête	conservative
+FR1083	n	cds	no	idiote	inclusive
+FR77	n	ddp	yes	déficients intellectuels	inclusive
+FR403	n	asm	no	rouston	inclusive
+FR280	n	cds	no	ridicule	conservative
+FR3983	n	dmc	yes	vagabonds	inclusive
+FR965	n	cds	no	miette	conservative
+FR4021	n	an	no	mesocoronis	inclusive
+FR3964	n	ps	yes	manouche	conservative
+FR1853	n	cds	no	delit penal en france	inclusive
+FR2689	a	svp	no	indigné	conservative
+FR3141	n	re	no	meurtres	inclusive
+FR276	n	ddp	yes	fada	inclusive
+FR3828	n	re	no	aggression sexuelle	inclusive
+FR3342	a	pa	yes	pédante	conservative
+FR349	n	is	yes	avaricieux	conservative
+FR3402	n	cds	no	jacking off	conservative
+FR290	n	asf	no	blockhead	conservative
+FR1244	n	cds	no	suffisance	inclusive
+FR406	a	is	yes	avare	inclusive
+FR2781	n	pr	no	hétérocère	inclusive
+FR342	n	is	yes	pingrerie	conservative
+FR2040	n	dmc	yes	arlequin	inclusive
+FR25	n	svp	no	spiritlessness	inclusive
+FR266	n	asm	no	con	inclusive
+FR1084	n	asm	no	retardé	inclusive
+FR953	n	cds	no	masse	inclusive
+FR2687	a	svp	no	irrité	conservative
+FR2028	n	an	no	aphaniptera	inclusive
+FR1977	n	qas	no	agricultrice	inclusive
+FR469	n	pa	yes	juriste	inclusive
+FR2828	n	re	no	maffioso	inclusive
+FR2950	n	an	no	scorpaena	inclusive
+FR2536	n	svp	no	inaction	inclusive
+FR266	n	ddp	yes	con	conservative
+FR217	n	cds	no	bête	inclusive
+FR2810	n	cds	no	policiers	inclusive
+FR1692	n	ps	yes	jerry	conservative
+FR2044	n	cds	no	noix	conservative
+FR877	n	qas	no	paysanne	inclusive
+FR1746	n	om	no	tush	inclusive
+FR2562	n	cds	no	institutrice	inclusive
+FR1127	n	qas	no	de bric et de broc	conservative
+FR1306	n	asm	no	ficken	conservative
+FR1207	n	asm	no	pierre	conservative
+FR3626	n	an	no	salientian	inclusive
+FR1920	a	dmc	yes	triste	inclusive
+FR1769	n	om	no	ventrale	inclusive
+FR2392	n	ps	yes	hébreu	inclusive
+FR2866	n	qas	no	nécrotrophe	inclusive
+FR349	n	svp	no	avaricieux	conservative
+FR3347	v	cds	no	cancan	inclusive
+FR3338	a	om	no	inhabituel	inclusive
+FR2756	n	an	no	mollusque	inclusive
+FR2827	n	re	no	mafias	inclusive
+FR730	n	cds	no	briseurs de grève	inclusive
+FR2957	n	cds	no	eaux usées	inclusive
+FR3623	n	an	no	crapauds	inclusive
+FR713	n	cds	no	quignon	conservative
+FR2337	n	pr	no	slut	conservative
+FR2751	n	cds	no	slackers	conservative
+FR3518	a	cds	no	lâche	conservative
+FR430	n	an	no	brutalité	conservative
+FR2389	n	ps	yes	juive	inclusive
+FR1648	n	ps	yes	patapouf	conservative
+FR3524	n	cds	no	mobilisation	inclusive
+FR1321	n	cds	no	journaliste	inclusive
+FR2149	a	dmc	yes	fétide	conservative
+FR1862	n	cds	no	enthousiaste	inclusive
+FR2513	n	ddp	yes	nonsense	conservative
+FR509	n	cds	no	stupide	conservative
+FR1128	n	cds	no	racaille	conservative
+FR3728	n	dmc	yes	médiocrité	conservative
+FR2042	n	cds	no	toxicomane	conservative
+FR1541	n	cds	no	laddie	inclusive
+FR3013	n	cds	no	puzzle	conservative
+FR1704	n	cds	no	saleté	inclusive
+FR778	n	cds	no	boulette	inclusive
+FR1123	n	re	no	escroc	inclusive
+FR2032	n	cds	no	mat	inclusive
+FR3263	v	re	no	escroquer	inclusive
+FR742	n	cds	no	illégitime	inclusive
+FR2002	n	dmc	yes	fétide	conservative
+FR347	n	an	no	lésineur	conservative
+FR2839	n	an	no	megascops	inclusive
+FR3283	v	cds	no	clamser	inclusive
+FR3383	n	cds	no	religiousism	inclusive
+FR1450	n	an	no	femme fatale	conservative
+FR3740	a	svp	no	sensuel	conservative
+FR3831	n	re	no	molesté	inclusive
+FR3170	n	dmc	yes	personne malheureuse	inclusive
+FR3958	n	cds	no	conspirationniste	inclusive
+FR257	n	an	no	bêtise	conservative
+FR2775	n	pr	no	papillon(s) de nuit	inclusive
+FR3522	n	cds	no	soutien	inclusive
+FR2785	n	dmc	yes	mozarelle	inclusive
+FR1570	n	or	no	concombres	inclusive
+FR3328	v	an	no	tempête	conservative
+FR221	n	an	no	zoobionte	inclusive
+FR1775	n	om	no	fessier	inclusive
+FR281	n	asm	no	crétin	conservative
+FR1907	n	dmc	yes	mal	conservative
+FR3992	n	an	no	asticot	inclusive
+FR1351	n	om	no	homme	conservative
+FR3848	n	cds	no	conventicules	inclusive
+FR2242	v	qas	no	niquer	conservative
+FR1902	n	an	no	euryptéride	inclusive
+FR1667	n	re	no	crime	inclusive
+FR2163	n	cds	no	gâfe	inclusive
+FR641	n	cds	no	meute	inclusive
+FR3420	a	svp	no	ronchon	conservative
+FR3905	n	an	no	phalene du bouleau	inclusive
+FR2969	n	an	no	selachii	inclusive
+FR2022	n	cds	no	bain	inclusive
+FR2829	n	cds	no	maffia	inclusive
+FR2477	n	cds	no	adoration des idoles	inclusive
+FR2283	n	an	no	pourceau	inclusive
+FR532	n	an	no	putain	conservative
+FR282	n	asm	no	abruti	inclusive
+FR668	n	re	no	délinquant	conservative
+FR2219	n	dmc	yes	sans compte	conservative
+FR451	n	pa	yes	plaideur	inclusive
+FR3782	a	dmc	yes	rapide	conservative
+FR501	n	cds	no	selle	conservative
+FR3914	n	om	no	éonisme	inclusive
+FR3455	a	dmc	yes	niqué	conservative
+FR1362	n	an	no	physiognomie	inclusive
+FR8	n	svp	no	acédie	inclusive
+FR2782	n	an	no	grimace	inclusive
+FR2360	n	om	no	homoérotique	inclusive
+FR2687	a	svp	no	irrité	inclusive
+FR765	n	cds	no	bloopers	inclusive
+FR1085	n	ddp	yes	concombre	conservative
+FR2414	n	qas	no	fatras	inclusive
+FR1442	n	an	no	prickteaser	conservative
+FR498	n	an	no	gogo	conservative
+FR3042	a	cds	no	égocentrique	conservative
+FR3691	n	an	no	hirudinées	inclusive
+FR3499	a	ps	yes	chinois	inclusive
+FR680	n	ddp	yes	commère	conservative
+FR44	n	re	no	fraude	inclusive
+FR1086	n	cds	no	retarder	inclusive
+FR3160	n	re	no	tortionnaire	inclusive
+FR1086	n	ddp	yes	retarder	conservative
+FR390	n	asm	no	ovule	inclusive
+FR3476	n	cds	no	bébés	inclusive
+FR1213	n	asm	no	teub	conservative
+FR3359	n	cds	no	pleurnicheur	conservative
+FR2148	a	dmc	yes	pestilentiel	conservative
+FR574	n	qas	no	boniment	conservative
+FR3674	a	qas	no	féodal	inclusive
+FR278	n	asf	no	sot	conservative
+FR1717	n	svp	no	dégout	inclusive
+FR2471	n	asf	no	oiseau	conservative
+FR2946	n	qas	no	art oratoire	inclusive
+FR565	n	pr	no	racoleuse	conservative
+FR1082	n	ddp	yes	changelins	conservative
+FR1419	n	an	no	punaises	inclusive
+FR2928	n	svp	no	superbia	conservative
+FR2195	n	cds	no	spectatrice	conservative
+FR1328	n	om	no	nance	conservative
+FR3374	n	an	no	anoploure	inclusive
+FR2335	n	pr	no	crack whore	conservative
+FR1458	n	an	no	chouette	inclusive
+FR3401	n	cds	no	wank	conservative
+FR1164	n	cds	no	parenté	inclusive
+FR505	n	asm	no	doux au toucher	conservative
+FR3122	n	cds	no	omerta	inclusive
+FR1081	n	ps	yes	changeling	conservative
+FR879	n	qas	no	paysan	inclusive
+FR423	n	cds	no	bâtard	conservative
+FR404	n	qas	no	couilles	inclusive
+FR835	n	cds	no	bœufs	conservative
+FR490	n	an	no	piranha	conservative
+FR267	n	cds	no	andouille	conservative
+FR571	n	qas	no	bobard	conservative
+FR274	n	cds	no	couillon	conservative
+FR167	n	ddp	yes	codswallop	conservative
+FR1116	n	re	no	marquignon	inclusive
+FR3031	n	cds	no	crevette	conservative
+FR3162	n	cds	no	homoncules	inclusive
+FR951	n	cds	no	arrogance	conservative
+FR570	n	cds	no	menterie	conservative
+FR1281	n	svp	no	luxure	inclusive
+FR144	n	cds	no	jeu	inclusive
+FR3305	a	qas	no	hystérique	conservative
+FR225	n	re	no	calomnie	inclusive
+FR278	n	cds	no	sot	inclusive
+FR283	n	asm	no	buse	conservative
+FR657	n	re	no	canaille	conservative
+FR1508	n	ps	yes	monohybridisme	inclusive
+FR3807	a	ddp	yes	abruti	conservative
+FR4024	n	an	no	rhinaspis	inclusive
+FR143	n	cds	no	farce	inclusive
+FR1722	n	dmc	yes	hypocrite	conservative
+FR682	n	cds	no	conteur	conservative
+FR1752	n	om	no	médial	inclusive
+FR150	n	qas	no	mélange	inclusive
+FR1802	n	svp	no	glouton	conservative
+FR801	n	qas	no	gaffeur	conservative
+FR1297	n	cds	no	vis	inclusive
+FR794	n	ddp	yes	loup	conservative
+FR1193	n	svp	no	niggardness	conservative
+FR1750	n	om	no	sagittal	inclusive
+FR2289	n	an	no	groin	inclusive
+FR1910	n	cds	no	pécheur	conservative
+FR410	n	qas	no	lest	inclusive
+FR514	n	asm	no	ravi	conservative
+FR195	n	an	no	anguille	inclusive
+FR2971	n	an	no	germe	inclusive
+FR160	n	qas	no	bric-à-brac	inclusive
+FR3593	n	cds	no	lèche-bottes	conservative
+FR273	n	cds	no	cruche	conservative
+FR965	n	dmc	yes	miette	inclusive
+FR290	n	an	no	blockhead	conservative
+FR1216	n	cds	no	satan	conservative
+FR1331	n	om	no	fée	conservative
+FR1905	n	an	no	euryptéridés	inclusive
+FR845	n	cds	no	leader	inclusive
+FR660	n	cds	no	fripouille	inclusive
+FR956	n	an	no	pilotage	inclusive
+FR421	n	qas	no	rustaude	conservative
+FR4062	n	ps	yes	tsiganes	inclusive
+FR709	n	qas	no	cadre supérieur	inclusive
+FR1566	n	asf	no	connerie	conservative
+FR828	n	pr	no	vache	inclusive
+FR3705	n	cds	no	cuivre	conservative
+FR277	n	ddp	yes	idiot	inclusive
+FR1355	n	ddp	yes	rumourmonger	conservative
+FR922	n	qas	no	emploi bureau	inclusive
+FR3625	n	an	no	salientia	inclusive
+FR3482	n	cds	no	chéri	inclusive
+FR186	a	ddp	yes	analphabète	inclusive
+FR675	n	re	no	hors la loi	inclusive
+FR2733	n	cds	no	table à langer	inclusive
+FR282	n	asm	no	abruti	conservative
+FR3942	n	re	no	ndrangheta	inclusive
+FR2315	n	cds	no	vol	inclusive
+FR254	n	an	no	stupidité	conservative
+FR499	n	an	no	fall guy	conservative
+FR2103	n	dmc	yes	dillydallier	conservative
+FR822	n	ddp	yes	fureur	conservative
+FR3440	a	cds	no	fatigué	inclusive
+FR2436	n	qas	no	cabane	inclusive
+FR267	n	ddp	yes	andouille	inclusive
+FR1919	n	an	no	ewe	inclusive
+FR3815	a	re	no	violente	inclusive
+FR1857	n	pa	yes	salarié	inclusive
+FR3296	n	or	no	solanum tuberosum	inclusive
+FR3995	a	ps	yes	gascon	inclusive
+FR1101	n	cds	no	impudence	conservative
+FR3154	n	re	no	slayer	inclusive
+FR2027	n	an	no	puces	inclusive
+FR1522	n	ps	yes	métisser	inclusive
+FR3493	a	cds	no	onctueux	conservative
+FR1417	n	an	no	insecte	inclusive
+FR2153	a	dmc	yes	puant	conservative
+FR3031	n	ddf	yes	crevette	conservative
+FR3953	n	cds	no	théorie du complot	inclusive
+FR1513	n	ps	yes	sélection variétale	inclusive
+FR1381	n	an	no	froussard	conservative
+FR2261	v	asm	no	lever	conservative
+FR265	n	ddp	yes	connard	conservative
+FR2571	n	cds	no	imprimés publicitaires	inclusive
+FR43	n	re	no	maltraitance	inclusive
+FR1640	n	an	no	pilleur	inclusive
+FR3388	a	svp	no	agressive	inclusive
+FR3529	a	re	no	violent	inclusive
+FR3387	a	svp	no	acquisitif	inclusive
+FR1431	n	cds	no	duperie	conservative
+FR702	n	qas	no	magnat	inclusive
+FR2178	n	asf	no	arbuste	inclusive
+FR3105	n	asf	no	broutille	inclusive
+FR3937	n	re	no	ndranghetta	inclusive
+FR250	n	or	no	haricot	inclusive
+FR1622	n	pr	no	⚯	inclusive
+FR1634	a	ddp	yes	vert	conservative
+FR2434	n	qas	no	ménage	inclusive
+FR3460	a	dmc	yes	truqué	conservative
+FR653	n	dmc	yes	voyou	conservative
+FR212	n	ddp	yes	animal	inclusive
+FR1350	n	om	no	fif	inclusive
+FR3515	a	cds	no	craintif	conservative
+FR654	n	re	no	voyous	conservative
+FR1654	n	asm	no	doofus	conservative
+FR3255	v	re	no	tromper	inclusive
+FR3151	n	re	no	meutrière	inclusive
+FR2895	a	dmc	yes	infâme	conservative
+FR1439	n	svp	no	kāma-rāga	inclusive
+FR3999	n	cds	no	poule-mouillée	conservative
+FR2086	n	cds	no	littéralisme	inclusive
+FR991	n	or	no	butternut	inclusive
+FR633	n	dmc	yes	bigoterie	conservative
+FR264	n	ddp	yes	coucou	conservative
+FR1776	n	om	no	fesses	inclusive
+FR1085	n	or	no	concombre	inclusive
+FR2615	n	re	no	infanticide	inclusive
+FR1011	n	cds	no	trou	inclusive
+FR669	n	cds	no	bandits	conservative
+FR3681	n	cds	no	arrogant	conservative
+FR715	n	dmc	yes	talon	conservative
+FR1080	n	om	no	gnangnan	conservative
+FR367	n	cds	no	maison de mauvaise réputation	inclusive
+FR823	n	ddp	yes	méchanceté	conservative
+FR1153	n	cds	no	tribaux	inclusive
+FR831	n	pr	no	bos taurus	inclusive
+FR1809	n	pa	yes	concierge	inclusive
+FR720	n	dmc	yes	plouc	conservative
+FR283	n	asm	no	buse	inclusive
+FR3166	n	dmc	yes	trickster	conservative
+FR2121	n	cds	no	faschiste	conservative
+FR2730	n	cds	no	toilettes	inclusive
+FR3950	n	ps	yes	rouge	inclusive
+FR2272	n	an	no	fulvus	inclusive
+FR1290	n	asm	no	baiser	conservative
+FR2822	n	re	no	causa nostra	conservative
+FR4070	n	ps	yes	gitans	inclusive
+FR3090	n	ps	yes	Économie noire	inclusive
+FR1289	n	asm	no	niquer	conservative
+FR132	n	qas	no	tabi'un	inclusive
+FR2467	n	asf	no	minette	conservative
+FR3051	n	ps	yes	pelle	conservative
+FR3825	n	re	no	debaucher	conservative
+FR716	n	an	no	porc	inclusive
+FR3989	n	an	no	larve	inclusive
+FR2438	n	qas	no	huttes	inclusive
+FR679	n	cds	no	blabbermouth	conservative
+FR3870	n	cds	no	grandes compagnies	inclusive
+FR1630	n	or	no	simple	conservative
+FR3209	n	an	no	tombeur	conservative
+FR154	n	cds	no	vide poche	inclusive
+FR635	n	cds	no	intolérant	conservative
+FR594	n	cds	no	pétaudière	inclusive
+FR1489	n	an	no	crocodylinae	inclusive
+FR2972	n	an	no	microbes	inclusive
+FR2999	n	asm	no	inintelligence	conservative
+FR2715	n	ps	yes	métèque	inclusive
+FR344	n	svp	no	parcimonie	inclusive
+FR1009	n	an	no	japper	inclusive
+FR287	n	asf	no	dunce	conservative
+FR527	n	asf	no	néné	conservative
+FR3475	n	cds	no	nouveau-nés	inclusive
+FR3977	n	an	no	rouncey	inclusive
+FR1382	n	cds	no	froussarde	conservative
+FR634	n	dmc	yes	bigot	conservative
+FR671	n	re	no	malfaiteur	inclusive
+FR81	n	ddp	yes	idiotie	inclusive
+FR678	n	an	no	bisons	inclusive
+FR2944	n	qas	no	rhetorique	inclusive
+FR254	n	asf	no	stupidité	conservative
+FR779	n	asm	no	trique	inclusive
+FR183	n	ddp	yes	analphabète	inclusive
+FR833	n	pr	no	taureau	inclusive
+FR1954	n	cds	no	maquereau	inclusive
+FR120	n	om	no	coit anal	inclusive
+FR1510	n	cds	no	amélioration végétale	inclusive
+FR486	n	qas	no	baroquisme	inclusive
+FR612	n	qas	no	conte	conservative
+FR3250	v	cds	no	suralimenter	inclusive
+FR1798	n	svp	no	carcajou	inclusive
+FR1212	n	asm	no	peter	conservative
+FR4076	n	ps	yes	rommany	inclusive
+FR2456	n	an	no	hyene	inclusive
+FR1049	n	cds	no	charogne	inclusive
+FR2001	n	dmc	yes	foetor	conservative
+FR262	n	an	no	oie	inclusive
+FR2254	v	asm	no	sauter	conservative
+FR848	n	ddp	yes	lésion cérébrale	inclusive
+FR1647	n	ddp	yes	lout	conservative
+FR3434	n	re	no	forban	inclusive
+FR1514	n	cds	no	hybride	inclusive
+FR406	a	svp	no	avare	inclusive
+FR962	n	cds	no	lowlife	conservative
+FR3768	a	ddp	yes	imbécile	conservative
+FR123	n	om	no	sodomiser	inclusive
+FR736	n	ddp	yes	saloperie	conservative
+FR574	n	dmc	yes	boniment	inclusive
+FR2451	n	an	no	hyène	inclusive
+FR175	n	cds	no	scotophinus	inclusive
+FR263	n	ddp	yes	âne	conservative
+FR528	n	ddp	yes	nichon	conservative
+FR2460	n	cds	no	crooners	inclusive
+FR1128	n	qas	no	racaille	conservative
+FR822	n	svp	no	fureur	conservative
+FR1217	n	qas	no	trublion	conservative
+FR1644	n	cds	no	pillard	inclusive
+FR668	n	cds	no	délinquant	inclusive
+FR771	n	qas	no	bévue	inclusive
+FR2855	n	qas	no	parasite	inclusive
+FR2934	n	pr	no	rats	inclusive
+FR527	n	asm	no	néné	conservative
+FR738	n	ddp	yes	tête de vier	conservative
+FR213	n	an	no	animalia	inclusive
+FR2589	n	dmc	yes	bêcheur	conservative
+FR1547	n	asf	no	votze	conservative
+FR2857	n	dmc	yes	grossier	conservative
+FR2516	n	ddp	yes	hokum	conservative
+FR2821	n	cds	no	cosa nostra	inclusive
+FR1074	n	cds	no	weakly interacting massive particles	conservative
+FR653	n	svp	no	voyou	conservative
+FR3500	a	ps	yes	chinoise	inclusive
+FR3392	a	svp	no	fâché	conservative
+FR4066	n	ps	yes	roma	inclusive
+FR1412	n	cds	no	déchets	conservative
+FR236	n	re	no	violée	conservative
+FR3699	a	is	yes	misérable	conservative
+FR3066	n	ps	yes	paint it	inclusive
+FR1235	n	cds	no	mess-up	inclusive
+FR3115	n	an	no	bernache cravant	inclusive
+FR2932	n	cds	no	raton	conservative
+FR4084	a	cds	no	grossier	conservative
+FR3266	n	qas	no	trouble-fête	conservative
+FR1815	n	cds	no	liasses	inclusive
+FR2948	n	qas	no	rhéteur	inclusive
+FR602	n	cds	no	topsy-turvyness	inclusive
+FR2960	n	cds	no	assainissement	inclusive
+FR2298	a	cds	no	artificieux	conservative
+FR3738	a	ps	yes	judaïque	inclusive
+FR517	n	asm	no	niais	conservative
+FR2300	a	cds	no	astucieux	conservative
+FR4048	n	dmc	yes	apostat	conservative
+FR362	n	asm	no	retard	inclusive
+FR1999	n	or	no	foeniculum vulgare	inclusive
+FR3414	a	cds	no	futé	inclusive
+FR3775	a	cds	no	courant	inclusive
+FR3682	n	cds	no	weisenheimer	conservative
+FR2139	n	asm	no	européenne haricots	inclusive
+FR3088	n	ps	yes	Économie parallèle	inclusive
+FR3991	n	an	no	mouche	inclusive
+FR3189	n	an	no	vautours	inclusive
+FR1961	n	cds	no	mac	conservative
+FR1084	n	ps	yes	retardé	conservative
+FR3303	n	or	no	murphy	inclusive
+FR1375	n	cds	no	égout	inclusive
+FR3048	n	ps	yes	nigger	conservative
+FR3416	a	cds	no	avisé	inclusive
+FR1563	n	or	no	möse	conservative
+FR296	n	ddp	yes	bonehead	conservative
+FR127	n	an	no	fainéant	conservative
+FR54	n	cds	no	représentant	inclusive
+FR321	n	an	no	aurochs	inclusive
+FR4071	n	ps	yes	romanichels	inclusive
+FR2993	n	an	no	ovin	conservative
+FR350	n	is	yes	grigou	conservative
+FR2867	n	qas	no	ectoparasites	inclusive
+FR573	n	cds	no	histoires	conservative
+FR2747	n	cds	no	latrine	inclusive
+FR1603	n	dmc	yes	trompeuse	conservative
+FR3781	a	qas	no	pathétique	conservative
+FR198	n	an	no	anguilles	inclusive
+FR1810	n	pa	yes	pyronia tithonus	inclusive
+FR3279	v	cds	no	fermer les yeux	inclusive
+FR3695	n	an	no	leech	inclusive
+FR967	n	dmc	yes	clodo	conservative
+FR3808	a	ddp	yes	fada	conservative
+FR428	n	ddp	yes	barbare	conservative
+FR3087	n	an	no	porcin	inclusive
+FR1075	n	an	no	peureux	conservative
+FR1473	n	cds	no	jerk-off	conservative
+FR3179	n	cds	no	taux d'usure	conservative
+FR3030	n	dmc	yes	avorton	conservative
+FR409	a	svp	no	avaricieux	inclusive
+FR637	n	cds	no	gangstérisme	inclusive
+FR2	n	dmc	yes	abjection	inclusive
+FR2102	n	dmc	yes	dallier	conservative
+FR2705	a	svp	no	furieux	inclusive
+FR2427	n	svp	no	gourmandise	inclusive
+FR495	n	cds	no	sauf	inclusive
+FR164	n	asm	no	appendices	inclusive
+FR3445	a	dmc	yes	factice	conservative
+FR569	n	cds	no	contrevérité	inclusive
+FR1697	n	cds	no	grunge	inclusive
+FR2980	n	an	no	pip-squeak	conservative
+FR3806	a	ddp	yes	bétasse	conservative
+FR1673	n	re	no	délit	inclusive
+FR138	n	qas	no	collaborateur	inclusive
+FR362	n	ps	yes	retard	conservative
+FR270	n	ps	yes	balourd	conservative
+FR2743	n	cds	no	petit coin	inclusive
+FR4013	n	re	no	violent	inclusive
+FR398	n	qas	no	burnes	inclusive
+FR1425	n	an	no	bogue	inclusive
+FR1076	n	an	no	pleureur	conservative
+FR1983	n	qas	no	agriculteurs	inclusive
+FR1654	n	asf	no	doofus	conservative
+FR350	n	svp	no	grigou	conservative
+FR777	n	cds	no	bourdes	inclusive
+FR597	n	cds	no	chaos	conservative
+FR502	n	asf	no	poire	conservative
+FR2574	n	cds	no	scrawler	conservative
+FR2180	n	asf	no	cheveux entrejambe	inclusive
+FR2030	n	an	no	siphonaptère	inclusive
+FR1478	n	asm	no	twirp	conservative
+FR3616	a	dmc	yes	imitation	inclusive
+FR2821	n	cds	no	cosa nostra	conservative
+FR1818	n	cds	no	charges	inclusive
+FR667	n	cds	no	interdire	inclusive
+FR1066	n	an	no	chochotte	conservative
+FR3803	n	an	no	serpent	conservative
+FR3545	n	pr	no	buncombe	conservative
+FR4078	n	cds	no	attaché parlementaire	inclusive
+FR572	n	qas	no	mensonge	conservative
+FR2293	a	cds	no	rusée	conservative
+FR3583	n	re	no	braqueur	inclusive
+FR3743	a	svp	no	libidineuse	conservative
+FR333	n	is	yes	avarice	conservative
+FR1349	n	or	no	gays	conservative
+FR1714	n	svp	no	horreur	inclusive
+FR868	n	pr	no	epimys norvegicus	inclusive
+FR3341	a	pa	yes	méticuleux	conservative
+FR756	n	an	no	cornard	conservative
+FR1738	n	om	no	contralatéral	inclusive
+FR1291	n	asm	no	merde	conservative
+FR2211	n	an	no	caprine	inclusive
+FR3555	n	pa	yes	trésorier	inclusive
+FR3453	a	dmc	yes	frauduleux	conservative
+FR555	n	pr	no	rentboy	conservative
+FR1357	n	ddp	yes	cancan	conservative
+FR796	n	cds	no	boucher	conservative
+FR2550	n	cds	no	solennité	conservative
+FR3680	n	cds	no	wisenheimer	conservative
+FR2327	n	re	no	biens volés	inclusive
+FR1036	n	an	no	carcharodon	inclusive
+FR1320	n	cds	no	correspondant	inclusive
+FR2372	n	ps	yes	judaisme	inclusive
+FR1117	n	dmc	yes	fraudeur	conservative
+FR2391	n	ps	yes	israélite	inclusive
+FR808	n	an	no	corps à l'arraché	inclusive
+FR3257	v	asm	no	blouser	conservative
+FR797	n	qas	no	bousilleur	conservative
+FR284	n	asf	no	enculé	conservative
+FR232	n	re	no	viols	conservative
+FR2203	n	cds	no	intercesseur	inclusive
+FR204	n	ddp	yes	herpétofaune	inclusive
+FR276	n	cds	no	fada	conservative
+FR1254	n	cds	no	professeur	inclusive
+FR835	n	pr	no	bœufs	inclusive
+FR1529	n	cds	no	béjaune	conservative
+FR1359	n	ddp	yes	rumormonger	conservative
+FR3576	n	re	no	rapine	inclusive
+FR3801	n	qas	no	limier	inclusive
+FR755	n	an	no	cocufier	conservative
+FR2627	n	svp	no	gorger	conservative
+FR3865	n	an	no	caïmans	inclusive
+FR1077	n	an	no	wimps	conservative
+FR413	n	re	no	bandit	inclusive
+FR1987	n	cds	no	nazi	conservative
+FR2739	n	cds	no	waters	inclusive
+FR595	n	cds	no	tohu-bohu	inclusive
+FR2613	a	ddp	yes	incompétent	conservative
+FR130	n	dmc	yes	flemmard	conservative
+FR3805	a	cds	no	intelligent	inclusive
+FR1122	n	dmc	yes	arnaqueur	conservative
+FR3224	n	qas	no	chiper	conservative
+FR3161	n	dmc	yes	homoncule	inclusive
+FR4009	n	re	no	violence	inclusive
+FR1888	n	dmc	yes	valeurs morales	inclusive
+FR576	n	cds	no	pinpin	inclusive
+FR1831	n	cds	no	péons	inclusive
+FR253	n	or	no	nouille	inclusive
+FR2585	n	om	no	pairesse	inclusive
+FR278	n	asm	no	sot	conservative
+FR277	n	or	no	idiot	conservative
+FR2684	n	svp	no	invidia	inclusive
+FR614	n	qas	no	récit	conservative
+FR2463	n	cds	no	balladeer	inclusive
+FR292	n	ddp	yes	cancre	conservative
+FR276	n	asm	no	fada	conservative
+FR1667	n	cds	no	crime	inclusive
+FR130	n	svp	no	flemmard	conservative
+FR1653	n	ddp	yes	four	conservative
+FR2828	n	cds	no	maffioso	conservative
+FR270	n	ddp	yes	balourd	inclusive
+FR2235	n	cds	no	ultraconservateur	conservative
+FR2552	n	cds	no	pompeux	conservative
+FR3737	a	ps	yes	juif	inclusive
+FR282	n	ddp	yes	abruti	conservative
+FR421	n	ddp	yes	rustaude	conservative
+FR1635	n	cds	no	concepteur	inclusive
+FR2595	n	svp	no	voluptueux	inclusive
+FR423	n	cds	no	bâtard	inclusive
+FR3155	n	re	no	tueuse	inclusive
+FR822	n	an	no	fureur	inclusive
+FR1521	n	ps	yes	biotechnologie des plantes	inclusive
+FR2639	n	an	no	insecta	inclusive
+FR2057	n	cds	no	maçons libres et acceptés	inclusive
+FR819	n	ddp	yes	zooerastia	conservative
+FR1025	n	ddp	yes	détenu	inclusive
+FR2665	n	asm	no	bistouquette	inclusive
+FR4064	n	ps	yes	roms	inclusive
+FR3340	a	pa	yes	académique	conservative
+FR2940	n	cds	no	relique	inclusive
+FR3343	a	pa	yes	pointilleux	conservative
+FR828	n	an	no	vache	inclusive
+FR849	n	ddp	yes	cérébrolésé	inclusive
+FR1800	n	svp	no	gourmandizer	conservative
+FR3168	n	ddf	yes	laideur	inclusive
+FR2604	a	dmc	yes	paresseux	conservative
+FR3903	n	an	no	biston betularia	inclusive
+FR3747	a	svp	no	libidineuses	conservative
+FR1833	n	cds	no	péon	inclusive
+FR9	n	svp	no	paresseux	conservative
+FR249	n	or	no	dôme	inclusive
+FR1326	n	or	no	poove	conservative
+FR1470	n	cds	no	conard	conservative
+FR271	n	or	no	benêt	conservative
+FR3937	n	cds	no	ndranghetta	inclusive
+FR3010	n	asm	no	flouter	conservative
+FR261	n	or	no	imbécile	conservative
+FR913	n	qas	no	neuilly-auteuil-passy	inclusive
+FR3237	v	re	no	enquiquiner	inclusive
+FR961	n	an	no	mouffette	conservative
+FR1316	n	pa	yes	corporel	inclusive
+FR2936	n	cds	no	vestige	inclusive
+FR226	n	re	no	diffamation	conservative
+FR134	n	qas	no	partisan	inclusive
+FR3634	n	an	no	phryne	inclusive
+FR2024	n	an	no	puce	inclusive
+FR3751	a	qas	no	moyenâgeux	inclusive
+FR3116	n	an	no	brant	inclusive
+FR2858	n	cds	no	péquenaud	conservative
+FR692	n	cds	no	sottise	conservative
+FR477	n	an	no	chien	conservative
+FR1141	n	om	no	pédéraste	conservative
+FR2038	n	cds	no	baladin	inclusive
+FR3219	n	qas	no	éponge	conservative
+FR1081	n	cds	no	changeling	inclusive
+FR345	n	is	yes	ladrerie	conservative
+FR1797	n	svp	no	gourmand	inclusive
+FR2888	n	cds	no	partie	inclusive
+FR714	n	cds	no	achille	conservative
+FR2005	n	cds	no	finagler	conservative
+FR3993	n	an	no	caster	inclusive
+FR3405	a	svp	no	orgueilleux	conservative
+FR2792	n	an	no	mulet	inclusive
+FR2786	n	dmc	yes	mozza	inclusive
+FR127	n	dmc	yes	fainéant	conservative
+FR3220	n	an	no	sangsue	conservative
+FR1028	n	ddp	yes	incarcération	inclusive
+FR1719	n	svp	no	aversion	inclusive
+FR88	n	ddp	yes	déficience mentale	inclusive
+FR1524	n	ps	yes	sélection végétale	inclusive
+FR2404	n	cds	no	prélat	inclusive
+FR1926	n	dmc	yes	libertinage	conservative
+FR3570	n	re	no	enlèvement	inclusive
+FR1869	n	asm	no	gaule	inclusive
+FR3800	n	qas	no	saint-hubert	inclusive

@@ -1,0 +1,3050 @@
+id	pos	category	stereotype	lemma	level
+CS824	n	om	no	homosexuální	conservative
+CS354	n	ps	yes	bedu	inclusive
+CS190	n	svp	no	hamižnost	inclusive
+CS153	n	or	no	bonce	inclusive
+CS1198	n	an	no	kyjonožci	inclusive
+CS87	n	cds	no	vtípek	inclusive
+CS701	n	cds	no	kin skupina	inclusive
+CS903	n	ddp	yes	kretenizmus	inclusive
+CS1830	n	an	no	papoušek	inclusive
+CS1471	n	om	no	stejný-přitažlivost sexu	inclusive
+CS1972	n	ps	yes	černoši	inclusive
+CS1453	n	pr	no	pohotovostní procházení	conservative
+CS2419	n	an	no	mezek	inclusive
+CS820	n	om	no	buzerant	inclusive
+CS641	n	asf	no	imbecile	conservative
+CS222	n	svp	no	držgrešle	conservative
+CS2063	n	an	no	přeřeknutí	inclusive
+CS944	n	asf	no	piča	conservative
+CS1599	n	cds	no	pompousness	conservative
+CS168	n	or	no	mamlas	conservative
+CS1023	n	cds	no	trestného činu	inclusive
+CS1304	n	cds	no	free mason	inclusive
+CS2061	n	an	no	červ	inclusive
+CS509	n	pr	no	dobytek	inclusive
+CS384	n	cds	no	války gangů	inclusive
+CS2332	a	ddf	yes	jednooký	inclusive
+CS666	n	re	no	defrauder	inclusive
+CS1233	n	cds	no	pasák	inclusive
+CS1248	n	qas	no	hospodář	inclusive
+CS933	n	ps	yes	mezirodový hybrid	inclusive
+CS2369	n	re	no	prostopášníka	conservative
+CS674	n	an	no	lůza	conservative
+CS2177	n	re	no	plagiarise	inclusive
+CS392	n	cds	no	banditti	conservative
+CS799	n	an	no	králík	inclusive
+CS603	n	an	no	bachor	inclusive
+CS564	n	cds	no	domýšlivost	conservative
+CS1108	n	om	no	kaudálně	inclusive
+CS388	n	an	no	tulák	conservative
+CS579	n	dmc	yes	tuláci	conservative
+CS2514	n	dmc	yes	treasonist	conservative
+CS1503	n	cds	no	lidé	inclusive
+CS296	n	ddp	yes	vůl	conservative
+CS1745	n	an	no	mul	inclusive
+CS577	n	cds	no	git	conservative
+CS2068	v	qas	no	podělat	conservative
+CS576	n	is	yes	ničema	conservative
+CS349	n	ps	yes	beduínští pastevci	inclusive
+CS165	n	asm	no	hlupák	conservative
+CS587	n	dmc	yes	villainess	conservative
+CS133	n	an	no	stvoření	inclusive
+CS232	n	asm	no	testikulární	inclusive
+CS423	n	cds	no	lump	conservative
+CS2408	n	an	no	kajmani	inclusive
+CS341	n	cds	no	fop	inclusive
+CS1652	n	an	no	hmyzu	inclusive
+CS1130	n	an	no	ovis aries	inclusive
+CS1142	n	cds	no	stohy	inclusive
+CS825	n	om	no	⚣	conservative
+CS427	n	dmc	yes	flákač	conservative
+CS1902	n	an	no	animalculum	inclusive
+CS2035	n	cds	no	homunkulové	inclusive
+CS2368	n	an	no	lampyris sibirica	inclusive
+CS585	n	cds	no	darebný	conservative
+CS3	n	svp	no	lenoch	inclusive
+CS368	n	pa	yes	bellman	inclusive
+CS2224	n	pr	no	žvást	conservative
+CS2202	a	ddf	yes	slepý	inclusive
+CS1752	n	cds	no	nerd	conservative
+CS829	n	cds	no	gossipmonger	conservative
+CS1221	n	ddf	yes	invalida	inclusive
+CS647	n	an	no	vlčice	inclusive
+CS833	n	an	no	fyziognomika	inclusive
+CS166	n	cds	no	blb	conservative
+CS645	n	cds	no	hrubián	inclusive
+CS209	n	cds	no	dům radosti	inclusive
+CS165	n	cds	no	hlupák	inclusive
+CS62	n	an	no	american buffalo	inclusive
+CS2114	n	or	no	solanum estradae	inclusive
+CS1604	n	cds	no	učitelů	inclusive
+CS1749	n	an	no	čumák	inclusive
+CS165	n	ddp	yes	hlupák	inclusive
+CS2095	n	or	no	solanum andigenum	inclusive
+CS637	n	cds	no	sračka	conservative
+CS170	n	asf	no	tupec	conservative
+CS945	n	asf	no	pinda	conservative
+CS1598	n	cds	no	splashiness	conservative
+CS1063	n	svp	no	odpor	inclusive
+CS694	n	cds	no	kmen	inclusive
+CS2005	n	an	no	brent	inclusive
+CS508	n	an	no	bos taurus	inclusive
+CS1428	n	an	no	pašík	inclusive
+CS79	n	om	no	pedikace	inclusive
+CS1672	n	asm	no	pyj	inclusive
+CS1009	n	an	no	looter	inclusive
+CS943	n	or	no	pizda	conservative
+CS1072	n	dmc	yes	licoměrnost	conservative
+CS246	n	ddp	yes	barbarové	conservative
+CS1265	n	dmc	yes	zápach	conservative
+CS1649	n	cds	no	lichváře	inclusive
+CS245	n	rci	yes	hulvát	conservative
+CS85	n	cds	no	žertík	inclusive
+CS1520	n	qas	no	chata	inclusive
+CS2471	n	an	no	podvod	conservative
+CS949	n	or	no	symbol vulvy	conservative
+CS2363	n	an	no	lampyris minor	inclusive
+CS1454	n	pr	no	john	conservative
+CS91	n	cds	no	smísit-mandl	inclusive
+CS249	n	qas	no	neotesanec	conservative
+CS590	n	re	no	darebák	conservative
+CS320	n	pr	no	lehká děva	inclusive
+CS36	n	pa	yes	fakulty	inclusive
+CS1106	n	om	no	kontralaterální	inclusive
+CS192	n	svp	no	sedmi smrtelných hříchů	inclusive
+CS2404	n	re	no	terorizmus	conservative
+CS635	n	dmc	yes	vyvrhel	inclusive
+CS584	n	svp	no	pecivál	conservative
+CS1630	a	dmc	yes	nezdvořilý	conservative
+CS681	n	an	no	hafík	inclusive
+CS2516	n	dmc	yes	spolupachatel	inclusive
+CS227	n	asm	no	varlata	inclusive
+CS2223	n	pr	no	závan	conservative
+CS807	n	cds	no	novinářka	inclusive
+CS1451	n	cds	no	poslíček	inclusive
+CS583	n	cds	no	povaleč	conservative
+CS993	n	pr	no	konkubíny	inclusive
+CS1328	n	svp	no	marnost	conservative
+CS1202	n	dmc	yes	zlo	inclusive
+CS1269	n	dmc	yes	pach	conservative
+CS1763	n	cds	no	policejní strážnice	conservative
+CS699	n	cds	no	domorodec	inclusive
+CS155	n	ddp	yes	betise	conservative
+CS396	n	dmc	yes	zločinec	inclusive
+CS2303	a	re	no	tvrdý	inclusive
+CS383	n	cds	no	kultury gangu	inclusive
+CS1770	n	re	no	maffie	inclusive
+CS2276	n	an	no	salientian	inclusive
+CS666	n	cds	no	defrauder	inclusive
+CS1025	n	re	no	čin	inclusive
+CS186	n	an	no	zubr	inclusive
+CS1738	n	an	no	můra	inclusive
+CS230	n	asm	no	ballock	inclusive
+CS1824	n	qas	no	farností	inclusive
+CS1616	n	dmc	yes	morální úpadek	inclusive
+CS924	n	cds	no	rostlinné biotechnologie	inclusive
+CS2260	a	dmc	yes	znečištěné	inclusive
+CS1553	n	re	no	uličník	inclusive
+CS2321	a	ps	yes	židovský	inclusive
+CS339	n	cds	no	vole	inclusive
+CS1145	n	cds	no	kvanta	inclusive
+CS958	n	cds	no	úklady	inclusive
+CS2133	n	cds	no	scuttlebutt	inclusive
+CS69	n	cds	no	amour propre	conservative
+CS2046	n	cds	no	lichvářka	inclusive
+CS1938	n	an	no	midge	inclusive
+CS1994	n	qas	no	chalupník	inclusive
+CS1154	n	cds	no	peón	inclusive
+CS1175	n	asm	no	hard-o	inclusive
+CS1437	n	re	no	grand theft	inclusive
+CS337	n	cds	no	nepravda	inclusive
+CS1506	n	cds	no	hierarcha	inclusive
+CS2033	n	or	no	dýně	inclusive
+CS247	n	qas	no	barbarství	conservative
+CS1917	n	pa	yes	pastýř	inclusive
+CS335	n	an	no	ulice dívka	conservative
+CS1093	n	om	no	anatomické projekce	inclusive
+CS1479	n	ps	yes	židovství	inclusive
+CS904	n	qas	no	posádky	inclusive
+CS476	n	qas	no	konformní	inclusive
+CS2176	n	re	no	plagování	inclusive
+CS2219	n	pr	no	volné žena	conservative
+CS1546	n	cds	no	modlářské	inclusive
+CS112	a	ddp	yes	negramotný	inclusive
+CS470	n	cds	no	chlubil	conservative
+CS170	n	or	no	tupec	conservative
+CS1107	n	om	no	ventrální	inclusive
+CS478	n	cds	no	bumbler	conservative
+CS239	n	cds	no	bandita	inclusive
+CS397	n	cds	no	zakázán	conservative
+CS1316	n	cds	no	fundamentální	inclusive
+CS2083	v	re	no	napálit	inclusive
+CS2226	n	pa	yes	kontrolor	inclusive
+CS1	n	dmc	yes	ponížení	inclusive
+CS423	n	an	no	lump	conservative
+CS1279	n	dmc	yes	padělání	inclusive
+CS2072	n	is	yes	žebrák	conservative
+CS296	n	asm	no	vůl	conservative
+CS815	n	om	no	teplouš	conservative
+CS180	n	om	no	osel	inclusive
+CS163	n	asm	no	pošetilec	conservative
+CS1357	n	asf	no	pochvy	conservative
+CS1002	n	ddp	yes	prosťáček	conservative
+CS347	n	cds	no	topsy-turvydom	inclusive
+CS2249	n	re	no	okraden	inclusive
+CS1892	n	an	no	mikrobiální	inclusive
+CS102	n	cds	no	cancy	conservative
+CS2101	n	or	no	solanum chocclo	inclusive
+CS2307	n	an	no	Švábi	inclusive
+CS479	n	ddp	yes	fumbler	conservative
+CS195	n	svp	no	chamtivosti	inclusive
+CS401	n	cds	no	taleteller	conservative
+CS2314	n	dmc	yes	průměrnost	conservative
+CS235	n	qas	no	varle	inclusive
+CS1218	n	dmc	yes	rozmařilec	inclusive
+CS1375	n	cds	no	gigolo	inclusive
+CS274	n	an	no	čokl	inclusive
+CS1822	n	qas	no	autoinfection	inclusive
+CS1796	n	cds	no	papparazzi	inclusive
+CS393	n	re	no	zločince	inclusive
+CS2450	n	asm	no	opeřenci	inclusive
+CS86	n	cds	no	groteskní	inclusive
+CS854	n	cds	no	odpady kovové	inclusive
+CS514	n	asm	no	hnědý	inclusive
+CS821	n	om	no	samcoložník	conservative
+CS1230	n	cds	no	fanatismu	conservative
+CS1543	n	asf	no	kočka	conservative
+CS220	n	cds	no	bordelu	inclusive
+CS336	n	cds	no	lež	inclusive
+CS456	n	an	no	paroháč	conservative
+CS2428	n	pr	no	drsnokřídlec březový	inclusive
+CS964	n	qas	no	odmítnout	conservative
+CS611	n	ddp	yes	vězni	inclusive
+CS2203	a	asm	no	hnědý	inclusive
+CS1144	n	cds	no	hojnost	inclusive
+CS2009	n	an	no	ixodida	inclusive
+CS2344	n	qas	no	bloodhound	inclusive
+CS1091	n	om	no	boční	inclusive
+CS148	n	re	no	znásilnění	inclusive
+CS663	n	re	no	pomlouvač	conservative
+CS1456	n	pr	no	kurevnictví	inclusive
+CS168	n	an	no	mamlas	conservative
+CS1407	v	asm	no	mrdat	conservative
+CS371	n	svp	no	bigoterie	conservative
+CS1742	n	an	no	loudal	conservative
+CS1226	n	cds	no	phratry	inclusive
+CS561	n	svp	no	panovačnost	conservative
+CS574	n	cds	no	spodina taška	conservative
+CS1067	n	dmc	yes	dissembler	conservative
+CS2166	n	asm	no	wank	conservative
+CS2446	n	pr	no	megera	conservative
+CS233	n	asm	no	koule	inclusive
+CS597	a	ddf	yes	špatný	inclusive
+CS530	n	qas	no	buržoazní	inclusive
+CS2199	n	cds	no	kojenecký věk	inclusive
+CS1686	n	cds	no	nepoøádek	conservative
+CS1424	n	an	no	kanec	inclusive
+CS311	n	ddp	yes	blbeček	conservative
+CS492	n	ddp	yes	krutost	conservative
+CS1441	n	cds	no	zlodějský	inclusive
+CS318	n	an	no	prostitutka	conservative
+CS1518	n	qas	no	hutch	inclusive
+CS173	n	or	no	muttonhead	conservative
+CS1406	n	cds	no	zpátečnictví	conservative
+CS1677	a	om	no	homosexuální	conservative
+CS126	n	ddp	yes	zvířata	inclusive
+CS92	n	qas	no	omnium-gatherum	inclusive
+CS2097	n	or	no	kobzol	inclusive
+CS234	n	asm	no	teste	inclusive
+CS668	n	re	no	chiseler	inclusive
+CS1610	n	pa	yes	jezuita	inclusive
+CS196	n	svp	no	hrabivosti	inclusive
+CS1381	n	cds	no	všetečka	conservative
+CS306	n	ddp	yes	pudden hlava	conservative
+CS1017	n	ddp	yes	doofus	conservative
+CS245	n	ddp	yes	hulvát	conservative
+CS1010	n	an	no	despoiler	inclusive
+CS1223	n	svp	no	zahálka	inclusive
+CS544	n	qas	no	střední společenská třída	inclusive
+CS882	n	svp	no	choutky	inclusive
+CS329	n	an	no	rentboy	conservative
+CS1434	a	cds	no	prohnaný	conservative
+CS246	n	rci	yes	barbarové	conservative
+CS1414	a	cds	no	ilegální	inclusive
+CS750	n	cds	no	cockup	inclusive
+CS425	n	cds	no	prase	conservative
+CS576	n	dmc	yes	ničema	inclusive
+CS362	n	cds	no	beghard	inclusive
+CS162	n	cds	no	blbec	conservative
+CS1347	n	asm	no	evropská bean	inclusive
+CS1899	n	an	no	mikroby	inclusive
+CS2230	n	or	no	brassica rapa	inclusive
+CS752	n	cds	no	ballup	inclusive
+CS657	n	re	no	calunnia	inclusive
+CS2231	n	or	no	Řepák	inclusive
+CS243	n	dmc	yes	divoch	conservative
+CS2511	n	dmc	yes	renegát	conservative
+CS1088	n	om	no	plantární	inclusive
+CS2092	n	or	no	solanum leptostigma	inclusive
+CS244	n	pa	yes	barbaři	conservative
+CS396	n	cds	no	zločinec	inclusive
+CS1297	n	cds	no	zednář	inclusive
+CS2323	a	svp	no	libidózní	conservative
+CS57	n	ddp	yes	pomocná škola	inclusive
+CS1166	n	dmc	yes	delikt	inclusive
+CS332	n	an	no	kurva	conservative
+CS1415	n	an	no	house	inclusive
+CS965	n	qas	no	utracení	conservative
+CS630	n	cds	no	kasino	inclusive
+CS671	n	cds	no	drzosti	conservative
+CS1153	n	cds	no	dělníka	inclusive
+CS1100	n	om	no	konec laně	inclusive
+CS239	n	cds	no	bandita	conservative
+CS351	n	ps	yes	beduínské kmeny	inclusive
+CS421	n	qas	no	magnáta	inclusive
+CS1045	n	cds	no	delikvence	inclusive
+CS497	n	pr	no	bos primigenius f. taurus	inclusive
+CS45	n	ddp	yes	mentálně	inclusive
+CS821	n	or	no	samcoložník	conservative
+CS587	n	is	yes	villainess	conservative
+CS1354	n	asf	no	vaginální	conservative
+CS249	n	asm	no	neotesanec	inclusive
+CS669	n	cds	no	scammer	conservative
+CS2012	n	an	no	metastigmata	inclusive
+CS394	n	cds	no	psanec	inclusive
+CS249	n	pa	yes	neotesanec	conservative
+CS433	n	cds	no	mutt	inclusive
+CS476	n	cds	no	konformní	conservative
+CS994	n	pr	no	konkubinát	inclusive
+CS791	n	asm	no	role v seně	conservative
+CS1395	n	svp	no	bota-off	conservative
+CS490	n	an	no	zooerasty	conservative
+CS156	n	asm	no	hloupost	conservative
+CS1076	n	ddp	yes	prdel	conservative
+CS1669	n	asm	no	penisu	inclusive
+CS483	n	ddp	yes	botcher	conservative
+CS2334	n	an	no	sciaenops ocellatus	inclusive
+CS2137	n	cds	no	moaner	conservative
+CS418	n	qas	no	průmyslník	inclusive
+CS435	n	cds	no	stávkokazy	inclusive
+CS161	n	ddp	yes	blázen	conservative
+CS388	n	dmc	yes	tulák	conservative
+CS794	n	asm	no	kus zadku	conservative
+CS1598	n	cds	no	splashiness	inclusive
+CS2477	n	cds	no	konspirační teorie	inclusive
+CS1092	n	om	no	aboral	inclusive
+CS8	n	svp	no	abulia	inclusive
+CS254	n	qas	no	kupec	inclusive
+CS393	n	dmc	yes	zločince	inclusive
+CS985	n	cds	no	demagogickou	conservative
+CS2053	n	an	no	supi	inclusive
+CS2356	n	ddp	yes	nesmysly	inclusive
+CS249	n	ddp	yes	neotesanec	inclusive
+CS1255	n	re	no	vydírat	inclusive
+CS1929	n	ps	yes	mongoloidní plemeno	conservative
+CS2361	n	pr	no	světluška větší	inclusive
+CS155	n	asm	no	betise	conservative
+CS404	n	cds	no	neplecha	conservative
+CS166	n	cds	no	blb	inclusive
+CS1317	n	cds	no	fundamentalista	inclusive
+CS246	n	dmc	yes	barbarové	conservative
+CS1986	n	cds	no	nympho	conservative
+CS155	n	an	no	betise	conservative
+CS1948	n	cds	no	autolatry	inclusive
+CS158	n	cds	no	blboun	conservative
+CS301	n	ddp	yes	hloupý	conservative
+CS1650	n	cds	no	loanshark	inclusive
+CS590	n	cds	no	darebák	conservative
+CS394	n	dmc	yes	psanec	inclusive
+CS18	n	re	no	špatně použití	inclusive
+CS913	n	an	no	crocodylian	inclusive
+CS2368	n	pr	no	lampyris sibirica	inclusive
+CS1762	n	cds	no	policistů	conservative
+CS1444	n	cds	no	zlodějství	inclusive
+CS478	n	ddp	yes	bumbler	conservative
+CS854	n	qas	no	odpady kovové	inclusive
+CS1021	n	cds	no	zločin	inclusive
+CS2349	a	svp	no	mstivý	conservative
+CS756	n	cds	no	uspokojení	inclusive
+CS1935	n	cds	no	moralismus	inclusive
+CS2044	a	qas	no	obvyklé	inclusive
+CS1690	n	re	no	šelestu dobytku	inclusive
+CS1439	n	re	no	krádež	inclusive
+CS457	n	cds	no	dead-end street	inclusive
+CS473	n	cds	no	bragger	conservative
+CS1373	n	an	no	hvízdavý	inclusive
+CS653	n	re	no	traducement	inclusive
+CS1724	n	an	no	malakofauna	inclusive
+CS2528	n	cds	no	culchie	inclusive
+CS187	n	svp	no	chamtivost	inclusive
+CS693	n	cds	no	kmenových společnostech	inclusive
+CS1761	n	cds	no	policistka	conservative
+CS982	n	dmc	yes	klamné	conservative
+CS1329	n	cds	no	gangsterů	inclusive
+CS587	n	re	no	villainess	conservative
+CS2401	n	re	no	teroristy	conservative
+CS1104	n	om	no	zadeček	inclusive
+CS22	n	re	no	týrání	inclusive
+CS659	n	re	no	traducer	conservative
+CS1522	n	qas	no	kotec	inclusive
+CS128	n	an	no	zvířena	inclusive
+CS1553	n	cds	no	uličník	inclusive
+CS2523	n	ps	yes	romanis	inclusive
+CS165	n	or	no	hlupák	conservative
+CS572	n	an	no	ten a ten	conservative
+CS2377	n	re	no	sexuálního obtěžování	inclusive
+CS641	n	ps	yes	imbecile	conservative
+CS293	n	cds	no	kromě	inclusive
+CS38	n	qas	no	amateurishness	conservative
+CS478	n	dmc	yes	bumbler	conservative
+CS440	n	ddp	yes	zmrde	conservative
+CS877	n	cds	no	pižmová vůně	conservative
+CS333	n	pr	no	šlapka	conservative
+CS563	n	cds	no	arogance	conservative
+CS244	n	dmc	yes	barbaři	conservative
+CS107	n	cds	no	zélóti	inclusive
+CS1613	n	cds	no	krasopisec	conservative
+CS583	n	dmc	yes	povaleč	conservative
+CS725	n	an	no	vulgarita	conservative
+CS883	n	an	no	rozpustilá dívka	conservative
+CS1112	n	om	no	distální	inclusive
+CS315	n	pr	no	kuplíř	conservative
+CS2313	n	dmc	yes	nemotorný člověk	conservative
+CS1777	n	cds	no	mafie	conservative
+CS1232	n	cds	no	pandar	conservative
+CS1056	n	cds	no	půdy	inclusive
+CS301	n	cds	no	hloupý	conservative
+CS240	n	cds	no	zbojník	conservative
+CS222	n	is	yes	držgrešle	conservative
+CS779	n	or	no	brassica oleracea	inclusive
+CS614	n	cds	no	vůz vlaku	inclusive
+CS464	n	qas	no	kiks	inclusive
+CS1348	n	asm	no	faba	inclusive
+CS193	n	svp	no	seznam smrtelných hříchů	inclusive
+CS1419	n	an	no	eurasian griffon	inclusive
+CS1025	n	cds	no	čin	inclusive
+CS1013	n	ddp	yes	nemotora	conservative
+CS2517	n	ps	yes	rommany	inclusive
+CS396	n	cds	no	zločinec	conservative
+CS938	n	qas	no	konformismus	inclusive
+CS806	n	pa	yes	desátník	inclusive
+CS266	n	pa	yes	advocator	inclusive
+CS925	n	cds	no	šlechtění rostlin	inclusive
+CS548	n	qas	no	měšťan	inclusive
+CS245	n	cds	no	hulvát	conservative
+CS810	n	cds	no	novinář	inclusive
+CS926	n	cds	no	interfertilita	inclusive
+CS1910	n	an	no	ovis ammon f. aries	inclusive
+CS638	n	an	no	namby-pamby	conservative
+CS390	n	cds	no	silnice zástupce	conservative
+CS553	n	cds	no	sobecký	conservative
+CS1894	n	an	no	mikroorganismu	inclusive
+CS388	n	ps	yes	tulák	inclusive
+CS1771	n	cds	no	mafiosi	conservative
+CS1491	n	ps	yes	Židovské náboženství	inclusive
+CS2	v	an	no	štěkat	inclusive
+CS150	n	re	no	znásilněna	conservative
+CS1806	n	cds	no	chawbacon	conservative
+CS1600	n	cds	no	ostentatiousness	conservative
+CS1858	n	cds	no	ostatky	inclusive
+CS42	n	pa	yes	dopisujícím členem	inclusive
+CS307	n	ddp	yes	napálit	conservative
+CS1280	n	dmc	yes	padělky	inclusive
+CS1850	n	svp	no	pridefulness	inclusive
+CS2299	n	an	no	hirudinida	inclusive
+CS2240	n	re	no	raptio	inclusive
+CS2263	a	dmc	yes	špinavý	inclusive
+CS1632	n	dmc	yes	prevaricator	inclusive
+CS13	n	qas	no	pomocníků	inclusive
+CS1683	n	svp	no	angriness	inclusive
+CS859	n	cds	no	domovního odpadu	conservative
+CS733	n	asm	no	chuj	conservative
+CS436	n	cds	no	stávkokazectví	inclusive
+CS1691	n	cds	no	rustler	inclusive
+CS2082	v	cds	no	hltat	inclusive
+CS2265	a	svp	no	hltavý	inclusive
+CS2047	n	cds	no	Úžera	inclusive
+CS645	n	ps	yes	hrubián	conservative
+CS574	n	an	no	spodina taška	conservative
+CS2172	n	re	no	napodobit	inclusive
+CS239	n	dmc	yes	bandita	conservative
+CS1654	n	re	no	zpronevěra	inclusive
+CS936	n	cds	no	bažant	conservative
+CS2430	n	om	no	cross-dressing	inclusive
+CS1186	n	dmc	yes	etické motiv	inclusive
+CS1605	n	cds	no	učitel	inclusive
+CS1644	n	cds	no	úvěr sharking	inclusive
+CS1997	n	an	no	husy	inclusive
+CS1110	n	om	no	ocasní	inclusive
+CS142	n	ddp	yes	makrofaunu	inclusive
+CS1878	n	ps	yes	míšenec	conservative
+CS1950	n	ps	yes	negr	inclusive
+CS2024	n	re	no	vrazi	inclusive
+CS411	n	ps	yes	Černá	inclusive
+CS643	n	ps	yes	changeling	conservative
+CS2434	n	om	no	cross-prádelník	inclusive
+CS1650	n	cds	no	loanshark	conservative
+CS1955	n	ps	yes	darkie	conservative
+CS1218	n	dmc	yes	rozmařilec	conservative
+CS735	n	asm	no	ocas	conservative
+CS1435	n	cds	no	lotr	conservative
+CS828	n	ddp	yes	gossiper	conservative
+CS1241	n	qas	no	zemědělce	inclusive
+CS439	n	cds	no	kokot	conservative
+CS1601	n	cds	no	pompéznost	conservative
+CS1283	n	an	no	blecha	inclusive
+CS638	n	cds	no	namby-pamby	conservative
+CS2342	a	is	yes	chudý	inclusive
+CS604	n	cds	no	klik	inclusive
+CS2497	a	dmc	yes	amorální	inclusive
+CS1527	n	cds	no	pool spěchání	conservative
+CS1078	n	om	no	hýždě	inclusive
+CS1640	a	is	yes	nešťastný	inclusive
+CS491	n	an	no	zooerastia	conservative
+CS1761	n	cds	no	policistka	inclusive
+CS75	n	om	no	bestialita	inclusive
+CS669	n	dmc	yes	scammer	conservative
+CS1660	n	qas	no	trhu brankář	inclusive
+CS2140	n	cds	no	stěžovatel	conservative
+CS2072	n	is	yes	žebrák	inclusive
+CS643	n	ddp	yes	changeling	inclusive
+CS1827	n	qas	no	parafie	inclusive
+CS672	n	ddp	yes	ragtag	conservative
+CS577	n	dmc	yes	git	inclusive
+CS929	n	cds	no	člověkem hybridní	inclusive
+CS672	n	qas	no	ragtag	conservative
+CS1942	n	cds	no	narcis	inclusive
+CS2271	a	dmc	yes	false	conservative
+CS297	n	ddp	yes	patsy	conservative
+CS2487	n	an	no	rouncey	inclusive
+CS214	n	cds	no	hampejz	inclusive
+CS1264	n	dmc	yes	fetor	conservative
+CS1158	n	svp	no	ravenousness	conservative
+CS996	n	pr	no	kurtizána	inclusive
+CS2212	a	cds	no	zbabělý	conservative
+CS1028	n	re	no	trestné činnosti	inclusive
+CS2069	v	qas	no	zorat	conservative
+CS2138	n	cds	no	sniveller	conservative
+CS1243	n	qas	no	zemědělec	inclusive
+CS2481	n	ps	yes	cikán	inclusive
+CS1156	n	cds	no	zakrslík	conservative
+CS154	n	or	no	člun ze dřeva	inclusive
+CS1156	n	ddf	yes	zakrslík	conservative
+CS330	n	an	no	floozie	conservative
+CS317	n	pr	no	nevěstka	conservative
+CS821	n	om	no	samcoložník	inclusive
+CS1611	n	cds	no	jokester	inclusive
+CS1018	n	ps	yes	ruiner	conservative
+CS165	n	cds	no	hlupák	conservative
+CS572	n	cds	no	ten a ten	conservative
+CS325	n	an	no	mužský doprovod	conservative
+CS923	n	cds	no	křížení	inclusive
+CS1829	n	an	no	papoušci	inclusive
+CS476	n	qas	no	konformní	conservative
+CS846	n	ddp	yes	mountebank	conservative
+CS437	n	cds	no	čubčí syn	conservative
+CS2438	n	om	no	crossdresser	inclusive
+CS159	n	ddp	yes	muggins	conservative
+CS1087	n	om	no	směry lidského těla	inclusive
+CS1147	n	cds	no	hodně	inclusive
+CS442	n	cds	no	od rána	inclusive
+CS2074	a	qas	no	farní	inclusive
+CS963	n	qas	no	natrhat	conservative
+CS1846	n	pa	yes	uzenářství	inclusive
+CS1137	n	re	no	delikvent	conservative
+CS100	a	svp	no	agresivní	conservative
+CS2398	n	cds	no	trasformismo	inclusive
+CS2007	n	cds	no	omerta	inclusive
+CS498	n	an	no	volů	inclusive
+CS2530	n	an	no	sýc obecný	inclusive
+CS575	n	dmc	yes	lowlife	conservative
+CS249	n	ps	yes	neotesanec	conservative
+CS1651	n	cds	no	půjčování peněz	conservative
+CS483	n	qas	no	botcher	conservative
+CS1524	n	cds	no	hybris	inclusive
+CS2270	n	qas	no	opuštěné lodi	inclusive
+CS2255	n	cds	no	patolízal	conservative
+CS204	n	ddp	yes	zaostalost	inclusive
+CS1767	n	cds	no	důstojník	conservative
+CS181	n	om	no	ass	inclusive
+CS1509	n	dmc	yes	bezdomovec	inclusive
+CS1618	n	om	no	dámy	inclusive
+CS721	n	svp	no	niggardness	conservative
+CS1206	n	is	yes	chudák	inclusive
+CS1454	n	pr	no	john	inclusive
+CS483	n	dmc	yes	botcher	conservative
+CS1277	n	pa	yes	prodavačka ryb	inclusive
+CS1260	n	om	no	fenykl	inclusive
+CS1211	n	dmc	yes	debauchee	conservative
+CS759	n	qas	no	casteism	inclusive
+CS1983	n	cds	no	nymfomanie	conservative
+CS1591	n	an	no	neschopný	conservative
+CS414	n	qas	no	průmyslníků	inclusive
+CS289	n	an	no	marodér	conservative
+CS424	n	an	no	špindíra	conservative
+CS1655	n	cds	no	sassing	inclusive
+CS1115	n	om	no	zadní	inclusive
+CS103	n	cds	no	pronásledovatel	conservative
+CS842	n	an	no	moo-cow	inclusive
+CS2488	n	dmc	yes	tuláky	inclusive
+CS2533	n	ps	yes	zuluové	inclusive
+CS1367	n	cds	no	žalářník	inclusive
+CS2245	n	re	no	lupiči	inclusive
+CS1282	n	an	no	aphaniptera	inclusive
+CS1370	n	cds	no	mluvka	conservative
+CS1771	n	re	no	mafiosi	conservative
+CS157	n	ddp	yes	zabedněnec	conservative
+CS1356	n	asf	no	vagina	conservative
+CS290	n	cds	no	znemožněno	inclusive
+CS1952	n	ps	yes	nigra	conservative
+CS2351	a	ddf	yes	ošklivý	conservative
+CS816	n	om	no	podivný	conservative
+CS2373	n	re	no	sexuální trestné činy	inclusive
+CS482	n	ddp	yes	fušer	conservative
+CS438	n	cds	no	svině	conservative
+CS952	n	or	no	okurky	inclusive
+CS1898	n	an	no	mikroorganizmy	inclusive
+CS896	n	an	no	athene noctua	inclusive
+CS140	n	an	no	metazoans	inclusive
+CS1244	n	qas	no	sodbuster	inclusive
+CS2388	n	re	no	sexuálně útok	inclusive
+CS2493	n	cds	no	prodejný	inclusive
+CS249	n	ddp	yes	neotesanec	conservative
+CS2236	n	re	no	únosci	inclusive
+CS1411	v	asm	no	jebat	conservative
+CS1975	n	an	no	zelenáč	inclusive
+CS2104	n	or	no	solanum maglia	inclusive
+CS139	n	an	no	fauna	inclusive
+CS2281	n	an	no	frogspawn	inclusive
+CS832	n	an	no	fyziognomie	inclusive
+CS1081	n	om	no	dorsoventral	inclusive
+CS689	n	or	no	homosexuál	conservative
+CS1757	n	cds	no	pachatel	inclusive
+CS1294	n	asm	no	odporný	inclusive
+CS38	n	cds	no	amateurishness	conservative
+CS1290	n	dmc	yes	klauniáda	inclusive
+CS1559	n	ddf	yes	handicap	inclusive
+CS106	n	cds	no	zelóti	inclusive
+CS822	n	om	no	gayů	conservative
+CS1544	n	cds	no	modláři	inclusive
+CS394	n	is	yes	psanec	inclusive
+CS563	n	svp	no	arogance	conservative
+CS131	n	an	no	infauna	inclusive
+CS1553	n	is	yes	uličník	conservative
+CS1633	n	dmc	yes	lži dětem	inclusive
+CS1262	n	dmc	yes	smrad	conservative
+CS608	n	cds	no	ingroup	inclusive
+CS668	n	dmc	yes	chiseler	conservative
+CS1365	n	cds	no	vězeňské stráže	inclusive
+CS1440	n	cds	no	zloději	inclusive
+CS2079	n	cds	no	parvenu	inclusive
+CS1793	n	om	no	pederastic	inclusive
+CS1580	n	is	yes	opuštěný	inclusive
+CS2475	n	ps	yes	žlutá karta	inclusive
+CS356	n	ps	yes	beduín	inclusive
+CS162	n	or	no	blbec	conservative
+CS1064	n	svp	no	znechucení	inclusive
+CS1622	n	om	no	lady	inclusive
+CS2118	n	or	no	irský bramborový	inclusive
+CS2485	n	pr	no	kráva	conservative
+CS450	n	pa	yes	pohřebník	inclusive
+CS1881	n	ps	yes	mestici	conservative
+CS792	n	asm	no	zasraný	conservative
+CS1201	n	an	no	eurypterid	inclusive
+CS224	n	svp	no	špinavec	conservative
+CS461	n	qas	no	přehmat	inclusive
+CS2251	n	re	no	násilník	conservative
+CS1105	n	om	no	gluteální oblasti	inclusive
+CS245	n	dmc	yes	hulvát	conservative
+CS516	n	asm	no	hnědá	inclusive
+CS234	n	qas	no	teste	inclusive
+CS73	n	om	no	zneužíval	inclusive
+CS1398	n	svp	no	dobrý-pro-nic	conservative
+CS1137	n	re	no	delikvent	inclusive
+CS403	n	cds	no	blabbermouth	conservative
+CS1156	n	an	no	zakrslík	conservative
+CS299	n	ps	yes	soft touch	conservative
+CS1121	n	qas	no	chovatelské stanice	inclusive
+CS429	n	cds	no	teď	inclusive
+CS1879	n	ps	yes	polovina-plemeno	conservative
+CS1547	n	cds	no	idolatrie	inclusive
+CS1516	n	qas	no	práce v domácnosti	inclusive
+CS161	n	an	no	blázen	conservative
+CS479	n	dmc	yes	fumbler	conservative
+CS2256	n	cds	no	truckler	conservative
+CS2170	a	cds	no	rafinovaný	conservative
+CS160	n	ddp	yes	šašek	conservative
+CS240	n	cds	no	zbojník	inclusive
+CS736	n	asm	no	pták	conservative
+CS851	n	cds	no	odpadky	inclusive
+CS2489	n	dmc	yes	potulku	inclusive
+CS2134	n	cds	no	drby	inclusive
+CS639	n	ps	yes	idiot	conservative
+CS138	n	an	no	Živočišná říše	inclusive
+CS1725	n	cds	no	mamonáře	inclusive
+CS2401	n	re	no	teroristy	inclusive
+CS2495	n	an	no	larva	inclusive
+CS961	n	or	no	cucurbita maxima	inclusive
+CS2036	n	cds	no	homunculi	inclusive
+CS2337	n	cds	no	šprtat	conservative
+CS284	n	qas	no	baronesa	inclusive
+CS1883	n	ps	yes	mestik	conservative
+CS1712	n	cds	no	wc zařízení	inclusive
+CS391	n	cds	no	vyhnanstvím	inclusive
+CS237	a	svp	no	chamtivý	inclusive
+CS607	n	cds	no	kotérie	inclusive
+CS1448	n	re	no	odcizených předmětech	inclusive
+CS1002	n	asf	no	prosťáček	conservative
+CS1619	n	om	no	šlechtična	inclusive
+CS887	n	an	no	nechat kogo	conservative
+CS223	n	svp	no	skrblík	conservative
+CS1609	n	cds	no	pedagožka	inclusive
+CS2235	n	re	no	únosy	inclusive
+CS508	n	pr	no	bos taurus	inclusive
+CS1909	n	an	no	skopec	inclusive
+CS267	n	pa	yes	navrhovatel	inclusive
+CS167	n	an	no	pařez	conservative
+CS70	a	an	no	tvrdohlavý	inclusive
+CS1292	n	asm	no	předkožka	inclusive
+CS2319	n	an	no	šakal	inclusive
+CS640	n	asm	no	kretén	inclusive
+CS2515	n	an	no	limacidae	inclusive
+CS1080	n	om	no	ventrolaterálně	inclusive
+CS1165	n	cds	no	intelektuál	inclusive
+CS1259	n	om	no	finocchio	inclusive
+CS425	n	an	no	prase	inclusive
+CS814	n	om	no	nance	conservative
+CS670	n	cds	no	podvodník	conservative
+CS1851	n	cds	no	superbia	inclusive
+CS709	n	an	no	kozího mléka	inclusive
+CS1809	n	qas	no	parazitismu	inclusive
+CS2442	n	pr	no	čůza	conservative
+CS2288	v	re	no	ukrást	inclusive
+CS1726	n	ps	yes	mongolské	inclusive
+CS541	n	qas	no	měšťanstvo	inclusive
+CS641	n	ddp	yes	imbecile	conservative
+CS1098	n	om	no	tush	inclusive
+CS1549	n	cds	no	falešným idol	inclusive
+CS963	n	cds	no	natrhat	conservative
+CS1538	n	cds	no	zpěvák	inclusive
+CS94	n	qas	no	sekanina	inclusive
+CS2181	n	re	no	pirát	inclusive
+CS1079	n	om	no	posteriorly	inclusive
+CS447	n	re	no	vydíral	conservative
+CS2302	n	an	no	pijavky	inclusive
+CS645	n	asf	no	hrubián	conservative
+CS206	n	asm	no	bordel	inclusive
+CS469	n	qas	no	fušerská práce	inclusive
+CS768	n	pa	yes	osobní židli	inclusive
+CS343	n	cds	no	světák	inclusive
+CS1285	n	an	no	blechy	inclusive
+CS2139	n	cds	no	kverulant	conservative
+CS338	n	cds	no	faleš	conservative
+CS211	n	cds	no	veřejný dům	inclusive
+CS206	n	cds	no	bordel	inclusive
+CS632	n	cds	no	casino	inclusive
+CS2326	n	cds	no	scientismus	inclusive
+CS248	n	ps	yes	barbar	conservative
+CS881	n	svp	no	tanhá	inclusive
+CS822	n	or	no	gayů	conservative
+CS2492	n	cds	no	prodejnost	conservative
+CS2496	n	cds	no	ničemný	conservative
+CS1853	n	cds	no	vyděrač	inclusive
+CS117	n	an	no	anguillidae	inclusive
+CS642	n	cds	no	odročit	inclusive
+CS2439	n	om	no	transvestitismus	inclusive
+CS1572	n	ddp	yes	nesmyslné	conservative
+CS2192	n	an	no	poulet	inclusive
+CS439	n	ddp	yes	kokot	conservative
+CS910	n	an	no	krokodýl	inclusive
+CS2279	n	an	no	žába	inclusive
+CS1094	n	om	no	vená	inclusive
+CS571	n	cds	no	objem	inclusive
+CS1182	n	qas	no	amatér	inclusive
+CS141	n	ddp	yes	epifaunal	inclusive
+CS326	n	pr	no	chlapcem nájmu	conservative
+CS1959	n	ps	yes	afrického původu	inclusive
+CS859	n	cds	no	domovního odpadu	inclusive
+CS1569	n	ddp	yes	nonsens	conservative
+CS31	n	pa	yes	akademický	inclusive
+CS394	n	cds	no	psanec	conservative
+CS1219	n	dmc	yes	scattergood	inclusive
+CS1583	n	is	yes	chudina	inclusive
+CS1015	n	ddp	yes	spratek	conservative
+CS30	n	pa	yes	akademická obec	inclusive
+CS1402	n	cds	no	reakcionář	conservative
+CS2010	n	an	no	klíšťatovci	inclusive
+CS252	n	an	no	brutalita	inclusive
+CS1768	n	cds	no	policejní strážník	conservative
+CS251	n	svp	no	hrabivost	inclusive
+CS900	n	ddp	yes	kreténismus	inclusive
+CS2274	n	an	no	ropucha	inclusive
+CS1188	n	dmc	yes	morální hodnoty	inclusive
+CS2122	n	or	no	zemáky	inclusive
+CS1835	n	asm	no	hrachu	inclusive
+CS908	n	ddp	yes	twerp	conservative
+CS89	n	cds	no	maličkosti	inclusive
+CS672	n	an	no	ragtag	conservative
+CS119	n	an	no	úhoř	inclusive
+CS2035	n	dmc	yes	homunkulové	inclusive
+CS1838	n	asm	no	hrách	inclusive
+CS1057	n	cds	no	grunge	inclusive
+CS983	n	dmc	yes	mystifikátor	conservative
+CS291	n	cds	no	blackballing	inclusive
+CS2096	n	or	no	spuda	inclusive
+CS335	n	pr	no	ulice dívka	conservative
+CS137	n	ddp	yes	animovat je	inclusive
+CS1777	n	re	no	mafie	conservative
+CS1281	n	qas	no	konvice ryb	inclusive
+CS3	n	cds	no	lenoch	conservative
+CS477	n	cds	no	konformista	conservative
+CS1566	n	ddf	yes	osoba postižená tělesně	inclusive
+CS292	n	cds	no	blackball	inclusive
+CS1251	n	is	yes	marginální skupina	inclusive
+CS1208	a	dmc	yes	bezohledný	conservative
+CS1496	n	ps	yes	Židovský	inclusive
+CS3	n	an	no	lenoch	conservative
+CS1743	n	an	no	slowpoke	conservative
+CS128	n	ddp	yes	zvířena	inclusive
+CS1737	n	an	no	můr	inclusive
+CS644	n	cds	no	changelings	inclusive
+CS454	n	pa	yes	undertaker	inclusive
+CS459	n	dmc	yes	roue	conservative
+CS827	n	cds	no	rumormonger	conservative
+CS954	n	or	no	sativus	inclusive
+CS160	n	asm	no	šašek	conservative
+CS720	n	svp	no	tightfistedness	conservative
+CS242	n	cds	no	banditismus	inclusive
+CS486	n	an	no	zlodějů těl	inclusive
+CS1423	n	an	no	nunva	inclusive
+CS373	n	dmc	yes	bigotnost	conservative
+CS2532	n	ps	yes	zulus	inclusive
+CS665	n	cds	no	camorra	inclusive
+CS1460	n	pr	no	prostituce	inclusive
+CS247	n	dmc	yes	barbarství	conservative
+CS372	n	cds	no	bigot	conservative
+CS1260	n	or	no	fenykl	inclusive
+CS1184	n	dmc	yes	mrav	inclusive
+CS819	n	om	no	gay	inclusive
+CS2242	n	re	no	loupeže	inclusive
+CS2185	n	an	no	gallus gallus f. domestica	inclusive
+CS1987	n	cds	no	satyrismus	conservative
+CS1945	n	cds	no	narcista	inclusive
+CS1293	n	asm	no	předkožky	inclusive
+CS1895	n	an	no	mikrobů	inclusive
+CS1732	n	an	no	komárovití	inclusive
+CS1849	n	svp	no	hrdost	inclusive
+CS1739	n	an	no	zkřížený tvář	inclusive
+CS163	n	ddp	yes	pošetilec	conservative
+CS995	n	pr	no	družka	inclusive
+CS529	n	qas	no	selka	inclusive
+CS2470	n	an	no	hoax	conservative
+CS407	n	cds	no	zlomyslný	conservative
+CS1581	n	is	yes	zbídačení	inclusive
+CS420	n	qas	no	obchodní vedoucí	inclusive
+CS643	n	ddp	yes	changeling	conservative
+CS2482	n	om	no	drag queens	inclusive
+CS1055	n	ps	yes	kraut	conservative
+CS229	n	asm	no	vajíčko	inclusive
+CS1923	n	an	no	slimák	inclusive
+CS1171	n	re	no	zločinců	inclusive
+CS166	n	asf	no	blb	conservative
+CS2189	n	an	no	kuře	inclusive
+CS1911	n	asm	no	stupidita	conservative
+CS172	n	asf	no	lunkhead	conservative
+CS587	n	cds	no	villainess	conservative
+CS297	n	asf	no	patsy	conservative
+CS976	n	om	no	dame	inclusive
+CS1753	n	cds	no	mimoň	conservative
+CS1718	n	an	no	měkkýšů	inclusive
+CS2162	n	cds	no	náboženské diskriminace	inclusive
+CS391	n	dmc	yes	vyhnanstvím	inclusive
+CS2289	a	qas	no	feudální	inclusive
+CS397	n	re	no	zakázán	inclusive
+CS2062	n	an	no	Červi	inclusive
+CS558	n	ps	yes	bulhaři	inclusive
+CS1016	n	ddp	yes	dimwit	conservative
+CS1131	n	pa	yes	dveří stráž	inclusive
+CS297	n	an	no	patsy	conservative
+CS837	n	ddp	yes	špicl	conservative
+CS1195	n	dmc	yes	morálka	inclusive
+CS1524	n	cds	no	hybris	conservative
+CS947	n	or	no	píča	conservative
+CS2267	n	qas	no	vznešenost	inclusive
+CS438	n	ddp	yes	svině	conservative
+CS1593	n	ddp	yes	nevědomost	conservative
+CS167	n	ddp	yes	pařez	conservative
+CS1245	n	qas	no	granger	inclusive
+CS1460	n	pr	no	prostituce	conservative
+CS2029	n	cds	no	stahování dat	conservative
+CS902	n	ddp	yes	kretenismus	inclusive
+CS371	n	dmc	yes	bigoterie	conservative
+CS2513	n	dmc	yes	přeběhlík	conservative
+CS1352	n	asm	no	bob	inclusive
+CS847	n	qas	no	šarlatán	conservative
+CS1431	n	an	no	Čuník	inclusive
+CS49	n	ddp	yes	imbecil	inclusive
+CS94	n	cds	no	sekanina	inclusive
+CS820	n	or	no	buzerant	conservative
+CS2282	n	an	no	Žáby	inclusive
+CS1545	n	cds	no	uctívání	inclusive
+CS1542	n	asf	no	ženská	conservative
+CS716	n	an	no	capra hircus	inclusive
+CS1662	n	qas	no	kramář	inclusive
+CS536	n	an	no	buvol	inclusive
+CS244	n	rci	yes	barbaři	conservative
+CS576	n	an	no	ničema	conservative
+CS398	n	an	no	kozel	inclusive
+CS1203	n	cds	no	hříšnice	conservative
+CS761	n	qas	no	kasty	inclusive
+CS648	n	re	no	pomluvy	inclusive
+CS174	n	an	no	nic nevím	conservative
+CS1053	n	ps	yes	krauthead	conservative
+CS493	n	an	no	zuřivost	inclusive
+CS2300	n	an	no	hirudinean	inclusive
+CS248	n	rci	yes	barbar	conservative
+CS1956	n	ps	yes	černošské komunity	inclusive
+CS468	n	qas	no	boo-boo	inclusive
+CS388	n	dmc	yes	tulák	inclusive
+CS201	n	svp	no	lakomec	inclusive
+CS1073	n	dmc	yes	pokrytectví	conservative
+CS90	n	cds	no	mišmaš	inclusive
+CS303	n	or	no	stupe	conservative
+CS385	n	cds	no	gangsterství	conservative
+CS1884	n	pr	no	potkanem	inclusive
+CS1333	n	cds	no	fašistického režimu	conservative
+CS1361	n	pr	no	pistole moll	inclusive
+CS1382	n	cds	no	divák	conservative
+CS934	n	cds	no	závod chovatel	inclusive
+CS1797	n	cds	no	paparazzi	inclusive
+CS640	n	ddp	yes	kretén	inclusive
+CS1774	n	cds	no	mafián	conservative
+CS897	n	an	no	sýček	inclusive
+CS156	n	asf	no	hloupost	conservative
+CS1992	n	asf	no	odborný výraz	inclusive
+CS605	n	cds	no	klika	inclusive
+CS1627	n	svp	no	chtíč	inclusive
+CS104	n	cds	no	fanatici	inclusive
+CS639	n	asf	no	idiot	conservative
+CS1180	n	an	no	šnečí	inclusive
+CS1921	n	an	no	nahý plž	inclusive
+CS1778	n	ps	yes	ostrogót	inclusive
+CS973	n	om	no	ušlechtilá žena	inclusive
+CS463	n	cds	no	faul-up	inclusive
+CS175	n	ddp	yes	ignorant	conservative
+CS1705	n	qas	no	směs	inclusive
+CS1644	n	cds	no	úvěr sharking	conservative
+CS584	n	dmc	yes	pecivál	conservative
+CS1866	n	qas	no	klasické rétorice	inclusive
+CS160	n	dmc	yes	šašek	inclusive
+CS393	n	cds	no	zločince	conservative
+CS309	n	ddp	yes	napálený	conservative
+CS1350	n	asm	no	boby	inclusive
+CS551	n	qas	no	střední třída	inclusive
+CS1993	n	qas	no	chalupák	inclusive
+CS2484	n	om	no	drag queen	inclusive
+CS2460	n	cds	no	vejčitý profil	inclusive
+CS2527	n	ps	yes	cikáni	inclusive
+CS1152	n	cds	no	peonů	inclusive
+CS2358	n	pr	no	lampyris noctiluca	inclusive
+CS1497	n	ps	yes	hebrejci	inclusive
+CS1385	n	asf	no	pussy	conservative
+CS1008	n	an	no	pillager	inclusive
+CS834	n	qas	no	krajan	inclusive
+CS2324	a	qas	no	středověké	inclusive
+CS1193	n	dmc	yes	morální kodex	inclusive
+CS691	n	cds	no	klanu	inclusive
+CS387	n	cds	no	rogue	conservative
+CS644	n	ps	yes	changelings	conservative
+CS852	n	qas	no	šrot	inclusive
+CS922	n	ddf	yes	crookback	inclusive
+CS1536	n	cds	no	croon	inclusive
+CS1394	n	an	no	koza-antilopa	inclusive
+CS819	n	om	no	gay	conservative
+CS690	n	ps	yes	Číňan	inclusive
+CS758	n	cds	no	samolibost	inclusive
+CS852	n	cds	no	šrot	conservative
+CS932	n	cds	no	šlechtitelů rostlin	inclusive
+CS2038	n	cds	no	homunkulus	inclusive
+CS1916	n	pa	yes	pastýři	inclusive
+CS1696	n	ps	yes	metic	inclusive
+CS2052	n	an	no	zmije	inclusive
+CS382	n	cds	no	gang	inclusive
+CS861	n	an	no	cimicidae	inclusive
+CS2522	n	ps	yes	romové	inclusive
+CS2357	n	ddp	yes	hooey	inclusive
+CS1782	n	an	no	megascops	inclusive
+CS927	n	ps	yes	rostlinná biotechnologie	inclusive
+CS578	n	dmc	yes	hobos	conservative
+CS2197	n	cds	no	děťátko	inclusive
+CS227	n	qas	no	varlata	inclusive
+CS165	n	an	no	hlupák	conservative
+CS695	n	cds	no	příbuzenství	inclusive
+CS129	n	an	no	rozmnožování zvířat	inclusive
+CS2485	n	an	no	kráva	conservative
+CS1740	n	an	no	moue	inclusive
+CS1023	n	re	no	trestného činu	inclusive
+CS1817	n	qas	no	parasitismus	inclusive
+CS1896	n	an	no	mikroorganismus	inclusive
+CS940	n	cds	no	chlapče	inclusive
+CS2409	n	asm	no	ithyphallic	inclusive
+CS1036	n	an	no	diddlysquat	conservative
+CS2363	n	pr	no	lampyris minor	inclusive
+CS304	n	cds	no	pudink hlava	conservative
+CS375	n	svp	no	fanatik	conservative
+CS970	n	cds	no	šprýmař	conservative
+CS1887	n	an	no	Žraloci	inclusive
+CS577	n	an	no	git	conservative
+CS1713	n	cds	no	záchod	inclusive
+CS674	n	qas	no	lůza	conservative
+CS425	n	dmc	yes	prase	conservative
+CS644	n	ddp	yes	changelings	inclusive
+CS1702	n	dmc	yes	plížit zloděje	conservative
+CS2339	n	cds	no	wonk	conservative
+CS467	n	qas	no	boner	inclusive
+CS830	n	ddp	yes	rumourmonger	conservative
+CS1702	n	cds	no	plížit zloděje	conservative
+CS1425	n	an	no	bachyně	inclusive
+CS574	n	dmc	yes	spodina taška	inclusive
+CS391	n	cds	no	vyhnanstvím	conservative
+CS612	n	ddp	yes	vězeň	inclusive
+CS1455	n	pr	no	sexuální služby	conservative
+CS1399	n	dmc	yes	budižkničemu	conservative
+CS1548	n	cds	no	modloslužebnictví	inclusive
+CS2070	n	qas	no	vyžírka	conservative
+CS642	n	asm	no	odročit	inclusive
+CS1842	n	an	no	shote	inclusive
+CS740	n	asm	no	kohoutek	inclusive
+CS1673	n	asm	no	cirk	inclusive
+CS1602	n	cds	no	instruktor	inclusive
+CS171	n	asf	no	šmejd	conservative
+CS232	n	qas	no	testikulární	inclusive
+CS1170	n	re	no	zločinci	inclusive
+CS2088	n	qas	no	neplechu-maker	conservative
+CS2196	n	cds	no	nemluvně	inclusive
+CS2425	n	pa	yes	bílé límečky	inclusive
+CS1730	n	an	no	mosquitoe	inclusive
+CS338	n	cds	no	faleš	inclusive
+CS1859	n	cds	no	relikvie	inclusive
+CS749	n	cds	no	koule-up	inclusive
+CS1676	n	asm	no	úd	inclusive
+CS2316	n	an	no	Šakal	inclusive
+CS200	n	svp	no	lakota	inclusive
+CS1398	n	dmc	yes	dobrý-pro-nic	conservative
+CS1039	n	cds	no	desetník románu	inclusive
+CS2366	n	pr	no	lampyris thoracica	inclusive
+CS1392	n	an	no	kozí antilopy	inclusive
+CS1259	n	or	no	finocchio	inclusive
+CS512	n	cds	no	šéf	inclusive
+CS1477	n	ps	yes	jahvismus	inclusive
+CS1999	n	an	no	branta bernicla	inclusive
+CS160	n	cds	no	šašek	conservative
+CS696	n	cds	no	clann	inclusive
+CS2526	n	ps	yes	cigáni	inclusive
+CS1523	n	qas	no	koliba	inclusive
+CS1704	n	qas	no	směsi	inclusive
+CS478	n	qas	no	bumbler	conservative
+CS641	n	ddp	yes	imbecile	inclusive
+CS1671	n	asm	no	falus	inclusive
+CS445	n	cds	no	nelegitimní	inclusive
+CS2021	n	re	no	vražedkyně	inclusive
+CS2039	n	ddf	yes	nevidomý	inclusive
+CS1058	n	cds	no	špína	inclusive
+CS2465	n	cds	no	ndrina	inclusive
+CS401	n	ddp	yes	taleteller	conservative
+CS820	n	om	no	buzerant	conservative
+CS1679	n	svp	no	závist	inclusive
+CS221	n	is	yes	tightwad	conservative
+CS2473	n	ps	yes	žlutou kartu	inclusive
+CS464	n	cds	no	kiks	inclusive
+CS1599	n	cds	no	pompousness	inclusive
+CS1189	n	dmc	yes	morálky	inclusive
+CS228	n	asm	no	testes	inclusive
+CS1715	n	cds	no	záchodová mísa	inclusive
+CS223	n	is	yes	skrblík	conservative
+CS109	n	ddp	yes	negramotní osoba	inclusive
+CS2519	n	ps	yes	rroma	inclusive
+CS1021	n	re	no	zločin	inclusive
+CS1540	n	qas	no	ideolog	inclusive
+CS2112	n	or	no	brambor	inclusive
+CS161	n	ps	yes	blázen	conservative
+CS652	n	re	no	urážlivý	inclusive
+CS303	n	cds	no	stupe	conservative
+CS645	n	ddp	yes	hrubián	inclusive
+CS198	n	svp	no	avariciousness	inclusive
+CS1670	n	asm	no	Šulin	inclusive
+CS76	n	om	no	sodomie	inclusive
+CS2395	n	cds	no	conventicle	inclusive
+CS337	n	qas	no	nepravda	conservative
+CS2222	n	pr	no	nabubřelá mluva	conservative
+CS1324	n	svp	no	být sklíčený	conservative
+CS1426	n	an	no	sus scrofa f. domestica	inclusive
+CS1766	n	cds	no	policisté	conservative
+CS1026	n	re	no	právo-lámání	inclusive
+CS1780	n	ps	yes	ostrogóti	inclusive
+CS1176	n	asm	no	ztopoření	inclusive
+CS641	n	asm	no	imbecile	inclusive
+CS522	n	pr	no	rat norsko	inclusive
+CS2072	n	qas	no	žebrák	conservative
+CS574	n	dmc	yes	spodina taška	conservative
+CS2018	n	re	no	zavraždění	inclusive
+CS2358	n	an	no	lampyris noctiluca	inclusive
+CS1225	n	cds	no	rodu	inclusive
+CS1658	n	cds	no	sass	inclusive
+CS133	n	ddp	yes	stvoření	inclusive
+CS2164	a	svp	no	rozhněvaný	inclusive
+CS893	n	an	no	strigiformes	inclusive
+CS1330	n	cds	no	fašisty	conservative
+CS1832	n	svp	no	penny-uskřípnutí	inclusive
+CS554	n	cds	no	nestoudnost	conservative
+CS382	n	cds	no	gang	conservative
+CS858	n	cds	no	komunálního odpadu	inclusive
+CS2003	n	an	no	brant	inclusive
+CS2405	n	re	no	teroristé	inclusive
+CS95	n	qas	no	drobnosti	inclusive
+CS1980	n	ps	yes	latino	inclusive
+CS1236	n	pr	no	stále žena	conservative
+CS2073	n	qas	no	moocher	conservative
+CS914	n	an	no	krokodýlů	inclusive
+CS2120	n	or	no	solanum subandigena	inclusive
+CS149	n	re	no	znásilňování	conservative
+CS2136	n	is	yes	rozedranec	conservative
+CS1268	n	dmc	yes	zápachu	conservative
+CS971	n	om	no	madam	inclusive
+CS2355	a	re	no	násilné	inclusive
+CS2167	n	cds	no	onanování	conservative
+CS1327	n	svp	no	dilly-dallier	conservative
+CS2448	n	pr	no	hetéra	inclusive
+CS1480	n	ps	yes	Židovské vyznání	inclusive
+CS1967	n	ps	yes	black osoba	inclusive
+CS1844	n	an	no	shoat	inclusive
+CS783	n	cds	no	dav	inclusive
+CS642	n	ps	yes	odročit	conservative
+CS2421	n	cds	no	loupeživý rytíř	inclusive
+CS638	n	om	no	namby-pamby	conservative
+CS1560	n	ddf	yes	invalidita	inclusive
+CS552	n	cds	no	otekla hlava	conservative
+CS1601	n	cds	no	pompéznost	inclusive
+CS668	n	cds	no	chiseler	inclusive
+CS438	n	an	no	svině	inclusive
+CS2215	a	ddf	yes	chromý	inclusive
+CS1473	n	om	no	stejného pohlaví	inclusive
+CS1590	n	ddp	yes	nekompetentní osoba	conservative
+CS480	n	dmc	yes	blunderer	conservative
+CS718	n	svp	no	minginess	conservative
+CS159	n	asf	no	muggins	conservative
+CS2296	n	cds	no	pedantství	inclusive
+CS1727	n	ps	yes	mongolové	inclusive
+CS412	n	qas	no	magnát	inclusive
+CS1803	n	dmc	yes	rube	conservative
+CS2315	n	an	no	aureus	inclusive
+CS1860	n	qas	no	Řečník	inclusive
+CS1716	n	cds	no	latrín	inclusive
+CS1149	n	cds	no	slews	inclusive
+CS1281	n	cds	no	konvice ryb	inclusive
+CS101	n	an	no	ornament	conservative
+CS1266	n	dmc	yes	foetor	conservative
+CS1290	n	cds	no	klauniáda	inclusive
+CS1841	n	asm	no	hráškem	inclusive
+CS639	n	ddp	yes	idiot	inclusive
+CS1890	n	an	no	žralok	inclusive
+CS567	n	svp	no	conceitedness	conservative
+CS46	n	ddp	yes	idiotství	inclusive
+CS1941	n	dmc	yes	half-pint	conservative
+CS1214	n	dmc	yes	volnomyšlenkářství	conservative
+CS54	n	ddp	yes	debilita	inclusive
+CS928	n	ps	yes	biotechnologie rostlin	inclusive
+CS1495	n	ps	yes	žid	inclusive
+CS2283	n	an	no	bufo	inclusive
+CS2190	n	an	no	kuřat	inclusive
+CS1440	n	re	no	zloději	inclusive
+CS92	n	cds	no	omnium-gatherum	inclusive
+CS395	n	cds	no	kriminální	inclusive
+CS2414	n	re	no	mučí	inclusive
+CS400	n	ddp	yes	donáška	conservative
+CS161	n	asf	no	blázen	conservative
+CS1791	n	om	no	paederasty	inclusive
+CS246	n	ps	yes	barbarové	conservative
+CS159	n	asm	no	muggins	conservative
+CS130	n	ddp	yes	živočich	inclusive
+CS2386	n	re	no	zprznění	inclusive
+CS813	n	or	no	poove	conservative
+CS664	n	re	no	vilifier	conservative
+CS1071	n	dmc	yes	lícoměrnost	conservative
+CS785	n	svp	no	sexuální touhy	inclusive
+CS136	n	ddp	yes	život zvířat	inclusive
+CS999	n	pr	no	kurtizán	inclusive
+CS1941	n	ddf	yes	half-pint	conservative
+CS1075	n	dmc	yes	falešný	conservative
+CS641	n	cds	no	imbecile	inclusive
+CS482	n	cds	no	fušer	conservative
+CS360	n	cds	no	beguine	inclusive
+CS172	n	ddp	yes	lunkhead	conservative
+CS425	n	an	no	prase	conservative
+CS245	n	pa	yes	hulvát	conservative
+CS824	n	om	no	homosexuální	inclusive
+CS29	n	cds	no	makléři	inclusive
+CS943	n	asf	no	pizda	conservative
+CS394	n	re	no	psanec	inclusive
+CS966	n	qas	no	usmrtit	conservative
+CS2370	n	re	no	raper	conservative
+CS934	n	ps	yes	závod chovatel	inclusive
+CS1783	n	an	no	otus asio	inclusive
+CS1500	n	cds	no	stáda zvířat	inclusive
+CS1633	n	qas	no	lži dětem	conservative
+CS747	n	qas	no	obyčejnou osobu	inclusive
+CS322	n	pr	no	nedbalý žena	conservative
+CS1458	n	pr	no	prostitutky	inclusive
+CS599	a	ddf	yes	odporný	conservative
+CS826	n	om	no	twink	conservative
+CS151	n	cds	no	chytrost	inclusive
+CS942	n	cds	no	chlapec	inclusive
+CS884	n	an	no	koketa	conservative
+CS111	n	ddp	yes	analphabetic	inclusive
+CS158	n	an	no	blboun	conservative
+CS130	n	an	no	živočich	inclusive
+CS849	n	ddp	yes	šarlatánství	conservative
+CS248	n	ddp	yes	barbar	conservative
+CS424	n	cds	no	špindíra	conservative
+CS1889	n	an	no	selachiformes	inclusive
+CS880	n	svp	no	touha	inclusive
+CS1943	n	cds	no	narcism	inclusive
+CS2173	n	re	no	plagiarization	inclusive
+CS1263	n	dmc	yes	smrdět	conservative
+CS1206	n	cds	no	chudák	conservative
+CS1533	n	an	no	hyaenidae	inclusive
+CS1124	n	svp	no	labužník	inclusive
+CS2160	n	cds	no	religiozity	inclusive
+CS932	n	ps	yes	šlechtitelů rostlin	inclusive
+CS296	n	asf	no	vůl	conservative
+CS1166	n	cds	no	delikt	inclusive
+CS123	n	an	no	holobřiší	inclusive
+CS1457	n	pr	no	komerčních sexuálních	inclusive
+CS395	n	dmc	yes	kriminální	inclusive
+CS1314	n	cds	no	fundamentalismus	inclusive
+CS651	n	re	no	obchodní libel	inclusive
+CS397	n	cds	no	zakázán	inclusive
+CS162	n	ddp	yes	blbec	inclusive
+CS170	n	an	no	tupec	conservative
+CS836	n	ddp	yes	žvanil	inclusive
+CS1322	n	svp	no	běsnění	conservative
+CS640	n	ddp	yes	kretén	conservative
+CS1717	n	cds	no	latrína	inclusive
+CS1774	n	cds	no	mafián	inclusive
+CS1711	n	cds	no	veřejné pohodlí	inclusive
+CS2075	n	cds	no	zbohatlík	inclusive
+CS253	n	qas	no	obchodník	inclusive
+CS2066	v	qas	no	zbodat	conservative
+CS815	n	om	no	teplouš	inclusive
+CS847	n	cds	no	šarlatán	conservative
+CS295	n	cds	no	modrá punčocha	inclusive
+CS437	n	ddp	yes	čubčí syn	conservative
+CS2129	n	cds	no	puntičkář	conservative
+CS585	n	dmc	yes	darebný	conservative
+CS2330	a	ddp	yes	pošetilé	conservative
+CS35	n	pa	yes	akademické	inclusive
+CS1588	n	is	yes	nízkými příjmy	inclusive
+CS380	n	cds	no	gangster	inclusive
+CS1083	n	om	no	proximální	inclusive
+CS844	n	cds	no	zbabělec	conservative
+CS381	n	cds	no	pouličních gangů	conservative
+CS2485	n	an	no	kráva	inclusive
+CS1755	n	svp	no	luxuria	inclusive
+CS968	n	cds	no	vtipálek	conservative
+CS1624	n	dmc	yes	nepravý	conservative
+CS285	n	qas	no	baroqueness	inclusive
+CS1966	n	ps	yes	negroids	inclusive
+CS906	n	cds	no	onanista	conservative
+CS620	n	an	no	man-eating shark	inclusive
+CS1192	n	dmc	yes	slušnost	inclusive
+CS1465	n	om	no	mužské sexuality	inclusive
+CS461	n	cds	no	přehmat	inclusive
+CS336	n	cds	no	lež	conservative
+CS682	n	an	no	pes	inclusive
+CS1135	n	pa	yes	dveřník	inclusive
+CS845	n	cds	no	zbabělost	conservative
+CS656	n	cds	no	nestydatost	conservative
+CS1133	n	pa	yes	sál porter	inclusive
+CS2147	n	an	no	cootie	inclusive
+CS463	n	qas	no	faul-up	inclusive
+CS1368	n	cds	no	dozorce	inclusive
+CS257	n	pa	yes	ministr-poradce	inclusive
+CS2251	n	re	no	násilník	inclusive
+CS2091	n	or	no	battata tuberosa	inclusive
+CS1174	n	re	no	trestný pouze přestupek	inclusive
+CS506	n	pr	no	skot	inclusive
+CS1222	n	svp	no	faineance	inclusive
+CS2261	a	dmc	yes	špinavé	inclusive
+CS483	n	cds	no	botcher	conservative
+CS1528	n	cds	no	wheeler prodejce	conservative
+CS645	n	asm	no	hrubián	inclusive
+CS596	n	an	no	kajman	inclusive
+CS906	n	asm	no	onanista	conservative
+CS1157	n	an	no	nanus	conservative
+CS825	n	om	no	⚣	inclusive
+CS591	n	cds	no	kraksna	inclusive
+CS717	n	an	no	kozou	inclusive
+CS2156	n	an	no	phthiraptera	inclusive
+CS557	n	ps	yes	bulharština	inclusive
+CS280	n	qas	no	baronů	inclusive
+CS563	n	cds	no	arogance	inclusive
+CS259	n	pa	yes	obhájce	inclusive
+CS2075	n	an	no	zbohatlík	conservative
+CS1989	n	cds	no	nymfomanka	conservative
+CS380	n	re	no	gangster	inclusive
+CS1143	n	cds	no	spousta	inclusive
+CS72	n	om	no	anální sex	inclusive
+CS905	n	cds	no	blbec-off	conservative
+CS1307	n	cds	no	zednářství	inclusive
+CS402	n	cds	no	zrádný	conservative
+CS165	n	ddp	yes	hlupák	conservative
+CS1146	n	cds	no	huby	inclusive
+CS1101	n	om	no	anatomické podmínky umístění	inclusive
+CS1325	n	svp	no	dallier	conservative
+CS1403	n	cds	no	extrémní pravičák	conservative
+CS208	n	cds	no	bagnio	inclusive
+CS931	n	ps	yes	přírodní hybrid	inclusive
+CS1156	n	dmc	yes	zakrslík	conservative
+CS1461	n	is	yes	mají-ne	inclusive
+CS367	n	pa	yes	poslíčka	inclusive
+CS1688	n	cds	no	rozcuchat	conservative
+CS387	n	dmc	yes	rogue	conservative
+CS2229	n	or	no	brukev řepák	inclusive
+CS1682	n	svp	no	zlost	inclusive
+CS757	n	cds	no	sebeuspokojení	inclusive
+CS2207	a	cds	no	úřednický	inclusive
+CS140	n	ddp	yes	metazoans	inclusive
+CS1647	n	cds	no	lichvář	conservative
+CS885	n	an	no	prickteaser	conservative
+CS249	n	cds	no	neotesanec	conservative
+CS105	n	cds	no	fanatismus	inclusive
+CS1388	n	cds	no	prostředník	inclusive
+CS1550	n	cds	no	modloslužba	inclusive
+CS2244	n	re	no	loupež	inclusive
+CS160	n	asf	no	šašek	conservative
+CS582	n	svp	no	nicnedělání	conservative
+CS926	n	ps	yes	interfertilita	inclusive
+CS1734	n	an	no	culicidae	inclusive
+CS562	n	cds	no	povýšenost	conservative
+CS646	n	an	no	fena	inclusive
+CS867	n	an	no	štěnic	inclusive
+CS998	n	pr	no	milenka	inclusive
+CS1286	n	cds	no	stádo	inclusive
+CS1738	n	pr	no	můra	inclusive
+CS2059	n	an	no	helmint	inclusive
+CS2186	n	an	no	kur domácí	inclusive
+CS2412	n	re	no	utrpení	inclusive
+CS80	n	om	no	anální styk	inclusive
+CS828	n	cds	no	gossiper	conservative
+CS480	n	ddp	yes	blunderer	conservative
+CS400	n	cds	no	donáška	conservative
+CS215	n	cds	no	dům se špatnou pověstí	inclusive
+CS1457	n	pr	no	komerčních sexuálních	conservative
+CS131	n	ddp	yes	infauna	inclusive
+CS864	n	an	no	odposlouchávání	inclusive
+CS560	n	svp	no	chlubivost	conservative
+CS102	n	an	no	cancy	conservative
+CS1229	n	qas	no	šířit tuto	inclusive
+CS243	n	ps	yes	divoch	conservative
+CS1623	n	cds	no	outlawry	inclusive
+CS575	n	cds	no	lowlife	conservative
+CS1404	n	cds	no	ultrakonzervativní	conservative
+CS2025	n	re	no	mord	inclusive
+CS1499	n	ps	yes	Židovstvo	inclusive
+CS1646	n	cds	no	loansharking	inclusive
+CS144	n	re	no	pomluva	inclusive
+CS945	n	or	no	pinda	conservative
+CS135	n	ddp	yes	Živočišstvo	inclusive
+CS923	n	ps	yes	křížení	inclusive
+CS655	n	cds	no	drzost	conservative
+CS1452	n	pr	no	sexuálních služeb	conservative
+CS1501	n	cds	no	lid	conservative
+CS399	n	ddp	yes	donašeč	conservative
+CS1781	n	ps	yes	ostrogoth	inclusive
+CS453	n	pa	yes	zřízenec	inclusive
+CS247	n	an	no	barbarství	inclusive
+CS1126	n	svp	no	gourmandizer	inclusive
+CS236	n	asm	no	vejce	inclusive
+CS654	n	re	no	sekyrka práce	inclusive
+CS565	n	cds	no	marnosti	conservative
+CS2462	n	cds	no	stoková síť	inclusive
+CS1397	n	dmc	yes	no-účet	conservative
+CS1706	n	cds	no	veřejné wc	inclusive
+CS332	n	pr	no	kurva	conservative
+CS640	n	ps	yes	kretén	conservative
+CS1707	n	cds	no	toaleta	inclusive
+CS2264	a	svp	no	žravý	inclusive
+CS246	n	cds	no	barbarové	conservative
+CS801	n	an	no	králíčky	inclusive
+CS1271	n	cds	no	wangler	conservative
+CS180	n	an	no	osel	inclusive
+CS2320	n	an	no	šakali	inclusive
+CS318	n	pr	no	prostitutka	inclusive
+CS775	n	pa	yes	profesorka	inclusive
+CS1940	n	or	no	squash	inclusive
+CS748	n	qas	no	prostí	inclusive
+CS728	n	an	no	raunch	conservative
+CS393	n	cds	no	zločince	inclusive
+CS373	n	svp	no	bigotnost	conservative
+CS1331	n	cds	no	fašismu	conservative
+CS2128	n	cds	no	know-it-all	conservative
+CS1032	n	an	no	diddly-shit	conservative
+CS1137	n	cds	no	delikvent	inclusive
+CS1418	n	an	no	fulvus	inclusive
+CS1576	n	is	yes	bída	inclusive
+CS248	n	qas	no	barbar	conservative
+CS2081	v	cds	no	žrát	inclusive
+CS1253	n	cds	no	fascista	inclusive
+CS380	n	dmc	yes	gangster	inclusive
+CS613	n	ddp	yes	zajatec	inclusive
+CS369	n	pa	yes	sluha	inclusive
+CS370	a	ddp	yes	hloupý	conservative
+CS1194	n	dmc	yes	mravnost	inclusive
+CS570	n	svp	no	nafoukanost	conservative
+CS2410	n	asm	no	falický	inclusive
+CS1689	n	cds	no	mussiness	conservative
+CS1359	a	dmc	yes	smradlavý	conservative
+CS528	n	qas	no	sedlák	inclusive
+CS1289	n	cds	no	klaun	inclusive
+CS2237	n	re	no	unese	inclusive
+CS1240	n	qas	no	farmhand	inclusive
+CS1329	n	re	no	gangsterů	inclusive
+CS874	n	an	no	hemipteron	inclusive
+CS519	n	pr	no	norsko krysa	inclusive
+CS2501	n	re	no	divokost	inclusive
+CS440	n	cds	no	zmrde	conservative
+CS167	n	asf	no	pařez	conservative
+CS1606	n	cds	no	učitelka	conservative
+CS1508	n	cds	no	archpriest	inclusive
+CS805	n	cds	no	spiknutí ticha	inclusive
+CS2365	n	pr	no	lampyris parvicollis	inclusive
+CS317	n	an	no	nevěstka	conservative
+CS2135	n	cds	no	klepy	inclusive
+CS839	n	dmc	yes	zrádce	conservative
+CS2154	n	an	no	vši	inclusive
+CS1786	n	an	no	volovina	inclusive
+CS668	n	cds	no	chiseler	conservative
+CS249	n	dmc	yes	neotesanec	conservative
+CS601	n	an	no	cakehole	inclusive
+CS2480	n	cds	no	konspirační teoretik	inclusive
+CS1474	n	om	no	homoerotic	inclusive
+CS321	n	pr	no	coura	conservative
+CS248	n	cds	no	barbar	conservative
+CS243	n	qas	no	divoch	conservative
+CS2361	n	an	no	světluška větší	inclusive
+CS645	n	ddp	yes	hrubián	conservative
+CS1766	n	cds	no	policisté	inclusive
+CS377	n	cds	no	člen gangu	inclusive
+CS2350	a	cds	no	chytrý	inclusive
+CS724	n	qas	no	směsice	inclusive
+CS2239	n	re	no	přepadení	inclusive
+CS1912	n	ddp	yes	hlouposti	conservative
+CS1166	n	re	no	delikt	inclusive
+CS949	n	asf	no	symbol vulvy	conservative
+CS984	n	dmc	yes	mystifikátorka	conservative
+CS1746	n	an	no	equus mulus	inclusive
+CS1875	n	cds	no	domovní odpadní vody	inclusive
+CS967	n	cds	no	cut-up	conservative
+CS250	n	ps	yes	barbarizace	conservative
+CS201	n	is	yes	lakomec	conservative
+CS1722	n	an	no	měkkýš	inclusive
+CS100	a	svp	no	agresivní	inclusive
+CS2127	n	cds	no	vševěd	conservative
+CS644	n	asf	no	changelings	conservative
+CS892	n	an	no	sova	inclusive
+CS2142	n	cds	no	bellyacher	conservative
+CS493	n	svp	no	zuřivost	conservative
+CS594	n	cds	no	cacography	inclusive
+CS426	n	an	no	nedbalý člověk	conservative
+CS101	n	cds	no	ornament	conservative
+CS403	n	ddp	yes	blabbermouth	conservative
+CS475	n	cds	no	dogmatismus	conservative
+CS1933	n	pr	no	socialite	inclusive
+CS426	n	cds	no	nedbalý člověk	conservative
+CS417	n	qas	no	velmož	inclusive
+CS2456	n	asm	no	avafauna	inclusive
+CS1591	n	ddp	yes	neschopný	conservative
+CS1119	n	qas	no	boudy	inclusive
+CS395	n	re	no	kriminální	inclusive
+CS865	n	an	no	odposlouchávací zařízení	inclusive
+CS2416	n	re	no	mučení	inclusive
+CS477	n	qas	no	konformista	conservative
+CS181	n	an	no	ass	inclusive
+CS156	n	ddp	yes	hloupost	conservative
+CS43	n	ddp	yes	retard	inclusive
+CS2171	a	cds	no	bystrý	inclusive
+CS815	n	or	no	teplouš	conservative
+CS602	n	an	no	štěkání	inclusive
+CS199	n	svp	no	lakomost	inclusive
+CS1806	n	dmc	yes	chawbacon	conservative
+CS2525	n	ps	yes	cigán	inclusive
+CS831	n	ddp	yes	newsmonger	conservative
+CS1296	n	cds	no	zednáři	inclusive
+CS964	n	cds	no	odmítnout	conservative
+CS1632	n	dmc	yes	prevaricator	conservative
+CS2498	n	cds	no	zbabělý	conservative
+CS458	n	dmc	yes	rakehell	conservative
+CS2099	n	or	no	parmentiera edulis	inclusive
+CS245	n	qas	no	hulvát	conservative
+CS1267	n	dmc	yes	páchnout	conservative
+CS1885	n	an	no	žraloků	inclusive
+CS586	n	re	no	padouch	conservative
+CS1810	n	qas	no	ektoparazity	inclusive
+CS1862	n	qas	no	rétoricky	inclusive
+CS2415	n	re	no	mučen	inclusive
+CS1126	n	svp	no	gourmandizer	conservative
+CS405	n	cds	no	neplechu	conservative
+CS1030	n	an	no	diddly-squat	conservative
+CS1757	n	re	no	pachatel	inclusive
+CS300	n	or	no	pillock	conservative
+CS2441	n	om	no	transvestity	inclusive
+CS1210	n	cds	no	zpustlík	conservative
+CS1764	n	cds	no	policajt	inclusive
+CS1458	n	pr	no	prostitutky	conservative
+CS1246	n	qas	no	farmář	inclusive
+CS1529	n	an	no	hyeny	inclusive
+CS229	n	qas	no	vajíčko	inclusive
+CS1224	n	cds	no	rodiny	inclusive
+CS127	n	an	no	Živočichové	inclusive
+CS1217	n	dmc	yes	marnotratník	inclusive
+CS860	n	an	no	Štěnice	inclusive
+CS474	n	cds	no	chvastoun	conservative
+CS1659	n	qas	no	skladník	inclusive
+CS1011	n	cds	no	lupič	conservative
+CS2032	n	re	no	zabíjení	inclusive
+CS1596	n	an	no	inexorableness	conservative
+CS241	n	cds	no	lupičství	inclusive
+CS1141	n	cds	no	balíky	inclusive
+CS1322	n	an	no	běsnění	inclusive
+CS68	n	svp	no	sebeláska	conservative
+CS1310	n	an	no	zamračený pohled	inclusive
+CS1877	n	cds	no	kanalizace	inclusive
+CS1934	n	pr	no	prominent	inclusive
+CS843	n	an	no	posera	conservative
+CS1003	a	ddp	yes	důvěřivý	conservative
+CS71	n	om	no	anální penetraci	inclusive
+CS1513	n	svp	no	obžerství	inclusive
+CS2367	n	an	no	lampyris bellieri	inclusive
+CS2287	v	re	no	krást	inclusive
+CS276	n	an	no	psí	inclusive
+CS784	n	svp	no	smyslná žádost	inclusive
+CS24	n	re	no	zneužívání	inclusive
+CS126	n	an	no	zvířata	inclusive
+CS89	n	qas	no	maličkosti	inclusive
+CS2130	n	dmc	yes	lingerer	conservative
+CS1125	n	svp	no	rýhovač	inclusive
+CS297	n	cds	no	patsy	conservative
+CS2353	a	ddp	yes	neschopný	inclusive
+CS191	n	svp	no	sedm smrtelných hříchů	inclusive
+CS918	n	an	no	crocodilia	inclusive
+CS1954	n	ps	yes	černoch	conservative
+CS142	n	an	no	makrofaunu	inclusive
+CS326	n	an	no	chlapcem nájmu	conservative
+CS300	n	ddp	yes	pillock	conservative
+CS744	n	qas	no	obyčejných lidí	inclusive
+CS1625	n	dmc	yes	pseud	conservative
+CS364	n	cds	no	fabricator	conservative
+CS2309	n	an	no	šváby	inclusive
+CS811	n	cds	no	korespondentů	inclusive
+CS688	n	om	no	pedofil	conservative
+CS1927	n	an	no	šnek	inclusive
+CS218	n	cds	no	lupanar	inclusive
+CS243	n	cds	no	divoch	conservative
+CS56	n	ddp	yes	amentia	inclusive
+CS1084	n	om	no	za	inclusive
+CS2293	n	cds	no	mudrlant	conservative
+CS2131	n	dmc	yes	trifler	conservative
+CS37	a	pa	yes	teoretické	inclusive
+CS2178	n	re	no	opsal	inclusive
+CS2503	n	re	no	násilné	inclusive
+CS298	n	asf	no	obětní beránek	conservative
+CS2366	n	an	no	lampyris thoracica	inclusive
+CS2116	n	or	no	kobzole	inclusive
+CS176	n	an	no	nevzdělaný člověk	conservative
+CS166	n	ddp	yes	blb	conservative
+CS1320	n	an	no	běs	inclusive
+CS84	n	cds	no	žert	inclusive
+CS850	n	cds	no	odpad	inclusive
+CS1006	n	cds	no	zoufalý trestní	inclusive
+CS1759	n	svp	no	lascivní	inclusive
+CS1553	n	cds	no	uličník	conservative
+CS1855	n	pr	no	rattus	inclusive
+CS1733	n	an	no	komáři	inclusive
+CS1205	a	cds	no	opovrženíhodný	conservative
+CS1312	n	an	no	zakabonění se	inclusive
+CS500	n	an	no	voly	inclusive
+CS1848	n	svp	no	pýcha	inclusive
+CS966	n	cds	no	usmrtit	conservative
+CS129	n	ddp	yes	rozmnožování zvířat	inclusive
+CS2275	n	an	no	žáby	inclusive
+CS1016	n	ps	yes	dimwit	conservative
+CS547	n	qas	no	profesionální třídy	inclusive
+CS2093	n	or	no	solanum apurimacense	inclusive
+CS2078	n	cds	no	arriviste	inclusive
+CS1438	n	cds	no	krádeže	inclusive
+CS252	n	ddp	yes	brutalita	inclusive
+CS1074	n	dmc	yes	přetvářky	conservative
+CS1190	n	dmc	yes	nemorální	inclusive
+CS1807	n	qas	no	necrotrophic	inclusive
+CS402	n	ddp	yes	zrádný	conservative
+CS249	n	cds	no	neotesanec	inclusive
+CS2037	n	cds	no	homunculus	inclusive
+CS2179	n	re	no	pirátství	inclusive
+CS328	n	an	no	floozy	conservative
+CS364	n	dmc	yes	fabricator	conservative
+CS680	n	an	no	familiaris	inclusive
+CS1017	n	asf	no	doofus	conservative
+CS583	n	svp	no	povaleč	conservative
+CS88	n	cds	no	vtip	inclusive
+CS317	n	pr	no	nevěstka	inclusive
+CS1823	n	qas	no	farnosti	inclusive
+CS452	n	pa	yes	pohřebního ústavu	inclusive
+CS233	n	qas	no	koule	inclusive
+CS2294	n	cds	no	rozumbrada	conservative
+CS741	n	cds	no	problému	conservative
+CS609	n	cds	no	vnitřní kruh	inclusive
+CS1321	n	svp	no	vztek	conservative
+CS1643	n	re	no	vrah	inclusive
+CS1326	n	svp	no	dillydallier	conservative
+CS2167	n	asm	no	onanování	conservative
+CS1181	n	an	no	šneci	inclusive
+CS1741	n	dmc	yes	mozzarella	inclusive
+CS2169	n	asm	no	onanovat	conservative
+CS808	n	cds	no	newswriter	inclusive
+CS838	n	ddp	yes	denunciant	conservative
+CS1231	n	cds	no	kuplířka	conservative
+CS1831	n	an	no	psittaciformes	inclusive
+CS371	n	cds	no	bigoterie	conservative
+CS212	n	cds	no	bordely	inclusive
+CS2259	n	cds	no	fawner	conservative
+CS2427	n	pr	no	biston betularia	inclusive
+CS226	n	asm	no	testis	inclusive
+CS1637	n	re	no	neonaticide	inclusive
+CS375	n	cds	no	fanatik	conservative
+CS1127	n	svp	no	jedlík	inclusive
+CS734	n	asm	no	kláda	conservative
+CS715	n	an	no	kozí mléko	inclusive
+CS2520	n	ps	yes	romani	inclusive
+CS1633	n	cds	no	lži dětem	inclusive
+CS930	n	ps	yes	kříženec	inclusive
+CS1169	n	cds	no	nadšenec	inclusive
+CS166	n	asm	no	blb	conservative
+CS1232	n	cds	no	pandar	inclusive
+CS858	n	qas	no	komunálního odpadu	inclusive
+CS580	n	dmc	yes	hobo	conservative
+CS169	n	or	no	kreténe	conservative
+CS144	n	re	no	pomluva	conservative
+CS406	n	cds	no	darebáctví	conservative
+CS1946	n	cds	no	narcisismus	inclusive
+CS1914	n	pa	yes	pastýřky	inclusive
+CS540	n	qas	no	buržoazie	inclusive
+CS1617	n	dmc	yes	nemorálnosti	inclusive
+CS1812	n	qas	no	paraziti	inclusive
+CS1305	n	cds	no	zednářstvo	inclusive
+CS1747	n	an	no	mula	inclusive
+CS194	n	svp	no	7 smrtelných hříchů	inclusive
+CS384	n	cds	no	války gangů	conservative
+CS545	n	qas	no	bourgeoise	inclusive
+CS1765	n	cds	no	policista	inclusive
+CS2067	v	qas	no	zpackat	conservative
+CS1626	n	dmc	yes	pseudo	conservative
+CS2304	n	cds	no	stoupenec	conservative
+CS817	n	or	no	queer	conservative
+CS670	n	cds	no	podvodník	inclusive
+CS78	n	om	no	anal	inclusive
+CS243	n	ddp	yes	divoch	conservative
+CS732	n	asm	no	lofas	conservative
+CS992	n	pr	no	konkubín	inclusive
+CS275	n	an	no	pejsek	inclusive
+CS1488	n	ps	yes	židovsko	inclusive
+CS163	n	an	no	pošetilec	conservative
+CS1631	a	dmc	yes	neslušný	conservative
+CS2297	n	cds	no	puntičkářství	inclusive
+CS643	n	cds	no	changeling	inclusive
+CS244	n	ddp	yes	barbaři	conservative
+CS1574	n	ddp	yes	nesmysl	conservative
+CS2347	n	an	no	had v trávě	conservative
+CS1880	n	ps	yes	mestizaje	conservative
+CS742	n	cds	no	problém	conservative
+CS460	n	cds	no	bloopers	inclusive
+CS1805	n	cds	no	nemehlo	conservative
+CS336	n	qas	no	lež	conservative
+CS1694	n	re	no	zloděj	inclusive
+CS1487	n	ps	yes	židovské	inclusive
+CS1150	n	cds	no	mnoho	inclusive
+CS1439	n	cds	no	krádež	inclusive
+CS143	n	ddp	yes	epifauna	inclusive
+CS376	n	svp	no	bigotní	conservative
+CS278	n	qas	no	baron	inclusive
+CS439	n	asm	no	kokot	conservative
+CS2253	n	re	no	únosce	inclusive
+CS1646	n	cds	no	loansharking	conservative
+CS465	n	cds	no	zpackat	inclusive
+CS1635	n	re	no	infanticida	inclusive
+CS1452	n	pr	no	sexuálních služeb	inclusive
+CS221	n	svp	no	tightwad	conservative
+CS1589	n	svp	no	nečinnost	inclusive
+CS1178	n	asm	no	erekce	inclusive
+CS479	n	qas	no	fumbler	conservative
+CS615	n	cds	no	vůz silnice	inclusive
+CS2359	n	pr	no	lampyris carreti	inclusive
+CS323	n	pr	no	strusky	conservative
+CS63	n	an	no	bison	inclusive
+CS342	n	cds	no	šviháci	inclusive
+CS469	n	cds	no	fušerská práce	inclusive
+CS2030	n	re	no	zabitím	inclusive
+CS344	n	cds	no	sušák na prádlo	inclusive
+CS240	n	dmc	yes	zbojník	conservative
+CS851	n	qas	no	odpadky	inclusive
+CS1698	n	or	no	úzkostlivost	inclusive
+CS1422	n	an	no	prasnice	inclusive
+CS419	n	qas	no	magnátů	inclusive
+CS164	n	or	no	pitomec	conservative
+CS1276	n	pa	yes	rybami	inclusive
+CS769	n	pa	yes	profesura	inclusive
+CS158	n	asf	no	blboun	conservative
+CS642	n	ddp	yes	odročit	inclusive
+CS115	n	an	no	Úhoř	inclusive
+CS565	n	svp	no	marnosti	conservative
+CS164	n	cds	no	pitomec	conservative
+CS1924	n	cds	no	iluzionistu	conservative
+CS90	n	qas	no	mišmaš	inclusive
+CS2217	n	pr	no	cizoložnice	conservative
+CS381	n	cds	no	pouličních gangů	inclusive
+CS1384	n	qas	no	šmírování	inclusive
+CS2087	n	qas	no	bad hat	conservative
+CS2060	n	an	no	helminti	inclusive
+CS2083	v	asm	no	napálit	conservative
+CS236	n	qas	no	vejce	inclusive
+CS170	n	ddp	yes	tupec	conservative
+CS219	n	cds	no	oplzlého domu	inclusive
+CS590	n	an	no	darebák	conservative
+CS1261	n	or	no	foeniculum vulgare	inclusive
+CS2187	n	an	no	domácího kuřete	inclusive
+CS479	n	cds	no	fumbler	conservative
+CS1401	n	cds	no	reakcionářství	conservative
+CS303	n	ddp	yes	stupe	conservative
+CS1701	n	cds	no	schoolma'am	conservative
+CS132	n	ddp	yes	zvíře	inclusive
+CS1645	n	cds	no	moneylending	conservative
+CS238	n	qas	no	zátěž	inclusive
+CS1779	n	ps	yes	greutungové	inclusive
+CS2512	n	dmc	yes	odpadlík	conservative
+CS1649	n	cds	no	lichváře	conservative
+CS1764	n	cds	no	policajt	conservative
+CS2200	a	ps	yes	černý	inclusive
+CS610	n	cds	no	kliky	inclusive
+CS161	n	cds	no	blázen	conservative
+CS296	n	an	no	vůl	conservative
+CS160	n	an	no	šašek	conservative
+CS959	n	or	no	okurka	inclusive
+CS577	n	dmc	yes	git	conservative
+CS1449	n	qas	no	parazit	inclusive
+CS928	n	cds	no	biotechnologie rostlin	inclusive
+CS689	n	om	no	homosexuál	inclusive
+CS2502	n	re	no	furiousness	inclusive
+CS1274	n	asm	no	měkký paprsek	inclusive
+CS2124	n	cds	no	pedanta	conservative
+CS776	n	pa	yes	profesorem extraordinarius	inclusive
+CS703	n	cds	no	japonských jednotek měření	inclusive
+CS1231	n	cds	no	kuplířka	inclusive
+CS2046	n	cds	no	lichvářka	conservative
+CS376	n	dmc	yes	bigotní	conservative
+CS1979	n	ps	yes	hispánský	inclusive
+CS948	n	or	no	kunda	conservative
+CS566	n	svp	no	namyšlenost	conservative
+CS206	n	qas	no	bordel	inclusive
+CS346	n	cds	no	chaosu	inclusive
+CS1202	n	dmc	yes	zlo	conservative
+CS353	n	ps	yes	beduin	inclusive
+CS132	n	an	no	zvíře	inclusive
+CS2205	a	ps	yes	čínský	inclusive
+CS250	n	ddp	yes	barbarizace	conservative
+CS260	n	pa	yes	poradce	inclusive
+CS1029	n	an	no	diddlyshit	conservative
+CS372	n	dmc	yes	bigot	conservative
+CS1483	n	ps	yes	židovská komunita	inclusive
+CS760	n	qas	no	kast	inclusive
+CS1476	n	ps	yes	judaizmus	inclusive
+CS692	n	cds	no	sub-klan	inclusive
+CS1868	n	an	no	scorpionfish	inclusive
+CS397	n	dmc	yes	zakázán	inclusive
+CS1554	n	an	no	strix varia	inclusive
+CS69	n	svp	no	amour propre	conservative
+CS1430	n	an	no	sele	inclusive
+CS1867	n	cds	no	vůdce	inclusive
+CS1857	n	cds	no	svatou relikvii	inclusive
+CS726	n	an	no	vulgárnosti	conservative
+CS1594	n	ddp	yes	nevědomosti	conservative
+CS365	n	cds	no	lhář	inclusive
+CS113	n	ddp	yes	negramotnost	inclusive
+CS101	n	asf	no	ornament	conservative
+CS308	n	ddp	yes	oklamaný	conservative
+CS2521	n	ps	yes	róm	inclusive
+CS782	n	or	no	brukev zelná	inclusive
+CS2354	a	re	no	násilný	inclusive
+CS2295	n	cds	no	weisenheimer	conservative
+CS505	n	an	no	tele	inclusive
+CS2019	n	re	no	vraždy	inclusive
+CS1647	n	cds	no	lichvář	inclusive
+CS1876	n	cds	no	kal	inclusive
+CS207	n	cds	no	sportovní dům	inclusive
+CS568	n	cds	no	ješitnost	conservative
+CS929	n	ps	yes	člověkem hybridní	inclusive
+CS907	n	asm	no	twirp	conservative
+CS428	n	cds	no	cur	inclusive
+CS2461	n	cds	no	kanalizační síť	inclusive
+CS1907	n	ddp	yes	mikrocefalie	inclusive
+CS803	n	an	no	králíci	inclusive
+CS172	n	or	no	lunkhead	conservative
+CS2045	n	cds	no	lichva	conservative
+CS2214	n	cds	no	obhajoba	inclusive
+CS147	n	re	no	násilníků	conservative
+CS1639	a	is	yes	nešťastné	inclusive
+CS909	n	ddf	yes	mrzák	inclusive
+CS301	n	or	no	hloupý	conservative
+CS3	n	dmc	yes	lenoch	conservative
+CS409	n	ps	yes	inkiness	inclusive
+CS1804	n	dmc	yes	hayseed	conservative
+CS2080	n	cds	no	nouveaux bohatství	inclusive
+CS1179	n	qas	no	diletant	conservative
+CS1744	n	an	no	stick-in-the-bláto	conservative
+CS446	n	re	no	vydírání	inclusive
+CS2458	n	cds	no	kanál	inclusive
+CS1798	n	cds	no	fotoreportér	inclusive
+CS1129	n	an	no	domácích ovcí	inclusive
+CS1808	n	qas	no	ektoparazit	inclusive
+CS895	n	an	no	sovy	inclusive
+CS237	a	svp	no	chamtivý	conservative
+CS1592	n	ddp	yes	neznalost	conservative
+CS2466	n	cds	no	ndrangheta	inclusive
+CS1213	n	dmc	yes	libertinismus	conservative
+CS2238	n	re	no	unést	inclusive
+CS570	n	cds	no	nafoukanost	conservative
+CS137	n	an	no	animovat je	inclusive
+CS228	n	qas	no	testes	inclusive
+CS763	n	qas	no	kastovní systém	inclusive
+CS2050	n	ps	yes	království vandalů	inclusive
+CS669	n	re	no	scammer	inclusive
+CS2464	n	re	no	'ndrangheta	inclusive
+CS771	n	pa	yes	prof.	inclusive
+CS1991	n	cds	no	satyriáza	conservative
+CS2467	n	qas	no	potápění váhový systém	inclusive
+CS244	n	ps	yes	barbaři	conservative
+CS1571	n	ddp	yes	nonsensová literatura	conservative
+CS1086	n	om	no	kaudální	inclusive
+CS582	n	dmc	yes	nicnedělání	conservative
+CS1089	n	om	no	keister	inclusive
+CS1794	n	om	no	pederasty	inclusive
+CS1374	n	cds	no	prostitut	inclusive
+CS633	n	is	yes	sociální vyvrženec	inclusive
+CS1620	n	om	no	peeress	inclusive
+CS492	n	an	no	krutost	conservative
+CS850	n	qas	no	odpad	inclusive
+CS493	n	ddp	yes	zuřivost	conservative
+CS1432	n	cds	no	literární nádeník	conservative
+CS1486	n	ps	yes	judaismu	inclusive
+CS1691	n	re	no	rustler	inclusive
+CS1362	n	pr	no	zbraň moll	inclusive
+CS2452	n	asm	no	roosting	inclusive
+CS878	n	cds	no	lstivost	conservative
+CS1041	n	cds	no	románech desetníku	inclusive
+CS173	n	ddp	yes	muttonhead	conservative
+CS535	n	an	no	starý svět buffalo	inclusive
+CS2417	n	re	no	mučírna	inclusive
+CS1950	n	ps	yes	negr	conservative
+CS762	n	qas	no	kasta	inclusive
+CS1541	n	asf	no	děvče	conservative
+CS1805	n	dmc	yes	nemehlo	conservative
+CS2418	n	re	no	mučivý	inclusive
+CS875	n	an	no	hmyz	inclusive
+CS1099	n	om	no	ipsilaterální	inclusive
+CS1014	n	ddp	yes	hromotluk	conservative
+CS2028	n	re	no	slayer	inclusive
+CS189	n	svp	no	smrtelný hřích	inclusive
+CS1137	n	cds	no	delikvent	conservative
+CS1954	n	ps	yes	černoch	inclusive
+CS299	n	an	no	soft touch	conservative
+CS135	n	an	no	Živočišstvo	inclusive
+CS1668	n	asm	no	bimbas	inclusive
+CS2252	n	re	no	ukořistil	inclusive
+CS787	n	svp	no	žádostivost	inclusive
+CS1769	n	cds	no	cosa nostra	inclusive
+CS793	n	asm	no	shtup	conservative
+CS666	n	dmc	yes	defrauder	conservative
+CS1301	n	cds	no	free zedník	inclusive
+CS1327	n	dmc	yes	dilly-dallier	conservative
+CS1703	n	cds	no	zlodějíček	conservative
+CS2106	n	or	no	murphy	inclusive
+CS1932	n	pr	no	socialites	inclusive
+CS925	n	ps	yes	šlechtění rostlin	inclusive
+CS110	n	ddp	yes	analphabet	inclusive
+CS531	n	qas	no	business man	inclusive
+CS2485	n	pr	no	kráva	inclusive
+CS1568	n	ddp	yes	řiť	conservative
+CS829	n	ddp	yes	gossipmonger	conservative
+CS1329	n	dmc	yes	gangsterů	inclusive
+CS6	n	svp	no	aboulia	inclusive
+CS446	n	re	no	vydírání	conservative
+CS467	n	cds	no	boner	inclusive
+CS373	n	cds	no	bigotnost	conservative
+CS460	n	qas	no	bloopers	inclusive
+CS2393	n	asm	no	profesionální faul	inclusive
+CS298	n	an	no	obětní beránek	conservative
+CS387	n	an	no	rogue	conservative
+CS1215	n	dmc	yes	tráví-all	inclusive
+CS780	n	or	no	zelí	inclusive
+CS2241	n	re	no	rapine	inclusive
+CS804	n	an	no	zajíček	inclusive
+CS573	n	cds	no	chlap mizerná	conservative
+CS296	n	cds	no	vůl	conservative
+CS870	n	an	no	bed bug	inclusive
+CS2291	n	cds	no	chytráku	conservative
+CS1412	v	asm	no	šukat	conservative
+CS173	n	an	no	muttonhead	conservative
+CS299	n	asf	no	soft touch	conservative
+CS974	n	om	no	dáma	inclusive
+CS1595	n	an	no	relentlessness	conservative
+CS1788	n	an	no	tlouštík	conservative
+CS991	n	pr	no	milence	inclusive
+CS950	n	asf	no	cunt	conservative
+CS1504	n	cds	no	masy	conservative
+CS549	n	qas	no	úřednickou práci	inclusive
+CS1498	n	ps	yes	Židé	inclusive
+CS2168	n	asm	no	ruční práce	conservative
+CS102	n	asf	no	cancy	conservative
+CS1750	n	an	no	rypák	inclusive
+CS2225	n	pa	yes	účetní	inclusive
+CS2102	n	or	no	solanum herrerae	inclusive
+CS471	n	cds	no	line-střelec	conservative
+CS905	n	asm	no	blbec-off	conservative
+CS1685	n	ddp	yes	moronity	inclusive
+CS1570	n	ddp	yes	nonsensicality	conservative
+CS1321	n	an	no	vztek	inclusive
+CS2034	n	re	no	mučitel	inclusive
+CS173	n	asf	no	muttonhead	conservative
+CS298	n	ps	yes	obětní beránek	conservative
+CS101	n	ddp	yes	ornament	conservative
+CS766	n	pa	yes	profesorů	inclusive
+CS121	n	an	no	anguilla	inclusive
+CS635	n	is	yes	vyvrhel	inclusive
+CS1396	n	svp	no	ne'er-dělat-dobře	conservative
+CS879	n	cds	no	zákeřnost	inclusive
+CS1353	n	asf	no	vagína	conservative
+CS669	n	cds	no	scammer	inclusive
+CS1920	n	qas	no	olůvko	inclusive
+CS1532	n	an	no	hyenovití	inclusive
+CS1325	n	dmc	yes	dallier	conservative
+CS1985	n	cds	no	satyriasis	conservative
+CS1870	n	an	no	sea scorpion	inclusive
+CS2329	a	qas	no	střední třídy	inclusive
+CS333	n	an	no	šlapka	conservative
+CS1502	n	cds	no	velký nemyté	inclusive
+CS265	n	pa	yes	zvláštní vyslanec	inclusive
+CS989	n	pr	no	kuběna	inclusive
+CS383	n	cds	no	kultury gangu	conservative
+CS1464	n	om	no	homosexuála	inclusive
+CS261	n	pa	yes	diplomatické hodnosti	inclusive
+CS2455	n	asm	no	aves	inclusive
+CS162	n	asm	no	blbec	inclusive
+CS1915	n	pa	yes	ovčáky	inclusive
+CS1001	n	pr	no	dvořan	inclusive
+CS751	n	cds	no	zmatek	inclusive
+CS243	n	rci	yes	divoch	conservative
+CS1678	n	svp	no	závidění	inclusive
+CS2384	n	re	no	sexuální napadení	inclusive
+CS1137	n	dmc	yes	delikvent	inclusive
+CS1531	n	an	no	hyenovité	inclusive
+CS1641	n	svp	no	gorger	conservative
+CS423	n	dmc	yes	lump	conservative
+CS2054	n	an	no	gyps	inclusive
+CS1517	n	qas	no	hospodářství	inclusive
+CS975	n	om	no	gentlewoman	inclusive
+CS1633	n	cds	no	lži dětem	conservative
+CS264	n	pa	yes	diplomatické vztahy	inclusive
+CS1771	n	re	no	mafiosi	inclusive
+CS2331	a	ddp	yes	pošetilý	conservative
+CS127	n	ddp	yes	Živočichové	inclusive
+CS924	n	ps	yes	rostlinné biotechnologie	inclusive
+CS1134	n	pa	yes	portýr	inclusive
+CS2269	n	qas	no	vrak	inclusive
+CS1386	n	an	no	komár	inclusive
+CS108	n	ddp	yes	analfabet	inclusive
+CS158	n	ddp	yes	blboun	conservative
+CS707	n	an	no	koza	inclusive
+CS9	n	svp	no	lhostejnost	inclusive
+CS712	n	an	no	kozy	inclusive
+CS600	a	ddf	yes	hnusný	conservative
+CS1561	n	ddf	yes	zakázat	inclusive
+CS1399	n	svp	no	budižkničemu	conservative
+CS2364	n	pr	no	lampyris obscurella	inclusive
+CS1019	n	ps	yes	uprooter	conservative
+CS1963	n	ps	yes	blackamoor	inclusive
+CS1492	n	ps	yes	židovstva	inclusive
+CS15	n	qas	no	ministrant	inclusive
+CS585	n	an	no	darebný	conservative
+CS713	n	an	no	skotná	inclusive
+CS858	n	cds	no	komunálního odpadu	conservative
+CS391	n	re	no	vyhnanstvím	inclusive
+CS1762	n	cds	no	policistů	inclusive
+CS163	n	cds	no	pošetilec	conservative
+CS1164	n	cds	no	pustý teoretik	inclusive
+CS2107	n	or	no	brambory	inclusive
+CS1016	n	asf	no	dimwit	conservative
+CS1973	n	ps	yes	mouřenín	inclusive
+CS2123	n	cds	no	pedant	conservative
+CS105	n	dmc	yes	fanatismus	conservative
+CS1183	n	qas	no	amatéry	inclusive
+CS1853	n	re	no	vyděrač	inclusive
+CS2006	n	re	no	terorista	inclusive
+CS1645	n	cds	no	moneylending	inclusive
+CS1249	n	cds	no	fašista	conservative
+CS839	n	ddp	yes	zrádce	conservative
+CS2182	n	re	no	plagiát	inclusive
+CS1748	n	an	no	čenich	inclusive
+CS1687	n	cds	no	nepořádek	conservative
+CS247	n	rci	yes	barbarství	conservative
+CS1421	n	an	no	vepř	inclusive
+CS361	n	cds	no	beghardové	inclusive
+CS1957	n	ps	yes	negroidní	inclusive
+CS148	n	re	no	znásilnění	conservative
+CS1694	n	cds	no	zloděj	inclusive
+CS2163	a	svp	no	zlostný	inclusive
+CS1578	n	is	yes	chudáky	inclusive
+CS248	n	pa	yes	barbar	conservative
+CS299	n	asm	no	soft touch	conservative
+CS1302	n	cds	no	lóže svobodných zednářů	inclusive
+CS1893	n	an	no	mikroorganismy	inclusive
+CS2524	n	ps	yes	rómové	inclusive
+CS745	n	qas	no	prostý	inclusive
+CS618	n	an	no	lidožrout	inclusive
+CS642	n	ddp	yes	odročit	conservative
+CS319	n	pr	no	struska	conservative
+CS1076	n	om	no	prdel	inclusive
+CS819	n	or	no	gay	conservative
+CS2254	n	re	no	kidnaper	inclusive
+CS977	n	cds	no	dastardliness	conservative
+CS226	n	qas	no	testis	inclusive
+CS2111	n	or	no	erteple	inclusive
+CS1648	n	cds	no	lichvářů	conservative
+CS455	n	an	no	zahýbat	conservative
+CS1096	n	om	no	buchty	inclusive
+CS1803	n	cds	no	rube	conservative
+CS634	n	dmc	yes	vyděděnec	inclusive
+CS1313	n	an	no	mračit	inclusive
+CS2394	n	cds	no	conventicles	inclusive
+CS1111	n	om	no	apikální	inclusive
+CS1754	n	cds	no	kojenec	inclusive
+CS1026	n	cds	no	právo-lámání	inclusive
+CS2188	n	an	no	slepičinec	inclusive
+CS2085	n	qas	no	výtržník	conservative
+CS159	n	an	no	muggins	conservative
+CS567	n	cds	no	conceitedness	conservative
+CS1802	n	dmc	yes	křupan	conservative
+CS2535	n	ps	yes	lidí zulu	inclusive
+CS542	n	qas	no	střední třídy	inclusive
+CS623	n	an	no	Žralok lidožravý	inclusive
+CS1998	n	an	no	husa	inclusive
+CS279	n	qas	no	baronka	inclusive
+CS824	n	or	no	homosexuální	conservative
+CS1981	n	ps	yes	bílý	inclusive
+CS1941	n	cds	no	half-pint	conservative
+CS174	n	ddp	yes	nic nevím	conservative
+CS332	n	pr	no	kurva	inclusive
+CS532	n	qas	no	podnikatel	inclusive
+CS365	n	cds	no	lhář	conservative
+CS1906	n	ddp	yes	microcephalic	inclusive
+CS223	n	ddp	yes	skrblík	conservative
+CS495	n	svp	no	nudou	inclusive
+CS1444	n	re	no	zlodějství	inclusive
+CS2396	a	svp	no	pyšný	conservative
+CS1455	n	pr	no	sexuální služby	inclusive
+CS2336	n	an	no	red buben	inclusive
+CS599	a	dmc	yes	odporný	conservative
+CS564	n	svp	no	domýšlivost	conservative
+CS98	n	asm	no	přívěsky	inclusive
+CS1751	n	cds	no	nerdy	conservative
+CS729	n	asm	no	čurák	conservative
+CS50	n	ddp	yes	imbecilita	inclusive
+CS842	n	pr	no	moo-cow	inclusive
+CS1564	n	ddf	yes	postižení	inclusive
+CS559	n	cds	no	zpupnost	conservative
+CS359	n	cds	no	bekyně	inclusive
+CS365	n	dmc	yes	lhář	conservative
+CS281	n	qas	no	svobodní páni	inclusive
+CS1765	n	cds	no	policista	conservative
+CS1874	n	cds	no	domácí odpadní vody	inclusive
+CS1011	n	an	no	lupič	inclusive
+CS1470	n	om	no	homosexualismu	inclusive
+CS1988	n	cds	no	hypersexualita	conservative
+CS176	n	ddp	yes	nevzdělaný člověk	conservative
+CS830	n	cds	no	rumourmonger	conservative
+CS82	n	qas	no	společník ve zločinu	inclusive
+CS1321	n	svp	no	vztek	inclusive
+CS658	n	re	no	backbiter	conservative
+CS1002	n	an	no	prosťáček	conservative
+CS2453	n	asm	no	ptáků	inclusive
+CS330	n	pr	no	floozie	conservative
+CS1206	n	is	yes	chudák	conservative
+CS852	n	cds	no	šrot	inclusive
+CS1015	n	ps	yes	spratek	conservative
+CS660	n	re	no	libeler	conservative
+CS1816	n	qas	no	endoparazit	inclusive
+CS2367	n	pr	no	lampyris bellieri	inclusive
+CS584	n	cds	no	pecivál	conservative
+CS1821	n	qas	no	endoparasites	inclusive
+CS313	n	pr	no	žena z ulice	conservative
+CS2218	n	pr	no	pochybná ženština	conservative
+CS2071	n	qas	no	flákat se	conservative
+CS1127	n	svp	no	jedlík	conservative
+CS1825	n	qas	no	farnost	inclusive
+CS585	n	re	no	darebný	conservative
+CS1590	n	an	no	nekompetentní osoba	conservative
+CS1770	n	re	no	maffie	conservative
+CS162	n	ps	yes	blbec	conservative
+CS385	n	cds	no	gangsterství	inclusive
+CS500	n	pr	no	voly	inclusive
+CS348	n	cds	no	topsy-turvyness	inclusive
+CS1139	n	cds	no	vory	inclusive
+CS283	n	qas	no	velkolepý	inclusive
+CS466	n	qas	no	zbabrat	inclusive
+CS562	n	svp	no	povýšenost	conservative
+CS1680	n	svp	no	invidia	inclusive
+CS2262	a	dmc	yes	ušpiněný	inclusive
+CS773	n	pa	yes	profesor	inclusive
+CS700	n	cds	no	klan	inclusive
+CS1990	n	cds	no	sexuální maniactví	conservative
+CS166	n	ps	yes	blb	conservative
+CS1033	n	an	no	doodly-squat	conservative
+CS1252	n	is	yes	sociální vyloučení	inclusive
+CS336	n	dmc	yes	lež	inclusive
+CS2038	n	dmc	yes	homunkulus	inclusive
+CS2478	n	cds	no	konspiračních teorií	inclusive
+CS539	n	om	no	prevít	inclusive
+CS2436	n	om	no	cross-prádelníku	inclusive
+CS1220	n	dmc	yes	hýřil	inclusive
+CS1012	n	ddp	yes	nevychovanec	conservative
+CS1699	n	or	no	meticulosity	inclusive
+CS1324	n	dmc	yes	být sklíčený	conservative
+CS2400	n	re	no	terorismu	inclusive
+CS948	n	asf	no	kunda	conservative
+CS337	n	cds	no	nepravda	conservative
+CS2352	a	ddf	yes	škaredý	conservative
+CS64	n	an	no	bizon	inclusive
+CS798	n	an	no	zajíčci	inclusive
+CS2143	n	an	no	humanus	inclusive
+CS800	n	an	no	králíků	inclusive
+CS2360	n	an	no	lampyris submucronata	inclusive
+CS482	n	dmc	yes	fušer	conservative
+CS640	n	cds	no	kretén	inclusive
+CS1928	n	ps	yes	mongoloidní rasa	conservative
+CS1585	n	is	yes	chudí	inclusive
+CS1970	n	ps	yes	negroid	inclusive
+CS247	n	pa	yes	barbarství	conservative
+CS1177	n	asm	no	erekci	inclusive
+CS1466	n	om	no	shirtlifter	inclusive
+CS201	n	svp	no	lakomec	conservative
+CS2405	n	re	no	teroristé	conservative
+CS559	n	svp	no	zpupnost	conservative
+CS201	n	an	no	lakomec	conservative
+CS586	n	an	no	padouch	conservative
+CS1774	n	re	no	mafián	inclusive
+CS490	n	ddp	yes	zooerasty	conservative
+CS1913	n	pa	yes	sheepherder	inclusive
+CS1714	n	cds	no	lav	inclusive
+CS2089	v	cds	no	zemřít	inclusive
+CS2407	n	re	no	terorismus	conservative
+CS840	n	ddp	yes	konfident	conservative
+CS1205	a	dmc	yes	opovrženíhodný	conservative
+CS1157	n	ddf	yes	nanus	conservative
+CS1648	n	cds	no	lichvářů	inclusive
+CS586	n	cds	no	padouch	conservative
+CS44	n	ddp	yes	spc	inclusive
+CS1323	n	cds	no	swaggerer	conservative
+CS569	n	svp	no	marnivost	conservative
+CS1845	n	is	yes	špatný	inclusive
+CS329	n	pr	no	rentboy	conservative
+CS304	n	or	no	pudink hlava	conservative
+CS509	n	an	no	dobytek	inclusive
+CS139	n	ddp	yes	fauna	inclusive
+CS1482	n	ps	yes	judaismus	inclusive
+CS497	n	an	no	bos primigenius f. taurus	inclusive
+CS1768	n	cds	no	policejní strážník	inclusive
+CS886	n	an	no	vamper	conservative
+CS665	n	re	no	camorra	inclusive
+CS2257	n	cds	no	apple leštička	conservative
+CS1886	n	an	no	selachimorpha	inclusive
+CS1674	n	asm	no	penis	inclusive
+CS299	n	cds	no	soft touch	conservative
+CS244	n	cds	no	barbaři	conservative
+CS2335	n	an	no	okouníka	inclusive
+CS2157	n	an	no	veš	inclusive
+CS168	n	asf	no	mamlas	conservative
+CS95	n	cds	no	drobnosti	inclusive
+CS2504	n	re	no	násilí	inclusive
+CS1257	n	or	no	fastidiousness	inclusive
+CS1785	n	dmc	yes	čuně	conservative
+CS572	n	dmc	yes	ten a ten	inclusive
+CS1656	n	cds	no	backtalk	inclusive
+CS298	n	cds	no	obětní beránek	conservative
+CS629	n	cds	no	hazardních her	inclusive
+CS788	n	svp	no	eros	inclusive
+CS841	n	ddp	yes	udavač	conservative
+CS171	n	or	no	šmejd	conservative
+CS297	n	ps	yes	patsy	conservative
+CS105	n	svp	no	fanatismus	conservative
+CS2198	n	cds	no	dítě	inclusive
+CS1379	n	asf	no	rozkrok vlasy	inclusive
+CS248	n	dmc	yes	barbar	conservative
+CS250	n	qas	no	barbarizace	conservative
+CS1051	n	cds	no	kriminalita	inclusive
+CS337	n	dmc	yes	nepravda	inclusive
+CS2420	n	an	no	balónu polykač	inclusive
+CS1212	n	dmc	yes	zhýralec	conservative
+CS81	n	svp	no	netečnost	inclusive
+CS1155	n	ddf	yes	trpaslík	conservative
+CS310	n	ddp	yes	podvedený	conservative
+CS1031	n	an	no	hovno	conservative
+CS388	n	cds	no	tulák	conservative
+CS1681	n	svp	no	hněv	inclusive
+CS1974	a	ps	yes	černošský	inclusive
+CS2277	n	an	no	anuran	inclusive
+CS2468	n	qas	no	potápění váhovým systémem a	inclusive
+CS12	n	svp	no	apatický	inclusive
+CS1028	n	cds	no	trestné činnosti	inclusive
+CS1729	n	cds	no	moralizování	inclusive
+CS705	n	pa	yes	úředník	inclusive
+CS23	n	re	no	zneužívající	inclusive
+CS165	n	asf	no	hlupák	conservative
+CS416	n	qas	no	top executive	inclusive
+CS162	n	ddp	yes	blbec	conservative
+CS2529	n	cds	no	banditů	inclusive
+CS667	n	cds	no	chiseller	inclusive
+CS2362	n	pr	no	lampyris longipennis	inclusive
+CS1159	n	an	no	helix pomatia	inclusive
+CS2308	n	an	no	švába	inclusive
+CS217	n	cds	no	bawdyhouse	inclusive
+CS480	n	cds	no	blunderer	conservative
+CS1811	n	qas	no	parazitismus	inclusive
+CS1234	n	cds	no	kuplířství	conservative
+CS2210	n	pa	yes	mimořádným profesorem	inclusive
+CS2031	n	re	no	zabití	inclusive
+CS1085	n	om	no	dorzolaterální	inclusive
+CS1958	n	ps	yes	ekvatoriální rasa	inclusive
+CS1800	n	qas	no	cizopasník	inclusive
+CS306	n	or	no	pudden hlava	conservative
+CS555	n	cds	no	presumptuousness	conservative
+CS590	n	dmc	yes	darebák	conservative
+CS634	n	is	yes	vyděděnec	inclusive
+CS166	n	asm	no	blb	inclusive
+CS1777	n	cds	no	mafie	inclusive
+CS2359	n	an	no	lampyris carreti	inclusive
+CS1504	n	cds	no	masy	inclusive
+CS1769	n	re	no	cosa nostra	inclusive
+CS2119	n	or	no	tater	inclusive
+CS1628	n	svp	no	chlípnost	inclusive
+CS1820	n	qas	no	parazity	inclusive
+CS1374	n	pr	no	prostitut	conservative
+CS1278	n	pa	yes	fishmongers	inclusive
+CS68	n	cds	no	sebeláska	conservative
+CS124	n	an	no	anguilliformes	inclusive
+CS1395	n	dmc	yes	bota-off	conservative
+CS1515	n	svp	no	přejídání	inclusive
+CS2146	n	an	no	pediculus corporis	inclusive
+CS1017	n	ps	yes	doofus	conservative
+CS813	n	om	no	poove	conservative
+CS1247	n	qas	no	rolník	inclusive
+CS592	n	cds	no	rachotina	inclusive
+CS502	n	pr	no	volové	inclusive
+CS1785	n	an	no	čuně	conservative
+CS637	n	an	no	sračka	conservative
+CS2047	n	cds	no	Úžera	conservative
+CS2048	n	ps	yes	vandal	conservative
+CS598	a	ddf	yes	špatné	inclusive
+CS990	n	pr	no	konkubinátu	inclusive
+CS2305	n	an	no	šváb	inclusive
+CS1905	n	ddp	yes	nanocephaly	inclusive
+CS1514	n	svp	no	nestřídmost	inclusive
+CS41	n	pa	yes	akad.	inclusive
+CS2431	n	om	no	transvestita	inclusive
+CS2314	n	cds	no	průměrnost	conservative
+CS224	n	is	yes	špinavec	conservative
+CS399	n	cds	no	donašeč	conservative
+CS822	n	om	no	gayů	inclusive
+CS1852	n	cds	no	propagandista	inclusive
+CS225	n	is	yes	scrooge	conservative
+CS338	n	dmc	yes	faleš	inclusive
+CS1908	n	ddp	yes	microcephalus	inclusive
+CS2008	n	an	no	ixodoidea	inclusive
+CS1535	n	cds	no	zpěváci	inclusive
+CS2220	n	pr	no	fornicatress	conservative
+CS136	n	an	no	život zvířat	inclusive
+CS2228	a	cds	no	ztuchlý	inclusive
+CS164	n	asm	no	pitomec	conservative
+CS1261	n	om	no	foeniculum vulgare	inclusive
+CS727	n	an	no	grossness	conservative
+CS1600	n	cds	no	ostentatiousness	inclusive
+CS160	n	cds	no	šašek	inclusive
+CS636	n	an	no	slaboch	conservative
+CS162	n	asm	no	blbec	conservative
+CS1873	n	cds	no	splašků	inclusive
+CS1489	n	ps	yes	Židovská víra	inclusive
+CS244	n	qas	no	barbaři	conservative
+CS1433	n	cds	no	literární hack	conservative
+CS1774	n	re	no	mafián	conservative
+CS1155	n	an	no	trpaslík	conservative
+CS582	n	cds	no	nicnedělání	conservative
+CS2407	n	re	no	terorismus	inclusive
+CS2451	n	asm	no	avifauna	inclusive
+CS1519	n	qas	no	kolna	inclusive
+CS1409	v	asm	no	šoustat	conservative
+CS2345	n	qas	no	chien de saint-hubert	inclusive
+CS1469	n	om	no	homoeroticism	inclusive
+CS1897	n	an	no	mikroorganizmus	inclusive
+CS2338	n	cds	no	dweeb	conservative
+CS2211	n	pa	yes	odborný asistent	inclusive
+CS1912	n	asm	no	hlouposti	conservative
+CS493	n	re	no	zuřivost	inclusive
+CS1228	n	qas	no	vyzrazení	inclusive
+CS39	n	pa	yes	akademik	inclusive
+CS1249	n	ps	yes	fašista	inclusive
+CS670	n	re	no	podvodník	inclusive
+CS585	n	is	yes	darebný	conservative
+CS465	n	qas	no	zpackat	inclusive
+CS116	n	an	no	Úhořovití	inclusive
+CS1818	n	qas	no	příživnictví	inclusive
+CS1318	n	cds	no	fundamentalisté	inclusive
+CS674	n	ddp	yes	lůza	conservative
+CS2364	n	an	no	lampyris obscurella	inclusive
+CS628	n	cds	no	zdechlina	inclusive
+CS1289	n	dmc	yes	klaun	inclusive
+CS572	n	dmc	yes	ten a ten	conservative
+CS1787	n	an	no	pudge	conservative
+CS1185	n	dmc	yes	morální kompas	inclusive
+CS350	n	ps	yes	beduíni	inclusive
+CS2292	n	cds	no	wisenheimer	conservative
+CS1612	n	cds	no	reklama posílaná poštou	inclusive
+CS388	n	re	no	tulák	conservative
+CS946	n	or	no	píčo	conservative
+CS2327	n	cds	no	vědeckosti	inclusive
+CS1005	n	cds	no	intrikán	inclusive
+CS370	a	cds	no	hloupý	conservative
+CS859	n	qas	no	domovního odpadu	inclusive
+CS1014	n	ps	yes	hromotluk	conservative
+CS2126	n	cds	no	pedantský	conservative
+CS2429	n	om	no	cross-šaty	inclusive
+CS1319	n	cds	no	fundamentalismu	inclusive
+CS706	n	an	no	kozorožec	inclusive
+CS1770	n	cds	no	maffie	inclusive
+CS1984	n	cds	no	hypersexual	conservative
+CS1575	n	is	yes	chudoby	inclusive
+CS1027	n	cds	no	zločiny	inclusive
+CS1013	n	ps	yes	nemotora	conservative
+CS122	n	an	no	úhoři	inclusive
+CS575	n	an	no	lowlife	conservative
+CS2036	n	dmc	yes	homunculi	inclusive
+CS2435	n	om	no	kříž prádelník	inclusive
+CS927	n	cds	no	rostlinná biotechnologie	inclusive
+CS2341	a	pa	yes	politický	inclusive
+CS1308	n	cds	no	bez zedník	inclusive
+CS125	n	an	no	animalia	inclusive
+CS2043	n	dmc	yes	nešťastný	inclusive
+CS1012	n	ps	yes	nevychovanec	conservative
+CS427	n	cds	no	flákač	conservative
+CS1795	n	cds	no	paparazzo	inclusive
+CS1113	n	om	no	anatomické směry	inclusive
+CS2383	n	re	no	sexuálních trestných činů	inclusive
+CS575	n	dmc	yes	lowlife	inclusive
+CS162	n	an	no	blbec	conservative
+CS786	n	svp	no	fyzická přitažlivost	inclusive
+CS28	n	cds	no	makléř	inclusive
+CS1651	n	cds	no	půjčování peněz	inclusive
+CS247	n	ddp	yes	barbarství	inclusive
+CS1034	n	an	no	diddly	conservative
+CS1011	n	re	no	lupič	inclusive
+CS1819	n	qas	no	definitivní hostitel	inclusive
+CS1978	n	ps	yes	černý	inclusive
+CS177	n	an	no	equus asinus f. domestica	inclusive
+CS2117	n	or	no	lycopersicon tuberosum	inclusive
+CS930	n	cds	no	kříženec	inclusive
+CS965	n	cds	no	utracení	conservative
+CS91	n	qas	no	smísit-mandl	inclusive
+CS2268	n	qas	no	pompézní sloh	inclusive
+CS2385	n	re	no	obtěžoval	inclusive
+CS1095	n	om	no	bazální	inclusive
+CS941	n	cds	no	synáček	inclusive
+CS2443	n	pr	no	semetrika	conservative
+CS1384	n	cds	no	šmírování	conservative
+CS1503	n	cds	no	lidé	conservative
+CS1068	n	dmc	yes	přetvářka	conservative
+CS1863	n	qas	no	řečník	inclusive
+CS1996	n	qas	no	nájemce	inclusive
+CS1769	n	re	no	cosa nostra	conservative
+CS2098	n	or	no	solanum immite	inclusive
+CS59	n	pa	yes	akademismu	inclusive
+CS1046	n	cds	no	predelikvence	inclusive
+CS311	n	asm	no	blbeček	conservative
+CS1690	n	cds	no	šelestu dobytku	inclusive
+CS1737	n	pr	no	můr	inclusive
+CS644	n	asm	no	changelings	inclusive
+CS503	n	pr	no	krávy	inclusive
+CS297	n	asm	no	patsy	conservative
+CS2063	n	cds	no	přeřeknutí	inclusive
+CS1586	n	is	yes	chudoba	inclusive
+CS672	n	cds	no	ragtag	conservative
+CS1191	n	dmc	yes	mravy	inclusive
+CS1254	n	cds	no	rychlý jeden	conservative
+CS2343	a	is	yes	chudí	inclusive
+CS2444	n	pr	no	ježibaba	conservative
+CS1815	n	qas	no	cizopasnictví	inclusive
+CS1237	n	qas	no	pole ruky	inclusive
+CS1235	n	pr	no	comare	conservative
+CS631	n	cds	no	kasíno	inclusive
+CS1016	n	asm	no	dimwit	conservative
+CS2440	n	om	no	kříž oblékání	inclusive
+CS300	n	cds	no	pillock	conservative
+CS77	n	om	no	Řitní soulož	inclusive
+CS667	n	re	no	chiseller	inclusive
+CS1767	n	cds	no	důstojník	inclusive
+CS1380	n	cds	no	nosy-parker	conservative
+CS1597	n	an	no	neúprosnost	conservative
+CS314	n	pr	no	děvka	conservative
+CS10	n	svp	no	spiritlessness	inclusive
+CS1270	n	cds	no	finagler	conservative
+CS1453	n	pr	no	pohotovostní procházení	inclusive
+CS847	n	ddp	yes	šarlatán	conservative
+CS2169	n	cds	no	onanovat	conservative
+CS1851	n	cds	no	superbia	conservative
+CS569	n	cds	no	marnivost	conservative
+CS2348	a	svp	no	pomstychtivý	conservative
+CS1638	a	is	yes	smutný	inclusive
+CS306	n	cds	no	pudden hlava	conservative
+CS2273	n	an	no	anura	inclusive
+CS2100	n	or	no	solanum phureja	inclusive
+CS205	n	cds	no	cathouse	inclusive
+CS2399	n	cds	no	povrchnosti	inclusive
+CS920	n	an	no	crocodylidae	inclusive
+CS639	n	cds	no	idiot	inclusive
+CS2400	n	re	no	terorismu	conservative
+CS93	n	qas	no	všehochuť	inclusive
+CS1494	n	ps	yes	izraelity	inclusive
+CS2055	n	an	no	sup	inclusive
+CS1621	n	om	no	peerka	inclusive
+CS2507	n	pa	yes	белахо	inclusive
+CS1695	n	ps	yes	metoikové	inclusive
+CS969	n	cds	no	tricker	conservative
+CS1891	n	an	no	mikrob	inclusive
+CS755	n	an	no	culex pipiens	inclusive
+CS1969	n	ps	yes	negro	inclusive
+CS2397	a	svp	no	povýšený	conservative
+CS1502	n	cds	no	velký nemyté	conservative
+CS814	n	or	no	nance	conservative
+CS1918	n	asm	no	jeerer	conservative
+CS2449	n	pr	no	hetaira	inclusive
+CS2312	n	an	no	blattaria	inclusive
+CS846	n	cds	no	mountebank	conservative
+CS1507	n	cds	no	prelát	inclusive
+CS1059	n	an	no	podraz	conservative
+CS1636	n	cds	no	novorozenců	inclusive
+CS1919	n	asm	no	flouter	conservative
+CS2194	n	an	no	kuřecí maso	inclusive
+CS1872	n	an	no	ropušnice	inclusive
+CS1642	n	re	no	zabiják	inclusive
+CS1137	n	dmc	yes	delikvent	conservative
+CS643	n	asm	no	changeling	inclusive
+CS480	n	qas	no	blunderer	conservative
+CS2221	n	pr	no	plané žvásty	conservative
+CS96	n	qas	no	míchanice	inclusive
+CS294	n	cds	no	bas bleu	inclusive
+CS639	n	asm	no	idiot	inclusive
+CS1703	n	dmc	yes	zlodějíček	conservative
+CS392	n	dmc	yes	banditti	inclusive
+CS1937	n	an	no	komárů	inclusive
+CS1254	n	cds	no	rychlý jeden	inclusive
+CS1552	a	dmc	yes	úzkoprsý	conservative
+CS538	n	om	no	sodomist	inclusive
+CS318	n	pr	no	prostitutka	conservative
+CS1062	n	svp	no	zhnusení	inclusive
+CS2492	n	cds	no	prodejnost	inclusive
+CS1801	n	dmc	yes	hrubý	conservative
+CS1833	n	svp	no	spořivost	inclusive
+CS1709	n	cds	no	comfort station	inclusive
+CS573	n	an	no	chlap mizerná	conservative
+CS152	n	cds	no	perspicaciousness	inclusive
+CS1467	n	om	no	homosexuálních mužů	inclusive
+CS581	n	dmc	yes	tramp	conservative
+CS2465	n	re	no	ndrina	inclusive
+CS372	n	svp	no	bigot	conservative
+CS642	n	asf	no	odročit	conservative
+CS143	n	an	no	epifauna	inclusive
+CS1272	n	asm	no	ryby	inclusive
+CS586	n	is	yes	padouch	conservative
+CS1383	n	qas	no	fízl	inclusive
+CS1539	n	cds	no	balladeer	inclusive
+CS1828	n	qas	no	farník	inclusive
+CS188	n	svp	no	sedm hlavních hříchů	inclusive
+CS158	n	asm	no	blboun	conservative
+CS114	n	ddp	yes	analfabetismus	inclusive
+CS1291	n	cds	no	narkoman	conservative
+CS273	n	pa	yes	právník	inclusive
+CS1125	n	svp	no	rýhovač	conservative
+CS617	n	an	no	carcharodon	inclusive
+CS2424	n	pa	yes	administrativní pracovník	inclusive
+CS836	n	ddp	yes	žvanil	conservative
+CS2013	n	an	no	klíšť	inclusive
+CS908	n	asm	no	twerp	conservative
+CS169	n	asf	no	kreténe	conservative
+CS1346	n	asm	no	fava	inclusive
+CS1358	a	dmc	yes	páchnoucí	conservative
+CS2105	n	or	no	bramborová	inclusive
+CS590	n	is	yes	darebák	conservative
+CS670	n	dmc	yes	podvodník	conservative
+CS1756	n	cds	no	pachatele	inclusive
+CS1049	n	cds	no	zločinnost	inclusive
+CS1603	n	cds	no	učební pomůcka	inclusive
+CS1017	n	asm	no	doofus	conservative
+CS986	n	cds	no	demagogie	conservative
+CS931	n	cds	no	přírodní hybrid	inclusive
+CS1004	a	ddp	yes	naivní	conservative
+CS2204	n	is	yes	chuďas	inclusive
+CS468	n	cds	no	boo-boo	inclusive
+CS269	n	pa	yes	advokát	inclusive
+CS997	n	pr	no	konkubína	inclusive
+CS561	n	cds	no	panovačnost	conservative
+CS298	n	asm	no	obětní beránek	conservative
+CS443	n	cds	no	bastard	inclusive
+CS1070	n	dmc	yes	pokrytec	conservative
+CS872	n	an	no	štěnice	inclusive
+CS380	n	cds	no	gangster	conservative
+CS1553	n	dmc	yes	uličník	inclusive
+CS2481	n	ps	yes	cikán	conservative
+CS1206	n	dmc	yes	chudák	conservative
+CS1802	n	cds	no	křupan	conservative
+CS816	n	or	no	podivný	conservative
+CS697	n	cds	no	rod	inclusive
+CS649	n	re	no	hanlivé	inclusive
+CS2432	n	om	no	crossdressing	inclusive
+CS262	n	pa	yes	diplomatické styky	inclusive
+CS325	n	pr	no	mužský doprovod	conservative
+CS533	n	qas	no	podnikatelka	inclusive
+CS1847	n	cds	no	prankishness	inclusive
+CS1558	n	ddf	yes	postižením	inclusive
+CS981	n	dmc	yes	mystifikace	conservative
+CS1038	n	cds	no	penny hrozné	inclusive
+CS2161	n	cds	no	religiousism	inclusive
+CS526	n	pr	no	potkan	inclusive
+CS1557	n	ddf	yes	tělesně postižené	inclusive
+CS1834	n	asm	no	pisum sativum	inclusive
+CS2037	n	dmc	yes	homunculus	inclusive
+CS643	n	asf	no	changeling	conservative
+CS2422	n	pa	yes	white-collar worker	inclusive
+CS827	n	ddp	yes	rumormonger	conservative
+CS2191	n	an	no	gallus domesticus	inclusive
+CS282	n	qas	no	baroni	inclusive
+CS546	n	qas	no	na práci	inclusive
+CS1374	n	pr	no	prostitut	inclusive
+CS823	n	om	no	homophile	inclusive
+CS2490	n	dmc	yes	potulka	inclusive
+CS164	n	an	no	pitomec	conservative
+CS2499	n	pr	no	dvořenín	inclusive
+CS890	n	asm	no	credulousness	conservative
+CS1723	n	an	no	měkkýši	inclusive
+CS1792	n	om	no	pederastie	inclusive
+CS466	n	cds	no	zbabrat	inclusive
+CS431	n	cds	no	vořech	inclusive
+CS1077	n	om	no	dorzální	inclusive
+CS379	n	cds	no	gangy	inclusive
+CS899	n	ddp	yes	kreténizmus	inclusive
+CS736	n	asm	no	pták	inclusive
+CS105	n	cds	no	fanatismus	conservative
+CS1710	n	cds	no	veřejné toalety	inclusive
+CS851	n	cds	no	odpadky	conservative
+CS1976	n	pa	yes	wooer	inclusive
+CS1951	n	ps	yes	nigga	conservative
+CS1204	n	cds	no	hříšník	inclusive
+CS1615	a	dmc	yes	nemorální	conservative
+CS365	n	dmc	yes	lhář	inclusive
+CS573	n	dmc	yes	chlap mizerná	conservative
+CS392	n	re	no	banditti	inclusive
+CS157	n	an	no	zabedněnec	conservative
+CS2227	a	cds	no	žluklý	inclusive
+CS2403	n	re	no	teroristický útok	conservative
+CS1961	n	ps	yes	rasa ekvatoriální	inclusive
+CS2110	n	or	no	brambora	inclusive
+CS825	n	or	no	⚣	conservative
+CS1871	n	an	no	scorpion fish	inclusive
+CS2500	n	pr	no	dvořanů	inclusive
+CS962	n	or	no	tykev velkoplodá	inclusive
+CS32	n	pa	yes	academia	inclusive
+CS81	n	svp	no	netečnost	conservative
+CS2168	n	cds	no	ruční práce	conservative
+CS789	n	asm	no	kus ocasu	conservative
+CS2325	a	qas	no	středověký	inclusive
+CS225	n	svp	no	scrooge	conservative
+CS2084	n	qas	no	trouble maker	conservative
+CS491	n	ddp	yes	zooerastia	conservative
+CS639	n	ddp	yes	idiot	conservative
+CS1728	n	ps	yes	mongol	inclusive
+CS155	n	asf	no	betise	conservative
+CS501	n	an	no	tur	inclusive
+CS1040	n	cds	no	penny hrozný	inclusive
+CS1284	n	an	no	siphonaptera	inclusive
+CS1221	n	om	no	invalida	conservative
+CS230	n	qas	no	ballock	inclusive
+CS249	n	rci	yes	neotesanec	conservative
+CS907	n	ddp	yes	twirp	conservative
+CS636	n	cds	no	slaboch	conservative
+CS2115	n	or	no	solanum esculentum	inclusive
+CS919	n	an	no	krokodýlové	inclusive
+CS1320	n	svp	no	běs	conservative
+CS345	n	cds	no	peklo	inclusive
+CS1904	n	an	no	animalcules	inclusive
+CS511	n	cds	no	mafiánský boss	inclusive
+CS2077	n	cds	no	povýšenec	inclusive
+CS387	n	re	no	rogue	conservative
+CS1742	n	dmc	yes	loudal	conservative
+CS270	n	pa	yes	advokacie	inclusive
+CS2454	n	asm	no	ptactvo	inclusive
+CS987	n	cds	no	demagogické	conservative
+CS739	n	asm	no	kohout	inclusive
+CS1911	n	ddp	yes	stupidita	conservative
+CS1665	n	cds	no	dohazovač	inclusive
+CS1209	a	dmc	yes	bezskrupulózní	conservative
+CS102	n	ddp	yes	cancy	conservative
+CS1233	n	cds	no	pasák	conservative
+CS2041	n	ddp	yes	twaddler	conservative
+CS710	n	an	no	capra aegagrus hircus	inclusive
+CS1117	n	cds	no	slyboots	conservative
+CS957	n	cds	no	camarilla	inclusive
+CS2428	n	an	no	drsnokřídlec březový	inclusive
+CS392	n	cds	no	banditti	inclusive
+CS661	n	re	no	defamer	conservative
+CS2389	n	re	no	sexuálních útoků	inclusive
+CS1735	n	an	no	komáry	inclusive
+CS396	n	re	no	zločinec	inclusive
+CS2494	n	an	no	červi	inclusive
+CS2051	n	ps	yes	vandalové	inclusive
+CS1337	n	cds	no	fašisti	conservative
+CS83	n	qas	no	přisluhovač	inclusive
+CS1521	n	qas	no	kurlok	inclusive
+CS141	n	an	no	epifaunal	inclusive
+CS165	n	ps	yes	hlupák	conservative
+CS1573	n	ddp	yes	nesmyslný	conservative
+CS2457	n	asm	no	ptáci	inclusive
+CS14	n	qas	no	akolyta	inclusive
+CS2183	a	dmc	yes	falešný	conservative
+CS2195	n	cds	no	miminko	inclusive
+CS1666	n	cds	no	hmotnost	inclusive
+CS1856	n	cds	no	ostatek	inclusive
+CS1082	n	om	no	orientace na lidském těle	inclusive
+CS200	n	is	yes	lakota	conservative
+CS843	n	cds	no	posera	conservative
+CS93	n	cds	no	všehochuť	inclusive
+CS1060	n	svp	no	nepříjemné	inclusive
+CS844	n	an	no	zbabělec	conservative
+CS817	n	om	no	queer	conservative
+CS797	n	asm	no	souložit	conservative
+CS247	n	ddp	yes	barbarství	conservative
+CS324	n	an	no	běhna	conservative
+CS1472	n	om	no	homosexuality	inclusive
+CS944	n	or	no	piča	conservative
+CS2322	a	svp	no	lascivní	conservative
+CS245	n	ps	yes	hulvát	conservative
+CS171	n	an	no	šmejd	conservative
+CS2491	n	dmc	yes	tuláctví	inclusive
+CS166	n	ddp	yes	blb	inclusive
+CS1338	n	asm	no	angličtina bean	inclusive
+CS1376	n	asf	no	pubes	inclusive
+CS627	n	cds	no	mršina	inclusive
+CS2280	n	an	no	žábovitý	inclusive
+CS1606	n	cds	no	učitelka	inclusive
+CS2365	n	an	no	lampyris parvicollis	inclusive
+CS255	n	pa	yes	diplomatický vztah	inclusive
+CS595	n	cds	no	načmárat	inclusive
+CS250	n	pa	yes	barbarizace	conservative
+CS2165	a	svp	no	rozzlobený	inclusive
+CS1947	n	cds	no	idiolatry	inclusive
+CS1298	n	cds	no	Řád svobodných zednářů	inclusive
+CS2121	n	or	no	solanum molinae	inclusive
+CS1408	v	asm	no	prcat	conservative
+CS202	n	ddp	yes	tlachal	conservative
+CS2328	n	ddp	yes	unwiseness	inclusive
+CS138	n	ddp	yes	Živočišná říše	inclusive
+CS247	n	ps	yes	barbarství	conservative
+CS1804	n	cds	no	hayseed	conservative
+CS162	n	asf	no	blbec	conservative
+CS1400	n	cds	no	zpátečník	conservative
+CS796	n	asm	no	nooky	conservative
+CS560	n	cds	no	chlubivost	conservative
+CS1163	n	cds	no	pedagog	inclusive
+CS1387	n	cds	no	kdo zakročí	inclusive
+CS979	n	cds	no	mazanice	inclusive
+CS379	n	cds	no	gangy	conservative
+CS1037	n	cds	no	desetník román	inclusive
+CS1965	n	ps	yes	Černoši	inclusive
+CS1138	n	cds	no	tun	inclusive
+CS487	n	pa	yes	jízdenek	inclusive
+CS1227	n	cds	no	příbuzní	inclusive
+CS1614	n	cds	no	scrawler	conservative
+CS159	n	cds	no	muggins	conservative
+CS298	n	ddp	yes	obětní beránek	conservative
+CS27	n	cds	no	faktor	inclusive
+CS1760	n	svp	no	hanebnosti	inclusive
+CS937	n	qas	no	konformita	inclusive
+CS2483	n	om	no	drag show	inclusive
+CS587	n	an	no	villainess	conservative
+CS4	n	svp	no	lenost	inclusive
+CS674	n	cds	no	lůza	conservative
+CS172	n	an	no	lunkhead	conservative
+CS1132	n	pa	yes	vrátný	inclusive
+CS304	n	ddp	yes	pudink hlava	conservative
+CS427	n	an	no	flákač	conservative
+CS698	n	cds	no	klany	inclusive
+CS328	n	pr	no	floozy	conservative
+CS1697	n	ps	yes	metics	inclusive
+CS568	n	svp	no	ješitnost	conservative
+CS2058	n	dmc	yes	klauni	inclusive
+CS1445	n	re	no	lup	inclusive
+CS1102	n	om	no	tooshie	inclusive
+CS1977	n	pa	yes	nápadník	inclusive
+CS738	n	cds	no	hellion	conservative
+CS1441	n	re	no	zlodějský	inclusive
+CS809	n	cds	no	korespondent	inclusive
+CS2011	n	an	no	klíšťata	inclusive
+CS1043	n	cds	no	kriminalista	inclusive
+CS498	n	pr	no	volů	inclusive
+CS667	n	cds	no	chiseller	conservative
+CS723	n	qas	no	iluze	inclusive
+CS956	n	or	no	okurek	inclusive
+CS2290	n	cds	no	snob	conservative
+CS790	n	asm	no	šroubování	conservative
+CS677	n	an	no	canis familiarus domesticus	inclusive
+CS377	n	cds	no	člen gangu	conservative
+CS1234	n	cds	no	kuplířství	inclusive
+CS933	n	cds	no	mezirodový hybrid	inclusive
+CS296	n	an	no	vůl	inclusive
+CS1114	n	om	no	roviny lidského těla	inclusive
+CS1708	n	cds	no	umývárna	inclusive
+CS277	n	qas	no	svobodný pán	inclusive
+CS1210	n	dmc	yes	zpustlík	conservative
+CS1949	n	cds	no	self-uctívání	inclusive
+CS862	n	an	no	cimex	inclusive
+CS1061	n	svp	no	hnus	inclusive
+CS1700	n	or	no	punctiliousness	inclusive
+CS1675	n	asm	no	Čůrák	inclusive
+CS1109	n	om	no	zadnice	inclusive
+CS1065	n	dmc	yes	kdo se přetvařuje	conservative
+CS1242	n	qas	no	zemědělci	inclusive
+CS97	n	asm	no	maxilliped	inclusive
+CS2015	n	re	no	vražd	inclusive
+CS2213	n	cds	no	protagonism	inclusive
+CS2056	n	pa	yes	vozka	inclusive
+CS489	n	pa	yes	uncouthness	conservative
+CS1574	n	ddp	yes	nesmysl	inclusive
+CS2306	n	an	no	blattodea	inclusive
+CS772	n	pa	yes	prof	inclusive
+CS889	n	asm	no	důvěřivosti	conservative
+CS314	n	an	no	děvka	conservative
+CS462	n	cds	no	pitomost	inclusive
+CS1931	n	ps	yes	mongoloids	conservative
+CS2301	n	an	no	pijavice	inclusive
+CS1151	n	cds	no	kopáč	inclusive
+CS2266	n	qas	no	grandiosity	inclusive
+CS1512	n	qas	no	dům malba	inclusive
+CS2184	n	an	no	volaille	inclusive
+CS850	n	cds	no	odpad	conservative
+CS493	n	an	no	zuřivost	conservative
+CS1731	n	an	no	moskyt	inclusive
+CS250	n	dmc	yes	barbarizace	conservative
+CS1813	n	qas	no	parazitizmus	inclusive
+CS1410	v	asm	no	milovat	conservative
+CS1953	n	ps	yes	jigaboo	conservative
+CS2232	n	or	no	brassica campestris	inclusive
+CS1199	n	an	no	eurypterids	inclusive
+CS96	n	cds	no	míchanice	inclusive
+CS2313	n	cds	no	nemotorný člověk	conservative
+CS1982	n	ps	yes	jiných závodů	inclusive
+CS2076	n	cds	no	novozbohatlických	inclusive
+CS675	n	an	no	psa	inclusive
+CS167	n	or	no	pařez	conservative
+CS640	n	asf	no	kretén	conservative
+CS2180	n	re	no	plagiarisation	inclusive
+CS2486	n	pa	yes	cordwainer	inclusive
+CS506	n	an	no	skot	inclusive
+CS2427	n	an	no	biston betularia	inclusive
+CS835	n	ddp	yes	udávač	conservative
+CS2534	n	ps	yes	zulové	inclusive
+CS7	n	svp	no	abulie	inclusive
+CS1661	n	qas	no	živnostník	inclusive
+CS2048	n	ps	yes	vandal	inclusive
+CS662	n	re	no	maligner	conservative
+CS2403	n	re	no	teroristický útok	inclusive
+CS1608	n	cds	no	učil	inclusive
+CS1000	n	pr	no	nesezdané soužití	inclusive
+CS315	n	cds	no	kuplíř	conservative
+CS2362	n	an	no	lampyris longipennis	inclusive
+CS243	n	pa	yes	divoch	conservative
+CS2174	n	re	no	plagiátorství	inclusive
+CS1413	v	asm	no	souložit	conservative
+CS1187	n	dmc	yes	moralistické	inclusive
+CS1167	n	pa	yes	zaměstnanec	inclusive
+CS2476	n	cds	no	conspiracism	inclusive
+CS1864	n	qas	no	rétor	inclusive
+CS324	n	pr	no	běhna	conservative
+CS1770	n	cds	no	maffie	conservative
+CS175	n	an	no	ignorant	conservative
+CS11	n	svp	no	apatie	inclusive
+CS1196	n	dmc	yes	moralizující	inclusive
+CS1103	n	om	no	anatomické roviny	inclusive
+CS1372	n	an	no	pipistrellus	inclusive
+CS823	n	or	no	homophile	conservative
+CS1769	n	cds	no	cosa nostra	conservative
+CS58	n	ddp	yes	mentální retardace	inclusive
+CS1116	n	cds	no	lišák	conservative
+CS25	n	re	no	zneužití	inclusive
+CS1066	n	dmc	yes	pokrytecké	conservative
+CS556	n	ps	yes	bulhar	inclusive
+CS250	n	cds	no	barbarizace	conservative
+CS2474	n	ps	yes	červenou kartu	inclusive
+CS1377	n	asf	no	ochlupení	inclusive
+CS2206	a	ps	yes	čínské	inclusive
+CS496	n	svp	no	nuda	inclusive
+CS845	n	cds	no	zbabělost	inclusive
+CS1355	n	asf	no	pochva	conservative
+CS246	n	qas	no	barbarové	conservative
+CS1629	n	svp	no	lustfulness	inclusive
+CS911	n	an	no	krokodýli	inclusive
+CS1456	n	pr	no	kurevnictví	conservative
+CS355	n	ps	yes	beduínští nomádi	inclusive
+CS1207	n	an	no	ovce	inclusive
+CS2006	n	re	no	terorista	conservative
+CS1449	n	qas	no	parazit	conservative
+CS197	n	svp	no	lakomství	inclusive
+CS134	n	ddp	yes	metazoa	inclusive
+CS576	n	cds	no	ničema	conservative
+CS2464	n	cds	no	'ndrangheta	inclusive
+CS1511	n	qas	no	malíř	inclusive
+CS271	n	pa	yes	advokátka	inclusive
+CS156	n	an	no	hloupost	conservative
+CS1002	n	or	no	prosťáček	conservative
+CS1861	n	qas	no	řečnictví	inclusive
+CS1140	n	cds	no	výsledky	inclusive
+CS1903	n	an	no	animalcule	inclusive
+CS1273	n	asm	no	pterygiophore	inclusive
+CS1736	n	pr	no	mol	inclusive
+CS1011	n	re	no	lupič	conservative
+CS1771	n	cds	no	mafiosi	inclusive
+CS1239	n	qas	no	fieldhand	inclusive
+CS1789	n	an	no	tlusťoch	conservative
+CS1799	n	cds	no	papír-pusher	inclusive
+CS246	n	pa	yes	barbarové	conservative
+CS74	n	om	no	sodomized	inclusive
+CS2360	n	pr	no	lampyris submucronata	inclusive
+CS2445	n	pr	no	xantipa	conservative
+CS831	n	cds	no	newsmonger	conservative
+CS502	n	an	no	volové	inclusive
+CS1530	n	an	no	hyena	inclusive
+CS1657	n	cds	no	zpět talk	inclusive
+CS250	n	rci	yes	barbarizace	conservative
+CS166	n	an	no	blb	conservative
+CS164	n	asf	no	pitomec	conservative
+CS1336	n	cds	no	fašismus	conservative
+CS2193	n	an	no	kuřinec	inclusive
+CS823	n	om	no	homophile	conservative
+CS1962	n	ps	yes	černoška	inclusive
+CS2298	n	an	no	hirudinea	inclusive
+CS1653	n	an	no	insecta	inclusive
+CS2158	a	an	no	zavšivený	inclusive
+CS2000	n	an	no	berneška tmavá	inclusive
+CS1238	n	qas	no	zemědělský pracovník	inclusive
+CS2159	n	cds	no	religiozita	inclusive
+CS888	n	asm	no	důvěřivost	conservative
+CS666	n	cds	no	defrauder	conservative
+CS162	n	cds	no	blbec	inclusive
+CS687	n	om	no	pederast	conservative
+CS2380	n	re	no	sexuálně napadl	inclusive
+CS2346	n	qas	no	slídil	inclusive
+CS1922	n	an	no	nazí plži	inclusive
+CS263	n	pa	yes	ministr	inclusive
+CS1450	n	qas	no	tagalong	conservative
+CS1200	n	an	no	gigantostraca	inclusive
+CS1204	n	cds	no	hříšník	conservative
+CS1309	n	cds	no	zednářské	inclusive
+CS200	n	an	no	lakota	conservative
+CS134	n	an	no	metazoa	inclusive
+CS960	n	or	no	tykev obrovská	inclusive
+CS2023	n	re	no	vražda	inclusive
+CS2437	n	om	no	crossdress	inclusive
+CS2166	n	cds	no	wank	conservative
+CS2479	n	cds	no	teorie spiknutí	inclusive
+CS320	n	pr	no	lehká děva	conservative
+CS365	n	qas	no	lhář	conservative
+CS1124	n	svp	no	labužník	conservative
+CS795	n	asm	no	nookie	conservative
+CS1332	n	cds	no	fašizmus	conservative
+CS169	n	an	no	kreténe	conservative
+CS2404	n	re	no	terorizmus	inclusive
+CS1836	n	asm	no	hrášek	inclusive
+CS1420	n	an	no	prasata	inclusive
+CS1216	n	dmc	yes	rozhazovačný	inclusive
+CS1501	n	cds	no	lid	inclusive
+CS1250	n	is	yes	marginalizace	inclusive
+CS2518	n	ps	yes	rom	inclusive
+CS1526	n	cds	no	shánějí	conservative
+CS1814	n	qas	no	parazitují	inclusive
+CS1390	n	cds	no	zprostředkovatel	inclusive
+CS576	n	re	no	ničema	conservative
+CS988	n	cds	no	demagog	conservative
+CS586	n	dmc	yes	padouch	conservative
+CS1901	n	an	no	pip-pískot	conservative
+CS395	n	cds	no	kriminální	conservative
+CS1777	n	re	no	mafie	inclusive
+CS1002	n	cds	no	prosťáček	conservative
+CS2447	n	pr	no	hetaera	inclusive
+CS1447	n	re	no	kořist	inclusive
+CS1763	n	cds	no	policejní strážnice	inclusive
+CS876	n	an	no	hemipteran	inclusive
+CS494	n	svp	no	nudné	inclusive
+CS1148	n	cds	no	spoustu	inclusive
+CS2141	n	cds	no	whiner	conservative
+CS2278	n	an	no	ropuchy	inclusive
+CS1389	n	cds	no	mediátor	inclusive
+CS1736	n	an	no	mol	inclusive
+CS1396	n	dmc	yes	ne'er-dělat-dobře	conservative
+CS1636	n	re	no	novorozenců	inclusive
+CS1162	n	cds	no	vzdělavatel	inclusive
+CS1035	n	an	no	diddley	conservative
+CS2516	n	re	no	spolupachatel	inclusive
+CS168	n	ddp	yes	mamlas	conservative
+CS730	n	asm	no	šulin	conservative
+CS315	n	cds	no	kuplíř	inclusive
+CS947	n	asf	no	píča	conservative
+CS501	n	pr	no	tur	inclusive
+CS1567	n	ddp	yes	asshole	conservative
+CS946	n	asf	no	píčo	conservative
+CS235	n	asm	no	varle	inclusive
+CS1926	n	an	no	hlemýžď	inclusive
+CS2132	a	om	no	abnormální	inclusive
+CS2234	n	re	no	únos	inclusive
+CS1438	n	re	no	krádeže	inclusive
+CS644	n	ddp	yes	changelings	conservative
+CS2433	n	om	no	cross-komody	inclusive
+CS505	n	pr	no	tele	inclusive
+CS213	n	cds	no	vykřičený dům	inclusive
+CS1757	n	dmc	yes	pachatel	inclusive
+CS2108	n	or	no	papas americanum	inclusive
+CS171	n	ddp	yes	šmejd	conservative
+CS2258	n	cds	no	groveler	conservative
+CS1011	n	cds	no	lupič	inclusive
+CS600	a	dmc	yes	hnusný	conservative
+CS169	n	ddp	yes	kreténe	conservative
+CS472	n	cds	no	vaunter	conservative
+CS449	n	pa	yes	funebrák	inclusive
+CS1843	n	an	no	prasátko	inclusive
+CS163	n	asf	no	pošetilec	conservative
+CS340	n	cds	no	dandy	inclusive
+CS650	n	re	no	hanobení	inclusive
+CS1405	n	cds	no	reakční	conservative
+CS2340	a	pa	yes	politické	inclusive
+CS125	n	ddp	yes	animalia	inclusive
+CS1334	n	cds	no	neofašismus	conservative
+CS854	n	cds	no	odpady kovové	conservative
+CS184	n	an	no	zubra evropského	inclusive
+CS543	n	qas	no	buržoasie	inclusive
+CS427	n	svp	no	flákač	conservative
+CS40	n	pa	yes	akademiky	inclusive
+CS1565	n	ddf	yes	neschopnost	inclusive
+CS916	n	an	no	krokodýlí	inclusive
+CS2233	n	or	no	vodnice	inclusive
+CS2014	n	an	no	klíště	inclusive
+CS2216	a	cds	no	demagogický	conservative
+CS1607	n	cds	no	paňčelka	inclusive
+CS915	n	an	no	crocodylia	inclusive
+CS1027	n	re	no	zločiny	inclusive
+CS566	n	cds	no	namyšlenost	conservative
+CS1865	n	qas	no	rétorika	inclusive
+CS1684	n	ddp	yes	mentální deficit	inclusive
+CS296	n	ps	yes	vůl	conservative
+CS375	n	dmc	yes	fanatik	conservative
+CS1007	n	cds	no	zoufalec	inclusive
+CS1326	n	dmc	yes	dillydallier	conservative
+CS1882	n	ps	yes	mestic	conservative
+CS704	n	cds	no	domorodých obyvatel	inclusive
+CS161	n	asm	no	blázen	conservative
+CS1551	n	cds	no	modlářství	inclusive
+CS1663	n	asm	no	maroon	inclusive
+CS376	n	cds	no	bigotní	conservative
+CS462	n	qas	no	pitomost	inclusive
+CS210	n	cds	no	nevěstinec	inclusive
+CS165	n	asm	no	hlupák	inclusive
+CS1020	n	ps	yes	ničitel	conservative
+CS1851	n	svp	no	superbia	conservative
+CS55	n	ddp	yes	debil	inclusive
+CS2201	a	ps	yes	černé	inclusive
+CS164	n	ddp	yes	pitomec	conservative
+CS1349	n	asm	no	široký-bean	inclusive
+CS517	n	asm	no	zahnědění	inclusive
+CS935	n	cds	no	nováček	conservative
+CS1197	n	an	no	eurypterida	inclusive
+CS299	n	ddp	yes	soft touch	conservative
+CS2463	n	cds	no	stoka	inclusive
+CS2466	n	re	no	ndrangheta	inclusive
+CS338	n	qas	no	faleš	conservative
+CS2086	n	qas	no	troubler	conservative
+CS1206	n	dmc	yes	chudák	inclusive
+CS3	n	svp	no	lenoch	conservative
+CS1054	n	ps	yes	jerry	conservative
+CS667	n	dmc	yes	chiseller	conservative
+CS1869	n	an	no	ropušnic	inclusive
+CS1758	n	svp	no	oplzlé	inclusive
+CS2506	n	an	no	vipera	inclusive
+CS2125	n	cds	no	knihomol	conservative
+CS1383	n	cds	no	fízl	conservative
+CS1366	n	cds	no	věznitel	inclusive
+CS2175	n	re	no	plagiátor	inclusive
+CS2516	n	cds	no	spolupachatel	inclusive
+CS950	n	or	no	cunt	conservative
+CS1044	n	cds	no	trestná činnost	inclusive
+CS1397	n	svp	no	no-účet	conservative
+CS633	n	dmc	yes	sociální vyvrženec	inclusive
+CS737	n	cds	no	ďábel	conservative
+CS247	n	cds	no	barbarství	conservative
+CS434	n	cds	no	stávkokaz	inclusive
+CS48	n	ddp	yes	idiocie	inclusive
+CS1069	n	dmc	yes	disimulace	conservative
+CS389	n	cds	no	loupežník	conservative
+CS1468	n	om	no	homosexualita	inclusive
+CS256	n	pa	yes	poradce-at-právní	inclusive
+CS2103	n	or	no	solanum paramoense	inclusive
+CS513	n	ddp	yes	poškození mozku	inclusive
+CS1721	n	an	no	mollusca	inclusive
+CS1097	n	om	no	kraniální	inclusive
+CS802	n	an	no	králíka	inclusive
+CS2247	n	re	no	loupeží	inclusive
+CS689	n	om	no	homosexuál	conservative
+CS537	n	om	no	sodomita	inclusive
+CS503	n	an	no	krávy	inclusive
+CS1555	n	an	no	puštík proužkovaný	inclusive
+CS576	n	dmc	yes	ničema	conservative
+CS287	n	qas	no	barokní	inclusive
+CS1900	n	an	no	mikroorganismů	inclusive
+CS1011	n	dmc	yes	lupič	conservative
+CS722	n	qas	no	omámit	inclusive
+CS1930	n	ps	yes	mongoloid	conservative
+CS1944	n	cds	no	narcismus	inclusive
+CS99	a	svp	no	útočný	conservative
+CS1052	n	ps	yes	skopčáci	conservative
+CS2049	n	ps	yes	vandalské království	inclusive
+CS482	n	qas	no	fušer	conservative
+CS573	n	dmc	yes	chlap mizerná	inclusive
+CS1393	n	an	no	caprinae	inclusive
+CS719	n	svp	no	niggardliness	conservative
+CS731	n	asm	no	péro	conservative
+CS1256	n	re	no	exact	inclusive
+CS980	n	qas	no	mazal	conservative
+CS200	n	svp	no	lakota	conservative
+CS2045	n	cds	no	lichva	inclusive
+CS1854	n	pr	no	krysy	inclusive
+CS249	n	asf	no	neotesanec	conservative
+CS5	n	svp	no	flákání	inclusive

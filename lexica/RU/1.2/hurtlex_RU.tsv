@@ -1,0 +1,4680 @@
+id	pos	category	stereotype	lemma	level
+RU1466	n	re	no	Декриминализация	inclusive
+RU2548	n	re	no	cosa nosta	inclusive
+RU469	n	cds	no	франт	inclusive
+RU1412	n	om	no	сударыня	inclusive
+RU2209	n	re	no	шалу́нья	inclusive
+RU883	n	an	no	слаба́к	conservative
+RU557	n	qas	no	король	inclusive
+RU671	n	an	no	порочность	conservative
+RU515	n	an	no	мошенник	conservative
+RU2836	n	cds	no	Омерта	inclusive
+RU1649	n	dmc	yes	деликт	inclusive
+RU1410	n	cds	no	шутником	conservative
+RU72	n	ddp	yes	идиотизм	inclusive
+RU3540	n	dmc	yes	Делинквент	inclusive
+RU3043	n	re	no	Пират	inclusive
+RU2685	n	pr	no	канализационную крысу	inclusive
+RU1918	n	an	no	нетопырь	inclusive
+RU2067	n	pr	no	коммерческие акты	inclusive
+RU664	n	pa	yes	кассир	inclusive
+RU1006	n	cds	no	Го	inclusive
+RU462	n	cds	no	денди	inclusive
+RU3520	n	pa	yes	служащая	inclusive
+RU2164	n	cds	no	Хибрис	conservative
+RU1921	n	asf	no	мохнатка	inclusive
+RU873	n	dmc	yes	Пария	inclusive
+RU1328	n	an	no	crocodilia	inclusive
+RU2204	n	re	no	прока́зник	inclusive
+RU1493	n	an	no	дерьмо́	conservative
+RU49	n	pa	yes	преподаватель	inclusive
+RU908	n	pr	no	сука	conservative
+RU1490	n	an	no	гомно́	conservative
+RU768	n	cds	no	объём	inclusive
+RU1649	n	re	no	деликт	inclusive
+RU688	n	an	no	корова	inclusive
+RU214	n	asf	no	валять дурака	conservative
+RU677	n	an	no	коровы	inclusive
+RU3118	n	pr	no	болтовня	conservative
+RU967	n	an	no	собака	inclusive
+RU1602	n	svp	no	траншеекопатель	inclusive
+RU1794	n	cds	no	motley fool	inclusive
+RU2761	n	cds	no	нарциссизм	inclusive
+RU1648	n	dmc	yes	Деликт	inclusive
+RU471	n	cds	no	пижон	inclusive
+RU512	n	re	no	плут	conservative
+RU1863	n	cds	no	Парафашизм	conservative
+RU88	n	om	no	Анальный половой акт	inclusive
+RU1341	n	cds	no	interfertility	inclusive
+RU443	n	pr	no	проститу́т	conservative
+RU896	n	asf	no	замедлять	conservative
+RU1588	n	om	no	Дорсальный	inclusive
+RU774	n	dmc	yes	дрянь	conservative
+RU2040	n	re	no	Хищения	inclusive
+RU2223	n	ddf	yes	инвалидность	inclusive
+RU938	n	cds	no	каморра	inclusive
+RU2589	n	qas	no	Паразиты	inclusive
+RU1187	n	om	no	гомосексуальный	conservative
+RU3106	a	cds	no	трусливый	conservative
+RU391	n	cds	no	забаллотирован	inclusive
+RU2389	a	svp	no	негоду́ющий	conservative
+RU735	n	qas	no	буржуазного общества	inclusive
+RU1702	n	dmc	yes	Либертины	conservative
+RU3177	a	dmc	yes	загрязненных	inclusive
+RU859	n	an	no	Животные-людоеды	inclusive
+RU796	n	cds	no	чернь	inclusive
+RU1855	n	cds	no	обма́нщик	conservative
+RU2372	n	qas	no	рынка хранитель	inclusive
+RU292	n	qas	no	яйцо	inclusive
+RU599	n	cds	no	дитя́ любви́	inclusive
+RU791	n	svp	no	лоботря́с	conservative
+RU3035	a	cds	no	остроумный	inclusive
+RU164	n	an	no	animalia	inclusive
+RU2161	n	cds	no	Гибрида	conservative
+RU1601	n	svp	no	gourmandizer	inclusive
+RU617	n	an	no	рогоносец	conservative
+RU333	n	ddp	yes	хамка	conservative
+RU1181	n	or	no	Гомофилия	conservative
+RU331	n	rci	yes	грубиян	conservative
+RU404	n	cds	no	pudden головы	conservative
+RU2800	n	ps	yes	белых	inclusive
+RU2205	n	dmc	yes	баловни́ца	inclusive
+RU2301	n	om	no	леди	inclusive
+RU1719	n	qas	no	разглашение	inclusive
+RU1511	n	ps	yes	джерри	conservative
+RU901	n	ddp	yes	кретин	inclusive
+RU2187	n	cds	no	Идолопоклонничество	inclusive
+RU4	v	an	no	лаять	inclusive
+RU290	n	asm	no	Яички	inclusive
+RU806	n	cds	no	драндуле́т	inclusive
+RU3357	a	svp	no	презри́тельный	conservative
+RU1486	n	cds	no	правонарушение	inclusive
+RU1123	n	or	no	Капуста краснокочанная	inclusive
+RU1585	n	om	no	среднеключичной линии	inclusive
+RU1180	n	or	no	го́мик	conservative
+RU2128	n	cds	no	наро́д	conservative
+RU188	n	re	no	насильники	conservative
+RU10	n	dmc	yes	выделения	inclusive
+RU2441	n	cds	no	туалет	inclusive
+RU876	n	is	yes	вы́брошенный	inclusive
+RU207	n	ddp	yes	дуралей	conservative
+RU3027	a	re	no	разъярённый	inclusive
+RU2838	n	cds	no	омерта	inclusive
+RU668	n	ddp	yes	zooerastia	conservative
+RU2989	n	cds	no	жалобщик	conservative
+RU628	n	cds	no	промах	inclusive
+RU2877	n	cds	no	Гомункулус	inclusive
+RU1711	n	dmc	yes	scattergood	inclusive
+RU1748	n	cds	no	фашистский	conservative
+RU794	n	svp	no	безде́льник	conservative
+RU327	n	ddp	yes	мужик	conservative
+RU2466	n	ps	yes	монго́лка	inclusive
+RU321	n	rci	yes	грубиянка	conservative
+RU2774	n	ps	yes	Негры	inclusive
+RU2409	n	cds	no	взломщик	inclusive
+RU1859	n	dmc	yes	гангстера	inclusive
+RU2657	n	qas	no	Риторик	inclusive
+RU214	n	asm	no	валять дурака	conservative
+RU2158	n	qas	no	сарай	inclusive
+RU1075	n	qas	no	простолюдинов	inclusive
+RU530	n	an	no	bison	inclusive
+RU2706	n	ddp	yes	microcephalus	inclusive
+RU3085	n	cds	no	ребенка	inclusive
+RU396	n	or	no	лох	conservative
+RU1813	n	cds	no	Вольный каменщик	inclusive
+RU523	n	re	no	престу́пник	inclusive
+RU1214	n	cds	no	боягу́зка	conservative
+RU81	n	an	no	бизон	inclusive
+RU268	n	svp	no	куркуль	inclusive
+RU2283	n	cds	no	помпезности	conservative
+RU3151	n	re	no	Грабитель	inclusive
+RU2693	n	an	no	микроорганизмов	inclusive
+RU824	n	an	no	cakehole	inclusive
+RU1804	n	asm	no	фол	inclusive
+RU2726	n	asm	no	jeerer	conservative
+RU1602	n	svp	no	траншеекопатель	conservative
+RU267	n	svp	no	скряга	conservative
+RU215	n	asm	no	простофиля	conservative
+RU593	n	cds	no	тупи́ца	conservative
+RU761	n	svp	no	тщесла́вие	conservative
+RU1617	n	cds	no	обилие	inclusive
+RU325	n	rci	yes	варваров	conservative
+RU2273	n	ddp	yes	некомпетентный	conservative
+RU1179	n	om	no	гомик	conservative
+RU1526	n	cds	no	Гранджеры	inclusive
+RU2949	n	or	no	solanum tuberosum	inclusive
+RU2396	n	ddp	yes	дебильности	inclusive
+RU164	n	ddp	yes	animalia	inclusive
+RU3199	n	an	no	жабы	inclusive
+RU200	n	an	no	глупость	conservative
+RU459	n	cds	no	ложь	conservative
+RU867	n	cds	no	казино, азартные игры	inclusive
+RU2469	n	an	no	комар	inclusive
+RU807	n	cds	no	драндулет	inclusive
+RU1062	n	asm	no	хуй	inclusive
+RU83	n	svp	no	самолюбие	conservative
+RU1187	n	om	no	гомосексуальный	inclusive
+RU44	n	cds	no	маклер	inclusive
+RU1824	n	cds	no	Фармазоны	inclusive
+RU908	n	an	no	сука	conservative
+RU3266	a	svp	no	сладострастный	conservative
+RU202	n	cds	no	болван	conservative
+RU886	n	cds	no	губошлёп	conservative
+RU1284	n	ddp	yes	дурь	conservative
+RU928	n	re	no	Клевета	inclusive
+RU3039	n	re	no	plagiarization	inclusive
+RU782	n	dmc	yes	бродяга	conservative
+RU2521	n	cds	no	полицай	inclusive
+RU45	n	pa	yes	академия	inclusive
+RU84	n	svp	no	себялюбие	conservative
+RU365	n	pa	yes	приверженец	inclusive
+RU326	n	ps	yes	грубый	conservative
+RU474	n	cds	no	столпотворение	inclusive
+RU1601	n	svp	no	gourmandizer	conservative
+RU3030	n	cds	no	ручной	conservative
+RU2169	n	an	no	Береговой волк	inclusive
+RU208	n	asf	no	дурень	conservative
+RU648	n	qas	no	конформистом	conservative
+RU2094	n	ps	yes	иудейство	inclusive
+RU363	n	pa	yes	поборница	inclusive
+RU463	n	cds	no	clotheshorse	inclusive
+RU769	n	an	no	бычок-кастрат	inclusive
+RU644	n	cds	no	нетерпимость	conservative
+RU3543	n	ps	yes	romanis	inclusive
+RU798	n	cds	no	быдло	conservative
+RU2203	n	re	no	чертёнок	inclusive
+RU555	n	qas	no	царь	inclusive
+RU649	n	cds	no	bumbler	conservative
+RU115	n	qas	no	омниум-gatherum	inclusive
+RU509	n	cds	no	шайка	conservative
+RU248	n	an	no	Аурокс	inclusive
+RU2327	n	cds	no	Обман	conservative
+RU2047	n	re	no	грабеж	inclusive
+RU1244	n	qas	no	отбросы	inclusive
+RU11	n	svp	no	aboulia	inclusive
+RU2191	n	cds	no	Идолопоклонство	inclusive
+RU915	n	re	no	клеветническими	inclusive
+RU2744	n	pr	no	Светский лев	inclusive
+RU1509	n	cds	no	Преступный мир	inclusive
+RU1631	n	cds	no	пехотинец	inclusive
+RU510	n	qas	no	банда	inclusive
+RU1545	n	om	no	derriere	inclusive
+RU1259	n	an	no	клоп-черепашка	inclusive
+RU1620	n	cds	no	очень большое количество	inclusive
+RU2353	n	cds	no	ростовщика	conservative
+RU1176	n	or	no	гомосе́к	conservative
+RU962	n	an	no	familiaris	inclusive
+RU21	n	svp	no	Анормия	inclusive
+RU2527	n	cds	no	коп	conservative
+RU301	n	asm	no	яйцеклетка	inclusive
+RU698	n	asm	no	brownness	inclusive
+RU1859	n	cds	no	гангстера	inclusive
+RU1430	n	pr	no	сожительство	inclusive
+RU1652	n	qas	no	любитель	inclusive
+RU1113	n	or	no	Ранетка	inclusive
+RU2759	n	cds	no	половина пинты	conservative
+RU666	n	an	no	zooerasty	conservative
+RU300	n	cds	no	ерунда	conservative
+RU3472	n	ps	yes	pikey	conservative
+RU1085	n	an	no	Комар обыкновенный	inclusive
+RU2818	n	qas	no	арендатора	inclusive
+RU1906	n	cds	no	под ключ	inclusive
+RU1446	n	cds	no	простак	conservative
+RU1169	n	or	no	Квир-идентичность	conservative
+RU1	n	dmc	yes	низость	inclusive
+RU302	n	qas	no	яйцо́	inclusive
+RU1857	n	cds	no	брато́к	inclusive
+RU459	n	dmc	yes	ложь	conservative
+RU888	n	an	no	ро́хля	conservative
+RU656	n	cds	no	путаник	conservative
+RU1528	n	an	no	подлость	conservative
+RU2875	n	dmc	yes	Гомункул	inclusive
+RU740	n	qas	no	буржуазии	inclusive
+RU38	n	re	no	злоупотреблять	inclusive
+RU2022	a	cds	no	оборотистый	conservative
+RU3329	n	pr	no	Обыкновенный светляк	inclusive
+RU282	n	cds	no	Публичный дом	inclusive
+RU1221	n	cds	no	трусость	conservative
+RU513	n	re	no	жулик	inclusive
+RU800	n	dmc	yes	Злодейка	conservative
+RU947	n	qas	no	халтура	conservative
+RU330	n	ddp	yes	варварка	conservative
+RU3361	a	svp	no	заносчивый	conservative
+RU3124	n	pa	yes	бухга́лтер	inclusive
+RU2790	n	ps	yes	негритянка	inclusive
+RU3087	n	cds	no	дитя	inclusive
+RU1560	n	om	no	Основные анатомические термины	inclusive
+RU251	n	an	no	Бизон европейский	inclusive
+RU1514	n	ps	yes	krauthead	conservative
+RU398	n	asf	no	мягкая на ощупь	conservative
+RU3518	n	pa	yes	сотрудница	inclusive
+RU467	n	cds	no	фат	inclusive
+RU944	n	an	no	ragtag	conservative
+RU3168	n	re	no	захвативший в плен	inclusive
+RU489	n	cds	no	выдумщик	conservative
+RU2663	n	qas	no	риторики	inclusive
+RU567	n	cds	no	полукро́вка	inclusive
+RU2712	n	an	no	ovis aries	inclusive
+RU529	n	an	no	козел	inclusive
+RU771	n	dmc	yes	мерзавец	conservative
+RU277	n	svp	no	Алчность	inclusive
+RU2917	n	qas	no	халявщик	conservative
+RU1553	n	om	no	сзади	inclusive
+RU3267	a	svp	no	распущенный	conservative
+RU1017	n	cds	no	Племена	inclusive
+RU2793	a	ps	yes	чёрный	inclusive
+RU323	n	rci	yes	дикарка	conservative
+RU3490	n	cds	no	продажных	inclusive
+RU2147	n	qas	no	работа по дому	inclusive
+RU3070	n	an	no	Курятина	inclusive
+RU1154	n	asm	no	ficken	conservative
+RU3121	a	svp	no	злобный	conservative
+RU2081	n	om	no	Гомосексуалисты	inclusive
+RU1236	n	cds	no	мусор	conservative
+RU2896	n	an	no	стервятник	inclusive
+RU321	n	ddp	yes	грубиянка	conservative
+RU1217	n	cds	no	боя́ка	conservative
+RU1296	n	an	no	обманщица	conservative
+RU793	n	dmc	yes	лежебока	conservative
+RU3135	n	or	no	brassica rapa	inclusive
+RU1390	n	or	no	Огурец	inclusive
+RU1037	n	an	no	Козлята	inclusive
+RU1381	n	asf	no	пизда	conservative
+RU1855	n	dmc	yes	обма́нщик	conservative
+RU1615	n	cds	no	тонн	inclusive
+RU3459	n	ps	yes	жёлтая карточка	inclusive
+RU1134	n	cds	no	толпиться	inclusive
+RU2763	n	cds	no	самовлюбленность	inclusive
+RU1231	n	qas	no	бытовых отходов	inclusive
+RU561	n	cds	no	сквернословить	conservative
+RU1624	n	dmc	yes	странница	inclusive
+RU1464	n	ps	yes	истребитель	conservative
+RU2293	n	cds	no	нежелательной почты	inclusive
+RU750	n	ps	yes	Болгары	inclusive
+RU902	n	cds	no	Дебилизм	inclusive
+RU2208	n	re	no	прока́зница	inclusive
+RU3067	n	an	no	кур	inclusive
+RU1152	n	asm	no	nookie	conservative
+RU2777	n	ps	yes	негроидов	inclusive
+RU1708	n	dmc	yes	мот	inclusive
+RU2327	n	dmc	yes	Обман	inclusive
+RU230	n	ddp	yes	необразованный человек	conservative
+RU3480	n	om	no	дрэг-королева	inclusive
+RU1182	n	om	no	пе́дик	inclusive
+RU231	n	an	no	Ишак	inclusive
+RU455	n	cds	no	непра́вда	conservative
+RU495	n	cds	no	мракобес	conservative
+RU2960	v	cds	no	лопать	inclusive
+RU522	n	re	no	преступник	inclusive
+RU2134	n	dmc	yes	бездомных	inclusive
+RU2350	n	cds	no	ростовщичество	conservative
+RU2920	a	qas	no	приходской	inclusive
+RU1130	n	cds	no	куча	inclusive
+RU1468	n	cds	no	Криминализация	inclusive
+RU2225	n	ddf	yes	с ограниченными возможностями	inclusive
+RU212	n	asm	no	олух	conservative
+RU2688	n	an	no	Акулы	inclusive
+RU812	n	cds	no	cacography	inclusive
+RU432	n	pr	no	шлю́ха	conservative
+RU1314	n	asm	no	рывок-офф	conservative
+RU3475	n	om	no	драг-квин	inclusive
+RU625	n	qas	no	оговорка	inclusive
+RU3230	n	an	no	hirudinea	inclusive
+RU217	n	or	no	дура	conservative
+RU1619	n	cds	no	gobs	inclusive
+RU2940	n	qas	no	смущающий	conservative
+RU520	n	cds	no	была закона	inclusive
+RU25	n	qas	no	Аколиты	inclusive
+RU1726	n	cds	no	сутенерство	conservative
+RU2480	n	an	no	моли	inclusive
+RU845	n	ddp	yes	Зк	inclusive
+RU1852	n	svp	no	тщетности	conservative
+RU2553	n	ps	yes	Остготская империя	inclusive
+RU2620	n	dmc	yes	Злодейство	inclusive
+RU225	n	ddp	yes	ничего не знаю	conservative
+RU1455	n	ddp	yes	дура́к	conservative
+RU939	n	dmc	yes	чеканщик	conservative
+RU20	n	svp	no	равнодушие	inclusive
+RU2344	n	re	no	киллер	inclusive
+RU900	n	asm	no	Подменыш	inclusive
+RU788	n	svp	no	лентя́й	conservative
+RU2875	n	cds	no	Гомункул	inclusive
+RU1823	n	cds	no	масонство	inclusive
+RU275	n	ddp	yes	болтушка	conservative
+RU1240	n	cds	no	скрап	inclusive
+RU1099	n	qas	no	варна	inclusive
+RU1084	n	an	no	culex pipiens	inclusive
+RU1504	n	cds	no	Криминальный авторитет	inclusive
+RU255	n	svp	no	7 смертных грехов	inclusive
+RU1491	n	an	no	говно́	conservative
+RU1147	n	asm	no	ебать	conservative
+RU2526	n	cds	no	женщина-полицейский	inclusive
+RU111	n	cds	no	шутовство	inclusive
+RU3128	n	pa	yes	контролер	inclusive
+RU897	n	ps	yes	Уровень Луизы	conservative
+RU1682	n	dmc	yes	этические мотивы	inclusive
+RU1649	n	cds	no	деликт	inclusive
+RU2270	n	svp	no	бездействие	inclusive
+RU1662	n	asm	no	фалл	inclusive
+RU560	n	cds	no	негодяйка	conservative
+RU905	n	ddp	yes	чайник	conservative
+RU3478	n	om	no	Драг-квины	inclusive
+RU1072	n	asm	no	петушок	inclusive
+RU2007	n	an	no	белоголового сипа	inclusive
+RU1720	n	cds	no	Фанатик	conservative
+RU3196	n	an	no	жабий	inclusive
+RU3421	n	pr	no	Гетера	inclusive
+RU310	n	dmc	yes	бандит	inclusive
+RU2296	a	dmc	yes	безнравственный	conservative
+RU43	n	cds	no	фактор	inclusive
+RU966	n	an	no	Собака домашняя	inclusive
+RU948	n	an	no	Собаки	inclusive
+RU36	n	re	no	жестокого обращения	inclusive
+RU898	n	ddp	yes	слабоумный	inclusive
+RU2208	n	cds	no	прока́зница	inclusive
+RU2408	n	re	no	домушник	inclusive
+RU1941	n	an	no	мошка	inclusive
+RU2017	n	an	no	sus	inclusive
+RU398	n	an	no	мягкая на ощупь	conservative
+RU216	n	ddp	yes	дурак	conservative
+RU2715	n	an	no	Овца домашняя	inclusive
+RU2997	n	an	no	pediculus corporis	inclusive
+RU5	n	svp	no	Лень	inclusive
+RU2322	n	cds	no	лентяйка	conservative
+RU1149	n	asm	no	кусок хвоста	conservative
+RU200	n	asf	no	глупость	conservative
+RU3432	n	asm	no	Птицы	inclusive
+RU1977	v	asm	no	тра́хать	conservative
+RU2969	a	or	no	взыскательный	conservative
+RU2211	n	cds	no	дьяволёнок	inclusive
+RU522	n	cds	no	преступник	conservative
+RU2512	n	svp	no	разврат	inclusive
+RU1608	n	pa	yes	дверь охранник	inclusive
+RU2126	n	cds	no	простонародье	inclusive
+RU1115	n	or	no	выращивают капусту	inclusive
+RU296	n	asm	no	ballock	inclusive
+RU1159	n	cds	no	заговор молчания	inclusive
+RU1925	n	cds	no	хлопотун	conservative
+RU194	n	ps	yes	башка	conservative
+RU2421	n	or	no	щепетильность	inclusive
+RU588	n	cds	no	деби́л	conservative
+RU2061	n	pr	no	Проститутки	inclusive
+RU2971	v	an	no	буйствовать	conservative
+RU1482	n	cds	no	Общественная опасность	inclusive
+RU1817	n	cds	no	масоны	inclusive
+RU2355	n	cds	no	Шейлок	inclusive
+RU152	n	an	no	Угри	inclusive
+RU3245	n	an	no	Тараканы	inclusive
+RU3207	n	an	no	bufo	inclusive
+RU1238	n	cds	no	железный лом	inclusive
+RU2273	n	an	no	некомпетентный	conservative
+RU311	n	cds	no	разбойница	conservative
+RU2576	n	cds	no	Папараццо	inclusive
+RU2574	n	om	no	педерастия	inclusive
+RU1315	n	cds	no	дрочить	conservative
+RU712	n	qas	no	Селянство	inclusive
+RU2566	n	an	no	коротышка	conservative
+RU1544	n	om	no	Каудальный	inclusive
+RU1788	n	an	no	Блохи	inclusive
+RU771	n	an	no	мерзавец	conservative
+RU203	n	asm	no	дебил	conservative
+RU2346	n	re	no	душегуб	inclusive
+RU1796	n	cds	no	Дурак	inclusive
+RU2058	n	pr	no	Секс-услуги	inclusive
+RU1981	v	asm	no	потра́хаться	conservative
+RU3026	a	ps	yes	яростный	conservative
+RU207	n	ps	yes	дуралей	conservative
+RU2478	n	an	no	Моли	inclusive
+RU1225	n	ddp	yes	фигляр	conservative
+RU1437	n	pr	no	Конкубинат	inclusive
+RU2206	n	dmc	yes	него́дница	inclusive
+RU1920	n	cds	no	альфонс	inclusive
+RU312	n	cds	no	разбойник	inclusive
+RU180	n	re	no	поношение	inclusive
+RU1548	n	om	no	апикальной	inclusive
+RU2447	n	cds	no	унита́з	inclusive
+RU3103	n	pa	yes	адъюнкт факультета	inclusive
+RU1355	n	ps	yes	помесь	inclusive
+RU1286	n	ddp	yes	недомыслие	conservative
+RU1018	n	cds	no	Сякканхо	inclusive
+RU860	n	an	no	Нападения акул	inclusive
+RU1522	n	cds	no	гранж	inclusive
+RU2856	n	re	no	Лишение жизни	inclusive
+RU2768	n	ps	yes	черная	conservative
+RU157	n	an	no	животных	inclusive
+RU1449	n	cds	no	политикан	inclusive
+RU3295	n	an	no	канал баса	inclusive
+RU381	n	qas	no	баронства	inclusive
+RU2950	n	or	no	Паслён клубненосный	inclusive
+RU202	n	asf	no	болван	conservative
+RU2085	n	om	no	Гомосексуалы	inclusive
+RU1625	n	ps	yes	странник	inclusive
+RU2182	n	asf	no	мила́шка	conservative
+RU2259	n	is	yes	нужда	inclusive
+RU151	n	an	no	Угреобразные	inclusive
+RU796	n	qas	no	чернь	conservative
+RU744	n	qas	no	средним уровнем доходов	inclusive
+RU1928	n	cds	no	наблюдатель	conservative
+RU389	n	an	no	мародер	conservative
+RU1347	n	ps	yes	гибрид	inclusive
+RU786	n	dmc	yes	бродяг	inclusive
+RU2627	n	asm	no	зеленого горошка	inclusive
+RU2153	n	qas	no	хибарка	inclusive
+RU601	n	cds	no	случайный удар	inclusive
+RU802	n	is	yes	злодея	conservative
+RU2538	n	re	no	Коза Ностра	conservative
+RU947	n	an	no	халтура	conservative
+RU267	n	ps	yes	скряга	conservative
+RU205	n	an	no	балбес	conservative
+RU1684	n	an	no	gigantostraca	inclusive
+RU1835	n	cds	no	фундаменталистских	inclusive
+RU2629	n	asm	no	гороха	inclusive
+RU3486	n	dmc	yes	бродяжничество	inclusive
+RU2628	n	asm	no	pisum arvense	inclusive
+RU1532	n	svp	no	отвращение	inclusive
+RU3088	a	ddp	yes	звериный	conservative
+RU628	n	qas	no	промах	inclusive
+RU396	n	cds	no	лох	conservative
+RU679	n	an	no	Коровы	inclusive
+RU898	n	ddp	yes	слабоумный	conservative
+RU27	n	qas	no	псаломщик	inclusive
+RU2475	n	an	no	culicidae	inclusive
+RU1019	n	cds	no	соплеменника	inclusive
+RU446	n	cds	no	жи́голо	inclusive
+RU1757	n	om	no	Фенхель обыкновенный	inclusive
+RU1860	n	dmc	yes	Гангста	inclusive
+RU753	n	svp	no	тщеславие	conservative
+RU760	n	cds	no	гордыня	inclusive
+RU2207	n	dmc	yes	бесёнок	inclusive
+RU1406	n	cds	no	шутник	inclusive
+RU823	a	ddf	yes	подлый	conservative
+RU2889	n	cds	no	процент	inclusive
+RU194	n	cds	no	башка	conservative
+RU2878	n	dmc	yes	гомункулов	inclusive
+RU1780	n	dmc	yes	подделок	inclusive
+RU790	n	svp	no	безде́льница	conservative
+RU207	n	asm	no	дуралей	conservative
+RU790	n	dmc	yes	безде́льница	conservative
+RU887	n	an	no	слабовольный человек	conservative
+RU662	n	an	no	Похищение трупов	inclusive
+RU1904	n	cds	no	тюремщика	inclusive
+RU2795	a	ps	yes	темнокожий	inclusive
+RU2352	n	cds	no	ростовщи́к	conservative
+RU162	n	an	no	животное	inclusive
+RU1179	n	om	no	гомик	inclusive
+RU1868	n	asm	no	orobus faba	inclusive
+RU946	n	cds	no	сброда и бобтейл	conservative
+RU1204	n	an	no	физиономия	inclusive
+RU3163	n	re	no	Грабеж	inclusive
+RU2639	n	pa	yes	свинины мясника	inclusive
+RU324	n	cds	no	дикарь	conservative
+RU123	n	asm	no	ногочелюсть	inclusive
+RU184	n	re	no	изнасилование	conservative
+RU2157	n	qas	no	хижины	inclusive
+RU1543	n	dmc	yes	притворства	conservative
+RU1191	n	om	no	Геи	conservative
+RU2184	n	asf	no	цыпочка	conservative
+RU325	n	pa	yes	варваров	conservative
+RU1969	v	asm	no	отдрю́чить	conservative
+RU595	n	cds	no	приду́рок	conservative
+RU700	n	asm	no	темно-коричневый	inclusive
+RU1234	n	cds	no	металлолом	conservative
+RU220	n	asf	no	blockhead	conservative
+RU2400	n	cds	no	mussiness	conservative
+RU2133	n	dmc	yes	бездомный	inclusive
+RU1344	n	cds	no	скрещивать	inclusive
+RU1697	n	dmc	yes	бедняга	conservative
+RU1404	n	cds	no	отвергать	conservative
+RU219	n	ddp	yes	идиот	inclusive
+RU1733	n	pr	no	Содержанки	conservative
+RU1135	n	svp	no	похоть	inclusive
+RU2990	n	cds	no	bellyacher	conservative
+RU1462	n	ps	yes	разрушитель	conservative
+RU2302	n	om	no	супруга пэра	inclusive
+RU210	n	ddp	yes	глупец	conservative
+RU2220	n	an	no	Полосатая неясыть	inclusive
+RU1812	n	cds	no	свободный каменщик	inclusive
+RU602	n	cds	no	сукин сын	inclusive
+RU2063	n	pr	no	джон	conservative
+RU795	n	svp	no	лоботря́ска	conservative
+RU642	n	cds	no	фанатизм	conservative
+RU242	n	om	no	задницу	inclusive
+RU1378	n	asf	no	влагалище	conservative
+RU1004	n	cds	no	Кэн	inclusive
+RU3510	n	re	no	Насилие	inclusive
+RU1417	n	re	no	изнасилования на свидании	conservative
+RU100	n	svp	no	праздность	inclusive
+RU1218	n	cds	no	труси́ха	conservative
+RU1190	n	om	no	ле́сби	conservative
+RU3033	n	cds	no	мастурбации	conservative
+RU452	n	dmc	yes	фальшь	inclusive
+RU2074	n	om	no	мужской сексуальности	inclusive
+RU217	n	cds	no	дура	inclusive
+RU1133	n	cds	no	мно́жество	inclusive
+RU271	n	svp	no	жадина	inclusive
+RU1237	n	cds	no	Барахло	inclusive
+RU654	n	qas	no	разиня	conservative
+RU685	n	pr	no	скоти́на	inclusive
+RU1827	n	an	no	хмурый взгляд	inclusive
+RU200	n	asm	no	глупость	conservative
+RU2464	n	ps	yes	Монголоязычные народы	inclusive
+RU1575	n	om	no	Дорзальный	inclusive
+RU332	n	ps	yes	хам	conservative
+RU2812	n	cds	no	сатириаз	conservative
+RU3170	n	re	no	kidnaper	inclusive
+RU2961	n	cds	no	педантичный	conservative
+RU323	n	pa	yes	дикарка	conservative
+RU3313	n	asf	no	Влагалище	conservative
+RU459	n	dmc	yes	ложь	inclusive
+RU3171	n	re	no	похититель детей	inclusive
+RU2529	n	cds	no	cosa nostra	inclusive
+RU445	n	pr	no	альфо́нс	conservative
+RU798	n	an	no	быдло	conservative
+RU1781	n	dmc	yes	Подлог	inclusive
+RU3019	n	cds	no	religiousism	inclusive
+RU2394	n	svp	no	angriness	inclusive
+RU940	n	cds	no	мошенница	conservative
+RU2189	n	cds	no	идолопоклонством	inclusive
+RU1897	a	dmc	yes	зловонный	conservative
+RU2568	n	an	no	жирный	conservative
+RU2459	n	an	no	Моллюск	inclusive
+RU2947	n	or	no	картофелина	inclusive
+RU1175	n	om	no	гомосексуали́ст	conservative
+RU335	n	ddp	yes	зверство	inclusive
+RU855	n	an	no	людоеда	inclusive
+RU511	n	is	yes	подлец	conservative
+RU190	n	cds	no	проницательность	inclusive
+RU1447	a	ddp	yes	наивный	conservative
+RU1176	n	om	no	гомосе́к	inclusive
+RU2741	n	ps	yes	Азиатско-американская раса	conservative
+RU3384	n	re	no	‪Пытка‬	inclusive
+RU319	n	qas	no	варварским	conservative
+RU1345	n	ps	yes	Селекция растений	inclusive
+RU872	n	dmc	yes	неприкасаемый	inclusive
+RU3017	a	an	no	вшивый	inclusive
+RU1341	n	ps	yes	interfertility	inclusive
+RU1564	n	om	no	спинной	inclusive
+RU1697	n	cds	no	бедняга	conservative
+RU526	n	dmc	yes	преступный	inclusive
+RU2309	n	svp	no	Распутство	inclusive
+RU2206	n	re	no	него́дница	inclusive
+RU2020	n	cds	no	литературные взломать	conservative
+RU2109	n	ps	yes	Иуд	inclusive
+RU79	n	an	no	Лесной Бизон	inclusive
+RU2747	n	pr	no	светских	inclusive
+RU2476	n	an	no	комаров	inclusive
+RU1713	n	svp	no	простой	inclusive
+RU3476	n	om	no	дрэг-квин	inclusive
+RU753	n	cds	no	тщеславие	conservative
+RU219	n	ddp	yes	идиот	conservative
+RU804	n	is	yes	злодейка	conservative
+RU643	n	cds	no	мракобесие	conservative
+RU3408	n	om	no	переодевание	inclusive
+RU498	n	svp	no	фанатичным	conservative
+RU1932	n	cds	no	надоедливый	conservative
+RU3222	v	re	no	красть	inclusive
+RU2937	v	asm	no	надуть	conservative
+RU113	n	cds	no	обрывки	inclusive
+RU917	n	cds	no	нахальство	conservative
+RU1023	n	pa	yes	Делопроизводитель	inclusive
+RU2366	n	an	no	Насекомые	inclusive
+RU1427	n	cds	no	Демагог	conservative
+RU3445	n	cds	no	ndrangheta	inclusive
+RU3557	n	cds	no	Андромания	inclusive
+RU2207	n	cds	no	бесёнок	conservative
+RU568	n	cds	no	остолоп	conservative
+RU3366	n	cds	no	поверхностность	inclusive
+RU359	n	pa	yes	пропагандирующей	inclusive
+RU1703	n	dmc	yes	Либертинизм	conservative
+RU2557	n	an	no	Североамериканская совка	inclusive
+RU443	n	cds	no	проститу́т	inclusive
+RU1883	n	asm	no	бобы	inclusive
+RU1956	n	svp	no	лох-офф	conservative
+RU379	n	qas	no	барон	inclusive
+RU2137	n	qas	no	Маляр	inclusive
+RU135	n	ddp	yes	неграмотный	inclusive
+RU312	n	dmc	yes	разбойник	inclusive
+RU1510	n	ps	yes	бош	conservative
+RU455	n	cds	no	непра́вда	inclusive
+RU2913	n	an	no	обмолвка	inclusive
+RU684	n	an	no	коров	inclusive
+RU1297	n	asm	no	доверчивости	conservative
+RU2652	n	cds	no	мощи	inclusive
+RU2289	n	cds	no	Учитель	inclusive
+RU336	n	an	no	варварство	inclusive
+RU1754	n	re	no	точных	inclusive
+RU1718	n	qas	no	divulgement	inclusive
+RU1352	n	ps	yes	Нототаксон	inclusive
+RU328	n	qas	no	мужлан	conservative
+RU586	n	cds	no	муди́ло	conservative
+RU452	n	cds	no	фальшь	inclusive
+RU267	n	qas	no	скряга	conservative
+RU1237	n	cds	no	Барахло	conservative
+RU224	n	an	no	muttonhead	conservative
+RU3236	a	re	no	крепкий	inclusive
+RU206	n	ddp	yes	дурачина	conservative
+RU1469	n	cds	no	злодейство	inclusive
+RU416	n	pr	no	проститутка	inclusive
+RU2585	n	dmc	yes	chawbacon	conservative
+RU1732	n	pr	no	comare	conservative
+RU2330	n	dmc	yes	Лжец	inclusive
+RU212	n	asf	no	олух	conservative
+RU265	n	svp	no	крохобо́р	conservative
+RU2000	a	cds	no	незако́нный	inclusive
+RU746	n	cds	no	эгоизм	conservative
+RU1519	n	cds	no	Грандж	inclusive
+RU542	n	cds	no	озорство	conservative
+RU1273	n	svp	no	Танха	inclusive
+RU2549	n	re	no	Консильери	inclusive
+RU3034	a	cds	no	хитроумный	conservative
+RU3308	n	an	no	змея	conservative
+RU2945	n	qas	no	смутьяна	conservative
+RU1773	n	asm	no	рыбы	inclusive
+RU478	n	qas	no	кутерьма	inclusive
+RU167	n	ddp	yes	Живность	inclusive
+RU1776	n	pa	yes	рыботорговец	inclusive
+RU3180	a	svp	no	жадный	inclusive
+RU3203	n	an	no	бесхвостых	inclusive
+RU2360	n	an	no	насекомых	inclusive
+RU3316	a	ddp	yes	пресный	inclusive
+RU2457	n	an	no	моллюсков	inclusive
+RU1252	n	an	no	Постельные клопы	inclusive
+RU902	n	asf	no	Дебилизм	conservative
+RU1734	n	pr	no	любовница	conservative
+RU2010	n	an	no	боров	inclusive
+RU1248	n	qas	no	хлам	inclusive
+RU209	n	cds	no	тупица	conservative
+RU458	n	qas	no	враки	conservative
+RU3290	a	ddp	yes	глупо	conservative
+RU3157	n	re	no	ограбили	inclusive
+RU2452	n	dmc	yes	уклоняющийся от работы человек	conservative
+RU657	n	an	no	Похищение тел	inclusive
+RU456	n	cds	no	враньё	inclusive
+RU2738	n	ps	yes	монголоидов	conservative
+RU3341	n	re	no	сексуальное насилие	inclusive
+RU1934	n	qas	no	ищейка	inclusive
+RU3054	a	cds	no	изби́тый	inclusive
+RU2190	n	cds	no	идолопоклонниками	inclusive
+RU777	n	cds	no	такой-сякой	conservative
+RU2056	n	pr	no	Легализация проституции	inclusive
+RU1460	n	asf	no	ничтожество	conservative
+RU1695	n	cds	no	грешник	conservative
+RU2465	n	ps	yes	Монгольские народы	inclusive
+RU846	n	ddp	yes	Заключенный	inclusive
+RU2208	n	cds	no	прока́зница	conservative
+RU204	n	cds	no	идиотка	conservative
+RU3532	n	dmc	yes	вероотступник	conservative
+RU2115	n	ps	yes	Еврейская община	inclusive
+RU3368	n	re	no	Террористы	inclusive
+RU573	n	cds	no	мети́ска	inclusive
+RU178	n	re	no	клевета	conservative
+RU1470	n	re	no	Криминал	inclusive
+RU725	n	qas	no	бюргер людей	inclusive
+RU1251	n	an	no	cimicidae	inclusive
+RU1542	n	dmc	yes	ханжа	conservative
+RU1900	n	pr	no	пистолет минор	inclusive
+RU327	n	rci	yes	мужик	conservative
+RU902	n	ddp	yes	Дебилизм	inclusive
+RU516	n	re	no	подонок	conservative
+RU1053	n	svp	no	tightfistedness	conservative
+RU2330	n	cds	no	Лжец	conservative
+RU2816	n	asf	no	небольшая сумма	inclusive
+RU1630	n	cds	no	батрак	inclusive
+RU1667	n	qas	no	дилетант	conservative
+RU2087	n	om	no	веселость	inclusive
+RU1858	n	re	no	гангстер	inclusive
+RU905	n	cds	no	чайник	inclusive
+RU777	n	dmc	yes	такой-сякой	conservative
+RU849	n	ddp	yes	узница	inclusive
+RU1697	n	is	yes	бедняга	inclusive
+RU1939	n	asf	no	киска	conservative
+RU495	n	dmc	yes	мракобес	conservative
+RU1391	n	or	no	Огурцы	inclusive
+RU618	n	an	no	рогоносца	conservative
+RU211	n	asf	no	бестолочь	conservative
+RU1184	n	om	no	пету́х	inclusive
+RU1414	n	om	no	дворянка	inclusive
+RU2269	n	is	yes	нищета	inclusive
+RU1294	n	an	no	вамп	conservative
+RU431	n	pr	no	девка	conservative
+RU1730	n	cds	no	pandar	inclusive
+RU1434	n	pr	no	Конкубина	inclusive
+RU607	n	re	no	шантажировал	conservative
+RU2023	a	cds	no	ловкий	conservative
+RU1822	n	cds	no	Братство франкмасонов	inclusive
+RU1083	n	an	no	Комар пискун	inclusive
+RU320	n	qas	no	мужла́н	conservative
+RU101	n	svp	no	лентяй	conservative
+RU565	n	an	no	растрёпа	conservative
+RU209	n	asm	no	тупица	inclusive
+RU1845	n	svp	no	бешенство	conservative
+RU475	n	cds	no	с ног на turvyness	inclusive
+RU2757	n	qas	no	восходящая звезда	inclusive
+RU521	n	dmc	yes	бандитов	inclusive
+RU904	n	asf	no	увалень	conservative
+RU2537	n	re	no	мафии	conservative
+RU1587	n	om	no	дорсовентральных	inclusive
+RU650	n	dmc	yes	растяпа	conservative
+RU516	n	cds	no	подонок	conservative
+RU132	n	cds	no	фанатизма	conservative
+RU1411	n	om	no	дама	inclusive
+RU323	n	ps	yes	дикарка	conservative
+RU3551	n	cds	no	Разбойное нападение	inclusive
+RU1513	n	ps	yes	фриц	conservative
+RU592	n	cds	no	муда́к	conservative
+RU598	n	cds	no	незаконнорожденный	inclusive
+RU257	n	svp	no	семи смертных грехов	inclusive
+RU328	n	cds	no	мужлан	conservative
+RU2477	n	an	no	mosquitoe	inclusive
+RU1178	n	om	no	пи́дор	conservative
+RU1869	n	asm	no	бобов	inclusive
+RU278	n	svp	no	Сребролюбие	inclusive
+RU1729	n	cds	no	сутенёр	inclusive
+RU86	n	om	no	Анальная пенетрация	inclusive
+RU921	n	re	no	поклёп	inclusive
+RU3068	n	an	no	gallus domesticus	inclusive
+RU647	n	qas	no	конформист	conservative
+RU2845	n	re	no	убийстве первой степени	inclusive
+RU2201	a	dmc	yes	скупой	conservative
+RU201	n	ddp	yes	осёл	conservative
+RU1377	n	cds	no	сыно́к	inclusive
+RU895	n	ps	yes	Идиотия	conservative
+RU2884	n	dmc	yes	трикстер бога	conservative
+RU694	n	cds	no	руководитель	inclusive
+RU2722	n	pa	yes	пастухи	inclusive
+RU2510	n	svp	no	Блуд	inclusive
+RU213	n	cds	no	балда	conservative
+RU2599	n	qas	no	Церковь	inclusive
+RU943	n	dmc	yes	аферист	conservative
+RU207	n	or	no	дуралей	conservative
+RU3302	a	pa	yes	политический	inclusive
+RU3545	n	ps	yes	Цыгане	inclusive
+RU2561	n	an	no	свинтус	conservative
+RU294	n	qas	no	тест	inclusive
+RU830	n	cds	no	ингруппы	inclusive
+RU570	n	cds	no	дворня́га	inclusive
+RU1566	n	om	no	Базальный	inclusive
+RU1295	n	an	no	изменница	conservative
+RU2672	n	cds	no	канализации	inclusive
+RU3568	n	ps	yes	Зулусы	inclusive
+RU1671	n	an	no	Эскарго	inclusive
+RU2325	n	cds	no	Самооговор	conservative
+RU272	n	an	no	скупе́ц	conservative
+RU459	n	cds	no	ложь	inclusive
+RU3511	n	an	no	acridophaga	inclusive
+RU1243	n	qas	no	мусора	inclusive
+RU204	n	an	no	идиотка	conservative
+RU775	n	dmc	yes	дно жизни	conservative
+RU1079	n	qas	no	простых людей	inclusive
+RU421	n	an	no	грязнуля	conservative
+RU1140	n	svp	no	похотливость	inclusive
+RU2654	n	cds	no	Реликвии	inclusive
+RU162	n	ddp	yes	животное	inclusive
+RU3037	a	svp	no	сварливый	conservative
+RU2543	n	cds	no	мафиози	inclusive
+RU1185	n	om	no	жо́почник	inclusive
+RU2776	n	ps	yes	Негр	inclusive
+RU326	n	cds	no	грубый	conservative
+RU669	n	an	no	зоофилия	conservative
+RU909	n	an	no	жопочник	conservative
+RU493	n	pa	yes	глашатай	inclusive
+RU1805	n	asm	no	Нарушения и недисциплинированное поведение	inclusive
+RU439	n	pr	no	шу́лер	conservative
+RU213	n	an	no	балда	conservative
+RU2649	n	pr	no	крыса	inclusive
+RU656	n	ddp	yes	путаник	conservative
+RU2916	v	qas	no	запороть	conservative
+RU1730	n	cds	no	pandar	conservative
+RU104	n	qas	no	Табиины	inclusive
+RU2479	n	an	no	мотылёк	inclusive
+RU1994	v	asm	no	заниматься любовь	conservative
+RU397	n	ddp	yes	фраер	conservative
+RU1672	n	qas	no	любительница	inclusive
+RU194	n	asf	no	башка	conservative
+RU2202	a	svp	no	скаредный	conservative
+RU688	n	pr	no	корова	conservative
+RU1690	n	an	no	Ракоскорпион	inclusive
+RU265	n	svp	no	крохобо́р	inclusive
+RU620	n	cds	no	тупик	inclusive
+RU213	n	ddp	yes	балда	inclusive
+RU442	n	pr	no	мужской проституции	conservative
+RU1419	n	cds	no	мазня	inclusive
+RU1248	n	cds	no	хлам	inclusive
+RU1234	n	cds	no	металлолом	inclusive
+RU870	n	is	yes	изгнанник	inclusive
+RU1108	n	pa	yes	профессоров	inclusive
+RU652	n	qas	no	ротозей	conservative
+RU1982	v	asm	no	пердолить	conservative
+RU3277	n	cds	no	Сайентизм	inclusive
+RU2341	a	is	yes	гру́стный	inclusive
+RU3536	n	dmc	yes	предателя	conservative
+RU1183	n	om	no	геев	inclusive
+RU1999	a	cds	no	нелега́льный	inclusive
+RU263	n	svp	no	алчность	inclusive
+RU1964	n	cds	no	Реакционер	conservative
+RU3462	n	cds	no	Теории заговора	inclusive
+RU1089	n	cds	no	самоудовлетворение	inclusive
+RU2071	n	is	yes	есть-не	inclusive
+RU2980	a	om	no	ненормальный	inclusive
+RU1772	n	asm	no	мягких лучей	inclusive
+RU1469	n	re	no	злодейство	inclusive
+RU513	n	dmc	yes	жулик	conservative
+RU1850	n	dmc	yes	далье	conservative
+RU3526	n	an	no	Гадюка обыкновенная	inclusive
+RU220	n	ddp	yes	blockhead	conservative
+RU1848	n	dmc	yes	дилли-далье	conservative
+RU1001	n	cds	no	Моммэ	inclusive
+RU937	n	re	no	Каморра	inclusive
+RU515	n	dmc	yes	мошенник	conservative
+RU566	n	an	no	свинья	inclusive
+RU995	n	cds	no	Сё	inclusive
+RU1241	n	cds	no	твердых отходов	inclusive
+RU2644	n	cds	no	пропагандист	inclusive
+RU330	n	dmc	yes	варварка	conservative
+RU903	n	ddp	yes	Дебильность	conservative
+RU745	n	svp	no	самомнение	conservative
+RU2939	v	re	no	обманывать	inclusive
+RU2088	n	om	no	Гомоэротика	inclusive
+RU2264	n	is	yes	бедность	inclusive
+RU331	n	ddp	yes	грубиян	conservative
+RU1203	n	an	no	физиогномика	inclusive
+RU1313	n	qas	no	экипаж	inclusive
+RU2545	n	re	no	Коза ностра	inclusive
+RU752	n	ps	yes	болгарин	inclusive
+RU2410	n	re	no	взломщица	inclusive
+RU1625	n	dmc	yes	странник	inclusive
+RU1160	n	pa	yes	телесный	inclusive
+RU222	n	or	no	fuckhead	conservative
+RU564	n	an	no	неопрятный человек	conservative
+RU3469	n	cds	no	Конспирология	inclusive
+RU267	n	pa	yes	скряга	conservative
+RU1215	n	cds	no	боягу́з	conservative
+RU590	n	ddp	yes	хуйло́	conservative
+RU3534	n	dmc	yes	предательница	conservative
+RU2146	n	svp	no	переедание	inclusive
+RU442	n	an	no	мужской проституции	conservative
+RU2160	n	qas	no	времянка	inclusive
+RU3363	a	svp	no	надме́нный	conservative
+RU1970	v	asm	no	дрю́читься	conservative
+RU297	n	qas	no	яичко	inclusive
+RU3089	a	an	no	животный	conservative
+RU1680	n	dmc	yes	приличия	inclusive
+RU524	n	dmc	yes	бандиты	inclusive
+RU898	n	asf	no	слабоумный	conservative
+RU2050	n	cds	no	мальчик на побегушках	inclusive
+RU2164	n	cds	no	Хибрис	inclusive
+RU2760	n	cds	no	Нарциссизм	inclusive
+RU656	n	qas	no	путаник	conservative
+RU2363	n	an	no	Плеон	inclusive
+RU1862	n	cds	no	фашизм	conservative
+RU1185	n	om	no	жо́почник	conservative
+RU3402	n	pr	no	пяденицы	inclusive
+RU2648	n	pr	no	rattus	inclusive
+RU472	n	cds	no	щёголь	inclusive
+RU268	n	an	no	куркуль	conservative
+RU400	n	or	no	пудинг головы	conservative
+RU933	n	re	no	maligner	conservative
+RU3001	n	an	no	теле вши	inclusive
+RU993	n	cds	no	Кин	inclusive
+RU2112	n	ps	yes	Иудаист	inclusive
+RU1373	n	cds	no	sonny boy	inclusive
+RU3264	a	svp	no	развратный	conservative
+RU1271	n	cds	no	лживость	inclusive
+RU2331	n	re	no	Инфантицид	inclusive
+RU2853	n	re	no	Гомицид	inclusive
+RU2196	n	cds	no	ложный идол	inclusive
+RU1500	n	cds	no	дешевый бульварный роман	inclusive
+RU3548	n	qas	no	Барак	inclusive
+RU665	n	pa	yes	uncouthness	conservative
+RU209	n	ps	yes	тупица	conservative
+RU748	n	cds	no	наглость	conservative
+RU328	n	ps	yes	мужлан	conservative
+RU773	n	dmc	yes	отщепенец	conservative
+RU394	n	cds	no	синий чулок	inclusive
+RU871	n	is	yes	пария	inclusive
+RU485	n	an	no	крупного рогатого скота	inclusive
+RU1990	v	asm	no	трахаться	conservative
+RU335	n	an	no	зверство	conservative
+RU208	n	ddp	yes	дурень	conservative
+RU2880	n	ddf	yes	слепого человека	inclusive
+RU1458	n	ps	yes	о́лух	conservative
+RU571	n	cds	no	мети́с	inclusive
+RU2314	n	svp	no	страсть	inclusive
+RU2519	n	cds	no	офицер	conservative
+RU337	n	re	no	жестокость	inclusive
+RU2443	n	cds	no	туале́т	inclusive
+RU2696	n	an	no	микроорганизм	inclusive
+RU1320	n	an	no	крокодил	inclusive
+RU1927	n	cds	no	наблюдательница	conservative
+RU2252	n	ddp	yes	нонсенс	conservative
+RU799	n	cds	no	сброд	inclusive
+RU216	n	ps	yes	дурак	conservative
+RU1208	n	ddp	yes	доносчик	conservative
+RU192	n	cds	no	кова́рство	inclusive
+RU589	n	ddp	yes	ублюдок	conservative
+RU3226	n	cds	no	воровать	conservative
+RU332	n	asm	no	хам	conservative
+RU1050	n	an	no	коз	inclusive
+RU2282	n	cds	no	показного	conservative
+RU1438	n	pr	no	наложниц	inclusive
+RU880	n	an	no	хлюпик	conservative
+RU1659	n	asm	no	стояк	inclusive
+RU1724	n	cds	no	потворствовать	inclusive
+RU213	n	asm	no	балда	inclusive
+RU2316	a	dmc	yes	невежливый	conservative
+RU48	n	pa	yes	академический	inclusive
+RU126	a	svp	no	агрессивный	conservative
+RU1444	n	ddp	yes	Глупость	conservative
+RU325	n	ps	yes	варваров	conservative
+RU1298	n	asm	no	доверчивость	conservative
+RU2033	n	cds	no	воровство	inclusive
+RU3312	a	ddp	yes	неумный	conservative
+RU2968	a	or	no	напряжённый	conservative
+RU1441	n	dmc	yes	босяк	inclusive
+RU1276	n	svp	no	жажда	inclusive
+RU742	n	qas	no	средний класс	inclusive
+RU403	n	cds	no	глупый	conservative
+RU2815	n	asf	no	формальность	inclusive
+RU216	n	asf	no	дурак	conservative
+RU1444	n	cds	no	Глупость	conservative
+RU2750	n	qas	no	духовный лидер	inclusive
+RU203	n	ps	yes	дебил	conservative
+RU1192	n	om	no	жо́пник	inclusive
+RU2267	n	is	yes	городской нищеты	inclusive
+RU2705	n	ddp	yes	микроцефальный	inclusive
+RU2623	n	asm	no	pisum vulgare	inclusive
+RU2336	a	is	yes	неуда́чный	inclusive
+RU2212	n	cds	no	него́дник	conservative
+RU2044	n	re	no	Жулик	inclusive
+RU93	n	om	no	Анальное сношение	inclusive
+RU3262	a	ps	yes	еврейский	inclusive
+RU2460	n	cds	no	moneygrubber	inclusive
+RU3109	n	cds	no	пропаганда	inclusive
+RU1865	n	cds	no	фашистского режима	conservative
+RU327	n	pa	yes	мужик	conservative
+RU202	n	om	no	болван	inclusive
+RU3029	n	asm	no	дрочка	conservative
+RU2055	n	pr	no	Лоретка	inclusive
+RU1318	n	ddf	yes	калека	inclusive
+RU2213	n	dmc	yes	пострелёнок	inclusive
+RU1580	n	om	no	попа	inclusive
+RU709	n	pr	no	Азиатская землеройная крыса-пасюк	inclusive
+RU2310	n	svp	no	Афродизиазм	inclusive
+RU2555	n	ps	yes	Остготы	inclusive
+RU2263	n	is	yes	Черта бедности	inclusive
+RU695	n	ddp	yes	повреждение головного мозга	inclusive
+RU609	n	re	no	шантаж	conservative
+RU64	n	ddp	yes	Олигофрения	inclusive
+RU2767	n	ps	yes	негр	conservative
+RU2937	v	re	no	надуть	inclusive
+RU1577	n	om	no	булочки	inclusive
+RU900	n	ddp	yes	Подменыш	inclusive
+RU2799	n	ps	yes	латиноамериканцем	inclusive
+RU787	n	svp	no	бездельник	conservative
+RU2854	n	re	no	Человекоубийство	inclusive
+RU803	n	cds	no	трагическим злодеем	conservative
+RU427	n	pr	no	ненаёба	conservative
+RU260	n	an	no	скупость	conservative
+RU1096	n	qas	no	Кастовая система	inclusive
+RU3445	n	re	no	ndrangheta	inclusive
+RU2984	n	is	yes	нищий	inclusive
+RU886	n	an	no	губошлёп	conservative
+RU99	n	om	no	Содомизм	inclusive
+RU789	n	svp	no	лентя́йка	conservative
+RU3540	n	re	no	Делинквент	inclusive
+RU888	n	cds	no	ро́хля	conservative
+RU3213	n	an	no	Коровница	inclusive
+RU2504	n	cds	no	тормозной	conservative
+RU3509	n	re	no	насилия	inclusive
+RU425	n	pr	no	замарашка	conservative
+RU1765	n	dmc	yes	неприятный запах	conservative
+RU3310	a	cds	no	умный	inclusive
+RU2944	n	qas	no	нарушитель спокойствия	conservative
+RU2167	n	cds	no	уилер дилеров	conservative
+RU1815	n	cds	no	Франкмасоны	inclusive
+RU3179	a	dmc	yes	грязный	inclusive
+RU2735	n	cds	no	трудный вопрос	conservative
+RU1355	n	cds	no	помесь	inclusive
+RU1731	n	cds	no	Сводничество	inclusive
+RU336	n	ddp	yes	варварство	inclusive
+RU2210	n	re	no	плуто́вка	inclusive
+RU216	n	asm	no	дурак	conservative
+RU1361	n	qas	no	Конформизм	inclusive
+RU799	n	qas	no	сброд	conservative
+RU203	n	asf	no	дебил	conservative
+RU1285	n	ddp	yes	блажь	conservative
+RU324	n	rci	yes	дикарь	conservative
+RU320	n	ddp	yes	мужла́н	conservative
+RU3031	n	asm	no	онанизм	conservative
+RU3220	v	re	no	краcть	inclusive
+RU819	a	ddf	yes	скверный	inclusive
+RU457	n	cds	no	неправда	inclusive
+RU1668	n	qas	no	лжеученый	conservative
+RU3447	n	an	no	caiman	inclusive
+RU517	n	dmc	yes	негодяй	conservative
+RU2830	n	an	no	brent goose	inclusive
+RU1250	n	qas	no	Лом цветных металлов	inclusive
+RU1322	n	an	no	crocodylian	inclusive
+RU1843	n	re	no	ярость	inclusive
+RU476	n	cds	no	хаос	inclusive
+RU3437	n	cds	no	канализация	inclusive
+RU3562	n	an	no	little owl	inclusive
+RU217	n	asm	no	дура	conservative
+RU960	n	an	no	Охотничьи собаки	inclusive
+RU270	n	svp	no	жмот	inclusive
+RU757	n	svp	no	надменность	conservative
+RU1287	n	ddp	yes	помеша́тельство	conservative
+RU1584	n	om	no	условия для анатомического расположения	inclusive
+RU680	n	an	no	Нетель	inclusive
+RU2751	n	an	no	мошек	inclusive
+RU902	n	asm	no	Дебилизм	inclusive
+RU1446	n	or	no	простак	conservative
+RU1060	n	an	no	вульгарность	conservative
+RU941	n	re	no	defrauder	inclusive
+RU3371	n	re	no	террористов	inclusive
+RU2567	n	an	no	жирдяй	conservative
+RU951	n	an	no	Сука собаки	inclusive
+RU714	n	qas	no	селянин	inclusive
+RU112	n	qas	no	остатки	inclusive
+RU208	n	an	no	дурень	conservative
+RU956	n	an	no	домашние собаки	inclusive
+RU331	n	cds	no	грубиян	conservative
+RU623	n	cds	no	просчёт	inclusive
+RU517	n	re	no	негодяй	inclusive
+RU332	n	cds	no	хам	conservative
+RU1439	n	pr	no	придворный	inclusive
+RU155	n	ddp	yes	Энтомофауна	inclusive
+RU202	n	asm	no	болван	inclusive
+RU3471	n	cds	no	теоретики заговора	inclusive
+RU396	n	ps	yes	лох	conservative
+RU1779	n	pa	yes	рыбой	inclusive
+RU894	n	asm	no	перевертыш	inclusive
+RU274	n	an	no	курку́ль	conservative
+RU3359	a	svp	no	спесивый	conservative
+RU3202	n	an	no	batrachian	inclusive
+RU3373	n	re	no	терроризм	inclusive
+RU272	n	svp	no	скупе́ц	conservative
+RU2804	n	ps	yes	Теневая экономика	inclusive
+RU907	n	asf	no	Идиотизм	conservative
+RU562	n	cds	no	подлая	conservative
+RU561	n	an	no	сквернословить	conservative
+RU1378	n	or	no	влагалище	conservative
+RU2326	n	cds	no	Враль	inclusive
+RU3255	n	an	no	шакал	inclusive
+RU885	n	cds	no	мя́мля	conservative
+RU728	n	om	no	содомит	conservative
+RU2554	n	ps	yes	остгот	inclusive
+RU831	n	cds	no	кружок	inclusive
+RU1356	n	cds	no	новобранец	conservative
+RU1063	n	asm	no	член	inclusive
+RU208	n	cds	no	дурень	conservative
+RU794	n	dmc	yes	безде́льник	conservative
+RU2161	n	cds	no	Гибрида	inclusive
+RU2291	n	an	no	ишак	inclusive
+RU374	n	an	no	дворняжка	inclusive
+RU295	n	qas	no	яичка	inclusive
+RU1707	n	dmc	yes	расточитель	conservative
+RU201	n	an	no	осёл	conservative
+RU1717	n	cds	no	семьи	inclusive
+RU1005	n	cds	no	род	inclusive
+RU3498	v	asm	no	выёбываться	conservative
+RU1760	n	or	no	Укроп аптечный	inclusive
+RU202	n	an	no	болван	conservative
+RU3325	n	ddp	yes	чушь	inclusive
+RU1368	n	qas	no	Комплаенс-контроль	inclusive
+RU3315	a	ddp	yes	невкусный	inclusive
+RU144	n	an	no	Угревые	inclusive
+RU943	n	cds	no	аферист	inclusive
+RU764	n	cds	no	чванство	conservative
+RU896	n	cds	no	замедлять	inclusive
+RU540	n	re	no	хулиганство	inclusive
+RU220	n	an	no	blockhead	conservative
+RU754	n	cds	no	хвастливость	conservative
+RU646	n	dmc	yes	фарисей	inclusive
+RU397	n	cds	no	фраер	conservative
+RU2821	n	an	no	гусь	inclusive
+RU2601	n	qas	no	округ	inclusive
+RU2444	n	cds	no	клозет	inclusive
+RU776	n	dmc	yes	пакостник	inclusive
+RU797	n	qas	no	толпа	inclusive
+RU1210	n	pr	no	му-корова	inclusive
+RU491	n	pa	yes	посыльный	inclusive
+RU1710	n	dmc	yes	расточител	inclusive
+RU329	n	ps	yes	деревенщина	conservative
+RU959	n	an	no	Пёс	inclusive
+RU764	n	svp	no	чванство	conservative
+RU675	n	pr	no	скот	inclusive
+RU3552	n	cds	no	разбойников	inclusive
+RU2352	n	cds	no	ростовщи́к	inclusive
+RU745	n	cds	no	самомнение	conservative
+RU3092	a	ddf	yes	незрячий	inclusive
+RU592	n	ddp	yes	муда́к	conservative
+RU523	n	cds	no	престу́пник	conservative
+RU437	n	cds	no	ха́стлер	inclusive
+RU1173	n	or	no	queer	conservative
+RU439	n	an	no	шу́лер	conservative
+RU314	n	cds	no	бандитизм	conservative
+RU539	n	cds	no	мошенничество	conservative
+RU2967	a	or	no	требующий усилий	conservative
+RU1534	n	svp	no	антипа́тия	inclusive
+RU2481	n	pr	no	моль	inclusive
+RU1910	n	cds	no	Надзиратель	inclusive
+RU3010	n	an	no	вошь	inclusive
+RU3322	a	ddp	yes	неспосо́бный	inclusive
+RU3160	n	re	no	ограбление	inclusive
+RU2529	n	re	no	cosa nostra	conservative
+RU913	n	re	no	торговли клевете	inclusive
+RU217	n	ddp	yes	дура	inclusive
+RU330	n	cds	no	варварка	conservative
+RU1211	n	an	no	ссыку́н	conservative
+RU3232	n	an	no	Пиявка	inclusive
+RU1227	n	ddp	yes	врач-шарлатан	conservative
+RU398	n	ps	yes	мягкая на ощупь	conservative
+RU578	n	cds	no	Двортерьер	inclusive
+RU3289	a	ddp	yes	глупый	conservative
+RU3299	a	is	yes	жалкий	conservative
+RU332	n	rci	yes	хам	conservative
+RU454	n	dmc	yes	обман	inclusive
+RU1689	n	an	no	Ракоскорпионы	inclusive
+RU69	n	ddp	yes	идио́тство	inclusive
+RU1184	n	or	no	пету́х	conservative
+RU2043	n	cds	no	кража	inclusive
+RU2321	n	cds	no	лодырь	conservative
+RU1624	n	ps	yes	странница	inclusive
+RU3293	a	ddf	yes	кривой	inclusive
+RU2200	a	dmc	yes	недалёкий	conservative
+RU1558	n	om	no	подошвенной	inclusive
+RU3373	n	re	no	терроризм	conservative
+RU3374	n	an	no	кайманы	inclusive
+RU202	n	cds	no	болван	inclusive
+RU3198	n	an	no	salientian	inclusive
+RU904	n	cds	no	увалень	inclusive
+RU2797	n	an	no	присоски	inclusive
+RU3016	n	an	no	Пухоеды	inclusive
+RU301	n	qas	no	яйцеклетка	inclusive
+RU3111	a	ddf	yes	хромой	inclusive
+RU1124	v	asm	no	безде́льничать	inclusive
+RU1600	n	svp	no	едок	inclusive
+RU3038	n	re	no	плагиат	inclusive
+RU2650	n	pr	no	Крысы	inclusive
+RU2546	n	re	no	Мафиози	inclusive
+RU1707	n	dmc	yes	расточитель	inclusive
+RU193	n	or	no	nick jr.	inclusive
+RU2731	n	an	no	пули	inclusive
+RU2373	n	qas	no	кладовщик	inclusive
+RU2180	n	asf	no	девушка	conservative
+RU2756	n	cds	no	крокозябра	inclusive
+RU507	n	cds	no	отряд	inclusive
+RU1623	n	dmc	yes	скиталец	inclusive
+RU680	n	pr	no	Нетель	inclusive
+RU2514	n	cds	no	лягавый	inclusive
+RU3514	n	an	no	Настоящие Гадюки	inclusive
+RU2941	n	qas	no	бузотёр	conservative
+RU26	n	qas	no	послушник	inclusive
+RU8	n	svp	no	Уныние	inclusive
+RU1161	n	pa	yes	капрал	inclusive
+RU1351	n	ps	yes	селекции растений	inclusive
+RU514	n	dmc	yes	изгоев	conservative
+RU895	n	cds	no	Идиотия	inclusive
+RU2977	v	cds	no	шкрябать	inclusive
+RU894	n	ddp	yes	перевертыш	conservative
+RU1466	n	cds	no	Декриминализация	inclusive
+RU526	n	cds	no	преступный	inclusive
+RU2541	n	re	no	Чешская "Маффия"	inclusive
+RU2446	n	cds	no	гардеро́бная	inclusive
+RU1725	n	cds	no	сводник	inclusive
+RU161	n	an	no	фауна	inclusive
+RU2141	n	svp	no	чревоугодие	inclusive
+RU1676	n	dmc	yes	моралистической	inclusive
+RU1764	n	dmc	yes	зловоние	conservative
+RU161	n	ddp	yes	фауна	inclusive
+RU3079	n	cds	no	ребёнок	inclusive
+RU364	n	pa	yes	защитница	inclusive
+RU2429	n	qas	no	Смесь	inclusive
+RU219	n	cds	no	идиот	conservative
+RU3451	n	an	no	Мистификатор	conservative
+RU878	n	is	yes	отверженный	inclusive
+RU3392	n	an	no	мула	inclusive
+RU206	n	asm	no	дурачина	conservative
+RU2546	n	cds	no	Мафиози	inclusive
+RU626	n	cds	no	напутать	inclusive
+RU822	a	dmc	yes	низкий	conservative
+RU869	n	dmc	yes	Парии	inclusive
+RU3502	n	ddp	yes	Имбецилия	inclusive
+RU1816	n	cds	no	Масонка	inclusive
+RU955	n	an	no	домашней собаки	inclusive
+RU1148	n	asm	no	shtup	conservative
+RU155	n	an	no	Энтомофауна	inclusive
+RU137	n	ddp	yes	негра́мотный	inclusive
+RU205	n	ddp	yes	балбес	conservative
+RU306	a	svp	no	а́лчный	inclusive
+RU2275	n	ddp	yes	незнание	conservative
+RU1784	n	an	no	блох	inclusive
+RU524	n	cds	no	бандиты	conservative
+RU758	n	cds	no	заносчивость	inclusive
+RU84	n	cds	no	себялюбие	conservative
+RU2101	n	ps	yes	еврейская религия	inclusive
+RU761	n	cds	no	тщесла́вие	conservative
+RU3060	n	an	no	Куры	inclusive
+RU2490	n	dmc	yes	моцарелла	inclusive
+RU3458	n	ps	yes	красную карточку	inclusive
+RU718	n	qas	no	предприниматель	inclusive
+RU879	n	an	no	тря́пка	conservative
+RU202	n	ddp	yes	болван	conservative
+RU2126	n	cds	no	простонародье	conservative
+RU214	n	cds	no	валять дурака	conservative
+RU645	n	cds	no	догматизм	conservative
+RU1120	n	or	no	Краснокочанная	inclusive
+RU720	n	qas	no	бизнесменов	inclusive
+RU3282	n	ddp	yes	Потешный дом	inclusive
+RU2345	n	re	no	убийца	inclusive
+RU802	n	re	no	злодея	conservative
+RU3340	n	re	no	приставал	inclusive
+RU789	n	cds	no	лентя́йка	conservative
+RU2811	n	cds	no	гиперсексуальности	conservative
+RU2041	n	re	no	воровские	inclusive
+RU333	n	rci	yes	хамка	conservative
+RU3194	n	an	no	anura	inclusive
+RU156	n	an	no	metazoa	inclusive
+RU1029	n	an	no	Козёл	inclusive
+RU2803	n	ps	yes	Расовый состав США	inclusive
+RU1484	n	cds	no	уголовным преступлением	inclusive
+RU1898	a	dmc	yes	вонючий	conservative
+RU327	n	dmc	yes	мужик	conservative
+RU535	n	cds	no	ябеда	conservative
+RU2202	a	is	yes	скаредный	conservative
+RU1260	n	an	no	клопов	inclusive
+RU897	n	ddp	yes	Уровень Луизы	inclusive
+RU3044	n	re	no	Морские разбойники	inclusive
+RU1792	n	dmc	yes	скоморох	inclusive
+RU2525	n	cds	no	легавый	inclusive
+RU1193	n	or	no	лесбия́нка	conservative
+RU1600	n	svp	no	едок	conservative
+RU205	n	asf	no	балбес	conservative
+RU510	n	cds	no	банда	conservative
+RU121	n	asm	no	придаток	inclusive
+RU899	n	ps	yes	перевертыши	conservative
+RU211	n	ddp	yes	бестолочь	inclusive
+RU1055	n	qas	no	опьянение	inclusive
+RU455	n	dmc	yes	непра́вда	inclusive
+RU994	n	cds	no	родственный	inclusive
+RU655	n	qas	no	неумеха	conservative
+RU633	n	cds	no	ляп	inclusive
+RU332	n	dmc	yes	хам	conservative
+RU525	n	cds	no	вне закона	inclusive
+RU3144	n	re	no	киднэппинг	inclusive
+RU2329	n	cds	no	Лгун	conservative
+RU1209	n	ddp	yes	предатель	conservative
+RU1351	n	cds	no	селекции растений	inclusive
+RU1525	n	cds	no	грязи	inclusive
+RU1433	n	pr	no	любовник	inclusive
+RU326	n	ddp	yes	грубый	conservative
+RU253	n	svp	no	Главные грехи	inclusive
+RU333	n	dmc	yes	хамка	conservative
+RU2619	n	dmc	yes	Зло	inclusive
+RU202	n	ps	yes	болван	conservative
+RU327	n	cds	no	мужик	conservative
+RU2284	n	cds	no	напыщенность	conservative
+RU1768	n	dmc	yes	смрад	conservative
+RU2458	n	an	no	моллюск	inclusive
+RU1888	n	asm	no	vicia vulgaris	inclusive
+RU1171	n	or	no	странный	conservative
+RU2218	n	an	no	Пёстрая неясыть	inclusive
+RU1820	n	cds	no	Массонство	inclusive
+RU2659	n	qas	no	ритор	inclusive
+RU1405	n	qas	no	отбирать	conservative
+RU117	n	cds	no	всякая всячина	inclusive
+RU568	n	cds	no	остолоп	inclusive
+RU562	n	an	no	подлая	conservative
+RU934	n	re	no	клеветница	conservative
+RU918	n	cds	no	дерзость	conservative
+RU2143	n	svp	no	прожорливость	inclusive
+RU2052	n	pr	no	Интимные услуги	inclusive
+RU2439	n	cds	no	мыть номера	inclusive
+RU2515	n	cds	no	полицейский	inclusive
+RU1612	n	dmc	yes	правонарушитель	conservative
+RU3454	n	an	no	Музыкальная мистификация	conservative
+RU2769	n	ps	yes	jigaboo	conservative
+RU2348	n	cds	no	ростовщики	conservative
+RU1443	a	ddp	yes	доверчивый	conservative
+RU1960	n	cds	no	Контрреформа	conservative
+RU1606	n	an	no	овен	inclusive
+RU2546	n	cds	no	Мафиози	conservative
+RU1979	v	asm	no	тра́хаться	conservative
+RU1280	n	svp	no	Тришна	inclusive
+RU799	n	an	no	сброд	conservative
+RU519	n	re	no	преступница	inclusive
+RU1009	n	cds	no	племенных	inclusive
+RU210	n	ps	yes	глупец	conservative
+RU2405	n	re	no	конокрад	inclusive
+RU1540	n	dmc	yes	фальшивый	conservative
+RU981	n	cds	no	Кан	inclusive
+RU1158	n	an	no	кролик	inclusive
+RU2887	n	dmc	yes	несчастный	inclusive
+RU2410	n	cds	no	взломщица	inclusive
+RU2321	n	dmc	yes	лодырь	conservative
+RU821	a	ddf	yes	мерзкий	conservative
+RU972	n	om	no	пидор	conservative
+RU200	n	ddp	yes	глупость	conservative
+RU655	n	cds	no	неумеха	conservative
+RU815	n	an	no	кайман	inclusive
+RU1908	n	cds	no	Тюремная стража	inclusive
+RU85	n	svp	no	леность	inclusive
+RU211	n	ps	yes	бестолочь	conservative
+RU1726	n	cds	no	сутенерство	inclusive
+RU2422	n	or	no	мелочность	inclusive
+RU903	n	cds	no	Дебильность	inclusive
+RU325	n	qas	no	варваров	conservative
+RU2483	n	pr	no	ночная бабочка	inclusive
+RU1989	v	asm	no	заниматься любовью	conservative
+RU331	n	pa	yes	грубиян	conservative
+RU897	n	ddp	yes	Уровень Луизы	conservative
+RU522	n	dmc	yes	преступник	inclusive
+RU3400	n	an	no	Берёзовая пяденица	inclusive
+RU1536	n	dmc	yes	лицемер	conservative
+RU1097	n	qas	no	касты	inclusive
+RU1236	n	cds	no	мусор	inclusive
+RU2603	n	qas	no	Прихожанин	inclusive
+RU519	n	cds	no	преступница	conservative
+RU2319	n	dmc	yes	лгун	conservative
+RU328	n	ddp	yes	мужлан	conservative
+RU1151	n	asm	no	кусок задницы	conservative
+RU2976	n	dmc	yes	байбак	conservative
+RU2070	n	pr	no	Сексуальные услуги	conservative
+RU208	n	cds	no	дурень	inclusive
+RU2117	n	ps	yes	израильтянин	inclusive
+RU658	n	an	no	Рессурекционист	inclusive
+RU1212	n	cds	no	ссыкло́	conservative
+RU411	n	cds	no	сводня	conservative
+RU2609	n	an	no	попугай	inclusive
+RU795	n	cds	no	лоботря́ска	conservative
+RU907	n	ps	yes	Идиотизм	conservative
+RU3455	n	cds	no	Раубриттер	inclusive
+RU2692	n	an	no	микроб	inclusive
+RU3062	n	an	no	Домашние куры	inclusive
+RU2707	n	ddp	yes	микроцефалия	inclusive
+RU2213	n	cds	no	пострелёнок	conservative
+RU2321	n	svp	no	лодырь	conservative
+RU2060	n	pr	no	проституция	inclusive
+RU1087	n	cds	no	самодовольство	inclusive
+RU2431	n	cds	no	Санузел	inclusive
+RU428	n	pr	no	неряха	conservative
+RU561	n	dmc	yes	сквернословить	conservative
+RU2728	n	qas	no	грузило	inclusive
+RU3166	n	re	no	задержка	inclusive
+RU3094	a	asm	no	бурый	inclusive
+RU512	n	cds	no	плут	conservative
+RU3547	n	ps	yes	rommany	inclusive
+RU34	n	re	no	корпоративных злоупотреблений	inclusive
+RU217	n	asm	no	дура	inclusive
+RU3187	n	qas	no	покинутого судна	inclusive
+RU1250	n	cds	no	Лом цветных металлов	conservative
+RU130	n	cds	no	гонитель	conservative
+RU433	n	pr	no	лярва	conservative
+RU2116	n	ps	yes	Еврейка	inclusive
+RU1382	n	asf	no	писька	conservative
+RU1578	n	om	no	Словарь терминов анатомического расположения	inclusive
+RU3395	n	pa	yes	Служитель	inclusive
+RU1345	n	cds	no	Селекция растений	inclusive
+RU2355	n	cds	no	Шейлок	conservative
+RU3317	a	ddp	yes	бестактный	inclusive
+RU1192	n	or	no	жо́пник	conservative
+RU736	n	qas	no	профессионального класса	inclusive
+RU3192	n	an	no	лягушек	inclusive
+RU2266	n	is	yes	Бедняк	inclusive
+RU2928	n	cds	no	выскочкой	inclusive
+RU215	n	ddp	yes	простофиля	conservative
+RU228	n	ddp	yes	профан	conservative
+RU1174	n	om	no	гомосексуа́л	inclusive
+RU1856	n	dmc	yes	обма́нщица	conservative
+RU3256	n	an	no	Чеколка	inclusive
+RU2358	n	an	no	козя́вка	inclusive
+RU503	n	cds	no	банды	inclusive
+RU323	n	cds	no	дикарка	conservative
+RU2610	n	an	no	Попугаи	inclusive
+RU2730	n	an	no	Слизни	inclusive
+RU992	n	cds	no	Каммон	inclusive
+RU17	n	svp	no	безжизненность	inclusive
+RU1114	n	or	no	капуста	inclusive
+RU2481	n	an	no	моль	inclusive
+RU322	n	dmc	yes	Варвары	conservative
+RU2713	n	an	no	Ягненок	inclusive
+RU1934	n	cds	no	ищейка	conservative
+RU3253	n	an	no	Шакалы	inclusive
+RU3096	n	is	yes	неимущий	inclusive
+RU390	n	cds	no	blackballing	inclusive
+RU2489	n	dmc	yes	Моцарела	inclusive
+RU225	n	an	no	ничего не знаю	conservative
+RU2084	n	om	no	Гомоэротизм	inclusive
+RU2343	n	svp	no	ненасытный	conservative
+RU2507	n	cds	no	правонарушительница	inclusive
+RU3260	n	an	no	стафилококк камышовый	inclusive
+RU1476	n	cds	no	злодеяние	inclusive
+RU856	n	an	no	акула-людоед	inclusive
+RU2076	n	om	no	shirtlifter	inclusive
+RU1612	n	re	no	правонарушитель	conservative
+RU3498	v	asm	no	выёбываться	inclusive
+RU2807	n	cds	no	гиперсексуальность	conservative
+RU454	n	qas	no	обман	conservative
+RU3381	n	re	no	мучение	inclusive
+RU1603	n	svp	no	гурман	inclusive
+RU172	n	ddp	yes	Герпетофауна	inclusive
+RU221	n	an	no	говнюк	conservative
+RU857	n	an	no	carcharodon	inclusive
+RU7	n	svp	no	лень	inclusive
+RU943	n	cds	no	аферист	conservative
+RU669	n	ddp	yes	зоофилия	conservative
+RU2385	a	om	no	гомосексуальный	conservative
+RU652	n	cds	no	ротозей	conservative
+RU1971	v	asm	no	сношаться	conservative
+RU796	n	qas	no	чернь	inclusive
+RU869	n	is	yes	Парии	inclusive
+RU3098	a	ps	yes	ханьский	inclusive
+RU653	n	dmc	yes	blunderer	conservative
+RU2292	n	pa	yes	иезуит	inclusive
+RU3133	a	cds	no	прогорклый	inclusive
+RU313	n	cds	no	Бандитизм	inclusive
+RU264	n	svp	no	скаредность	inclusive
+RU239	n	an	no	equus asinus asinus	inclusive
+RU203	n	ddp	yes	дебил	inclusive
+RU39	n	cds	no	брокеров	inclusive
+RU453	n	cds	no	брехня	inclusive
+RU2042	n	re	no	воров	inclusive
+RU2211	n	re	no	дьяволёнок	inclusive
+RU895	n	ddp	yes	Идиотия	inclusive
+RU380	n	qas	no	баронств	inclusive
+RU2433	n	cds	no	удобства	inclusive
+RU889	n	cds	no	тряпка	conservative
+RU2820	n	an	no	гусак	inclusive
+RU326	n	rci	yes	грубый	conservative
+RU207	n	asf	no	дуралей	conservative
+RU3377	n	asm	no	Фаллос	inclusive
+RU3014	n	an	no	phthiraptera	inclusive
+RU2758	n	cds	no	вор	inclusive
+RU1058	n	an	no	неопрятность	conservative
+RU3041	n	re	no	Пиратство	inclusive
+RU51	n	pa	yes	профессура	inclusive
+RU333	n	cds	no	хамка	conservative
+RU103	n	qas	no	Табиун	inclusive
+RU1723	n	cds	no	сутенер	conservative
+RU1173	n	om	no	queer	conservative
+RU997	n	cds	no	племя	inclusive
+RU2521	n	cds	no	полицай	conservative
+RU904	n	ddp	yes	увалень	conservative
+RU2890	n	cds	no	Ростовщичество	inclusive
+RU3228	n	cds	no	педантизма	inclusive
+RU1406	n	cds	no	шутник	conservative
+RU731	n	qas	no	Буржуа	inclusive
+RU2885	n	ddp	yes	twaddler	conservative
+RU2590	n	qas	no	Паразитизм	inclusive
+RU42	n	cds	no	брокера	inclusive
+RU3156	n	re	no	Грабители	inclusive
+RU407	n	ddp	yes	дурачок	conservative
+RU1330	n	an	no	Крокодилы	inclusive
+RU2238	n	ddf	yes	инвалидности	inclusive
+RU3304	a	is	yes	бедные	inclusive
+RU354	n	pa	yes	Ранги дипломатические	inclusive
+RU262	n	svp	no	корыстолюбие	inclusive
+RU3440	n	cds	no	коллектор	inclusive
+RU1262	n	an	no	Клоп постельный	inclusive
+RU1077	n	qas	no	простолюдина	inclusive
+RU2749	n	cds	no	морализм	inclusive
+RU460	n	dmc	yes	ложности	inclusive
+RU2868	n	re	no	убиение	inclusive
+RU509	n	cds	no	шайка	inclusive
+RU2658	n	qas	no	Элоквенция	inclusive
+RU512	n	re	no	плут	inclusive
+RU3105	a	cds	no	малоду́шный	conservative
+RU1593	n	dmc	yes	ше́льма	inclusive
+RU166	n	an	no	макрофауны	inclusive
+RU631	n	cds	no	Блуперы	inclusive
+RU1062	n	asm	no	хуй	conservative
+RU2333	n	re	no	детоубийства	inclusive
+RU203	n	cds	no	дебил	conservative
+RU1627	n	cds	no	землекоп	inclusive
+RU2031	a	cds	no	продвинутый	inclusive
+RU1188	n	om	no	голубо́й	conservative
+RU2988	n	cds	no	плакса	conservative
+RU206	n	asf	no	дурачина	conservative
+RU1529	n	svp	no	омерзение	inclusive
+RU396	n	asf	no	лох	conservative
+RU1854	n	dmc	yes	непоседа	inclusive
+RU452	n	cds	no	фальшь	conservative
+RU1441	n	qas	no	босяк	conservative
+RU1670	n	an	no	улитки	inclusive
+RU804	n	dmc	yes	злодейка	conservative
+RU1272	n	svp	no	танха	inclusive
+RU416	n	pr	no	проститутка	conservative
+RU616	n	an	no	cuckold	conservative
+RU1742	n	qas	no	sodbuster	inclusive
+RU756	n	cds	no	высокомерие	conservative
+RU894	n	asf	no	перевертыш	conservative
+RU3323	a	dmc	yes	неряшливый	conservative
+RU774	n	qas	no	дрянь	conservative
+RU310	n	dmc	yes	бандит	conservative
+RU1098	n	qas	no	Кастовое устройство	inclusive
+RU1582	n	ddp	yes	задница	conservative
+RU199	n	asm	no	betise	conservative
+RU834	n	ddp	yes	Зек	inclusive
+RU218	n	ddp	yes	придурок	conservative
+RU1477	n	cds	no	преступников	inclusive
+RU1562	n	om	no	Анатомическая терминология	inclusive
+RU907	n	ddp	yes	Идиотизм	conservative
+RU1950	n	dmc	yes	не-счета	conservative
+RU1497	n	an	no	дидли-приземистых	conservative
+RU1078	n	qas	no	незнатного происхождения	inclusive
+RU2181	n	asf	no	девица	conservative
+RU2177	n	cds	no	эстрадных певцов	inclusive
+RU863	n	cds	no	мертвечина	inclusive
+RU3221	v	re	no	своровать	inclusive
+RU211	n	cds	no	бестолочь	conservative
+RU1751	n	is	yes	Маргинализация	inclusive
+RU2351	n	cds	no	ростовщичеством	inclusive
+RU2026	a	cds	no	коварный	conservative
+RU1180	n	om	no	го́мик	conservative
+RU2724	n	pa	yes	пастырь	inclusive
+RU3241	n	an	no	Таракановые	inclusive
+RU2388	a	svp	no	оби́женный	conservative
+RU269	n	an	no	скупердяй	conservative
+RU763	n	cds	no	суета́	conservative
+RU2935	v	asm	no	обмануть	conservative
+RU2019	n	an	no	вепрь	inclusive
+RU881	n	an	no	размазня́	conservative
+RU453	n	cds	no	брехня	conservative
+RU348	n	pa	yes	Дипломатические ранги	inclusive
+RU366	n	pa	yes	приверженка	inclusive
+RU901	n	ps	yes	кретин	conservative
+RU1725	n	cds	no	сводник	conservative
+RU2918	n	qas	no	слоняться	conservative
+RU3309	a	svp	no	мстительный	conservative
+RU1746	n	cds	no	нацистка	conservative
+RU194	n	or	no	башка	inclusive
+RU704	n	pr	no	пасюк	inclusive
+RU847	n	ddp	yes	заключённый	inclusive
+RU117	n	qas	no	всякая всячина	inclusive
+RU1696	a	dmc	yes	презренный	conservative
+RU898	n	ps	yes	слабоумный	conservative
+RU2260	n	is	yes	обет бедности	inclusive
+RU1851	n	svp	no	бесполезности	conservative
+RU904	n	ddp	yes	увалень	inclusive
+RU3185	a	qas	no	обыденный	inclusive
+RU1174	n	or	no	гомосексуа́л	conservative
+RU2240	n	ddf	yes	неполноценный человек	inclusive
+RU1241	n	qas	no	твердых отходов	inclusive
+RU3436	n	cds	no	канализационная труба	inclusive
+RU1027	n	an	no	Козлообразные	inclusive
+RU2097	n	ps	yes	иудео	inclusive
+RU436	n	an	no	бабенка	conservative
+RU2197	a	dmc	yes	твердолобый	conservative
+RU2822	n	an	no	anserini	inclusive
+RU1893	n	asf	no	Вагина	conservative
+RU771	n	cds	no	мерзавец	conservative
+RU2201	a	svp	no	скупой	conservative
+RU1175	n	om	no	гомосексуали́ст	inclusive
+RU646	n	cds	no	фарисей	conservative
+RU2502	n	cds	no	зануда	conservative
+RU267	n	svp	no	скряга	inclusive
+RU2287	n	cds	no	инструктор	inclusive
+RU2813	n	cds	no	гиперсексуальной	conservative
+RU202	n	or	no	болван	conservative
+RU3097	a	ps	yes	китайский	inclusive
+RU1488	n	an	no	diddlyshit	conservative
+RU205	n	cds	no	балбес	conservative
+RU1954	n	svp	no	никчемный человек	conservative
+RU1456	n	ps	yes	глупе́ц	conservative
+RU9	n	svp	no	Леность	inclusive
+RU941	n	dmc	yes	defrauder	conservative
+RU403	n	ddp	yes	глупый	conservative
+RU2062	n	pr	no	проституток	inclusive
+RU2135	n	qas	no	Малярные работы	inclusive
+RU2572	n	om	no	педерастии	inclusive
+RU158	n	ddp	yes	Тварь	inclusive
+RU2846	n	re	no	убийц	inclusive
+RU2542	n	re	no	Мафиозо	conservative
+RU1236	n	qas	no	мусор	inclusive
+RU2281	n	cds	no	splashiness	inclusive
+RU970	n	an	no	Суки	inclusive
+RU1452	n	an	no	расхищать	inclusive
+RU975	n	om	no	растлитель	conservative
+RU1899	n	pr	no	молл	inclusive
+RU1844	n	re	no	неистовство	inclusive
+RU1184	n	om	no	пету́х	conservative
+RU729	n	om	no	гомосексуалист	inclusive
+RU505	n	cds	no	молодежных банд	conservative
+RU2721	n	pa	yes	пастух	inclusive
+RU1929	n	cds	no	зритель	conservative
+RU787	n	cds	no	бездельник	conservative
+RU650	n	ddp	yes	растяпа	conservative
+RU1936	n	qas	no	сыщица	inclusive
+RU1808	n	cds	no	Каменьщики вольные	inclusive
+RU1153	n	asm	no	nooky	conservative
+RU848	n	ddp	yes	арестант	inclusive
+RU273	n	svp	no	скря́га	inclusive
+RU2759	n	ddf	yes	половина пинты	conservative
+RU3356	n	cds	no	молельни	inclusive
+RU2543	n	cds	no	мафиози	conservative
+RU838	n	ddp	yes	заключенный	inclusive
+RU326	n	dmc	yes	грубый	conservative
+RU410	n	pr	no	потаскуха	conservative
+RU667	n	an	no	скотоложество	conservative
+RU33	n	re	no	финансовые злоупотребления	inclusive
+RU165	n	an	no	фауны	inclusive
+RU843	n	ddp	yes	Зэка	inclusive
+RU437	n	pr	no	ха́стлер	conservative
+RU836	n	ddp	yes	Зека	inclusive
+RU3208	n	an	no	Жабы	inclusive
+RU2207	n	cds	no	бесёнок	inclusive
+RU3107	a	cds	no	трусли́вый	conservative
+RU3358	a	svp	no	высокомерный	conservative
+RU3332	n	re	no	насильник	conservative
+RU204	n	asf	no	идиотка	conservative
+RU206	n	cds	no	дурачина	inclusive
+RU2327	n	cds	no	Обман	inclusive
+RU1268	n	cds	no	хитрость	conservative
+RU2732	n	an	no	Слизень	inclusive
+RU2328	n	cds	no	Враньё	inclusive
+RU370	n	pa	yes	адвока́т	inclusive
+RU1240	n	cds	no	скрап	conservative
+RU713	n	qas	no	Крестьянство	inclusive
+RU1229	n	ddp	yes	шарлатанство	conservative
+RU2559	n	an	no	otus asio	inclusive
+RU1165	n	cds	no	журналист	inclusive
+RU911	n	an	no	лисица	inclusive
+RU141	n	an	no	Угрёвые	inclusive
+RU353	n	pa	yes	дипломатический ранг	inclusive
+RU226	n	ddp	yes	незнайка	conservative
+RU1324	n	an	no	крокодилы	inclusive
+RU499	n	dmc	yes	Ханжество	conservative
+RU1299	n	an	no	сыч	inclusive
+RU3298	n	an	no	красного барабана	inclusive
+RU3306	n	qas	no	Бладхаунд	inclusive
+RU1221	n	cds	no	трусость	inclusive
+RU945	n	ddp	yes	сволочь	conservative
+RU205	n	or	no	балбес	conservative
+RU1858	n	dmc	yes	гангстер	inclusive
+RU1277	n	svp	no	пристрастие	inclusive
+RU2964	n	cds	no	педант	conservative
+RU2206	n	cds	no	него́дница	conservative
+RU211	n	or	no	бестолочь	conservative
+RU1275	n	svp	no	влечение	inclusive
+RU297	n	asm	no	яичко	inclusive
+RU805	n	dmc	yes	Злодей	conservative
+RU2425	n	cds	no	воришка	conservative
+RU1255	n	an	no	подслушивающее устройство	inclusive
+RU1301	n	an	no	Совообразные	inclusive
+RU1440	n	qas	no	бомж	conservative
+RU1810	n	cds	no	Франкмасон	inclusive
+RU655	n	ddp	yes	неумеха	conservative
+RU1880	n	asm	no	faba sativa	inclusive
+RU310	n	cds	no	бандит	conservative
+RU227	n	ddp	yes	невежда	conservative
+RU1381	n	or	no	пизда	conservative
+RU1189	n	om	no	гей	conservative
+RU1576	n	om	no	контралатеральной	inclusive
+RU1944	n	cds	no	заступник	inclusive
+RU2083	n	om	no	гомосексуалистов	inclusive
+RU631	n	qas	no	Блуперы	inclusive
+RU785	n	dmc	yes	Хобо	conservative
+RU1965	n	cds	no	реакционный	conservative
+RU887	n	cds	no	слабовольный человек	conservative
+RU206	n	ps	yes	дурачина	conservative
+RU2202	a	dmc	yes	скаредный	conservative
+RU3	v	an	no	гавкать	inclusive
+RU2894	n	ps	yes	вандалы	inclusive
+RU3101	n	pa	yes	адъюнкт-профессор	inclusive
+RU771	n	dmc	yes	мерзавец	inclusive
+RU2548	n	cds	no	cosa nosta	conservative
+RU451	n	an	no	rentboy	conservative
+RU1471	n	cds	no	незаконной деятельности	inclusive
+RU1792	n	cds	no	скоморох	inclusive
+RU328	n	pa	yes	мужлан	conservative
+RU2618	n	svp	no	скряжничество	inclusive
+RU777	n	an	no	такой-сякой	conservative
+RU1367	n	qas	no	Комплаенс	inclusive
+RU22	n	svp	no	Индифферентный	inclusive
+RU800	n	is	yes	Злодейка	conservative
+RU3324	a	re	no	жестокий	inclusive
+RU2262	n	is	yes	бедных	inclusive
+RU2930	v	cds	no	перее́сть	inclusive
+RU3441	n	cds	no	сточная труба	inclusive
+RU1290	n	an	no	vamper	conservative
+RU2205	n	cds	no	баловни́ца	conservative
+RU1953	n	svp	no	никчёмный	conservative
+RU2339	a	is	yes	неуда́чливый	inclusive
+RU2987	n	cds	no	ворчун	conservative
+RU1597	n	qas	no	конура	inclusive
+RU755	n	svp	no	спесь	conservative
+RU270	n	an	no	жмот	conservative
+RU321	n	pa	yes	грубиянка	conservative
+RU65	n	ddp	yes	аменция	inclusive
+RU624	n	cds	no	запороть	inclusive
+RU1445	n	an	no	Дурачок	conservative
+RU2709	n	an	no	Ягнёнок	inclusive
+RU303	a	svp	no	скупо́й	inclusive
+RU2491	n	an	no	тугодум	conservative
+RU2772	n	ps	yes	Чернокожий	inclusive
+RU1397	n	cds	no	камарильи	inclusive
+RU2131	n	cds	no	прелат	inclusive
+RU1224	n	ddp	yes	шарлатанка	conservative
+RU3550	n	an	no	коро́ва	inclusive
+RU1033	n	an	no	Козел	inclusive
+RU1829	n	an	no	нахмуриться	inclusive
+RU3321	a	ddf	yes	безобразный	conservative
+RU2299	n	dmc	yes	морально обанкротившейся	inclusive
+RU1340	n	ps	yes	скрещивании	inclusive
+RU583	n	cds	no	штрейкбрехерство	inclusive
+RU1738	n	qas	no	fieldhand	inclusive
+RU810	n	or	no	мускатной тыквы	inclusive
+RU358	n	pa	yes	поборник	inclusive
+RU3141	n	re	no	похище́ние	inclusive
+RU3327	n	pr	no	Иванов червячок	inclusive
+RU605	n	re	no	вымогательство	conservative
+RU1182	n	or	no	пе́дик	conservative
+RU2919	n	qas	no	попрошайка	conservative
+RU2936	v	asm	no	одурачить	conservative
+RU210	n	an	no	глупец	conservative
+RU568	n	ddp	yes	остолоп	conservative
+RU1741	n	qas	no	Фермерство	inclusive
+RU525	n	re	no	вне закона	inclusive
+RU2054	n	pr	no	сексуальных услуг	conservative
+RU978	n	ps	yes	китаянка	inclusive
+RU899	n	ddp	yes	перевертыши	inclusive
+RU3276	a	qas	no	средневековый	inclusive
+RU2758	n	re	no	вор	inclusive
+RU2720	n	pa	yes	чабан	inclusive
+RU1333	n	an	no	Крокодиловые	inclusive
+RU2452	n	cds	no	уклоняющийся от работы человек	conservative
+RU1303	n	an	no	сова	inclusive
+RU1166	n	cds	no	репортер	inclusive
+RU874	n	dmc	yes	Хариджан	inclusive
+RU1505	n	cds	no	Уровень преступности	inclusive
+RU1807	n	cds	no	масон	inclusive
+RU2569	n	an	no	жиртрест	conservative
+RU268	n	is	yes	куркуль	conservative
+RU2994	n	an	no	humanus	inclusive
+RU265	n	an	no	крохобо́р	conservative
+RU299	n	qas	no	тестикула	inclusive
+RU2784	n	ps	yes	негроидной	inclusive
+RU1424	n	dmc	yes	Лживость	conservative
+RU2528	n	cds	no	патрульный	inclusive
+RU3297	n	an	no	красный барабан	inclusive
+RU383	n	qas	no	Баронесса	inclusive
+RU875	n	dmc	yes	изгоем	inclusive
+RU1101	n	qas	no	каста	inclusive
+RU389	n	an	no	мародер	inclusive
+RU817	a	ddf	yes	плохой	inclusive
+RU227	n	an	no	невежда	conservative
+RU3018	n	cds	no	религиозной дискриминации	inclusive
+RU1518	n	cds	no	Гранж	inclusive
+RU3386	n	re	no	Пытки	inclusive
+RU864	n	cds	no	падаль	inclusive
+RU464	n	cds	no	Дендизм	inclusive
+RU1677	n	dmc	yes	моральный компас	inclusive
+RU3388	n	re	no	пыткам	inclusive
+RU947	n	cds	no	халтура	conservative
+RU627	n	cds	no	ляпы	inclusive
+RU194	n	ddp	yes	башка	conservative
+RU1067	n	asm	no	пипи́ска	conservative
+RU2566	n	dmc	yes	коротышка	conservative
+RU763	n	svp	no	суета́	conservative
+RU1429	n	pr	no	куртизанки	inclusive
+RU2461	n	ps	yes	монгольский	inclusive
+RU1646	n	re	no	Квазиделикт	inclusive
+RU1877	n	asm	no	faba vulgaris	inclusive
+RU3059	n	an	no	курица	inclusive
+RU2053	n	pr	no	Кокотка	conservative
+RU279	n	ddp	yes	умственной отсталостью	inclusive
+RU3093	a	asm	no	коричневый	inclusive
+RU1864	n	cds	no	фашизма	conservative
+RU877	n	dmc	yes	изгой	inclusive
+RU2993	a	qas	no	обы́чный	inclusive
+RU1857	n	re	no	брато́к	inclusive
+RU2891	n	ps	yes	вандал	conservative
+RU2095	n	ps	yes	Иудей	inclusive
+RU1349	n	cds	no	Гибриды	inclusive
+RU3123	n	pa	yes	Бухгалтеры	inclusive
+RU2701	n	an	no	animalculum	inclusive
+RU2204	n	dmc	yes	прока́зник	inclusive
+RU877	n	is	yes	изгой	inclusive
+RU300	n	asm	no	ерунда	inclusive
+RU2132	n	cds	no	протоиерей	inclusive
+RU2908	n	dmc	yes	Ляп	inclusive
+RU2349	n	cds	no	ростовщица	conservative
+RU212	n	cds	no	олух	conservative
+RU3088	a	an	no	звериный	conservative
+RU320	n	ps	yes	мужла́н	conservative
+RU2890	n	cds	no	Ростовщичество	conservative
+RU1758	n	om	no	foeniculum vulgare	inclusive
+RU303	a	svp	no	скупо́й	conservative
+RU2981	n	cds	no	бачок с питьевой водой	inclusive
+RU2909	n	an	no	червь	inclusive
+RU2520	n	cds	no	мент	inclusive
+RU3529	n	dmc	yes	перебежчика	conservative
+RU799	n	cds	no	сброд	conservative
+RU560	n	an	no	негодяйка	conservative
+RU1936	n	cds	no	сыщица	conservative
+RU868	n	is	yes	вы́кинутый	inclusive
+RU3242	n	an	no	blattida	inclusive
+RU209	n	or	no	тупица	conservative
+RU936	n	re	no	клеветник	conservative
+RU1787	n	an	no	aphaniptera	inclusive
+RU2904	n	dmc	yes	оши́бка	inclusive
+RU1962	n	cds	no	ультраконсервативный	conservative
+RU98	n	om	no	анальный секс	inclusive
+RU1476	n	re	no	злодеяние	inclusive
+RU2098	n	ps	yes	Еврейская мифология	inclusive
+RU3231	n	an	no	кровопийца	inclusive
+RU2049	n	qas	no	тагалонг	conservative
+RU605	n	re	no	вымогательство	inclusive
+RU2780	n	ps	yes	Негроиды	inclusive
+RU906	n	asm	no	отморо́зок	inclusive
+RU1658	n	re	no	является преступлением только	inclusive
+RU425	n	cds	no	замарашка	conservative
+RU800	n	re	no	Злодейка	conservative
+RU478	n	cds	no	кутерьма	inclusive
+RU1404	n	qas	no	отвергать	conservative
+RU3132	n	pa	yes	контроллер	inclusive
+RU1199	n	cds	no	болтунья	conservative
+RU1841	n	cds	no	Фундаментализм	inclusive
+RU128	n	asf	no	folderol	conservative
+RU1195	n	om	no	Гомофил	conservative
+RU659	n	an	no	снайпер	inclusive
+RU428	n	an	no	неряха	conservative
+RU710	n	qas	no	крестьянин	inclusive
+RU2058	n	pr	no	Секс-услуги	conservative
+RU1616	n	cds	no	плоты	inclusive
+RU395	n	cds	no	барельеф блю	inclusive
+RU998	n	cds	no	Мон	inclusive
+RU215	n	dmc	yes	простофиля	conservative
+RU798	n	ddp	yes	быдло	conservative
+RU3215	n	an	no	Жаба европейская	inclusive
+RU2933	v	cds	no	поглощать	inclusive
+RU986	n	cds	no	Бу	inclusive
+RU562	n	dmc	yes	подлая	conservative
+RU312	n	cds	no	разбойник	conservative
+RU3444	n	cds	no	Ндрангета	inclusive
+RU2528	n	cds	no	патрульный	conservative
+RU2383	n	asm	no	полового члена	inclusive
+RU460	n	qas	no	ложности	conservative
+RU2566	n	ddf	yes	коротышка	conservative
+RU800	n	cds	no	Злодейка	conservative
+RU2118	n	ps	yes	евреев	inclusive
+RU2203	n	dmc	yes	чертёнок	inclusive
+RU446	n	pr	no	жи́голо	conservative
+RU468	n	cds	no	Дэнди	inclusive
+RU421	n	cds	no	грязнуля	conservative
+RU496	n	svp	no	фанатик	conservative
+RU477	n	cds	no	беспорядок	conservative
+RU3542	n	ps	yes	цыган	inclusive
+RU404	n	ddp	yes	pudden головы	conservative
+RU266	n	ddp	yes	скупец	conservative
+RU566	n	an	no	свинья	conservative
+RU940	n	cds	no	мошенница	inclusive
+RU2078	n	om	no	однополых	inclusive
+RU213	n	or	no	балда	conservative
+RU1917	n	an	no	Нетопыри	inclusive
+RU567	n	ps	yes	полукро́вка	conservative
+RU300	n	qas	no	ерунда	inclusive
+RU3456	n	cds	no	Рауб-риттер	inclusive
+RU2121	n	ps	yes	Еврей	inclusive
+RU1613	n	cds	no	комки	inclusive
+RU796	n	ddp	yes	чернь	conservative
+RU654	n	an	no	разиня	conservative
+RU2922	n	cds	no	нуворишей	inclusive
+RU2229	n	ddf	yes	отключения	inclusive
+RU1801	n	asm	no	Уздечка крайней плоти	inclusive
+RU1783	n	cds	no	переплёт	inclusive
+RU274	n	svp	no	курку́ль	conservative
+RU1727	n	cds	no	Сутенерство	conservative
+RU497	n	dmc	yes	Ханжа	conservative
+RU412	n	pr	no	куртизанка	conservative
+RU1118	n	or	no	капу́ста	inclusive
+RU1267	n	an	no	hemipteran	inclusive
+RU2199	a	dmc	yes	ограниченный	conservative
+RU3150	n	re	no	грабеже при отягчающих обстоятельствах	inclusive
+RU676	n	pr	no	Телка	inclusive
+RU1995	v	asm	no	отдрю́читься	conservative
+RU166	n	ddp	yes	макрофауны	inclusive
+RU2549	n	cds	no	Консильери	inclusive
+RU1789	n	an	no	Афаниптера	inclusive
+RU97	n	om	no	Содомный грех	inclusive
+RU3428	n	asm	no	ночевок	inclusive
+RU3056	a	dmc	yes	ненастоящий	conservative
+RU3280	n	cds	no	сциентизма	inclusive
+RU842	n	ddp	yes	З к	inclusive
+RU2332	n	re	no	детоубийство	inclusive
+RU653	n	cds	no	blunderer	conservative
+RU134	n	cds	no	зилотов	inclusive
+RU3538	n	an	no	Лимациды	inclusive
+RU2427	n	qas	no	смесь	inclusive
+RU895	n	ddp	yes	Идиотия	conservative
+RU419	n	pr	no	неряшливой женщиной	conservative
+RU397	n	an	no	фраер	conservative
+RU2205	n	cds	no	баловни́ца	inclusive
+RU804	n	cds	no	злодейка	conservative
+RU2631	n	an	no	поросёнок	inclusive
+RU2625	n	asm	no	горох	inclusive
+RU3515	n	an	no	vipera	inclusive
+RU12	n	svp	no	Абулия	inclusive
+RU905	n	asm	no	чайник	inclusive
+RU252	n	is	yes	жадность	conservative
+RU2806	n	cds	no	нимфомания	conservative
+RU167	n	an	no	Живность	inclusive
+RU24	n	qas	no	Аколит	inclusive
+RU35	n	re	no	плохое обращение	inclusive
+RU3516	n	an	no	Гадюки настоящие	inclusive
+RU3071	n	an	no	Куриное мясо	inclusive
+RU2839	n	an	no	клещей	inclusive
+RU2524	n	cds	no	полицейских	conservative
+RU2338	a	is	yes	несча́стный	inclusive
+RU3371	n	re	no	террористов	conservative
+RU338	n	qas	no	Трейдинг	inclusive
+RU125	a	svp	no	воинственный	conservative
+RU522	n	cds	no	преступник	inclusive
+RU773	n	dmc	yes	отщепенец	inclusive
+RU517	n	cds	no	негодяй	inclusive
+RU404	n	or	no	pudden головы	conservative
+RU329	n	pa	yes	деревенщина	conservative
+RU2681	n	ps	yes	Метис	conservative
+RU1590	n	om	no	координатам	inclusive
+RU1269	n	cds	no	лукавство	conservative
+RU2092	n	om	no	Гомосексуалист	inclusive
+RU2586	n	qas	no	некротрофным	inclusive
+RU3565	n	ps	yes	зулусов	inclusive
+RU224	n	asf	no	muttonhead	conservative
+RU1375	n	cds	no	мальчонка	inclusive
+RU2340	a	is	yes	несчастным	inclusive
+RU16	n	svp	no	апатичным	inclusive
+RU1501	n	cds	no	Бульварная литература	inclusive
+RU792	n	svp	no	ло́дырь	conservative
+RU203	n	an	no	дебил	conservative
+RU1454	n	an	no	флибустьер	inclusive
+RU2325	n	dmc	yes	Самооговор	inclusive
+RU1453	n	dmc	yes	грабитель	conservative
+RU2611	n	an	no	Попугеобразные	inclusive
+RU417	n	pr	no	шалава	conservative
+RU1405	n	cds	no	отбирать	conservative
+RU1840	n	cds	no	фундаменталистов	inclusive
+RU3265	a	svp	no	похотливый	conservative
+RU2791	n	ps	yes	черные люди	inclusive
+RU2516	n	cds	no	фараон	inclusive
+RU3077	n	cds	no	новорожденных	inclusive
+RU865	n	cds	no	казино	inclusive
+RU670	n	re	no	свирепость	inclusive
+RU271	n	an	no	жадина	conservative
+RU2286	n	cds	no	учебного пособия	inclusive
+RU3372	n	re	no	Террорист	conservative
+RU774	n	an	no	дрянь	conservative
+RU797	n	cds	no	толпа	conservative
+RU2406	n	re	no	Угон скота	inclusive
+RU515	n	re	no	мошенник	conservative
+RU650	n	cds	no	растяпа	conservative
+RU310	n	re	no	бандит	inclusive
+RU2708	n	ddp	yes	nanocephaly	inclusive
+RU2102	n	ps	yes	иудаи́зм	inclusive
+RU2496	n	an	no	мо́рда	inclusive
+RU2398	a	svp	no	обидчивый	conservative
+RU2881	n	dmc	yes	Трикстер	conservative
+RU684	n	pr	no	коров	inclusive
+RU1664	n	asm	no	фаллус	inclusive
+RU323	n	dmc	yes	дикарка	conservative
+RU2617	n	svp	no	бережливость	inclusive
+RU2210	n	cds	no	плуто́вка	inclusive
+RU650	n	qas	no	растяпа	conservative
+RU1082	n	an	no	Комар-пискун	inclusive
+RU2962	n	cds	no	педантка	conservative
+RU776	n	an	no	пакостник	conservative
+RU2104	n	ps	yes	гебраизм	inclusive
+RU3330	n	pr	no	lampyris noctiluca	inclusive
+RU2748	n	pr	no	Светская львица	inclusive
+RU2943	n	qas	no	баламут	conservative
+RU2254	n	ddp	yes	бессмысленные	conservative
+RU2864	n	re	no	уби́йца	inclusive
+RU3466	n	cds	no	Конспиролог	inclusive
+RU1291	n	an	no	женщина-вамп	conservative
+RU2598	n	qas	no	Парафия	inclusive
+RU802	n	an	no	злодея	conservative
+RU2925	n	cds	no	выскочка	inclusive
+RU919	n	re	no	наговор	inclusive
+RU2615	n	svp	no	экономность	inclusive
+RU941	n	cds	no	defrauder	conservative
+RU330	n	ps	yes	варварка	conservative
+RU2224	n	ddf	yes	Инвалид	inclusive
+RU267	n	is	yes	скряга	conservative
+RU360	n	pa	yes	защитник	inclusive
+RU2307	n	dmc	yes	самозванец	conservative
+RU218	n	asm	no	придурок	inclusive
+RU1177	n	om	no	Гомофильное движение	conservative
+RU3153	n	re	no	был	inclusive
+RU2086	n	om	no	гомоэротизма	inclusive
+RU2206	n	cds	no	него́дница	inclusive
+RU1973	v	asm	no	дрю́чить	conservative
+RU949	n	an	no	Домашние собаки	inclusive
+RU3457	n	cds	no	Рыцари-разбойники	inclusive
+RU215	n	qas	no	простофиля	conservative
+RU2188	n	cds	no	идолопокло́нство	inclusive
+RU674	n	an	no	волов	inclusive
+RU1749	n	cds	no	фашист	conservative
+RU236	n	an	no	Степной осел	inclusive
+RU2413	n	ps	yes	Метеки	inclusive
+RU2440	n	cds	no	общественных туалетах	inclusive
+RU575	n	cds	no	дворня́жка	inclusive
+RU2984	n	is	yes	нищий	conservative
+RU2281	n	cds	no	splashiness	conservative
+RU990	n	cds	no	родственные группы	inclusive
+RU3531	n	dmc	yes	отступник	conservative
+RU2039	n	cds	no	хищение	inclusive
+RU1552	n	om	no	ипсилатерального	inclusive
+RU2215	n	cds	no	шалу́н	inclusive
+RU2247	n	ddp	yes	абсурд	conservative
+RU3074	n	an	no	ове́чка	conservative
+RU461	n	cds	no	Чувак	inclusive
+RU1850	n	svp	no	далье	conservative
+RU1931	n	cds	no	зрительница	conservative
+RU2606	n	qas	no	Кирхшпиль	inclusive
+RU586	n	ddp	yes	муди́ло	conservative
+RU2899	n	dmc	yes	Киноляп	inclusive
+RU564	n	cds	no	неопрятный человек	conservative
+RU14	n	svp	no	абулия	inclusive
+RU1372	n	cds	no	мальчишка	inclusive
+RU2428	n	qas	no	смеси	inclusive
+RU1745	n	ps	yes	фашистка	inclusive
+RU460	n	cds	no	ложности	conservative
+RU1693	n	dmc	yes	зло	conservative
+RU525	n	dmc	yes	вне закона	inclusive
+RU511	n	cds	no	подлец	conservative
+RU2541	n	cds	no	Чешская "Маффия"	conservative
+RU1338	n	ddf	yes	горбунья	inclusive
+RU149	n	an	no	угрей	inclusive
+RU101	n	an	no	лентяй	conservative
+RU2766	n	cds	no	autolatry	inclusive
+RU805	n	an	no	Злодей	conservative
+RU1914	n	cds	no	тюремный смотритель	inclusive
+RU2604	n	qas	no	Церковный приход	inclusive
+RU3535	n	dmc	yes	изменник	conservative
+RU3443	n	cds	no	Ливнёвка	inclusive
+RU495	n	svp	no	мракобес	conservative
+RU1972	v	asm	no	заняться любовь	conservative
+RU630	n	qas	no	прокол	inclusive
+RU2516	n	cds	no	фараон	conservative
+RU233	n	an	no	Ослы	inclusive
+RU333	n	ps	yes	хамка	conservative
+RU58	n	pa	yes	Академик	inclusive
+RU517	n	dmc	yes	негодяй	inclusive
+RU623	n	qas	no	просчёт	inclusive
+RU1457	n	ddp	yes	ду́рень	conservative
+RU309	n	cds	no	бандитка	conservative
+RU3546	n	ps	yes	Цыган	inclusive
+RU132	n	cds	no	фанатизма	inclusive
+RU347	n	pa	yes	советник-посланник	inclusive
+RU2729	n	an	no	Слизняк	inclusive
+RU2678	n	ps	yes	полукровка	conservative
+RU209	n	ddp	yes	тупица	inclusive
+RU207	n	cds	no	дуралей	conservative
+RU2638	n	is	yes	бедный	inclusive
+RU590	n	cds	no	хуйло́	conservative
+RU2814	n	asf	no	небольшое количество	inclusive
+RU1112	n	or	no	brassica oleracea	inclusive
+RU1475	n	re	no	преступное поведение	inclusive
+RU775	n	an	no	дно жизни	conservative
+RU674	n	pr	no	волов	inclusive
+RU2752	n	an	no	мошки	inclusive
+RU3413	n	om	no	трансвеститов	inclusive
+RU793	n	svp	no	лежебока	conservative
+RU1661	n	asm	no	фаллос	inclusive
+RU1172	n	or	no	обслуживанию	conservative
+RU352	n	pa	yes	адвокат	inclusive
+RU563	n	cds	no	разгильдяй	conservative
+RU2500	n	cds	no	ботаник	conservative
+RU2203	n	cds	no	чертёнок	inclusive
+RU457	n	qas	no	неправда	conservative
+RU333	n	pa	yes	хамка	conservative
+RU2873	n	re	no	мучитель	inclusive
+RU1843	n	an	no	ярость	inclusive
+RU1445	n	ddp	yes	Дурачок	conservative
+RU531	n	an	no	Бизоны	inclusive
+RU627	n	qas	no	ляпы	inclusive
+RU1705	n	dmc	yes	Либертинаж	conservative
+RU3024	a	svp	no	злой	inclusive
+RU179	n	re	no	клевета́	conservative
+RU2543	n	re	no	мафиози	conservative
+RU322	n	ddp	yes	Варвары	conservative
+RU899	n	ddp	yes	перевертыши	conservative
+RU2277	n	ddp	yes	неведение	conservative
+RU1202	n	an	no	phisionomie	inclusive
+RU1968	v	asm	no	заниматься секс	conservative
+RU2921	n	cds	no	парвеню	inclusive
+RU330	n	rci	yes	варварка	conservative
+RU1248	n	an	no	хлам	conservative
+RU828	n	cds	no	клики	inclusive
+RU305	a	svp	no	алчный	conservative
+RU114	n	qas	no	меланж	inclusive
+RU2622	n	asm	no	pisum sativum	inclusive
+RU521	n	cds	no	бандитов	conservative
+RU3308	n	an	no	змея	inclusive
+RU2655	n	cds	no	святыню	inclusive
+RU611	n	pa	yes	гробовщик	inclusive
+RU441	n	an	no	жу́лик	conservative
+RU882	n	an	no	тюфя́к	conservative
+RU3517	n	an	no	Настоящие гадюки	inclusive
+RU2251	n	ddp	yes	бессмысленными	conservative
+RU3400	n	pr	no	Берёзовая пяденица	inclusive
+RU2870	n	or	no	Тыквенный цвет	inclusive
+RU2462	n	ps	yes	Монгол	inclusive
+RU621	n	dmc	yes	распутник	conservative
+RU519	n	dmc	yes	преступница	inclusive
+RU3444	n	re	no	Ндрангета	inclusive
+RU325	n	ddp	yes	варваров	conservative
+RU194	n	asm	no	башка	conservative
+RU649	n	dmc	yes	bumbler	conservative
+RU3066	n	an	no	volaille	inclusive
+RU634	n	cds	no	портить	inclusive
+RU217	n	asf	no	дура	conservative
+RU208	n	or	no	дурень	conservative
+RU2865	n	re	no	женщина-убийца	inclusive
+RU208	n	ps	yes	дурень	conservative
+RU688	n	pr	no	корова	inclusive
+RU2876	n	dmc	yes	Гомункулюс	inclusive
+RU3218	v	re	no	воровать	inclusive
+RU1512	n	ps	yes	ганс	conservative
+RU217	n	ps	yes	дура	conservative
+RU2246	n	ddp	yes	nonsensicality	conservative
+RU210	n	or	no	глупец	conservative
+RU1181	n	om	no	Гомофилия	inclusive
+RU2785	n	ps	yes	Ниггер	inclusive
+RU1685	n	an	no	eurypterida	inclusive
+RU3396	n	pa	yes	Служащий	inclusive
+RU726	n	an	no	старый свет буйвола	inclusive
+RU2209	n	cds	no	шалу́нья	inclusive
+RU454	n	cds	no	обман	conservative
+RU2326	n	dmc	yes	Враль	inclusive
+RU699	n	asm	no	Коричневый цвет	inclusive
+RU1756	n	or	no	брезгливость	inclusive
+RU481	n	ps	yes	Бедуины	inclusive
+RU2056	n	pr	no	Легализация проституции	conservative
+RU1207	n	ddp	yes	осведомитель	conservative
+RU100	n	svp	no	праздность	conservative
+RU1912	n	cds	no	Вертухай	inclusive
+RU1407	n	cds	no	мистификатор	conservative
+RU207	n	ddp	yes	дуралей	inclusive
+RU1095	n	qas	no	Джати	inclusive
+RU213	n	ddp	yes	балда	conservative
+RU213	n	asf	no	балда	conservative
+RU423	n	pr	no	шлак	conservative
+RU979	n	ps	yes	китаец	inclusive
+RU3364	a	svp	no	высокоме́рный	conservative
+RU675	n	an	no	скот	inclusive
+RU2149	n	qas	no	домашнее хозяйство	inclusive
+RU2386	n	svp	no	зависть	inclusive
+RU1556	n	om	no	задняя	inclusive
+RU3216	n	an	no	Жаба обыкновенная	inclusive
+RU178	n	re	no	клевета	inclusive
+RU1744	n	qas	no	земледельцев	inclusive
+RU2328	n	dmc	yes	Враньё	inclusive
+RU2125	n	cds	no	Стадо	inclusive
+RU3368	n	re	no	Террористы	conservative
+RU2833	n	re	no	террорист	inclusive
+RU901	n	asf	no	кретин	conservative
+RU565	n	cds	no	растрёпа	conservative
+RU3491	n	cds	no	продажности	inclusive
+RU932	n	re	no	defamer	conservative
+RU1460	n	an	no	ничтожество	conservative
+RU213	n	ps	yes	балда	conservative
+RU425	n	an	no	замарашка	conservative
+RU654	n	dmc	yes	разиня	conservative
+RU2159	n	qas	no	хатка	inclusive
+RU2213	n	re	no	пострелёнок	inclusive
+RU1762	n	om	no	фе́нхель	inclusive
+RU541	n	cds	no	шалость	conservative
+RU1853	n	svp	no	тщетность	conservative
+RU2202	a	an	no	скаредный	conservative
+RU783	n	dmc	yes	Бомжи	conservative
+RU513	n	an	no	жулик	conservative
+RU2174	n	cds	no	исполнитель баллад	inclusive
+RU219	n	or	no	идиот	conservative
+RU3174	n	cds	no	fawner	conservative
+RU751	n	ps	yes	болгарка	inclusive
+RU896	n	asm	no	замедлять	inclusive
+RU1032	n	an	no	capra	inclusive
+RU1081	n	cds	no	засорение	inclusive
+RU2765	n	cds	no	самопоклонение	inclusive
+RU1183	n	or	no	геев	conservative
+RU1178	n	om	no	пи́дор	inclusive
+RU697	n	asm	no	Шоколадный цвет	inclusive
+RU841	n	ddp	yes	Заключенные	inclusive
+RU536	n	ddp	yes	taleteller	conservative
+RU1059	n	an	no	пошлость	conservative
+RU3115	n	pr	no	свободную женщину	conservative
+RU563	n	an	no	разгильдяй	conservative
+RU319	n	dmc	yes	варварским	conservative
+RU1746	n	ps	yes	нацистка	inclusive
+RU502	n	cds	no	бандитских разборок	conservative
+RU1848	n	svp	no	дилли-далье	conservative
+RU1195	n	om	no	Гомофил	inclusive
+RU755	n	cds	no	спесь	inclusive
+RU3512	n	an	no	Виперы	inclusive
+RU1922	n	asf	no	лобковые волосы	inclusive
+RU318	n	pa	yes	варвар	conservative
+RU1395	n	cds	no	Камарилья	inclusive
+RU1342	n	ps	yes	Бастард	inclusive
+RU1380	n	asf	no	пися	conservative
+RU1800	n	asm	no	Препуций	inclusive
+RU2179	n	qas	no	идеолог	inclusive
+RU2392	n	svp	no	злоба	inclusive
+RU850	n	cds	no	обоз	inclusive
+RU76	n	pa	yes	академизм	inclusive
+RU1038	n	an	no	Козлёнок	inclusive
+RU340	n	qas	no	Быки	inclusive
+RU2739	n	ps	yes	Монголоидная раса	conservative
+RU341	n	qas	no	Бык	inclusive
+RU1596	n	qas	no	немилости	inclusive
+RU782	n	dmc	yes	бродяга	inclusive
+RU1581	n	om	no	вентролатеральной	inclusive
+RU2518	n	cds	no	полисмен	inclusive
+RU3172	n	cds	no	подхалим	conservative
+RU781	n	dmc	yes	Бомж	conservative
+RU1479	n	cds	no	нарушение закона	inclusive
+RU787	n	dmc	yes	бездельник	conservative
+RU1961	n	cds	no	Реакция	conservative
+RU925	n	re	no	навет	inclusive
+RU1723	n	cds	no	сутенер	inclusive
+RU2424	n	cds	no	учительница	conservative
+RU2542	n	cds	no	Мафиозо	inclusive
+RU2906	n	dmc	yes	клоуны	inclusive
+RU1192	n	om	no	жо́пник	conservative
+RU1735	n	pr	no	содержанка	conservative
+RU330	n	pa	yes	варварка	conservative
+RU2122	n	ps	yes	Евреи	inclusive
+RU1380	n	or	no	пися	conservative
+RU2361	n	an	no	насекомое	inclusive
+RU311	n	dmc	yes	разбойница	conservative
+RU2205	n	re	no	баловни́ца	inclusive
+RU2178	n	cds	no	напевать	inclusive
+RU1231	n	cds	no	бытовых отходов	inclusive
+RU3028	n	cds	no	рукой	conservative
+RU2256	n	is	yes	Неимущие	inclusive
+RU2315	n	svp	no	развратность	inclusive
+RU1289	n	an	no	кокетка	conservative
+RU629	n	qas	no	пиковое положение	inclusive
+RU3176	a	dmc	yes	нечи́стый	inclusive
+RU398	n	cds	no	мягкая на ощупь	conservative
+RU1837	n	cds	no	Фундаменталист	inclusive
+RU2079	n	om	no	Гомосексуал	inclusive
+RU2914	n	an	no	женщина охотник	conservative
+RU1727	n	cds	no	Сутенерство	inclusive
+RU1923	n	asf	no	промежности волос	inclusive
+RU2409	n	re	no	взломщик	inclusive
+RU1007	n	cds	no	племени	inclusive
+RU1022	n	pa	yes	чиновник	inclusive
+RU840	n	ddp	yes	пленница	inclusive
+RU1295	n	dmc	yes	изменница	conservative
+RU2549	n	cds	no	Консильери	conservative
+RU2878	n	cds	no	гомункулов	inclusive
+RU1626	n	cds	no	пеонов	inclusive
+RU2325	n	cds	no	Самооговор	inclusive
+RU2935	v	re	no	обмануть	inclusive
+RU2923	n	cds	no	Нуво риш	inclusive
+RU3294	a	ddf	yes	одноглазый	inclusive
+RU942	n	re	no	аферистка	inclusive
+RU3158	n	re	no	161 УКРФ	inclusive
+RU654	n	asf	no	разиня	conservative
+RU3048	n	re	no	Буканир	inclusive
+RU582	n	cds	no	штрейкбрехеров	inclusive
+RU176	n	ddp	yes	существо	inclusive
+RU2788	n	ps	yes	Негроидная раса	inclusive
+RU454	n	an	no	обман	conservative
+RU1740	n	qas	no	земледелец	inclusive
+RU337	n	an	no	жестокость	inclusive
+RU2487	n	dmc	yes	Моцарелла	inclusive
+RU396	n	an	no	лох	conservative
+RU3544	n	ps	yes	цыганских	inclusive
+RU1343	n	ps	yes	биотехнологии растений	inclusive
+RU1065	n	asm	no	хер	inclusive
+RU1374	n	cds	no	молодой человек	inclusive
+RU1468	n	re	no	Криминализация	inclusive
+RU2669	n	an	no	скорпена	inclusive
+RU1943	n	cds	no	сват	inclusive
+RU2783	n	ps	yes	негроидный	inclusive
+RU1171	n	om	no	странный	conservative
+RU1394	n	or	no	cucumis sativus	inclusive
+RU3116	n	pr	no	негодница	conservative
+RU1155	n	an	no	зайчики	inclusive
+RU1376	n	cds	no	сынок	inclusive
+RU1583	n	om	no	задний конец	inclusive
+RU1136	n	svp	no	эрос	inclusive
+RU1142	n	asm	no	чертов	conservative
+RU2494	n	an	no	equus mulus	inclusive
+RU169	n	ddp	yes	эпифауны	inclusive
+RU2792	n	ps	yes	Чёрная раса	inclusive
+RU1169	n	om	no	Квир-идентичность	conservative
+RU409	n	an	no	шлюха	conservative
+RU322	n	ps	yes	Варвары	conservative
+RU1480	n	cds	no	Преступления	inclusive
+RU2632	n	an	no	свинка	inclusive
+RU1633	n	ddf	yes	карлик	conservative
+RU2503	n	cds	no	нерд	conservative
+RU349	n	pa	yes	министра	inclusive
+RU1422	n	qas	no	подушечка	conservative
+RU199	n	an	no	betise	conservative
+RU1174	n	om	no	гомосексуа́л	conservative
+RU2127	n	cds	no	большой немытыми	inclusive
+RU2480	n	pr	no	моли	inclusive
+RU1175	n	or	no	гомосексуали́ст	conservative
+RU2198	a	dmc	yes	узколобый	conservative
+RU1015	n	cds	no	Дзе	inclusive
+RU2876	n	cds	no	Гомункулюс	inclusive
+RU741	n	qas	no	офисную работу	inclusive
+RU2090	n	om	no	гомосексуальность	inclusive
+RU2207	n	re	no	бесёнок	inclusive
+RU1478	n	cds	no	преступной деятельности	inclusive
+RU1524	n	cds	no	гранжа	inclusive
+RU2755	n	cds	no	каракуля	inclusive
+RU520	n	cds	no	была закона	conservative
+RU260	n	is	yes	скупость	conservative
+RU2046	n	re	no	добыча	inclusive
+RU3108	n	cds	no	protagonism	inclusive
+RU288	n	cds	no	bawdyhouse	inclusive
+RU3271	a	is	yes	ску́дный	inclusive
+RU3424	n	asm	no	avialae	inclusive
+RU124	a	svp	no	нападающий	conservative
+RU2805	n	ps	yes	Скрытая экономика	inclusive
+RU2859	n	re	no	Слейер	inclusive
+RU2449	n	cds	no	отхо́жее ме́сто	inclusive
+RU2767	n	ps	yes	негр	inclusive
+RU2861	n	re	no	Слеер	inclusive
+RU208	n	asm	no	дурень	inclusive
+RU2165	n	cds	no	гибрис	conservative
+RU2743	n	ps	yes	Монголоид	conservative
+RU788	n	dmc	yes	лентя́й	conservative
+RU585	n	ddp	yes	ебла́н	conservative
+RU3134	a	cds	no	протухший	inclusive
+RU273	n	is	yes	скря́га	conservative
+RU1034	n	an	no	Коза домашняя	inclusive
+RU3537	n	dmc	yes	treasonist	conservative
+RU61	n	ddp	yes	Патология умственного развития	inclusive
+RU2852	n	re	no	Причинение смерти	inclusive
+RU1198	n	ddp	yes	распространитель слухов	conservative
+RU2210	n	cds	no	плуто́вка	conservative
+RU2802	n	ps	yes	черный	inclusive
+RU109	n	qas	no	сообщник	inclusive
+RU2538	n	re	no	Коза Ностра	inclusive
+RU2642	n	svp	no	pridefulness	inclusive
+RU1758	n	or	no	foeniculum vulgare	inclusive
+RU296	n	qas	no	ballock	inclusive
+RU2605	n	qas	no	приходов	inclusive
+RU2204	n	cds	no	прока́зник	inclusive
+RU483	n	an	no	мясного скота	inclusive
+RU3335	n	re	no	Совращение малолетних	inclusive
+RU1129	n	cds	no	множество	inclusive
+RU1623	n	ps	yes	скиталец	inclusive
+RU511	n	an	no	подлец	conservative
+RU1069	n	asm	no	прибор	conservative
+RU499	n	svp	no	Ханжество	conservative
+RU2946	v	cds	no	умереть	inclusive
+RU1809	n	cds	no	Масоны	inclusive
+RU458	n	cds	no	враки	conservative
+RU1494	n	an	no	дидли	conservative
+RU2643	n	cds	no	superbia	conservative
+RU633	n	qas	no	ляп	inclusive
+RU2215	n	dmc	yes	шалу́н	inclusive
+RU216	n	or	no	дурак	conservative
+RU1463	n	ps	yes	uprooter	conservative
+RU2162	n	cds	no	Хюбрис	conservative
+RU1415	n	om	no	мадам	inclusive
+RU331	n	ps	yes	грубиян	conservative
+RU513	n	cds	no	жулик	conservative
+RU216	n	ddp	yes	дурак	inclusive
+RU258	n	svp	no	смертный грех	inclusive
+RU896	n	ps	yes	замедлять	conservative
+RU1728	n	cds	no	сво́дник	conservative
+RU1836	n	cds	no	Фундаменталистка	inclusive
+RU2831	n	an	no	казарка	inclusive
+RU804	n	re	no	злодейка	conservative
+RU1400	n	or	no	cucurbita maxima	inclusive
+RU1767	n	dmc	yes	foetor	conservative
+RU217	n	ddp	yes	дура	conservative
+RU945	n	cds	no	сволочь	conservative
+RU2303	n	om	no	Леди	inclusive
+RU2841	n	an	no	клещ	inclusive
+RU905	n	ddp	yes	чайник	inclusive
+RU3049	n	re	no	Пираты	inclusive
+RU2965	n	cds	no	всезнайка	conservative
+RU2473	n	an	no	Кровососущие комары	inclusive
+RU13	n	svp	no	Бесхарактерность	inclusive
+RU1211	n	cds	no	ссыку́н	conservative
+RU2114	n	ps	yes	Еврейский народ	inclusive
+RU3189	n	an	no	Бесхвостое	inclusive
+RU568	n	an	no	остолоп	conservative
+RU1652	n	cds	no	любитель	inclusive
+RU447	n	pr	no	мужчина-проститутка	conservative
+RU470	n	cds	no	щеголь	conservative
+RU3541	n	ps	yes	рома	inclusive
+RU2975	n	dmc	yes	lingerer	conservative
+RU1508	n	cds	no	Показатели преступности	inclusive
+RU896	n	ddp	yes	замедлять	conservative
+RU3033	n	asm	no	мастурбации	conservative
+RU1612	n	cds	no	правонарушитель	inclusive
+RU1238	n	cds	no	железный лом	conservative
+RU1445	n	cds	no	Дурачок	conservative
+RU54	n	qas	no	дилетантство	conservative
+RU811	n	cds	no	каракули	inclusive
+RU1516	n	ps	yes	Фрицы	conservative
+RU2144	n	svp	no	обжорство	inclusive
+RU1188	n	om	no	голубо́й	inclusive
+RU1302	n	an	no	совы	inclusive
+RU1185	n	or	no	жо́почник	conservative
+RU2973	v	an	no	беситься	conservative
+RU1244	n	cds	no	отбросы	inclusive
+RU3474	n	om	no	drag queen	inclusive
+RU1654	n	re	no	фелония	inclusive
+RU110	n	cds	no	шутка	inclusive
+RU2580	n	cds	no	папараццо	inclusive
+RU2588	n	qas	no	паразитов	inclusive
+RU52	a	pa	yes	теоретические	inclusive
+RU844	n	ddp	yes	Заключённые	inclusive
+RU715	n	qas	no	Крестьяне	inclusive
+RU1874	n	asm	no	faba equina	inclusive
+RU2982	n	cds	no	сплетни	inclusive
+RU2326	n	cds	no	Враль	conservative
+RU294	n	asm	no	тест	inclusive
+RU2065	n	pr	no	Курва	inclusive
+RU1547	n	om	no	Медиальный	inclusive
+RU2059	n	pr	no	Блудница	inclusive
+RU2298	n	dmc	yes	безнравственности	inclusive
+RU839	n	ddp	yes	пленник	inclusive
+RU762	n	svp	no	conceitedness	conservative
+RU1985	v	asm	no	ебаться	conservative
+RU1448	a	ddp	yes	простодушный	conservative
+RU551	n	qas	no	магнатов	inclusive
+RU3482	n	pa	yes	cordwainer	inclusive
+RU316	n	cds	no	Бандит	inclusive
+RU56	n	pa	yes	академиков	inclusive
+RU719	n	qas	no	предпринимательница	inclusive
+RU169	n	an	no	эпифауны	inclusive
+RU3430	n	asm	no	aves	inclusive
+RU3045	n	re	no	Флибустьер	inclusive
+RU2879	n	dmc	yes	гомункула	inclusive
+RU1486	n	re	no	правонарушение	inclusive
+RU1983	v	asm	no	заниматься сексом	conservative
+RU333	n	qas	no	хамка	conservative
+RU1618	n	cds	no	куч	inclusive
+RU302	n	asm	no	яйцо́	inclusive
+RU2416	n	ps	yes	метеков	inclusive
+RU514	n	cds	no	изгоев	conservative
+RU2583	n	qas	no	паразит	inclusive
+RU2471	n	an	no	москит	inclusive
+RU2810	n	cds	no	нимфоманка	conservative
+RU211	n	asm	no	бестолочь	inclusive
+RU1761	n	or	no	фенхель	inclusive
+RU373	n	pa	yes	юри́ст	inclusive
+RU458	n	cds	no	враки	inclusive
+RU3273	a	is	yes	бедный	inclusive
+RU2323	n	dmc	yes	бездельница	conservative
+RU2004	n	an	no	Сип белоголовый	inclusive
+RU318	n	dmc	yes	варвар	conservative
+RU1878	n	asm	no	faba bona	inclusive
+RU2323	n	cds	no	бездельница	conservative
+RU2495	n	an	no	ры́ло	inclusive
+RU2401	n	re	no	делец	inclusive
+RU1105	n	pa	yes	экстраординарным профессором	inclusive
+RU223	n	asf	no	болваном	conservative
+RU300	n	an	no	ерунда	conservative
+RU2258	n	is	yes	Нищеброд	inclusive
+RU37	n	re	no	дурное обращение	inclusive
+RU3130	n	pa	yes	счетовод	inclusive
+RU2697	n	an	no	Микроорганизмы	inclusive
+RU2548	n	re	no	cosa nosta	conservative
+RU2905	n	dmc	yes	Киноляпы	inclusive
+RU688	n	an	no	корова	conservative
+RU3073	n	an	no	а́гнец	conservative
+RU3352	n	re	no	сексуальному насилию	inclusive
+RU1071	n	asm	no	петух	inclusive
+RU1196	n	or	no	пидора́с	conservative
+RU3032	n	cds	no	дрочение	conservative
+RU2068	n	pr	no	Проститутка	conservative
+RU2824	n	an	no	branta bernicla	inclusive
+RU3233	n	an	no	Пиявки	inclusive
+RU681	n	pr	no	bos taurus	inclusive
+RU1197	n	om	no	миг	conservative
+RU835	n	ddp	yes	З.к.	inclusive
+RU223	n	an	no	болваном	conservative
+RU2656	n	qas	no	Риторика	inclusive
+RU3385	n	re	no	пытка	inclusive
+RU1952	n	svp	no	горе-ноль	conservative
+RU3405	n	om	no	крест комод	inclusive
+RU939	n	cds	no	чеканщик	inclusive
+RU3042	n	re	no	плагиатом	inclusive
+RU1546	n	om	no	Дистальный	inclusive
+RU3369	n	re	no	теракт	inclusive
+RU900	n	asf	no	Подменыш	conservative
+RU1646	n	cds	no	Квазиделикт	inclusive
+RU689	n	an	no	домашнего скота	inclusive
+RU437	n	an	no	ха́стлер	conservative
+RU902	n	ps	yes	Дебилизм	conservative
+RU2796	a	ps	yes	негритянский	inclusive
+RU3272	a	is	yes	недостаточный	inclusive
+RU2295	n	cds	no	scrawler	conservative
+RU92	n	om	no	Анальный коитус	inclusive
+RU2008	n	an	no	Кабаны	inclusive
+RU1191	n	om	no	Геи	inclusive
+RU2593	n	qas	no	аутоинфекции	inclusive
+RU3186	a	qas	no	обычный	inclusive
+RU1282	n	svp	no	энергичность	inclusive
+RU2057	n	pr	no	Проститут	conservative
+RU429	n	pr	no	поблядунья	conservative
+RU505	n	cds	no	молодежных банд	inclusive
+RU332	n	pa	yes	хам	conservative
+RU608	n	re	no	шантажировать	conservative
+RU2412	n	ps	yes	метек	inclusive
+RU2337	a	is	yes	несчастли́вый	inclusive
+RU690	n	pr	no	Тёлка	inclusive
+RU1212	n	an	no	ссыкло́	conservative
+RU2718	n	ddp	yes	глупости	conservative
+RU3113	n	pr	no	нахалка	conservative
+RU3318	a	ddf	yes	некрасивый	conservative
+RU1492	n	an	no	doodly-приземистых	conservative
+RU2065	n	pr	no	Курва	conservative
+RU1786	n	an	no	блоха	inclusive
+RU2871	n	or	no	ты́ква	inclusive
+RU270	n	is	yes	жмот	conservative
+RU3389	n	re	no	пытки	inclusive
+RU2215	n	re	no	шалу́н	inclusive
+RU3300	n	cds	no	зубрила	conservative
+RU2817	n	qas	no	арендатор земли	inclusive
+RU350	n	pa	yes	министра-советника	inclusive
+RU3442	n	cds	no	канализационная система	inclusive
+RU2001	a	cds	no	незаконный	inclusive
+RU2032	n	cds	no	злодей	conservative
+RU2529	n	cds	no	cosa nostra	conservative
+RU1230	n	ddp	yes	konował	conservative
+RU793	n	cds	no	лежебока	conservative
+RU2243	n	ddp	yes	очко́	conservative
+RU1421	v	asm	no	насмехаться	inclusive
+RU558	n	qas	no	судовладельца	inclusive
+RU3053	a	cds	no	шабло́нный	inclusive
+RU612	n	pa	yes	директор похоронного бюро	inclusive
+RU428	n	cds	no	неряха	conservative
+RU693	n	cds	no	шеф	inclusive
+RU2328	n	cds	no	Враньё	conservative
+RU3399	n	pa	yes	Служащие	inclusive
+RU1759	n	om	no	finocchio	inclusive
+RU211	n	asm	no	бестолочь	conservative
+RU128	n	ddp	yes	folderol	conservative
+RU2105	n	ps	yes	иуде́йство	inclusive
+RU2002	n	an	no	гусёнок	inclusive
+RU2128	n	cds	no	наро́д	inclusive
+RU2691	n	an	no	микробов	inclusive
+RU2478	n	pr	no	Моли	inclusive
+RU520	n	dmc	yes	была закона	inclusive
+RU3519	n	pa	yes	работник	inclusive
+RU884	n	or	no	недотёпа	conservative
+RU953	n	an	no	Псарня	inclusive
+RU2624	n	asm	no	lathyrus oleraceus	inclusive
+RU1933	n	qas	no	детектив	inclusive
+RU210	n	cds	no	глупец	inclusive
+RU2794	a	ps	yes	чернокожий	inclusive
+RU820	a	dmc	yes	гнусный	conservative
+RU3117	n	pr	no	прелюбодейка	conservative
+RU755	n	cds	no	спесь	conservative
+RU1942	n	an	no	комара	inclusive
+RU3025	a	svp	no	сердитый	inclusive
+RU3553	n	cds	no	Разбой	inclusive
+RU206	n	asm	no	дурачина	inclusive
+RU95	n	om	no	Содомит	inclusive
+RU1235	n	qas	no	отходы	inclusive
+RU1201	n	an	no	Физиономизм	inclusive
+RU2595	n	qas	no	Облигатные паразиты	inclusive
+RU1889	n	asm	no	vicia конских	inclusive
+RU3481	n	pa	yes	сапожник	inclusive
+RU2635	n	an	no	поросенка	inclusive
+RU1409	n	cds	no	разрезанный	conservative
+RU1988	v	asm	no	познать	conservative
+RU946	n	an	no	сброда и бобтейл	conservative
+RU1551	n	om	no	Антеверсия	inclusive
+RU2485	n	an	no	moue	inclusive
+RU1569	n	om	no	Проксимальный	inclusive
+RU3139	n	re	no	похищение	inclusive
+RU112	n	cds	no	остатки	inclusive
+RU2330	n	qas	no	Лжец	conservative
+RU2342	a	is	yes	печа́льный	inclusive
+RU2364	n	an	no	insect	inclusive
+RU3311	a	ddp	yes	тупоумный	conservative
+RU271	n	svp	no	жадина	conservative
+RU901	n	asm	no	кретин	inclusive
+RU954	n	an	no	Псина	inclusive
+RU939	n	cds	no	чеканщик	conservative
+RU1176	n	om	no	гомосе́к	conservative
+RU321	n	ps	yes	грубиянка	conservative
+RU2549	n	re	no	Консильери	conservative
+RU2889	n	cds	no	процент	conservative
+RU906	n	ps	yes	отморо́зок	conservative
+RU1903	n	cds	no	тюремщиком	inclusive
+RU218	n	an	no	придурок	conservative
+RU3086	n	cds	no	крошка	inclusive
+RU129	n	cds	no	бред собачий	conservative
+RU511	n	dmc	yes	подлец	conservative
+RU216	n	an	no	дурак	conservative
+RU2719	n	pa	yes	пастушка	inclusive
+RU1645	n	cds	no	Яйцеголовый	inclusive
+RU2057	n	pr	no	Проститут	inclusive
+RU885	n	an	no	мя́мля	conservative
+RU985	n	cds	no	Унэ	inclusive
+RU908	n	an	no	сука	inclusive
+RU2759	n	dmc	yes	половина пинты	conservative
+RU2571	n	om	no	Педераст	inclusive
+RU2538	n	cds	no	Коза Ностра	conservative
+RU2525	n	cds	no	легавый	conservative
+RU2550	n	ps	yes	Грейтунги	inclusive
+RU2979	n	an	no	спекулянт	conservative
+RU1425	n	cds	no	демагог	conservative
+RU1557	n	om	no	ягодичной области	inclusive
+RU361	n	pa	yes	сторонник	inclusive
+RU1771	n	asm	no	Анатомия рыб	inclusive
+RU2041	n	cds	no	воровские	inclusive
+RU403	n	or	no	глупый	conservative
+RU858	n	an	no	людоед	inclusive
+RU2967	a	cds	no	требующий усилий	conservative
+RU2033	n	re	no	воровство	inclusive
+RU795	n	dmc	yes	лоботря́ска	conservative
+RU1642	n	an	no	h. pomatia	inclusive
+RU1992	v	asm	no	переспать	conservative
+RU334	n	svp	no	стяжательство	inclusive
+RU453	n	qas	no	брехня	conservative
+RU1847	n	dmc	yes	dillydallier	conservative
+RU1054	n	svp	no	niggardness	conservative
+RU909	n	pr	no	жопочник	conservative
+RU734	n	qas	no	буржуазия	inclusive
+RU525	n	cds	no	вне закона	conservative
+RU1292	n	an	no	дрочила	conservative
+RU903	n	ddp	yes	Дебильность	inclusive
+RU260	n	svp	no	скупость	inclusive
+RU2329	n	cds	no	Лгун	inclusive
+RU1530	n	svp	no	нелюбо́вь	inclusive
+RU3527	n	dmc	yes	перебежчик	conservative
+RU31	n	re	no	злоупотребления властью	inclusive
+RU105	n	qas	no	Табиин	inclusive
+RU1144	n	asm	no	ебля	conservative
+RU1343	n	cds	no	биотехнологии растений	inclusive
+RU212	n	dmc	yes	олух	conservative
+RU809	n	cds	no	развалю́ха	inclusive
+RU1370	n	cds	no	мальчуган	inclusive
+RU1016	n	cds	no	Тан	inclusive
+RU1819	n	cds	no	франкмасонство	inclusive
+RU3069	n	an	no	Цыплята	inclusive
+RU289	n	cds	no	публичный дом	inclusive
+RU2069	n	pr	no	Женщина лёгкого поведения	inclusive
+RU147	n	an	no	ангилья	inclusive
+RU2527	n	cds	no	коп	inclusive
+RU1687	n	an	no	эвриптериды	inclusive
+RU1785	n	an	no	siphonaptera	inclusive
+RU2127	n	cds	no	большой немытыми	conservative
+RU729	n	om	no	гомосексуалист	conservative
+RU448	n	pr	no	ловка́ч	conservative
+RU2052	n	pr	no	Интимные услуги	conservative
+RU2356	n	cds	no	loanshark	inclusive
+RU3013	n	an	no	Мехоеды	inclusive
+RU3483	n	an	no	rouncey	inclusive
+RU1496	n	an	no	diddlysquat	conservative
+RU457	n	dmc	yes	неправда	inclusive
+RU3138	n	re	no	Киднеппинг	inclusive
+RU1420	v	asm	no	осмеивать	inclusive
+RU2867	n	re	no	положить к смерти	inclusive
+RU486	n	cds	no	выдумка	conservative
+RU1674	n	qas	no	любителей	inclusive
+RU396	n	dmc	yes	лох	conservative
+RU649	n	ddp	yes	bumbler	conservative
+RU1150	n	asm	no	тра́ханье	conservative
+RU267	n	an	no	скряга	conservative
+RU1814	n	cds	no	масонские	inclusive
+RU1383	n	or	no	cunt	conservative
+RU2214	n	dmc	yes	баловни́к	inclusive
+RU2801	n	ps	yes	других рас	inclusive
+RU3499	a	asm	no	кофейный	inclusive
+RU331	n	qas	no	грубиян	conservative
+RU677	n	pr	no	коровы	inclusive
+RU15	n	svp	no	безразличие	inclusive
+RU1190	n	om	no	ле́сби	inclusive
+RU1177	n	or	no	Гомофильное движение	conservative
+RU1206	n	qas	no	сельский житель	inclusive
+RU784	n	dmc	yes	Без определённого места жительства	conservative
+RU1909	n	cds	no	тюремщик	inclusive
+RU1984	v	asm	no	отыме́ть	conservative
+RU1586	n	om	no	Вентральный	inclusive
+RU206	n	ddp	yes	дурачина	inclusive
+RU2317	a	dmc	yes	непристойный	conservative
+RU3122	n	pa	yes	бухгалтеров	inclusive
+RU821	a	dmc	yes	мерзкий	conservative
+RU344	n	qas	no	торговец	inclusive
+RU1143	n	asm	no	завинчивание	conservative
+RU2647	n	pr	no	крыс	inclusive
+RU209	n	cds	no	тупица	inclusive
+RU1798	n	cds	no	наркоман	conservative
+RU2108	n	ps	yes	еврейской традиции	inclusive
+RU70	n	ddp	yes	Дебилы	inclusive
+RU991	n	cds	no	японских единиц измерения	inclusive
+RU1024	n	pa	yes	клерк	inclusive
+RU1633	n	an	no	карлик	conservative
+RU1350	n	ps	yes	скрещивания	inclusive
+RU1399	n	or	no	огурчик	inclusive
+RU1859	n	re	no	гангстера	inclusive
+RU3420	n	pr	no	Гетеры	inclusive
+RU324	n	dmc	yes	дикарь	conservative
+RU515	n	cds	no	мошенник	inclusive
+RU3479	n	om	no	драг-королева	inclusive
+RU625	n	cds	no	оговорка	inclusive
+RU884	n	an	no	недотёпа	conservative
+RU2154	n	qas	no	хижина	inclusive
+RU1344	n	ps	yes	скрещивать	inclusive
+RU1336	n	ddf	yes	горбун	inclusive
+RU1359	n	qas	no	Конформность	inclusive
+RU3229	n	cds	no	педантичность	inclusive
+RU1442	a	ddp	yes	легковерный	conservative
+RU229	n	an	no	неуч	conservative
+RU319	n	rci	yes	варварским	conservative
+RU1675	n	dmc	yes	Мораль	inclusive
+RU813	n	cds	no	Эрратизм	inclusive
+RU2646	n	re	no	рэкетир	inclusive
+RU792	n	cds	no	ло́дырь	conservative
+RU2322	n	dmc	yes	лентяйка	conservative
+RU2789	n	ps	yes	Нигга	inclusive
+RU878	n	dmc	yes	отверженный	inclusive
+RU306	a	svp	no	а́лчный	conservative
+RU1288	n	an	no	шалунья	conservative
+RU407	n	asm	no	дурачок	conservative
+RU2522	n	cds	no	полицейская	conservative
+RU2261	n	is	yes	уровень бедности	inclusive
+RU222	n	asf	no	fuckhead	conservative
+RU260	n	svp	no	скупость	conservative
+RU1396	n	cds	no	камарилья	inclusive
+RU3140	n	re	no	похитителей	inclusive
+RU902	n	ddp	yes	Дебилизм	conservative
+RU310	n	cds	no	бандит	inclusive
+RU318	n	cds	no	варвар	conservative
+RU489	n	dmc	yes	выдумщик	conservative
+RU2633	n	an	no	поросенок	inclusive
+RU927	n	re	no	вредоносных лжи	inclusive
+RU944	n	cds	no	ragtag	conservative
+RU441	n	pr	no	жу́лик	conservative
+RU221	n	or	no	говнюк	conservative
+RU2151	n	qas	no	лачуга	inclusive
+RU2234	n	ddf	yes	увечье	inclusive
+RU175	n	ddp	yes	Животные	inclusive
+RU814	n	cds	no	Эрратив	inclusive
+RU2727	n	asm	no	flouter	conservative
+RU74	n	ddp	yes	Задержка умственного развития	inclusive
+RU3063	n	an	no	Курица	inclusive
+RU523	n	dmc	yes	престу́пник	inclusive
+RU732	n	qas	no	мещанство	inclusive
+RU2695	n	an	no	Микробы	inclusive
+RU871	n	dmc	yes	пария	inclusive
+RU2463	n	ps	yes	Монголы	inclusive
+RU3429	n	asm	no	орнитофауны	inclusive
+RU1013	n	cds	no	Фун	inclusive
+RU1008	n	cds	no	Се	inclusive
+RU2030	a	cds	no	соображающий	inclusive
+RU2321	n	qas	no	лодырь	conservative
+RU158	n	an	no	Тварь	inclusive
+RU756	n	svp	no	высокомерие	conservative
+RU2612	n	an	no	psittaciformes	inclusive
+RU3022	n	cds	no	Религиозная дискриминация	inclusive
+RU2434	n	cds	no	туалета	inclusive
+RU648	n	cds	no	конформистом	conservative
+RU1905	n	cds	no	Надсмотрщик	inclusive
+RU2226	n	ddf	yes	недостаток	inclusive
+RU1477	n	re	no	преступников	inclusive
+RU2954	n	or	no	картофель	inclusive
+RU873	n	is	yes	Пария	inclusive
+RU907	n	asm	no	Идиотизм	inclusive
+RU624	n	qas	no	запороть	inclusive
+RU1461	n	ddp	yes	doofus	conservative
+RU1063	n	asm	no	член	conservative
+RU2754	n	or	no	тыква	inclusive
+RU2771	n	ps	yes	смуглянка	conservative
+RU3411	n	om	no	трансвестит	inclusive
+RU3114	n	pr	no	женщина-соучастница блуда	conservative
+RU241	n	an	no	Осел	inclusive
+RU1226	n	cds	no	шарлатан	conservative
+RU1706	n	dmc	yes	распутства	conservative
+RU210	n	ddp	yes	глупец	inclusive
+RU3362	a	svp	no	гордый	conservative
+RU3249	n	dmc	yes	посредственность	conservative
+RU1882	n	asm	no	faba major	inclusive
+RU3296	n	an	no	sciaenops ocellatus	inclusive
+RU482	n	ps	yes	бедуины	inclusive
+RU1760	n	om	no	Укроп аптечный	inclusive
+RU2408	n	cds	no	домушник	inclusive
+RU132	n	svp	no	фанатизма	conservative
+RU805	n	cds	no	Злодей	conservative
+RU2775	n	ps	yes	Чернокожие	inclusive
+RU1565	n	om	no	tooshie	inclusive
+RU1953	n	dmc	yes	никчёмный	conservative
+RU1603	n	svp	no	гурман	conservative
+RU284	n	cds	no	Блудилище	inclusive
+RU211	n	cds	no	бестолочь	inclusive
+RU3465	n	cds	no	Теория заговора	inclusive
+RU549	n	qas	no	высшее должностное лицо	inclusive
+RU375	n	an	no	собачка	inclusive
+RU931	n	re	no	libeler	conservative
+RU2526	n	cds	no	женщина-полицейский	conservative
+RU512	n	dmc	yes	плут	inclusive
+RU2932	v	cds	no	жрать	inclusive
+RU622	n	re	no	развратник	conservative
+RU374	n	cds	no	дворняжка	inclusive
+RU384	n	qas	no	баронов	inclusive
+RU1247	n	cds	no	Металлический лом	conservative
+RU2354	n	cds	no	ростовщик	conservative
+RU1753	n	cds	no	быстрая	conservative
+RU367	n	pa	yes	Адвокат в гражданском процессе	inclusive
+RU1428	n	cds	no	Демагогия	conservative
+RU2142	n	svp	no	Чревонеистовство	inclusive
+RU906	n	ddp	yes	отморо́зок	conservative
+RU653	n	ddp	yes	blunderer	conservative
+RU2249	n	ddp	yes	жульничество	conservative
+RU269	n	is	yes	скупердяй	conservative
+RU1699	n	an	no	ярка	inclusive
+RU1342	n	cds	no	Бастард	inclusive
+RU516	n	dmc	yes	подонок	conservative
+RU3495	n	cds	no	презренный	conservative
+RU573	n	ps	yes	мети́ска	conservative
+RU1128	v	asm	no	валя́ть дурака́	inclusive
+RU1121	n	or	no	Капуста огородная	inclusive
+RU3227	n	cds	no	нахал	conservative
+RU1844	n	an	no	неистовство	inclusive
+RU496	n	dmc	yes	фанатик	conservative
+RU3004	n	an	no	вшей	inclusive
+RU321	n	qas	no	грубиянка	conservative
+RU3473	n	om	no	Драг квин	inclusive
+RU200	n	ddp	yes	глупость	inclusive
+RU1164	n	cds	no	корреспондентов	inclusive
+RU1217	n	an	no	боя́ка	conservative
+RU2387	n	svp	no	invidia	inclusive
+RU319	n	pa	yes	варварским	conservative
+RU1116	n	or	no	Капуста белокочанная	inclusive
+RU566	n	cds	no	свинья	conservative
+RU3275	a	qas	no	средневековой	inclusive
+RU2216	n	an	no	strix varia	inclusive
+RU1884	n	asm	no	конские	inclusive
+RU2283	n	cds	no	помпезности	inclusive
+RU486	n	qas	no	выдумка	conservative
+RU1047	n	an	no	Козы	inclusive
+RU1806	n	cds	no	масоном	inclusive
+RU3076	n	cds	no	младенцев	inclusive
+RU1317	n	ddf	yes	инвалидка	inclusive
+RU3015	n	an	no	mallophaga	inclusive
+RU2068	n	pr	no	Проститутка	inclusive
+RU571	n	ps	yes	мети́с	conservative
+RU219	n	an	no	идиот	conservative
+RU337	n	ddp	yes	жестокость	conservative
+RU1793	n	dmc	yes	паяц	inclusive
+RU131	n	cds	no	зелот	inclusive
+RU408	n	an	no	блядь	conservative
+RU3211	n	an	no	Жаба серая	inclusive
+RU527	n	cds	no	злоумышленник	conservative
+RU790	n	cds	no	безде́льница	conservative
+RU2211	n	dmc	yes	дьяволёнок	inclusive
+RU205	n	asm	no	балбес	conservative
+RU3259	n	an	no	Африканский волк	inclusive
+RU3299	a	qas	no	жалкий	conservative
+RU1451	n	cds	no	головорез	inclusive
+RU1986	v	asm	no	ебать	conservative
+RU287	n	cds	no	Дома терпимости	inclusive
+RU3193	n	an	no	Бесхвостые	inclusive
+RU2524	n	cds	no	полицейских	inclusive
+RU1316	n	asm	no	twirp	conservative
+RU2048	n	re	no	похищенное имущество	inclusive
+RU2280	n	an	no	неумолимость	conservative
+RU1431	n	pr	no	наложница	inclusive
+RU3484	n	pa	yes	Бонза	inclusive
+RU32	n	re	no	злоупотребление	inclusive
+RU775	n	dmc	yes	дно жизни	inclusive
+RU2966	n	cds	no	ноу-это все	conservative
+RU2369	n	cds	no	дерзкий ответ	inclusive
+RU3009	n	an	no	Пухоедовые	inclusive
+RU446	n	an	no	жи́голо	conservative
+RU245	n	an	no	зубр	inclusive
+RU636	n	cds	no	трепло́	conservative
+RU1384	n	or	no	манда	conservative
+RU2349	n	cds	no	ростовщица	inclusive
+RU3488	a	cds	no	продажный	conservative
+RU2497	n	an	no	морда	inclusive
+RU2060	n	pr	no	проституция	conservative
+RU266	n	svp	no	скупец	inclusive
+RU2066	n	pr	no	блуд	inclusive
+RU816	a	ddf	yes	нехороший	inclusive
+RU1423	n	dmc	yes	обмана	conservative
+RU3468	n	cds	no	Теория тайного сговора	inclusive
+RU1225	n	cds	no	фигляр	conservative
+RU1721	n	cds	no	Сутенёрство	inclusive
+RU2328	n	qas	no	Враньё	conservative
+RU1183	n	om	no	геев	conservative
+RU2651	n	cds	no	Реликвия	inclusive
+RU2564	n	an	no	толстуха	conservative
+RU458	n	dmc	yes	враки	inclusive
+RU907	n	cds	no	Идиотизм	inclusive
+RU1714	n	svp	no	безделье	inclusive
+RU311	n	cds	no	разбойница	inclusive
+RU2745	n	pr	no	светская	inclusive
+RU3219	v	re	no	украсть	inclusive
+RU976	n	om	no	педик	conservative
+RU568	n	or	no	остолоп	conservative
+RU534	n	cds	no	сплетник	conservative
+RU1348	n	cds	no	селекционер	inclusive
+RU614	n	pa	yes	директором похоронного бюро	inclusive
+RU2956	a	qas	no	сентиментальный	conservative
+RU332	n	qas	no	хам	conservative
+RU803	n	re	no	трагическим злодеем	conservative
+RU2138	n	qas	no	маляра	inclusive
+RU666	n	ddp	yes	zooerasty	conservative
+RU905	n	ps	yes	чайник	conservative
+RU1472	n	cds	no	преступление	inclusive
+RU1248	n	cds	no	хлам	conservative
+RU2924	n	cds	no	новоявленным богатым	inclusive
+RU57	n	pa	yes	членом-корреспондентом	inclusive
+RU1200	n	an	no	физиономика	inclusive
+RU503	n	cds	no	банды	conservative
+RU2893	n	ps	yes	вандалов	inclusive
+RU224	n	ddp	yes	muttonhead	conservative
+RU180	n	re	no	поношение	conservative
+RU408	n	pr	no	блядь	conservative
+RU2120	n	ps	yes	Сыны Израиля	inclusive
+RU1978	v	asm	no	поиме́ть	conservative
+RU357	n	pa	yes	специального посланника	inclusive
+RU2290	n	cds	no	учитель	inclusive
+RU3533	n	dmc	yes	вероотступница	conservative
+RU2186	n	asf	no	тёлочка	conservative
+RU413	n	pr	no	курва	conservative
+RU371	n	pa	yes	Адвокаты	inclusive
+RU2236	n	ddf	yes	Гандикап	inclusive
+RU3506	n	pr	no	Придворные	inclusive
+RU641	n	cds	no	ханжество	conservative
+RU1453	n	an	no	грабитель	inclusive
+RU204	n	ddp	yes	идиотка	conservative
+RU2592	n	qas	no	эндопаразитов	inclusive
+RU2148	n	qas	no	домоводство	inclusive
+RU320	n	cds	no	мужла́н	conservative
+RU304	a	svp	no	корыстолюби́вый	inclusive
+RU1475	n	cds	no	преступное поведение	inclusive
+RU1644	n	cds	no	умник	conservative
+RU903	n	asm	no	Дебильность	inclusive
+RU512	n	an	no	плут	conservative
+RU448	n	an	no	ловка́ч	conservative
+RU129	n	an	no	бред собачий	conservative
+RU3378	n	asm	no	непристойный	inclusive
+RU1938	n	qas	no	шпионить	inclusive
+RU488	n	cds	no	Бегарды	inclusive
+RU893	n	an	no	трусишка	conservative
+RU477	n	cds	no	беспорядок	inclusive
+RU1000	n	cds	no	Момме	inclusive
+RU544	n	ps	yes	inkiness	inclusive
+RU2929	v	cds	no	объе́сться	inclusive
+RU1028	n	an	no	Горные козлы	inclusive
+RU3279	n	cds	no	Сциентист	inclusive
+RU2545	n	re	no	Коза ностра	conservative
+RU2297	a	dmc	yes	аморальный	conservative
+RU894	n	cds	no	перевертыш	inclusive
+RU2140	n	qas	no	малярный	inclusive
+RU1495	n	an	no	diddley	conservative
+RU3204	n	an	no	жаба	inclusive
+RU729	n	or	no	гомосексуалист	conservative
+RU1126	v	asm	no	дура́читься	inclusive
+RU254	n	svp	no	Семь смертных грехов	inclusive
+RU337	n	cds	no	жестокость	conservative
+RU3136	n	or	no	турнепс	inclusive
+RU1041	n	an	no	коза́	inclusive
+RU2375	n	asm	no	тёмно-бордо́вый	inclusive
+RU626	n	qas	no	напутать	inclusive
+RU156	n	ddp	yes	metazoa	inclusive
+RU3376	n	asm	no	фаллический символ	inclusive
+RU1106	n	pa	yes	ординарным профессором	inclusive
+RU1826	n	an	no	хмуриться	inclusive
+RU868	n	dmc	yes	вы́кинутый	inclusive
+RU1156	n	an	no	Кролики	inclusive
+RU597	n	cds	no	мудозво́н	conservative
+RU3450	n	an	no	мистификации	conservative
+RU942	n	cds	no	аферистка	conservative
+RU3030	n	asm	no	ручной	conservative
+RU2119	n	ps	yes	еврейства	inclusive
+RU3561	n	an	no	Сыч домовой	inclusive
+RU3505	n	pr	no	Придворный чин	inclusive
+RU2183	n	asf	no	юбка	conservative
+RU3165	n	re	no	налет	inclusive
+RU1797	n	dmc	yes	буффонады	inclusive
+RU943	n	re	no	аферист	inclusive
+RU170	n	an	no	epifaunal	inclusive
+RU2716	n	an	no	Ягнята	inclusive
+RU1131	n	cds	no	ма́сса	inclusive
+RU2221	n	an	no	strix вариации	inclusive
+RU1775	n	pa	yes	торговка	inclusive
+RU2474	n	an	no	Комары	inclusive
+RU2450	n	cds	no	отхожее место	inclusive
+RU749	n	ps	yes	болгарский	inclusive
+RU1612	n	cds	no	правонарушитель	conservative
+RU497	n	svp	no	Ханжа	conservative
+RU945	n	an	no	сволочь	conservative
+RU1070	n	cds	no	озорник	conservative
+RU1712	n	svp	no	праздности	inclusive
+RU499	n	cds	no	Ханжество	conservative
+RU2451	n	cds	no	туалетов	inclusive
+RU1435	n	pr	no	куртизанок	inclusive
+RU2021	n	cds	no	литературный раб	conservative
+RU1681	n	dmc	yes	нравы	inclusive
+RU716	n	qas	no	Крестьянки	inclusive
+RU1724	n	cds	no	потворствовать	conservative
+RU2312	n	svp	no	желание	inclusive
+RU1650	n	pa	yes	сотрудник	inclusive
+RU1334	n	an	no	crocodylidae	inclusive
+RU1846	n	svp	no	гнев	conservative
+RU335	n	an	no	зверство	inclusive
+RU890	n	cds	no	слабак	conservative
+RU283	n	cds	no	Дом терпимости	inclusive
+RU685	n	an	no	скоти́на	inclusive
+RU1011	n	cds	no	клан	inclusive
+RU2506	n	svp	no	luxuria	inclusive
+RU1056	n	qas	no	сумбур	inclusive
+RU1279	n	svp	no	стремление	inclusive
+RU2356	n	cds	no	loanshark	conservative
+RU1281	n	svp	no	усердие	inclusive
+RU2888	n	cds	no	Ростовщик	inclusive
+RU2268	n	is	yes	обнищание	inclusive
+RU2882	n	dmc	yes	Джокер	conservative
+RU890	n	an	no	слабак	conservative
+RU204	n	ddp	yes	идиотка	inclusive
+RU1876	n	asm	no	faba minor	inclusive
+RU996	n	cds	no	Уне	inclusive
+RU1363	n	qas	no	соответствия	inclusive
+RU2764	n	cds	no	idiolatry	inclusive
+RU1797	n	cds	no	буффонады	inclusive
+RU3270	a	is	yes	скудный	inclusive
+RU222	n	an	no	fuckhead	conservative
+RU3223	a	qas	no	феодальный	inclusive
+RU2842	n	an	no	ixodida	inclusive
+RU756	n	cds	no	высокомерие	inclusive
+RU3406	n	om	no	переодевания	inclusive
+RU2165	n	cds	no	гибрис	inclusive
+RU1205	n	an	no	Физиономия	inclusive
+RU1644	n	cds	no	умник	inclusive
+RU324	n	qas	no	дикарь	conservative
+RU1263	n	an	no	кровать ошибка	inclusive
+RU343	n	qas	no	Медведи	inclusive
+RU3402	n	an	no	пяденицы	inclusive
+RU2508	n	svp	no	непристойные	inclusive
+RU2837	n	cds	no	omerta	inclusive
+RU3393	n	cds	no	Бароны-разбойники	inclusive
+RU3269	a	is	yes	ми́зерный	inclusive
+RU521	n	cds	no	бандитов	inclusive
+RU1127	v	asm	no	бить баклу́ши	inclusive
+RU3248	n	dmc	yes	коробейник	conservative
+RU3281	n	ddp	yes	Сюрприз	inclusive
+RU2640	n	cds	no	prankishness	inclusive
+RU672	n	svp	no	скука	inclusive
+RU271	n	dmc	yes	жадина	conservative
+RU2563	n	an	no	толстяк	conservative
+RU926	n	re	no	calunnia	inclusive
+RU3367	n	re	no	Боевая террористическая организация	conservative
+RU2511	n	svp	no	похотливые	inclusive
+RU2208	n	dmc	yes	прока́зница	inclusive
+RU1570	n	om	no	Аборальный	inclusive
+RU808	n	cds	no	колыма́га	inclusive
+RU168	n	ddp	yes	инфауны	inclusive
+RU2111	n	ps	yes	еврейской общины	inclusive
+RU1503	n	cds	no	Бульварный роман	inclusive
+RU528	n	an	no	козёл	inclusive
+RU1539	n	cds	no	обманщик	conservative
+RU818	a	ddf	yes	плохо	inclusive
+RU2244	n	ddp	yes	мудак	conservative
+RU2694	n	an	no	Микроб	inclusive
+RU267	n	dmc	yes	скряга	conservative
+RU773	n	cds	no	отщепенец	conservative
+RU2067	n	pr	no	коммерческие акты	conservative
+RU1305	n	an	no	strigiformes	inclusive
+RU434	n	an	no	аренду мальчиков	conservative
+RU2645	n	cds	no	щенок	conservative
+RU879	n	cds	no	тря́пка	conservative
+RU2548	n	cds	no	cosa nosta	inclusive
+RU1632	n	cds	no	Пеон	inclusive
+RU1721	n	cds	no	Сутенёрство	conservative
+RU1980	v	asm	no	заняться секс	conservative
+RU212	n	qas	no	олух	conservative
+RU351	n	pa	yes	адвокатов	inclusive
+RU2232	n	ddf	yes	утрата трудоспособности	inclusive
+RU668	n	an	no	zooerastia	conservative
+RU2662	n	qas	no	Реторика	inclusive
+RU1188	n	or	no	голубо́й	conservative
+RU335	n	ddp	yes	зверство	conservative
+RU585	n	cds	no	ебла́н	conservative
+RU2393	n	svp	no	Гнев	inclusive
+RU910	n	an	no	волчица	inclusive
+RU1892	n	asf	no	влагалища	conservative
+RU2437	n	cds	no	туалеты	inclusive
+RU2194	n	cds	no	Идолы	inclusive
+RU290	n	qas	no	Яички	inclusive
+RU2953	n	or	no	картофеля	inclusive
+RU2664	n	qas	no	рито́рика	inclusive
+RU1104	n	pa	yes	Проф.	inclusive
+RU2265	n	is	yes	относительной бедности	inclusive
+RU1849	n	svp	no	хандрить	conservative
+RU789	n	dmc	yes	лентя́йка	conservative
+RU1752	n	cds	no	fascista	inclusive
+RU2912	n	an	no	Черви	inclusive
+RU1482	n	re	no	Общественная опасность	inclusive
+RU90	n	om	no	Содомитство	inclusive
+RU3319	a	ddf	yes	стра́шный	conservative
+RU1940	n	an	no	Гнус	inclusive
+RU3089	a	ddp	yes	животный	conservative
+RU577	n	cds	no	шавка	inclusive
+RU274	n	is	yes	курку́ль	conservative
+RU312	n	dmc	yes	разбойник	conservative
+RU211	n	an	no	бестолочь	conservative
+RU206	n	or	no	дурачина	conservative
+RU1846	n	svp	no	гнев	inclusive
+RU3343	n	re	no	сексуальных домогательствах	inclusive
+RU625	n	an	no	оговорка	inclusive
+RU216	n	asm	no	дурак	inclusive
+RU2542	n	re	no	Мафиозо	inclusive
+RU223	n	ddp	yes	болваном	conservative
+RU309	n	dmc	yes	бандитка	conservative
+RU2042	n	cds	no	воров	inclusive
+RU3003	n	an	no	Вошь платяная	inclusive
+RU681	n	an	no	bos taurus	inclusive
+RU1218	n	an	no	труси́ха	conservative
+RU1533	n	svp	no	неприя́знь	inclusive
+RU3084	n	cds	no	ребенок	inclusive
+RU3460	n	ps	yes	желтую карточку	inclusive
+RU3005	n	an	no	Нательные вши	inclusive
+RU3234	n	an	no	пиявки	inclusive
+RU3425	n	asm	no	Потка	inclusive
+RU202	n	asm	no	болван	conservative
+RU415	n	pr	no	женщина на улице	conservative
+RU273	n	svp	no	скря́га	conservative
+RU896	n	ddp	yes	замедлять	inclusive
+RU2367	n	cds	no	вернуться говорить	inclusive
+RU730	n	om	no	черт!	inclusive
+RU3485	n	dmc	yes	Бродяги	inclusive
+RU3326	n	ddp	yes	чепуха	inclusive
+RU1444	n	or	no	Глупость	conservative
+RU728	n	om	no	содомит	inclusive
+RU2064	n	pr	no	Жрица любви	conservative
+RU1413	n	om	no	госпожа	inclusive
+RU1194	n	or	no	homophile	conservative
+RU265	n	is	yes	крохобо́р	conservative
+RU218	n	cds	no	придурок	conservative
+RU321	n	cds	no	грубиянка	conservative
+RU120	n	asm	no	отро́сток	inclusive
+RU2809	n	cds	no	Гиперсексуал	conservative
+RU201	n	an	no	осёл	inclusive
+RU477	n	qas	no	беспорядок	inclusive
+RU820	a	ddf	yes	гнусный	conservative
+RU261	n	svp	no	жадности	inclusive
+RU517	n	re	no	негодяй	conservative
+RU2733	n	an	no	Слизняки	inclusive
+RU1499	n	cds	no	копейки романы	inclusive
+RU640	n	cds	no	линейный шутер	conservative
+RU524	n	re	no	бандиты	inclusive
+RU1222	v	cds	no	болтать	inclusive
+RU1362	n	qas	no	конформизма	inclusive
+RU945	n	qas	no	сволочь	conservative
+RU185	n	re	no	насильников	conservative
+RU165	n	ddp	yes	фауны	inclusive
+RU1458	n	ddp	yes	о́лух	conservative
+RU1187	n	or	no	гомосексуальный	conservative
+RU2939	v	asm	no	обманывать	conservative
+RU271	n	is	yes	жадина	conservative
+RU230	n	an	no	необразованный человек	conservative
+RU1125	v	asm	no	лоботря́сничать	inclusive
+RU2866	n	re	no	же́нщина-уби́йца	inclusive
+RU2347	n	cds	no	ростовщиков	inclusive
+RU2717	n	an	no	Овцы	inclusive
+RU3095	n	is	yes	нуждающийся	inclusive
+RU3403	n	pr	no	Пяденица берёзовая	inclusive
+RU922	n	re	no	порочение	inclusive
+RU1315	n	asm	no	дрочить	conservative
+RU2425	n	dmc	yes	воришка	conservative
+RU899	n	asf	no	перевертыши	conservative
+RU1474	n	re	no	преступления	inclusive
+RU1231	n	cds	no	бытовых отходов	conservative
+RU244	n	om	no	осли́ца	inclusive
+RU3100	a	dmc	yes	контрафактный	conservative
+RU286	n	cds	no	игорный дом	inclusive
+RU3284	n	ddp	yes	unwiseness	inclusive
+RU3354	n	an	no	arionidae	inclusive
+RU2901	n	dmc	yes	опло́шность	inclusive
+RU2212	n	dmc	yes	него́дник	inclusive
+RU3036	a	svp	no	ворчливый	conservative
+RU138	a	ddp	yes	неграмотный	inclusive
+RU2311	n	svp	no	Афродизия	inclusive
+RU782	n	ps	yes	бродяга	inclusive
+RU3530	n	dmc	yes	отступница	conservative
+RU1219	n	cds	no	бзде́ние	conservative
+RU897	n	asf	no	Уровень Луизы	conservative
+RU3372	n	re	no	Террорист	inclusive
+RU610	n	re	no	Шантажист	conservative
+RU210	n	asm	no	глупец	conservative
+RU2072	n	is	yes	бедняк	inclusive
+RU1003	n	cds	no	То	inclusive
+RU3419	n	pr	no	стерва	conservative
+RU1460	n	ps	yes	ничтожество	conservative
+RU514	n	re	no	изгоев	conservative
+RU764	n	cds	no	чванство	inclusive
+RU779	n	dmc	yes	БОМЖ	conservative
+RU2381	n	asm	no	мужской половой орган	inclusive
+RU1688	n	an	no	Эвриптериды	inclusive
+RU307	a	svp	no	жа́дный	conservative
+RU3249	n	cds	no	посредственность	conservative
+RU2323	n	svp	no	бездельница	conservative
+RU2578	n	cds	no	папара́цци	inclusive
+RU689	n	pr	no	домашнего скота	inclusive
+RU660	n	an	no	тела похитителя	inclusive
+RU2404	n	cds	no	угонщик скота	inclusive
+RU527	n	dmc	yes	злоумышленник	inclusive
+RU216	n	cds	no	дурак	conservative
+RU3426	n	asm	no	bird	inclusive
+RU2992	a	qas	no	привычный	inclusive
+RU456	n	cds	no	враньё	conservative
+RU1325	n	an	no	loricata	inclusive
+RU219	n	asf	no	идиот	conservative
+RU2900	n	dmc	yes	Гаер	inclusive
+RU3390	n	an	no	swallower воздушный шар	inclusive
+RU1683	n	an	no	eurypterid	inclusive
+RU2613	n	an	no	Попугаеобразные	inclusive
+RU1783	n	qas	no	переплёт	inclusive
+RU243	n	om	no	иша́к	inclusive
+RU2560	n	an	no	megascops	inclusive
+RU629	n	cds	no	пиковое положение	inclusive
+RU1860	n	cds	no	Гангста	inclusive
+RU3556	n	cds	no	Муженеистовство	inclusive
+RU3225	n	cds	no	резонёр	conservative
+RU3002	n	an	no	человеческие вши тела	inclusive
+RU1189	n	or	no	гей	conservative
+RU630	n	cds	no	прокол	inclusive
+RU3401	n	an	no	biston betularia	inclusive
+RU101	n	dmc	yes	лентяй	conservative
+RU176	n	an	no	существо	inclusive
+RU1722	n	cds	no	Сутенер	inclusive
+RU215	n	asf	no	простофиля	conservative
+RU904	n	asm	no	увалень	inclusive
+RU1416	n	cds	no	dastardliness	conservative
+RU191	n	cds	no	проница́тельность	inclusive
+RU1384	n	asf	no	манда	conservative
+RU798	n	cds	no	быдло	inclusive
+RU319	n	ps	yes	варварским	conservative
+RU266	n	svp	no	скупец	conservative
+RU777	n	dmc	yes	такой-сякой	inclusive
+RU2051	n	pr	no	распутство	inclusive
+RU2660	n	qas	no	риторическим	inclusive
+RU1350	n	cds	no	скрещивания	inclusive
+RU2683	n	ps	yes	mestizaje	conservative
+RU649	n	qas	no	bumbler	conservative
+RU1349	n	ps	yes	Гибриды	inclusive
+RU2093	n	om	no	Гомосексуальная ориентация	inclusive
+RU2173	n	an	no	Гиены	inclusive
+RU964	n	an	no	Лайялка	inclusive
+RU1915	n	cds	no	пустозвон	conservative
+RU974	n	om	no	пидорас	conservative
+RU1379	n	or	no	мокрощёлка	conservative
+RU323	n	ddp	yes	дикарка	conservative
+RU653	n	qas	no	blunderer	conservative
+RU197	n	or	no	кумпол	inclusive
+RU1790	n	cds	no	отара	inclusive
+RU3072	n	an	no	ягнёнок	conservative
+RU447	n	an	no	мужчина-проститутка	conservative
+RU440	n	pr	no	уличный	conservative
+RU299	n	asm	no	тестикула	inclusive
+RU2926	n	cds	no	нувориш	inclusive
+RU177	n	re	no	хула	conservative
+RU881	n	cds	no	размазня́	conservative
+RU2910	n	an	no	Червие	inclusive
+RU1879	n	asm	no	faba faba	inclusive
+RU989	n	cds	no	Тё	inclusive
+RU1796	n	dmc	yes	Дурак	inclusive
+RU452	n	qas	no	фальшь	conservative
+RU1456	n	ddp	yes	глупе́ц	conservative
+RU894	n	ddp	yes	перевертыш	inclusive
+RU3023	a	svp	no	разгневанный	inclusive
+RU924	n	re	no	напраслина	inclusive
+RU1196	n	om	no	пидора́с	inclusive
+RU2541	n	re	no	Чешская "Маффия"	conservative
+RU2054	n	pr	no	сексуальных услуг	inclusive
+RU1141	n	asm	no	ебание	conservative
+RU1181	n	om	no	Гомофилия	conservative
+RU405	n	ddp	yes	несообразительный человек	conservative
+RU3549	n	cds	no	culchie	inclusive
+RU1196	n	om	no	пидора́с	conservative
+RU897	n	cds	no	Уровень Луизы	inclusive
+RU940	n	dmc	yes	мошенница	conservative
+RU2808	n	cds	no	Сексуальная зависимость	conservative
+RU3028	n	asm	no	рукой	conservative
+RU3508	n	re	no	сила	inclusive
+RU901	n	ddp	yes	кретин	conservative
+RU1213	n	an	no	бздун	conservative
+RU422	n	pr	no	подстилка	conservative
+RU3422	n	pr	no	гетеры	inclusive
+RU3263	a	svp	no	блудливый	conservative
+RU2024	a	cds	no	лукавый	conservative
+RU1348	n	ps	yes	селекционер	inclusive
+RU532	n	ddp	yes	болтун	inclusive
+RU1450	n	cds	no	отчаянных уголовного	inclusive
+RU2501	n	cds	no	Нёрд	conservative
+RU1515	n	ps	yes	краут	conservative
+RU304	a	svp	no	корыстолюби́вый	conservative
+RU443	n	an	no	проститу́т	conservative
+RU2518	n	cds	no	полисмен	conservative
+RU3167	n	re	no	вооружённый	inclusive
+RU513	n	cds	no	жулик	inclusive
+RU3494	n	an	no	личинка	inclusive
+RU758	n	cds	no	заносчивость	conservative
+RU3147	n	re	no	Киднепинг	inclusive
+RU1550	n	om	no	keister	inclusive
+RU1194	n	om	no	homophile	inclusive
+RU2725	n	pa	yes	пастуха	inclusive
+RU319	n	cds	no	варварским	conservative
+RU2742	n	ps	yes	Монголоиды	conservative
+RU220	n	or	no	blockhead	conservative
+RU2399	a	svp	no	раздражительный	conservative
+RU108	n	qas	no	соучастник	inclusive
+RU2718	n	asm	no	глупости	conservative
+RU202	n	ddp	yes	болван	inclusive
+RU219	n	cds	no	идиот	inclusive
+RU485	n	pr	no	крупного рогатого скота	inclusive
+RU2077	n	om	no	мужчин-гомосексуалистов	inclusive
+RU3555	n	cds	no	разбой	inclusive
+RU2565	n	an	no	толстушка	conservative
+RU2214	n	cds	no	баловни́к	conservative
+RU2585	n	cds	no	chawbacon	conservative
+RU1919	n	an	no	pipistrellus	inclusive
+RU892	n	an	no	трус	conservative
+RU1697	n	is	yes	бедняга	conservative
+RU3331	n	re	no	raper	conservative
+RU115	n	cds	no	омниум-gatherum	inclusive
+RU342	n	qas	no	Медведь	inclusive
+RU1935	n	qas	no	сыщик	inclusive
+RU1599	n	svp	no	обжора	inclusive
+RU128	n	cds	no	folderol	conservative
+RU3336	n	re	no	Растление	inclusive
+RU2863	n	cds	no	приспособленец	conservative
+RU214	n	an	no	валять дурака	conservative
+RU760	n	svp	no	гордыня	conservative
+RU1220	n	cds	no	малоду́шие	conservative
+RU41	n	cds	no	брокер	inclusive
+RU1191	n	or	no	Геи	conservative
+RU281	n	cds	no	бордель	inclusive
+RU1402	n	or	no	Тыква гигантская	inclusive
+RU2858	n	re	no	Слэйер	inclusive
+RU722	n	qas	no	владелец бизнеса	inclusive
+RU211	n	ddp	yes	бестолочь	conservative
+RU1891	n	asm	no	боб	inclusive
+RU1673	n	qas	no	Аматёр	inclusive
+RU397	n	asm	no	фраер	conservative
+RU1216	n	cds	no	трусом	conservative
+RU1274	n	svp	no	тяга	inclusive
+RU870	n	dmc	yes	изгнанник	inclusive
+RU2318	a	dmc	yes	неприличный	conservative
+RU2003	n	an	no	гусенок	inclusive
+RU3470	n	cds	no	conspiracism	inclusive
+RU1398	n	or	no	огурец	inclusive
+RU50	n	pa	yes	академик	inclusive
+RU654	n	cds	no	разиня	conservative
+RU3104	n	pa	yes	доцент	inclusive
+RU594	n	ddp	yes	залупа	conservative
+RU1065	n	asm	no	хер	conservative
+RU1832	n	cds	no	фундаментализм	inclusive
+RU632	n	cds	no	ляпсус	inclusive
+RU1554	n	om	no	Оральный	inclusive
+RU1993	v	asm	no	выебать	conservative
+RU3065	n	an	no	Курицы	inclusive
+RU216	n	cds	no	дурак	inclusive
+RU1064	n	asm	no	писю́н	conservative
+RU569	n	cds	no	cur	inclusive
+RU2479	n	pr	no	мотылёк	inclusive
+RU1193	n	om	no	лесбия́нка	conservative
+RU965	n	an	no	Щенок	inclusive
+RU654	n	or	no	разиня	conservative
+RU2455	n	an	no	mollusca	inclusive
+RU802	n	cds	no	злодея	conservative
+RU2376	n	cds	no	matcher	inclusive
+RU2543	n	re	no	мафиози	inclusive
+RU3238	n	cds	no	ставленник	conservative
+RU3274	a	is	yes	бе́дный	inclusive
+RU1319	n	om	no	инвалид	conservative
+RU1226	n	ddp	yes	шарлатан	conservative
+RU987	n	cds	no	Цубо	inclusive
+RU195	n	or	no	мозги	inclusive
+RU2348	n	cds	no	ростовщики	inclusive
+RU106	n	qas	no	приспешник	inclusive
+RU2581	n	cds	no	папарацци	inclusive
+RU2680	n	ps	yes	Мамелюко	conservative
+RU593	n	ddp	yes	тупи́ца	conservative
+RU2300	n	dmc	yes	моральное банкротство	inclusive
+RU267	n	cds	no	скряга	conservative
+RU794	n	cds	no	безде́льник	conservative
+RU3040	n	re	no	плагиате	inclusive
+RU1609	n	pa	yes	портье	inclusive
+RU1907	n	cds	no	тюремный охранник	inclusive
+RU1975	v	asm	no	совокупляться	conservative
+RU1241	n	cds	no	твердых отходов	conservative
+RU1704	n	dmc	yes	распущенность	conservative
+RU3360	a	svp	no	надменный	conservative
+RU1678	n	dmc	yes	моральный кодекс	inclusive
+RU356	n	pa	yes	Дипломатический ранг	inclusive
+RU2255	n	is	yes	обездоленных	inclusive
+RU114	n	cds	no	меланж	inclusive
+RU2643	n	svp	no	superbia	conservative
+RU3401	n	pr	no	biston betularia	inclusive
+RU876	n	dmc	yes	вы́брошенный	inclusive
+RU217	n	cds	no	дура	conservative
+RU449	n	pr	no	улице девушку	conservative
+RU553	n	qas	no	промышленник	inclusive
+RU2597	n	qas	no	Прихожане	inclusive
+RU1749	n	ps	yes	фашист	inclusive
+RU527	n	re	no	злоумышленник	inclusive
+RU2985	n	is	yes	оборванец	conservative
+RU3291	a	ddp	yes	идиотский	conservative
+RU3461	n	ps	yes	горчичник	inclusive
+RU300	n	qas	no	ерунда	conservative
+RU2872	n	or	no	оранжевый	inclusive
+RU778	n	dmc	yes	Бомжиха	conservative
+RU1563	n	om	no	за	inclusive
+RU767	n	cds	no	объем	inclusive
+RU1860	n	re	no	Гангста	inclusive
+RU2214	n	cds	no	баловни́к	inclusive
+RU2006	n	an	no	gyps fulvus	inclusive
+RU2938	v	asm	no	надувать	conservative
+RU3369	n	re	no	теракт	conservative
+RU1243	n	cds	no	мусора	inclusive
+RU3127	n	pa	yes	бухга́лтерша	inclusive
+RU1966	n	cds	no	Реакционизм	conservative
+RU3080	n	cds	no	малыш	inclusive
+RU895	n	asf	no	Идиотия	conservative
+RU519	n	cds	no	преступница	inclusive
+RU385	n	qas	no	барокко	inclusive
+RU1444	n	asf	no	Глупость	conservative
+RU2710	n	an	no	овец	inclusive
+RU1743	n	qas	no	фермер	inclusive
+RU1628	n	cds	no	Пеонаж	inclusive
+RU2106	n	ps	yes	Еврейская религия	inclusive
+RU2855	n	re	no	убийств	inclusive
+RU1974	v	asm	no	познавать	conservative
+RU946	n	qas	no	сброда и бобтейл	conservative
+RU3181	a	svp	no	прожорливый	inclusive
+RU513	n	re	no	жулик	conservative
+RU2969	a	cds	no	взыскательный	conservative
+RU312	n	re	no	разбойник	inclusive
+RU209	n	ddp	yes	тупица	conservative
+RU3120	n	pr	no	фигня	conservative
+RU2684	n	ps	yes	Метисы	conservative
+RU882	n	cds	no	тюфя́к	conservative
+RU2798	n	pa	yes	поклонник	inclusive
+RU2493	n	an	no	мул	inclusive
+RU2407	n	re	no	rustler	inclusive
+RU1035	n	an	no	коза	inclusive
+RU587	n	cds	no	долбоёб	conservative
+RU1870	n	asm	no	vicia esculenta	inclusive
+RU2061	n	pr	no	Проститутки	conservative
+RU634	n	qas	no	портить	inclusive
+RU2319	n	dmc	yes	лгун	inclusive
+RU434	n	pr	no	аренду мальчиков	conservative
+RU3496	n	cds	no	малодушный	conservative
+RU1408	n	cds	no	tricker	conservative
+RU1843	n	svp	no	ярость	conservative
+RU1890	n	asm	no	vicia faba	inclusive
+RU1061	n	dmc	yes	грубость	conservative
+RU454	n	cds	no	обман	inclusive
+RU2279	n	an	no	inexorableness	conservative
+RU2874	n	re	no	мучителя	inclusive
+RU53	a	pa	yes	теоретический	inclusive
+RU1803	n	asm	no	Крайняя плоть	inclusive
+RU832	n	ddp	yes	арестантка	inclusive
+RU3195	n	an	no	лягушка	inclusive
+RU2753	n	or	no	сквош лозы	inclusive
+RU1996	v	asm	no	ети	conservative
+RU207	n	cds	no	дуралей	inclusive
+RU1157	n	an	no	кроликов	inclusive
+RU581	n	cds	no	Штрейкбрехеры	inclusive
+RU2401	n	cds	no	делец	inclusive
+RU1237	n	qas	no	Барахло	inclusive
+RU411	n	cds	no	сводня	inclusive
+RU3449	n	qas	no	Груз	inclusive
+RU3021	n	cds	no	религиозность	inclusive
+RU332	n	ddp	yes	хам	conservative
+RU798	n	qas	no	быдло	conservative
+RU3129	n	pa	yes	счетово́дка	inclusive
+RU1748	n	ps	yes	фашистский	inclusive
+RU1340	n	cds	no	скрещивании	inclusive
+RU2014	n	an	no	Хряк	inclusive
+RU3305	n	qas	no	bloodhound	inclusive
+RU211	n	dmc	yes	бестолочь	conservative
+RU1660	n	asm	no	Эректильные органы	inclusive
+RU526	n	cds	no	преступный	conservative
+RU3031	n	cds	no	онанизм	conservative
+RU2245	n	ddp	yes	задний проход	conservative
+RU2212	n	cds	no	него́дник	inclusive
+RU324	n	pa	yes	дикарь	conservative
+RU308	n	qas	no	балла́ст	inclusive
+RU1958	n	cds	no	Политическая реакция	conservative
+RU339	n	qas	no	трейдер	inclusive
+RU325	n	cds	no	варваров	conservative
+RU1444	n	an	no	Глупость	conservative
+RU1132	n	cds	no	толчея	inclusive
+RU209	n	an	no	тупица	conservative
+RU1696	a	cds	no	презренный	conservative
+RU3554	n	cds	no	Разбойник	inclusive
+RU884	n	asf	no	недотёпа	conservative
+RU1593	n	cds	no	ше́льма	conservative
+RU305	a	svp	no	алчный	inclusive
+RU825	n	an	no	пасть	inclusive
+RU568	n	asf	no	остолоп	conservative
+RU2862	n	re	no	Слэер	inclusive
+RU2064	n	pr	no	Жрица любви	inclusive
+RU331	n	dmc	yes	грубиян	conservative
+RU711	n	qas	no	крестьян	inclusive
+RU3379	n	re	no	суровый	inclusive
+RU1321	n	an	no	крокодилов	inclusive
+RU150	n	an	no	anguilliformes	inclusive
+RU2059	n	pr	no	Блудница	conservative
+RU3501	n	ddp	yes	Имбецил	inclusive
+RU71	n	ddp	yes	Умственная патология	inclusive
+RU1461	n	asf	no	doofus	conservative
+RU758	n	svp	no	заносчивость	conservative
+RU804	n	an	no	злодейка	conservative
+RU1709	n	dmc	yes	транжир	inclusive
+RU1902	n	cds	no	тюремный надзиратель	inclusive
+RU3493	n	an	no	личинки	inclusive
+RU1844	n	svp	no	неистовство	conservative
+RU2418	n	ps	yes	тические	inclusive
+RU1471	n	re	no	незаконной деятельности	inclusive
+RU1614	n	cds	no	нагрузках	inclusive
+RU961	n	an	no	собак	inclusive
+RU892	n	cds	no	трус	conservative
+RU3407	n	om	no	переодеванию	inclusive
+RU355	n	pa	yes	консультант по закону	inclusive
+RU739	n	qas	no	Буржуазный	inclusive
+RU2326	n	qas	no	Враль	conservative
+RU2055	n	pr	no	Лоретка	conservative
+RU929	n	re	no	ложных обвинений	inclusive
+RU1794	n	dmc	yes	motley fool	inclusive
+RU269	n	svp	no	скупердяй	inclusive
+RU1737	n	qas	no	сельскохозяйственный рабочий	inclusive
+RU320	n	dmc	yes	мужла́н	conservative
+RU977	n	ps	yes	китайцы	inclusive
+RU66	n	ddp	yes	Малоумие	inclusive
+RU2879	n	cds	no	гомункула	inclusive
+RU837	n	ddp	yes	узник	inclusive
+RU1172	n	om	no	обслуживанию	conservative
+RU1574	n	om	no	каудально	inclusive
+RU692	n	cds	no	начальник	inclusive
+RU322	n	cds	no	Варвары	conservative
+RU759	n	cds	no	своеволие	conservative
+RU2209	n	cds	no	шалу́нья	conservative
+RU1052	n	svp	no	minginess	conservative
+RU1549	n	om	no	Апикальный	inclusive
+RU2136	n	qas	no	Лакировщик	inclusive
+RU3078	n	cds	no	младенец	inclusive
+RU760	n	cds	no	гордыня	conservative
+RU218	n	asm	no	придурок	conservative
+RU900	n	ddp	yes	Подменыш	conservative
+RU320	n	rci	yes	мужла́н	conservative
+RU1061	n	an	no	грубость	conservative
+RU3145	n	re	no	похитить	inclusive
+RU2038	n	re	no	угон	inclusive
+RU1839	n	cds	no	фундаменталистский	inclusive
+RU2786	n	ps	yes	черного сообщества	inclusive
+RU2357	n	cds	no	процентщица	inclusive
+RU2551	n	ps	yes	остготов	inclusive
+RU3183	n	qas	no	высокопарность	inclusive
+RU2308	n	dmc	yes	псевдо	conservative
+RU1559	n	om	no	ягодица	inclusive
+RU106	n	qas	no	приспешник	conservative
+RU1955	n	svp	no	никудышный	conservative
+RU1845	n	an	no	бешенство	inclusive
+RU2082	n	om	no	гомосексуализм	inclusive
+RU637	n	cds	no	vaunter	conservative
+RU3320	a	ddf	yes	уродливый	conservative
+RU2359	n	an	no	бука́шка	inclusive
+RU2407	n	cds	no	rustler	inclusive
+RU2959	a	qas	no	напыщенный	inclusive
+RU1997	v	asm	no	спать	conservative
+RU1950	n	svp	no	не-счета	conservative
+RU944	n	qas	no	ragtag	conservative
+RU2012	n	an	no	свиней	inclusive
+RU1731	n	cds	no	Сводничество	conservative
+RU1310	n	ddp	yes	Кретин	inclusive
+RU1896	a	dmc	yes	дурно пахнущий	conservative
+RU2005	n	an	no	белоголовый сип	inclusive
+RU2686	n	an	no	selachimorpha	inclusive
+RU1991	v	asm	no	тра́хнуться	conservative
+RU891	n	cds	no	ссыкун	conservative
+RU229	n	ddp	yes	неуч	conservative
+RU798	n	qas	no	быдло	inclusive
+RU129	n	ddp	yes	бред собачий	conservative
+RU218	n	or	no	придурок	conservative
+RU2215	n	cds	no	шалу́н	conservative
+RU1479	n	re	no	нарушение закона	inclusive
+RU1224	n	cds	no	шарлатанка	conservative
+RU2170	n	an	no	гиена	inclusive
+RU900	n	cds	no	Подменыш	inclusive
+RU393	n	cds	no	забаллотировать	inclusive
+RU203	n	cds	no	дебил	inclusive
+RU2849	n	re	no	убийстве второй степени	inclusive
+RU1933	n	cds	no	детектив	conservative
+RU3206	n	an	no	лягушечья икра	inclusive
+RU796	n	cds	no	чернь	conservative
+RU3090	a	ps	yes	вороной	inclusive
+RU2419	n	ps	yes	Метэки	inclusive
+RU3169	n	re	no	захват	inclusive
+RU976	n	or	no	педик	conservative
+RU2927	n	cds	no	карьерист	inclusive
+RU2069	n	pr	no	Женщина лёгкого поведения	conservative
+RU3083	n	cds	no	малютка	inclusive
+RU2145	n	svp	no	Гортанобесие	inclusive
+RU2222	n	ddf	yes	Инвалидность	inclusive
+RU2176	n	cds	no	эстрадный певец	inclusive
+RU3489	n	cds	no	продажность	conservative
+RU1722	n	cds	no	Сутенер	conservative
+RU3404	n	om	no	трансвеститы	inclusive
+RU1750	n	is	yes	Маргинальность	inclusive
+RU2584	n	dmc	yes	невежливость	conservative
+RU780	n	dmc	yes	БОМЖиЗ	conservative
+RU2740	n	ps	yes	Жёлтая раса	conservative
+RU2723	n	pa	yes	овчар	inclusive
+RU2665	n	qas	no	красноре́чие	inclusive
+RU2278	n	an	no	непримиримость	conservative
+RU2895	n	an	no	гадюка	inclusive
+RU18	n	svp	no	Афимия	inclusive
+RU1648	n	re	no	Деликт	inclusive
+RU2335	a	is	yes	грустный	inclusive
+RU891	n	an	no	ссыкун	conservative
+RU309	n	cds	no	бандитка	inclusive
+RU2423	n	cds	no	schoolma'am	conservative
+RU3178	a	dmc	yes	гря́зный	inclusive
+RU1757	n	or	no	Фенхель обыкновенный	inclusive
+RU2498	n	an	no	рыло	inclusive
+RU218	n	ddp	yes	придурок	inclusive
+RU3248	n	cds	no	коробейник	conservative
+RU157	n	ddp	yes	животных	inclusive
+RU2561	n	dmc	yes	свинтус	conservative
+RU884	n	ddp	yes	недотёпа	conservative
+RU898	n	cds	no	слабоумный	inclusive
+RU118	n	cds	no	мешанина	inclusive
+RU1527	n	cds	no	грязь	inclusive
+RU1461	n	ps	yes	doofus	conservative
+RU203	n	asm	no	дебил	inclusive
+RU270	n	svp	no	жмот	conservative
+RU3292	a	ddp	yes	дурной	conservative
+RU2936	v	re	no	одурачить	inclusive
+RU724	n	qas	no	бизнесмен	inclusive
+RU792	n	dmc	yes	ло́дырь	conservative
+RU2351	n	cds	no	ростовщичеством	conservative
+RU269	n	svp	no	скупердяй	conservative
+RU2156	n	qas	no	клетку	inclusive
+RU3268	a	svp	no	распутный	conservative
+RU3286	n	ddp	yes	Архитектурный каприз	inclusive
+RU946	n	ddp	yes	сброда и бобтейл	conservative
+RU3439	n	cds	no	Водоотведение	inclusive
+RU679	n	pr	no	Коровы	inclusive
+RU1634	n	an	no	папиз	conservative
+RU365	n	cds	no	приверженец	conservative
+RU747	n	cds	no	бесцеремонность	conservative
+RU3149	n	re	no	raptio	inclusive
+RU2537	n	cds	no	мафии	inclusive
+RU487	n	cds	no	beguine	inclusive
+RU19	n	svp	no	Атимормия	inclusive
+RU3082	n	cds	no	малышка	inclusive
+RU1630	n	qas	no	батрак	inclusive
+RU893	n	cds	no	трусишка	conservative
+RU2952	n	or	no	спад	inclusive
+RU175	n	an	no	Животные	inclusive
+RU1694	n	cds	no	грешница	conservative
+RU548	n	ps	yes	Черный	inclusive
+RU2155	n	qas	no	халупа	inclusive
+RU3057	a	dmc	yes	фальшивый	conservative
+RU268	n	svp	no	куркуль	conservative
+RU1168	n	or	no	poove	conservative
+RU1235	n	cds	no	отходы	conservative
+RU1924	n	asf	no	волосы на лобке	inclusive
+RU450	n	pr	no	мужской эскорт	conservative
+RU1474	n	cds	no	преступления	inclusive
+RU2468	n	cds	no	морализирование	inclusive
+RU1651	n	cds	no	энтузиаст	inclusive
+RU1170	n	or	no	Квир	conservative
+RU2957	a	qas	no	слезливый	conservative
+RU1795	n	dmc	yes	шут	inclusive
+RU2529	n	re	no	cosa nostra	inclusive
+RU47	n	pa	yes	ученых	inclusive
+RU2653	n	cds	no	реликвия	inclusive
+RU2778	n	ps	yes	арап	inclusive
+RU786	n	dmc	yes	бродяг	conservative
+RU1959	n	cds	no	крайне правого нападающего	conservative
+RU823	a	dmc	yes	подлый	conservative
+RU2045	n	re	no	грязные деньги	inclusive
+RU1316	n	ddp	yes	twirp	conservative
+RU3278	n	cds	no	Сциентизм	inclusive
+RU906	n	asf	no	отморо́зок	conservative
+RU3550	n	pr	no	коро́ва	inclusive
+RU480	n	ps	yes	бедуинов	inclusive
+RU1358	n	cds	no	молокосос	conservative
+RU906	n	cds	no	отморо́зок	inclusive
+RU1637	n	an	no	helix pomatia	inclusive
+RU775	n	cds	no	дно жизни	conservative
+RU1951	n	dmc	yes	бесполезный	conservative
+RU1387	n	or	no	посевной	inclusive
+RU1239	n	cds	no	ТБО	inclusive
+RU1697	n	dmc	yes	бедняга	inclusive
+RU2313	n	svp	no	Похабность	inclusive
+RU3126	n	pa	yes	контролера	inclusive
+RU2285	n	cds	no	инструктора	inclusive
+RU880	n	cds	no	хлюпик	conservative
+RU60	n	ddp	yes	идиоти́зм	inclusive
+RU1180	n	om	no	го́мик	inclusive
+RU2201	a	an	no	скупой	conservative
+RU1769	n	cds	no	wangler	conservative
+RU1401	n	or	no	cucurbita максимумов	inclusive
+RU198	n	or	no	качан	inclusive
+RU1319	n	ddf	yes	инвалид	inclusive
+RU3398	n	pa	yes	белые воротнички	inclusive
+RU3521	n	pa	yes	работница	inclusive
+RU453	n	dmc	yes	брехня	inclusive
+RU904	n	ps	yes	увалень	conservative
+RU547	n	ps	yes	чернота	inclusive
+RU2591	n	qas	no	паразитируют	inclusive
+RU3467	n	cds	no	теории заговора	inclusive
+RU874	n	is	yes	Хариджан	inclusive
+RU619	n	cds	no	тупике	inclusive
+RU186	n	re	no	Насильник	conservative
+RU1238	n	qas	no	железный лом	inclusive
+RU1365	n	qas	no	Конформистская	inclusive
+RU2587	n	qas	no	паразитизм	inclusive
+RU2334	a	is	yes	печальный	inclusive
+RU2150	n	qas	no	домашний	inclusive
+RU2107	n	ps	yes	еврейской семье	inclusive
+RU676	n	an	no	Телка	inclusive
+RU1199	n	ddp	yes	болтунья	conservative
+RU398	n	asm	no	мягкая на ощупь	conservative
+RU91	n	om	no	насиловали	inclusive
+RU1455	n	ps	yes	дура́к	conservative
+RU184	n	re	no	изнасилование	inclusive
+RU259	n	svp	no	Грехи в христианстве	inclusive
+RU83	n	cds	no	самолюбие	conservative
+RU3175	a	dmc	yes	испачканный	inclusive
+RU133	n	cds	no	Зелоты	inclusive
+RU1293	n	an	no	вертихвостка	conservative
+RU702	n	pr	no	Крыса серая	inclusive
+RU1541	n	dmc	yes	лицемерие	conservative
+RU1044	n	an	no	козьего молока	inclusive
+RU2172	n	an	no	hyaenidae	inclusive
+RU315	n	cds	no	Бандитка	inclusive
+RU900	n	ps	yes	Подменыш	conservative
+RU218	n	asf	no	придурок	conservative
+RU1799	n	asm	no	Плоть крайняя	inclusive
+RU479	n	ps	yes	бедуин	inclusive
+RU2537	n	cds	no	мафии	conservative
+RU492	n	pa	yes	коридорный	inclusive
+RU1383	n	asf	no	cunt	conservative
+RU696	n	asm	no	коричневый	inclusive
+RU502	n	cds	no	бандитских разборок	inclusive
+RU942	n	dmc	yes	аферистка	conservative
+RU914	n	re	no	Диффамация	inclusive
+RU1951	n	svp	no	бесполезный	conservative
+RU116	n	qas	no	путаница	inclusive
+RU654	n	ddp	yes	разиня	conservative
+RU2819	n	an	no	гусыня	inclusive
+RU2826	n	an	no	Черные казарки	inclusive
+RU1716	n	cds	no	фратрия	inclusive
+RU139	n	cds	no	а́рмия	inclusive
+RU129	n	asf	no	бред собачий	conservative
+RU2782	n	ps	yes	Негроид	inclusive
+RU326	n	pa	yes	грубый	conservative
+RU1701	n	an	no	ро́жа	inclusive
+RU2305	n	dmc	yes	шулер	conservative
+RU3288	a	ddp	yes	дурацкий	conservative
+RU172	n	an	no	Герпетофауна	inclusive
+RU3337	n	re	no	Чадоложество	inclusive
+RU550	n	qas	no	Магнаты	inclusive
+RU1828	n	an	no	нахмуренные брови	inclusive
+RU1371	n	cds	no	сыно́чек	inclusive
+RU889	n	an	no	тряпка	conservative
+RU3110	a	re	no	насильственные	conservative
+RU2552	n	ps	yes	Остроготы	inclusive
+RU2931	v	cds	no	объеда́ться	inclusive
+RU1068	n	asm	no	аппарат	conservative
+RU204	n	asm	no	идиотка	conservative
+RU912	n	re	no	грязная работа	inclusive
+RU378	n	qas	no	баронский	inclusive
+RU2467	n	ps	yes	монго́л	inclusive
+RU1091	n	qas	no	кастовой системы	inclusive
+RU2397	a	svp	no	вспыльчивый	conservative
+RU2192	n	cds	no	идолопоклонство	inclusive
+RU3287	a	qas	no	среднего класса	inclusive
+RU1195	n	or	no	Гомофил	conservative
+RU2294	n	cds	no	писец	conservative
+RU3418	n	pr	no	ведьма	conservative
+RU397	n	ps	yes	фраер	conservative
+RU3143	n	re	no	похищает	inclusive
+RU280	n	ddp	yes	отсталость	inclusive
+RU413	n	an	no	курва	conservative
+RU2152	n	qas	no	hutch	inclusive
+RU2829	n	an	no	чёрная каза́рка	inclusive
+RU1926	n	cds	no	человек, всюду сующий нос	conservative
+RU1523	n	cds	no	почвы	inclusive
+RU3161	n	re	no	вооруженного грабителя	inclusive
+RU3567	n	ps	yes	Зулус	inclusive
+RU320	n	pa	yes	мужла́н	conservative
+RU588	n	ddp	yes	деби́л	conservative
+RU3500	n	ddp	yes	Имбецильность	inclusive
+RU116	n	cds	no	путаница	inclusive
+RU1582	n	om	no	задница	inclusive
+RU635	n	cds	no	хвасту́н	conservative
+RU536	n	cds	no	taleteller	conservative
+RU1357	n	cds	no	салага	conservative
+RU942	n	cds	no	аферистка	inclusive
+RU2250	n	ddp	yes	ахинея	conservative
+RU3438	n	cds	no	канализацию	inclusive
+RU1648	n	cds	no	Деликт	inclusive
+RU1567	n	om	no	Ягодицы	inclusive
+RU1561	n	om	no	тьфу	inclusive
+RU204	n	cds	no	идиотка	inclusive
+RU2276	n	ddp	yes	невежество	conservative
+RU291	n	asm	no	яйца	inclusive
+RU3453	n	an	no	Мистификация	conservative
+RU1379	n	asf	no	мокрощёлка	conservative
+RU2073	n	om	no	гея	inclusive
+RU142	n	an	no	Речные угри	inclusive
+RU802	n	dmc	yes	злодея	conservative
+RU2162	n	cds	no	Хюбрис	inclusive
+RU1967	v	asm	no	трахать	conservative
+RU1179	n	or	no	гомик	conservative
+RU1579	n	om	no	анатомические точки зрения расположения	inclusive
+RU244	n	an	no	осли́ца	inclusive
+RU252	n	svp	no	жадность	inclusive
+RU2646	n	cds	no	рэкетир	inclusive
+RU3487	n	dmc	yes	Бродяжничество	inclusive
+RU3314	a	ddp	yes	безвкусный	inclusive
+RU2535	n	cds	no	мафия	conservative
+RU510	n	cds	no	банда	inclusive
+RU208	n	ddp	yes	дурень	inclusive
+RU803	n	is	yes	трагическим злодеем	conservative
+RU2113	n	ps	yes	Наконечный, Виталий	inclusive
+RU671	n	ddp	yes	порочность	conservative
+RU723	n	qas	no	деловой человек	inclusive
+RU2406	n	cds	no	Угон скота	inclusive
+RU440	n	an	no	уличный	conservative
+RU1886	n	asm	no	Боб обыкновенный	inclusive
+RU776	n	dmc	yes	пакостник	conservative
+RU988	n	cds	no	Дзё	inclusive
+RU3162	n	re	no	Налётчик	inclusive
+RU597	n	ddp	yes	мудозво́н	conservative
+RU2271	n	svp	no	безде́йствие	inclusive
+RU2616	n	svp	no	скупой	inclusive
+RU1163	n	cds	no	newspaperwoman	inclusive
+RU1472	n	re	no	преступление	inclusive
+RU1460	n	asm	no	ничтожество	conservative
+RU2414	n	ps	yes	Отпущенники	inclusive
+RU2284	n	cds	no	напыщенность	inclusive
+RU498	n	cds	no	фанатичным	conservative
+RU1460	n	ddp	yes	ничтожество	conservative
+RU418	n	pr	no	дешёвка	conservative
+RU1092	n	qas	no	Касты	inclusive
+RU212	n	an	no	олух	conservative
+RU3235	n	an	no	hirudinean	inclusive
+RU1453	n	cds	no	грабитель	conservative
+RU3250	n	an	no	Шакал обыкновенный	inclusive
+RU1573	n	om	no	Пространственные отношения в анатомической терминологии	inclusive
+RU935	n	re	no	vilifier	conservative
+RU1239	n	cds	no	ТБО	conservative
+RU2472	n	an	no	Настоящие комары	inclusive
+RU2514	n	cds	no	лягавый	conservative
+RU2515	n	cds	no	полицейский	conservative
+RU2703	n	ddp	yes	микрокефалия	inclusive
+RU3507	n	pr	no	Чин	inclusive
+RU3463	n	cds	no	Теории заговоров	inclusive
+RU2415	n	ps	yes	Метэк	inclusive
+RU2519	n	cds	no	офицер	inclusive
+RU321	n	dmc	yes	грубиянка	conservative
+RU2040	n	cds	no	Хищения	inclusive
+RU1599	n	svp	no	обжора	conservative
+RU3540	n	cds	no	Делинквент	inclusive
+RU1571	n	om	no	ягодицы	inclusive
+RU400	n	cds	no	пудинг головы	conservative
+RU2483	n	an	no	ночная бабочка	inclusive
+RU566	n	dmc	yes	свинья	conservative
+RU1629	n	cds	no	пеон	inclusive
+RU2596	n	qas	no	эктопаразитов	inclusive
+RU1589	n	om	no	дорсолатеральной	inclusive
+RU2698	n	an	no	пип-писка	conservative
+RU1595	n	cds	no	лиса́	conservative
+RU3285	n	ddp	yes	Каприз	inclusive
+RU1021	n	pa	yes	служащий	inclusive
+RU272	n	is	yes	скупе́ц	conservative
+RU535	n	ddp	yes	ябеда	conservative
+RU2306	n	dmc	yes	позер	conservative
+RU1521	n	cds	no	Гранжер	inclusive
+RU3558	n	cds	no	Нимфомания	inclusive
+RU937	n	cds	no	Каморра	inclusive
+RU96	n	om	no	содомии	inclusive
+RU1593	n	cds	no	ше́льма	inclusive
+RU2353	n	cds	no	ростовщика	inclusive
+RU430	n	pr	no	давалка	conservative
+RU298	n	qas	no	яички	inclusive
+RU181	n	re	no	шельмование	conservative
+RU1352	n	cds	no	Нототаксон	inclusive
+RU1057	n	qas	no	иллюзия	inclusive
+RU1309	n	an	no	афина noctua	inclusive
+RU944	n	ddp	yes	ragtag	conservative
+RU2770	n	ps	yes	ниггер	conservative
+RU1266	n	an	no	hemipteron	inclusive
+RU2667	n	cds	no	главарь	inclusive
+RU2773	n	ps	yes	негров	inclusive
+RU224	n	or	no	muttonhead	conservative
+RU491	n	cds	no	посыльный	inclusive
+RU3047	n	re	no	пиратов	inclusive
+RU512	n	dmc	yes	плут	conservative
+RU2486	n	dmc	yes	Моццарелла	inclusive
+RU1145	n	asm	no	fuck	conservative
+RU215	n	cds	no	простофиля	conservative
+RU1594	n	cds	no	лис	conservative
+RU208	n	asm	no	дурень	conservative
+RU1167	n	cds	no	корреспондент	inclusive
+RU3414	n	om	no	Кроссдрессинг	inclusive
+RU2210	n	dmc	yes	плуто́вка	inclusive
+RU122	n	asm	no	прида́ток	inclusive
+RU1846	n	an	no	гнев	inclusive
+RU1849	n	dmc	yes	хандрить	conservative
+RU2110	n	ps	yes	Иудейка	inclusive
+RU2902	n	dmc	yes	клоун	inclusive
+RU1537	n	dmc	yes	притворщик	conservative
+RU1998	a	cds	no	неправоме́рный	inclusive
+RU2607	n	qas	no	Церковная община	inclusive
+RU1051	n	an	no	козу	inclusive
+RU3566	n	ps	yes	Зулу	inclusive
+RU368	n	pa	yes	адвоката	inclusive
+RU2123	n	ps	yes	еврей	inclusive
+RU267	n	ddp	yes	скряга	conservative
+RU252	n	svp	no	жадность	conservative
+RU982	n	cds	no	клана	inclusive
+RU1254	n	an	no	скрытые устройства прослушивания	inclusive
+RU473	n	cds	no	хлыщ	inclusive
+RU2044	n	cds	no	Жулик	inclusive
+RU1847	n	svp	no	dillydallier	conservative
+RU212	n	or	no	олух	conservative
+RU323	n	qas	no	дикарка	conservative
+RU516	n	an	no	подонок	conservative
+RU1074	n	qas	no	обыкновенный человек	inclusive
+RU3159	n	re	no	Налетчик	inclusive
+RU324	n	ddp	yes	дикарь	conservative
+RU833	n	ddp	yes	Зэк	inclusive
+RU1020	n	cds	no	Японская система мер	inclusive
+RU23	n	qas	no	помощников	inclusive
+RU2436	n	cds	no	общественная польза	inclusive
+RU1976	v	asm	no	отъебать	conservative
+RU1198	n	cds	no	распространитель слухов	conservative
+RU228	n	an	no	профан	conservative
+RU920	n	re	no	хаянье	inclusive
+RU2382	n	asm	no	пенис	inclusive
+RU496	n	cds	no	фанатик	conservative
+RU3303	a	is	yes	нищий	inclusive
+RU2562	n	an	no	бык	inclusive
+RU2779	n	ps	yes	черные женщины	inclusive
+RU2913	n	cds	no	обмолвка	inclusive
+RU1453	n	cds	no	грабитель	inclusive
+RU470	n	cds	no	щеголь	inclusive
+RU2834	n	re	no	террористический	inclusive
+RU127	a	svp	no	враждебный	conservative
+RU2371	n	qas	no	лавочник	inclusive
+RU2193	n	cds	no	идолопокло́нничество	inclusive
+RU2329	n	dmc	yes	Лгун	inclusive
+RU552	n	qas	no	промышленников	inclusive
+RU1956	n	dmc	yes	лох-офф	conservative
+RU1793	n	cds	no	паяц	inclusive
+RU1539	n	dmc	yes	обманщик	conservative
+RU1825	n	cds	no	масонов	inclusive
+RU3329	n	an	no	Обыкновенный светляк	inclusive
+RU2201	a	is	yes	скупой	conservative
+RU3197	n	an	no	Гладконогообразные	inclusive
+RU2163	n	cds	no	высокомерия	conservative
+RU322	n	rci	yes	Варвары	conservative
+RU2	v	an	no	брехать	inclusive
+RU1470	n	cds	no	Криминал	inclusive
+RU322	n	qas	no	Варвары	conservative
+RU221	n	ddp	yes	говнюк	conservative
+RU210	n	cds	no	глупец	conservative
+RU733	n	qas	no	Капиталист	inclusive
+RU242	n	an	no	задницу	inclusive
+RU1506	n	cds	no	Преступность	inclusive
+RU2370	n	cds	no	пререкаться	inclusive
+RU939	n	re	no	чеканщик	inclusive
+RU295	n	asm	no	яичка	inclusive
+RU2066	n	pr	no	блуд	conservative
+RU3423	n	asm	no	птица	inclusive
+RU3025	a	svp	no	сердитый	conservative
+RU587	n	ddp	yes	долбоёб	conservative
+RU2542	n	cds	no	Мафиозо	conservative
+RU1353	n	ps	yes	межродовых гибридные	inclusive
+RU580	n	cds	no	штрейкбрехер	inclusive
+RU3020	n	cds	no	религиозности	inclusive
+RU2185	n	asf	no	красо́тка	conservative
+RU3182	a	svp	no	ненасытный	inclusive
+RU1182	n	om	no	пе́дик	conservative
+RU2096	n	ps	yes	Иудеи	inclusive
+RU1635	n	svp	no	ravenousness	conservative
+RU800	n	an	no	Злодейка	conservative
+RU2668	n	an	no	скорпионы	inclusive
+RU759	n	svp	no	своеволие	conservative
+RU132	n	dmc	yes	фанатизма	conservative
+RU1080	n	cds	no	cockup	inclusive
+RU1663	n	asm	no	эрекция	inclusive
+RU362	n	pa	yes	сторонница	inclusive
+RU940	n	re	no	мошенница	inclusive
+RU2492	n	an	no	косный	conservative
+RU1446	n	an	no	простак	conservative
+RU272	n	svp	no	скупе́ц	inclusive
+RU2850	n	re	no	убийство	inclusive
+RU318	n	qas	no	варвар	conservative
+RU2377	n	cds	no	сваха	inclusive
+RU215	n	ps	yes	простофиля	conservative
+RU1215	n	an	no	боягу́з	conservative
+RU1234	n	qas	no	металлолом	inclusive
+RU328	n	rci	yes	мужлан	conservative
+RU2404	n	re	no	угонщик скота	inclusive
+RU1239	n	qas	no	ТБО	inclusive
+RU3367	n	re	no	Боевая террористическая организация	inclusive
+RU325	n	dmc	yes	варваров	conservative
+RU2674	n	cds	no	сточные воды	inclusive
+RU805	n	re	no	Злодей	conservative
+RU1146	n	asm	no	валяться в сене	conservative
+RU2847	n	re	no	убийства	inclusive
+RU388	n	an	no	хищник	conservative
+RU508	n	cds	no	группа	inclusive
+RU2537	n	re	no	мафии	inclusive
+RU622	n	dmc	yes	развратник	conservative
+RU1393	n	or	no	огурцы	inclusive
+RU916	n	re	no	traducement	inclusive
+RU1791	n	cds	no	стадо	inclusive
+RU2456	n	an	no	Мягкотелые	inclusive
+RU386	n	qas	no	baroqueness	inclusive
+RU274	n	svp	no	курку́ль	inclusive
+RU2835	n	re	no	террористка	inclusive
+RU770	n	an	no	вол	inclusive
+RU199	n	ddp	yes	betise	conservative
+RU1457	n	ps	yes	ду́рень	conservative
+RU1228	n	ddp	yes	знахарство	conservative
+RU880	n	om	no	хлюпик	conservative
+RU1010	n	cds	no	суб-клана	inclusive
+RU1329	n	an	no	Ящеры панцирные	inclusive
+RU3330	n	an	no	lampyris noctiluca	inclusive
+RU1360	n	qas	no	Эффект повального увлечения	inclusive
+RU1954	n	dmc	yes	никчемный человек	conservative
+RU426	n	pr	no	поблядушка	conservative
+RU533	n	cds	no	предательский	conservative
+RU207	n	asm	no	дуралей	inclusive
+RU2840	n	an	no	ixodoidea	inclusive
+RU1480	n	re	no	Преступления	inclusive
+RU2687	n	an	no	selachii	inclusive
+RU799	n	ddp	yes	сброд	conservative
+RU449	n	an	no	улице девушку	conservative
+RU2968	a	cds	no	напряжённый	conservative
+RU826	n	an	no	трепло	inclusive
+RU639	n	cds	no	хвастун	conservative
+RU213	n	cds	no	балда	inclusive
+RU2566	n	cds	no	коротышка	conservative
+RU203	n	ddp	yes	дебил	conservative
+RU183	n	re	no	Насилование	conservative
+RU490	n	dmc	yes	производитель	conservative
+RU3188	a	cds	no	фашистский	inclusive
+RU652	n	ddp	yes	ротозей	conservative
+RU1090	n	cds	no	самоуверенность	inclusive
+RU1426	n	cds	no	подстрекателя	conservative
+RU652	n	dmc	yes	ротозей	conservative
+RU788	n	cds	no	лентя́й	conservative
+RU209	n	asf	no	тупица	conservative
+RU145	n	an	no	anguilla	inclusive
+RU1446	n	ps	yes	простак	conservative
+RU293	n	qas	no	Тестикулы	inclusive
+RU466	n	cds	no	фата	inclusive
+RU409	n	pr	no	шлюха	conservative
+RU2257	n	is	yes	нищих	inclusive
+RU1502	n	cds	no	низкопробный приключенческий роман в дешевом издании	inclusive
+RU211	n	qas	no	бестолочь	conservative
+RU1763	n	dmc	yes	вонь	conservative
+RU2972	v	an	no	свирепствовать	conservative
+RU2577	n	cds	no	papparazzi	inclusive
+RU3383	n	re	no	пытать	inclusive
+RU1693	n	dmc	yes	зло	inclusive
+RU1845	n	re	no	бешенство	inclusive
+RU895	n	asm	no	Идиотия	inclusive
+RU1747	n	cds	no	нацист	conservative
+RU2682	n	ps	yes	метисы	conservative
+RU196	n	or	no	репа	inclusive
+RU2575	n	om	no	Педерастия	inclusive
+RU3258	n	an	no	canis золотистый	inclusive
+RU1795	n	cds	no	шут	inclusive
+RU494	a	ddp	yes	бессмысленный	conservative
+RU983	n	cds	no	племен	inclusive
+RU774	n	cds	no	дрянь	conservative
+RU1213	n	cds	no	бздун	conservative
+RU213	n	asm	no	балда	conservative
+RU866	n	cds	no	Нелегальный игорный бизнес	inclusive
+RU596	n	cds	no	mother fucker	conservative
+RU1747	n	ps	yes	нацист	inclusive
+RU1857	n	dmc	yes	брато́к	inclusive
+RU907	n	ddp	yes	Идиотизм	inclusive
+RU3446	n	an	no	Кайманы	inclusive
+RU2214	n	re	no	баловни́к	inclusive
+RU2175	n	cds	no	Крунер	inclusive
+RU291	n	qas	no	яйца	inclusive
+RU2330	n	cds	no	Лжец	inclusive
+RU206	n	an	no	дурачина	conservative
+RU509	n	qas	no	шайка	inclusive
+RU2325	n	qas	no	Самооговор	conservative
+RU267	n	rci	yes	скряга	conservative
+RU1194	n	om	no	homophile	conservative
+RU1478	n	re	no	преступной деятельности	inclusive
+RU2139	n	qas	no	маляр	inclusive
+RU2253	n	ddp	yes	вздор	conservative
+RU118	n	qas	no	мешанина	inclusive
+RU1656	n	re	no	преступлений	inclusive
+RU3539	n	an	no	limacidae	inclusive
+RU337	n	ddp	yes	жестокость	inclusive
+RU1382	n	or	no	писька	conservative
+RU293	n	asm	no	Тестикулы	inclusive
+RU3029	n	cds	no	дрочка	conservative
+RU1498	n	an	no	дидли-дерьмо	conservative
+RU1066	n	asm	no	пи́ська	conservative
+RU1507	n	cds	no	Латентная преступность	inclusive
+RU128	n	an	no	folderol	conservative
+RU2211	n	cds	no	дьяволёнок	conservative
+RU215	n	or	no	простофиля	conservative
+RU372	n	pa	yes	юри́стка	inclusive
+RU1312	n	ddp	yes	Синдром врожденной йодной недостаточности	inclusive
+RU3112	a	ddf	yes	хромать	inclusive
+RU515	n	cds	no	мошенник	conservative
+RU2711	n	an	no	овечьи	inclusive
+RU318	n	ddp	yes	варвар	conservative
+RU1446	n	ddp	yes	простак	conservative
+RU829	n	cds	no	клика	inclusive
+RU1214	n	an	no	боягу́зка	conservative
+RU102	n	qas	no	Табиуны	inclusive
+RU1949	n	an	no	Козьи	inclusive
+RU382	n	qas	no	Барон	inclusive
+RU445	n	an	no	альфо́нс	conservative
+RU3497	v	asm	no	вы́ебнуться	inclusive
+RU2509	n	svp	no	Разврат	inclusive
+RU2614	n	an	no	попугаев	inclusive
+RU2888	n	cds	no	Ростовщик	conservative
+RU899	n	asm	no	перевертыши	inclusive
+RU256	n	svp	no	avaritia	inclusive
+RU62	n	ddp	yes	Умственная неполноценность	inclusive
+RU3328	n	an	no	Иванова муха	inclusive
+RU273	n	an	no	скря́га	conservative
+RU3410	n	om	no	переодеваться	inclusive
+RU3032	n	asm	no	дрочение	conservative
+RU606	n	re	no	рэкет	conservative
+RU3154	n	re	no	Грабёж	inclusive
+RU300	n	ddp	yes	ерунда	conservative
+RU2430	n	cds	no	Санитарный узел	inclusive
+RU3477	n	om	no	травести	inclusive
+RU3375	n	asm	no	Фалл	inclusive
+RU2734	n	cds	no	мистификатора	conservative
+RU209	n	asm	no	тупица	conservative
+RU1170	n	om	no	Квир	conservative
+RU465	n	cds	no	чувак	inclusive
+RU2844	n	re	no	Убийства	inclusive
+RU318	n	ps	yes	варвар	conservative
+RU2452	n	svp	no	уклоняющийся от работы человек	conservative
+RU445	n	cds	no	альфо́нс	inclusive
+RU490	n	cds	no	производитель	conservative
+RU2942	n	qas	no	смутьян	conservative
+RU1311	n	ddp	yes	кретинизм	inclusive
+RU1178	n	or	no	пи́дор	conservative
+RU2362	n	an	no	насекомо́е	inclusive
+RU2860	n	re	no	slayer	inclusive
+RU2690	n	an	no	акула	inclusive
+RU1088	n	cds	no	благодушие	inclusive
+RU2051	n	pr	no	распутство	conservative
+RU3416	n	om	no	пересекают соусом	inclusive
+RU210	n	asf	no	глупец	conservative
+RU754	n	svp	no	хвастливость	conservative
+RU2522	n	cds	no	полицейская	inclusive
+RU2538	n	cds	no	Коза Ностра	inclusive
+RU2983	n	cds	no	слухи	inclusive
+RU2038	n	cds	no	угон	inclusive
+RU2541	n	cds	no	Чешская "Маффия"	inclusive
+RU2535	n	cds	no	мафия	inclusive
+RU2235	n	ddf	yes	инвалидов	inclusive
+RU456	n	dmc	yes	враньё	inclusive
+RU827	n	cds	no	внутренний круг	inclusive
+RU1866	n	cds	no	Фашисты	conservative
+RU214	n	ddp	yes	валять дурака	conservative
+RU424	n	pr	no	слабый	conservative
+RU1770	n	asm	no	pterygiophore	inclusive
+RU2062	n	pr	no	проституток	conservative
+RU396	n	ddp	yes	лох	conservative
+RU412	n	pr	no	куртизанка	inclusive
+RU2545	n	cds	no	Коза ностра	conservative
+RU511	n	re	no	подлец	conservative
+RU533	n	ddp	yes	предательский	conservative
+RU2454	n	an	no	Моллюски	inclusive
+RU1531	n	svp	no	неприятные	inclusive
+RU2100	n	ps	yes	Иудаисты	inclusive
+RU743	n	qas	no	Среднее сословие	inclusive
+RU2535	n	re	no	мафия	conservative
+RU266	n	an	no	скупец	conservative
+RU1517	n	ps	yes	немчура́	conservative
+RU2099	n	ps	yes	иудаизм	inclusive
+RU2242	n	ddp	yes	сра́ка	conservative
+RU673	n	svp	no	скуки	inclusive
+RU803	n	dmc	yes	трагическим злодеем	conservative
+RU1568	n	om	no	жопа	inclusive
+RU884	n	cds	no	недотёпа	conservative
+RU3417	n	om	no	Трансвестизм	inclusive
+RU1337	n	ddf	yes	горбач	inclusive
+RU460	n	cds	no	ложности	inclusive
+RU3055	a	dmc	yes	поддельный	conservative
+RU170	n	ddp	yes	epifaunal	inclusive
+RU1834	n	cds	no	фундаменталисты	inclusive
+RU517	n	an	no	негодяй	conservative
+RU2679	n	ps	yes	человек смешанной расы	conservative
+RU243	n	an	no	иша́к	inclusive
+RU520	n	re	no	была закона	inclusive
+RU2195	n	cds	no	Идолопоклонник	inclusive
+RU2420	n	or	no	meticulosity	inclusive
+RU2203	n	cds	no	чертёнок	conservative
+RU3328	n	pr	no	Иванова муха	inclusive
+RU2354	n	cds	no	ростовщик	inclusive
+RU1520	n	cds	no	grunge	inclusive
+RU1453	n	re	no	грабитель	inclusive
+RU2445	n	cds	no	уборная	inclusive
+RU2579	n	cds	no	Папарацци	inclusive
+RU28	n	qas	no	Аколуфы	inclusive
+RU3252	n	an	no	шакала	inclusive
+RU501	n	cds	no	уличных банд	conservative
+RU532	n	cds	no	болтун	conservative
+RU796	n	an	no	чернь	conservative
+RU89	n	om	no	содомия	inclusive
+RU431	n	asf	no	девка	conservative
+RU898	n	asm	no	слабоумный	inclusive
+RU1634	n	ddf	yes	папиз	conservative
+RU1833	n	cds	no	фундаментализма	inclusive
+RU594	n	cds	no	залупа	conservative
+RU420	n	pr	no	блудница	conservative
+RU3497	v	asm	no	вы́ебнуться	conservative
+RU1307	n	an	no	фи́лин	inclusive
+RU1210	n	an	no	му-корова	inclusive
+RU1669	n	an	no	улиток	inclusive
+RU68	n	ddp	yes	Умственно отсталый	inclusive
+RU3131	n	pa	yes	бухгалтер	inclusive
+RU773	n	an	no	отщепенец	conservative
+RU2737	n	an	no	улитка	inclusive
+RU3452	n	an	no	Литературная мистификация	conservative
+RU514	n	an	no	изгоев	conservative
+RU1235	n	cds	no	отходы	inclusive
+RU1818	n	cds	no	бесплатно mason	inclusive
+RU3327	n	an	no	Иванов червячок	inclusive
+RU765	n	svp	no	самонадеянность	conservative
+RU532	n	ddp	yes	болтун	conservative
+RU805	n	is	yes	Злодей	conservative
+RU1314	n	cds	no	рывок-офф	conservative
+RU218	n	cds	no	придурок	inclusive
+RU2911	n	an	no	червяк	inclusive
+RU2103	n	ps	yes	еврейской религии	inclusive
+RU1987	v	asm	no	тра́хнуть	conservative
+RU194	n	an	no	башка	conservative
+RU75	n	pa	yes	академизма	inclusive
+RU497	n	cds	no	Ханжа	conservative
+RU2417	n	ps	yes	Метойки	inclusive
+RU2978	v	cds	no	царапать	inclusive
+RU2499	n	cds	no	ботан	conservative
+RU1209	n	dmc	yes	предатель	conservative
+RU2621	a	dmc	yes	порочный	conservative
+RU3137	n	or	no	brassica рапа	inclusive
+RU3431	n	asm	no	avafauna	inclusive
+RU3046	n	re	no	Флибустьеры	inclusive
+RU2374	n	asm	no	темно-бордовый	inclusive
+RU632	n	qas	no	ляпсус	inclusive
+RU556	n	qas	no	магнат	inclusive
+RU1538	n	dmc	yes	Диссимуляция	conservative
+RU327	n	qas	no	мужик	conservative
+RU2288	n	cds	no	Учительница	inclusive
+RU2958	a	qas	no	мелодраматический	inclusive
+RU319	n	ddp	yes	варварским	conservative
+RU73	n	ddp	yes	Олигофрен	inclusive
+RU3559	n	an	no	athene noctua	inclusive
+RU223	n	or	no	болваном	conservative
+RU221	n	asf	no	говнюк	conservative
+RU523	n	cds	no	престу́пник	inclusive
+RU1572	n	om	no	вентральной	inclusive
+RU3075	n	an	no	овца́	conservative
+RU314	n	cds	no	бандитизм	inclusive
+RU2063	n	pr	no	джон	inclusive
+RU2016	n	an	no	Свинья домашняя	inclusive
+RU2028	n	an	no	кляча	inclusive
+RU54	n	cds	no	дилетантство	conservative
+RU6	n	svp	no	апатия	inclusive
+RU1861	n	cds	no	Фашист	conservative
+RU656	n	dmc	yes	путаник	conservative
+RU894	n	ps	yes	перевертыш	conservative
+RU1761	n	om	no	фенхель	inclusive
+RU324	n	ps	yes	дикарь	conservative
+RU3433	n	asm	no	птиц	inclusive
+RU1264	n	an	no	кровать ошибок	inclusive
+RU3091	a	ddf	yes	слепой	inclusive
+RU999	n	cds	no	кланов	inclusive
+RU1535	n	svp	no	Неприятие	inclusive
+RU201	n	om	no	осёл	inclusive
+RU177	n	re	no	хула	inclusive
+RU2545	n	cds	no	Коза ностра	inclusive
+RU2636	n	cds	no	интриган	inclusive
+RU307	a	svp	no	жа́дный	inclusive
+RU574	n	cds	no	дворняга	inclusive
+RU217	n	an	no	дура	conservative
+RU3224	n	cds	no	сноб	conservative
+RU2130	n	cds	no	первосвященник	inclusive
+RU3564	n	ps	yes	народа зулу	inclusive
+RU2600	n	qas	no	Приход	inclusive
+RU212	n	ddp	yes	олух	conservative
+RU1138	n	svp	no	вожделение	inclusive
+RU655	n	dmc	yes	неумеха	conservative
+RU2594	n	qas	no	Паразит	inclusive
+RU2986	n	cds	no	нытик	conservative
+RU1593	n	re	no	ше́льма	inclusive
+RU322	n	pa	yes	Варвары	conservative
+RU222	n	ddp	yes	fuckhead	conservative
+RU1952	n	dmc	yes	горе-ноль	conservative
+RU799	n	qas	no	сброд	inclusive
+RU2877	n	dmc	yes	Гомункулус	inclusive
+RU1755	n	re	no	вымогать	inclusive
+RU589	n	cds	no	ублюдок	conservative
+RU3152	n	re	no	грабежей	inclusive
+RU457	n	cds	no	неправда	conservative
+RU1193	n	om	no	лесбия́нка	inclusive
+RU3365	n	cds	no	trasformismo	inclusive
+RU87	n	om	no	Содомский грех	inclusive
+RU2411	n	cds	no	домушница	inclusive
+RU226	n	an	no	незнайка	conservative
+RU2991	a	qas	no	привыкший	inclusive
+RU1830	n	an	no	нахмуренность	inclusive
+RU1339	n	ddf	yes	горбатый	inclusive
+RU207	n	an	no	дуралей	conservative
+RU2163	n	cds	no	высокомерия	inclusive
+RU3254	n	an	no	canis aureus	inclusive
+RU2129	n	cds	no	массы	inclusive
+RU329	n	rci	yes	деревенщина	conservative
+RU2039	n	re	no	хищение	inclusive
+RU1258	n	an	no	клоп	inclusive
+RU3051	a	cds	no	бана́льный	inclusive
+RU2025	a	cds	no	пронырливый	conservative
+RU3064	n	an	no	poulet	inclusive
+RU3239	n	an	no	blattodea	inclusive
+RU376	n	an	no	песик	inclusive
+RU782	n	qas	no	бродяга	conservative
+RU2677	n	ps	yes	метис	conservative
+RU1436	n	pr	no	Куртизанка	inclusive
+RU2212	n	re	no	него́дник	inclusive
+RU3382	n	re	no	мука	inclusive
+RU1729	n	cds	no	сутенёр	conservative
+RU1930	n	cds	no	зевака	conservative
+RU2241	n	ddp	yes	жо́па	conservative
+RU3052	a	cds	no	зата́сканный	inclusive
+RU560	n	dmc	yes	негодяйка	conservative
+RU540	n	cds	no	хулиганство	conservative
+RU398	n	ddp	yes	мягкая на ощупь	conservative
+RU2573	n	om	no	pederastic	inclusive
+RU1270	n	cds	no	красно-бурый цвет	conservative
+RU459	n	qas	no	ложь	conservative
+RU2448	n	cds	no	lav	inclusive
+RU3244	n	an	no	blattoidea	inclusive
+RU861	n	an	no	-людоеда акул	inclusive
+RU899	n	cds	no	перевертыши	inclusive
+RU2053	n	pr	no	Кокотка	inclusive
+RU1622	n	cds	no	slews	inclusive
+RU1102	n	pa	yes	профессор	inclusive
+RU1190	n	or	no	ле́сби	conservative
+RU670	n	ddp	yes	свирепость	conservative
+RU2213	n	cds	no	пострелёнок	inclusive
+RU328	n	dmc	yes	мужлан	conservative
+RU1247	n	cds	no	Металлический лом	inclusive
+RU1093	n	qas	no	каст	inclusive
+RU1283	n	ddp	yes	безрассудство	conservative
+RU1753	n	cds	no	быстрая	inclusive
+RU204	n	asm	no	идиотка	inclusive
+RU906	n	ddp	yes	отморо́зок	inclusive
+RU450	n	an	no	мужской эскорт	conservative
+RU1168	n	om	no	poove	conservative
+RU1963	n	cds	no	Реакционность	conservative
+RU1938	n	cds	no	шпионить	conservative
+RU3503	n	pr	no	придворных	inclusive
+RU3125	n	pa	yes	счетово́д	inclusive
+RU1610	n	pa	yes	привратник	inclusive
+RU329	n	dmc	yes	деревенщина	conservative
+RU1247	n	qas	no	Металлический лом	inclusive
+RU219	n	ps	yes	идиот	conservative
+RU219	n	asm	no	идиот	inclusive
+RU1935	n	cds	no	сыщик	conservative
+RU1653	n	re	no	осужденным преступником	inclusive
+RU1679	n	dmc	yes	морали	inclusive
+RU762	n	cds	no	conceitedness	conservative
+RU524	n	cds	no	бандиты	inclusive
+RU1646	n	dmc	yes	Квазиделикт	inclusive
+RU905	n	asf	no	чайник	conservative
+RU1353	n	cds	no	межродовых гибридные	inclusive
+RU215	n	an	no	простофиля	conservative
+RU2027	a	cds	no	хитрый	conservative
+RU2411	n	re	no	домушница	inclusive
+RU646	n	dmc	yes	фарисей	conservative
+RU613	n	pa	yes	директора похоронного бюро	inclusive
+RU803	n	an	no	трагическим злодеем	conservative
+RU3415	n	om	no	крест соусом	inclusive
+RU1073	n	cds	no	проблемой	conservative
+RU3142	n	re	no	Похищение человека	inclusive
+RU1030	n	an	no	Козлы	inclusive
+RU527	n	cds	no	злоумышленник	inclusive
+RU2520	n	cds	no	мент	conservative
+RU1955	n	dmc	yes	никудышный	conservative
+RU337	n	an	no	жестокость	conservative
+RU204	n	ps	yes	идиотка	conservative
+RU1240	n	qas	no	скрап	inclusive
+RU2736	n	an	no	мягкотелый	inclusive
+RU2166	n	cds	no	суетиться	conservative
+RU2689	n	an	no	акулы	inclusive
+RU266	n	is	yes	скупец	conservative
+RU143	n	an	no	anguillidae	inclusive
+RU1555	n	om	no	Анатомические термины	inclusive
+RU2322	n	svp	no	лентяйка	conservative
+RU872	n	is	yes	неприкасаемый	inclusive
+RU1643	n	cds	no	педагог	inclusive
+RU2704	n	ddp	yes	Микроцефал	inclusive
+RU329	n	cds	no	деревенщина	conservative
+RU206	n	cds	no	дурачина	conservative
+RU2762	n	cds	no	самовлюбленный	inclusive
+RU2907	n	dmc	yes	веселый андрей	inclusive
+RU2209	n	dmc	yes	шалу́нья	inclusive
+RU3301	n	cds	no	зубрить	conservative
+RU1189	n	om	no	гей	inclusive
+RU1489	n	an	no	му́сор	conservative
+RU3334	n	re	no	Совращение несовершеннолетних	inclusive
+RU3492	n	an	no	опарыш	inclusive
+RU2129	n	cds	no	массы	conservative
+RU2903	n	dmc	yes	Клоунесса	inclusive
+RU776	n	cds	no	пакостник	conservative
+RU3464	n	cds	no	Конспирологическая теория	inclusive
+RU234	n	an	no	ослов	inclusive
+RU1592	n	cds	no	хитре́ц	conservative
+RU67	n	ddp	yes	умственно отсталых	inclusive
+RU3380	n	re	no	страдание	inclusive
+RU2675	n	cds	no	сточных вод	inclusive
+RU2488	n	dmc	yes	моцаре́лла	inclusive
+RU727	n	an	no	буйвол	inclusive
+RU737	n	qas	no	среднего класса	inclusive
+RU1100	n	qas	no	кастовость	inclusive
+RU454	n	dmc	yes	обман	conservative
+RU329	n	ddp	yes	деревенщина	conservative
+RU168	n	an	no	инфауны	inclusive
+RU1369	n	cds	no	паренек	inclusive
+RU903	n	asf	no	Дебильность	conservative
+RU330	n	qas	no	варварка	conservative
+RU3434	n	cds	no	Ливневка	inclusive
+RU2368	n	cds	no	sassing	inclusive
+RU396	n	asm	no	лох	conservative
+RU1745	n	cds	no	фашистка	conservative
+RU2347	n	cds	no	ростовщиков	conservative
+RU1715	n	cds	no	родственники	inclusive
+RU2390	a	svp	no	возмущённый	conservative
+RU757	n	cds	no	надменность	conservative
+RU2442	n	cds	no	убо́рная	inclusive
+RU1223	v	cds	no	лепетать	inclusive
+RU3026	a	re	no	яростный	inclusive
+RU3448	n	qas	no	дайвинг система взвешивания	inclusive
+RU146	n	an	no	угорь	inclusive
+RU2602	n	qas	no	Пасторат	inclusive
+RU101	n	cds	no	лентяй	conservative
+RU1858	n	cds	no	гангстер	inclusive
+RU901	n	cds	no	кретин	inclusive
+RU1759	n	or	no	finocchio	inclusive
+RU421	n	pr	no	грязнуля	conservative
+RU1607	n	pa	yes	швейцар	inclusive
+RU2029	a	cds	no	смыслящий	inclusive
+RU3391	n	an	no	Наркокурьер	inclusive
+RU957	n	an	no	Пес	inclusive
+RU199	n	asf	no	betise	conservative
+RU690	n	an	no	Тёлка	inclusive
+RU534	n	ddp	yes	сплетник	conservative
+RU1621	n	cds	no	много	inclusive
+RU3243	n	an	no	blattaria	inclusive
+RU903	n	ps	yes	Дебильность	conservative
+RU2091	n	om	no	гомоэротические	inclusive
+RU3338	n	re	no	Развращение	inclusive
+RU1445	n	asf	no	Дурачок	conservative
+RU1881	n	asm	no	широкий фасоль	inclusive
+RU2546	n	re	no	Мафиози	conservative
+RU791	n	cds	no	лоботря́с	conservative
+RU2282	n	cds	no	показного	inclusive
+RU2204	n	cds	no	прока́зник	conservative
+RU791	n	dmc	yes	лоботря́с	conservative
+RU2171	n	an	no	Гиеновые	inclusive
+RU219	n	asm	no	идиот	conservative
+RU2938	v	re	no	надувать	inclusive
+RU537	n	cds	no	озорной	conservative
+RU938	n	re	no	каморра	inclusive
+RU327	n	ps	yes	мужик	conservative
+RU416	n	an	no	проститутка	conservative
+RU3173	n	cds	no	яблоко чистки	conservative
+RU46	n	pa	yes	научных кругов	inclusive
+RU1347	n	cds	no	гибрид	inclusive
+RU3283	n	ddp	yes	Фолли	inclusive
+RU2670	n	an	no	скорпион	inclusive
+RU1445	n	or	no	Дурачок	conservative
+RU2666	n	qas	no	красноба́йство	inclusive
+RU521	n	re	no	бандитов	inclusive
+RU3184	n	qas	no	грандиозность	inclusive
+RU973	n	om	no	педераст	conservative
+RU883	n	cds	no	слаба́к	conservative
+RU2892	n	ps	yes	Вандал	inclusive
+RU2781	n	ps	yes	африканского происхождения	inclusive
+RU3050	n	re	no	plagiarisation	inclusive
+RU1831	n	an	no	насупленные брови	inclusive
+RU765	n	cds	no	самонадеянность	conservative
+RU455	n	qas	no	непра́вда	conservative
+RU2948	n	or	no	картошка	inclusive
+RU647	n	cds	no	конформист	conservative
+RU2582	n	cds	no	бумага-толкатель	inclusive
+RU3403	n	an	no	Пяденица берёзовая	inclusive
+RU494	a	cds	no	бессмысленный	conservative
+RU2357	n	cds	no	процентщица	conservative
+RU1691	n	an	no	Гигантостраки	inclusive
+RU397	n	asf	no	фраер	conservative
+RU3240	n	an	no	таракан	inclusive
+RU2641	n	svp	no	гордость	inclusive
+RU411	n	pr	no	сводня	conservative
+RU1364	n	qas	no	Конформисты	inclusive
+RU3355	n	cds	no	молельня	inclusive
+RU113	n	qas	no	обрывки	inclusive
+RU329	n	qas	no	деревенщина	conservative
+RU1453	n	re	no	грабитель	conservative
+RU2070	n	pr	no	Сексуальные услуги	inclusive
+RU119	n	asm	no	придатков	inclusive
+RU1739	n	qas	no	землепашец	inclusive
+RU2643	n	cds	no	superbia	inclusive
+RU210	n	asm	no	глупец	inclusive
+RU766	n	cds	no	масса	inclusive
+RU2970	v	an	no	неистовствовать	conservative
+RU2274	n	ddp	yes	неосведомлённость	conservative
+RU1243	n	cds	no	мусора	conservative
+RU298	n	asm	no	яички	inclusive
+RU2327	n	qas	no	Обман	conservative
+RU543	n	ps	yes	Чёрный	inclusive
+RU40	n	cds	no	посредник	inclusive
+RU326	n	qas	no	грубый	conservative
+RU3387	n	re	no	истязание	inclusive
+RU595	n	ddp	yes	приду́рок	conservative
+RU1698	n	an	no	овца	inclusive
+RU667	n	ddp	yes	скотоложество	conservative
+RU1728	n	cds	no	сво́дник	inclusive
+RU1300	n	an	no	Совы	inclusive
+RU2897	n	pa	yes	возчик	inclusive
+RU1244	n	cds	no	отбросы	conservative
+RU897	n	asm	no	Уровень Луизы	inclusive
+RU2974	v	an	no	бушевать	conservative
+RU596	n	ddp	yes	mother fucker	conservative
+RU94	n	om	no	анального проникновения	inclusive
+RU3237	n	cds	no	приспешников	conservative
+RU2248	n	ddp	yes	бессмыслица	conservative
+RU512	n	cds	no	плут	inclusive
+RU1856	n	cds	no	обма́нщица	conservative
+RU638	n	cds	no	bragger	conservative
+RU1366	n	qas	no	Автоматический конформизм	inclusive
+RU1326	n	an	no	Крокодил	inclusive
+RU1948	n	an	no	caprinae	inclusive
+RU153	n	an	no	истинным угря	inclusive
+RU1250	n	cds	no	Лом цветных металлов	inclusive
+RU501	n	cds	no	уличных банд	inclusive
+RU182	n	re	no	диффамация	conservative
+RU2484	n	an	no	поморщившись	inclusive
+RU1002	n	cds	no	Те	inclusive
+RU1012	n	cds	no	Сяку	inclusive
+RU1446	n	asf	no	простак	conservative
+RU878	n	cds	no	отверженный	conservative
+RU2043	n	re	no	кража	inclusive
+RU2535	n	re	no	мафия	inclusive
+RU2350	n	cds	no	ростовщичество	inclusive
+RU797	n	cds	no	толпа	inclusive
+RU517	n	cds	no	негодяй	conservative
+RU774	n	dmc	yes	дрянь	inclusive
+RU526	n	re	no	преступный	inclusive
+RU498	n	dmc	yes	фанатичным	conservative
+RU292	n	asm	no	яйцо	inclusive
+RU875	n	is	yes	изгоем	inclusive
+RU189	n	cds	no	perspicaciousness	inclusive
+RU1762	n	or	no	фе́нхель	inclusive
+RU2391	n	svp	no	злость	inclusive
+RU436	n	pr	no	бабенка	conservative
+RU1323	n	an	no	crocodylia	inclusive
+RU3099	a	cds	no	канцелярский	inclusive
+RU923	n	re	no	злословие	inclusive
+RU252	n	an	no	жадность	conservative
+RU941	n	cds	no	defrauder	inclusive
+RU2405	n	cds	no	конокрад	inclusive
+RU1700	a	dmc	yes	беспринци́пный	conservative
+RU1766	n	dmc	yes	вонять	conservative
+RU59	n	ddp	yes	Нарушение умственного развития	inclusive
+RU1440	n	dmc	yes	бомж	inclusive
+RU1461	n	asm	no	doofus	conservative
+RU1177	n	om	no	Гомофильное движение	inclusive
+RU515	n	re	no	мошенник	inclusive
+RU2869	n	re	no	убой	inclusive
+RU1484	n	re	no	уголовным преступлением	inclusive
+RU3155	n	re	no	вооруженных ограблений	inclusive
+RU2934	v	cds	no	пожирать	inclusive
+RU3412	n	om	no	трансвестизм	inclusive
+RU822	a	ddf	yes	низкий	conservative
+RU218	n	ps	yes	придурок	conservative
+RU400	n	ddp	yes	пудинг головы	conservative
+RU2828	n	an	no	Чёрные казарки	inclusive
+RU2365	n	an	no	insecta	inclusive
+RU3146	n	re	no	Похищение людей	inclusive
+RU1216	n	an	no	трусом	conservative
+RU318	n	rci	yes	варвар	conservative
+RU456	n	qas	no	враньё	conservative
+RU1432	n	pr	no	Куртизанки	inclusive
+RU1261	n	an	no	cimex lectularius	inclusive
+RU2329	n	qas	no	Лгун	conservative
+RU670	n	an	no	свирепость	conservative
+RU451	n	pr	no	rentboy	conservative
+RU1811	n	cds	no	Масон	inclusive
+RU3528	n	dmc	yes	ренегат	conservative

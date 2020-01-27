@@ -1,0 +1,694 @@
+id	pos	category	stereotype	lemma	level
+SIMPLE508	n	cds	no	gossip simple	inclusive
+SIMPLE312	n	re	no	stealing simple	inclusive
+SIMPLE408	n	an	no	moths simple	inclusive
+SIMPLE370	n	cds	no	lie simple	conservative
+SIMPLE75	n	qas	no	testicular diseases simple	inclusive
+SIMPLE439	n	pr	no	rats simple	inclusive
+SIMPLE519	n	an	no	rooster simple	inclusive
+SIMPLE455	n	an	no	ovis aries simple	inclusive
+SIMPLE548	n	re	no	molested simple	inclusive
+SIMPLE51	n	an	no	animal characteristics simple	inclusive
+SIMPLE522	n	cds	no	infancy simple	inclusive
+SIMPLE21	n	asm	no	uniramous simple	inclusive
+SIMPLE494	n	ps	yes	vandals simple	inclusive
+SIMPLE140	n	pr	no	rattus norvegicus simple	inclusive
+SIMPLE224	n	or	no	cucumber simple	inclusive
+SIMPLE416	n	cds	no	cosa nostra simple	conservative
+SIMPLE280	n	cds	no	buffoon simple	inclusive
+SIMPLE211	n	cds	no	scrap simple	inclusive
+SIMPLE30	n	an	no	metazoan simple	inclusive
+SIMPLE372	n	qas	no	lying simple	conservative
+SIMPLE463	n	ps	yes	nigga simple	conservative
+SIMPLE585	n	an	no	adder simple	inclusive
+SIMPLE414	n	cds	no	mafia simple	inclusive
+SIMPLE479	n	re	no	murdered simple	inclusive
+SIMPLE371	n	cds	no	lies simple	inclusive
+SIMPLE79	n	asm	no	bollocks simple	inclusive
+SIMPLE531	n	an	no	toad simple	inclusive
+SIMPLE71	n	svp	no	greed (emotion) simple	inclusive
+SIMPLE115	n	cds	no	outlaw simple	inclusive
+SIMPLE132	n	pr	no	bull simple	inclusive
+SIMPLE349	n	an	no	crocuta simple	inclusive
+SIMPLE512	n	re	no	plagiarism simple	inclusive
+SIMPLE63	n	an	no	donkeys simple	inclusive
+SIMPLE35	n	an	no	fauna simple	inclusive
+SIMPLE247	n	asm	no	ithyphallic simple	inclusive
+SIMPLE79	n	qas	no	bollocks simple	inclusive
+SIMPLE82	n	asm	no	testicular simple	inclusive
+SIMPLE152	n	qas	no	business man simple	inclusive
+SIMPLE73	n	svp	no	greed simple	inclusive
+SIMPLE477	n	re	no	assassination simple	inclusive
+SIMPLE56	n	an	no	animalia kingdom simple	inclusive
+SIMPLE521	n	an	no	chicken simple	inclusive
+SIMPLE570	n	asm	no	chirp simple	inclusive
+SIMPLE221	n	an	no	crocodylidae simple	inclusive
+SIMPLE92	n	pa	yes	attorney simple	inclusive
+SIMPLE127	n	svp	no	boredom simple	inclusive
+SIMPLE254	n	asm	no	hardon simple	inclusive
+SIMPLE402	n	ps	yes	mongols simple	inclusive
+SIMPLE9	n	ddp	yes	retardation simple	inclusive
+SIMPLE290	n	re	no	gangster simple	inclusive
+SIMPLE444	n	cds	no	sewage simple	inclusive
+SIMPLE174	n	re	no	libel simple	inclusive
+SIMPLE416	n	re	no	cosa nostra simple	conservative
+SIMPLE170	n	asf	no	changeling simple	conservative
+SIMPLE229	n	pr	no	courtesan simple	inclusive
+SIMPLE106	n	ps	yes	bedu simple	inclusive
+SIMPLE559	n	asm	no	phallus simple	inclusive
+SIMPLE428	n	dmc	yes	evil simple	inclusive
+SIMPLE33	n	an	no	anamalia simple	inclusive
+SIMPLE342	n	an	no	hyaenidae simple	inclusive
+SIMPLE41	n	ddp	yes	lodderena nana pooki simple	inclusive
+SIMPLE421	n	qas	no	ectoparasite simple	inclusive
+SIMPLE492	n	dmc	yes	trickery simple	conservative
+SIMPLE249	n	asm	no	ithyphallus simple	inclusive
+SIMPLE237	n	om	no	butt simple	inclusive
+SIMPLE305	n	an	no	goat-antelopes simple	inclusive
+SIMPLE126	n	svp	no	boring simple	inclusive
+SIMPLE235	n	cds	no	grunge simple	inclusive
+SIMPLE209	n	om	no	twink simple	conservative
+SIMPLE407	n	an	no	moth simple	inclusive
+SIMPLE186	n	pa	yes	clerk simple	inclusive
+SIMPLE90	n	cds	no	barbarians simple	conservative
+SIMPLE138	n	ddp	yes	brain damage simple	inclusive
+SIMPLE169	n	ps	yes	idiot simple	conservative
+SIMPLE323	n	om	no	homosexual simple	inclusive
+SIMPLE161	n	cds	no	villain simple	conservative
+SIMPLE230	n	re	no	crimes simple	inclusive
+SIMPLE438	n	pr	no	rat simple	inclusive
+SIMPLE104	n	cds	no	dandyism simple	inclusive
+SIMPLE269	n	pr	no	mistress simple	conservative
+SIMPLE171	n	cds	no	idiots simple	inclusive
+SIMPLE343	n	an	no	hyaeninae simple	inclusive
+SIMPLE165	n	an	no	carcharodon carcharias simple	inclusive
+SIMPLE276	n	an	no	siphonaptera simple	inclusive
+SIMPLE475	n	an	no	gosling simple	inclusive
+SIMPLE30	n	ddp	yes	metazoan simple	inclusive
+SIMPLE222	n	cds	no	plant breeding simple	inclusive
+SIMPLE558	n	an	no	caimaninae simple	inclusive
+SIMPLE550	n	re	no	sexual abuse simple	inclusive
+SIMPLE49	n	ddp	yes	animalia 101 simple	inclusive
+SIMPLE359	n	ddf	yes	disability simple	inclusive
+SIMPLE482	n	re	no	assassin simple	inclusive
+SIMPLE220	n	an	no	crocodile simple	inclusive
+SIMPLE500	n	an	no	earthworm simple	inclusive
+SIMPLE277	n	cds	no	the fool (tarot card) simple	inclusive
+SIMPLE52	n	ddp	yes	animal phylogeny simple	inclusive
+SIMPLE88	n	asm	no	balls (slang) simple	inclusive
+SIMPLE489	n	re	no	slayer simple	inclusive
+SIMPLE297	n	asf	no	pubes simple	inclusive
+SIMPLE48	n	an	no	metazoon simple	inclusive
+SIMPLE316	n	pr	no	escort-girl simple	conservative
+SIMPLE355	n	ddf	yes	handicap simple	inclusive
+SIMPLE483	n	re	no	murder simple	inclusive
+SIMPLE123	n	pa	yes	funeral director simple	inclusive
+SIMPLE238	n	om	no	buttock simple	inclusive
+SIMPLE418	n	qas	no	parasitology simple	inclusive
+SIMPLE525	n	cds	no	newborn simple	inclusive
+SIMPLE412	n	cds	no	police officer simple	inclusive
+SIMPLE44	n	an	no	metazoans simple	inclusive
+SIMPLE260	n	dmc	yes	immorality simple	inclusive
+SIMPLE110	n	dmc	yes	bigotry simple	conservative
+SIMPLE322	n	pr	no	prostitute simple	inclusive
+SIMPLE328	n	ps	yes	judism simple	inclusive
+SIMPLE50	n	ddp	yes	animalia simple	inclusive
+SIMPLE543	n	ddp	yes	foolish simple	inclusive
+SIMPLE187	n	an	no	capra (genus) simple	inclusive
+SIMPLE110	n	svp	no	bigotry simple	conservative
+SIMPLE78	n	asm	no	testical simple	inclusive
+SIMPLE111	n	cds	no	gang simple	inclusive
+SIMPLE413	n	cds	no	police officers simple	inclusive
+SIMPLE284	n	cds	no	freemasons simple	inclusive
+SIMPLE320	n	pr	no	hooker simple	conservative
+SIMPLE583	n	re	no	violence simple	inclusive
+SIMPLE437	n	pr	no	rattus simple	inclusive
+SIMPLE258	n	dmc	yes	morality simple	inclusive
+SIMPLE363	n	ddp	yes	asshole simple	conservative
+SIMPLE545	n	qas	no	bloodhound simple	inclusive
+SIMPLE344	n	an	no	hyenas simple	inclusive
+SIMPLE270	n	qas	no	farmers simple	inclusive
+SIMPLE304	n	an	no	caprinae simple	inclusive
+SIMPLE130	n	pr	no	oxen simple	inclusive
+SIMPLE17	n	om	no	anal sex simple	inclusive
+SIMPLE472	n	qas	no	tenant farming simple	inclusive
+SIMPLE415	n	re	no	mafioso simple	inclusive
+SIMPLE24	n	an	no	elver simple	inclusive
+SIMPLE14	n	svp	no	sloth (deadly sin) simple	inclusive
+SIMPLE15	n	om	no	butt sex simple	inclusive
+SIMPLE319	n	pr	no	sex worker simple	inclusive
+SIMPLE87	n	qas	no	testis simple	inclusive
+SIMPLE212	n	cds	no	scrap metal simple	inclusive
+SIMPLE205	n	or	no	gay male simple	conservative
+SIMPLE538	n	an	no	canis aureus simple	inclusive
+SIMPLE207	n	om	no	gay simple	inclusive
+SIMPLE192	n	an	no	goat simple	inclusive
+SIMPLE390	n	ps	yes	metics simple	inclusive
+SIMPLE110	n	cds	no	bigotry simple	conservative
+SIMPLE66	n	an	no	donkey simple	inclusive
+SIMPLE90	n	dmc	yes	barbarians simple	conservative
+SIMPLE568	n	asm	no	avian simple	inclusive
+SIMPLE98	n	pa	yes	lawyers simple	inclusive
+SIMPLE36	n	an	no	nonhuman simple	inclusive
+SIMPLE370	n	cds	no	lie simple	inclusive
+SIMPLE118	n	an	no	bison simple	inclusive
+SIMPLE135	n	pr	no	cattle simple	inclusive
+SIMPLE97	n	pa	yes	advocate simple	inclusive
+SIMPLE204	n	om	no	bean queen simple	conservative
+SIMPLE467	n	ps	yes	nigger simple	conservative
+SIMPLE162	n	an	no	villains simple	conservative
+SIMPLE137	n	an	no	heifer simple	inclusive
+SIMPLE589	n	ps	yes	gipsy simple	inclusive
+SIMPLE122	n	re	no	blackmail simple	conservative
+SIMPLE3	n	pa	yes	academia simple	inclusive
+SIMPLE80	n	asm	no	testicular size simple	inclusive
+SIMPLE95	n	pa	yes	solicitor simple	inclusive
+SIMPLE518	n	an	no	chicken (food) simple	inclusive
+SIMPLE91	n	dmc	yes	barbarian simple	conservative
+SIMPLE372	n	cds	no	lying simple	inclusive
+SIMPLE77	n	qas	no	testes simple	inclusive
+SIMPLE171	n	asf	no	idiots simple	conservative
+SIMPLE291	n	cds	no	fascist simple	conservative
+SIMPLE584	n	pa	yes	employee simple	inclusive
+SIMPLE567	n	asm	no	bird simple	inclusive
+SIMPLE581	n	an	no	maggot simple	inclusive
+SIMPLE561	n	re	no	torture simple	inclusive
+SIMPLE361	n	ddf	yes	handicapped simple	inclusive
+SIMPLE32	n	ddp	yes	anumal simple	inclusive
+SIMPLE295	n	asf	no	pussy simple	conservative
+SIMPLE395	n	an	no	molluscs simple	inclusive
+SIMPLE86	n	asm	no	testicles simple	inclusive
+SIMPLE64	n	an	no	jackass simple	inclusive
+SIMPLE471	n	cds	no	hypersexuality simple	conservative
+SIMPLE590	n	ps	yes	roma (people) simple	inclusive
+SIMPLE370	n	qas	no	lie simple	conservative
+SIMPLE294	n	asf	no	vaginal simple	conservative
+SIMPLE300	n	an	no	caprid simple	inclusive
+SIMPLE362	n	ddf	yes	special needs simple	inclusive
+SIMPLE233	n	re	no	criminal simple	inclusive
+SIMPLE162	n	dmc	yes	villains simple	conservative
+SIMPLE170	n	ps	yes	changeling simple	conservative
+SIMPLE386	n	svp	no	wrath simple	inclusive
+SIMPLE422	n	qas	no	parasite simple	inclusive
+SIMPLE268	n	pr	no	mistress (lover) simple	conservative
+SIMPLE85	n	asm	no	testicular disorder simple	inclusive
+SIMPLE289	n	an	no	rage (emotion) simple	inclusive
+SIMPLE172	n	re	no	defamation simple	inclusive
+SIMPLE580	n	pa	yes	cobbler simple	inclusive
+SIMPLE277	n	dmc	yes	the fool (tarot card) simple	inclusive
+SIMPLE211	n	cds	no	scrap simple	conservative
+SIMPLE353	n	an	no	hyaena simple	inclusive
+SIMPLE367	n	cds	no	teachers simple	inclusive
+SIMPLE549	n	re	no	molestation simple	inclusive
+SIMPLE10	n	ddp	yes	mental deficiency simple	inclusive
+SIMPLE157	n	qas	no	bourgeois simple	inclusive
+SIMPLE257	n	qas	no	amateur simple	inclusive
+SIMPLE332	n	ps	yes	jewish simple	inclusive
+SIMPLE290	n	cds	no	gangster simple	inclusive
+SIMPLE473	n	an	no	goose simple	inclusive
+SIMPLE504	n	or	no	potatoe simple	inclusive
+SIMPLE290	n	dmc	yes	gangster simple	inclusive
+SIMPLE161	n	an	no	villain simple	conservative
+SIMPLE405	n	an	no	mosquitos simple	inclusive
+SIMPLE385	n	svp	no	anger simple	inclusive
+SIMPLE345	n	an	no	parahyaena brunnea simple	inclusive
+SIMPLE275	n	an	no	flea simple	inclusive
+SIMPLE547	n	re	no	indecently assaulted simple	inclusive
+SIMPLE44	n	ddp	yes	metazoans simple	inclusive
+SIMPLE109	n	an	no	beeves simple	inclusive
+SIMPLE310	n	an	no	sus (genus) simple	inclusive
+SIMPLE210	n	ddp	yes	quack simple	conservative
+SIMPLE225	n	or	no	cucumbers simple	inclusive
+SIMPLE325	n	om	no	homosexuality simple	inclusive
+SIMPLE156	n	qas	no	middle-class simple	inclusive
+SIMPLE91	n	pa	yes	barbarian simple	conservative
+SIMPLE163	n	cds	no	clique simple	inclusive
+SIMPLE461	n	an	no	snail simple	inclusive
+SIMPLE563	n	an	no	biston betularia simple	inclusive
+SIMPLE322	n	pr	no	prostitute simple	conservative
+SIMPLE400	n	ps	yes	mongol people simple	inclusive
+SIMPLE87	n	asm	no	testis simple	inclusive
+SIMPLE94	n	pa	yes	lawyer simple	inclusive
+SIMPLE495	n	an	no	vulture simple	inclusive
+SIMPLE396	n	an	no	mollusc simple	inclusive
+SIMPLE4	n	pa	yes	academic simple	inclusive
+SIMPLE59	n	ddp	yes	animal evolution simple	inclusive
+SIMPLE445	n	ps	yes	mestizo simple	conservative
+SIMPLE288	n	an	no	rage simple	inclusive
+SIMPLE117	n	an	no	buffalo simple	inclusive
+SIMPLE51	n	ddp	yes	animal characteristics simple	inclusive
+SIMPLE130	n	an	no	oxen simple	inclusive
+SIMPLE253	n	asm	no	erect simple	inclusive
+SIMPLE556	n	re	no	terrorists simple	conservative
+SIMPLE296	n	asf	no	vagina simple	conservative
+SIMPLE202	n	an	no	rabbits simple	inclusive
+SIMPLE171	n	ddp	yes	idiots simple	conservative
+SIMPLE75	n	asm	no	testicular diseases simple	inclusive
+SIMPLE480	n	re	no	murders simple	inclusive
+SIMPLE566	n	om	no	cross-dressing simple	inclusive
+SIMPLE219	n	an	no	crocodiles simple	inclusive
+SIMPLE509	n	an	no	lice simple	inclusive
+SIMPLE324	n	om	no	gay sex simple	inclusive
+SIMPLE76	n	asm	no	testicle simple	inclusive
+SIMPLE319	n	pr	no	sex worker simple	conservative
+SIMPLE481	n	re	no	assassinate simple	inclusive
+SIMPLE158	n	ps	yes	bulgarians simple	inclusive
+SIMPLE207	n	om	no	gay simple	conservative
+SIMPLE116	n	an	no	bisons simple	inclusive
+SIMPLE218	n	an	no	crocodilia simple	inclusive
+SIMPLE591	n	re	no	robber simple	inclusive
+SIMPLE301	n	an	no	goat antelope simple	inclusive
+SIMPLE231	n	re	no	crime simple	inclusive
+SIMPLE553	n	re	no	terrorist simple	inclusive
+SIMPLE380	n	asm	no	maroon (colour) simple	inclusive
+SIMPLE274	n	dmc	yes	forgery simple	inclusive
+SIMPLE415	n	cds	no	mafioso simple	inclusive
+SIMPLE70	n	svp	no	seven deadly sins simple	inclusive
+SIMPLE184	n	cds	no	clans simple	inclusive
+SIMPLE336	n	cds	no	herd simple	inclusive
+SIMPLE125	n	svp	no	bored simple	inclusive
+SIMPLE485	n	re	no	murderers simple	inclusive
+SIMPLE507	n	cds	no	bookworm (insect) simple	conservative
+SIMPLE282	n	cds	no	freemasonry simple	inclusive
+SIMPLE459	n	an	no	slug simple	inclusive
+SIMPLE487	n	re	no	assassinates simple	inclusive
+SIMPLE533	n	an	no	bufo simple	inclusive
+SIMPLE115	n	cds	no	outlaw simple	conservative
+SIMPLE307	n	an	no	hog simple	inclusive
+SIMPLE417	n	re	no	dah mob simple	inclusive
+SIMPLE39	n	an	no	creature simple	inclusive
+SIMPLE151	n	qas	no	businesswoman simple	inclusive
+SIMPLE389	n	ps	yes	metic simple	inclusive
+SIMPLE370	n	dmc	yes	lie simple	inclusive
+SIMPLE84	n	asm	no	teste simple	inclusive
+SIMPLE264	n	an	no	eurypterids simple	inclusive
+SIMPLE25	n	an	no	eel simple	inclusive
+SIMPLE182	n	an	no	a man's best friend simple	inclusive
+SIMPLE46	n	ddp	yes	animal phylum simple	inclusive
+SIMPLE454	n	an	no	lamb simple	inclusive
+SIMPLE57	n	an	no	metazoan evolution simple	inclusive
+SIMPLE50	n	an	no	animalia simple	inclusive
+SIMPLE582	n	re	no	violent simple	inclusive
+SIMPLE223	n	asf	no	cunt simple	conservative
+SIMPLE222	n	ps	yes	plant breeding simple	inclusive
+SIMPLE265	n	an	no	sea scorpion simple	inclusive
+SIMPLE563	n	pr	no	biston betularia simple	inclusive
+SIMPLE426	n	an	no	parrot simple	inclusive
+SIMPLE387	n	svp	no	angry simple	inclusive
+SIMPLE84	n	qas	no	teste simple	inclusive
+SIMPLE136	n	an	no	cow simple	inclusive
+SIMPLE243	n	asm	no	erections simple	inclusive
+SIMPLE45	n	ddp	yes	animal types simple	inclusive
+SIMPLE520	n	an	no	chicks simple	inclusive
+SIMPLE226	n	pr	no	concubine simple	inclusive
+SIMPLE450	n	an	no	microorganism simple	inclusive
+SIMPLE177	n	an	no	dog simple	inclusive
+SIMPLE458	n	pa	yes	shepherd simple	inclusive
+SIMPLE505	n	or	no	potato simple	inclusive
+SIMPLE313	n	cds	no	thief simple	inclusive
+SIMPLE262	n	dmc	yes	immoral simple	inclusive
+SIMPLE368	n	cds	no	teacher simple	inclusive
+SIMPLE536	n	an	no	blattaria simple	inclusive
+SIMPLE409	n	dmc	yes	mozzarella simple	inclusive
+SIMPLE227	n	pr	no	concubinage simple	inclusive
+SIMPLE195	n	pa	yes	professors simple	inclusive
+SIMPLE59	n	an	no	animal evolution simple	inclusive
+SIMPLE510	n	an	no	louse simple	inclusive
+SIMPLE272	n	or	no	fennel simple	inclusive
+SIMPLE78	n	qas	no	testical simple	inclusive
+SIMPLE452	n	an	no	micro-organism simple	inclusive
+SIMPLE90	n	qas	no	barbarians simple	conservative
+SIMPLE399	n	an	no	mollusk simple	inclusive
+SIMPLE424	n	qas	no	parish simple	inclusive
+SIMPLE212	n	qas	no	scrap metal simple	inclusive
+SIMPLE321	n	pr	no	prostitutes simple	conservative
+SIMPLE139	n	asm	no	brown simple	inclusive
+SIMPLE313	n	re	no	thief simple	inclusive
+SIMPLE191	n	an	no	capra hircus simple	inclusive
+SIMPLE211	n	qas	no	scrap simple	inclusive
+SIMPLE76	n	qas	no	testicle simple	inclusive
+SIMPLE457	n	an	no	sheep simple	inclusive
+SIMPLE183	n	cds	no	clan simple	inclusive
+SIMPLE28	n	an	no	kingdomanimalia simple	inclusive
+SIMPLE54	n	ddp	yes	animal kingdom simple	inclusive
+SIMPLE447	n	an	no	sharks simple	inclusive
+SIMPLE448	n	an	no	shark simple	inclusive
+SIMPLE36	n	ddp	yes	nonhuman simple	inclusive
+SIMPLE72	n	svp	no	greedy simple	inclusive
+SIMPLE314	n	re	no	steal simple	inclusive
+SIMPLE560	n	re	no	tortured simple	inclusive
+SIMPLE189	n	an	no	goats simple	inclusive
+SIMPLE200	n	an	no	rabbit simple	inclusive
+SIMPLE588	n	ps	yes	roma people simple	inclusive
+SIMPLE493	n	cds	no	usury simple	conservative
+SIMPLE41	n	an	no	lodderena nana pooki simple	inclusive
+SIMPLE246	n	asm	no	nocturnal penile tumescence simple	inclusive
+SIMPLE553	n	re	no	terrorist simple	conservative
+SIMPLE132	n	an	no	bull simple	inclusive
+SIMPLE376	n	an	no	insects simple	inclusive
+SIMPLE401	n	ps	yes	mongolian people simple	inclusive
+SIMPLE90	n	ps	yes	barbarians simple	conservative
+SIMPLE171	n	ps	yes	idiots simple	conservative
+SIMPLE556	n	re	no	terrorists simple	inclusive
+SIMPLE317	n	pr	no	whore simple	conservative
+SIMPLE16	n	om	no	anal fucking simple	inclusive
+SIMPLE169	n	asm	no	idiot simple	inclusive
+SIMPLE164	n	ddp	yes	prisoner simple	inclusive
+SIMPLE137	n	pr	no	heifer simple	inclusive
+SIMPLE42	n	ddp	yes	aminals simple	inclusive
+SIMPLE179	n	an	no	puppy simple	inclusive
+SIMPLE57	n	ddp	yes	metazoan evolution simple	inclusive
+SIMPLE232	n	cds	no	criminals simple	inclusive
+SIMPLE134	n	pr	no	cows simple	inclusive
+SIMPLE85	n	qas	no	testicular disorder simple	inclusive
+SIMPLE527	n	or	no	brassica rapa simple	inclusive
+SIMPLE216	n	an	no	strigiformes simple	inclusive
+SIMPLE375	n	cds	no	shylock simple	conservative
+SIMPLE335	n	ps	yes	jew simple	inclusive
+SIMPLE352	n	an	no	proteles cristatus simple	inclusive
+SIMPLE498	n	an	no	worm reproduction simple	inclusive
+SIMPLE446	n	an	no	selachimorpha simple	inclusive
+SIMPLE488	n	re	no	murderer simple	inclusive
+SIMPLE173	n	re	no	slander simple	inclusive
+SIMPLE2	n	cds	no	broker simple	inclusive
+SIMPLE154	n	qas	no	middle class simple	inclusive
+SIMPLE514	n	re	no	pirates simple	inclusive
+SIMPLE273	n	pa	yes	fishmonger simple	inclusive
+SIMPLE427	n	an	no	parrots simple	inclusive
+SIMPLE162	n	is	yes	villains simple	conservative
+SIMPLE55	n	an	no	animal simple	inclusive
+SIMPLE327	n	ps	yes	judeo simple	inclusive
+SIMPLE442	n	qas	no	rhetorical simple	inclusive
+SIMPLE103	n	cds	no	drying rack simple	inclusive
+SIMPLE198	n	or	no	cabbage simple	inclusive
+SIMPLE267	n	cds	no	pimp simple	inclusive
+SIMPLE204	n	or	no	bean queen simple	conservative
+SIMPLE308	n	an	no	pigs simple	inclusive
+SIMPLE114	n	cds	no	highwayman simple	conservative
+SIMPLE523	n	cds	no	baby simple	inclusive
+SIMPLE503	n	or	no	solanum tuberosum simple	inclusive
+SIMPLE468	n	ps	yes	negro simple	inclusive
+SIMPLE169	n	ddp	yes	idiot simple	conservative
+SIMPLE314	n	cds	no	steal simple	inclusive
+SIMPLE146	n	qas	no	peasant simple	inclusive
+SIMPLE119	n	ps	yes	black simple	inclusive
+SIMPLE465	n	ps	yes	niggar simple	conservative
+SIMPLE83	n	asm	no	testicals simple	inclusive
+SIMPLE256	n	asm	no	priapism simple	inclusive
+SIMPLE223	n	or	no	cunt simple	conservative
+SIMPLE298	n	asf	no	pubic hair simple	inclusive
+SIMPLE415	n	re	no	mafioso simple	conservative
+SIMPLE35	n	ddp	yes	fauna simple	inclusive
+SIMPLE80	n	qas	no	testicular size simple	inclusive
+SIMPLE19	n	om	no	buttsecks simple	inclusive
+SIMPLE81	n	qas	no	orchitic simple	inclusive
+SIMPLE417	n	cds	no	dah mob simple	inclusive
+SIMPLE251	n	asm	no	erection simple	inclusive
+SIMPLE511	n	an	no	phthiraptera simple	inclusive
+SIMPLE250	n	asm	no	erectile dysfunction simple	inclusive
+SIMPLE161	n	re	no	villain simple	conservative
+SIMPLE129	n	pr	no	ox simple	inclusive
+SIMPLE58	n	an	no	animal (metazoan) evolution simple	inclusive
+SIMPLE397	n	an	no	mollusks simple	inclusive
+SIMPLE46	n	an	no	animal phylum simple	inclusive
+SIMPLE61	n	re	no	rape simple	conservative
+SIMPLE406	n	an	no	mosquito simple	inclusive
+SIMPLE502	n	an	no	worms simple	inclusive
+SIMPLE379	n	asm	no	maroon (color) simple	inclusive
+SIMPLE443	n	qas	no	rhetoric simple	inclusive
+SIMPLE86	n	qas	no	testicles simple	inclusive
+SIMPLE244	n	asm	no	stiffy simple	inclusive
+SIMPLE535	n	an	no	leech simple	inclusive
+SIMPLE372	n	cds	no	lying simple	conservative
+SIMPLE69	n	an	no	wisent simple	inclusive
+SIMPLE88	n	qas	no	balls (slang) simple	inclusive
+SIMPLE153	n	qas	no	business person simple	inclusive
+SIMPLE207	n	or	no	gay simple	conservative
+SIMPLE526	n	cds	no	infant simple	inclusive
+SIMPLE366	n	cds	no	educator simple	inclusive
+SIMPLE65	n	an	no	she-donkey simple	inclusive
+SIMPLE115	n	dmc	yes	outlaw simple	inclusive
+SIMPLE82	n	qas	no	testicular simple	inclusive
+SIMPLE546	n	re	no	sexual assault simple	inclusive
+SIMPLE476	n	an	no	geese simple	inclusive
+SIMPLE81	n	asm	no	orchitic simple	inclusive
+SIMPLE544	n	ddp	yes	foolishness simple	inclusive
+SIMPLE134	n	an	no	cows simple	inclusive
+SIMPLE48	n	ddp	yes	metazoon simple	inclusive
+SIMPLE135	n	an	no	cattle simple	inclusive
+SIMPLE56	n	ddp	yes	animalia kingdom simple	inclusive
+SIMPLE320	n	pr	no	hooker simple	inclusive
+SIMPLE115	n	re	no	outlaw simple	inclusive
+SIMPLE91	n	ddp	yes	barbarian simple	conservative
+SIMPLE52	n	an	no	animal phylogeny simple	inclusive
+SIMPLE99	n	pa	yes	barrister simple	inclusive
+SIMPLE271	n	qas	no	farmer simple	inclusive
+SIMPLE453	n	an	no	microorganisms simple	inclusive
+SIMPLE170	n	ddp	yes	changeling simple	conservative
+SIMPLE22	n	asm	no	biramous simple	inclusive
+SIMPLE330	n	ps	yes	jewish religion simple	inclusive
+SIMPLE496	n	dmc	yes	clown simple	inclusive
+SIMPLE31	n	ddp	yes	metazoa simple	inclusive
+SIMPLE364	n	is	yes	poor simple	inclusive
+SIMPLE279	n	dmc	yes	jester simple	inclusive
+SIMPLE161	n	dmc	yes	villain simple	conservative
+SIMPLE147	n	qas	no	businessperson simple	inclusive
+SIMPLE414	n	re	no	mafia simple	conservative
+SIMPLE129	n	an	no	ox simple	inclusive
+SIMPLE542	n	ddp	yes	folly simple	inclusive
+SIMPLE577	n	cds	no	conspiracy theory simple	inclusive
+SIMPLE315	n	re	no	theft simple	inclusive
+SIMPLE303	n	an	no	caprids simple	inclusive
+SIMPLE350	n	an	no	aardwolf simple	inclusive
+SIMPLE185	n	cds	no	tribe simple	inclusive
+SIMPLE318	n	pr	no	prostitution simple	conservative
+SIMPLE159	n	dmc	yes	hobos simple	conservative
+SIMPLE54	n	an	no	animal kingdom simple	inclusive
+SIMPLE377	n	an	no	insecta simple	inclusive
+SIMPLE170	n	asm	no	changeling simple	inclusive
+SIMPLE49	n	an	no	animalia 101 simple	inclusive
+SIMPLE356	n	ddf	yes	impairment simple	inclusive
+SIMPLE528	n	re	no	kidnapping simple	inclusive
+SIMPLE91	n	qas	no	barbarian simple	conservative
+SIMPLE425	n	an	no	psittaciformes simple	inclusive
+SIMPLE233	n	cds	no	criminal simple	inclusive
+SIMPLE169	n	asf	no	idiot simple	conservative
+SIMPLE13	n	svp	no	acedia simple	inclusive
+SIMPLE205	n	om	no	gay male simple	inclusive
+SIMPLE20	n	om	no	buttsex simple	inclusive
+SIMPLE34	n	an	no	animals simple	inclusive
+SIMPLE43	n	an	no	maoricolpus roseus manukauensis simple	inclusive
+SIMPLE382	n	asm	no	dong simple	inclusive
+SIMPLE91	n	rci	yes	barbarian simple	conservative
+SIMPLE42	n	an	no	aminals simple	inclusive
+SIMPLE58	n	ddp	yes	animal (metazoan) evolution simple	inclusive
+SIMPLE228	n	pr	no	courtesans simple	inclusive
+SIMPLE434	n	svp	no	proud simple	inclusive
+SIMPLE537	n	an	no	cockroach simple	inclusive
+SIMPLE28	n	ddp	yes	kingdomanimalia simple	inclusive
+SIMPLE23	n	asm	no	appendage simple	inclusive
+SIMPLE26	n	an	no	anguilliformes simple	inclusive
+SIMPLE120	n	cds	no	mutt simple	inclusive
+SIMPLE541	n	an	no	jackal simple	inclusive
+SIMPLE162	n	cds	no	villains simple	conservative
+SIMPLE411	n	an	no	mules simple	inclusive
+SIMPLE311	n	an	no	piglet simple	inclusive
+SIMPLE419	n	qas	no	parasitic simple	inclusive
+SIMPLE413	n	cds	no	police officers simple	conservative
+SIMPLE234	n	cds	no	grunge music simple	inclusive
+SIMPLE369	n	svp	no	lust simple	inclusive
+SIMPLE460	n	an	no	snails simple	inclusive
+SIMPLE161	n	is	yes	villain simple	conservative
+SIMPLE381	n	asm	no	penis simple	inclusive
+SIMPLE60	n	re	no	rapist simple	conservative
+SIMPLE576	n	cds	no	robber barons simple	inclusive
+SIMPLE378	n	an	no	insect simple	inclusive
+SIMPLE90	n	pa	yes	barbarians simple	conservative
+SIMPLE591	n	cds	no	robber simple	inclusive
+SIMPLE283	n	cds	no	freemason simple	inclusive
+SIMPLE101	n	pr	no	slut simple	conservative
+SIMPLE329	n	ps	yes	judaism simple	inclusive
+SIMPLE491	n	dmc	yes	trick simple	conservative
+SIMPLE1	n	svp	no	apathy simple	inclusive
+SIMPLE124	n	pa	yes	undertaker simple	inclusive
+SIMPLE55	n	ddp	yes	animal simple	inclusive
+SIMPLE569	n	asm	no	birds simple	inclusive
+SIMPLE372	n	dmc	yes	lying simple	inclusive
+SIMPLE470	n	ps	yes	black people simple	inclusive
+SIMPLE554	n	re	no	terrorist movement simple	conservative
+SIMPLE484	n	re	no	assassinated simple	inclusive
+SIMPLE513	n	re	no	piracy simple	inclusive
+SIMPLE371	n	dmc	yes	lies simple	inclusive
+SIMPLE91	n	ps	yes	barbarian simple	conservative
+SIMPLE423	n	qas	no	parasitism simple	inclusive
+SIMPLE497	n	an	no	earthworms simple	inclusive
+SIMPLE105	n	cds	no	dandy simple	inclusive
+SIMPLE579	n	om	no	drag queen simple	inclusive
+SIMPLE462	n	pr	no	socialite simple	inclusive
+SIMPLE131	n	pr	no	steer simple	inclusive
+SIMPLE136	n	pr	no	cow simple	inclusive
+SIMPLE593	n	ps	yes	zulu simple	inclusive
+SIMPLE180	n	an	no	puppies simple	inclusive
+SIMPLE410	n	an	no	mule simple	inclusive
+SIMPLE565	n	om	no	crossdressing simple	inclusive
+SIMPLE388	n	svp	no	outrage simple	inclusive
+SIMPLE334	n	ps	yes	jewish people simple	inclusive
+SIMPLE464	n	ps	yes	niggers simple	conservative
+SIMPLE193	n	an	no	capra aegagrus hircus simple	inclusive
+SIMPLE201	n	an	no	bunnies simple	inclusive
+SIMPLE501	n	an	no	worm simple	inclusive
+SIMPLE239	n	om	no	buttocks simple	inclusive
+SIMPLE338	n	cds	no	arrogance simple	conservative
+SIMPLE331	n	ps	yes	judiasm simple	inclusive
+SIMPLE162	n	re	no	villains simple	conservative
+SIMPLE407	n	pr	no	moth simple	inclusive
+SIMPLE212	n	cds	no	scrap metal simple	conservative
+SIMPLE111	n	cds	no	gang simple	conservative
+SIMPLE31	n	an	no	metazoa simple	inclusive
+SIMPLE414	n	cds	no	mafia simple	conservative
+SIMPLE214	n	an	no	bedbug simple	inclusive
+SIMPLE337	n	svp	no	gluttony simple	inclusive
+SIMPLE555	n	re	no	terrorism simple	conservative
+SIMPLE529	n	re	no	robbery simple	inclusive
+SIMPLE412	n	cds	no	police officer simple	conservative
+SIMPLE252	n	asm	no	boner simple	inclusive
+SIMPLE167	n	cds	no	carrion simple	inclusive
+SIMPLE43	n	ddp	yes	maoricolpus roseus manukauensis simple	inclusive
+SIMPLE100	n	qas	no	baron simple	inclusive
+SIMPLE176	n	an	no	canis lupus familiaris simple	inclusive
+SIMPLE261	n	dmc	yes	moral simple	inclusive
+SIMPLE39	n	ddp	yes	creature simple	inclusive
+SIMPLE339	n	an	no	hyena simple	inclusive
+SIMPLE90	n	ddp	yes	barbarians simple	conservative
+SIMPLE315	n	cds	no	theft simple	inclusive
+SIMPLE552	n	re	no	indecent assault simple	inclusive
+SIMPLE557	n	an	no	caiman simple	inclusive
+SIMPLE490	n	re	no	slayer (band) simple	inclusive
+SIMPLE414	n	re	no	mafia simple	inclusive
+SIMPLE466	n	ps	yes	nig simple	conservative
+SIMPLE392	n	qas	no	mixture simple	inclusive
+SIMPLE93	n	pa	yes	attorney at law simple	inclusive
+SIMPLE592	n	ps	yes	zulu people simple	inclusive
+SIMPLE318	n	pr	no	prostitution simple	inclusive
+SIMPLE281	n	asm	no	foreskin simple	inclusive
+SIMPLE326	n	om	no	queer simple	inclusive
+SIMPLE33	n	ddp	yes	anamalia simple	inclusive
+SIMPLE148	n	qas	no	businessman simple	inclusive
+SIMPLE289	n	svp	no	rage (emotion) simple	conservative
+SIMPLE404	n	an	no	culicidae simple	inclusive
+SIMPLE416	n	cds	no	cosa nostra simple	inclusive
+SIMPLE170	n	ddp	yes	changeling simple	inclusive
+SIMPLE255	n	asm	no	hard-on simple	inclusive
+SIMPLE517	n	an	no	chickens simple	inclusive
+SIMPLE205	n	om	no	gay male simple	conservative
+SIMPLE5	n	ddp	yes	retarded simple	inclusive
+SIMPLE77	n	asm	no	testes simple	inclusive
+SIMPLE384	n	asm	no	penes simple	inclusive
+SIMPLE242	n	an	no	helix pomatia simple	inclusive
+SIMPLE240	n	om	no	bum simple	inclusive
+SIMPLE432	n	asm	no	pea simple	inclusive
+SIMPLE263	n	an	no	eurypterida simple	inclusive
+SIMPLE371	n	qas	no	lies simple	conservative
+SIMPLE34	n	ddp	yes	animals simple	inclusive
+SIMPLE7	n	ddp	yes	idiocy simple	inclusive
+SIMPLE449	n	an	no	microbe simple	inclusive
+SIMPLE506	n	or	no	potatoes simple	inclusive
+SIMPLE357	n	ddf	yes	disabled simple	inclusive
+SIMPLE231	n	cds	no	crime simple	inclusive
+SIMPLE160	n	dmc	yes	hobo simple	conservative
+SIMPLE360	n	ddf	yes	disabilities simple	inclusive
+SIMPLE340	n	an	no	hyaena brunnea simple	inclusive
+SIMPLE27	n	an	no	eels simple	inclusive
+SIMPLE365	n	is	yes	poverty simple	inclusive
+SIMPLE321	n	pr	no	prostitutes simple	inclusive
+SIMPLE312	n	cds	no	stealing simple	inclusive
+SIMPLE555	n	re	no	terrorism simple	inclusive
+SIMPLE213	n	an	no	bed bug simple	inclusive
+SIMPLE578	n	cds	no	conspiracy theories simple	inclusive
+SIMPLE408	n	pr	no	moths simple	inclusive
+SIMPLE285	n	cds	no	freemasonary simple	inclusive
+SIMPLE170	n	cds	no	changeling simple	inclusive
+SIMPLE91	n	cds	no	barbarian simple	conservative
+SIMPLE587	n	ps	yes	romanis simple	inclusive
+SIMPLE398	n	an	no	mollusca simple	inclusive
+SIMPLE441	n	cds	no	relic simple	inclusive
+SIMPLE215	n	an	no	owl simple	inclusive
+SIMPLE469	n	ps	yes	black (people) simple	inclusive
+SIMPLE299	n	an	no	goat antelopes simple	inclusive
+SIMPLE286	n	cds	no	fundamentalism simple	inclusive
+SIMPLE571	n	asm	no	aves simple	inclusive
+SIMPLE515	n	re	no	pirate simple	inclusive
+SIMPLE89	n	asm	no	testicular hormones simple	inclusive
+SIMPLE539	n	an	no	jackals simple	inclusive
+SIMPLE358	n	ddf	yes	quadriplegic simple	inclusive
+SIMPLE572	n	cds	no	sewer simple	inclusive
+SIMPLE534	n	an	no	hirudinea simple	inclusive
+SIMPLE169	n	cds	no	idiot simple	inclusive
+SIMPLE293	n	cds	no	fascism simple	conservative
+SIMPLE232	n	re	no	criminals simple	inclusive
+SIMPLE236	n	svp	no	disgust simple	inclusive
+SIMPLE168	n	cds	no	casino simple	inclusive
+SIMPLE194	n	qas	no	caste simple	inclusive
+SIMPLE18	n	om	no	sodomy simple	inclusive
+SIMPLE554	n	re	no	terrorist movement simple	inclusive
+SIMPLE333	n	ps	yes	jews simple	inclusive
+SIMPLE564	n	om	no	men dressed as women simple	inclusive
+SIMPLE288	n	svp	no	rage simple	conservative
+SIMPLE149	n	qas	no	business people simple	inclusive
+SIMPLE230	n	cds	no	crimes simple	inclusive
+SIMPLE375	n	cds	no	shylock simple	inclusive
+SIMPLE83	n	qas	no	testicals simple	inclusive
+SIMPLE267	n	cds	no	pimp simple	conservative
+SIMPLE278	n	dmc	yes	joker simple	inclusive
+SIMPLE150	n	qas	no	business woman simple	inclusive
+SIMPLE155	n	qas	no	bourgeoisie simple	inclusive
+SIMPLE530	n	an	no	anura simple	inclusive
+SIMPLE493	n	cds	no	usury simple	inclusive
+SIMPLE573	n	cds	no	sewage system simple	inclusive
+SIMPLE416	n	re	no	cosa nostra simple	inclusive
+SIMPLE280	n	dmc	yes	buffoon simple	inclusive
+SIMPLE486	n	re	no	homicide simple	inclusive
+SIMPLE90	n	rci	yes	barbarians simple	conservative
+SIMPLE266	n	an	no	eurypterid simple	inclusive
+SIMPLE440	n	cds	no	relics simple	inclusive
+SIMPLE278	n	cds	no	joker simple	inclusive
+SIMPLE259	n	dmc	yes	morals simple	inclusive
+SIMPLE317	n	pr	no	whore simple	inclusive
+SIMPLE171	n	ddp	yes	idiots simple	inclusive
+SIMPLE451	n	an	no	microbes simple	inclusive
+SIMPLE417	n	cds	no	dah mob simple	conservative
+SIMPLE586	n	an	no	vipera berus simple	inclusive
+SIMPLE420	n	qas	no	parasites simple	inclusive
+SIMPLE574	n	an	no	hoax simple	conservative
+SIMPLE199	n	an	no	bunny simple	inclusive
+SIMPLE272	n	om	no	fennel simple	inclusive
+SIMPLE197	n	or	no	brassica oleracea simple	inclusive
+SIMPLE431	n	asm	no	pisum sativum simple	inclusive
+SIMPLE171	n	asm	no	idiots simple	inclusive
+SIMPLE279	n	cds	no	jester simple	inclusive
+SIMPLE178	n	an	no	dogs simple	inclusive
+SIMPLE383	n	asm	no	schlong simple	inclusive
+SIMPLE74	n	cds	no	brothel simple	inclusive
+SIMPLE516	n	an	no	hen simple	inclusive
+SIMPLE89	n	qas	no	testicular hormones simple	inclusive
+SIMPLE524	n	cds	no	babies simple	inclusive
+SIMPLE316	n	pr	no	escort-girl simple	inclusive
+SIMPLE429	n	asm	no	peas simple	inclusive
+SIMPLE217	n	an	no	owls simple	inclusive
+SIMPLE371	n	cds	no	lies simple	conservative
+SIMPLE403	n	ps	yes	mongol simple	inclusive
+SIMPLE45	n	an	no	animal types simple	inclusive
+SIMPLE338	n	cds	no	arrogance simple	inclusive
+SIMPLE302	n	an	no	goat-antelope simple	inclusive
+SIMPLE203	n	pa	yes	corporal simple	inclusive
+SIMPLE306	n	an	no	pig simple	inclusive
+SIMPLE169	n	ddp	yes	idiot simple	inclusive
+SIMPLE417	n	re	no	dah mob simple	conservative
+SIMPLE107	n	ps	yes	bedouin simple	inclusive
+SIMPLE196	n	pa	yes	professor simple	inclusive
+SIMPLE433	n	svp	no	pride simple	inclusive
+SIMPLE131	n	an	no	steer simple	inclusive
+SIMPLE8	n	ddp	yes	retard simple	inclusive
+SIMPLE32	n	an	no	anumal simple	inclusive
+SIMPLE346	n	an	no	protelinae simple	inclusive
+SIMPLE415	n	cds	no	mafioso simple	conservative

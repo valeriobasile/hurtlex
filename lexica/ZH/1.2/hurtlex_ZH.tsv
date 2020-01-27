@@ -1,0 +1,4252 @@
+id	pos	category	stereotype	lemma	level
+ZH3216	a	qas	no	中世紀的	inclusive
+ZH929	n	an	no	俗气	conservative
+ZH392	n	an	no	男妓	conservative
+ZH987	n	or	no	高麗菜	inclusive
+ZH555	n	cds	no	私生子	inclusive
+ZH1314	n	cds	no	一分钱可怕	inclusive
+ZH1058	n	cds	no	闲话	inclusive
+ZH1512	n	dmc	yes	玩乐者	conservative
+ZH1439	n	re	no	违 法 行 为	inclusive
+ZH2621	n	re	no	恐 怖	inclusive
+ZH1953	n	cds	no	偶像崇拜	inclusive
+ZH200	n	re	no	姦污婦女	conservative
+ZH1547	n	cds	no	pandar	inclusive
+ZH2247	n	an	no	门软体动物	inclusive
+ZH2696	n	an	no	兀鷹	inclusive
+ZH3107	a	cds	no	法西斯主义+的	inclusive
+ZH186	n	ddp	yes	动物体	inclusive
+ZH2313	n	re	no	cosa的诺斯特拉	inclusive
+ZH462	n	re	no	流氓	inclusive
+ZH2993	a	pa	yes	学者气派+的	inclusive
+ZH1243	n	pr	no	偏房	inclusive
+ZH3084	n	cds	no	卑恭屈	conservative
+ZH334	n	qas	no	买卖约定者	inclusive
+ZH2572	n	ps	yes	刚果人种	inclusive
+ZH620	n	dmc	yes	笨拙的	conservative
+ZH3363	n	om	no	易服	inclusive
+ZH658	n	pr	no	褐家鼠	inclusive
+ZH596	n	cds	no	blooper	inclusive
+ZH1304	n	cds	no	罪	inclusive
+ZH2678	n	cds	no	高利貸	inclusive
+ZH1519	n	dmc	yes	花的	inclusive
+ZH236	n	an	no	白癡	conservative
+ZH3024	n	pa	yes	会计师	inclusive
+ZH2257	n	ps	yes	蒙古族	inclusive
+ZH208	n	re	no	騙姦	conservative
+ZH2083	n	dmc	yes	懒骨头	conservative
+ZH2091	n	cds	no	大话	conservative
+ZH638	n	an	no	母牛	inclusive
+ZH2547	n	re	no	盗贼	inclusive
+ZH2934	n	cds	no	宝宝	inclusive
+ZH1791	n	re	no	大盗窃	inclusive
+ZH1878	n	ps	yes	犹太教徒	inclusive
+ZH226	n	an	no	蠢人	conservative
+ZH2350	n	dmc	yes	chawbacon	conservative
+ZH229	n	dmc	yes	笨蛋	conservative
+ZH1369	n	om	no	纳茨	inclusive
+ZH1407	n	cds	no	圈套	inclusive
+ZH835	n	re	no	打手工作	inclusive
+ZH803	n	cds	no	賭廳	inclusive
+ZH1059	n	cds	no	造谣者	conservative
+ZH358	n	qas	no	女男爵	inclusive
+ZH1658	n	svp	no	疯狂	conservative
+ZH1244	n	pr	no	强力霉素	inclusive
+ZH2984	a	cds	no	办事员+的	inclusive
+ZH3202	n	an	no	犬小孢子菌金黄色葡萄球菌	inclusive
+ZH3503	n	ps	yes	祖魯	inclusive
+ZH2201	v	ddp	yes	使昏迷	conservative
+ZH2091	n	dmc	yes	大话	inclusive
+ZH1775	n	an	no	豚	inclusive
+ZH1829	n	pr	no	召妓	conservative
+ZH218	n	cds	no	perspicaciousness	inclusive
+ZH2376	a	dmc	yes	残暴+的	conservative
+ZH3180	n	cds	no	心 腹	conservative
+ZH2425	n	pa	yes	搬运工	inclusive
+ZH452	n	cds	no	独断论者	conservative
+ZH3290	a	dmc	yes	邋遢	conservative
+ZH2500	n	ddp	yes	microcephalic 的	inclusive
+ZH320	n	dmc	yes	莽汉	conservative
+ZH406	n	cds	no	谎言	conservative
+ZH2524	n	an	no	蛞蝓	inclusive
+ZH872	n	om	no	pederast	conservative
+ZH1706	n	an	no	新 纪 录 种	inclusive
+ZH1654	n	svp	no	愤怒	inclusive
+ZH1186	n	cds	no	新 秀	conservative
+ZH3093	a	dmc	yes	污秽	inclusive
+ZH2092	n	cds	no	說謊	conservative
+ZH734	n	re	no	反派	conservative
+ZH2589	n	pa	yes	起诉者	inclusive
+ZH1947	n	cds	no	民谣歌手	inclusive
+ZH3040	n	or	no	芸苔	inclusive
+ZH2082	n	dmc	yes	说谎者	inclusive
+ZH1559	n	qas	no	老農	inclusive
+ZH1309	n	an	no	diddly蹲	conservative
+ZH966	n	pa	yes	副教授	inclusive
+ZH1022	n	an	no	白兔	inclusive
+ZH1132	n	an	no	纵纹腹	inclusive
+ZH3365	n	om	no	变 装	inclusive
+ZH1236	n	cds	no	煽動	conservative
+ZH2747	v	re	no	诈取	inclusive
+ZH278	n	svp	no	守 财 奴	inclusive
+ZH20	a	svp	no	意志缺失+的	conservative
+ZH2483	n	an	no	鯊魚	inclusive
+ZH2542	n	pr	no	社 会 名 流	inclusive
+ZH461	n	dmc	yes	流 氓	conservative
+ZH1726	n	an	no	蚋	inclusive
+ZH2846	a	cds	no	平常+的	inclusive
+ZH2674	v	cds	no	偷听	inclusive
+ZH2400	n	asm	no	国豆	inclusive
+ZH1722	n	cds	no	多管闲事 - 帕克	conservative
+ZH736	n	is	yes	歹徒	conservative
+ZH2588	n	an	no	吸盘	inclusive
+ZH318	n	pa	yes	蛮族	conservative
+ZH2286	n	an	no	骡	inclusive
+ZH837	n	cds	no	厚脸皮	conservative
+ZH3168	n	an	no	蛭亞綱	inclusive
+ZH503	n	qas	no	企业的领导者	inclusive
+ZH253	n	an	no	equus africanus asinus	inclusive
+ZH106	n	om	no	虐肛	inclusive
+ZH3091	a	dmc	yes	脏	inclusive
+ZH3068	n	re	no	遇劫	inclusive
+ZH374	n	an	no	替死鬼	conservative
+ZH2553	n	ddf	yes	欠幅脉冲	conservative
+ZH2165	n	asm	no	阴茎	inclusive
+ZH2831	n	cds	no	传言	inclusive
+ZH1811	n	cds	no	偷竊	inclusive
+ZH804	n	dmc	yes	帕萊雅爾	inclusive
+ZH1810	n	re	no	怪盜	inclusive
+ZH1521	n	ddf	yes	残疾人	inclusive
+ZH2430	n	svp	no	pridefulness	inclusive
+ZH1210	n	cds	no	帮派	inclusive
+ZH2672	a	qas	no	普通+的	inclusive
+ZH1588	n	or	no	finocchio	inclusive
+ZH2026	a	ddp	yes	无知识+的	conservative
+ZH1241	n	pr	no	姨太	inclusive
+ZH246	n	ddp	yes	梼	conservative
+ZH333	n	qas	no	交易员	inclusive
+ZH906	n	an	no	udders	inclusive
+ZH817	n	ddp	yes	愚蠢	conservative
+ZH179	n	ddp	yes	animalia	inclusive
+ZH1200	n	or	no	青瓜	inclusive
+ZH288	n	cds	no	cathouse	inclusive
+ZH3233	a	cds	no	普 通	inclusive
+ZH1444	a	qas	no	使产生幻觉+的	inclusive
+ZH1612	n	cds	no	处于劣势	inclusive
+ZH3201	n	an	no	胡狼	inclusive
+ZH1725	n	cds	no	窥探者	conservative
+ZH2359	n	qas	no	堂区	inclusive
+ZH2316	n	cds	no	黑手黨	inclusive
+ZH1826	n	pr	no	卖淫	conservative
+ZH2804	n	or	no	洋芋头	inclusive
+ZH668	n	qas	no	农 民	inclusive
+ZH94	a	an	no	顽 固	inclusive
+ZH2814	n	cds	no	斯蒂克勒	conservative
+ZH1185	n	cds	no	新秀	conservative
+ZH2266	n	pr	no	衣蛾	inclusive
+ZH2805	n	or	no	薯仔	inclusive
+ZH1793	n	re	no	盗窃罪	inclusive
+ZH377	n	or	no	pillock	conservative
+ZH2895	a	svp	no	自大+的	conservative
+ZH2093	n	qas	no	謊言	conservative
+ZH2848	n	an	no	虱	inclusive
+ZH1	n	dmc	yes	谦卑	inclusive
+ZH2624	n	an	no	ixodoidea	inclusive
+ZH1044	n	or	no	gay	conservative
+ZH3002	a	re	no	暴力	conservative
+ZH1980	n	ddf	yes	傷殘人士	inclusive
+ZH1214	n	or	no	笋 瓜 ，	inclusive
+ZH329	n	qas	no	商	inclusive
+ZH671	n	pa	yes	农夫	inclusive
+ZH2067	n	om	no	lady	inclusive
+ZH2404	n	asm	no	青豆仁	inclusive
+ZH1836	n	pr	no	買春	conservative
+ZH2104	a	is	yes	悲哀+的	inclusive
+ZH2875	a	svp	no	生气	inclusive
+ZH1331	n	cds	no	垃圾摇滚	inclusive
+ZH898	n	pa	yes	店 员	inclusive
+ZH1353	n	om	no	背 外 侧	inclusive
+ZH595	n	qas	no	嘘 - 嘘	inclusive
+ZH1736	n	an	no	羊羔	inclusive
+ZH769	n	cds	no	集 团	inclusive
+ZH645	n	ddp	yes	脑损伤	inclusive
+ZH2725	n	qas	no	揩油	conservative
+ZH3056	n	re	no	行劫	inclusive
+ZH1260	n	pr	no	副妻	inclusive
+ZH3495	n	an	no	縱紋腹小鴞	inclusive
+ZH1661	n	dmc	yes	dallier	conservative
+ZH3189	n	an	no	蜚蠊	inclusive
+ZH1740	n	svp	no	没有帐号	conservative
+ZH1142	n	qas	no	船 员	inclusive
+ZH278	n	an	no	守 财 奴	conservative
+ZH2641	n	re	no	凶杀	inclusive
+ZH1541	n	cds	no	扯皮條	conservative
+ZH1689	n	asf	no	陰道口	conservative
+ZH1840	n	pr	no	性交易	inclusive
+ZH2273	n	dmc	yes	莫扎里拉	inclusive
+ZH2034	n	cds	no	pompousness	inclusive
+ZH548	n	cds	no	恶棍	conservative
+ZH991	n	or	no	卷 心 菜 ，	inclusive
+ZH1581	n	om	no	茴香	inclusive
+ZH233	n	or	no	傻子	conservative
+ZH1625	n	cds	no	弄人	inclusive
+ZH1036	n	or	no	拔头筹	conservative
+ZH2050	n	cds	no	垃圾邮件	inclusive
+ZH207	n	re	no	施暴	conservative
+ZH1103	n	an	no	hemipteron	inclusive
+ZH1585	n	or	no	foeniculum vulgare	inclusive
+ZH1742	n	svp	no	混日子过	conservative
+ZH559	n	cds	no	敲诈	inclusive
+ZH820	n	an	no	bitch	conservative
+ZH2005	n	is	yes	贫瘠	inclusive
+ZH2409	n	pa	yes	小农	inclusive
+ZH1457	n	asm	no	勃起的阴茎	inclusive
+ZH1284	n	ps	yes	uprooter	conservative
+ZH2159	n	asm	no	陽物	inclusive
+ZH618	n	dmc	yes	冒失鬼	conservative
+ZH1477	n	qas	no	素人	inclusive
+ZH55	n	pa	yes	专科院校的	inclusive
+ZH532	n	svp	no	饭桶	conservative
+ZH2188	n	svp	no	生氣	inclusive
+ZH2540	n	ps	yes	蒙古人种	conservative
+ZH294	n	cds	no	妓房	inclusive
+ZH1423	n	an	no	侏儒	conservative
+ZH2613	n	an	no	anserini	inclusive
+ZH2664	n	cds	no	人造人	inclusive
+ZH1983	n	ddp	yes	无能	conservative
+ZH3343	n	pa	yes	文職人員	inclusive
+ZH1609	n	cds	no	逆境	inclusive
+ZH437	n	cds	no	谎话	conservative
+ZH3395	n	asm	no	avafauna	inclusive
+ZH1043	n	or	no	男性同性恋	conservative
+ZH1173	n	ps	yes	杂交种	inclusive
+ZH236	n	asm	no	白癡	inclusive
+ZH3253	a	is	yes	贫乏	inclusive
+ZH608	n	cds	no	线射手	conservative
+ZH1436	n	cds	no	教育家	inclusive
+ZH1090	n	an	no	竊聽器	inclusive
+ZH1584	n	or	no	茴 香	inclusive
+ZH174	n	ddp	yes	动物界	inclusive
+ZH84	n	an	no	美國野牛	inclusive
+ZH848	n	re	no	卡莫拉	inclusive
+ZH2938	n	cds	no	幼儿	inclusive
+ZH3063	n	re	no	抢劫罪	inclusive
+ZH492	n	ps	yes	黒	inclusive
+ZH47	n	pa	yes	學術界	inclusive
+ZH3181	a	re	no	猛烈+的	conservative
+ZH3001	n	cds	no	protagonism	inclusive
+ZH2544	n	qas	no	精神领袖	inclusive
+ZH245	n	ddp	yes	lunkhead	conservative
+ZH857	n	an	no	乌合之众和短尾	conservative
+ZH1560	n	qas	no	莊稼人	inclusive
+ZH465	n	cds	no	罪犯	inclusive
+ZH1807	n	cds	no	赃物	inclusive
+ZH533	n	cds	no	可恶的家伙	conservative
+ZH745	n	is	yes	惡役	conservative
+ZH749	n	an	no	大惡人	conservative
+ZH2825	n	an	no	奸商	conservative
+ZH1550	n	pr	no	二奶	conservative
+ZH1542	n	cds	no	采 购	conservative
+ZH2331	n	an	no	公牛	inclusive
+ZH2443	n	cds	no	圣髑	inclusive
+ZH1768	n	an	no	gyps fulvus	inclusive
+ZH1231	n	cds	no	拙劣的画	inclusive
+ZH2459	n	an	no	海蝎	inclusive
+ZH223	n	an	no	betise	conservative
+ZH511	n	dmc	yes	浑蛋	conservative
+ZH1627	n	cds	no	小丑	inclusive
+ZH1738	n	an	no	羊亞科	inclusive
+ZH1509	n	an	no	面目	inclusive
+ZH1361	n	om	no	远 端	inclusive
+ZH1510	n	an	no	面	inclusive
+ZH2502	n	an	no	ovis orientalis aries	inclusive
+ZH112	n	svp	no	懒汉	conservative
+ZH2019	a	ddp	yes	无知的	conservative
+ZH1720	n	cds	no	爱管闲事	conservative
+ZH1753	v	asm	no	操	conservative
+ZH543	n	ddp	yes	孬种	conservative
+ZH768	n	an	no	鱼肚	inclusive
+ZH2408	n	rci	yes	佃农	inclusive
+ZH1162	n	ddf	yes	crookback	inclusive
+ZH3090	a	dmc	yes	肮脏+的	conservative
+ZH148	n	cds	no	团队	inclusive
+ZH3225	a	ddp	yes	呆滞+的	conservative
+ZH316	n	qas	no	蠻族	conservative
+ZH2319	n	ps	yes	东俄特人	inclusive
+ZH1074	n	ddp	yes	庸医	conservative
+ZH535	n	cds	no	母亲笨蛋	conservative
+ZH228	n	ddp	yes	傻瓜	conservative
+ZH3277	a	ddf	yes	难看+的	conservative
+ZH2975	a	ps	yes	中华	inclusive
+ZH3058	n	re	no	抢	inclusive
+ZH1578	n	cds	no	快一	conservative
+ZH1163	n	cds	no	杂种	inclusive
+ZH2374	a	dmc	yes	野蛮+的	conservative
+ZH1126	n	an	no	猫 头 鹰	inclusive
+ZH413	n	qas	no	混乱	inclusive
+ZH2343	n	cds	no	狗仔队	inclusive
+ZH2296	n	cds	no	nerd	conservative
+ZH813	n	ddp	yes	調換兒	inclusive
+ZH2665	n	cds	no	霍爾蒙克斯	inclusive
+ZH3258	a	is	yes	穷困+的	inclusive
+ZH733	n	svp	no	游手好闲的人	conservative
+ZH28	n	re	no	使用虐待	inclusive
+ZH2105	a	is	yes	伤悲	inclusive
+ZH1794	n	re	no	竊盜	inclusive
+ZH25	n	re	no	滥用	inclusive
+ZH396	n	pr	no	租 金 男 孩	conservative
+ZH451	n	svp	no	偏 执	conservative
+ZH3352	n	an	no	桦尺蠖	inclusive
+ZH2369	n	an	no	鹦形目	inclusive
+ZH931	n	asm	no	公雞	inclusive
+ZH434	n	an	no	菜牛	inclusive
+ZH1019	n	an	no	lepus	inclusive
+ZH3096	a	dmc	yes	腌臜	inclusive
+ZH1225	n	om	no	女爵士	inclusive
+ZH1614	n	an	no	蚤	inclusive
+ZH733	n	cds	no	游手好闲的人	conservative
+ZH1571	n	ps	yes	法西斯	inclusive
+ZH2127	n	an	no	䖵蟲	inclusive
+ZH2553	n	cds	no	欠幅脉冲	conservative
+ZH1290	n	re	no	兇犯	inclusive
+ZH2307	n	cds	no	警官	inclusive
+ZH456	n	cds	no	街 头 帮 派	inclusive
+ZH3028	n	pa	yes	控 制 器	inclusive
+ZH2867	a	an	no	生虱+的	inclusive
+ZH163	n	an	no	鳗形目	inclusive
+ZH2458	n	an	no	蝎子鱼	inclusive
+ZH119	n	cds	no	玩笑	inclusive
+ZH1460	n	asm	no	扯旗	inclusive
+ZH4	v	an	no	汪汪叫	inclusive
+ZH1574	n	ps	yes	法 西 斯	inclusive
+ZH2072	n	dmc	yes	冒名顶替者	conservative
+ZH3158	a	dmc	yes	恶劣+的	conservative
+ZH1662	n	dmc	yes	dillydallier	conservative
+ZH1113	n	an	no	补靴	conservative
+ZH1580	n	or	no	挑剔	inclusive
+ZH1167	n	ps	yes	自然杂交种	inclusive
+ZH2184	n	svp	no	愤	inclusive
+ZH2081	n	dmc	yes	prevaricator	inclusive
+ZH1938	n	an	no	土狼	inclusive
+ZH87	n	cds	no	自负	conservative
+ZH814	n	ps	yes	傻大個	conservative
+ZH2752	n	qas	no	连累	conservative
+ZH1951	n	asf	no	丫头	conservative
+ZH2317	n	re	no	黑手党	inclusive
+ZH2547	n	cds	no	盗贼	inclusive
+ZH406	n	dmc	yes	谎言	inclusive
+ZH3080	n	cds	no	fawner	conservative
+ZH1984	n	ddf	yes	殘疾人士	inclusive
+ZH1151	n	an	no	鱷	inclusive
+ZH545	n	ddp	yes	狗娘养的	conservative
+ZH1034	n	cds	no	记 者	inclusive
+ZH640	n	an	no	耕牛	inclusive
+ZH1395	n	pa	yes	搬 运 工	inclusive
+ZH2109	a	is	yes	伤心	inclusive
+ZH2784	v	cds	no	隕命	inclusive
+ZH2387	a	dmc	yes	极恶毒+的	conservative
+ZH3108	n	an	no	蛙类	inclusive
+ZH402	n	pr	no	流鶯	conservative
+ZH184	n	an	no	畜生	inclusive
+ZH1514	n	dmc	yes	放蕩主義	conservative
+ZH317	n	pa	yes	粗 暴 的 人 吧	conservative
+ZH1422	n	an	no	新疆沙冬青	conservative
+ZH1872	n	ps	yes	犹太教	inclusive
+ZH2375	a	dmc	yes	残忍+的	conservative
+ZH3264	n	an	no	隐患	conservative
+ZH1279	n	an	no	暴客	inclusive
+ZH1143	n	qas	no	全体机务人员	inclusive
+ZH1051	n	or	no	男同性恋	conservative
+ZH2899	a	cds	no	诡计多端+的	inclusive
+ZH10	n	svp	no	懒惰	conservative
+ZH1549	n	cds	no	老 鸨	conservative
+ZH1408	n	cds	no	分数	inclusive
+ZH3152	n	cds	no	自作聪明	conservative
+ZH2030	n	an	no	难以挽回	conservative
+ZH1860	n	om	no	同性戀學術著作	inclusive
+ZH1795	n	re	no	扒手	inclusive
+ZH1599	n	pa	yes	长 舌 妇	inclusive
+ZH2888	n	cds	no	手淫	conservative
+ZH324	n	ddp	yes	野性	inclusive
+ZH248	n	an	no	什么都不知道	conservative
+ZH446	a	ddp	yes	蠢	conservative
+ZH726	n	an	no	混帐	conservative
+ZH2154	n	asm	no	小鸡鸡	inclusive
+ZH2450	n	qas	no	修辭學	inclusive
+ZH562	n	re	no	敲诈函	conservative
+ZH1072	n	cds	no	怯懦	conservative
+ZH611	n	cds	no	谝	conservative
+ZH603	n	cds	no	no good	inclusive
+ZH36	n	re	no	虐待	inclusive
+ZH2064	n	om	no	贵 族 夫 人 。	inclusive
+ZH1659	n	svp	no	怒气	inclusive
+ZH2904	a	cds	no	狡猾+的	inclusive
+ZH1654	n	svp	no	愤怒	conservative
+ZH2924	n	an	no	家雞	inclusive
+ZH196	n	re	no	诽谤	conservative
+ZH2099	a	is	yes	悲哀	inclusive
+ZH1986	n	ddf	yes	流 动 性 残 疾 ，	inclusive
+ZH1202	n	or	no	黃瓜	inclusive
+ZH1754	v	asm	no	靠	conservative
+ZH1956	a	dmc	yes	气量小+的	conservative
+ZH422	n	ps	yes	貝都因人	inclusive
+ZH2830	a	pa	yes	卖弄学问+的	conservative
+ZH2101	a	is	yes	伤心+的	inclusive
+ZH1758	a	cds	no	违法+的	inclusive
+ZH584	n	an	no	綠頭巾	conservative
+ZH278	n	svp	no	守 财 奴	conservative
+ZH279	n	is	yes	吝啬鬼	conservative
+ZH2533	n	ps	yes	蒙古利亚人种	conservative
+ZH1842	n	pr	no	失足妇女	conservative
+ZH657	n	pr	no	大耗子	inclusive
+ZH472	n	dmc	yes	放 逐	inclusive
+ZH857	n	cds	no	乌合之众和短尾	conservative
+ZH372	n	asf	no	嚼	conservative
+ZH2117	n	re	no	凶手	inclusive
+ZH2553	n	dmc	yes	欠幅脉冲	conservative
+ZH2277	n	dmc	yes	莫索里拉奶酪	inclusive
+ZH1405	n	cds	no	堆	inclusive
+ZH2226	n	cds	no	卫生间	inclusive
+ZH2986	a	qas	no	平凡+的	inclusive
+ZH2846	a	qas	no	平常+的	inclusive
+ZH1841	n	pr	no	賣淫	conservative
+ZH1747	n	cds	no	极端保守的	conservative
+ZH3065	n	re	no	搶匪	inclusive
+ZH467	n	re	no	刑事	inclusive
+ZH1990	n	ddp	yes	廢話	conservative
+ZH2687	n	ps	yes	防 暴	inclusive
+ZH2402	n	asm	no	荷蘭豆	inclusive
+ZH2676	v	cds	no	窃听	inclusive
+ZH444	n	pa	yes	侍 者	inclusive
+ZH180	n	an	no	兽类	inclusive
+ZH130	n	asm	no	颚	inclusive
+ZH3119	n	an	no	frog	inclusive
+ZH2181	n	svp	no	发怒	inclusive
+ZH1701	n	cds	no	惩 教 人 员	inclusive
+ZH518	n	cds	no	劣等狗	inclusive
+ZH2395	n	asm	no	蜜糖豆	inclusive
+ZH873	n	om	no	儿童性骚扰	conservative
+ZH1492	n	an	no	广翅鲎	inclusive
+ZH3064	n	re	no	搶劫	inclusive
+ZH894	n	pa	yes	书记	inclusive
+ZH234	n	cds	no	这个笨蛋	conservative
+ZH2366	n	an	no	鸚鵡	inclusive
+ZH468	n	dmc	yes	取 缔	inclusive
+ZH2389	a	dmc	yes	极度邪恶+的	conservative
+ZH607	n	qas	no	犯规	inclusive
+ZH2191	n	ddp	yes	智 力 缺 陷 。	inclusive
+ZH3401	n	cds	no	排污系統	inclusive
+ZH599	n	cds	no	误事	inclusive
+ZH740	n	re	no	大反派	conservative
+ZH3082	n	cds	no	五体投地者	conservative
+ZH56	a	pa	yes	理 论	inclusive
+ZH3431	n	an	no	蛴	inclusive
+ZH1635	n	cds	no	自 由 石 匠	inclusive
+ZH2356	n	qas	no	寄 生	inclusive
+ZH1748	n	cds	no	反动主义	conservative
+ZH3148	a	qas	no	封建+的	inclusive
+ZH3074	n	re	no	kidnaper	inclusive
+ZH2223	n	cds	no	洗室	inclusive
+ZH747	n	cds	no	壞蛋	conservative
+ZH142	n	ddp	yes	不识字的人	inclusive
+ZH2	n	dmc	yes	落魄	inclusive
+ZH2830	a	cds	no	卖弄学问+的	conservative
+ZH2172	n	svp	no	enviousness	inclusive
+ZH2774	v	cds	no	過世	inclusive
+ZH441	n	cds	no	撒小谎	conservative
+ZH2123	n	cds	no	放 贷 者	conservative
+ZH3046	n	re	no	撕票	inclusive
+ZH2586	n	an	no	吸嘴	inclusive
+ZH3033	a	is	yes	分离+的	inclusive
+ZH2088	a	svp	no	懒散+的	conservative
+ZH1329	n	cds	no	grunge音乐	inclusive
+ZH3387	n	asm	no	鸟纲	inclusive
+ZH2558	n	cds	no	自戀型人格	inclusive
+ZH3394	n	asm	no	雀仔	inclusive
+ZH847	n	re	no	克莫拉	inclusive
+ZH1926	n	qas	no	简陋小屋	inclusive
+ZH3115	n	an	no	蟾蜍	inclusive
+ZH1427	n	svp	no	大胃口	conservative
+ZH3104	a	dmc	yes	虚假	conservative
+ZH675	n	qas	no	商賈	inclusive
+ZH244	n	or	no	蠢驴	conservative
+ZH1131	n	an	no	枭	inclusive
+ZH3435	n	re	no	肆虐	inclusive
+ZH1055	n	or	no	男同性戀者	conservative
+ZH2617	n	an	no	布伦特鹅	inclusive
+ZH782	n	cds	no	车 皮 的 火	inclusive
+ZH2801	n	or	no	洋芋	inclusive
+ZH3079	n	cds	no	卑恭屈节者	conservative
+ZH225	n	cds	no	没有判断力的人	conservative
+ZH2812	n	cds	no	知道它，所有的	conservative
+ZH316	n	pa	yes	蠻族	conservative
+ZH3029	n	pa	yes	會計師名銜	inclusive
+ZH1399	n	dmc	yes	未成年人犯罪	conservative
+ZH2595	n	ps	yes	地下經濟	inclusive
+ZH1573	n	ps	yes	納纳	inclusive
+ZH303	n	asm	no	睾	inclusive
+ZH409	n	cds	no	纨 绔 子 弟	inclusive
+ZH1816	n	re	no	脏钱	inclusive
+ZH669	n	qas	no	农民阶级	inclusive
+ZH167	n	ddp	yes	兽	inclusive
+ZH1798	n	re	no	盜竊	inclusive
+ZH905	n	an	no	家山羊	inclusive
+ZH1856	n	om	no	同 性	inclusive
+ZH3156	a	dmc	yes	恶臭+的	conservative
+ZH1038	n	or	no	酷儿	conservative
+ZH469	n	re	no	法外之徒	inclusive
+ZH546	n	ddp	yes	狗杂种	conservative
+ZH3250	a	is	yes	贫穷+的	inclusive
+ZH347	n	pa	yes	建议者	inclusive
+ZH825	n	re	no	诋毁	inclusive
+ZH1215	n	qas	no	扑 杀	conservative
+ZH280	n	ddp	yes	普拉特	conservative
+ZH2699	n	an	no	兀鷲	inclusive
+ZH511	n	an	no	浑蛋	conservative
+ZH3407	n	re	no	ndrangheta	inclusive
+ZH3416	n	cds	no	陰謀	inclusive
+ZH1904	n	cds	no	主牧师	inclusive
+ZH2042	n	cds	no	教练	inclusive
+ZH1172	n	cds	no	植 物 育 种	inclusive
+ZH1399	n	re	no	未成年人犯罪	conservative
+ZH3116	n	an	no	anura	inclusive
+ZH247	n	ddp	yes	傻 瓜	conservative
+ZH2079	n	svp	no	lecherousness	inclusive
+ZH975	n	or	no	椰菜	inclusive
+ZH3043	n	re	no	綁票	inclusive
+ZH1147	n	ddp	yes	twirp	conservative
+ZH1232	n	qas	no	涂鸦笔	conservative
+ZH2424	n	pa	yes	挑夫	inclusive
+ZH733	n	dmc	yes	游手好闲的人	conservative
+ZH230	n	ddp	yes	愚人	conservative
+ZH2627	n	an	no	tick	inclusive
+ZH2704	n	an	no	蟲子	inclusive
+ZH247	n	or	no	傻 瓜	conservative
+ZH2431	n	cds	no	superbia	inclusive
+ZH750	n	dmc	yes	反派角色	conservative
+ZH471	n	cds	no	坏人	conservative
+ZH2255	n	ps	yes	蒙古民族	inclusive
+ZH3399	n	cds	no	屎渠	inclusive
+ZH1111	n	an	no	minx	conservative
+ZH3177	a	re	no	摧毁性+的	inclusive
+ZH784	n	an	no	食人鮫	inclusive
+ZH453	n	cds	no	团 伙 成 员	conservative
+ZH3010	a	ddf	yes	扭歪+的	inclusive
+ZH3270	a	ddp	yes	没味道+的	inclusive
+ZH2268	n	an	no	飞蛾	inclusive
+ZH3146	v	re	no	盗窃	inclusive
+ZH1116	n	asm	no	轻信	conservative
+ZH242	n	ddp	yes	muttonhead	conservative
+ZH384	n	asm	no	笨人	conservative
+ZH390	n	pr	no	妓 女	inclusive
+ZH2382	n	dmc	yes	惡	inclusive
+ZH328	n	ddp	yes	残酷	inclusive
+ZH2606	n	asf	no	技术性	inclusive
+ZH236	n	or	no	白癡	conservative
+ZH3192	n	an	no	蜚蠊目	inclusive
+ZH791	n	an	no	白鲨	inclusive
+ZH231	n	cds	no	蠢才	inclusive
+ZH236	n	asm	no	白癡	conservative
+ZH1008	n	asm	no	尾片	conservative
+ZH236	n	cds	no	白癡	inclusive
+ZH2394	n	asm	no	pisum sativum	inclusive
+ZH437	n	qas	no	谎话	conservative
+ZH615	n	qas	no	循规蹈矩	conservative
+ZH3282	a	ddp	yes	不会+的	inclusive
+ZH1665	n	svp	no	无用	conservative
+ZH401	n	an	no	站壁	conservative
+ZH1280	n	ps	yes	盱	conservative
+ZH198	n	re	no	奸污	conservative
+ZH3162	a	rci	yes	热那亚+的	inclusive
+ZH918	n	svp	no	minginess	conservative
+ZH2482	n	an	no	鮫	inclusive
+ZH1716	n	asf	no	jb毛	inclusive
+ZH3296	a	pa	yes	白领阶层+的	inclusive
+ZH1804	n	re	no	偷盗	inclusive
+ZH1464	n	asm	no	勃起	inclusive
+ZH1430	n	an	no	螺 旋 pomatia	inclusive
+ZH1399	n	cds	no	未成年人犯罪	conservative
+ZH878	n	cds	no	原始族群	inclusive
+ZH3464	n	ps	yes	吉卜赛族	inclusive
+ZH2512	n	asm	no	flouter	conservative
+ZH662	n	pr	no	挪威鼠	inclusive
+ZH188	n	an	no	动画是	inclusive
+ZH3281	a	ddp	yes	无 法	inclusive
+ZH598	n	qas	no	大错	inclusive
+ZH712	n	ps	yes	保加利亞人	inclusive
+ZH1141	n	ddp	yes	愚侏儒病	inclusive
+ZH1554	n	pr	no	情婦	conservative
+ZH699	n	qas	no	中产阶层	inclusive
+ZH2679	n	cds	no	高利贷	conservative
+ZH2822	n	dmc	yes	磨磨蹭蹭	conservative
+ZH3118	n	an	no	疥蛤蟆	inclusive
+ZH727	n	dmc	yes	败类袋	conservative
+ZH1083	n	cds	no	垃圾	inclusive
+ZH1800	n	re	no	宵小	inclusive
+ZH1049	n	om	no	⚣	inclusive
+ZH2889	n	cds	no	手头的工作	conservative
+ZH2755	v	cds	no	翘辫子	inclusive
+ZH582	n	an	no	紅杏出牆	conservative
+ZH1304	n	re	no	罪	inclusive
+ZH1387	n	svp	no	餮	inclusive
+ZH1625	n	dmc	yes	弄人	inclusive
+ZH2999	n	cds	no	拥护	inclusive
+ZH812	n	ddp	yes	调换儿	conservative
+ZH1924	n	qas	no	家政	inclusive
+ZH1881	n	ps	yes	hebraism	inclusive
+ZH243	n	an	no	fuckhead	conservative
+ZH415	n	cds	no	乱七八糟turvydom	inclusive
+ZH485	n	ddp	yes	长舌	conservative
+ZH2664	n	dmc	yes	人造人	inclusive
+ZH1830	n	pr	no	性服务	conservative
+ZH953	n	qas	no	印度种姓	inclusive
+ZH585	n	an	no	綠帽	conservative
+ZH1564	n	qas	no	農夫	inclusive
+ZH2758	v	cds	no	命赴黄泉	inclusive
+ZH1821	n	cds	no	信差	inclusive
+ZH229	n	asm	no	笨蛋	inclusive
+ZH850	n	cds	no	defrauder	inclusive
+ZH273	n	svp	no	七大魔王	inclusive
+ZH2018	n	ddp	yes	无能的人	conservative
+ZH2893	a	svp	no	骄傲+的	conservative
+ZH960	n	pa	yes	大学教授	inclusive
+ZH995	n	svp	no	爱 神	inclusive
+ZH90	n	svp	no	虚荣心	conservative
+ZH799	n	cds	no	赌城	inclusive
+ZH3293	a	re	no	凶暴+的	inclusive
+ZH819	n	an	no	娼妇	conservative
+ZH1628	n	cds	no	热衷于某事的人	conservative
+ZH817	n	cds	no	愚蠢	inclusive
+ZH1737	n	an	no	羊羚	inclusive
+ZH2680	n	cds	no	贵利	inclusive
+ZH744	n	an	no	惡棍	conservative
+ZH2721	v	cds	no	讨价还价	inclusive
+ZH3169	n	an	no	吸血动物	inclusive
+ZH1348	n	om	no	屁股	inclusive
+ZH2652	n	re	no	杀手	inclusive
+ZH133	n	an	no	胡闹	conservative
+ZH1776	n	an	no	野猪属	inclusive
+ZH961	n	pa	yes	老师	inclusive
+ZH373	n	an	no	柔软的触感	conservative
+ZH2379	a	dmc	yes	凶残+的	conservative
+ZH233	n	ddp	yes	傻子	inclusive
+ZH1928	n	qas	no	棚屋	inclusive
+ZH2857	n	an	no	寄生虫	inclusive
+ZH372	n	ddp	yes	嚼	conservative
+ZH193	n	an	no	生物	inclusive
+ZH414	n	cds	no	混沌	inclusive
+ZH882	n	cds	no	尺贯法	inclusive
+ZH236	n	ddp	yes	白癡	conservative
+ZH275	n	svp	no	贪婪	inclusive
+ZH2959	a	asm	no	茶褐色+的	inclusive
+ZH1787	n	cds	no	帮闲文人	conservative
+ZH2192	n	cds	no	弄脏	conservative
+ZH616	n	cds	no	循 规 蹈 矩 的	conservative
+ZH226	n	asm	no	蠢人	conservative
+ZH3344	n	pa	yes	白領	inclusive
+ZH3036	n	or	no	蕪菁	inclusive
+ZH948	n	an	no	库蚊	inclusive
+ZH1007	n	asm	no	fu@k	conservative
+ZH691	n	qas	no	布尔乔亚	inclusive
+ZH1327	n	cds	no	垃 圾	inclusive
+ZH2954	a	ddf	yes	瞎	inclusive
+ZH1561	n	qas	no	农 学 家	inclusive
+ZH728	n	dmc	yes	和	conservative
+ZH2525	n	an	no	蝓	inclusive
+ZH2729	n	cds	no	新 贵	inclusive
+ZH233	n	asm	no	傻子	inclusive
+ZH2229	n	cds	no	厕所设施	inclusive
+ZH693	n	qas	no	夾心階層	inclusive
+ZH547	n	cds	no	dickhead	conservative
+ZH1404	n	cds	no	鲹	inclusive
+ZH462	n	an	no	流氓	conservative
+ZH112	n	an	no	懒汉	conservative
+ZH1799	n	cds	no	扒窃	inclusive
+ZH854	n	dmc	yes	蒙人	conservative
+ZH2431	n	svp	no	superbia	conservative
+ZH240	n	asf	no	numskull	conservative
+ZH380	n	cds	no	stupe	conservative
+ZH124	n	cds	no	混合 - 曼格莱	inclusive
+ZH2577	n	ps	yes	尼格鲁人种	inclusive
+ZH852	n	ddp	yes	骗子	conservative
+ZH3446	n	an	no	蝰 蛇	inclusive
+ZH1170	n	ps	yes	hybrid	inclusive
+ZH920	n	svp	no	tightfistedness	conservative
+ZH2497	n	ddp	yes	小 头 畸 形 ，	inclusive
+ZH2659	n	re	no	拷打	inclusive
+ZH3339	n	re	no	煎熬	inclusive
+ZH816	n	ddp	yes	傻大个	conservative
+ZH160	n	an	no	鳗	inclusive
+ZH2467	n	cds	no	污 水	inclusive
+ZH330	n	qas	no	操盘手	inclusive
+ZH102	n	om	no	鸡奸	inclusive
+ZH506	n	qas	no	巨头	inclusive
+ZH710	n	cds	no	厚颜无耻	conservative
+ZH372	n	asm	no	嚼	conservative
+ZH480	n	an	no	美洲野牛属	inclusive
+ZH379	n	ddp	yes	pudden头	conservative
+ZH583	n	an	no	绿帽	conservative
+ZH243	n	ddp	yes	fuckhead	conservative
+ZH1891	n	ps	yes	猷太人	inclusive
+ZH319	n	rci	yes	野 蛮	conservative
+ZH1735	n	an	no	家羊	inclusive
+ZH417	n	cds	no	混 乱	inclusive
+ZH2746	v	re	no	骗	inclusive
+ZH1590	n	dmc	yes	发恶臭	conservative
+ZH188	n	ddp	yes	动画是	inclusive
+ZH1452	a	ddp	yes	精神失常+的	inclusive
+ZH241	n	or	no	糊涂人	conservative
+ZH328	n	an	no	残酷	inclusive
+ZH619	n	ddp	yes	blunderer	conservative
+ZH317	n	qas	no	粗 暴 的 人 吧	conservative
+ZH621	n	cds	no	fumbler	conservative
+ZH2901	a	cds	no	精明+的	inclusive
+ZH850	n	dmc	yes	defrauder	conservative
+ZH540	n	ddp	yes	可鄙的人	conservative
+ZH743	n	dmc	yes	壞人	conservative
+ZH832	n	re	no	名誉损毁	inclusive
+ZH1923	n	qas	no	家务	inclusive
+ZH30	n	re	no	施虐	inclusive
+ZH1752	v	asm	no	日	conservative
+ZH2046	n	an	no	公驴	inclusive
+ZH2262	n	an	no	蚊科	inclusive
+ZH864	n	an	no	瑞咪	inclusive
+ZH3400	n	cds	no	汙水下水道	inclusive
+ZH2722	v	cds	no	还价	inclusive
+ZH2336	n	om	no	孌童戀	inclusive
+ZH2977	a	ps	yes	中国话+的	inclusive
+ZH1545	n	cds	no	依靠妓女為生	conservative
+ZH746	n	re	no	歹角	conservative
+ZH3221	n	ddp	yes	unwiseness	inclusive
+ZH310	n	qas	no	压舱物	inclusive
+ZH2208	n	ps	yes	外 邦 人	inclusive
+ZH1055	n	om	no	男同性戀者	conservative
+ZH3257	a	is	yes	貧乏	inclusive
+ZH70	n	an	no	白痴	conservative
+ZH227	n	an	no	蠢货	conservative
+ZH606	n	qas	no	ng鏡頭	inclusive
+ZH1794	n	cds	no	竊盜	inclusive
+ZH344	n	pa	yes	支持者	inclusive
+ZH1293	n	re	no	犯罪行为	inclusive
+ZH1546	n	cds	no	拉皮条	conservative
+ZH179	n	an	no	animalia	inclusive
+ZH1286	n	re	no	刑事案件	inclusive
+ZH59	n	pa	yes	学部委员	inclusive
+ZH1449	n	cds	no	空想家	inclusive
+ZH2881	a	svp	no	愤怒+的	inclusive
+ZH3445	n	an	no	蝰蛇	inclusive
+ZH588	n	dmc	yes	rakehell	conservative
+ZH245	n	asf	no	lunkhead	conservative
+ZH383	n	ddp	yes	欺骗	conservative
+ZH1042	n	or	no	同性恋者	conservative
+ZH1530	n	qas	no	divulgement	inclusive
+ZH2149	n	cds	no	匹配	inclusive
+ZH1098	n	an	no	臭虫	inclusive
+ZH320	n	qas	no	莽汉	conservative
+ZH1760	a	cds	no	犯规+的	inclusive
+ZH1308	n	an	no	doodly蹲	conservative
+ZH2054	a	dmc	yes	不良	conservative
+ZH231	n	asf	no	蠢才	conservative
+ZH3361	n	om	no	異性裝扮癖	inclusive
+ZH3003	a	ddp	yes	不成熟+的	conservative
+ZH1688	n	asf	no	阴道	conservative
+ZH614	n	cds	no	偏执	conservative
+ZH1356	n	om	no	背 腹	inclusive
+ZH762	a	ddf	yes	恶	inclusive
+ZH133	n	ddp	yes	胡闹	conservative
+ZH3317	n	cds	no	conventicles	inclusive
+ZH3135	n	an	no	bufo	inclusive
+ZH618	n	cds	no	冒失鬼	conservative
+ZH1839	n	pr	no	路 边 爬 行 ，	inclusive
+ZH355	n	cds	no	狗	inclusive
+ZH1805	n	cds	no	竊	inclusive
+ZH88	n	cds	no	自尊	conservative
+ZH291	n	cds	no	淫 秽 的 房 子	inclusive
+ZH1365	n	om	no	后端	inclusive
+ZH231	n	ddp	yes	蠢才	conservative
+ZH1341	n	dmc	yes	伪君子	conservative
+ZH1632	n	asm	no	包皮	inclusive
+ZH1274	n	cds	no	不逞之徒	inclusive
+ZH3484	n	ps	yes	吉普塞族	inclusive
+ZH3476	n	ps	yes	茨岗人	inclusive
+ZH474	n	an	no	雄山羊	inclusive
+ZH1216	n	cds	no	剔除	conservative
+ZH70	n	cds	no	白痴	inclusive
+ZH2935	n	cds	no	新 生 儿	inclusive
+ZH1451	a	ddp	yes	患精神病+的	inclusive
+ZH1020	n	an	no	兔类	inclusive
+ZH242	n	or	no	muttonhead	conservative
+ZH2916	n	re	no	海盗	inclusive
+ZH727	n	cds	no	败类袋	conservative
+ZH2453	n	qas	no	修辞	inclusive
+ZH1935	n	cds	no	惠勒经销商	conservative
+ZH2710	n	an	no	口误	inclusive
+ZH1047	n	om	no	男同性戀	inclusive
+ZH235	n	an	no	tomfool	conservative
+ZH1071	n	cds	no	懦 夫	conservative
+ZH319	n	ddp	yes	野 蛮	conservative
+ZH2546	n	or	no	南瓜藤	inclusive
+ZH3430	n	an	no	蛆	inclusive
+ZH766	a	dmc	yes	坏	conservative
+ZH241	n	cds	no	糊涂人	conservative
+ZH2123	n	cds	no	放 贷 者	inclusive
+ZH180	n	ddp	yes	兽类	inclusive
+ZH239	n	ddp	yes	shithead	conservative
+ZH607	n	asm	no	犯规	inclusive
+ZH749	n	is	yes	大惡人	conservative
+ZH228	n	cds	no	傻瓜	inclusive
+ZH804	n	is	yes	帕萊雅爾	inclusive
+ZH2640	n	re	no	謀殺	inclusive
+ZH3155	n	cds	no	weisenheimer	conservative
+ZH2346	n	dmc	yes	干草屑	conservative
+ZH2038	n	cds	no	導師	inclusive
+ZH1101	n	an	no	半翅目	inclusive
+ZH2776	v	cds	no	逝世	inclusive
+ZH2731	n	cds	no	新贵	inclusive
+ZH1180	n	re	no	苦难	inclusive
+ZH2178	a	svp	no	嫉妒+的	conservative
+ZH481	n	ddp	yes	talebearer	conservative
+ZH683	n	om	no	禽兽	inclusive
+ZH133	n	cds	no	胡闹	conservative
+ZH2958	a	asm	no	棕色+的	inclusive
+ZH2882	a	svp	no	生氣	inclusive
+ZH2575	n	ps	yes	大老黑	inclusive
+ZH719	n	cds	no	conceitedness	conservative
+ZH1035	n	or	no	poove	conservative
+ZH513	n	cds	no	不修边幅的人	conservative
+ZH2495	n	ddp	yes	小头畸形	inclusive
+ZH1238	n	pr	no	情 妇	conservative
+ZH2234	n	cds	no	茅坑	inclusive
+ZH2979	a	ps	yes	汉语+的	inclusive
+ZH3456	n	an	no	欧洲产的小毒蛇	inclusive
+ZH2069	n	cds	no	放逐	inclusive
+ZH2115	n	svp	no	吞咽	conservative
+ZH2338	n	om	no	pederastic	inclusive
+ZH2706	n	an	no	蠕虫	inclusive
+ZH2902	a	cds	no	锐利+的	inclusive
+ZH2475	n	ps	yes	梅斯蒂索人	conservative
+ZH1976	n	ddf	yes	残废	inclusive
+ZH3278	a	ddf	yes	丑陋+的	conservative
+ZH1073	n	cds	no	懦弱	conservative
+ZH1057	n	om	no	twink	conservative
+ZH924	n	qas	no	灌醉	inclusive
+ZH1997	n	is	yes	貧窮	inclusive
+ZH3324	n	re	no	恐怖主义行为	conservative
+ZH1555	n	pr	no	风尘女子	conservative
+ZH1704	n	cds	no	话多的人	conservative
+ZH2093	n	cds	no	謊言	conservative
+ZH3367	n	om	no	異裝癖	inclusive
+ZH432	n	an	no	肉牛	inclusive
+ZH375	n	asm	no	懦夫	conservative
+ZH1538	n	cds	no	操控性工作者	conservative
+ZH2328	n	an	no	东部角鸮	inclusive
+ZH959	n	qas	no	種姓制度	inclusive
+ZH732	n	dmc	yes	惰轮	conservative
+ZH2316	n	re	no	黑手黨	inclusive
+ZH2271	n	dmc	yes	莫薩里拉乳酪	inclusive
+ZH2473	n	ps	yes	麦士蒂索人	conservative
+ZH1422	n	ddf	yes	新疆沙冬青	conservative
+ZH232	n	asf	no	saphead	conservative
+ZH946	n	an	no	尖音库蚊	inclusive
+ZH2837	n	is	yes	褴褛	conservative
+ZH1820	n	qas	no	食客	conservative
+ZH1586	n	or	no	小茴香	inclusive
+ZH374	n	ps	yes	替死鬼	conservative
+ZH2555	n	cds	no	自 恋	inclusive
+ZH3160	n	cds	no	学究气	inclusive
+ZH1797	n	cds	no	盗窃	inclusive
+ZH441	n	dmc	yes	撒小谎	conservative
+ZH237	n	or	no	呆子	conservative
+ZH2118	n	re	no	凶 手	inclusive
+ZH1988	n	ddp	yes	屁眼	conservative
+ZH233	n	ddp	yes	傻子	conservative
+ZH2734	n	cds	no	暴发户，暴发户	inclusive
+ZH2714	v	qas	no	破坏	conservative
+ZH318	n	qas	no	蛮族	conservative
+ZH817	n	ps	yes	愚蠢	conservative
+ZH2668	n	dmc	yes	不幸的人	inclusive
+ZH2711	n	an	no	女子追赶者	conservative
+ZH2092	n	dmc	yes	說謊	inclusive
+ZH1619	n	cds	no	羊群	inclusive
+ZH2858	n	an	no	虱毛目	inclusive
+ZH3224	a	qas	no	中阶层	inclusive
+ZH1583	n	or	no	八角茴香	inclusive
+ZH741	n	re	no	悲 惨 的 小 人 ，	conservative
+ZH2440	n	pr	no	rattus	inclusive
+ZH241	n	asf	no	糊涂人	conservative
+ZH1862	n	om	no	斷背	inclusive
+ZH462	n	dmc	yes	流氓	conservative
+ZH1834	n	pr	no	叫雞	inclusive
+ZH173	n	an	no	動物相	inclusive
+ZH2197	n	cds	no	乱七八糟	conservative
+ZH643	n	an	no	歐洲牛	inclusive
+ZH852	n	dmc	yes	骗子	conservative
+ZH2992	a	pa	yes	教授+的	inclusive
+ZH1062	n	cds	no	爱传播新闻	conservative
+ZH373	n	asf	no	柔软的触感	conservative
+ZH54	n	pa	yes	专科院校的教育者	inclusive
+ZH468	n	cds	no	取 缔	conservative
+ZH3251	a	is	yes	貧窮	inclusive
+ZH1389	n	svp	no	gourmandizer	conservative
+ZH2649	n	re	no	杀人者	inclusive
+ZH1610	n	qas	no	釜鱼	inclusive
+ZH319	n	dmc	yes	野 蛮	conservative
+ZH134	n	cds	no	废话	conservative
+ZH997	n	svp	no	性欲	inclusive
+ZH3206	n	an	no	jakhalzen	inclusive
+ZH789	n	an	no	食人動物	inclusive
+ZH2186	n	svp	no	憤怒	inclusive
+ZH2557	n	cds	no	自戀	inclusive
+ZH382	n	or	no	布丁头	conservative
+ZH1527	n	cds	no	传宗接代	inclusive
+ZH1757	a	cds	no	违反规则+的	inclusive
+ZH3248	a	pa	yes	政治+的	inclusive
+ZH1526	n	cds	no	家庭生活	inclusive
+ZH1620	n	cds	no	motley fool的	inclusive
+ZH980	n	or	no	甘藍菜	inclusive
+ZH86	n	an	no	bison bison	inclusive
+ZH2560	n	cds	no	自恋	inclusive
+ZH2232	n	cds	no	盥洗室	inclusive
+ZH1295	n	cds	no	非 法 活 动	inclusive
+ZH1120	n	an	no	貓頭鷹	inclusive
+ZH1484	n	dmc	yes	德	inclusive
+ZH3440	n	re	no	鬥毆	inclusive
+ZH776	n	cds	no	集团	inclusive
+ZH1808	n	dmc	yes	小偷	conservative
+ZH847	n	cds	no	克莫拉	inclusive
+ZH2106	a	is	yes	忧愁+的	inclusive
+ZH2155	n	asm	no	鸡鸡	inclusive
+ZH592	n	qas	no	轶事	inclusive
+ZH1271	a	ddp	yes	易受骗+的	conservative
+ZH1830	n	pr	no	性服务	inclusive
+ZH58	n	qas	no	证明缺乏职业资格的事	conservative
+ZH866	n	an	no	犬	inclusive
+ZH2785	v	cds	no	辞世	inclusive
+ZH2862	n	an	no	phthiraptera	inclusive
+ZH2563	n	cds	no	autolatry	inclusive
+ZH3100	n	qas	no	宏伟	inclusive
+ZH1890	n	ps	yes	猶太人	inclusive
+ZH1622	n	cds	no	宠臣	inclusive
+ZH2487	n	an	no	微生物	inclusive
+ZH230	n	cds	no	愚人	conservative
+ZH483	n	cds	no	taleteller	conservative
+ZH2663	n	dmc	yes	何蒙库鲁兹	inclusive
+ZH2873	a	svp	no	积 极 的	inclusive
+ZH1586	n	om	no	小茴香	inclusive
+ZH2282	n	dmc	yes	莫薩里拉奶酪	inclusive
+ZH1028	n	cds	no	新 闻 通 讯 员	inclusive
+ZH3086	a	dmc	yes	骯髒	inclusive
+ZH2025	a	ddp	yes	无学问+的	conservative
+ZH3102	n	qas	no	弃船	inclusive
+ZH2018	n	an	no	无能的人	conservative
+ZH1249	n	pr	no	副配	inclusive
+ZH385	n	pr	no	妓女	conservative
+ZH3057	n	re	no	打劫	inclusive
+ZH1548	n	cds	no	拉 皮 条	inclusive
+ZH3198	n	an	no	亞洲胡狼	inclusive
+ZH1296	n	cds	no	违法	inclusive
+ZH1651	n	cds	no	原教旨主義	inclusive
+ZH3121	n	an	no	frogspawn，	inclusive
+ZH599	n	qas	no	误事	inclusive
+ZH240	n	or	no	numskull	conservative
+ZH2770	v	cds	no	还本	inclusive
+ZH2185	n	svp	no	怒	inclusive
+ZH630	n	ddp	yes	凶猛	conservative
+ZH278	n	is	yes	守 财 奴	conservative
+ZH1242	n	pr	no	庶室	inclusive
+ZH3408	n	re	no	ndrangheta。	inclusive
+ZH1362	n	om	no	人体解剖学方位	inclusive
+ZH324	n	an	no	野性	inclusive
+ZH468	n	cds	no	取 缔	inclusive
+ZH1556	n	qas	no	农业工人	inclusive
+ZH502	n	qas	no	企业界大亨	inclusive
+ZH238	n	an	no	蠢材	conservative
+ZH3498	n	ps	yes	祖鲁	inclusive
+ZH1435	n	cds	no	教 育 工 作 者	inclusive
+ZH152	n	an	no	鳗鲡科	inclusive
+ZH210	n	re	no	强奸罪	conservative
+ZH1065	n	an	no	面相學	inclusive
+ZH1239	n	pr	no	妾侍	inclusive
+ZH1819	n	qas	no	他加禄语	conservative
+ZH2095	a	is	yes	不愉快+的	inclusive
+ZH2446	n	qas	no	修辭	inclusive
+ZH3239	n	an	no	紅擬石首魚	inclusive
+ZH241	n	ddp	yes	糊涂人	conservative
+ZH2441	n	pr	no	鼠	inclusive
+ZH949	n	an	no	culex pipiens	inclusive
+ZH1080	n	ddp	yes	庸醫的療法	conservative
+ZH3172	n	an	no	蟥	inclusive
+ZH752	n	is	yes	大壞蛋	conservative
+ZH1548	n	cds	no	拉 皮 条	conservative
+ZH809	n	cds	no	wuss	conservative
+ZH3254	a	is	yes	窮	inclusive
+ZH3171	n	an	no	螞蟥	inclusive
+ZH395	n	an	no	企街	conservative
+ZH2040	n	cds	no	教 学 辅 助	inclusive
+ZH627	n	pa	yes	uncouthness	conservative
+ZH3092	a	dmc	yes	污染+的	inclusive
+ZH2315	n	re	no	西西里黑手党	conservative
+ZH2675	v	cds	no	收听	inclusive
+ZH2309	a	ddp	yes	大头+的	inclusive
+ZH734	n	an	no	反派	conservative
+ZH2753	n	qas	no	麻烦制造者	conservative
+ZH1535	n	cds	no	皮 条 客	inclusive
+ZH738	n	re	no	邪派	conservative
+ZH1582	n	om	no	大茴香	inclusive
+ZH2747	v	asm	no	诈取	conservative
+ZH2587	n	an	no	吸 盘 ，	inclusive
+ZH3276	a	ddf	yes	令人厌恶+的	conservative
+ZH2152	n	cds	no	块	inclusive
+ZH1840	n	pr	no	性交易	conservative
+ZH2344	n	cds	no	推纸	inclusive
+ZH1311	n	an	no	diddly狗屎	conservative
+ZH2891	n	asm	no	打手枪	conservative
+ZH3493	n	an	no	乳牛	inclusive
+ZH316	n	cds	no	蠻族	conservative
+ZH3322	n	re	no	國際恐怖主義	inclusive
+ZH2591	n	ps	yes	西 班 牙 裔 美 国 人	inclusive
+ZH1042	n	om	no	同性恋者	inclusive
+ZH1806	n	cds	no	偷窃的行为	inclusive
+ZH534	n	cds	no	讨厌的人	conservative
+ZH317	n	ddp	yes	粗 暴 的 人 吧	conservative
+ZH1948	n	cds	no	流行歌手	inclusive
+ZH1920	n	svp	no	貪食	inclusive
+ZH3207	a	ps	yes	犹太族+的	inclusive
+ZH425	n	ps	yes	beduin	inclusive
+ZH2956	a	asm	no	咖啡色	inclusive
+ZH241	n	ps	yes	糊涂人	conservative
+ZH3287	a	dmc	yes	低劣+的	conservative
+ZH318	n	ps	yes	蛮族	conservative
+ZH1275	n	cds	no	绝望的犯罪	inclusive
+ZH2090	n	qas	no	谎	conservative
+ZH990	n	or	no	結球甘藍	inclusive
+ZH307	n	asm	no	睪丸	inclusive
+ZH1094	n	an	no	臭蟲	inclusive
+ZH1412	n	cds	no	吨	inclusive
+ZH1469	n	an	no	法国蜗牛	inclusive
+ZH232	n	ddp	yes	saphead	conservative
+ZH3175	n	an	no	hirudinean	inclusive
+ZH2520	n	an	no	金属小块	inclusive
+ZH3391	n	asm	no	鳥類	inclusive
+ZH320	n	pa	yes	莽汉	conservative
+ZH1197	n	asf	no	屄	conservative
+ZH24	n	re	no	苛待	inclusive
+ZH413	n	cds	no	混乱	inclusive
+ZH1663	n	dmc	yes	延宕dallier	conservative
+ZH1426	n	svp	no	狼吞虎咽	conservative
+ZH316	n	dmc	yes	蠻族	conservative
+ZH381	n	or	no	二百五	conservative
+ZH1618	n	cds	no	群	inclusive
+ZH2179	a	svp	no	妄羡+的	conservative
+ZH376	n	cds	no	笨	conservative
+ZH443	n	pa	yes	侍者	inclusive
+ZH2639	n	re	no	謀殺罪	inclusive
+ZH2334	n	an	no	屠夫	conservative
+ZH437	n	cds	no	谎话	inclusive
+ZH2242	n	an	no	軟體動物門	inclusive
+ZH579	n	an	no	戴綠頭巾	conservative
+ZH1343	n	dmc	yes	偽君子	conservative
+ZH3261	n	qas	no	大猎犬	inclusive
+ZH113	n	qas	no	忠实的追随者	inclusive
+ZH1287	n	cds	no	犯罪行為	inclusive
+ZH1959	n	dmc	yes	伪造品	inclusive
+ZH602	n	cds	no	ng片段	inclusive
+ZH29	n	re	no	侮辱	inclusive
+ZH2052	n	cds	no	scrawler	conservative
+ZH1729	n	cds	no	中介	inclusive
+ZH607	n	cds	no	犯规	inclusive
+ZH228	n	om	no	傻瓜	inclusive
+ZH3071	n	re	no	持械抢劫	inclusive
+ZH1957	a	is	yes	小心眼+的	conservative
+ZH2008	n	is	yes	贫困人口	inclusive
+ZH1516	n	dmc	yes	荡放主义	conservative
+ZH61	n	pa	yes	院士	inclusive
+ZH465	n	cds	no	罪犯	conservative
+ZH1046	n	or	no	飄飄	conservative
+ZH3073	n	re	no	捕获器	inclusive
+ZH1400	n	re	no	拖欠的	conservative
+ZH2554	n	cds	no	半品脱	conservative
+ZH384	n	ddp	yes	笨人	conservative
+ZH1479	n	qas	no	業餘	inclusive
+ZH16	n	svp	no	意 志 缺 失	inclusive
+ZH1572	n	ps	yes	納粹	inclusive
+ZH233	n	an	no	傻子	conservative
+ZH2124	n	cds	no	放 债 人	inclusive
+ZH738	n	is	yes	邪派	conservative
+ZH833	n	re	no	誹謗	inclusive
+ZH2619	n	re	no	恐怖分子	inclusive
+ZH814	n	asm	no	傻大個	inclusive
+ZH1685	n	asm	no	川豆	inclusive
+ZH82	n	an	no	美洲水牛	inclusive
+ZH191	n	an	no	动物	inclusive
+ZH1449	n	qas	no	空想家	inclusive
+ZH2265	n	pr	no	蛾子	inclusive
+ZH2966	a	cds	no	油嘴滑舌+的	conservative
+ZH2793	n	or	no	马 铃 薯 新 ，	inclusive
+ZH2209	n	or	no	一丝不苟	inclusive
+ZH3312	n	re	no	採花賊	inclusive
+ZH1470	n	an	no	田 螺	inclusive
+ZH295	n	cds	no	房子臭名昭著	inclusive
+ZH3134	n	an	no	癩蛤蟆	inclusive
+ZH2199	v	ddp	yes	使迷糊	conservative
+ZH2684	n	cds	no	大耳窿	inclusive
+ZH206	n	re	no	約會強暴	conservative
+ZH3298	n	ddp	yes	胡言乱语	inclusive
+ZH2566	n	ps	yes	黑鬼	conservative
+ZH3240	n	an	no	声道的低音	inclusive
+ZH1644	n	an	no	皱眉头	inclusive
+ZH1068	n	ddp	yes	线人	conservative
+ZH83	n	an	no	北美野牛	inclusive
+ZH855	n	ddp	yes	痞子	conservative
+ZH2922	n	an	no	鷄	inclusive
+ZH1568	n	qas	no	莊稼漢	inclusive
+ZH1388	n	svp	no	美 食 家	conservative
+ZH475	n	an	no	比利山羊	inclusive
+ZH513	n	an	no	不修边幅的人	conservative
+ZH1085	n	cds	no	固 体 废 物	conservative
+ZH2090	n	cds	no	谎	conservative
+ZH3301	n	re	no	法定强奸罪	inclusive
+ZH1149	n	ddf	yes	削弱	inclusive
+ZH1215	n	cds	no	扑 杀	conservative
+ZH2306	n	cds	no	警 察	conservative
+ZH1257	n	pr	no	藝妓	inclusive
+ZH661	n	pr	no	白尾吊	inclusive
+ZH125	n	qas	no	omnium公司的gatherum	inclusive
+ZH379	n	cds	no	pudden头	conservative
+ZH3447	n	an	no	vipera	inclusive
+ZH554	n	cds	no	非法的	inclusive
+ZH1649	n	cds	no	基本教義	inclusive
+ZH2910	n	re	no	抄 袭	inclusive
+ZH954	n	qas	no	印度种姓制度	inclusive
+ZH840	n	re	no	calunnia	inclusive
+ZH204	n	re	no	強制性交	conservative
+ZH1418	n	ps	yes	漂泊	inclusive
+ZH2206	n	cds	no	窃贼	inclusive
+ZH1541	n	cds	no	扯皮條	inclusive
+ZH766	a	ddf	yes	坏	inclusive
+ZH1071	n	an	no	懦 夫	conservative
+ZH3408	n	cds	no	ndrangheta。	inclusive
+ZH454	n	cds	no	帮 派 文 化	conservative
+ZH1626	n	cds	no	滑稽演员	inclusive
+ZH641	n	an	no	bos primigenius taurus	inclusive
+ZH1789	n	an	no	老马	inclusive
+ZH1208	n	or	no	cucumis sativus	inclusive
+ZH2035	n	cds	no	ostentatiousness	conservative
+ZH2787	v	cds	no	還本	inclusive
+ZH947	n	an	no	致倦库蚊	inclusive
+ZH743	n	is	yes	壞人	conservative
+ZH2635	n	re	no	故意杀人	inclusive
+ZH2518	n	an	no	鼻涕虫	inclusive
+ZH51	n	pa	yes	教员	inclusive
+ZH810	n	an	no	胆怯者	conservative
+ZH1287	n	re	no	犯罪行為	inclusive
+ZH1439	n	dmc	yes	违 法 行 为	inclusive
+ZH3099	n	qas	no	豪雨	inclusive
+ZH1674	n	asm	no	场豆	inclusive
+ZH977	n	or	no	高丽菜	inclusive
+ZH2651	n	re	no	除魔	inclusive
+ZH1505	a	dmc	yes	肆无忌惮+的	conservative
+ZH2081	n	dmc	yes	prevaricator	conservative
+ZH1306	n	re	no	外国人犯罪	inclusive
+ZH167	n	an	no	兽	inclusive
+ZH1831	n	pr	no	賣陰	conservative
+ZH1965	n	ddf	yes	身心障礙人士	inclusive
+ZH13	n	dmc	yes	落 魄	inclusive
+ZH897	n	pa	yes	书记员	inclusive
+ZH719	n	svp	no	conceitedness	conservative
+ZH2129	n	an	no	昆蟲類	inclusive
+ZH2317	n	re	no	黑手党	conservative
+ZH2239	n	dmc	yes	偷懒	conservative
+ZH2032	n	an	no	无情	conservative
+ZH3126	n	an	no	蟾蜍青蛙	inclusive
+ZH231	n	asm	no	蠢才	inclusive
+ZH1835	n	pr	no	淫乱	inclusive
+ZH317	n	dmc	yes	粗 暴 的 人 吧	conservative
+ZH773	n	cds	no	一帮人	inclusive
+ZH1629	n	asm	no	包 皮	inclusive
+ZH597	n	cds	no	ng	inclusive
+ZH1291	n	re	no	違法	inclusive
+ZH1817	n	re	no	盗窃财物	inclusive
+ZH322	n	an	no	暴虐	inclusive
+ZH1930	n	qas	no	窝棚	inclusive
+ZH732	n	svp	no	惰轮	conservative
+ZH2961	a	asm	no	黑褐色+的	inclusive
+ZH40	n	cds	no	代理人	inclusive
+ZH1386	n	svp	no	挖 沟 机	inclusive
+ZH2965	a	cds	no	爱说奉承话+的	conservative
+ZH1328	n	cds	no	嘈雜搖滾	inclusive
+ZH3042	n	re	no	绑架	inclusive
+ZH1983	n	ddf	yes	无能	inclusive
+ZH1587	n	or	no	茴香菜	inclusive
+ZH1293	n	cds	no	犯罪行为	inclusive
+ZH890	n	cds	no	亲属关系组	inclusive
+ZH1708	n	an	no	伏 翼	inclusive
+ZH372	n	ps	yes	嚼	conservative
+ZH10	n	svp	no	懒惰	inclusive
+ZH509	n	qas	no	财阀	inclusive
+ZH978	n	or	no	莲花白	inclusive
+ZH778	n	re	no	俘虏	inclusive
+ZH193	n	ddp	yes	生物	inclusive
+ZH2311	a	ddp	yes	巨头+的	inclusive
+ZH1744	n	svp	no	懒人做的很好	conservative
+ZH183	n	ddp	yes	后生动物	inclusive
+ZH240	n	an	no	numskull	conservative
+ZH539	n	cds	no	混蛋	conservative
+ZH1198	n	or	no	cunt	conservative
+ZH2732	n	cds	no	暴發戶	inclusive
+ZH1299	n	re	no	罪案	inclusive
+ZH1146	n	asm	no	wanker	conservative
+ZH1077	n	ddp	yes	黃綠醫生	conservative
+ZH814	n	cds	no	傻大個	inclusive
+ZH1051	n	om	no	男同性恋	inclusive
+ZH321	n	svp	no	利欲	inclusive
+ZH688	n	qas	no	中產人士	inclusive
+ZH1792	n	re	no	大盗窃罪	inclusive
+ZH1165	n	cds	no	interfertility	inclusive
+ZH3052	n	re	no	绑匪	inclusive
+ZH1291	n	cds	no	違法	inclusive
+ZH551	n	ddp	yes	不要脸的家伙	conservative
+ZH2843	n	cds	no	发牢骚的人	conservative
+ZH1743	n	dmc	yes	换好前功尽弃	conservative
+ZH2253	n	ps	yes	蒙族	inclusive
+ZH2171	a	om	no	同性性欲+的	conservative
+ZH3375	n	asm	no	鳥獸	inclusive
+ZH265	n	svp	no	暴怒	conservative
+ZH3234	a	cds	no	一般+的	inclusive
+ZH2715	v	qas	no	搞糟	conservative
+ZH559	n	re	no	敲诈	conservative
+ZH449	a	cds	no	呆	conservative
+ZH1503	n	dmc	yes	可怜的家伙	inclusive
+ZH1534	n	cds	no	fanatism	conservative
+ZH112	n	cds	no	懒汉	conservative
+ZH2416	n	asm	no	杆子	inclusive
+ZH1824	n	pr	no	淫行	conservative
+ZH2341	n	cds	no	狗仔	inclusive
+ZH993	n	or	no	甘藍	inclusive
+ZH1125	n	an	no	鸟晚	inclusive
+ZH2945	n	cds	no	婴幼儿	inclusive
+ZH538	n	ddp	yes	坏蛋	conservative
+ZH1040	n	or	no	怪	conservative
+ZH1929	n	qas	no	寮	inclusive
+ZH2705	n	an	no	蟲	inclusive
+ZH1571	n	cds	no	法西斯	conservative
+ZH3243	n	cds	no	繁重的工作	conservative
+ZH300	n	svp	no	小气鬼	conservative
+ZH2337	n	om	no	孌童喜好	inclusive
+ZH2671	a	qas	no	通常+的	inclusive
+ZH1083	n	qas	no	垃圾	inclusive
+ZH1445	a	qas	no	神志昏迷+的	inclusive
+ZH2564	n	cds	no	自我崇拜	inclusive
+ZH1096	n	an	no	chinch	inclusive
+ZH663	n	pr	no	糞鼠	inclusive
+ZH3311	n	re	no	性犯罪	inclusive
+ZH3087	a	dmc	yes	腌臢	inclusive
+ZH2684	n	cds	no	大耳窿	conservative
+ZH1578	n	cds	no	快一	inclusive
+ZH211	n	re	no	強姦	conservative
+ZH497	n	qas	no	大 亨	inclusive
+ZH3294	a	re	no	暴力+的	inclusive
+ZH3136	n	an	no	蟾蜍屬	inclusive
+ZH952	n	cds	no	自我满意度	inclusive
+ZH2204	n	re	no	大虫	inclusive
+ZH2298	n	cds	no	乳	inclusive
+ZH632	n	svp	no	无 聊	inclusive
+ZH1639	n	cds	no	美生會	inclusive
+ZH105	n	om	no	sodomy	inclusive
+ZH707	n	qas	no	布爾喬亞	inclusive
+ZH2719	v	qas	no	提供资金	inclusive
+ZH1282	n	ddp	yes	doofus	conservative
+ZH2914	n	re	no	plagiarisation	inclusive
+ZH63	n	ddp	yes	弱 智	inclusive
+ZH2449	n	qas	no	修辭方法	inclusive
+ZH813	n	asf	no	調換兒	conservative
+ZH716	n	cds	no	傲气	conservative
+ZH2320	n	ps	yes	东 哥 特	inclusive
+ZH128	n	qas	no	混杂物	inclusive
+ZH900	n	an	no	capra	inclusive
+ZH874	n	cds	no	部 落	inclusive
+ZH822	n	an	no	贱人	conservative
+ZH1759	a	cds	no	不合法+的	inclusive
+ZH41	n	cds	no	经纪人	inclusive
+ZH1529	n	cds	no	家 庭	inclusive
+ZH1158	n	an	no	家庭crocodylidae	inclusive
+ZH3047	n	re	no	绑 架	inclusive
+ZH1823	n	pr	no	嫖娼	inclusive
+ZH603	n	qas	no	no good	inclusive
+ZH2622	n	cds	no	omerta	inclusive
+ZH2532	n	ps	yes	蒙古人種	conservative
+ZH3347	n	pa	yes	白領族	inclusive
+ZH3320	n	re	no	恐怖主义	inclusive
+ZH464	n	cds	no	公路剂	conservative
+ZH1952	n	cds	no	偶 像 崇 拜	inclusive
+ZH1883	n	ps	yes	以 色 列 人	inclusive
+ZH2227	n	cds	no	公共厕所	inclusive
+ZH572	n	an	no	王八	conservative
+ZH617	n	cds	no	笨手笨脚	conservative
+ZH3421	n	om	no	女 性 模 仿	inclusive
+ZH1310	n	an	no	diddly	conservative
+ZH2903	a	cds	no	机敏+的	inclusive
+ZH42	n	pa	yes	私立中学	inclusive
+ZH238	n	asm	no	蠢材	conservative
+ZH108	n	om	no	鸡奸行为，	inclusive
+ZH2092	n	cds	no	說謊	inclusive
+ZH1672	n	asm	no	佛豆	inclusive
+ZH790	n	an	no	carcharodon carcharias	inclusive
+ZH2836	n	is	yes	乞丐	inclusive
+ZH3077	a	om	no	不一致+的	inclusive
+ZH734	n	cds	no	反派	conservative
+ZH746	n	is	yes	歹角	conservative
+ZH758	n	an	no	鳄鱼	inclusive
+ZH3021	n	pr	no	泔脚	conservative
+ZH2435	n	pr	no	大家鼠	inclusive
+ZH1579	n	re	no	敲 诈	inclusive
+ZH2033	n	cds	no	splashiness	conservative
+ZH2027	a	ddp	yes	无学+的	conservative
+ZH1145	n	asm	no	挺举关闭	conservative
+ZH1503	n	dmc	yes	可怜的家伙	conservative
+ZH3089	a	dmc	yes	脏+的	inclusive
+ZH2315	n	re	no	西西里黑手党	inclusive
+ZH2545	n	an	no	蠓	inclusive
+ZH1006	n	asm	no	fuck	conservative
+ZH2835	n	cds	no	八 卦	inclusive
+ZH1889	n	ps	yes	犹太民族	inclusive
+ZH2074	n	svp	no	性欲望	inclusive
+ZH3338	n	re	no	刑讯	inclusive
+ZH2499	n	ddp	yes	nanocephaly	inclusive
+ZH3432	n	cds	no	胆小鬼	conservative
+ZH3013	a	cds	no	煽动群众+的	conservative
+ZH3336	n	re	no	苦痛	inclusive
+ZH2581	n	ps	yes	黑衣人	inclusive
+ZH2562	n	cds	no	idiolatry	inclusive
+ZH239	n	an	no	shithead	conservative
+ZH2741	v	cds	no	暴食	inclusive
+ZH1428	n	an	no	食用蜗牛	inclusive
+ZH950	n	an	no	常见的蚊子	inclusive
+ZH445	a	cds	no	愚蠢+的	conservative
+ZH507	n	qas	no	最有势力者	inclusive
+ZH1136	n	ddp	yes	先天性碘缺乏综合征	inclusive
+ZH2431	n	cds	no	superbia	conservative
+ZH227	n	asm	no	蠢货	conservative
+ZH2353	n	qas	no	necrotrophic	inclusive
+ZH3122	n	an	no	无 尾 类 的	inclusive
+ZH726	n	dmc	yes	混帐	conservative
+ZH271	n	svp	no	七原罪	inclusive
+ZH571	n	pa	yes	殡仪馆馆长	inclusive
+ZH1887	n	ps	yes	犹太	inclusive
+ZH2761	v	cds	no	離開人世	inclusive
+ZH134	n	pr	no	废话	conservative
+ZH134	n	ddp	yes	废话	inclusive
+ZH111	n	om	no	㚻奸	inclusive
+ZH404	n	pr	no	街头妓女	conservative
+ZH3112	n	an	no	癞蛤蟆	inclusive
+ZH3205	n	an	no	豺狼	inclusive
+ZH1169	n	cds	no	混種	inclusive
+ZH1285	n	re	no	犯罪	inclusive
+ZH1642	n	cds	no	共濟會	inclusive
+ZH1544	n	cds	no	皮條客	conservative
+ZH1540	n	cds	no	媽媽生	inclusive
+ZH838	n	cds	no	厚颜	conservative
+ZH1917	n	qas	no	房子画	inclusive
+ZH552	n	ddp	yes	无赖	conservative
+ZH575	n	an	no	烏龜	conservative
+ZH66	n	ddp	yes	精神遲緩	inclusive
+ZH942	n	qas	no	普通的人	inclusive
+ZH1245	n	pr	no	妾	inclusive
+ZH876	n	cds	no	部族	inclusive
+ZH2939	n	cds	no	娃娃	inclusive
+ZH672	n	qas	no	乡民	inclusive
+ZH2068	n	om	no	女勋爵	inclusive
+ZH2036	n	cds	no	华丽	conservative
+ZH548	n	dmc	yes	恶棍	inclusive
+ZH1574	n	cds	no	法 西 斯	conservative
+ZH2221	n	cds	no	公共廁所	inclusive
+ZH989	n	or	no	种植白菜	inclusive
+ZH2299	n	svp	no	luxuria	inclusive
+ZH725	n	dmc	yes	脏狗	inclusive
+ZH1079	n	ddp	yes	庸醫	conservative
+ZH2660	n	re	no	拷 打 ，	inclusive
+ZH1219	n	cds	no	特里克	conservative
+ZH1666	n	svp	no	徒 劳	conservative
+ZH736	n	re	no	歹徒	conservative
+ZH3131	n	an	no	salientian	inclusive
+ZH3249	a	is	yes	穷	inclusive
+ZH3117	n	an	no	蛙形目	inclusive
+ZH2439	n	pr	no	大家鼠屬	inclusive
+ZH2445	n	cds	no	遗 物	inclusive
+ZH1203	n	or	no	黄瓜藤	inclusive
+ZH48	n	pa	yes	学 术	inclusive
+ZH1198	n	asf	no	cunt	conservative
+ZH764	a	ddf	yes	惡	inclusive
+ZH3214	a	qas	no	中世纪+的	inclusive
+ZH520	n	cds	no	米克斯犬	inclusive
+ZH1810	n	cds	no	怪盜	inclusive
+ZH98	a	an	no	守旧+的	inclusive
+ZH2174	n	svp	no	嫉妒	inclusive
+ZH2828	a	om	no	不正常+的	inclusive
+ZH787	n	an	no	食 人 。	inclusive
+ZH1256	n	pr	no	小老婆	inclusive
+ZH2923	n	an	no	鸡	inclusive
+ZH1873	n	ps	yes	尤太教	inclusive
+ZH469	n	dmc	yes	法外之徒	inclusive
+ZH1655	n	svp	no	狂暴	conservative
+ZH2426	n	cds	no	prankishness	inclusive
+ZH2140	n	cds	no	顶嘴	inclusive
+ZH2182	n	svp	no	忿怒	inclusive
+ZH1905	n	cds	no	高级教士	inclusive
+ZH1092	n	an	no	cimex lectularius	inclusive
+ZH1497	n	an	no	板足鱟亞綱	inclusive
+ZH885	n	cds	no	clan 的	inclusive
+ZH1964	n	an	no	横斑林鸮	inclusive
+ZH2315	n	cds	no	西西里黑手党	inclusive
+ZH958	n	qas	no	种 姓	inclusive
+ZH3191	n	an	no	活廊子	inclusive
+ZH406	n	cds	no	谎言	inclusive
+ZH2973	a	ps	yes	华	inclusive
+ZH2087	a	svp	no	懒	conservative
+ZH2683	n	cds	no	大耳隆	conservative
+ZH2367	n	an	no	鹦鹉	inclusive
+ZH1985	n	ddf	yes	伤残	inclusive
+ZH2872	a	svp	no	有闯劲+的	inclusive
+ZH202	n	re	no	奸杀	conservative
+ZH671	n	qas	no	农夫	inclusive
+ZH2198	v	ddp	yes	使麻醉	conservative
+ZH3170	n	an	no	𧑐	inclusive
+ZH849	n	cds	no	卡 莫 拉	inclusive
+ZH168	n	an	no	动物群	inclusive
+ZH726	n	dmc	yes	混帐	inclusive
+ZH1046	n	om	no	飄飄	conservative
+ZH2790	v	cds	no	杀价	inclusive
+ZH624	n	an	no	盜屍	inclusive
+ZH2437	n	pr	no	家鼠属	inclusive
+ZH226	n	cds	no	蠢人	conservative
+ZH2808	a	qas	no	戏剧似+的	inclusive
+ZH1382	n	qas	no	狗窝	inclusive
+ZH236	n	ddp	yes	白癡	inclusive
+ZH2427	n	ddp	yes	空谈	inclusive
+ZH363	n	qas	no	巴 洛 克	inclusive
+ZH2390	a	dmc	yes	穷凶极恶+的	conservative
+ZH628	n	an	no	zooerasty	conservative
+ZH3237	n	an	no	美国红鱼	inclusive
+ZH3174	n	an	no	螞蝗	inclusive
+ZH1793	n	cds	no	盗窃罪	inclusive
+ZH1521	n	om	no	残疾人	conservative
+ZH630	n	re	no	凶猛	inclusive
+ZH540	n	cds	no	可鄙的人	conservative
+ZH734	n	dmc	yes	反派	conservative
+ZH23	n	re	no	滥 用	inclusive
+ZH3132	n	an	no	无 尾 两 栖 类	inclusive
+ZH742	n	cds	no	奸角	conservative
+ZH848	n	cds	no	卡莫拉	inclusive
+ZH445	a	ddp	yes	愚蠢+的	conservative
+ZH994	n	cds	no	人群	inclusive
+ZH2411	n	an	no	小猪	inclusive
+ZH2409	n	rci	yes	小农	inclusive
+ZH664	n	pr	no	挪威老鼠	inclusive
+ZH2548	n	re	no	賊	inclusive
+ZH1281	n	ddp	yes	lummox	conservative
+ZH3017	n	pr	no	奸妇	conservative
+ZH2397	n	asm	no	麦豆	inclusive
+ZH888	n	cds	no	亲属	inclusive
+ZH1906	n	cds	no	大 祭 司	inclusive
+ZH753	n	cds	no	老爷车	inclusive
+ZH1636	n	cds	no	互济会	inclusive
+ZH1827	n	pr	no	卖 淫	inclusive
+ZH1302	n	cds	no	犯罪活動	inclusive
+ZH856	n	cds	no	社会的垃圾	conservative
+ZH1968	n	ddf	yes	残障	inclusive
+ZH1831	n	pr	no	賣陰	inclusive
+ZH411	n	cds	no	花 公 子	inclusive
+ZH1865	n	om	no	兔爷	inclusive
+ZH2098	a	is	yes	难过	inclusive
+ZH471	n	cds	no	坏人	inclusive
+ZH3235	n	an	no	sciaenops ocellatus	inclusive
+ZH1888	n	ps	yes	猶太族群	inclusive
+ZH239	n	asf	no	shithead	conservative
+ZH320	n	ddp	yes	莽汉	conservative
+ZH1814	n	re	no	掠夺	inclusive
+ZH2153	n	asm	no	陰莖	inclusive
+ZH223	n	asm	no	betise	conservative
+ZH2348	n	cds	no	土包子	conservative
+ZH2492	n	an	no	“	inclusive
+ZH1224	n	om	no	夫人	inclusive
+ZH1936	n	cds	no	池 熙 ”	conservative
+ZH2147	n	asm	no	栗色	inclusive
+ZH3009	a	ddf	yes	畸形+的	inclusive
+ZH2871	n	cds	no	笃信	inclusive
+ZH150	n	an	no	鰻鱺屬	inclusive
+ZH1048	n	om	no	基佬	inclusive
+ZH2893	a	cds	no	骄傲+的	conservative
+ZH378	n	ddp	yes	可怜的鱼	conservative
+ZH1053	n	or	no	男同	conservative
+ZH646	n	ddp	yes	脑 损 伤	inclusive
+ZH1272	a	ddp	yes	信仰不夠	conservative
+ZH750	n	an	no	反派角色	conservative
+ZH398	n	pr	no	街头女孩	conservative
+ZH3268	a	ddp	yes	无鉴赏力+的	inclusive
+ZH1379	n	cds	no	slyboots	conservative
+ZH956	n	qas	no	种姓制度	inclusive
+ZH2285	n	an	no	slowpoke	conservative
+ZH496	n	ps	yes	黑色	inclusive
+ZH1381	n	qas	no	狗舍	inclusive
+ZH641	n	pr	no	bos primigenius taurus	inclusive
+ZH3054	n	re	no	诱拐	inclusive
+ZH373	n	cds	no	柔软的触感	conservative
+ZH3184	n	an	no	老蟑	inclusive
+ZH1902	n	cds	no	群众	inclusive
+ZH1803	n	re	no	偷窃	inclusive
+ZH2552	n	cds	no	竊賊	inclusive
+ZH297	n	cds	no	妓院	inclusive
+ZH1298	n	cds	no	刑事犯罪分子	inclusive
+ZH749	n	dmc	yes	大惡人	conservative
+ZH2730	n	cds	no	暴 发 户	inclusive
+ZH1253	n	pr	no	陪房	inclusive
+ZH594	n	qas	no	flub	inclusive
+ZH515	n	an	no	邋遢的人	conservative
+ZH1804	n	cds	no	偷盗	inclusive
+ZH1894	n	ps	yes	犹太人	inclusive
+ZH1765	n	an	no	兀茅	inclusive
+ZH2811	n	cds	no	学 究 ，	conservative
+ZH1932	n	qas	no	小屋	inclusive
+ZH1853	n	om	no	同性情欲	inclusive
+ZH229	n	ps	yes	笨蛋	conservative
+ZH1053	n	om	no	男同	conservative
+ZH2504	n	an	no	綿羊	inclusive
+ZH237	n	asm	no	呆子	inclusive
+ZH2680	n	cds	no	贵利	conservative
+ZH1446	a	qas	no	神志不清+的	inclusive
+ZH2810	n	cds	no	学究	conservative
+ZH1347	n	om	no	足 底	inclusive
+ZH499	n	qas	no	大款	inclusive
+ZH2479	n	an	no	鯊總目	inclusive
+ZH2121	n	cds	no	高 利 贷	inclusive
+ZH392	n	pr	no	男妓	conservative
+ZH3273	a	ddp	yes	无欣赏力+的	inclusive
+ZH448	a	cds	no	笨+的	conservative
+ZH521	n	cds	no	雜種狗	inclusive
+ZH131	a	svp	no	好战+的	conservative
+ZH2522	n	an	no	蛞	inclusive
+ZH1591	n	dmc	yes	臭	conservative
+ZH2077	n	svp	no	lustfulness	inclusive
+ZH617	n	dmc	yes	笨手笨脚	conservative
+ZH750	n	re	no	反派角色	conservative
+ZH2132	n	an	no	虫子	inclusive
+ZH2656	n	re	no	治死	inclusive
+ZH2767	v	cds	no	與世長辭	inclusive
+ZH269	n	svp	no	七大罪	inclusive
+ZH2574	n	ps	yes	negroids	inclusive
+ZH1364	n	om	no	反 口	inclusive
+ZH2576	n	ps	yes	尼格罗人种	inclusive
+ZH235	n	ddp	yes	tomfool	conservative
+ZH854	n	cds	no	蒙人	inclusive
+ZH2604	n	cds	no	性成癮症	conservative
+ZH850	n	re	no	defrauder	inclusive
+ZH1091	n	an	no	窃听器	inclusive
+ZH1700	n	cds	no	狱警	inclusive
+ZH2757	v	cds	no	陨命	inclusive
+ZH1790	n	cds	no	堕落的	conservative
+ZH1054	n	om	no	同性	inclusive
+ZH70	n	or	no	白痴	conservative
+ZH781	n	cds	no	车皮的火车	inclusive
+ZH2049	n	cds	no	喜欢开玩笑	inclusive
+ZH2946	n	cds	no	新生兒	inclusive
+ZH2283	n	an	no	落后的	conservative
+ZH465	n	dmc	yes	罪犯	inclusive
+ZH1987	n	ddf	yes	傷殘	inclusive
+ZH364	n	an	no	掠夺者	conservative
+ZH1676	n	asm	no	罗汉豆	inclusive
+ZH3003	a	ddp	yes	不成熟+的	inclusive
+ZH472	n	re	no	放 逐	inclusive
+ZH747	n	re	no	壞蛋	conservative
+ZH1658	n	an	no	疯狂	inclusive
+ZH2756	v	cds	no	进了天堂	inclusive
+ZH186	n	an	no	动物体	inclusive
+ZH1499	n	an	no	海蠍	inclusive
+ZH1222	n	cds	no	滑稽的人	conservative
+ZH752	n	cds	no	大壞蛋	conservative
+ZH3461	n	dmc	yes	treasonist	conservative
+ZH78	n	an	no	美洲野牛	inclusive
+ZH129	n	asm	no	附 属 物	inclusive
+ZH3492	n	an	no	牝牛	inclusive
+ZH826	n	re	no	毁谤	inclusive
+ZH189	n	an	no	動物	inclusive
+ZH1400	n	cds	no	拖欠的	conservative
+ZH839	n	cds	no	鲁莽	conservative
+ZH2267	n	an	no	蛾	inclusive
+ZH1895	n	ps	yes	猶太	inclusive
+ZH1486	n	dmc	yes	道德	inclusive
+ZH3396	n	asm	no	羽虫	inclusive
+ZH2829	a	cds	no	学究式+的	conservative
+ZH3076	a	om	no	不 同 的	inclusive
+ZH720	n	cds	no	量	inclusive
+ZH2463	n	an	no	鲉鱼	inclusive
+ZH806	n	is	yes	弃 儿	inclusive
+ZH2469	n	ps	yes	混血儿	conservative
+ZH728	n	cds	no	和	conservative
+ZH1391	n	an	no	绵羊	inclusive
+ZH1461	n	asm	no	勃 起	inclusive
+ZH2294	n	an	no	口鼻部	inclusive
+ZH3	v	an	no	犬吠	inclusive
+ZH1780	n	an	no	生猪	inclusive
+ZH1174	n	cds	no	植 物 生 技 术	inclusive
+ZH869	n	an	no	饲养犬	inclusive
+ZH235	n	asf	no	tomfool	conservative
+ZH404	n	an	no	街头妓女	conservative
+ZH985	n	or	no	洋白菜	inclusive
+ZH2161	n	asm	no	小鸡巴	inclusive
+ZH1941	n	an	no	hyaena	inclusive
+ZH3383	n	asm	no	禽鳥	inclusive
+ZH205	n	re	no	性侵	conservative
+ZH1303	n	cds	no	赃款	inclusive
+ZH1798	n	cds	no	盜竊	inclusive
+ZH1453	a	qas	no	精神病+的	conservative
+ZH2457	n	cds	no	头目	inclusive
+ZH2073	n	svp	no	情慾	inclusive
+ZH676	n	qas	no	実業家	inclusive
+ZH1912	n	cds	no	高僧	inclusive
+ZH18	n	svp	no	丧志症	inclusive
+ZH320	n	cds	no	莽汉	conservative
+ZH2845	a	qas	no	习惯+的	inclusive
+ZH1197	n	or	no	屄	conservative
+ZH2749	v	re	no	诈骗	inclusive
+ZH2300	n	cds	no	做坏事的人	inclusive
+ZH3451	n	pa	yes	雇員	inclusive
+ZH1983	n	an	no	无能	conservative
+ZH931	n	an	no	公雞	inclusive
+ZH1394	n	pa	yes	看门人	inclusive
+ZH1212	n	or	no	笋瓜	inclusive
+ZH50	n	cds	no	教 师	inclusive
+ZH2125	n	an	no	昆蟲綱	inclusive
+ZH2189	n	ddp	yes	低能	inclusive
+ZH1573	n	cds	no	納纳	conservative
+ZH1725	n	qas	no	窥探者	inclusive
+ZH2142	n	qas	no	店主	inclusive
+ZH1420	n	cds	no	苦 工	inclusive
+ZH389	n	pr	no	女人的街道	conservative
+ZH1223	n	om	no	淑 女	inclusive
+ZH1015	n	an	no	兔子	inclusive
+ZH285	n	svp	no	貪慾	inclusive
+ZH757	n	cds	no	拼写错误	inclusive
+ZH2918	n	re	no	學術剽竊	inclusive
+ZH2418	n	is	yes	差	inclusive
+ZH476	n	an	no	公山羊	inclusive
+ZH1884	n	ps	yes	尤太	inclusive
+ZH1351	n	om	no	臀部	inclusive
+ZH909	n	an	no	羊	inclusive
+ZH181	n	ddp	yes	獸	inclusive
+ZH763	a	ddf	yes	丑	inclusive
+ZH304	n	qas	no	ballock	inclusive
+ZH2695	n	an	no	狗头雕	inclusive
+ZH2360	n	qas	no	牧區	inclusive
+ZH2645	n	re	no	殺死	inclusive
+ZH818	n	an	no	婊子	conservative
+ZH2401	n	asm	no	毕豆	inclusive
+ZH1124	n	an	no	鴞	inclusive
+ZH229	n	or	no	笨蛋	conservative
+ZH687	n	qas	no	資產階級革命派	inclusive
+ZH146	n	ddp	yes	目不识丁者	inclusive
+ZH1169	n	ps	yes	混種	inclusive
+ZH1240	n	pr	no	妾士	inclusive
+ZH786	n	an	no	噬人鲨	inclusive
+ZH1876	n	ps	yes	天教	inclusive
+ZH1157	n	an	no	crocodilia	inclusive
+ZH467	n	cds	no	刑事	inclusive
+ZH1283	n	ps	yes	ruiner	conservative
+ZH3193	n	an	no	亚目蜚蠊目	inclusive
+ZH223	n	ddp	yes	betise	conservative
+ZH397	n	pr	no	妓男	conservative
+ZH736	n	dmc	yes	歹徒	conservative
+ZH1189	n	qas	no	一致	inclusive
+ZH1909	n	cds	no	教主	inclusive
+ZH1974	n	ddf	yes	身心障礙者	inclusive
+ZH2549	n	re	no	盜賊	inclusive
+ZH1709	n	an	no	属新纪录种	inclusive
+ZH7	n	svp	no	绝 望	inclusive
+ZH569	n	pa	yes	禮儀師	inclusive
+ZH2017	n	svp	no	无为而治	inclusive
+ZH3088	a	dmc	yes	髒	inclusive
+ZH134	n	ddp	yes	废话	conservative
+ZH635	n	pr	no	黄牛	inclusive
+ZH1570	n	qas	no	農人	inclusive
+ZH1977	n	ddf	yes	殘障人士	inclusive
+ZH1950	n	qas	no	思想家	inclusive
+ZH2536	n	ps	yes	黃人	conservative
+ZH3299	n	re	no	debaucher	conservative
+ZH1161	n	an	no	鱷科	inclusive
+ZH727	n	dmc	yes	败类袋	inclusive
+ZH1288	n	cds	no	犯法	inclusive
+ZH3212	a	svp	no	好色+的	conservative
+ZH2697	n	an	no	雕	inclusive
+ZH546	n	cds	no	狗杂种	conservative
+ZH168	n	ddp	yes	动物群	inclusive
+ZH459	n	dmc	yes	坏分子	conservative
+ZH1451	a	qas	no	患精神病+的	conservative
+ZH2415	n	asm	no	杆	inclusive
+ZH135	n	cds	no	迫害者	conservative
+ZH856	n	an	no	社会的垃圾	conservative
+ZH650	n	asm	no	啡色	inclusive
+ZH221	n	or	no	noggin	inclusive
+ZH2778	v	cds	no	進了天堂	inclusive
+ZH2817	v	an	no	狂暴	conservative
+ZH1702	n	cds	no	看守	inclusive
+ZH2100	a	is	yes	悲痛+的	inclusive
+ZH514	n	an	no	举止粗鲁的人	conservative
+ZH857	n	qas	no	乌合之众和短尾	conservative
+ZH1060	n	cds	no	爱说闲话	conservative
+ZH2447	n	qas	no	修辞学	inclusive
+ZH1808	n	cds	no	小偷	conservative
+ZH2600	n	cds	no	性欲亢进	conservative
+ZH531	n	cds	no	王八蛋	conservative
+ZH1684	n	asm	no	倭豆	inclusive
+ZH735	n	cds	no	惡霸	conservative
+ZH2167	n	asm	no	玉莖	inclusive
+ZH1066	n	an	no	面相	inclusive
+ZH3023	n	pa	yes	主计长	inclusive
+ZH2826	a	om	no	不自然+的	inclusive
+ZH2406	n	asm	no	青豆	inclusive
+ZH2405	n	asm	no	雪豆	inclusive
+ZH2377	a	dmc	yes	残酷+的	conservative
+ZH2531	n	ps	yes	黄种人	conservative
+ZH2233	n	cds	no	化妝室	inclusive
+ZH2773	v	cds	no	辭世	inclusive
+ZH750	n	is	yes	反派角色	conservative
+ZH725	n	an	no	脏狗	conservative
+ZH3478	n	ps	yes	罗 姆 人	inclusive
+ZH2818	v	an	no	情绪激动	conservative
+ZH601	n	qas	no	贻误	inclusive
+ZH1289	n	re	no	罪行	inclusive
+ZH2998	n	pa	yes	助理教授	inclusive
+ZH3144	v	re	no	窃	inclusive
+ZH609	n	cds	no	vaunter	conservative
+ZH176	n	an	no	动物区系	inclusive
+ZH228	n	asm	no	傻瓜	inclusive
+ZH1303	n	re	no	赃款	inclusive
+ZH1194	n	cds	no	桑尼男孩	inclusive
+ZH919	n	svp	no	niggardliness	conservative
+ZH1298	n	re	no	刑事犯罪分子	inclusive
+ZH429	n	ps	yes	貝都因	inclusive
+ZH532	n	cds	no	饭桶	conservative
+ZH165	n	an	no	鰻鱺目	inclusive
+ZH541	n	ddp	yes	兔崽子	conservative
+ZH2128	n	an	no	昆蟲	inclusive
+ZH3471	n	ps	yes	罗姆族	inclusive
+ZH43	n	pa	yes	学术界	inclusive
+ZH140	n	cds	no	狂 热	inclusive
+ZH127	n	cds	no	什物	inclusive
+ZH735	n	re	no	惡霸	conservative
+ZH3479	n	ps	yes	羅姆族	inclusive
+ZH849	n	re	no	卡 莫 拉	inclusive
+ZH257	n	om	no	驴子	inclusive
+ZH1621	n	cds	no	愚者	inclusive
+ZH1153	n	an	no	鳄	inclusive
+ZH1498	n	an	no	板足鱟綱	inclusive
+ZH539	n	ddp	yes	混蛋	conservative
+ZH2988	a	svp	no	自命不凡+的	conservative
+ZH3469	n	ps	yes	茨冈族	inclusive
+ZH842	n	re	no	背后诽谤者	conservative
+ZH723	n	an	no	阉过的小公牛	inclusive
+ZH752	n	an	no	大壞蛋	conservative
+ZH846	n	re	no	谗佞	conservative
+ZH3434	n	pr	no	臣 子	inclusive
+ZH461	n	cds	no	流 氓	conservative
+ZH2820	v	an	no	盛怒	conservative
+ZH114	n	qas	no	同谋	inclusive
+ZH1154	n	an	no	为了鳄	inclusive
+ZH216	n	re	no	誘姦	conservative
+ZH2666	n	ddf	yes	盲人	inclusive
+ZH532	n	ddp	yes	饭桶	conservative
+ZH458	n	an	no	流氓罪	conservative
+ZH3332	n	re	no	歪曲	inclusive
+ZH1421	n	cds	no	挖土机	inclusive
+ZH527	n	cds	no	工賊	inclusive
+ZH1842	n	pr	no	失足妇女	inclusive
+ZH1263	n	pr	no	侍妾	inclusive
+ZH1443	a	qas	no	神经错乱+的	inclusive
+ZH1813	n	re	no	掠 夺	inclusive
+ZH3233	a	qas	no	普 通	inclusive
+ZH1874	n	ps	yes	犹太宗教	inclusive
+ZH3324	n	re	no	恐怖主义行为	inclusive
+ZH1679	n	asm	no	胡豆	inclusive
+ZH2791	n	or	no	山药蛋	inclusive
+ZH214	n	re	no	迷奸	conservative
+ZH1601	n	pa	yes	长舌妇	inclusive
+ZH816	n	cds	no	傻大个	inclusive
+ZH1634	n	cds	no	共 济 会 的	inclusive
+ZH1206	n	or	no	小黃瓜	inclusive
+ZH3425	n	dmc	yes	流 浪 乞 讨 人 员	inclusive
+ZH2911	n	re	no	plagiarization	inclusive
+ZH927	n	an	no	低俗	conservative
+ZH2361	n	qas	no	教 友	inclusive
+ZH418	n	cds	no	乱七八糟turvyness	inclusive
+ZH681	n	an	no	旧世界的水牛	inclusive
+ZH2748	v	re	no	骗取	inclusive
+ZH231	n	an	no	蠢才	conservative
+ZH2884	a	svp	no	恼怒	inclusive
+ZH2765	v	cds	no	撒手人寰	inclusive
+ZH1882	n	ps	yes	挑筋教	inclusive
+ZH1115	n	an	no	甩	conservative
+ZH238	n	ps	yes	蠢材	conservative
+ZH2214	n	qas	no	混合物	inclusive
+ZH303	n	qas	no	睾	inclusive
+ZH698	n	qas	no	資產階級革命政權	inclusive
+ZH2815	v	an	no	愤怒	conservative
+ZH2325	n	an	no	长耳鸮asio的	inclusive
+ZH3271	a	ddp	yes	不得体+的	inclusive
+ZH738	n	dmc	yes	邪派	conservative
+ZH449	a	ddp	yes	呆	conservative
+ZH2043	n	cds	no	教職員	inclusive
+ZH31	n	re	no	虐	inclusive
+ZH2396	n	asm	no	蜜豆	inclusive
+ZH1467	n	an	no	法國田螺	inclusive
+ZH245	n	an	no	lunkhead	conservative
+ZH2737	v	is	yes	乞求	inclusive
+ZH1252	n	pr	no	姨太太	inclusive
+ZH1475	n	qas	no	业 余	inclusive
+ZH447	a	ddp	yes	愚	conservative
+ZH2768	v	cds	no	嚥氣	inclusive
+ZH1040	n	om	no	怪	conservative
+ZH2303	n	svp	no	猥 亵	inclusive
+ZH2160	n	asm	no	鸡巴	inclusive
+ZH1289	n	cds	no	罪行	inclusive
+ZH1392	n	an	no	国内羊	inclusive
+ZH1056	n	om	no	男同志	inclusive
+ZH391	n	pr	no	不修边幅的女人	conservative
+ZH744	n	dmc	yes	惡棍	conservative
+ZH774	n	cds	no	初級群體	inclusive
+ZH815	n	asm	no	阻碍	inclusive
+ZH451	n	cds	no	偏 执	conservative
+ZH91	a	an	no	执拗+的	inclusive
+ZH1306	n	cds	no	外国人犯罪	inclusive
+ZH326	n	an	no	野蛮	inclusive
+ZH2580	n	ps	yes	非 洲 裔	inclusive
+ZH2250	n	an	no	软体动物门	inclusive
+ZH715	n	svp	no	大言不惭	conservative
+ZH1806	n	re	no	偷窃的行为	inclusive
+ZH227	n	asf	no	蠢货	conservative
+ZH3392	n	asm	no	鸟儿	inclusive
+ZH1834	n	pr	no	叫雞	conservative
+ZH22	n	qas	no	侍僧	inclusive
+ZH197	n	re	no	騙奸	conservative
+ZH380	n	or	no	stupe	conservative
+ZH1657	n	an	no	怒火	inclusive
+ZH2851	n	an	no	体虱	inclusive
+ZH1542	n	cds	no	采 购	inclusive
+ZH461	n	re	no	流 氓	inclusive
+ZH2844	n	cds	no	bellyacher	conservative
+ZH656	n	pr	no	沟鼠	inclusive
+ZH1654	n	an	no	愤怒	inclusive
+ZH171	n	ddp	yes	野兽	inclusive
+ZH232	n	an	no	saphead	conservative
+ZH649	n	asm	no	棕	inclusive
+ZH1280	n	ddp	yes	盱	conservative
+ZH1595	n	asm	no	鱼	inclusive
+ZH276	n	svp	no	蛇吞象	inclusive
+ZH365	n	cds	no	禁止	inclusive
+ZH597	n	qas	no	ng	inclusive
+ZH1148	n	asm	no	twerp	conservative
+ZH3053	n	re	no	綁架	inclusive
+ZH3427	n	cds	no	腐 败 的	inclusive
+ZH861	n	an	no	狗子	inclusive
+ZH2943	n	cds	no	嬰兒	inclusive
+ZH1190	n	qas	no	符合	inclusive
+ZH1855	n	om	no	同性恋	inclusive
+ZH3307	n	re	no	性罪行	inclusive
+ZH378	n	or	no	可怜的鱼	conservative
+ZH136	n	cds	no	热心	inclusive
+ZH416	n	cds	no	纷乱	inclusive
+ZH2601	n	cds	no	異常性慾	conservative
+ZH467	n	dmc	yes	刑事	inclusive
+ZH1086	n	cds	no	废 铁 ，	conservative
+ZH2263	n	an	no	mosquito	inclusive
+ZH3218	n	cds	no	科學主義	inclusive
+ZH325	n	an	no	残忍	inclusive
+ZH2220	n	cds	no	厕所	inclusive
+ZH1553	n	pr	no	姘婦	conservative
+ZH1209	n	cds	no	卡 玛 利 拉	inclusive
+ZH1861	n	om	no	同性戀者	inclusive
+ZH121	n	cds	no	碎屑	inclusive
+ZH3178	n	cds	no	条子	conservative
+ZH230	n	an	no	愚人	conservative
+ZH2093	n	dmc	yes	謊言	inclusive
+ZH1613	n	an	no	蚤目	inclusive
+ZH2570	n	ps	yes	darkey	conservative
+ZH2023	n	ddp	yes	无 知	conservative
+ZH858	n	an	no	犬隻	inclusive
+ZH1419	n	cds	no	日工	inclusive
+ZH246	n	asf	no	梼	conservative
+ZH2750	n	qas	no	恶作剧者	conservative
+ZH2251	n	cds	no	moneygrubber	inclusive
+ZH1609	n	qas	no	逆境	inclusive
+ZH1054	n	om	no	同性	conservative
+ZH3008	a	ddf	yes	变形+的	inclusive
+ZH2823	n	dmc	yes	检点	conservative
+ZH2266	n	an	no	衣蛾	inclusive
+ZH379	n	or	no	pudden头	conservative
+ZH3114	n	an	no	蟾 蜍	inclusive
+ZH2012	n	is	yes	贫困	inclusive
+ZH1961	n	an	no	strix系统的变化	inclusive
+ZH2661	n	re	no	施 刑 者	inclusive
+ZH2726	a	qas	no	教区的	inclusive
+ZH1585	n	om	no	foeniculum vulgare	inclusive
+ZH1880	n	ps	yes	猶太教	inclusive
+ZH2091	n	cds	no	大话	inclusive
+ZH3459	n	dmc	yes	叛 徒	conservative
+ZH988	n	or	no	圓白菜	inclusive
+ZH1667	n	dmc	yes	游荡	inclusive
+ZH2932	n	an	no	鸡肉	inclusive
+ZH550	n	ddp	yes	混账东西	conservative
+ZH1468	n	an	no	法國蝸牛	inclusive
+ZH785	n	an	no	大白鲨	inclusive
+ZH814	n	ddp	yes	傻大個	conservative
+ZH1414	n	cds	no	几十个	inclusive
+ZH1292	n	re	no	違法犯罪	inclusive
+ZH2476	n	ps	yes	mestizo	conservative
+ZH742	n	dmc	yes	奸角	conservative
+ZH1592	n	dmc	yes	foetor	conservative
+ZH466	n	cds	no	取缔	inclusive
+ZH1815	n	re	no	战利品	inclusive
+ZH3473	n	ps	yes	罗姆人	inclusive
+ZH511	n	cds	no	浑蛋	conservative
+ZH815	n	asf	no	阻碍	conservative
+ZH2738	v	is	yes	恳求	inclusive
+ZH238	n	cds	no	蠢材	inclusive
+ZH1447	a	qas	no	放纵+的	inclusive
+ZH2511	n	asm	no	必被人笑	conservative
+ZH1097	n	an	no	温带臭虫	inclusive
+ZH2139	n	cds	no	sassing	inclusive
+ZH2432	n	cds	no	宣传员	inclusive
+ZH457	n	cds	no	带	inclusive
+ZH1606	n	dmc	yes	假証書	inclusive
+ZH751	n	cds	no	大壞人	conservative
+ZH472	n	cds	no	放 逐	conservative
+ZH134	n	an	no	废话	conservative
+ZH3245	a	pa	yes	政治上+的	inclusive
+ZH1069	n	ddp	yes	多嘴的人	conservative
+ZH3429	n	an	no	蠅蛆	inclusive
+ZH1721	n	cds	no	爱说长道短的人	conservative
+ZH536	n	cds	no	卑鄙的人	conservative
+ZH2733	n	cds	no	暴发户	inclusive
+ZH501	n	qas	no	大商人	inclusive
+ZH996	n	svp	no	身体的吸引	inclusive
+ZH251	n	an	no	驢子	inclusive
+ZH1482	n	dmc	yes	公德	inclusive
+ZH767	n	an	no	cakehole	inclusive
+ZH1315	n	cds	no	一分钱小说	inclusive
+ZH3482	n	ps	yes	romanis	inclusive
+ZH192	n	ddp	yes	動物界	inclusive
+ZH3032	n	pa	yes	會計資格	inclusive
+ZH561	n	re	no	诛求	conservative
+ZH1292	n	cds	no	違法犯罪	inclusive
+ZH1910	n	cds	no	主教	inclusive
+ZH1156	n	an	no	鳄目	inclusive
+ZH1769	n	an	no	西域兀鷲	inclusive
+ZH1645	n	cds	no	原教旨主义	inclusive
+ZH2265	n	an	no	蛾子	inclusive
+ZH2762	v	cds	no	咽气	inclusive
+ZH481	n	cds	no	talebearer	conservative
+ZH2855	n	an	no	蝨子	inclusive
+ZH2538	n	ps	yes	黄色人种	conservative
+ZH2488	n	an	no	微 生 物	inclusive
+ZH407	n	qas	no	假话	conservative
+ZH690	n	qas	no	资本家	inclusive
+ZH850	n	cds	no	defrauder	conservative
+ZH2061	n	om	no	女士	inclusive
+ZH220	n	or	no	脑袋	inclusive
+ZH3124	n	an	no	無尾目	inclusive
+ZH89	n	svp	no	恋情propre	conservative
+ZH748	n	dmc	yes	反面角色	conservative
+ZH851	n	dmc	yes	chiseller	conservative
+ZH1724	n	qas	no	窥探	inclusive
+ZH3314	n	re	no	採花大盜	inclusive
+ZH1622	n	dmc	yes	宠臣	inclusive
+ZH1901	n	cds	no	民众	conservative
+ZH1934	n	qas	no	双 雄	inclusive
+ZH3488	a	cds	no	粗野+的	conservative
+ZH3219	n	cds	no	科学主义	inclusive
+ZH1373	n	om	no	anatomical terms of location	inclusive
+ZH532	n	dmc	yes	饭桶	conservative
+ZH2775	v	cds	no	死亡	inclusive
+ZH320	n	rci	yes	莽汉	conservative
+ZH816	n	asf	no	傻大个	conservative
+ZH2217	n	cds	no	公廁	inclusive
+ZH162	n	an	no	鰻魚	inclusive
+ZH2860	n	an	no	虱目	inclusive
+ZH349	n	pa	yes	法 律 顾 问	inclusive
+ZH3186	n	an	no	蟑 螂	inclusive
+ZH2058	a	ddf	yes	道德败坏+的	conservative
+ZH577	n	an	no	ntr	conservative
+ZH1767	n	an	no	欧 亚 格 里 芬	inclusive
+ZH373	n	ddp	yes	柔软的触感	conservative
+ZH3418	n	cds	no	阴 谋 论	inclusive
+ZH461	n	dmc	yes	流 氓	inclusive
+ZH1459	n	asm	no	勃起硬度	inclusive
+ZH2080	n	svp	no	性需求	inclusive
+ZH2433	n	or	no	南瓜果实	inclusive
+ZH581	n	an	no	绿帽子	conservative
+ZH814	n	ddp	yes	傻大個	inclusive
+ZH169	n	an	no	動物群	inclusive
+ZH3481	n	ps	yes	rommany	inclusive
+ZH1093	n	an	no	bed bug	inclusive
+ZH249	n	an	no	没有受过教育的人	conservative
+ZH2193	n	cds	no	混乱的局面	conservative
+ZH3143	v	re	no	偷	inclusive
+ZH3039	n	or	no	芸薹	inclusive
+ZH2952	a	ps	yes	黑色	inclusive
+ZH2056	a	dmc	yes	邪恶+的	conservative
+ZH1871	n	ps	yes	一赐乐业教	inclusive
+ZH1175	n	cds	no	混 合	inclusive
+ZH2464	n	cds	no	污水	inclusive
+ZH1318	n	ps	yes	克劳特	conservative
+ZH754	n	cds	no	老爷汽车	inclusive
+ZH3319	n	cds	no	肤 浅	inclusive
+ZH433	n	an	no	肉用牛	inclusive
+ZH302	n	svp	no	小气	conservative
+ZH638	n	pr	no	母牛	inclusive
+ZH1376	n	om	no	caudal	inclusive
+ZH360	n	qas	no	baroqueness	inclusive
+ZH1879	n	ps	yes	犹 太	inclusive
+ZH1755	v	asm	no	干	conservative
+ZH563	n	re	no	勒索	conservative
+ZH2254	n	ps	yes	蒙古族人	inclusive
+ZH1316	n	ps	yes	krauthead	conservative
+ZH1933	n	qas	no	茅屋	inclusive
+ZH682	n	an	no	水牛	inclusive
+ZH999	n	asm	no	f@ck	conservative
+ZH2905	n	re	no	海贼	inclusive
+ZH244	n	asf	no	蠢驴	conservative
+ZH421	n	ps	yes	贝都因人	inclusive
+ZH448	a	ddp	yes	笨+的	conservative
+ZH2235	n	cds	no	洗手間	inclusive
+ZH855	n	cds	no	痞子	conservative
+ZH1265	n	pr	no	旁妻	inclusive
+ZH219	n	cds	no	城府	inclusive
+ZH3340	n	re	no	折 磨	inclusive
+ZH437	n	dmc	yes	谎话	inclusive
+ZH742	n	re	no	奸角	conservative
+ZH2515	n	an	no	金属块	inclusive
+ZH808	n	ps	yes	流浪者	inclusive
+ZH1281	n	ps	yes	lummox	conservative
+ZH2368	n	an	no	鹦 鹉	inclusive
+ZH1023	n	cds	no	攻 守 同 盟 ，	inclusive
+ZH2045	n	cds	no	教师	inclusive
+ZH3374	n	asm	no	禽	inclusive
+ZH399	n	pr	no	floozy	conservative
+ZH1779	n	an	no	猪属	inclusive
+ZH1533	n	cds	no	狂热	conservative
+ZH451	n	dmc	yes	偏 执	conservative
+ZH2494	n	ddp	yes	小頭畸形	inclusive
+ZH1363	n	om	no	后部	inclusive
+ZH2813	n	cds	no	百事通	conservative
+ZH1770	n	an	no	家猪	inclusive
+ZH3326	n	re	no	恐怖主義	inclusive
+ZH270	n	svp	no	七罪宗	inclusive
+ZH751	n	is	yes	大壞人	conservative
+ZH3355	n	om	no	crossdress	inclusive
+ZH229	n	cds	no	笨蛋	conservative
+ZH3262	n	qas	no	血𤟥	inclusive
+ZH46	n	pa	yes	学 者	inclusive
+ZH1854	n	om	no	同性戀學術列表	inclusive
+ZH254	n	an	no	国内的屁股	inclusive
+ZH1710	n	cds	no	舞男	inclusive
+ZH2136	n	re	no	渎职	inclusive
+ZH2370	n	an	no	鸚形目	inclusive
+ZH1259	n	pr	no	庶妻	inclusive
+ZH574	n	an	no	戴綠帽子	conservative
+ZH2880	a	svp	no	忿怒	inclusive
+ZH2316	n	re	no	黑手黨	conservative
+ZH1014	n	asm	no	ficken	conservative
+ZH1268	a	ddp	yes	輕信	conservative
+ZH2748	v	asm	no	骗取	conservative
+ZH1119	n	an	no	鸮	inclusive
+ZH1448	a	ddp	yes	疯狂+的	inclusive
+ZH651	n	asm	no	褐	inclusive
+ZH461	n	cds	no	流 氓	inclusive
+ZH1425	n	svp	no	贪吃	conservative
+ZH2168	n	asm	no	𣬠𣬶	inclusive
+ZH544	n	cds	no	讨厌鬼	conservative
+ZH528	n	cds	no	黑胫病	inclusive
+ZH2728	a	qas	no	教区+的	inclusive
+ZH1305	n	re	no	刑事罪行	inclusive
+ZH718	n	svp	no	傲慢	conservative
+ZH2317	n	cds	no	黑手党	conservative
+ZH2355	n	qas	no	寄生	inclusive
+ZH374	n	ddp	yes	替死鬼	conservative
+ZH159	n	an	no	anguilliformes	inclusive
+ZH1630	n	asm	no	包皮过长	inclusive
+ZH2859	n	an	no	蝨目	inclusive
+ZH734	n	is	yes	反派	conservative
+ZH2089	a	dmc	yes	无所事事+的	conservative
+ZH2594	n	ps	yes	灰色经济	inclusive
+ZH2456	n	qas	no	修 辞	inclusive
+ZH2596	n	ps	yes	地下金融	inclusive
+ZH862	n	an	no	家犬	inclusive
+ZH2849	n	an	no	虱子	inclusive
+ZH118	n	cds	no	滑稽	inclusive
+ZH2275	n	dmc	yes	马苏里拉	inclusive
+ZH735	n	dmc	yes	惡霸	conservative
+ZH3265	a	cds	no	聪明+的	inclusive
+ZH1885	n	ps	yes	尤太人	inclusive
+ZH1485	n	dmc	yes	風化	inclusive
+ZH2264	n	pr	no	heterocera	inclusive
+ZH442	n	pa	yes	更夫	inclusive
+ZH536	n	ddp	yes	卑鄙的人	conservative
+ZH3141	v	re	no	偷窃	inclusive
+ZH1258	n	pr	no	小妾	inclusive
+ZH1439	n	cds	no	违 法 行 为	inclusive
+ZH3147	v	re	no	偷竊	inclusive
+ZH1772	n	an	no	猪	inclusive
+ZH779	n	ddp	yes	囚 犯	inclusive
+ZH3182	a	re	no	狂暴+的	conservative
+ZH1323	n	cds	no	油漬搖滾	inclusive
+ZH466	n	re	no	取缔	inclusive
+ZH410	n	cds	no	纨裤子弟	inclusive
+ZH2241	n	svp	no	敷衍取巧者	conservative
+ZH279	n	svp	no	吝啬鬼	conservative
+ZH602	n	qas	no	ng片段	inclusive
+ZH1589	n	dmc	yes	恶臭	conservative
+ZH3320	n	re	no	恐怖主义	conservative
+ZH2549	n	cds	no	盜賊	inclusive
+ZH238	n	or	no	蠢材	conservative
+ZH1677	n	asm	no	蚕 豆	inclusive
+ZH2981	a	ps	yes	汉	inclusive
+ZH1549	n	cds	no	老 鸨	inclusive
+ZH1235	n	cds	no	煽动者	conservative
+ZH1307	n	an	no	diddlyshit	conservative
+ZH747	n	dmc	yes	壞蛋	conservative
+ZH1440	n	pa	yes	员 工	inclusive
+ZH2972	a	ps	yes	中国文化+的	inclusive
+ZH2170	a	om	no	同性恋+的	conservative
+ZH1437	n	cds	no	pedagog	inclusive
+ZH450	a	ddp	yes	幼稚+的	conservative
+ZH556	n	cds	no	爱子	inclusive
+ZH1524	n	cds	no	家属	inclusive
+ZH573	n	an	no	戴绿帽	conservative
+ZH2330	n	an	no	贪婪者	conservative
+ZH2039	n	cds	no	教 练	inclusive
+ZH381	n	cds	no	二百五	conservative
+ZH889	n	cds	no	东亚传统计量体系	inclusive
+ZH3007	a	ddp	yes	孩子气+的	inclusive
+ZH2417	n	is	yes	穷人	inclusive
+ZH856	n	qas	no	社会的垃圾	conservative
+ZH1084	n	cds	no	废物	inclusive
+ZH225	n	asm	no	没有判断力的人	conservative
+ZH3230	a	ddp	yes	荒谬+的	conservative
+ZH2534	n	ps	yes	黃色人種	conservative
+ZH2033	n	cds	no	splashiness	inclusive
+ZH1386	n	svp	no	挖 沟 机	conservative
+ZH1277	n	an	no	乱兵	inclusive
+ZH1536	n	cds	no	淫媒	inclusive
+ZH398	n	an	no	街头女孩	conservative
+ZH811	n	om	no	娇媚	conservative
+ZH399	n	an	no	floozy	conservative
+ZH316	n	ps	yes	蠻族	conservative
+ZH1049	n	or	no	⚣	conservative
+ZH3444	n	an	no	属蝰蛇	inclusive
+ZH580	n	an	no	乌龟	conservative
+ZH673	n	qas	no	菜農	inclusive
+ZH2688	n	ps	yes	万达人	inclusive
+ZH922	n	qas	no	母马的窝	inclusive
+ZH394	n	an	no	放荡女	conservative
+ZH3266	a	cds	no	聪 明	inclusive
+ZH2047	n	pa	yes	耶稣会	inclusive
+ZH147	a	ddp	yes	文盲+的	inclusive
+ZH971	n	pa	yes	教 授	inclusive
+ZH3188	n	an	no	蟑螂	inclusive
+ZH149	n	an	no	鰻鱺科	inclusive
+ZH2218	n	cds	no	公用洗手間	inclusive
+ZH3247	a	pa	yes	政 治	inclusive
+ZH407	n	cds	no	假话	conservative
+ZH670	n	qas	no	鄉民	inclusive
+ZH3097	a	ddf	yes	不能令人满意+的	conservative
+ZH2856	n	an	no	蝨	inclusive
+ZH3244	n	cds	no	书呆子	conservative
+ZH1646	n	cds	no	宗 教 原 旨 主 义 。	inclusive
+ZH1397	n	pa	yes	门卫	inclusive
+ZH3153	n	cds	no	wisenheimer	conservative
+ZH2312	n	cds	no	cosa 的 诺 斯 特 拉	inclusive
+ZH652	n	asm	no	茶色	inclusive
+ZH1455	n	re	no	重罪	inclusive
+ZH2288	n	an	no	騾	inclusive
+ZH2523	n	an	no	蜓蛐	inclusive
+ZH2203	v	ddp	yes	使愚蠢	conservative
+ZH2890	n	cds	no	抽风了	conservative
+ZH122	n	qas	no	混杂	inclusive
+ZH2551	n	cds	no	贼	inclusive
+ZH1250	n	pr	no	傍妻	inclusive
+ZH2887	a	om	no	反常的	inclusive
+ZH2648	n	re	no	超級殺手	inclusive
+ZH2819	v	an	no	恼火	conservative
+ZH1731	n	an	no	山羊羚羊	inclusive
+ZH2002	n	is	yes	低 收 入	inclusive
+ZH811	n	cds	no	娇媚	conservative
+ZH122	n	cds	no	混杂	inclusive
+ZH2960	a	asm	no	咖啡色+的	inclusive
+ZH2890	n	asm	no	抽风了	conservative
+ZH284	n	svp	no	貪	inclusive
+ZH3208	a	ps	yes	犹太+的	inclusive
+ZH225	n	ddp	yes	没有判断力的人	conservative
+ZH1795	n	cds	no	扒手	inclusive
+ZH471	n	dmc	yes	坏人	conservative
+ZH1623	n	cds	no	弄臣	inclusive
+ZH471	n	an	no	坏人	conservative
+ZH806	n	dmc	yes	弃 儿	inclusive
+ZH2612	n	an	no	鵝	inclusive
+ZH1593	n	cds	no	finagler	conservative
+ZH2786	v	cds	no	沦没丧亡	inclusive
+ZH671	n	rci	yes	农夫	inclusive
+ZH1544	n	cds	no	皮條客	inclusive
+ZH718	n	cds	no	傲慢	conservative
+ZH3081	n	cds	no	truckler	conservative
+ZH298	n	cds	no	bawdyhouse	inclusive
+ZH1750	n	cds	no	极端右翼分子	conservative
+ZH1063	n	an	no	骨相学	inclusive
+ZH938	n	cds	no	难题	conservative
+ZH771	n	cds	no	内圈	inclusive
+ZH891	n	cds	no	家族	inclusive
+ZH1037	n	om	no	噗	conservative
+ZH1146	n	cds	no	wanker	conservative
+ZH2739	v	cds	no	狼吞虎咽	inclusive
+ZH482	n	ddp	yes	tattletale	conservative
+ZH1463	n	asm	no	人類勃起	inclusive
+ZH3362	n	om	no	易服者	inclusive
+ZH551	n	cds	no	不要脸的家伙	conservative
+ZH2261	n	an	no	蚊子	inclusive
+ZH419	n	cds	no	大混乱	inclusive
+ZH374	n	cds	no	替死鬼	conservative
+ZH1661	n	svp	no	dallier	conservative
+ZH2243	n	an	no	贝类	inclusive
+ZH2623	n	an	no	蜱虫	inclusive
+ZH3149	a	qas	no	封建制度+的	inclusive
+ZH359	n	qas	no	宏 大 的	inclusive
+ZH2350	n	cds	no	chawbacon	conservative
+ZH2063	n	om	no	贵妇人	inclusive
+ZH2896	a	cds	no	傲慢+的	conservative
+ZH6	n	svp	no	惰	inclusive
+ZH1543	n	cds	no	操控妓女	inclusive
+ZH1012	n	asm	no	fk	conservative
+ZH1346	n	om	no	腹 外 侧	inclusive
+ZH817	n	asm	no	愚蠢	inclusive
+ZH1664	n	svp	no	忧郁	conservative
+ZH2874	a	svp	no	敢作敢为+的	inclusive
+ZH466	n	dmc	yes	取缔	inclusive
+ZH339	n	pa	yes	特 使	inclusive
+ZH60	n	pa	yes	院 士	inclusive
+ZH881	n	cds	no	尺斤法	inclusive
+ZH3467	n	ps	yes	吉普赛人	inclusive
+ZH2332	n	an	no	犉	inclusive
+ZH3334	n	re	no	痛苦	inclusive
+ZH729	n	dmc	yes	卑鄙小人	inclusive
+ZH2541	n	pr	no	社交名媛	inclusive
+ZH3026	n	pa	yes	會計師	inclusive
+ZH164	n	an	no	鰻	inclusive
+ZH2678	n	cds	no	高利貸	conservative
+ZH2962	a	asm	no	呈褐色+的	inclusive
+ZH1296	n	re	no	违法	inclusive
+ZH1944	n	an	no	hyaenidae	inclusive
+ZH2292	n	an	no	鼻口部	inclusive
+ZH915	n	an	no	保姆山羊	inclusive
+ZH1226	n	om	no	淑女	inclusive
+ZH367	n	cds	no	反对票	inclusive
+ZH80	n	an	no	犎牛	inclusive
+ZH3288	a	dmc	yes	卑微+的	conservative
+ZH407	n	cds	no	假话	inclusive
+ZH2898	a	cds	no	锋利+的	inclusive
+ZH2834	n	cds	no	八卦	inclusive
+ZH566	n	pa	yes	入殓师	inclusive
+ZH228	n	or	no	傻瓜	conservative
+ZH2041	n	cds	no	导师	inclusive
+ZH2213	n	cds	no	潜行的贼	conservative
+ZH1800	n	cds	no	宵小	inclusive
+ZH875	n	cds	no	部落	inclusive
+ZH1581	n	or	no	茴香	inclusive
+ZH2836	n	is	yes	乞丐	conservative
+ZH424	n	ps	yes	貝督因	inclusive
+ZH852	n	re	no	骗子	inclusive
+ZH2173	n	svp	no	羡	inclusive
+ZH2410	n	an	no	shote	inclusive
+ZH1659	n	an	no	怒气	inclusive
+ZH1518	n	dmc	yes	败家子	inclusive
+ZH2268	n	pr	no	飞蛾	inclusive
+ZH805	n	dmc	yes	被遗弃的	inclusive
+ZH50	n	pa	yes	教 师	inclusive
+ZH1703	n	cds	no	狱卒	inclusive
+ZH2609	n	an	no	鹅	inclusive
+ZH127	n	qas	no	什物	inclusive
+ZH470	n	cds	no	犯人	inclusive
+ZH1576	n	cds	no	骗局	conservative
+ZH2034	n	cds	no	pompousness	conservative
+ZH1106	n	cds	no	异心	inclusive
+ZH2698	n	an	no	秃鹫	inclusive
+ZH2351	n	cds	no	乡巴佬	conservative
+ZH618	n	qas	no	冒失鬼	conservative
+ZH1508	a	dmc	yes	没良心+的	conservative
+ZH233	n	asm	no	傻子	conservative
+ZH1058	n	cds	no	闲话	conservative
+ZH471	n	dmc	yes	坏人	inclusive
+ZH2342	n	cds	no	狗仔隊	inclusive
+ZH412	n	cds	no	fop	inclusive
+ZH234	n	an	no	这个笨蛋	conservative
+ZH1474	n	qas	no	业余爱好者	inclusive
+ZH625	n	pa	yes	售票员	inclusive
+ZH3389	n	asm	no	鳥綱	inclusive
+ZH1594	n	cds	no	wangler	conservative
+ZH1538	n	cds	no	操控性工作者	inclusive
+ZH1029	n	cds	no	newswriter	inclusive
+ZH1478	n	qas	no	业余爱好家	inclusive
+ZH462	n	re	no	流氓	conservative
+ZH1844	n	pr	no	嫖宿	conservative
+ZH235	n	asm	no	tomfool	conservative
+ZH854	n	cds	no	蒙人	conservative
+ZH1812	n	cds	no	偷	inclusive
+ZH1134	n	ddp	yes	先天性碘缺乏症候群	inclusive
+ZH904	n	an	no	家畜山羊	inclusive
+ZH1375	n	om	no	腚	inclusive
+ZH311	n	cds	no	匪	conservative
+ZH3025	n	pa	yes	會計師資格	inclusive
+ZH1809	n	cds	no	防盗	inclusive
+ZH1039	n	or	no	酷兒	conservative
+ZH800	n	cds	no	娛樂場	inclusive
+ZH3275	a	ddp	yes	煞风景+的	inclusive
+ZH1827	n	pr	no	卖 淫	conservative
+ZH1061	n	ddp	yes	rumourmonger	conservative
+ZH2455	n	qas	no	修辞手法	inclusive
+ZH53	n	pa	yes	学会会员	inclusive
+ZH312	n	re	no	强盗	conservative
+ZH2267	n	pr	no	蛾	inclusive
+ZH300	n	is	yes	小气鬼	conservative
+ZH2241	n	cds	no	敷衍取巧者	conservative
+ZH3462	n	an	no	limacidae 。	inclusive
+ZH1919	n	svp	no	暴 食 ，	inclusive
+ZH3105	a	dmc	yes	假+的	conservative
+ZH2051	n	cds	no	笔者	conservative
+ZH3286	a	dmc	yes	浮渣一般+的	conservative
+ZH916	n	an	no	母羊	inclusive
+ZH2933	n	an	no	雞肉	inclusive
+ZH405	n	pr	no	rentboy	conservative
+ZH1742	n	dmc	yes	混日子过	conservative
+ZH3022	n	pa	yes	会计	inclusive
+ZH2015	n	svp	no	静止	inclusive
+ZH3034	a	is	yes	孤立+的	inclusive
+ZH823	n	an	no	母狗	inclusive
+ZH2090	n	cds	no	谎	inclusive
+ZH125	n	cds	no	omnium公司的gatherum	inclusive
+ZH2824	n	dmc	yes	无聊之徒	conservative
+ZH854	n	re	no	蒙人	inclusive
+ZH2888	n	asm	no	手淫	conservative
+ZH2484	n	an	no	鲨鱼	inclusive
+ZH2138	n	cds	no	回响	inclusive
+ZH2672	a	cds	no	普通+的	inclusive
+ZH2876	a	svp	no	发怒+的	inclusive
+ZH2498	n	ddp	yes	microcephalus	inclusive
+ZH1000	n	asm	no	nookie	conservative
+ZH2195	n	cds	no	一团糟	conservative
+ZH548	n	ddp	yes	恶棍	conservative
+ZH552	n	cds	no	无赖	conservative
+ZH430	n	ps	yes	貝督因人	inclusive
+ZH884	n	cds	no	亲属组	inclusive
+ZH748	n	is	yes	反面角色	conservative
+ZH1902	n	cds	no	群众	conservative
+ZH2655	n	re	no	杀人犯	inclusive
+ZH1324	n	cds	no	土 壤	inclusive
+ZH1450	a	ddp	yes	精神错乱+的	inclusive
+ZH2833	n	cds	no	八卦新闻	inclusive
+ZH1155	n	an	no	鱷目	inclusive
+ZH2150	n	cds	no	婚姻经纪人	inclusive
+ZH3438	n	re	no	暴力	inclusive
+ZH133	n	asf	no	胡闹	conservative
+ZH232	n	asm	no	saphead	conservative
+ZH1411	n	cds	no	一大堆	inclusive
+ZH553	n	cds	no	通过打击	inclusive
+ZH815	n	cds	no	阻碍	inclusive
+ZH1518	n	dmc	yes	败家子	conservative
+ZH708	n	qas	no	中產階層	inclusive
+ZH1172	n	ps	yes	植 物 育 种	inclusive
+ZH1588	n	om	no	finocchio	inclusive
+ZH3407	n	cds	no	ndrangheta	inclusive
+ZH89	n	cds	no	恋情propre	conservative
+ZH2985	a	cds	no	书记+的	inclusive
+ZH2264	n	an	no	heterocera	inclusive
+ZH1576	n	cds	no	骗局	inclusive
+ZH851	n	cds	no	chiseller	inclusive
+ZH745	n	an	no	惡役	conservative
+ZH2957	a	asm	no	褐色+的	inclusive
+ZH3289	a	dmc	yes	下流+的	conservative
+ZH3313	n	re	no	性虐待	inclusive
+ZH2800	n	or	no	洋山芋	inclusive
+ZH1945	n	cds	no	低 音 歌 手	inclusive
+ZH1992	n	ddp	yes	荒 谬 的	conservative
+ZH405	n	an	no	rentboy	conservative
+ZH1398	n	pa	yes	看 门 人	inclusive
+ZH103	n	om	no	㚻姦	inclusive
+ZH512	n	an	no	斯洛文	conservative
+ZH1229	n	cds	no	乱画的画	inclusive
+ZH1989	n	ddp	yes	nonsensicality	conservative
+ZH1269	a	ddp	yes	轻信	conservative
+ZH1863	n	om	no	同志愛	inclusive
+ZH189	n	ddp	yes	動物	inclusive
+ZH1844	n	pr	no	嫖宿	inclusive
+ZH471	n	re	no	坏人	inclusive
+ZH2539	n	ps	yes	c系人种	conservative
+ZH2013	n	svp	no	不活动	inclusive
+ZH311	n	cds	no	匪	inclusive
+ZH2633	n	re	no	杀人	inclusive
+ZH231	n	or	no	蠢才	conservative
+ZH1349	n	om	no	凯斯特	inclusive
+ZH601	n	cds	no	贻误	inclusive
+ZH3014	n	pr	no	轻佻的女子	conservative
+ZH1326	n	cds	no	煤尘	inclusive
+ZH2362	n	qas	no	行政堂区	inclusive
+ZH229	n	an	no	笨蛋	conservative
+ZH74	n	ddp	yes	智力障礙	inclusive
+ZH1640	n	cds	no	freemasonry	inclusive
+ZH2070	n	dmc	yes	伪	conservative
+ZH1537	n	cds	no	老鸨	conservative
+ZH1858	n	om	no	同性關係	inclusive
+ZH1466	n	qas	no	sciolist	conservative
+ZH3167	n	an	no	水蛭	inclusive
+ZH2470	n	ps	yes	混 血 儿	conservative
+ZH3426	n	cds	no	受贿	conservative
+ZH2797	n	or	no	爱尔兰马铃薯	inclusive
+ZH124	n	qas	no	混合 - 曼格莱	inclusive
+ZH2969	a	cds	no	过誉+的	conservative
+ZH1060	n	ddp	yes	爱说闲话	conservative
+ZH2385	n	dmc	yes	邪恶	inclusive
+ZH2708	n	an	no	蠕	inclusive
+ZH3499	n	ps	yes	祖魯族	inclusive
+ZH302	n	is	yes	小气	conservative
+ZH2949	a	ps	yes	黑	inclusive
+ZH544	n	ddp	yes	讨厌鬼	conservative
+ZH2084	a	dmc	yes	懒惰+的	conservative
+ZH413	n	cds	no	混乱	conservative
+ZH2322	n	ps	yes	东哥特人	inclusive
+ZH1942	n	an	no	條紋鬣狗屬	inclusive
+ZH223	n	asf	no	betise	conservative
+ZH1207	n	or	no	黄瓜籽	inclusive
+ZH319	n	pa	yes	野 蛮	conservative
+ZH1741	n	svp	no	没出息	conservative
+ZH57	n	qas	no	的手工业	conservative
+ZH1043	n	om	no	男性同性恋	conservative
+ZH3110	n	an	no	青蛙	inclusive
+ZH2248	n	an	no	软体动物	inclusive
+ZH2089	a	svp	no	无所事事+的	conservative
+ZH2764	v	cds	no	淪沒喪亡	inclusive
+ZH939	n	cds	no	困难	conservative
+ZH3466	n	ps	yes	rroma	inclusive
+ZH2289	n	an	no	马骡	inclusive
+ZH2877	a	svp	no	恼怒+的	inclusive
+ZH2869	n	cds	no	religiousism	inclusive
+ZH2978	a	ps	yes	中	inclusive
+ZH748	n	cds	no	反面角色	conservative
+ZH2599	n	cds	no	慕男狂者	conservative
+ZH3283	a	ddp	yes	不能+的	inclusive
+ZH557	n	cds	no	私 生 子	inclusive
+ZH2306	n	cds	no	警 察	inclusive
+ZH3501	n	ps	yes	祖鲁人	inclusive
+ZH642	n	pr	no	家牛	inclusive
+ZH1728	n	cds	no	中间人	inclusive
+ZH459	n	cds	no	坏分子	conservative
+ZH3386	n	asm	no	飛鳥	inclusive
+ZH1995	n	is	yes	穷	inclusive
+ZH2471	n	ps	yes	梅斯蒂索	conservative
+ZH2175	n	svp	no	羨慕	inclusive
+ZH2629	n	re	no	谋 杀	inclusive
+ZH1406	n	cds	no	采空区	inclusive
+ZH1184	n	cds	no	新手，	conservative
+ZH3423	n	om	no	變裝皇后	inclusive
+ZH2940	n	cds	no	小娃娃	inclusive
+ZH2057	a	dmc	yes	可耻+的	conservative
+ZH808	n	dmc	yes	流浪者	inclusive
+ZH856	n	ddp	yes	社会的垃圾	conservative
+ZH3242	n	an	no	美國紅魚	inclusive
+ZH393	n	an	no	娼妓	conservative
+ZH1133	n	ddp	yes	地方性呆小症	inclusive
+ZH2735	v	is	yes	求	inclusive
+ZH2840	n	cds	no	sniveller	conservative
+ZH1517	n	dmc	yes	挥 霍 无 度 的	inclusive
+ZH3381	n	asm	no	活禽	inclusive
+ZH1403	n	cds	no	筏	inclusive
+ZH2346	n	cds	no	干草屑	conservative
+ZH2207	n	ps	yes	对任意nc	inclusive
+ZH3308	n	re	no	调 戏	inclusive
+ZH817	n	asf	no	愚蠢	conservative
+ZH1230	n	cds	no	劣画	inclusive
+ZH812	n	ddp	yes	调换儿	inclusive
+ZH312	n	cds	no	强盗	inclusive
+ZH741	n	is	yes	悲 惨 的 小 人 ，	conservative
+ZH3128	n	an	no	蟾蜍中毒	inclusive
+ZH1531	n	qas	no	泄露	inclusive
+ZH1837	n	pr	no	红灯业	inclusive
+ZH185	n	an	no	animals	inclusive
+ZH1567	n	qas	no	农场主	inclusive
+ZH2792	n	or	no	potatoe	inclusive
+ZH1100	n	an	no	半翅目的昆虫	inclusive
+ZH3358	n	om	no	女扮男裝	inclusive
+ZH3183	n	an	no	blattodea	inclusive
+ZH2679	n	cds	no	高利贷	inclusive
+ZH1321	n	cds	no	grunge	inclusive
+ZH3449	n	pa	yes	職員	inclusive
+ZH238	n	asf	no	蠢材	conservative
+ZH1697	n	pr	no	枪情妇	inclusive
+ZH234	n	asf	no	这个笨蛋	conservative
+ZH689	n	qas	no	专 业 类	inclusive
+ZH2256	n	ps	yes	蒙古人	inclusive
+ZH3333	n	re	no	苦恼	inclusive
+ZH726	n	cds	no	混帐	conservative
+ZH2111	a	is	yes	哀伤+的	inclusive
+ZH1850	n	om	no	男 性 欲	inclusive
+ZH381	n	ddp	yes	二百五	conservative
+ZH2870	n	cds	no	宗 教 歧 视	inclusive
+ZH2866	a	an	no	恶心的	inclusive
+ZH1751	v	asm	no	肏	conservative
+ZH2205	n	cds	no	牛贼	inclusive
+ZH246	n	an	no	梼	conservative
+ZH741	n	an	no	悲 惨 的 小 人 ，	conservative
+ZH1717	n	asf	no	恥毛	inclusive
+ZH3309	n	re	no	性暴力	inclusive
+ZH541	n	cds	no	兔崽子	conservative
+ZH3050	n	re	no	綁架奪財	inclusive
+ZH548	n	cds	no	恶棍	inclusive
+ZH586	n	an	no	红杏出墙	conservative
+ZH15	n	svp	no	意志缺失	inclusive
+ZH1937	n	an	no	鬣狗属	inclusive
+ZH3204	n	an	no	狐狼	inclusive
+ZH2948	a	ps	yes	乌色+的	inclusive
+ZH9	n	svp	no	懒	inclusive
+ZH2654	n	cds	no	时间服务器	conservative
+ZH2481	n	an	no	鯊	inclusive
+ZH560	n	re	no	勒 索	conservative
+ZH830	n	re	no	訾	inclusive
+ZH2414	n	cds	no	阴谋家	inclusive
+ZH259	n	an	no	欧洲野牛	inclusive
+ZH2718	n	qas	no	吃白食	conservative
+ZH2035	n	cds	no	ostentatiousness	inclusive
+ZH880	n	cds	no	原始部族	inclusive
+ZH1062	n	ddp	yes	爱传播新闻	conservative
+ZH542	n	cds	no	卑劣的家伙	conservative
+ZH728	n	dmc	yes	和	inclusive
+ZH563	n	re	no	勒索	inclusive
+ZH1663	n	svp	no	延宕dallier	conservative
+ZH1603	n	pa	yes	鱼贩	inclusive
+ZH1931	n	qas	no	棚子	inclusive
+ZH748	n	re	no	反面角色	conservative
+ZH2460	n	an	no	锯鲉	inclusive
+ZH1182	n	re	no	酷刑	inclusive
+ZH1958	n	dmc	yes	赝品	inclusive
+ZH1352	n	om	no	近 端	inclusive
+ZH458	n	cds	no	流氓罪	conservative
+ZH1540	n	cds	no	媽媽生	conservative
+ZH348	n	pa	yes	提倡者	inclusive
+ZH2646	n	re	no	凶 杀 案 侦 探	inclusive
+ZH126	n	qas	no	gallimaufry	inclusive
+ZH226	n	asf	no	蠢人	conservative
+ZH1956	a	is	yes	气量小+的	conservative
+ZH1762	a	cds	no	不合规定+的	inclusive
+ZH2723	n	qas	no	cadger	conservative
+ZH1604	n	dmc	yes	论文造假	inclusive
+ZH533	n	ddp	yes	可恶的家伙	conservative
+ZH1811	n	re	no	偷竊	inclusive
+ZH810	n	cds	no	胆怯者	conservative
+ZH1715	n	asf	no	陰毛	inclusive
+ZH957	n	qas	no	特 权 制 度	inclusive
+ZH2145	n	asm	no	栗 色	inclusive
+ZH233	n	cds	no	傻子	inclusive
+ZH3252	a	is	yes	贫困+的	inclusive
+ZH2799	n	or	no	马铃薯	inclusive
+ZH2434	n	or	no	南瓜	inclusive
+ZH1552	n	pr	no	寵婢	conservative
+ZH2657	n	or	no	番茄	inclusive
+ZH446	a	cds	no	蠢	conservative
+ZH257	n	an	no	驴子	inclusive
+ZH1896	n	ps	yes	猶太詞源	inclusive
+ZH2670	a	qas	no	常见+的	inclusive
+ZH742	n	an	no	奸角	conservative
+ZH1002	n	asm	no	推出的干草	conservative
+ZH3195	n	cds	no	二流	conservative
+ZH265	n	svp	no	暴怒	inclusive
+ZH820	n	pr	no	bitch	conservative
+ZH3419	n	om	no	扮装皇后	inclusive
+ZH3303	n	re	no	性侵害	inclusive
+ZH940	n	qas	no	布衣	inclusive
+ZH3411	n	an	no	互聯網惡作劇	conservative
+ZH1975	n	ddf	yes	殘障	inclusive
+ZH594	n	cds	no	flub	inclusive
+ZH2766	v	cds	no	弃世	inclusive
+ZH307	n	qas	no	睪丸	inclusive
+ZH2568	n	ps	yes	黑人	inclusive
+ZH228	n	ddp	yes	傻瓜	inclusive
+ZH1686	n	asm	no	欧洲豆	inclusive
+ZH548	n	re	no	恶棍	inclusive
+ZH1305	n	cds	no	刑事罪行	inclusive
+ZH2886	a	om	no	异常的	inclusive
+ZH3359	n	om	no	易服癖	inclusive
+ZH3154	n	cds	no	聪明的家伙	conservative
+ZH1051	n	om	no	男同性恋	conservative
+ZH1299	n	cds	no	罪案	inclusive
+ZH1473	n	qas	no	业余技艺家	inclusive
+ZH21	n	qas	no	助手	inclusive
+ZH2112	a	is	yes	不 幸 的	inclusive
+ZH2681	n	cds	no	高利	inclusive
+ZH1026	n	pa	yes	下 士	inclusive
+ZH537	n	ddp	yes	下贱人	conservative
+ZH621	n	dmc	yes	fumbler	conservative
+ZH1360	n	om	no	后结束	inclusive
+ZH1897	n	ps	yes	犹太族	inclusive
+ZH1027	n	pa	yes	下士	inclusive
+ZH2452	n	qas	no	感 慨 道	inclusive
+ZH3321	n	re	no	恐怖份子	conservative
+ZH746	n	dmc	yes	歹角	conservative
+ZH684	n	om	no	开溜	inclusive
+ZH702	n	qas	no	中产阶级	inclusive
+ZH1204	n	or	no	黄 瓜	inclusive
+ZH3094	a	dmc	yes	不洁+的	inclusive
+ZH345	n	pa	yes	辩护者	inclusive
+ZH2690	n	an	no	毒蛇	inclusive
+ZH1966	n	ddf	yes	身心障礙	inclusive
+ZH376	n	or	no	笨	conservative
+ZH233	n	asf	no	傻子	conservative
+ZH1488	n	dmc	yes	道德动机	inclusive
+ZH1513	n	dmc	yes	縱慾主義	conservative
+ZH70	n	asm	no	白痴	conservative
+ZH1160	n	an	no	鳄科	inclusive
+ZH1503	n	is	yes	可怜的家伙	inclusive
+ZH488	n	cds	no	捣蛋	conservative
+ZH1121	n	an	no	猫头鹰	inclusive
+ZH1371	n	om	no	尻	inclusive
+ZH2211	n	cds	no	schoolma'am	conservative
+ZH2571	n	ps	yes	尼格罗人	inclusive
+ZH1452	a	qas	no	精神失常+的	conservative
+ZH724	n	an	no	阉公牛	inclusive
+ZH2009	n	is	yes	窮人	inclusive
+ZH154	n	an	no	anguilla	inclusive
+ZH1450	a	qas	no	精神错乱+的	conservative
+ZH2477	n	ps	yes	麥士蒂索人	conservative
+ZH902	n	an	no	属卡普拉	inclusive
+ZH1044	n	om	no	gay	inclusive
+ZH3150	n	cds	no	势利	conservative
+ZH2626	n	an	no	草爬子	inclusive
+ZH750	n	cds	no	反派角色	conservative
+ZH1563	n	rci	yes	农民	inclusive
+ZH1608	n	dmc	yes	假證書	inclusive
+ZH2180	a	svp	no	妒忌+的	conservative
+ZH863	n	an	no	狗隻	inclusive
+ZH317	n	cds	no	粗 暴 的 人 吧	conservative
+ZH1325	n	cds	no	污 垢	inclusive
+ZH1378	n	om	no	臀	inclusive
+ZH2926	n	an	no	鳮	inclusive
+ZH824	n	re	no	诽 谤	inclusive
+ZH1471	n	an	no	田螺	inclusive
+ZH1173	n	cds	no	杂交种	inclusive
+ZH1313	n	an	no	diddlysquat	conservative
+ZH70	n	cds	no	白痴	conservative
+ZH452	n	svp	no	独断论者	conservative
+ZH593	n	cds	no	爽	inclusive
+ZH821	n	pr	no	淫妇	conservative
+ZH1788	n	cds	no	御用文人	conservative
+ZH529	n	cds	no	破坏罢工的工人	inclusive
+ZH3470	n	ps	yes	吉卜赛	inclusive
+ZH355	n	an	no	狗	inclusive
+ZH1724	n	cds	no	窥探	conservative
+ZH2260	n	an	no	culicidae	inclusive
+ZH264	n	svp	no	贪 婪	inclusive
+ZH77	n	pa	yes	“学院派”	inclusive
+ZH2931	n	an	no	小鸡	inclusive
+ZH1082	n	cds	no	家 居 废 物	inclusive
+ZH1749	n	cds	no	反動派	conservative
+ZH1370	n	om	no	腹 侧	inclusive
+ZH3348	n	pa	yes	白領階級	inclusive
+ZH370	n	cds	no	浅bleu	inclusive
+ZH342	n	pa	yes	律师	inclusive
+ZH1515	n	dmc	yes	浪荡子	conservative
+ZH3405	n	cds	no	地溝	inclusive
+ZH470	n	dmc	yes	犯人	inclusive
+ZH2794	n	or	no	tater	inclusive
+ZH745	n	cds	no	惡役	conservative
+ZH895	n	pa	yes	店员	inclusive
+ZH871	n	om	no	paederast	conservative
+ZH1741	n	dmc	yes	没出息	conservative
+ZH2347	n	dmc	yes	粗人	conservative
+ZH3409	n	cds	no	重利	inclusive
+ZH1083	n	cds	no	垃圾	conservative
+ZH859	n	an	no	国内的狗	inclusive
+ZH3236	n	an	no	眼斑拟石首鱼	inclusive
+ZH2779	v	cds	no	死去	inclusive
+ZH749	n	cds	no	大惡人	conservative
+ZH653	n	asm	no	褐色	inclusive
+ZH598	n	cds	no	大错	inclusive
+ZH3321	n	re	no	恐怖份子	inclusive
+ZH187	n	ddp	yes	獸類	inclusive
+ZH326	n	ddp	yes	野蛮	inclusive
+ZH778	n	ddp	yes	俘虏	inclusive
+ZH301	n	is	yes	守财奴	conservative
+ZH2665	n	dmc	yes	霍爾蒙克斯	inclusive
+ZH1047	n	om	no	男同性戀	conservative
+ZH376	n	ddp	yes	笨	conservative
+ZH1565	n	qas	no	農民	inclusive
+ZH1761	a	cds	no	非法+的	inclusive
+ZH2202	v	ddp	yes	使糊涂	conservative
+ZH2691	n	an	no	毒 蛇	inclusive
+ZH1390	n	svp	no	trencherman	conservative
+ZH397	n	an	no	妓男	conservative
+ZH378	n	cds	no	可怜的鱼	conservative
+ZH375	n	asf	no	懦夫	conservative
+ZH2422	n	pa	yes	门房	inclusive
+ZH1569	n	qas	no	sodbuster	inclusive
+ZH229	n	ddp	yes	笨蛋	conservative
+ZH2354	n	qas	no	自 体 感 染	inclusive
+ZH1144	n	qas	no	全体水手	inclusive
+ZH126	n	cds	no	gallimaufry	inclusive
+ZH2892	a	cds	no	自尊自大+的	conservative
+ZH1086	n	qas	no	废 铁 ，	inclusive
+ZH1217	n	qas	no	拒绝	conservative
+ZH816	n	ps	yes	傻大个	conservative
+ZH1825	n	pr	no	prostitution	inclusive
+ZH2630	n	re	no	故意杀人罪	inclusive
+ZH3213	a	qas	no	中古+的	inclusive
+ZH1659	n	svp	no	怒气	conservative
+ZH356	n	qas	no	男爵	inclusive
+ZH196	n	re	no	诽谤	inclusive
+ZH1317	n	ps	yes	杰里	conservative
+ZH619	n	dmc	yes	blunderer	conservative
+ZH306	n	asm	no	懒子籽	inclusive
+ZH3390	n	asm	no	鸟类	inclusive
+ZH2308	n	cds	no	警察	conservative
+ZH1238	n	pr	no	情 妇	inclusive
+ZH318	n	ddp	yes	蛮族	conservative
+ZH185	n	ddp	yes	animals	inclusive
+ZH2419	n	pa	yes	猪肉屠夫	inclusive
+ZH316	n	ddp	yes	蠻族	conservative
+ZH743	n	an	no	壞人	conservative
+ZH1537	n	cds	no	老鸨	inclusive
+ZH3238	n	an	no	红鼓	inclusive
+ZH372	n	an	no	嚼	conservative
+ZH2284	n	an	no	慢性子	conservative
+ZH829	n	re	no	诬陷	inclusive
+ZH242	n	asf	no	muttonhead	conservative
+ZH619	n	qas	no	blunderer	conservative
+ZH741	n	cds	no	悲 惨 的 小 人 ，	conservative
+ZH3176	a	re	no	凶猛+的	conservative
+ZH3450	n	pa	yes	員工	inclusive
+ZH1979	n	ddf	yes	殘廢	inclusive
+ZH401	n	pr	no	站壁	conservative
+ZH974	n	or	no	包菜	inclusive
+ZH3369	n	om	no	变装	inclusive
+ZH2573	n	ps	yes	黑种人	inclusive
+ZH201	n	re	no	姦淫	conservative
+ZH1267	n	pr	no	朝臣	inclusive
+ZH3455	n	an	no	极北蝰	inclusive
+ZH73	n	ddp	yes	智力障碍	inclusive
+ZH1489	n	dmc	yes	说 教 的	inclusive
+ZH454	n	cds	no	帮 派 文 化	inclusive
+ZH228	n	ps	yes	傻瓜	conservative
+ZH578	n	an	no	戴綠帽	conservative
+ZH2669	n	dmc	yes	不幸	inclusive
+ZH1624	n	cds	no	滑 稽 。	inclusive
+ZH2892	a	svp	no	自尊自大+的	conservative
+ZH2323	n	ps	yes	东哥特	inclusive
+ZH867	n	an	no	小狗	inclusive
+ZH283	n	svp	no	貪心	inclusive
+ZH237	n	ddp	yes	呆子	inclusive
+ZH3113	n	an	no	鼀	inclusive
+ZH173	n	ddp	yes	動物相	inclusive
+ZH250	n	om	no	驴	inclusive
+ZH746	n	an	no	歹角	conservative
+ZH2363	n	qas	no	教 区	inclusive
+ZH233	n	ps	yes	傻子	conservative
+ZH1823	n	pr	no	嫖娼	conservative
+ZH3346	n	pa	yes	文員	inclusive
+ZH1247	n	pr	no	庶配	inclusive
+ZH1301	n	cds	no	刑事犯罪	inclusive
+ZH236	n	ps	yes	白癡	conservative
+ZH3474	n	ps	yes	罗姆	inclusive
+ZH491	n	ps	yes	玄色	inclusive
+ZH353	n	pa	yes	律師	inclusive
+ZH95	a	an	no	不改过自新+的	inclusive
+ZH2693	n	an	no	禿鷲	inclusive
+ZH1052	n	om	no	homophile	inclusive
+ZH1520	n	dmc	yes	大肆挥霍	inclusive
+ZH134	n	an	no	废话	inclusive
+ZH1744	n	dmc	yes	懒人做的很好	conservative
+ZH630	n	an	no	凶猛	conservative
+ZH382	n	cds	no	布丁头	conservative
+ZH2551	n	re	no	贼	inclusive
+ZH510	n	qas	no	大王	inclusive
+ZH735	n	is	yes	惡霸	conservative
+ZH1664	n	dmc	yes	忧郁	conservative
+ZH735	n	an	no	惡霸	conservative
+ZH3222	a	qas	no	中产阶级+的	inclusive
+ZH462	n	dmc	yes	流氓	inclusive
+ZH1354	n	om	no	对 侧	inclusive
+ZH237	n	cds	no	呆子	conservative
+ZH2438	n	pr	no	狹鼠屬	inclusive
+ZH736	n	an	no	歹徒	conservative
+ZH1413	n	cds	no	负载	inclusive
+ZH1282	n	asm	no	doofus	conservative
+ZH1673	n	asm	no	英语豆	inclusive
+ZH635	n	an	no	黄牛	inclusive
+ZH899	n	an	no	山羊屬	inclusive
+ZH2489	n	an	no	pip-吱吱声	conservative
+ZH1389	n	svp	no	gourmandizer	inclusive
+ZH2974	a	ps	yes	中国+的	inclusive
+ZH3120	n	an	no	蛙	inclusive
+ZH2372	a	dmc	yes	无情+的	conservative
+ZH1563	n	qas	no	农民	inclusive
+ZH1925	n	qas	no	小 屋	inclusive
+ZH242	n	an	no	muttonhead	conservative
+ZH2777	v	cds	no	去世	inclusive
+ZH64	n	ddp	yes	智 障	inclusive
+ZH292	n	cds	no	馬欖	inclusive
+ZH1832	n	pr	no	賣春	inclusive
+ZH857	n	ddp	yes	乌合之众和短尾	conservative
+ZH1176	n	cds	no	杂 交	inclusive
+ZH2113	a	is	yes	不幸+的	inclusive
+ZH711	n	cds	no	自以为是	conservative
+ZH134	n	asf	no	废话	conservative
+ZH1319	n	ps	yes	博凯	conservative
+ZH3330	n	asm	no	菲勒斯	inclusive
+ZH231	n	ps	yes	蠢才	conservative
+ZH352	n	pa	yes	執業律師	inclusive
+ZH1285	n	cds	no	犯罪	inclusive
+ZH377	n	cds	no	pillock	conservative
+ZH2628	n	an	no	蜱	inclusive
+ZH3352	n	pr	no	桦尺蠖	inclusive
+ZH621	n	ddp	yes	fumbler	conservative
+ZH388	n	pr	no	鸨母	conservative
+ZH1166	n	cds	no	间 杂 种	inclusive
+ZH2065	n	om	no	贵族夫人	inclusive
+ZH740	n	is	yes	大反派	conservative
+ZH2788	v	cds	no	计较	inclusive
+ZH2517	n	an	no	水蜒蚰	inclusive
+ZH182	n	ddp	yes	epifaunal 的	inclusive
+ZH2279	n	dmc	yes	马苏里拉奶酪	inclusive
+ZH176	n	ddp	yes	动物区系	inclusive
+ZH203	n	re	no	姦污	conservative
+ZH1539	n	cds	no	性交易媒合者	conservative
+ZH2212	n	cds	no	女教师	conservative
+ZH2970	a	cds	no	阿谀奉承+的	conservative
+ZH2146	n	asm	no	褐紫紅	inclusive
+ZH3173	n	an	no	蚂蟥	inclusive
+ZH1575	n	cds	no	fascista	inclusive
+ZH317	n	ps	yes	粗 暴 的 人 吧	conservative
+ZH2205	n	re	no	牛贼	inclusive
+ZH427	n	ps	yes	贝 都 因 人	inclusive
+ZH1547	n	cds	no	pandar	conservative
+ZH338	n	pa	yes	法律顾问，在法律	inclusive
+ZH2237	n	cds	no	茅厕	inclusive
+ZH2995	n	pa	yes	美国教授体系	inclusive
+ZH2662	n	dmc	yes	精子微人	inclusive
+ZH2832	n	cds	no	说闲话	inclusive
+ZH2451	n	qas	no	修辭法	inclusive
+ZH2987	a	cds	no	陈腐+的	inclusive
+ZH2020	a	ddp	yes	未受教育的	conservative
+ZH2514	n	qas	no	沉子	inclusive
+ZH2567	n	ps	yes	jigaboo	conservative
+ZH3256	a	is	yes	贫穷	inclusive
+ZH97	a	an	no	顽固+的	inclusive
+ZH744	n	re	no	惡棍	conservative
+ZH1255	n	pr	no	納妾	inclusive
+ZH1432	n	an	no	罗马蜗牛	inclusive
+ZH743	n	re	no	壞人	conservative
+ZH1148	n	ddp	yes	twerp	conservative
+ZH2991	a	svp	no	趾高气扬+的	conservative
+ZH452	n	dmc	yes	独断论者	conservative
+ZH2252	n	ps	yes	蒙 古	inclusive
+ZH1969	n	ddf	yes	障碍	inclusive
+ZH537	n	cds	no	下贱人	conservative
+ZH2141	n	qas	no	店 主	inclusive
+ZH516	n	cds	no	杂种狗	inclusive
+ZH455	n	cds	no	青 年 团 伙 的	conservative
+ZH57	n	cds	no	的手工业	conservative
+ZH1344	n	om	no	屁屁	inclusive
+ZH936	n	cds	no	问题	conservative
+ZH568	n	pa	yes	殡仪馆	inclusive
+ZH2928	n	an	no	布莱	inclusive
+ZH788	n	an	no	大白鯊	inclusive
+ZH3125	n	an	no	蝦蟆	inclusive
+ZH458	n	dmc	yes	流氓罪	conservative
+ZH236	n	cds	no	白癡	conservative
+ZH1031	n	cds	no	newspaperwoman	inclusive
+ZH796	n	cds	no	賭館	inclusive
+ZH2196	n	cds	no	mussiness	conservative
+ZH2398	n	asm	no	青豌豆	inclusive
+ZH2086	a	svp	no	怕工作+的	conservative
+ZH2107	a	is	yes	傷悲	inclusive
+ZH19	n	svp	no	spiritlessness	inclusive
+ZH1123	n	an	no	鸮形目	inclusive
+ZH1387	n	svp	no	餮	conservative
+ZH2244	n	an	no	軟體動物	inclusive
+ZH2782	v	cds	no	交粮本	inclusive
+ZH1152	n	an	no	鱷魚	inclusive
+ZH3123	n	an	no	蜮	inclusive
+ZH749	n	re	no	大惡人	conservative
+ZH972	n	pa	yes	椅 子	inclusive
+ZH1358	n	om	no	包子	inclusive
+ZH2408	n	pa	yes	佃农	inclusive
+ZH2164	n	asm	no	朘朘	inclusive
+ZH2029	a	ddp	yes	无教育+的	conservative
+ZH2381	n	cds	no	党	inclusive
+ZH296	n	cds	no	娼館	inclusive
+ZH1145	n	cds	no	挺举关闭	conservative
+ZH1946	n	cds	no	轻 哼	inclusive
+ZH3211	a	svp	no	淫荡+的	conservative
+ZH811	n	an	no	娇媚	conservative
+ZH1868	n	om	no	同性恋学术著作列表	inclusive
+ZH1535	n	cds	no	皮 条 客	conservative
+ZH1892	n	ps	yes	犹太裔	inclusive
+ZH104	n	om	no	雞姦	inclusive
+ZH2727	a	qas	no	教區的	inclusive
+ZH2608	n	qas	no	租 户 农 场	inclusive
+ZH3041	n	or	no	brassica rapa	inclusive
+ZH2272	n	dmc	yes	莫薩里拉乾酪	inclusive
+ZH2392	n	asm	no	豌豆	inclusive
+ZH2700	n	pa	yes	赶大车的人	inclusive
+ZH240	n	ddp	yes	numskull	conservative
+ZH2677	v	cds	no	监听	inclusive
+ZH1053	n	om	no	男同	inclusive
+ZH3103	n	qas	no	漂流船	inclusive
+ZH1011	n	asm	no	一块屁股	conservative
+ZH312	n	dmc	yes	强盗	conservative
+ZH2513	n	qas	no	坠 子	inclusive
+ZH2388	a	dmc	yes	狠毒+的	conservative
+ZH293	n	cds	no	赌场	inclusive
+ZH1191	n	qas	no	遵照	inclusive
+ZH299	n	cds	no	女閭	inclusive
+ZH247	n	asf	no	傻 瓜	conservative
+ZH1913	n	dmc	yes	无家可归的人	inclusive
+ZH1782	n	an	no	家豬	inclusive
+ZH945	n	cds	no	球	inclusive
+ZH1401	n	cds	no	压摆	inclusive
+ZH2478	n	an	no	selachimorpha	inclusive
+ZH514	n	cds	no	举止粗鲁的人	conservative
+ZH248	n	ddp	yes	什么都不知道	conservative
+ZH2615	n	an	no	黑雁	inclusive
+ZH2121	n	cds	no	高 利 贷	conservative
+ZH1448	a	qas	no	疯狂+的	conservative
+ZH1596	n	asm	no	pterygiophore	inclusive
+ZH1216	n	qas	no	剔除	conservative
+ZH3452	n	pa	yes	员工	inclusive
+ZH2407	n	asm	no	麦豌豆	inclusive
+ZH323	n	ddp	yes	暴行	inclusive
+ZH3259	n	qas	no	警犬	inclusive
+ZH128	n	cds	no	混杂物	inclusive
+ZH1624	n	dmc	yes	滑 稽 。	inclusive
+ZH260	n	an	no	歐洲野牛	inclusive
+ZH309	n	qas	no	压载	inclusive
+ZH71	n	ddp	yes	智能障礙	inclusive
+ZH3140	n	an	no	大蟾蜍	inclusive
+ZH937	n	cds	no	问 题	conservative
+ZH1042	n	om	no	同性恋者	conservative
+ZH1818	n	re	no	被盗窃的财物	inclusive
+ZH316	n	rci	yes	蠻族	conservative
+ZH2850	n	an	no	常见的虱子	inclusive
+ZH158	n	an	no	安 圭 拉	inclusive
+ZH935	n	cds	no	麻 烦	conservative
+ZH552	n	an	no	无赖	conservative
+ZH1587	n	om	no	茴香菜	inclusive
+ZH182	n	an	no	epifaunal 的	inclusive
+ZH177	n	ddp	yes	animal	inclusive
+ZH1320	n	cds	no	垃圾音乐	inclusive
+ZH1808	n	cds	no	小偷	inclusive
+ZH1176	n	ps	yes	杂 交	inclusive
+ZH2682	n	cds	no	九出十三归	conservative
+ZH2163	n	asm	no	子孫根	inclusive
+ZH3085	n	cds	no	马屁精	conservative
+ZH1582	n	or	no	大茴香	inclusive
+ZH76	n	pa	yes	学院派	inclusive
+ZH1743	n	svp	no	换好前功尽弃	conservative
+ZH1043	n	om	no	男性同性恋	inclusive
+ZH2371	n	svp	no	节俭	inclusive
+ZH3000	n	cds	no	支持	inclusive
+ZH3393	n	asm	no	鸟类动物	inclusive
+ZH1826	n	pr	no	卖淫	inclusive
+ZH1393	n	an	no	绵羊白羊座	inclusive
+ZH2780	v	cds	no	逝去	inclusive
+ZH393	n	pr	no	娼妓	conservative
+ZH1774	n	an	no	毛猪	inclusive
+ZH460	n	an	no	流氓頭子	conservative
+ZH619	n	cds	no	blunderer	conservative
+ZH1234	n	cds	no	蛊 惑 人 心 的	conservative
+ZH2692	n	an	no	兀鹰	inclusive
+ZH964	n	pa	yes	博导	inclusive
+ZH515	n	cds	no	邋遢的人	conservative
+ZH3373	n	pr	no	hetaira	inclusive
+ZH1502	n	cds	no	妖孽	conservative
+ZH1159	n	an	no	crocodylidae	inclusive
+ZH742	n	is	yes	奸角	conservative
+ZH2673	a	qas	no	通 常	inclusive
+ZH1866	n	om	no	同性戀	inclusive
+ZH2702	n	dmc	yes	穿幫	inclusive
+ZH1836	n	pr	no	買春	inclusive
+ZH617	n	ddp	yes	笨手笨脚	conservative
+ZH3458	n	dmc	yes	变节者	conservative
+ZH1504	a	dmc	yes	不诚实+的	conservative
+ZH2634	n	re	no	杀戮	inclusive
+ZH1039	n	om	no	酷兒	conservative
+ZH1441	n	pa	yes	雇员	inclusive
+ZH2083	n	cds	no	懒骨头	conservative
+ZH100	n	om	no	㚻	inclusive
+ZH2291	n	an	no	吻突	inclusive
+ZH2301	n	cds	no	犯罪分子	inclusive
+ZH1494	n	an	no	eurypterida	inclusive
+ZH1171	n	cds	no	杂交品种	inclusive
+ZH2894	a	cds	no	自负+的	conservative
+ZH606	n	cds	no	ng鏡頭	inclusive
+ZH524	n	cds	no	罢 工	inclusive
+ZH336	n	pa	yes	律 师	inclusive
+ZH813	n	asm	no	調換兒	inclusive
+ZH2720	v	cds	no	议价	inclusive
+ZH1048	n	or	no	基佬	conservative
+ZH3487	a	cds	no	举止粗鲁的	conservative
+ZH761	a	ddf	yes	醜	inclusive
+ZH1295	n	re	no	非 法 活 动	inclusive
+ZH137	n	cds	no	热情	inclusive
+ZH377	n	ddp	yes	pillock	conservative
+ZH2022	n	ddp	yes	无知	conservative
+ZH1055	n	om	no	男同性戀者	inclusive
+ZH1732	n	an	no	羊亚科	inclusive
+ZH238	n	ddp	yes	蠢材	conservative
+ZH375	n	ddp	yes	懦夫	conservative
+ZH2428	n	svp	no	骄傲	inclusive
+ZH1035	n	om	no	poove	conservative
+ZH1139	n	ddp	yes	克汀病	inclusive
+ZH729	n	cds	no	卑鄙小人	conservative
+ZH667	n	qas	no	农户	inclusive
+ZH268	n	svp	no	七宗罪	inclusive
+ZH2225	n	cds	no	衛生間	inclusive
+ZH3106	a	dmc	yes	虚伪+的	conservative
+ZH195	n	re	no	中伤	conservative
+ZH647	n	asm	no	棕色	inclusive
+ZH109	n	om	no	插肛	inclusive
+ZH2625	n	an	no	ixodida	inclusive
+ZH1808	n	re	no	小偷	inclusive
+ZH701	n	qas	no	資產階級	inclusive
+ZH239	n	or	no	shithead	conservative
+ZH747	n	an	no	壞蛋	conservative
+ZH504	n	qas	no	高层管理人员	inclusive
+ZH1523	n	svp	no	faineance	inclusive
+ZH17	n	svp	no	意志力丧失	inclusive
+ZH3424	n	dmc	yes	流浪	inclusive
+ZH3260	n	qas	no	猎犬	inclusive
+ZH538	n	cds	no	坏蛋	conservative
+ZH748	n	an	no	反面角色	conservative
+ZH1110	n	svp	no	贪 爱	inclusive
+ZH438	n	cds	no	fib	conservative
+ZH2920	n	an	no	母鸡	inclusive
+ZH357	n	qas	no	男 爵	inclusive
+ZH1914	n	qas	no	房 子 画 家	inclusive
+ZH705	n	qas	no	资产阶级	inclusive
+ZH3371	n	pr	no	巫婆	conservative
+ZH1196	n	cds	no	桑尼	inclusive
+ZH1213	n	or	no	cucurbita maxima	inclusive
+ZH3494	n	an	no	athene noctua	inclusive
+ZH346	n	pa	yes	倡导者	inclusive
+ZH1192	n	qas	no	守规	inclusive
+ZH1981	n	ddf	yes	自残	inclusive
+ZH2216	n	cds	no	方便市民	inclusive
+ZH493	n	ps	yes	黑	conservative
+ZH2454	n	qas	no	修辞法	inclusive
+ZH1839	n	pr	no	路 边 爬 行 ，	conservative
+ZH1960	n	an	no	strix varia	inclusive
+ZH3468	n	ps	yes	茨冈人	inclusive
+ZH3356	n	om	no	跨梳妆台	inclusive
+ZH2204	n	cds	no	大虫	inclusive
+ZH1337	n	dmc	yes	假	conservative
+ZH2408	n	qas	no	佃农	inclusive
+ZH2827	a	om	no	异常+的	inclusive
+ZH1727	n	an	no	蚊	inclusive
+ZH600	n	cds	no	轶 事	inclusive
+ZH2317	n	cds	no	黑手党	inclusive
+ZH751	n	an	no	大壞人	conservative
+ZH231	n	asm	no	蠢才	conservative
+ZH1730	n	cds	no	代祷者	inclusive
+ZH1626	n	dmc	yes	滑稽演员	inclusive
+ZH3151	n	cds	no	一本正经	conservative
+ZH440	n	dmc	yes	制作者	conservative
+ZH2798	n	or	no	墨菲	inclusive
+ZH1211	n	cds	no	卡玛利拉	inclusive
+ZH2807	n	or	no	patatas	inclusive
+ZH67	n	ddp	yes	鲁钝	inclusive
+ZH3006	a	ddp	yes	青春期+的	inclusive
+ZH1566	n	qas	no	農家人	inclusive
+ZH1611	n	qas	no	困境	inclusive
+ZH1330	n	cds	no	污秽	inclusive
+ZH2119	n	cds	no	高利贷者	inclusive
+ZH3020	n	pr	no	破鞋	conservative
+ZH1188	n	qas	no	相容性	inclusive
+ZH531	n	ddp	yes	王八蛋	conservative
+ZH1056	n	om	no	男同志	conservative
+ZH2493	n	an	no	animalculum	inclusive
+ZH2603	n	cds	no	纵 欲	conservative
+ZH319	n	qas	no	野 蛮	conservative
+ZH1506	a	dmc	yes	不谨慎+的	conservative
+ZH1165	n	ps	yes	interfertility	inclusive
+ZH1030	n	cds	no	駐地記者	inclusive
+ZH2913	n	re	no	剽竊	inclusive
+ZH373	n	asm	no	柔软的触感	conservative
+ZH237	n	ddp	yes	呆子	conservative
+ZH2246	n	an	no	mollusca	inclusive
+ZH3480	n	ps	yes	吉普赛	inclusive
+ZH666	n	pr	no	褐鼠	inclusive
+ZH3015	n	pr	no	坏东西	conservative
+ZH1605	n	dmc	yes	偽造文書	inclusive
+ZH458	n	re	no	流氓罪	conservative
+ZH2559	n	cds	no	narcism	inclusive
+ZH2156	n	asm	no	何b仔	inclusive
+ZH96	a	an	no	不妥协于变化+的	inclusive
+ZH246	n	or	no	梼	conservative
+ZH2148	n	asm	no	深红色	inclusive
+ZH447	a	cds	no	愚	conservative
+ZH1359	n	om	no	tooshie	inclusive
+ZH728	n	an	no	和	conservative
+ZH2378	a	dmc	yes	无人性+的	conservative
+ZH461	n	re	no	流 氓	conservative
+ZH2276	n	dmc	yes	莫扎雷拉芝士	inclusive
+ZH2927	n	an	no	volaille	inclusive
+ZH1723	n	cds	no	旁观者	conservative
+ZH230	n	asm	no	愚人	conservative
+ZH760	a	ddf	yes	歹	inclusive
+ZH1217	n	cds	no	拒绝	conservative
+ZH500	n	qas	no	实 业 家	inclusive
+ZH2986	a	cds	no	平凡+的	inclusive
+ZH1577	n	cds	no	诡计	conservative
+ZH917	n	an	no	母山羊	inclusive
+ZH1864	n	om	no	gayness	inclusive
+ZH2569	n	ps	yes	darkie	conservative
+ZH450	a	ddp	yes	幼稚+的	inclusive
+ZH1652	n	cds	no	原教旨主义者	inclusive
+ZH1939	n	an	no	鬣狗科	inclusive
+ZH3130	n	an	no	癩蝦蟆	inclusive
+ZH305	n	qas	no	睾丸	inclusive
+ZH738	n	an	no	邪派	conservative
+ZH1400	n	dmc	yes	拖欠的	conservative
+ZH116	n	cds	no	戏谑	inclusive
+ZH3129	n	an	no	无尾目	inclusive
+ZH265	n	an	no	暴怒	inclusive
+ZH1084	n	cds	no	废物	conservative
+ZH1617	n	an	no	跳蚤	inclusive
+ZH3337	n	re	no	刑訊	inclusive
+ZH751	n	re	no	大壞人	conservative
+ZH961	n	cds	no	老师	inclusive
+ZH34	n	re	no	辱骂	inclusive
+ZH1462	n	asm	no	勃起硬度等級	inclusive
+ZH3083	n	cds	no	节者	conservative
+ZH976	n	or	no	捲心菜	inclusive
+ZH1056	n	or	no	男同志	conservative
+ZH3284	a	dmc	yes	卑鄙+的	conservative
+ZH2093	n	cds	no	謊言	inclusive
+ZH1711	n	asf	no	鸡鸡毛	inclusive
+ZH2983	a	cds	no	办公室工作+的	inclusive
+ZH1528	n	cds	no	民族	inclusive
+ZH327	n	ddp	yes	残暴	inclusive
+ZH1282	n	ps	yes	doofus	conservative
+ZH1227	n	cds	no	dastardliness	conservative
+ZH2781	v	cds	no	命赴黃泉	inclusive
+ZH169	n	ddp	yes	動物群	inclusive
+ZH1633	n	cds	no	共济会	inclusive
+ZH1620	n	dmc	yes	motley fool的	inclusive
+ZH459	n	re	no	坏分子	conservative
+ZH3483	n	ps	yes	吉卜賽人	inclusive
+ZH469	n	cds	no	法外之徒	inclusive
+ZH2554	n	dmc	yes	半品脱	conservative
+ZH1442	a	qas	no	神志失常+的	inclusive
+ZH3378	n	asm	no	鸟	inclusive
+ZH318	n	rci	yes	蛮族	conservative
+ZH2724	n	qas	no	scrounger	conservative
+ZH2310	a	ddp	yes	拥有巨头+的	inclusive
+ZH1018	n	an	no	兔	inclusive
+ZH1491	n	an	no	广 翅 鲎	inclusive
+ZH215	n	re	no	强奸	conservative
+ZH622	n	an	no	身体绑架者	inclusive
+ZH115	n	cds	no	恶作剧	inclusive
+ZH1270	a	ddp	yes	可欺	conservative
+ZH2307	n	cds	no	警官	conservative
+ZH3027	n	pa	yes	会 计 师	inclusive
+ZH1511	n	dmc	yes	放 荡	conservative
+ZH1220	n	cds	no	的欺骗者	conservative
+ZH2119	n	cds	no	高利贷者	conservative
+ZH1338	n	dmc	yes	掩 饰	conservative
+ZH2632	n	re	no	谋杀	inclusive
+ZH2990	a	svp	no	自我本位+的	conservative
+ZH1082	n	qas	no	家 居 废 物	inclusive
+ZH2058	a	dmc	yes	道德败坏+的	conservative
+ZH1915	n	qas	no	刷墙	inclusive
+ZH845	n	re	no	traducer	conservative
+ZH2650	n	re	no	slayer	inclusive
+ZH2321	n	ps	yes	東哥德人	inclusive
+ZH2001	n	is	yes	贫	inclusive
+ZH1562	n	qas	no	格兰杰	inclusive
+ZH2891	n	cds	no	打手枪	conservative
+ZH628	n	ddp	yes	zooerasty	conservative
+ZH809	n	an	no	wuss	conservative
+ZH244	n	an	no	蠢驴	conservative
+ZH2527	n	cds	no	mystifier	conservative
+ZH2864	n	an	no	食毛目	inclusive
+ZH2241	n	dmc	yes	敷衍取巧者	conservative
+ZH5	v	an	no	吠	inclusive
+ZH718	n	cds	no	傲慢	inclusive
+ZH751	n	dmc	yes	大壞人	conservative
+ZH3376	n	asm	no	鳥兒	inclusive
+ZH2364	n	qas	no	教 会 区	inclusive
+ZH709	n	cds	no	肿头	conservative
+ZH812	n	ps	yes	调换儿	conservative
+ZH229	n	asf	no	笨蛋	conservative
+ZH455	n	cds	no	青 年 团 伙 的	inclusive
+ZH3285	a	dmc	yes	卑鄙无耻	conservative
+ZH1171	n	ps	yes	杂交品种	inclusive
+ZH631	n	an	no	恶意	conservative
+ZH323	n	an	no	暴行	inclusive
+ZH244	n	ddp	yes	蠢驴	conservative
+ZH921	n	svp	no	niggardness	conservative
+ZH2745	v	re	no	欺诈	inclusive
+ZH1183	n	re	no	施酷刑	inclusive
+ZH3442	n	re	no	打架鬥毆	inclusive
+ZH157	n	an	no	鳗鲡属	inclusive
+ZH2759	v	cds	no	交糧本	inclusive
+ZH2412	n	an	no	豚猪	inclusive
+ZH3354	n	om	no	變裝	inclusive
+ZH685	n	om	no	sodomist	inclusive
+ZH3030	n	pa	yes	會計	inclusive
+ZH494	n	ps	yes	玈	inclusive
+ZH815	n	ddp	yes	阻碍	inclusive
+ZH1010	n	asm	no	拧紧	conservative
+ZH3157	a	dmc	yes	邋遢+的	conservative
+ZH2003	n	is	yes	贫乏	inclusive
+ZH2239	n	cds	no	偷懒	conservative
+ZH38	n	cds	no	因 素	inclusive
+ZH322	n	ddp	yes	暴虐	inclusive
+ZH3457	n	an	no	蝰蛇berus	inclusive
+ZH375	n	cds	no	懦夫	conservative
+ZH170	n	ddp	yes	动 物	inclusive
+ZH3234	a	qas	no	一般+的	inclusive
+ZH2906	n	re	no	學術誠信	inclusive
+ZH1301	n	re	no	刑事犯罪	inclusive
+ZH2889	n	asm	no	手头的工作	conservative
+ZH3019	n	pr	no	fornicatress	conservative
+ZH1288	n	re	no	犯法	inclusive
+ZH2964	a	cds	no	过分恭维+的	conservative
+ZH2239	n	svp	no	偷懒	conservative
+ZH2024	n	ddp	yes	愚昧	conservative
+ZH1074	n	cds	no	庸医	conservative
+ZH2929	n	an	no	gallus domesticus	inclusive
+ZH2313	n	cds	no	cosa的诺斯特拉	inclusive
+ZH2219	n	cds	no	廁所	inclusive
+ZH2335	n	an	no	肥仔	conservative
+ZH2183	n	svp	no	火气	inclusive
+ZH1694	n	asf	no	小洞洞	conservative
+ZH2548	n	cds	no	賊	inclusive
+ZH2496	n	ddp	yes	小頭症	inclusive
+ZH2740	v	cds	no	使吃得过饱	inclusive
+ZH727	n	an	no	败类袋	conservative
+ZH2329	n	an	no	東美角鴞	inclusive
+ZH2373	a	dmc	yes	粗暴+的	conservative
+ZH801	n	cds	no	赌 场	inclusive
+ZH2126	n	an	no	昆虫	inclusive
+ZH2561	n	cds	no	自恋狂	inclusive
+ZH777	n	ddp	yes	被监禁的人	inclusive
+ZH2554	n	ddf	yes	半品脱	conservative
+ZH1812	n	re	no	偷	inclusive
+ZH90	n	cds	no	虚荣心	conservative
+ZH1127	n	an	no	鴟鴞目	inclusive
+ZH258	n	an	no	equus asinus asinus	inclusive
+ZH2177	n	svp	no	因维迪亚	inclusive
+ZH552	n	dmc	yes	无赖	inclusive
+ZH813	n	cds	no	調換兒	inclusive
+ZH1699	n	cds	no	狱 卒	inclusive
+ZH772	n	cds	no	小圈子	inclusive
+ZH3297	n	ddp	yes	瞎说	inclusive
+ZH3420	n	om	no	扮装王后	inclusive
+ZH2743	v	cds	no	大口吞食	inclusive
+ZH731	n	dmc	yes	过流浪生涯	conservative
+ZH3291	a	dmc	yes	破旧+的	conservative
+ZH181	n	an	no	獸	inclusive
+ZH3179	n	cds	no	缔约方会议	conservative
+ZH1962	n	an	no	禁止猫头鹰	inclusive
+ZH2021	a	ddp	yes	无教养+的	conservative
+ZH3349	n	pa	yes	文職	inclusive
+ZH343	n	pa	yes	法律顾问	inclusive
+ZH1955	n	cds	no	崇拜偶像	inclusive
+ZH75	n	ddp	yes	智障人士	inclusive
+ZH396	n	an	no	租 金 男 孩	conservative
+ZH1005	n	asm	no	他妈的	conservative
+ZH1385	n	qas	no	狗房	inclusive
+ZH460	n	cds	no	流氓頭子	conservative
+ZH224	n	an	no	黑头	conservative
+ZH2169	n	asm	no	小弟弟	inclusive
+ZH2116	n	re	no	误杀	inclusive
+ZH923	n	qas	no	凌乱	inclusive
+ZH70	n	ps	yes	白痴	conservative
+ZH3370	n	om	no	性倒错	inclusive
+ZH394	n	pr	no	放荡女	conservative
+ZH1833	n	pr	no	约 翰	conservative
+ZH595	n	cds	no	嘘 - 嘘	inclusive
+ZH3142	v	re	no	盗	inclusive
+ZH187	n	an	no	獸類	inclusive
+ZH1503	n	cds	no	可怜的家伙	conservative
+ZH2744	v	re	no	欺骗	inclusive
+ZH1681	n	asm	no	广泛豆	inclusive
+ZH3038	n	or	no	蕓薹	inclusive
+ZH2598	n	cds	no	花痴	conservative
+ZH2908	n	re	no	剽竊行為	inclusive
+ZH3397	n	asm	no	鳥	inclusive
+ZH1290	n	cds	no	兇犯	inclusive
+ZH456	n	cds	no	街 头 帮 派	conservative
+ZH1021	n	an	no	野兔	inclusive
+ZH2803	n	or	no	进 水 口	inclusive
+ZH1372	n	om	no	尾部	inclusive
+ZH428	n	ps	yes	贝多因人	inclusive
+ZH3075	a	om	no	不同+的	inclusive
+ZH3406	n	re	no	光榮會	inclusive
+ZH3161	a	rci	yes	热那亚人+的	inclusive
+ZH1803	n	cds	no	偷窃	inclusive
+ZH2108	a	is	yes	悲伤+的	inclusive
+ZH2280	n	dmc	yes	莫薩里拉起司	inclusive
+ZH1054	n	or	no	同性	conservative
+ZH1829	n	pr	no	召妓	inclusive
+ZH243	n	or	no	fuckhead	conservative
+ZH1415	n	cds	no	很 多	inclusive
+ZH629	n	ddp	yes	zooerastia	conservative
+ZH318	n	dmc	yes	蛮族	conservative
+ZH1783	n	an	no	豬屬	inclusive
+ZH1971	n	ddf	yes	禁 用	inclusive
+ZH865	n	an	no	汪星人	inclusive
+ZH1047	n	or	no	男同性戀	conservative
+ZH2007	n	is	yes	贫穷	inclusive
+ZH2036	n	cds	no	华丽	inclusive
+ZH2393	n	asm	no	麻累	inclusive
+ZH1822	n	cds	no	跑跑腿	inclusive
+ZH1973	n	ddf	yes	身体或智力上的障碍	inclusive
+ZH312	n	cds	no	强盗	conservative
+ZH901	n	an	no	山羊属	inclusive
+ZH605	n	qas	no	outtake	inclusive
+ZH3279	a	ddf	yes	媸	conservative
+ZH3005	a	ddp	yes	属于儿童时代+的	inclusive
+ZH440	n	cds	no	制作者	conservative
+ZH1837	n	pr	no	红灯业	conservative
+ZH1650	n	cds	no	基本教義派	inclusive
+ZH1643	n	an	no	皱眉	inclusive
+ZH229	n	cds	no	笨蛋	inclusive
+ZH3472	n	ps	yes	羅姆人	inclusive
+ZH472	n	cds	no	放 逐	inclusive
+ZH2082	n	dmc	yes	说谎者	conservative
+ZH639	n	pr	no	牛	inclusive
+ZH2863	n	an	no	蝨毛目	inclusive
+ZH153	n	an	no	家庭anguillidae	inclusive
+ZH908	n	an	no	山羊动物	inclusive
+ZH770	n	cds	no	圈内人	inclusive
+ZH1655	n	an	no	狂暴	inclusive
+ZH65	n	ddp	yes	智力残疾	inclusive
+ZH2293	n	an	no	口吻	inclusive
+ZH736	n	cds	no	歹徒	conservative
+ZH175	n	an	no	凶残的人	inclusive
+ZH2274	n	dmc	yes	莫萨里拉干酪	inclusive
+ZH2429	n	svp	no	憍傲	inclusive
+ZH166	n	an	no	鯠	inclusive
+ZH2357	n	qas	no	parasitism	inclusive
+ZH227	n	cds	no	蠢货	conservative
+ZH3305	n	re	no	性 侵 犯	inclusive
+ZH224	n	ddp	yes	黑头	conservative
+ZH470	n	re	no	犯人	inclusive
+ZH1423	n	ddf	yes	侏儒	conservative
+ZH1472	n	an	no	法式田螺	inclusive
+ZH1970	n	ddf	yes	残疾	inclusive
+ZH3137	n	an	no	欧洲蟾蜍	inclusive
+ZH2868	a	an	no	污秽+的	inclusive
+ZH1067	n	an	no	脸	inclusive
+ZH81	n	an	no	野牛	inclusive
+ZH844	n	re	no	诽谤者	conservative
+ZH722	n	an	no	食用牛	inclusive
+ZH1078	n	ddp	yes	黃六醫生	conservative
+ZH2349	n	dmc	yes	乡下人	conservative
+ZH2162	n	asm	no	懒叫	inclusive
+ZH797	n	cds	no	卡西诺	inclusive
+ZH747	n	is	yes	壞蛋	conservative
+ZH3322	n	re	no	國際恐怖主義	conservative
+ZH483	n	ddp	yes	taleteller	conservative
+ZH2206	n	re	no	窃贼	inclusive
+ZH2647	n	re	no	殺害	inclusive
+ZH1476	n	qas	no	業餘愛好者	inclusive
+ZH534	n	ddp	yes	讨厌的人	conservative
+ZH926	n	qas	no	散乱	inclusive
+ZH2683	n	cds	no	大耳隆	inclusive
+ZH704	n	qas	no	案 头 工 作	inclusive
+ZH743	n	cds	no	壞人	conservative
+ZH3360	n	om	no	扮裝	inclusive
+ZH277	n	svp	no	吝啬	inclusive
+ZH2137	n	cds	no	上海社会科学院	inclusive
+ZH2937	n	cds	no	婴 儿	inclusive
+ZH752	n	re	no	大壞蛋	conservative
+ZH2552	n	re	no	竊賊	inclusive
+ZH2062	n	om	no	女 士 们 ，	inclusive
+ZH620	n	cds	no	笨拙的	conservative
+ZH813	n	ddp	yes	調換兒	conservative
+ZH986	n	or	no	甘蓝	inclusive
+ZH2616	n	an	no	branta bernicla	inclusive
+ZH2658	n	or	no	西红柿	inclusive
+ZH332	n	qas	no	贩子	inclusive
+ZH231	n	cds	no	蠢才	conservative
+ZH1682	n	asm	no	蠶豆	inclusive
+ZH85	n	an	no	美国水牛	inclusive
+ZH2281	n	dmc	yes	莫薩里拉芝士	inclusive
+ZH2505	n	pa	yes	牧羊人	inclusive
+ZH1766	n	an	no	兀鹫	inclusive
+ZH600	n	qas	no	轶 事	inclusive
+ZH812	n	asm	no	调换儿	inclusive
+ZH132	a	svp	no	忮	conservative
+ZH2806	n	or	no	土豆	inclusive
+ZH406	n	qas	no	谎言	conservative
+ZH431	n	ps	yes	贝杜因人	inclusive
+ZH267	n	svp	no	大罪	inclusive
+ZH1994	n	ddp	yes	废 话	conservative
+ZH3443	n	an	no	蝰屬	inclusive
+ZH317	n	rci	yes	粗 暴 的 人 吧	conservative
+ZH3489	a	cds	no	鲁莽的	conservative
+ZH2213	n	dmc	yes	潜行的贼	conservative
+ZH1052	n	or	no	homophile	conservative
+ZH320	n	ps	yes	莽汉	conservative
+ZH301	n	svp	no	守财奴	conservative
+ZH752	n	dmc	yes	大壞蛋	conservative
+ZH2474	n	ps	yes	印欧混血种人	conservative
+ZH1616	n	an	no	siphonaptera	inclusive
+ZH1166	n	ps	yes	间 杂 种	inclusive
+ZH3406	n	cds	no	光榮會	inclusive
+ZH192	n	an	no	動物界	inclusive
+ZH1377	n	om	no	同 侧	inclusive
+ZH549	n	cds	no	愚蠢的人	conservative
+ZH318	n	cds	no	蛮族	conservative
+ZH3098	a	ddf	yes	不满意+的	conservative
+ZH395	n	pr	no	企街	conservative
+ZH2348	n	dmc	yes	土包子	conservative
+ZH3187	n	an	no	曱甴	inclusive
+ZH616	n	qas	no	循 规 蹈 矩 的	conservative
+ZH3315	n	re	no	性 骚 扰	inclusive
+ZH237	n	asf	no	呆子	conservative
+ZH2644	n	re	no	命案	inclusive
+ZH1719	n	asf	no	jj毛	inclusive
+ZH1584	n	om	no	茴 香	inclusive
+ZH944	n	cds	no	ballup	inclusive
+ZH1838	n	pr	no	性 服 务	conservative
+ZH319	n	cds	no	野 蛮	conservative
+ZH3163	n	an	no	hirudinea	inclusive
+ZH1109	n	svp	no	瘾	inclusive
+ZH279	n	svp	no	吝啬鬼	inclusive
+ZH2619	n	re	no	恐怖分子	conservative
+ZH2885	a	an	no	兽性+的	inclusive
+ZH634	n	svp	no	倦怠	inclusive
+ZH1718	n	asf	no	裆发	inclusive
+ZH2086	a	dmc	yes	怕工作+的	conservative
+ZH3318	n	cds	no	trasformismo（transformism）	inclusive
+ZH2760	v	cds	no	与世长辞	inclusive
+ZH1278	n	an	no	despoiler	inclusive
+ZH3463	n	ps	yes	吉卜赛人	inclusive
+ZH2605	n	cds	no	性慾亢進	conservative
+ZH1075	n	ddp	yes	蒙古大夫	conservative
+ZH1167	n	cds	no	自然杂交种	inclusive
+ZH2461	n	an	no	蚰	inclusive
+ZH1048	n	om	no	基佬	conservative
+ZH795	n	cds	no	娱乐场	inclusive
+ZH1251	n	pr	no	如夫人	inclusive
+ZH1653	n	cds	no	原 教 旨 主 义	inclusive
+ZH498	n	qas	no	大亨	inclusive
+ZH1763	n	an	no	小鹅	inclusive
+ZH965	n	pa	yes	博士生导师	inclusive
+ZH2423	n	pa	yes	高山協作員	inclusive
+ZH72	n	ddp	yes	精神发育迟滞	inclusive
+ZH3217	a	qas	no	中世纪的	inclusive
+ZH813	n	ps	yes	調換兒	conservative
+ZH2238	n	cds	no	厕 所	inclusive
+ZH1583	n	om	no	八角茴香	inclusive
+ZH765	a	ddf	yes	壞	inclusive
+ZH478	n	an	no	美洲野牛屬	inclusive
+ZH139	n	cds	no	奮銳黨人	inclusive
+ZH590	n	qas	no	gag reel	inclusive
+ZH2915	n	re	no	抄襲	inclusive
+ZH32	n	re	no	凌虐	inclusive
+ZH512	n	cds	no	斯洛文	conservative
+ZH2066	n	om	no	女勳爵	inclusive
+ZH2838	n	is	yes	寒酸样子的孩子	conservative
+ZH229	n	asm	no	笨蛋	conservative
+ZH3267	a	ddp	yes	淡+的	inclusive
+ZH3428	n	an	no	蛆蟲	inclusive
+ZH2912	n	re	no	海盜	inclusive
+ZH2157	n	asm	no	阴 茎	inclusive
+ZH716	n	svp	no	傲气	conservative
+ZH822	n	pr	no	贱人	conservative
+ZH1458	n	asm	no	硬上	inclusive
+ZH1147	n	asm	no	twirp	conservative
+ZH362	n	qas	no	巴洛克式建築	inclusive
+ZH69	n	ddp	yes	智能不足	inclusive
+ZH217	n	re	no	姦淫婦女	conservative
+ZH374	n	asf	no	替死鬼	conservative
+ZH695	n	qas	no	資產階級革命	inclusive
+ZH68	n	ddp	yes	弱智	inclusive
+ZH1824	n	pr	no	淫行	inclusive
+ZH2088	a	dmc	yes	懒散+的	conservative
+ZH2971	n	is	yes	穷光蛋	inclusive
+ZH237	n	asm	no	呆子	conservative
+ZH3127	n	an	no	蛤蟆	inclusive
+ZH2236	n	cds	no	廁	inclusive
+ZH237	n	an	no	呆子	conservative
+ZH486	n	cds	no	坏事	conservative
+ZH2097	a	is	yes	傷心	inclusive
+ZH637	n	an	no	bos taurus	inclusive
+ZH1102	n	an	no	半翅目昆虫	inclusive
+ZH2936	n	cds	no	赤子	inclusive
+ZH2231	n	cds	no	w.c	inclusive
+ZH1175	n	ps	yes	混 合	inclusive
+ZH550	n	cds	no	混账东西	conservative
+ZH3310	n	re	no	採花蜂	inclusive
+ZH380	n	ddp	yes	stupe	conservative
+ZH1388	n	svp	no	美 食 家	inclusive
+ZH2769	v	cds	no	离开人世	inclusive
+ZH613	n	cds	no	独断	conservative
+ZH390	n	pr	no	妓 女	conservative
+ZH222	n	or	no	bonce	inclusive
+ZH2662	n	cds	no	精子微人	inclusive
+ZH639	n	an	no	牛	inclusive
+ZH144	n	ddp	yes	analphabet	inclusive
+ZH423	n	ps	yes	贝都英人	inclusive
+ZH1264	n	pr	no	側室	inclusive
+ZH1095	n	an	no	壁虱	inclusive
+ZH311	n	dmc	yes	匪	conservative
+ZH3437	n	re	no	殴打	inclusive
+ZH2312	n	re	no	cosa 的 诺 斯 特 拉	inclusive
+ZH1410	n	cds	no	许多	inclusive
+ZH2187	n	svp	no	忾	inclusive
+ZH792	n	an	no	食人鲨	inclusive
+ZH982	n	or	no	包心菜	inclusive
+ZH2681	n	cds	no	高利	conservative
+ZH1137	n	ddp	yes	呆小病	inclusive
+ZH374	n	asm	no	替死鬼	conservative
+ZH1128	n	an	no	鴞形目	inclusive
+ZH740	n	an	no	大反派	conservative
+ZH245	n	or	no	lunkhead	conservative
+ZH3492	n	pr	no	牝牛	inclusive
+ZH538	n	qas	no	坏蛋	conservative
+ZH3051	n	re	no	拍花	inclusive
+ZH855	n	qas	no	痞子	conservative
+ZH729	n	dmc	yes	卑鄙小人	conservative
+ZH2895	a	cds	no	自大+的	conservative
+ZH121	n	qas	no	碎屑	inclusive
+ZH1669	n	cds	no	法西斯主义	conservative
+ZH1835	n	pr	no	淫乱	conservative
+ZH1064	n	an	no	相面	inclusive
+ZH2519	n	an	no	鼻涕蟲	inclusive
+ZH282	n	svp	no	貪婪	inclusive
+ZH2529	n	an	no	螔蝓	inclusive
+ZH2316	n	cds	no	黑手黨	conservative
+ZH558	n	re	no	要挟	conservative
+ZH816	n	ddp	yes	傻大个	inclusive
+ZH1978	n	ddf	yes	残 疾 人	inclusive
+ZH2590	n	pa	yes	求婚者	inclusive
+ZH3227	a	ddp	yes	愚钝+的	conservative
+ZH484	n	ddp	yes	告密者	conservative
+ZH2868	a	dmc	yes	污秽+的	conservative
+ZH1807	n	re	no	赃物	inclusive
+ZH290	n	cds	no	妓寨	inclusive
+ZH3229	a	ddp	yes	迟钝+的	conservative
+ZH2713	v	qas	no	弄糟	conservative
+ZH3475	n	ps	yes	茨冈	inclusive
+ZH175	n	ddp	yes	凶残的人	inclusive
+ZH2078	n	svp	no	性慾	inclusive
+ZH407	n	dmc	yes	假话	inclusive
+ZH1671	n	asm	no	广泛的豆科植物	inclusive
+ZH759	n	an	no	凯门鳄	inclusive
+ZH1036	n	om	no	拔头筹	conservative
+ZH3404	n	cds	no	污水渠	inclusive
+ZH99	a	an	no	固执+的	inclusive
+ZH740	n	cds	no	大反派	conservative
+ZH1009	n	asm	no	shtup	conservative
+ZH2501	a	ddp	yes	头异常小+的	inclusive
+ZH2083	n	svp	no	懒骨头	conservative
+ZH2796	n	or	no	爱 尔 兰 马 铃 薯	inclusive
+ZH815	n	ddp	yes	阻碍	conservative
+ZH559	n	re	no	敲诈	inclusive
+ZH1712	n	asf	no	肛毛	inclusive
+ZH1668	n	cds	no	法西斯主義	conservative
+ZH612	n	cds	no	吹牛大王	conservative
+ZH1261	n	pr	no	高等妓女	inclusive
+ZH337	n	pa	yes	辩护人	inclusive
+ZH1302	n	re	no	犯罪活動	inclusive
+ZH2004	n	is	yes	貧民	inclusive
+ZH831	n	re	no	calumniation	inclusive
+ZH1135	n	ddp	yes	白痴病	inclusive
+ZH1496	n	an	no	广翅鲎亚纲	inclusive
+ZH2084	a	svp	no	懒惰+的	conservative
+ZH1059	n	ddp	yes	造谣者	conservative
+ZH3055	n	re	no	抢劫	inclusive
+ZH1907	n	cds	no	大主教	inclusive
+ZH1693	n	asf	no	膣	conservative
+ZH1013	n	asm	no	nooky	conservative
+ZH1695	n	pr	no	情妇	inclusive
+ZH2333	n	an	no	胖子	conservative
+ZH868	n	an	no	飼養犬	inclusive
+ZH3436	n	re	no	furiousness	inclusive
+ZH725	n	dmc	yes	脏狗	conservative
+ZH1781	n	an	no	sus	inclusive
+ZH775	n	cds	no	小集团	inclusive
+ZH2442	n	pr	no	家鼠	inclusive
+ZH1707	n	an	no	伏翼蝠属	inclusive
+ZH2087	a	dmc	yes	懒	conservative
+ZH1967	n	ddf	yes	能力障碍	inclusive
+ZH1070	n	pr	no	哞哞的牛	inclusive
+ZH879	n	cds	no	亲戚	inclusive
+ZH1805	n	re	no	竊	inclusive
+ZH714	n	cds	no	虚荣	conservative
+ZH620	n	qas	no	笨拙的	conservative
+ZH746	n	cds	no	歹角	conservative
+ZH1396	n	pa	yes	大厅搬运工	inclusive
+ZH2421	n	pa	yes	行李搬运员	inclusive
+ZH467	n	cds	no	刑事	conservative
+ZH3500	n	ps	yes	祖 鲁 人	inclusive
+ZH460	n	re	no	流氓頭子	conservative
+ZH552	n	dmc	yes	无赖	conservative
+ZH2682	n	cds	no	九出十三归	inclusive
+ZH1105	n	cds	no	赭色	conservative
+ZH183	n	an	no	后生动物	inclusive
+ZH161	n	an	no	鳗鱼	inclusive
+ZH1899	n	cds	no	牧群	inclusive
+ZH1551	n	pr	no	风 尘 女 子	conservative
+ZH3196	n	an	no	豺 ，	inclusive
+ZH289	n	cds	no	妓 院	inclusive
+ZH969	n	pa	yes	教授	inclusive
+ZH2789	v	cds	no	讲价	inclusive
+ZH3197	n	an	no	亚洲胡狼	inclusive
+ZH88	n	svp	no	自尊	conservative
+ZH3413	n	an	no	惡作劇	conservative
+ZH2071	n	dmc	yes	理想跟踪准	conservative
+ZH744	n	is	yes	惡棍	conservative
+ZH3465	n	ps	yes	吉普賽人	inclusive
+ZH3353	n	om	no	易装癖者	inclusive
+ZH3018	n	pr	no	荡妇	conservative
+ZH1691	n	asf	no	小洞穴	conservative
+ZH2989	a	svp	no	自我中心的	conservative
+ZH12	n	svp	no	怠惰	inclusive
+ZH2749	v	asm	no	诈骗	conservative
+ZH1623	n	dmc	yes	弄臣	inclusive
+ZH231	n	ddp	yes	蠢才	inclusive
+ZH1273	n	cds	no	密谋者	inclusive
+ZH107	n	om	no	雞奸	inclusive
+ZH184	n	ddp	yes	畜生	inclusive
+ZH819	n	pr	no	娼妇	conservative
+ZH631	n	ddp	yes	恶意	conservative
+ZH642	n	an	no	家牛	inclusive
+ZH1739	n	an	no	羊隻	inclusive
+ZH325	n	ddp	yes	残忍	inclusive
+ZH637	n	pr	no	bos taurus	inclusive
+ZH2014	n	svp	no	休止状态	inclusive
+ZH1218	n	cds	no	玩皮的人	conservative
+ZH387	n	pr	no	女士的快乐	conservative
+ZH2130	n	an	no	昆虫纲	inclusive
+ZH462	n	cds	no	流氓	conservative
+ZH1972	n	ddf	yes	身心障碍	inclusive
+ZH1052	n	om	no	homophile	conservative
+ZH44	n	pa	yes	学术	inclusive
+ZH1025	n	cds	no	沉 默 的 阴 谋 ”。	inclusive
+ZH1409	n	cds	no	很多	inclusive
+ZH1687	n	asf	no	阴 道	conservative
+ZH3306	n	re	no	性侵犯	inclusive
+ZH2883	a	svp	no	生气+的	inclusive
+ZH460	n	dmc	yes	流氓頭子	conservative
+ZH1061	n	cds	no	rumourmonger	conservative
+ZH1017	n	an	no	leporidae	inclusive
+ZH1949	n	cds	no	流 行 歌 手	inclusive
+ZH2222	n	cds	no	方 便 市 民	inclusive
+ZH570	n	pa	yes	葬	inclusive
+ZH92	a	an	no	顽固不化+的	inclusive
+ZH1692	n	asf	no	陰道	conservative
+ZH717	n	cds	no	霸道	conservative
+ZH3398	n	cds	no	污水下水道	inclusive
+ZH543	n	cds	no	孬种	conservative
+ZH156	n	an	no	属安圭拉	inclusive
+ZH1350	n	om	no	后	inclusive
+ZH3372	n	pr	no	hetaera	inclusive
+ZH896	n	pa	yes	职员	inclusive
+ZH928	n	an	no	grossness	conservative
+ZH2583	n	ps	yes	黑色人种	inclusive
+ZH235	n	cds	no	tomfool	conservative
+ZH174	n	an	no	动物界	inclusive
+ZH1082	n	cds	no	家 居 废 物	conservative
+ZH140	n	cds	no	狂 热	conservative
+ZH907	n	an	no	山羊	inclusive
+ZH2771	v	cds	no	过世	inclusive
+ZH238	n	asm	no	蠢材	inclusive
+ZH463	n	cds	no	拦路强盗	conservative
+ZH629	n	an	no	zooerastia	conservative
+ZH485	n	cds	no	长舌	conservative
+ZH2712	n	an	no	裙猎	conservative
+ZH1465	n	qas	no	外行	conservative
+ZH1940	n	an	no	鬣狗	inclusive
+ZH2114	a	is	yes	不吉利+的	inclusive
+ZH1648	n	cds	no	基要主義	inclusive
+ZH1114	n	an	no	prickteaser	conservative
+ZH2315	n	cds	no	西西里黑手党	conservative
+ZH1918	n	svp	no	暴食	inclusive
+ZH1572	n	cds	no	納粹	conservative
+ZH3166	n	an	no	蛭	inclusive
+ZH1129	n	an	no	strigiformes	inclusive
+ZH1038	n	om	no	酷儿	conservative
+ZH1312	n	an	no	diddley	conservative
+ZH2950	a	ps	yes	非彩色+的	inclusive
+ZH1088	n	an	no	家庭臭虫科	inclusive
+ZH241	n	an	no	糊涂人	conservative
+ZH3090	a	dmc	yes	肮脏+的	inclusive
+ZH2925	n	an	no	雞隻	inclusive
+ZH1698	n	pr	no	黑帮老大的情妇	inclusive
+ZH610	n	cds	no	吹牛的	conservative
+ZH234	n	asm	no	这个笨蛋	conservative
+ZH1072	n	cds	no	怯懦	inclusive
+ZH1532	n	cds	no	狂热的	conservative
+ZH2597	n	cds	no	花癫者	conservative
+ZH1746	n	cds	no	反动	conservative
+ZH2151	n	cds	no	媒人	inclusive
+ZH375	n	an	no	懦夫	conservative
+ZH643	n	pr	no	歐洲牛	inclusive
+ZH1903	n	cds	no	伟大的未洗	conservative
+ZH305	n	asm	no	睾丸	inclusive
+ZH2894	a	svp	no	自负+的	conservative
+ZH794	n	cds	no	腐肉	inclusive
+ZH1705	n	an	no	新纪录种	inclusive
+ZH941	n	qas	no	平 民	inclusive
+ZH230	n	asf	no	愚人	conservative
+ZH640	n	pr	no	耕牛	inclusive
+ZH1898	n	cds	no	兽群	inclusive
+ZH593	n	qas	no	爽	inclusive
+ZH3037	n	or	no	白菜型油菜	inclusive
+ZH3335	n	re	no	剧痛	inclusive
+ZH3016	n	pr	no	strumpet	conservative
+ZH2582	n	ps	yes	尼格鲁-澳大利亚人种	inclusive
+ZH1784	n	an	no	豬	inclusive
+ZH2526	n	cds	no	益智游戏	conservative
+ZH1262	n	pr	no	妾室	inclusive
+ZH2308	n	cds	no	警察	inclusive
+ZH70	n	asf	no	白痴	conservative
+ZH1922	n	svp	no	暴饮暴食	inclusive
+ZH1911	n	cds	no	教 主	inclusive
+ZH237	n	ps	yes	呆子	conservative
+ZH2090	n	dmc	yes	谎	inclusive
+ZH286	n	ddp	yes	落后	inclusive
+ZH1558	n	qas	no	fieldhand	inclusive
+ZH2224	n	cds	no	慰安所	inclusive
+ZH816	n	asm	no	傻大个	inclusive
+ZH3011	a	ddf	yes	扭曲+的	inclusive
+ZH1431	n	an	no	helix pomatia	inclusive
+ZH745	n	re	no	惡役	conservative
+ZH783	n	an	no	食人动物	inclusive
+ZH738	n	cds	no	邪派	conservative
+ZH680	n	qas	no	實業家	inclusive
+ZH2637	n	re	no	杀害	inclusive
+ZH2491	n	an	no	微动物	inclusive
+ZH1333	n	an	no	鬼把戏	conservative
+ZH3439	n	re	no	暴 力	inclusive
+ZH2976	a	ps	yes	中国人+的	inclusive
+ZH2847	a	qas	no	惯常+的	inclusive
+ZH852	n	cds	no	骗子	inclusive
+ZH1908	n	cds	no	大祭司	inclusive
+ZH439	n	cds	no	beguine	inclusive
+ZH526	n	cds	no	工贼	inclusive
+ZH3379	n	asm	no	雀	inclusive
+ZH1612	n	qas	no	处于劣势	inclusive
+ZH171	n	an	no	野兽	inclusive
+ZH3441	n	re	no	暴打	inclusive
+ZH741	n	dmc	yes	悲 惨 的 小 人 ，	conservative
+ZH1177	n	ps	yes	雜交種	inclusive
+ZH1740	n	dmc	yes	没有帐号	conservative
+ZH2980	a	ps	yes	中文+的	inclusive
+ZH2094	a	is	yes	悲傷	inclusive
+ZH3159	n	cds	no	迂 腐 。	inclusive
+ZH226	n	ddp	yes	蠢人	conservative
+ZH1058	n	ddp	yes	闲话	conservative
+ZH3402	n	cds	no	下水道	inclusive
+ZH14	n	svp	no	aboulia	inclusive
+ZH199	n	re	no	强 奸	conservative
+ZH755	n	cds	no	老 爷 车	inclusive
+ZH549	n	ddp	yes	愚蠢的人	conservative
+ZH855	n	an	no	痞子	conservative
+ZH2602	n	cds	no	慕男狂	conservative
+ZH2878	a	svp	no	忿怒+的	inclusive
+ZH1085	n	qas	no	固 体 废 物	inclusive
+ZH3351	n	an	no	biston betularia	inclusive
+ZH70	n	ddp	yes	白痴	inclusive
+ZH335	n	pa	yes	公 使 衔 参 赞	inclusive
+ZH2854	n	an	no	虱股癣	inclusive
+ZH2709	v	qas	no	使混乱	conservative
+ZH815	n	ps	yes	阻碍	conservative
+ZH1177	n	cds	no	雜交種	inclusive
+ZH1921	n	svp	no	贪食	inclusive
+ZH1507	a	dmc	yes	无耻+的	conservative
+ZH943	n	cds	no	cockup	inclusive
+ZH2930	n	an	no	雞	inclusive
+ZH1657	n	svp	no	怒火	conservative
+ZH3145	v	re	no	盜竊	inclusive
+ZH1713	n	asf	no	阴毛	inclusive
+ZH1380	n	qas	no	犬舍	inclusive
+ZH1046	n	om	no	飄飄	inclusive
+ZH1108	n	svp	no	愛	inclusive
+ZH2326	n	an	no	megascops asio	inclusive
+ZH261	n	an	no	bison bonasus	inclusive
+ZH2297	n	cds	no	nursling	inclusive
+ZH170	n	an	no	动 物	inclusive
+ZH2133	n	an	no	insecta	inclusive
+ZH3223	a	qas	no	中层社会+的	inclusive
+ZH745	n	dmc	yes	惡役	conservative
+ZH951	n	cds	no	自满	inclusive
+ZH3493	n	pr	no	乳牛	inclusive
+ZH1963	n	an	no	橫斑林鴞	inclusive
+ZH1660	n	cds	no	swaggerer	conservative
+ZH2643	n	re	no	殺人罪	inclusive
+ZH2330	n	dmc	yes	贪婪者	conservative
+ZH2703	n	dmc	yes	快乐的安德鲁	inclusive
+ZH1852	n	om	no	同性爱	inclusive
+ZH1903	n	cds	no	伟大的未洗	inclusive
+ZH2210	n	or	no	punctiliousness	inclusive
+ZH2028	a	ddp	yes	无知+的	conservative
+ZH1611	n	cds	no	困境	inclusive
+ZH1086	n	cds	no	废 铁 ，	inclusive
+ZH2144	n	qas	no	市场门将	inclusive
+ZH3300	n	re	no	强奸犯	conservative
+ZH2667	n	ddp	yes	twaddler	conservative
+ZH249	n	ddp	yes	没有受过教育的人	conservative
+ZH659	n	pr	no	溝鼠	inclusive
+ZH2745	v	asm	no	欺诈	conservative
+ZH2611	n	an	no	母鹅	inclusive
+ZH744	n	cds	no	惡棍	conservative
+ZH3384	n	asm	no	aves	inclusive
+ZH191	n	ddp	yes	动物	inclusive
+ZH3031	n	pa	yes	主 计 长	inclusive
+ZH2689	n	ps	yes	汪达人	inclusive
+ZH2751	n	qas	no	麻烦制造者。	conservative
+ZH2610	n	an	no	雁族	inclusive
+ZH3403	n	cds	no	雨水渠	inclusive
+ZH123	n	qas	no	混杂岩	inclusive
+ZH2821	v	an	no	狂怒	conservative
+ZH877	n	cds	no	氏族	inclusive
+ZH402	n	an	no	流鶯	conservative
+ZH793	n	an	no	大 白 鲨	inclusive
+ZH1957	a	dmc	yes	小心眼+的	conservative
+ZH717	n	svp	no	霸道	conservative
+ZH123	n	cds	no	混杂岩	inclusive
+ZH3209	a	ps	yes	犹太人+的	inclusive
+ZH386	n	pr	no	体育女士	conservative
+ZH3364	n	om	no	男扮女裝	inclusive
+ZH1049	n	om	no	⚣	conservative
+ZH1118	n	an	no	鴟鴞	inclusive
+ZH1539	n	cds	no	性交易媒合者	inclusive
+ZH2607	n	qas	no	佃 农	inclusive
+ZH229	n	ddp	yes	笨蛋	inclusive
+ZH2258	n	cds	no	道德说教	inclusive
+ZH2653	n	re	no	超級殺手合唱團	inclusive
+ZH233	n	cds	no	傻子	conservative
+ZH1195	n	cds	no	小伙子	inclusive
+ZH1683	n	asm	no	vicia faba	inclusive
+ZH2795	n	or	no	solanum tuberosum	inclusive
+ZH287	n	cds	no	妓寮	inclusive
+ZH2528	n	an	no	蝸牛	inclusive
+ZH1841	n	pr	no	賣淫	inclusive
+ZH2351	n	dmc	yes	乡巴佬	conservative
+ZH1869	n	om	no	同性戀學術著作列表	inclusive
+ZH2716	v	qas	no	失误	conservative
+ZH3004	a	ddp	yes	未成熟+的	conservative
+ZH981	n	or	no	卷心菜	inclusive
+ZH1833	n	pr	no	约 翰	inclusive
+ZH2763	v	cds	no	別世	inclusive
+ZH587	n	cds	no	死胡同	inclusive
+ZH729	n	an	no	卑鄙小人	conservative
+ZH426	n	ps	yes	bedu	inclusive
+ZH3497	n	ps	yes	祖鲁族	inclusive
+ZH633	n	svp	no	无聊	inclusive
+ZH1438	n	cds	no	理论家	inclusive
+ZH1991	n	ddp	yes	無意義	conservative
+ZH1809	n	re	no	防盗	inclusive
+ZH466	n	cds	no	取缔	conservative
+ZH2365	n	an	no	psittaciformes	inclusive
+ZH151	n	an	no	anguillidae	inclusive
+ZH375	n	ps	yes	懦夫	conservative
+ZH3095	a	dmc	yes	污穢	inclusive
+ZH2048	n	pa	yes	耶 稣 会	inclusive
+ZH2816	v	an	no	大怒	conservative
+ZH3377	n	asm	no	禽类	inclusive
+ZH70	n	ddp	yes	白痴	conservative
+ZH1084	n	qas	no	废物	inclusive
+ZH694	n	qas	no	中產階級	inclusive
+ZH1199	n	or	no	老黃瓜	inclusive
+ZH1087	n	an	no	臭虫科	inclusive
+ZH2897	a	cds	no	狡黠+的	inclusive
+ZH1383	n	qas	no	狗屋	inclusive
+ZH58	n	cds	no	证明缺乏职业资格的事	conservative
+ZH679	n	qas	no	资 产 阶 级	inclusive
+ZH1773	n	an	no	母豬	inclusive
+ZH620	n	ddp	yes	笨拙的	conservative
+ZH2190	n	ddp	yes	智 力 缺 陷 ，	inclusive
+ZH8	n	svp	no	懶惰	inclusive
+ZH1174	n	ps	yes	植 物 生 技 术	inclusive
+ZH1170	n	cds	no	hybrid	inclusive
+ZH1024	n	cds	no	沉默的阴谋	inclusive
+ZH1493	n	an	no	板足鲎	inclusive
+ZH3491	a	cds	no	无礼的	conservative
+ZH238	n	cds	no	蠢材	conservative
+ZH2403	n	asm	no	豌	inclusive
+ZH238	n	ddp	yes	蠢材	inclusive
+ZH319	n	ps	yes	野 蛮	conservative
+ZH523	n	cds	no	罢工者	inclusive
+ZH1503	n	is	yes	可怜的家伙	conservative
+ZH715	n	cds	no	大言不惭	conservative
+ZH340	n	pa	yes	外交官銜	inclusive
+ZH141	n	cds	no	奮銳黨	inclusive
+ZH2391	n	asm	no	寒豆	inclusive
+ZH1345	n	om	no	尾 端 ，	inclusive
+ZH655	n	pr	no	粪鼠	inclusive
+ZH2535	n	ps	yes	蒙古利亞人種	conservative
+ZH2044	n	cds	no	教師	inclusive
+ZH1081	n	ddp	yes	嘎	conservative
+ZH1266	n	pr	no	名妓	inclusive
+ZH459	n	an	no	坏分子	conservative
+ZH3199	n	an	no	金豺	inclusive
+ZH3062	n	re	no	強盜	inclusive
+ZH542	n	ddp	yes	卑劣的家伙	conservative
+ZH3490	a	cds	no	粗野的	conservative
+ZH703	n	qas	no	中產	inclusive
+ZH2521	n	an	no	蜒蚰	inclusive
+ZH3485	n	svp	no	色 欲	inclusive
+ZH1901	n	cds	no	民众	inclusive
+ZH1117	n	asm	no	轻 信	conservative
+ZH605	n	cds	no	outtake	inclusive
+ZH780	n	ddp	yes	囚犯	inclusive
+ZH998	n	svp	no	色欲	inclusive
+ZH2593	n	ps	yes	拉 丁 美 洲 人	inclusive
+ZH364	n	an	no	掠夺者	inclusive
+ZH2103	a	is	yes	悲伤	inclusive
+ZH117	n	cds	no	滑稽动作	inclusive
+ZH886	n	cds	no	氏族社会	inclusive
+ZH1495	n	an	no	eurypterids，	inclusive
+ZH860	n	an	no	canis lupus familiaris	inclusive
+ZH1621	n	dmc	yes	愚者	inclusive
+ZH2380	n	cds	no	社交聚会	inclusive
+ZH2953	a	ddf	yes	看不见+的	inclusive
+ZH814	n	asf	no	傻大個	conservative
+ZH1417	n	cds	no	巨量	inclusive
+ZH686	n	qas	no	資方	inclusive
+ZH304	n	asm	no	ballock	inclusive
+ZH2287	n	an	no	骡子	inclusive
+ZH714	n	svp	no	虚荣	conservative
+ZH331	n	qas	no	商人	inclusive
+ZH2941	n	cds	no	孩儿	inclusive
+ZH740	n	dmc	yes	大反派	conservative
+ZH1631	n	asm	no	阴茎包皮	inclusive
+ZH234	n	ddp	yes	这个笨蛋	conservative
+ZH1448	a	qas	no	疯狂+的	inclusive
+ZH3328	n	ddp	yes	倔老头	conservative
+ZH490	n	ps	yes	飘逸灵动	inclusive
+ZH228	n	asf	no	傻瓜	conservative
+ZH1402	n	cds	no	大量	inclusive
+ZH274	n	svp	no	avaritia	inclusive
+ZH589	n	dmc	yes	roue	conservative
+ZH2102	a	is	yes	難過	inclusive
+ZH177	n	an	no	animal	inclusive
+ZH225	n	an	no	没有判断力的人	conservative
+ZH564	n	re	no	讹诈	conservative
+ZH2955	a	ddf	yes	失明	inclusive
+ZH2420	n	pa	yes	揹工	inclusive
+ZH2963	a	cds	no	油嘴+的	conservative
+ZH3486	a	cds	no	粗鲁的	conservative
+ZH1282	n	asf	no	doofus	conservative
+ZH2304	n	svp	no	淫 荡	inclusive
+ZH1248	n	pr	no	交際花	inclusive
+ZH2122	n	cds	no	放债人	conservative
+ZH596	n	qas	no	blooper	inclusive
+ZH2842	n	cds	no	抱怨者	conservative
+ZH1181	n	re	no	折磨	inclusive
+ZH2091	n	qas	no	大话	conservative
+ZH1927	n	qas	no	茅舍	inclusive
+ZH1846	n	is	yes	可怜之人	inclusive
+ZH236	n	asf	no	白癡	conservative
+ZH1847	n	om	no	shirtlifter	inclusive
+ZH453	n	cds	no	团 伙 成 员	inclusive
+ZH1662	n	svp	no	dillydallier	conservative
+ZH1802	n	cds	no	失窃	inclusive
+ZH2900	a	cds	no	狡猾	inclusive
+ZH1334	n	svp	no	厭惡	inclusive
+ZH3366	n	om	no	跨 梳 妆 台	inclusive
+ZH255	n	an	no	家驴	inclusive
+ZH2249	n	an	no	貝類動物	inclusive
+ZH732	n	cds	no	惰轮	conservative
+ZH2134	n	an	no	虫	inclusive
+ZH590	n	cds	no	gag reel	inclusive
+ZH725	n	cds	no	脏狗	conservative
+ZH930	n	asm	no	公鸡	inclusive
+ZH648	n	asm	no	咖啡色	inclusive
+ZH1453	a	ddp	yes	精神病+的	inclusive
+ZH1764	n	an	no	西域兀鹫	inclusive
+ZH247	n	an	no	傻 瓜	conservative
+ZH3368	n	om	no	异装癖	inclusive
+ZH1070	n	an	no	哞哞的牛	inclusive
+ZH2909	n	re	no	抄袭	inclusive
+ZH841	n	re	no	vilifier	conservative
+ZH3422	n	om	no	拖 戏	inclusive
+ZH2503	n	an	no	ovis aries	inclusive
+ZH3109	n	an	no	蜛蝫	inclusive
+ZH1416	n	cds	no	沃兹	inclusive
+ZH462	n	cds	no	流氓	inclusive
+ZH2710	n	cds	no	口误	inclusive
+ZH2278	n	dmc	yes	水牛芝士	inclusive
+ZH487	n	cds	no	为了寻开心	conservative
+ZH3345	n	pa	yes	白 领	inclusive
+ZH1610	n	cds	no	釜鱼	inclusive
+ZH3292	a	dmc	yes	破烂+的	conservative
+ZH3035	n	or	no	芜菁	inclusive
+ZH933	n	asm	no	雄鸡	inclusive
+ZH547	n	ddp	yes	dickhead	conservative
+ZH2942	n	cds	no	嬰	inclusive
+ZH1838	n	pr	no	性 服 务	inclusive
+ZH3072	n	re	no	丑角	inclusive
+ZH1390	n	svp	no	trencherman	inclusive
+ZH2135	n	an	no	小虫	inclusive
+ZH145	n	ddp	yes	analphabetic	inclusive
+ZH805	n	is	yes	被遗弃的	inclusive
+ZH3246	a	pa	yes	政治性+的	inclusive
+ZH2568	n	ps	yes	黑人	conservative
+ZH2230	n	cds	no	屎坑	inclusive
+ZH851	n	cds	no	chiseller	conservative
+ZH3326	n	re	no	恐怖主義	conservative
+ZH3433	n	pr	no	朝 臣	inclusive
+ZH228	n	an	no	傻瓜	conservative
+ZH2802	n	or	no	馬鈴薯	inclusive
+ZH1545	n	cds	no	依靠妓女為生	inclusive
+ZH2783	v	cds	no	亡故	inclusive
+ZH79	n	an	no	野牛野牛	inclusive
+ZH469	n	cds	no	法外之徒	conservative
+ZH2269	n	an	no	怪相	inclusive
+ZH272	n	svp	no	罪宗	inclusive
+ZH2436	n	pr	no	大鼠屬	inclusive
+ZH371	n	cds	no	过份正经	inclusive
+ZH1546	n	cds	no	拉皮条	inclusive
+ZH2059	a	dmc	yes	不名誉+的	conservative
+ZH2076	n	svp	no	性渴望	inclusive
+ZH2543	n	qas	no	精 神 领 袖	inclusive
+ZH925	n	qas	no	杂乱	inclusive
+ZH3454	n	an	no	常见的毒蛇	inclusive
+ZH3049	n	re	no	綁票案	inclusive
+ZH615	n	cds	no	循规蹈矩	conservative
+ZH2686	n	ps	yes	汪达尔	inclusive
+ZH1418	n	dmc	yes	漂泊	inclusive
+ZH3226	a	ddp	yes	迟缓+的	conservative
+ZH1322	n	cds	no	变脏	inclusive
+ZH70	n	asm	no	白痴	inclusive
+ZH1525	n	cds	no	胞族	inclusive
+ZH2270	n	an	no	鬼脸	inclusive
+ZH1355	n	om	no	tush	inclusive
+ZH2016	n	svp	no	不活泼	inclusive
+ZH3067	n	re	no	持械行劫	inclusive
+ZH808	n	is	yes	流浪者	inclusive
+ZH256	n	an	no	驢	inclusive
+ZH438	n	qas	no	fib	conservative
+ZH3070	n	re	no	复制，粘贴	inclusive
+ZH2486	n	an	no	鲛魚	inclusive
+ZH1201	n	or	no	黄瓜	inclusive
+ZH195	n	re	no	中伤	inclusive
+ZH2839	n	cds	no	moaner	conservative
+ZH279	n	an	no	吝啬鬼	conservative
+ZH2122	n	cds	no	放债人	inclusive
+ZH2620	n	re	no	恐怖主义者	inclusive
+ZH1032	n	cds	no	新闻记者	inclusive
+ZH3269	a	ddp	yes	没品位+的	inclusive
+ZH482	n	cds	no	tattletale	conservative
+ZH3274	a	ddp	yes	不雅致+的	inclusive
+ZH1237	n	cds	no	demagog	conservative
+ZH2944	n	cds	no	婴儿	inclusive
+ZH817	n	ddp	yes	愚蠢	inclusive
+ZH2841	n	cds	no	哀诉者	conservative
+ZH1044	n	om	no	gay	conservative
+ZH2347	n	cds	no	粗人	conservative
+ZH306	n	qas	no	懒子籽	inclusive
+ZH1367	n	om	no	背后	inclusive
+ZH101	n	om	no	肛交	inclusive
+ZH243	n	asf	no	fuckhead	conservative
+ZH3460	n	dmc	yes	叛徒	conservative
+ZH2896	a	svp	no	傲慢+的	conservative
+ZH892	n	cds	no	氏族部落	inclusive
+ZH2614	n	an	no	母鵝	inclusive
+ZH1221	n	cds	no	实用百搭	conservative
+ZH493	n	ps	yes	黑	inclusive
+ZH3255	a	is	yes	贫乏+的	inclusive
+ZH2746	v	asm	no	骗	conservative
+ZH696	n	qas	no	布林乔亚	inclusive
+ZH2200	v	ddp	yes	使失去知觉	conservative
+ZH1886	n	ps	yes	耶胡達人	inclusive
+ZH576	n	an	no	綠帽子	conservative
+ZH1140	n	ddp	yes	愚侏病	inclusive
+ZH1335	n	svp	no	不 愉 快 的	inclusive
+ZH519	n	cds	no	混種狗	inclusive
+ZH955	n	qas	no	社会地位	inclusive
+ZH2508	n	pa	yes	牧 人	inclusive
+ZH3228	a	ddp	yes	钝+的	conservative
+ZH3295	a	pa	yes	白领+的	inclusive
+ZH3417	n	cds	no	阴谋论	inclusive
+ZH228	n	asm	no	傻瓜	conservative
+ZH3078	n	cds	no	拍马屁	conservative
+ZH361	n	qas	no	巴洛克建筑	inclusive
+ZH851	n	re	no	chiseller	inclusive
+ZH1122	n	an	no	梟	inclusive
+ZH852	n	cds	no	骗子	conservative
+ZH626	n	pa	yes	机票代理	inclusive
+ZH1193	n	qas	no	遵守	inclusive
+ZH2339	n	om	no	paederasty	inclusive
+ZH2472	n	ps	yes	麥士蒂索	conservative
+ZH484	n	cds	no	告密者	conservative
+ZH2327	n	an	no	东美角鸮	inclusive
+ZH3069	n	re	no	武装抢劫	inclusive
+ZH2861	n	an	no	吸虱	inclusive
+ZH3351	n	pr	no	biston betularia	inclusive
+ZH143	n	ddp	yes	文盲	inclusive
+ZH2744	v	asm	no	欺骗	conservative
+ZH3060	n	re	no	行搶	inclusive
+ZH505	n	qas	no	巨 头	inclusive
+ZH3331	n	re	no	拷问	inclusive
+ZH828	n	re	no	恶语中伤	inclusive
+ZH1832	n	pr	no	賣春	conservative
+ZH1998	n	is	yes	窮困	inclusive
+ZH372	n	cds	no	嚼	conservative
+ZH1597	n	asm	no	鱼类	inclusive
+ZH1690	n	asf	no	洞洞	conservative
+ZH1627	n	dmc	yes	小丑	inclusive
+ZH2085	a	dmc	yes	怠惰+的	conservative
+ZH237	n	cds	no	呆子	inclusive
+ZH52	n	pa	yes	学者	inclusive
+ZH3272	a	ddp	yes	粗俗+的	inclusive
+ZH1254	n	pr	no	細姨	inclusive
+ZH2075	n	svp	no	性慾減退	inclusive
+ZH1536	n	cds	no	淫媒	conservative
+ZH812	n	asf	no	调换儿	conservative
+ZH461	n	an	no	流 氓	conservative
+ZH1982	n	ddf	yes	残障者	inclusive
+ZH3477	n	ps	yes	吉普塞	inclusive
+ZH3012	a	cds	no	煽动性+的	conservative
+ZH465	n	re	no	罪犯	inclusive
+ZH843	n	re	no	libeler	conservative
+ZH2176	n	svp	no	嫉	inclusive
+ZH618	n	ddp	yes	冒失鬼	conservative
+ZH2096	a	is	yes	忧伤+的	inclusive
+ZH2143	n	qas	no	零售商	inclusive
+ZH522	n	cds	no	破坏罢工者	inclusive
+ZH468	n	re	no	取 缔	inclusive
+ZH3185	n	an	no	甴曱	inclusive
+ZH818	n	pr	no	婊子	conservative
+ZH225	n	asf	no	没有判断力的人	conservative
+ZH1085	n	cds	no	固 体 废 物	inclusive
+ZH1179	n	cds	no	大堆	inclusive
+ZH369	n	cds	no	反 对 票	inclusive
+ZH3232	a	ddp	yes	傻+的	conservative
+ZH621	n	qas	no	fumbler	conservative
+ZH1825	n	pr	no	prostitution	conservative
+ZH1424	n	svp	no	ravenousness	conservative
+ZH1340	n	dmc	yes	dissimulator	conservative
+ZH2685	n	ps	yes	汪达尔人	inclusive
+ZH3280	a	ddf	yes	丑+的	conservative
+ZH62	n	ddp	yes	智力残障	inclusive
+ZH1799	n	re	no	扒窃	inclusive
+ZH2829	a	pa	yes	学究式+的	conservative
+ZH2578	n	ps	yes	赤道人种	inclusive
+ZH420	n	cds	no	无秩序	inclusive
+ZH545	n	cds	no	狗娘养的	conservative
+ZH3200	n	an	no	canis aureus	inclusive
+ZH2055	a	dmc	yes	不道德+的	conservative
+ZH262	n	an	no	野牛学和系统进化	inclusive
+ZH3101	n	qas	no	豪言壮语	inclusive
+ZH368	n	cds	no	blackballing	inclusive
+ZH2694	n	an	no	禿鷹	inclusive
+ZH3502	n	ps	yes	祖魯宗教	inclusive
+ZH802	n	cds	no	賭場	inclusive
+ZH592	n	cds	no	轶事	inclusive
+ZH2053	n	dmc	yes	欺骗者	conservative
+ZH565	n	re	no	逼勒	conservative
+ZH1851	n	om	no	同性恋男子	inclusive
+ZH1429	n	an	no	羅馬蝸牛	inclusive
+ZH1037	n	or	no	噗	conservative
+ZH1745	n	cds	no	反 动	conservative
+ZH2663	n	cds	no	何蒙库鲁兹	inclusive
+ZH2085	a	svp	no	怠惰+的	conservative
+ZH3382	n	asm	no	飞鸟	inclusive
+ZH3164	n	an	no	吸血鬼	inclusive
+ZH1104	n	cds	no	狡猾	conservative
+ZH1778	n	an	no	豕	inclusive
+ZH1286	n	cds	no	刑事案件	inclusive
+ZH1714	n	asf	no	鸡巴毛	inclusive
+ZH252	n	an	no	野驴	inclusive
+ZH979	n	or	no	brassica oleracea	inclusive
+ZH2092	n	qas	no	說謊	conservative
+ZH535	n	ddp	yes	母亲笨蛋	conservative
+ZH567	n	pa	yes	殡仪业	inclusive
+ZH1845	n	is	yes	有没有	inclusive
+ZH87	n	svp	no	自负	conservative
+ZH3138	n	an	no	中华大蟾蜍	inclusive
+ZH2194	n	cds	no	混乱状态	conservative
+ZH250	n	an	no	驴	inclusive
+ZH1859	n	om	no	同性恋学术著作	inclusive
+ZH327	n	an	no	残暴	inclusive
+ZH3045	n	re	no	標參	inclusive
+ZH1802	n	re	no	失窃	inclusive
+ZH3194	a	pa	yes	耶稣会士+的	inclusive
+ZH2717	v	qas	no	搞坏	conservative
+ZH932	n	asm	no	雄雞	inclusive
+ZH1501	n	cds	no	罪人	conservative
+ZH1163	n	ps	yes	杂种	inclusive
+ZH893	n	pa	yes	营业员	inclusive
+ZH713	n	ps	yes	保加利亚语	inclusive
+ZH2124	n	cds	no	放 债 人	conservative
+ZH1577	n	cds	no	诡计	inclusive
+ZH3176	a	re	no	凶猛+的	inclusive
+ZH1867	n	om	no	homosexualism	inclusive
+ZH1543	n	cds	no	操控妓女	conservative
+ZH232	n	cds	no	saphead	conservative
+ZH2031	n	an	no	绝对必然	conservative
+ZH1797	n	re	no	盗窃	inclusive
+ZH2967	a	cds	no	谄媚+的	conservative
+ZH2485	n	an	no	鮀	inclusive
+ZH604	n	qas	no	boner	inclusive
+ZH1557	n	qas	no	农场工人	inclusive
+ZH2947	a	ps	yes	黑色+的	inclusive
+ZH1756	v	asm	no	幹	conservative
+ZH3410	n	qas	no	潜 水 加 权 系 统	inclusive
+ZH2754	v	cds	no	消逝	inclusive
+ZH373	n	ps	yes	柔软的触感	conservative
+ZH3385	n	asm	no	飛烏	inclusive
+ZH3210	a	ps	yes	犹 太	inclusive
+ZH821	n	an	no	淫妇	conservative
+ZH756	n	cds	no	乱涂	inclusive
+ZH2772	v	cds	no	棄世	inclusive
+ZH992	n	or	no	甘 蓝	inclusive
+ZH2383	n	dmc	yes	坏	inclusive
+ZH1228	n	re	no	约会强奸	conservative
+ZH3316	n	asm	no	专 业 犯 规	inclusive
+ZH477	n	an	no	一只公山羊	inclusive
+ZH228	n	cds	no	傻瓜	conservative
+ZH2349	n	cds	no	乡下人	conservative
+ZH341	n	pa	yes	部 长	inclusive
+ZH1434	n	an	no	蜗牛	inclusive
+ZH2707	n	an	no	蠕蟲	inclusive
+ZH3195	n	dmc	yes	二流	conservative
+ZH470	n	cds	no	犯人	conservative
+ZH2736	v	is	yes	请求	inclusive
+ZH1675	n	asm	no	蚕豆	inclusive
+ZH382	n	ddp	yes	布丁头	conservative
+ZH1563	n	pa	yes	农民	inclusive
+ZH617	n	qas	no	笨手笨脚	conservative
+ZH2742	v	cds	no	吃过量	inclusive
+ZH315	n	cds	no	土匪	inclusive
+ZH2384	n	dmc	yes	邪惡	inclusive
+ZH3415	n	cds	no	陰謀論	inclusive
+ZH2809	a	qas	no	感情夸张的	inclusive
+ZH812	n	cds	no	调换儿	inclusive
+ZH604	n	cds	no	boner	inclusive
+ZH3388	n	asm	no	活禽鳥	inclusive
+ZH2110	a	is	yes	难过+的	inclusive
+ZH1187	n	qas	no	盲从	inclusive
+ZH2516	n	an	no	片状毛坯	inclusive
+ZH227	n	ddp	yes	蠢货	conservative
+ZH2592	n	ps	yes	其 他 种 族	inclusive
+ZH2968	a	cds	no	奉承+的	conservative
+ZH1734	n	an	no	caprinae	inclusive
+ZH3111	n	an	no	蛙類	inclusive
+ZH1138	n	ddp	yes	呆小症	inclusive
+ZH2166	n	asm	no	𡳞鳥	inclusive
+ZH3263	n	qas	no	大警犬	inclusive
+ZH1777	n	an	no	豵	inclusive
+ZH2037	n	cds	no	老 师	inclusive
+ZH1433	n	an	no	羅曼蝸牛	inclusive

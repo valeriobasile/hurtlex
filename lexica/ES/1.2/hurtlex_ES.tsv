@@ -1,0 +1,5007 @@
+id	pos	category	stereotype	lemma	level
+ES3680	n	or	no	brassica campestris ssp. rapa	inclusive
+ES241	n	or	no	sesera	inclusive
+ES3699	n	re	no	privación ilegítima de la libertad	inclusive
+ES573	n	dmc	yes	trolero	conservative
+ES354	n	cds	no	lupanar	inclusive
+ES3824	n	an	no	aureus	inclusive
+ES2661	n	dmc	yes	tramposo	conservative
+ES792	n	ddp	yes	zoofilia	conservative
+ES1606	n	cds	no	demagogica	conservative
+ES1331	n	an	no	rostro	inclusive
+ES2303	n	cds	no	curioso	conservative
+ES2847	n	cds	no	aseo	inclusive
+ES379	a	dmc	yes	avaro	conservative
+ES830	n	pr	no	bos primigenius	inclusive
+ES1902	n	dmc	yes	pasar-todo	inclusive
+ES1088	n	cds	no	defraudador	inclusive
+ES1717	n	om	no	términos anatómicos de localización	inclusive
+ES3250	n	cds	no	adicciones sexuales	conservative
+ES396	n	ddp	yes	barbarie	inclusive
+ES1157	n	an	no	raunch	conservative
+ES172	n	cds	no	zelotas	inclusive
+ES1814	n	ddf	yes	enano	conservative
+ES466	n	asf	no	tacto suave	conservative
+ES385	n	re	no	bandido	inclusive
+ES50	n	cds	no	corredores	inclusive
+ES615	n	dmc	yes	pícaro	conservative
+ES936	n	svp	no	vanagloria	conservative
+ES2125	n	cds	no	masónica	inclusive
+ES2073	n	pa	yes	pescadero	inclusive
+ES4063	n	cds	no	conspiranoia	inclusive
+ES1383	n	svp	no	tṛsnā	inclusive
+ES718	n	pa	yes	funerario	inclusive
+ES451	n	qas	no	barroquismo	inclusive
+ES1836	n	re	no	delinquimiento	inclusive
+ES275	n	an	no	persona sin educación	conservative
+ES818	n	an	no	ternero	inclusive
+ES2848	n	cds	no	servicio	inclusive
+ES1313	n	om	no	1069bf	conservative
+ES776	n	cds	no	pelotudo	conservative
+ES3451	n	cds	no	pedantería	conservative
+ES1340	n	cds	no	cobardia	conservative
+ES245	n	an	no	disparate	conservative
+ES3008	a	dmc	yes	inicuo	conservative
+ES3689	n	re	no	secuestro	inclusive
+ES256	n	asm	no	imbécil	inclusive
+ES1457	n	an	no	jacaré	inclusive
+ES324	n	svp	no	amarrete	conservative
+ES1464	n	an	no	crocodilo	inclusive
+ES439	n	pa	yes	licenciado en derecho	inclusive
+ES146	n	an	no	jerigonza	conservative
+ES4107	n	ps	yes	gitano	inclusive
+ES3316	n	cds	no	homúnculos	inclusive
+ES538	n	cds	no	embuste	inclusive
+ES1090	n	an	no	variopinto y globitos	conservative
+ES655	n	cds	no	travieso	conservative
+ES1152	n	qas	no	emborracharse	inclusive
+ES654	n	cds	no	diablura	conservative
+ES708	n	cds	no	ilegítimo	inclusive
+ES1330	n	an	no	fisiognómico	inclusive
+ES1686	n	svp	no	aversión	inclusive
+ES940	n	svp	no	soberbia	inclusive
+ES2025	n	or	no	cañiguera	inclusive
+ES2685	a	dmc	yes	descortés	conservative
+ES481	n	ddp	yes	pasmarote	conservative
+ES487	n	ddp	yes	badulaque	conservative
+ES3750	a	cds	no	fascista	inclusive
+ES837	n	pr	no	becerras	inclusive
+ES1091	n	an	no	gentuza	conservative
+ES363	n	asm	no	ballock	inclusive
+ES3308	n	re	no	matanza	inclusive
+ES2907	n	cds	no	nerdo	conservative
+ES262	n	ddp	yes	tonto	inclusive
+ES1131	n	an	no	caprinos	inclusive
+ES402	a	svp	no	ansioso	inclusive
+ES2482	n	ps	yes	judio	inclusive
+ES1618	n	pr	no	concubina	inclusive
+ES1750	n	om	no	posas	inclusive
+ES2095	n	dmc	yes	motley fool	inclusive
+ES373	n	qas	no	testicular	inclusive
+ES772	n	dmc	yes	tarado	conservative
+ES3192	n	cds	no	narcisista	inclusive
+ES727	n	qas	no	chapucería	inclusive
+ES970	n	svp	no	ocioso	conservative
+ES2416	n	re	no	presa	inclusive
+ES937	n	cds	no	altivez	conservative
+ES257	n	an	no	bobo	conservative
+ES496	n	pr	no	zorra	conservative
+ES3711	n	re	no	robar	inclusive
+ES4215	n	cds	no	facho	conservative
+ES3448	v	qas	no	maquillarse qualifier	inclusive
+ES1612	n	pr	no	amante	inclusive
+ES1722	n	om	no	aboral	inclusive
+ES2767	v	cds	no	maquinar	inclusive
+ES2845	n	cds	no	lavabo público	inclusive
+ES2861	n	an	no	mollusca	inclusive
+ES1653	n	re	no	delito	inclusive
+ES2849	n	cds	no	water	inclusive
+ES1743	n	om	no	apical	inclusive
+ES443	n	qas	no	barones	inclusive
+ES2014	n	or	no	foeniculum	inclusive
+ES3013	n	asm	no	guisantes	inclusive
+ES1448	n	an	no	crocodilido	inclusive
+ES1094	n	an	no	canino	inclusive
+ES3492	n	cds	no	rezongante	conservative
+ES2532	n	qas	no	limpieza	inclusive
+ES3926	n	re	no	terrorist	inclusive
+ES1105	n	om	no	pederasta	inclusive
+ES1350	n	ddp	yes	charlatan	conservative
+ES146	n	asf	no	jerigonza	conservative
+ES933	n	cds	no	jactancia	conservative
+ES3695	n	re	no	secuestra	inclusive
+ES1893	a	is	yes	triste	conservative
+ES2914	n	cds	no	mateo	conservative
+ES218	n	ddp	yes	criatura	inclusive
+ES223	n	an	no	ser animado	inclusive
+ES3260	n	cds	no	satiriasis	conservative
+ES3145	n	asm	no	pero se puede saber que cono estás haciendo?	conservative
+ES1695	n	svp	no	repugnancia	inclusive
+ES579	n	pa	yes	fajin	inclusive
+ES442	n	an	no	perro	conservative
+ES469	n	or	no	mastuerzo	conservative
+ES398	n	cds	no	barbaros	conservative
+ES2276	a	dmc	yes	maloliente	conservative
+ES4114	n	an	no	bruja	conservative
+ES2314	n	svp	no	buena-para-nada	conservative
+ES1479	n	cds	no	mejoramiento vegetal	inclusive
+ES2208	n	asm	no	vicia esculenta	inclusive
+ES2161	n	an	no	rabia	inclusive
+ES2045	n	om	no	fioyo	inclusive
+ES1362	n	cds	no	chatarra	inclusive
+ES3468	v	cds	no	garrapatear	inclusive
+ES400	n	ps	yes	bárbaros	conservative
+ES651	n	cds	no	travesura	conservative
+ES3218	n	ps	yes	latinos	inclusive
+ES567	n	cds	no	beguine	inclusive
+ES405	n	ddp	yes	barbaridad	inclusive
+ES604	n	cds	no	gang	inclusive
+ES3457	v	qas	no	parchear	inclusive
+ES2319	n	cds	no	ultraconservadora	conservative
+ES552	n	cds	no	patas turvydom	inclusive
+ES3593	n	an	no	poulet	inclusive
+ES557	n	ps	yes	beduino	inclusive
+ES397	n	ddp	yes	salvaje	conservative
+ES3479	n	cds	no	habladurías	inclusive
+ES1441	n	an	no	cocodrilos	inclusive
+ES3115	n	ddp	yes	tontorrona	conservative
+ES1360	n	qas	no	residuo metálico	inclusive
+ES4059	n	cds	no	teorico conspiratorio	inclusive
+ES3340	n	ps	yes	vandalos	inclusive
+ES3038	n	cds	no	cachorro	conservative
+ES2527	n	qas	no	pintura	inclusive
+ES2535	n	qas	no	chabola	inclusive
+ES1122	n	cds	no	tribales	inclusive
+ES4127	n	svp	no	intransigentes	inclusive
+ES730	n	qas	no	garrafal	inclusive
+ES388	n	cds	no	bandidismo organizado	inclusive
+ES3909	n	re	no	agresiones sexuales	inclusive
+ES3158	n	ddp	yes	menso	conservative
+ES3254	n	cds	no	adiccion al sexo	conservative
+ES3343	n	ps	yes	vándalos	inclusive
+ES343	n	cds	no	deportivo casa	inclusive
+ES654	n	cds	no	diablura	inclusive
+ES2295	n	cds	no	seductor	inclusive
+ES1925	n	cds	no	pandar	inclusive
+ES3004	n	dmc	yes	malignidad	inclusive
+ES1834	n	cds	no	crímen	inclusive
+ES958	n	cds	no	conque	conservative
+ES3649	n	pr	no	mujer fácil	conservative
+ES3348	n	cds	no	ponzoña	conservative
+ES2234	n	asm	no	habuca	inclusive
+ES4022	n	cds	no	pozo de tormentas	inclusive
+ES392	n	rci	yes	bárbara	conservative
+ES1983	n	om	no	fenículo	inclusive
+ES398	n	ps	yes	barbaros	conservative
+ES3742	a	ddf	yes	decepcionante	conservative
+ES77	n	asm	no	idiotez	inclusive
+ES3285	n	cds	no	omertá	inclusive
+ES955	n	cds	no	git	conservative
+ES1432	n	qas	no	equipo	inclusive
+ES2485	n	ps	yes	judíos	inclusive
+ES1172	n	asm	no	cipote	conservative
+ES1644	n	ps	yes	destructor	conservative
+ES582	n	pa	yes	mozo	inclusive
+ES502	n	pr	no	puta	inclusive
+ES3082	n	an	no	tiburones	inclusive
+ES1648	n	cds	no	delitos	inclusive
+ES2053	n	dmc	yes	peste	conservative
+ES2650	n	cds	no	maestro	inclusive
+ES300	n	is	yes	avaricia	conservative
+ES456	n	cds	no	blackballing	inclusive
+ES4014	n	asm	no	pajaros	inclusive
+ES2815	n	re	no	cuatrero	inclusive
+ES881	n	qas	no	empresarios	inclusive
+ES956	n	is	yes	sinvergüenza	conservative
+ES550	n	cds	no	dandies	inclusive
+ES607	n	is	yes	villano	conservative
+ES3767	n	an	no	mesobatrachia	inclusive
+ES2173	n	dmc	yes	petardista	conservative
+ES2557	n	cds	no	crooning	inclusive
+ES813	n	pr	no	ternera	inclusive
+ES249	n	asm	no	insensatez	conservative
+ES4140	n	cds	no	mísero	conservative
+ES1440	n	an	no	cocodrilo	inclusive
+ES521	n	pr	no	callejera	conservative
+ES4194	n	ps	yes	gitanismo	inclusive
+ES1560	n	or	no	totanera	inclusive
+ES1053	n	asm	no	retrasada	inclusive
+ES3834	a	ps	yes	judaico	inclusive
+ES1473	n	ps	yes	cruce	inclusive
+ES2672	n	dmc	yes	pseudo	conservative
+ES2450	n	om	no	homosexualidad	inclusive
+ES1671	n	ps	yes	krauthead	conservative
+ES1946	n	is	yes	marginal	inclusive
+ES722	n	dmc	yes	libertino	conservative
+ES2539	n	qas	no	choza	inclusive
+ES1002	n	ddp	yes	preso	inclusive
+ES2797	n	svp	no	enfadado	inclusive
+ES459	n	cds	no	vetado	inclusive
+ES1105	n	om	no	pederasta	conservative
+ES1837	n	pa	yes	trabajador	inclusive
+ES817	n	pr	no	toro	inclusive
+ES1491	n	cds	no	muchacho	inclusive
+ES1352	n	ddp	yes	curandería	conservative
+ES113	n	cds	no	haragán	conservative
+ES128	n	cds	no	broma	inclusive
+ES3149	n	asm	no	pero se puede saber qué cono estás haciendo?	conservative
+ES1162	n	asm	no	pilila	inclusive
+ES408	n	qas	no	comerciante	inclusive
+ES1575	n	cds	no	marginada	conservative
+ES584	a	cds	no	bobo	conservative
+ES853	n	asm	no	marron	inclusive
+ES4138	a	ps	yes	gascón	inclusive
+ES2668	n	dmc	yes	moralmente en bancarrota	inclusive
+ES2462	n	om	no	maury mjm	inclusive
+ES1918	n	cds	no	cafisho	conservative
+ES175	n	ddp	yes	analfabetas	inclusive
+ES1206	n	pa	yes	profesorado	inclusive
+ES3952	n	asm	no	Śiva lingam	inclusive
+ES3923	n	cds	no	trasformismo	inclusive
+ES3610	a	asm	no	café	inclusive
+ES1203	n	qas	no	castas	inclusive
+ES1494	n	cds	no	chaval	inclusive
+ES215	n	an	no	bestia	conservative
+ES1778	n	svp	no	zanjadora	inclusive
+ES198	n	an	no	anguilliformes	inclusive
+ES2311	n	an	no	caprinae	inclusive
+ES1692	n	svp	no	repugnante	inclusive
+ES215	n	ps	yes	bestia	conservative
+ES403	a	svp	no	codiciosa	conservative
+ES1580	n	om	no	dame	inclusive
+ES3590	n	an	no	pollos	inclusive
+ES243	n	or	no	vaso	inclusive
+ES1933	n	qas	no	agricultor	inclusive
+ES435	n	pa	yes	letrado	inclusive
+ES1437	n	ddf	yes	cojo	inclusive
+ES3787	n	cds	no	weisenheimer	conservative
+ES704	n	or	no	coño	conservative
+ES1586	v	asm	no	mofarse	inclusive
+ES2540	n	cds	no	hybris	conservative
+ES238	n	cds	no	astucia	inclusive
+ES2478	n	ps	yes	judaísmo	inclusive
+ES639	n	ddp	yes	murmurador	conservative
+ES2438	n	is	yes	los que no tienen	inclusive
+ES883	n	qas	no	mujer de negocios	inclusive
+ES1775	n	qas	no	perreras	inclusive
+ES260	n	an	no	tomfool	conservative
+ES466	n	an	no	tacto suave	conservative
+ES1276	n	asm	no	joder	conservative
+ES3990	n	om	no	crossdressing	inclusive
+ES3196	n	ps	yes	nigga	conservative
+ES1844	n	re	no	felonía	inclusive
+ES2109	n	cds	no	francmasónico	inclusive
+ES1060	n	an	no	loba	inclusive
+ES1253	n	or	no	col	inclusive
+ES1360	n	cds	no	residuo metálico	conservative
+ES2780	n	svp	no	cólera	inclusive
+ES1407	n	an	no	coqueta	conservative
+ES357	n	is	yes	roñoso	conservative
+ES1517	n	or	no	pepino	inclusive
+ES2688	n	cds	no	mentiras	inclusive
+ES399	n	rci	yes	montañero	conservative
+ES848	n	cds	no	cabeza	inclusive
+ES3541	a	cds	no	arrogante	conservative
+ES3136	n	asm	no	tonteria	conservative
+ES810	n	an	no	cuatrenos	inclusive
+ES3543	a	cds	no	altivo	conservative
+ES3605	n	cds	no	recién nacidos	inclusive
+ES254	n	asm	no	idiota	conservative
+ES151	n	ddp	yes	basura	conservative
+ES3239	n	ps	yes	blanco	inclusive
+ES2801	a	svp	no	colérico	conservative
+ES394	n	dmc	yes	bárbaro	conservative
+ES1664	a	cds	no	criminal	inclusive
+ES377	a	svp	no	avariciosa	inclusive
+ES2630	n	is	yes	empobrecer	inclusive
+ES1305	n	om	no	mariquita	conservative
+ES404	n	ddp	yes	brutalidad	inclusive
+ES1036	n	cds	no	pelele	conservative
+ES3114	n	asm	no	atontada	conservative
+ES339	n	cds	no	prostibulos	inclusive
+ES3738	a	dmc	yes	contaminada	inclusive
+ES422	n	pa	yes	consejero-at-law	inclusive
+ES486	n	asm	no	soso	conservative
+ES1745	n	om	no	basal	inclusive
+ES3447	v	qas	no	maquillar	inclusive
+ES1513	n	or	no	cucumis hardwickii	inclusive
+ES791	n	an	no	bestialismo	conservative
+ES3154	n	asm	no	qué cono haces?	conservative
+ES2742	n	asm	no	granate	inclusive
+ES1316	n	om	no	homófilo	inclusive
+ES3150	n	asm	no	tontorron	conservative
+ES255	n	ddp	yes	burro	conservative
+ES722	n	dmc	yes	libertino	inclusive
+ES1137	n	an	no	caprino	inclusive
+ES2710	n	cds	no	usurera	inclusive
+ES491	n	ddp	yes	sosaina	conservative
+ES3469	v	cds	no	languidecer	inclusive
+ES622	n	is	yes	proscrito	inclusive
+ES660	n	ps	yes	negror	inclusive
+ES158	n	cds	no	torturador	conservative
+ES1709	n	om	no	as de oros	inclusive
+ES2977	n	qas	no	autoinfección	inclusive
+ES3893	a	re	no	no autorizado	inclusive
+ES2084	n	an	no	pulga	inclusive
+ES3443	v	cds	no	adorar	inclusive
+ES3751	n	an	no	phthanobatrachia	inclusive
+ES2682	n	svp	no	voluptuoso	inclusive
+ES1220	n	pa	yes	cátedra	inclusive
+ES2758	n	asm	no	penis	inclusive
+ES3001	a	ddp	yes	brutal	conservative
+ES2271	a	dmc	yes	pestilente	conservative
+ES805	n	pr	no	bovino	inclusive
+ES3888	a	ddp	yes	subnormal	conservative
+ES616	n	cds	no	granuja	conservative
+ES2809	v	ddp	yes	embrutecerse	conservative
+ES149	n	asf	no	paja	conservative
+ES1093	n	cds	no	chusma	conservative
+ES1351	n	ddp	yes	curandero	conservative
+ES564	n	cds	no	cuento	conservative
+ES1573	n	qas	no	sacrificio	conservative
+ES3417	v	cds	no	liar el petate	inclusive
+ES404	n	an	no	brutalidad	inclusive
+ES565	n	cds	no	historia	inclusive
+ES2348	v	asm	no	garchar	conservative
+ES1349	n	cds	no	saltabancos	conservative
+ES469	n	cds	no	mastuerzo	conservative
+ES3972	n	re	no	torturar	inclusive
+ES3543	a	svp	no	altivo	conservative
+ES3127	n	asm	no	gilí	conservative
+ES2163	n	svp	no	furor	conservative
+ES3155	n	ddp	yes	atontados	conservative
+ES3661	n	pa	yes	contralor	inclusive
+ES599	n	dmc	yes	gangsterismo	inclusive
+ES2142	n	an	no	ceño	inclusive
+ES613	n	dmc	yes	bellaco	conservative
+ES3745	n	qas	no	grandiloqüencia	inclusive
+ES610	n	dmc	yes	bregante	conservative
+ES517	n	an	no	guarra	conservative
+ES2166	n	dmc	yes	dillydallier	conservative
+ES1577	n	cds	no	cut-up	conservative
+ES2373	n	an	no	gochu	inclusive
+ES894	n	qas	no	burguesas	inclusive
+ES2460	n	om	no	homoerótico	inclusive
+ES425	n	pa	yes	advocator	inclusive
+ES2004	n	or	no	cenojo	inclusive
+ES1860	n	dmc	yes	moralista	inclusive
+ES971	n	dmc	yes	perezoso	conservative
+ES349	n	cds	no	burdel	inclusive
+ES3114	n	ddp	yes	atontada	conservative
+ES2633	n	is	yes	inopia	inclusive
+ES269	n	an	no	zoquete	conservative
+ES1869	n	dmc	yes	valores morales	inclusive
+ES2187	n	cds	no	fascismo	conservative
+ES3732	n	cds	no	truckler	conservative
+ES1887	a	dmc	yes	desgraciada	conservative
+ES1688	n	svp	no	horror	inclusive
+ES506	n	pr	no	escoria	conservative
+ES2030	n	om	no	zinojo	inclusive
+ES2913	n	cds	no	empollón	conservative
+ES3568	n	re	no	plagium	inclusive
+ES224	n	re	no	difamación	conservative
+ES800	n	svp	no	aburrimiento	inclusive
+ES502	n	an	no	puta	conservative
+ES503	n	pr	no	pendona	conservative
+ES1084	n	re	no	grifter	inclusive
+ES1055	n	asm	no	retardar	inclusive
+ES3275	n	an	no	branta bernicla	inclusive
+ES3829	a	ps	yes	hebrea	inclusive
+ES895	n	qas	no	burgues	inclusive
+ES536	n	qas	no	trola	conservative
+ES3995	a	om	no	travestí	inclusive
+ES4030	n	qas	no	cinturón de peso	inclusive
+ES3374	n	qas	no	sanguijuela	conservative
+ES1634	n	an	no	saqueo	inclusive
+ES1748	n	om	no	grupa	inclusive
+ES2582	n	cds	no	bicho	inclusive
+ES802	n	svp	no	hastio	inclusive
+ES3881	n	qas	no	sabueso	inclusive
+ES22	n	svp	no	de espiritualidad	inclusive
+ES150	n	asf	no	hojarasca	conservative
+ES2966	n	cds	no	papel impulsor	inclusive
+ES157	n	cds	no	atormentador	conservative
+ES511	n	an	no	gigoló	conservative
+ES3137	n	ddp	yes	tontolaba	conservative
+ES975	n	is	yes	villana	conservative
+ES313	n	is	yes	avariciar	conservative
+ES2251	n	asm	no	haba	inclusive
+ES367	n	asm	no	testículos	inclusive
+ES181	n	qas	no	muchedumbre	inclusive
+ES437	n	pa	yes	abogada	inclusive
+ES417	n	pa	yes	defensores	inclusive
+ES1235	n	or	no	repollos	inclusive
+ES1938	n	qas	no	agricultores	inclusive
+ES991	a	cds	no	vil	conservative
+ES3592	n	an	no	pollo	inclusive
+ES1166	n	asm	no	pija	conservative
+ES1042	n	an	no	gallina	inclusive
+ES2414	n	cds	no	sustracción	inclusive
+ES232	n	re	no	violada	conservative
+ES144	n	ddp	yes	bagatela	conservative
+ES1411	n	asm	no	credulidad	conservative
+ES537	n	dmc	yes	falsedad	inclusive
+ES605	n	cds	no	círculo	inclusive
+ES1475	n	cds	no	biotecnología vegetal	inclusive
+ES2423	n	pr	no	prostitución	inclusive
+ES3378	n	qas	no	moocher	conservative
+ES876	n	qas	no	campesino	inclusive
+ES316	n	an	no	tacaño	conservative
+ES492	n	ddp	yes	pendejo	conservative
+ES747	n	cds	no	metedura de pata	inclusive
+ES2178	n	re	no	mafioso	conservative
+ES3566	n	re	no	plagiarisation	inclusive
+ES149	n	cds	no	paja	conservative
+ES358	n	dmc	yes	bola	inclusive
+ES1290	n	pa	yes	cabo	inclusive
+ES151	n	asf	no	basura	conservative
+ES2978	n	qas	no	parasitar	inclusive
+ES625	n	dmc	yes	forajido	inclusive
+ES1092	n	an	no	ragtag	conservative
+ES255	n	om	no	burro	inclusive
+ES2939	n	cds	no	mafiosos	inclusive
+ES762	n	dmc	yes	desgraciado	inclusive
+ES3445	v	cds	no	idolatrar	inclusive
+ES643	n	cds	no	taleteller	conservative
+ES369	n	asm	no	óvulo	inclusive
+ES1894	a	cds	no	grosero	conservative
+ES721	n	cds	no	callejón sin salida	inclusive
+ES3693	n	re	no	rapto	inclusive
+ES2392	a	cds	no	taimado	conservative
+ES2044	n	om	no	meum piperitum	inclusive
+ES3858	a	ddp	yes	inprudente	conservative
+ES2508	n	cds	no	masas	inclusive
+ES1398	n	svp	no	tṛṣṇā	inclusive
+ES3101	n	an	no	ovina	inclusive
+ES1427	n	ddp	yes	hipotiroidismo congénito	inclusive
+ES1366	n	cds	no	chatarrería	conservative
+ES1471	n	cds	no	híbrido	inclusive
+ES3139	n	ddp	yes	lelo	conservative
+ES215	n	ddp	yes	bestia	conservative
+ES322	n	is	yes	tacanería	conservative
+ES3749	a	dmc	yes	artificial	inclusive
+ES1489	n	cds	no	mijito	inclusive
+ES4147	n	dmc	yes	renegado	conservative
+ES720	n	an	no	cornudo	conservative
+ES233	n	re	no	estupro	inclusive
+ES1624	n	or	no	ababol	conservative
+ES2783	n	svp	no	airados	inclusive
+ES2692	n	qas	no	mentirilla	conservative
+ES195	n	an	no	anguila	inclusive
+ES1875	n	an	no	escorpión de mar	inclusive
+ES1481	n	cds	no	novato	conservative
+ES1218	n	pa	yes	ensenante	inclusive
+ES2904	n	an	no	mulo	inclusive
+ES395	n	ddp	yes	barbaro	conservative
+ES1479	n	ps	yes	mejoramiento vegetal	inclusive
+ES1997	n	or	no	enoyo	inclusive
+ES2499	n	cds	no	rebano	inclusive
+ES2316	n	dmc	yes	perdulario	conservative
+ES742	n	qas	no	bloopers	inclusive
+ES1582	n	om	no	señora	inclusive
+ES1788	n	svp	no	glotón	inclusive
+ES664	n	qas	no	magnate	inclusive
+ES1056	n	ps	yes	cretino	conservative
+ES2928	n	cds	no	paco	inclusive
+ES1825	n	cds	no	criminoso	inclusive
+ES142	n	ddp	yes	tonterías	conservative
+ES1756	n	om	no	asentaderas	inclusive
+ES2654	n	cds	no	guazón	inclusive
+ES2418	n	re	no	bienes robados	inclusive
+ES640	n	ddp	yes	osicón	conservative
+ES703	n	dmc	yes	mierda	inclusive
+ES1841	n	cds	no	criador	inclusive
+ES112	n	svp	no	indolencia	conservative
+ES400	n	qas	no	bárbaros	conservative
+ES474	n	ddp	yes	incauto	conservative
+ES152	n	asf	no	majadería	conservative
+ES1360	n	cds	no	residuo metálico	inclusive
+ES399	n	dmc	yes	montañero	conservative
+ES2410	n	re	no	hurtar	inclusive
+ES1832	n	re	no	delinquir	inclusive
+ES2402	n	re	no	robo	inclusive
+ES749	n	qas	no	embrollo	inclusive
+ES2018	n	om	no	anethum dulce	inclusive
+ES2	n	dmc	yes	degradación	inclusive
+ES1344	n	dmc	yes	embaucador	conservative
+ES1825	n	dmc	yes	criminoso	inclusive
+ES4216	n	rci	yes	terrone	conservative
+ES254	n	asf	no	idiota	conservative
+ES3222	n	ps	yes	grupos etnicos	inclusive
+ES1303	n	om	no	mariposa	conservative
+ES2910	n	cds	no	norio	conservative
+ES1530	n	or	no	cucumis muricatus	inclusive
+ES4082	n	cds	no	teorías de conspiracion	inclusive
+ES2582	n	cds	no	bicho	conservative
+ES2521	n	dmc	yes	sin hogar	inclusive
+ES375	n	asm	no	cojon	inclusive
+ES1363	n	cds	no	deshecho	conservative
+ES2488	n	ps	yes	¿quien es judio?	inclusive
+ES148	n	ddp	yes	codswallop	conservative
+ES2866	n	ps	yes	mongol	inclusive
+ES3530	a	om	no	desviada	inclusive
+ES992	a	dmc	yes	bajo	conservative
+ES3559	n	re	no	plagiado	inclusive
+ES702	n	cds	no	bastardo	conservative
+ES3142	n	asm	no	atontadas	conservative
+ES1490	n	cds	no	niño	inclusive
+ES1728	n	om	no	ocóte	inclusive
+ES3442	v	cds	no	reverenciar	inclusive
+ES2350	a	cds	no	ilegal	inclusive
+ES2058	n	cds	no	wangler	conservative
+ES295	n	an	no	borriquillo	inclusive
+ES72	n	ddp	yes	subnormal	inclusive
+ES2419	n	an	no	parásito	conservative
+ES1364	n	qas	no	chatarreria	inclusive
+ES4091	n	cds	no	conspiranoica	inclusive
+ES2484	n	ps	yes	¿quien es judío?	inclusive
+ES255	n	or	no	burro	conservative
+ES4136	n	an	no	cresa	inclusive
+ES1771	n	cds	no	gato	conservative
+ES1180	n	asm	no	polla	conservative
+ES3117	n	ddp	yes	gilipollez	conservative
+ES1434	n	asm	no	wanker	conservative
+ES3768	n	an	no	anuros	inclusive
+ES1724	n	om	no	terminologia anatomica de localizacion	inclusive
+ES1939	n	qas	no	sodbuster	inclusive
+ES490	n	ddp	yes	pavitonto	conservative
+ES2593	n	ddf	yes	ley de igualdad de oportunidades	inclusive
+ES793	n	an	no	ferocidad	conservative
+ES258	n	ps	yes	necio	conservative
+ES2777	n	svp	no	enfado	inclusive
+ES3473	n	an	no	acaparador	conservative
+ES2552	n	an	no	hyaenidae	inclusive
+ES338	n	cds	no	burdeles	inclusive
+ES2339	v	asm	no	cepillarse	conservative
+ES1053	n	asf	no	retrasada	conservative
+ES2101	n	dmc	yes	bufon	inclusive
+ES3550	a	svp	no	gruñón	conservative
+ES61	n	cds	no	profesor	inclusive
+ES2277	a	dmc	yes	fétido	conservative
+ES944	n	cds	no	orgullo	conservative
+ES1475	n	ps	yes	biotecnología vegetal	inclusive
+ES1640	n	asf	no	doofus	conservative
+ES2825	n	or	no	punctiliousness	inclusive
+ES1127	n	pa	yes	oficinista	inclusive
+ES265	n	ddp	yes	melón	conservative
+ES3170	n	an	no	limaco	inclusive
+ES1738	n	om	no	gluteo	inclusive
+ES1213	n	pa	yes	cátedras	inclusive
+ES120	n	qas	no	esbirro	inclusive
+ES1050	n	asf	no	nino cambiado	conservative
+ES3506	n	an	no	piojoso	inclusive
+ES3313	n	or	no	zapallo	inclusive
+ES628	n	cds	no	bandolerismo	conservative
+ES2717	n	cds	no	usureros	conservative
+ES1288	n	pa	yes	corporal	inclusive
+ES731	n	qas	no	plancha	inclusive
+ES318	n	svp	no	tacañeria	inclusive
+ES77	n	ps	yes	idiotez	conservative
+ES622	n	cds	no	proscrito	inclusive
+ES370	n	asm	no	bollocks	inclusive
+ES3509	n	an	no	ftirapteros	inclusive
+ES939	n	cds	no	prepotencia	conservative
+ES3650	n	pr	no	adúltera	conservative
+ES320	n	an	no	avaricioso	conservative
+ES2821	n	ps	yes	metic	inclusive
+ES1284	n	an	no	conejitos	inclusive
+ES375	n	qas	no	cojon	inclusive
+ES1625	n	asf	no	simplón	conservative
+ES839	n	pr	no	bovinos domésticos	inclusive
+ES1093	n	qas	no	chusma	conservative
+ES23	n	svp	no	abandono	inclusive
+ES1595	n	dmc	yes	fraude	conservative
+ES3778	v	re	no	afanar	inclusive
+ES4098	n	cds	no	teorias de la conspiración	inclusive
+ES1470	n	ps	yes	mejora vegetal	inclusive
+ES1055	n	cds	no	retardar	inclusive
+ES269	n	ddp	yes	zoquete	conservative
+ES1156	n	an	no	grosería	conservative
+ES116	n	pa	yes	partidario	inclusive
+ES236	n	re	no	violadores	conservative
+ES3608	a	an	no	bestial	conservative
+ES257	n	ddp	yes	bobo	conservative
+ES3022	n	asm	no	guisante	inclusive
+ES1762	n	om	no	ancas	inclusive
+ES217	n	ddp	yes	animales	inclusive
+ES262	n	cds	no	tonto	conservative
+ES2795	n	svp	no	iracundo	inclusive
+ES791	n	ddp	yes	bestialismo	conservative
+ES3166	n	qas	no	plomo	inclusive
+ES2807	a	re	no	furioso	conservative
+ES586	a	ddp	yes	infantil	conservative
+ES3486	n	cds	no	chisme	inclusive
+ES1988	n	or	no	hinojo	inclusive
+ES2140	n	cds	no	francmason	inclusive
+ES2933	n	re	no	cosa nostra	conservative
+ES2464	n	ps	yes	hebraísmo	inclusive
+ES342	n	cds	no	puticlub	inclusive
+ES2581	a	is	yes	tacaño	conservative
+ES2015	n	om	no	jenoyo	inclusive
+ES2428	n	pr	no	prostitutas	inclusive
+ES1634	n	re	no	saqueo	inclusive
+ES2177	n	cds	no	caballero de industria	conservative
+ES368	n	asm	no	pelota	inclusive
+ES2873	n	an	no	culicidos	inclusive
+ES3398	v	asm	no	embaucar	conservative
+ES1499	n	asf	no	chucha	conservative
+ES990	a	dmc	yes	despreciable	conservative
+ES181	n	cds	no	muchedumbre	inclusive
+ES2856	n	cds	no	lasf	inclusive
+ES761	n	qas	no	blunderer	conservative
+ES2830	n	qas	no	mezclas	inclusive
+ES799	n	svp	no	aburrir	inclusive
+ES3901	n	pr	no	lampyris noctiluca	inclusive
+ES3511	n	an	no	phthiraptera	inclusive
+ES2876	n	an	no	mosco	inclusive
+ES3956	n	asm	no	língam	inclusive
+ES1800	n	cds	no	cantidad	inclusive
+ES3630	a	dmc	yes	contrahecho t+	conservative
+ES499	n	pr	no	mujer de la calle	conservative
+ES258	n	an	no	necio	conservative
+ES1810	n	cds	no	puntajes	inclusive
+ES3416	v	cds	no	dejar de existir	inclusive
+ES2182	n	cds	no	gangster	inclusive
+ES1357	n	ddp	yes	curanderismo	conservative
+ES1663	n	an	no	doodly-squat	conservative
+ES314	n	svp	no	tacaneria	inclusive
+ES510	n	pr	no	mesalina	conservative
+ES267	n	asf	no	alcornoque	conservative
+ES767	n	cds	no	torpe	conservative
+ES2857	n	svp	no	slackers	conservative
+ES1586	v	asm	no	mofarse	conservative
+ES4012	n	asm	no	pajarraco	inclusive
+ES2920	n	svp	no	luxuria	inclusive
+ES2367	n	an	no	chancho	inclusive
+ES777	n	ddp	yes	incapaz	conservative
+ES727	n	cds	no	chapucería	inclusive
+ES3407	n	qas	no	revoltoso	conservative
+ES1051	n	ps	yes	cretina	conservative
+ES522	n	pr	no	meretriz	conservative
+ES81	n	an	no	american buffalo	inclusive
+ES244	n	asm	no	estupidez	conservative
+ES1198	n	an	no	culex pipiens	inclusive
+ES1625	n	asm	no	simplón	conservative
+ES4003	n	pr	no	hetera	inclusive
+ES3984	n	om	no	cross dresser	inclusive
+ES728	n	qas	no	boo-boo	inclusive
+ES2544	n	cds	no	wheeler dealer	conservative
+ES3215	n	pa	yes	pretendiente	inclusive
+ES1782	n	svp	no	tajador	inclusive
+ES2747	n	asm	no	pijo	inclusive
+ES1609	n	pr	no	cortesanas	inclusive
+ES738	n	cds	no	pifia	inclusive
+ES1922	n	cds	no	proxeneta	inclusive
+ES1610	n	pr	no	querida	conservative
+ES3266	n	qas	no	inquilino	inclusive
+ES267	n	or	no	alcornoque	conservative
+ES2905	n	an	no	potrola	inclusive
+ES2517	n	cds	no	prelatura	inclusive
+ES3432	n	or	no	solanum tuberosum	inclusive
+ES3283	n	an	no	brent	inclusive
+ES3131	n	ddp	yes	tarada	conservative
+ES1450	n	an	no	crocodilia	inclusive
+ES941	n	cds	no	suficiencia	conservative
+ES310	n	svp	no	parsimonia	conservative
+ES739	n	qas	no	bluper	inclusive
+ES1091	n	qas	no	gentuza	conservative
+ES3794	n	an	no	hirudíneo	inclusive
+ES1603	n	cds	no	demagógica	conservative
+ES142	n	cds	no	tonterías	conservative
+ES4016	n	cds	no	cloaca	inclusive
+ES252	a	ddp	yes	tonto	conservative
+ES2690	n	cds	no	película	conservative
+ES1974	n	or	no	acinojo	inclusive
+ES1040	n	cds	no	alfeñique	conservative
+ES3866	n	an	no	gallineta nórdica	inclusive
+ES133	n	qas	no	fárrago	inclusive
+ES761	n	ddp	yes	blunderer	conservative
+ES363	n	qas	no	ballock	inclusive
+ES166	n	cds	no	celote	inclusive
+ES3358	n	an	no	verme	inclusive
+ES394	n	ps	yes	bárbaro	conservative
+ES2139	n	cds	no	masoneria	inclusive
+ES4213	a	cds	no	tosco	conservative
+ES529	n	pr	no	pelandusca	conservative
+ES2000	n	or	no	mellu	inclusive
+ES986	n	cds	no	garabatos	inclusive
+ES1308	n	om	no	queer	conservative
+ES3533	n	asm	no	masturbación	conservative
+ES1035	n	an	no	enclenque	conservative
+ES2562	n	asf	no	moza	conservative
+ES11	n	svp	no	acidia	inclusive
+ES1682	n	an	no	mala jugada	conservative
+ES4007	n	asm	no	pajarracos	inclusive
+ES1592	n	qas	no	pintamonas	conservative
+ES1703	n	dmc	yes	hipocresia	conservative
+ES399	n	ps	yes	montañero	conservative
+ES2022	n	om	no	hacinojo	inclusive
+ES2287	n	cds	no	carcelera	inclusive
+ES3017	n	asm	no	chicaro	inclusive
+ES876	n	pa	yes	campesino	inclusive
+ES3669	a	is	yes	aislado	inclusive
+ES1053	n	ps	yes	retrasada	conservative
+ES1059	n	an	no	arpía	conservative
+ES3446	v	cds	no	heroificar	inclusive
+ES3428	v	cds	no	fallecer	inclusive
+ES2332	v	asm	no	dormir	conservative
+ES2592	n	ddf	yes	discapacitado	inclusive
+ES970	n	dmc	yes	ocioso	conservative
+ES2782	n	svp	no	enojadas	inclusive
+ES2822	n	ps	yes	metecos	inclusive
+ES1466	n	ddf	yes	jorobado	inclusive
+ES447	n	qas	no	barón	inclusive
+ES3244	n	cds	no	ninfómana	conservative
+ES1387	n	svp	no	tṛṣṇa	inclusive
+ES1046	n	asf	no	cambiantes	conservative
+ES1701	n	dmc	yes	falso	conservative
+ES1574	n	qas	no	rechazar	conservative
+ES1400	n	svp	no	ansia	inclusive
+ES3902	n	an	no	luciérnaga	inclusive
+ES577	n	cds	no	enredador	conservative
+ES774	n	ddp	yes	patoso	conservative
+ES1158	n	an	no	zafiedad	conservative
+ES713	n	re	no	chantaje	inclusive
+ES1522	n	or	no	cucumis sphaerocarpus	inclusive
+ES1714	n	om	no	proximal	inclusive
+ES2714	n	cds	no	préstamos de dinero	inclusive
+ES1409	n	an	no	marta	conservative
+ES3198	n	ps	yes	jigaboo	conservative
+ES1459	n	an	no	cocodrilido	inclusive
+ES2991	n	an	no	psittaciformes	inclusive
+ES221	n	ddp	yes	metazoos	inclusive
+ES961	n	dmc	yes	vagabunda	inclusive
+ES608	n	dmc	yes	malandrín	conservative
+ES3523	a	svp	no	enfadado	inclusive
+ES3330	v	cds	no	escuchar a escondidas	inclusive
+ES1613	n	pr	no	union concubinaria	inclusive
+ES396	n	pa	yes	barbarie	conservative
+ES1812	n	cds	no	peón	inclusive
+ES1297	n	cds	no	periodista	inclusive
+ES2712	n	cds	no	usurero	conservative
+ES3053	n	qas	no	rétor	inclusive
+ES78	n	pa	yes	academicismo	inclusive
+ES1836	n	dmc	yes	delinquimiento	inclusive
+ES626	n	dmc	yes	malhechor	inclusive
+ES3717	n	re	no	mangante	inclusive
+ES1087	n	cds	no	traficante	inclusive
+ES2859	n	an	no	moluscos	inclusive
+ES3304	n	re	no	homicidios	inclusive
+ES1478	n	cds	no	hibridismo	inclusive
+ES282	n	an	no	borrico	inclusive
+ES263	n	an	no	gilipollas	conservative
+ES1922	n	cds	no	proxeneta	conservative
+ES2320	n	cds	no	extrema derecha	conservative
+ES4158	n	pa	yes	empleada	inclusive
+ES3408	n	qas	no	problemas maker	conservative
+ES1835	n	re	no	delictivo	inclusive
+ES587	n	dmc	yes	intolerante	conservative
+ES286	n	an	no	asinina	inclusive
+ES3220	n	ps	yes	asiaticos	inclusive
+ES254	n	qas	no	idiota	conservative
+ES764	n	ddp	yes	chapucero	conservative
+ES3095	n	ddp	yes	nanocephaly	inclusive
+ES264	n	an	no	hammerhead	conservative
+ES1200	n	cds	no	satisfacción de sí mismo	inclusive
+ES2175	n	dmc	yes	ratero	conservative
+ES2100	n	cds	no	albardan	inclusive
+ES647	n	cds	no	chivato	conservative
+ES3597	n	cds	no	infantil	inclusive
+ES897	n	qas	no	burguesia	inclusive
+ES839	n	an	no	bovinos domésticos	inclusive
+ES3739	a	dmc	yes	contaminado	inclusive
+ES385	n	dmc	yes	bandido	conservative
+ES277	n	an	no	azno	inclusive
+ES702	n	ddp	yes	bastardo	conservative
+ES1623	a	ddp	yes	crédulo	conservative
+ES2305	n	qas	no	detective	inclusive
+ES1808	n	cds	no	decenas	inclusive
+ES1855	n	an	no	escargot	inclusive
+ES2579	a	dmc	yes	tacaña	conservative
+ES3545	a	svp	no	presuntuosa	conservative
+ES983	n	cds	no	garabato	inclusive
+ES4157	n	an	no	vipera	inclusive
+ES365	n	asm	no	gónada masculina	inclusive
+ES245	n	ddp	yes	disparate	conservative
+ES3105	n	an	no	borregos	inclusive
+ES529	n	pr	no	pelandusca	inclusive
+ES615	n	an	no	pícaro	conservative
+ES2176	n	cds	no	tunante	conservative
+ES107	n	om	no	sodomía	inclusive
+ES905	n	qas	no	burguesía	inclusive
+ES2808	v	ddp	yes	atontarse	conservative
+ES146	n	ddp	yes	jerigonza	conservative
+ES803	n	an	no	vacas	inclusive
+ES2748	n	asm	no	guañaño	inclusive
+ES1092	n	qas	no	ragtag	conservative
+ES2752	n	asm	no	peneanos	inclusive
+ES2436	n	pr	no	prostituir	inclusive
+ES3403	v	re	no	multar	inclusive
+ES2091	n	cds	no	hato	inclusive
+ES643	n	ddp	yes	taleteller	conservative
+ES2646	n	cds	no	ostentación	inclusive
+ES630	n	re	no	criminal	inclusive
+ES96	n	om	no	pedicacion	inclusive
+ES352	n	cds	no	whiskería	inclusive
+ES405	n	pr	no	barbaridad	conservative
+ES878	n	qas	no	campesinos	inclusive
+ES493	n	an	no	lagartona	conservative
+ES358	n	qas	no	bola	inclusive
+ES2182	n	re	no	gangster	inclusive
+ES3130	n	asm	no	gilipolleces	conservative
+ES762	n	dmc	yes	desgraciado	conservative
+ES392	n	ps	yes	bárbara	inclusive
+ES4147	n	cds	no	renegado	conservative
+ES1095	n	an	no	perros	inclusive
+ES469	n	ddp	yes	mastuerzo	conservative
+ES38	n	re	no	malos tratos	inclusive
+ES3359	n	an	no	gusanos	inclusive
+ES1639	n	asf	no	simple	conservative
+ES1366	n	cds	no	chatarrería	inclusive
+ES292	n	an	no	equus asinus	inclusive
+ES3805	a	re	no	fuerte	inclusive
+ES3376	v	cds	no	regatear	inclusive
+ES233	n	re	no	estupro	conservative
+ES588	n	dmc	yes	fanática	conservative
+ES1476	n	ps	yes	cruzamiento	inclusive
+ES2547	n	an	no	hiénido	inclusive
+ES973	n	cds	no	turba	conservative
+ES3659	a	svp	no	venenoso	conservative
+ES1643	n	dmc	yes	despilfarrador	inclusive
+ES3020	n	asm	no	chícharo	inclusive
+ES258	n	asf	no	necio	conservative
+ES625	n	cds	no	forajido	inclusive
+ES362	n	asm	no	cojones	inclusive
+ES2036	n	or	no	funcho	inclusive
+ES1576	n	qas	no	desecho	conservative
+ES397	n	cds	no	salvaje	conservative
+ES1181	n	qas	no	gamberro	conservative
+ES1029	n	is	yes	paria	inclusive
+ES2437	n	is	yes	pobre	inclusive
+ES703	n	dmc	yes	mierda	conservative
+ES554	n	qas	no	confusión	inclusive
+ES39	n	re	no	uso indebido	inclusive
+ES1344	n	ddp	yes	embaucador	conservative
+ES1050	n	cds	no	nino cambiado	inclusive
+ES3118	n	asm	no	que cono haces?	conservative
+ES1806	n	cds	no	balsas	inclusive
+ES2401	n	cds	no	réprobo	conservative
+ES244	n	ddp	yes	estupidez	conservative
+ES371	n	asm	no	huevo	inclusive
+ES1988	n	om	no	hinojo	inclusive
+ES2565	n	asf	no	muñeca	conservative
+ES3524	a	svp	no	bravo	inclusive
+ES1092	n	cds	no	ragtag	conservative
+ES1057	n	cds	no	puto	inclusive
+ES1712	n	om	no	glúteo	inclusive
+ES2833	n	qas	no	combinación química	inclusive
+ES2746	n	asm	no	garompa	inclusive
+ES2402	n	cds	no	robo	inclusive
+ES391	n	pa	yes	patán	conservative
+ES2647	n	cds	no	educadora	inclusive
+ES1180	n	asm	no	polla	inclusive
+ES254	n	or	no	idiota	conservative
+ES1779	n	svp	no	tajadero	inclusive
+ES1652	n	re	no	actividades delictivas	inclusive
+ES2579	a	is	yes	tacaña	conservative
+ES747	n	qas	no	metedura de pata	inclusive
+ES704	n	ddp	yes	coño	conservative
+ES3312	n	or	no	auyama	inclusive
+ES3982	n	om	no	travesti	inclusive
+ES3228	n	ps	yes	latino	inclusive
+ES2308	n	cds	no	mediador	inclusive
+ES1321	n	an	no	fisiognomico	inclusive
+ES744	n	qas	no	flub	inclusive
+ES2932	n	cds	no	mafia	conservative
+ES741	n	qas	no	estropeo	inclusive
+ES1401	n	svp	no	trsṇā	inclusive
+ES4125	n	dmc	yes	sin domicilio fijo	inclusive
+ES1976	n	om	no	finocchio	inclusive
+ES2651	n	cds	no	instructor	inclusive
+ES256	n	cds	no	imbécil	inclusive
+ES1507	n	or	no	cocho	conservative
+ES607	n	cds	no	villano	conservative
+ES532	n	pr	no	coima	conservative
+ES3996	a	om	no	travesti	inclusive
+ES2933	n	cds	no	cosa nostra	conservative
+ES2475	n	ps	yes	judaico	inclusive
+ES837	n	an	no	becerras	inclusive
+ES2429	n	pr	no	trabajadoras sexuales	inclusive
+ES2750	n	asm	no	pene	inclusive
+ES732	n	cds	no	equivocación	inclusive
+ES2585	n	an	no	carabo norteamericano	inclusive
+ES3885	a	cds	no	inteligente	inclusive
+ES396	n	qas	no	barbarie	conservative
+ES1622	a	ddp	yes	crédula	conservative
+ES448	n	qas	no	baronías	inclusive
+ES3140	n	asm	no	lerda	conservative
+ES2998	a	dmc	yes	atroz	conservative
+ES226	n	re	no	calumnia	inclusive
+ES1051	n	ddp	yes	cretina	inclusive
+ES2090	n	cds	no	rebaño	inclusive
+ES1323	n	an	no	fisiognomía	inclusive
+ES431	n	pa	yes	notario	inclusive
+ES1029	n	dmc	yes	paria	inclusive
+ES2953	n	an	no	buei	inclusive
+ES1822	n	cds	no	intelectual	inclusive
+ES1812	n	qas	no	peón	inclusive
+ES3372	n	qas	no	estrujador	conservative
+ES3172	n	cds	no	enigma	conservative
+ES1089	n	cds	no	estafadora	inclusive
+ES3806	n	cds	no	romano	conservative
+ES3942	n	ddp	yes	testarudo	conservative
+ES822	n	pr	no	anojo	inclusive
+ES2963	n	cds	no	paparazi	inclusive
+ES1093	n	ddp	yes	chusma	conservative
+ES121	n	qas	no	colaborador	inclusive
+ES1091	n	cds	no	gentuza	conservative
+ES2670	n	om	no	aristócrata	inclusive
+ES93	n	om	no	penetración anal	inclusive
+ES2447	n	om	no	homosexuales	inclusive
+ES2828	n	dmc	yes	ladronzuelo	conservative
+ES2781	n	svp	no	krodho	inclusive
+ES1903	n	dmc	yes	derrochador	conservative
+ES2132	n	cds	no	masonico	inclusive
+ES2412	n	cds	no	ladrones	inclusive
+ES2639	n	ddp	yes	ignorancia	conservative
+ES2063	n	asm	no	anatomía de los peces	inclusive
+ES1455	n	an	no	crocodilio	inclusive
+ES935	n	svp	no	fanfarronada	conservative
+ES321	n	an	no	avariciosamente	conservative
+ES3375	v	cds	no	negociar	inclusive
+ES284	n	an	no	asno	inclusive
+ES4165	n	dmc	yes	elches	conservative
+ES3204	n	ps	yes	negroides	inclusive
+ES3268	n	qas	no	arrendatarios	inclusive
+ES2751	n	asm	no	miembro	inclusive
+ES250	av	an	no	estúpidamente	conservative
+ES876	n	rci	yes	campesino	inclusive
+ES754	n	cds	no	fanfarrón	conservative
+ES1402	n	ddp	yes	locura	conservative
+ES1868	n	dmc	yes	moral	inclusive
+ES559	n	ps	yes	beduin	inclusive
+ES1273	n	asm	no	atornillar	conservative
+ES827	n	pr	no	bueyes	inclusive
+ES922	n	cds	no	egoísmo	conservative
+ES639	n	cds	no	murmurador	conservative
+ES4139	a	ps	yes	gascona	inclusive
+ES313	n	an	no	avariciar	conservative
+ES143	n	asf	no	baratija	conservative
+ES1504	n	or	no	choro	conservative
+ES939	n	svp	no	prepotencia	inclusive
+ES4109	n	om	no	drag queen	inclusive
+ES1553	n	or	no	cucurbita maxima	inclusive
+ES429	n	pa	yes	representante	inclusive
+ES2022	n	or	no	hacinojo	inclusive
+ES1320	n	cds	no	chismero	conservative
+ES302	n	svp	no	pecado capital	inclusive
+ES2095	n	cds	no	motley fool	inclusive
+ES3963	n	re	no	angustia	inclusive
+ES2902	n	an	no	mular	inclusive
+ES3309	n	re	no	muerte	inclusive
+ES1384	n	svp	no	tṛṣna	inclusive
+ES1088	n	dmc	yes	defraudador	conservative
+ES1815	n	ddf	yes	nanus	conservative
+ES823	n	an	no	eral	inclusive
+ES946	n	svp	no	conceitedness	conservative
+ES1053	n	ddp	yes	retrasada	inclusive
+ES16	n	svp	no	abulia	inclusive
+ES4096	n	cds	no	teoria de conspiracion	inclusive
+ES397	n	rci	yes	salvaje	conservative
+ES2115	n	cds	no	francmasónica	inclusive
+ES1124	n	cds	no	unidades japonesas de medición	inclusive
+ES1668	n	cds	no	novelucha	inclusive
+ES421	n	cds	no	intercesor	inclusive
+ES3459	a	or	no	exigente	conservative
+ES1923	n	cds	no	proxenetas	inclusive
+ES2803	a	svp	no	colérica	conservative
+ES2933	n	re	no	cosa nostra	inclusive
+ES1589	v	asm	no	burlarse	conservative
+ES1317	n	om	no	gays	inclusive
+ES825	n	an	no	utreros	inclusive
+ES3647	a	cds	no	demagógico	conservative
+ES152	n	ddp	yes	majadería	conservative
+ES3945	n	ddp	yes	cicatero	conservative
+ES3288	n	an	no	ixodida	inclusive
+ES1393	n	svp	no	trṣṇā	inclusive
+ES1821	n	cds	no	educador	inclusive
+ES3153	n	ddp	yes	zopenco	conservative
+ES2182	n	dmc	yes	gangster	inclusive
+ES3480	n	cds	no	comadreos	inclusive
+ES392	n	dmc	yes	bárbara	conservative
+ES1826	n	dmc	yes	criminalidad	inclusive
+ES1103	n	an	no	familiaris	inclusive
+ES122	n	cds	no	burla	inclusive
+ES555	n	cds	no	desconcierto	inclusive
+ES705	n	ddp	yes	capullo	conservative
+ES884	n	qas	no	empresaria	inclusive
+ES2855	n	cds	no	letrinas	inclusive
+ES309	n	svp	no	codez	conservative
+ES616	n	an	no	granuja	conservative
+ES3386	n	cds	no	advenedizo	inclusive
+ES2916	n	cds	no	nerd	conservative
+ES2044	n	or	no	meum piperitum	inclusive
+ES264	n	asf	no	hammerhead	conservative
+ES3086	n	an	no	microbio	inclusive
+ES2429	n	pr	no	trabajadoras sexuales	conservative
+ES14	n	svp	no	aboulia	inclusive
+ES1906	n	dmc	yes	gastadora	inclusive
+ES4057	n	cds	no	teorico conspirador	inclusive
+ES523	n	pr	no	hetaira	inclusive
+ES3576	a	cds	no	banal	inclusive
+ES592	n	cds	no	pandilla	inclusive
+ES283	n	an	no	vurro	inclusive
+ES1794	n	pa	yes	puerta de protección	inclusive
+ES3818	n	an	no	cucaracha	inclusive
+ES2112	n	cds	no	francmasonico	inclusive
+ES4208	n	ps	yes	zíngaro	inclusive
+ES2923	n	cds	no	policial	inclusive
+ES1754	n	om	no	asiento	inclusive
+ES462	n	cds	no	primo	conservative
+ES501	n	cds	no	alcahueta	conservative
+ES3335	n	ps	yes	vandalo	inclusive
+ES2790	n	svp	no	enojado	inclusive
+ES958	n	dmc	yes	conque	inclusive
+ES151	n	cds	no	basura	conservative
+ES772	n	qas	no	tarado	conservative
+ES680	n	cds	no	zaguate	inclusive
+ES2574	n	cds	no	idólatras	inclusive
+ES3360	n	an	no	gusano	inclusive
+ES2391	a	cds	no	lagartona	conservative
+ES765	n	qas	no	tapagujeros	conservative
+ES3321	n	dmc	yes	trickster	conservative
+ES3544	a	cds	no	orgulloso	conservative
+ES3796	n	an	no	hirudíneos	inclusive
+ES948	n	cds	no	masa	inclusive
+ES1358	n	cds	no	chatarrero	inclusive
+ES1310	n	om	no	homosexual	inclusive
+ES203	n	an	no	metazoa	inclusive
+ES3209	n	ps	yes	negros	inclusive
+ES247	n	asf	no	bêtise	conservative
+ES1033	n	an	no	debilucha	conservative
+ES2686	n	dmc	yes	prevaricador	inclusive
+ES3052	n	qas	no	retorico	inclusive
+ES1058	n	an	no	perra	conservative
+ES398	n	ddp	yes	barbaros	conservative
+ES364	n	qas	no	huevos	inclusive
+ES10	n	svp	no	pereza	inclusive
+ES3350	n	dmc	yes	augusto	inclusive
+ES1052	n	ddp	yes	idiocia	conservative
+ES1362	n	cds	no	chatarra	conservative
+ES2398	n	an	no	jamelgo	inclusive
+ES4001	n	pr	no	hetaera	inclusive
+ES535	n	qas	no	infundio	conservative
+ES2911	n	cds	no	matado	conservative
+ES840	n	an	no	uro	inclusive
+ES4218	n	ps	yes	zulú	inclusive
+ES887	n	qas	no	burgués	inclusive
+ES2852	n	cds	no	excusado	inclusive
+ES2964	n	cds	no	paparazzi	inclusive
+ES2894	n	an	no	gesto irónico	inclusive
+ES2382	n	an	no	gorrina	inclusive
+ES1179	n	asm	no	pito	conservative
+ES2471	n	ps	yes	religión judia	inclusive
+ES937	n	svp	no	altivez	conservative
+ES2828	n	cds	no	ladronzuelo	conservative
+ES2533	n	qas	no	tareas de la casa	inclusive
+ES3150	n	ddp	yes	tontorron	conservative
+ES2440	n	om	no	shirtlifter	inclusive
+ES3140	n	ddp	yes	lerda	conservative
+ES521	n	an	no	callejera	conservative
+ES934	n	cds	no	presunción	conservative
+ES1391	n	svp	no	tṛsna	inclusive
+ES553	n	qas	no	caos	inclusive
+ES653	n	cds	no	travesuras	conservative
+ES3579	a	cds	no	manida	inclusive
+ES1684	n	an	no	putada	conservative
+ES484	n	asm	no	memo	conservative
+ES1190	n	qas	no	plebeyos	inclusive
+ES1057	n	pr	no	puto	conservative
+ES3965	n	re	no	tormento	inclusive
+ES678	n	ps	yes	mestiza	conservative
+ES1942	n	cds	no	fascista	inclusive
+ES3552	a	svp	no	hosco	conservative
+ES1232	n	or	no	brassica maritima	inclusive
+ES1842	n	qas	no	aficionado	inclusive
+ES3121	n	ddp	yes	tontas	conservative
+ES2829	n	cds	no	sneak thief	conservative
+ES82	n	an	no	bison	inclusive
+ES1086	n	re	no	tratante	inclusive
+ES127	n	cds	no	bufonada	inclusive
+ES526	n	an	no	mujercita	conservative
+ES3620	a	svp	no	engreído	conservative
+ES1476	n	cds	no	cruzamiento	inclusive
+ES319	n	is	yes	rata	conservative
+ES3785	n	cds	no	snob	conservative
+ES1927	n	pr	no	mujer mantenida	conservative
+ES774	n	dmc	yes	patoso	conservative
+ES678	n	cds	no	mestiza	inclusive
+ES3267	n	qas	no	arrendatario	inclusive
+ES1263	n	svp	no	eros	inclusive
+ES541	n	cds	no	pisaverde	inclusive
+ES257	n	or	no	bobo	conservative
+ES3606	n	cds	no	bebés	inclusive
+ES1017	n	an	no	devorador de hombres	inclusive
+ES1038	n	an	no	pusilánime	conservative
+ES3423	v	cds	no	expirar	inclusive
+ES3494	a	qas	no	acostumbrado	inclusive
+ES2884	n	an	no	polillas	inclusive
+ES1089	n	dmc	yes	estafadora	conservative
+ES341	n	cds	no	prostíbulos	inclusive
+ES692	n	cds	no	chusco	inclusive
+ES601	n	re	no	pandillero	inclusive
+ES1509	n	or	no	chocho	conservative
+ES3088	n	an	no	microorganismos	inclusive
+ES420	n	pa	yes	enviado especial	inclusive
+ES764	n	cds	no	chapucero	inclusive
+ES1624	n	ddp	yes	ababol	conservative
+ES1984	n	om	no	zenollo	inclusive
+ES990	a	cds	no	despreciable	conservative
+ES2162	n	svp	no	furia	conservative
+ES2893	n	an	no	puchero	inclusive
+ES1085	n	cds	no	estafador	conservative
+ES2712	n	cds	no	usurero	inclusive
+ES3023	n	pa	yes	labrador	inclusive
+ES1308	n	or	no	queer	conservative
+ES2564	n	asf	no	muchacha	conservative
+ES3318	n	dmc	yes	homunculo	inclusive
+ES1599	n	cds	no	demagogia	conservative
+ES4170	n	dmc	yes	desertora	conservative
+ES3833	a	ps	yes	judío	inclusive
+ES767	n	ddp	yes	torpe	conservative
+ES636	n	an	no	cíbolo	inclusive
+ES3303	n	re	no	asesinatos	inclusive
+ES4006	n	asm	no	dinosaurio aviano	inclusive
+ES1605	n	cds	no	demagogos	conservative
+ES253	a	an	no	corto	conservative
+ES3188	n	ddf	yes	media pinta	conservative
+ES757	n	cds	no	dogmatismo	conservative
+ES2879	n	an	no	culícido	inclusive
+ES3144	n	asm	no	pero se puede saber que cono estas haciendo?	conservative
+ES518	n	pr	no	furcia	conservative
+ES1264	n	asm	no	jodienda	conservative
+ES21	n	svp	no	apatia	inclusive
+ES2077	n	dmc	yes	falsificaciones	inclusive
+ES2567	n	asf	no	tía	conservative
+ES1505	n	or	no	chichi	conservative
+ES539	n	qas	no	mentira	conservative
+ES1058	n	an	no	perra	inclusive
+ES480	n	asm	no	bendito	conservative
+ES142	n	asf	no	tonterías	conservative
+ES3066	n	cds	no	residuos	inclusive
+ES3324	n	ddp	yes	twaddler	conservative
+ES305	n	svp	no	rapacidad	inclusive
+ES3050	n	qas	no	retóricamente	inclusive
+ES1882	n	dmc	yes	mal	conservative
+ES1598	n	cds	no	agitador	conservative
+ES244	n	an	no	estupidez	conservative
+ES153	n	cds	no	chorradas	conservative
+ES667	n	qas	no	potentado	inclusive
+ES2703	a	is	yes	afligido	inclusive
+ES538	n	qas	no	embuste	conservative
+ES638	n	cds	no	cuentero	conservative
+ES610	n	cds	no	bregante	conservative
+ES696	n	cds	no	sato	inclusive
+ES247	n	ddp	yes	bêtise	conservative
+ES2160	n	cds	no	fundamentalistas	inclusive
+ES2945	n	ps	yes	ostrogodos	inclusive
+ES2882	n	pr	no	heteroceros	inclusive
+ES3730	n	cds	no	fawner	conservative
+ES671	n	qas	no	magnates	inclusive
+ES480	n	ddp	yes	bendito	conservative
+ES2676	n	svp	no	lujurioso	inclusive
+ES3177	n	ps	yes	mongoloide	conservative
+ES3706	n	re	no	raptio	inclusive
+ES4070	n	cds	no	hipótesis conspirativa	inclusive
+ES3816	n	an	no	blatodeo	inclusive
+ES150	n	cds	no	hojarasca	conservative
+ES704	n	asf	no	coño	conservative
+ES3154	n	ddp	yes	qué cono haces?	conservative
+ES940	n	svp	no	soberbia	conservative
+ES659	n	ps	yes	inkiness	inclusive
+ES2805	a	svp	no	mañoso qualifier	conservative
+ES2694	n	qas	no	mentirijilla	conservative
+ES392	n	ps	yes	bárbara	conservative
+ES729	n	cds	no	cante	inclusive
+ES473	n	ddp	yes	engañado	conservative
+ES3044	n	cds	no	reliquias	inclusive
+ES2537	n	qas	no	cabaña	inclusive
+ES466	n	asm	no	tacto suave	conservative
+ES2046	n	or	no	zenullo	inclusive
+ES147	n	an	no	folderol	conservative
+ES2580	a	dmc	yes	rancio	conservative
+ES1733	n	om	no	nalgas	inclusive
+ES2307	n	an	no	mosquito	inclusive
+ES4060	n	cds	no	teoría de la conspiración	inclusive
+ES158	n	re	no	torturador	inclusive
+ES1219	n	pa	yes	docente	inclusive
+ES759	n	cds	no	inepto	conservative
+ES2393	a	cds	no	astuto	inclusive
+ES376	n	asm	no	gonada masculina	inclusive
+ES1240	n	or	no	coliflores	inclusive
+ES269	n	or	no	zoquete	conservative
+ES964	n	dmc	yes	vagabundos	conservative
+ES1978	n	or	no	tinojo	inclusive
+ES3315	n	dmc	yes	homunculos	inclusive
+ES385	n	cds	no	bandido	conservative
+ES315	n	svp	no	tacano	conservative
+ES886	n	qas	no	empresarial	inclusive
+ES261	n	asf	no	estúpido	conservative
+ES648	n	ddp	yes	cotilla	conservative
+ES4177	n	an	no	ixódido	inclusive
+ES3802	a	is	yes	pobre	inclusive
+ES1830	n	cds	no	criminales	inclusive
+ES2678	n	svp	no	lujuria	inclusive
+ES522	n	an	no	meretriz	conservative
+ES4090	n	cds	no	teoria de la conspiración	inclusive
+ES4188	n	ps	yes	gitana	inclusive
+ES1088	n	re	no	defraudador	inclusive
+ES2089	n	an	no	sifonaptero	inclusive
+ES467	n	cds	no	majareta	conservative
+ES2461	n	om	no	julandron	inclusive
+ES325	n	ddp	yes	parlanchín	conservative
+ES736	n	cds	no	embarrada	inclusive
+ES3967	n	re	no	torturado	inclusive
+ES2760	n	asm	no	peniano	inclusive
+ES254	n	ddp	yes	idiota	conservative
+ES3839	a	svp	no	libidinoso	conservative
+ES1713	n	om	no	fundillo	inclusive
+ES2118	n	cds	no	francmasonica	inclusive
+ES115	n	qas	no	tabi%e2%80%98un	inclusive
+ES1309	n	or	no	extraño	conservative
+ES3230	n	ps	yes	nativo americanos	inclusive
+ES2515	n	cds	no	sacerdote	inclusive
+ES2743	n	cds	no	matcher	inclusive
+ES1636	n	an	no	expoliador	inclusive
+ES612	n	re	no	pícara	conservative
+ES1676	n	cds	no	grunge	inclusive
+ES4179	n	ps	yes	roma people	inclusive
+ES575	n	dmc	yes	fabricante	conservative
+ES3746	n	qas	no	grandilocuencia	inclusive
+ES234	n	re	no	violaciones	conservative
+ES2254	n	asm	no	vicia vulgaris	inclusive
+ES946	n	cds	no	conceitedness	conservative
+ES1244	n	or	no	coles	inclusive
+ES203	n	ddp	yes	metazoa	inclusive
+ES628	n	dmc	yes	bandolerismo	inclusive
+ES258	n	ddp	yes	necio	conservative
+ES2498	n	cds	no	manadas	inclusive
+ES3189	n	cds	no	narcism	inclusive
+ES762	n	ddp	yes	desgraciado	conservative
+ES1311	n	om	no	gay	conservative
+ES812	n	an	no	anojos	inclusive
+ES634	n	an	no	cabro	inclusive
+ES2076	n	pa	yes	pescadera	inclusive
+ES1130	n	an	no	cabra	inclusive
+ES3869	a	dmc	yes	disoluto	conservative
+ES488	n	asm	no	juan lanas	conservative
+ES33	n	re	no	maltrato	inclusive
+ES1366	n	qas	no	chatarrería	inclusive
+ES2688	n	qas	no	mentiras	conservative
+ES374	n	qas	no	pelotas	inclusive
+ES46	n	cds	no	corredor	inclusive
+ES1720	n	om	no	cola	inclusive
+ES3757	n	an	no	anura	inclusive
+ES2761	n	asm	no	chuto	inclusive
+ES276	n	ddp	yes	no saben nada	conservative
+ES1373	n	an	no	cimex lectularius	inclusive
+ES2617	n	ddp	yes	sin sentido	conservative
+ES2962	n	cds	no	paparazzo	inclusive
+ES989	a	dmc	yes	malo	conservative
+ES358	n	cds	no	bola	inclusive
+ES2694	n	cds	no	mentirijilla	conservative
+ES2338	v	asm	no	conocer	conservative
+ES523	n	an	no	hetaira	conservative
+ES2270	a	dmc	yes	apestoso	conservative
+ES4201	n	ps	yes	agitanar	inclusive
+ES3822	n	cds	no	segundo evaluador	conservative
+ES2420	n	qas	no	tagalong	conservative
+ES1	n	dmc	yes	abyección	inclusive
+ES3089	n	an	no	microbiana	inclusive
+ES765	n	cds	no	tapagujeros	conservative
+ES1926	n	cds	no	proxenético	inclusive
+ES4214	n	cds	no	culchie	inclusive
+ES1051	n	ddp	yes	cretina	conservative
+ES4078	n	cds	no	teorias conspitativas	inclusive
+ES1327	n	an	no	fisonomia	inclusive
+ES3187	n	cds	no	stealer	inclusive
+ES261	n	cds	no	estúpido	conservative
+ES608	n	cds	no	malandrín	conservative
+ES269	n	dmc	yes	zoquete	conservative
+ES331	n	ddp	yes	hablador	conservative
+ES1057	n	or	no	puto	conservative
+ES4036	n	an	no	bulo	conservative
+ES1973	n	om	no	cinojo	inclusive
+ES2818	n	dmc	yes	ladrón	conservative
+ES920	n	qas	no	burgueses	inclusive
+ES962	n	cds	no	vagabundo	conservative
+ES1502	n	asf	no	vagina	conservative
+ES494	n	pr	no	prostituta	conservative
+ES3540	a	cds	no	soberbia	conservative
+ES2435	n	pr	no	pelanduscas	inclusive
+ES1428	n	ddp	yes	cretinos	inclusive
+ES1780	n	svp	no	tragón	inclusive
+ES4149	a	re	no	borrascoso	conservative
+ES760	n	ddp	yes	desatinado	conservative
+ES1607	n	cds	no	demagogo	conservative
+ES1629	a	ddp	yes	cándida	conservative
+ES1805	n	cds	no	gobs	inclusive
+ES2934	n	cds	no	hampa	conservative
+ES2456	n	om	no	homoerótica	inclusive
+ES4088	n	cds	no	teorizador conspiratorio	inclusive
+ES994	n	an	no	pico	inclusive
+ES455	n	cds	no	excepto	inclusive
+ES3625	a	dmc	yes	falseado	conservative
+ES535	n	cds	no	infundio	conservative
+ES254	n	cds	no	idiota	conservative
+ES1269	n	asm	no	rodar en el heno	conservative
+ES1502	n	or	no	vagina	conservative
+ES679	n	cds	no	pp	inclusive
+ES4166	n	dmc	yes	apóstata	conservative
+ES146	n	cds	no	jerigonza	conservative
+ES726	n	qas	no	tropiezo	inclusive
+ES519	n	an	no	mujer publica	conservative
+ES613	n	cds	no	bellaco	conservative
+ES2890	n	pr	no	heterocero	inclusive
+ES998	n	cds	no	peña	inclusive
+ES1052	n	asm	no	idiocia	inclusive
+ES565	n	qas	no	historia	conservative
+ES941	n	svp	no	suficiencia	conservative
+ES1500	n	asf	no	almeja	conservative
+ES3025	n	an	no	cerdito	inclusive
+ES296	n	asm	no	culo	conservative
+ES1975	n	om	no	fenoyo	inclusive
+ES482	n	an	no	panoli	conservative
+ES3802	a	qas	no	pobre	conservative
+ES398	n	pa	yes	barbaros	conservative
+ES808	n	pr	no	añojo	inclusive
+ES127	n	dmc	yes	bufonada	inclusive
+ES648	n	cds	no	cotilla	conservative
+ES509	n	pr	no	mujer desaliñada	conservative
+ES2721	n	an	no	insectos	inclusive
+ES3748	n	qas	no	nave abandonada	inclusive
+ES3657	a	svp	no	rencoroso	conservative
+ES958	n	an	no	conque	conservative
+ES596	n	cds	no	pandillas	inclusive
+ES3558	a	svp	no	refunfuñona	conservative
+ES534	n	pr	no	fulana	conservative
+ES348	n	cds	no	prostibulo	inclusive
+ES1628	a	ddp	yes	ingenua	conservative
+ES2005	n	or	no	anisete silvestre	inclusive
+ES774	n	cds	no	patoso	conservative
+ES1093	n	an	no	chusma	conservative
+ES590	n	svp	no	intolerancia	conservative
+ES821	n	pr	no	becerro	inclusive
+ES1449	n	an	no	crocodilianos	inclusive
+ES256	n	asf	no	imbécil	conservative
+ES1078	n	re	no	calumniador	conservative
+ES1054	n	ps	yes	retrasado	conservative
+ES764	n	qas	no	chapucero	conservative
+ES2732	n	cds	no	réplica	inclusive
+ES724	n	qas	no	patochada	inclusive
+ES90	a	an	no	tozudo	inclusive
+ES1242	n	or	no	brassica campestris subsp. sylvestris	inclusive
+ES403	a	svp	no	codiciosa	inclusive
+ES281	n	an	no	asnos	inclusive
+ES2579	a	svp	no	tacaña	conservative
+ES1736	n	om	no	fin	inclusive
+ES7	n	svp	no	güeva	inclusive
+ES1472	n	cds	no	mejora de plantas	inclusive
+ES1154	n	qas	no	mezcolanza	inclusive
+ES3637	n	cds	no	golfo	conservative
+ES988	n	an	no	caimán	inclusive
+ES697	n	cds	no	rompehuelgas	inclusive
+ES210	n	asf	no	animal	conservative
+ES397	n	dmc	yes	salvaje	conservative
+ES251	a	an	no	estúpido	conservative
+ES4074	n	cds	no	teorías conspiratorias	inclusive
+ES2675	n	svp	no	voluptuosa	inclusive
+ES3403	v	asm	no	multar	conservative
+ES2806	n	cds	no	mussiness	conservative
+ES768	n	dmc	yes	botcher	conservative
+ES482	n	cds	no	panoli	conservative
+ES3653	n	pr	no	hogwash	conservative
+ES959	n	qas	no	indigente	conservative
+ES956	n	an	no	sinvergüenza	conservative
+ES3641	n	cds	no	defensa	inclusive
+ES969	n	dmc	yes	holgazán	conservative
+ES2098	n	dmc	yes	albardán	inclusive
+ES705	n	cds	no	capullo	conservative
+ES2178	n	re	no	mafioso	inclusive
+ES767	n	dmc	yes	torpe	conservative
+ES1994	n	om	no	zenoll	inclusive
+ES1653	n	dmc	yes	delito	inclusive
+ES687	n	cds	no	cacri	inclusive
+ES959	n	dmc	yes	indigente	conservative
+ES1397	n	svp	no	anhelo	inclusive
+ES913	n	qas	no	clase media	inclusive
+ES3399	v	asm	no	defraudar	conservative
+ES1976	n	or	no	finocchio	inclusive
+ES144	n	an	no	bagatela	conservative
+ES854	n	asm	no	café	inclusive
+ES463	n	ddp	yes	patsy	conservative
+ES4142	n	dmc	yes	desertor	conservative
+ES3072	n	an	no	selachimorpha	inclusive
+ES948	n	cds	no	masa	conservative
+ES760	n	dmc	yes	desatinado	conservative
+ES465	n	an	no	chump	conservative
+ES3764	n	an	no	ranas	inclusive
+ES1306	n	om	no	pluma	conservative
+ES2731	n	cds	no	sassing	inclusive
+ES379	a	svp	no	avaro	inclusive
+ES1153	n	qas	no	desorden	inclusive
+ES1382	n	svp	no	tṛsṇa	inclusive
+ES199	n	an	no	anguiliforme	inclusive
+ES1673	n	ps	yes	kraut	conservative
+ES415	n	pa	yes	rango diplomático	inclusive
+ES2433	n	pr	no	servicios sexuales	inclusive
+ES10	n	svp	no	pereza	conservative
+ES2252	n	asm	no	habera	inclusive
+ES4031	n	an	no	bulos	conservative
+ES3145	n	ddp	yes	pero se puede saber que cono estás haciendo?	conservative
+ES2419	n	qas	no	parásito	conservative
+ES285	n	an	no	borriquilla	inclusive
+ES4000	n	pr	no	heteras	inclusive
+ES2695	a	ddp	yes	incapaz	inclusive
+ES2141	n	cds	no	francmasonería	inclusive
+ES1483	n	cds	no	rookie	conservative
+ES251	a	cds	no	estúpido	conservative
+ES1140	n	an	no	cabrones	inclusive
+ES1670	n	ps	yes	boche	conservative
+ES496	n	an	no	zorra	inclusive
+ES1035	n	cds	no	enclenque	conservative
+ES3668	n	pa	yes	contadora	inclusive
+ES1116	n	cds	no	tribal	inclusive
+ES1772	n	cds	no	pájaro	conservative
+ES1179	n	asm	no	pito	inclusive
+ES1831	n	cds	no	delictuosa	inclusive
+ES2426	n	pr	no	putas	conservative
+ES828	n	pr	no	cuatreña	inclusive
+ES2198	n	cds	no	fasismo	conservative
+ES934	n	cds	no	presunción	inclusive
+ES3455	n	cds	no	rigorista	conservative
+ES26	n	qas	no	acólito	inclusive
+ES2038	n	om	no	anethum piperitum	inclusive
+ES633	n	an	no	chivo	inclusive
+ES1790	n	an	no	oveja	inclusive
+ES615	n	cds	no	pícaro	inclusive
+ES1851	n	asm	no	tieso	inclusive
+ES2269	n	asf	no	vaginal	conservative
+ES85	n	svp	no	engreimiento	conservative
+ES1012	n	an	no	carcharodon	inclusive
+ES4172	n	dmc	yes	abjuración	conservative
+ES113	n	svp	no	haragán	conservative
+ES3577	a	cds	no	sobado	inclusive
+ES149	n	ddp	yes	paja	conservative
+ES1578	n	cds	no	bromista	inclusive
+ES1961	n	or	no	fiollo	inclusive
+ES1977	n	om	no	fenollo	inclusive
+ES962	n	dmc	yes	vagabundo	conservative
+ES374	n	asm	no	pelotas	inclusive
+ES3387	n	cds	no	nouveau riche	inclusive
+ES2818	n	re	no	ladrón	inclusive
+ES2681	n	svp	no	libidinoso	inclusive
+ES965	n	is	yes	mendigo	conservative
+ES1044	n	an	no	cobarde	conservative
+ES3939	n	an	no	caimanino	inclusive
+ES1295	n	cds	no	corresponsalía	inclusive
+ES2409	n	cds	no	expoliación	inclusive
+ES156	n	an	no	borra	conservative
+ES2989	n	qas	no	parroquias	inclusive
+ES4152	n	re	no	violencia	inclusive
+ES740	n	qas	no	caída	inclusive
+ES3389	n	cds	no	parvenido	inclusive
+ES2908	n	cds	no	cerebro	conservative
+ES155	n	ddp	yes	aguachirle	conservative
+ES3672	n	or	no	berza campia	inclusive
+ES3001	a	cds	no	brutal	conservative
+ES2766	v	cds	no	tramar	inclusive
+ES192	n	an	no	anguilla	inclusive
+ES130	n	cds	no	baturrillo	inclusive
+ES801	n	svp	no	aburrido	inclusive
+ES1571	n	or	no	bonetillos	inclusive
+ES3026	n	an	no	cochinillo	inclusive
+ES2410	n	cds	no	hurtar	inclusive
+ES1074	n	re	no	difamador	conservative
+ES4049	n	cds	no	teoría conspiratoria	inclusive
+ES1978	n	om	no	tinojo	inclusive
+ES517	n	pr	no	guarra	conservative
+ES2345	v	asm	no	joder	conservative
+ES3556	a	svp	no	malhumorada	conservative
+ES2775	a	svp	no	celoso	conservative
+ES2282	n	cds	no	guardia	inclusive
+ES87	n	cds	no	viento	conservative
+ES477	n	ddp	yes	víctima	conservative
+ES258	n	cds	no	necio	conservative
+ES376	n	qas	no	gonada masculina	inclusive
+ES537	n	cds	no	falsedad	inclusive
+ES2340	v	asm	no	copular	conservative
+ES2538	n	qas	no	casucha	inclusive
+ES6	n	svp	no	negligencia	inclusive
+ES395	n	pa	yes	barbaro	conservative
+ES538	n	cds	no	embuste	conservative
+ES764	n	dmc	yes	chapucero	conservative
+ES962	n	dmc	yes	vagabundo	inclusive
+ES73	n	ddp	yes	deficiencia mental	inclusive
+ES2082	n	cds	no	hervidor de pescado	inclusive
+ES2952	n	dmc	yes	rácano	conservative
+ES943	n	cds	no	arrogancia	conservative
+ES2015	n	or	no	jenoyo	inclusive
+ES2900	n	an	no	stick-in-the-mud	conservative
+ES1083	n	dmc	yes	chiseller	conservative
+ES1338	n	an	no	moo-vaca	inclusive
+ES961	n	ps	yes	vagabunda	inclusive
+ES661	n	ps	yes	negro	inclusive
+ES210	n	an	no	animal	inclusive
+ES788	n	an	no	zooerasty	conservative
+ES4175	n	dmc	yes	treasonist	conservative
+ES2687	n	dmc	yes	manta	conservative
+ES3801	a	dmc	yes	miserable	conservative
+ES1463	n	an	no	crocodílido	inclusive
+ES1858	n	qas	no	aficionados	inclusive
+ES323	n	is	yes	avara	conservative
+ES465	n	cds	no	chump	conservative
+ES3372	n	an	no	estrujador	conservative
+ES1417	n	an	no	búho	inclusive
+ES982	n	cds	no	cacografía	inclusive
+ES543	n	cds	no	tendedero	inclusive
+ES1552	n	or	no	carabacera pataquera	inclusive
+ES4	n	svp	no	vagancia	inclusive
+ES1071	n	re	no	caloña	inclusive
+ES2331	v	asm	no	jalar	conservative
+ES833	n	pr	no	rimi	inclusive
+ES1940	n	qas	no	granjera	inclusive
+ES2762	n	asm	no	pringa	inclusive
+ES3645	a	ddf	yes	cojo	inclusive
+ES1311	n	or	no	gay	conservative
+ES623	n	re	no	bandolero	inclusive
+ES89	n	cds	no	amor propio	conservative
+ES3690	n	re	no	secuestros	inclusive
+ES1261	n	svp	no	calentura	inclusive
+ES1258	n	svp	no	atracción física	inclusive
+ES861	n	asm	no	pardusco	inclusive
+ES482	n	ddp	yes	panoli	conservative
+ES151	n	an	no	basura	conservative
+ES2854	n	cds	no	letrina	inclusive
+ES67	n	ddp	yes	con problemas mentales	inclusive
+ES2163	n	an	no	furor	inclusive
+ES262	n	cds	no	tonto	inclusive
+ES446	n	qas	no	baronesa	inclusive
+ES1511	n	or	no	cucumis rumphii	inclusive
+ES3607	n	cds	no	bebé	inclusive
+ES3091	n	an	no	animálculo	inclusive
+ES535	n	dmc	yes	infundio	inclusive
+ES2807	a	re	no	furioso	inclusive
+ES3380	v	an	no	aullar	inclusive
+ES3520	a	svp	no	airada	inclusive
+ES1079	n	cds	no	camorra	inclusive
+ES2558	n	cds	no	croon	inclusive
+ES1506	n	asf	no	raja	conservative
+ES3098	n	an	no	ardia	inclusive
+ES2305	n	cds	no	detective	conservative
+ES2569	n	cds	no	idolatra	inclusive
+ES790	n	ddp	yes	zooerastia	conservative
+ES1661	n	an	no	diddley	conservative
+ES3024	n	an	no	lechón	inclusive
+ES879	n	qas	no	distribuidor	inclusive
+ES119	n	qas	no	secuaz	inclusive
+ES20	n	svp	no	apático	inclusive
+ES1469	n	cds	no	interfertilidad	inclusive
+ES2581	a	an	no	tacaño	conservative
+ES2687	n	cds	no	manta	conservative
+ES3161	n	pa	yes	ovejero	inclusive
+ES2583	n	an	no	strix varia	inclusive
+ES3263	n	asm	no	tomada de pelo	inclusive
+ES2199	n	cds	no	fachista	conservative
+ES961	n	cds	no	vagabunda	conservative
+ES1781	n	svp	no	gourmand	conservative
+ES1049	n	ps	yes	changeling	conservative
+ES1817	n	an	no	helix pomatia	inclusive
+ES3857	a	ddp	yes	necio	conservative
+ES163	n	cds	no	afán	inclusive
+ES609	n	re	no	bribón	conservative
+ES427	n	pa	yes	vocero	inclusive
+ES2644	n	cds	no	splashiness	inclusive
+ES548	n	cds	no	petimetre	inclusive
+ES314	n	svp	no	tacaneria	conservative
+ES2572	n	cds	no	idolatría	inclusive
+ES2839	n	cds	no	conveniencia pública	inclusive
+ES1705	n	dmc	yes	disimulador	conservative
+ES796	n	svp	no	aburridor	inclusive
+ES588	n	svp	no	fanática	conservative
+ES1643	n	ps	yes	despilfarrador	conservative
+ES1056	n	asm	no	cretino	inclusive
+ES313	n	svp	no	avariciar	inclusive
+ES4202	n	ps	yes	cíngaro	inclusive
+ES962	n	ps	yes	vagabundo	inclusive
+ES216	n	ddp	yes	epifauna	inclusive
+ES396	n	rci	yes	barbarie	conservative
+ES3039	n	cds	no	chantajista	inclusive
+ES3048	n	qas	no	retórica	inclusive
+ES237	n	cds	no	perspicaciousness	inclusive
+ES2395	a	cds	no	lagarta	conservative
+ES1485	n	qas	no	conformismo	inclusive
+ES1079	n	re	no	camorra	inclusive
+ES2351	n	an	no	ansarón	inclusive
+ES257	n	cds	no	bobo	conservative
+ES269	n	qas	no	zoquete	conservative
+ES246	n	asf	no	imbecilidad	conservative
+ES2869	n	ps	yes	mongoles	inclusive
+ES323	n	svp	no	avara	inclusive
+ES18	n	svp	no	indiferencia	inclusive
+ES3123	n	asm	no	tonta	conservative
+ES1785	n	svp	no	comilón	inclusive
+ES1227	n	or	no	b oleracea	inclusive
+ES1335	n	ddp	yes	traidor	conservative
+ES2653	n	pa	yes	jesuita	inclusive
+ES3273	n	an	no	gansos	inclusive
+ES3290	n	an	no	ixodoidea	inclusive
+ES1704	n	dmc	yes	hipocrita	conservative
+ES1928	n	pr	no	comare	conservative
+ES1478	n	ps	yes	hibridismo	inclusive
+ES644	n	qas	no	fisgón	inclusive
+ES317	n	svp	no	avaro	inclusive
+ES184	n	cds	no	multitud	inclusive
+ES917	n	qas	no	bourgeoisie	inclusive
+ES3688	n	or	no	brassica campestris ssp rapa	inclusive
+ES1499	n	or	no	chucha	conservative
+ES3508	n	an	no	ftirápteros	inclusive
+ES2556	n	cds	no	cantante	inclusive
+ES1222	n	or	no	brassica sylvestris	inclusive
+ES254	n	dmc	yes	idiota	conservative
+ES767	n	qas	no	torpe	conservative
+ES3545	a	cds	no	presuntuosa	conservative
+ES2988	n	qas	no	parroquia	inclusive
+ES962	n	an	no	vagabundo	conservative
+ES378	a	svp	no	avaricioso	conservative
+ES2005	n	om	no	anisete silvestre	inclusive
+ES544	n	cds	no	dandysmo	inclusive
+ES148	n	asf	no	codswallop	conservative
+ES1677	n	om	no	suelo	inclusive
+ES3701	n	re	no	secuestradores	inclusive
+ES1068	n	cds	no	impertinencia	conservative
+ES3801	a	svp	no	miserable	conservative
+ES389	n	dmc	yes	bandidaje	inclusive
+ES15	n	svp	no	abúlico	inclusive
+ES911	n	qas	no	burguesismo	inclusive
+ES463	n	an	no	patsy	conservative
+ES108	n	om	no	jarapelizar	inclusive
+ES1843	a	ddp	yes	loco	inclusive
+ES1423	n	an	no	estrigiforme	inclusive
+ES1309	n	om	no	extraño	conservative
+ES2877	n	an	no	plaga	inclusive
+ES3991	n	om	no	travestido	inclusive
+ES4178	n	an	no	ixodidos	inclusive
+ES2352	n	an	no	ansarino	inclusive
+ES210	n	an	no	animal	conservative
+ES3194	n	cds	no	autolatry	inclusive
+ES88	n	svp	no	amour propre	conservative
+ES524	n	pr	no	prostituto	conservative
+ES511	n	pr	no	gigoló	conservative
+ES373	n	asm	no	testicular	inclusive
+ES1315	n	om	no	homofilo	inclusive
+ES918	n	qas	no	mesocracia	inclusive
+ES1162	n	asm	no	pilila	conservative
+ES2903	n	an	no	mula	inclusive
+ES613	n	an	no	bellaco	conservative
+ES2691	n	cds	no	mentir	inclusive
+ES2408	n	re	no	hurto	inclusive
+ES1918	n	cds	no	cafisho	inclusive
+ES3345	n	an	no	víbora	inclusive
+ES2690	n	dmc	yes	película	inclusive
+ES1282	n	asm	no	puñetero	conservative
+ES4168	n	dmc	yes	abjuracion	conservative
+ES97	n	om	no	pedicación	inclusive
+ES249	n	an	no	insensatez	conservative
+ES2829	n	dmc	yes	sneak thief	conservative
+ES2613	n	ddp	yes	sinsentido	conservative
+ES2573	n	cds	no	ídolo adoración	inclusive
+ES321	n	is	yes	avariciosamente	conservative
+ES3694	n	re	no	secuestrar	inclusive
+ES2970	n	qas	no	parasitico	inclusive
+ES254	n	cds	no	idiota	inclusive
+ES2335	v	asm	no	culear	conservative
+ES713	n	re	no	chantaje	conservative
+ES724	n	cds	no	patochada	inclusive
+ES289	n	an	no	asinino	inclusive
+ES1895	a	dmc	yes	inescrupuloso	conservative
+ES891	n	an	no	búfalo	inclusive
+ES2172	n	cds	no	timador	conservative
+ES630	n	cds	no	criminal	conservative
+ES2895	n	dmc	yes	muzzarella	inclusive
+ES822	n	an	no	anojo	inclusive
+ES2296	n	asf	no	vello púbico	inclusive
+ES4053	n	cds	no	teorico de la conspiracion	inclusive
+ES2334	v	asm	no	tirar	conservative
+ES1508	n	asf	no	panocha	conservative
+ES112	n	svp	no	indolencia	inclusive
+ES811	n	pr	no	vaca	inclusive
+ES310	n	an	no	parsimonia	conservative
+ES2773	n	svp	no	envidia	inclusive
+ES1648	n	re	no	delitos	inclusive
+ES699	n	cds	no	rompe-huelgas	inclusive
+ES2817	n	cds	no	abigeato	inclusive
+ES4162	n	an	no	vibora comun europea	inclusive
+ES3966	n	re	no	tortura	inclusive
+ES484	n	asf	no	memo	conservative
+ES1823	n	cds	no	cerebrito	inclusive
+ES576	n	cds	no	cuentista	conservative
+ES649	n	cds	no	napias	conservative
+ES2649	n	cds	no	maestra	inclusive
+ES2789	n	svp	no	airada	inclusive
+ES811	n	an	no	vaca	inclusive
+ES462	n	asf	no	primo	conservative
+ES3156	n	ddp	yes	atontar	conservative
+ES642	n	ddp	yes	indicador	conservative
+ES2479	n	ps	yes	judeo	inclusive
+ES1830	n	re	no	criminales	inclusive
+ES442	n	an	no	perro	inclusive
+ES2034	n	om	no	feniculo	inclusive
+ES1624	n	cds	no	ababol	conservative
+ES1021	n	cds	no	carrona	inclusive
+ES3346	n	an	no	buitres	inclusive
+ES2417	n	re	no	botín	inclusive
+ES3068	n	ps	yes	mestizos	conservative
+ES3744	n	qas	no	grandiosidad	inclusive
+ES3609	a	ddf	yes	ciego	inclusive
+ES2674	n	dmc	yes	farsante	conservative
+ES2017	n	or	no	fenojo	inclusive
+ES813	n	an	no	ternera	inclusive
+ES3628	a	dmc	yes	falsificada	conservative
+ES777	n	dmc	yes	incapaz	conservative
+ES3948	n	cds	no	compania libre	inclusive
+ES3193	n	cds	no	idiolatry	inclusive
+ES2642	n	an	no	inexorabilidad	conservative
+ES2891	n	an	no	mohín	inclusive
+ES995	n	an	no	ladrido	inclusive
+ES2183	n	re	no	gángsters	inclusive
+ES1843	a	qas	no	loco	conservative
+ES829	n	an	no	erales	inclusive
+ES1784	n	svp	no	plato trinchero	conservative
+ES1167	n	asm	no	pirulo	conservative
+ES2774	n	svp	no	invidia	inclusive
+ES1799	n	cds	no	montones	inclusive
+ES1831	n	dmc	yes	delictuosa	inclusive
+ES2728	n	re	no	prevaricación	inclusive
+ES2023	n	or	no	inojo	inclusive
+ES5	n	an	no	vago	conservative
+ES186	n	an	no	anguilido	inclusive
+ES1883	n	cds	no	malhechora	conservative
+ES2014	n	om	no	foeniculum	inclusive
+ES2299	n	asf	no	entrepierna pelo	inclusive
+ES2143	n	an	no	frunción	inclusive
+ES1031	n	cds	no	marginado	conservative
+ES916	n	qas	no	clase profesional	inclusive
+ES3180	n	pr	no	socialité	inclusive
+ES1888	a	dmc	yes	desgraciado	conservative
+ES1256	n	cds	no	montón	inclusive
+ES1914	n	qas	no	divulgación	inclusive
+ES2692	n	cds	no	mentirilla	inclusive
+ES2580	a	is	yes	rancio	conservative
+ES1773	n	qas	no	perrera	inclusive
+ES1619	n	pr	no	barragana	inclusive
+ES2615	n	ddp	yes	parida	conservative
+ES366	n	qas	no	teste	inclusive
+ES576	n	dmc	yes	cuentista	conservative
+ES1296	n	cds	no	corresponsalia	inclusive
+ES666	n	qas	no	ejecutivo	inclusive
+ES2414	n	re	no	sustracción	inclusive
+ES268	n	cds	no	cabrón	conservative
+ES1687	n	svp	no	repulsión	inclusive
+ES3424	v	cds	no	pasar a mejor vida	inclusive
+ES252	a	cds	no	tonto	conservative
+ES999	n	cds	no	camarillas	inclusive
+ES658	n	ps	yes	negrura	inclusive
+ES850	n	ddp	yes	daño cerebral	inclusive
+ES1341	v	cds	no	disparatar	inclusive
+ES245	n	asf	no	disparate	conservative
+ES1696	n	dmc	yes	fariseo	conservative
+ES3793	n	an	no	hirudineos	inclusive
+ES3491	n	cds	no	whiner	conservative
+ES529	n	an	no	pelandusca	conservative
+ES240	n	or	no	sesos	inclusive
+ES1445	n	an	no	crocodiliano	inclusive
+ES1796	n	pa	yes	conserje	inclusive
+ES1405	n	an	no	vamper	conservative
+ES2002	n	or	no	cinoho	inclusive
+ES3348	n	qas	no	ponzoña	conservative
+ES650	n	cds	no	soplón	conservative
+ES171	n	cds	no	brío	inclusive
+ES2408	n	cds	no	hurto	inclusive
+ES3415	v	cds	no	caer muerto	inclusive
+ES740	n	cds	no	caída	inclusive
+ES2316	n	svp	no	perdulario	conservative
+ES3720	n	re	no	asaltador	inclusive
+ES598	n	cds	no	los maras	conservative
+ES928	n	ps	yes	búlgaras	inclusive
+ES3121	n	asm	no	tontas	conservative
+ES798	n	svp	no	aburrida	inclusive
+ES123	n	cds	no	payasada	inclusive
+ES1516	n	or	no	cucumis vilmorinii	inclusive
+ES599	n	cds	no	gangsterismo	inclusive
+ES3527	a	re	no	violento	conservative
+ES1119	n	cds	no	tribu	inclusive
+ES3224	n	ps	yes	isleños	inclusive
+ES462	n	an	no	primo	conservative
+ES2935	n	cds	no	mafiosi	inclusive
+ES77	n	ddp	yes	idiotez	conservative
+ES3356	n	dmc	yes	merry andrew	inclusive
+ES1874	n	an	no	euripteridos	inclusive
+ES2582	n	dmc	yes	bicho	inclusive
+ES760	n	cds	no	desatinado	conservative
+ES1820	n	cds	no	pedagogo	inclusive
+ES3777	v	re	no	atrapar	inclusive
+ES3272	n	an	no	ánsar	inclusive
+ES1669	n	cds	no	penny dreadful	inclusive
+ES2640	n	ddp	yes	ignorar	conservative
+ES3402	v	re	no	engañar	inclusive
+ES3156	n	asm	no	atontar	conservative
+ES409	n	qas	no	monger	inclusive
+ES1165	n	asm	no	pirula	inclusive
+ES3836	a	ps	yes	israelita	inclusive
+ES1760	n	om	no	distal	inclusive
+ES2677	n	svp	no	libidinosa	inclusive
+ES258	n	asm	no	necio	conservative
+ES1303	n	or	no	mariposa	conservative
+ES2321	n	cds	no	reaccionario	conservative
+ES269	n	asm	no	zoquete	conservative
+ES1625	n	ddp	yes	simplón	conservative
+ES2409	n	re	no	expoliación	inclusive
+ES2180	n	re	no	ganster	inclusive
+ES1614	n	pr	no	doxia	inclusive
+ES3216	n	ps	yes	nativos americanos	inclusive
+ES497	n	an	no	ramera	conservative
+ES2628	n	is	yes	pauperización	inclusive
+ES819	n	pr	no	cuatreñas	inclusive
+ES135	n	asm	no	maxilípedo	inclusive
+ES1778	n	svp	no	zanjadora	conservative
+ES154	n	an	no	bobadas	conservative
+ES2906	n	an	no	hocico	inclusive
+ES3373	n	an	no	esponja	conservative
+ES179	n	ddp	yes	analfabetismo	inclusive
+ES3534	n	cds	no	pajas	conservative
+ES2928	n	cds	no	paco	conservative
+ES1656	n	an	no	diddlyshit	conservative
+ES3533	n	cds	no	masturbación	conservative
+ES4137	n	an	no	larva	inclusive
+ES1177	n	asm	no	pichula	conservative
+ES386	n	cds	no	atracador	inclusive
+ES2933	n	cds	no	cosa nostra	inclusive
+ES345	n	cds	no	mancebía	inclusive
+ES4029	n	qas	no	sistema de ponderación buceo	inclusive
+ES3318	n	cds	no	homunculo	inclusive
+ES2841	n	cds	no	lavar habitación	inclusive
+ES1924	n	cds	no	proxenetico	inclusive
+ES3804	a	re	no	severo	inclusive
+ES2282	n	cds	no	guardia	conservative
+ES1049	n	ddp	yes	changeling	inclusive
+ES1318	n	om	no	joto	conservative
+ES765	n	ddp	yes	tapagujeros	conservative
+ES2688	n	cds	no	mentiras	conservative
+ES2449	n	om	no	homoerotico	inclusive
+ES63	a	pa	yes	teórico	inclusive
+ES1838	n	pa	yes	empleado	inclusive
+ES584	a	ddp	yes	bobo	conservative
+ES823	n	pr	no	eral	inclusive
+ES4133	a	cds	no	corruptible	conservative
+ES2581	a	dmc	yes	tacaño	conservative
+ES2645	n	cds	no	pomposidad	conservative
+ES1184	n	asm	no	gallo	inclusive
+ES3080	n	an	no	selaquimorfos	inclusive
+ES2643	n	an	no	implacabilidad	conservative
+ES773	n	cds	no	boludo	conservative
+ES4080	n	cds	no	teorías conspirativas	inclusive
+ES1958	n	or	no	dengue	inclusive
+ES1199	n	cds	no	autocomplacencia	inclusive
+ES2175	n	cds	no	ratero	conservative
+ES377	a	svp	no	avariciosa	conservative
+ES1473	n	cds	no	cruce	inclusive
+ES838	n	an	no	utreras	inclusive
+ES3149	n	ddp	yes	pero se puede saber qué cono estás haciendo?	conservative
+ES3075	n	an	no	selacimorfos	inclusive
+ES2785	n	svp	no	airadas	inclusive
+ES3373	n	qas	no	esponja	conservative
+ES1770	n	cds	no	zorro	conservative
+ES436	n	pa	yes	jurista	inclusive
+ES903	n	qas	no	burgesia	inclusive
+ES1716	n	om	no	ventrolateral	inclusive
+ES1718	n	om	no	pandero	inclusive
+ES308	n	svp	no	tacañería	inclusive
+ES4052	n	cds	no	teorias de conspiración	inclusive
+ES2763	n	asm	no	papirola	inclusive
+ES3012	n	asm	no	pisum vulgare	inclusive
+ES748	n	cds	no	error	inclusive
+ES750	n	cds	no	bungle	inclusive
+ES748	n	qas	no	error	inclusive
+ES3036	n	svp	no	superbia	conservative
+ES2612	n	ddf	yes	persona incapacitada	inclusive
+ES1316	n	om	no	homófilo	conservative
+ES2165	n	svp	no	dallier	conservative
+ES2967	n	dmc	yes	grosero	conservative
+ES1046	n	ddp	yes	cambiantes	inclusive
+ES1788	n	svp	no	glotón	conservative
+ES3110	n	an	no	ovis orientalis aries	inclusive
+ES433	n	pa	yes	abogados	inclusive
+ES1048	n	ddp	yes	idiotas	inclusive
+ES261	n	asm	no	estúpido	inclusive
+ES3846	a	is	yes	escaso	inclusive
+ES1318	n	or	no	joto	conservative
+ES1431	n	qas	no	tripulación	inclusive
+ES2814	n	re	no	cuatreros	inclusive
+ES468	n	or	no	pillock	conservative
+ES3245	n	cds	no	hipersexualidad	conservative
+ES3542	a	cds	no	presuntuoso	conservative
+ES113	n	an	no	haragán	conservative
+ES3400	v	asm	no	victimizar	conservative
+ES1050	n	asm	no	nino cambiado	inclusive
+ES1828	n	cds	no	parte especial del derecho penal	inclusive
+ES1468	n	cds	no	hibrido	inclusive
+ES2178	n	dmc	yes	mafioso	inclusive
+ES4167	n	dmc	yes	renegar	conservative
+ES2185	n	re	no	gánster	inclusive
+ES1834	n	dmc	yes	crímen	inclusive
+ES1165	n	asm	no	pirula	conservative
+ES3488	n	is	yes	andrajosa	conservative
+ES996	n	an	no	fauces	inclusive
+ES797	n	svp	no	hastío	inclusive
+ES2951	n	an	no	autillo chillón	inclusive
+ES3603	n	cds	no	neonatal	inclusive
+ES2549	n	an	no	hyaena	inclusive
+ES2092	n	cds	no	manada	inclusive
+ES318	n	an	no	tacañeria	conservative
+ES3458	v	qas	no	remendar	inclusive
+ES4142	n	cds	no	desertor	conservative
+ES1826	n	re	no	criminalidad	inclusive
+ES45	n	cds	no	bróker	inclusive
+ES3514	n	an	no	pipi	inclusive
+ES2927	n	cds	no	oficial	conservative
+ES1903	n	dmc	yes	derrochador	inclusive
+ES611	n	dmc	yes	canalla	conservative
+ES1558	n	or	no	cucurbita turbaniformis	inclusive
+ES2618	n	is	yes	pobreza	inclusive
+ES1912	n	cds	no	linaje	inclusive
+ES2337	v	asm	no	cachar	conservative
+ES4026	n	an	no	yacare	inclusive
+ES702	n	cds	no	bastardo	inclusive
+ES3770	n	an	no	bufo	inclusive
+ES3392	v	is	yes	suplicar	inclusive
+ES156	n	cds	no	borra	conservative
+ES3589	n	an	no	kikiriki	inclusive
+ES766	n	cds	no	fumbler	conservative
+ES3394	v	cds	no	engullir	inclusive
+ES212	n	ddp	yes	macrofauna	inclusive
+ES3981	n	pr	no	biston betularia	inclusive
+ES2627	n	is	yes	pobres	inclusive
+ES271	n	an	no	dumbass	conservative
+ES2509	n	cds	no	plebe	conservative
+ES1004	n	ddp	yes	prisionero	inclusive
+ES260	n	asf	no	tomfool	conservative
+ES765	n	dmc	yes	tapagujeros	conservative
+ES1056	n	cds	no	cretino	inclusive
+ES2278	a	dmc	yes	nauseabundo	conservative
+ES590	n	cds	no	intolerancia	conservative
+ES2219	n	asm	no	inglés frijol	inclusive
+ES1848	n	asm	no	ereccion	inclusive
+ES1783	n	svp	no	goloso	inclusive
+ES592	n	cds	no	pandilla	conservative
+ES3005	n	dmc	yes	maldad	inclusive
+ES2180	n	dmc	yes	ganster	inclusive
+ES231	n	re	no	violación	conservative
+ES492	n	ps	yes	pendejo	conservative
+ES959	n	cds	no	indigente	conservative
+ES519	n	pr	no	mujer publica	conservative
+ES222	n	ddp	yes	fauna	inclusive
+ES2716	n	cds	no	shylock	inclusive
+ES1905	n	dmc	yes	gastador	inclusive
+ES3667	n	pa	yes	economista	inclusive
+ES945	n	cds	no	hauteur	conservative
+ES3433	n	or	no	spud	inclusive
+ES3949	n	cds	no	compañia libre	inclusive
+ES3776	v	re	no	guindar	inclusive
+ES1765	n	om	no	tras	inclusive
+ES2047	n	om	no	finojo	inclusive
+ES766	n	ddp	yes	fumbler	conservative
+ES462	n	ps	yes	primo	conservative
+ES3591	n	an	no	volaille	inclusive
+ES2248	n	asm	no	tabilla	inclusive
+ES329	n	ddp	yes	cotorra	conservative
+ES1045	n	om	no	ñoño	conservative
+ES1037	n	cds	no	debilucho	conservative
+ES2606	n	ddf	yes	invalidez	inclusive
+ES116	n	qas	no	partidario	inclusive
+ES2737	n	qas	no	tendero	inclusive
+ES2172	n	dmc	yes	timador	conservative
+ES3317	n	dmc	yes	homúnculo	inclusive
+ES2329	n	cds	no	reaccionarismo	conservative
+ES147	n	ddp	yes	folderol	conservative
+ES463	n	asm	no	patsy	conservative
+ES3054	n	qas	no	actio	inclusive
+ES1797	n	pa	yes	guardabarrera	inclusive
+ES538	n	dmc	yes	embuste	inclusive
+ES125	n	cds	no	truco	inclusive
+ES2541	n	cds	no	hibris	conservative
+ES3642	a	re	no	violenta	conservative
+ES4106	n	cds	no	teorías de conspiración	inclusive
+ES1252	n	or	no	repollo	inclusive
+ES1715	n	om	no	ipsilateral	inclusive
+ES3065	n	cds	no	alcantarillado	inclusive
+ES1270	n	asm	no	maldito	conservative
+ES751	n	cds	no	line-shooter	conservative
+ES117	n	qas	no	codelincuente	inclusive
+ES4116	n	pa	yes	zapatera	inclusive
+ES3733	n	cds	no	groveler	conservative
+ES364	n	asm	no	huevos	inclusive
+ES4103	n	cds	no	teoria conspiratoria	inclusive
+ES265	n	asf	no	melón	conservative
+ES1974	n	om	no	acinojo	inclusive
+ES1120	n	cds	no	clanes	inclusive
+ES2969	n	cds	no	chawbacon	conservative
+ES3369	v	qas	no	arruinar	conservative
+ES1620	n	pr	no	cortesana	inclusive
+ES1339	n	cds	no	cobardía	inclusive
+ES3989	n	om	no	transvestismo	inclusive
+ES1588	v	asm	no	befar	inclusive
+ES4062	n	cds	no	teoría de conspiracion	inclusive
+ES1836	n	cds	no	delinquimiento	inclusive
+ES609	n	an	no	bribón	conservative
+ES3100	n	an	no	ovinos	inclusive
+ES3658	a	svp	no	malévolo	conservative
+ES260	n	asm	no	tomfool	conservative
+ES2185	n	cds	no	gánster	inclusive
+ES3136	n	ddp	yes	tonteria	conservative
+ES632	n	cds	no	matrero	inclusive
+ES3199	n	ps	yes	darky	conservative
+ES2188	n	cds	no	fachismo	conservative
+ES481	n	asm	no	pasmarote	conservative
+ES2361	n	an	no	porcina	inclusive
+ES539	n	cds	no	mentira	inclusive
+ES967	n	dmc	yes	gandul	conservative
+ES2309	n	an	no	cabra-antílope	inclusive
+ES997	n	cds	no	endogrupo	inclusive
+ES807	n	an	no	añojos	inclusive
+ES2164	n	cds	no	swaggerer	conservative
+ES2684	a	dmc	yes	maleducado	conservative
+ES1574	n	cds	no	rechazar	conservative
+ES1873	n	an	no	eurypterida	inclusive
+ES383	a	is	yes	avara	conservative
+ES907	n	qas	no	trabajo	inclusive
+ES2926	n	cds	no	policía	inclusive
+ES2792	n	svp	no	enojada	inclusive
+ES320	n	svp	no	avaricioso	conservative
+ES806	n	an	no	ganado	inclusive
+ES71	n	ddp	yes	mongolo	inclusive
+ES3756	n	an	no	hyloides	inclusive
+ES268	n	an	no	cabrón	inclusive
+ES1911	n	cds	no	fratria	inclusive
+ES99	n	om	no	pecado nefando	inclusive
+ES328	n	ddp	yes	charlatán	conservative
+ES820	n	an	no	becerra	inclusive
+ES143	n	cds	no	baratija	conservative
+ES1285	n	or	no	conejo	conservative
+ES2745	n	asm	no	peneano	inclusive
+ES2000	n	om	no	mellu	inclusive
+ES1531	n	or	no	cohombro comun	inclusive
+ES2509	n	cds	no	plebe	inclusive
+ES645	n	ddp	yes	correveidile	conservative
+ES1761	n	om	no	posterior	inclusive
+ES2184	n	re	no	marero	inclusive
+ES1039	n	an	no	mequetrefe	conservative
+ES3039	n	re	no	chantajista	inclusive
+ES1164	n	asm	no	reata	conservative
+ES462	n	ddp	yes	primo	conservative
+ES248	n	an	no	tontería	conservative
+ES2066	n	asm	no	hipocerca	inclusive
+ES3316	n	dmc	yes	homúnculos	inclusive
+ES3635	a	cds	no	miedoso	conservative
+ES3507	n	an	no	ftiráptero	inclusive
+ES3459	a	cds	no	exigente	conservative
+ES2344	v	asm	no	tener sexo	conservative
+ES616	n	is	yes	granuja	conservative
+ES771	n	qas	no	incompetente	conservative
+ES2581	a	svp	no	tacaño	conservative
+ES2932	n	re	no	mafia	inclusive
+ES3484	n	cds	no	habladuria	inclusive
+ES463	n	cds	no	patsy	conservative
+ES3069	n	ps	yes	mestizaje	conservative
+ES3294	n	re	no	asesinato	inclusive
+ES959	n	an	no	indigente	conservative
+ES4064	n	cds	no	teorizador conspirador	inclusive
+ES2589	n	ddf	yes	liondau	inclusive
+ES1856	n	an	no	caracoles	inclusive
+ES1058	n	pr	no	perra	conservative
+ES3763	n	an	no	neobatrachia	inclusive
+ES3560	n	re	no	corsarios berberiscos	inclusive
+ES3845	a	is	yes	escasa	inclusive
+ES3043	n	pr	no	rattus	inclusive
+ES4220	n	ps	yes	zulu	inclusive
+ES3619	a	is	yes	incómodo	inclusive
+ES3295	n	re	no	homicidio	inclusive
+ES3899	n	ddp	yes	sandeces	inclusive
+ES151	n	cds	no	basura	inclusive
+ES3622	a	svp	no	pretenciosa	conservative
+ES312	n	svp	no	avariento	conservative
+ES394	n	cds	no	bárbaro	conservative
+ES1307	n	or	no	maricón	conservative
+ES2455	n	om	no	⚣	inclusive
+ES1583	n	cds	no	pusilanimidad	conservative
+ES1272	n	asm	no	casquete	conservative
+ES3537	n	cds	no	masturbándose	conservative
+ES2486	n	ps	yes	judía	inclusive
+ES623	n	dmc	yes	bandolero	inclusive
+ES523	n	pr	no	hetaira	conservative
+ES2201	n	cds	no	fascistas	conservative
+ES1847	n	asm	no	erección	inclusive
+ES2923	n	cds	no	policial	conservative
+ES1339	n	cds	no	cobardía	conservative
+ES316	n	svp	no	tacaño	inclusive
+ES275	n	ddp	yes	persona sin educación	conservative
+ES632	n	re	no	matrero	inclusive
+ES1885	n	cds	no	pecador	conservative
+ES2680	n	svp	no	lascivia	inclusive
+ES2586	n	an	no	barred owl	inclusive
+ES714	n	re	no	chantajeado	conservative
+ES2406	n	re	no	substracción	inclusive
+ES629	n	cds	no	bandoleros	conservative
+ES2823	n	ps	yes	meteco	inclusive
+ES993	n	an	no	cakehole	inclusive
+ES359	n	qas	no	testiculo	inclusive
+ES3808	n	cds	no	gorila	conservative
+ES131	n	qas	no	retazos	inclusive
+ES3236	n	ps	yes	hispano	inclusive
+ES1104	n	an	no	mala persona	conservative
+ES137	n	asm	no	proceso	inclusive
+ES261	n	ddp	yes	estúpido	conservative
+ES1460	n	an	no	jacare	inclusive
+ES3798	n	an	no	hirudo	inclusive
+ES3786	n	cds	no	wise guy	conservative
+ES892	a	qas	no	burgués	inclusive
+ES3950	n	asm	no	ithyphallic	inclusive
+ES3362	v	qas	no	desconcertar	conservative
+ES3471	v	cds	no	encoger	inclusive
+ES1467	n	ps	yes	híbrida	inclusive
+ES736	n	qas	no	embarrada	inclusive
+ES1467	n	cds	no	híbrida	inclusive
+ES1689	n	svp	no	aborrecimiento	inclusive
+ES626	n	cds	no	malhechor	conservative
+ES2738	n	qas	no	artesano	inclusive
+ES1031	n	dmc	yes	marginado	inclusive
+ES27	n	qas	no	acólitos	inclusive
+ES2114	n	cds	no	masónicas	inclusive
+ES3549	a	cds	no	listo	inclusive
+ES3291	n	an	no	garrapatas	inclusive
+ES4134	n	cds	no	venalidad	inclusive
+ES4185	n	ps	yes	romaníes	inclusive
+ES400	n	cds	no	bárbaros	conservative
+ES2898	n	dmc	yes	mozarela	inclusive
+ES100	n	om	no	sexo anal	inclusive
+ES204	n	an	no	metazoarios	inclusive
+ES1160	n	asm	no	turca	conservative
+ES3092	n	an	no	animálculos	inclusive
+ES2054	n	dmc	yes	hedor	conservative
+ES701	n	an	no	carnero	inclusive
+ES524	n	an	no	prostituto	conservative
+ES4176	n	an	no	limacidae	inclusive
+ES569	n	cds	no	beguinas	inclusive
+ES2741	n	asm	no	maroon	inclusive
+ES1307	n	om	no	maricón	conservative
+ES624	n	dmc	yes	bandidos	inclusive
+ES4084	n	cds	no	teoria de un complot	inclusive
+ES2103	n	cds	no	adicto	conservative
+ES3129	n	asm	no	bobochorra	conservative
+ES1677	n	cds	no	suelo	inclusive
+ES296	n	om	no	culo	inclusive
+ES1849	n	asm	no	falo	inclusive
+ES3831	a	ps	yes	hebreo	inclusive
+ES572	n	cds	no	embustero	conservative
+ES1575	n	is	yes	marginada	inclusive
+ES1739	n	om	no	rulé	inclusive
+ES77	n	ddp	yes	idiotez	inclusive
+ES2788	n	svp	no	irascible	inclusive
+ES956	n	dmc	yes	sinvergüenza	conservative
+ES2740	n	asm	no	color burdeos	inclusive
+ES571	n	dmc	yes	liante	conservative
+ES2864	n	cds	no	moneygrubber	inclusive
+ES525	n	an	no	mujerzuela	conservative
+ES2862	n	an	no	molusca	inclusive
+ES2272	a	dmc	yes	apestosa	conservative
+ES1472	n	ps	yes	mejora de plantas	inclusive
+ES546	n	cds	no	dandi	inclusive
+ES3531	a	om	no	desviado	inclusive
+ES2324	n	cds	no	contra revolucion	conservative
+ES3168	n	cds	no	negrero	inclusive
+ES1780	n	svp	no	tragón	conservative
+ES3783	v	re	no	mangar	inclusive
+ES2938	n	re	no	capomafia	inclusive
+ES4085	n	cds	no	conspiranoico	inclusive
+ES328	n	cds	no	charlatán	conservative
+ES1358	n	qas	no	chatarrero	inclusive
+ES1985	n	or	no	anís de florencia	inclusive
+ES2325	n	cds	no	contra-revolución	conservative
+ES514	n	an	no	chicos de alquiler	conservative
+ES504	n	an	no	lagarta	conservative
+ES3325	n	dmc	yes	persona desafortunada	inclusive
+ES542	n	cds	no	dandismo	inclusive
+ES319	n	an	no	rata	conservative
+ES3812	n	an	no	blattodea	inclusive
+ES2025	n	om	no	cañiguera	inclusive
+ES3331	n	cds	no	usurario	inclusive
+ES1146	n	an	no	cáprido	inclusive
+ES594	n	cds	no	mara	conservative
+ES3035	n	cds	no	prankishness	inclusive
+ES3456	n	cds	no	detallista	conservative
+ES3137	n	asm	no	tontolaba	conservative
+ES1039	n	cds	no	mequetrefe	conservative
+ES1089	n	re	no	estafadora	inclusive
+ES153	n	ddp	yes	chorradas	conservative
+ES1091	n	ddp	yes	gentuza	conservative
+ES256	n	an	no	imbécil	conservative
+ES3252	n	cds	no	ninfomania	conservative
+ES577	n	dmc	yes	enredador	conservative
+ES3697	n	re	no	secuestrado	inclusive
+ES4171	n	dmc	yes	tránsfuga	conservative
+ES317	n	svp	no	avaro	conservative
+ES1390	n	svp	no	trsna	inclusive
+ES2577	a	dmc	yes	cerrado	conservative
+ES1897	n	dmc	yes	libertinismo	conservative
+ES319	n	svp	no	rata	inclusive
+ES486	n	ddp	yes	soso	conservative
+ES151	n	qas	no	basura	inclusive
+ES3120	n	ddp	yes	atontado	conservative
+ES2705	a	is	yes	lamentable	inclusive
+ES2800	n	ddp	yes	moronity	inclusive
+ES1175	n	asm	no	poste	inclusive
+ES1929	n	pr	no	amiga	conservative
+ES753	n	cds	no	vaunter	conservative
+ES256	n	ddp	yes	imbécil	conservative
+ES1338	n	pr	no	moo-vaca	inclusive
+ES311	n	svp	no	tacaña	inclusive
+ES28	n	qas	no	acolito	inclusive
+ES216	n	an	no	epifauna	inclusive
+ES1896	n	an	no	cara	inclusive
+ES4023	n	cds	no	'ndrangheta	inclusive
+ES2853	n	cds	no	lav	inclusive
+ES2435	n	pr	no	pelanduscas	conservative
+ES397	n	pa	yes	salvaje	conservative
+ES267	n	an	no	alcornoque	conservative
+ES2695	a	ddp	yes	incapaz	conservative
+ES2566	n	asf	no	chica	conservative
+ES944	n	svp	no	orgullo	conservative
+ES530	n	pr	no	acompañante masculino	conservative
+ES601	n	cds	no	pandillero	inclusive
+ES256	n	ps	yes	imbécil	conservative
+ES2170	n	svp	no	inutilidad	conservative
+ES3178	n	ps	yes	amarillo	conservative
+ES1578	n	cds	no	bromista	conservative
+ES2365	n	an	no	porcino	inclusive
+ES3801	a	qas	no	miserable	conservative
+ES936	n	cds	no	vanagloria	conservative
+ES1056	n	asf	no	cretino	conservative
+ES3801	a	is	yes	miserable	conservative
+ES767	n	an	no	torpe	conservative
+ES1023	n	cds	no	sitio	inclusive
+ES3029	n	asm	no	asta	inclusive
+ES1337	n	pr	no	vaquita	inclusive
+ES921	n	cds	no	egotismo	conservative
+ES921	n	cds	no	egotismo	inclusive
+ES145	n	asf	no	morralla	conservative
+ES752	n	cds	no	jactancioso	conservative
+ES3678	n	or	no	berza sylvestre	inclusive
+ES1804	n	cds	no	fajo	inclusive
+ES2542	n	cds	no	hubris	inclusive
+ES394	n	ps	yes	bárbaro	inclusive
+ES358	n	asm	no	bola	inclusive
+ES3983	n	om	no	aparador cruzado	inclusive
+ES3826	n	an	no	thos	inclusive
+ES3547	a	cds	no	astuta	conservative
+ES268	n	asf	no	cabrón	conservative
+ES967	n	cds	no	gandul	conservative
+ES1083	n	re	no	chiseller	inclusive
+ES2718	n	cds	no	préstamo de dinero	inclusive
+ES1830	n	dmc	yes	criminales	inclusive
+ES1624	n	asf	no	ababol	conservative
+ES1265	n	asm	no	chinga	conservative
+ES2364	n	an	no	puerco	inclusive
+ES2098	n	cds	no	albardán	inclusive
+ES623	n	cds	no	bandolero	conservative
+ES4163	n	an	no	culebra	inclusive
+ES827	n	an	no	bueyes	inclusive
+ES308	n	is	yes	tacañería	conservative
+ES2495	n	ps	yes	ascendencia judia	inclusive
+ES498	n	an	no	pendón	conservative
+ES254	n	ddp	yes	idiota	inclusive
+ES1965	n	om	no	arinojo	inclusive
+ES3474	a	om	no	anormal	inclusive
+ES2645	n	cds	no	pomposidad	inclusive
+ES3513	n	an	no	piojo	inclusive
+ES975	n	an	no	villana	conservative
+ES1088	n	cds	no	defraudador	conservative
+ES1056	n	ddp	yes	cretino	conservative
+ES3146	n	ddp	yes	estupido	conservative
+ES1402	n	ddp	yes	locura	inclusive
+ES570	n	cds	no	begardo	inclusive
+ES1385	n	svp	no	tṛsṇā	inclusive
+ES959	n	ps	yes	indigente	inclusive
+ES862	n	asm	no	cafe	inclusive
+ES3926	n	re	no	terrorist	conservative
+ES676	n	cds	no	sloven	conservative
+ES215	n	qas	no	bestia	conservative
+ES204	n	ddp	yes	metazoarios	inclusive
+ES1625	n	cds	no	simplón	conservative
+ES1262	n	svp	no	atracción secual	inclusive
+ES24	n	svp	no	apatía	inclusive
+ES4173	n	dmc	yes	rebelde	conservative
+ES330	n	ddp	yes	charlatana	conservative
+ES3561	n	re	no	pirateria	inclusive
+ES1691	n	svp	no	asco	inclusive
+ES596	n	cds	no	pandillas	conservative
+ES2965	n	cds	no	paparazzis	inclusive
+ES4193	n	ps	yes	gitanesco	inclusive
+ES1612	n	pr	no	amante	conservative
+ES677	n	an	no	persona desaliñada	conservative
+ES2342	v	asm	no	acostarse	conservative
+ES1278	n	asm	no	cardar	conservative
+ES3483	n	cds	no	cotilleos	inclusive
+ES397	n	ps	yes	salvaje	inclusive
+ES1048	n	ddp	yes	idiotas	conservative
+ES2012	n	om	no	caniguera	inclusive
+ES627	n	cds	no	delincuente	inclusive
+ES1734	n	om	no	dorsoventral	inclusive
+ES1786	n	svp	no	gourmandizer	inclusive
+ES2764	n	asm	no	méntula	inclusive
+ES2403	n	re	no	grand theft	inclusive
+ES359	n	asm	no	testiculo	inclusive
+ES1758	n	om	no	cachetes	inclusive
+ES554	n	cds	no	confusión	inclusive
+ES319	n	svp	no	rata	conservative
+ES3353	n	dmc	yes	payasa	inclusive
+ES575	n	cds	no	fabricante	conservative
+ES930	n	ps	yes	búlgaro	inclusive
+ES1175	n	asm	no	poste	conservative
+ES2626	n	is	yes	empobrecedor	inclusive
+ES3854	a	ddp	yes	lento	conservative
+ES824	n	an	no	cuatreños	inclusive
+ES2810	v	ddp	yes	embrutecer	conservative
+ES1277	n	asm	no	fornicar	conservative
+ES4024	n	re	no	ndrangheta	inclusive
+ES676	n	an	no	sloven	conservative
+ES626	n	re	no	malhechor	inclusive
+ES3493	n	cds	no	bellyacher	conservative
+ES149	n	an	no	paja	conservative
+ES961	n	an	no	vagabunda	conservative
+ES3700	n	re	no	detenciones ilegales	inclusive
+ES3612	a	asm	no	parda	inclusive
+ES733	n	cds	no	cagada	inclusive
+ES2067	n	asm	no	epicerca	inclusive
+ES304	n	svp	no	concupiscencia	inclusive
+ES64	n	qas	no	amateurismo	inclusive
+ES210	n	ddp	yes	animal	conservative
+ES3116	n	ddp	yes	tragapollas	conservative
+ES1651	n	dmc	yes	crimen	inclusive
+ES1255	n	cds	no	gentío	inclusive
+ES3126	n	ddp	yes	tontos	conservative
+ES772	n	ddp	yes	tarado	conservative
+ES3297	n	re	no	asesinó	inclusive
+ES556	n	cds	no	patas turvyness	inclusive
+ES942	n	cds	no	pretensión	conservative
+ES3692	n	re	no	secuestrador	inclusive
+ES2343	v	asm	no	hacer el amor	conservative
+ES317	n	an	no	avaro	conservative
+ES4207	n	ps	yes	cingaro	inclusive
+ES3646	a	ddf	yes	rengo qualifier	inclusive
+ES182	n	cds	no	movimiento	inclusive
+ES1316	n	or	no	homófilo	conservative
+ES3823	n	an	no	chacal	inclusive
+ES3795	n	an	no	hirudinean	inclusive
+ES1128	n	pa	yes	secretario	inclusive
+ES1835	n	dmc	yes	delictivo	inclusive
+ES3364	v	qas	no	confundir	conservative
+ES3674	n	or	no	brassica campestris ssp. rapifera	inclusive
+ES3011	n	asm	no	pisum sativum	inclusive
+ES150	n	ddp	yes	hojarasca	conservative
+ES4198	n	ps	yes	rrom	inclusive
+ES326	n	ddp	yes	charlador	conservative
+ES3366	n	cds	no	lapsus linguae	inclusive
+ES3246	n	cds	no	ninfomanía	conservative
+ES2397	a	cds	no	taimada	conservative
+ES1126	n	pa	yes	escribiente	inclusive
+ES4100	n	cds	no	teorías de la conspiración	inclusive
+ES4073	n	cds	no	teóricos de la conspiración	inclusive
+ES2646	n	cds	no	ostentación	conservative
+ES2736	n	qas	no	mercado guardián	inclusive
+ES838	n	pr	no	utreras	inclusive
+ES1313	n	or	no	1069bf	conservative
+ES3671	a	cds	no	rancia	inclusive
+ES8	n	svp	no	gueva	inclusive
+ES990	a	ddf	yes	despreciable	conservative
+ES764	n	re	no	chapucero	inclusive
+ES307	n	svp	no	avaritia	inclusive
+ES2136	n	cds	no	francmasones	inclusive
+ES939	n	svp	no	prepotencia	conservative
+ES759	n	dmc	yes	inepto	conservative
+ES589	n	dmc	yes	fanático	conservative
+ES1926	n	cds	no	proxenético	conservative
+ES56	n	pa	yes	academista	inclusive
+ES3567	n	re	no	pirata	inclusive
+ES1086	n	cds	no	tratante	inclusive
+ES978	n	cds	no	cacharro	inclusive
+ES144	n	asf	no	bagatela	conservative
+ES2753	n	asm	no	chota	inclusive
+ES145	n	an	no	morralla	conservative
+ES1832	n	cds	no	delinquir	inclusive
+ES482	n	or	no	panoli	conservative
+ES2412	n	re	no	ladrones	inclusive
+ES2448	n	om	no	homosexualismo	inclusive
+ES927	n	ps	yes	búlgara	inclusive
+ES395	n	cds	no	barbaro	conservative
+ES4066	n	cds	no	teoría de la conspiracion	inclusive
+ES2503	n	cds	no	pueblo	inclusive
+ES526	n	pr	no	mujercita	conservative
+ES1076	n	re	no	maligner	conservative
+ES2099	n	cds	no	bufón	conservative
+ES2379	n	an	no	cochino	inclusive
+ES2611	n	ddf	yes	discapacidades	inclusive
+ES2968	n	cds	no	paleto	conservative
+ES3941	n	an	no	caimanes	inclusive
+ES2162	n	re	no	furia	inclusive
+ES327	n	ddp	yes	chismoso	conservative
+ES3724	n	re	no	abductor	inclusive
+ES215	n	dmc	yes	bestia	conservative
+ES581	n	pa	yes	botones	inclusive
+ES3575	a	cds	no	trillado	inclusive
+ES1034	n	cds	no	débil	conservative
+ES3368	n	an	no	mujer chaser	conservative
+ES977	n	cds	no	bote	inclusive
+ES2884	n	pr	no	polillas	inclusive
+ES1115	n	cds	no	tribus	inclusive
+ES2794	n	svp	no	enfadados	inclusive
+ES3505	n	an	no	piojos	inclusive
+ES1769	n	cds	no	taimado	conservative
+ES2371	n	an	no	porcinos	inclusive
+ES2935	n	cds	no	mafiosi	conservative
+ES3414	v	cds	no	finar	inclusive
+ES2039	n	or	no	fanoyo	inclusive
+ES3895	n	ddp	yes	rollo	inclusive
+ES3259	n	cds	no	hipersexual	conservative
+ES59	n	pa	yes	facultad	inclusive
+ES1149	n	svp	no	niggardliness	conservative
+ES703	n	an	no	mierda	conservative
+ES2958	n	an	no	gordinflón	conservative
+ES1045	n	an	no	ñoño	conservative
+ES3740	a	dmc	yes	sucias	inclusive
+ES3664	n	pa	yes	contabilidad pública	inclusive
+ES4212	a	cds	no	rudo	conservative
+ES2445	n	om	no	mismo sexo	inclusive
+ES3094	n	an	no	animalcule	inclusive
+ES300	n	svp	no	avaricia	conservative
+ES3111	n	an	no	borrego	inclusive
+ES3081	n	an	no	escualo	inclusive
+ES1433	n	asm	no	pajero	conservative
+ES3841	a	svp	no	lascivo	conservative
+ES1159	n	an	no	vulgaridad	conservative
+ES468	n	cds	no	pillock	conservative
+ES3769	n	an	no	ranoides	inclusive
+ES1950	n	is	yes	marginacion	inclusive
+ES2162	n	an	no	furia	inclusive
+ES3148	n	asm	no	bolsa	conservative
+ES1617	n	pr	no	concubinato	inclusive
+ES3102	n	an	no	ovejo	inclusive
+ES1434	n	cds	no	wanker	conservative
+ES1828	n	re	no	parte especial del derecho penal	inclusive
+ES3090	n	an	no	pip-squeak	conservative
+ES252	a	an	no	tonto	conservative
+ES2934	n	re	no	hampa	inclusive
+ES1501	n	asf	no	punta	conservative
+ES725	n	qas	no	lío	inclusive
+ES1570	n	or	no	bonitillos	inclusive
+ES136	n	asm	no	apéndices	inclusive
+ES4143	n	cds	no	miedoso	conservative
+ES1769	n	dmc	yes	taimado	conservative
+ES1649	n	re	no	actividades ilegales	inclusive
+ES945	n	svp	no	hauteur	conservative
+ES645	n	cds	no	correveidile	conservative
+ES1036	n	an	no	pelele	conservative
+ES610	n	an	no	bregante	conservative
+ES943	n	cds	no	arrogancia	inclusive
+ES3400	v	re	no	victimizar	inclusive
+ES102	n	om	no	penetracion anal	inclusive
+ES2167	n	dmc	yes	melancólico	conservative
+ES2824	n	or	no	meticulosidad	inclusive
+ES85	n	cds	no	engreimiento	conservative
+ES139	a	svp	no	agresivo	inclusive
+ES2168	n	svp	no	dilly-dallier	conservative
+ES763	n	qas	no	tropezador	conservative
+ES3925	n	pr	no	quastuosa	inclusive
+ES3892	a	ddp	yes	impotente	inclusive
+ES780	n	an	no	gul	inclusive
+ES621	n	re	no	transgresor	inclusive
+ES263	n	cds	no	gilipollas	conservative
+ES2326	n	cds	no	contra revolución	conservative
+ES2980	n	qas	no	parasítico	inclusive
+ES2297	n	asf	no	vello pubico	inclusive
+ES2662	n	dmc	yes	cheater	conservative
+ES610	n	re	no	bregante	conservative
+ES771	n	dmc	yes	incompetente	conservative
+ES1506	n	or	no	raja	conservative
+ES3190	n	cds	no	egolatría	inclusive
+ES1667	n	cds	no	novela barata	inclusive
+ES3873	n	cds	no	estudiosa	conservative
+ES263	n	or	no	gilipollas	conservative
+ES3752	n	an	no	sapos	inclusive
+ES1381	n	dmc	yes	engaño	conservative
+ES665	n	qas	no	industriales	inclusive
+ES2065	n	asm	no	aletas pélvicas	inclusive
+ES2814	n	cds	no	cuatreros	inclusive
+ES1371	n	an	no	espionaje	inclusive
+ES3036	n	cds	no	superbia	inclusive
+ES816	n	an	no	res	inclusive
+ES3420	v	cds	no	perecer	inclusive
+ES965	n	is	yes	mendigo	inclusive
+ES3686	n	or	no	brassica rapa	inclusive
+ES372	n	asm	no	cojón	inclusive
+ES472	n	ddp	yes	prima	conservative
+ES3618	a	pa	yes	de oficina	inclusive
+ES2385	n	an	no	gorrino	inclusive
+ES504	n	pr	no	lagarta	conservative
+ES1161	n	asm	no	verga	conservative
+ES834	n	an	no	cuatrena	inclusive
+ES3540	a	svp	no	soberbia	conservative
+ES726	n	cds	no	tropiezo	inclusive
+ES1921	n	cds	no	explotación sexual	conservative
+ES1825	n	re	no	criminoso	inclusive
+ES215	n	cds	no	bestia	conservative
+ES2060	n	asm	no	heterocerca	inclusive
+ES280	n	an	no	jumento	inclusive
+ES4056	n	cds	no	fantasías de conspiración	inclusive
+ES1942	n	cds	no	fascista	conservative
+ES969	n	cds	no	holgazán	conservative
+ES925	n	cds	no	presuntuosidad	conservative
+ES2641	a	ddp	yes	ignorante	conservative
+ES723	n	cds	no	desliz	inclusive
+ES132	n	cds	no	mezcla	inclusive
+ES1435	n	asm	no	twirp	conservative
+ES3779	v	re	no	hurtar	inclusive
+ES976	n	cds	no	carro destartalado	inclusive
+ES631	n	re	no	proscripción	inclusive
+ES189	n	an	no	anguillidae	inclusive
+ES3851	n	ddp	yes	unwiseness	inclusive
+ES3940	n	an	no	caimaninae	inclusive
+ES3599	n	cds	no	niña	inclusive
+ES1005	n	cds	no	vagón de tren	inclusive
+ES2126	n	cds	no	francmasoneria	inclusive
+ES2088	n	an	no	sifonáptero	inclusive
+ES2243	n	asm	no	jaruga	inclusive
+ES400	n	rci	yes	bárbaros	conservative
+ES144	n	cds	no	bagatela	conservative
+ES2660	n	cds	no	scrawler	conservative
+ES820	n	pr	no	becerra	inclusive
+ES187	n	an	no	anguílidos	inclusive
+ES2419	n	qas	no	parásito	inclusive
+ES3504	n	an	no	tazón	inclusive
+ES497	n	pr	no	ramera	conservative
+ES1458	n	an	no	crocodilidos	inclusive
+ES2590	n	ddf	yes	minusvalia	inclusive
+ES1049	n	cds	no	changeling	inclusive
+ES1635	n	an	no	saqueador	inclusive
+ES255	n	an	no	burro	inclusive
+ES1665	n	cds	no	novelas de diez centavos	inclusive
+ES142	n	ddp	yes	tonterías	inclusive
+ES1342	v	cds	no	charlar	inclusive
+ES29	n	re	no	abusivo	inclusive
+ES2426	n	pr	no	putas	inclusive
+ES2011	n	om	no	zenojo	inclusive
+ES1827	n	re	no	delincuencia	inclusive
+ES1042	n	cds	no	gallina	conservative
+ES442	n	dmc	yes	perro	inclusive
+ES2394	a	cds	no	lagarto	conservative
+ES3096	n	ddp	yes	microcephalus	inclusive
+ES3707	n	re	no	robos	inclusive
+ES3146	n	asm	no	estupido	conservative
+ES1625	n	an	no	simplón	conservative
+ES2431	n	pr	no	prostitucion	conservative
+ES154	n	cds	no	bobadas	conservative
+ES1085	n	dmc	yes	estafador	conservative
+ES1944	n	is	yes	marginación	inclusive
+ES4102	n	cds	no	teoría del complot	inclusive
+ES1335	n	dmc	yes	traidor	conservative
+ES3202	n	ps	yes	negra	inclusive
+ES2166	n	svp	no	dillydallier	conservative
+ES2341	v	asm	no	vergar	conservative
+ES328	n	ddp	yes	charlatán	inclusive
+ES1317	n	om	no	gays	conservative
+ES311	n	an	no	tacaña	conservative
+ES361	n	asm	no	testiculos	inclusive
+ES1389	n	svp	no	trṣna	inclusive
+ES224	n	re	no	difamación	inclusive
+ES4182	n	ps	yes	gitanos	inclusive
+ES465	n	ddp	yes	chump	conservative
+ES2071	n	asm	no	homocerca	inclusive
+ES1924	n	cds	no	proxenetico	conservative
+ES2001	n	om	no	cinoyo	inclusive
+ES1083	n	cds	no	chiseller	conservative
+ES392	n	ddp	yes	bárbara	conservative
+ES2106	n	asm	no	falta	inclusive
+ES3638	n	cds	no	cafiche	conservative
+ES3835	a	ps	yes	judaica	inclusive
+ES2267	n	asf	no	chochete	conservative
+ES3920	n	cds	no	conciliábulo	inclusive
+ES1415	n	an	no	estrigiformes	inclusive
+ES4067	n	cds	no	conspiraciones	inclusive
+ES933	n	svp	no	jactancia	conservative
+ES776	n	qas	no	pelotudo	conservative
+ES2181	n	re	no	gángster	inclusive
+ES1314	n	or	no	homofilia	conservative
+ES1600	n	cds	no	demagogas	conservative
+ES3551	a	svp	no	áspera	conservative
+ES3206	n	ps	yes	mujeres negras	inclusive
+ES972	n	svp	no	flojo	conservative
+ES2216	n	asm	no	amplia frijol	inclusive
+ES1493	n	cds	no	sonny boy	inclusive
+ES2328	n	cds	no	contrarrevolución	conservative
+ES209	n	an	no	metazoo	inclusive
+ES391	n	ps	yes	patán	conservative
+ES2506	n	cds	no	gente	inclusive
+ES4071	n	cds	no	teoria de una conspiración	inclusive
+ES2068	n	asm	no	pisces	inclusive
+ES3522	a	svp	no	brava	inclusive
+ES1523	n	or	no	cogombro cultivado	inclusive
+ES2423	n	pr	no	prostitución	conservative
+ES829	n	pr	no	erales	inclusive
+ES3383	n	cds	no	advenediza	inclusive
+ES773	n	qas	no	boludo	conservative
+ES789	n	an	no	bestialidad	conservative
+ES2818	n	cds	no	ladrón	conservative
+ES1444	n	an	no	crocodylia	inclusive
+ES806	n	pr	no	ganado	inclusive
+ES787	n	pa	yes	tosquedad	conservative
+ES2880	n	an	no	culicidae	inclusive
+ES1007	n	cds	no	caravana	inclusive
+ES3186	n	or	no	ayote	inclusive
+ES1283	n	an	no	conejos	inclusive
+ES3085	n	an	no	microbios	inclusive
+ES2649	n	cds	no	maestra	conservative
+ES1050	n	ddp	yes	nino cambiado	inclusive
+ES3727	a	om	no	diferente	inclusive
+ES392	n	cds	no	bárbara	conservative
+ES1266	n	asm	no	polvo	conservative
+ES2306	n	cds	no	fisgonear	conservative
+ES296	n	ddp	yes	culo	conservative
+ES1358	n	cds	no	chatarrero	conservative
+ES4117	n	pa	yes	zapatería	inclusive
+ES4095	n	cds	no	teoría de una conspiracion	inclusive
+ES3453	n	cds	no	sabelotodo	conservative
+ES961	n	qas	no	vagabunda	conservative
+ES3033	n	pa	yes	tocinero	inclusive
+ES2536	n	qas	no	chozo	inclusive
+ES315	n	an	no	tacano	conservative
+ES2508	n	cds	no	masas	conservative
+ES817	n	an	no	toro	inclusive
+ES2701	a	is	yes	infeliz	inclusive
+ES843	n	pr	no	utrero	inclusive
+ES249	n	ddp	yes	insensatez	conservative
+ES1070	n	re	no	acusaciones falsas	inclusive
+ES139	a	svp	no	agresivo	conservative
+ES1057	n	om	no	puto	inclusive
+ES177	n	ddp	yes	analfabetos	inclusive
+ES1854	n	qas	no	diletante	conservative
+ES3602	n	cds	no	infante	inclusive
+ES3139	n	asm	no	lelo	conservative
+ES3016	n	asm	no	chícharos	inclusive
+ES623	n	cds	no	bandolero	inclusive
+ES1498	n	asf	no	cuca	conservative
+ES47	n	cds	no	broker	inclusive
+ES729	n	qas	no	cante	inclusive
+ES2986	n	qas	no	feligrés	inclusive
+ES3261	n	cds	no	adicción sexual	conservative
+ES2733	n	cds	no	boca	inclusive
+ES1416	n	an	no	búhos	inclusive
+ES3741	a	dmc	yes	sucio	conservative
+ES3211	n	ps	yes	negroide	inclusive
+ES2939	n	cds	no	mafiosos	conservative
+ES3608	a	ddp	yes	bestial	conservative
+ES148	n	cds	no	codswallop	conservative
+ES3366	n	an	no	lapsus linguae	inclusive
+ES248	n	asm	no	tontería	conservative
+ES397	n	ps	yes	salvaje	conservative
+ES2580	a	svp	no	rancio	conservative
+ES2601	n	ddf	yes	minusvalía	inclusive
+ES2690	n	qas	no	película	conservative
+ES690	n	cds	no	gozque	inclusive
+ES2034	n	or	no	feniculo	inclusive
+ES646	n	ddp	yes	bocazas	conservative
+ES3059	n	cds	no	cabecilla	inclusive
+ES2729	n	cds	no	insolencia	inclusive
+ES395	n	ps	yes	barbaro	conservative
+ES3856	a	ddp	yes	niñito	conservative
+ES1104	n	dmc	yes	mala persona	conservative
+ES934	n	svp	no	presunción	conservative
+ES3405	n	qas	no	provocador	conservative
+ES381	a	svp	no	avarienta	conservative
+ES2176	n	dmc	yes	tunante	conservative
+ES1747	n	om	no	tuje	inclusive
+ES1192	n	qas	no	subdito	inclusive
+ES1503	n	or	no	chocha	conservative
+ES1043	n	an	no	calzonazos	conservative
+ES2658	n	cds	no	propaganda de buzón	inclusive
+ES635	n	an	no	billy goat	inclusive
+ES3287	n	cds	no	omerta	inclusive
+ES4145	n	cds	no	rajado	conservative
+ES4135	n	cds	no	venal	inclusive
+ES2039	n	om	no	fanoyo	inclusive
+ES759	n	ddp	yes	inepto	conservative
+ES261	n	ps	yes	estúpido	conservative
+ES989	a	ddf	yes	malo	inclusive
+ES3874	a	pa	yes	político	inclusive
+ES2079	n	dmc	yes	fake	inclusive
+ES2922	n	cds	no	tombo	inclusive
+ES3819	n	an	no	blatido	inclusive
+ES1051	n	asf	no	cretina	conservative
+ES615	n	re	no	pícaro	inclusive
+ES1421	n	an	no	rapaces nocturnas	inclusive
+ES273	n	or	no	muttonhead	conservative
+ES351	n	cds	no	prostibulario	inclusive
+ES501	n	pr	no	alcahueta	conservative
+ES2157	n	cds	no	fundamentalismo	inclusive
+ES1975	n	or	no	fenoyo	inclusive
+ES2123	n	cds	no	masónico	inclusive
+ES3023	n	rci	yes	labrador	inclusive
+ES602	n	cds	no	banda	conservative
+ES284	n	om	no	asno	inclusive
+ES956	n	dmc	yes	sinvergüenza	inclusive
+ES3007	a	dmc	yes	malvado	conservative
+ES3452	n	cds	no	sabe-lo-todo	conservative
+ES311	n	is	yes	tacaña	conservative
+ES698	n	cds	no	esquirol	inclusive
+ES1205	n	pa	yes	enseñante	inclusive
+ES2107	n	cds	no	francmasón	inclusive
+ES40	n	re	no	abuso	inclusive
+ES1835	n	cds	no	delictivo	inclusive
+ES169	n	cds	no	celota	inclusive
+ES386	n	dmc	yes	atracador	conservative
+ES1678	n	cds	no	sonido de seattle	inclusive
+ES704	n	cds	no	coño	conservative
+ES3374	n	an	no	sanguijuela	inclusive
+ES3962	n	re	no	sufrimiento	inclusive
+ES167	n	cds	no	fanatismo	conservative
+ES310	n	svp	no	parsimonia	inclusive
+ES3986	n	om	no	travestismo	inclusive
+ES641	n	cds	no	blabbermouth	conservative
+ES3125	n	ddp	yes	pero se puede saber qué cono estas haciendo?	conservative
+ES2715	n	cds	no	prestamistas	conservative
+ES168	n	cds	no	celo	inclusive
+ES2400	a	cds	no	sabio	inclusive
+ES561	n	ps	yes	beduinos	inclusive
+ES609	n	dmc	yes	bribón	conservative
+ES1471	n	ps	yes	híbrido	inclusive
+ES2274	a	dmc	yes	nauseabunda	conservative
+ES1675	n	cds	no	mugre	inclusive
+ES1625	n	or	no	simplón	conservative
+ES4087	n	cds	no	teorico conspirativo	inclusive
+ES885	n	qas	no	persona de negocios	inclusive
+ES2318	n	svp	no	no por cuenta	conservative
+ES17	n	svp	no	desidia	inclusive
+ES675	n	ddp	yes	cerdo	conservative
+ES389	n	cds	no	bandidaje	inclusive
+ES2214	n	asm	no	amplia planta de frijol	inclusive
+ES1048	n	asm	no	idiotas	inclusive
+ES3395	v	cds	no	tragar	inclusive
+ES323	n	svp	no	avara	conservative
+ES2117	n	cds	no	franc-masonería	inclusive
+ES4	n	dmc	yes	vagancia	inclusive
+ES677	n	cds	no	persona desaliñada	conservative
+ES893	n	om	no	sodomita	inclusive
+ES1049	n	ddp	yes	changeling	conservative
+ES2081	n	cds	no	aprieto	inclusive
+ES1396	n	svp	no	tṛṣnā	inclusive
+ES3451	n	cds	no	pedantería	inclusive
+ES1438	n	ddf	yes	coja	inclusive
+ES3911	n	re	no	molestado	inclusive
+ES628	n	cds	no	bandolerismo	inclusive
+ES703	n	cds	no	mierda	conservative
+ES2885	n	pr	no	heteróceros	inclusive
+ES3476	n	cds	no	habladuría	inclusive
+ES3155	n	asm	no	atontados	conservative
+ES1114	n	cds	no	saga	inclusive
+ES2180	n	cds	no	ganster	inclusive
+ES324	n	svp	no	amarrete	inclusive
+ES2882	n	an	no	heteroceros	inclusive
+ES156	n	asf	no	borra	conservative
+ES1054	n	ddp	yes	retrasado	conservative
+ES3582	n	an	no	gallinas	inclusive
+ES910	n	qas	no	bourgoise	inclusive
+ES991	a	ddf	yes	vil	conservative
+ES2727	n	re	no	malversación	inclusive
+ES482	n	asf	no	panoli	conservative
+ES770	n	dmc	yes	negado	conservative
+ES3897	n	ddp	yes	necedades	inclusive
+ES3037	n	cds	no	propagandista	inclusive
+ES2938	n	re	no	capomafia	conservative
+ES257	n	asf	no	bobo	conservative
+ES1520	n	or	no	pepinos	inclusive
+ES215	n	pa	yes	bestia	conservative
+ES768	n	cds	no	botcher	conservative
+ES58	n	pa	yes	lector	inclusive
+ES2691	n	qas	no	mentir	conservative
+ES3076	n	an	no	tiburón	inclusive
+ES511	n	cds	no	gigoló	inclusive
+ES1106	n	ps	yes	chino	inclusive
+ES2659	n	cds	no	escritor	conservative
+ES818	n	pr	no	ternero	inclusive
+ES2961	n	cds	no	papparazzi	inclusive
+ES1626	a	ddp	yes	ingenuo	conservative
+ES2353	n	svp	no	glotonería	inclusive
+ES2717	n	cds	no	usureros	inclusive
+ES1508	n	or	no	panocha	conservative
+ES5	n	cds	no	vago	conservative
+ES960	n	dmc	yes	lowlife	conservative
+ES1430	n	ddp	yes	cretinismo	inclusive
+ES261	n	an	no	estúpido	conservative
+ES3784	a	qas	no	feudal	inclusive
+ES3775	v	re	no	birlar	inclusive
+ES4112	n	om	no	drag queens	inclusive
+ES1871	n	an	no	escorpiones de mar	inclusive
+ES2428	n	pr	no	prostitutas	conservative
+ES2310	n	an	no	caprido	inclusive
+ES828	n	an	no	cuatreña	inclusive
+ES1853	n	qas	no	erudito a la violeta	conservative
+ES1408	n	an	no	mujer fatal	conservative
+ES200	n	an	no	anguiliformes	inclusive
+ES1046	n	asm	no	cambiantes	inclusive
+ES755	n	cds	no	fantasma	conservative
+ES527	n	pr	no	taxi boy	conservative
+ES479	n	asm	no	lila	conservative
+ES3639	n	cds	no	protagonismo	inclusive
+ES315	n	svp	no	tacano	inclusive
+ES3425	v	cds	no	morir	inclusive
+ES385	n	cds	no	bandido	inclusive
+ES2578	a	is	yes	cuadrado	conservative
+ES383	a	svp	no	avara	conservative
+ES64	n	cds	no	amateurismo	conservative
+ES896	n	qas	no	aburguesado	inclusive
+ES1051	n	asm	no	cretina	inclusive
+ES1505	n	asf	no	chichi	conservative
+ES3440	v	cds	no	jambar	inclusive
+ES3365	v	qas	no	embarullar	conservative
+ES2921	n	cds	no	infractor	inclusive
+ES2333	v	asm	no	follarse	conservative
+ES3953	n	asm	no	liṅga	inclusive
+ES3163	n	pa	yes	pastora	inclusive
+ES5	n	dmc	yes	vago	conservative
+ES3028	n	cds	no	intrigante	inclusive
+ES3557	a	svp	no	áspero	conservative
+ES587	n	cds	no	intolerante	conservative
+ES3099	n	an	no	boque	inclusive
+ES841	n	an	no	cuatrenas	inclusive
+ES3815	n	an	no	blattaria	inclusive
+ES3964	n	re	no	agonía	inclusive
+ES4199	n	ps	yes	cañí	inclusive
+ES262	n	ps	yes	tonto	conservative
+ES2976	n	qas	no	necrotrófico	inclusive
+ES3760	n	an	no	sapo	inclusive
+ES522	n	pr	no	meretriz	inclusive
+ES362	n	qas	no	cojones	inclusive
+ES1803	n	cds	no	pila	inclusive
+ES607	n	an	no	villano	conservative
+ES3814	n	an	no	cucarachas	inclusive
+ES4124	n	dmc	yes	cirujear	inclusive
+ES221	n	an	no	metazoos	inclusive
+ES1672	n	ps	yes	jerry	conservative
+ES617	n	re	no	sinverguenza	conservative
+ES1884	n	cds	no	pecadora	conservative
+ES267	n	ps	yes	alcornoque	conservative
+ES1492	n	cds	no	mijo	inclusive
+ES611	n	cds	no	canalla	conservative
+ES1313	n	om	no	1069bf	inclusive
+ES967	n	svp	no	gandul	conservative
+ES1107	n	ps	yes	china	inclusive
+ES1050	n	ps	yes	nino cambiado	conservative
+ES2052	n	dmc	yes	foetor	conservative
+ES2430	n	pr	no	sexoservidora	inclusive
+ES1936	n	qas	no	granjero	inclusive
+ES502	n	pr	no	puta	conservative
+ES1579	n	cds	no	tricker	conservative
+ES1349	n	ddp	yes	saltabancos	conservative
+ES1642	n	ps	yes	uprooter	conservative
+ES630	n	dmc	yes	criminal	inclusive
+ES2433	n	pr	no	servicios sexuales	conservative
+ES1054	n	ddp	yes	retrasado	inclusive
+ES4150	n	pr	no	cortesanos	inclusive
+ES807	n	pr	no	añojos	inclusive
+ES1616	n	pr	no	unión concubinaria	inclusive
+ES1768	n	om	no	región glútea	inclusive
+ES2594	n	ddf	yes	personas discapacitadas	inclusive
+ES3119	n	asm	no	tonterias	conservative
+ES5	n	svp	no	vago	inclusive
+ES394	n	rci	yes	bárbaro	conservative
+ES227	n	re	no	chismorreo	conservative
+ES1167	n	asm	no	pirulo	inclusive
+ES1031	n	is	yes	marginado	inclusive
+ES1068	n	cds	no	impertinencia	inclusive
+ES1286	n	an	no	coneja	inclusive
+ES641	n	ddp	yes	blabbermouth	conservative
+ES130	n	qas	no	baturrillo	inclusive
+ES261	n	cds	no	estúpido	inclusive
+ES618	n	cds	no	salteador de caminos	conservative
+ES3918	n	re	no	abusador sexual	inclusive
+ES380	a	svp	no	avariento	conservative
+ES2427	n	pr	no	sexuales comerciales	inclusive
+ES574	n	cds	no	fabulista	conservative
+ES2786	n	svp	no	indignación	inclusive
+ES69	n	ddp	yes	retardo mental	inclusive
+ES452	n	qas	no	barroco	inclusive
+ES356	n	svp	no	scrooge	conservative
+ES950	n	an	no	buey	inclusive
+ES1497	n	or	no	concha	conservative
+ES340	n	cds	no	mancebia	inclusive
+ES3460	v	an	no	arremeter	conservative
+ES3843	a	ps	yes	lívido	conservative
+ES2179	n	dmc	yes	gangsters	inclusive
+ES2934	n	cds	no	hampa	inclusive
+ES218	n	an	no	criatura	inclusive
+ES1133	n	an	no	choto	inclusive
+ES263	n	ddp	yes	gilipollas	conservative
+ES604	n	cds	no	gang	conservative
+ES406	n	qas	no	trader	inclusive
+ES1052	n	asf	no	idiocia	conservative
+ES2820	n	re	no	ladrona	inclusive
+ES1633	n	an	no	filibustero	inclusive
+ES2108	n	cds	no	masón	inclusive
+ES497	n	pr	no	ramera	inclusive
+ES2314	n	dmc	yes	buena-para-nada	conservative
+ES2850	n	cds	no	inodoro	inclusive
+ES3173	n	cds	no	mistificador	conservative
+ES3371	n	qas	no	freeloader	conservative
+ES2502	n	cds	no	populacho	inclusive
+ES3118	n	ddp	yes	que cono haces?	conservative
+ES1279	n	asm	no	nookie	conservative
+ES969	n	svp	no	holgazán	conservative
+ES253	a	ddp	yes	corto	conservative
+ES1080	n	cds	no	camorrista	inclusive
+ES442	n	dmc	yes	perro	conservative
+ES428	n	pa	yes	portavoz	inclusive
+ES1443	n	an	no	crocodylian	inclusive
+ES2080	n	qas	no	apuro	inclusive
+ES2431	n	pr	no	prostitucion	inclusive
+ES2887	n	an	no	mariposas nocturnas	inclusive
+ES4099	n	cds	no	teoria conspiradora	inclusive
+ES384	n	qas	no	lastre	inclusive
+ES588	n	cds	no	fanática	conservative
+ES2555	n	cds	no	traditional pop	inclusive
+ES1087	n	cds	no	traficante	conservative
+ES763	n	dmc	yes	tropezador	conservative
+ES835	n	an	no	cuatreno	inclusive
+ES3973	v	re	no	atormentar	inclusive
+ES231	n	re	no	violación	inclusive
+ES492	n	asf	no	pendejo	conservative
+ES230	n	re	no	violacion	conservative
+ES142	n	asm	no	tonterías	conservative
+ES537	n	cds	no	falsedad	conservative
+ES2623	n	is	yes	bajos ingresos	inclusive
+ES1631	n	cds	no	trapisondista	inclusive
+ES475	n	ddp	yes	engañar	conservative
+ES173	n	ddp	yes	analfabeto	inclusive
+ES2754	n	asm	no	poronga	inclusive
+ES379	a	is	yes	avaro	conservative
+ES118	n	qas	no	cómplice	inclusive
+ES3233	n	ps	yes	blancos	inclusive
+ES1786	n	svp	no	gourmandizer	conservative
+ES2563	n	asf	no	bomba	conservative
+ES1302	n	om	no	poove	conservative
+ES2784	n	svp	no	enfadadas	inclusive
+ES612	n	cds	no	pícara	conservative
+ES590	n	dmc	yes	intolerancia	conservative
+ES3116	n	asm	no	tragapollas	conservative
+ES151	n	qas	no	basura	conservative
+ES160	n	cds	no	atosigador	conservative
+ES86	n	cds	no	vanidad	conservative
+ES4046	n	ps	yes	tarjeta	inclusive
+ES578	n	cds	no	mentiroso	conservative
+ES1729	n	om	no	ano	inclusive
+ES2956	n	an	no	guatón	conservative
+ES574	n	dmc	yes	fabulista	conservative
+ES1420	n	an	no	mochuelo	inclusive
+ES1250	n	or	no	broculi	inclusive
+ES1919	n	cds	no	alcahuete	inclusive
+ES1085	n	re	no	estafador	inclusive
+ES766	n	dmc	yes	fumbler	conservative
+ES5	n	svp	no	vago	conservative
+ES553	n	cds	no	caos	inclusive
+ES239	n	cds	no	sagacidad	inclusive
+ES965	n	dmc	yes	mendigo	conservative
+ES940	n	cds	no	soberbia	conservative
+ES309	n	an	no	codez	conservative
+ES150	n	an	no	hojarasca	conservative
+ES2694	n	dmc	yes	mentirijilla	inclusive
+ES975	n	dmc	yes	villana	conservative
+ES1275	n	asm	no	follar	conservative
+ES2028	n	om	no	anis de florencia	inclusive
+ES454	n	an	no	merodeador	conservative
+ES273	n	ddp	yes	muttonhead	conservative
+ES2057	n	cds	no	finagler	conservative
+ES3879	n	qas	no	bloodhound	inclusive
+ES2979	n	qas	no	parasitismo	inclusive
+ES1054	n	asf	no	retrasado	conservative
+ES3464	v	qas	no	pintar	inclusive
+ES1257	n	cds	no	vulgo	conservative
+ES380	a	svp	no	avariento	inclusive
+ES3151	n	asm	no	imbecil	conservative
+ES3293	n	re	no	asesinos	inclusive
+ES959	n	dmc	yes	indigente	inclusive
+ES2531	n	svp	no	comer en exceso	inclusive
+ES1170	n	asm	no	picha	inclusive
+ES1169	n	asm	no	macana	conservative
+ES1354	n	ddp	yes	empirismo	conservative
+ES3001	a	dmc	yes	brutal	conservative
+ES1707	n	om	no	traste	inclusive
+ES245	n	cds	no	disparate	inclusive
+ES2530	n	svp	no	sobrealimentación	inclusive
+ES2159	n	cds	no	fundamentalista	inclusive
+ES1864	n	dmc	yes	moralidad	inclusive
+ES1174	n	asm	no	carajo	conservative
+ES2087	n	an	no	siphonaptera	inclusive
+ES723	n	qas	no	desliz	inclusive
+ES629	n	cds	no	bandoleros	inclusive
+ES3536	n	asm	no	pajearse	conservative
+ES880	n	qas	no	negociante	inclusive
+ES2513	n	cds	no	cardenal	inclusive
+ES2952	n	an	no	rácano	conservative
+ES2173	n	cds	no	petardista	conservative
+ES732	n	qas	no	equivocación	inclusive
+ES140	a	svp	no	agresiva	conservative
+ES2161	n	svp	no	rabia	inclusive
+ES3803	a	re	no	duro	inclusive
+ES1034	n	an	no	débil	conservative
+ES1053	n	cds	no	retrasada	inclusive
+ES984	n	cds	no	garfio	inclusive
+ES3813	n	an	no	blatodeos	inclusive
+ES1711	n	om	no	términos para la localización anatómica	inclusive
+ES268	n	or	no	cabrón	conservative
+ES2275	a	dmc	yes	fétida	conservative
+ES2807	a	svp	no	furioso	inclusive
+ES566	n	cds	no	beguina	inclusive
+ES1894	a	dmc	yes	grosero	conservative
+ES630	n	cds	no	criminal	inclusive
+ES1973	n	or	no	cinojo	inclusive
+ES2644	n	cds	no	splashiness	conservative
+ES261	n	or	no	estúpido	conservative
+ES1038	n	cds	no	pusilánime	conservative
+ES2313	n	dmc	yes	bueno-para-nada	conservative
+ES2242	n	asm	no	fava	inclusive
+ES3921	n	cds	no	conventículos	inclusive
+ES2280	n	pr	no	gun moll	inclusive
+ES2483	n	ps	yes	¿quién es judío?	inclusive
+ES961	n	dmc	yes	vagabunda	conservative
+ES3142	n	ddp	yes	atontadas	conservative
+ES3792	n	an	no	hirudinea	inclusive
+ES3988	n	om	no	travestí	inclusive
+ES3262	n	asm	no	guasa	inclusive
+ES1108	n	qas	no	circo	inclusive
+ES2930	n	cds	no	patrullero	inclusive
+ES816	n	pr	no	res	inclusive
+ES1090	n	ddp	yes	variopinto y globitos	conservative
+ES2518	n	cds	no	arcipreste	inclusive
+ES3093	n	an	no	animalculum	inclusive
+ES627	n	re	no	delincuente	inclusive
+ES3021	n	asm	no	arveja	inclusive
+ES3536	n	cds	no	pajearse	conservative
+ES2922	n	cds	no	tombo	conservative
+ES382	a	svp	no	codicioso	conservative
+ES3377	n	qas	no	gorrón	conservative
+ES3315	n	cds	no	homunculos	inclusive
+ES625	n	cds	no	forajido	conservative
+ES615	n	re	no	pícaro	conservative
+ES1731	n	om	no	tush	inclusive
+ES1084	n	cds	no	grifter	conservative
+ES3477	n	cds	no	murmuración	inclusive
+ES1845	n	re	no	delito-solamente	inclusive
+ES2815	n	cds	no	cuatrero	inclusive
+ES1699	n	dmc	yes	hipócrita	conservative
+ES2949	n	an	no	megascops	inclusive
+ES1422	n	an	no	strigiformes	inclusive
+ES607	n	re	no	villano	conservative
+ES1815	n	an	no	nanus	conservative
+ES312	n	svp	no	avariento	inclusive
+ES1787	n	svp	no	tragaldaba	inclusive
+ES3117	n	asm	no	gilipollez	conservative
+ES4183	n	ps	yes	romanis	inclusive
+ES484	n	ddp	yes	memo	conservative
+ES3960	n	asm	no	phallus	inclusive
+ES3555	a	svp	no	refunfuñón	conservative
+ES2570	n	cds	no	idólatra	inclusive
+ES355	n	cds	no	casa de mala reputación	inclusive
+ES2454	n	om	no	homoerotismo	inclusive
+ES1217	n	pa	yes	prof	inclusive
+ES1486	n	qas	no	cumplimiento	inclusive
+ES361	n	qas	no	testiculos	inclusive
+ES3999	n	pr	no	hataira	inclusive
+ES3000	a	dmc	yes	cruel	conservative
+ES2796	n	svp	no	enfadada	inclusive
+ES124	n	cds	no	ridículo	inclusive
+ES3187	n	re	no	stealer	inclusive
+ES3987	n	om	no	crossdress	inclusive
+ES1723	n	om	no	detrás	inclusive
+ES1893	a	qas	no	triste	conservative
+ES347	n	cds	no	whiskeria	inclusive
+ES256	n	om	no	imbécil	inclusive
+ES467	n	or	no	majareta	conservative
+ES2597	n	ddf	yes	minusvalido	inclusive
+ES2584	n	an	no	cárabo norteamericano	inclusive
+ES1708	n	om	no	fondo	inclusive
+ES2688	n	dmc	yes	mentiras	inclusive
+ES1909	n	svp	no	faineance	inclusive
+ES2744	n	cds	no	casamentero	inclusive
+ES2932	n	cds	no	mafia	inclusive
+ES2099	n	dmc	yes	bufón	inclusive
+ES1363	n	qas	no	deshecho	inclusive
+ES2625	n	is	yes	indigentes	inclusive
+ES2183	n	dmc	yes	gángsters	inclusive
+ES3461	v	an	no	atacar	conservative
+ES3258	n	cds	no	ninfomana	conservative
+ES396	n	an	no	barbarie	inclusive
+ES1893	a	dmc	yes	triste	inclusive
+ES3422	v	cds	no	diñar	inclusive
+ES489	n	ddp	yes	papanatas	conservative
+ES3860	a	ddp	yes	estúpida	conservative
+ES2011	n	or	no	zenojo	inclusive
+ES3307	n	cds	no	contemporizador	conservative
+ES2074	n	pa	yes	pescaderías	inclusive
+ES551	n	cds	no	pandemonio	inclusive
+ES2886	n	an	no	heterocera	inclusive
+ES3710	n	re	no	ladron	inclusive
+ES2889	n	pr	no	polilla	inclusive
+ES1916	n	cds	no	extremista irracional	conservative
+ES2944	n	ps	yes	greutungos	inclusive
+ES779	n	an	no	cuerpo snatcher	inclusive
+ES674	n	qas	no	mogol	inclusive
+ES3830	a	ps	yes	israelí	inclusive
+ES1640	n	ddp	yes	doofus	conservative
+ES3391	v	re	no	frustrar	inclusive
+ES3544	a	svp	no	orgulloso	conservative
+ES3141	n	ddp	yes	tontorrón	conservative
+ES391	n	dmc	yes	patán	conservative
+ES1954	n	re	no	extorsión	inclusive
+ES650	n	ddp	yes	soplón	conservative
+ES1643	n	dmc	yes	despilfarrador	conservative
+ES1412	n	asm	no	candidez	conservative
+ES3762	n	an	no	archeobatrachia	inclusive
+ES2185	n	dmc	yes	gánster	inclusive
+ES701	n	cds	no	carnero	inclusive
+ES1982	n	om	no	cenoyo	inclusive
+ES466	n	ps	yes	tacto suave	conservative
+ES2947	n	an	no	autillo yanqui	inclusive
+ES3516	n	cds	no	religiosismo	inclusive
+ES2519	n	cds	no	primado	inclusive
+ES811	n	pr	no	vaca	conservative
+ES2776	n	svp	no	enojo	inclusive
+ES485	n	ddp	yes	bobalicón	conservative
+ES3788	n	cds	no	sabidillo	conservative
+ES2298	n	asf	no	vello pubiano	inclusive
+ES819	n	an	no	cuatreñas	inclusive
+ES1319	n	om	no	twink	conservative
+ES294	n	an	no	pollino	inclusive
+ES2411	n	re	no	desvalijamiento	inclusive
+ES159	n	cds	no	perseguidor	conservative
+ES2370	n	an	no	sus	inclusive
+ES514	n	pr	no	chicos de alquiler	conservative
+ES382	a	svp	no	codicioso	inclusive
+ES2147	n	an	no	entrecejo	inclusive
+ES4075	n	cds	no	teoría de una conspiración	inclusive
+ES360	n	qas	no	testículo	inclusive
+ES2948	n	an	no	tecolote oriental	inclusive
+ES225	n	re	no	comadreo	conservative
+ES3629	a	dmc	yes	imitativo	conservative
+ES686	n	cds	no	tinaquero	inclusive
+ES3737	a	dmc	yes	sucia	inclusive
+ES1410	n	an	no	dejar plantado	conservative
+ES971	n	svp	no	perezoso	conservative
+ES2451	n	om	no	julandrón	inclusive
+ES2045	n	or	no	fioyo	inclusive
+ES268	n	an	no	cabrón	conservative
+ES2474	n	ps	yes	judaismo	inclusive
+ES607	n	dmc	yes	villano	conservative
+ES2931	a	ddp	yes	macrocéfalo	inclusive
+ES383	a	svp	no	avara	inclusive
+ES1110	n	cds	no	parientes	inclusive
+ES3056	n	qas	no	retorica	inclusive
+ES1083	n	cds	no	chiseller	inclusive
+ES1003	n	ddp	yes	presos	inclusive
+ES2406	n	cds	no	substracción	inclusive
+ES460	n	cds	no	bas bleu	inclusive
+ES3286	n	cds	no	omertà	inclusive
+ES383	a	dmc	yes	avara	conservative
+ES508	n	pr	no	putilla	conservative
+ES1608	n	pr	no	daifa	inclusive
+ES3319	n	ddf	yes	persona ciega	inclusive
+ES1046	n	cds	no	cambiantes	inclusive
+ES3838	a	ps	yes	hebraica	inclusive
+ES3890	a	ddf	yes	feo	conservative
+ES489	n	asm	no	papanatas	conservative
+ES2516	n	cds	no	jerarca	inclusive
+ES775	n	dmc	yes	bumbler	conservative
+ES2458	n	om	no	homoerotica	inclusive
+ES1876	n	an	no	escorpion de mar	inclusive
+ES314	n	is	yes	tacaneria	conservative
+ES775	n	cds	no	bumbler	conservative
+ES1436	n	ddf	yes	lisiado	inclusive
+ES80	n	an	no	cibolo	inclusive
+ES614	n	dmc	yes	golfante	conservative
+ES1329	n	an	no	fisionomia	inclusive
+ES350	n	cds	no	prostíbulo	inclusive
+ES2490	n	ps	yes	¿quién es judio?	inclusive
+ES2179	n	re	no	gangsters	inclusive
+ES466	n	cds	no	tacto suave	conservative
+ES1087	n	dmc	yes	traficante	conservative
+ES1043	n	cds	no	calzonazos	conservative
+ES1143	n	an	no	cabron	inclusive
+ES265	n	or	no	melón	conservative
+ES3472	v	cds	no	consumirse	inclusive
+ES3790	n	cds	no	repipi	conservative
+ES1953	n	cds	no	un rápido	inclusive
+ES129	n	cds	no	chiste	inclusive
+ES3726	n	re	no	raptor	inclusive
+ES824	n	pr	no	cuatreños	inclusive
+ES4115	n	pa	yes	zapatero	inclusive
+ES2001	n	or	no	cinoyo	inclusive
+ES742	n	cds	no	bloopers	inclusive
+ES1573	n	cds	no	sacrificio	conservative
+ES54	n	pa	yes	académico	inclusive
+ES3675	n	or	no	nabos	inclusive
+ES3354	n	dmc	yes	clown	inclusive
+ES3434	n	or	no	murphy	inclusive
+ES2974	n	qas	no	parasitario	inclusive
+ES395	n	qas	no	barbaro	conservative
+ES4108	n	om	no	drag-queen	inclusive
+ES2787	n	svp	no	enojados	inclusive
+ES772	n	cds	no	tarado	conservative
+ES1706	n	om	no	nalga	inclusive
+ES453	n	qas	no	buitre	conservative
+ES51	n	pa	yes	instituto	inclusive
+ES2369	n	an	no	porcicultura	inclusive
+ES3158	n	asm	no	menso	conservative
+ES1601	n	cds	no	demagoga	conservative
+ES3014	n	asm	no	lathyrus oleraceus	inclusive
+ES536	n	cds	no	trola	inclusive
+ES2863	n	an	no	molusco	inclusive
+ES711	n	cds	no	hija natural	inclusive
+ES787	n	an	no	tosquedad	conservative
+ES1388	n	svp	no	trṣṇa	inclusive
+ES836	n	pr	no	bos taurus	inclusive
+ES3704	n	re	no	asalto	inclusive
+ES621	n	cds	no	transgresor	conservative
+ES1322	n	an	no	faz	inclusive
+ES399	n	ddp	yes	montañero	conservative
+ES2051	n	dmc	yes	fetidez	conservative
+ES2755	n	asm	no	guanaño	inclusive
+ES2997	n	svp	no	parquedad	inclusive
+ES3221	n	ps	yes	islenos	inclusive
+ES4015	n	cds	no	alcantarilla	inclusive
+ES2317	n	svp	no	goof-off	conservative
+ES507	n	an	no	golfa	conservative
+ES3728	a	om	no	distinto	inclusive
+ES138	n	asm	no	apéndice	inclusive
+ES254	n	an	no	idiota	conservative
+ES321	n	svp	no	avariciosamente	conservative
+ES2427	n	pr	no	sexuales comerciales	conservative
+ES320	n	is	yes	avaricioso	conservative
+ES2514	n	cds	no	prelado	inclusive
+ES741	n	cds	no	estropeo	inclusive
+ES392	n	pa	yes	bárbara	conservative
+ES3791	n	cds	no	wisenheimer	conservative
+ES287	n	an	no	asna	inclusive
+ES621	n	dmc	yes	transgresor	inclusive
+ES1399	n	svp	no	avidez	inclusive
+ES94	n	om	no	sodomizado	inclusive
+ES994	n	asm	no	pico	conservative
+ES1488	n	cds	no	hijo	inclusive
+ES620	n	cds	no	fuera de la ley	conservative
+ES1984	n	or	no	zenollo	inclusive
+ES1732	n	om	no	posaderas	inclusive
+ES572	n	dmc	yes	embustero	conservative
+ES2411	n	cds	no	desvalijamiento	inclusive
+ES2756	n	asm	no	penianos	inclusive
+ES3112	n	an	no	ovejas	inclusive
+ES3655	n	pr	no	buncombe	conservative
+ES1245	n	or	no	b. oleracea	inclusive
+ES3761	n	an	no	batracios	inclusive
+ES161	n	cds	no	celotas	inclusive
+ES210	n	ddp	yes	animal	inclusive
+ES3872	n	cds	no	dweeb	conservative
+ES900	n	qas	no	burguesa	inclusive
+ES2181	n	dmc	yes	gángster	inclusive
+ES1861	n	dmc	yes	propiedad	inclusive
+ES3663	n	pa	yes	controlador	inclusive
+ES77	n	asf	no	idiotez	conservative
+ES95	n	om	no	inyeccion de mitrozon por la vena cacaria	inclusive
+ES2912	n	cds	no	empollon	conservative
+ES4118	n	an	no	rouncey	inclusive
+ES1469	n	ps	yes	interfertilidad	inclusive
+ES293	n	an	no	burra	inclusive
+ES3138	n	ddp	yes	gili	conservative
+ES43	n	cds	no	intermediario	inclusive
+ES2502	n	cds	no	populacho	conservative
+ES3109	n	an	no	ovino	inclusive
+ES316	n	is	yes	tacaño	conservative
+ES132	n	qas	no	mezcla	inclusive
+ES3928	n	re	no	terroristas	inclusive
+ES3539	a	svp	no	soberbio	conservative
+ES1827	n	cds	no	delincuencia	inclusive
+ES492	n	cds	no	pendejo	conservative
+ES405	n	cds	no	barbaridad	inclusive
+ES3512	n	an	no	ftiraptero	inclusive
+ES1942	n	ps	yes	fascista	inclusive
+ES947	n	cds	no	volumen	inclusive
+ES4126	n	svp	no	intransigente	inclusive
+ES181	n	cds	no	muchedumbre	conservative
+ES2094	n	cds	no	bufonería	inclusive
+ES759	n	qas	no	inepto	conservative
+ES1782	n	svp	no	tajador	conservative
+ES1306	n	or	no	pluma	conservative
+ES962	n	qas	no	vagabundo	conservative
+ES2004	n	om	no	cenojo	inclusive
+ES214	n	ddp	yes	infauna	inclusive
+ES831	n	an	no	cuatreño	inclusive
+ES4025	n	re	no	%e2%80%99ndrangheta	inclusive
+ES615	n	dmc	yes	pícaro	inclusive
+ES3907	n	re	no	raper	conservative
+ES463	n	asf	no	patsy	conservative
+ES101	n	om	no	porculizar	inclusive
+ES632	n	dmc	yes	matrero	inclusive
+ES4211	n	svp	no	conscupiscencia	inclusive
+ES3271	n	an	no	oca	inclusive
+ES3281	n	an	no	brant	inclusive
+ES770	n	cds	no	negado	conservative
+ES4013	n	asm	no	aves	inclusive
+ES1725	n	om	no	traseros	inclusive
+ES152	n	an	no	majadería	conservative
+ES2203	n	asm	no	campo de frijol	inclusive
+ES603	n	cds	no	las maras	inclusive
+ES602	n	cds	no	banda	inclusive
+ES571	n	cds	no	liante	conservative
+ES296	n	an	no	culo	inclusive
+ES2152	n	an	no	fruncir	inclusive
+ES1535	n	or	no	pipas de coquillo	inclusive
+ES424	n	pa	yes	defensor	inclusive
+ES3898	n	ddp	yes	hooey	inclusive
+ES4113	n	om	no	imitador femenino	inclusive
+ES549	n	cds	no	enjugador	inclusive
+ES3454	n	cds	no	know-it-all	conservative
+ES608	n	an	no	malandrín	conservative
+ES1042	n	an	no	gallina	conservative
+ES1084	n	dmc	yes	grifter	conservative
+ES3554	a	svp	no	malhumorado	conservative
+ES4122	n	dmc	yes	cirujeo	inclusive
+ES3900	n	ddp	yes	majaderías	inclusive
+ES4061	n	cds	no	teorias conspirativas	inclusive
+ES3713	n	re	no	robado	inclusive
+ES1658	n	an	no	diddly-mierda	conservative
+ES1755	n	om	no	línea media clavicular	inclusive
+ES3205	n	ps	yes	ascendencia africana	inclusive
+ES485	n	asm	no	bobalicón	conservative
+ES1947	n	is	yes	segregacion social	inclusive
+ES4129	n	svp	no	vacuidad	conservative
+ES3563	n	re	no	plagio	inclusive
+ES143	n	an	no	baratija	conservative
+ES513	n	an	no	buscona	conservative
+ES3626	a	dmc	yes	imitado	conservative
+ES3361	v	qas	no	mezclar	conservative
+ES3852	a	qas	no	clase media	inclusive
+ES2100	n	dmc	yes	albardan	inclusive
+ES763	n	cds	no	tropezador	conservative
+ES1968	n	or	no	jinojo	inclusive
+ES321	n	svp	no	avariciosamente	inclusive
+ES2935	n	re	no	mafiosi	inclusive
+ES2604	n	ddf	yes	inhabilidad	inclusive
+ES1828	n	dmc	yes	parte especial del derecho penal	inclusive
+ES496	n	an	no	zorra	conservative
+ES4079	n	cds	no	hipótesis de conspiración	inclusive
+ES2872	n	cds	no	moralizador	inclusive
+ES155	n	an	no	aguachirle	conservative
+ES3151	n	ddp	yes	imbecil	conservative
+ES2791	n	svp	no	airado	inclusive
+ES2099	n	cds	no	bufón	inclusive
+ES4121	n	dmc	yes	poriomanía	inclusive
+ES114	n	qas	no	seguidor	inclusive
+ES3731	n	cds	no	adulador	conservative
+ES971	n	cds	no	perezoso	conservative
+ES1032	n	qas	no	casta	inclusive
+ES1533	n	cds	no	cábala	inclusive
+ES2315	n	svp	no	trasto	conservative
+ES1834	n	re	no	crímen	inclusive
+ES2393	a	cds	no	astuto	conservative
+ES2184	n	cds	no	marero	inclusive
+ES111	n	om	no	sodomizar	inclusive
+ES964	n	dmc	yes	vagabundos	inclusive
+ES1109	n	cds	no	clan	inclusive
+ES3539	a	cds	no	soberbio	conservative
+ES3883	a	svp	no	vindicativo	conservative
+ES3614	a	asm	no	dorada	inclusive
+ES1959	n	or	no	delicadeza	inclusive
+ES3525	a	svp	no	enojado	inclusive
+ES1881	n	an	no	euriptéridos	inclusive
+ES1081	n	cds	no	camorras	inclusive
+ES1173	n	asm	no	pichi	conservative
+ES685	n	cds	no	mil leches	inclusive
+ES1627	a	ddp	yes	inocente	conservative
+ES2946	n	an	no	otus asio	inclusive
+ES2596	n	ddf	yes	hándicap	inclusive
+ES2892	n	an	no	mueca	inclusive
+ES599	n	cds	no	gangsterismo	conservative
+ES2985	n	qas	no	parásita	inclusive
+ES3876	a	is	yes	pobres	inclusive
+ES4050	n	cds	no	teoria de una conspiracion	inclusive
+ES2568	n	qas	no	ideología	inclusive
+ES620	n	cds	no	fuera de la ley	inclusive
+ES1538	n	or	no	gorretina	inclusive
+ES1028	n	cds	no	establecimiento	inclusive
+ES2322	n	cds	no	contrarrevolucion	conservative
+ES2171	n	dmc	yes	callejero	inclusive
+ES400	n	ddp	yes	bárbaros	conservative
+ES3123	n	ddp	yes	tonta	conservative
+ES1439	n	an	no	crocodylidae	inclusive
+ES3147	n	asm	no	tontopolla	conservative
+ES478	n	asm	no	mentecato	conservative
+ES1292	n	cds	no	newswriter	inclusive
+ES1890	a	dmc	yes	desastrosa	conservative
+ES1121	n	cds	no	familia	inclusive
+ES2897	n	dmc	yes	mozzarella	inclusive
+ES2713	n	cds	no	prestamista	inclusive
+ES2934	n	re	no	hampa	conservative
+ES2798	n	svp	no	colera	inclusive
+ES1651	n	cds	no	crimen	inclusive
+ES3743	a	svp	no	voraz	inclusive
+ES2179	n	cds	no	gangsters	inclusive
+ES1968	n	om	no	jinojo	inclusive
+ES3755	n	an	no	anuro	inclusive
+ES1510	n	or	no	patata	conservative
+ES2396	a	cds	no	lagartón	conservative
+ES257	n	ps	yes	bobo	conservative
+ES3648	n	pr	no	fornicadora	conservative
+ES4068	n	cds	no	fantasía conspirativa	inclusive
+ES539	n	dmc	yes	mentira	conservative
+ES385	n	dmc	yes	bandido	inclusive
+ES2553	n	cds	no	cantantes	inclusive
+ES3127	n	ddp	yes	gilí	conservative
+ES3611	a	asm	no	marrón	inclusive
+ES3702	n	re	no	secuestrada	inclusive
+ES612	n	an	no	pícara	conservative
+ES777	n	qas	no	incapaz	conservative
+ES2706	n	svp	no	gorger	conservative
+ES490	n	asm	no	pavitonto	conservative
+ES1392	n	svp	no	tanha	inclusive
+ES1161	n	asm	no	verga	inclusive
+ES1346	n	ddp	yes	charlatanería	conservative
+ES627	n	cds	no	delincuente	conservative
+ES269	n	ps	yes	zoquete	conservative
+ES42	n	re	no	abusado	inclusive
+ES1625	n	ps	yes	simplón	conservative
+ES498	n	pr	no	pendón	conservative
+ES776	n	ddp	yes	pelotudo	conservative
+ES1332	n	an	no	fisionomía	inclusive
+ES3419	v	cds	no	quedarse	inclusive
+ES624	n	cds	no	bandidos	inclusive
+ES991	a	dmc	yes	vil	conservative
+ES164	n	cds	no	zelote	inclusive
+ES2619	n	is	yes	empobrecimiento	inclusive
+ES4089	n	cds	no	teorías de la conspiracion	inclusive
+ES771	n	an	no	incompetente	conservative
+ES3181	n	pr	no	alta sociedad	inclusive
+ES1470	n	cds	no	mejora vegetal	inclusive
+ES2704	a	is	yes	desafortunado	inclusive
+ES1045	n	cds	no	ñoño	conservative
+ES864	n	asm	no	pardo	inclusive
+ES2708	n	re	no	homicida	inclusive
+ES1201	n	cds	no	complacencia	inclusive
+ES3652	n	pr	no	desvergonzada	conservative
+ES3849	n	ddp	yes	capricho	inclusive
+ES398	n	rci	yes	barbaros	conservative
+ES1879	n	an	no	euripterido	inclusive
+ES3138	n	asm	no	gili	conservative
+ES1802	n	cds	no	tacos	inclusive
+ES210	n	or	no	animal	conservative
+ES3586	n	an	no	gallus gallus	inclusive
+ES2817	n	re	no	abigeato	inclusive
+ES335	n	ddp	yes	atraso	inclusive
+ES2137	n	cds	no	masones	inclusive
+ES1196	n	cds	no	ballup	inclusive
+ES2875	n	an	no	zancudo	inclusive
+ES3397	v	cds	no	atiborrarse de	inclusive
+ES737	n	cds	no	blooper	inclusive
+ES2096	n	cds	no	bufones	inclusive
+ES399	n	qas	no	montañero	conservative
+ES1882	n	dmc	yes	mal	inclusive
+ES1952	n	is	yes	marginados	inclusive
+ES256	n	asm	no	imbécil	conservative
+ES2436	n	pr	no	prostituir	conservative
+ES3765	n	an	no	salientian	inclusive
+ES2059	n	asm	no	gonopodio	inclusive
+ES835	n	pr	no	cuatreno	inclusive
+ES3141	n	asm	no	tontorrón	conservative
+ES756	n	cds	no	discriminación	conservative
+ES966	n	dmc	yes	hobo	conservative
+ES3736	a	qas	no	diletante	conservative
+ES2846	n	cds	no	baños	inclusive
+ES3997	a	om	no	travestista	inclusive
+ES1404	n	an	no	vampiro	conservative
+ES3643	a	ddp	yes	juvenil	conservative
+ES971	n	an	no	perezoso	conservative
+ES3654	n	pr	no	despropósito	conservative
+ES149	n	asm	no	paja	conservative
+ES646	n	cds	no	bocazas	conservative
+ES1008	n	cds	no	tren de equipaje	inclusive
+ES1080	n	re	no	camorrista	inclusive
+ES2582	n	re	no	bicho	inclusive
+ES1759	n	om	no	terminología anatómica de localización	inclusive
+ES215	n	rci	yes	bestia	conservative
+ES3	v	an	no	ladrar	inclusive
+ES4047	n	cds	no	teoria de conspiración	inclusive
+ES2104	n	asm	no	prepucio	inclusive
+ES3382	n	cds	no	arribista	inclusive
+ES2769	v	cds	no	confabular	inclusive
+ES3427	v	cds	no	entregar el alma	inclusive
+ES737	n	qas	no	blooper	inclusive
+ES1793	n	pa	yes	ostiario	inclusive
+ES790	n	an	no	zooerastia	conservative
+ES938	n	svp	no	altanería	conservative
+ES3862	n	an	no	sciaenops	inclusive
+ES875	n	qas	no	campesinado	inclusive
+ES44	n	cds	no	agente	conservative
+ES637	n	an	no	bisontes	inclusive
+ES1814	n	an	no	enano	conservative
+ES1752	n	om	no	dorsolateral	inclusive
+ES3171	n	an	no	babosas	inclusive
+ES2610	n	ddf	yes	incapacidad	inclusive
+ES855	n	asm	no	castaño	inclusive
+ES2635	n	svp	no	inactividad	inclusive
+ES1965	n	or	no	arinojo	inclusive
+ES3384	n	cds	no	nuevo rico	inclusive
+ES215	n	an	no	bestia	inclusive
+ES1751	n	om	no	nates	inclusive
+ES1195	n	cds	no	cockup	inclusive
+ES1641	n	ps	yes	ruiner	conservative
+ES3217	n	ps	yes	razas	inclusive
+ES808	n	an	no	añojo	inclusive
+ES1994	n	or	no	zenoll	inclusive
+ES1176	n	asm	no	ñefle	conservative
+ES3148	n	ddp	yes	bolsa	conservative
+ES1500	n	or	no	almeja	conservative
+ES1178	n	asm	no	pipe	conservative
+ES762	n	cds	no	desgraciado	conservative
+ES3040	n	pr	no	ratas	inclusive
+ES746	n	qas	no	torpeza	inclusive
+ES1589	v	asm	no	burlarse	inclusive
+ES245	n	asm	no	disparate	conservative
+ES358	n	qas	no	bola	conservative
+ES4146	n	cds	no	mandria	conservative
+ES3284	n	re	no	terrorista	inclusive
+ES256	n	cds	no	imbécil	conservative
+ES306	n	svp	no	pecados capitales	inclusive
+ES858	n	asm	no	marrón	inclusive
+ES2262	n	asm	no	habas	inclusive
+ES1637	n	dmc	yes	palurdo	conservative
+ES624	n	cds	no	bandidos	conservative
+ES735	n	qas	no	quilombo	inclusive
+ES2901	n	an	no	parado	conservative
+ES537	n	qas	no	falsedad	conservative
+ES2655	n	cds	no	humorista	inclusive
+ES3616	a	ps	yes	chino	inclusive
+ES4081	n	cds	no	teoría conspirativa	inclusive
+ES1893	a	is	yes	triste	inclusive
+ES3753	n	an	no	rana	inclusive
+ES611	n	an	no	canalla	conservative
+ES975	n	re	no	villana	conservative
+ES1089	n	cds	no	estafadora	conservative
+ES536	n	dmc	yes	trola	inclusive
+ES1315	n	or	no	homofilo	conservative
+ES1534	n	cds	no	facción	inclusive
+ES1920	n	cds	no	proxenetismo	inclusive
+ES1498	n	or	no	cuca	conservative
+ES620	n	re	no	fuera de la ley	inclusive
+ES386	n	re	no	atracador	conservative
+ES2413	n	cds	no	latrocinio	inclusive
+ES394	n	qas	no	bárbaro	conservative
+ES775	n	qas	no	bumbler	conservative
+ES466	n	ddp	yes	tacto suave	conservative
+ES426	n	pa	yes	proponente	inclusive
+ES4148	n	cds	no	defector	conservative
+ES1987	n	om	no	millua	inclusive
+ES1118	n	cds	no	sub-clan	inclusive
+ES3644	a	ddp	yes	adolescente	conservative
+ES3357	n	dmc	yes	payasos	inclusive
+ES1953	n	cds	no	un rápido	conservative
+ES2999	a	dmc	yes	bárbaro	conservative
+ES4072	n	cds	no	teoria de la conspiracion	inclusive
+ES1051	n	cds	no	cretina	inclusive
+ES2779	n	svp	no	ira	inclusive
+ES2990	n	an	no	loros	inclusive
+ES830	n	an	no	bos primigenius	inclusive
+ES1484	n	qas	no	conformidad	inclusive
+ES356	n	is	yes	scrooge	conservative
+ES2327	n	cds	no	contra-revolucion	conservative
+ES1324	n	an	no	fisiognomia	inclusive
+ES223	n	ddp	yes	ser animado	inclusive
+ES1153	n	cds	no	desorden	conservative
+ES3490	n	cds	no	quejica	conservative
+ES4134	n	cds	no	venalidad	conservative
+ES3546	a	cds	no	zorro	conservative
+ES1630	a	ddp	yes	cándido	conservative
+ES4028	n	an	no	caiman	inclusive
+ES2196	n	cds	no	facismo	conservative
+ES1674	n	cds	no	suciedad	inclusive
+ES180	n	cds	no	horda	inclusive
+ES3130	n	ddp	yes	gilipolleces	conservative
+ES793	n	re	no	ferocidad	inclusive
+ES532	n	an	no	coima	conservative
+ES1274	n	asm	no	shtup	conservative
+ES1052	n	cds	no	idiocia	inclusive
+ES2710	n	cds	no	usurera	conservative
+ES2046	n	om	no	zenullo	inclusive
+ES1744	n	om	no	pompis	inclusive
+ES1293	n	cds	no	newspaperwoman	inclusive
+ES992	a	ddf	yes	bajo	conservative
+ES391	n	rci	yes	patán	conservative
+ES2169	n	svp	no	futilidad	conservative
+ES518	n	an	no	furcia	conservative
+ES1348	n	ddp	yes	charlatanismo	conservative
+ES1584	n	cds	no	dastardliness	conservative
+ES1700	n	dmc	yes	hipocresía	conservative
+ES733	n	qas	no	cagada	inclusive
+ES3036	n	cds	no	superbia	conservative
+ES3078	n	an	no	tiburon	inclusive
+ES1913	n	qas	no	divulgement	inclusive
+ES2571	n	cds	no	idolatria	inclusive
+ES831	n	pr	no	cuatreño	inclusive
+ES3729	a	om	no	diferentes	inclusive
+ES3840	a	svp	no	lujurioso	conservative
+ES488	n	ddp	yes	juan lanas	conservative
+ES222	n	an	no	fauna	inclusive
+ES4097	n	cds	no	conspiracionista	inclusive
+ES1228	n	or	no	berza morada	inclusive
+ES2346	v	asm	no	coger	conservative
+ES3799	n	an	no	sanguijuelas	inclusive
+ES1921	n	cds	no	explotación sexual	inclusive
+ES1559	n	or	no	cucurbita pileiformis	inclusive
+ES268	n	ddp	yes	cabrón	conservative
+ES585	a	cds	no	imbécil	conservative
+ES749	n	cds	no	embrollo	inclusive
+ES1189	n	qas	no	súbditos	inclusive
+ES3937	n	re	no	terrorismo	conservative
+ES2975	n	qas	no	parasitan	inclusive
+ES441	n	an	no	perrito	inclusive
+ES565	n	cds	no	historia	conservative
+ES744	n	cds	no	flub	inclusive
+ES1889	a	dmc	yes	negro	conservative
+ES2289	n	cds	no	funcionario de prisiones	inclusive
+ES2915	n	cds	no	friki	conservative
+ES2178	n	cds	no	mafioso	inclusive
+ES2300	n	cds	no	entrometido	conservative
+ES734	n	qas	no	chascarro	inclusive
+ES1178	n	asm	no	pipe	inclusive
+ES804	n	an	no	vacuno	inclusive
+ES1080	n	qas	no	camorrista	conservative
+ES1907	n	om	no	minusválido	conservative
+ES3848	n	cds	no	cientificismo	inclusive
+ES1639	n	asm	no	simple	conservative
+ES1186	n	cds	no	problema	conservative
+ES312	n	is	yes	avariento	conservative
+ES1640	n	asm	no	doofus	conservative
+ES3331	n	cds	no	usurario	conservative
+ES267	n	asm	no	alcornoque	conservative
+ES750	n	qas	no	bungle	inclusive
+ES642	n	cds	no	indicador	conservative
+ES2888	n	an	no	heterócero	inclusive
+ES288	n	an	no	burros	inclusive
+ES1872	n	an	no	eurypterid	inclusive
+ES2130	n	cds	no	masonería	inclusive
+ES2072	n	asm	no	protocerca	inclusive
+ES104	n	om	no	sodomia	inclusive
+ES739	n	cds	no	bluper	inclusive
+ES2886	n	pr	no	heterocera	inclusive
+ES453	n	an	no	buitre	inclusive
+ES86	n	svp	no	vanidad	conservative
+ES3329	a	qas	no	normal	inclusive
+ES1418	n	an	no	lechuza	inclusive
+ES269	n	asf	no	zoquete	conservative
+ES2253	n	asm	no	habita	inclusive
+ES2330	n	cds	no	reaccionarios	conservative
+ES322	n	svp	no	tacanería	inclusive
+ES3334	n	ps	yes	vándalo	inclusive
+ES1920	n	cds	no	proxenetismo	conservative
+ES1442	n	an	no	crocodilios	inclusive
+ES2799	n	svp	no	iracundia	inclusive
+ES484	n	ps	yes	memo	conservative
+ES2545	n	cds	no	presionante	conservative
+ES3889	a	ddp	yes	insípido	inclusive
+ES2638	a	ddp	yes	sencillo	conservative
+ES442	n	cds	no	perro	conservative
+ES1092	n	ddp	yes	ragtag	conservative
+ES399	n	pa	yes	montañero	conservative
+ES3097	n	ddp	yes	microcefalia	inclusive
+ES1764	n	om	no	terminos anatomicos de localizacion	inclusive
+ES353	n	cds	no	bawdyhouse	inclusive
+ES3807	n	cds	no	maton	conservative
+ES126	n	cds	no	grotesco	inclusive
+ES53	n	pa	yes	académicos	inclusive
+ES1826	n	cds	no	criminalidad	inclusive
+ES2663	n	dmc	yes	engañador	conservative
+ES371	n	qas	no	huevo	inclusive
+ES1766	n	om	no	ventral	inclusive
+ES3734	n	cds	no	arrastrante	conservative
+ES105	n	om	no	coito anal	inclusive
+ES3274	n	an	no	ganso	inclusive
+ES1772	n	asm	no	pájaro	inclusive
+ES3475	v	cds	no	chismorrear	inclusive
+ES4048	n	cds	no	teorico de la conspiración	inclusive
+ES716	n	pa	yes	funeral director	inclusive
+ES731	n	cds	no	plancha	inclusive
+ES2697	n	re	no	infanticida	inclusive
+ES264	n	ddp	yes	hammerhead	conservative
+ES381	a	svp	no	avarienta	inclusive
+ES176	a	ddp	yes	analfabeto	inclusive
+ES589	n	cds	no	fanático	conservative
+ES1379	n	an	no	hemipteron	inclusive
+ES1985	n	om	no	anís de florencia	inclusive
+ES77	n	cds	no	idiotez	inclusive
+ES2540	n	cds	no	hybris	inclusive
+ES1907	n	ddf	yes	minusválido	inclusive
+ES394	n	ddp	yes	bárbaro	conservative
+ES1052	n	ddp	yes	idiocia	inclusive
+ES1961	n	om	no	fiollo	inclusive
+ES2241	n	asm	no	europea de frijol	inclusive
+ES3328	a	qas	no	habitual	inclusive
+ES545	n	cds	no	dude	inclusive
+ES1557	n	or	no	cantoría	inclusive
+ES465	n	asm	no	chump	conservative
+ES3465	n	dmc	yes	rezagado	conservative
+ES2939	n	re	no	mafiosos	conservative
+ES360	n	asm	no	testículo	inclusive
+ES1194	n	cds	no	lío-up	inclusive
+ES1878	n	an	no	euriptérido	inclusive
+ES606	n	cds	no	grupo	inclusive
+ES3401	v	re	no	timar	inclusive
+ES1690	n	svp	no	desagradable	inclusive
+ES3828	n	an	no	chacales	inclusive
+ES2890	n	an	no	heterocero	inclusive
+ES1527	n	or	no	cogombro domestico	inclusive
+ES3721	n	re	no	chorizo	inclusive
+ES926	n	cds	no	descaro	conservative
+ES3547	a	cds	no	astuta	inclusive
+ES2607	n	ddf	yes	discapacitados	inclusive
+ES1320	n	ddp	yes	chismero	conservative
+ES628	n	re	no	bandolerismo	inclusive
+ES316	n	svp	no	tacaño	conservative
+ES3789	n	cds	no	sabihondo	conservative
+ES274	n	an	no	ignorante	conservative
+ES3327	a	qas	no	usual	inclusive
+ES889	n	qas	no	hombre de negocios	inclusive
+ES770	n	ddp	yes	negado	conservative
+ES1364	n	cds	no	chatarreria	conservative
+ES2231	n	asm	no	habuco	inclusive
+ES775	n	ddp	yes	bumbler	conservative
+ES1395	n	svp	no	trṣnā	inclusive
+ES4186	n	ps	yes	romaní	inclusive
+ES2070	n	asm	no	aletas pelvicas	inclusive
+ES261	n	ddp	yes	estúpido	inclusive
+ES1727	n	om	no	lateral	inclusive
+ES1832	n	dmc	yes	delinquir	inclusive
+ES1816	n	svp	no	ravenousness	conservative
+ES430	n	pa	yes	picapleitos	inclusive
+ES2029	n	om	no	tenojo	inclusive
+ES3747	a	dmc	yes	flexible	inclusive
+ES1638	n	ddp	yes	bruto	conservative
+ES1590	v	asm	no	rechiflar	inclusive
+ES1056	n	ddp	yes	cretino	inclusive
+ES3832	a	ps	yes	hebraico	inclusive
+ES1846	n	asm	no	empalme	inclusive
+ES271	n	asf	no	dumbass	conservative
+ES2955	n	an	no	guatoncito	conservative
+ES627	n	dmc	yes	delincuente	conservative
+ES2711	n	cds	no	usura	conservative
+ES2996	n	svp	no	economía	inclusive
+ES453	n	an	no	buitre	conservative
+ES1503	n	asf	no	chocha	conservative
+ES1937	n	qas	no	agricultora	inclusive
+ES3478	n	cds	no	chismes	inclusive
+ES3323	n	dmc	yes	picaro divino	conservative
+ES1908	n	svp	no	ociosidad	inclusive
+ES1637	n	cds	no	palurdo	conservative
+ES1685	n	svp	no	desagrado	inclusive
+ES3924	n	cds	no	superficialidad	inclusive
+ES209	n	ddp	yes	metazoo	inclusive
+ES3640	n	cds	no	apoyo	inclusive
+ES3200	n	ps	yes	darkey	conservative
+ES601	n	dmc	yes	pandillero	inclusive
+ES3061	n	an	no	rescaza	inclusive
+ES640	n	cds	no	osicón	conservative
+ES133	n	cds	no	fárrago	inclusive
+ES1697	n	dmc	yes	grupiento	conservative
+ES3176	n	ps	yes	mongoloides	conservative
+ES400	n	dmc	yes	bárbaros	conservative
+ES2432	n	pr	no	jinetera	conservative
+ES3515	a	an	no	piojoso	inclusive
+ES246	n	ddp	yes	imbecilidad	conservative
+ES3143	n	ddp	yes	johan elias feliz perez	conservative
+ES2941	n	ps	yes	ostrogoda	inclusive
+ES398	n	dmc	yes	barbaros	conservative
+ES478	n	ddp	yes	mentecato	conservative
+ES585	a	ddp	yes	imbécil	conservative
+ES3298	n	re	no	asesinar	inclusive
+ES1170	n	asm	no	picha	conservative
+ES3188	n	dmc	yes	media pinta	conservative
+ES383	a	an	no	avara	conservative
+ES764	n	cds	no	chapucero	conservative
+ES578	n	dmc	yes	mentiroso	conservative
+ES846	n	cds	no	jefe	inclusive
+ES249	n	asf	no	insensatez	conservative
+ES2735	n	cds	no	hablar de nuevo	inclusive
+ES1215	n	pa	yes	profe	inclusive
+ES3754	n	an	no	batracio	inclusive
+ES2030	n	or	no	zinojo	inclusive
+ES3542	a	svp	no	presuntuoso	conservative
+ES2317	n	dmc	yes	goof-off	conservative
+ES578	n	dmc	yes	mentiroso	inclusive
+ES1181	n	cds	no	gamberro	conservative
+ES318	n	is	yes	tacañeria	conservative
+ES3781	v	re	no	robar	inclusive
+ES3985	n	om	no	travestis	inclusive
+ES4204	n	ps	yes	gitanería	inclusive
+ES444	n	qas	no	baronía	inclusive
+ES3538	n	asm	no	echarse una mano	conservative
+ES4024	n	cds	no	ndrangheta	inclusive
+ES773	n	ddp	yes	boludo	conservative
+ES64	n	qas	no	amateurismo	conservative
+ES3374	n	an	no	sanguijuela	conservative
+ES3564	n	re	no	piratería	inclusive
+ES2548	n	an	no	hienidos	inclusive
+ES3264	n	asf	no	tecnicismo	inclusive
+ES4110	n	om	no	transformista	inclusive
+ES148	n	an	no	codswallop	conservative
+ES3541	a	svp	no	arrogante	conservative
+ES2080	n	cds	no	apuro	inclusive
+ES3676	n	or	no	brassica campestris ssp rapifera	inclusive
+ES4141	a	dmc	yes	amoral	inclusive
+ES938	n	cds	no	altanería	conservative
+ES3001	a	an	no	brutal	conservative
+ES1057	n	an	no	puto	conservative
+ES2162	n	svp	no	furia	inclusive
+ES2430	n	pr	no	sexoservidora	conservative
+ES3887	a	ddp	yes	pendejo	conservative
+ES681	n	cds	no	cur	inclusive
+ES2793	n	svp	no	irascibilidad	inclusive
+ES3413	v	cds	no	perder la vida	inclusive
+ES309	n	is	yes	codez	conservative
+ES4107	n	ps	yes	gitano	conservative
+ES2932	n	re	no	mafia	conservative
+ES1066	n	re	no	libelo	inclusive
+ES1285	n	asf	no	conejo	conservative
+ES483	n	asm	no	majadero	conservative
+ES245	n	pr	no	disparate	conservative
+ES449	n	qas	no	arquitectura barroca	inclusive
+ES346	n	cds	no	casa de citas	inclusive
+ES3314	n	or	no	naranja quemado	inclusive
+ES1518	n	or	no	combros	inclusive
+ES2061	n	asm	no	pez	inclusive
+ES2994	n	an	no	psitaciformes	inclusive
+ES3046	n	cds	no	reliquia	inclusive
+ES609	n	cds	no	bribón	conservative
+ES134	n	cds	no	rarezas	inclusive
+ES3859	a	ddp	yes	tonta	conservative
+ES3239	n	cds	no	blanco	conservative
+ES944	n	cds	no	orgullo	inclusive
+ES152	n	cds	no	majadería	conservative
+ES2082	n	qas	no	hervidor de pescado	inclusive
+ES3031	n	asm	no	palo	inclusive
+ES758	n	cds	no	conformista	conservative
+ES3766	n	an	no	frogspawn	inclusive
+ES2664	a	dmc	yes	inmoral	conservative
+ES1596	n	dmc	yes	engañosa	conservative
+ES843	n	an	no	utrero	inclusive
+ES2579	a	an	no	tacaña	conservative
+ES599	n	re	no	gangsterismo	inclusive
+ES1414	n	an	no	rapaz nocturna	inclusive
+ES513	n	pr	no	buscona	conservative
+ES4051	n	cds	no	fantasía de conspiración	inclusive
+ES944	n	svp	no	orgullo	inclusive
+ES4154	n	re	no	violento	inclusive
+ES1915	n	cds	no	fanatismos	conservative
+ES397	n	qas	no	salvaje	conservative
+ES324	n	an	no	amarrete	conservative
+ES313	n	svp	no	avariciar	conservative
+ES2294	n	an	no	pipistrellus	inclusive
+ES2167	n	svp	no	melancólico	conservative
+ES627	n	dmc	yes	delincuente	inclusive
+ES2711	n	cds	no	usura	inclusive
+ES184	n	cds	no	multitud	conservative
+ES1862	n	dmc	yes	moralistas	inclusive
+ES3437	n	or	no	tater	inclusive
+ES3855	a	ddp	yes	idiota	conservative
+ES1381	n	cds	no	engaño	inclusive
+ES725	n	cds	no	lío	inclusive
+ES3529	a	om	no	anómala	inclusive
+ES1501	n	or	no	punta	conservative
+ES378	a	svp	no	avaricioso	inclusive
+ES1977	n	or	no	fenollo	inclusive
+ES214	n	an	no	infauna	inclusive
+ES3636	a	cds	no	cobarde	conservative
+ES98	n	om	no	inyeccion de mitrozón por la vena cacaria	inclusive
+ES3027	n	qas	no	satélite	inclusive
+ES1840	n	cds	no	entusiasta	inclusive
+ES1857	n	qas	no	amateurs	inclusive
+ES3656	n	pr	no	guff	conservative
+ES487	n	asm	no	badulaque	conservative
+ES1362	n	qas	no	chatarra	inclusive
+ES675	n	cds	no	cerdo	conservative
+ES2542	n	cds	no	hubris	conservative
+ES2085	n	an	no	sifonápteros	inclusive
+ES841	n	pr	no	cuatrenas	inclusive
+ES1184	n	an	no	gallo	inclusive
+ES1972	n	om	no	fenullo	inclusive
+ES3847	n	cds	no	cientifismo	inclusive
+ES262	n	asf	no	tonto	conservative
+ES1090	n	cds	no	variopinto y globitos	conservative
+ES3875	a	pa	yes	políticos	inclusive
+ES2718	n	cds	no	préstamo de dinero	conservative
+ES1997	n	om	no	enoyo	inclusive
+ES3160	n	pa	yes	pastores	inclusive
+ES1305	n	or	no	mariquita	conservative
+ES1248	n	or	no	brassica campestris subsp sylvestris	inclusive
+ES1048	n	ps	yes	idiotas	conservative
+ES1972	n	or	no	fenullo	inclusive
+ES1041	n	an	no	wuss	conservative
+ES3517	n	cds	no	religiosidad	inclusive
+ES2578	a	dmc	yes	cuadrado	conservative
+ES1925	n	cds	no	pandar	conservative
+ES1746	n	om	no	bollos	inclusive
+ES766	n	qas	no	fumbler	conservative
+ES3810	a	qas	no	ideológico	inclusive
+ES3450	n	cds	no	ratón de biblioteca	conservative
+ES303	n	svp	no	codicia	inclusive
+ES3528	a	om	no	anómalo	inclusive
+ES465	n	ps	yes	chump	conservative
+ES1370	n	an	no	dispositivo de escucha	inclusive
+ES2193	n	cds	no	fascismos	conservative
+ES4069	n	cds	no	teorías conspitativas	inclusive
+ES2692	n	dmc	yes	mentirilla	inclusive
+ES2086	n	an	no	pulgas	inclusive
+ES3439	n	or	no	patatas	inclusive
+ES3248	n	cds	no	adicción al sexo	conservative
+ES4114	n	pr	no	bruja	conservative
+ES263	n	asf	no	gilipollas	conservative
+ES3723	n	re	no	apresador	inclusive
+ES3584	n	an	no	quiquiriqui	inclusive
+ES3270	n	qas	no	aparcería	inclusive
+ES1138	n	an	no	cabras	inclusive
+ES2909	n	cds	no	nerds	conservative
+ES3119	n	ddp	yes	tonterias	conservative
+ES1356	n	ddp	yes	medicastro	conservative
+ES3487	n	cds	no	rumor	inclusive
+ES1337	n	an	no	vaquita	inclusive
+ES1565	n	or	no	pepo maximus	inclusive
+ES2671	n	om	no	paresa	inclusive
+ES2887	n	pr	no	mariposas nocturnas	inclusive
+ES975	n	cds	no	villana	conservative
+ES1001	n	cds	no	camarilla	inclusive
+ES836	n	an	no	bos taurus	inclusive
+ES1652	n	cds	no	actividades delictivas	inclusive
+ES651	n	cds	no	travesura	inclusive
+ES2028	n	or	no	anis de florencia	inclusive
+ES2770	a	om	no	homosexual	conservative
+ES3351	n	dmc	yes	payaso	inclusive
+ES3553	a	svp	no	desabrido	conservative
+ES3993	n	om	no	trasvestismo	inclusive
+ES625	n	re	no	forajido	inclusive
+ES3853	a	ddp	yes	torpe	conservative
+ES1132	n	an	no	capra	inclusive
+ES3418	v	cds	no	sucumbir	inclusive
+ES9	n	svp	no	flojera	inclusive
+ES1572	n	or	no	güicoy	inclusive
+ES4119	n	cds	no	coteria	inclusive
+ES2442	n	om	no	sexualidad masculina	inclusive
+ES3871	a	dmc	yes	disipado	conservative
+ES154	n	ddp	yes	bobadas	conservative
+ES1048	n	asf	no	idiotas	conservative
+ES2315	n	dmc	yes	trasto	conservative
+ES400	n	pa	yes	bárbaros	conservative
+ES358	n	cds	no	bola	conservative
+ES2778	n	svp	no	bravura	inclusive
+ES3613	a	asm	no	dorado	inclusive
+ES1649	n	cds	no	actividades ilegales	inclusive
+ES1509	n	asf	no	chocho	conservative
+ES3242	n	ps	yes	raza	inclusive
+ES2715	n	cds	no	prestamistas	inclusive
+ES1983	n	or	no	fenículo	inclusive
+ES3201	n	ps	yes	darkie	conservative
+ES3943	n	ddp	yes	erizo	conservative
+ES1576	n	cds	no	desecho	conservative
+ES1610	n	pr	no	querida	inclusive
+ES4008	n	asm	no	pajaro	inclusive
+ES2336	v	asm	no	pichar	conservative
+ES2178	n	cds	no	mafioso	conservative
+ES396	n	ddp	yes	barbarie	conservative
+ES3660	n	pa	yes	contable	inclusive
+ES371	n	asm	no	huevo	conservative
+ES2983	n	qas	no	ectoparásitos	inclusive
+ES1482	n	cds	no	bisoño	conservative
+ES2184	n	dmc	yes	marero	inclusive
+ES1987	n	or	no	millua	inclusive
+ES479	n	ddp	yes	lila	conservative
+ES1311	n	om	no	gay	inclusive
+ES2995	n	svp	no	ahorro	inclusive
+ES1257	n	cds	no	vulgo	inclusive
+ES1429	n	ddp	yes	hipotiroidismo congenito	inclusive
+ES774	n	qas	no	patoso	conservative
+ES3598	n	cds	no	nene	inclusive
+ES2101	n	cds	no	bufon	inclusive
+ES273	n	an	no	muttonhead	conservative
+ES421	n	pa	yes	intercesor	inclusive
+ES661	n	ps	yes	negro	conservative
+ES1378	n	an	no	hemíptero	inclusive
+ES330	n	cds	no	charlatana	conservative
+ES3705	n	re	no	rapiña	inclusive
+ES647	n	ddp	yes	chivato	conservative
+ES710	n	cds	no	por golpe	inclusive
+ES3367	n	an	no	falda chaser	conservative
+ES2826	n	cds	no	trobador	inclusive
+ES334	n	ddp	yes	retraso	inclusive
+ES3666	n	pa	yes	auditor	inclusive
+ES3188	n	cds	no	media pinta	conservative
+ES2580	a	cds	no	rancio	inclusive
+ES2062	n	asm	no	aleta adiposa	inclusive
+ES399	n	cds	no	montañero	conservative
+ES2534	n	qas	no	conejera	inclusive
+ES956	n	re	no	sinvergüenza	conservative
+ES3165	n	asm	no	flouter	conservative
+ES3179	n	pr	no	mundano	inclusive
+ES1886	a	dmc	yes	desastroso	conservative
+ES391	n	qas	no	patán	conservative
+ES2771	n	svp	no	invidioso	inclusive
+ES1591	v	asm	no	abuchear	inclusive
+ES1033	n	cds	no	debilucha	conservative
+ES3621	a	svp	no	pretencioso	conservative
+ES2161	n	svp	no	rabia	conservative
+ES972	n	dmc	yes	flojo	conservative
+ES527	n	an	no	taxi boy	conservative
+ES794	n	an	no	crueldad	conservative
+ES3129	n	ddp	yes	bobochorra	conservative
+ES4151	n	re	no	fuerza	inclusive
+ES2730	n	cds	no	sass	inclusive
+ES2919	n	cds	no	lactante	inclusive
+ES2313	n	svp	no	bueno-para-nada	conservative
+ES87	n	svp	no	viento	conservative
+ES531	n	an	no	chapero	conservative
+ES4093	n	cds	no	teorias de conspiracion	inclusive
+ES2349	a	cds	no	ilegítimo	inclusive
+ES262	n	ddp	yes	tonto	conservative
+ES2698	n	re	no	infanticidio	inclusive
+ES622	n	cds	no	proscrito	conservative
+ES3019	n	asm	no	chícaro	inclusive
+ES153	n	asf	no	chorradas	conservative
+ES3994	n	om	no	travestirse	inclusive
+ES1425	n	an	no	athene noctua	inclusive
+ES167	n	cds	no	fanatismo	inclusive
+ES762	n	qas	no	desgraciado	conservative
+ES525	n	pr	no	mujerzuela	conservative
+ES4058	n	cds	no	teoría de conspiración	inclusive
+ES1787	n	svp	no	tragaldaba	conservative
+ES535	n	cds	no	infundio	inclusive
+ES1304	n	om	no	nance	conservative
+ES153	n	an	no	chorradas	conservative
+ES2993	n	an	no	psitaciforme	inclusive
+ES624	n	re	no	bandidos	inclusive
+ES683	n	cds	no	chucho	inclusive
+ES2885	n	an	no	heteróceros	inclusive
+ES2546	n	an	no	hiena	inclusive
+ES2691	n	dmc	yes	mentir	inclusive
+ES558	n	ps	yes	beduina	inclusive
+ES1901	n	dmc	yes	pródigo	inclusive
+ES1730	n	om	no	gluteos	inclusive
+ES2292	n	an	no	murciélago	inclusive
+ES691	n	cds	no	quiltro	inclusive
+ES611	n	re	no	canalla	conservative
+ES2283	n	cds	no	tornillo	inclusive
+ES3585	n	an	no	quiquiriquí	inclusive
+ES1842	n	cds	no	aficionado	inclusive
+ES3501	n	an	no	pediculus corporis	inclusive
+ES1880	n	an	no	escorpion marino	inclusive
+ES598	n	cds	no	los maras	inclusive
+ES644	n	cds	no	fisgón	conservative
+ES3009	a	dmc	yes	pecaminoso	conservative
+ES238	n	cds	no	astucia	conservative
+ES3326	a	qas	no	común	inclusive
+ES3527	a	re	no	violento	inclusive
+ES3526	a	svp	no	airado	inclusive
+ES1168	n	asm	no	tranca	conservative
+ES1347	n	ddp	yes	charlataneria	conservative
+ES4111	n	om	no	reinona	inclusive
+ES212	n	an	no	macrofauna	inclusive
+ES2069	n	asm	no	anatomia de los peces	inclusive
+ES2168	n	dmc	yes	dilly-dallier	conservative
+ES919	n	qas	no	burguesistas	inclusive
+ES255	n	asf	no	burro	conservative
+ES3060	n	an	no	cabracho	inclusive
+ES174	n	ddp	yes	analfabeta	inclusive
+ES2354	n	svp	no	gula	inclusive
+ES1791	n	an	no	ovis aries	inclusive
+ES386	n	cds	no	atracador	conservative
+ES110	n	om	no	encular	inclusive
+ES1497	n	asf	no	concha	conservative
+ES2551	n	an	no	hiénidos	inclusive
+ES3462	v	an	no	agredir	conservative
+ES4128	n	svp	no	intransigencia	inclusive
+ES590	n	svp	no	intolerancia	inclusive
+ES773	n	dmc	yes	boludo	conservative
+ES1496	n	cds	no	hijito	inclusive
+ES1326	n	an	no	fisonomía	inclusive
+ES4086	n	cds	no	teoria del complot	inclusive
+ES1811	n	cds	no	peones	inclusive
+ES2899	n	an	no	lentorro	conservative
+ES1204	n	pa	yes	profesores	inclusive
+ES3957	n	asm	no	falismo	inclusive
+ES2290	n	cds	no	llavero	inclusive
+ES2357	n	an	no	fulvus	inclusive
+ES3398	v	re	no	embaucar	inclusive
+ES2929	n	cds	no	policías	conservative
+ES3411	n	qas	no	alborotador	conservative
+ES1052	n	ps	yes	idiocia	conservative
+ES3714	n	re	no	atraco	inclusive
+ES1064	n	re	no	difamacion	inclusive
+ES1710	n	om	no	cachas	inclusive
+ES147	n	cds	no	folderol	conservative
+ES777	n	cds	no	incapaz	conservative
+ES3441	v	cds	no	arengar	inclusive
+ES972	n	cds	no	flojo	conservative
+ES540	n	cds	no	dandy	inclusive
+ES1465	n	an	no	crocodylinae	inclusive
+ES3010	a	dmc	yes	perverso	conservative
+ES1344	n	cds	no	embaucador	conservative
+ES379	a	svp	no	avaro	conservative
+ES2694	n	cds	no	mentirijilla	inclusive
+ES675	n	an	no	cerdo	conservative
+ES1433	n	cds	no	pajero	conservative
+ES2049	n	dmc	yes	fetor	conservative
+ES614	n	an	no	golfante	conservative
+ES3074	n	an	no	selaquimorfo	inclusive
+ES3430	v	cds	no	asfixiarse	inclusive
+ES1148	n	svp	no	minginess	conservative
+ES274	n	ddp	yes	ignorante	conservative
+ES694	n	cds	no	comecuandohay	inclusive
+ES1057	n	om	no	puto	conservative
+ES2971	n	qas	no	endoparásitos	inclusive
+ES4035	n	an	no	engaños	conservative
+ES2291	n	cds	no	carcelero	inclusive
+ES372	n	qas	no	cojón	inclusive
+ES1931	n	qas	no	ámbito mano	inclusive
+ES155	n	cds	no	aguachirle	conservative
+ES1659	n	an	no	maricadas	conservative
+ES2244	n	asm	no	habones	inclusive
+ES4191	n	ps	yes	gitanear	inclusive
+ES1917	n	cds	no	chulo	conservative
+ES1041	n	cds	no	wuss	conservative
+ES113	n	dmc	yes	haragán	conservative
+ES3741	a	dmc	yes	sucio	inclusive
+ES4021	n	cds	no	alcantarillados	inclusive
+ES970	n	cds	no	ocioso	conservative
+ES547	n	cds	no	dandis	inclusive
+ES261	n	asm	no	estúpido	conservative
+ES4104	n	cds	no	teorizador conspirativo	inclusive
+ES860	n	asm	no	brownness	inclusive
+ES476	n	ddp	yes	engrupido	conservative
+ES3410	n	qas	no	perturbador	conservative
+ES3944	n	ddp	yes	cascarrabias	conservative
+ES327	n	cds	no	chismoso	conservative
+ES3143	n	asm	no	johan elias feliz perez	conservative
+ES2669	n	om	no	damas	inclusive
+ES3901	n	an	no	lampyris noctiluca	inclusive
+ES746	n	cds	no	torpeza	inclusive
+ES202	n	ddp	yes	metazoario	inclusive
+ES257	n	asm	no	bobo	conservative
+ES1666	n	cds	no	dime novel	inclusive
+ES1456	n	an	no	cocodrílido	inclusive
+ES2279	a	dmc	yes	hedionda	conservative
+ES3449	n	cds	no	pedante	conservative
+ES2165	n	dmc	yes	dallier	conservative
+ES956	n	cds	no	sinvergüenza	conservative
+ES2631	n	is	yes	pauperizacion	inclusive
+ES789	n	ddp	yes	bestialidad	conservative
+ES2818	n	re	no	ladrón	conservative
+ES3954	n	asm	no	siva lingam	inclusive
+ES4019	n	cds	no	cloacas	inclusive
+ES1187	n	qas	no	súbdito	inclusive
+ES2413	n	re	no	latrocinio	inclusive
+ES226	n	re	no	calumnia	conservative
+ES3634	a	cds	no	miedosa	conservative
+ES2927	n	cds	no	oficial	inclusive
+ES3120	n	asm	no	atontado	conservative
+ES493	n	pr	no	lagartona	conservative
+ES2075	n	pa	yes	verdulera	inclusive
+ES2709	n	re	no	asesina	inclusive
+ES3633	a	cds	no	ruin	conservative
+ES3393	v	cds	no	devorar	inclusive
+ES395	n	dmc	yes	barbaro	conservative
+ES370	n	qas	no	bollocks	inclusive
+ES434	n	pa	yes	asesor legal	inclusive
+ES2386	n	an	no	varraco	inclusive
+ES367	n	qas	no	testículos	inclusive
+ES49	n	cds	no	factor	inclusive
+ES564	n	qas	no	cuento	conservative
+ES695	n	cds	no	chumino	inclusive
+ES2432	n	pr	no	jinetera	inclusive
+ES1300	n	cds	no	corresponsal	inclusive
+ES1528	n	or	no	cohombro cultivado	inclusive
+ES3662	n	pa	yes	contadores	inclusive
+ES1280	n	asm	no	nooky	conservative
+ES2992	n	an	no	loro	inclusive
+ES2120	n	cds	no	franc-masoneria	inclusive
+ES2972	n	qas	no	parasito	inclusive
+ES2714	n	cds	no	préstamos de dinero	conservative
+ES2050	n	dmc	yes	tufo	conservative
+ES2273	a	dmc	yes	hediondo	conservative
+ES923	n	cds	no	egoísta	conservative
+ES1637	n	ps	yes	palurdo	conservative
+ES730	n	cds	no	garrafal	inclusive
+ES3147	n	ddp	yes	tontopolla	conservative
+ES3379	n	qas	no	recibir	conservative
+ES987	n	cds	no	chafarrinón	inclusive
+ES1783	n	svp	no	goloso	conservative
+ES440	n	pa	yes	letrada	inclusive
+ES3673	n	or	no	nabo	inclusive
+ES267	n	ddp	yes	alcornoque	conservative
+ES2229	n	asm	no	fabera	inclusive
+ES3837	a	ps	yes	judía	inclusive
+ES657	n	cds	no	picardía	conservative
+ES771	n	cds	no	incompetente	conservative
+ES2716	n	cds	no	shylock	conservative
+ES2366	n	an	no	cerdos	inclusive
+ES3381	a	qas	no	parroquial	inclusive
+ES1814	n	cds	no	enano	conservative
+ES3802	a	is	yes	pobre	conservative
+ES1394	n	svp	no	trsṇa	inclusive
+ES2917	n	cds	no	especialista que se ocupa sólo de su campo	conservative
+ES2384	n	an	no	chon	inclusive
+ES849	n	cds	no	líder	inclusive
+ES4180	n	ps	yes	gitanas	inclusive
+ES1735	n	om	no	glúteos	inclusive
+ES201	n	an	no	angula	inclusive
+ES3049	n	qas	no	retórico	inclusive
+ES1514	n	or	no	cogombro doméstico	inclusive
+ES2588	n	ddf	yes	discapacidad	inclusive
+ES315	n	is	yes	tacano	conservative
+ES3523	a	svp	no	enfadado	conservative
+ES1084	n	cds	no	grifter	inclusive
+ES191	n	an	no	anguilas	inclusive
+ES3497	n	an	no	humanus	inclusive
+ES410	n	qas	no	mercader	inclusive
+ES2968	n	dmc	yes	paleto	conservative
+ES1237	n	or	no	bróculi	inclusive
+ES4131	n	svp	no	vacío	conservative
+ES3861	a	ddf	yes	tuerto	inclusive
+ES2177	n	dmc	yes	caballero de industria	conservative
+ES2559	n	cds	no	crooner	inclusive
+ES184	n	qas	no	multitud	inclusive
+ES145	n	ddp	yes	morralla	conservative
+ES1694	n	svp	no	abominación	inclusive
+ES3642	a	re	no	violenta	inclusive
+ES389	n	re	no	bandidaje	inclusive
+ES1581	n	om	no	dama	inclusive
+ES973	n	qas	no	turba	inclusive
+ES2938	n	cds	no	capomafia	inclusive
+ES2506	n	cds	no	gente	conservative
+ES2802	a	svp	no	iracundo	conservative
+ES776	n	dmc	yes	pelotudo	conservative
+ES2306	n	qas	no	fisgonear	inclusive
+ES2707	n	re	no	asesino	inclusive
+ES2683	n	svp	no	lascivo	inclusive
+ES273	n	asf	no	muttonhead	conservative
+ES147	n	asf	no	folderol	conservative
+ES4174	n	dmc	yes	traidora	conservative
+ES3391	v	qas	no	frustrar	conservative
+ES594	n	cds	no	mara	inclusive
+ES405	n	an	no	barbaridad	inclusive
+ES3077	n	an	no	escualos	inclusive
+ES1532	n	cds	no	junto	inclusive
+ES3470	v	cds	no	marchitarse	inclusive
+ES3306	n	re	no	slayer	inclusive
+ES247	n	asm	no	bêtise	conservative
+ES1225	n	or	no	berza comun	inclusive
+ES929	n	ps	yes	búlgaros	inclusive
+ES1345	n	cds	no	saltimbanqui	conservative
+ES1055	n	ddp	yes	retardar	inclusive
+ES1027	n	cds	no	timo de los casinos online	inclusive
+ES2667	n	dmc	yes	inmoral	inclusive
+ES404	n	ddp	yes	brutalidad	conservative
+ES1615	n	pr	no	amancebamiento	inclusive
+ES4161	n	an	no	serpiente	inclusive
+ES2424	n	pr	no	john	conservative
+ES2982	n	qas	no	parásitos	inclusive
+ES3144	n	ddp	yes	pero se puede saber que cono estas haciendo?	conservative
+ES1602	n	cds	no	demagogico	conservative
+ES245	n	qas	no	disparate	inclusive
+ES2029	n	or	no	tenojo	inclusive
+ES3959	n	asm	no	fálico	inclusive
+ES955	n	dmc	yes	git	conservative
+ES254	n	asm	no	idiota	inclusive
+ES2181	n	cds	no	gángster	inclusive
+ES2772	n	svp	no	invidiar	inclusive
+ES2889	n	an	no	polilla	inclusive
+ES134	n	qas	no	rarezas	inclusive
+ES190	n	an	no	anguílido	inclusive
+ES458	n	cds	no	blackball	inclusive
+ES638	n	ddp	yes	cuentero	conservative
+ES57	n	pa	yes	académica	inclusive
+ES141	a	svp	no	belicoso	conservative
+ES271	n	or	no	dumbass	conservative
+ES2093	a	dmc	yes	falso	inclusive
+ES717	n	pa	yes	director de funeraria	inclusive
+ES763	n	ddp	yes	tropezador	conservative
+ES1336	n	ddp	yes	confidente	conservative
+ES494	n	an	no	prostituta	conservative
+ES2700	n	re	no	neonaticidio	inclusive
+ES1301	n	cds	no	redactor de noticias	inclusive
+ES319	n	pr	no	rata	inclusive
+ES392	n	qas	no	bárbara	conservative
+ES3444	v	cds	no	venerar	inclusive
+ES2929	n	cds	no	policías	inclusive
+ES2702	a	is	yes	apesadumbrado	inclusive
+ES1726	n	om	no	trasero	inclusive
+ES308	n	an	no	tacañería	conservative
+ES1740	n	om	no	derriere	inclusive
+ES3817	n	an	no	blátido	inclusive
+ES4203	n	ps	yes	etnia rom	inclusive
+ES3715	n	re	no	asaltado	inclusive
+ES3868	a	is	yes	patético	conservative
+ES1495	n	cds	no	chico	inclusive
+ES248	n	asf	no	tontería	conservative
+ES622	n	dmc	yes	proscrito	inclusive
+ES247	n	an	no	bêtise	conservative
+ES310	n	is	yes	parsimonia	conservative
+ES482	n	asm	no	panoli	conservative
+ES52	n	pa	yes	academia	inclusive
+ES877	n	qas	no	campesina	inclusive
+ES3670	a	is	yes	separado	inclusive
+ES629	n	dmc	yes	bandoleros	inclusive
+ES2918	n	cds	no	nino de pecho	inclusive
+ES735	n	cds	no	quilombo	inclusive
+ES260	n	ddp	yes	tomfool	conservative
+ES1982	n	or	no	cenoyo	inclusive
+ES1889	a	ps	yes	negro	inclusive
+ES2174	n	dmc	yes	truhán	conservative
+ES25	a	svp	no	abúlico	conservative
+ES2942	n	ps	yes	ostrogodo	inclusive
+ES3722	n	re	no	capturer	inclusive
+ES2210	n	asm	no	fabolines	inclusive
+ES320	n	svp	no	avaricioso	inclusive
+ES2017	n	om	no	fenojo	inclusive
+ES3947	n	cds	no	companía libre	inclusive
+ES631	n	cds	no	proscripción	inclusive
+ES404	n	an	no	brutalidad	conservative
+ES1763	n	om	no	caudal	inclusive
+ES1049	n	asm	no	changeling	inclusive
+ES3401	v	asm	no	timar	conservative
+ES3844	a	is	yes	deficiente	inclusive
+ES2468	n	ps	yes	religion judia	inclusive
+ES162	n	cds	no	zelota	inclusive
+ES2096	n	dmc	yes	bufones	inclusive
+ES1287	n	cds	no	conspiración del silencio	inclusive
+ES3588	n	an	no	pollito	inclusive
+ES391	n	cds	no	patán	conservative
+ES4105	n	cds	no	teorias conspiratorias	inclusive
+ES1381	n	an	no	engaño	conservative
+ES908	n	qas	no	clases medias	inclusive
+ES1624	n	an	no	ababol	conservative
+ES1468	n	ps	yes	hibrido	inclusive
+ES2183	n	cds	no	gángsters	inclusive
+ES213	n	ddp	yes	animalia	inclusive
+ES675	n	an	no	cerdo	inclusive
+ES1587	v	asm	no	lanzar improperios contra	inclusive
+ES369	n	qas	no	óvulo	inclusive
+ES1065	n	re	no	traducement	inclusive
+ES1345	n	ddp	yes	saltimbanqui	conservative
+ES1304	n	or	no	nance	conservative
+ES1653	n	cds	no	delito	inclusive
+ES3928	n	re	no	terroristas	conservative
+ES1693	n	svp	no	disgusto	inclusive
+ES1260	n	svp	no	deseo	inclusive
+ES3481	n	cds	no	murmuracion	inclusive
+ES981	n	or	no	calabaza	inclusive
+ES1519	n	or	no	cucumis esculentus	inclusive
+ES1221	n	pa	yes	profesora	inclusive
+ES1753	n	om	no	caudalmente	inclusive
+ES909	n	qas	no	aburguesarse	inclusive
+ES1077	n	re	no	traducer	conservative
+ES603	n	cds	no	las maras	conservative
+ES3030	n	asm	no	vara	inclusive
+ES2012	n	or	no	caniguera	inclusive
+ES3906	n	re	no	debaucher	conservative
+ES3594	n	an	no	alforrocho	inclusive
+ES3574	a	cds	no	sobada	inclusive
+ES396	n	ps	yes	barbarie	conservative
+ES935	n	cds	no	fanfarronada	conservative
+ES943	n	svp	no	arrogancia	conservative
+ES1683	n	an	no	trastada	conservative
+ES3485	n	cds	no	cotilleo	inclusive
+ES2636	n	svp	no	inacción	inclusive
+ES2827	n	cds	no	schoolma'am	conservative
+ES2094	n	dmc	yes	bufonería	inclusive
+ES2064	n	asm	no	pterigióforo	inclusive
+ES608	n	re	no	malandrín	conservative
+ES2857	n	dmc	yes	slackers	conservative
+ES792	n	an	no	zoofilia	conservative
+ES833	n	an	no	rimi	inclusive
+ES617	n	dmc	yes	sinverguenza	conservative
+ES2813	n	cds	no	cuatrerismo	inclusive
+ES389	n	cds	no	bandidaje	conservative
+ES318	n	svp	no	tacañeria	conservative
+ES3355	n	dmc	yes	contraugusto	inclusive
+ES2018	n	or	no	anethum dulce	inclusive
+ES225	n	cds	no	comadreo	inclusive
+ES955	n	dmc	yes	git	inclusive
+ES649	n	ddp	yes	napias	conservative
+ES3489	n	cds	no	protestón	conservative
+ES2865	n	ps	yes	mongola	inclusive
+ES1040	n	an	no	alfeñique	conservative
+ES1792	n	pa	yes	portero	inclusive
+ES3905	n	re	no	corruptor	conservative
+ES960	n	cds	no	lowlife	conservative
+ES3234	n	ps	yes	afroamericano	inclusive
+ES185	n	cds	no	ejército	inclusive
+ES3974	v	re	no	torturar	inclusive
+ES2002	n	om	no	cinoho	inclusive
+ES3402	v	asm	no	engañar	conservative
+ES2078	n	dmc	yes	falsificación	inclusive
+ES12	n	svp	no	fiaca	inclusive
+ES1281	n	asm	no	clavo	conservative
+ES1101	n	an	no	can	inclusive
+ES2692	n	cds	no	mentirilla	conservative
+ES1333	n	ddp	yes	delator	conservative
+ES914	n	qas	no	ingresos medios	inclusive
+ES3665	n	pa	yes	contador	inclusive
+ES536	n	cds	no	trola	conservative
+ES1067	n	cds	no	impudencia	conservative
+ES1767	n	om	no	plantar	inclusive
+ES1681	n	cds	no	mugriento	inclusive
+ES491	n	asm	no	sosaina	conservative
+ES621	n	cds	no	transgresor	inclusive
+ES246	n	asm	no	imbecilidad	conservative
+ES3981	n	an	no	biston betularia	inclusive
+ES4023	n	re	no	'ndrangheta	inclusive
+ES1956	n	re	no	extorsion	inclusive
+ES631	n	dmc	yes	proscripción	inclusive
+ES1285	n	an	no	conejo	inclusive
+ES2494	n	ps	yes	israelita	inclusive
+ES1315	n	om	no	homofilo	conservative
+ES215	n	ddp	yes	bestia	inclusive
+ES1150	n	svp	no	niggardness	conservative
+ES3241	n	ps	yes	hispanos	inclusive
+ES3868	a	qas	no	patético	conservative
+ES2657	n	cds	no	hazmerreír	inclusive
+ES2673	n	dmc	yes	intelectualoide	conservative
+ES626	n	cds	no	malhechor	inclusive
+ES13	n	svp	no	acedia	inclusive
+ES155	n	asf	no	aguachirle	conservative
+ES631	n	cds	no	proscripción	conservative
+ES3565	n	re	no	plagiar	inclusive
+ES2691	n	cds	no	mentir	conservative
+ES960	n	dmc	yes	lowlife	inclusive
+ES2768	v	cds	no	intrigar	inclusive
+ES246	n	ddp	yes	imbecilidad	inclusive
+ES1839	a	qas	no	delirante	inclusive
+ES3067	n	cds	no	agua residual	inclusive
+ES3213	n	ps	yes	moro	inclusive
+ES1024	n	cds	no	casino	inclusive
+ES188	n	an	no	anguilidos	inclusive
+ES89	n	svp	no	amor propio	conservative
+ES492	n	asf	no	pendejo	inclusive
+ES3850	n	ddp	yes	folly	inclusive
+ES2113	n	cds	no	masonismo	inclusive
+ES2023	n	om	no	inojo	inclusive
+ES2424	n	pr	no	john	inclusive
+ES3162	n	pa	yes	pastor	inclusive
+ES3569	n	rci	yes	polentone	conservative
+ES2874	n	an	no	culícidos	inclusive
+ES394	n	pa	yes	bárbaro	conservative
+ES1698	n	dmc	yes	impostor	conservative
+ES728	n	cds	no	boo-boo	inclusive
+ES3870	a	dmc	yes	libertino	conservative
+ES1314	n	om	no	homofilia	conservative
+ES2301	n	cds	no	expectador	conservative
+ES2047	n	or	no	finojo	inclusive
+ES3174	n	an	no	caracol	inclusive
+ES262	n	asm	no	tonto	inclusive
+ES244	n	asf	no	estupidez	conservative
+ES4011	n	asm	no	avafauna	inclusive
+ES2318	n	dmc	yes	no por cuenta	conservative
+ES3404	v	re	no	estafar	inclusive
+ES1621	n	pr	no	cortesano	inclusive
+ES1807	n	cds	no	muchas	inclusive
+ES483	n	ddp	yes	majadero	conservative
+ES814	n	an	no	bacca	inclusive
+ES1310	n	or	no	homosexual	conservative
+ES1784	n	svp	no	plato trinchero	inclusive
+ES438	n	pa	yes	abogadas	inclusive
+ES154	n	asf	no	bobadas	conservative
+ES1193	n	qas	no	plebeyo	inclusive
+ES811	n	an	no	vaca	conservative
+ES4169	n	dmc	yes	abjurar	conservative
+ES768	n	ddp	yes	botcher	conservative
+ES3971	n	re	no	torturas	inclusive
+ES217	n	an	no	animales	inclusive
+ES1386	n	svp	no	trsnā	inclusive
+ES317	n	is	yes	avaro	conservative
+ES1648	n	dmc	yes	delitos	inclusive
+ES1374	n	an	no	chinche	inclusive
+ES1302	n	or	no	poove	conservative
+ES3435	n	or	no	papa	inclusive
+ES2211	n	asm	no	cartuchillo	inclusive
+ES263	n	asm	no	gilipollas	conservative
+ES323	n	an	no	avara	conservative
+ES1904	n	dmc	yes	scattergood	inclusive
+ES145	n	cds	no	morralla	conservative
+ES810	n	pr	no	cuatrenos	inclusive
+ES1741	n	om	no	tooshie	inclusive
+ES2580	a	an	no	rancio	conservative
+ES2734	n	cds	no	descoco	inclusive
+ES788	n	ddp	yes	zooerasty	conservative
+ES629	n	re	no	bandoleros	inclusive
+ES3108	n	an	no	morueco	inclusive
+ES3195	n	ps	yes	nigger	conservative
+ES1619	n	pr	no	barragana	conservative
+ES357	n	svp	no	roñoso	conservative
+ES1369	n	an	no	cimicidae	inclusive
+ES4010	n	asm	no	pájaros	inclusive
+ES587	n	svp	no	intolerante	conservative
+ES1801	n	cds	no	cargas	inclusive
+ES407	n	qas	no	mercante	inclusive
+ES2554	n	cds	no	crooners	inclusive
+ES580	n	pa	yes	fajín	inclusive
+ES316	n	ddp	yes	tacaño	conservative
+ES297	n	an	no	wisent	inclusive
+ES3079	n	an	no	pleurotremos	inclusive
+ES262	n	an	no	tonto	conservative
+ES2036	n	om	no	funcho	inclusive
+ES1510	n	asf	no	patata	conservative
+ES131	n	cds	no	retazos	inclusive
+ES1151	n	qas	no	revoltijo	inclusive
+ES3349	n	qas	no	don	inclusive
+ES3125	n	asm	no	pero se puede saber qué cono estas haciendo?	conservative
+ES2041	n	om	no	esmeldo	inclusive
+ES3335	n	ps	yes	vandalo	conservative
+ES256	n	ddp	yes	imbécil	inclusive
+ES3780	v	re	no	enganchar	inclusive
+ES91	a	an	no	obstinado	inclusive
+ES2725	n	an	no	insecta	inclusive
+ES958	n	dmc	yes	conque	conservative
+ES840	n	pr	no	uro	inclusive
+ES2665	a	dmc	yes	deshonroso	conservative
+ES366	n	asm	no	teste	inclusive
+ES1917	n	cds	no	chulo	inclusive
+ES2481	n	ps	yes	judios	inclusive
+ES3164	n	asm	no	jeerer	conservative
+ES1859	n	qas	no	amateur	inclusive
+ES1310	n	om	no	homosexual	conservative
+ES601	n	cds	no	pandillero	conservative
+ES2765	v	cds	no	conspirar	inclusive
+ES1147	n	svp	no	tightfistedness	conservative
+ES3131	n	asm	no	tarada	conservative
+ES3884	a	svp	no	vengativo	conservative
+ES2561	n	qas	no	ideólogo	inclusive
+ES4144	n	cds	no	blandengue	conservative
+ES3409	n	qas	no	embrollón	conservative
+ES2881	n	an	no	culicido	inclusive
+ES3615	a	asm	no	pardo	inclusive
+ES616	n	re	no	granuja	conservative
+ES396	n	dmc	yes	barbarie	conservative
+ES761	n	cds	no	blunderer	conservative
+ES391	n	ddp	yes	patán	conservative
+ES2837	n	cds	no	aseos	inclusive
+ES2304	n	cds	no	contemplador	conservative
+ES2938	n	cds	no	capomafia	conservative
+ES985	n	cds	no	pintarrajo	inclusive
+ES279	n	an	no	equus africanus asinus	inclusive
+ES3467	v	cds	no	garabatear	inclusive
+ES3253	n	cds	no	nympho	conservative
+ES324	n	is	yes	amarrete	conservative
+ES398	n	qas	no	barbaros	conservative
+ES684	n	cds	no	mestizo	inclusive
+ES1662	n	an	no	diddlysquat	conservative
+ES61	n	pa	yes	profesor	inclusive
+ES2038	n	or	no	anethum piperitum	inclusive
+ES3247	n	cds	no	ninfomaníaca	conservative
+ES1639	n	ps	yes	simple	conservative
+ES2724	n	an	no	insecto	inclusive
+ES2302	n	cds	no	espectador	conservative
+ES260	n	cds	no	tomfool	conservative
+ES4196	n	ps	yes	agitanado	inclusive
+ES3627	a	dmc	yes	falsificado	conservative
+ES3604	n	cds	no	guagua	inclusive
+ES83	n	an	no	bisonte	inclusive
+ES745	n	qas	no	meter la pata	inclusive
+ES4076	n	cds	no	teorias de la conspiracion	inclusive
+ES560	n	ps	yes	bedu	inclusive
+ES461	n	cds	no	literata	inclusive
+ES2656	n	cds	no	chistoso	inclusive
+ES4044	n	ps	yes	carta penal	inclusive
+ES3482	n	cds	no	habladurias	inclusive
+ES3280	n	an	no	barnacla	inclusive
+ES1504	n	asf	no	choro	conservative
+ES2560	n	cds	no	baladista	inclusive
+ES2083	n	an	no	sifonapteros	inclusive
+ES620	n	dmc	yes	fuera de la ley	inclusive
+ES492	n	asm	no	pendejo	conservative
+ES2813	n	re	no	cuatrerismo	inclusive
+ES3284	n	re	no	terrorista	conservative
+ES3300	n	re	no	asesinado	inclusive
+ES1182	n	cds	no	diablo	conservative
+ES1454	n	an	no	cocodrilianos	inclusive
+ES3867	n	an	no	canal de bajos	inclusive
+ES1317	n	or	no	gays	conservative
+ES786	n	pa	yes	taquillero de estación	inclusive
+ES1031	n	qas	no	marginado	conservative
+ES1611	n	pr	no	concubinas	inclusive
+ES3466	n	dmc	yes	trifler	conservative
+ES1594	n	dmc	yes	decepción	conservative
+ES1163	n	asm	no	pinga	conservative
+ES1919	n	cds	no	alcahuete	conservative
+ES3399	v	re	no	defraudar	inclusive
+ES4034	n	an	no	hoax	conservative
+ES616	n	dmc	yes	granuja	conservative
+ES1086	n	dmc	yes	tratante	conservative
+ES507	n	pr	no	golfa	conservative
+ES4130	n	svp	no	insignificancia	conservative
+ES2960	n	om	no	pederastia	inclusive
+ES2818	n	cds	no	ladrón	inclusive
+ES1136	n	an	no	caprina	inclusive
+ES1785	n	svp	no	comilón	conservative
+ES3946	n	cds	no	compañía libre	inclusive
+ES2713	n	cds	no	prestamista	conservative
+ES4005	n	asm	no	avifauna	inclusive
+ES3370	n	qas	no	aprovechador	conservative
+ES760	n	qas	no	desatinado	conservative
+ES814	n	pr	no	bacca	inclusive
+ES1239	n	or	no	berza caballar	inclusive
+ES311	n	svp	no	tacaña	conservative
+ES639	n	re	no	murmurador	conservative
+ES2497	n	cds	no	piara	inclusive
+ES269	n	cds	no	zoquete	conservative
+ES1955	n	re	no	extorsionar	inclusive
+ES1037	n	an	no	debilucho	conservative
+ES1814	n	dmc	yes	enano	conservative
+ES1651	n	re	no	crimen	inclusive
+ES1233	n	or	no	brassica oleracea	inclusive
+ES2686	n	dmc	yes	prevaricador	conservative
+ES416	n	pa	yes	consejera legal	inclusive
+ES308	n	svp	no	tacañería	conservative
+ES3759	n	an	no	archaeobatrachia	inclusive
+ES2984	n	qas	no	parasitos	inclusive
+ES898	n	qas	no	burguesista	inclusive
+ES3412	v	cds	no	estirar la pata	inclusive
+ES300	n	an	no	avaricia	conservative
+ES1355	n	ddp	yes	matasanos	conservative
+ES1318	n	om	no	joto	inclusive
+ES396	n	cds	no	barbarie	conservative
+ES4190	n	ps	yes	gitanada	inclusive
+ES3624	a	dmc	yes	falsa	conservative
+ES1347	n	cds	no	charlataneria	conservative
+ES3385	n	cds	no	ricos	inclusive
+ES3968	n	re	no	torturada	inclusive
+ES3064	n	cds	no	aguas residuales	inclusive
+ES834	n	pr	no	cuatrena	inclusive
+ES2820	n	cds	no	ladrona	inclusive
+ES1048	n	cds	no	idiotas	inclusive
+ES3537	n	asm	no	masturbándose	conservative
+ES612	n	dmc	yes	pícara	conservative
+ES941	n	cds	no	suficiencia	inclusive
+ES2041	n	or	no	esmeldo	inclusive
+ES3573	a	cds	no	manido	inclusive
+ES3842	a	ps	yes	rojo	conservative
+ES3334	n	ps	yes	vándalo	conservative
+ES1113	n	cds	no	clann	inclusive
+ES888	n	qas	no	empresario	inclusive
+ES1055	n	ddp	yes	retardar	conservative
+ES2690	n	cds	no	película	inclusive
+ES1637	n	ddp	yes	palurdo	conservative
+ES3596	n	cds	no	bebe	inclusive
+ES1932	n	qas	no	fieldhand	inclusive
+ES402	a	svp	no	ansioso	conservative
+ES193	n	an	no	anguilidae	inclusive
+ES2153	n	an	no	ceno	inclusive
+ES3922	a	svp	no	altiva	conservative
+ES4101	n	cds	no	dietrologia	inclusive
+ES1406	n	an	no	vampiresa	conservative
+ES414	n	pa	yes	consejero legal	inclusive
+ES1046	n	ps	yes	cambiantes	conservative
+ES1174	n	asm	no	carajo	inclusive
+ES3463	v	an	no	embestir	conservative
+ES1022	n	cds	no	carroña	inclusive
+ES218	n	cds	no	criatura	inclusive
+ES3388	n	cds	no	nouveau-riche	inclusive
+ES1702	n	dmc	yes	disimulo	conservative
+ES3347	n	pa	yes	carretero	inclusive
+ES663	n	qas	no	industrial	inclusive
+ES3937	n	re	no	terrorismo	inclusive
+ES3153	n	asm	no	zopenco	conservative
+ES264	n	or	no	hammerhead	conservative
+ES614	n	re	no	golfante	conservative
+ES4020	n	cds	no	red de saneamiento	inclusive
+ES2323	n	cds	no	reaccionaria	conservative
+ES1348	n	cds	no	charlatanismo	conservative
+ES2878	n	an	no	mosquitos	inclusive
+ES379	a	an	no	avaro	conservative
+ES309	n	svp	no	codez	inclusive
+ES314	n	an	no	tacaneria	conservative
+ES1086	n	cds	no	tratante	conservative
+ES3969	n	re	no	tvpa	inclusive
+ES3891	a	ddf	yes	desagradable	conservative
+ES143	n	ddp	yes	baratija	conservative
+ES3623	a	svp	no	engreída	conservative
+ES3571	a	cds	no	gastado	inclusive
+ES622	n	re	no	proscrito	inclusive
+ES2503	n	cds	no	pueblo	conservative
+ES3617	a	ps	yes	china	inclusive
+ES644	n	ddp	yes	fisgón	conservative
+ES805	n	an	no	bovino	inclusive
+ES465	n	asf	no	chump	conservative
+ES1054	n	asm	no	retrasado	inclusive
+ES322	n	svp	no	tacanería	conservative
+ES156	n	ddp	yes	borra	conservative
+ES866	n	pr	no	guarén	inclusive
+ES365	n	qas	no	gónada masculina	inclusive
+ES1604	n	cds	no	demagógico	conservative
+ES44	n	cds	no	agente	inclusive
+ES2757	n	asm	no	penes	inclusive
+ES656	n	cds	no	traviesa	conservative
+ES2055	n	dmc	yes	hedentina	conservative
+ES246	n	an	no	imbecilidad	conservative
+ES1935	n	qas	no	obrero agrícola	inclusive
+ES1350	n	cds	no	charlatan	conservative
+ES3651	n	pr	no	descarada	conservative
+ES3169	n	an	no	babosa	inclusive
+ES3886	a	ddp	yes	menso	conservative
+ES3548	a	cds	no	artero	conservative
+ES627	n	re	no	delincuente	conservative
+ES1055	n	asf	no	retardar	conservative
+ES3404	v	asm	no	estafar	conservative
+ES2081	n	qas	no	aprieto	inclusive
+ES1866	n	dmc	yes	motivo ético	inclusive
+ES3087	n	an	no	microorganismo	inclusive
+ES4222	n	ps	yes	zulúes	inclusive
+ES2616	n	ddp	yes	nonsense	conservative
+ES758	n	qas	no	conformista	conservative
+ES4083	n	cds	no	teoria conspirativa	inclusive
+ES1957	n	re	no	exactas	inclusive
+ES300	n	svp	no	avaricia	inclusive
+ES3961	n	re	no	calvario	inclusive
+ES1877	n	an	no	escorpión marino	inclusive
+ES2232	n	asm	no	faba	inclusive
+ES510	n	an	no	mesalina	conservative
+ES2759	n	asm	no	mentula	inclusive
+ES803	n	pr	no	vacas	inclusive
+ES445	n	qas	no	señorial	inclusive
+ES617	n	an	no	sinverguenza	conservative
+ES4200	n	ps	yes	romani	inclusive
+ES142	n	an	no	tonterías	conservative
+ES1054	n	cds	no	retrasado	inclusive
+ES745	n	cds	no	meter la pata	inclusive
+ES3562	n	re	no	piratas	inclusive
+ES4025	n	cds	no	%e2%80%99ndrangheta	inclusive
+ES213	n	an	no	animalia	inclusive
+ES573	n	cds	no	trolero	conservative
+ES955	n	an	no	git	conservative
+ES700	n	cds	no	rompe-huelga	inclusive
+ES617	n	cds	no	sinverguenza	conservative
+ES3191	n	cds	no	narcisismo	inclusive
+ES2399	n	an	no	penco	inclusive
+ES3003	n	cds	no	fiesta	inclusive
+ES1314	n	om	no	homofilia	inclusive
+ES3955	n	asm	no	siva-lingam	inclusive
+ES589	n	svp	no	fanático	conservative
+ES2687	n	svp	no	manta	conservative
+ES1325	n	an	no	fisiognomica	inclusive
+ES419	n	pa	yes	ministro	inclusive
+ES960	n	an	no	lowlife	conservative
+ES3725	n	re	no	capturador	inclusive
+ES1650	n	cds	no	delincuentes	inclusive
+ES106	n	om	no	inyección de mitrozón por la vena cacaria	inclusive
+ES3310	n	re	no	matando	inclusive
+ES1364	n	cds	no	chatarreria	inclusive
+ES632	n	cds	no	matrero	conservative
+ES3289	n	an	no	garrapata	inclusive
+ES4192	n	ps	yes	calé	inclusive
+ES1171	n	asm	no	paloma	conservative
+ES3534	n	asm	no	pajas	conservative
+ES265	n	an	no	melón	conservative
+ES539	n	cds	no	mentira	conservative
+ES322	n	an	no	tacanería	conservative
+ES3396	v	cds	no	hartarse de	inclusive
+ES1639	n	ddp	yes	simple	conservative
+ES2491	n	ps	yes	judío	inclusive
+ES3809	n	cds	no	secuaces	conservative
+ES3998	n	pr	no	hellcat	conservative
+ES170	n	cds	no	zelotes	inclusive
+ES4027	n	an	no	yacaré	inclusive
+ES271	n	ddp	yes	dumbass	conservative
+ES2926	n	cds	no	policía	conservative
+ES2679	n	svp	no	lecherousness	inclusive
+ES1831	n	re	no	delictuosa	inclusive
+ES1044	n	cds	no	cobarde	conservative
+ES1377	n	an	no	chinches	inclusive
+ES1461	n	an	no	crocodílidos	inclusive
+ES2422	n	cds	no	mensajero	inclusive
+ES565	n	dmc	yes	historia	inclusive
+ES2857	n	cds	no	slackers	conservative
+ES248	n	ddp	yes	tontería	conservative
+ES3126	n	asm	no	tontos	conservative
+ES3992	n	om	no	travestidos	inclusive
+ES4226	n	ps	yes	zulues	inclusive
+ES3578	a	cds	no	trillada	inclusive
+ES1328	n	an	no	fisiognómica	inclusive
+ES68	n	ddp	yes	debilidad mental	inclusive
+ES795	n	svp	no	tedio	inclusive
+ES1053	n	ddp	yes	retrasada	conservative
+ES1827	n	dmc	yes	delincuencia	inclusive
+ES3903	a	ddp	yes	descerebrado	conservative
+ES278	n	an	no	piajeno	inclusive
+ES255	n	an	no	burro	conservative
+ES4206	n	ps	yes	rommany	inclusive
+ES3363	v	qas	no	enredar	conservative
+ES1597	n	dmc	yes	impostura	conservative
+ES2930	n	cds	no	patrullero	conservative
+ES30	n	re	no	abusos	inclusive
+ES494	n	pr	no	prostituta	inclusive
+ES1941	n	qas	no	ranchero	inclusive
+ES1650	n	re	no	delincuentes	inclusive
+ES1298	n	cds	no	corresponsales	inclusive
+ES2851	n	cds	no	retrete	inclusive
+ES19	n	svp	no	dejadez	inclusive
+ES395	n	rci	yes	barbaro	conservative
+ES2969	n	dmc	yes	chawbacon	conservative
+ES1719	n	om	no	keister	inclusive
+ES1055	n	ps	yes	retardar	conservative
+ES1865	n	dmc	yes	inmoralidad	inclusive
+ES2804	a	svp	no	irascible	conservative
+ES4009	n	asm	no	dinosaurio aviar	inclusive
+ES3618	a	cds	no	de oficina	inclusive
+ES3880	n	qas	no	blood hound	inclusive
+ES1087	n	re	no	traficante	inclusive
+ES3570	a	cds	no	sabida	inclusive
+ES122	n	asm	no	burla	inclusive
+ES2093	a	dmc	yes	falso	conservative
+ES821	n	an	no	becerro	inclusive
+ES973	n	cds	no	turba	inclusive
+ES3182	n	cds	no	moralismo	inclusive
+ES3317	n	cds	no	homúnculo	inclusive
+ES1363	n	cds	no	deshecho	inclusive
+ES3197	n	ps	yes	nigra	conservative
+ES242	n	or	no	bonce	inclusive
+ES2376	n	an	no	marrano	inclusive
+ES1507	n	asf	no	cocho	conservative
+ES1403	n	an	no	prickteaser	conservative
+ES2843	n	cds	no	baño	inclusive
+ES1638	n	ps	yes	bruto	conservative
+ES2174	n	cds	no	truhán	conservative
+ES2550	n	an	no	hienas	inclusive
+ES1900	n	dmc	yes	libertinaje	conservative
+ES534	n	an	no	fulana	conservative
+ES761	n	dmc	yes	blunderer	conservative
+ES3538	n	cds	no	echarse una mano	conservative
+ES3797	n	an	no	hirudineo	inclusive
+ES825	n	pr	no	utreros	inclusive
+ES804	n	pr	no	vacuno	inclusive
+ES1155	n	qas	no	nido de yegua	inclusive
+ES3235	n	ps	yes	amerindio	inclusive
+ES423	n	pa	yes	abogado	inclusive
+ES1757	n	om	no	contralateral	inclusive
+ES2954	n	an	no	novillo	inclusive
+ES1334	n	ddp	yes	oreja	conservative
+ES771	n	ddp	yes	incompetente	conservative
+ES262	n	asm	no	tonto	conservative
+ES202	n	an	no	metazoario	inclusive
+ES2134	n	cds	no	masonica	inclusive
+ES501	n	cds	no	alcahueta	inclusive
+ES4004	n	asm	no	ave	inclusive
+ES3782	v	re	no	quitar	inclusive
+ES2840	n	cds	no	vestidor	inclusive
+ES794	n	ddp	yes	crueldad	conservative
+ES62	a	pa	yes	teórica	inclusive
+ES812	n	pr	no	anojos	inclusive
+ES1575	n	qas	no	marginada	conservative
+ES1073	n	re	no	vilifier	conservative
+ES4132	a	cds	no	venal	conservative
+ES254	n	ps	yes	idiota	conservative
+ES531	n	pr	no	chapero	conservative
+ES503	n	an	no	pendona	conservative
+ES1447	n	an	no	cocodrilios	inclusive
+ES2258	n	asm	no	alvera	inclusive
+ES539	n	dmc	yes	mentira	inclusive
+ES3249	n	cds	no	ninfomaníaco	conservative
+ES3426	v	cds	no	espichar	inclusive
+ES1809	n	cds	no	slews	inclusive
+ES262	n	or	no	tonto	conservative
+ES312	n	an	no	avariento	conservative
+ES467	n	ddp	yes	majareta	conservative
+ES4077	n	cds	no	teoría conspiradora	inclusive
+ES4155	n	re	no	violenta	inclusive
+ES942	n	svp	no	pretensión	conservative
+ES768	n	qas	no	botcher	conservative
+ES1081	n	re	no	camorras	inclusive
+ES738	n	qas	no	pifia	inclusive
+ES3421	v	cds	no	fenecer	inclusive
+ES3684	n	or	no	berza campía	inclusive
+ES463	n	ps	yes	patsy	conservative
+ES530	n	an	no	acompañante masculino	conservative
+ES2935	n	re	no	mafiosi	conservative
+ES251	a	ddp	yes	estúpido	conservative
+ES1779	n	svp	no	tajadero	conservative
+ES770	n	qas	no	negado	conservative
+ES1737	n	om	no	posteriormente	inclusive
+ES613	n	re	no	bellaco	conservative
+ES772	n	asm	no	tarado	conservative
+ES1346	n	cds	no	charlatanería	conservative
+ES3115	n	asm	no	tontorrona	conservative
+ES2888	n	pr	no	heterócero	inclusive
+ES3902	n	pr	no	luciérnaga	inclusive
+ES3002	a	dmc	yes	salvaje	conservative
+ES793	n	ddp	yes	ferocidad	conservative
+ES3255	n	cds	no	adiccion sexual	conservative
+ES3051	n	qas	no	retor	inclusive
+ES3951	n	asm	no	fálica	inclusive
+ES3685	n	or	no	caulanthus sulfureus	inclusive
+ES2939	n	re	no	mafiosos	inclusive
+ES1307	n	om	no	maricón	inclusive
+ES368	n	qas	no	pelota	inclusive
+ES276	n	an	no	no saben nada	conservative
+ES3256	n	cds	no	satiariasis	conservative
+ES2812	v	ddp	yes	idiotizarse	conservative
+ES2973	n	qas	no	parasita	inclusive
+ES1050	n	ddp	yes	nino cambiado	conservative
+ES3521	a	svp	no	enfadada	inclusive
+ES3800	a	qas	no	medieval	inclusive
+ES1075	n	re	no	libeler	conservative
+ES1867	n	dmc	yes	moralizante	inclusive
+ES2525	n	qas	no	pintor	inclusive
+ES4065	n	cds	no	teoría de un complot	inclusive
+ES734	n	cds	no	chascarro	inclusive
+ES3055	n	qas	no	elocutio	inclusive
+ES3231	n	ps	yes	asiáticos	inclusive
+ES88	n	cds	no	amour propre	conservative
+ES344	n	cds	no	puti-club	inclusive
+ES1749	n	om	no	pompas	inclusive
+ES2576	a	dmc	yes	de miras estrechas	conservative
+ES1640	n	ps	yes	doofus	conservative
+ES2957	n	an	no	gordito	conservative
+ES4120	n	cds	no	cotería	inclusive
+ES2145	n	an	no	fruncion	inclusive
+ES1660	n	an	no	diddly	conservative
+ES4153	n	re	no	furiousness	inclusive
+ES3894	a	dmc	yes	desaliñado	conservative
+ES1435	n	ddp	yes	twirp	conservative
+ES1618	n	pr	no	concubina	conservative
+ES3572	a	cds	no	sabido	inclusive
+ES462	n	asm	no	primo	conservative
+ES4002	n	pr	no	hetairas	inclusive
+ES1090	n	qas	no	variopinto y globitos	conservative
+ES2541	n	cds	no	hibris	inclusive
+ES2347	v	asm	no	tirarse	conservative
+ES1781	n	svp	no	gourmand	inclusive
+ES1510	n	or	no	patata	inclusive
+ES2476	n	ps	yes	judaica	inclusive
+ES1774	n	qas	no	cucha	inclusive
+ES614	n	cds	no	golfante	conservative
+ES1046	n	ddp	yes	cambiantes	conservative
+ES1524	n	or	no	sativus	inclusive
+ES684	n	ps	yes	mestizo	conservative
+ES1949	n	is	yes	marginalidad	inclusive
+ES1049	n	asf	no	changeling	conservative
+ES3518	n	cds	no	religiousism	inclusive
+ES703	n	ddp	yes	mierda	conservative
+ES1453	n	an	no	cocodriliano	inclusive
+ES615	n	cds	no	pícaro	conservative
+ES3735	n	cds	no	pulidor de manzana	conservative
+ES2598	n	ddf	yes	deshabilitar	inclusive
+ES1085	n	cds	no	estafador	inclusive
+ES1059	n	pr	no	arpía	conservative
+ES2629	n	is	yes	pauperismo	inclusive
+ES1899	n	dmc	yes	libertinos	conservative
+ES4123	n	dmc	yes	ciruja	inclusive
+ES4210	n	qas	no	barraca	inclusive
+ES1923	n	cds	no	proxenetas	conservative
+ES3904	n	re	no	violador	conservative
+ES3822	n	dmc	yes	segundo evaluador	conservative
+ES468	n	ddp	yes	pillock	conservative

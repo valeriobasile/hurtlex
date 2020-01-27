@@ -1,0 +1,2852 @@
+id	pos	category	stereotype	lemma	level
+LT553	n	dmc	yes	dilba	conservative
+LT1592	n	an	no	moliuskų	inclusive
+LT605	n	ddp	yes	dvokla	conservative
+LT823	n	cds	no	kietųjų atliekų	conservative
+LT1513	n	cds	no	lupikautojus	inclusive
+LT1145	n	cds	no	sutenerių	inclusive
+LT2135	n	an	no	blattodea	inclusive
+LT1878	n	re	no	žmogžudystė	inclusive
+LT312	n	cds	no	melagystė	conservative
+LT399	n	an	no	dručkis	conservative
+LT899	n	qas	no	konformizmas	inclusive
+LT163	n	ddp	yes	knucklehead	conservative
+LT1161	n	cds	no	fašistas	conservative
+LT370	n	dmc	yes	szajka bandycka	inclusive
+LT610	n	asm	no	kvaiša	inclusive
+LT778	n	or	no	patekti į nepatogią padėtį	conservative
+LT374	n	ps	yes	necivilizuotas žmogus	inclusive
+LT75	n	dmc	yes	tinginys	conservative
+LT2042	n	pa	yes	stytoja	inclusive
+LT1191	n	qas	no	virdulys žuvies	inclusive
+LT1598	n	ps	yes	mongolai	inclusive
+LT874	n	an	no	krokodilų	inclusive
+LT1846	n	ps	yes	azijos	inclusive
+LT1344	n	is	yes	beturtis	inclusive
+LT697	n	asm	no	gaidys	inclusive
+LT1027	n	om	no	aboral	inclusive
+LT2204	n	re	no	lytiniai nusikaltimai	inclusive
+LT167	n	an	no	avigalvis	conservative
+LT1236	n	cds	no	fašistai	conservative
+LT544	n	dmc	yes	toks ir toks	conservative
+LT1847	n	ps	yes	balta	inclusive
+LT33	n	cds	no	makleris	inclusive
+LT1413	n	asf	no	merga	conservative
+LT275	n	ps	yes	kvailelis	conservative
+LT542	n	dmc	yes	git	inclusive
+LT1458	n	ddp	yes	nekompetentingas	conservative
+LT1589	n	svp	no	slacker	conservative
+LT35	n	pa	yes	akademinės bendruomenės	inclusive
+LT794	n	cds	no	liežuvautojas	conservative
+LT653	n	om	no	vaikas molester	conservative
+LT2108	n	an	no	beuodegės amfibijos	inclusive
+LT1116	n	an	no	eurypterid	inclusive
+LT607	n	ddp	yes	debilas	inclusive
+LT1566	n	cds	no	vagis	inclusive
+LT2095	a	dmc	yes	bjaurus	inclusive
+LT1385	n	dmc	yes	benamis	inclusive
+LT1964	n	dmc	yes	slampinėtojas	conservative
+LT905	n	cds	no	berniūkštis	inclusive
+LT1089	n	re	no	deliktas	inclusive
+LT311	n	cds	no	neteisybė	inclusive
+LT293	n	pr	no	paleistuvės	conservative
+LT1908	n	dmc	yes	netinkamas	inclusive
+LT1457	n	svp	no	neveiklumas	inclusive
+LT2116	n	an	no	bufo	inclusive
+LT731	n	pa	yes	profesorių	inclusive
+LT2198	n	re	no	tvirkinami	inclusive
+LT1568	n	ps	yes	kosmetika	inclusive
+LT168	n	or	no	fuckhead	conservative
+LT1386	n	qas	no	tapytojas ir dekoratorius	inclusive
+LT1951	n	or	no	solanum tuberosum	inclusive
+LT1944	v	cds	no	nugaišti	inclusive
+LT1488	n	dmc	yes	amoralumo	inclusive
+LT258	n	an	no	šuniškas	inclusive
+LT1527	n	an	no	vabalas	inclusive
+LT1861	n	an	no	žąsis	inclusive
+LT762	n	an	no	triušis	inclusive
+LT1220	n	cds	no	fundamentalistai	inclusive
+LT1839	n	ps	yes	juodaodį	inclusive
+LT120	n	an	no	epifauna	inclusive
+LT1352	n	om	no	male	inclusive
+LT635	n	cds	no	kamora	inclusive
+LT1854	n	cds	no	nympho	conservative
+LT1147	n	cds	no	pandar	inclusive
+LT2219	n	cds	no	laisvoji gvardija	inclusive
+LT988	n	cds	no	bulvarinis romanų	inclusive
+LT1609	n	pr	no	drugys	inclusive
+LT443	n	qas	no	netaktas	inclusive
+LT153	n	asm	no	mulkis	conservative
+LT355	n	cds	no	gaujų	conservative
+LT2302	n	re	no	smurtas	inclusive
+LT1868	n	an	no	brent	inclusive
+LT2096	n	qas	no	pompastiškumas	inclusive
+LT754	n	asm	no	nooky	conservative
+LT175	n	an	no	equus asinus	inclusive
+LT151	n	asf	no	kvailys	conservative
+LT748	n	svp	no	lytinis potraukis	inclusive
+LT884	n	ps	yes	tarprūšinį hibridą	inclusive
+LT2171	n	cds	no	iekalšana	conservative
+LT640	n	qas	no	apgavikas	conservative
+LT411	n	cds	no	bastard	inclusive
+LT1138	n	cds	no	fanatizmo	conservative
+LT667	n	cds	no	klano	inclusive
+LT1405	n	an	no	hieniniai	inclusive
+LT271	n	cds	no	išskyrus	inclusive
+LT875	n	an	no	crocodylian	inclusive
+LT572	n	cds	no	mafia	inclusive
+LT1567	n	ps	yes	metic	inclusive
+LT1812	n	cds	no	narcism	inclusive
+LT476	n	svp	no	nuobodu	inclusive
+LT780	n	om	no	fagotas	conservative
+LT931	n	om	no	dama	inclusive
+LT304	n	an	no	kekšė	conservative
+LT1384	n	cds	no	archpriest	inclusive
+LT16	n	qas	no	psalmininkas	inclusive
+LT1731	n	cds	no	šventą relikviją	inclusive
+LT236	n	qas	no	treideriai	inclusive
+LT791	n	om	no	pyderas	conservative
+LT412	n	cds	no	motherfucker	conservative
+LT121	n	ddp	yes	padaras	inclusive
+LT162	n	an	no	bukagalvis	conservative
+LT1120	n	is	yes	vargšelis	conservative
+LT788	n	om	no	homoseksualė	inclusive
+LT717	n	cds	no	pasitenkinimo savimi	inclusive
+LT630	n	re	no	defamer	conservative
+LT1324	n	cds	no	vagysčių	inclusive
+LT657	n	cds	no	klanas	inclusive
+LT173	n	ddp	yes	tamsuolis	conservative
+LT766	n	an	no	zuikis	inclusive
+LT723	n	pa	yes	profesorius	inclusive
+LT1819	n	cds	no	autolatry	inclusive
+LT1508	a	is	yes	gaila	inclusive
+LT916	n	cds	no	kliķe	inclusive
+LT962	n	an	no	plėšikautojas	inclusive
+LT222	n	cds	no	barbaras	conservative
+LT1476	n	pa	yes	jėzuitas	inclusive
+LT508	n	qas	no	verslo asmuo	inclusive
+LT955	n	cds	no	beviltiška baudžiamosios	inclusive
+LT1660	n	an	no	megascops	inclusive
+LT225	n	ps	yes	chamas	conservative
+LT1	n	dmc	yes	žemumas	inclusive
+LT248	n	pa	yes	propaguotojo	inclusive
+LT915	n	cds	no	camarilla	inclusive
+LT2007	n	cds	no	wank	conservative
+LT1465	n	cds	no	splashiness	inclusive
+LT2141	n	cds	no	antrosios vertintojas	conservative
+LT160	n	an	no	saphead	conservative
+LT1290	n	cds	no	ultraconservative	conservative
+LT165	n	an	no	pusgalvis	conservative
+LT1483	n	dmc	yes	amoralus	inclusive
+LT19	n	re	no	piktnaudžiaujama	inclusive
+LT377	n	cds	no	pasakininkas	conservative
+LT1649	n	re	no	mafija	inclusive
+LT1175	n	dmc	yes	foetor	conservative
+LT485	n	pr	no	jaučių	inclusive
+LT1406	n	an	no	hyaenidae	inclusive
+LT608	n	asf	no	changeling	conservative
+LT239	n	pa	yes	diplomatinis rangas	inclusive
+LT2085	n	re	no	kidnaper	inclusive
+LT475	n	svp	no	nuobodulys	inclusive
+LT189	n	svp	no	šykštuolis	conservative
+LT940	n	an	no	apgaulės	conservative
+LT2311	n	dmc	yes	dezertyras	conservative
+LT153	n	an	no	mulkis	conservative
+LT1808	n	or	no	skvošas vynuogių	inclusive
+LT2002	a	svp	no	piktas	inclusive
+LT1859	n	qas	no	nuomininko ūkininkavimo	inclusive
+LT1305	n	an	no	meitėlis	inclusive
+LT153	n	ddp	yes	mulkis	conservative
+LT265	n	qas	no	baroko	inclusive
+LT235	n	qas	no	prekiautojas	inclusive
+LT2113	n	an	no	rupūžė	inclusive
+LT565	n	cds	no	keverzonė	inclusive
+LT1645	n	re	no	cosa nostra	inclusive
+LT1818	n	cds	no	savęs garbinimo	inclusive
+LT947	n	pr	no	kochanka	inclusive
+LT786	n	or	no	homoseksualas	conservative
+LT1100	n	asm	no	erekcija	inclusive
+LT892	n	cds	no	augalų biotechnologijos	inclusive
+LT1780	n	pa	yes	vištelės	inclusive
+LT433	n	dmc	yes	rozpustnik	conservative
+LT411	n	ddp	yes	bastard	conservative
+LT2030	n	cds	no	naujagimių	inclusive
+LT292	n	pr	no	kekše	conservative
+LT1643	n	cds	no	policininkas	inclusive
+LT752	n	asm	no	pyktis	conservative
+LT660	n	cds	no	genties	inclusive
+LT1509	a	is	yes	nelaimingas	inclusive
+LT2142	n	an	no	šakalai	inclusive
+LT224	n	ps	yes	barbarai	conservative
+LT370	n	re	no	szajka bandycka	inclusive
+LT1988	n	an	no	cootie	inclusive
+LT1594	n	an	no	moliuskas	inclusive
+LT2279	n	cds	no	sąmokslo teoretikų	inclusive
+LT560	n	cds	no	kleras	inclusive
+LT633	n	re	no	traducer	conservative
+LT217	n	cds	no	plėšikas	conservative
+LT764	n	an	no	triušių	inclusive
+LT699	n	cds	no	problemų	conservative
+LT605	n	ps	yes	dvokla	conservative
+LT195	n	cds	no	viešnamiuose	inclusive
+LT580	n	ddp	yes	kalinių	inclusive
+LT1267	n	asf	no	gaktos plaukai	inclusive
+LT716	n	cds	no	pasitenkinimas	inclusive
+LT452	n	qas	no	konformistas	conservative
+LT54	n	pa	yes	akademizm	inclusive
+LT551	n	svp	no	dykinėtojas	conservative
+LT342	n	pa	yes	herold	inclusive
+LT1890	n	re	no	zabójczyni	inclusive
+LT1001	n	cds	no	purvinti	inclusive
+LT62	n	cds	no	amour propre	conservative
+LT1007	n	svp	no	nemėgimas	inclusive
+LT893	n	cds	no	selekcininkų	inclusive
+LT2046	a	ddf	yes	šlubas	inclusive
+LT805	n	an	no	bailys	conservative
+LT2013	n	re	no	plagijuoti	inclusive
+LT1915	n	pa	yes	vežikas	inclusive
+LT312	n	qas	no	melagystė	conservative
+LT974	n	re	no	neteisėtą veiklą	inclusive
+LT1521	n	cds	no	kreditavimas	conservative
+LT1893	n	or	no	moliūgas	inclusive
+LT1997	n	cds	no	religingumo	inclusive
+LT695	n	cds	no	hellion	conservative
+LT1765	n	an	no	mikrobų	inclusive
+LT744	n	cds	no	pulkas	inclusive
+LT745	n	cds	no	sugužėti	inclusive
+LT154	n	or	no	žioplys	conservative
+LT2010	n	re	no	plagiarization	inclusive
+LT1610	n	pr	no	kandys	inclusive
+LT2126	n	cds	no	weisenheimer	conservative
+LT830	n	an	no	blakė	inclusive
+LT541	n	an	no	kiaulė	inclusive
+LT391	n	qas	no	verslo lyderis	inclusive
+LT125	n	ddp	yes	infauna	inclusive
+LT1377	n	cds	no	hoi polloi	conservative
+LT719	n	qas	no	kasta	inclusive
+LT307	n	an	no	pasileidėlė	conservative
+LT519	n	qas	no	profesinės klasės	inclusive
+LT1742	n	an	no	skorpionžuvė	inclusive
+LT1810	n	cds	no	nykštukinė	conservative
+LT698	n	asm	no	gaidukas	inclusive
+LT1656	n	re	no	mafijozas	conservative
+LT1583	n	cds	no	tualetas	inclusive
+LT1996	n	cds	no	religiousism	inclusive
+LT2169	a	is	yes	apgailėtina	conservative
+LT1494	n	dmc	yes	apgavikai	conservative
+LT824	n	an	no	cimicidae	inclusive
+LT371	n	dmc	yes	nusikaltėlis	inclusive
+LT211	n	qas	no	ballock	inclusive
+LT444	n	qas	no	boo-boo	inclusive
+LT1245	n	asm	no	pupa	inclusive
+LT1324	n	re	no	vagysčių	inclusive
+LT1719	n	is	yes	varguoliai	inclusive
+LT596	n	is	yes	atmetimo	inclusive
+LT225	n	an	no	chamas	conservative
+LT807	n	cds	no	bailumo	conservative
+LT1649	n	cds	no	mafija	conservative
+LT2175	a	pa	yes	valdiškas	inclusive
+LT1397	n	cds	no	puikybės	inclusive
+LT346	n	cds	no	bigot	conservative
+LT221	n	dmc	yes	stačiokas	conservative
+LT1649	n	re	no	mafija	conservative
+LT1184	n	pa	yes	fishmonger	inclusive
+LT2000	a	svp	no	godus	inclusive
+LT426	n	pa	yes	organizatorius	inclusive
+LT538	n	cds	no	arogancija	conservative
+LT1137	n	qas	no	pagarsinimas	inclusive
+LT276	n	ddp	yes	patiklus asmuo	conservative
+LT608	n	asm	no	changeling	inclusive
+LT1919	n	dmc	yes	pajacas	inclusive
+LT1395	n	qas	no	hutch	inclusive
+LT83	n	cds	no	omnium-gatherum	inclusive
+LT26	n	re	no	poniewierka	inclusive
+LT3	n	svp	no	tinginystė	inclusive
+LT646	n	cds	no	ragtag	conservative
+LT500	n	pr	no	norvegijos žiurkių	inclusive
+LT1238	n	asm	no	europos pupelių	inclusive
+LT2025	n	an	no	poulet	inclusive
+LT438	n	cds	no	blogai dirbti	inclusive
+LT70	n	om	no	analinė sueitis	inclusive
+LT1821	n	ps	yes	negras	inclusive
+LT793	n	om	no	twink	conservative
+LT596	n	dmc	yes	atmetimo	inclusive
+LT73	n	om	no	analinis santykiai	inclusive
+LT2275	n	cds	no	sąmokslo teorijos	inclusive
+LT1683	n	qas	no	parazitizmas	inclusive
+LT154	n	asm	no	žioplys	conservative
+LT1360	n	om	no	homoseksualai	inclusive
+LT276	n	cds	no	patiklus asmuo	conservative
+LT191	n	ddp	yes	atsilikimas	inclusive
+LT1678	n	dmc	yes	provincijos	conservative
+LT2088	a	om	no	įvairus	inclusive
+LT1367	n	ps	yes	judėjų	inclusive
+LT261	n	qas	no	barons	inclusive
+LT605	n	ddp	yes	dvokla	inclusive
+LT1891	n	re	no	išleisti iki mirties	inclusive
+LT1652	n	cds	no	mafiozai	conservative
+LT976	n	re	no	nusikalstama veika	inclusive
+LT368	n	re	no	tremtis	inclusive
+LT870	n	ddp	yes	twerp	conservative
+LT171	n	ddp	yes	nieko nežino	conservative
+LT2050	n	pr	no	svetimautoja	conservative
+LT45	n	cds	no	amatorstwo	conservative
+LT2112	n	an	no	beuodegiai varliagyviai	inclusive
+LT2310	n	dmc	yes	apostatas	conservative
+LT2223	n	asm	no	falas	inclusive
+LT1595	n	an	no	moliuskai	inclusive
+LT1489	n	om	no	pero žmona	inclusive
+LT473	n	svp	no	nuobodulio	inclusive
+LT356	n	cds	no	gauja	inclusive
+LT400	n	an	no	apsileidėlis	conservative
+LT455	n	cds	no	nawalacz	conservative
+LT1560	n	cds	no	maišalynė	conservative
+LT1831	n	ps	yes	afrikiečių kilmės	inclusive
+LT336	n	cds	no	beguine	inclusive
+LT1130	n	om	no	negalią turintis asmuo	conservative
+LT1820	n	ps	yes	nigeris	conservative
+LT2023	n	an	no	vištienos	inclusive
+LT600	n	is	yes	parijai	inclusive
+LT278	n	asf	no	lengvatikis	conservative
+LT1486	n	dmc	yes	nedorovingumas	inclusive
+LT820	n	cds	no	komunalinių atliekų	conservative
+LT1226	n	svp	no	dillydallier	conservative
+LT1398	n	cds	no	puikybė	inclusive
+LT885	n	cds	no	interfertility	inclusive
+LT283	n	cds	no	pudingas vadovas	conservative
+LT1061	n	dmc	yes	nepilnamečių nusikalstamo	conservative
+LT1437	n	ddp	yes	šiknaskylė	conservative
+LT160	n	cds	no	saphead	conservative
+LT4	n	svp	no	vangumas	inclusive
+LT1355	n	om	no	homoseksualumas	inclusive
+LT216	n	cds	no	banditas	conservative
+LT696	n	asm	no	gaidžiukas	inclusive
+LT816	n	qas	no	šiukšlės	inclusive
+LT1904	n	ddf	yes	negražumas	inclusive
+LT2090	n	cds	no	pataikūnas	conservative
+LT225	n	rci	yes	chamas	conservative
+LT1198	n	cds	no	banda	inclusive
+LT1040	n	om	no	elnė pabaiga	inclusive
+LT512	n	an	no	senojo pasaulio buivolo	inclusive
+LT1615	n	dmc	yes	mozarela	inclusive
+LT278	n	cds	no	lengvatikis	conservative
+LT201	n	cds	no	viešą namas	inclusive
+LT646	n	ddp	yes	ragtag	conservative
+LT643	n	cds	no	grifter	inclusive
+LT251	n	pa	yes	teisininkas	inclusive
+LT769	n	cds	no	sąmokslas tylos	inclusive
+LT541	n	an	no	kiaulė	conservative
+LT1548	n	svp	no	enviousness	inclusive
+LT1627	n	cds	no	auklėjimas	inclusive
+LT906	n	asf	no	twat	conservative
+LT398	n	an	no	apsileidęs žmogus	conservative
+LT609	n	asf	no	changelings	conservative
+LT1575	n	cds	no	złodziej	conservative
+LT1128	n	dmc	yes	praleisti visiems	inclusive
+LT222	n	rci	yes	barbaras	conservative
+LT213	n	asm	no	sėklidė	inclusive
+LT1147	n	cds	no	pandar	conservative
+LT535	n	svp	no	aukštos kairiarankiškumas	conservative
+LT1674	n	dmc	yes	rube	conservative
+LT1285	n	dmc	yes	-už-nulis,	conservative
+LT230	n	qas	no	treideris	inclusive
+LT2114	n	an	no	beuodegis varliagyvis	inclusive
+LT609	n	ddp	yes	changelings	inclusive
+LT1458	n	an	no	nekompetentingas	conservative
+LT639	n	cds	no	chiseler	conservative
+LT556	n	an	no	nenaudėlis	conservative
+LT1778	n	an	no	naminis avinas	inclusive
+LT715	n	cds	no	nusiraminimas	inclusive
+LT2265	n	re	no	'ndrangheta	inclusive
+LT407	n	cds	no	sukčius	conservative
+LT1141	n	cds	no	suteneris	inclusive
+LT423	n	re	no	šantažas	conservative
+LT2329	n	cds	no	plėšikų	inclusive
+LT801	n	pr	no	moo-karvė	inclusive
+LT309	n	qas	no	melas	conservative
+LT122	n	an	no	faunos	inclusive
+LT1827	n	ps	yes	negrai	inclusive
+LT1871	n	cds	no	omerta	inclusive
+LT902	n	cds	no	sūnelis	inclusive
+LT1199	n	dmc	yes	juokavimas	inclusive
+LT785	n	om	no	homoseksualus	inclusive
+LT221	n	qas	no	stačiokas	conservative
+LT1233	n	re	no	gangsteris	inclusive
+LT1403	n	an	no	guy	inclusive
+LT561	n	cds	no	senas apiręs automobilis	inclusive
+LT1619	n	an	no	žirginis-purvo	conservative
+LT1402	n	an	no	hiena	inclusive
+LT98	n	cds	no	zelotai	inclusive
+LT328	n	ps	yes	beduinų	inclusive
+LT763	n	an	no	zuikiai	inclusive
+LT53	n	ddp	yes	idiotizmas	inclusive
+LT1326	n	cds	no	vogimas	inclusive
+LT471	n	ddp	yes	žiaurumas	conservative
+LT975	n	cds	no	teisės pažeidimas	inclusive
+LT218	n	cds	no	banditizmu	inclusive
+LT184	n	svp	no	mirtinosios nuodėmės	inclusive
+LT1507	a	is	yes	liūdna	inclusive
+LT1469	n	cds	no	pedagogo profesija	inclusive
+LT1766	n	an	no	mikroorganizmas	inclusive
+LT2110	n	an	no	rupūžes	inclusive
+LT1516	n	cds	no	pinigų skolinimą	conservative
+LT804	n	cds	no	kanalas	inclusive
+LT509	n	qas	no	verslo savininkas	inclusive
+LT1795	n	an	no	sraigė	inclusive
+LT376	n	ddp	yes	skundikas	conservative
+LT151	n	or	no	kvailys	conservative
+LT783	n	or	no	gėjus	conservative
+LT1729	n	pr	no	rattus	inclusive
+LT109	n	an	no	anguillidae	inclusive
+LT299	n	an	no	vyrų palyda	conservative
+LT840	n	cds	no	chytrość	conservative
+LT1420	n	cds	no	klaidingą idol	inclusive
+LT224	n	rci	yes	barbarai	conservative
+LT546	n	dmc	yes	maurėti krepšys	inclusive
+LT924	n	cds	no	išbrokuotas	conservative
+LT72	n	om	no	sodomized	inclusive
+LT2083	n	re	no	capturer	inclusive
+LT1153	n	qas	no	berniokas	inclusive
+LT1578	n	cds	no	komfortas stotis	inclusive
+LT1293	v	asm	no	dulkintis	conservative
+LT524	n	qas	no	viduriniosios klasės	inclusive
+LT1152	n	qas	no	laukas ranka	inclusive
+LT794	n	ddp	yes	liežuvautojas	conservative
+LT1346	n	is	yes	, o ne	inclusive
+LT1430	n	ddf	yes	išjungti	inclusive
+LT832	n	an	no	lova klaidas	inclusive
+LT554	n	cds	no	minios	conservative
+LT575	n	cds	no	cliques	inclusive
+LT562	n	cds	no	kledaras	inclusive
+LT174	n	an	no	asilai	inclusive
+LT1646	n	cds	no	mafijos	conservative
+LT828	n	an	no	bugging	inclusive
+LT779	n	om	no	žybt	conservative
+LT1093	a	qas	no	psichiškai nesveikas	conservative
+LT543	n	cds	no	apgailėtinus buvimas	conservative
+LT237	n	qas	no	prekybininkas	inclusive
+LT611	n	pr	no	kalė	conservative
+LT1298	n	an	no	grifas	inclusive
+LT1170	n	om	no	finocchio	inclusive
+LT1467	n	cds	no	ostentatiousness	conservative
+LT883	n	ddf	yes	crookback	inclusive
+LT1434	n	ddf	yes	negalios	inclusive
+LT848	n	an	no	išdykėlė	conservative
+LT746	n	cds	no	tuntas	inclusive
+LT93	n	asm	no	apendiksas	inclusive
+LT2261	n	asm	no	aves	inclusive
+LT159	n	or	no	kvailas	conservative
+LT568	a	ddf	yes	blogas	inclusive
+LT1161	n	ps	yes	fašistas	inclusive
+LT1569	n	cds	no	pedantiškumas	inclusive
+LT1933	n	cds	no	parvēnijs	inclusive
+LT132	n	ddp	yes	epifaunal	inclusive
+LT1521	n	cds	no	kreditavimas	inclusive
+LT2061	n	or	no	ropė	inclusive
+LT966	n	ddp	yes	vėpsoti	conservative
+LT1907	n	dmc	yes	nelaimėlis	inclusive
+LT671	n	pa	yes	pareigūnas	inclusive
+LT150	n	ddp	yes	betise	conservative
+LT677	n	an	no	ožka	inclusive
+LT534	n	svp	no	chełpliwość	conservative
+LT1068	n	cds	no	tonų	inclusive
+LT1917	n	dmc	yes	klounas	inclusive
+LT161	n	ddp	yes	shithead	conservative
+LT862	n	an	no	pelėdikė	inclusive
+LT993	n	ps	yes	krauthead	conservative
+LT1726	n	re	no	reketininkas	inclusive
+LT1828	n	ps	yes	negridas	inclusive
+LT637	n	re	no	chiseller	inclusive
+LT1790	n	an	no	Šliužai	inclusive
+LT558	n	re	no	šlykštus	conservative
+LT1709	n	asm	no	sėjamasis žirnis	inclusive
+LT639	n	re	no	chiseler	inclusive
+LT127	n	ddp	yes	gyvūnija	inclusive
+LT1777	n	an	no	avių	inclusive
+LT1925	n	qas	no	prašinėtojas	conservative
+LT624	n	re	no	calunnia	inclusive
+LT1705	n	asm	no	žirnių	inclusive
+LT179	n	an	no	stumbras	inclusive
+LT553	n	cds	no	dilba	conservative
+LT435	n	qas	no	išlyga	inclusive
+LT1980	n	cds	no	complainer	conservative
+LT369	n	cds	no	baudžiamasis	conservative
+LT1965	n	dmc	yes	maruda	conservative
+LT1314	n	cds	no	netikėlis	conservative
+LT2131	n	an	no	dėlės	inclusive
+LT212	n	asm	no	teste	inclusive
+LT940	n	dmc	yes	apgaulės	conservative
+LT464	n	pa	yes	bilietų pardavimo	inclusive
+LT321	n	cds	no	chaotyczność	inclusive
+LT1039	n	om	no	midclavicular linijos	inclusive
+LT401	n	cds	no	nevala	conservative
+LT2287	n	an	no	rouncey	inclusive
+LT602	n	an	no	silpnuolis	conservative
+LT2210	n	cds	no	conventicle	inclusive
+LT368	n	cds	no	tremtis	inclusive
+LT1629	n	cds	no	skriaudėjas	inclusive
+LT1791	n	an	no	Šliužas	inclusive
+LT1528	n	cds	no	nekaunīga	inclusive
+LT2134	n	cds	no	statytinis	conservative
+LT442	n	cds	no	painiava	inclusive
+LT227	n	an	no	barbariškumas	inclusive
+LT151	n	ddp	yes	kvailys	inclusive
+LT903	n	cds	no	berniukas	inclusive
+LT162	n	or	no	bukagalvis	conservative
+LT1982	n	an	no	humans	inclusive
+LT1332	n	qas	no	tagalong	conservative
+LT1155	n	qas	no	žemdirbių	inclusive
+LT2262	n	asm	no	tupėjimas	inclusive
+LT597	n	dmc	yes	atstumtuoju	inclusive
+LT1095	n	re	no	felons	inclusive
+LT517	n	qas	no	darbo stalo	inclusive
+LT457	n	ddp	yes	fumbler	conservative
+LT1442	n	ddp	yes	absurdiškas	conservative
+LT2182	a	ddf	yes	baisus	conservative
+LT1028	n	om	no	bazinio	inclusive
+LT545	n	cds	no	bjaurata	conservative
+LT2251	n	om	no	transvestias	inclusive
+LT156	n	om	no	asilas	inclusive
+LT274	n	ddp	yes	patenka vaikinas	conservative
+LT1601	n	an	no	mosquitoe	inclusive
+LT1674	n	cds	no	rube	conservative
+LT1343	n	pr	no	seksualinių paslaugų	conservative
+LT642	n	cds	no	scammer	inclusive
+LT637	n	cds	no	chiseller	inclusive
+LT1552	n	svp	no	pykčio	inclusive
+LT1295	a	cds	no	neteisėtas	inclusive
+LT2058	n	pa	yes	buhalteriai	inclusive
+LT119	n	ddp	yes	animalia	inclusive
+LT1712	n	an	no	paršelio	inclusive
+LT607	n	cds	no	debilas	inclusive
+LT227	n	ddp	yes	barbariškumas	inclusive
+LT1504	n	cds	no	išsisukinėjimas	inclusive
+LT287	n	an	no	prostitutė	conservative
+LT414	n	cds	no	skurwysynu	conservative
+LT1158	n	qas	no	sodbuster	inclusive
+LT5	n	svp	no	tingėjimas	inclusive
+LT1504	n	qas	no	išsisukinėjimas	conservative
+LT1692	n	qas	no	parapijiečiais	inclusive
+LT544	n	cds	no	toks ir toks	conservative
+LT284	n	cds	no	pudden galvutė	conservative
+LT1823	n	ps	yes	nigra	conservative
+LT1750	n	ps	yes	maišytos rasės žmogus	conservative
+LT1087	n	cds	no	teoretikas	inclusive
+LT305	n	pr	no	staigule	conservative
+LT439	n	cds	no	liapsusas	inclusive
+LT1894	n	or	no	pomidoras	inclusive
+LT365	n	cds	no	uždrausta	conservative
+LT1622	n	an	no	mulo	inclusive
+LT1410	n	cds	no	crooner	inclusive
+LT304	n	pr	no	kekšė	conservative
+LT792	n	or	no	homofils	conservative
+LT1296	a	cds	no	nelegalus	inclusive
+LT225	n	pa	yes	chamas	conservative
+LT1737	n	qas	no	retro	inclusive
+LT1970	a	om	no	anomalus	inclusive
+LT2074	n	re	no	apiplėšimų	inclusive
+LT644	n	cds	no	cheekiness	conservative
+LT181	n	svp	no	septynios nuodėmės	inclusive
+LT94	n	an	no	nesąmonė	conservative
+LT380	n	cds	no	pokštai	conservative
+LT876	n	an	no	crocodylia	inclusive
+LT489	n	ddp	yes	brain damage	inclusive
+LT309	n	cds	no	melas	conservative
+LT976	n	cds	no	nusikalstama veika	inclusive
+LT2320	n	ps	yes	rommany	inclusive
+LT970	n	ps	yes	doofus	conservative
+LT2188	n	re	no	debaucher	conservative
+LT1251	n	asf	no	makšties	conservative
+LT1829	n	ps	yes	nēģeris	inclusive
+LT1091	n	cds	no	mėgėjas	inclusive
+LT921	n	cds	no	skerdimo	conservative
+LT91	n	asm	no	maxilliped	inclusive
+LT1154	n	qas	no	žemdirbys	inclusive
+LT612	n	an	no	vilkė	inclusive
+LT1841	a	ps	yes	nesėkmingas	inclusive
+LT1299	n	an	no	eurazijos grifonas	inclusive
+LT646	n	an	no	ragtag	conservative
+LT1052	n	svp	no	gourmandizer	inclusive
+LT1422	n	cds	no	stabmeldystė	inclusive
+LT12	n	svp	no	apatija	inclusive
+LT1097	n	re	no	užtraukia baudžiamąją atsakomybę	inclusive
+LT1835	n	ps	yes	juodaodžiai	inclusive
+LT2035	n	is	yes	skurdžius	inclusive
+LT1974	n	is	yes	elgeta	inclusive
+LT1456	n	svp	no	neveikimas	inclusive
+LT1515	n	cds	no	lichwiarz	inclusive
+LT138	n	re	no	išprievartavimas	conservative
+LT2244	n	om	no	transvestitas	inclusive
+LT1195	n	an	no	aphaniptera	inclusive
+LT2154	a	svp	no	geidulingas	conservative
+LT1624	n	cds	no	vėpla	conservative
+LT1504	n	dmc	yes	išsisukinėjimas	inclusive
+LT2076	n	cds	no	plėšikavimas	inclusive
+LT789	n	om	no	homoseksualistas	conservative
+LT923	n	qas	no	atmesti	conservative
+LT1292	v	asm	no	pyškintis	conservative
+LT888	n	ps	yes	mišrūnas	conservative
+LT1543	n	asm	no	varpos	inclusive
+LT1362	n	om	no	tos pačios lyties	inclusive
+LT2037	a	ps	yes	kiniškas	inclusive
+LT555	n	re	no	villainess	conservative
+LT817	n	cds	no	atliekos	inclusive
+LT213	n	qas	no	sėklidė	inclusive
+LT1830	n	ps	yes	negrų	inclusive
+LT495	n	asm	no	rudumas	inclusive
+LT162	n	cds	no	bukagalvis	conservative
+LT1947	n	or	no	murphy	inclusive
+LT1760	n	an	no	rykliai	inclusive
+LT843	n	svp	no	troškimas	inclusive
+LT212	n	qas	no	teste	inclusive
+LT259	n	qas	no	baronu	inclusive
+LT2317	n	an	no	limacidae	inclusive
+LT1575	n	dmc	yes	złodziej	conservative
+LT552	n	dmc	yes	próżniak	conservative
+LT1487	n	dmc	yes	moralinio bankroto	inclusive
+LT536	n	cds	no	išdidumas	conservative
+LT1170	n	or	no	finocchio	inclusive
+LT1099	n	asm	no	sunkiai ant	inclusive
+LT278	n	ddp	yes	lengvatikis	conservative
+LT1814	n	cds	no	autoerotizmas	inclusive
+LT1514	n	cds	no	lupikautojas	inclusive
+LT1806	n	an	no	midges	inclusive
+LT167	n	ddp	yes	avigalvis	conservative
+LT827	n	an	no	klausymosi prietaisas	inclusive
+LT158	n	cds	no	domino	conservative
+LT813	n	ddp	yes	šundaktariavimas	conservative
+LT846	n	ddp	yes	kvailumas	inclusive
+LT275	n	asf	no	kvailelis	conservative
+LT88	n	cds	no	mišinys	inclusive
+LT941	n	dmc	yes	klaidinimas	conservative
+LT773	n	cds	no	laikraštininkas	inclusive
+LT1306	n	an	no	kiaulės	inclusive
+LT1882	n	re	no	antrojo laipsnio žmogžudyste	inclusive
+LT1728	n	pr	no	žiurkė	inclusive
+LT857	n	an	no	pelėdos	inclusive
+LT815	n	cds	no	laužas	conservative
+LT81	n	asf	no	juokdarys	conservative
+LT349	n	cds	no	davatka	conservative
+LT638	n	re	no	defrauder	inclusive
+LT1466	n	cds	no	pompousness	conservative
+LT1465	n	cds	no	splashiness	conservative
+LT1378	n	cds	no	liaudis	conservative
+LT225	n	dmc	yes	chamas	conservative
+LT220	n	rci	yes	barbarų	conservative
+LT1389	n	svp	no	apsirijimas	inclusive
+LT1957	n	cds	no	pedantę	conservative
+LT1910	a	cds	no	įprastas	inclusive
+LT1037	n	om	no	derrière	inclusive
+LT546	n	dmc	yes	maurėti krepšys	conservative
+LT371	n	dmc	yes	nusikaltėlis	conservative
+LT1695	n	an	no	papūgos	inclusive
+LT217	n	dmc	yes	plėšikas	conservative
+LT1590	n	cds	no	slackers	conservative
+LT1225	n	dmc	yes	dallier	conservative
+LT938	n	dmc	yes	apgavystė	conservative
+LT396	n	cds	no	niekšas	conservative
+LT1749	n	ps	yes	jauktenis	conservative
+LT1425	n	re	no	dirbti apgraibomis	inclusive
+LT220	n	dmc	yes	barbarų	conservative
+LT566	n	an	no	caiman	inclusive
+LT515	n	om	no	pederastas	inclusive
+LT314	n	cds	no	clotheshorse	inclusive
+LT1958	n	cds	no	bookworm	conservative
+LT158	n	asf	no	domino	conservative
+LT1046	n	om	no	užpakalis	inclusive
+LT68	n	om	no	analinis skverbtį	inclusive
+LT42	n	pa	yes	akademikas	inclusive
+LT2242	n	om	no	kryžminio odininkas	inclusive
+LT1408	n	cds	no	crooners	inclusive
+LT1733	n	qas	no	retorinis	inclusive
+LT86	n	qas	no	pėdsakai	inclusive
+LT1165	n	or	no	lepumas	inclusive
+LT1754	n	ps	yes	metisas	conservative
+LT338	n	cds	no	prasimanėlis	conservative
+LT1874	n	an	no	erkių	inclusive
+LT480	n	pr	no	bos taurus	inclusive
+LT486	n	an	no	karvė	inclusive
+LT1193	n	an	no	blusa	inclusive
+LT370	n	cds	no	szajka bandycka	inclusive
+LT1686	n	qas	no	parazitai	inclusive
+LT280	n	ddp	yes	dėti karštus kompresus	conservative
+LT290	n	cds	no	sąvadautoja	conservative
+LT1693	n	qas	no	parapijų	inclusive
+LT158	n	an	no	domino	conservative
+LT968	n	asf	no	dimwit	conservative
+LT224	n	cds	no	barbarai	conservative
+LT1233	n	dmc	yes	gangsteris	inclusive
+LT1505	n	re	no	kūdikių	inclusive
+LT839	n	cds	no	gudrybės	conservative
+LT425	n	pa	yes	laidotuvių	inclusive
+LT997	n	cds	no	grunge	inclusive
+LT1073	n	ps	yes	klajokliškas	inclusive
+LT1234	n	cds	no	fašizmas	conservative
+LT1652	n	cds	no	mafiozai	inclusive
+LT2120	v	re	no	vogti	inclusive
+LT889	n	cds	no	hibridas	inclusive
+LT2065	n	re	no	pagrobimai	inclusive
+LT1952	n	or	no	spud	inclusive
+LT1700	n	cds	no	šalis	inclusive
+LT1918	n	dmc	yes	linksmai andrew	inclusive
+LT62	n	svp	no	amour propre	conservative
+LT1646	n	cds	no	mafijos	inclusive
+LT1041	n	om	no	padų	inclusive
+LT898	n	cds	no	naujokas	conservative
+LT155	n	ddp	yes	apdujėlis	conservative
+LT2098	n	qas	no	didingoms	inclusive
+LT673	n	an	no	capra	inclusive
+LT1949	n	or	no	bulvių	inclusive
+LT1484	n	dmc	yes	moraliai bankrotas	inclusive
+LT1000	n	cds	no	dirvožemio	inclusive
+LT1685	n	qas	no	ektoparazitų	inclusive
+LT1792	n	cds	no	puzzle	conservative
+LT2296	n	cds	no	gļēvulība	inclusive
+LT149	n	or	no	bonce	inclusive
+LT1715	n	is	yes	prastas	inclusive
+LT1934	n	cds	no	nouveaux turtus	inclusive
+LT2314	n	dmc	yes	treasonist	conservative
+LT2177	n	qas	no	bloodhound	inclusive
+LT1171	n	dmc	yes	fetor	conservative
+LT1740	n	cds	no	vadeiva	inclusive
+LT1516	n	cds	no	pinigų skolinimą	inclusive
+LT1764	n	an	no	mikroorganizmo	inclusive
+LT1774	n	ddp	yes	mikrocefalija	inclusive
+LT1132	n	cds	no	giminaičių	inclusive
+LT610	n	ddp	yes	kvaiša	conservative
+LT286	n	ddp	yes	naivuolis	conservative
+LT247	n	pa	yes	ministras	inclusive
+LT1474	n	cds	no	profesiograma	inclusive
+LT111	n	an	no	ungurys	inclusive
+LT351	n	cds	no	gaujos narys	conservative
+LT1739	n	qas	no	retorikos	inclusive
+LT484	n	pr	no	galvijai	inclusive
+LT438	n	qas	no	blogai dirbti	inclusive
+LT151	n	cds	no	kvailys	conservative
+LT84	n	qas	no	jūklis	inclusive
+LT337	n	dmc	yes	melagis	inclusive
+LT2180	n	qas	no	chien de saint-hubert	inclusive
+LT965	n	an	no	marodierius	inclusive
+LT536	n	svp	no	išdidumas	conservative
+LT1119	n	dmc	yes	vargšas	inclusive
+LT641	n	re	no	aferistas	inclusive
+LT2124	n	cds	no	mądrala	conservative
+LT182	n	svp	no	septynios mirtinos nuodėmės	inclusive
+LT2281	n	cds	no	conspiracism	inclusive
+LT172	n	ddp	yes	neišsilavinęs žmogus	conservative
+LT606	n	ddp	yes	silpnaprotis	conservative
+LT1924	n	qas	no	svetimaduonis	conservative
+LT1224	n	svp	no	įniršis	conservative
+LT643	n	cds	no	grifter	conservative
+LT2288	n	dmc	yes	valkatavimas	inclusive
+LT1327	n	re	no	grobis	inclusive
+LT907	n	or	no	šiknius	conservative
+LT345	n	dmc	yes	fanatikas	conservative
+LT526	n	cds	no	išpūstų vadovas	conservative
+LT986	n	cds	no	bulvarinis romanas	inclusive
+LT972	n	ps	yes	uprooter	conservative
+LT1019	n	om	no	gale	inclusive
+LT135	n	re	no	išprievartavo	conservative
+LT80	n	cds	no	išdaiga	inclusive
+LT1502	n	svp	no	geidulingumas	inclusive
+LT1323	n	re	no	vagystė	inclusive
+LT1409	n	cds	no	pośpiewywać	inclusive
+LT1537	n	cds	no	matcher	inclusive
+LT951	n	pr	no	sugyventinių	inclusive
+LT1223	n	an	no	įtūžis	inclusive
+LT456	n	dmc	yes	blunderer	conservative
+LT1106	n	dmc	yes	dorovė	inclusive
+LT2081	n	re	no	išpuolis	inclusive
+LT379	n	cds	no	blabbermouth	conservative
+LT1666	n	qas	no	dažytojas	inclusive
+LT1480	n	cds	no	rašytojas	conservative
+LT140	n	re	no	rapsų	conservative
+LT556	n	is	yes	nenaudėlis	conservative
+LT331	n	an	no	jautienos	inclusive
+LT796	n	cds	no	gandonešis	conservative
+LT221	n	cds	no	stačiokas	conservative
+LT818	n	qas	no	buitinių atliekų	inclusive
+LT207	n	is	yes	scrooge	conservative
+LT1074	n	dmc	yes	drifter	inclusive
+LT608	n	ddp	yes	changeling	conservative
+LT1647	n	cds	no	mafiozas	inclusive
+LT152	n	an	no	idiotas	conservative
+LT2266	n	re	no	ndrangheta	inclusive
+LT1415	n	qas	no	ideologija	inclusive
+LT835	n	an	no	hemipteron	inclusive
+LT209	n	qas	no	testis	inclusive
+LT1443	n	ddp	yes	niekai	inclusive
+LT400	n	cds	no	apsileidėlis	conservative
+LT1357	n	om	no	homoeroticism	inclusive
+LT368	n	cds	no	tremtis	conservative
+LT1328	n	re	no	plėšti	inclusive
+LT1973	n	cds	no	apkalba	inclusive
+LT885	n	ps	yes	interfertility	inclusive
+LT277	n	ddp	yes	minkštos	conservative
+LT165	n	asf	no	pusgalvis	conservative
+LT1059	n	pa	yes	durininkas	inclusive
+LT552	n	svp	no	próżniak	conservative
+LT1889	n	cds	no	oportunistas	conservative
+LT1347	n	is	yes	varguolis	inclusive
+LT1136	n	qas	no	divulgement	inclusive
+LT638	n	cds	no	defrauder	conservative
+LT809	n	cds	no	šarlatanas	conservative
+LT274	n	ps	yes	patenka vaikinas	conservative
+LT559	n	cds	no	piktadarys	conservative
+LT889	n	ps	yes	hibridas	inclusive
+LT859	n	an	no	strigiformes	inclusive
+LT346	n	dmc	yes	bigot	conservative
+LT1228	n	svp	no	melancholikas	conservative
+LT1214	n	cds	no	masonai	inclusive
+LT1633	n	svp	no	palaidumo	inclusive
+LT776	n	cds	no	newspaperwoman	inclusive
+LT1974	n	is	yes	elgeta	conservative
+LT786	n	om	no	homoseksualas	inclusive
+LT2231	n	re	no	kankina	inclusive
+LT1883	n	re	no	kankinimų nužudymo	inclusive
+LT152	n	cds	no	idiotas	conservative
+LT583	n	an	no	žmogėdra	inclusive
+LT1798	n	ps	yes	mongolidai	conservative
+LT2051	n	pr	no	bzdura	conservative
+LT640	n	dmc	yes	apgavikas	conservative
+LT855	n	an	no	pelėda	inclusive
+LT1277	n	qas	no	snooper	inclusive
+LT2161	a	ddp	yes	kvaila	conservative
+LT104	n	cds	no	minia	inclusive
+LT645	n	ddp	yes	niekam tikęs	conservative
+LT1452	n	is	yes	skurdumas	inclusive
+LT170	n	asf	no	bukaprotis	conservative
+LT1054	n	svp	no	tranšėjų	inclusive
+LT790	n	or	no	pyderastas	conservative
+LT153	n	asf	no	mulkis	conservative
+LT1843	n	pa	yes	įsimylėjėlis	inclusive
+LT982	n	an	no	diddly	conservative
+LT977	n	cds	no	teisė-iųjų	inclusive
+LT390	n	qas	no	magnatas	inclusive
+LT1151	n	qas	no	fieldhand	inclusive
+LT1085	n	cds	no	pedagog	inclusive
+LT571	n	an	no	tai, kas viską suryja	inclusive
+LT385	n	ps	yes	juoda	inclusive
+LT2265	n	cds	no	'ndrangheta	inclusive
+LT819	n	cds	no	laužo	conservative
+LT153	n	cds	no	mulkis	conservative
+LT929	n	cds	no	hoaxer	conservative
+LT311	n	qas	no	neteisybė	conservative
+LT936	n	re	no	data-rapsų	conservative
+LT439	n	qas	no	liapsusas	inclusive
+LT597	n	is	yes	atstumtuoju	inclusive
+LT1391	n	svp	no	persivalgymas	inclusive
+LT2318	n	re	no	delinkventas	inclusive
+LT1590	n	dmc	yes	slackers	conservative
+LT932	n	pr	no	ponia	conservative
+LT154	n	cds	no	žioplys	conservative
+LT130	n	ddp	yes	gyvūnai	inclusive
+LT1373	n	ps	yes	Žydas	inclusive
+LT2292	n	cds	no	pērkamība	inclusive
+LT781	n	om	no	queer	conservative
+LT1905	n	ddf	yes	šlykštumas	inclusive
+LT424	n	re	no	šantažuoti	conservative
+LT263	n	qas	no	baronas	inclusive
+LT1438	n	ddp	yes	arsehole	conservative
+LT124	n	an	no	gyvūnų	inclusive
+LT1407	n	cds	no	balladeer	inclusive
+LT872	n	an	no	krokodilas	inclusive
+LT114	n	an	no	anguilliformes	inclusive
+LT463	n	pa	yes	kasininkas	inclusive
+LT1223	n	svp	no	įtūžis	conservative
+LT863	n	ddp	yes	kretinizmas	inclusive
+LT1030	n	om	no	distalinio	inclusive
+LT222	n	qas	no	barbaras	conservative
+LT1168	n	or	no	foeniculum	inclusive
+LT850	n	an	no	prickteaser	conservative
+LT87	n	cds	no	melange	inclusive
+LT1547	a	om	no	homoseksuali	conservative
+LT1178	n	cds	no	wangler	conservative
+LT609	n	cds	no	changelings	inclusive
+LT151	n	asm	no	kvailys	inclusive
+LT454	n	qas	no	fuszer	conservative
+LT2077	n	re	no	apiplėštas	inclusive
+LT134	n	ddp	yes	makrofaunos	inclusive
+LT772	n	cds	no	korespondentų	inclusive
+LT168	n	an	no	fuckhead	conservative
+LT441	n	cds	no	blooper	inclusive
+LT86	n	cds	no	pėdsakai	inclusive
+LT2169	a	qas	no	apgailėtina	conservative
+LT308	n	cds	no	netiesa	inclusive
+LT1379	n	cds	no	masės	conservative
+LT1231	n	dmc	yes	dykūnas	inclusive
+LT1304	n	an	no	paršas	inclusive
+LT779	n	or	no	žybt	conservative
+LT222	n	pa	yes	barbaras	conservative
+LT2249	n	om	no	kirsti padažu	inclusive
+LT2166	n	an	no	raudonieji kupriai	inclusive
+LT90	n	asm	no	priedų	inclusive
+LT430	n	an	no	žmonos apgautas vyras	conservative
+LT96	n	cds	no	persekiotojas	conservative
+LT1540	n	cds	no	beformė medžiaga	inclusive
+LT1520	n	cds	no	palūkininkas	conservative
+LT1336	n	pr	no	prostitucijos	inclusive
+LT1906	n	dmc	yes	gaila, asmuo	inclusive
+LT221	n	rci	yes	stačiokas	conservative
+LT1922	n	an	no	sijonas pościgowy	conservative
+LT94	n	asf	no	nesąmonė	conservative
+LT1565	n	re	no	energingas žmogus	inclusive
+LT956	n	cds	no	pārgalvnieks	inclusive
+LT447	n	cds	no	blowhard	conservative
+LT2246	n	om	no	kryžminių indaujos	inclusive
+LT1597	n	ps	yes	mongolų	inclusive
+LT693	n	asm	no	bybis	inclusive
+LT1788	n	asm	no	flouter	conservative
+LT2184	n	ddp	yes	brednie	inclusive
+LT791	n	or	no	pyderas	conservative
+LT396	n	an	no	niekšas	conservative
+LT2059	n	pa	yes	apskaitininkas	inclusive
+LT486	n	pr	no	karvė	inclusive
+LT787	n	or	no	gėjų	conservative
+LT1800	n	ps	yes	mongoloidai	conservative
+LT752	n	svp	no	pyktis	conservative
+LT1816	n	cds	no	narcisizmas	inclusive
+LT2187	n	an	no	noctiluca	inclusive
+LT666	n	cds	no	sub-klanas	inclusive
+LT1423	n	ddp	yes	vidutinio sunkumo silpnaprotystė	inclusive
+LT767	n	an	no	bunny	inclusive
+LT1577	n	cds	no	tualetai	inclusive
+LT1948	n	or	no	bulvė	inclusive
+LT740	n	or	no	kopūstai	inclusive
+LT506	n	qas	no	verslininkė	inclusive
+LT154	n	asf	no	žioplys	conservative
+LT671	n	cds	no	pareigūnas	conservative
+LT570	n	an	no	cakehole	inclusive
+LT294	n	pr	no	moteris gatvėje	conservative
+LT1156	n	qas	no	ūkininkai	inclusive
+LT2045	n	cds	no	propagavimas	inclusive
+LT103	n	ddp	yes	analfabetyczny	inclusive
+LT968	n	asm	no	dimwit	conservative
+LT170	n	ddp	yes	bukaprotis	conservative
+LT1775	n	ddp	yes	micromostus	inclusive
+LT785	n	or	no	homoseksualus	conservative
+LT1358	n	om	no	androfilai	inclusive
+LT289	n	pr	no	ištvirkėlė	conservative
+LT922	n	qas	no	skresti	conservative
+LT2291	n	cds	no	parsiduodanti	inclusive
+LT381	n	cds	no	žiauriai	conservative
+LT2021	n	an	no	viščiukų	inclusive
+LT1522	n	cds	no	loanshark	inclusive
+LT310	n	dmc	yes	melagingo	inclusive
+LT841	n	cds	no	apgaulė	inclusive
+LT1050	n	qas	no	šunų namai	inclusive
+LT1285	n	svp	no	-už-nulis,	conservative
+LT1006	n	svp	no	varža	inclusive
+LT559	n	an	no	piktadarys	conservative
+LT381	n	an	no	žiauriai	conservative
+LT1270	n	asf	no	visiškas gaktos skutimas	inclusive
+LT1536	n	asm	no	kaštoninės spalvos	inclusive
+LT34	n	cds	no	tarpininkas	inclusive
+LT1534	n	qas	no	krautuvininkas	inclusive
+LT55	n	pa	yes	tradiciniai	inclusive
+LT274	n	asm	no	patenka vaikinas	conservative
+LT81	n	ddp	yes	juokdarys	conservative
+LT616	n	re	no	šmeižtas	inclusive
+LT544	n	an	no	toks ir toks	conservative
+LT608	n	ddp	yes	changeling	inclusive
+LT199	n	cds	no	pirtis	inclusive
+LT637	n	dmc	yes	chiseller	conservative
+LT407	n	dmc	yes	sukčius	conservative
+LT348	n	svp	no	aklatikis	conservative
+LT1043	n	om	no	dorsolateral	inclusive
+LT2133	n	cds	no	pakalikų	conservative
+LT2001	a	svp	no	agresyvus	inclusive
+LT488	n	cds	no	bosas	inclusive
+LT300	n	pr	no	rentboy	conservative
+LT332	n	qas	no	fantazuoti	conservative
+LT166	n	asf	no	dumbass	conservative
+LT1941	v	cds	no	kristi	inclusive
+LT887	n	ps	yes	kryžminio veisimo	inclusive
+LT2091	n	cds	no	keliaklupsčiautojas	conservative
+LT1626	n	cds	no	augintinis	inclusive
+LT1146	n	cds	no	silpni	conservative
+LT479	n	an	no	galvijų	inclusive
+LT518	n	qas	no	bourgeoise	inclusive
+LT1559	n	cds	no	mussiness	conservative
+LT1704	n	asm	no	pisum sativum	inclusive
+LT393	n	qas	no	lumber baron	inclusive
+LT308	n	qas	no	netiesa	conservative
+LT2163	a	qas	no	eilinis	inclusive
+LT484	n	an	no	galvijai	inclusive
+LT1329	n	re	no	nešvarūs pinigai	inclusive
+LT1606	n	an	no	culicidae	inclusive
+LT542	n	an	no	git	conservative
+LT346	n	svp	no	bigot	conservative
+LT1148	n	pr	no	comare	conservative
+LT608	n	cds	no	changeling	inclusive
+LT2104	n	an	no	batrachian	inclusive
+LT538	n	svp	no	arogancija	conservative
+LT1133	n	cds	no	šeimos	inclusive
+LT533	n	cds	no	pagyrūniškumas	conservative
+LT243	n	pa	yes	diplomatinį rangą	inclusive
+LT2022	n	an	no	vidaus vištiena	inclusive
+LT2016	n	re	no	piratai	inclusive
+LT1989	n	an	no	pediculus corporis	inclusive
+LT1258	n	cds	no	kalėjimų apsaugos	inclusive
+LT1955	n	cds	no	pedantiškas	conservative
+LT687	n	qas	no	voliotis	inclusive
+LT1460	n	ddp	yes	nežinojimas	conservative
+LT932	n	om	no	ponia	inclusive
+LT1416	n	cds	no	klaidingą stabas	inclusive
+LT1064	n	cds	no	apkrovos	inclusive
+LT1546	a	om	no	homoseksualus	conservative
+LT1092	n	cds	no	entuziastas	inclusive
+LT112	n	an	no	angilija	inclusive
+LT60	n	an	no	bizonas	inclusive
+LT869	n	asm	no	twirp	conservative
+LT1735	n	qas	no	retoriškai	inclusive
+LT591	n	cds	no	carrión pakartotinai	inclusive
+LT2027	n	cds	no	kūdikis	inclusive
+LT1317	n	re	no	lot	inclusive
+LT2005	n	cds	no	masturbuojamasi	conservative
+LT785	n	om	no	homoseksualus	conservative
+LT689	n	an	no	nepadorumas	conservative
+LT95	n	an	no	folderol	conservative
+LT133	n	an	no	fauna	inclusive
+LT1783	n	pa	yes	sheepherder	inclusive
+LT815	n	qas	no	laužas	inclusive
+LT57	n	an	no	bison bison	inclusive
+LT713	n	an	no	culex pipiens	inclusive
+LT2277	n	cds	no	sąmokslo teorija	inclusive
+LT1394	n	qas	no	lūšna	inclusive
+LT453	n	ddp	yes	bumbler	conservative
+LT606	n	asf	no	silpnaprotis	conservative
+LT95	n	ddp	yes	folderol	conservative
+LT970	n	asf	no	doofus	conservative
+LT333	n	cds	no	beginės ir begardžiai	inclusive
+LT958	n	an	no	despoiler	inclusive
+LT1112	n	dmc	yes	moralė	inclusive
+LT1658	n	an	no	apuokėlis	inclusive
+LT454	n	dmc	yes	fuszer	conservative
+LT1169	n	or	no	pankolių	inclusive
+LT563	n	or	no	butternut skvošas	inclusive
+LT2109	n	an	no	varlės	inclusive
+LT1873	n	an	no	erkė	inclusive
+LT1928	n	qas	no	išprašyti	conservative
+LT1032	n	om	no	sėdmenų	inclusive
+LT1939	n	qas	no	rūpesčių sukėlėjas yra	conservative
+LT470	n	ddp	yes	nuožmumas	conservative
+LT1767	n	an	no	pip-girgždėti	conservative
+LT578	n	cds	no	uždara grupuotė	inclusive
+LT1582	n	cds	no	viešųjų tualetų	inclusive
+LT412	n	ddp	yes	motherfucker	conservative
+LT1734	n	qas	no	retorika	inclusive
+LT2107	n	an	no	varlė	inclusive
+LT118	n	an	no	gyvūnas	inclusive
+LT690	n	an	no	grossness	conservative
+LT789	n	or	no	homoseksualistas	conservative
+LT206	n	svp	no	dusigrosz	conservative
+LT1782	n	pa	yes	sheepherders	inclusive
+LT1853	n	cds	no	satyriasis	conservative
+LT507	n	qas	no	verslininkų	inclusive
+LT1411	n	qas	no	ideologas	inclusive
+LT440	n	qas	no	žiopla klaida	inclusive
+LT1862	n	an	no	paprastoji berniklė	inclusive
+LT980	n	an	no	diddlysquat	conservative
+LT1462	n	an	no	relentlessness	conservative
+LT444	n	cds	no	boo-boo	inclusive
+LT1450	n	is	yes	neturtingiems	inclusive
+LT1287	n	dmc	yes	goof-off	conservative
+LT1333	n	cds	no	izsūtāmais	inclusive
+LT873	n	an	no	krokodilai	inclusive
+LT401	n	an	no	nevala	conservative
+LT2015	n	re	no	plagijuos	inclusive
+LT1565	n	cds	no	energingas žmogus	inclusive
+LT2207	n	an	no	plikšliužiniai	inclusive
+LT21	n	re	no	piktnaudžiavimą valdžia	inclusive
+LT2136	n	an	no	tarakonai	inclusive
+LT1501	n	svp	no	geismas	inclusive
+LT1180	n	asm	no	minkštą ray	inclusive
+LT278	n	an	no	lengvatikis	conservative
+LT2333	n	ps	yes	zulai	inclusive
+LT2044	n	cds	no	protagonism	inclusive
+LT510	n	qas	no	verslo žmogus	inclusive
+LT276	n	ps	yes	patiklus asmuo	conservative
+LT1315	n	cds	no	nevidonas	conservative
+LT710	n	cds	no	ballup	inclusive
+LT821	n	cds	no	šlamštas	conservative
+LT1670	n	cds	no	paparacas	inclusive
+LT186	n	svp	no	avaritia	inclusive
+LT1571	n	or	no	meticulosity	inclusive
+LT1206	n	asm	no	pražanga	inclusive
+LT963	n	an	no	szabrownik	inclusive
+LT1388	n	qas	no	namai tapyba	inclusive
+LT613	n	re	no	įžeidžiantys	inclusive
+LT1689	n	qas	no	parapijos	inclusive
+LT1834	n	ps	yes	negro	inclusive
+LT379	n	ddp	yes	blabbermouth	conservative
+LT641	n	dmc	yes	aferistas	conservative
+LT445	n	qas	no	apsirikimas	inclusive
+LT1079	n	svp	no	ravenousness	conservative
+LT1381	n	cds	no	prelatas	inclusive
+LT1143	n	cds	no	sąvadauti	conservative
+LT1927	n	qas	no	złodziejaszek	conservative
+LT1205	n	asm	no	apyvarpės	inclusive
+LT74	n	om	no	pederastija	inclusive
+LT1119	n	is	yes	vargšas	inclusive
+LT2057	n	pa	yes	kontrolieriaus	inclusive
+LT97	n	cds	no	fanatizmas	inclusive
+LT1053	n	svp	no	smaguris	conservative
+LT146	n	cds	no	przenikliwość	inclusive
+LT337	n	cds	no	melagis	conservative
+LT1513	n	cds	no	lupikautojus	conservative
+LT1813	n	cds	no	narcissist	inclusive
+LT2062	n	or	no	brassica rapa	inclusive
+LT944	n	cds	no	demagogs	conservative
+LT1424	n	ddp	yes	imbecilumas	inclusive
+LT75	n	svp	no	tinginys	conservative
+LT2163	a	cds	no	eilinis	inclusive
+LT1998	n	cds	no	religinės diskriminacijos	inclusive
+LT515	n	om	no	pederastas	conservative
+LT169	n	an	no	muttonhead	conservative
+LT2031	a	ps	yes	júodas	inclusive
+LT448	n	cds	no	vaunter	conservative
+LT1752	n	ps	yes	mestizaje	conservative
+LT770	n	pa	yes	kūno	inclusive
+LT551	n	cds	no	dykinėtojas	conservative
+LT1055	n	svp	no	ēdājs	conservative
+LT1179	n	asm	no	pterygiophore	inclusive
+LT371	n	cds	no	nusikaltėlis	inclusive
+LT601	n	is	yes	pariasas	inclusive
+LT339	n	cds	no	gamintojais	conservative
+LT11	n	svp	no	apatiškas	inclusive
+LT799	n	ddp	yes	informatorius	conservative
+LT61	n	cds	no	savimeilė	conservative
+LT1330	n	re	no	dirty money	inclusive
+LT2241	n	om	no	kryžminiai indaujos	inclusive
+LT1645	n	re	no	cosa nostra	conservative
+LT316	n	cds	no	puikuolis	inclusive
+LT797	n	an	no	fizionomija	inclusive
+LT593	n	cds	no	kazino	inclusive
+LT869	n	ddp	yes	twirp	conservative
+LT2259	n	asm	no	avafauna	inclusive
+LT1720	n	pa	yes	kiauliena mėsininkas	inclusive
+LT1785	n	pa	yes	piemenys	inclusive
+LT691	n	an	no	vulgarumas	conservative
+LT2215	n	re	no	teroro aktas	inclusive
+LT371	n	re	no	nusikaltėlis	inclusive
+LT548	n	dmc	yes	trampinių	conservative
+LT2005	n	asm	no	masturbuojamasi	conservative
+LT367	n	cds	no	uždrausti	conservative
+LT2325	n	ps	yes	romai	inclusive
+LT2063	n	re	no	pagrobia	inclusive
+LT1713	n	an	no	shoat	inclusive
+LT928	n	cds	no	supjaustytų	conservative
+LT1140	n	cds	no	pimp	conservative
+LT1065	n	cds	no	daugybė	inclusive
+LT189	n	is	yes	šykštuolis	conservative
+LT219	n	cds	no	banditizmas	inclusive
+LT912	n	or	no	sativus	inclusive
+LT1303	n	an	no	šernas	inclusive
+LT1382	n	cds	no	vyriausiasis kunigas	inclusive
+LT1549	n	svp	no	pavydas	inclusive
+LT1224	n	an	no	įniršis	inclusive
+LT1519	n	cds	no	lupikavimas	inclusive
+LT362	n	re	no	nesąžiningi	conservative
+LT502	n	qas	no	valstiečiai	inclusive
+LT1083	n	cds	no	pedagogas	inclusive
+LT1759	n	an	no	ryklys	inclusive
+LT253	n	pa	yes	gynėjo	inclusive
+LT1417	n	cds	no	stabmeldžiai	inclusive
+LT923	n	cds	no	atmesti	conservative
+LT674	n	an	no	kalniniai ožiai	inclusive
+LT2052	n	pr	no	tenkas	conservative
+LT606	n	cds	no	silpnaprotis	inclusive
+LT1832	n	ps	yes	negroids	inclusive
+LT1159	n	qas	no	ferma	inclusive
+LT818	n	cds	no	buitinių atliekų	inclusive
+LT849	n	an	no	koketė	conservative
+LT778	n	om	no	patekti į nepatogią padėtį	conservative
+LT1972	n	cds	no	statinė	inclusive
+LT325	n	ps	yes	beduinas	inclusive
+LT472	n	an	no	neteisingas	conservative
+LT983	n	an	no	diddly-šūdas	conservative
+LT950	n	pr	no	sugulovių	inclusive
+LT554	n	qas	no	minios	inclusive
+LT1471	n	cds	no	pedagogo sąvoka	inclusive
+LT2080	n	re	no	stickup	inclusive
+LT1544	n	asm	no	penis	inclusive
+LT864	n	ddp	yes	kretīnisms	inclusive
+LT790	n	om	no	pyderastas	inclusive
+LT2250	n	om	no	transvestitai	inclusive
+LT1909	n	dmc	yes	bėdžius	inclusive
+LT1479	n	cds	no	"junk mail	inclusive
+LT1836	n	ps	yes	juodos moterys	inclusive
+LT136	n	re	no	prievartautojai	conservative
+LT1857	n	qas	no	nuomojančiam ūkininkui	inclusive
+LT454	n	cds	no	fuszer	conservative
+LT1584	n	cds	no	skalbimo kambarys	inclusive
+LT277	n	ps	yes	minkštos	conservative
+LT671	n	cds	no	pareigūnas	inclusive
+LT446	n	cds	no	line-šaulys	conservative
+LT482	n	an	no	karvių	inclusive
+LT157	n	or	no	neišmanėlis	conservative
+LT2164	a	qas	no	paprastas	inclusive
+LT2145	n	an	no	aureus	inclusive
+LT1379	n	cds	no	masės	inclusive
+LT602	n	cds	no	silpnuolis	conservative
+LT1300	n	an	no	gyps fulvus	inclusive
+LT1226	n	dmc	yes	dillydallier	conservative
+LT1102	n	an	no	escargot	inclusive
+LT1444	n	ddp	yes	nonsensas	conservative
+LT1587	n	cds	no	išviečių	inclusive
+LT7	n	dmc	yes	abjection	inclusive
+LT1440	n	ddp	yes	nonsensicality	conservative
+LT555	n	dmc	yes	villainess	conservative
+LT1522	n	cds	no	loanshark	conservative
+LT1339	n	pr	no	pažaboti zaindeksowaniem	inclusive
+LT284	n	or	no	pudden galvutė	conservative
+LT478	n	an	no	buliai	inclusive
+LT418	n	cds	no	nesantuokinė vaikas	inclusive
+LT2121	n	cds	no	snobas	conservative
+LT842	n	svp	no	tanha	inclusive
+LT287	n	pr	no	prostitutė	inclusive
+LT79	n	cds	no	triukas	inclusive
+LT1770	n	an	no	żyjątko	inclusive
+LT1796	n	an	no	sraigės	inclusive
+LT190	n	ddp	yes	plepys	inclusive
+LT2300	n	pr	no	dvariškių	inclusive
+LT1856	n	asf	no	smulkmena	inclusive
+LT1576	n	cds	no	vagišius	conservative
+LT812	n	ddp	yes	kvailystė	inclusive
+LT752	n	svp	no	pyktis	inclusive
+LT166	n	or	no	dumbass	conservative
+LT1353	n	om	no	homoseksualizmas	inclusive
+LT709	n	cds	no	rutuliai-	inclusive
+LT162	n	asf	no	bukagalvis	conservative
+LT556	n	cds	no	nenaudėlis	conservative
+LT868	n	cds	no	trūkčioti-off	conservative
+LT69	n	om	no	analinių santykių	inclusive
+LT787	n	om	no	gėjų	conservative
+LT1678	n	cds	no	provincijos	conservative
+LT1009	n	svp	no	atsparumas	inclusive
+LT1125	n	dmc	yes	pasileidėlis	conservative
+LT225	n	ddp	yes	chamas	conservative
+LT222	n	ddp	yes	barbaras	conservative
+LT2225	n	asm	no	falą	inclusive
+LT803	n	cds	no	nutekamasis vamzdis	inclusive
+LT332	n	cds	no	fantazuoti	conservative
+LT573	n	cds	no	uždaras išrinktųjų ratas	inclusive
+LT469	n	an	no	brutalumas	conservative
+LT868	n	asm	no	trūkčioti-off	conservative
+LT1472	n	cds	no	pedagogė	inclusive
+LT822	n	qas	no	šiukšlių	inclusive
+LT256	n	an	no	šunytis	inclusive
+LT2069	n	re	no	raptio	inclusive
+LT638	n	cds	no	defrauder	inclusive
+LT1478	n	cds	no	jokester	inclusive
+LT1066	n	cds	no	gobs	inclusive
+LT817	n	qas	no	atliekos	inclusive
+LT1120	n	is	yes	vargšelis	inclusive
+LT1383	n	cds	no	hierarhs	inclusive
+LT1673	n	dmc	yes	grubus	conservative
+LT1242	n	asm	no	anglų pupelių	inclusive
+LT1880	n	re	no	nužudė	inclusive
+LT2018	n	re	no	plagiarizing	inclusive
+LT455	n	dmc	yes	nawalacz	conservative
+LT1677	n	dmc	yes	chawbacon	conservative
+LT78	n	cds	no	pokštas	inclusive
+LT481	n	an	no	galvijas	inclusive
+LT397	n	an	no	šunsnukis	conservative
+LT1545	n	asm	no	varpa	inclusive
+LT2215	n	re	no	teroro aktas	conservative
+LT1588	n	dmc	yes	slunkius	conservative
+LT1149	n	pr	no	laikomi moteris	conservative
+LT75	n	cds	no	tinginys	conservative
+LT1191	n	cds	no	virdulys žuvies	inclusive
+LT2330	n	ps	yes	zulus	inclusive
+LT1376	n	cds	no	bandos	inclusive
+LT688	n	an	no	vulgarumą	conservative
+LT1614	n	dmc	yes	mocarelos sūris	inclusive
+LT968	n	ddp	yes	dimwit	conservative
+LT1316	n	re	no	grand theft	inclusive
+LT605	n	asm	no	dvokla	inclusive
+LT1979	n	cds	no	zirzlys	conservative
+LT406	n	cds	no	streikas-iųjų	inclusive
+LT738	n	or	no	brassica oleracea	inclusive
+LT1091	n	qas	no	mėgėjas	conservative
+LT1603	n	an	no	varmas	inclusive
+LT831	n	an	no	cimex lectularius	inclusive
+LT599	n	dmc	yes	atstumtasis	inclusive
+LT494	n	asm	no	brownness	inclusive
+LT1120	n	dmc	yes	vargšelis	inclusive
+LT1877	n	re	no	nužudymas	inclusive
+LT1942	v	cds	no	mirti	inclusive
+LT152	n	or	no	idiotas	conservative
+LT2024	n	an	no	gallus	inclusive
+LT1455	n	is	yes	skurdo	inclusive
+LT312	n	cds	no	melagystė	inclusive
+LT187	n	svp	no	avariciousness	inclusive
+LT2284	n	om	no	drag queen	inclusive
+LT160	n	asf	no	saphead	conservative
+LT147	n	cds	no	sumanumas	inclusive
+LT1069	n	cds	no	marios	inclusive
+LT63	n	svp	no	savìmeilė	conservative
+LT1566	n	re	no	vagis	inclusive
+LT801	n	an	no	moo-karvė	inclusive
+LT1596	n	cds	no	moneygrubber	inclusive
+LT1541	n	cds	no	masė	inclusive
+LT2230	n	re	no	kankinami	inclusive
+LT969	n	ddp	yes	lepšis	conservative
+LT188	n	svp	no	šykštumas	conservative
+LT1811	n	ddf	yes	pusę pintos	conservative
+LT1612	n	an	no	grymas	inclusive
+LT134	n	an	no	makrofaunos	inclusive
+LT2243	n	om	no	kryžminio padažu	inclusive
+LT1688	n	qas	no	parazitų	inclusive
+LT1073	n	dmc	yes	klajokliškas	inclusive
+LT520	n	qas	no	buržuazijos	inclusive
+LT1433	n	ddf	yes	nedarbingumas	inclusive
+LT183	n	svp	no	godumo	inclusive
+LT345	n	svp	no	fanatikas	conservative
+LT800	n	ddp	yes	pleciuga	conservative
+LT1824	n	ps	yes	jigaboo	conservative
+LT273	n	cds	no	sawantka	inclusive
+LT2067	n	re	no	pagrobėjų	inclusive
+LT542	n	dmc	yes	git	conservative
+LT99	n	cds	no	uoliųjų	inclusive
+LT503	n	qas	no	valstiečių	inclusive
+LT1643	n	cds	no	policininkas	conservative
+LT1108	n	dmc	yes	moralinis kompasas	inclusive
+LT558	n	is	yes	šlykštus	conservative
+LT1490	n	om	no	didikė	inclusive
+LT2322	n	ps	yes	rroma	inclusive
+LT636	n	re	no	camorra	inclusive
+LT1677	n	cds	no	chawbacon	conservative
+LT305	n	an	no	staigule	conservative
+LT459	n	an	no	kūnų zadzējs	inclusive
+LT1573	n	cds	no	schoolma'am	conservative
+LT220	n	cds	no	barbarų	conservative
+LT1339	n	pr	no	pažaboti zaindeksowaniem	conservative
+LT1794	n	an	no	minkštakūnis	inclusive
+LT192	n	cds	no	cathouse	inclusive
+LT1354	n	om	no	androfilija	inclusive
+LT128	n	an	no	animuoti yra	inclusive
+LT414	n	ddp	yes	skurwysynu	conservative
+LT1923	n	an	no	moteris pościgowy	conservative
+LT1657	n	an	no	nelaimingų žinynas	inclusive
+LT1114	n	dmc	yes	etinis motyvas	inclusive
+LT205	n	svp	no	cheapskate	conservative
+LT167	n	cds	no	avigalvis	conservative
+LT1058	n	pa	yes	porter	inclusive
+LT32	n	cds	no	faktorius	inclusive
+LT2097	n	qas	no	daiļrunība	inclusive
+LT48	n	ddp	yes	plānprātība	inclusive
+LT705	n	qas	no	commoner	inclusive
+LT706	n	qas	no	paprastų žmonių	inclusive
+LT1570	n	or	no	pedantyczność	inclusive
+LT429	n	an	no	cuckold	conservative
+LT2274	n	ps	yes	geltoną kortelę	inclusive
+LT363	n	cds	no	rozbójnik	conservative
+LT1929	a	qas	no	parapijos	inclusive
+LT1503	n	dmc	yes	matacz	inclusive
+LT217	n	re	no	plėšikas	inclusive
+LT1142	n	cds	no	įsigyti	inclusive
+LT682	n	svp	no	minginess	conservative
+LT1232	n	re	no	gansteris	inclusive
+LT514	n	om	no	sodomita	inclusive
+LT1910	a	qas	no	įprastas	inclusive
+LT1048	n	qas	no	veislynas	inclusive
+LT541	n	dmc	yes	kiaulė	inclusive
+LT1115	n	an	no	eurypterids	inclusive
+LT559	n	re	no	piktadarys	conservative
+LT1916	n	dmc	yes	klounai	inclusive
+LT1049	n	qas	no	šuns būda	inclusive
+LT819	n	qas	no	laužo	inclusive
+LT600	n	dmc	yes	parijai	inclusive
+LT615	n	re	no	difamacija	inclusive
+LT221	n	ddp	yes	stačiokas	conservative
+LT811	n	ddp	yes	sveikatos sukčiavimo	conservative
+LT437	n	qas	no	crash	inclusive
+LT1109	n	dmc	yes	korektiškumą	inclusive
+LT2181	a	cds	no	protingas	inclusive
+LT861	n	an	no	athene noctua	inclusive
+LT1123	n	dmc	yes	paleistuvis	inclusive
+LT375	n	an	no	bizonų	inclusive
+LT771	n	pa	yes	kapralas	inclusive
+LT365	n	dmc	yes	uždrausta	inclusive
+LT139	n	re	no	išžaginimą	conservative
+LT1586	n	cds	no	lav	inclusive
+LT1163	n	cds	no	greitasis	conservative
+LT860	n	an	no	filinou	inclusive
+LT95	n	cds	no	folderol	conservative
+LT919	n	or	no	cucurbita maxima	inclusive
+LT156	n	an	no	asilas	inclusive
+LT926	n	cds	no	tricker	conservative
+LT2152	a	ps	yes	žydų	inclusive
+LT2248	n	om	no	crossdresser	inclusive
+LT254	n	pa	yes	advokatė	inclusive
+LT1727	n	pr	no	Žiurkės	inclusive
+LT668	n	pa	yes	klerkas	inclusive
+LT416	n	cds	no	draugužis	conservative
+LT515	n	or	no	pederastas	conservative
+LT324	n	ps	yes	beduinai	inclusive
+LT708	n	cds	no	valgomasis	inclusive
+LT1899	n	cds	no	homunkuls	inclusive
+LT556	n	dmc	yes	nenaudėlis	conservative
+LT129	n	ddp	yes	gyvulys	inclusive
+LT610	n	an	no	kvaiša	inclusive
+LT152	n	ps	yes	idiotas	conservative
+LT1647	n	cds	no	mafiozas	conservative
+LT210	n	asm	no	kiaušas	inclusive
+LT131	n	ddp	yes	metazoans	inclusive
+LT1380	n	cds	no	puikus neplautų	conservative
+LT150	n	an	no	betise	conservative
+LT1121	n	an	no	avis	inclusive
+LT2151	n	an	no	jackal	inclusive
+LT973	n	cds	no	nusikaltimas	inclusive
+LT1326	n	re	no	vogimas	inclusive
+LT2048	n	pr	no	laisvi moteris	conservative
+LT1342	n	pr	no	john	inclusive
+LT1105	n	dmc	yes	moralizavimu	inclusive
+LT369	n	re	no	baudžiamasis	inclusive
+LT1870	n	re	no	teroristas	inclusive
+LT626	n	re	no	Šmeižtas	inclusive
+LT733	n	pa	yes	docentas	inclusive
+LT1978	n	cds	no	bambalius	conservative
+LT132	n	an	no	epifaunal	inclusive
+LT530	n	cds	no	presumptuousness	conservative
+LT1146	n	cds	no	silpni	inclusive
+LT511	n	an	no	buivolas	inclusive
+LT603	n	an	no	wuss	conservative
+LT1625	n	cds	no	nerdy	conservative
+LT1879	n	re	no	žmogžudysčių	inclusive
+LT1280	n	an	no	mašalas	inclusive
+LT223	n	ddp	yes	laukinis	conservative
+LT1811	n	dmc	yes	pusę pintos	conservative
+LT31	n	cds	no	brokeriai	inclusive
+LT533	n	svp	no	pagyrūniškumas	conservative
+LT1230	n	svp	no	beprasmiškumą	conservative
+LT126	n	an	no	žvėris	inclusive
+LT610	n	asf	no	kvaiša	conservative
+LT1703	n	asm	no	Žirniai	inclusive
+LT1253	n	pr	no	moll	inclusive
+LT1313	n	cds	no	ištvirkėlis	conservative
+LT194	n	cds	no	kekšynas	inclusive
+LT2213	n	re	no	teroristinis aktas	inclusive
+LT884	n	cds	no	tarprūšinį hibridą	inclusive
+LT1398	n	svp	no	puikybė	inclusive
+LT117	n	an	no	unguriažuvės	inclusive
+LT1278	n	asf	no	pūlingas	conservative
+LT1222	n	svp	no	įsiūtis	conservative
+LT606	n	ps	yes	silpnaprotis	conservative
+LT759	n	an	no	šūdas	conservative
+LT1060	n	pa	yes	durelių apsauga	inclusive
+LT2006	n	asm	no	rankų darbas	conservative
+LT2141	n	dmc	yes	antrosios vertintojas	conservative
+LT308	n	dmc	yes	netiesa	inclusive
+LT454	n	ddp	yes	fuszer	conservative
+LT851	n	an	no	vamper	conservative
+LT252	n	pa	yes	teisininkų	inclusive
+LT356	n	cds	no	gauja	conservative
+LT550	n	dmc	yes	valkata	conservative
+LT1768	n	an	no	animalculum	inclusive
+LT734	n	pa	yes	profesoriai	inclusive
+LT909	n	asf	no	pyzda	conservative
+LT198	n	cds	no	viešieji namai	inclusive
+LT1881	n	re	no	pirmojo laipsnio žmogžudyste	inclusive
+LT1605	n	an	no	moskitai	inclusive
+LT27	n	re	no	piktnaudžiauti	inclusive
+LT267	n	cds	no	blackballing	inclusive
+LT2332	n	ps	yes	zulu žmonių	inclusive
+LT732	n	cds	no	mokytojas	inclusive
+LT867	n	asm	no	wanker	conservative
+LT466	n	ddp	yes	zooerasty	conservative
+LT605	n	cds	no	dvokla	inclusive
+LT1757	n	an	no	ryklių	inclusive
+LT2078	n	re	no	apiplėšta	inclusive
+LT1473	n	cds	no	instruktorius	inclusive
+LT287	n	pr	no	prostitutė	conservative
+LT2226	n	re	no	kančia	inclusive
+LT279	n	cds	no	pillock	conservative
+LT185	n	svp	no	godumas	inclusive
+LT1590	n	svp	no	slackers	conservative
+LT164	n	or	no	głupek	conservative
+LT1086	n	cds	no	plikis	inclusive
+LT2323	n	ps	yes	romanis	inclusive
+LT94	n	ddp	yes	nesąmonė	conservative
+LT165	n	or	no	pusgalvis	conservative
+LT317	n	cds	no	miestietis	inclusive
+LT1529	n	cds	no	sassing	inclusive
+LT348	n	dmc	yes	aklatikis	conservative
+LT2197	n	re	no	seksualiai prievartaujami	inclusive
+LT1414	n	asf	no	panelė	conservative
+LT545	n	an	no	bjaurata	conservative
+LT216	n	dmc	yes	banditas	conservative
+LT1492	n	om	no	lady	inclusive
+LT2282	n	cds	no	konspiracijų teorijos	inclusive
+LT536	n	svp	no	išdidumas	inclusive
+LT752	n	an	no	pyktis	inclusive
+LT1014	n	dmc	yes	veidmainis	conservative
+LT805	n	cds	no	bailys	conservative
+LT1821	n	ps	yes	negras	conservative
+LT276	n	asf	no	patiklus asmuo	conservative
+LT1530	n	cds	no	backtalk	inclusive
+LT1604	n	an	no	moskitas	inclusive
+LT2195	n	re	no	seksualiai išnaudojamas	inclusive
+LT1257	n	cds	no	pataisos pareigūno	inclusive
+LT1652	n	re	no	mafiozai	inclusive
+LT1057	n	an	no	ovis aries	inclusive
+LT887	n	cds	no	kryžminio veisimo	inclusive
+LT775	n	cds	no	korespondentas	inclusive
+LT260	n	qas	no	baronų	inclusive
+LT217	n	re	no	plėšikas	conservative
+LT888	n	cds	no	mišrūnas	inclusive
+LT349	n	svp	no	davatka	conservative
+LT1404	n	an	no	hienos	inclusive
+LT47	n	pa	yes	akademikai	inclusive
+LT2301	n	re	no	pasiutligė	inclusive
+LT1636	n	svp	no	patvirkimas	inclusive
+LT250	n	pa	yes	advokatą	inclusive
+LT1142	n	cds	no	įsigyti	conservative
+LT277	n	an	no	minkštos	conservative
+LT2089	n	cds	no	padlaižys	conservative
+LT1852	n	cds	no	nimfomanija	inclusive
+LT1294	v	asm	no	kruštis	conservative
+LT1716	n	is	yes	beturčiai	inclusive
+LT127	n	an	no	gyvūnija	inclusive
+LT2014	n	re	no	nuplagijuoti	inclusive
+LT81	n	dmc	yes	juokdarys	inclusive
+LT1610	n	an	no	kandys	inclusive
+LT1556	n	ddp	yes	moronity	inclusive
+LT160	n	asm	no	saphead	conservative
+LT1825	n	ps	yes	darkie	conservative
+LT347	n	dmc	yes	bigoteryjny	conservative
+LT607	n	ps	yes	debilas	conservative
+LT1581	n	cds	no	visuomenės patogumui	inclusive
+LT193	n	cds	no	bordello	inclusive
+LT115	n	an	no	unguriai	inclusive
+LT207	n	svp	no	scrooge	conservative
+LT2172	n	cds	no	wonk	conservative
+LT994	n	ps	yes	naktipuodis	conservative
+LT257	n	an	no	šuo	inclusive
+LT655	n	cds	no	klanų	inclusive
+LT720	n	qas	no	kastų	inclusive
+LT1976	n	is	yes	apdriskėlis	conservative
+LT1425	n	dmc	yes	dirbti apgraibomis	inclusive
+LT159	n	cds	no	kvailas	conservative
+LT1289	n	cds	no	ekstremalių dešiniuoju pelės krašto saugas	conservative
+LT85	n	cds	no	likučiai	inclusive
+LT651	n	an	no	familiaris	inclusive
+LT89	n	asm	no	atauga	inclusive
+LT1061	n	re	no	nepilnamečių nusikalstamo	conservative
+LT1518	n	cds	no	paskolos sharking	conservative
+LT208	n	asm	no	sėklidžių	inclusive
+LT1675	n	dmc	yes	žolių sėklos	conservative
+LT13	n	svp	no	spiritlessness	inclusive
+LT670	n	pa	yes	pareigūnai	inclusive
+LT1872	n	an	no	erkės	inclusive
+LT501	n	qas	no	valstietis	inclusive
+LT2155	a	qas	no	viduramžių	inclusive
+LT453	n	qas	no	bumbler	conservative
+LT106	n	an	no	ungurinės	inclusive
+LT343	n	pa	yes	aptarnavimo	inclusive
+LT17	n	qas	no	akolitų	inclusive
+LT2258	n	asm	no	paukščiai	inclusive
+LT102	n	ddp	yes	analphabet	inclusive
+LT2130	n	an	no	siuntėjai	inclusive
+LT1682	n	qas	no	autoinfection	inclusive
+LT9	n	svp	no	abulia	inclusive
+LT1232	n	dmc	yes	gansteris	inclusive
+LT2318	n	cds	no	delinkventas	inclusive
+LT1034	n	om	no	sąvokos anatominę vietą	inclusive
+LT896	n	cds	no	krūva	inclusive
+LT1374	n	ps	yes	žydijos	inclusive
+LT1491	n	om	no	ponios	inclusive
+LT1248	n	asf	no	makštis	conservative
+LT1618	n	an	no	dziamdzia	conservative
+LT2060	n	pa	yes	kontrolierius	inclusive
+LT1268	n	asf	no	tarpkojo plaukai	inclusive
+LT1999	a	svp	no	gobšus	inclusive
+LT2144	n	an	no	Šakalai	inclusive
+LT312	n	dmc	yes	melagystė	inclusive
+LT1120	n	dmc	yes	vargšelis	conservative
+LT322	n	cds	no	sumaištis	inclusive
+LT729	n	pa	yes	profesorė	inclusive
+LT556	n	re	no	nenaudėlis	conservative
+LT581	n	cds	no	vezumnieku	inclusive
+LT1809	n	cds	no	pagrobėjas	inclusive
+LT1517	n	cds	no	lupikautojų	inclusive
+LT220	n	ddp	yes	barbarų	conservative
+LT402	n	an	no	suskretėlis	conservative
+LT229	n	qas	no	pirklys	inclusive
+LT2190	n	re	no	prievartautojas	conservative
+LT608	n	ps	yes	changeling	conservative
+LT307	n	pr	no	pasileidėlė	conservative
+LT2315	n	dmc	yes	išdavikas	conservative
+LT984	n	an	no	diddly-pritūpęs	conservative
+LT1799	n	ps	yes	mongoloid	conservative
+LT275	n	an	no	kvailelis	conservative
+LT1144	n	cds	no	sąvadautojas	conservative
+LT549	n	dmc	yes	valkatų	conservative
+LT283	n	ddp	yes	pudingas vadovas	conservative
+LT540	n	cds	no	apimtis	inclusive
+LT1512	n	re	no	žudikas	inclusive
+LT1645	n	cds	no	cosa nostra	inclusive
+LT1943	v	cds	no	numirti	inclusive
+LT681	n	an	no	ožkų	inclusive
+LT411	n	cds	no	bastard	conservative
+LT124	n	ddp	yes	gyvūnų	inclusive
+LT1694	n	an	no	papūga	inclusive
+LT808	n	ddp	yes	šarlatanu	conservative
+LT1119	n	cds	no	vargšas	conservative
+LT2189	n	re	no	raper	conservative
+LT1203	n	asm	no	preputium	inclusive
+LT1609	n	an	no	drugys	inclusive
+LT818	n	cds	no	buitinių atliekų	conservative
+LT143	n	cds	no	perspicaciousness	inclusive
+LT1810	n	ddf	yes	nykštukinė	conservative
+LT2038	a	ps	yes	kiniška	inclusive
+LT917	n	or	no	cuke	inclusive
+LT373	n	an	no	ožys	inclusive
+LT284	n	ddp	yes	pudden galvutė	conservative
+LT1687	n	qas	no	parazituoja	inclusive
+LT1751	n	ps	yes	mestizos	conservative
+LT168	n	ddp	yes	fuckhead	conservative
+LT809	n	ddp	yes	šarlatanas	conservative
+LT296	n	pr	no	šlako	conservative
+LT2313	n	dmc	yes	renegatas	conservative
+LT1966	n	dmc	yes	lekkoduch	conservative
+LT100	n	ddp	yes	lasītnepratējs	inclusive
+LT948	n	pr	no	doktrina	inclusive
+LT2106	n	an	no	anurans	inclusive
+LT455	n	qas	no	nawalacz	conservative
+LT1721	n	cds	no	prankishness	inclusive
+LT544	n	dmc	yes	toks ir toks	inclusive
+LT1120	n	cds	no	vargšelis	conservative
+LT2216	n	an	no	caimans	inclusive
+LT1273	n	cds	no	quidnunc	conservative
+LT1337	n	pr	no	prostitutas	inclusive
+LT10	n	svp	no	abulija	inclusive
+LT2068	n	re	no	apiplėšimas	inclusive
+LT2253	n	pr	no	ragana	conservative
+LT1789	n	qas	no	spurga	inclusive
+LT1169	n	om	no	pankolių	inclusive
+LT1091	n	qas	no	mėgėjas	inclusive
+LT930	n	om	no	madam	inclusive
+LT2146	n	an	no	šakalas	inclusive
+LT164	n	asf	no	głupek	conservative
+LT164	n	an	no	głupek	conservative
+LT164	n	ps	yes	głupek	conservative
+LT1240	n	asm	no	fava	inclusive
+LT470	n	re	no	nuožmumas	inclusive
+LT44	a	pa	yes	teorinis	inclusive
+LT1372	n	ps	yes	Žydai	inclusive
+LT92	n	asm	no	išauga	inclusive
+LT457	n	dmc	yes	fumbler	conservative
+LT761	n	an	no	kiškis	inclusive
+LT233	n	qas	no	biržos verteiva	inclusive
+LT2020	n	an	no	volaille	inclusive
+LT2	n	svp	no	tingumas	inclusive
+LT939	n	dmc	yes	apgaulingas	conservative
+LT269	n	cds	no	balsuoti	inclusive
+LT1866	n	an	no	brant	inclusive
+LT1076	n	cds	no	juodadarbis	inclusive
+LT1139	n	cds	no	fanatism	conservative
+LT974	n	cds	no	neteisėtą veiklą	inclusive
+LT297	n	pr	no	nevalyvas moteris	conservative
+LT897	n	re	no	kankinimas	inclusive
+LT1319	n	re	no	vagystės	inclusive
+LT1912	n	ps	yes	vandalai	inclusive
+LT969	n	asm	no	lepšis	conservative
+LT609	n	asm	no	changelings	inclusive
+LT38	n	pa	yes	mokslo	inclusive
+LT1896	n	re	no	kankintojas	inclusive
+LT1077	n	ddf	yes	nykštukas	conservative
+LT945	n	cds	no	demagog	conservative
+LT814	n	ddp	yes	krykimas	conservative
+LT1745	n	cds	no	nuotekos	inclusive
+LT798	n	ddp	yes	šnipas	conservative
+LT1123	n	dmc	yes	paleistuvis	conservative
+LT1101	n	qas	no	diletantas	conservative
+LT1913	n	an	no	angis	inclusive
+LT692	n	asm	no	bybỹs	conservative
+LT1042	n	om	no	nates	inclusive
+LT996	n	ps	yes	kraut	conservative
+LT150	n	asf	no	betise	conservative
+LT2092	n	cds	no	podhale	conservative
+LT1702	n	dmc	yes	evilness	inclusive
+LT1166	n	or	no	pankolis	inclusive
+LT290	n	cds	no	sąvadautoja	inclusive
+LT313	n	cds	no	dandy	inclusive
+LT1369	n	ps	yes	hebraizmas	inclusive
+LT2214	n	re	no	terorizmas	conservative
+LT200	n	cds	no	lošimo namai	inclusive
+LT1185	n	pa	yes	turgaus boba	inclusive
+LT1022	n	om	no	ventrolateral	inclusive
+LT1229	n	svp	no	tuštumas	conservative
+LT2125	n	cds	no	przemądrzały tipas	conservative
+LT169	n	ddp	yes	muttonhead	conservative
+LT154	n	an	no	žioplys	conservative
+LT170	n	an	no	bukaprotis	conservative
+LT1884	n	re	no	pirmojo laipsnio žmogžudystę	inclusive
+LT1885	n	re	no	nužudymų	inclusive
+LT145	n	cds	no	apsukrumas	inclusive
+LT834	n	an	no	lova klaidą	inclusive
+LT1504	n	cds	no	išsisukinėjimas	conservative
+LT1271	n	cds	no	įkyrus žmogus	conservative
+LT2100	a	cds	no	fašistinis	inclusive
+LT2174	a	pa	yes	politiškas	inclusive
+LT1901	n	dmc	yes	trickster dievo	conservative
+LT1125	n	cds	no	pasileidėlis	conservative
+LT1260	n	cds	no	kalėjimo prižiūrėtojas	inclusive
+LT686	n	qas	no	iliuzija	inclusive
+LT1845	n	ps	yes	kitų rasių	inclusive
+LT2186	n	ddp	yes	beprasmybė	inclusive
+LT477	n	pr	no	karvės	inclusive
+LT904	n	cds	no	dēliņš	inclusive
+LT326	n	ps	yes	beduin	inclusive
+LT788	n	or	no	homoseksualė	conservative
+LT953	n	pr	no	dvariškis	inclusive
+LT1500	n	svp	no	gašlumas	inclusive
+LT625	n	re	no	Šmeižimas	inclusive
+LT420	n	cds	no	nesantuokinis vaikas	inclusive
+LT1676	n	cds	no	gamajda	conservative
+LT173	n	an	no	tamsuolis	conservative
+LT220	n	qas	no	barbarų	conservative
+LT2159	n	ddp	yes	neprotingumas	inclusive
+LT1421	n	cds	no	stabų garbinimo	inclusive
+LT1429	n	ddf	yes	invalidumas	inclusive
+LT95	n	asf	no	folderol	conservative
+LT893	n	ps	yes	selekcininkų	inclusive
+LT990	n	cds	no	nusikalstamumas	inclusive
+LT531	n	cds	no	įžūlumas	conservative
+LT431	n	cds	no	aklavietėje gatvės	inclusive
+LT151	n	cds	no	kvailys	inclusive
+LT1008	n	svp	no	pasibjaurėjimą	inclusive
+LT409	n	cds	no	streikas ardymo	inclusive
+LT1852	n	cds	no	nimfomanija	conservative
+LT2127	n	an	no	hirudinea	inclusive
+LT1283	n	an	no	caprinae	inclusive
+LT94	n	ddp	yes	nesąmonė	inclusive
+LT737	n	pa	yes	dėstytojas	inclusive
+LT1509	a	ps	yes	nelaimingas	inclusive
+LT170	n	or	no	bukaprotis	conservative
+LT119	n	an	no	animalia	inclusive
+LT1620	n	an	no	ślamazara	conservative
+LT1119	n	dmc	yes	vargšas	conservative
+LT396	n	dmc	yes	niekšas	conservative
+LT22	n	re	no	piktnaudžiavimo	inclusive
+LT157	n	asf	no	neišmanėlis	conservative
+LT585	n	an	no	carcharodon	inclusive
+LT1665	n	om	no	pederastic	inclusive
+LT275	n	cds	no	kvailelis	conservative
+LT535	n	cds	no	aukštos kairiarankiškumas	conservative
+LT319	n	cds	no	wywrócony turvyness	inclusive
+LT1375	n	ps	yes	žydas	inclusive
+LT1526	n	an	no	vabzdys	inclusive
+LT397	n	cds	no	šunsnukis	conservative
+LT642	n	cds	no	scammer	conservative
+LT382	n	cds	no	išdykęs	conservative
+LT2316	n	an	no	Šliužiniai	inclusive
+LT1288	n	cds	no	reakcingas	conservative
+LT1631	n	svp	no	ištvirkavimas	inclusive
+LT2193	n	re	no	seksualiai užpuolimas	inclusive
+LT407	n	re	no	sukčius	inclusive
+LT58	n	an	no	amerikos buivolo	inclusive
+LT643	n	dmc	yes	grifter	conservative
+LT158	n	asm	no	domino	conservative
+LT1961	n	cds	no	skrupulat	conservative
+LT203	n	cds	no	viešnamių	inclusive
+LT871	n	ddf	yes	paralyžiuoti	inclusive
+LT221	n	ps	yes	stačiokas	conservative
+LT1990	n	an	no	utėlė	inclusive
+LT1190	n	dmc	yes	klastotes	inclusive
+LT543	n	dmc	yes	apgailėtinus buvimas	conservative
+LT1371	n	ps	yes	judėjas	inclusive
+LT2173	a	pa	yes	politinis	inclusive
+LT2239	n	pa	yes	baltos apykaklės darbuotojų	inclusive
+LT310	n	qas	no	melagingo	conservative
+LT1168	n	om	no	foeniculum	inclusive
+LT384	n	ps	yes	inkiness	inclusive
+LT2331	n	ps	yes	zulusai	inclusive
+LT577	n	cds	no	vidinis apskritimas	inclusive
+LT837	n	an	no	hemipteran	inclusive
+LT478	n	pr	no	buliai	inclusive
+LT413	n	cds	no	dickhead	conservative
+LT1635	n	svp	no	paleistuvystė	inclusive
+LT167	n	asf	no	avigalvis	conservative
+LT164	n	ddp	yes	głupek	conservative
+LT1311	n	cds	no	literatūros hack	conservative
+LT298	n	pr	no	šlakas	conservative
+LT345	n	cds	no	fanatikas	conservative
+LT165	n	ddp	yes	pusgalvis	conservative
+LT2269	n	qas	no	nardymo svorių sistema	inclusive
+LT1213	n	cds	no	laisvosios mason	inclusive
+LT1340	n	pr	no	prostitucija	inclusive
+LT6	n	svp	no	acedia	inclusive
+LT1322	n	re	no	thieving	inclusive
+LT1899	n	dmc	yes	homunkuls	inclusive
+LT228	n	an	no	barbarizmas	inclusive
+LT735	n	pa	yes	prof	inclusive
+LT1679	n	qas	no	necrotrophic	inclusive
+LT728	n	pa	yes	profesūra	inclusive
+LT76	n	qas	no	pažas	inclusive
+LT2227	n	re	no	agonija	inclusive
+LT808	n	cds	no	šarlatanu	conservative
+LT2087	a	om	no	skirtingas	inclusive
+LT485	n	an	no	jaučių	inclusive
+LT539	n	cds	no	conceitedness	conservative
+LT144	n	cds	no	įžvalgumas	inclusive
+LT153	n	or	no	mulkis	conservative
+LT1994	n	an	no	utėlės	inclusive
+LT1664	n	om	no	homoseksualizmo	inclusive
+LT1652	n	re	no	mafiozai	conservative
+LT1826	n	ps	yes	juodųjų	conservative
+LT249	n	pa	yes	šalininkas	inclusive
+LT841	n	dmc	yes	apgaulė	conservative
+LT846	n	ddp	yes	kvailumas	conservative
+LT505	n	qas	no	verslininkas	inclusive
+LT1291	v	asm	no	pistis	conservative
+LT1628	n	svp	no	luxuria	inclusive
+LT1053	n	svp	no	smaguris	inclusive
+LT1425	n	cds	no	dirbti apgraibomis	conservative
+LT189	n	an	no	šykštuolis	conservative
+LT2094	a	dmc	yes	nešvarus	inclusive
+LT310	n	cds	no	melagingo	inclusive
+LT214	n	asm	no	bollocks	inclusive
+LT2214	n	re	no	terorizmas	inclusive
+LT604	n	cds	no	sentimentalumas	conservative
+LT347	n	svp	no	bigoteryjny	conservative
+LT367	n	re	no	uždrausti	inclusive
+LT1078	n	an	no	nanus	conservative
+LT2286	n	pa	yes	cordwainer	inclusive
+LT2318	n	dmc	yes	delinkventas	inclusive
+LT555	n	is	yes	villainess	conservative
+LT632	n	re	no	maligner	conservative
+LT1070	n	cds	no	vieliniai lynai	inclusive
+LT1616	n	dmc	yes	mocarela	inclusive
+LT546	n	cds	no	maurėti krepšys	conservative
+LT1262	n	cds	no	krūtinės ląstos	conservative
+LT545	n	dmc	yes	bjaurata	conservative
+LT339	n	dmc	yes	gamintojais	conservative
+LT370	n	cds	no	szajka bandycka	conservative
+LT217	n	an	no	plėšikas	conservative
+LT159	n	asm	no	kvailas	conservative
+LT792	n	om	no	homofils	conservative
+LT1518	n	cds	no	paskolos sharking	inclusive
+LT2101	n	an	no	kurkulai	inclusive
+LT796	n	ddp	yes	gandonešis	conservative
+LT2006	n	cds	no	rankų darbas	conservative
+LT1343	n	pr	no	seksualinių paslaugų	inclusive
+LT142	n	cds	no	nuovokumas	inclusive
+LT1840	n	an	no	gyvis	inclusive
+LT1717	n	is	yes	neturtingi žmonės	inclusive
+LT1320	n	re	no	kišenvagystė	inclusive
+LT1164	n	re	no	išpešti	inclusive
+LT823	n	cds	no	kietųjų atliekų	inclusive
+LT169	n	asf	no	muttonhead	conservative
+LT311	n	dmc	yes	neteisybė	inclusive
+LT468	n	an	no	gyvuliškumo	conservative
+LT853	n	asm	no	patiklumas	conservative
+LT1758	n	an	no	selachomorpha	inclusive
+LT1398	n	cds	no	puikybė	conservative
+LT749	n	svp	no	geidulys	inclusive
+LT641	n	cds	no	aferistas	inclusive
+LT606	n	asm	no	silpnaprotis	inclusive
+LT1426	n	an	no	strix varia	inclusive
+LT1482	n	dmc	yes	cheater	conservative
+LT1419	n	cds	no	garbinti stabus	inclusive
+LT815	n	cds	no	laužas	inclusive
+LT1641	n	cds	no	policijos pareigūnų	conservative
+LT1443	n	ddp	yes	niekai	conservative
+LT618	n	re	no	šmeižikiški	inclusive
+LT943	n	cds	no	prasčiokai-rouser	conservative
+LT1645	n	cds	no	cosa nostra	conservative
+LT2064	n	re	no	pagrobti	inclusive
+LT2234	n	an	no	balionas swallower	inclusive
+LT49	n	ddp	yes	idiotija	inclusive
+LT970	n	asm	no	doofus	conservative
+LT472	n	ddp	yes	neteisingas	conservative
+LT1117	n	dmc	yes	blogis	conservative
+LT84	n	cds	no	jūklis	inclusive
+LT1223	n	svp	no	įtūžis	inclusive
+LT2293	n	an	no	lerva	inclusive
+LT405	n	cds	no	dab	inclusive
+LT277	n	cds	no	minkštos	conservative
+LT1607	n	an	no	uodai	inclusive
+LT295	n	pr	no	apskretėlė	conservative
+LT552	n	cds	no	próżniak	conservative
+LT541	n	dmc	yes	kiaulė	conservative
+LT1337	n	pr	no	prostitutas	conservative
+LT1858	n	qas	no	žemės nuomininkas	inclusive
+LT1953	n	or	no	bulvės	inclusive
+LT480	n	an	no	bos taurus	inclusive
+LT1338	n	pr	no	komercinio sekso	inclusive
+LT1773	n	ddp	yes	microcephalic	inclusive
+LT1656	n	cds	no	mafijozas	conservative
+LT1661	n	an	no	jautis	inclusive
+LT1519	n	cds	no	lupikavimas	conservative
+LT417	n	cds	no	meilė vaikas	inclusive
+LT300	n	an	no	rentboy	conservative
+LT806	n	cds	no	bailumas	conservative
+LT1044	n	om	no	caudally	inclusive
+LT1515	n	cds	no	lichwiarz	conservative
+LT1390	n	svp	no	persivalgymo	inclusive
+LT777	n	or	no	poove	conservative
+LT2217	n	ddp	yes	skopulis	conservative
+LT838	n	cds	no	gudrumas	conservative
+LT1052	n	svp	no	gourmandizer	conservative
+LT1744	n	an	no	skorpionžuve	inclusive
+LT2263	n	cds	no	nuotakynas	inclusive
+LT435	n	cds	no	išlyga	inclusive
+LT122	n	ddp	yes	faunos	inclusive
+LT564	n	cds	no	cacography	inclusive
+LT1237	n	asm	no	pupos	inclusive
+LT216	n	cds	no	banditas	inclusive
+LT1228	n	dmc	yes	melancholikas	conservative
+LT338	n	dmc	yes	prasimanėlis	conservative
+LT1067	n	cds	no	kamšalus	inclusive
+LT1600	n	an	no	kuisys	inclusive
+LT516	n	qas	no	vidurinioji klasė	inclusive
+LT1723	n	cds	no	superbia	conservative
+LT270	n	cds	no	blackballed	inclusive
+LT94	n	cds	no	nesąmonė	conservative
+LT765	n	an	no	triušiai	inclusive
+LT933	n	om	no	dame	inclusive
+LT1063	n	cds	no	plaustai	inclusive
+LT946	n	pr	no	courtesans	inclusive
+LT1225	n	svp	no	dallier	conservative
+LT197	n	cds	no	bordelis	inclusive
+LT1772	n	ddp	yes	nanocephaly	inclusive
+LT65	n	svp	no	slothfulness	inclusive
+LT276	n	an	no	patiklus asmuo	conservative
+LT2036	a	ps	yes	kinų	inclusive
+LT1589	n	cds	no	slacker	conservative
+LT1192	n	an	no	siphonaptera	inclusive
+LT2255	n	pr	no	hetaira	inclusive
+LT782	n	or	no	ros	conservative
+LT1649	n	cds	no	mafija	inclusive
+LT1351	n	om	no	shirtlifter	inclusive
+LT1286	n	svp	no	ne-sąskaitos	conservative
+LT41	n	pa	yes	fakulteto	inclusive
+LT2140	n	an	no	blattaria	inclusive
+LT1710	n	asm	no	žirniai	inclusive
+LT1926	n	qas	no	moocher	conservative
+LT1553	n	svp	no	rūstybė	inclusive
+LT408	n	cds	no	streiklaužys	inclusive
+LT1551	n	svp	no	invidia	inclusive
+LT2066	n	re	no	žmogaus pagrobimas	inclusive
+LT107	n	an	no	anguilla	inclusive
+LT410	n	cds	no	strikebreakers	inclusive
+LT768	n	cds	no	sąmokslo tylos	inclusive
+LT167	n	ps	yes	avigalvis	conservative
+LT2267	n	an	no	kaimanai	inclusive
+LT320	n	cds	no	suirutė	inclusive
+LT921	n	qas	no	skerdimo	conservative
+LT82	n	qas	no	kratinys	inclusive
+LT154	n	ddp	yes	žioplys	conservative
+LT539	n	svp	no	conceitedness	conservative
+LT1217	n	cds	no	fundamentalizmas	inclusive
+LT1021	n	om	no	ipsilateral	inclusive
+LT1769	n	an	no	gyvūnėlis	inclusive
+LT2192	n	re	no	išžaginimas	inclusive
+LT2183	a	ddp	yes	negali	inclusive
+LT627	n	re	no	neteisingų kaltinimų	inclusive
+LT2132	n	an	no	hirudinean	inclusive
+LT1632	n	svp	no	nepadorią	inclusive
+LT211	n	asm	no	ballock	inclusive
+LT2105	n	an	no	salientian	inclusive
+LT224	n	qas	no	barbarai	conservative
+LT1468	n	cds	no	pasipūtimas	conservative
+LT1111	n	dmc	yes	etinis įsitikinimas	inclusive
+LT215	n	qas	no	kiaušai	inclusive
+LT1524	n	an	no	vabzdžių	inclusive
+LT2049	n	pr	no	fornicatress	conservative
+LT1580	n	cds	no	visuomeninė nauda	inclusive
+LT1393	n	qas	no	ūkvedyba	inclusive
+LT2213	n	re	no	teroristinis aktas	conservative
+LT2289	n	dmc	yes	valkatos	inclusive
+LT2029	n	cds	no	kūdikiams	inclusive
+LT2238	n	pa	yes	tarnautojas	inclusive
+LT603	n	cds	no	wuss	conservative
+LT961	n	an	no	grobikas	inclusive
+LT2056	n	pa	yes	buhalteris	inclusive
+LT129	n	an	no	gyvulys	inclusive
+LT1174	n	dmc	yes	tvaikas	conservative
+LT888	n	ps	yes	mišrūnas	inclusive
+LT1786	n	pa	yes	aviganis	inclusive
+LT901	n	qas	no	atitikties	inclusive
+LT998	n	cds	no	purvo	inclusive
+LT1804	n	qas	no	dvasinis vadovas	inclusive
+LT1684	n	qas	no	parazitinės	inclusive
+LT162	n	ddp	yes	bukagalvis	conservative
+LT1723	n	svp	no	superbia	conservative
+LT2003	a	re	no	įnirtingas	inclusive
+LT567	n	an	no	kaimanų	inclusive
+LT1045	n	om	no	priešingos	inclusive
+LT816	n	cds	no	šiukšlės	inclusive
+LT1920	n	an	no	kirmėlė	inclusive
+LT1392	n	qas	no	namudė	inclusive
+LT151	n	ps	yes	kvailys	conservative
+LT231	n	qas	no	trader	inclusive
+LT1467	n	cds	no	ostentatiousness	inclusive
+LT1641	n	cds	no	policijos pareigūnų	inclusive
+LT1454	n	is	yes	mažas pajamas	inclusive
+LT1221	n	cds	no	fundamentalizmo	inclusive
+LT204	n	cds	no	blogos reputacijos namai	inclusive
+LT2047	a	ddf	yes	luošas	inclusive
+LT1271	n	qas	no	įkyrus žmogus	conservative
+LT427	n	pa	yes	dellamore	inclusive
+LT821	n	qas	no	šlamštas	inclusive
+LT1647	n	re	no	mafiozas	conservative
+LT1088	n	cds	no	inteligentas	inclusive
+LT1124	n	dmc	yes	libertine	conservative
+LT758	n	asm	no	nookie	conservative
+LT1805	n	qas	no	dvasinis lyderis	inclusive
+LT1662	n	an	no	storulis	conservative
+LT2247	n	om	no	crossdress	inclusive
+LT8	n	svp	no	aboulia	inclusive
+LT534	n	cds	no	chełpliwość	conservative
+LT2305	n	an	no	angys	inclusive
+LT846	n	asm	no	kvailumas	conservative
+LT642	n	re	no	scammer	inclusive
+LT971	n	ps	yes	ruiner	conservative
+LT377	n	ddp	yes	pasakininkas	conservative
+LT1162	n	cds	no	fascista	inclusive
+LT1523	n	an	no	insecta	inclusive
+LT441	n	qas	no	blooper	inclusive
+LT1003	n	an	no	šunybė	conservative
+LT1276	n	cds	no	landžioti	conservative
+LT1126	n	dmc	yes	eikvotojas	inclusive
+LT120	n	ddp	yes	epifauna	inclusive
+LT611	n	an	no	kalė	conservative
+LT537	n	cds	no	augstprātība	conservative
+LT1655	n	ps	yes	ostrogotai	inclusive
+LT180	n	an	no	bison bonasus	inclusive
+LT2167	n	an	no	sciaenops ocellatus	inclusive
+LT741	n	or	no	kopūstas	inclusive
+LT1930	a	qas	no	parapinis	inclusive
+LT908	n	or	no	putė	conservative
+LT906	n	or	no	twat	conservative
+LT819	n	cds	no	laužo	inclusive
+LT1160	n	cds	no	fašistų	conservative
+LT601	n	dmc	yes	pariasas	inclusive
+LT1104	n	qas	no	mėgėjų	inclusive
+LT130	n	an	no	gyvūnai	inclusive
+LT223	n	qas	no	laukinis	conservative
+LT2283	n	ps	yes	česnakas	conservative
+LT1210	n	cds	no	masonų	inclusive
+LT453	n	dmc	yes	bumbler	conservative
+LT442	n	qas	no	painiava	inclusive
+LT1653	n	ps	yes	ostgotas	inclusive
+LT1173	n	dmc	yes	malodour	conservative
+LT161	n	an	no	shithead	conservative
+LT396	n	re	no	niekšas	conservative
+LT453	n	cds	no	bumbler	conservative
+LT422	n	re	no	Šantažas	conservative
+LT684	n	svp	no	niggardness	conservative
+LT419	n	cds	no	neteisėtas	inclusive
+LT2256	n	asm	no	paukščių	inclusive
+LT759	n	asm	no	šūdas	conservative
+LT18	n	re	no	sponiewieranie	inclusive
+LT1589	n	dmc	yes	slacker	conservative
+LT979	n	an	no	diddlyshit	conservative
+LT604	n	an	no	sentimentalumas	conservative
+LT157	n	an	no	neišmanėlis	conservative
+LT1425	n	cds	no	dirbti apgraibomis	inclusive
+LT908	n	asf	no	putė	conservative
+LT704	n	qas	no	prasčiokas	inclusive
+LT2290	n	cds	no	parsidavimas	conservative
+LT88	n	qas	no	mišinys	inclusive
+LT278	n	asm	no	lengvatikis	conservative
+LT1638	n	svp	no	gašlus	inclusive
+LT1399	n	cds	no	hustling	conservative
+LT1074	n	ps	yes	drifter	inclusive
+LT969	n	ps	yes	lepšis	conservative
+LT665	n	cds	no	gentis	inclusive
+LT1181	n	asm	no	žuvų	inclusive
+LT1321	n	cds	no	vagys	inclusive
+LT1714	n	an	no	piggy	inclusive
+LT1038	n	om	no	tooshie	inclusive
+LT1506	n	re	no	neonaticide	inclusive
+LT756	n	asm	no	shtup	conservative
+LT2229	n	re	no	kankinimai	inclusive
+LT337	n	dmc	yes	melagis	conservative
+LT1779	n	ddp	yes	silpnaprotiškumas	conservative
+LT1892	n	re	no	užmušimas	inclusive
+LT543	n	dmc	yes	apgailėtinus buvimas	inclusive
+LT1888	n	re	no	slayer	inclusive
+LT1277	n	cds	no	snooper	conservative
+LT952	n	pr	no	sugulovė	inclusive
+LT914	n	or	no	agurkai	inclusive
+LT310	n	cds	no	melagingo	conservative
+LT1510	n	svp	no	gorger	conservative
+LT609	n	ddp	yes	changelings	conservative
+LT1741	n	an	no	skorpionžuvės	inclusive
+LT1439	n	ddp	yes	asile	conservative
+LT978	n	re	no	nusižengimas	inclusive
+LT141	n	re	no	išprievartavimų	conservative
+LT1630	n	cds	no	pažeidėjas	inclusive
+LT2115	n	an	no	tikrosios rupūžės	inclusive
+LT223	n	dmc	yes	laukinis	conservative
+LT308	n	cds	no	netiesa	conservative
+LT981	n	an	no	doodly-pritūpęs	conservative
+LT1640	n	cds	no	policininkai	inclusive
+LT1698	n	svp	no	dinaras pigesniu	inclusive
+LT493	n	asm	no	rudas	inclusive
+LT163	n	an	no	knucklehead	conservative
+LT2072	n	re	no	ginkluotu apiplėšimu	inclusive
+LT1753	n	ps	yes	metis	conservative
+LT1130	n	ddf	yes	negalią turintis asmuo	inclusive
+LT1370	n	ps	yes	judaizmo	inclusive
+LT1368	n	ps	yes	judaizmas	inclusive
+LT15	n	qas	no	patarnautojas	inclusive
+LT1446	n	is	yes	paupers	inclusive
+LT465	n	pa	yes	uncouthness	conservative
+LT792	n	om	no	homofils	inclusive
+LT1640	n	cds	no	policininkai	conservative
+LT2299	n	pr	no	rūmininkas	inclusive
+LT1281	n	an	no	avys	inclusive
+LT546	n	an	no	maurėti krepšys	conservative
+LT2327	n	qas	no	barakas	inclusive
+LT467	n	ddp	yes	zooerastia	conservative
+LT1903	n	ddf	yes	bjaurumas	inclusive
+LT1762	n	an	no	mikroorganizmai	inclusive
+LT1962	a	cds	no	sunkus	conservative
+LT1418	n	cds	no	idol garbinimas	inclusive
+LT1599	n	cds	no	moralizatorstwo	inclusive
+LT1995	n	cds	no	religingumas	inclusive
+LT1810	n	dmc	yes	nykštukinė	conservative
+LT545	n	dmc	yes	bjaurata	inclusive
+LT1243	n	asm	no	platus pupelių	inclusive
+LT280	n	cds	no	dėti karštus kompresus	conservative
+LT1075	n	cds	no	peons	inclusive
+LT781	n	or	no	queer	conservative
+LT1011	n	dmc	yes	veidmainiška	conservative
+LT152	n	ddp	yes	idiotas	conservative
+LT238	n	pa	yes	užtarėjas	inclusive
+LT206	n	is	yes	dusigrosz	conservative
+LT157	n	dmc	yes	neišmanėlis	conservative
+LT1470	n	cds	no	mokytojai	inclusive
+LT1900	n	ddf	yes	aklys	inclusive
+LT1672	n	qas	no	parazitas	inclusive
+LT937	n	qas	no	tepliotojas	conservative
+LT1117	n	dmc	yes	blogis	inclusive
+LT2273	n	ps	yes	baudos kortelę	inclusive
+LT1263	n	an	no	pipistrelle	inclusive
+LT523	n	qas	no	vidutines pajamas	inclusive
+LT490	n	asm	no	ruda	inclusive
+LT347	n	cds	no	bigoteryjny	conservative
+LT152	n	cds	no	idiotas	inclusive
+LT436	n	cds	no	knocić	inclusive
+LT1017	n	om	no	užpakalinės	inclusive
+LT376	n	cds	no	skundikas	conservative
+LT2194	n	re	no	seksualinio tvirkinimo	inclusive
+LT747	n	svp	no	fizinis patrauklumas	inclusive
+LT378	n	cds	no	plotkarz	conservative
+LT1080	n	an	no	helix pomatia	inclusive
+LT1732	n	cds	no	reliktas	inclusive
+LT315	n	cds	no	fop	inclusive
+LT138	n	re	no	išprievartavimas	inclusive
+LT264	n	qas	no	baroqueness	inclusive
+LT1269	n	asf	no	adrenarchė	inclusive
+LT397	n	dmc	yes	šunsnukis	conservative
+LT2026	n	an	no	višta	inclusive
+LT559	n	dmc	yes	piktadarys	conservative
+LT636	n	cds	no	camorra	inclusive
+LT219	n	cds	no	banditizmas	conservative
+LT402	n	cds	no	suskretėlis	conservative
+LT2103	n	an	no	anura	inclusive
+LT1621	n	an	no	mulas	inclusive
+LT1247	n	asm	no	pupų	inclusive
+LT975	n	re	no	teisės pažeidimas	inclusive
+LT274	n	an	no	patenka vaikinas	conservative
+LT2054	n	pa	yes	comptroller	inclusive
+LT870	n	asm	no	twerp	conservative
+LT125	n	an	no	infauna	inclusive
+LT629	n	re	no	libeler	conservative
+LT654	n	cds	no	giminė	inclusive
+LT451	n	cds	no	dogmatizmas	conservative
+LT157	n	asm	no	neišmanėlis	conservative
+LT1432	n	ddf	yes	fiziškai neginčijo	inclusive
+LT77	n	qas	no	partneris nusikalstamumu	inclusive
+LT1204	n	asm	no	apyvarpė	inclusive
+LT1809	n	re	no	pagrobėjas	inclusive
+LT2160	a	qas	no	viduriniosios klasės	inclusive
+LT817	n	cds	no	atliekos	conservative
+LT1849	n	ps	yes	ispanas	inclusive
+LT609	n	ps	yes	changelings	conservative
+LT750	n	svp	no	eros	inclusive
+LT2099	n	qas	no	atsisakė laivas	inclusive
+LT700	n	cds	no	problema	conservative
+LT1356	n	om	no	homoseksualistai	inclusive
+LT820	n	cds	no	komunalinių atliekų	inclusive
+LT64	a	an	no	užsispyręs	inclusive
+LT622	n	re	no	šmeižto	inclusive
+LT323	n	cds	no	chaosas	inclusive
+LT2203	n	re	no	seksualinę prievartą	inclusive
+LT967	n	ps	yes	liurbis	conservative
+LT866	n	qas	no	įgulos	inclusive
+LT1498	n	svp	no	pożądliwość	inclusive
+LT2196	n	re	no	seksualinius nusikaltimus	inclusive
+LT513	n	om	no	facet	inclusive
+LT1297	n	an	no	žąsiukas	inclusive
+LT1166	n	om	no	pankolis	inclusive
+LT1176	n	dmc	yes	smarvė	conservative
+LT847	n	an	no	vamp	conservative
+LT1724	n	cds	no	propagandistas	inclusive
+LT2237	n	pa	yes	tarnautojai	inclusive
+LT942	n	cds	no	demagogija	conservative
+LT368	n	dmc	yes	tremtis	inclusive
+LT1259	n	cds	no	kalėjimo sargas	inclusive
+LT954	n	cds	no	intrigantas	inclusive
+LT152	n	asf	no	idiotas	conservative
+LT1033	n	om	no	sėdmenys	inclusive
+LT645	n	qas	no	niekam tikęs	conservative
+LT224	n	pa	yes	barbarai	conservative
+LT396	n	is	yes	niekšas	conservative
+LT2211	n	cds	no	trasformismo	inclusive
+LT1345	n	is	yes	biedak	inclusive
+LT479	n	pr	no	galvijų	inclusive
+LT892	n	ps	yes	augalų biotechnologijos	inclusive
+LT2298	n	cds	no	strachajło	conservative
+LT1320	n	cds	no	kišenvagystė	inclusive
+LT2086	a	om	no	kitoniškas	inclusive
+LT1194	n	an	no	blusų	inclusive
+LT604	n	om	no	sentimentalumas	conservative
+LT2156	n	cds	no	scientizmas	inclusive
+LT934	n	cds	no	dastardliness	conservative
+LT344	a	ddp	yes	kvailas	conservative
+LT2245	n	om	no	crossdressingem	inclusive
+LT1755	n	ps	yes	metisai	conservative
+LT1031	n	om	no	už	inclusive
+LT543	n	an	no	apgailėtinus buvimas	conservative
+LT1938	n	qas	no	vargini	conservative
+LT241	n	pa	yes	advokatas	inclusive
+LT2285	n	om	no	moterų kūrėjas	inclusive
+LT1018	n	om	no	dorsoventral	inclusive
+LT579	n	ddp	yes	kalinys	inclusive
+LT225	n	cds	no	chamas	conservative
+LT643	n	re	no	grifter	inclusive
+LT318	n	cds	no	dandies	inclusive
+LT436	n	qas	no	knocić	inclusive
+LT637	n	cds	no	chiseller	conservative
+LT1850	n	cds	no	hiperseksualumas	conservative
+LT646	n	qas	no	ragtag	conservative
+LT482	n	pr	no	karvių	inclusive
+LT1279	n	an	no	uodas	inclusive
+LT900	n	qas	no	prisitaikėliškumas	inclusive
+LT693	n	asm	no	bybis	conservative
+LT619	n	re	no	calumniation	inclusive
+LT1209	n	cds	no	masonija	inclusive
+LT491	n	asm	no	tamsiai rudos spalvos	inclusive
+LT1461	n	ddp	yes	nežinojimo	conservative
+LT223	n	pa	yes	laukinis	conservative
+LT456	n	ddp	yes	blunderer	conservative
+LT645	n	an	no	niekam tikęs	conservative
+LT610	n	ps	yes	kvaiša	conservative
+LT1466	n	cds	no	pompousness	inclusive
+LT2009	n	re	no	piratavimas	inclusive
+LT163	n	asf	no	knucklehead	conservative
+LT2039	a	dmc	yes	netikras	conservative
+LT2017	n	re	no	plagijavimas	inclusive
+LT645	n	cds	no	niekam tikęs	conservative
+LT2276	n	cds	no	sąmokslo teorijas	inclusive
+LT1975	n	is	yes	nudriskėlis	conservative
+LT635	n	re	no	kamora	inclusive
+LT2187	n	pr	no	noctiluca	inclusive
+LT81	n	cds	no	juokdarys	conservative
+LT378	n	ddp	yes	plotkarz	conservative
+LT306	n	an	no	gatvės mergina	conservative
+LT532	n	ps	yes	bulgarai	inclusive
+LT1107	n	dmc	yes	etikos motyvas	inclusive
+LT2164	a	cds	no	paprastas	inclusive
+LT1503	n	dmc	yes	matacz	conservative
+LT455	n	ddp	yes	nawalacz	conservative
+LT2033	a	ddf	yes	ãklas	inclusive
+LT1574	n	cds	no	schoolmistress	conservative
+LT576	n	cds	no	ingroup	inclusive
+LT584	n	an	no	ryklio atakos	inclusive
+LT640	n	cds	no	apgavikas	inclusive
+LT1023	n	om	no	esperanto	inclusive
+LT272	n	cds	no	bas bleu	inclusive
+LT1902	n	ddp	yes	vapalius	conservative
+LT2222	n	asm	no	falla	inclusive
+LT196	n	cds	no	viešnamis	inclusive
+LT909	n	or	no	pyzda	conservative
+LT1232	n	cds	no	gansteris	inclusive
+LT128	n	ddp	yes	animuoti yra	inclusive
+LT309	n	cds	no	melas	inclusive
+LT1077	n	an	no	nykštukas	conservative
+LT1266	n	cds	no	išlaikomas meilužis	inclusive
+LT2041	a	dmc	yes	suklastotas	conservative
+LT675	n	an	no	ožkos	inclusive
+LT355	n	cds	no	gaujų	inclusive
+LT1960	n	cds	no	visažinis	conservative
+LT421	n	re	no	šantažuoja	conservative
+LT2218	n	cds	no	laisvosios kuopos	inclusive
+LT1348	n	om	no	vyrų seksualumą	inclusive
+LT1738	n	qas	no	orators	inclusive
+LT1110	n	dmc	yes	moralės	inclusive
+LT1611	n	pr	no	kandis	inclusive
+LT456	n	qas	no	blunderer	conservative
+LT960	n	an	no	pillager	inclusive
+LT2260	n	asm	no	paukštis	inclusive
+LT1160	n	ps	yes	fašistų	inclusive
+LT1797	n	ps	yes	mongoloids	conservative
+LT1129	n	dmc	yes	scattergood	inclusive
+LT274	n	cds	no	patenka vaikinas	conservative
+LT610	n	ddp	yes	kvaiša	inclusive
+LT966	n	ps	yes	vėpsoti	conservative
+LT1464	n	an	no	bezlitosność	conservative
+LT1525	n	an	no	vabzdžiai	inclusive
+LT2278	n	cds	no	sąmokslų teorijos	inclusive
+LT215	n	asm	no	kiaušai	inclusive
+LT37	n	pa	yes	akademinė aplinka	inclusive
+LT641	n	cds	no	aferistas	conservative
+LT457	n	qas	no	fumbler	conservative
+LT1646	n	re	no	mafijos	conservative
+LT416	n	ddp	yes	draugužis	conservative
+LT2071	n	re	no	ginkluoto apiplėšimo	inclusive
+LT1787	n	asm	no	jeerer	conservative
+LT968	n	ps	yes	dimwit	conservative
+LT1340	n	pr	no	prostitucija	conservative
+LT437	n	cds	no	crash	inclusive
+LT977	n	re	no	teisė-iųjų	inclusive
+LT214	n	qas	no	bollocks	inclusive
+LT2233	v	re	no	kankinti	inclusive
+LT722	n	qas	no	casteism	inclusive
+LT1036	n	om	no	viršūninio	inclusive
+LT340	n	pa	yes	pasiuntinys	inclusive
+LT2202	n	re	no	seksualinės prievartos prieš vaikus	inclusive
+LT1848	n	ps	yes	latino	inclusive
+LT1708	n	asm	no	Žirneliai	inclusive
+LT362	n	dmc	yes	nesąžiningi	conservative
+LT1875	n	an	no	acari	inclusive
+LT452	n	cds	no	konformistas	conservative
+LT599	n	is	yes	atstumtasis	inclusive
+LT432	n	dmc	yes	rakehell	conservative
+LT75	n	svp	no	tinginys	inclusive
+LT1668	n	cds	no	papparazzi	inclusive
+LT299	n	pr	no	vyrų palyda	conservative
+LT1763	n	an	no	mikroorganizmų	inclusive
+LT559	n	is	yes	piktadarys	conservative
+LT335	n	cds	no	beginė	inclusive
+LT1822	n	ps	yes	nigga	conservative
+LT1463	n	an	no	inexorableness	conservative
+LT1025	n	om	no	galas	inclusive
+LT732	n	pa	yes	mokytojas	inclusive
+LT466	n	an	no	zooerasty	conservative
+LT1319	n	cds	no	vagystės	inclusive
+LT245	n	pa	yes	advokatai	inclusive
+LT521	n	qas	no	buržuazinė visuomenė	inclusive
+LT555	n	cds	no	villainess	conservative
+LT1725	n	cds	no	agitatorius	inclusive
+LT964	n	an	no	piratas	inclusive
+LT1321	n	re	no	vagys	inclusive
+LT970	n	ddp	yes	doofus	conservative
+LT392	n	qas	no	magnatų	inclusive
+LT542	n	cds	no	git	conservative
+LT2055	n	pa	yes	sąskaitininkas	inclusive
+LT816	n	cds	no	šiukšlės	conservative
+LT51	n	ddp	yes	sunkiausia silpnaprotystė	inclusive
+LT1680	n	qas	no	endoparazitas	inclusive
+LT1118	n	cds	no	nusidėjėlis	conservative
+LT2128	n	an	no	kraugerys	inclusive
+LT2032	a	ddf	yes	aklas	inclusive
+LT1701	n	dmc	yes	blogio	inclusive
+LT1576	n	dmc	yes	vagišius	conservative
+LT1349	n	om	no	ne westernized vyrų seksualumo sąvokos	inclusive
+LT895	n	cds	no	būrys	inclusive
+LT1993	n	an	no	utėlių	inclusive
+LT413	n	ddp	yes	dickhead	conservative
+LT1377	n	cds	no	hoi polloi	inclusive
+LT2220	n	cds	no	laisvoji kuopa	inclusive
+LT924	n	qas	no	išbrokuotas	conservative
+LT702	n	qas	no	paprastiems	inclusive
+LT525	n	qas	no	buržuazija	inclusive
+LT918	n	or	no	agurkas	inclusive
+LT1971	n	cds	no	paskala	inclusive
+LT1189	n	dmc	yes	klastojimo	inclusive
+LT1593	n	an	no	mollusca	inclusive
+LT1914	n	an	no	grifai	inclusive
+LT81	n	cds	no	juokdarys	inclusive
+LT133	n	ddp	yes	fauna	inclusive
+LT222	n	ps	yes	barbaras	conservative
+LT1029	n	om	no	bandelės	inclusive
+LT309	n	dmc	yes	melas	inclusive
+LT1196	n	an	no	blusos	inclusive
+LT880	n	an	no	crocodylidae	inclusive
+LT2324	n	ps	yes	romų	inclusive
+LT1286	n	dmc	yes	ne-sąskaitos	conservative
+LT547	n	dmc	yes	hobos	conservative
+LT83	n	qas	no	omnium-gatherum	inclusive
+LT481	n	pr	no	galvijas	inclusive
+LT151	n	ddp	yes	kvailys	conservative
+LT694	n	asm	no	bỹbis	conservative
+LT220	n	ps	yes	barbarų	conservative
+LT1396	n	qas	no	pašiūrė	inclusive
+LT224	n	ddp	yes	barbarai	conservative
+LT351	n	cds	no	gaujos narys	inclusive
+LT156	n	an	no	asilas	conservative
+LT61	n	svp	no	savimeilė	conservative
+LT753	n	asm	no	roll šieno	conservative
+LT1359	n	om	no	homoerotic	inclusive
+LT522	n	qas	no	buržuazinėje visuomenėje	inclusive
+LT1496	n	dmc	yes	klastotojas	conservative
+LT2185	n	ddp	yes	hooey	inclusive
+LT450	n	cds	no	pagyrūnas	conservative
+LT152	n	asm	no	idiotas	inclusive
+LT1555	n	svp	no	angriness	inclusive
+LT190	n	ddp	yes	plepys	conservative
+LT1468	n	cds	no	pasipūtimas	inclusive
+LT365	n	cds	no	uždrausta	inclusive
+LT1833	n	ps	yes	juodaodis	inclusive
+LT2326	n	ps	yes	Čigonai	inclusive
+LT995	n	ps	yes	fricai	conservative
+LT640	n	re	no	apgavikas	inclusive
+LT1145	n	cds	no	sutenerių	conservative
+LT156	n	ddp	yes	asilas	conservative
+LT867	n	cds	no	wanker	conservative
+LT445	n	cds	no	apsirikimas	inclusive
+LT558	n	an	no	šlykštus	conservative
+LT1380	n	cds	no	puikus neplautų	inclusive
+LT1572	n	cds	no	mokytoja	conservative
+LT925	n	cds	no	išdaigininkas	conservative
+LT1898	n	cds	no	homunculi	inclusive
+LT2306	n	an	no	vipera	inclusive
+LT71	n	om	no	sodomija	inclusive
+LT2295	n	an	no	maggot	inclusive
+LT1342	n	pr	no	john	conservative
+LT277	n	asf	no	minkštos	conservative
+LT348	n	cds	no	aklatikis	conservative
+LT2168	a	is	yes	apgailėtinas	conservative
+LT1119	n	is	yes	vargšas	conservative
+LT159	n	qas	no	kvailas	inclusive
+LT1122	n	dmc	yes	paleistuvavimas	conservative
+LT280	n	or	no	dėti karštus kompresus	conservative
+LT443	n	cds	no	netaktas	inclusive
+LT152	n	ddp	yes	idiotas	inclusive
+LT2153	a	svp	no	gašlus	conservative
+LT2053	n	pr	no	pamazgos	conservative
+LT1761	n	an	no	mikrobas	inclusive
+LT707	n	cds	no	cockup	inclusive
+LT1308	n	an	no	sus scrofa domesticus	inclusive
+LT1218	n	cds	no	fundamentalistas	inclusive
+LT279	n	ddp	yes	pillock	conservative
+LT1441	n	ddp	yes	blēņas	conservative
+LT394	n	qas	no	pramonininkas	inclusive
+LT279	n	or	no	pillock	conservative
+LT36	n	pa	yes	akademinės aplinkos	inclusive
+LT1815	n	cds	no	narciziškų	inclusive
+LT371	n	cds	no	nusikaltėlis	conservative
+LT371	n	re	no	nusikaltėlis	conservative
+LT1535	n	qas	no	amatininkas	inclusive
+LT188	n	svp	no	šykštumas	inclusive
+LT1061	n	cds	no	nepilnamečių nusikalstamo	conservative
+LT1495	n	dmc	yes	pseudo	conservative
+LT1047	n	cds	no	gudruolis	conservative
+LT607	n	ddp	yes	debilas	conservative
+LT1249	n	asf	no	vagina	conservative
+LT2158	n	ddp	yes	neapdairumas	inclusive
+LT225	n	qas	no	chamas	conservative
+LT2179	n	qas	no	bladhaundas	inclusive
+LT221	n	pa	yes	stačiokas	conservative
+LT1726	n	cds	no	reketininkas	inclusive
+LT274	n	asf	no	patenka vaikinas	conservative
+LT85	n	qas	no	likučiai	inclusive
+LT238	n	cds	no	užtarėjas	inclusive
+LT1005	n	svp	no	antipatija	inclusive
+LT1134	n	cds	no	phratry	inclusive
+LT210	n	qas	no	kiaušas	inclusive
+LT2270	n	an	no	pasijuokti	conservative
+LT1233	n	cds	no	gangsteris	inclusive
+LT1699	n	cds	no	vakarėlis	inclusive
+LT822	n	cds	no	šiukšlių	conservative
+LT2201	n	re	no	seksualinio nusikaltimo	inclusive
+LT1981	n	cds	no	bellyacher	conservative
+LT228	n	ddp	yes	barbarizmas	inclusive
+LT1637	n	svp	no	nepadorus	inclusive
+LT1481	n	cds	no	scrawler	conservative
+LT367	n	cds	no	uždrausti	inclusive
+LT471	n	an	no	žiaurumas	conservative
+LT640	n	cds	no	apgavikas	conservative
+LT158	n	ddp	yes	domino	conservative
+LT628	n	re	no	vilifier	conservative
+LT1887	n	re	no	žmogžudystės	inclusive
+LT957	n	an	no	looter	inclusive
+LT1010	n	svp	no	nemalonus	inclusive
+LT246	n	pa	yes	diplomatiniai rangai	inclusive
+LT789	n	om	no	homoseksualistas	inclusive
+LT166	n	an	no	dumbass	conservative
+LT2012	n	re	no	plagiarisation	inclusive
+LT116	n	an	no	ungurių	inclusive
+LT131	n	an	no	metazoans	inclusive
+LT1803	n	cds	no	moralizmas	inclusive
+LT1681	n	qas	no	ektoparazitas	inclusive
+LT1707	n	asm	no	Žirnis	inclusive
+LT150	n	asm	no	betise	conservative
+LT555	n	an	no	villainess	conservative
+LT1932	n	cds	no	nouveau riche	inclusive
+LT1659	n	an	no	otus asio	inclusive
+LT2199	n	re	no	seksualinė prievarta	inclusive
+LT795	n	ddp	yes	gossiper	conservative
+LT1558	n	cds	no	netvarka	conservative
+LT283	n	or	no	pudingas vadovas	conservative
+LT620	n	re	no	traducement	inclusive
+LT1449	n	is	yes	skurdas	inclusive
+LT2008	a	cds	no	gudrus	conservative
+LT159	n	an	no	kvailas	conservative
+LT1477	n	pa	yes	jėzuitų	inclusive
+LT276	n	asm	no	patiklus asmuo	conservative
+LT367	n	dmc	yes	uždrausti	inclusive
+LT2170	n	cds	no	silpna	conservative
+LT28	n	cds	no	brokeris	inclusive
+LT275	n	ddp	yes	kvailelis	conservative
+LT217	n	cds	no	plėšikas	inclusive
+LT1141	n	cds	no	suteneris	conservative
+LT2168	a	qas	no	apgailėtinas	conservative
+LT1514	n	cds	no	lupikautojas	conservative
+LT551	n	dmc	yes	dykinėtojas	conservative
+LT1287	n	svp	no	goof-off	conservative
+LT1969	a	om	no	nenormalus	inclusive
+LT456	n	cds	no	blunderer	conservative
+LT275	n	asm	no	kvailelis	conservative
+LT605	n	asf	no	dvokla	conservative
+LT1387	n	qas	no	namas dailininkas	inclusive
+LT172	n	an	no	neišsilavinęs žmogus	conservative
+LT1807	n	an	no	mašalų	inclusive
+LT1013	n	dmc	yes	apsimetėlis	conservative
+LT2123	n	cds	no	wisenheimer	conservative
+LT985	n	an	no	diddley	conservative
+LT1564	n	cds	no	rustler	inclusive
+LT634	n	re	no	apmelotājs	conservative
+LT1493	n	cds	no	nelegalumas	inclusive
+LT978	n	cds	no	nusižengimas	inclusive
+LT148	n	or	no	taurė	inclusive
+LT1539	n	cds	no	piršlys	inclusive
+LT822	n	cds	no	šiukšlių	inclusive
+LT574	n	cds	no	klika	inclusive
+LT362	n	cds	no	nesąžiningi	conservative
+LT1378	n	cds	no	liaudis	inclusive
+LT2266	n	cds	no	ndrangheta	inclusive
+LT704	n	cds	no	prasčiokas	conservative
+LT470	n	an	no	nuožmumas	conservative
+LT126	n	ddp	yes	žvėris	inclusive
+LT2328	n	cds	no	culchie	inclusive
+LT2084	n	re	no	gūstītājs	inclusive
+LT1202	n	cds	no	narkomanas	conservative
+LT358	n	cds	no	gaujos kultūros	inclusive
+LT812	n	ddp	yes	kvailystė	conservative
+LT75	n	an	no	tinginys	conservative
+LT1557	n	ddp	yes	psichikos trūkumą	inclusive
+LT1956	n	cds	no	pedantas	conservative
+LT1250	n	asf	no	colpos	conservative
+LT224	n	dmc	yes	barbarai	conservative
+LT14	n	svp	no	abejingumas	inclusive
+LT161	n	or	no	shithead	conservative
+LT344	a	cds	no	kvailas	conservative
+LT2303	n	re	no	smurto	inclusive
+LT1588	n	svp	no	slunkius	conservative
+LT704	n	dmc	yes	prasčiokas	conservative
+LT1669	n	cds	no	paparazzo	inclusive
+LT223	n	ps	yes	laukinis	inclusive
+LT2137	n	an	no	tarakonas	inclusive
+LT2224	n	asm	no	falliczny	inclusive
+LT1718	n	is	yes	varguomenė	inclusive
+LT82	n	cds	no	kratinys	inclusive
+LT1089	n	cds	no	deliktas	inclusive
+LT189	n	svp	no	šykštuolis	inclusive
+LT2208	n	asm	no	profesinės pražangą	inclusive
+LT232	n	qas	no	biržos prekeivis	inclusive
+LT1743	n	an	no	jūros skorpionas	inclusive
+LT66	n	om	no	zoofilijos	inclusive
+LT969	n	asf	no	lepšis	conservative
+LT1531	n	cds	no	sass	inclusive
+LT662	n	cds	no	genčių	inclusive
+LT1131	n	svp	no	faineance	inclusive
+LT611	n	an	no	kalė	inclusive
+LT1051	n	qas	no	doghouse	inclusive
+LT1163	n	cds	no	greitasis	inclusive
+LT2178	n	qas	no	Švento huberto skalikas	inclusive
+LT607	n	asm	no	debilas	inclusive
+LT1453	n	is	yes	neturtas	inclusive
+LT2162	a	ddp	yes	neprotingas	conservative
+LT1876	n	re	no	Žmogžudystė	inclusive
+LT907	n	asf	no	šiknius	conservative
+LT1054	n	svp	no	tranšėjų	conservative
+LT1617	n	dmc	yes	mozzarella	inclusive
+LT782	n	om	no	ros	conservative
+LT894	n	cds	no	aibė	inclusive
+LT1361	n	om	no	gayness	inclusive
+LT922	n	cds	no	skresti	conservative
+LT664	n	cds	no	gentinių visuomenių	inclusive
+LT171	n	an	no	nieko nežino	conservative
+LT1747	n	cds	no	kanalizacijos	inclusive
+LT1676	n	dmc	yes	gamajda	conservative
+LT2070	n	re	no	plėšimas	inclusive
+LT1272	n	cds	no	smalsus-parker	conservative
+LT87	n	qas	no	melange	inclusive
+LT1585	n	cds	no	visuomenės ustępowy	inclusive
+LT1647	n	re	no	mafiozas	inclusive
+LT1851	n	cds	no	hypersexual	conservative
+LT558	n	cds	no	šlykštus	conservative
+LT1842	n	pa	yes	mergintojas	inclusive
+LT67	n	om	no	analinis seksas	inclusive
+LT1533	n	qas	no	sandėlininkas	inclusive
+LT1517	n	cds	no	lupikautojų	conservative
+LT621	n	re	no	verslui kenkiančia	inclusive
+LT155	n	an	no	apdujėlis	conservative
+LT360	n	cds	no	grupė	inclusive
+LT209	n	asm	no	testis	inclusive
+LT610	n	cds	no	kvaiša	inclusive
+LT1177	n	dmc	yes	dvokas	conservative
+LT1144	n	cds	no	sąvadautojas	inclusive
+LT1898	n	dmc	yes	homunculi	inclusive
+LT1140	n	cds	no	pimp	inclusive
+LT222	n	dmc	yes	barbaras	conservative
+LT1350	n	om	no	homoseksualių vyrų	inclusive
+LT1646	n	re	no	mafijos	inclusive
+LT1844	n	pa	yes	gerbėjas	inclusive
+LT45	n	qas	no	amatorstwo	conservative
+LT1323	n	cds	no	vagystė	inclusive
+LT1336	n	pr	no	prostitucijos	conservative
+LT1338	n	pr	no	komercinio sekso	conservative
+LT1860	n	an	no	žąsų	inclusive
+LT2254	n	pr	no	hetera	inclusive
+LT469	n	ddp	yes	brutalumas	conservative
+LT959	n	an	no	grobuonis	inclusive
+LT63	n	cds	no	savìmeilė	conservative
+LT121	n	an	no	padaras	inclusive
+LT810	n	ddp	yes	znachor	conservative
+LT159	n	cds	no	kvailas	inclusive
+LT638	n	dmc	yes	defrauder	conservative
+LT1781	n	pa	yes	piemuo	inclusive
+LT223	n	cds	no	laukinis	conservative
+LT1968	n	an	no	spekuliantas	conservative
+LT474	n	svp	no	nuobodumas	inclusive
+LT845	n	ddp	yes	beprotybė	conservative
+LT449	n	cds	no	bragger	conservative
+LT1219	n	cds	no	fundamentalistų	inclusive
+LT1869	n	re	no	teroristų	inclusive
+LT1015	n	dmc	yes	dissimulation	conservative
+LT1157	n	qas	no	ūkininkas	inclusive
+LT268	n	cds	no	izbalsot	inclusive
+LT2209	n	cds	no	conventicles	inclusive
+LT1771	n	an	no	animalcules	inclusive
+LT606	n	ddp	yes	silpnaprotis	inclusive
+LT639	n	dmc	yes	chiseler	conservative
+LT1864	n	an	no	berniklės	inclusive
+LT2148	n	an	no	Šakalas	inclusive
+LT1200	n	cds	no	motley fool	inclusive
+LT791	n	om	no	pyderas	inclusive
+LT2040	a	dmc	yes	padirbtas	conservative
+LT795	n	cds	no	gossiper	conservative
+LT1779	n	asm	no	silpnaprotiškumas	conservative
+LT1520	n	cds	no	palūkininkas	inclusive
+LT1276	n	qas	no	landžioti	inclusive
+LT592	n	cds	no	dvėsena	inclusive
+LT1977	n	cds	no	moaner	conservative
+LT760	n	asm	no	varžtais	conservative
+LT1608	n	an	no	uodų	inclusive
+LT365	n	re	no	uždrausta	inclusive
+LT1265	n	an	no	pipistrellus	inclusive
+LT277	n	asm	no	minkštos	conservative
+LT1485	n	dmc	yes	amoralumas	inclusive
+LT202	n	cds	no	bawdyhouse	inclusive
+LT607	n	asf	no	debilas	conservative
+LT1275	n	cds	no	žiūrovas	conservative
+LT29	n	cds	no	veiksnys	inclusive
+LT1431	n	ddf	yes	negalia	inclusive
+LT1312	n	cds	no	nedorėlis	conservative
+LT1397	n	cds	no	puikybės	conservative
+LT1895	n	or	no	skaisčiai oranžine	inclusive
+LT661	n	cds	no	giminės	inclusive
+LT949	n	pr	no	kurtizanė	inclusive
+LT1667	n	cds	no	paparacis	inclusive
+LT1020	n	om	no	uodegos	inclusive
+LT1811	n	cds	no	pusę pintos	conservative
+LT1802	n	pr	no	užimantys	inclusive
+LT169	n	or	no	muttonhead	conservative
+LT1623	n	an	no	snukis	inclusive
+LT1511	n	re	no	žmogžudys	inclusive
+LT290	n	pr	no	sąvadautoja	conservative
+LT226	n	svp	no	acquisitiveness	inclusive
+LT1855	n	cds	no	nymphomaniac	conservative
+LT97	n	cds	no	fanatizmas	conservative
+LT1244	n	asm	no	vicia faba	inclusive
+LT1671	n	cds	no	popieriaus pelė	inclusive
+LT1055	n	svp	no	ēdājs	inclusive
+LT852	n	asm	no	patikimas	conservative
+LT1697	n	an	no	psittaciformes	inclusive
+LT1307	n	an	no	kiaulių	inclusive
+LT721	n	qas	no	kastos	inclusive
+LT1274	n	cds	no	stebėtojas	conservative
+LT1911	n	ps	yes	vandalų	inclusive
+LT631	n	re	no	šmeižikas	conservative
+LT2028	n	cds	no	naujagimiams	inclusive
+LT457	n	cds	no	fumbler	conservative
+LT467	n	an	no	zooerastia	conservative
+LT166	n	ddp	yes	dumbass	conservative
+LT787	n	om	no	gėjų	inclusive
+LT553	n	svp	no	dilba	conservative
+LT1992	n	an	no	phthiraptera	inclusive
+LT786	n	om	no	homoseksualas	conservative
+LT223	n	rci	yes	laukinis	conservative
+LT81	n	an	no	juokdarys	conservative
+LT2228	n	re	no	kankinimo prietaiso	inclusive
+LT349	n	dmc	yes	davatka	conservative
+LT1216	n	an	no	raukytis	inclusive
+LT1654	n	ps	yes	ostgotai	inclusive
+LT1093	a	ddp	yes	psichiškai nesveikas	inclusive
+LT477	n	an	no	karvės	inclusive
+LT205	n	is	yes	cheapskate	conservative
+LT783	n	om	no	gėjus	inclusive
+LT821	n	cds	no	šlamštas	inclusive
+LT1931	n	cds	no	arriviste	inclusive
+LT1675	n	cds	no	žolių sėklos	conservative
+LT1611	n	an	no	kandis	inclusive
+LT642	n	dmc	yes	scammer	conservative
+LT1172	n	dmc	yes	malodor	conservative
+LT1199	n	cds	no	juokavimas	inclusive
+LT160	n	ddp	yes	saphead	conservative
+LT829	n	an	no	blakes	inclusive
+LT1207	n	cds	no	masonas	inclusive
+LT1532	n	qas	no	rinkos laikytojas	inclusive
+LT157	n	cds	no	neišmanėlis	conservative
+LT403	n	cds	no	mutt	inclusive
+LT2212	n	cds	no	paviršutiniškumo	inclusive
+LT755	n	asm	no	sušikti	conservative
+LT1103	n	an	no	escargots	inclusive
+LT2129	n	an	no	dėlė	inclusive
+LT101	n	ddp	yes	beraštis	inclusive
+LT1084	n	cds	no	auklėtojas	inclusive
+LT683	n	svp	no	tightfistedness	conservative
+LT118	n	ddp	yes	gyvūnas	inclusive
+LT1793	n	cds	no	mystifier	conservative
+LT1801	n	pr	no	pasaulietinė žmonėmis	inclusive
+LT2076	n	re	no	plėšikavimas	inclusive
+LT2232	v	re	no	kamuoti	inclusive
+LT2268	n	qas	no	svoris diržas	inclusive
+LT973	n	re	no	nusikaltimas	inclusive
+LT161	n	asf	no	shithead	conservative
+LT780	n	or	no	fagotas	conservative
+LT1024	n	om	no	keister	inclusive
+LT2111	n	an	no	anuran	inclusive
+LT528	n	cds	no	egoizmo	conservative
+LT1215	n	an	no	susiraukti	inclusive
+LT1870	n	re	no	teroristas	conservative
+LT2297	n	cds	no	bailus	conservative
+LT381	n	ddp	yes	žiauriai	conservative
+LT440	n	cds	no	žiopla klaida	inclusive
+LT1554	n	svp	no	piktas	inclusive
+LT1746	n	cds	no	nuotekų	inclusive
+LT2157	n	ddp	yes	unwiseness	inclusive
+LT81	n	asm	no	juokdarys	conservative
+LT2206	n	an	no	arionidae	inclusive
+LT529	n	cds	no	egoizmas	conservative
+LT1550	n	svp	no	pavỹdas	inclusive
+LT1569	n	or	no	pedantiškumas	inclusive
+LT327	n	ps	yes	bedu	inclusive
+LT1026	n	om	no	proksimalinės	inclusive
+LT208	n	qas	no	sėklidžių	inclusive
+LT2294	n	an	no	lervos	inclusive
+LT701	n	qas	no	dažnas žmogus	inclusive
+LT163	n	or	no	knucklehead	conservative
+LT240	n	pa	yes	patarėjas teisės	inclusive
+LT1222	n	an	no	įsiūtis	inclusive
+LT788	n	om	no	homoseksualė	conservative
+LT1016	n	dmc	yes	simulants	conservative
+LT151	n	an	no	kvailys	conservative
+LT50	n	ddp	yes	protiškai	inclusive
+LT823	n	qas	no	kietųjų atliekų	inclusive
+LT1200	n	dmc	yes	motley fool	inclusive
+LT1012	n	dmc	yes	netikras	conservative
+LT1723	n	cds	no	superbia	inclusive
+LT527	n	cds	no	egoistiškas	conservative
+LT1837	n	ps	yes	negridai	inclusive
+LT1090	n	pa	yes	darbuotojas	inclusive
+LT306	n	pr	no	gatvės mergina	conservative
+LT311	n	cds	no	neteisybė	conservative
+LT714	n	cds	no	pašapmierinātība	inclusive
+LT220	n	pa	yes	barbarų	conservative
+LT2034	a	asm	no	rudas	inclusive
+LT167	n	or	no	avigalvis	conservative
+LT790	n	om	no	pyderastas	conservative
+LT2252	n	om	no	transvestizmas	inclusive
+LT1935	v	is	yes	maldauti	inclusive
+LT639	n	cds	no	chiseler	inclusive
+LT967	n	ddp	yes	liurbis	conservative
+LT1962	a	or	no	sunkus	conservative
+LT262	n	qas	no	baronai	inclusive
+LT159	n	ddp	yes	kvailas	conservative
+LT168	n	asf	no	fuckhead	conservative
+LT820	n	qas	no	komunalinių atliekų	inclusive
+LT43	a	pa	yes	teoriškas	inclusive
+LT1730	n	pr	no	Žiurkė	inclusive
+LT1690	n	qas	no	parapija	inclusive
+LT1817	n	cds	no	idiolatry	inclusive
+LT407	n	cds	no	sukčius	inclusive
+LT783	n	om	no	gėjus	conservative
+LT558	n	dmc	yes	šlykštus	conservative
+LT178	n	an	no	wisent	inclusive
+LT1564	n	re	no	rustler	inclusive
+LT2093	a	dmc	yes	purvinas	inclusive
+LT278	n	ps	yes	lengvatikis	conservative
+LT569	n	an	no	vampsėti	inclusive
+LT1497	n	dmc	yes	apsišaukėlis	conservative
+LT1412	n	asf	no	tarnaitė	conservative
+LT1634	n	svp	no	ištvirkimas	inclusive
+LT1711	n	an	no	shote	inclusive
+LT2073	n	re	no	plėšikai	inclusive
+LT1127	n	dmc	yes	išlaidus	inclusive
+LT358	n	cds	no	gaujos kultūros	conservative
+LT992	n	ps	yes	boche	conservative
+LT1078	n	ddf	yes	nanus	conservative
+LT2011	n	re	no	plagijavimo	inclusive
+LT1936	v	is	yes	melsti	inclusive
+LT1113	n	dmc	yes	moralines vertybes	inclusive
+LT1035	n	om	no	pilvo	inclusive
+LT359	n	cds	no	juosta	inclusive
+LT537	n	svp	no	augstprātība	conservative
+LT1475	n	cds	no	pedagogo gebėjimai	inclusive
+LT369	n	cds	no	baudžiamasis	inclusive
+LT398	n	cds	no	apsileidęs žmogus	conservative
+LT1722	n	svp	no	pridefulness	inclusive
+LT1072	n	cds	no	daug	inclusive
+LT388	n	qas	no	pramonininkų	inclusive
+LT865	n	ddp	yes	cretinism	inclusive
+LT1940	n	qas	no	nedarbnieks	conservative
+LT2200	n	re	no	seksualinių užpuolimų	inclusive
+LT223	n	ps	yes	laukinis	conservative
+LT1613	n	an	no	moue	inclusive
+LT777	n	om	no	poove	conservative
+LT1331	n	re	no	pavogtą nuosavybę	inclusive
+LT1062	n	cds	no	aibės	inclusive
+LT663	n	cds	no	šeima	inclusive
+LT157	n	ddp	yes	neišmanėlis	conservative
+LT1897	n	re	no	budelis	inclusive
+LT362	n	an	no	nesąžiningi	conservative
+LT369	n	dmc	yes	baudžiamasis	inclusive
+LT153	n	ps	yes	mulkis	conservative
+LT2205	n	an	no	plikšliužiai	inclusive
+LT2122	n	cds	no	išpuikėlis	conservative
+LT685	n	qas	no	aptemdyti	inclusive
+LT1071	n	cds	no	slews	inclusive
+LT1588	n	cds	no	slunkius	conservative
+LT844	n	ddp	yes	kvailybė	conservative
+LT334	n	cds	no	begardis	inclusive
+LT2272	n	ps	yes	raudoną kortelę	inclusive
+LT1959	n	cds	no	know-it-all	conservative
+LT1089	n	dmc	yes	deliktas	inclusive
+LT541	n	cds	no	kiaulė	conservative
+LT159	n	asf	no	kvailas	conservative
+LT399	n	cds	no	dručkis	conservative
+LT361	n	cds	no	būrelis	inclusive
+LT2312	n	dmc	yes	perbėgėlis	conservative
+LT1143	n	cds	no	sąvadauti	inclusive
+LT468	n	ddp	yes	gyvuliškumo	conservative
+LT1004	n	svp	no	pasipriešinimas	inclusive
+LT2007	n	asm	no	wank	conservative
+LT105	n	cds	no	armija	inclusive
+LT1499	n	svp	no	lubieżność	inclusive
+LT1322	n	cds	no	thieving	inclusive
+LT656	n	cds	no	clann	inclusive
+LT151	n	asm	no	kvailys	conservative
+LT1867	n	an	no	branta bernicla	inclusive

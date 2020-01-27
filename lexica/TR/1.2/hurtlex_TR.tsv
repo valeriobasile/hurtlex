@@ -1,0 +1,2350 @@
+id	pos	category	stereotype	lemma	level
+TR338	n	cds	no	tiksindirici	conservative
+TR484	n	re	no	kötü	conservative
+TR93	n	ddp	yes	cahil	inclusive
+TR703	n	qas	no	Çöp	inclusive
+TR840	n	an	no	hiçbir değer vermediklerini gördüm	conservative
+TR1564	n	ddp	yes	nanocephaly	inclusive
+TR235	n	cds	no	sıcak kompres	conservative
+TR1961	n	re	no	yıldırıcılık	conservative
+TR358	n	pa	yes	cenazeci	inclusive
+TR1045	n	dmc	yes	foetor	conservative
+TR1086	n	svp	no	öfke	inclusive
+TR138	n	an	no	mankafa	conservative
+TR752	n	an	no	krokodiller	inclusive
+TR677	n	or	no	ibne	conservative
+TR987	n	dmc	yes	scattergood	inclusive
+TR484	n	dmc	yes	kötü	conservative
+TR867	n	dmc	yes	riyakarlık	conservative
+TR1981	n	om	no	çapraz gelinler	inclusive
+TR757	n	an	no	crocodylidae	inclusive
+TR1088	n	svp	no	dillydallier	conservative
+TR1705	n	cds	no	türedi	inclusive
+TR1525	n	pr	no	rattus	inclusive
+TR1700	n	cds	no	köhne	inclusive
+TR530	n	asm	no	geciktirmek	inclusive
+TR371	n	cds	no	beceriksizlik	inclusive
+TR258	n	an	no	floozie	conservative
+TR1433	n	an	no	yumuşakça	inclusive
+TR1005	n	cds	no	astik	conservative
+TR1033	n	cds	no	hızlı bir	conservative
+TR1042	n	dmc	yes	kokmak	conservative
+TR1332	n	cds	no	Öğretmenlikler	inclusive
+TR1187	n	re	no	thieving	inclusive
+TR312	n	re	no	suçlu	inclusive
+TR932	n	cds	no	onlarca	inclusive
+TR170	n	cds	no	spor evi	inclusive
+TR34	n	qas	no	amatörce	conservative
+TR192	n	qas	no	barbarlar	conservative
+TR1399	n	svp	no	kıskançlık	inclusive
+TR1414	n	ps	yes	metics	inclusive
+TR1224	n	om	no	eşcinsellik	inclusive
+TR1744	n	is	yes	tatterdemalion	conservative
+TR831	n	ps	yes	dimwit	conservative
+TR545	n	cds	no	scammer	inclusive
+TR531	n	asf	no	changeling	conservative
+TR2021	n	ps	yes	çingene	conservative
+TR350	n	ddp	yes	piç	conservative
+TR131	n	cds	no	ahmak	inclusive
+TR1101	n	asm	no	bakla	inclusive
+TR858	n	cds	no	grunge	inclusive
+TR1747	n	cds	no	ağlayıp sızlanan kimse	conservative
+TR978	n	an	no	deniz akrep	inclusive
+TR531	n	cds	no	changeling	inclusive
+TR946	n	cds	no	piyonlar	inclusive
+TR935	n	cds	no	sallar	inclusive
+TR772	n	cds	no	üreyebilirlik	inclusive
+TR124	n	cds	no	zekilik	inclusive
+TR1181	a	cds	no	kurnaz	conservative
+TR983	n	is	yes	zavallı	inclusive
+TR901	n	om	no	proksimal	inclusive
+TR1334	n	cds	no	jokester	inclusive
+TR40	n	ddp	yes	zeka geriliği	inclusive
+TR310	n	cds	no	kriminalize	inclusive
+TR770	n	cds	no	bitki ıslahı	inclusive
+TR1474	n	ps	yes	ostrogot	inclusive
+TR317	n	ddp	yes	dedikoducu	conservative
+TR1854	n	qas	no	tumturaklılık	inclusive
+TR1130	n	cds	no	işgüzar kimse	conservative
+TR1913	n	an	no	kanal bas	inclusive
+TR100	n	an	no	anguilliformes	inclusive
+TR161	n	svp	no	hırs	inclusive
+TR196	n	ddp	yes	barbarlık	inclusive
+TR1263	n	an	no	hyaenidae	inclusive
+TR184	n	asm	no	teste	inclusive
+TR838	n	dmc	yes	suç	inclusive
+TR1966	n	re	no	terör	inclusive
+TR1197	n	re	no	çalıntı mallar	inclusive
+TR136	n	an	no	pislik	conservative
+TR406	n	an	no	büyükbaş	inclusive
+TR879	n	om	no	ipsilateral	inclusive
+TR983	n	dmc	yes	zavallı	conservative
+TR813	n	cds	no	demogoji	conservative
+TR1652	n	an	no	ixodida	inclusive
+TR1595	n	cds	no	yarı-pint	conservative
+TR1591	n	or	no	kabak	inclusive
+TR97	n	an	no	anguillidae	inclusive
+TR1467	n	re	no	mafya	conservative
+TR138	n	ddp	yes	mankafa	conservative
+TR1815	a	ddf	yes	özürlü	inclusive
+TR838	n	re	no	suç	inclusive
+TR1469	n	re	no	italyan mafyası	inclusive
+TR1423	n	cds	no	konfor istasyonu	inclusive
+TR1896	a	ps	yes	yahudı	inclusive
+TR46	n	cds	no	embesil	inclusive
+TR1964	n	re	no	teror	inclusive
+TR158	n	svp	no	avaritia	inclusive
+TR426	n	pr	no	norveç faresi	inclusive
+TR543	n	cds	no	dolandırıcı	conservative
+TR1261	n	an	no	hyaena	inclusive
+TR1720	n	or	no	patates	inclusive
+TR1890	n	cds	no	anlayışı kıt kimse	conservative
+TR596	n	dmc	yes	kabalık	conservative
+TR722	n	svp	no	tanha	inclusive
+TR178	n	asm	no	taşak	inclusive
+TR107	n	an	no	yaratık	inclusive
+TR471	n	an	no	serseri	conservative
+TR1016	n	cds	no	muhabbet tellalı	inclusive
+TR192	n	dmc	yes	barbarlar	conservative
+TR355	n	re	no	Şantajcı	conservative
+TR1481	n	cds	no	papparazzi	inclusive
+TR141	n	an	no	lunkhead	conservative
+TR1378	n	cds	no	şımarıklık	inclusive
+TR666	n	cds	no	newspaperwoman	inclusive
+TR101	n	an	no	yılan balığı	inclusive
+TR459	n	cds	no	kibir	conservative
+TR274	n	cds	no	züppe	inclusive
+TR2010	n	an	no	hoax	conservative
+TR312	n	dmc	yes	suçlu	conservative
+TR598	n	asm	no	kuş	conservative
+TR803	n	om	no	hanımefendi	inclusive
+TR1326	n	cds	no	pompousness	inclusive
+TR1145	n	dmc	yes	iyi-için-naught	conservative
+TR343	n	cds	no	strikebreaker	inclusive
+TR571	n	cds	no	akraba	inclusive
+TR223	n	an	no	çapulcu	conservative
+TR331	n	qas	no	iş adamı	inclusive
+TR1974	n	re	no	işkence	inclusive
+TR1302	n	ddp	yes	şerefsiz	conservative
+TR292	n	cds	no	bağnaz	conservative
+TR284	n	cds	no	fabrikatör	conservative
+TR1683	n	an	no	akbaba	inclusive
+TR878	n	om	no	bazal	inclusive
+TR704	n	qas	no	hurda	inclusive
+TR2036	n	re	no	gaddarlık	inclusive
+TR470	n	cds	no	itoğluit	conservative
+TR1671	n	cds	no	homunculus	inclusive
+TR460	n	cds	no	küstahlık	conservative
+TR135	n	an	no	kafasız	conservative
+TR287	n	pa	yes	bellhop	inclusive
+TR1745	n	cds	no	moaner	conservative
+TR685	n	an	no	çehre	inclusive
+TR984	n	dmc	yes	çapkın	inclusive
+TR310	n	dmc	yes	kriminalize	inclusive
+TR832	n	asm	no	doofus	conservative
+TR2034	n	pr	no	saraylı	inclusive
+TR194	n	ddp	yes	hödük	conservative
+TR661	n	cds	no	sessizlik komplosu	inclusive
+TR1393	n	asm	no	penis	inclusive
+TR1444	n	an	no	mosquitoe	inclusive
+TR1677	a	qas	no	zamanki	inclusive
+TR1058	n	cds	no	motley fool	inclusive
+TR1527	n	pr	no	sıçan	inclusive
+TR1132	n	cds	no	burnunu sokan kimse	conservative
+TR1548	n	an	no	köpekbalığı	inclusive
+TR1409	n	cds	no	rustler	inclusive
+TR198	n	qas	no	tüccar	inclusive
+TR197	n	qas	no	tacir	inclusive
+TR152	n	an	no	wisent	inclusive
+TR30	n	pa	yes	akademik	inclusive
+TR1445	n	pr	no	güve	inclusive
+TR1113	n	asf	no	vagina	conservative
+TR1137	n	an	no	sivrisinek	inclusive
+TR286	n	pa	yes	bellboy	inclusive
+TR1917	a	pa	yes	siyasi	inclusive
+TR70	n	an	no	miskin	conservative
+TR312	n	dmc	yes	suçlu	inclusive
+TR791	n	or	no	cuke	inclusive
+TR11	n	qas	no	rahip yardımcısı	inclusive
+TR920	n	svp	no	kanal kazıcı	inclusive
+TR931	n	cds	no	yığınlar	inclusive
+TR855	n	cds	no	kir	inclusive
+TR1679	n	ps	yes	vandal	inclusive
+TR638	n	pa	yes	kişisel sandalyeye	inclusive
+TR1431	n	svp	no	kaytarıcı	conservative
+TR1443	n	an	no	sivri sinek	inclusive
+TR1836	n	re	no	raptio	inclusive
+TR488	n	cds	no	karalayıvermek	inclusive
+TR1778	n	re	no	İntihal	inclusive
+TR1469	n	cds	no	italyan mafyası	inclusive
+TR443	n	qas	no	profesyonel sınıf	inclusive
+TR2059	n	cds	no	culchie	inclusive
+TR744	n	cds	no	jerk-off	conservative
+TR1377	n	cds	no	alay	inclusive
+TR1856	n	qas	no	tumturaklı konuşma	inclusive
+TR234	n	ps	yes	çiğnemek	conservative
+TR1503	n	dmc	yes	Şer	inclusive
+TR111	n	ddp	yes	animal	inclusive
+TR181	n	qas	no	yumurta	inclusive
+TR367	n	dmc	yes	rakehell	conservative
+TR479	n	cds	no	boş gezenin boş kalfası	conservative
+TR577	n	an	no	dağ keçisi	inclusive
+TR574	n	an	no	keçiler	inclusive
+TR8	n	svp	no	duygusuzluk	inclusive
+TR111	n	an	no	animal	inclusive
+TR543	n	cds	no	dolandırıcı	inclusive
+TR636	n	pa	yes	profesörlük	inclusive
+TR337	n	cds	no	küfretmek	conservative
+TR996	n	cds	no	akraba-i taallukat	inclusive
+TR1709	n	qas	no	yavşak	conservative
+TR1303	n	ddp	yes	saçma	inclusive
+TR1016	n	cds	no	muhabbet tellalı	conservative
+TR818	n	pr	no	metresin	inclusive
+TR284	n	dmc	yes	fabrikatör	conservative
+TR323	n	cds	no	şeytanlık	conservative
+TR245	n	cds	no	pezevenk	inclusive
+TR84	n	asm	no	apendiks	inclusive
+TR1560	n	an	no	pip-gıcırtı	conservative
+TR137	n	or	no	beyinsiz	conservative
+TR394	n	pa	yes	gişe memuru	inclusive
+TR114	n	ddp	yes	epifaunal	inclusive
+TR344	n	cds	no	hilebaz	inclusive
+TR1771	n	cds	no	el işi	conservative
+TR404	n	pr	no	inek	inclusive
+TR704	n	cds	no	hurda	inclusive
+TR1986	n	om	no	çapraz elbise	inclusive
+TR1043	n	dmc	yes	malodor	conservative
+TR1554	n	an	no	mikroorganizmalar	inclusive
+TR794	n	cds	no	ıskartaya çıkarmak	conservative
+TR1572	n	pa	yes	sheepherder	inclusive
+TR351	n	cds	no	by-darbe	inclusive
+TR529	n	ps	yes	changelings	conservative
+TR333	n	qas	no	kereste baronu	inclusive
+TR982	n	cds	no	günahkâr	inclusive
+TR1273	n	asf	no	afet	conservative
+TR393	n	pa	yes	bilet ajan	inclusive
+TR973	n	dmc	yes	ahlâk	inclusive
+TR106	n	an	no	metazoan'da	inclusive
+TR309	n	dmc	yes	cani	inclusive
+TR1158	v	asm	no	aşk yapmak	conservative
+TR1326	n	cds	no	pompousness	conservative
+TR1730	n	cds	no	bilgiç	conservative
+TR46	n	ddp	yes	embesil	inclusive
+TR144	n	ddp	yes	hiçbir şey bilmiyorum	conservative
+TR1589	n	cds	no	ahlakçılık	inclusive
+TR530	n	asf	no	geciktirmek	conservative
+TR1401	n	svp	no	hiddet	inclusive
+TR231	n	asf	no	adam düşmek	conservative
+TR2005	n	cds	no	lağım döşemi	inclusive
+TR180	n	asm	no	husye	inclusive
+TR645	n	svp	no	cinsel istek	inclusive
+TR441	n	om	no	oğlancı	conservative
+TR683	n	cds	no	gossiper	conservative
+TR93	n	ddp	yes	cahil	conservative
+TR291	a	cds	no	aptal	conservative
+TR145	n	an	no	eğitimsiz kişi	conservative
+TR309	n	cds	no	cani	inclusive
+TR1001	n	cds	no	fanatik	conservative
+TR1006	n	cds	no	pezevenklik	inclusive
+TR529	n	asf	no	changelings	conservative
+TR241	n	ddp	yes	alık	conservative
+TR234	n	cds	no	çiğnemek	conservative
+TR242	n	ddp	yes	avanak	conservative
+TR189	n	cds	no	eşkıyalık	inclusive
+TR1285	n	dmc	yes	haylaz	inclusive
+TR1367	n	cds	no	tefeciler	conservative
+TR640	n	or	no	lahana	inclusive
+TR340	n	cds	no	kılıksız kimse	conservative
+TR228	n	cds	no	blackballed	inclusive
+TR1056	n	an	no	pire	inclusive
+TR461	n	cds	no	azamet	conservative
+TR692	n	cds	no	tabansız	conservative
+TR308	n	re	no	yasadışı	inclusive
+TR1219	n	om	no	homoeroticism	inclusive
+TR1112	n	asf	no	vajen	conservative
+TR463	n	cds	no	conceitedness	conservative
+TR173	n	is	yes	hasis	conservative
+TR555	n	om	no	çocuk tacizcisi	conservative
+TR1075	n	cds	no	masonlar	inclusive
+TR78	n	qas	no	karışmak-cendereye	inclusive
+TR285	n	dmc	yes	yalancı	conservative
+TR988	n	dmc	yes	harcama-tüm	inclusive
+TR908	n	om	no	posteriyör	inclusive
+TR179	n	asm	no	ballock	inclusive
+TR483	n	cds	no	villainess	conservative
+TR190	n	rci	yes	barbar	conservative
+TR1379	n	cds	no	backtalk	inclusive
+TR646	n	svp	no	şehvet	inclusive
+TR1907	a	ddp	yes	enayice	conservative
+TR215	n	an	no	köpek	inclusive
+TR190	n	pa	yes	barbar	conservative
+TR595	n	an	no	raunch	conservative
+TR1029	n	qas	no	çiftçi	inclusive
+TR265	n	pr	no	rentboy	conservative
+TR91	n	cds	no	zilotlar	inclusive
+TR1518	n	svp	no	pridefulness	inclusive
+TR649	n	asm	no	nookymi	conservative
+TR771	n	cds	no	hibrid	inclusive
+TR556	n	ps	yes	Çinli	inclusive
+TR137	n	asf	no	beyinsiz	conservative
+TR1035	n	re	no	zorla	inclusive
+TR184	n	qas	no	teste	inclusive
+TR310	n	cds	no	kriminalize	conservative
+TR1634	n	asf	no	teknik özellik	inclusive
+TR131	n	ps	yes	ahmak	conservative
+TR200	n	pa	yes	avukat	inclusive
+TR815	n	cds	no	demagog	conservative
+TR693	n	cds	no	korkaklık	conservative
+TR868	n	dmc	yes	İkiyüzlü	conservative
+TR303	n	cds	no	çeteler	conservative
+TR1136	n	an	no	tatarcık	inclusive
+TR479	n	dmc	yes	boş gezenin boş kalfası	conservative
+TR2054	n	ps	yes	rroma	inclusive
+TR1535	n	qas	no	hitabet	inclusive
+TR668	n	om	no	nonoş	conservative
+TR134	n	cds	no	budala	conservative
+TR658	n	an	no	ada tavşanı	inclusive
+TR434	n	qas	no	işadamı	inclusive
+TR1096	n	re	no	gangsterler	inclusive
+TR1468	n	re	no	mafia	conservative
+TR653	n	asm	no	vidalama	conservative
+TR985	n	dmc	yes	libertin	conservative
+TR486	n	cds	no	külüstür araba	inclusive
+TR2044	n	pa	yes	personel	inclusive
+TR257	n	pr	no	şırfıntı	conservative
+TR1267	n	cds	no	mırıldanmak	inclusive
+TR1694	n	an	no	kadın kovalayan	conservative
+TR113	n	ddp	yes	hayvanlar	inclusive
+TR553	n	an	no	ev köpeği	inclusive
+TR1207	n	pr	no	ticari seks	conservative
+TR247	n	an	no	orospu	conservative
+TR1020	n	qas	no	çiftlik işçisi	inclusive
+TR1955	a	svp	no	mağrur	conservative
+TR1157	v	asm	no	yatmak	conservative
+TR137	n	an	no	beyinsiz	conservative
+TR691	n	cds	no	korkak	conservative
+TR1382	n	qas	no	dükkâncı	inclusive
+TR846	n	an	no	doodly-squat	conservative
+TR23	n	re	no	yanlış	inclusive
+TR1884	n	an	no	hamamböceği	inclusive
+TR187	n	cds	no	haydut	inclusive
+TR375	n	cds	no	hata	inclusive
+TR1491	n	qas	no	autoinfection	inclusive
+TR1252	n	svp	no	oburluk	inclusive
+TR852	n	ps	yes	krauthead	conservative
+TR199	n	pa	yes	özel elçisi	inclusive
+TR1760	n	an	no	bitler	inclusive
+TR673	n	om	no	homoseksüel	conservative
+TR2006	n	re	no	ndrangheta	inclusive
+TR1903	a	ddp	yes	ahmak	conservative
+TR77	n	qas	no	ıvır zıvır	inclusive
+TR1314	n	is	yes	düşük gelirli	inclusive
+TR469	n	dmc	yes	git	inclusive
+TR744	n	asm	no	jerk-off	conservative
+TR1283	n	cds	no	put	inclusive
+TR313	n	re	no	ceza	inclusive
+TR1515	n	pa	yes	hamal	inclusive
+TR545	n	dmc	yes	scammer	conservative
+TR77	n	cds	no	ıvır zıvır	inclusive
+TR773	n	cds	no	acemi	conservative
+TR503	n	ddp	yes	mahkum	inclusive
+TR1256	n	qas	no	hutch	inclusive
+TR285	n	cds	no	yalancı	conservative
+TR1458	n	cds	no	nerd	conservative
+TR1176	n	an	no	yaban domuzu	inclusive
+TR822	n	cds	no	entrikacı	inclusive
+TR1522	n	re	no	şantajcı	inclusive
+TR1095	n	cds	no	çeteci	inclusive
+TR590	n	qas	no	yuvarlanmak	inclusive
+TR1533	n	qas	no	rhetor	inclusive
+TR972	n	dmc	yes	ahlaki	inclusive
+TR592	n	qas	no	asılsız haber	inclusive
+TR1206	n	pr	no	john	inclusive
+TR1756	n	an	no	pediculus corporis	inclusive
+TR193	n	cds	no	barbarca	conservative
+TR1553	n	an	no	mikro-organizmalar	inclusive
+TR469	n	cds	no	git	conservative
+TR181	n	asm	no	yumurta	inclusive
+TR531	n	ddp	yes	changeling	conservative
+TR1096	n	dmc	yes	gangsterler	inclusive
+TR1704	n	cds	no	sonradan görme	inclusive
+TR575	n	an	no	dağ keçileri	inclusive
+TR308	n	cds	no	yasadışı	conservative
+TR191	n	rci	yes	churl	conservative
+TR1972	n	re	no	azap	inclusive
+TR523	n	cds	no	kumarhane	inclusive
+TR1114	n	pr	no	gangsterin kız arkadaşı	inclusive
+TR934	n	cds	no	çokluk	inclusive
+TR561	n	cds	no	clann	inclusive
+TR1229	n	ps	yes	13 esas kural	inclusive
+TR46	n	asf	no	embesil	conservative
+TR202	n	pa	yes	avukatı	inclusive
+TR851	n	ps	yes	boche	conservative
+TR396	n	ddp	yes	zooerasty	conservative
+TR438	n	qas	no	burgher kişi	inclusive
+TR2027	n	dmc	yes	serserilik	inclusive
+TR205	n	pa	yes	bakanı	inclusive
+TR131	n	dmc	yes	ahmak	conservative
+TR549	n	an	no	familiaris	inclusive
+TR1161	v	asm	no	düzmek	conservative
+TR696	n	cds	no	şarlatan	conservative
+TR490	n	an	no	caiman	inclusive
+TR1079	n	cds	no	fundamentalizm	inclusive
+TR1235	n	ps	yes	musevilik	inclusive
+TR194	n	cds	no	hödük	conservative
+TR1828	n	pa	yes	kamu muhasebe	inclusive
+TR41	n	ddp	yes	amentia	inclusive
+TR1429	n	cds	no	genel tuvaletler	inclusive
+TR960	n	cds	no	meraklısı	inclusive
+TR1120	n	cds	no	gaoler	inclusive
+TR164	n	an	no	cimri	conservative
+TR569	n	cds	no	halk	inclusive
+TR957	n	pa	yes	işçi	inclusive
+TR1105	n	asm	no	vicia faba	inclusive
+TR191	n	ps	yes	churl	conservative
+TR1028	n	qas	no	granger	inclusive
+TR164	n	svp	no	cimri	conservative
+TR916	n	cds	no	akıl kumkuması	conservative
+TR1371	n	an	no	bocek	inclusive
+TR1926	n	an	no	görünmez tehlike	conservative
+TR1324	n	an	no	insafsızlık	conservative
+TR1162	v	asm	no	sikişmek	conservative
+TR493	a	ddf	yes	çirkin	conservative
+TR374	n	qas	no	blooper	inclusive
+TR663	n	cds	no	haber muhabiri	inclusive
+TR1615	n	ps	yes	negro	inclusive
+TR448	n	qas	no	orta gelirli	inclusive
+TR1328	n	cds	no	kendini beğenmişlik	conservative
+TR1594	n	cds	no	bücür	conservative
+TR212	n	pa	yes	avukatlık	inclusive
+TR1038	n	om	no	rezene	inclusive
+TR1223	n	om	no	gayness	inclusive
+TR875	n	om	no	kıç	inclusive
+TR1855	n	qas	no	grandiyozite	inclusive
+TR1870	n	an	no	avrupa kurbağası	inclusive
+TR876	n	om	no	popo	inclusive
+TR596	n	an	no	kabalık	conservative
+TR1710	n	qas	no	troubler	conservative
+TR1298	n	ddf	yes	engelli	inclusive
+TR1391	n	asm	no	bülük	inclusive
+TR2033	n	pr	no	saray	inclusive
+TR192	n	cds	no	barbarlar	conservative
+TR1192	n	re	no	hırsızlık	inclusive
+TR310	n	re	no	kriminalize	inclusive
+TR1520	n	svp	no	superbia	conservative
+TR1460	n	svp	no	luxuria	inclusive
+TR484	n	an	no	kötü	conservative
+TR925	n	an	no	ovis koç	inclusive
+TR194	n	rci	yes	hödük	conservative
+TR1833	n	re	no	kaçırma	inclusive
+TR276	n	cds	no	kaos	inclusive
+TR793	n	or	no	helvacı kabağı	inclusive
+TR1804	a	ddf	yes	gözsüz	inclusive
+TR139	n	an	no	hıyarağası	conservative
+TR1930	a	dmc	yes	dağınık	conservative
+TR589	n	qas	no	zürzavar	inclusive
+TR1489	n	qas	no	necrotrophic	inclusive
+TR135	n	dmc	yes	kafasız	conservative
+TR479	n	svp	no	boş gezenin boş kalfası	conservative
+TR410	n	pr	no	inekler	inclusive
+TR1018	n	pr	no	metres	conservative
+TR688	n	ddp	yes	muhbir	conservative
+TR2031	n	an	no	kurtçuk	inclusive
+TR1543	n	cds	no	kanalizasyon	inclusive
+TR969	n	qas	no	amatör	conservative
+TR912	n	om	no	plantar	inclusive
+TR71	n	qas	no	tabiin	inclusive
+TR133	n	or	no	aptal	conservative
+TR1123	n	cds	no	dillidüdük	conservative
+TR1094	n	re	no	gangster	inclusive
+TR1766	n	cds	no	sofuluk	inclusive
+TR1398	n	svp	no	enviousness	inclusive
+TR970	n	an	no	salyangoz	inclusive
+TR384	n	cds	no	toplum kurallarına uyan kimse	conservative
+TR108	n	ddp	yes	direy	inclusive
+TR1039	n	om	no	finocchio	inclusive
+TR805	n	om	no	dame	inclusive
+TR1221	n	om	no	homoerotizm	inclusive
+TR1871	v	re	no	çalmak	inclusive
+TR1145	n	svp	no	iyi-için-naught	conservative
+TR1133	n	cds	no	snooper	conservative
+TR271	n	cds	no	çamaşır askısı	inclusive
+TR265	n	an	no	rentboy	conservative
+TR1007	n	cds	no	tedarik	conservative
+TR308	n	cds	no	yasadışı	inclusive
+TR1611	n	ps	yes	darkey	conservative
+TR473	n	dmc	yes	filanca	conservative
+TR1468	n	cds	no	mafia	conservative
+TR1	n	dmc	yes	sefillik	inclusive
+TR1571	n	pa	yes	çobanlar	inclusive
+TR2	v	an	no	havlamak	inclusive
+TR712	n	an	no	cimex lectularius	inclusive
+TR689	n	pr	no	moo-inek	inclusive
+TR1623	n	an	no	enayi	inclusive
+TR728	n	an	no	terketmek	conservative
+TR194	n	pa	yes	hödük	conservative
+TR718	n	an	no	hemipteron	inclusive
+TR1337	n	cds	no	scrawler	conservative
+TR1064	n	cds	no	mason	inclusive
+TR1107	n	asm	no	alan fasulyesi	inclusive
+TR235	n	or	no	sıcak kompres	conservative
+TR866	n	dmc	yes	ikiyüzlülük	conservative
+TR88	n	asf	no	folderol	conservative
+TR849	n	cds	no	ucuz romanlarda	inclusive
+TR1171	n	an	no	fulvus	inclusive
+TR1999	n	asm	no	kuşlar	inclusive
+TR1177	n	an	no	hınzır	inclusive
+TR473	n	an	no	filanca	conservative
+TR1748	n	cds	no	complainer	conservative
+TR706	n	an	no	cimicidae	inclusive
+TR2051	n	dmc	yes	hain	conservative
+TR1482	n	cds	no	paparazi	inclusive
+TR1561	n	an	no	animalculum	inclusive
+TR1076	n	an	no	kaş çatma	inclusive
+TR356	n	re	no	şantaj	conservative
+TR60	a	an	no	inatçı	inclusive
+TR1403	n	svp	no	gazap	inclusive
+TR1715	v	cds	no	ölmek	inclusive
+TR1998	n	asm	no	avifauna	inclusive
+TR647	n	svp	no	fiziksel cazibe	inclusive
+TR748	n	an	no	timsahlar	inclusive
+TR863	n	svp	no	tiksinme	inclusive
+TR1953	n	cds	no	conventicles	inclusive
+TR637	n	pa	yes	profesor	inclusive
+TR899	n	om	no	kalça	inclusive
+TR1325	n	cds	no	splashiness	conservative
+TR1294	n	ddf	yes	özür	inclusive
+TR132	n	cds	no	salak	conservative
+TR1026	n	qas	no	sodbuster	inclusive
+TR115	n	an	no	epifauna	inclusive
+TR452	n	cds	no	presumptuousness	conservative
+TR1081	n	cds	no	radikal dincilik	inclusive
+TR401	n	svp	no	bıkkınlık	inclusive
+TR28	n	pa	yes	bilimsel	inclusive
+TR163	n	svp	no	cimrilik	conservative
+TR1017	n	pr	no	comare	conservative
+TR444	n	qas	no	orta sınıf	inclusive
+TR942	n	cds	no	pek çok	inclusive
+TR1228	n	ps	yes	İsrail dini	inclusive
+TR618	n	an	no	pipiens'in	inclusive
+TR282	n	pr	no	sığır	inclusive
+TR484	n	is	yes	kötü	conservative
+TR1980	n	an	no	karabiberli kelebek	inclusive
+TR112	n	an	no	fauna	inclusive
+TR220	n	qas	no	barok	inclusive
+TR328	n	ps	yes	karalık	inclusive
+TR193	n	ps	yes	barbarca	conservative
+TR2038	n	re	no	yeğinlik	inclusive
+TR267	n	qas	no	vefasızlık	conservative
+TR1388	n	asm	no	erkek üreme organları	inclusive
+TR1750	n	cds	no	bellyacher	conservative
+TR602	n	asm	no	pipi	conservative
+TR1358	n	re	no	neonaticide	inclusive
+TR610	n	qas	no	halktan	inclusive
+TR1927	a	ddp	yes	salak	conservative
+TR1799	a	ps	yes	kara	inclusive
+TR624	n	qas	no	kastçılık	inclusive
+TR381	n	cds	no	bragger	conservative
+TR2037	n	re	no	Şiddet	inclusive
+TR9	n	svp	no	ilgisiz	inclusive
+TR1160	v	asm	no	becermek	conservative
+TR1971	n	asm	no	fallik	inclusive
+TR657	n	asm	no	shtup	conservative
+TR373	n	cds	no	becerememek	inclusive
+TR739	n	an	no	kukumav	inclusive
+TR266	n	an	no	kaltak	conservative
+TR1300	n	ddf	yes	engelliler	inclusive
+TR483	n	dmc	yes	villainess	conservative
+TR2050	n	dmc	yes	dönek	conservative
+TR192	n	ps	yes	barbarlar	conservative
+TR1584	n	an	no	orthogastropoda	inclusive
+TR1207	n	pr	no	ticari seks	inclusive
+TR1152	n	cds	no	gericilik	conservative
+TR1044	n	dmc	yes	malodour	conservative
+TR1929	a	ddp	yes	ahmaklar	conservative
+TR777	n	qas	no	konformizm	inclusive
+TR1772	n	asm	no	masturbasyon yapmak	conservative
+TR1297	n	ddf	yes	engellilik	inclusive
+TR2049	n	dmc	yes	mürted	conservative
+TR337	n	dmc	yes	küfretmek	conservative
+TR1286	n	an	no	strix varia	inclusive
+TR1522	n	cds	no	şantajcı	inclusive
+TR258	n	pr	no	floozie	conservative
+TR1636	n	qas	no	kiracı çiftçilik	inclusive
+TR1030	n	qas	no	zari'	inclusive
+TR1711	n	qas	no	baş belası	conservative
+TR410	n	an	no	inekler	inclusive
+TR854	n	ps	yes	kraut	conservative
+TR811	n	cds	no	demagojik	conservative
+TR1206	n	pr	no	john	conservative
+TR1213	n	om	no	gay erkek	inclusive
+TR1524	n	pr	no	sıçanlar	inclusive
+TR1167	n	an	no	badi	inclusive
+TR781	n	cds	no	delikanlı	inclusive
+TR703	n	cds	no	Çöp	conservative
+TR151	n	an	no	eşekmerkep	inclusive
+TR1059	n	cds	no	mecnun	inclusive
+TR329	n	qas	no	kodaman	inclusive
+TR387	n	dmc	yes	pot kıran kimse	conservative
+TR1951	n	re	no	cinsel saldırı	inclusive
+TR1471	n	ps	yes	ostrogoth	inclusive
+TR1450	n	dmc	yes	mozzarella	inclusive
+TR135	n	ddp	yes	kafasız	conservative
+TR379	n	cds	no	övünen kimse	conservative
+TR948	n	an	no	nanus	conservative
+TR2023	n	om	no	travestiler	inclusive
+TR826	n	an	no	despoiler	inclusive
+TR943	n	cds	no	puanları	inclusive
+TR714	n	an	no	tahta kurusu	inclusive
+TR50	n	pa	yes	academicism	inclusive
+TR1243	n	cds	no	yüksek rahip	inclusive
+TR1872	n	cds	no	bilmiş	conservative
+TR1619	n	ps	yes	afrika kökenli	inclusive
+TR26	n	cds	no	komisyoncu	inclusive
+TR1893	n	an	no	aureus	inclusive
+TR250	n	pr	no	kevaşe	conservative
+TR341	n	an	no	hırpani kişi	conservative
+TR1539	n	cds	no	elebaşı	inclusive
+TR1607	n	ps	yes	nigga	conservative
+TR1643	n	an	no	brant goose	inclusive
+TR528	n	om	no	güzel ama yapmacıklı	conservative
+TR304	n	cds	no	grup	inclusive
+TR832	n	ps	yes	doofus	conservative
+TR487	n	or	no	balkabagi	inclusive
+TR1040	n	dmc	yes	fetor	conservative
+TR175	n	svp	no	pinti	conservative
+TR599	n	asm	no	sik	conservative
+TR1874	n	cds	no	çokbilmiş	conservative
+TR1934	n	an	no	noctiluca	inclusive
+TR55	n	an	no	bizon	inclusive
+TR1585	n	ps	yes	mongoloid	conservative
+TR532	n	re	no	iftira	inclusive
+TR963	n	re	no	suçlular	inclusive
+TR296	n	cds	no	sokak çeteleri	conservative
+TR933	n	cds	no	yükleri	inclusive
+TR527	n	cds	no	wuss	conservative
+TR1127	n	asf	no	kasık saç	inclusive
+TR1773	n	cds	no	kapalı sürme	conservative
+TR353	n	cds	no	gayri meşru	inclusive
+TR2032	n	an	no	kurtçuklar	inclusive
+TR1364	n	re	no	katil	inclusive
+TR134	n	an	no	budala	conservative
+TR1402	n	svp	no	kızgınlık	inclusive
+TR955	n	cds	no	eğitmen	inclusive
+TR325	n	ps	yes	mürekkeplilik	inclusive
+TR16	n	re	no	istismar	inclusive
+TR1459	n	cds	no	iyi bakılmış çocuk	inclusive
+TR69	n	om	no	anal ilişki	inclusive
+TR481	n	is	yes	rezil	conservative
+TR335	n	qas	no	iş lideri	inclusive
+TR298	n	cds	no	gençlik çeteleri	conservative
+TR191	n	ddp	yes	churl	conservative
+TR810	n	dmc	yes	aldatma	conservative
+TR1327	n	cds	no	ostentatiousness	conservative
+TR543	n	dmc	yes	dolandırıcı	conservative
+TR1934	n	pr	no	noctiluca	inclusive
+TR1163	v	asm	no	sikmek	conservative
+TR887	n	om	no	ventral	inclusive
+TR966	n	asm	no	sertleşme	inclusive
+TR766	n	ps	yes	ıslahçı	inclusive
+TR940	n	cds	no	ton	inclusive
+TR1858	a	cds	no	faşist	inclusive
+TR608	n	cds	no	problem	conservative
+TR601	n	asm	no	çük	conservative
+TR164	n	svp	no	cimri	inclusive
+TR1837	n	re	no	yağmacılık	inclusive
+TR499	n	cds	no	ayrıcalıklı danışman grubu	inclusive
+TR1275	n	asf	no	zamparalık etmek	conservative
+TR193	n	ddp	yes	barbarca	conservative
+TR268	n	dmc	yes	yalan	inclusive
+TR275	n	cds	no	kıyamet	inclusive
+TR1647	n	an	no	en küçük yabankazı	inclusive
+TR1435	n	an	no	mollusca	inclusive
+TR1823	n	pr	no	buncombe	conservative
+TR721	n	svp	no	özlem	inclusive
+TR1068	n	cds	no	masonik	inclusive
+TR163	n	svp	no	cimrilik	inclusive
+TR1546	n	ps	yes	mestizo	conservative
+TR1412	n	cds	no	hırsız	inclusive
+TR134	n	ddp	yes	budala	conservative
+TR750	n	an	no	crocodylia	inclusive
+TR79	n	cds	no	karışık şey	inclusive
+TR1614	n	ps	yes	siyahiler	inclusive
+TR1826	n	pa	yes	sayman	inclusive
+TR1110	n	asf	no	döl yolu	conservative
+TR959	a	qas	no	delice	inclusive
+TR789	n	cds	no	gizli danışmanlar grubu	inclusive
+TR1800	a	ddf	yes	âmâ	inclusive
+TR130	n	asf	no	betise	conservative
+TR2028	n	cds	no	yiyicilik	conservative
+TR492	a	ddf	yes	kötü	inclusive
+TR1057	n	an	no	siphonaptera	inclusive
+TR1059	n	dmc	yes	mecnun	inclusive
+TR1325	n	cds	no	splashiness	inclusive
+TR1128	n	cds	no	nosy-parker	conservative
+TR1072	n	cds	no	farmason	inclusive
+TR1664	n	re	no	Öldürme	inclusive
+TR821	n	cds	no	safdil	conservative
+TR684	n	ddp	yes	rumourmonger	conservative
+TR772	n	ps	yes	üreyebilirlik	inclusive
+TR1007	n	cds	no	tedarik	inclusive
+TR1956	a	svp	no	kibirli	conservative
+TR1085	n	cds	no	köktenci	inclusive
+TR1650	n	re	no	yıldırıcı	inclusive
+TR1205	n	pr	no	orospuluk	inclusive
+TR621	n	cds	no	halinden memnunluk	inclusive
+TR423	n	asm	no	kahve rengi	inclusive
+TR1372	n	an	no	haşere	inclusive
+TR1023	n	qas	no	farmhand	inclusive
+TR1857	n	qas	no	terkedilmiş gemi	inclusive
+TR416	n	cds	no	kumicho	inclusive
+TR383	n	qas	no	konformist	conservative
+TR1192	n	cds	no	hırsızlık	inclusive
+TR656	n	asm	no	saman rulo	conservative
+TR573	n	pa	yes	katip	inclusive
+TR669	n	om	no	nance	conservative
+TR873	n	om	no	anterior	inclusive
+TR1559	n	an	no	mikrobiyal	inclusive
+TR1516	n	cds	no	prankishness	inclusive
+TR1412	n	re	no	hırsız	inclusive
+TR241	n	asm	no	alık	conservative
+TR2017	n	cds	no	komplo teorisyenleri	inclusive
+TR1385	n	cds	no	eşleştirici	inclusive
+TR1360	a	is	yes	talihsiz	inclusive
+TR361	n	pa	yes	funeral undertaker	inclusive
+TR46	n	ps	yes	embesil	conservative
+TR186	n	qas	no	balast	inclusive
+TR1969	n	asm	no	ithyphallic	inclusive
+TR807	n	cds	no	acemice boyanmış resim	inclusive
+TR884	n	om	no	arka uç	inclusive
+TR923	n	svp	no	iştahlı kimse	inclusive
+TR989	n	om	no	özürlü	conservative
+TR1827	n	pa	yes	muhasebeci	inclusive
+TR232	n	cds	no	yumuşak dokunuş	conservative
+TR945	n	cds	no	demiryolu işçisi	inclusive
+TR2018	n	cds	no	komplo teorileri	inclusive
+TR1758	n	an	no	bit	inclusive
+TR125	n	cds	no	kurnazlık	conservative
+TR295	n	cds	no	çete	inclusive
+TR127	n	or	no	nick jr.	inclusive
+TR1566	n	ddp	yes	mikrosefali	inclusive
+TR857	n	cds	no	toprak	inclusive
+TR509	n	cds	no	marşandiz	inclusive
+TR167	n	cds	no	bordello	inclusive
+TR291	a	ddp	yes	aptal	conservative
+TR82	n	qas	no	karmakarışık şey	inclusive
+TR1336	n	cds	no	hattat	conservative
+TR1268	n	cds	no	şarkıcılardan	inclusive
+TR1610	n	ps	yes	jigaboo	conservative
+TR230	n	cds	no	okumuş kadın	inclusive
+TR801	n	cds	no	şakacı	conservative
+TR400	n	svp	no	can sıkıntısı	inclusive
+TR130	n	an	no	betise	conservative
+TR1405	n	svp	no	angriness	inclusive
+TR339	n	cds	no	pasaklı	conservative
+TR968	n	asm	no	sert-on	inclusive
+TR18	n	re	no	kurumsal suistimalleri	inclusive
+TR529	n	cds	no	changelings	inclusive
+TR1209	n	is	yes	fukara	inclusive
+TR1654	n	an	no	ixodoidea	inclusive
+TR1467	n	cds	no	mafya	inclusive
+TR209	n	pa	yes	avukatlar	inclusive
+TR729	n	asm	no	saflık	conservative
+TR7	n	svp	no	spiritlessness	inclusive
+TR727	n	an	no	vamper	conservative
+TR131	n	asm	no	ahmak	conservative
+TR1579	n	cds	no	mystifier	conservative
+TR268	n	qas	no	yalan	conservative
+TR1014	n	cds	no	pandar	conservative
+TR563	n	cds	no	ölçüm japon birimleri	inclusive
+TR1612	n	ps	yes	zenciler	inclusive
+TR498	n	cds	no	zümre	inclusive
+TR889	n	om	no	anteriyör	inclusive
+TR259	n	an	no	şıllık	conservative
+TR1428	n	cds	no	oda yıkama	inclusive
+TR787	n	or	no	hıyar	inclusive
+TR13	n	re	no	görevi kötüye	inclusive
+TR956	n	cds	no	aydın	inclusive
+TR1078	n	cds	no	köktencilik	inclusive
+TR405	n	pr	no	Öküz	inclusive
+TR282	n	an	no	sığır	inclusive
+TR234	n	asf	no	çiğnemek	conservative
+TR231	n	asm	no	adam düşmek	conservative
+TR961	a	qas	no	deli	conservative
+TR306	n	re	no	soyguncu	conservative
+TR90	n	re	no	işkenceci	inclusive
+TR206	n	pa	yes	yanlısı	inclusive
+TR1764	n	cds	no	dini ayrımcılık	inclusive
+TR1742	n	is	yes	dilenci	conservative
+TR318	n	dmc	yes	sahte	conservative
+TR139	n	asf	no	hıyarağası	conservative
+TR1770	n	cds	no	mastürbasyon	conservative
+TR462	n	svp	no	yüksek ellilik	conservative
+TR1788	n	an	no	tavuk	inclusive
+TR1740	n	cds	no	söylenti	inclusive
+TR1723	n	or	no	spud	inclusive
+TR1296	n	ddf	yes	engel	inclusive
+TR468	n	cds	no	cüsse	inclusive
+TR977	n	dmc	yes	etik güdü	inclusive
+TR782	n	or	no	amcık	conservative
+TR267	n	cds	no	vefasızlık	conservative
+TR961	a	ddp	yes	deli	inclusive
+TR1164	v	asm	no	sevişmek	conservative
+TR754	n	an	no	crocodilians	inclusive
+TR1924	n	qas	no	dedektif	inclusive
+TR1531	n	qas	no	belagat	inclusive
+TR1277	n	cds	no	putperestlik	inclusive
+TR306	n	re	no	soyguncu	inclusive
+TR1681	n	an	no	engerek	inclusive
+TR798	n	cds	no	cut-up	conservative
+TR267	n	cds	no	vefasızlık	inclusive
+TR1789	n	an	no	makiyan	inclusive
+TR1724	n	or	no	murphy	inclusive
+TR1238	n	ps	yes	israilli	inclusive
+TR1265	n	cds	no	şarkıcı	inclusive
+TR1086	n	svp	no	öfke	conservative
+TR290	a	ddp	yes	saçma	conservative
+TR1015	n	cds	no	gidi	inclusive
+TR399	n	an	no	ferociousness	conservative
+TR349	n	ddp	yes	mother fucker	conservative
+TR1262	n	an	no	sırtlan	inclusive
+TR1879	n	an	no	kan emici	inclusive
+TR297	n	cds	no	gangsterlik	conservative
+TR659	n	an	no	tavşan	inclusive
+TR1604	n	cds	no	autolatry	inclusive
+TR1784	n	re	no	plagiarizing	inclusive
+TR507	n	cds	no	bagaj tren	inclusive
+TR1992	n	om	no	soyunma çapraz	inclusive
+TR669	n	or	no	nance	conservative
+TR35	n	pa	yes	Öğretim elemanı	inclusive
+TR1651	n	cds	no	omerta	inclusive
+TR1632	n	cds	no	azgın	conservative
+TR1994	n	om	no	transvestizm	inclusive
+TR1822	n	pr	no	hogwash	conservative
+TR2029	n	cds	no	rüşvet alma	inclusive
+TR695	n	ddp	yes	Şarlatanlık	conservative
+TR1984	n	om	no	çapraz şifoniyer	inclusive
+TR1973	n	re	no	şiddetli acı	inclusive
+TR692	n	an	no	tabansız	conservative
+TR296	n	cds	no	sokak çeteleri	inclusive
+TR474	n	cds	no	ciğeri beş para etmez tip	conservative
+TR1231	n	ps	yes	yahudi	inclusive
+TR75	n	cds	no	acayip	inclusive
+TR545	n	cds	no	scammer	conservative
+TR1492	n	qas	no	parasitize	inclusive
+TR42	n	ddp	yes	mental retardasyon	inclusive
+TR1457	n	cds	no	asosyal	conservative
+TR73	n	qas	no	uşak	inclusive
+TR133	n	an	no	aptal	conservative
+TR1912	n	an	no	sciaenops ocellatus	inclusive
+TR453	n	ps	yes	bulgarca	inclusive
+TR609	n	cds	no	sorun	conservative
+TR1685	n	dmc	yes	palyaçolar	inclusive
+TR133	n	ddp	yes	aptal	conservative
+TR537	n	re	no	calunnia	inclusive
+TR1640	n	an	no	kaz	inclusive
+TR1581	n	an	no	sümüklüböcek	inclusive
+TR85	n	asm	no	maxilliped	inclusive
+TR216	n	an	no	kuçu kuçu	inclusive
+TR1203	n	pr	no	fuhuş	conservative
+TR838	n	cds	no	suç	inclusive
+TR471	n	svp	no	serseri	conservative
+TR362	n	pa	yes	cenaze	inclusive
+TR1785	a	dmc	yes	sahte	conservative
+TR719	n	an	no	hemipteran	inclusive
+TR1569	n	an	no	ovis aries	inclusive
+TR1285	n	cds	no	haylaz	inclusive
+TR800	n	cds	no	tricker	conservative
+TR2055	n	ps	yes	romani	inclusive
+TR1009	n	cds	no	dümbük	conservative
+TR546	n	qas	no	riffraff	conservative
+TR1588	n	pr	no	sosyetenin renkli siması	inclusive
+TR375	n	qas	no	hata	inclusive
+TR1853	a	dmc	yes	pis	inclusive
+TR134	n	asf	no	budala	conservative
+TR305	n	re	no	düzenbaz	conservative
+TR10	n	svp	no	duyarsızlık	inclusive
+TR965	n	asm	no	ereksiyon	inclusive
+TR1316	n	is	yes	fakirlik	inclusive
+TR314	n	an	no	teke	inclusive
+TR1595	n	dmc	yes	yarı-pint	conservative
+TR1594	n	dmc	yes	bücür	conservative
+TR544	n	re	no	vergi kaçakçısı	inclusive
+TR731	n	an	no	gece yırtıcıları	inclusive
+TR1058	n	dmc	yes	motley fool	inclusive
+TR1695	n	an	no	etek kovalayan	conservative
+TR1151	n	cds	no	gerici	conservative
+TR620	n	cds	no	gönül rahatlığı	inclusive
+TR2035	n	re	no	şiddet	inclusive
+TR545	n	re	no	scammer	inclusive
+TR821	n	an	no	safdil	conservative
+TR1514	n	pa	yes	hamallık	inclusive
+TR644	n	cds	no	kalabalık	inclusive
+TR612	n	qas	no	common people	inclusive
+TR1886	n	an	no	blattodea	inclusive
+TR1012	n	cds	no	pezevenkler	inclusive
+TR254	n	pr	no	seks işçisi	conservative
+TR1982	n	om	no	travesti	inclusive
+TR821	n	ddp	yes	safdil	conservative
+TR587	n	svp	no	niggardness	conservative
+TR292	n	dmc	yes	bağnaz	conservative
+TR1736	n	dmc	yes	aylak	conservative
+TR1573	n	pa	yes	çoban	inclusive
+TR593	n	qas	no	dağınıklık	inclusive
+TR1824	n	pr	no	palavra	conservative
+TR354	n	cds	no	gayrimeşru çocuk	inclusive
+TR2066	n	ps	yes	zulular	inclusive
+TR1106	n	asm	no	geniş fasulye	inclusive
+TR404	n	an	no	inek	inclusive
+TR1580	n	cds	no	bilinmez	conservative
+TR139	n	or	no	hıyarağası	conservative
+TR814	n	cds	no	demagoji	conservative
+TR1792	n	an	no	poulet	inclusive
+TR1627	n	ps	yes	latino	inclusive
+TR1165	a	cds	no	yasa dışı	inclusive
+TR131	n	cds	no	ahmak	conservative
+TR1344	n	om	no	bayanlar	inclusive
+TR338	n	an	no	tiksindirici	conservative
+TR104	n	ddp	yes	infauna	inclusive
+TR305	n	dmc	yes	düzenbaz	conservative
+TR1621	a	ps	yes	zenci	inclusive
+TR177	n	asm	no	testis	inclusive
+TR1829	n	or	no	brassica rapa	inclusive
+TR546	n	an	no	riffraff	conservative
+TR27	n	pa	yes	akademi	inclusive
+TR138	n	asf	no	mankafa	conservative
+TR641	n	or	no	brassica oleracea	inclusive
+TR246	n	pr	no	sokak kadını	conservative
+TR1697	n	qas	no	aşırmak	conservative
+TR771	n	ps	yes	hibrid	inclusive
+TR191	n	cds	no	churl	conservative
+TR465	n	cds	no	hacim	inclusive
+TR1195	n	re	no	ganimet	inclusive
+TR1005	n	cds	no	astik	inclusive
+TR736	n	an	no	strigiformes	inclusive
+TR365	n	an	no	aldatmak	conservative
+TR51	n	an	no	bizonu	inclusive
+TR1131	n	cds	no	seyirci	conservative
+TR340	n	an	no	kılıksız kimse	conservative
+TR80	n	cds	no	karmakarışıklık	inclusive
+TR385	n	qas	no	bumbler	conservative
+TR262	n	pr	no	aşifte	conservative
+TR249	n	pr	no	sürtük	conservative
+TR783	n	or	no	am	conservative
+TR847	n	cds	no	ucuz roman	inclusive
+TR221	n	qas	no	baroqueness	inclusive
+TR79	n	qas	no	karışık şey	inclusive
+TR462	n	cds	no	yüksek ellilik	conservative
+TR211	n	pa	yes	dava vekili	inclusive
+TR1191	n	cds	no	çalma	inclusive
+TR1675	n	dmc	yes	şanssız	inclusive
+TR270	n	cds	no	yiğidi	inclusive
+TR1442	n	an	no	sivrisinekler	inclusive
+TR611	n	qas	no	ortak kişi	inclusive
+TR697	n	ddp	yes	sağlık dolandırıcılık	conservative
+TR1668	n	or	no	yanık turuncu	inclusive
+TR1103	n	asm	no	avrupa fasulye	inclusive
+TR520	n	cds	no	leş	inclusive
+TR388	n	ddp	yes	beceriksiz	conservative
+TR295	n	cds	no	çete	conservative
+TR1762	a	an	no	bitli	inclusive
+TR679	n	om	no	puşt	conservative
+TR1690	n	an	no	kurt	inclusive
+TR1863	n	an	no	kurbağalar	inclusive
+TR1241	n	cds	no	kitleler	conservative
+TR301	n	cds	no	sokak çetesi	conservative
+TR1575	n	asm	no	jeerer	conservative
+TR1595	n	ddf	yes	yarı-pint	conservative
+TR1453	n	an	no	mıymıntı	conservative
+TR676	n	om	no	homofil	conservative
+TR1148	n	svp	no	gaf-off	conservative
+TR483	n	re	no	villainess	conservative
+TR1692	n	cds	no	sürçülisan	inclusive
+TR368	n	dmc	yes	zampara	conservative
+TR435	n	qas	no	burjuva	inclusive
+TR667	n	or	no	poove	conservative
+TR143	n	or	no	gerzek	conservative
+TR384	n	qas	no	toplum kurallarına uyan kimse	conservative
+TR1245	n	cds	no	başpiskopos	inclusive
+TR398	n	an	no	ahlaksızlık	conservative
+TR1327	n	cds	no	ostentatiousness	inclusive
+TR543	n	re	no	dolandırıcı	inclusive
+TR168	n	cds	no	genelevler	inclusive
+TR283	n	cds	no	beguine	inclusive
+TR1467	n	cds	no	mafya	conservative
+TR1003	n	cds	no	fanatizm	conservative
+TR664	n	cds	no	gazeteci	inclusive
+TR909	n	om	no	kontralateral	inclusive
+TR132	n	asm	no	salak	inclusive
+TR1469	n	re	no	italyan mafyası	conservative
+TR1024	n	qas	no	çiftçiler	inclusive
+TR1682	n	an	no	akbabalar	inclusive
+TR1097	n	cds	no	faşistler	conservative
+TR544	n	cds	no	vergi kaçakçısı	inclusive
+TR376	n	qas	no	gaf	inclusive
+TR115	n	ddp	yes	epifauna	inclusive
+TR703	n	cds	no	Çöp	inclusive
+TR190	n	ddp	yes	barbar	conservative
+TR1111	n	asf	no	vajina	conservative
+TR1577	n	qas	no	platin	inclusive
+TR474	n	an	no	ciğeri beş para etmez tip	conservative
+TR1000	n	qas	no	yayma	inclusive
+TR411	n	an	no	öküz	inclusive
+TR533	n	re	no	traducement	inclusive
+TR738	n	an	no	baykuş	inclusive
+TR1603	n	cds	no	idiolatry	inclusive
+TR1878	n	an	no	sülükler	inclusive
+TR407	n	an	no	bos taurus	inclusive
+TR1596	n	cds	no	narsisistik	inclusive
+TR175	n	is	yes	pinti	conservative
+TR280	n	ps	yes	beduin	inclusive
+TR1467	n	re	no	mafya	inclusive
+TR1013	n	cds	no	godoş	inclusive
+TR110	n	ddp	yes	olmanın animasyon	inclusive
+TR103	n	an	no	animalia	inclusive
+TR643	n	or	no	kelem	inclusive
+TR511	n	an	no	harharyas	inclusive
+TR420	n	asm	no	kahverengilik	inclusive
+TR1148	n	dmc	yes	gaf-off	conservative
+TR776	n	qas	no	uygunluk	inclusive
+TR251	n	pr	no	fahişe	inclusive
+TR853	n	ps	yes	jerry	conservative
+TR1149	n	cds	no	İrtica	conservative
+TR1038	n	or	no	rezene	inclusive
+TR929	n	pa	yes	kapıcı	inclusive
+TR984	n	dmc	yes	çapkın	conservative
+TR1354	n	svp	no	ihtiras	inclusive
+TR1347	n	dmc	yes	numaracı	conservative
+TR1706	n	cds	no	yerden bitme	inclusive
+TR1328	n	cds	no	kendini beğenmişlik	inclusive
+TR560	n	cds	no	eloğlu	inclusive
+TR1597	n	cds	no	narsizt	inclusive
+TR821	n	asf	no	safdil	conservative
+TR801	n	dmc	yes	şakacı	inclusive
+TR864	n	dmc	yes	mürailik	conservative
+TR402	n	svp	no	sıkıcı	inclusive
+TR407	n	pr	no	bos taurus	inclusive
+TR1565	n	ddp	yes	microcephalic	inclusive
+TR944	n	dmc	yes	derbeder	inclusive
+TR1487	n	dmc	yes	kaba	conservative
+TR495	n	an	no	havlamak	inclusive
+TR869	n	dmc	yes	iki yüzlü	conservative
+TR1108	n	asf	no	vulva	conservative
+TR566	n	cds	no	aşiretler	inclusive
+TR983	n	cds	no	zavallı	conservative
+TR626	n	cds	no	öğretmen	conservative
+TR62	n	om	no	livâta	inclusive
+TR176	n	qas	no	er bezi	inclusive
+TR726	n	an	no	prickteaser	conservative
+TR2040	n	an	no	viper	inclusive
+TR305	n	an	no	düzenbaz	conservative
+TR481	n	dmc	yes	rezil	conservative
+TR651	n	asm	no	kahrolası	conservative
+TR671	n	or	no	queer	conservative
+TR1902	a	qas	no	orta sınıf	inclusive
+TR928	n	pa	yes	porter	inclusive
+TR1133	n	qas	no	snooper	inclusive
+TR544	n	dmc	yes	vergi kaçakçısı	conservative
+TR679	n	om	no	puşt	inclusive
+TR1889	n	an	no	blattaria	inclusive
+TR1290	n	ddf	yes	hareket engeli	inclusive
+TR691	n	an	no	korkak	conservative
+TR131	n	ddp	yes	ahmak	conservative
+TR1008	n	cds	no	dasnik	conservative
+TR948	n	ddf	yes	nanus	conservative
+TR976	n	dmc	yes	ahlak	inclusive
+TR89	n	cds	no	eziyetçi	conservative
+TR165	n	ddp	yes	geveze	conservative
+TR2057	n	ps	yes	romanlar	inclusive
+TR136	n	asf	no	pislik	conservative
+TR256	n	pr	no	hırpani kadın	conservative
+TR1781	n	re	no	plagiarisation	inclusive
+TR1094	n	dmc	yes	gangster	inclusive
+TR263	n	an	no	sokak kızı	conservative
+TR225	n	cds	no	blackballing	inclusive
+TR745	n	asm	no	twirp	conservative
+TR70	n	svp	no	miskin	conservative
+TR1305	n	pr	no	saçmalık	conservative
+TR1109	n	asf	no	vajinal	conservative
+TR1909	a	qas	no	sıradan	inclusive
+TR845	n	an	no	diddley	conservative
+TR892	n	om	no	posteriora	inclusive
+TR132	n	asm	no	salak	conservative
+TR914	n	om	no	vertikal	inclusive
+TR1949	n	re	no	cinsel suçları	inclusive
+TR1122	n	cds	no	ıslah memuru	inclusive
+TR799	n	cds	no	muzip	conservative
+TR660	n	cds	no	sessizliğin komplo edildi	inclusive
+TR153	n	an	no	kafkas öküzü	inclusive
+TR1669	n	or	no	bal kabağı	inclusive
+TR2019	n	cds	no	komplo teorisyeni	inclusive
+TR255	n	pr	no	cüruf	conservative
+TR475	n	dmc	yes	avare	conservative
+TR1039	n	or	no	finocchio	inclusive
+TR317	n	cds	no	dedikoducu	conservative
+TR87	n	ddp	yes	codswallop	conservative
+TR1980	n	pr	no	karabiberli kelebek	inclusive
+TR2015	n	ps	yes	sarı kart	inclusive
+TR1089	n	svp	no	üzmek	conservative
+TR1578	n	qas	no	zoka	inclusive
+TR306	n	cds	no	soyguncu	conservative
+TR1168	n	svp	no	servet tutkusu	inclusive
+TR1303	n	ddp	yes	saçma	conservative
+TR2053	n	ps	yes	rommany	inclusive
+TR193	n	rci	yes	barbarca	conservative
+TR1009	n	cds	no	dümbük	inclusive
+TR615	n	cds	no	topları-up	inclusive
+TR1852	a	dmc	yes	kirli	inclusive
+TR349	n	cds	no	mother fucker	conservative
+TR306	n	dmc	yes	soyguncu	conservative
+TR690	n	an	no	ödlek	conservative
+TR1624	n	pa	yes	aşık	inclusive
+TR823	n	cds	no	çılgın	inclusive
+TR231	n	cds	no	adam düşmek	conservative
+TR1767	a	svp	no	agresif	inclusive
+TR1731	n	cds	no	know-tüm	conservative
+TR322	n	cds	no	yaramazlık yapma	conservative
+TR288	n	pa	yes	tellal	inclusive
+TR983	n	dmc	yes	zavallı	inclusive
+TR1389	n	asm	no	erkeklik organı	inclusive
+TR1032	n	cds	no	fascista	inclusive
+TR388	n	an	no	beceriksiz	conservative
+TR732	n	an	no	bakuşlar	inclusive
+TR244	n	pr	no	orta malı	conservative
+TR1366	n	cds	no	kredi sharking	inclusive
+TR632	n	pa	yes	profesör	inclusive
+TR1485	n	cds	no	bürokratım	inclusive
+TR3	n	svp	no	tembellik	inclusive
+TR865	n	dmc	yes	ikiyüzlü	conservative
+TR654	n	asm	no	nookie	conservative
+TR273	n	cds	no	fop	inclusive
+TR1637	n	qas	no	kiracı çiftlik	inclusive
+TR1012	n	cds	no	pezevenkler	conservative
+TR473	n	dmc	yes	filanca	inclusive
+TR482	n	dmc	yes	alçak	conservative
+TR1351	n	dmc	yes	taklitçi	conservative
+TR1665	n	re	no	slayer	inclusive
+TR1431	n	cds	no	kaytarıcı	conservative
+TR326	n	ps	yes	siyahlık	inclusive
+TR1793	n	an	no	dücâce	inclusive
+TR1873	n	cds	no	wisenheimer	conservative
+TR133	n	cds	no	aptal	conservative
+TR481	n	cds	no	rezil	conservative
+TR1274	n	asf	no	bomba	conservative
+TR910	n	om	no	yanar	inclusive
+TR476	n	dmc	yes	hobos	conservative
+TR586	n	svp	no	tightfistedness	conservative
+TR87	n	an	no	codswallop	conservative
+TR1976	n	an	no	balon swallower	inclusive
+TR1333	n	pa	yes	cizvit	inclusive
+TR480	n	cds	no	ayaktakımı	conservative
+TR268	n	cds	no	yalan	inclusive
+TR958	a	qas	no	delirmek	inclusive
+TR413	n	pr	no	sığırlar	inclusive
+TR1910	n	an	no	redfish	inclusive
+TR1523	n	pr	no	keme	inclusive
+TR986	n	dmc	yes	mirasyedi	inclusive
+TR388	n	dmc	yes	beceriksiz	conservative
+TR242	n	cds	no	avanak	conservative
+TR190	n	cds	no	barbar	conservative
+TR1777	n	re	no	plagiarization	inclusive
+TR1633	n	cds	no	hypersexual	conservative
+TR1488	n	cds	no	chawbacon	conservative
+TR2007	n	an	no	kayman	inclusive
+TR702	n	qas	no	çöp	inclusive
+TR1193	n	cds	no	hırsızlar	inclusive
+TR1037	n	or	no	foeniculum vulgare	inclusive
+TR1898	a	svp	no	şehvetli	conservative
+TR1519	n	svp	no	gurur	inclusive
+TR267	n	dmc	yes	vefasızlık	inclusive
+TR588	n	qas	no	kargaşalık	inclusive
+TR1987	n	om	no	crossdress	inclusive
+TR794	n	qas	no	ıskartaya çıkarmak	conservative
+TR388	n	qas	no	beceriksiz	conservative
+TR862	n	svp	no	İğrenme	inclusive
+TR1510	n	an	no	shoat	inclusive
+TR633	n	pa	yes	üniversite profesörü	inclusive
+TR266	n	pr	no	kaltak	conservative
+TR1134	n	cds	no	hafiye	conservative
+TR110	n	an	no	olmanın animasyon	inclusive
+TR309	n	cds	no	cani	conservative
+TR399	n	ddp	yes	ferociousness	conservative
+TR1305	n	ddp	yes	saçmalık	inclusive
+TR1034	n	re	no	gasp	inclusive
+TR131	n	an	no	ahmak	conservative
+TR1193	n	re	no	hırsızlar	inclusive
+TR831	n	asm	no	dimwit	conservative
+TR49	n	pa	yes	akademizme	inclusive
+TR1625	n	pa	yes	talip	inclusive
+TR1900	n	cds	no	bilimcilik	inclusive
+TR1667	n	re	no	öldürme	inclusive
+TR409	n	pr	no	İnek	inclusive
+TR1104	n	asm	no	ingilizce fasulye	inclusive
+TR447	n	qas	no	orta sınıfın	inclusive
+TR546	n	cds	no	riffraff	conservative
+TR471	n	cds	no	serseri	conservative
+TR108	n	an	no	direy	inclusive
+TR817	n	pr	no	fahişeler	inclusive
+TR251	n	an	no	fahişe	conservative
+TR1013	n	cds	no	godoş	conservative
+TR1890	n	dmc	yes	anlayışı kıt kimse	conservative
+TR569	n	qas	no	halk	inclusive
+TR261	n	an	no	aşüfte	conservative
+TR128	n	or	no	bonce	inclusive
+TR474	n	dmc	yes	ciğeri beş para etmez tip	inclusive
+TR1616	n	ps	yes	negroids	inclusive
+TR194	n	dmc	yes	hödük	conservative
+TR243	n	pr	no	paçoz	conservative
+TR191	n	qas	no	churl	conservative
+TR193	n	qas	no	barbarca	conservative
+TR1567	n	ddp	yes	microcephalus	inclusive
+TR572	n	cds	no	akrabalık grubu	inclusive
+TR1674	n	ddp	yes	twaddler	conservative
+TR1945	n	re	no	seks istismarı	inclusive
+TR713	n	an	no	bed bug	inclusive
+TR1285	n	cds	no	haylaz	conservative
+TR1021	n	qas	no	tarla işçisi	inclusive
+TR1466	n	re	no	cosa nostra	inclusive
+TR1821	n	pr	no	zina yapan kadın	conservative
+TR920	n	svp	no	kanal kazıcı	conservative
+TR1431	n	dmc	yes	kaytarıcı	conservative
+TR1397	a	om	no	eş cinsel	conservative
+TR138	n	or	no	mankafa	conservative
+TR143	n	ddp	yes	gerzek	conservative
+TR442	n	om	no	sodomist	inclusive
+TR1483	n	cds	no	paparazzi	inclusive
+TR61	n	svp	no	slothfulness	inclusive
+TR1359	a	is	yes	üzgün	inclusive
+TR1284	n	cds	no	putataparlık	inclusive
+TR1714	n	qas	no	fitneci	conservative
+TR142	n	or	no	muttonhead	conservative
+TR477	n	dmc	yes	hobo	conservative
+TR1407	n	cds	no	mussiness	conservative
+TR233	n	asf	no	kurban	conservative
+TR544	n	cds	no	vergi kaçakçısı	conservative
+TR710	n	an	no	böcek	inclusive
+TR521	n	cds	no	casino	inclusive
+TR936	n	cds	no	slews	inclusive
+TR785	n	or	no	salatalık	inclusive
+TR470	n	dmc	yes	itoğluit	inclusive
+TR809	n	dmc	yes	aldatıcı	conservative
+TR1317	n	is	yes	yoksul	inclusive
+TR1916	n	cds	no	wonk	conservative
+TR1540	n	an	no	iskorpit	inclusive
+TR48	n	ddp	yes	mental retarde	inclusive
+TR173	n	svp	no	hasis	conservative
+TR464	n	cds	no	yığın	inclusive
+TR711	n	an	no	adamcağız	inclusive
+TR269	n	qas	no	sahtelik	conservative
+TR105	n	ddp	yes	hayvanların sınıflandırılması	inclusive
+TR1281	n	cds	no	putçuluk	inclusive
+TR1997	n	pr	no	hetaira	inclusive
+TR185	n	asm	no	yumurtacık	inclusive
+TR406	n	pr	no	büyükbaş	inclusive
+TR1508	n	an	no	shote	inclusive
+TR1456	n	an	no	burun	inclusive
+TR5	n	svp	no	irade yitimi	inclusive
+TR378	n	cds	no	line-shooter	conservative
+TR2058	n	ps	yes	Çingeneler	inclusive
+TR183	n	asm	no	haya	inclusive
+TR123	n	cds	no	açıkgözlük	inclusive
+TR1272	n	an	no	civciv	inclusive
+TR1882	n	cds	no	uşaklarının	conservative
+TR449	n	cds	no	kendini beğenmiş	conservative
+TR1138	n	cds	no	intermediator	inclusive
+TR132	n	cds	no	salak	inclusive
+TR539	n	re	no	libeler	conservative
+TR1180	a	cds	no	aldatıcı	conservative
+TR1770	n	asm	no	mastürbasyon	conservative
+TR190	n	dmc	yes	barbar	conservative
+TR1813	n	cds	no	savunma	inclusive
+TR1954	n	cds	no	dini toplantı	inclusive
+TR1008	n	cds	no	dasnik	inclusive
+TR1082	n	cds	no	kökten dincilik	inclusive
+TR1031	n	cds	no	faşist	conservative
+TR1230	n	ps	yes	musevi geleneği	inclusive
+TR1189	n	cds	no	soygun	inclusive
+TR142	n	asf	no	muttonhead	conservative
+TR774	n	cds	no	çaylak	conservative
+TR1860	n	an	no	salientian	inclusive
+TR982	n	cds	no	günahkâr	conservative
+TR1707	v	cds	no	atıştırmak	inclusive
+TR232	n	ps	yes	yumuşak dokunuş	conservative
+TR792	n	or	no	cucurbita maxima	inclusive
+TR1648	n	an	no	brent	inclusive
+TR1484	n	cds	no	paparaziler	inclusive
+TR1425	n	cds	no	tuvalet	inclusive
+TR474	n	dmc	yes	ciğeri beş para etmez tip	conservative
+TR531	n	ddp	yes	changeling	inclusive
+TR1419	n	qas	no	karışımı	inclusive
+TR380	n	cds	no	palavracı	conservative
+TR2041	n	an	no	vipera	inclusive
+TR1271	n	asf	no	piliç	conservative
+TR529	n	ddp	yes	changelings	conservative
+TR896	n	om	no	derriere	inclusive
+TR233	n	cds	no	kurban	conservative
+TR1095	n	re	no	çeteci	inclusive
+TR492	a	dmc	yes	kötü	conservative
+TR1820	n	pr	no	gevşek kadın	conservative
+TR229	n	cds	no	bas bleu	inclusive
+TR140	n	asf	no	dumbass	conservative
+TR709	n	an	no	dinleme cihazı	inclusive
+TR1842	n	re	no	soydular	inclusive
+TR171	n	cds	no	genelevi	inclusive
+TR1808	a	ps	yes	Çin	inclusive
+TR1293	n	ddf	yes	sakatlık	inclusive
+TR1935	n	re	no	ayartan kimse	conservative
+TR31	n	pa	yes	öğretim	inclusive
+TR294	n	cds	no	yobaz	conservative
+TR129	n	or	no	kafa	inclusive
+TR1920	a	is	yes	fakir	inclusive
+TR133	n	asm	no	aptal	conservative
+TR1342	n	om	no	soylu kadın	inclusive
+TR33	a	pa	yes	teorik	inclusive
+TR2065	n	ps	yes	zulu insanlar	inclusive
+TR164	n	is	yes	cimri	conservative
+TR834	n	ps	yes	ruiner	conservative
+TR1563	n	an	no	hayvancıkları	inclusive
+TR373	n	qas	no	becerememek	inclusive
+TR257	n	an	no	şırfıntı	conservative
+TR1015	n	cds	no	gidi	conservative
+TR1338	n	dmc	yes	ahlaksız	inclusive
+TR1348	n	dmc	yes	sahtekâr	conservative
+TR994	n	cds	no	akrabayı talukat	inclusive
+TR1257	n	qas	no	kulübe	inclusive
+TR1751	n	an	no	pediculus humanus	inclusive
+TR1472	n	ps	yes	ostrogotlar	inclusive
+TR1816	a	ddf	yes	sakat	inclusive
+TR558	n	cds	no	boy	inclusive
+TR46	n	asm	no	embesil	inclusive
+TR1509	n	an	no	domuzcuk	inclusive
+TR1831	n	re	no	kaçırmaya	inclusive
+TR78	n	cds	no	karışmak-cendereye	inclusive
+TR293	n	dmc	yes	bağnazlık	conservative
+TR1666	n	cds	no	zamane	conservative
+TR662	n	pa	yes	onbaşı	inclusive
+TR272	n	cds	no	dostum	inclusive
+TR397	n	ddp	yes	zooerastia	conservative
+TR769	n	cds	no	melez	inclusive
+TR1861	n	an	no	anuran	inclusive
+TR1697	n	cds	no	aşırmak	conservative
+TR195	n	svp	no	para hırsı	inclusive
+TR740	n	an	no	athene noctua	inclusive
+TR524	n	dmc	yes	toplum dışına itilmiş	inclusive
+TR1993	n	om	no	travestizm	inclusive
+TR456	n	ps	yes	bulgarlar	inclusive
+TR1067	n	cds	no	gizli meslek birliği	inclusive
+TR506	n	ddp	yes	tutuklu	inclusive
+TR850	n	ps	yes	alman	conservative
+TR1395	n	asm	no	Çük	inclusive
+TR1967	n	an	no	caimans	inclusive
+TR1552	n	an	no	mikro-organizma	inclusive
+TR979	n	an	no	eurypterid	inclusive
+TR1053	n	dmc	yes	sahtecilik	inclusive
+TR504	n	ddp	yes	esir	inclusive
+TR1362	n	svp	no	gorger	conservative
+TR500	n	cds	no	içgrup	inclusive
+TR459	n	cds	no	kibir	inclusive
+TR274	n	cds	no	züppe	conservative
+TR1240	n	cds	no	avam	inclusive
+TR1928	a	ddp	yes	bön	conservative
+TR1639	n	an	no	anserini	inclusive
+TR1436	n	an	no	yumuşakçalar	inclusive
+TR1258	n	cds	no	wheeler bayi	conservative
+TR1478	n	an	no	pudge	conservative
+TR1069	n	cds	no	masonluk	inclusive
+TR57	n	an	no	tatanka	inclusive
+TR1944	n	re	no	seks suçu	inclusive
+TR922	n	svp	no	obur	inclusive
+TR524	n	is	yes	toplum dışına itilmiş	inclusive
+TR1605	n	cds	no	öz-ibadet	inclusive
+TR1036	n	or	no	titizlik	inclusive
+TR684	n	cds	no	rumourmonger	conservative
+TR1196	n	re	no	yağma	inclusive
+TR1490	n	qas	no	ektoparazit	inclusive
+TR576	n	an	no	capra	inclusive
+TR1660	n	re	no	cinayet	inclusive
+TR179	n	qas	no	ballock	inclusive
+TR2045	n	pa	yes	çalışan	inclusive
+TR802	n	cds	no	prankster	conservative
+TR981	n	cds	no	evildoer	conservative
+TR835	n	re	no	yasa kıran	inclusive
+TR1957	a	svp	no	kurumlu	conservative
+TR742	n	qas	no	mürettebat	inclusive
+TR1220	n	om	no	aynı cinsiyetten	inclusive
+TR1915	n	cds	no	dweeb	conservative
+TR1909	a	cds	no	sıradan	inclusive
+TR483	n	an	no	villainess	conservative
+TR187	n	cds	no	haydut	conservative
+TR2014	n	ps	yes	kırmızı kart	inclusive
+TR797	n	cds	no	itlaf	conservative
+TR783	n	asf	no	am	conservative
+TR122	n	re	no	ırza geçme	conservative
+TR1011	n	cds	no	kavat	inclusive
+TR22	n	re	no	ihlalleri	inclusive
+TR305	n	cds	no	düzenbaz	conservative
+TR483	n	is	yes	villainess	conservative
+TR218	n	qas	no	freiherr	inclusive
+TR458	n	svp	no	övüngenlik	conservative
+TR1961	n	re	no	yıldırıcılık	inclusive
+TR480	n	cds	no	ayaktakımı	inclusive
+TR1719	v	cds	no	vefat etmek	inclusive
+TR99	n	an	no	anguilla	inclusive
+TR762	n	ddf	yes	kambur	inclusive
+TR469	n	dmc	yes	git	conservative
+TR1454	n	an	no	equus mulus	inclusive
+TR1346	n	cds	no	kanuna karşı gelme	inclusive
+TR2056	n	ps	yes	romanis	inclusive
+TR139	n	ddp	yes	hıyarağası	conservative
+TR1689	n	an	no	solucan	inclusive
+TR313	n	cds	no	ceza	conservative
+TR1772	n	cds	no	masturbasyon yapmak	conservative
+TR1545	n	ps	yes	melezlerden	conservative
+TR1734	v	an	no	öfke	conservative
+TR1129	n	cds	no	meraklı	conservative
+TR1439	n	ps	yes	moğollar	inclusive
+TR1181	a	cds	no	kurnaz	inclusive
+TR983	n	is	yes	zavallı	conservative
+TR508	n	cds	no	vagon yol	inclusive
+TR1851	n	cds	no	fawner	conservative
+TR1493	n	qas	no	asalaklık	inclusive
+TR1117	n	cds	no	jailor	inclusive
+TR133	n	asf	no	aptal	conservative
+TR677	n	om	no	ibne	conservative
+TR747	n	ddf	yes	kötürüm	inclusive
+TR989	n	ddf	yes	özürlü	inclusive
+TR885	n	om	no	aboral	inclusive
+TR1063	n	asm	no	faul	inclusive
+TR821	n	or	no	safdil	conservative
+TR888	n	om	no	lateral	inclusive
+TR1100	n	asm	no	geniş fasulyeyi	inclusive
+TR290	a	cds	no	saçma	conservative
+TR1904	a	ddp	yes	sersem	conservative
+TR1466	n	re	no	cosa nostra	conservative
+TR142	n	ddp	yes	muttonhead	conservative
+TR1499	n	an	no	papağan	inclusive
+TR1966	n	re	no	terör	conservative
+TR459	n	svp	no	kibir	conservative
+TR616	n	cds	no	cockup	inclusive
+TR269	n	dmc	yes	sahtelik	inclusive
+TR1968	n	ddp	yes	aksi kimse	conservative
+TR567	n	cds	no	klan	inclusive
+TR1601	n	cds	no	narcism	inclusive
+TR398	n	ddp	yes	ahlaksızlık	conservative
+TR1864	n	an	no	anurans	inclusive
+TR1466	n	cds	no	cosa nostra	conservative
+TR820	n	pr	no	nedim	inclusive
+TR635	n	pa	yes	prof	inclusive
+TR1447	n	an	no	moue	inclusive
+TR372	n	qas	no	faul-up	inclusive
+TR625	n	qas	no	kast	inclusive
+TR1445	n	an	no	güve	inclusive
+TR234	n	ddp	yes	çiğnemek	conservative
+TR602	n	asm	no	pipi	inclusive
+TR761	n	an	no	timsahgiller	inclusive
+TR1285	n	re	no	haylaz	inclusive
+TR1343	n	om	no	lady	inclusive
+TR232	n	asf	no	yumuşak dokunuş	conservative
+TR696	n	qas	no	şarlatan	conservative
+TR1771	n	asm	no	el işi	conservative
+TR112	n	ddp	yes	fauna	inclusive
+TR682	n	ddp	yes	rumormonger	conservative
+TR835	n	cds	no	yasa kıran	inclusive
+TR131	n	or	no	ahmak	conservative
+TR741	n	ddp	yes	kretinizm	inclusive
+TR1757	n	an	no	phthiraptera	inclusive
+TR1092	n	svp	no	beyhude	conservative
+TR82	n	cds	no	karmakarışık şey	inclusive
+TR1825	n	pa	yes	muhasebeciler	inclusive
+TR159	n	svp	no	7 ölümcül günah	inclusive
+TR600	n	asm	no	kobra	conservative
+TR941	n	cds	no	sürü	inclusive
+TR1204	n	pr	no	whoredom	conservative
+TR1349	n	dmc	yes	sözde	conservative
+TR136	n	or	no	pislik	conservative
+TR907	n	om	no	mediyan	inclusive
+TR1582	n	an	no	salyangozu	inclusive
+TR682	n	cds	no	rumormonger	conservative
+TR1880	n	an	no	sülük	inclusive
+TR411	n	pr	no	öküz	inclusive
+TR470	n	dmc	yes	itoğluit	conservative
+TR923	n	svp	no	iştahlı kimse	conservative
+TR105	n	an	no	hayvanların sınıflandırılması	inclusive
+TR763	n	ps	yes	bitki biyoteknolojisi	inclusive
+TR1366	n	cds	no	kredi sharking	conservative
+TR496	n	an	no	gırtlak	inclusive
+TR320	n	cds	no	yaramaz	conservative
+TR482	n	is	yes	alçak	conservative
+TR59	n	svp	no	amour propre	conservative
+TR121	n	re	no	tecavüzcüler	conservative
+TR1693	n	cds	no	dil sürçmesi	inclusive
+TR1184	n	cds	no	imansız	conservative
+TR1071	n	cds	no	gizli meslek işbirliği	inclusive
+TR2025	n	pa	yes	ayakkabıcı	inclusive
+TR1175	n	an	no	domuz	inclusive
+TR281	n	ps	yes	bedevi	inclusive
+TR1712	n	qas	no	başağrısı	conservative
+TR512	n	an	no	carcharodon	inclusive
+TR1370	n	cds	no	loansharking	inclusive
+TR242	n	dmc	yes	avanak	conservative
+TR1761	n	an	no	biti	inclusive
+TR1006	n	cds	no	pezevenklik	conservative
+TR2001	n	asm	no	aves	inclusive
+TR231	n	ddp	yes	adam düşmek	conservative
+TR109	n	ddp	yes	hayvan	inclusive
+TR842	n	an	no	diddly-bok	conservative
+TR480	n	ddp	yes	ayaktakımı	conservative
+TR949	n	an	no	cüce	conservative
+TR720	n	cds	no	hilekârlık	inclusive
+TR313	n	cds	no	ceza	inclusive
+TR1845	n	re	no	capturer	inclusive
+TR1413	n	ps	yes	metic	inclusive
+TR1089	n	dmc	yes	üzmek	conservative
+TR1495	n	qas	no	pariş	inclusive
+TR1187	n	cds	no	thieving	inclusive
+TR1787	n	an	no	mâkiyân	inclusive
+TR269	n	cds	no	sahtelik	inclusive
+TR450	n	cds	no	bencillik	conservative
+TR162	n	svp	no	avariciousness	inclusive
+TR743	n	asm	no	wanker	conservative
+TR86	a	svp	no	saldırgan	conservative
+TR337	n	an	no	küfretmek	conservative
+TR1739	n	an	no	vurguncu	conservative
+TR591	n	qas	no	şaşırtmak	inclusive
+TR1065	n	cds	no	hürmason	inclusive
+TR758	n	an	no	krokodil	inclusive
+TR680	n	om	no	lezbiyen	conservative
+TR432	n	qas	no	işadamları	inclusive
+TR192	n	pa	yes	barbarlar	conservative
+TR470	n	an	no	itoğluit	conservative
+TR176	n	asm	no	er bezi	inclusive
+TR1544	n	ps	yes	mestizaje	conservative
+TR1606	n	ps	yes	nigger	conservative
+TR1259	n	an	no	asıl sırtlanlar	inclusive
+TR1350	n	dmc	yes	pseud	conservative
+TR414	n	cds	no	baba	inclusive
+TR734	n	an	no	gece yırtıcı kuşları	inclusive
+TR451	n	cds	no	yüzsüzlük	conservative
+TR1465	n	cds	no	aynasız	inclusive
+TR1091	n	svp	no	boşuna oluş	conservative
+TR1272	n	asf	no	civciv	conservative
+TR166	n	ddp	yes	geri kalmışlık	inclusive
+TR1329	n	cds	no	Öğretmen	inclusive
+TR81	n	qas	no	ufak tefek şeyler	inclusive
+TR1046	n	cds	no	finagler	conservative
+TR627	n	pa	yes	yardımcı doçent	inclusive
+TR1805	a	asm	no	kahverengi	inclusive
+TR670	n	om	no	eşcinsel	conservative
+TR763	n	cds	no	bitki biyoteknolojisi	inclusive
+TR1557	n	an	no	mikroskopik canlılar	inclusive
+TR1626	n	ps	yes	hispanik	inclusive
+TR648	n	svp	no	eros	inclusive
+TR1031	n	ps	yes	faşist	inclusive
+TR332	n	qas	no	patronu	inclusive
+TR796	n	cds	no	reddetmek	conservative
+TR598	n	asm	no	kuş	inclusive
+TR1847	a	om	no	farklı	inclusive
+TR1141	n	cds	no	aracı	inclusive
+TR293	n	svp	no	bağnazlık	conservative
+TR1011	n	cds	no	kavat	conservative
+TR1964	n	re	no	teror	conservative
+TR755	n	an	no	crocodilia	inclusive
+TR1202	n	pr	no	cinsel hizmet	inclusive
+TR1775	a	svp	no	huysuz	conservative
+TR1140	n	cds	no	arabulucu	inclusive
+TR671	n	om	no	queer	conservative
+TR1276	n	asf	no	fıstık	conservative
+TR1244	n	cds	no	başrahip	inclusive
+TR622	n	cds	no	kendini tatmin	inclusive
+TR388	n	cds	no	beceriksiz	conservative
+TR231	n	an	no	adam düşmek	conservative
+TR1656	n	re	no	birinci derece cinayetten	inclusive
+TR529	n	ddp	yes	changelings	inclusive
+TR1684	n	pa	yes	arabacı	inclusive
+TR321	n	cds	no	çapkınlık	conservative
+TR530	n	cds	no	geciktirmek	inclusive
+TR1204	n	pr	no	whoredom	inclusive
+TR1203	n	pr	no	fuhuş	inclusive
+TR294	n	svp	no	yobaz	conservative
+TR1118	n	cds	no	gardiyanlık	inclusive
+TR318	n	dmc	yes	sahte	inclusive
+TR540	n	re	no	iftiracı	conservative
+TR1323	n	an	no	amansız	conservative
+TR675	n	or	no	gey	conservative
+TR1201	n	cds	no	ulak	inclusive
+TR1260	n	an	no	hyaeninae	inclusive
+TR1918	a	pa	yes	politik	inclusive
+TR1386	n	asm	no	bülüş	inclusive
+TR769	n	ps	yes	melez	inclusive
+TR913	n	om	no	kaudal	inclusive
+TR922	n	svp	no	obur	conservative
+TR1215	n	om	no	Üranizm	inclusive
+TR1093	n	dmc	yes	hovarda	inclusive
+TR2011	n	an	no	aldatmaca	conservative
+TR217	n	qas	no	baronies	inclusive
+TR1156	v	asm	no	yatmış olmak	conservative
+TR926	n	pa	yes	kapı görevlisi	inclusive
+TR478	n	cds	no	tembel	conservative
+TR81	n	cds	no	ufak tefek şeyler	inclusive
+TR250	n	an	no	kevaşe	conservative
+TR134	n	asm	no	budala	conservative
+TR1236	n	ps	yes	yahudilik	inclusive
+TR1205	n	pr	no	orospuluk	conservative
+TR1146	n	dmc	yes	önemsiz	conservative
+TR1844	n	re	no	tutan kimse	inclusive
+TR194	n	ps	yes	hödük	conservative
+TR345	n	cds	no	grev	inclusive
+TR1098	n	cds	no	faşizm	conservative
+TR1134	n	qas	no	hafiye	inclusive
+TR1373	n	an	no	haşarat	inclusive
+TR1688	n	dmc	yes	palyaço	inclusive
+TR704	n	cds	no	hurda	conservative
+TR897	n	om	no	tooshie	inclusive
+TR1150	n	cds	no	İrticai	conservative
+TR735	n	an	no	gece kuşu	inclusive
+TR715	n	an	no	tahtakurusu	inclusive
+TR1189	n	re	no	soygun	inclusive
+TR269	n	cds	no	sahtelik	conservative
+TR482	n	cds	no	alçak	conservative
+TR1061	n	cds	no	bağımlısı	conservative
+TR147	n	an	no	eşekler	inclusive
+TR136	n	ddp	yes	pislik	conservative
+TR409	n	an	no	İnek	inclusive
+TR494	a	ddf	yes	alçak	conservative
+TR531	n	ps	yes	changeling	conservative
+TR680	n	om	no	lezbiyen	inclusive
+TR107	n	ddp	yes	yaratık	inclusive
+TR1416	n	or	no	titizliği	inclusive
+TR141	n	ddp	yes	lunkhead	conservative
+TR1353	n	svp	no	arzu	inclusive
+TR833	n	ps	yes	söküp	conservative
+TR665	n	cds	no	newswriter	inclusive
+TR1500	n	cds	no	parti	inclusive
+TR2061	n	cds	no	eşkıyalar	inclusive
+TR1226	n	ps	yes	İbranilik	inclusive
+TR827	n	an	no	yağmacı	inclusive
+TR370	n	qas	no	bloopers	inclusive
+TR1355	n	svp	no	tutku	inclusive
+TR1592	n	or	no	squash asma	inclusive
+TR1381	n	qas	no	pazar kaleci	inclusive
+TR2000	n	asm	no	roosting	inclusive
+TR1004	n	cds	no	fanatiklik	conservative
+TR126	n	cds	no	perspicaciousness	inclusive
+TR339	n	dmc	yes	pasaklı	conservative
+TR1641	n	an	no	anserinae	inclusive
+TR749	n	an	no	crocodylian	inclusive
+TR1729	n	cds	no	bilgiçlik	conservative
+TR1783	n	re	no	ahz ü sirkat	inclusive
+TR93	n	an	no	cahil	conservative
+TR1339	n	dmc	yes	ahlaken iflas etmiş	inclusive
+TR1463	n	cds	no	polis	inclusive
+TR191	n	pa	yes	churl	conservative
+TR382	n	cds	no	dogmatizm	conservative
+TR529	n	asm	no	changelings	inclusive
+TR2020	n	cds	no	komplo teorisi	inclusive
+TR72	n	qas	no	tabiun	inclusive
+TR1440	n	cds	no	moral	inclusive
+TR1202	n	pr	no	cinsel hizmet	conservative
+TR1774	a	svp	no	ters	conservative
+TR1242	n	cds	no	millet	inclusive
+TR1609	n	ps	yes	zenci	inclusive
+TR951	n	an	no	helix pomatia	inclusive
+TR1217	n	om	no	eşcinseller	inclusive
+TR693	n	cds	no	korkaklık	inclusive
+TR1517	n	ddp	yes	çenebaz	inclusive
+TR1839	n	re	no	soyguncular	inclusive
+TR144	n	an	no	hiçbir şey bilmiyorum	conservative
+TR829	n	ddp	yes	bön	conservative
+TR370	n	cds	no	bloopers	inclusive
+TR371	n	qas	no	beceriksizlik	inclusive
+TR1990	n	om	no	travestilik	inclusive
+TR1173	n	an	no	yabandomuzu	inclusive
+TR788	n	or	no	sativus	inclusive
+TR68	n	om	no	oğlancılık	inclusive
+TR318	n	cds	no	sahte	conservative
+TR149	n	an	no	merkep	inclusive
+TR525	n	is	yes	parya	inclusive
+TR480	n	an	no	ayaktakımı	conservative
+TR825	n	an	no	pillager	inclusive
+TR1798	n	cds	no	yenidoğanlarda	inclusive
+TR135	n	cds	no	kafasız	conservative
+TR34	n	cds	no	amatörce	conservative
+TR528	n	an	no	güzel ama yapmacıklı	conservative
+TR949	n	an	no	cüce	inclusive
+TR180	n	qas	no	husye	inclusive
+TR1466	n	cds	no	cosa nostra	inclusive
+TR1361	a	is	yes	mutsuz	inclusive
+TR980	n	an	no	eurypterids	inclusive
+TR1983	n	om	no	crossdressing	inclusive
+TR1574	n	pa	yes	sheepherders	inclusive
+TR1387	n	asm	no	yarak	inclusive
+TR1363	n	re	no	kasıtsız öldüren kimse	inclusive
+TR303	n	cds	no	çeteler	inclusive
+TR1941	n	re	no	taciz	inclusive
+TR690	n	cds	no	ödlek	conservative
+TR1530	n	cds	no	kalıntı	inclusive
+TR667	n	om	no	poove	conservative
+TR1266	n	cds	no	aşk şarkıcısı	inclusive
+TR886	n	om	no	medyan çizgi	inclusive
+TR463	n	svp	no	conceitedness	conservative
+TR187	n	an	no	haydut	conservative
+TR1649	n	re	no	terörist	inclusive
+TR1126	n	cds	no	jigolo	inclusive
+TR294	n	dmc	yes	yobaz	conservative
+TR1796	n	an	no	kuzu	conservative
+TR1631	n	cds	no	seks düşkünlüğü	conservative
+TR131	n	asf	no	ahmak	conservative
+TR528	n	cds	no	güzel ama yapmacıklı	conservative
+TR1749	n	cds	no	dırdırcı	conservative
+TR350	n	cds	no	piç	conservative
+TR1210	n	om	no	erkek cinselliği	inclusive
+TR263	n	pr	no	sokak kızı	conservative
+TR1655	n	an	no	kene	inclusive
+TR1095	n	dmc	yes	çeteci	inclusive
+TR652	n	asm	no	kuyruk parçası	conservative
+TR832	n	asf	no	doofus	conservative
+TR891	n	om	no	dorsoventral	inclusive
+TR673	n	om	no	homoseksüel	inclusive
+TR2004	n	cds	no	lağım donanımı	inclusive
+TR196	n	an	no	barbarlık	inclusive
+TR396	n	an	no	zooerasty	conservative
+TR1299	n	ddf	yes	ehliyetsizlik	inclusive
+TR905	n	om	no	çörekler	inclusive
+TR1251	n	qas	no	ressam ve dekoratör	inclusive
+TR1602	n	cds	no	Özseverlik	inclusive
+TR234	n	an	no	çiğnemek	conservative
+TR1368	n	cds	no	tefeci	inclusive
+TR106	n	ddp	yes	metazoan'da	inclusive
+TR1077	n	an	no	kaşlarını çatmak	inclusive
+TR315	n	an	no	bison	inclusive
+TR1743	n	is	yes	baldırı çıplak	conservative
+TR890	n	om	no	sus	inclusive
+TR46	n	ddp	yes	embesil	conservative
+TR233	n	asm	no	kurban	conservative
+TR1318	n	svp	no	hareketsizlik	inclusive
+TR59	n	cds	no	amour propre	conservative
+TR1384	n	cds	no	çöpçatan	inclusive
+TR881	n	om	no	keister	inclusive
+TR915	n	cds	no	tilki	conservative
+TR441	n	om	no	oğlancı	inclusive
+TR939	n	cds	no	gobs	inclusive
+TR1708	n	qas	no	fesatçı	conservative
+TR1989	n	om	no	karşı cinse özenme	inclusive
+TR203	n	pa	yes	savunucuları	inclusive
+TR83	n	cds	no	karmakarışık topluluk	inclusive
+TR183	n	qas	no	haya	inclusive
+TR1369	n	cds	no	sarraflık	inclusive
+TR316	n	cds	no	masalcı	conservative
+TR617	n	cds	no	mess-up	inclusive
+TR1609	n	ps	yes	zenci	conservative
+TR289	n	pa	yes	belboy	inclusive
+TR309	n	re	no	cani	inclusive
+TR1037	n	om	no	foeniculum vulgare	inclusive
+TR1367	n	cds	no	tefeciler	inclusive
+TR871	n	dmc	yes	dissimulator	conservative
+TR1432	n	cds	no	slackers	conservative
+TR1735	n	dmc	yes	lingerer	conservative
+TR385	n	dmc	yes	bumbler	conservative
+TR297	n	cds	no	gangsterlik	inclusive
+TR376	n	cds	no	gaf	inclusive
+TR1408	n	cds	no	kargaşa	conservative
+TR1659	n	re	no	cinayetin	inclusive
+TR505	n	ddp	yes	hükümlü	inclusive
+TR1555	n	an	no	mikroorganizma	inclusive
+TR187	n	re	no	haydut	conservative
+TR1865	n	an	no	kurbağa	inclusive
+TR1790	n	an	no	dücace	inclusive
+TR1556	n	an	no	tek hücreli organizma	inclusive
+TR1218	n	om	no	homoseksüellik	inclusive
+TR1780	n	re	no	korsanlar	inclusive
+TR285	n	dmc	yes	yalancı	inclusive
+TR1786	n	an	no	gallus gallus domesticus	inclusive
+TR696	n	ddp	yes	şarlatan	conservative
+TR252	n	pr	no	hayat kadını	conservative
+TR1497	n	qas	no	mahalle	inclusive
+TR680	n	or	no	lezbiyen	conservative
+TR1452	n	an	no	irticacı	conservative
+TR1988	n	om	no	crossdresser	inclusive
+TR541	n	re	no	traducer	conservative
+TR2052	n	dmc	yes	treasonist	conservative
+TR670	n	om	no	eşcinsel	inclusive
+TR132	n	asf	no	salak	conservative
+TR1048	n	asm	no	balık	inclusive
+TR188	n	cds	no	haydutluk	inclusive
+TR336	n	qas	no	üst düzey yönetici	inclusive
+TR1911	n	an	no	kırmızı davul	inclusive
+TR902	n	om	no	geride	inclusive
+TR801	n	cds	no	şakacı	inclusive
+TR458	n	cds	no	övüngenlik	conservative
+TR2002	n	asm	no	avafauna	inclusive
+TR1225	n	om	no	homosexualism	inclusive
+TR1049	n	asm	no	pterygiophore	inclusive
+TR502	n	cds	no	klikler	inclusive
+TR1963	n	re	no	terörizm	inclusive
+TR568	n	cds	no	aşiret	inclusive
+TR25	n	cds	no	broker	inclusive
+TR88	n	cds	no	folderol	conservative
+TR673	n	or	no	homoseksüel	conservative
+TR1025	n	qas	no	zurra'	inclusive
+TR796	n	qas	no	reddetmek	conservative
+TR1376	n	re	no	zimmete geçirme	inclusive
+TR861	n	svp	no	tatsız	inclusive
+TR677	n	om	no	ibne	inclusive
+TR177	n	qas	no	testis	inclusive
+TR259	n	pr	no	şıllık	conservative
+TR1897	a	ps	yes	yahudi	inclusive
+TR1919	a	pa	yes	siyasal	inclusive
+TR1199	n	qas	no	tagalong	conservative
+TR471	n	is	yes	serseri	inclusive
+TR140	n	or	no	dumbass	conservative
+TR1599	n	cds	no	narsisizm	inclusive
+TR1357	n	cds	no	bebek	inclusive
+TR530	n	ps	yes	geciktirmek	conservative
+TR678	n	om	no	götveren	inclusive
+TR1368	n	cds	no	tefeci	conservative
+TR804	n	om	no	bayan	inclusive
+TR1125	n	an	no	pipistrellus	inclusive
+TR1304	n	ddp	yes	saçmalığı	conservative
+TR1455	n	an	no	katır	inclusive
+TR1692	n	an	no	sürçülisan	inclusive
+TR1782	n	re	no	intihal	inclusive
+TR844	n	an	no	atık	conservative
+TR678	n	om	no	götveren	conservative
+TR769	n	ps	yes	melez	conservative
+TR1412	n	dmc	yes	hırsız	conservative
+TR245	n	pr	no	pezevenk	conservative
+TR1754	n	an	no	bitli	inclusive
+TR1678	n	cds	no	tefecilik	inclusive
+TR585	n	svp	no	minginess	conservative
+TR1310	n	is	yes	fakir	inclusive
+TR1019	n	pr	no	metresi	conservative
+TR1446	n	an	no	alaycı yüz	inclusive
+TR261	n	pr	no	aşüfte	conservative
+TR1306	n	is	yes	yoksulluk	inclusive
+TR395	n	pa	yes	uncouthness	conservative
+TR699	n	ddp	yes	şarlatanlık	conservative
+TR872	n	dmc	yes	mürai	conservative
+TR1002	n	cds	no	fanatizmin	conservative
+TR1321	n	ddp	yes	cehalet	conservative
+TR678	n	or	no	götveren	conservative
+TR1119	n	cds	no	gardiyan	inclusive
+TR233	n	an	no	kurban	conservative
+TR1883	n	an	no	hamam böceği	inclusive
+TR1937	n	re	no	ırz düşmanı	conservative
+TR308	n	dmc	yes	yasadışı	inclusive
+TR975	n	dmc	yes	yerindelik	inclusive
+TR1562	n	an	no	hayvancık	inclusive
+TR1370	n	cds	no	loansharking	conservative
+TR148	n	an	no	equus asinus	inclusive
+TR132	n	an	no	salak	conservative
+TR1642	n	an	no	branta bernicla	inclusive
+TR366	n	cds	no	çıkmaz sokak	inclusive
+TR1520	n	cds	no	superbia	inclusive
+TR1211	n	om	no	erkek cinselliğinin sigara batılılaşmış kavramları	inclusive
+TR262	n	an	no	aşifte	conservative
+TR1488	n	dmc	yes	chawbacon	conservative
+TR1680	n	ps	yes	vandallar	inclusive
+TR318	n	ddp	yes	sahte	conservative
+TR455	n	ps	yes	bulgaristanlı	inclusive
+TR1022	n	qas	no	fieldhand	inclusive
+TR2022	n	om	no	drag queen	inclusive
+TR387	n	cds	no	pot kıran kimse	conservative
+TR1925	n	qas	no	bloodhound	inclusive
+TR605	n	asm	no	horoz	inclusive
+TR1849	n	cds	no	yaltakçı	conservative
+TR135	n	asf	no	kafasız	conservative
+TR1922	a	is	yes	fukara	inclusive
+TR143	n	an	no	gerzek	conservative
+TR1818	n	pr	no	şirret	conservative
+TR1357	n	re	no	bebek	inclusive
+TR1214	n	om	no	shirtlifter	inclusive
+TR151	n	om	no	eşekmerkep	inclusive
+TR880	n	om	no	ventrolateral	inclusive
+TR207	n	pa	yes	savunucusu	inclusive
+TR1496	n	qas	no	kilise cemaatinden	inclusive
+TR1468	n	cds	no	mafia	inclusive
+TR187	n	dmc	yes	haydut	inclusive
+TR1086	n	an	no	öfke	inclusive
+TR1279	n	cds	no	idol ibadet	inclusive
+TR301	n	cds	no	sokak çetesi	inclusive
+TR87	n	asf	no	codswallop	conservative
+TR312	n	cds	no	suçlu	conservative
+TR478	n	dmc	yes	tembel	conservative
+TR991	n	cds	no	akrabalar	inclusive
+TR1200	n	cds	no	ayakçısı	inclusive
+TR279	n	ps	yes	bedeviler	inclusive
+TR686	n	an	no	fizyonomi	inclusive
+TR419	n	ddp	yes	beyin hasarı	inclusive
+TR1779	n	re	no	korsanlık	inclusive
+TR1465	n	cds	no	aynasız	conservative
+TR519	n	an	no	insan yiyici	inclusive
+TR993	n	cds	no	aile hattı	inclusive
+TR90	n	cds	no	işkenceci	conservative
+TR1383	n	qas	no	esnaf	inclusive
+TR877	n	om	no	makat	inclusive
+TR1463	n	cds	no	polis	conservative
+TR997	n	cds	no	phratry	inclusive
+TR536	n	re	no	ağır eleştiri	inclusive
+TR1182	a	cds	no	akıllı	inclusive
+TR1380	n	cds	no	cevap vermek	inclusive
+TR969	n	qas	no	amatör	inclusive
+TR683	n	ddp	yes	gossiper	conservative
+TR1441	n	an	no	culicidae	inclusive
+TR1703	n	cds	no	hacıağa	inclusive
+TR806	n	cds	no	alçaklık	conservative
+TR190	n	qas	no	barbar	conservative
+TR626	n	cds	no	öğretmen	inclusive
+TR547	n	an	no	İt	inclusive
+TR766	n	cds	no	ıslahçı	inclusive
+TR473	n	cds	no	filanca	conservative
+TR481	n	an	no	rezil	conservative
+TR2006	n	cds	no	ndrangheta	inclusive
+TR1208	n	is	yes	-yok	inclusive
+TR1241	n	cds	no	kitleler	inclusive
+TR1479	n	an	no	yaban öküzü	inclusive
+TR1551	n	an	no	mikrop	inclusive
+TR76	n	cds	no	şaka	inclusive
+TR1155	n	cds	no	aşırı sağ kanat oyuncusu	conservative
+TR1686	n	dmc	yes	palyanço	inclusive
+TR1421	n	qas	no	saf olmayan madde	inclusive
+TR1991	n	om	no	transvestitism	inclusive
+TR190	n	ps	yes	barbar	conservative
+TR971	n	an	no	escargots	inclusive
+TR954	n	cds	no	pedagog	inclusive
+TR242	n	asm	no	avanak	conservative
+TR234	n	asm	no	çiğnemek	conservative
+TR12	n	qas	no	yardımcıları	inclusive
+TR1593	n	cds	no	stealer	inclusive
+TR1702	n	cds	no	nouveau-riche	inclusive
+TR1369	n	cds	no	sarraflık	conservative
+TR676	n	or	no	homofil	conservative
+TR146	n	om	no	eşek	inclusive
+TR1253	n	svp	no	overeating	inclusive
+TR292	n	svp	no	bağnaz	conservative
+TR2060	n	cds	no	eşkiya	inclusive
+TR491	n	an	no	timsah	inclusive
+TR141	n	asf	no	lunkhead	conservative
+TR1590	n	qas	no	ruhani lideri	inclusive
+TR1587	n	pr	no	sosyetesinin	inclusive
+TR313	n	dmc	yes	ceza	inclusive
+TR1866	n	an	no	bufo	inclusive
+TR29	n	pa	yes	akademisyenler	inclusive
+TR142	n	an	no	muttonhead	conservative
+TR527	n	an	no	wuss	conservative
+TR231	n	ps	yes	adam düşmek	conservative
+TR1906	a	ddp	yes	akılsız	conservative
+TR1412	n	cds	no	hırsız	conservative
+TR191	n	dmc	yes	churl	conservative
+TR870	n	dmc	yes	samimiyetsizlik	conservative
+TR1498	n	an	no	psittaciformes	inclusive
+TR531	n	asm	no	changeling	inclusive
+TR1765	n	cds	no	religiousism	inclusive
+TR1409	n	re	no	rustler	inclusive
+TR733	n	an	no	baykuşumsular	inclusive
+TR1183	n	cds	no	ayıplamak	conservative
+TR964	n	re	no	suçlanabilir yalnızca suçtur	inclusive
+TR1549	n	an	no	köpekbalıkları	inclusive
+TR670	n	or	no	eşcinsel	conservative
+TR779	n	cds	no	evladım	inclusive
+TR24	n	cds	no	simsar	inclusive
+TR130	n	ddp	yes	betise	conservative
+TR1144	n	an	no	caprinae	inclusive
+TR268	n	cds	no	yalan	conservative
+TR1936	n	re	no	raper	conservative
+TR117	n	re	no	tecavüz	conservative
+TR1905	a	ddp	yes	aptalca	conservative
+TR484	n	cds	no	kötü	conservative
+TR1115	n	pr	no	gangsterin moll	inclusive
+TR403	n	svp	no	sıkıntı	inclusive
+TR831	n	ddp	yes	dimwit	conservative
+TR327	n	ps	yes	siyah	inclusive
+TR1691	n	an	no	solucanlar	inclusive
+TR702	n	cds	no	çöp	inclusive
+TR226	n	cds	no	oybirliği	inclusive
+TR1198	n	qas	no	beleşçi	conservative
+TR745	n	ddp	yes	twirp	conservative
+TR1938	n	re	no	tecavüzcü	conservative
+TR1803	a	ddf	yes	kör	inclusive
+TR1671	n	dmc	yes	homunculus	inclusive
+TR790	n	cds	no	kamarillada	inclusive
+TR904	n	om	no	diskoidal	inclusive
+TR192	n	rci	yes	barbarlar	conservative
+TR1432	n	svp	no	slackers	conservative
+TR319	n	cds	no	boşboğaz	conservative
+TR14	n	re	no	İstismar	inclusive
+TR224	n	cds	no	olmazsa	inclusive
+TR1848	n	cds	no	yağcı	conservative
+TR552	n	an	no	köpekler	inclusive
+TR132	n	ddp	yes	salak	inclusive
+TR1885	n	an	no	kakalak	inclusive
+TR109	n	an	no	hayvan	inclusive
+TR1718	v	cds	no	gebermek	inclusive
+TR208	n	pa	yes	hukuk müşaviri	inclusive
+TR1055	n	an	no	pireler	inclusive
+TR312	n	re	no	suçlu	conservative
+TR80	n	qas	no	karmakarışıklık	inclusive
+TR1504	n	asm	no	bezelye	inclusive
+TR848	n	cds	no	kuruş korkunç	inclusive
+TR421	n	asm	no	kahverengi	inclusive
+TR695	n	cds	no	Şarlatanlık	conservative
+TR277	n	cds	no	topsy-turvydom	inclusive
+TR1146	n	svp	no	önemsiz	conservative
+TR1506	n	asm	no	pisum sativum	inclusive
+TR1859	n	an	no	karakurbağası	inclusive
+TR1693	n	an	no	dil sürçmesi	inclusive
+TR812	n	cds	no	ayaktakımı-rouser	conservative
+TR953	n	cds	no	eğitimci	inclusive
+TR1404	n	svp	no	Öfke	inclusive
+TR493	a	dmc	yes	çirkin	conservative
+TR66	n	om	no	livata	inclusive
+TR1608	n	ps	yes	nigra	conservative
+TR413	n	an	no	sığırlar	inclusive
+TR730	n	asm	no	credulousness	conservative
+TR1406	n	ddp	yes	moronity	inclusive
+TR579	n	an	no	keçi	inclusive
+TR1139	n	cds	no	go-between	inclusive
+TR1476	n	an	no	otus asio	inclusive
+TR2064	n	ps	yes	zulus	inclusive
+TR83	n	qas	no	karmakarışık topluluk	inclusive
+TR1773	n	asm	no	kapalı sürme	conservative
+TR298	n	cds	no	gençlik çeteleri	inclusive
+TR113	n	an	no	hayvanlar	inclusive
+TR841	n	an	no	diddly-squat	conservative
+TR937	n	cds	no	scads	inclusive
+TR87	n	cds	no	codswallop	conservative
+TR817	n	pr	no	fahişeler	conservative
+TR1931	a	re	no	şiddet	inclusive
+TR1875	n	cds	no	weisenheimer	conservative
+TR911	n	om	no	distal	inclusive
+TR391	n	an	no	ceset hırsızı	inclusive
+TR330	n	qas	no	sanayici	inclusive
+TR485	n	cds	no	jalopy	inclusive
+TR832	n	ddp	yes	doofus	conservative
+TR1985	n	om	no	çapraz giyinme	inclusive
+TR1901	n	ddp	yes	unwiseness	inclusive
+TR1270	n	qas	no	ideolog	inclusive
+TR135	n	asm	no	kafasız	conservative
+TR193	n	pa	yes	barbarca	conservative
+TR1242	n	cds	no	millet	conservative
+TR1716	v	cds	no	can vermek	inclusive
+TR1233	n	ps	yes	musevîlik	inclusive
+TR247	n	pr	no	orospu	conservative
+TR481	n	re	no	rezil	conservative
+TR919	n	qas	no	kulübesi	inclusive
+TR357	n	re	no	Şantaj yapmak	conservative
+TR137	n	ddp	yes	beyinsiz	conservative
+TR1501	n	dmc	yes	kötülüklerini	inclusive
+TR995	n	cds	no	ailenin	inclusive
+TR316	n	ddp	yes	masalcı	conservative
+TR753	n	an	no	crocodilian	inclusive
+TR819	n	pr	no	cariye	inclusive
+TR15	n	re	no	hırpalama	inclusive
+TR67	n	om	no	anal seks	inclusive
+TR192	n	ddp	yes	barbarlar	conservative
+TR1701	n	cds	no	zıpçıktı	inclusive
+TR174	n	svp	no	tamahkâr	conservative
+TR676	n	om	no	homofil	inclusive
+TR240	n	ddp	yes	işletmek	conservative
+TR104	n	an	no	infauna	inclusive
+TR1819	n	pr	no	zina eden kadın	conservative
+TR1432	n	dmc	yes	slackers	conservative
+TR1341	n	om	no	leydi	inclusive
+TR1658	n	re	no	katiller	inclusive
+TR232	n	asm	no	yumuşak dokunuş	conservative
+TR293	n	cds	no	bağnazlık	conservative
+TR746	n	ddf	yes	sakat	inclusive
+TR1600	n	cds	no	narsizm	inclusive
+TR374	n	cds	no	blooper	inclusive
+TR1830	n	or	no	şalgam	inclusive
+TR1594	n	ddf	yes	bücür	conservative
+TR1246	n	dmc	yes	evsiz	inclusive
+TR1322	n	an	no	inexorableness	conservative
+TR494	a	dmc	yes	alçak	conservative
+TR780	n	cds	no	oğlum	inclusive
+TR94	n	ddp	yes	analphabet	inclusive
+TR480	n	qas	no	ayaktakımı	conservative
+TR397	n	an	no	zooerastia	conservative
+TR44	n	ddp	yes	ahmaklık	inclusive
+TR3	n	svp	no	tembellik	conservative
+TR1062	n	asm	no	prepüs	inclusive
+TR1768	a	svp	no	kızgın	inclusive
+TR436	n	qas	no	İş kadını	inclusive
+TR65	n	om	no	anal sex	inclusive
+TR157	n	svp	no	Ölümcül günah	inclusive
+TR467	n	cds	no	hacmi	inclusive
+TR482	n	re	no	alçak	conservative
+TR1320	n	ddp	yes	bilgisizlik	conservative
+TR903	n	om	no	horizontal	inclusive
+TR675	n	om	no	gey	inclusive
+TR998	n	cds	no	soy sop	inclusive
+TR1717	v	cds	no	rahmetli olmak	inclusive
+TR1269	n	qas	no	ideologu	inclusive
+TR43	n	ddp	yes	zekâ geriliği	inclusive
+TR1461	n	svp	no	şehvetli	inclusive
+TR70	n	cds	no	miskin	conservative
+TR893	n	om	no	dorsal	inclusive
+TR1051	n	pa	yes	balıkçı	inclusive
+TR546	n	ddp	yes	riffraff	conservative
+TR1427	n	cds	no	kamu kolaylık	inclusive
+TR132	n	ps	yes	salak	conservative
+TR1649	n	re	no	terörist	conservative
+TR1802	a	ddf	yes	görmez	inclusive
+TR1877	n	an	no	hirudinea	inclusive
+TR1536	n	qas	no	retorik-belagat	inclusive
+TR1586	n	pr	no	sosyetik	inclusive
+TR1462	n	svp	no	iffetsiz	inclusive
+TR223	n	an	no	çapulcu	inclusive
+TR36	n	pa	yes	akademisyen	inclusive
+TR460	n	svp	no	küstahlık	conservative
+TR1657	n	re	no	öldürmekten	inclusive
+TR1791	n	an	no	volaille	inclusive
+TR843	n	an	no	diddly	conservative
+TR88	n	an	no	folderol	conservative
+TR372	n	cds	no	faul-up	inclusive
+TR1094	n	cds	no	gangster	inclusive
+TR962	n	re	no	suçlar	inclusive
+TR990	n	svp	no	faineance	inclusive
+TR2016	n	cds	no	conspiracism	inclusive
+TR874	n	om	no	vücut eksenleri	inclusive
+TR1047	n	cds	no	oyunbaz	conservative
+TR1178	n	cds	no	edebi hack	conservative
+TR562	n	cds	no	meslek grubu	inclusive
+TR130	n	asm	no	betise	conservative
+TR245	n	cds	no	pezevenk	conservative
+TR613	n	qas	no	ortak bir adam	inclusive
+TR681	n	om	no	twink	conservative
+TR1895	n	an	no	çakal	inclusive
+TR1402	n	re	no	kızgınlık	inclusive
+TR839	n	an	no	diddlyshit	conservative
+TR385	n	cds	no	bumbler	conservative
+TR530	n	ddp	yes	geciktirmek	inclusive
+TR679	n	or	no	puşt	conservative
+TR1746	n	cds	no	whiner	conservative
+TR454	n	ps	yes	bulgar	inclusive
+TR1738	n	dmc	yes	ıskarta	conservative
+TR364	n	an	no	kerata	conservative
+TR724	n	an	no	vampir	conservative
+TR1914	n	cds	no	ineklemek	conservative
+TR1375	n	an	no	insecta	inclusive
+TR947	n	cds	no	gündelikçi	inclusive
+TR675	n	om	no	gey	conservative
+TR1480	n	om	no	pederastic	inclusive
+TR461	n	svp	no	azamet	conservative
+TR1309	n	is	yes	yoksullar	inclusive
+TR1593	n	re	no	stealer	inclusive
+TR1797	n	cds	no	neonatal	inclusive
+TR383	n	cds	no	konformist	conservative
+TR1850	n	cds	no	truckler	conservative
+TR950	n	svp	no	ravenousness	conservative
+TR626	n	pa	yes	öğretmen	inclusive
+TR1832	n	re	no	kaçırır	inclusive
+TR1629	n	cds	no	seks düşkünü kadın	conservative
+TR1121	n	cds	no	hapishane gardiyanı	inclusive
+TR174	n	is	yes	tamahkâr	conservative
+TR125	n	cds	no	kurnazlık	inclusive
+TR1250	n	qas	no	boyacı	inclusive
+TR1846	n	re	no	çocuk hırsızı	inclusive
+TR1448	n	dmc	yes	mozzerella	inclusive
+TR187	n	dmc	yes	haydut	conservative
+TR689	n	an	no	moo-inek	inclusive
+TR1027	n	qas	no	ziraatçı	inclusive
+TR482	n	an	no	alçak	conservative
+TR312	n	cds	no	suçlu	inclusive
+TR1469	n	cds	no	italyan mafyası	conservative
+TR597	n	asm	no	alet	conservative
+TR921	n	svp	no	gourmandizer	inclusive
+TR187	n	re	no	haydut	inclusive
+TR2008	n	qas	no	dalış ağırlıklandırma sistemi	inclusive
+TR668	n	or	no	nonoş	conservative
+TR542	n	re	no	camorra	inclusive
+TR140	n	ddp	yes	dumbass	conservative
+TR1807	a	ps	yes	çin	inclusive
+TR1963	n	re	no	terörizm	conservative
+TR1400	n	svp	no	invidia	inclusive
+TR1728	n	cds	no	kitap kurdu	conservative
+TR1170	n	an	no	avrasya griffon	inclusive
+TR797	n	qas	no	itlaf	conservative
+TR1477	n	an	no	iniltilerini	inclusive
+TR356	n	re	no	şantaj	inclusive
+TR1418	n	qas	no	karışım	inclusive
+TR1727	v	qas	no	makyaj yapmak	inclusive
+TR433	n	qas	no	İşadamı	inclusive
+TR392	n	an	no	vücut kapış	inclusive
+TR1908	a	ddf	yes	tek göz	inclusive
+TR178	n	qas	no	taşak	inclusive
+TR1534	n	qas	no	retorik	inclusive
+TR6	n	svp	no	abuli	inclusive
+TR1921	a	is	yes	züğürt	inclusive
+TR1742	n	is	yes	dilenci	inclusive
+TR133	n	ps	yes	aptal	conservative
+TR1153	n	cds	no	muhafazakâr	conservative
+TR185	n	qas	no	yumurtacık	inclusive
+TR1646	n	an	no	yosun kazı	inclusive
+TR949	n	ddf	yes	cüce	conservative
+TR938	n	cds	no	wads	inclusive
+TR193	n	dmc	yes	barbarca	conservative
+TR341	n	cds	no	hırpani kişi	conservative
+TR1014	n	cds	no	pandar	inclusive
+TR557	n	cds	no	kabile	inclusive
+TR1733	n	cds	no	inatçı	conservative
+TR119	n	re	no	irza geçme	conservative
+TR233	n	ps	yes	kurban	conservative
+TR1959	n	cds	no	yüzeysellik	inclusive
+TR694	n	cds	no	korkaklığı	conservative
+TR428	n	qas	no	köylü	inclusive
+TR1102	n	asm	no	fava	inclusive
+TR430	n	qas	no	iş kişidir	inclusive
+TR1881	n	an	no	hirudinean	inclusive
+TR1653	n	an	no	keneler	inclusive
+TR1670	n	dmc	yes	homunculi	inclusive
+TR650	n	asm	no	siktir	conservative
+TR1254	n	qas	no	ev idaresi	inclusive
+TR538	n	re	no	iftiralarına	inclusive
+TR387	n	ddp	yes	pot kıran kimse	conservative
+TR2026	n	dmc	yes	serseriler	inclusive
+TR1570	n	an	no	koyun	inclusive
+TR1769	a	svp	no	sinirli	inclusive
+TR831	n	asf	no	dimwit	conservative
+TR1526	n	pr	no	geme	inclusive
+TR469	n	an	no	git	conservative
+TR542	n	cds	no	camorra	inclusive
+TR525	n	dmc	yes	parya	inclusive
+TR606	n	asm	no	cockerel	inclusive
+TR408	n	pr	no	boğa	inclusive
+TR1547	n	pr	no	lâğım faresi	inclusive
+TR1576	n	asm	no	flouter	conservative
+TR1923	a	is	yes	yoksul	inclusive
+TR1520	n	cds	no	superbia	conservative
+TR1191	n	re	no	çalma	inclusive
+TR471	n	dmc	yes	serseri	conservative
+TR1088	n	dmc	yes	dillydallier	conservative
+TR1116	n	cds	no	cezaevi görevlisi	inclusive
+TR1678	n	cds	no	tefecilik	conservative
+TR440	n	an	no	eski dünya buffalo	inclusive
+TR405	n	an	no	Öküz	inclusive
+TR219	n	qas	no	baron	inclusive
+TR1741	n	cds	no	dedikodu	inclusive
+TR1958	n	cds	no	trasformismo	inclusive
+TR1763	n	cds	no	dindarlık	inclusive
+TR782	n	asf	no	amcık	conservative
+TR1438	n	ps	yes	moğol	inclusive
+TR1811	n	pa	yes	araştırma profesörü	inclusive
+TR743	n	cds	no	wanker	conservative
+TR1521	n	cds	no	propagandacı	inclusive
+TR559	n	cds	no	kabilesi	inclusive
+TR1087	n	svp	no	dallier	conservative
+TR1392	n	asm	no	büllük	inclusive
+TR1494	n	qas	no	endo	inclusive
+TR1280	n	cds	no	putperest	inclusive
+TR599	n	asm	no	sik	inclusive
+TR1950	n	re	no	minimum seks suçluluk	inclusive
+TR725	n	an	no	yosma	conservative
+TR883	n	om	no	vücut bölgeleri	inclusive
+TR1179	n	cds	no	yazar bozuntusu	conservative
+TR478	n	svp	no	tembel	conservative
+TR363	n	an	no	geyik	conservative
+TR1486	n	qas	no	parazit	inclusive
+TR583	n	an	no	o-keçi	inclusive
+TR1502	n	dmc	yes	kötülük	inclusive
+TR233	n	ddp	yes	kurban	conservative
+TR278	n	cds	no	topsy-turvyness	inclusive
+TR2030	n	cds	no	satılmış	inclusive
+TR141	n	or	no	lunkhead	conservative
+TR1696	n	qas	no	otlakçı	conservative
+TR132	n	ddp	yes	salak	conservative
+TR702	n	cds	no	çöp	conservative
+TR921	n	svp	no	gourmandizer	conservative
+TR1996	n	pr	no	hetaera	inclusive
+TR2009	n	qas	no	ağırlık kemeri	inclusive
+TR1087	n	dmc	yes	dallier	conservative
+TR471	n	ps	yes	serseri	inclusive
+TR816	n	pr	no	sevgili	inclusive
+TR898	n	om	no	göt	inclusive
+TR1096	n	cds	no	gangsterler	inclusive
+TR37	n	pa	yes	karşılık gelen üyesi	inclusive
+TR350	n	cds	no	piç	inclusive
+TR232	n	an	no	yumuşak dokunuş	conservative
+TR146	n	an	no	eşek	inclusive
+TR1135	n	asf	no	kedi	conservative
+TR249	n	an	no	sürtük	conservative
+TR53	n	an	no	amerikan manda	inclusive
+TR1255	n	qas	no	ev işi	inclusive
+TR1776	n	re	no	aşırma	inclusive
+TR1670	n	cds	no	homunculi	inclusive
+TR1033	n	cds	no	hızlı bir	inclusive
+TR1437	n	cds	no	moneygrubber	inclusive
+TR466	n	cds	no	kütle	inclusive
+TR387	n	qas	no	pot kıran kimse	conservative
+TR882	n	om	no	dorsolateral	inclusive
+TR64	n	om	no	anal penetrasyon	inclusive
+TR1699	n	cds	no	yeni zengin	inclusive
+TR201	n	pa	yes	bakan-danışman	inclusive
+TR1598	n	cds	no	narsist	inclusive
+TR992	n	cds	no	kinfolk	inclusive
+TR235	n	ddp	yes	sıcak kompres	conservative
+TR232	n	ddp	yes	yumuşak dokunuş	conservative
+TR639	n	pa	yes	prof.	inclusive
+TR156	n	svp	no	açgözlülük	inclusive
+TR1305	n	ddp	yes	saçmalık	conservative
+TR431	n	qas	no	iş kişi	inclusive
+TR446	n	qas	no	burjuvazi	inclusive
+TR2039	n	an	no	dağ engereği	inclusive
+TR778	n	qas	no	uyum	inclusive
+TR1083	n	cds	no	köktendincilik	inclusive
+TR471	n	dmc	yes	serseri	inclusive
+TR1970	n	asm	no	fallus	inclusive
+TR1806	a	ps	yes	çinli	inclusive
+TR1687	n	dmc	yes	soytarı	inclusive
+TR906	n	om	no	apikal	inclusive
+TR1222	n	om	no	eş cinsellik	inclusive
+TR1812	a	cds	no	korkak	conservative
+TR1814	n	cds	no	önderliğin	inclusive
+TR526	n	cds	no	zayıf kimse	conservative
+TR900	n	om	no	posterior	inclusive
+TR760	n	an	no	crocodilidae	inclusive
+TR497	n	an	no	kapa	inclusive
+TR143	n	asf	no	gerzek	conservative
+TR1620	a	ps	yes	siyah	inclusive
+TR95	n	ddp	yes	analphabetic	inclusive
+TR1817	a	ddf	yes	kusurlu	inclusive
+TR1558	n	an	no	mikroskobik canlılar	inclusive
+TR145	n	ddp	yes	eğitimsiz kişi	conservative
+TR204	n	pa	yes	diplomatik rütbe	inclusive
+TR1468	n	re	no	mafia	inclusive
+TR1529	n	cds	no	emanetler	inclusive
+TR194	n	qas	no	hödük	conservative
+TR1291	n	ddf	yes	devre dışı bırakmak	inclusive
+TR1628	n	ps	yes	beyaz	inclusive
+TR1899	a	qas	no	ortaçağ	inclusive
+TR103	n	ddp	yes	animalia	inclusive
+TR944	n	ps	yes	derbeder	inclusive
+TR1240	n	cds	no	avam	conservative
+TR1538	n	qas	no	hatip	inclusive
+TR1732	n	cds	no	know-it-all	conservative
+TR584	n	an	no	nanny-goat	inclusive
+TR4	n	svp	no	acedia	inclusive
+TR501	n	cds	no	klik	inclusive
+TR1630	n	cds	no	hiperseksüalite	conservative
+TR38	n	pa	yes	bilim adamları	inclusive
+TR319	n	ddp	yes	boşboğaz	conservative
+TR408	n	an	no	boğa	inclusive
+TR480	n	qas	no	ayaktakımı	inclusive
+TR251	n	pr	no	fahişe	conservative
+TR526	n	an	no	zayıf kimse	conservative
+TR385	n	ddp	yes	bumbler	conservative
+TR1721	n	or	no	solanum tuberosum	inclusive
+TR1237	n	ps	yes	yahudiler	inclusive
+TR594	n	an	no	grossness	conservative
+TR1374	n	an	no	böcekler	inclusive
+TR770	n	ps	yes	bitki ıslahı	inclusive
+TR1331	n	cds	no	öğretmenler	inclusive
+TR140	n	an	no	dumbass	conservative
+TR169	n	cds	no	genelev	inclusive
+TR339	n	an	no	pasaklı	conservative
+TR114	n	an	no	epifaunal	inclusive
+TR1159	v	asm	no	seks yapmak	conservative
+TR1142	n	an	no	keçimsiler	inclusive
+TR530	n	ddp	yes	geciktirmek	conservative
+TR88	n	ddp	yes	folderol	conservative
+TR1475	n	an	no	megascops	inclusive
+TR829	n	ps	yes	bön	conservative

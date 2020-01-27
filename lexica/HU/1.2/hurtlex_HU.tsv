@@ -1,0 +1,2647 @@
+id	pos	category	stereotype	lemma	level
+HU262	n	ddp	yes	pillock	conservative
+HU569	n	asf	no	gyengeelméjű	conservative
+HU516	n	cds	no	léhűtő	conservative
+HU3	n	svp	no	lustaság	inclusive
+HU1219	n	cds	no	fundamentalizmus	inclusive
+HU416	n	ddp	yes	kétbalkezes	conservative
+HU154	n	ddp	yes	tökfilkó	conservative
+HU523	n	cds	no	tragacs	inclusive
+HU1933	n	an	no	cootie	inclusive
+HU1250	n	pr	no	pisztoly moll	inclusive
+HU1542	n	cds	no	betörő	inclusive
+HU1352	n	om	no	homosexualism	inclusive
+HU1603	n	cds	no	vétkes	inclusive
+HU567	n	ddp	yes	kretén	conservative
+HU538	n	ddp	yes	foglyok	inclusive
+HU711	n	asm	no	nooky	conservative
+HU1609	n	cds	no	rendőr	inclusive
+HU404	n	cds	no	line-shooter	conservative
+HU869	n	dmc	yes	megtévesztés	conservative
+HU712	n	an	no	nyuszi	inclusive
+HU330	n	dmc	yes	gazember	conservative
+HU1980	n	cds	no	bébi qualifier	inclusive
+HU2166	n	re	no	kínzóeszköz	inclusive
+HU1701	n	cds	no	főkolompos	inclusive
+HU821	n	ps	yes	növény nemesítő	inclusive
+HU565	n	asf	no	changelings	conservative
+HU892	n	ps	yes	uprooter	conservative
+HU1523	n	asm	no	fütyi	inclusive
+HU689	n	pa	yes	professzor	inclusive
+HU935	n	dmc	yes	álszent	conservative
+HU599	n	cds	no	grifter	conservative
+HU2211	n	cds	no	Összeesküvéselmélet	inclusive
+HU213	n	cds	no	barbár	conservative
+HU1265	n	asf	no	intim szőrzet	inclusive
+HU595	n	cds	no	svindler	conservative
+HU2188	n	pr	no	hellcat	conservative
+HU853	n	qas	no	selejtezett	conservative
+HU436	n	an	no	tehenek	inclusive
+HU568	n	asm	no	idióta	inclusive
+HU882	n	cds	no	egyszerű ember	conservative
+HU1946	a	svp	no	haragos	inclusive
+HU1211	n	cds	no	szabadkőművesek	inclusive
+HU889	n	ps	yes	ügyefogyott ember	conservative
+HU224	n	pa	yes	különleges megbízottja	inclusive
+HU213	n	qas	no	barbár	conservative
+HU1377	n	cds	no	főpap	inclusive
+HU505	n	svp	no	semmirekellő	conservative
+HU262	n	cds	no	pillock	conservative
+HU83	n	asm	no	függelékek	inclusive
+HU1566	n	cds	no	latrina	inclusive
+HU307	n	pr	no	szarvasmarha	inclusive
+HU448	n	ddp	yes	agykárosodás	inclusive
+HU1340	n	pr	no	call-girl	inclusive
+HU968	n	om	no	várusz	inclusive
+HU855	n	qas	no	selejtezés	conservative
+HU521	n	dmc	yes	gonosz	conservative
+HU367	n	cds	no	szlovén	conservative
+HU564	n	asm	no	bunkó	inclusive
+HU1612	n	re	no	maffia	inclusive
+HU676	n	qas	no	casteism	inclusive
+HU1607	n	cds	no	rendőrök	conservative
+HU1400	n	an	no	hiéna	inclusive
+HU897	n	cds	no	bűnözői magatartás	inclusive
+HU1612	n	cds	no	maffia	conservative
+HU147	n	asf	no	ostoba	conservative
+HU1669	n	cds	no	párt	inclusive
+HU2152	n	re	no	terroristák	inclusive
+HU1394	n	cds	no	hübrisz	conservative
+HU417	n	cds	no	fuser	conservative
+HU602	n	ddp	yes	riffraff	conservative
+HU127	n	an	no	epifaunal	inclusive
+HU769	n	an	no	cimex lectularius	inclusive
+HU473	n	qas	no	szakmai osztály	inclusive
+HU1379	n	cds	no	prelátus	inclusive
+HU832	n	qas	no	konformitás	inclusive
+HU2176	n	om	no	transzvesztita-öltözködés irányába	inclusive
+HU1091	n	cds	no	károkozás	inclusive
+HU1077	n	dmc	yes	vándor	inclusive
+HU1147	n	cds	no	stricik	inclusive
+HU438	n	pr	no	Ökör	inclusive
+HU2179	n	om	no	transzvesztita	inclusive
+HU1620	n	re	no	maffiózó	conservative
+HU569	n	cds	no	gyengeelméjű	inclusive
+HU1012	n	om	no	posterior	inclusive
+HU1339	n	pr	no	kurválkodás	inclusive
+HU767	n	an	no	lehallgató készülék	inclusive
+HU61	n	cds	no	önszeretet	conservative
+HU1734	n	ddp	yes	kisfejűség	inclusive
+HU1915	v	cds	no	firkál	inclusive
+HU94	n	ddp	yes	írástudatlan	inclusive
+HU114	n	ddp	yes	animalia	inclusive
+HU1700	n	qas	no	retorikailag	inclusive
+HU1275	n	qas	no	szaglász	inclusive
+HU860	n	om	no	hölgy	inclusive
+HU505	n	dmc	yes	semmirekellő	conservative
+HU286	n	an	no	street girl	conservative
+HU156	n	or	no	muttonhead	conservative
+HU389	n	an	no	felszarvazott	conservative
+HU34	n	cds	no	brókerek	inclusive
+HU1869	n	dmc	yes	bohóc	inclusive
+HU1703	n	an	no	kölöntére	inclusive
+HU749	n	cds	no	gyávaság	conservative
+HU162	n	an	no	szamarak	inclusive
+HU1316	n	an	no	sertés	inclusive
+HU59	n	an	no	american buffalo	inclusive
+HU816	n	ddf	yes	crookback	inclusive
+HU1380	n	cds	no	archpriest	inclusive
+HU951	n	om	no	szagittális	inclusive
+HU214	n	ps	yes	paraszt	conservative
+HU759	n	cds	no	szemetet	inclusive
+HU1139	n	cds	no	rokonok	inclusive
+HU1516	n	asm	no	pénisz	inclusive
+HU199	n	qas	no	herék	inclusive
+HU566	n	ddp	yes	késleltet	conservative
+HU1858	n	cds	no	uzsora	inclusive
+HU557	n	dmc	yes	pária	inclusive
+HU652	n	or	no	fasz	conservative
+HU719	n	cds	no	newswriter	inclusive
+HU1805	n	cds	no	hypersexual	conservative
+HU675	n	qas	no	kaszt	inclusive
+HU144	n	cds	no	bolond	conservative
+HU1730	n	ddp	yes	microcephalia	inclusive
+HU1444	n	is	yes	nyomorúság	inclusive
+HU864	n	cds	no	dastardliness	conservative
+HU1563	n	cds	no	mosdó	inclusive
+HU2226	n	cds	no	megvesztegethető	inclusive
+HU309	n	qas	no	füllentés	conservative
+HU822	n	cds	no	növényi biotechnológiai	inclusive
+HU1320	n	cds	no	gebe	conservative
+HU948	n	om	no	viszcerális	inclusive
+HU1732	n	ddp	yes	microcephalic	inclusive
+HU733	n	om	no	homophile	inclusive
+HU155	n	ddp	yes	faszfej	conservative
+HU1135	n	svp	no	semmittevés	inclusive
+HU768	n	an	no	lehallgatás	inclusive
+HU1469	n	cds	no	scrawler	conservative
+HU1325	n	re	no	tolvajok	inclusive
+HU492	n	cds	no	hencegés	conservative
+HU981	n	om	no	ellenoldali	inclusive
+HU2205	n	an	no	beugratás	conservative
+HU751	n	cds	no	sarlatán	conservative
+HU154	n	asf	no	tökfilkó	conservative
+HU898	n	cds	no	bűnügy	inclusive
+HU332	n	cds	no	útonálló	conservative
+HU1844	n	or	no	égett narancs	inclusive
+HU2199	n	cds	no	szennyvízcsatornába	inclusive
+HU1000	n	om	no	nyílirányú	inclusive
+HU1125	n	dmc	yes	korhely	conservative
+HU2063	n	cds	no	sznob	conservative
+HU2087	n	dmc	yes	közepes tehetségű ember	conservative
+HU933	n	dmc	yes	álszentség	conservative
+HU150	n	ps	yes	tökfej	conservative
+HU791	n	an	no	bagoly	inclusive
+HU1917	n	cds	no	pletyka	inclusive
+HU290	n	qas	no	hazugság	conservative
+HU260	n	or	no	melegvizes borogatás	conservative
+HU1114	n	dmc	yes	erkölcsök	inclusive
+HU439	n	pr	no	tehén	inclusive
+HU122	n	ddp	yes	lény	inclusive
+HU1841	n	cds	no	időszervertől	conservative
+HU245	n	qas	no	baroqueness	inclusive
+HU2042	n	qas	no	nagyszerűség	inclusive
+HU1810	n	asf	no	szakszerűség	inclusive
+HU880	n	pr	no	udvaronc	inclusive
+HU458	n	pr	no	epimys norvegicus	inclusive
+HU941	n	om	no	anteroposterior	inclusive
+HU1186	n	asm	no	hal	inclusive
+HU565	n	ddp	yes	changelings	conservative
+HU1767	n	re	no	stealer	inclusive
+HU2054	n	an	no	anuran	inclusive
+HU470	n	qas	no	polgár emberek	inclusive
+HU1063	n	re	no	bűnös	conservative
+HU1804	n	cds	no	nimfománia	conservative
+HU428	n	an	no	gonoszság	conservative
+HU119	n	ddp	yes	Állatok	inclusive
+HU214	n	qas	no	paraszt	conservative
+HU335	n	dmc	yes	számkivetett	inclusive
+HU635	n	an	no	kecskefélében	inclusive
+HU761	n	cds	no	ócskavas	inclusive
+HU2223	n	an	no	rouncey	inclusive
+HU2015	n	re	no	emberrablás	inclusive
+HU1273	n	cds	no	néző	conservative
+HU1876	n	an	no	elszólás	inclusive
+HU1370	n	ps	yes	zsidóság	inclusive
+HU144	n	ddp	yes	bolond	conservative
+HU146	n	cds	no	balek	conservative
+HU1715	n	an	no	cápák	inclusive
+HU316	a	cds	no	hülye	conservative
+HU338	n	cds	no	jogfosztás	inclusive
+HU305	n	ps	yes	bedu	inclusive
+HU1719	n	an	no	mikroba	inclusive
+HU1145	n	cds	no	strici	conservative
+HU160	n	an	no	tanulatlan ember	conservative
+HU153	n	ddp	yes	mamlasz	conservative
+HU2232	n	re	no	erőszak	inclusive
+HU752	n	ddp	yes	kuruzsló	conservative
+HU1376	n	cds	no	hierarch	inclusive
+HU567	n	ps	yes	kretén	conservative
+HU1328	n	cds	no	lopás	inclusive
+HU1339	n	pr	no	kurválkodás	conservative
+HU630	n	cds	no	japán mértékegységeket	inclusive
+HU917	n	ps	yes	jerry	conservative
+HU2228	n	cds	no	gazfickó	conservative
+HU1407	n	cds	no	zümmög	inclusive
+HU262	n	or	no	pillock	conservative
+HU8	n	svp	no	apátia	inclusive
+HU1575	n	ps	yes	mongol	inclusive
+HU564	n	cds	no	bunkó	inclusive
+HU86	a	svp	no	agresszív	conservative
+HU766	n	an	no	felbassza	inclusive
+HU482	n	cds	no	dagadt fejjel	conservative
+HU1777	n	ps	yes	nigger	conservative
+HU1471	n	dmc	yes	erkölcstelen	inclusive
+HU726	n	om	no	nance	conservative
+HU378	n	ddp	yes	anya fucker	conservative
+HU249	n	cds	no	ellenszavazat	inclusive
+HU732	n	or	no	meleg	conservative
+HU120	n	ddp	yes	lelkesít, hogy	inclusive
+HU1545	n	ps	yes	metoikosz	inclusive
+HU2185	n	om	no	transzvesztiták	inclusive
+HU2170	n	an	no	ballon swallower	inclusive
+HU1893	n	or	no	spud	inclusive
+HU1059	n	an	no	aries	inclusive
+HU1242	n	asm	no	bab	inclusive
+HU1218	n	an	no	mogorva tekintet	inclusive
+HU37	n	pa	yes	tudományos	inclusive
+HU354	n	ps	yes	inkiness	inclusive
+HU751	n	ddp	yes	sarlatán	conservative
+HU376	n	re	no	csaló	inclusive
+HU65	n	om	no	megerőszakolt	inclusive
+HU1422	n	ddf	yes	fogyatékos	inclusive
+HU1705	n	an	no	skorpióhal	inclusive
+HU82	n	qas	no	mindenféle holmi	inclusive
+HU1381	n	dmc	yes	hajléktalan	inclusive
+HU911	a	cds	no	bűnös	inclusive
+HU591	n	re	no	intrikus	conservative
+HU1062	n	cds	no	fiatalkorú	conservative
+HU537	n	ddp	yes	fogoly	inclusive
+HU515	n	svp	no	naplopó	conservative
+HU1579	n	an	no	szúnyogok	inclusive
+HU155	n	asf	no	faszfej	conservative
+HU2040	a	dmc	yes	koszos	inclusive
+HU1062	n	dmc	yes	fiatalkorú	conservative
+HU598	n	cds	no	scammer	inclusive
+HU168	n	om	no	ass	inclusive
+HU976	n	om	no	antero-posterior	inclusive
+HU900	n	cds	no	bűnözés	inclusive
+HU1322	n	re	no	grand theft	inclusive
+HU467	n	qas	no	üzletember	inclusive
+HU290	n	cds	no	hazugság	inclusive
+HU1021	n	om	no	dorzális	inclusive
+HU535	n	cds	no	ingroup	inclusive
+HU1226	n	svp	no	dillydallier	conservative
+HU650	n	an	no	közönségesség	conservative
+HU564	n	asf	no	bunkó	conservative
+HU1137	n	cds	no	kinfolk	inclusive
+HU87	n	an	no	codswallop	conservative
+HU2021	n	re	no	kirabolták	inclusive
+HU2038	a	dmc	yes	piszkos	inclusive
+HU779	n	svp	no	sóvárgás	inclusive
+HU116	n	an	no	állati szaporodás	inclusive
+HU1609	n	cds	no	rendőr	conservative
+HU960	n	om	no	proximodisztális	inclusive
+HU1534	n	ddp	yes	moronity	inclusive
+HU2072	n	an	no	pióca	inclusive
+HU157	n	or	no	seggfej	conservative
+HU1820	n	an	no	branta bernicla	inclusive
+HU212	n	dmc	yes	barbárok	conservative
+HU1070	n	cds	no	gobs	inclusive
+HU497	n	cds	no	hiúság	conservative
+HU288	n	an	no	utcalány	conservative
+HU1020	n	om	no	ventrolaterális	inclusive
+HU1585	n	an	no	éjjeli lepke	inclusive
+HU1608	n	cds	no	rendőrnő	conservative
+HU379	n	ddp	yes	kurafi	conservative
+HU1772	n	cds	no	narcizmus	inclusive
+HU737	n	ddp	yes	rumormonger	conservative
+HU520	n	an	no	csirkefogó	conservative
+HU1697	n	qas	no	ars oratoria	inclusive
+HU1148	n	cds	no	nyomorult	inclusive
+HU335	n	cds	no	számkivetett	conservative
+HU1988	a	dmc	yes	hamisított	conservative
+HU422	n	pa	yes	jegy ügynök	inclusive
+HU55	n	ddp	yes	amentia	inclusive
+HU825	n	cds	no	interfertility	inclusive
+HU74	n	cds	no	bohóckodás	inclusive
+HU1967	n	an	no	házityúk	inclusive
+HU1286	n	dmc	yes	no-számla	conservative
+HU567	n	asm	no	kretén	inclusive
+HU514	n	dmc	yes	hobo	conservative
+HU1490	n	svp	no	gorger	conservative
+HU428	n	ddp	yes	gonoszság	conservative
+HU1072	n	cds	no	rengeteg	inclusive
+HU209	n	dmc	yes	briganti	conservative
+HU2036	n	cds	no	csúszómászó	conservative
+HU87	n	asf	no	codswallop	conservative
+HU747	n	cds	no	gyáva	conservative
+HU231	n	pa	yes	ügyvéd	inclusive
+HU248	n	cds	no	kigolyóz	inclusive
+HU763	n	an	no	cimicidae	inclusive
+HU1056	n	svp	no	evő	conservative
+HU1270	n	cds	no	hírharang	conservative
+HU255	n	asf	no	palimadár	conservative
+HU1239	n	asm	no	fava	inclusive
+HU1126	n	dmc	yes	szabadosság	conservative
+HU1378	n	cds	no	prelatura	inclusive
+HU1073	n	cds	no	wads	inclusive
+HU1764	n	cds	no	krikszkraksz	inclusive
+HU1982	n	cds	no	csecsemő	inclusive
+HU138	n	or	no	nick jr.	inclusive
+HU1452	n	an	no	hajthatatlanság	conservative
+HU244	n	qas	no	barokk	inclusive
+HU781	n	ddp	yes	ostobaság	conservative
+HU1462	n	cds	no	tanár	inclusive
+HU1217	n	an	no	homlokát ráncolja	inclusive
+HU724	n	om	no	poove	conservative
+HU366	n	qas	no	gyáros	inclusive
+HU223	n	pa	yes	diplomáciai rangok	inclusive
+HU1655	n	qas	no	Élősködő	inclusive
+HU289	n	dmc	yes	hamisság	inclusive
+HU1035	n	om	no	fenék	inclusive
+HU1328	n	re	no	lopás	inclusive
+HU1856	n	cds	no	uzsorakamat	inclusive
+HU289	n	cds	no	hamisság	inclusive
+HU1003	n	om	no	superficialis	inclusive
+HU959	n	om	no	tibialis	inclusive
+HU78	n	cds	no	egyveleg	inclusive
+HU397	n	cds	no	rossz-up	inclusive
+HU2099	n	ddp	yes	unwiseness	inclusive
+HU168	n	an	no	ass	inclusive
+HU1305	n	an	no	fulvus	inclusive
+HU413	n	qas	no	bumbler	conservative
+HU1095	a	qas	no	őrült	conservative
+HU263	n	ddp	yes	hülye	inclusive
+HU1472	n	dmc	yes	erkölcsi csőd	inclusive
+HU413	n	dmc	yes	bumbler	conservative
+HU1911	a	cds	no	követelő	conservative
+HU316	a	ddp	yes	hülye	conservative
+HU736	n	om	no	kiskatona	conservative
+HU901	n	cds	no	illegális tevékenységek	inclusive
+HU1104	n	qas	no	dilettáns	conservative
+HU1172	n	om	no	finocchio	inclusive
+HU2153	n	re	no	terrorcselekmény	conservative
+HU596	n	cds	no	chiseler	conservative
+HU409	n	cds	no	vakbuzgóság	conservative
+HU759	n	qas	no	szemetet	inclusive
+HU1873	n	an	no	féreg	inclusive
+HU756	n	cds	no	szilárd hulladék	conservative
+HU907	n	an	no	diddly	conservative
+HU1781	n	ps	yes	jigaboo	conservative
+HU334	n	cds	no	gonosztevő	inclusive
+HU522	n	an	no	villainess	conservative
+HU532	n	cds	no	klikkek	inclusive
+HU1231	n	re	no	gengszterek	inclusive
+HU1486	n	re	no	neonaticide	inclusive
+HU1592	n	an	no	maradi	conservative
+HU80	n	qas	no	kotyvalék	inclusive
+HU903	n	cds	no	bűnözők	inclusive
+HU166	n	an	no	equus asinus	inclusive
+HU2120	a	ddp	yes	idióta	conservative
+HU1412	n	cds	no	bálványimádás	inclusive
+HU419	n	an	no	test-kikapta	inclusive
+HU327	n	cds	no	harccal	inclusive
+HU740	n	ddp	yes	rumourmonger	conservative
+HU1483	n	dmc	yes	munkakerülő	conservative
+HU2001	n	pr	no	szamárság	conservative
+HU88	n	asf	no	folderol	conservative
+HU1576	n	cds	no	moralizálás	inclusive
+HU1955	a	cds	no	ügyes	conservative
+HU2083	n	an	no	csótányok	inclusive
+HU2097	n	cds	no	tudományosság	inclusive
+HU1064	n	cds	no	heaps	inclusive
+HU667	n	cds	no	golyó-up	inclusive
+HU2256	n	an	no	little owl	inclusive
+HU1543	n	ps	yes	izotelész	inclusive
+HU1496	n	cds	no	pénzkölcsönzőt	conservative
+HU1791	n	ps	yes	feketebőrűek	inclusive
+HU434	n	pr	no	ökör	inclusive
+HU1432	n	is	yes	elszegényedés	inclusive
+HU385	n	re	no	zsarolás	inclusive
+HU430	n	svp	no	unalom	inclusive
+HU346	n	ddp	yes	taleteller	conservative
+HU377	n	asm	no	köcsög	conservative
+HU526	n	cds	no	firkálás	inclusive
+HU1847	n	cds	no	homunculi	inclusive
+HU330	n	is	yes	gazember	conservative
+HU149	n	asf	no	knucklehead	conservative
+HU1183	n	cds	no	wangler	conservative
+HU310	n	cds	no	begina	inclusive
+HU1925	n	cds	no	sniveller	conservative
+HU1063	n	dmc	yes	bűnös	conservative
+HU594	n	cds	no	chiseller	inclusive
+HU580	n	re	no	rágalmazó	conservative
+HU376	n	dmc	yes	csaló	conservative
+HU1391	n	qas	no	kunyhó	inclusive
+HU144	n	ps	yes	bolond	conservative
+HU653	n	asm	no	pöcs	conservative
+HU651	n	an	no	raunch	conservative
+HU704	n	asm	no	csaj	conservative
+HU1580	n	an	no	szúnyogfélék	inclusive
+HU309	n	cds	no	füllentés	conservative
+HU1447	n	ddp	yes	alkalmatlan	conservative
+HU1689	n	cds	no	ereklye	inclusive
+HU522	n	is	yes	villainess	conservative
+HU746	n	an	no	boci	inclusive
+HU963	n	om	no	hátsó	inclusive
+HU156	n	ddp	yes	muttonhead	conservative
+HU154	n	asm	no	tökfilkó	conservative
+HU784	n	an	no	kikapós nő	conservative
+HU1102	n	asm	no	erekció	inclusive
+HU123	n	ddp	yes	állatvilág	inclusive
+HU1684	n	cds	no	zsaroló	inclusive
+HU734	n	or	no	melegek	conservative
+HU1583	n	an	no	mosquitoe	inclusive
+HU973	n	om	no	fibuláris	inclusive
+HU1815	n	an	no	liba	inclusive
+HU251	n	cds	no	kivéve	inclusive
+HU1320	n	dmc	yes	gebe	conservative
+HU1082	n	ddf	yes	törpe	conservative
+HU324	n	cds	no	bandák	inclusive
+HU1553	n	cds	no	nyilvános illemhely	inclusive
+HU2035	n	cds	no	groveler	conservative
+HU215	n	rci	yes	vadember	conservative
+HU1920	n	is	yes	toprongyos alak	conservative
+HU1440	n	is	yes	elszegényedett	inclusive
+HU336	n	cds	no	bűnügyi	conservative
+HU649	n	qas	no	vaklárma	inclusive
+HU160	n	ddp	yes	tanulatlan ember	conservative
+HU1678	n	pa	yes	hentes	inclusive
+HU545	n	an	no	cápatámadás	inclusive
+HU1465	n	pa	yes	jezsuita	inclusive
+HU731	n	or	no	homofil mozgalom	conservative
+HU556	n	is	yes	kitaszított	inclusive
+HU1591	n	an	no	lassú észjárású	conservative
+HU36	n	pa	yes	egyetemek	inclusive
+HU284	n	pr	no	férfi kíséret	conservative
+HU1132	n	dmc	yes	scattergood	inclusive
+HU1726	n	an	no	jelentéktelen ember	conservative
+HU212	n	qas	no	barbárok	conservative
+HU661	n	qas	no	közemberek	inclusive
+HU1402	n	an	no	hiénák	inclusive
+HU143	n	asf	no	saphead	conservative
+HU2020	n	cds	no	rablók	inclusive
+HU92	n	ddp	yes	analfabéta	inclusive
+HU568	n	cds	no	idióta	inclusive
+HU1487	a	is	yes	szomorú	inclusive
+HU2103	a	ddf	yes	félszemű	inclusive
+HU1768	n	cds	no	fél pint	conservative
+HU1383	n	qas	no	ház festő	inclusive
+HU1654	n	qas	no	paraziták	inclusive
+HU2049	n	an	no	batrachian	inclusive
+HU720	n	cds	no	newspaperwoman	inclusive
+HU134	n	cds	no	perspicaciousness	inclusive
+HU520	n	dmc	yes	csirkefogó	conservative
+HU1019	n	om	no	zsemle	inclusive
+HU762	n	cds	no	fémhulladék	inclusive
+HU560	n	an	no	wuss	conservative
+HU732	n	om	no	meleg	inclusive
+HU1561	n	cds	no	klotyó	inclusive
+HU1720	n	an	no	mikroorganizmusok	inclusive
+HU1740	n	an	no	bárány	inclusive
+HU1696	n	qas	no	szónok	inclusive
+HU1342	n	pr	no	a szexiparban	inclusive
+HU1533	n	ddp	yes	mentális hiány	inclusive
+HU192	n	cds	no	bordélyok	inclusive
+HU982	n	om	no	dorzoventrális	inclusive
+HU437	n	pr	no	bos taurus	inclusive
+HU1569	n	an	no	puhatestű	inclusive
+HU568	n	ddp	yes	idióta	conservative
+HU2089	n	an	no	sakálok	inclusive
+HU2250	n	ps	yes	romani	inclusive
+HU2243	n	dmc	yes	köpönyegforgató	conservative
+HU875	n	pr	no	ágyas	inclusive
+HU263	n	or	no	hülye	conservative
+HU7	n	svp	no	abulia	inclusive
+HU1336	n	pr	no	prostituáltak	inclusive
+HU758	n	cds	no	települési hulladék	conservative
+HU1605	n	svp	no	buja	inclusive
+HU2233	n	re	no	vadság	inclusive
+HU151	n	an	no	csökönyös ember	conservative
+HU1667	n	svp	no	penny-csípés	inclusive
+HU339	n	dmc	yes	betyár	inclusive
+HU1373	n	cds	no	állományok	inclusive
+HU1182	n	cds	no	finagler	conservative
+HU1327	n	dmc	yes	tolvaj	conservative
+HU946	n	om	no	dextro-sinistralis	inclusive
+HU1459	n	cds	no	taneszköz	inclusive
+HU2220	n	om	no	drag queen	inclusive
+HU1203	n	asm	no	praeputium	inclusive
+HU1904	n	cds	no	fontoskodó	conservative
+HU939	n	om	no	ipszilaterális	inclusive
+HU1801	n	ps	yes	spanyol	inclusive
+HU1193	n	dmc	yes	hamisítvány	inclusive
+HU509	n	svp	no	csavargó	conservative
+HU843	n	or	no	punci	conservative
+HU563	n	asm	no	váltott	inclusive
+HU174	n	svp	no	hét főbűn	inclusive
+HU1682	n	svp	no	superbia	conservative
+HU2235	n	re	no	erőszakos	inclusive
+HU263	n	asf	no	hülye	conservative
+HU1276	n	qas	no	szaglászó	inclusive
+HU1198	n	cds	no	falka	inclusive
+HU264	n	ddp	yes	puding fej	conservative
+HU427	n	ddp	yes	bestialitás	conservative
+HU1649	n	qas	no	parazitizmus	inclusive
+HU169	n	an	no	wisent	inclusive
+HU258	n	ps	yes	puha	conservative
+HU823	n	cds	no	növénynemesítés	inclusive
+HU214	n	dmc	yes	paraszt	conservative
+HU397	n	qas	no	rossz-up	inclusive
+HU1900	v	cds	no	fal	inclusive
+HU1849	n	cds	no	homunculus	inclusive
+HU1713	n	ps	yes	meszticek	conservative
+HU287	n	an	no	bérleti fiúk	conservative
+HU132	n	re	no	nemi erőszakot elkövetők	conservative
+HU1187	n	pa	yes	halkereskedő	inclusive
+HU599	n	dmc	yes	grifter	conservative
+HU110	n	an	no	anguilliformes	inclusive
+HU1499	n	cds	no	loansharking	inclusive
+HU1952	n	asm	no	masztizás	conservative
+HU67	n	om	no	anális közösülés	inclusive
+HU1896	n	or	no	tater	inclusive
+HU1899	n	or	no	burgonya	inclusive
+HU849	n	cds	no	kamarilla	inclusive
+HU150	n	or	no	tökfej	conservative
+HU1495	n	cds	no	uzsorás	conservative
+HU299	n	cds	no	zűrzavar	inclusive
+HU539	n	cds	no	poggyász vonat	inclusive
+HU1288	n	dmc	yes	jó-for-semmiért	conservative
+HU652	n	asf	no	fasz	conservative
+HU1470	n	svp	no	erkölcstelenség	inclusive
+HU1651	n	qas	no	endoparaziták	inclusive
+HU1149	n	cds	no	pandar	conservative
+HU522	n	dmc	yes	villainess	conservative
+HU415	n	dmc	yes	fumbler	conservative
+HU226	n	pa	yes	tanácsadó-at-law	inclusive
+HU709	n	asm	no	kibaszott	conservative
+HU203	n	asm	no	golyó	inclusive
+HU259	n	an	no	tuskó	conservative
+HU1721	n	an	no	mikrobák	inclusive
+HU745	n	ddp	yes	fecsegő	inclusive
+HU1780	n	ps	yes	néger	inclusive
+HU151	n	asf	no	csökönyös ember	conservative
+HU214	n	cds	no	paraszt	conservative
+HU1860	n	ps	yes	vandál	conservative
+HU2109	n	cds	no	magolás	conservative
+HU699	n	cds	no	megtölt	inclusive
+HU380	n	cds	no	fattyú	inclusive
+HU1294	v	asm	no	kúr	conservative
+HU415	n	qas	no	fumbler	conservative
+HU17	n	re	no	visszaélés	inclusive
+HU904	n	an	no	diddlyshit	conservative
+HU775	n	an	no	rovar	inclusive
+HU1548	n	or	no	punctiliousness	inclusive
+HU62	n	cds	no	amour propre	conservative
+HU2216	n	cds	no	összeesküvés-elmélet	inclusive
+HU289	n	cds	no	hamisság	conservative
+HU2128	n	ddp	yes	halandzsa	inclusive
+HU652	n	asm	no	fasz	inclusive
+HU420	n	an	no	testrablók	inclusive
+HU1923	n	cds	no	moaner	conservative
+HU1911	a	or	no	követelő	conservative
+HU2234	n	re	no	furiousness	inclusive
+HU783	n	an	no	kacér	conservative
+HU626	n	cds	no	klánok	inclusive
+HU565	n	ddp	yes	changelings	inclusive
+HU1015	n	om	no	dorsoventralis	inclusive
+HU1620	n	cds	no	maffiózó	conservative
+HU1492	n	cds	no	pénz hitelezés	conservative
+HU5	n	dmc	yes	megalázottság	inclusive
+HU1643	n	dmc	yes	chawbacon	conservative
+HU740	n	cds	no	rumourmonger	conservative
+HU1643	n	cds	no	chawbacon	conservative
+HU2196	n	asm	no	éjszakázó	inclusive
+HU227	n	pa	yes	advocator	inclusive
+HU1055	n	svp	no	gourmandizer	conservative
+HU1428	n	ddp	yes	képtelenség	conservative
+HU569	n	asm	no	gyengeelméjű	inclusive
+HU1110	n	dmc	yes	morál	inclusive
+HU558	n	dmc	yes	száműzött	inclusive
+HU147	n	or	no	ostoba	conservative
+HU463	n	qas	no	businessperson	inclusive
+HU390	n	cds	no	zsákutca	inclusive
+HU399	n	qas	no	kontár	inclusive
+HU1914	n	dmc	yes	trifler	conservative
+HU1342	n	pr	no	a szexiparban	conservative
+HU1209	n	cds	no	szabad és elfogadott kőműves	inclusive
+HU897	n	re	no	bűnözői magatartás	inclusive
+HU1324	n	re	no	tolvajlás	inclusive
+HU427	n	an	no	bestialitás	conservative
+HU295	n	cds	no	hop	inclusive
+HU602	n	an	no	riffraff	conservative
+HU196	n	is	yes	scrooge	conservative
+HU157	n	asf	no	seggfej	conservative
+HU1420	n	ddf	yes	megbénítás	inclusive
+HU1943	n	cds	no	religiousism	inclusive
+HU1476	n	om	no	nemesasszony	inclusive
+HU2013	n	re	no	emberrablások	inclusive
+HU1816	n	an	no	lúd	inclusive
+HU1937	n	an	no	ruhatetű	inclusive
+HU273	n	asf	no	szajha	conservative
+HU569	n	ddp	yes	gyengeelméjű	conservative
+HU243	n	qas	no	báró	inclusive
+HU2047	n	an	no	anura	inclusive
+HU453	n	pr	no	vándorpatkány	inclusive
+HU1494	n	cds	no	hitel sharking	conservative
+HU797	n	an	no	athene noctua	inclusive
+HU266	n	ddp	yes	pudden-head	conservative
+HU788	n	asm	no	hiszékenységét	conservative
+HU565	n	cds	no	changelings	inclusive
+HU1663	n	an	no	papagájok	inclusive
+HU403	n	cds	no	ügyetlenség	inclusive
+HU1131	n	dmc	yes	tékozló	inclusive
+HU1333	n	cds	no	lógós	conservative
+HU2098	n	ddp	yes	bolondság	inclusive
+HU1985	a	ddf	yes	vak	inclusive
+HU61	n	svp	no	önszeretet	conservative
+HU622	n	cds	no	rokon	inclusive
+HU140	n	asf	no	betise	conservative
+HU1002	n	om	no	mediolaterális	inclusive
+HU912	n	cds	no	penny félelmetes	inclusive
+HU1303	n	svp	no	mohóság	inclusive
+HU597	n	re	no	defrauder	inclusive
+HU431	n	svp	no	unalmas	inclusive
+HU566	n	ps	yes	késleltet	conservative
+HU1191	n	pa	yes	halárus	inclusive
+HU284	n	an	no	férfi kíséret	conservative
+HU2224	n	dmc	yes	csavargás	inclusive
+HU1266	n	asf	no	nemi szőrzet	inclusive
+HU72	n	cds	no	szolga	conservative
+HU53	n	ddp	yes	mentális retardáció	inclusive
+HU922	n	cds	no	seattle sound	inclusive
+HU267	n	pr	no	kerítőnő	conservative
+HU1615	n	re	no	mafiosi	conservative
+HU1640	n	cds	no	mucsai	conservative
+HU1108	n	qas	no	amatőrök	inclusive
+HU1300	v	asm	no	szerelmeskedik	conservative
+HU1727	n	an	no	animalculum	inclusive
+HU1760	n	pr	no	előkelőségek	inclusive
+HU150	n	cds	no	tökfej	conservative
+HU701	n	svp	no	bujaság	inclusive
+HU1581	n	an	no	culicidae	inclusive
+HU290	n	cds	no	hazugság	conservative
+HU121	n	an	no	állatok	inclusive
+HU291	n	dmc	yes	valótlanság	inclusive
+HU149	n	an	no	knucklehead	conservative
+HU1268	n	asf	no	y haj	inclusive
+HU2198	n	cds	no	csatorna	inclusive
+HU1633	n	cds	no	paparazzo	inclusive
+HU782	n	an	no	vamp	conservative
+HU508	n	dmc	yes	csoportos it	conservative
+HU2105	n	an	no	piros dob	inclusive
+HU2167	n	re	no	kínzás	inclusive
+HU1066	n	cds	no	tonna	inclusive
+HU517	n	dmc	yes	semmittevő	conservative
+HU2245	n	dmc	yes	treasonist	conservative
+HU91	n	cds	no	fanatizmus	inclusive
+HU1111	n	dmc	yes	erkölcs	inclusive
+HU1165	n	qas	no	farmer	inclusive
+HU2132	n	pr	no	nagy szentjánosbogár	inclusive
+HU441	n	an	no	ökröket	inclusive
+HU717	n	pa	yes	tizedes	inclusive
+HU1327	n	cds	no	tolvaj	inclusive
+HU817	n	cds	no	növényi biotechnológia	inclusive
+HU203	n	qas	no	golyó	inclusive
+HU1055	n	svp	no	gourmandizer	inclusive
+HU180	n	svp	no	zsugori	inclusive
+HU1006	n	om	no	dorzolaterális	inclusive
+HU2048	n	an	no	varangy	inclusive
+HU2145	n	re	no	szexuális támadás	inclusive
+HU1577	n	an	no	szúnyogcsípés	inclusive
+HU258	n	asm	no	puha	conservative
+HU451	n	asm	no	sötétbarna	inclusive
+HU529	n	an	no	cakehole	inclusive
+HU478	n	qas	no	íróasztal munkát	inclusive
+HU2096	a	qas	no	középkori	inclusive
+HU1852	n	ddp	yes	twaddler	conservative
+HU531	n	an	no	gyomor	inclusive
+HU572	n	an	no	luvnya	conservative
+HU1824	n	an	no	brent	inclusive
+HU1449	n	ddp	yes	tudatlanság	conservative
+HU1525	a	om	no	homoszexuális	conservative
+HU520	n	re	no	csirkefogó	conservative
+HU500	n	cds	no	conceitedness	conservative
+HU71	n	svp	no	lusta	conservative
+HU341	n	an	no	bakkecske	inclusive
+HU2108	a	qas	no	szánalmas	conservative
+HU874	n	pr	no	szerető	inclusive
+HU501	n	qas	no	tömeg	inclusive
+HU931	n	dmc	yes	leplezés	conservative
+HU1702	n	dmc	yes	rabló	conservative
+HU665	n	qas	no	közember	inclusive
+HU647	n	qas	no	megrészegít	inclusive
+HU1642	n	cds	no	bugris	conservative
+HU2087	n	cds	no	közepes tehetségű ember	conservative
+HU288	n	pr	no	utcalány	conservative
+HU1210	n	cds	no	szabad kőműves	inclusive
+HU1461	n	cds	no	oktatási támogatás	inclusive
+HU225	n	pa	yes	jogi képviselője	inclusive
+HU1287	n	dmc	yes	semmirevaló	conservative
+HU2010	n	or	no	réparepce	inclusive
+HU730	n	or	no	homoszexuális	conservative
+HU148	n	cds	no	fajankó	conservative
+HU1050	n	qas	no	kutyaház	inclusive
+HU2155	n	re	no	terrorizmus	conservative
+HU1547	n	or	no	aprólékosság	inclusive
+HU150	n	asf	no	tökfej	conservative
+HU333	n	re	no	banditák	inclusive
+HU395	n	cds	no	szarvashiba	inclusive
+HU527	n	an	no	kajmán	inclusive
+HU1223	n	svp	no	düh	inclusive
+HU263	n	ddp	yes	hülye	conservative
+HU1981	n	cds	no	csecsemők	inclusive
+HU778	n	cds	no	csalás	inclusive
+HU2132	n	an	no	nagy szentjánosbogár	inclusive
+HU2019	n	re	no	rablások	inclusive
+HU186	n	cds	no	bagnio	inclusive
+HU1826	n	cds	no	omerta	inclusive
+HU2113	a	is	yes	szegény	inclusive
+HU1325	n	cds	no	tolvajok	inclusive
+HU1956	a	cds	no	sunyi	inclusive
+HU569	n	ps	yes	gyengeelméjű	conservative
+HU1918	n	cds	no	mendemonda	inclusive
+HU522	n	cds	no	villainess	conservative
+HU66	n	om	no	szodómia	inclusive
+HU774	n	an	no	hemipteron	inclusive
+HU44	n	qas	no	amateurishness	conservative
+HU1045	n	om	no	anatómiában használatos síkok és irányok	inclusive
+HU574	n	an	no	szuka	inclusive
+HU515	n	cds	no	naplopó	conservative
+HU72	n	qas	no	szolga	inclusive
+HU2252	n	ps	yes	romanis	inclusive
+HU1752	n	cds	no	mystifier	conservative
+HU1615	n	re	no	mafiosi	inclusive
+HU263	n	cds	no	hülye	inclusive
+HU1631	n	om	no	pederasztia	inclusive
+HU125	n	ddp	yes	fauna	inclusive
+HU1098	n	re	no	büntetendő	inclusive
+HU304	n	ps	yes	beduin	inclusive
+HU1004	n	om	no	peronealis	inclusive
+HU814	n	an	no	krokodilfélék	inclusive
+HU2136	n	re	no	bejegyzett repce	inclusive
+HU71	n	an	no	lusta	conservative
+HU163	n	an	no	szamár	inclusive
+HU146	n	asm	no	balek	conservative
+HU201	n	asm	no	mogyoró	inclusive
+HU150	n	cds	no	tökfej	inclusive
+HU320	n	cds	no	banda	conservative
+HU1293	v	asm	no	megdug	conservative
+HU1467	n	cds	no	junk mail	inclusive
+HU1542	n	re	no	betörő	inclusive
+HU528	a	ddf	yes	rossz	inclusive
+HU954	n	om	no	midclavicular vonal	inclusive
+HU1039	n	om	no	kontralaterális	inclusive
+HU1418	n	ddf	yes	fizikailag megtámadta	inclusive
+HU1731	n	ddp	yes	nanocephaly	inclusive
+HU1632	n	om	no	pederastic	inclusive
+HU1025	n	om	no	ventrális	inclusive
+HU291	n	cds	no	valótlanság	inclusive
+HU599	n	re	no	grifter	inclusive
+HU1431	n	is	yes	szegénység	inclusive
+HU1106	n	an	no	escargot	inclusive
+HU469	n	qas	no	vállalkozó	inclusive
+HU1434	n	is	yes	szegények	inclusive
+HU854	n	qas	no	kiszemel	conservative
+HU745	n	ddp	yes	fecsegő	conservative
+HU615	n	ps	yes	kínai	inclusive
+HU258	n	asf	no	puha	conservative
+HU757	n	cds	no	lom	conservative
+HU450	n	asm	no	barnaság	inclusive
+HU1794	n	ps	yes	négerek	inclusive
+HU121	n	ddp	yes	állatok	inclusive
+HU691	n	or	no	brassica oleraceae	inclusive
+HU275	n	pr	no	salak	conservative
+HU557	n	is	yes	pária	inclusive
+HU1028	n	om	no	koronális sík	inclusive
+HU393	n	dmc	yes	kicsapongó	conservative
+HU1578	n	an	no	csípőszúnyogok	inclusive
+HU595	n	re	no	svindler	inclusive
+HU1327	n	re	no	tolvaj	inclusive
+HU1921	n	is	yes	toprongyos ember	conservative
+HU940	n	om	no	mediolateralis	inclusive
+HU342	n	an	no	bison	inclusive
+HU811	n	an	no	crocodilia	inclusive
+HU841	n	cds	no	fiacskám	inclusive
+HU1493	n	cds	no	moneylenders	inclusive
+HU1195	n	an	no	bolha	inclusive
+HU359	n	qas	no	iparmágnás	inclusive
+HU1359	n	ps	yes	judaizmus	inclusive
+HU536	n	cds	no	klikk	inclusive
+HU144	n	asm	no	bolond	conservative
+HU1906	n	cds	no	know-it-all	conservative
+HU156	n	asf	no	muttonhead	conservative
+HU972	n	om	no	gluteális	inclusive
+HU1571	n	an	no	mollusca	inclusive
+HU2207	n	ps	yes	piros lapot	inclusive
+HU1908	n	cds	no	szőrszálhasogató	conservative
+HU1456	n	cds	no	fellengzősség	inclusive
+HU1744	n	pa	yes	sheepherders	inclusive
+HU45	n	pa	yes	akadémikus	inclusive
+HU109	n	an	no	anguilla	inclusive
+HU1048	n	qas	no	kennelek	inclusive
+HU1054	n	svp	no	árokásó	conservative
+HU1848	n	dmc	yes	homunkulusz	inclusive
+HU247	n	an	no	martalóc	conservative
+HU1617	n	ps	yes	keleti gótok	inclusive
+HU1122	a	dmc	yes	megvetendő	conservative
+HU2135	n	re	no	erőszaktevő	conservative
+HU1421	n	ddf	yes	tiltsa	inclusive
+HU822	n	ps	yes	növényi biotechnológiai	inclusive
+HU148	n	or	no	fajankó	conservative
+HU792	n	an	no	baglyok	inclusive
+HU1619	n	ps	yes	osztrogótok	inclusive
+HU517	n	cds	no	semmittevő	conservative
+HU336	n	cds	no	bűnügyi	inclusive
+HU206	n	qas	no	baromság	inclusive
+HU42	n	pa	yes	egyetemi	inclusive
+HU1277	n	asf	no	pussy	conservative
+HU697	n	or	no	vadkáposzta	inclusive
+HU2191	n	asm	no	madárvilág	inclusive
+HU1503	n	an	no	előtor	inclusive
+HU741	n	ddp	yes	pletykafészek	conservative
+HU1223	n	svp	no	düh	conservative
+HU475	n	qas	no	középosztály	inclusive
+HU1947	a	svp	no	mérges	inclusive
+HU1083	n	an	no	nanus	conservative
+HU714	n	an	no	nyulak	inclusive
+HU600	n	re	no	szélhámos	inclusive
+HU598	n	re	no	scammer	inclusive
+HU856	n	cds	no	tréfacsináló	conservative
+HU2201	n	cds	no	uzsoráskodás	inclusive
+HU1483	n	cds	no	munkakerülő	conservative
+HU1978	n	cds	no	újszülött	inclusive
+HU1623	n	an	no	lármás füleskuvik	inclusive
+HU1371	n	ps	yes	izraelita	inclusive
+HU1716	n	an	no	cápa	inclusive
+HU616	n	cds	no	törzsi	inclusive
+HU190	n	cds	no	sport house	inclusive
+HU1809	n	cds	no	nimfomániás	conservative
+HU207	a	svp	no	fösvény	inclusive
+HU969	n	om	no	dorsopalmaris	inclusive
+HU1998	n	pr	no	fornicatress	conservative
+HU263	n	cds	no	hülye	conservative
+HU2238	n	pa	yes	dolgozó	inclusive
+HU263	n	ps	yes	hülye	conservative
+HU117	n	an	no	makrofauna	inclusive
+HU695	n	or	no	b. oleracea	inclusive
+HU140	n	asm	no	betise	conservative
+HU1243	n	asm	no	vicia faba	inclusive
+HU205	n	qas	no	here	inclusive
+HU320	n	cds	no	banda	inclusive
+HU1927	n	cds	no	bellyacher	conservative
+HU1017	n	om	no	bazális	inclusive
+HU19	n	re	no	bántalmazás	inclusive
+HU1227	n	svp	no	szomorkodik	conservative
+HU1598	n	cds	no	majom	conservative
+HU216	n	svp	no	szerzési	inclusive
+HU148	n	an	no	fajankó	conservative
+HU623	n	cds	no	clann	inclusive
+HU2031	n	cds	no	hízelgő	conservative
+HU1226	n	dmc	yes	dillydallier	conservative
+HU219	n	pa	yes	miniszter	inclusive
+HU848	n	or	no	sativus	inclusive
+HU1636	n	cds	no	papír-toló	inclusive
+HU421	n	an	no	test zsebes	inclusive
+HU119	n	an	no	Állatok	inclusive
+HU565	n	ps	yes	changelings	conservative
+HU1119	n	an	no	tengeri skorpió	inclusive
+HU1043	n	om	no	paraszagittális	inclusive
+HU2242	n	dmc	yes	hitehagyott	conservative
+HU1024	n	om	no	talpi	inclusive
+HU2192	n	asm	no	madár	inclusive
+HU1475	n	om	no	hölgyek	inclusive
+HU1010	n	om	no	standard anatómiai helyzet	inclusive
+HU333	n	dmc	yes	banditák	inclusive
+HU1529	n	svp	no	invidia	inclusive
+HU508	n	dmc	yes	csoportos it	inclusive
+HU725	n	om	no	buzi	inclusive
+HU1327	n	qas	no	tolvaj	conservative
+HU1033	n	om	no	tibiális	inclusive
+HU185	n	cds	no	bordello	inclusive
+HU882	n	ddp	yes	egyszerű ember	conservative
+HU146	n	an	no	balek	conservative
+HU555	n	cds	no	szerencsejáték casino	inclusive
+HU416	n	cds	no	kétbalkezes	conservative
+HU654	n	asm	no	farok	conservative
+HU988	n	om	no	fibularis	inclusive
+HU498	n	svp	no	beképzeltség	conservative
+HU587	n	re	no	vilifier	conservative
+HU1684	n	re	no	zsaroló	inclusive
+HU1164	n	qas	no	sodbuster	inclusive
+HU328	n	cds	no	csapat	inclusive
+HU195	n	is	yes	cheapskate	conservative
+HU1829	n	re	no	gyilkosság	inclusive
+HU1891	n	or	no	solanum tuberosum	inclusive
+HU1302	n	an	no	kisliba	inclusive
+HU517	n	svp	no	semmittevő	conservative
+HU486	n	cds	no	presumptuousness	conservative
+HU664	n	qas	no	common people	inclusive
+HU1321	n	cds	no	mihaszna	conservative
+HU819	n	ps	yes	hibrid	inclusive
+HU808	n	an	no	crocodylia	inclusive
+HU443	n	an	no	szarvasmarhák	inclusive
+HU437	n	an	no	bos taurus	inclusive
+HU1768	n	dmc	yes	fél pint	conservative
+HU148	n	ddp	yes	fajankó	conservative
+HU211	n	cds	no	banditizmus	inclusive
+HU836	n	cds	no	legényke	inclusive
+HU147	n	ddp	yes	ostoba	conservative
+HU2131	n	pr	no	mécsbogár	inclusive
+HU44	n	cds	no	amateurishness	conservative
+HU136	n	or	no	nick jr	inclusive
+HU899	n	re	no	bűntény	inclusive
+HU1387	n	svp	no	overeating	inclusive
+HU566	n	asm	no	késleltet	inclusive
+HU1910	a	cds	no	követelődző	conservative
+HU1789	n	ps	yes	feketebőrű	inclusive
+HU1272	n	cds	no	nézelődő	conservative
+HU1051	n	svp	no	gourmand	inclusive
+HU593	n	cds	no	camorra	inclusive
+HU1919	n	is	yes	koldus	inclusive
+HU1584	n	an	no	moly	inclusive
+HU1593	n	an	no	lassú ember	conservative
+HU2169	n	re	no	megkínozták	inclusive
+HU1212	n	cds	no	free mason	inclusive
+HU506	n	dmc	yes	söpredék táska	conservative
+HU1093	a	qas	no	félrebeszél	inclusive
+HU1771	n	cds	no	narcism	inclusive
+HU329	n	cds	no	zenekar	inclusive
+HU1180	n	dmc	yes	bűz	conservative
+HU1500	n	cds	no	loanshark	conservative
+HU266	n	cds	no	pudden-head	conservative
+HU1007	n	om	no	ülep	inclusive
+HU1120	n	an	no	eurypterids	inclusive
+HU68	n	om	no	anális behatolás	inclusive
+HU913	n	cds	no	érmét regény	inclusive
+HU79	n	cds	no	keverék	inclusive
+HU753	n	ddp	yes	kuruzslás	conservative
+HU1524	n	asm	no	dákó	inclusive
+HU411	n	qas	no	alkalmazkodó	conservative
+HU237	n	an	no	kutyaszerű	inclusive
+HU521	n	dmc	yes	gonosz	inclusive
+HU578	n	re	no	kereskedelmi hitelrontás ellen	inclusive
+HU493	n	svp	no	nagyképűség	conservative
+HU807	n	an	no	crocodylian	inclusive
+HU739	n	ddp	yes	rémhírterjesztő	conservative
+HU1366	n	ps	yes	zsidó	inclusive
+HU153	n	or	no	mamlasz	conservative
+HU1129	n	dmc	yes	ban, minden	inclusive
+HU1167	n	cds	no	fasiszta	inclusive
+HU1702	n	cds	no	rabló	conservative
+HU198	n	qas	no	testis	inclusive
+HU401	n	cds	no	baklövés	inclusive
+HU2244	n	dmc	yes	áruló	conservative
+HU924	n	cds	no	talaj	inclusive
+HU375	n	cds	no	sztrájktörés	inclusive
+HU840	n	cds	no	sonny boy	inclusive
+HU2237	n	pa	yes	alkalmazott	inclusive
+HU1827	n	an	no	kullancsok	inclusive
+HU1939	n	an	no	tetvek	inclusive
+HU197	n	qas	no	pete	inclusive
+HU820	n	ps	yes	keresztezett	inclusive
+HU730	n	om	no	homoszexuális	conservative
+HU1227	n	dmc	yes	szomorkodik	conservative
+HU1590	n	dmc	yes	mozzarella	inclusive
+HU1301	v	asm	no	baszik	conservative
+HU2131	n	an	no	mécsbogár	inclusive
+HU561	n	an	no	nyápic	conservative
+HU276	n	an	no	ribanc	conservative
+HU1849	n	dmc	yes	homunculus	inclusive
+HU1635	n	cds	no	paparazzi	inclusive
+HU2104	n	an	no	sciaenops ocellatus	inclusive
+HU212	n	pa	yes	barbárok	conservative
+HU337	n	dmc	yes	bűnöző	inclusive
+HU212	n	ddp	yes	barbárok	conservative
+HU795	n	an	no	strigiformes	inclusive
+HU2175	n	om	no	cross-dressing	inclusive
+HU434	n	an	no	ökör	inclusive
+HU571	n	an	no	lotyó	conservative
+HU465	n	qas	no	üzlet tulajdonosa	inclusive
+HU1535	n	cds	no	rendetlenség	conservative
+HU1963	n	re	no	plagizál	inclusive
+HU204	n	asm	no	teste	inclusive
+HU1858	n	cds	no	uzsora	conservative
+HU508	n	cds	no	csoportos it	conservative
+HU333	n	cds	no	banditák	conservative
+HU588	n	re	no	libeler	conservative
+HU1862	n	an	no	vipera	inclusive
+HU559	n	dmc	yes	társadalmi kitaszítottak	inclusive
+HU723	n	cds	no	újságíró	inclusive
+HU308	n	an	no	vágómarha	inclusive
+HU2084	n	an	no	svábbogár	inclusive
+HU1176	n	om	no	édeskömény	inclusive
+HU1482	n	dmc	yes	hazug	conservative
+HU890	n	ps	yes	doofus	conservative
+HU1800	n	ps	yes	ázsiai	inclusive
+HU755	n	qas	no	háztartási hulladék	inclusive
+HU1053	n	svp	no	ínyenc	conservative
+HU1249	a	dmc	yes	büdös	conservative
+HU2193	n	asm	no	madárvilága	inclusive
+HU2118	a	cds	no	okos	inclusive
+HU293	n	cds	no	piperkőc	inclusive
+HU88	n	ddp	yes	folderol	conservative
+HU507	n	an	no	ez és ez	conservative
+HU1989	a	dmc	yes	hamis	conservative
+HU460	n	qas	no	parasztok	inclusive
+HU377	n	ddp	yes	köcsög	conservative
+HU372	n	cds	no	cur	inclusive
+HU2005	n	pa	yes	számvevő	inclusive
+HU139	n	or	no	bonce	inclusive
+HU1560	n	cds	no	wc	inclusive
+HU563	n	ps	yes	váltott	conservative
+HU1069	n	cds	no	eredmények	inclusive
+HU1987	a	ps	yes	kínai	inclusive
+HU876	n	pr	no	vadházasság	inclusive
+HU646	n	svp	no	niggardness	conservative
+HU733	n	om	no	homophile	conservative
+HU1717	n	an	no	cápaszerűek	inclusive
+HU2163	n	re	no	megpróbáltatás	inclusive
+HU644	n	svp	no	niggardliness	conservative
+HU204	n	qas	no	teste	inclusive
+HU754	n	cds	no	törmelék	conservative
+HU135	n	cds	no	okosság	inclusive
+HU563	n	ddp	yes	váltott	inclusive
+HU209	n	cds	no	briganti	conservative
+HU1863	n	an	no	keselyűk	inclusive
+HU152	n	an	no	bárgyú	conservative
+HU1584	n	pr	no	moly	inclusive
+HU1396	n	cds	no	arrogancia	conservative
+HU1286	n	svp	no	no-számla	conservative
+HU596	n	dmc	yes	chiseler	conservative
+HU144	n	asf	no	bolond	conservative
+HU507	n	dmc	yes	ez és ez	inclusive
+HU408	n	cds	no	hencegő	conservative
+HU150	n	an	no	tökfej	conservative
+HU1018	n	om	no	derriere	inclusive
+HU120	n	an	no	lelkesít, hogy	inclusive
+HU812	n	an	no	crocodylidae	inclusive
+HU257	n	asm	no	patsy	conservative
+HU2028	n	re	no	foglyul ejtő	inclusive
+HU1903	n	cds	no	könyvmoly	conservative
+HU2203	n	an	no	hoax	conservative
+HU2155	n	re	no	terrorizmus	inclusive
+HU184	n	cds	no	bordélyház	inclusive
+HU501	n	cds	no	tömeg	conservative
+HU1427	n	ddp	yes	nonsensicality	conservative
+HU838	n	cds	no	srác	inclusive
+HU1567	n	dmc	yes	lazább	conservative
+HU852	n	cds	no	elutasít	conservative
+HU417	n	dmc	yes	fuser	conservative
+HU1155	n	qas	no	mező kéz	inclusive
+HU2147	n	cds	no	conventicles	inclusive
+HU1295	v	asm	no	szeretkezik	conservative
+HU1755	n	ps	yes	mongolid rassz	conservative
+HU95	n	ddp	yes	analphabet	inclusive
+HU232	n	pa	yes	ügyvédek	inclusive
+HU1244	n	asm	no	lóbab	inclusive
+HU565	n	asm	no	changelings	inclusive
+HU495	n	cds	no	fennhéjázás	conservative
+HU1597	n	an	no	ormány	inclusive
+HU561	n	cds	no	nyápic	conservative
+HU1022	n	om	no	volaris	inclusive
+HU1399	n	cds	no	hustling	conservative
+HU624	n	cds	no	klán	inclusive
+HU214	n	qas	no	paraszt	inclusive
+HU273	n	pr	no	szajha	inclusive
+HU118	n	ddp	yes	infauna	inclusive
+HU1556	n	cds	no	vécé	inclusive
+HU1478	n	dmc	yes	pseud	conservative
+HU761	n	cds	no	ócskavas	conservative
+HU1514	n	cds	no	kerítő	inclusive
+HU2016	n	re	no	ripacskodás	inclusive
+HU82	n	cds	no	mindenféle holmi	inclusive
+HU534	n	cds	no	belső kör	inclusive
+HU1975	n	cds	no	baba	inclusive
+HU564	n	ddp	yes	bunkó	conservative
+HU863	n	om	no	dame	inclusive
+HU866	n	re	no	dátum-repce	conservative
+HU105	n	an	no	anguillidae	inclusive
+HU509	n	dmc	yes	csavargó	conservative
+HU1612	n	cds	no	maffia	inclusive
+HU2210	n	cds	no	összeesküvés teoretikus	inclusive
+HU1414	n	an	no	strix varia	inclusive
+HU1995	n	cds	no	pártfogás	inclusive
+HU1528	n	svp	no	irigységből	inclusive
+HU423	n	pa	yes	pénztáros	inclusive
+HU2187	n	pr	no	hárpia	conservative
+HU970	n	om	no	dorzopalmáris	inclusive
+HU1474	n	om	no	lady	inclusive
+HU731	n	om	no	homofil mozgalom	conservative
+HU330	n	an	no	gazember	conservative
+HU152	n	ddp	yes	bárgyú	conservative
+HU597	n	dmc	yes	defrauder	conservative
+HU1782	n	ps	yes	darkie	conservative
+HU1489	a	is	yes	boldogtalan	inclusive
+HU2091	n	an	no	aranysakál	inclusive
+HU2190	n	pr	no	hetaira	inclusive
+HU1447	n	an	no	alkalmatlan	conservative
+HU1682	n	cds	no	superbia	inclusive
+HU1324	n	cds	no	tolvajlás	inclusive
+HU220	n	pa	yes	diplomáciai rangot	inclusive
+HU1928	n	an	no	humanus	inclusive
+HU986	n	om	no	distalis	inclusive
+HU88	n	cds	no	folderol	conservative
+HU1498	n	cds	no	uzsorások	inclusive
+HU1168	n	cds	no	gyors, egy	inclusive
+HU521	n	cds	no	gonosz	conservative
+HU1662	n	qas	no	község lakója	inclusive
+HU1735	n	an	no	birka-	inclusive
+HU1653	n	qas	no	Élősködők	inclusive
+HU1	n	dmc	yes	megalázás	inclusive
+HU2246	n	an	no	limacidae	inclusive
+HU655	n	cds	no	ördögfióka	conservative
+HU2024	n	re	no	stickup	inclusive
+HU494	n	svp	no	gőg	conservative
+HU888	n	an	no	kalóz	inclusive
+HU260	n	ddp	yes	melegvizes borogatás	conservative
+HU1278	n	an	no	szúnyog	inclusive
+HU1455	n	cds	no	ostentatiousness	inclusive
+HU1594	n	an	no	öszvér	inclusive
+HU414	n	dmc	yes	foltozószabó	conservative
+HU1224	n	cds	no	szájhős	conservative
+HU1909	a	cds	no	igényes	conservative
+HU1062	n	re	no	fiatalkorú	conservative
+HU1746	n	pa	yes	pásztorok	inclusive
+HU1451	n	an	no	inexorableness	conservative
+HU1291	n	cds	no	ultrakonzervatív	conservative
+HU1758	n	ps	yes	mongoloid	conservative
+HU1457	n	cds	no	tanított	inclusive
+HU902	n	cds	no	bűntett	inclusive
+HU1246	n	asf	no	hüvelyi	conservative
+HU493	n	cds	no	nagyképűség	conservative
+HU330	n	cds	no	gazember	conservative
+HU1515	n	cds	no	házasságközvetítő	inclusive
+HU1410	n	cds	no	bálványimádó	inclusive
+HU1228	n	svp	no	kapros-dallier	conservative
+HU2195	n	asm	no	madarak	inclusive
+HU1319	a	cds	no	ravasz	inclusive
+HU74	n	dmc	yes	bohóckodás	inclusive
+HU525	n	cds	no	cacography	inclusive
+HU76	n	qas	no	limlom	inclusive
+HU1477	n	cds	no	számkivetés	inclusive
+HU337	n	cds	no	bűnöző	conservative
+HU1582	n	an	no	moszkitó	inclusive
+HU1060	n	pa	yes	védőrács	inclusive
+HU464	n	qas	no	üzletemberek	inclusive
+HU165	n	an	no	háziszamár	inclusive
+HU1329	n	re	no	zsákmány	inclusive
+HU1166	n	qas	no	ispán	inclusive
+HU258	n	an	no	puha	conservative
+HU568	n	asf	no	idióta	conservative
+HU516	n	dmc	yes	léhűtő	conservative
+HU1509	n	qas	no	boltos	inclusive
+HU1625	n	an	no	hájpacni	conservative
+HU338	n	re	no	jogfosztás	inclusive
+HU1292	n	cds	no	szélsőséges jobboldali	conservative
+HU215	n	dmc	yes	vadember	conservative
+HU149	n	or	no	knucklehead	conservative
+HU91	n	cds	no	fanatizmus	conservative
+HU967	n	om	no	keister	inclusive
+HU407	n	cds	no	bragger	conservative
+HU596	n	re	no	chiseler	inclusive
+HU1144	n	cds	no	beszerzése	conservative
+HU868	n	dmc	yes	megtévesztő	conservative
+HU1510	n	qas	no	raktáros	inclusive
+HU2008	n	pa	yes	állami számviteli	inclusive
+HU425	n	an	no	zooerasty	conservative
+HU282	n	pr	no	rentboy	conservative
+HU1811	n	qas	no	haszonbérlő	inclusive
+HU713	n	an	no	nyúl	inclusive
+HU899	n	cds	no	bűntény	inclusive
+HU829	n	cds	no	keresztezési	inclusive
+HU236	n	pa	yes	ügyész	inclusive
+HU1460	n	cds	no	oktató	inclusive
+HU252	n	cds	no	blackballed	inclusive
+HU1517	n	asm	no	fütyülő	inclusive
+HU1868	n	dmc	yes	bohócok	inclusive
+HU738	n	cds	no	gossiper	conservative
+HU1163	n	qas	no	mezőgazdasággal	inclusive
+HU496	n	svp	no	high-handedness	conservative
+HU564	n	ddp	yes	bunkó	inclusive
+HU850	n	or	no	cuke	inclusive
+HU1646	n	qas	no	autoinfection	inclusive
+HU1185	n	asm	no	pterygiophore	inclusive
+HU1406	n	cds	no	crooners	inclusive
+HU521	n	an	no	gonosz	conservative
+HU1610	n	cds	no	tiszt	inclusive
+HU106	n	an	no	angolnafélék	inclusive
+HU1665	n	an	no	papagáj	inclusive
+HU895	n	re	no	bűncselekmény	inclusive
+HU1456	n	qas	no	fellengzősség	inclusive
+HU215	n	qas	no	vadember	conservative
+HU716	n	cds	no	agyonhallgatás	inclusive
+HU197	n	asm	no	pete	inclusive
+HU1189	n	pa	yes	halaskofa	inclusive
+HU2076	n	an	no	hirudinean	inclusive
+HU1550	n	cds	no	tanítónő	conservative
+HU1672	n	asm	no	borsó	inclusive
+HU1009	n	om	no	ulnaris	inclusive
+HU631	n	pa	yes	hivatalnok	inclusive
+HU1779	n	ps	yes	nigra	conservative
+HU1146	n	cds	no	cinkos	inclusive
+HU1683	n	cds	no	propagandista	inclusive
+HU995	n	om	no	anteroposzterior	inclusive
+HU317	n	cds	no	bigott	conservative
+HU1395	n	cds	no	önhittség	inclusive
+HU2052	n	an	no	anurans	inclusive
+HU313	n	cds	no	hamisító	conservative
+HU2026	n	re	no	ripacs	inclusive
+HU64	n	om	no	anális szex	inclusive
+HU2119	a	ddp	yes	buta	conservative
+HU428	n	dmc	yes	gonoszság	inclusive
+HU77	n	cds	no	maradék	inclusive
+HU1355	n	om	no	homoerotikus	inclusive
+HU599	n	cds	no	grifter	inclusive
+HU834	n	cds	no	fiú	inclusive
+HU887	n	an	no	despoiler	inclusive
+HU1887	v	cds	no	zabál	inclusive
+HU484	n	cds	no	egoista	conservative
+HU2003	n	pa	yes	könyvelő	inclusive
+HU1574	n	ps	yes	mongolok	inclusive
+HU2194	n	asm	no	avafauna	inclusive
+HU1152	n	pr	no	eltartott nő	conservative
+HU1256	n	cds	no	büntetés-végrehajtási felügyelő	inclusive
+HU348	n	cds	no	bajt	conservative
+HU271	n	pr	no	kurva	conservative
+HU2062	v	re	no	lop	inclusive
+HU793	n	an	no	bagolyalakúak	inclusive
+HU1604	n	cds	no	bajkeverő	inclusive
+HU2183	n	om	no	határokon öltözködés	inclusive
+HU417	n	ddp	yes	fuser	conservative
+HU2133	n	re	no	debaucher	conservative
+HU213	n	dmc	yes	barbár	conservative
+HU1936	n	an	no	tetű	inclusive
+HU1586	n	an	no	lepkék	inclusive
+HU562	n	cds	no	mesterkélt	conservative
+HU1864	n	an	no	keselyű	inclusive
+HU198	n	asm	no	testis	inclusive
+HU571	n	pr	no	lotyó	conservative
+HU2184	n	om	no	transzvesztitizmussal	inclusive
+HU2068	n	cds	no	nagyokos	conservative
+HU336	n	re	no	bűnügyi	inclusive
+HU637	n	an	no	kecske	inclusive
+HU1685	n	pr	no	pocegér	inclusive
+HU518	n	an	no	csőcselék	conservative
+HU1710	n	ps	yes	mestizaje	conservative
+HU1124	n	an	no	pofa	inclusive
+HU780	n	svp	no	tanha	inclusive
+HU1289	n	dmc	yes	semmire sem jó	conservative
+HU754	n	qas	no	törmelék	inclusive
+HU217	n	ddp	yes	durvaság	inclusive
+HU263	n	asm	no	hülye	inclusive
+HU1392	n	qas	no	hutch	inclusive
+HU625	n	cds	no	japán mértékegységrendszer	inclusive
+HU1856	n	cds	no	uzsorakamat	conservative
+HU618	n	cds	no	törzsek	inclusive
+HU584	n	re	no	calunnia	inclusive
+HU114	n	an	no	animalia	inclusive
+HU315	n	pa	yes	londiner	inclusive
+HU142	n	ddp	yes	fathead	conservative
+HU1248	n	asf	no	hüvely	conservative
+HU2075	n	an	no	nadály	inclusive
+HU1750	n	an	no	csiga	inclusive
+HU97	a	ddp	yes	analfabéta	inclusive
+HU2088	n	an	no	toportyánféreg	inclusive
+HU1253	n	cds	no	smasszer	inclusive
+HU640	n	an	no	kecsketej	inclusive
+HU1337	n	pr	no	prostitúció	conservative
+HU2182	n	om	no	transzvesztitizmus	inclusive
+HU228	n	pa	yes	indítványozó	inclusive
+HU1130	n	dmc	yes	pazarló	conservative
+HU2159	n	asm	no	ithyphallic	inclusive
+HU1081	n	cds	no	kubikus	inclusive
+HU1175	n	om	no	foeniculi fructus	inclusive
+HU87	n	cds	no	codswallop	conservative
+HU747	n	an	no	gyáva	conservative
+HU140	n	ddp	yes	betise	conservative
+HU1306	n	an	no	fakókeselyű	inclusive
+HU567	n	cds	no	kretén	inclusive
+HU1722	n	an	no	mikróba	inclusive
+HU499	n	cds	no	önteltség	inclusive
+HU831	n	cds	no	zöldfülű	conservative
+HU1961	n	re	no	plagizált	inclusive
+HU302	n	cds	no	feje turvydom	inclusive
+HU1748	n	asm	no	flouter	conservative
+HU506	n	an	no	söpredék táska	conservative
+HU1375	n	cds	no	a nagy mosdatlan	conservative
+HU1983	n	cds	no	újszülöttek	inclusive
+HU439	n	pr	no	tehén	conservative
+HU1736	n	an	no	birka	inclusive
+HU632	n	an	no	capra	inclusive
+HU894	n	cds	no	bűncselekmények	inclusive
+HU1491	n	re	no	gyilkos	inclusive
+HU898	n	re	no	bűnügy	inclusive
+HU803	n	ddp	yes	twirp	conservative
+HU819	n	cds	no	hibrid	inclusive
+HU600	n	cds	no	szélhámos	conservative
+HU1626	n	an	no	kövér ember	conservative
+HU1318	n	cds	no	írói napszámos	conservative
+HU343	n	cds	no	tattletale	conservative
+HU2093	n	an	no	sakál	inclusive
+HU1309	n	an	no	eurázsiai griffon	inclusive
+HU1997	a	ddf	yes	sánta	inclusive
+HU805	n	an	no	krokodilok	inclusive
+HU1225	n	dmc	yes	dallier	conservative
+HU1419	n	ddf	yes	fogyatékosság	inclusive
+HU1645	n	qas	no	élősködnek	inclusive
+HU833	n	qas	no	konformizmus	inclusive
+HU2254	n	ps	yes	romák	inclusive
+HU577	n	re	no	szekerce munka	inclusive
+HU1610	n	cds	no	tiszt	conservative
+HU337	n	re	no	bűnöző	inclusive
+HU945	n	om	no	elülső-hátulsó tengely	inclusive
+HU1335	n	cds	no	kifutófiú	inclusive
+HU541	n	cds	no	kocsi vonat	inclusive
+HU376	n	cds	no	csaló	conservative
+HU2151	n	cds	no	felületesség	inclusive
+HU2033	n	cds	no	talpnyaló	conservative
+HU155	n	or	no	faszfej	conservative
+HU1261	n	cds	no	selyemfiú	inclusive
+HU682	n	pa	yes	professor emeritus	inclusive
+HU2027	n	re	no	capturer	inclusive
+HU146	n	ddp	yes	balek	conservative
+HU559	n	is	yes	társadalmi kitaszítottak	inclusive
+HU2079	n	an	no	blattodea	inclusive
+HU424	n	pa	yes	uncouthness	conservative
+HU1953	n	cds	no	rángatózó off	conservative
+HU1783	n	ps	yes	szerecsen	conservative
+HU1078	n	ps	yes	halászcsónak	inclusive
+HU1413	n	cds	no	bálványimádók	inclusive
+HU509	n	dmc	yes	csavargó	inclusive
+HU1424	n	ddf	yes	rokkant	inclusive
+HU703	n	svp	no	eros	inclusive
+HU483	n	cds	no	egoizmus	conservative
+HU240	n	qas	no	bárói	inclusive
+HU726	n	or	no	nance	conservative
+HU1448	n	an	no	illetéktelen személy	conservative
+HU2174	n	an	no	borsos lepkefaj	inclusive
+HU1426	n	ddp	yes	giccs	conservative
+HU1940	n	an	no	phthiraptera	inclusive
+HU1026	n	om	no	mediánsík	inclusive
+HU1588	n	an	no	savanyú arc	inclusive
+HU369	n	cds	no	lompos ember	conservative
+HU35	n	cds	no	tényező	inclusive
+HU521	n	is	yes	gonosz	conservative
+HU2253	n	ps	yes	cigányság	inclusive
+HU1885	n	cds	no	parvenü	inclusive
+HU377	n	cds	no	köcsög	conservative
+HU1382	n	qas	no	festő és dekoratőr	inclusive
+HU771	n	an	no	poloska	inclusive
+HU257	n	ps	yes	patsy	conservative
+HU1538	n	re	no	rustler	inclusive
+HU603	n	cds	no	szedett-vedett és bobtail	conservative
+HU1606	n	cds	no	zsaru	inclusive
+HU888	n	re	no	kalóz	inclusive
+HU266	n	or	no	pudden-head	conservative
+HU2255	n	cds	no	culchie	inclusive
+HU1843	n	re	no	üzembe halálra	inclusive
+HU1181	n	dmc	yes	foetor	conservative
+HU955	n	om	no	valgusz	inclusive
+HU1171	n	or	no	igényesség	inclusive
+HU749	n	cds	no	gyávaság	inclusive
+HU2014	n	re	no	elrabolja	inclusive
+HU1909	a	or	no	igényes	conservative
+HU416	n	dmc	yes	kétbalkezes	conservative
+HU2116	n	qas	no	véreb	inclusive
+HU1770	n	cds	no	nárcizmus	inclusive
+HU435	n	an	no	tinó	inclusive
+HU575	n	an	no	nőstény	inclusive
+HU416	n	qas	no	kétbalkezes	conservative
+HU217	n	an	no	durvaság	inclusive
+HU854	n	cds	no	kiszemel	conservative
+HU85	n	asm	no	maxilliped	inclusive
+HU1707	n	cds	no	szennyvíz	inclusive
+HU962	n	om	no	ipsilateralis	inclusive
+HU1109	n	dmc	yes	erkölcsi iránytű	inclusive
+HU1438	n	is	yes	rászoruló	inclusive
+HU560	n	cds	no	wuss	conservative
+HU1479	n	dmc	yes	pszeudo	conservative
+HU919	n	cds	no	grunge	inclusive
+HU338	n	cds	no	jogfosztás	conservative
+HU1688	n	pr	no	patkányok	inclusive
+HU153	n	asf	no	mamlasz	conservative
+HU1231	n	dmc	yes	gengszterek	inclusive
+HU1857	n	cds	no	interezés	inclusive
+HU127	n	ddp	yes	epifaunal	inclusive
+HU86	a	svp	no	agresszív	inclusive
+HU1922	n	cds	no	panaszos	conservative
+HU1197	n	an	no	siphonaptera	inclusive
+HU1290	n	cds	no	reakciós	conservative
+HU158	n	ddp	yes	tudatlan	conservative
+HU353	n	ps	yes	fekete	inclusive
+HU1552	n	qas	no	elegyet	inclusive
+HU738	n	ddp	yes	gossiper	conservative
+HU281	n	pr	no	floozie	conservative
+HU1837	n	re	no	gyilkossági nyomozó	inclusive
+HU1079	n	cds	no	peons	inclusive
+HU113	n	an	no	állat	inclusive
+HU1031	n	om	no	proximalis	inclusive
+HU2094	n	an	no	aureus	inclusive
+HU1505	n	cds	no	sassing	inclusive
+HU659	n	cds	no	problémát	conservative
+HU1313	n	an	no	malac	inclusive
+HU144	n	dmc	yes	bolond	inclusive
+HU741	n	cds	no	pletykafészek	conservative
+HU2206	n	an	no	átverés	conservative
+HU415	n	ddp	yes	fumbler	conservative
+HU1501	n	an	no	rovarok	inclusive
+HU33	n	cds	no	bróker	inclusive
+HU798	n	ddp	yes	kretenizmus	inclusive
+HU2000	n	pr	no	laza nő	conservative
+HU1488	a	is	yes	szerencsétlen	inclusive
+HU115	n	an	no	metazoans	inclusive
+HU1167	n	ps	yes	fasiszta	inclusive
+HU1063	n	cds	no	bűnös	conservative
+HU268	n	pr	no	prostituált	inclusive
+HU2050	n	an	no	varangyok	inclusive
+HU360	n	qas	no	üzleti vezető	inclusive
+HU1742	n	pa	yes	juhász	inclusive
+HU2212	n	cds	no	Összeesküvés-elmélet	inclusive
+HU1775	n	cds	no	autolatry	inclusive
+HU269	n	pr	no	prosti	conservative
+HU562	n	an	no	mesterkélt	conservative
+HU1052	n	svp	no	hasimádó	inclusive
+HU1880	n	qas	no	kéregető	conservative
+HU152	n	or	no	bárgyú	conservative
+HU580	n	re	no	rágalmazó	inclusive
+HU1499	n	cds	no	loansharking	conservative
+HU452	n	asm	no	barna	inclusive
+HU298	n	cds	no	ruhaszárító	inclusive
+HU952	n	om	no	proximodistalis	inclusive
+HU1142	n	qas	no	divulgence	inclusive
+HU1774	n	cds	no	idiolatry	inclusive
+HU598	n	cds	no	scammer	conservative
+HU1969	n	an	no	volaille	inclusive
+HU1149	n	cds	no	pandar	inclusive
+HU1942	a	an	no	tetves	inclusive
+HU1986	a	asm	no	barna	inclusive
+HU96	n	ddp	yes	analphabetic	inclusive
+HU432	n	an	no	ökrök	inclusive
+HU1032	n	om	no	caudalis	inclusive
+HU881	a	ddp	yes	hiszékeny	conservative
+HU1221	n	cds	no	fundamentalista	inclusive
+HU1146	n	cds	no	cinkos	conservative
+HU1812	n	qas	no	bérlői gazdálkodás	inclusive
+HU509	n	ps	yes	csavargó	inclusive
+HU339	n	cds	no	betyár	inclusive
+HU1202	n	cds	no	rabja	conservative
+HU1846	n	re	no	kínzó	inclusive
+HU158	n	an	no	tudatlan	conservative
+HU1555	n	cds	no	mossa szoba	inclusive
+HU2107	n	an	no	red drum	inclusive
+HU233	n	pa	yes	jogász	inclusive
+HU2051	n	an	no	salientian	inclusive
+HU1007	n	an	no	ülep	inclusive
+HU257	n	an	no	patsy	conservative
+HU1656	n	qas	no	plébániák	inclusive
+HU1156	n	qas	no	cseléd	inclusive
+HU1945	n	cds	no	vallási megkülönböztetés	inclusive
+HU612	n	om	no	paederast	conservative
+HU505	n	cds	no	semmirekellő	conservative
+HU1567	n	svp	no	lazább	conservative
+HU144	n	an	no	bolond	conservative
+HU509	n	an	no	csavargó	conservative
+HU1959	n	re	no	kalózok	inclusive
+HU148	n	ps	yes	fajankó	conservative
+HU511	n	dmc	yes	csavargók	conservative
+HU449	n	ddp	yes	agykárosodást	inclusive
+HU1585	n	pr	no	éjjeli lepke	inclusive
+HU1799	n	ps	yes	latino	inclusive
+HU257	n	ddp	yes	patsy	conservative
+HU1454	n	cds	no	nagyképűsködés	inclusive
+HU1638	n	qas	no	élősködő	inclusive
+HU2057	n	an	no	béka	inclusive
+HU398	n	cds	no	bú-bú	inclusive
+HU1855	a	qas	no	szokásos	inclusive
+HU1536	n	cds	no	mussiness	conservative
+HU1103	n	qas	no	féltudós	conservative
+HU1676	n	an	no	shoat	inclusive
+HU1996	n	cds	no	protagonism	inclusive
+HU346	n	cds	no	taleteller	conservative
+HU289	n	qas	no	hamisság	conservative
+HU1971	n	an	no	csirke	inclusive
+HU396	n	qas	no	flub	inclusive
+HU1702	n	re	no	rabló	conservative
+HU1128	n	dmc	yes	feslett	inclusive
+HU662	n	qas	no	átlagember	inclusive
+HU2101	n	ddp	yes	buta	conservative
+HU154	n	an	no	tökfilkó	conservative
+HU1857	n	cds	no	interezés	conservative
+HU1158	n	qas	no	fieldhand	inclusive
+HU2218	n	om	no	drag show	inclusive
+HU412	n	qas	no	konformista	conservative
+HU352	n	cds	no	csintalan	conservative
+HU1587	n	an	no	moue	inclusive
+HU1675	n	an	no	shote	inclusive
+HU1497	n	cds	no	moneylending	conservative
+HU755	n	cds	no	háztartási hulladék	inclusive
+HU1948	a	svp	no	dühös	inclusive
+HU180	n	an	no	zsugori	conservative
+HU2066	n	cds	no	weisenheimer	conservative
+HU116	n	ddp	yes	állati szaporodás	inclusive
+HU2065	n	cds	no	wisenheimer	conservative
+HU1677	n	an	no	kismalac	inclusive
+HU1271	n	cds	no	minden lében kanál	conservative
+HU1530	n	svp	no	harag	inclusive
+HU609	n	an	no	eb	inclusive
+HU78	n	qas	no	egyveleg	inclusive
+HU1866	n	dmc	yes	pojáca	inclusive
+HU2046	n	an	no	békák	inclusive
+HU267	n	cds	no	kerítőnő	inclusive
+HU414	n	cds	no	foltozószabó	conservative
+HU187	n	cds	no	kupleráj	inclusive
+HU1639	n	dmc	yes	durva	conservative
+HU1999	n	pr	no	házasságtörő nő	conservative
+HU1453	n	cds	no	splashiness	conservative
+HU815	n	ddf	yes	púpos	inclusive
+HU317	n	dmc	yes	bigott	conservative
+HU1049	n	qas	no	kennel	inclusive
+HU1338	n	pr	no	szexuális szolgáltatások	conservative
+HU425	n	ddp	yes	zooerasty	conservative
+HU688	n	pa	yes	professzora extraordinarius	inclusive
+HU1254	n	cds	no	börtön tisztviselő	inclusive
+HU520	n	cds	no	csirkefogó	inclusive
+HU1753	n	an	no	mollusk	inclusive
+HU378	n	cds	no	anya fucker	conservative
+HU152	n	asf	no	bárgyú	conservative
+HU756	n	cds	no	szilárd hulladék	inclusive
+HU1466	n	cds	no	jokester	inclusive
+HU1196	n	an	no	bolhák	inclusive
+HU257	n	cds	no	patsy	conservative
+HU1738	n	an	no	juh	inclusive
+HU1468	n	cds	no	szépíró	conservative
+HU543	n	an	no	fehércápa	inclusive
+HU212	n	ps	yes	barbárok	conservative
+HU896	n	re	no	törvényszegés	inclusive
+HU885	n	cds	no	elvetemült	inclusive
+HU141	n	an	no	butaság	conservative
+HU882	n	an	no	egyszerű ember	conservative
+HU1725	n	an	no	mikrobiális	inclusive
+HU1358	n	om	no	homoszexualitás	inclusive
+HU2039	a	dmc	yes	szennyezett	inclusive
+HU1117	n	an	no	eurypteridák	inclusive
+HU957	n	om	no	csíny	inclusive
+HU1267	n	asf	no	fanszőrzet	inclusive
+HU1780	n	ps	yes	néger	conservative
+HU914	n	ps	yes	boche	conservative
+HU400	n	qas	no	baki	inclusive
+HU153	n	cds	no	mamlasz	conservative
+HU992	n	om	no	dorsoventral	inclusive
+HU2025	n	re	no	banditának	inclusive
+HU1549	n	cds	no	schoolma'am	conservative
+HU103	n	ddp	yes	analfabetizmus	inclusive
+HU335	n	re	no	számkivetett	inclusive
+HU829	n	ps	yes	keresztezési	inclusive
+HU1783	n	ps	yes	szerecsen	inclusive
+HU141	n	ddp	yes	butaság	conservative
+HU597	n	cds	no	defrauder	inclusive
+HU579	n	re	no	rágalom	inclusive
+HU1333	n	svp	no	lógós	conservative
+HU1157	n	qas	no	mezőgazdasági munkás	inclusive
+HU154	n	or	no	tökfilkó	conservative
+HU1886	n	cds	no	nouveau-riche	inclusive
+HU540	n	cds	no	vonatcsapat	inclusive
+HU178	n	svp	no	avariciousness	inclusive
+HU1172	n	or	no	finocchio	inclusive
+HU1315	n	an	no	disznó	inclusive
+HU213	n	cds	no	barbár	inclusive
+HU1082	n	an	no	törpe	conservative
+HU600	n	cds	no	szélhámos	inclusive
+HU1159	n	qas	no	gazdálkodó	inclusive
+HU115	n	ddp	yes	metazoans	inclusive
+HU391	n	cds	no	zsákutcában	inclusive
+HU1094	n	cds	no	szakértő	inclusive
+HU1481	a	dmc	yes	udvariatlan	conservative
+HU314	n	pa	yes	kikiáltó	inclusive
+HU400	n	cds	no	baki	inclusive
+HU1596	n	an	no	szamáröszvér	inclusive
+HU2081	n	an	no	blattaria	inclusive
+HU1979	n	cds	no	babák	inclusive
+HU199	n	asm	no	herék	inclusive
+HU1970	n	an	no	poulet	inclusive
+HU604	n	an	no	kutya	inclusive
+HU1601	n	svp	no	luxuria	inclusive
+HU1430	n	ddp	yes	értelmetlen	conservative
+HU966	n	om	no	profundus	inclusive
+HU1385	n	qas	no	ház festés	inclusive
+HU594	n	cds	no	chiseller	conservative
+HU1340	n	pr	no	call-girl	conservative
+HU853	n	cds	no	selejtezett	conservative
+HU1991	n	pa	yes	kutatás professzora	inclusive
+HU11	n	svp	no	közöny	inclusive
+HU208	n	qas	no	ballaszt	inclusive
+HU214	n	ddp	yes	paraszt	conservative
+HU893	n	re	no	vétség	inclusive
+HU1084	n	svp	no	ravenousness	conservative
+HU1570	n	an	no	puhatestűek	inclusive
+HU2162	n	re	no	kálvária	inclusive
+HU1607	n	cds	no	rendőrök	inclusive
+HU250	n	cds	no	blackballing	inclusive
+HU128	n	re	no	rágalmazás	inclusive
+HU217	n	an	no	durvaság	conservative
+HU708	n	asm	no	shtup	conservative
+HU141	n	asf	no	butaság	conservative
+HU1311	n	an	no	desznó	inclusive
+HU1234	n	cds	no	fasizmus	conservative
+HU1974	n	an	no	tyúk	inclusive
+HU886	n	an	no	fosztogató	inclusive
+HU215	n	ps	yes	vadember	conservative
+HU296	n	cds	no	szárító	inclusive
+HU1354	n	om	no	homoeroticism	inclusive
+HU1718	n	an	no	cápafélék	inclusive
+HU255	n	cds	no	palimadár	conservative
+HU1640	n	dmc	yes	mucsai	conservative
+HU2122	a	ddp	yes	ízetlen	inclusive
+HU1952	n	cds	no	masztizás	conservative
+HU1889	n	qas	no	rendbontó	conservative
+HU985	n	om	no	lateralis	inclusive
+HU1690	n	cds	no	relikvia	inclusive
+HU462	n	qas	no	üzletasszony	inclusive
+HU1806	n	cds	no	hiperszexualitás	conservative
+HU930	n	dmc	yes	képmutatás	conservative
+HU303	n	ps	yes	beduinok	inclusive
+HU2249	n	ps	yes	rroma	inclusive
+HU603	n	qas	no	szedett-vedett és bobtail	conservative
+HU882	n	asf	no	egyszerű ember	conservative
+HU2070	n	cds	no	tudálékosság	inclusive
+HU374	n	cds	no	strikebreaker	inclusive
+HU163	n	om	no	szamár	inclusive
+HU777	n	cds	no	ravaszság	conservative
+HU830	n	cds	no	újonc	conservative
+HU1393	n	qas	no	kalyiba	inclusive
+HU334	n	cds	no	gonosztevő	conservative
+HU333	n	cds	no	banditák	inclusive
+HU950	n	om	no	bal-jobb tengely	inclusive
+HU1766	n	cds	no	macskakaparás	inclusive
+HU272	n	pr	no	nő az utca	conservative
+HU126	n	ddp	yes	epifauna	inclusive
+HU124	n	an	no	állatélet	inclusive
+HU2149	a	svp	no	dölyfös	conservative
+HU1405	n	cds	no	ballada	inclusive
+HU1229	n	svp	no	hiábavalóság	conservative
+HU157	n	ddp	yes	seggfej	conservative
+HU879	n	pr	no	ágyastárs	inclusive
+HU595	n	dmc	yes	svindler	conservative
+HU520	n	cds	no	csirkefogó	conservative
+HU956	n	om	no	peroneális	inclusive
+HU212	n	rci	yes	barbárok	conservative
+HU1386	n	svp	no	torkosság	inclusive
+HU603	n	an	no	szedett-vedett és bobtail	conservative
+HU1071	n	cds	no	dohány	inclusive
+HU221	n	pa	yes	védőügyvéd	inclusive
+HU1832	n	re	no	másodfokú gyilkossággal	inclusive
+HU146	n	asf	no	balek	conservative
+HU394	n	qas	no	bloopers	inclusive
+HU1506	n	cds	no	backtalk	inclusive
+HU1332	n	re	no	lopott tulajdon	inclusive
+HU837	n	cds	no	gyerek	inclusive
+HU533	n	cds	no	csoportosulás	inclusive
+HU268	n	pr	no	prostituált	conservative
+HU520	n	dmc	yes	csirkefogó	inclusive
+HU260	n	cds	no	melegvizes borogatás	conservative
+HU663	n	qas	no	közös személy	inclusive
+HU2197	n	cds	no	csatornahálózat	inclusive
+HU337	n	cds	no	bűnöző	inclusive
+HU636	n	an	no	házikecske	inclusive
+HU1450	n	an	no	relentlessness	conservative
+HU1960	n	re	no	kalózkodás	inclusive
+HU2125	a	ddf	yes	ronda	conservative
+HU642	n	an	no	anyakecskére	inclusive
+HU991	n	om	no	frontális sík	inclusive
+HU1568	n	dmc	yes	slackers	conservative
+HU1115	n	dmc	yes	erkölcsi értékek	inclusive
+HU1276	n	cds	no	szaglászó	conservative
+HU1494	n	cds	no	hitel sharking	inclusive
+HU1485	n	re	no	gyermekgyilkosság	inclusive
+HU438	n	an	no	Ökör	inclusive
+HU297	n	cds	no	dandies	inclusive
+HU686	n	pa	yes	személyes széket	inclusive
+HU2082	n	an	no	csótány	inclusive
+HU1661	n	qas	no	parókia	inclusive
+HU432	n	pr	no	ökrök	inclusive
+HU859	n	cds	no	gyakorlati joker	conservative
+HU1693	n	qas	no	retorika	inclusive
+HU926	n	svp	no	undor	inclusive
+HU286	n	pr	no	street girl	conservative
+HU1280	n	cds	no	közvetítő	inclusive
+HU141	n	asm	no	butaság	conservative
+HU980	n	om	no	caudally	inclusive
+HU1088	n	cds	no	pedagógiai	inclusive
+HU1205	n	asm	no	előbőr	inclusive
+HU81	n	qas	no	mishmash	inclusive
+HU1776	n	cds	no	ön-imádat	inclusive
+HU499	n	cds	no	önteltség	conservative
+HU176	n	svp	no	kapzsiság	inclusive
+HU1232	n	cds	no	gengszter	inclusive
+HU1518	n	asm	no	kuki	inclusive
+HU566	n	asf	no	késleltet	conservative
+HU368	n	an	no	sár	conservative
+HU104	n	an	no	angolna	inclusive
+HU147	n	an	no	ostoba	conservative
+HU151	n	or	no	csökönyös ember	conservative
+HU1287	n	svp	no	semmirevaló	conservative
+HU889	n	ddp	yes	ügyefogyott ember	conservative
+HU1375	n	cds	no	a nagy mosdatlan	inclusive
+HU258	n	cds	no	puha	conservative
+HU937	n	om	no	proximális	inclusive
+HU1279	n	cds	no	közbenjáró	inclusive
+HU343	n	ddp	yes	tattletale	conservative
+HU1389	n	qas	no	háztartás	inclusive
+HU238	n	an	no	kuvasz	inclusive
+HU1320	n	ddf	yes	gebe	conservative
+HU1344	n	is	yes	szegény	inclusive
+HU1944	n	cds	no	vallásosság	inclusive
+HU989	n	om	no	anterior	inclusive
+HU494	n	cds	no	gőg	conservative
+HU456	n	pr	no	norvégia rat	inclusive
+HU823	n	ps	yes	növénynemesítés	inclusive
+HU1052	n	svp	no	hasimádó	conservative
+HU1634	n	cds	no	papparazzi	inclusive
+HU1161	n	qas	no	földműves	inclusive
+HU964	n	om	no	contralateralis	inclusive
+HU1803	n	ps	yes	más fajok	inclusive
+HU294	n	cds	no	dandy	inclusive
+HU2034	n	cds	no	fawner	conservative
+HU1796	a	ps	yes	néger	inclusive
+HU144	n	cds	no	bolond	inclusive
+HU363	n	qas	no	mágnás	inclusive
+HU1408	n	cds	no	sanzonénekes	inclusive
+HU1333	n	qas	no	lógós	conservative
+HU818	n	cds	no	növényfajták oltalmára	inclusive
+HU1258	n	an	no	pipistrelle	inclusive
+HU606	n	an	no	familiaris	inclusive
+HU2227	n	an	no	kukacok	inclusive
+HU1423	n	ddf	yes	fogyatékkal élők	inclusive
+HU564	n	ps	yes	bunkó	conservative
+HU150	n	ddp	yes	tökfej	conservative
+HU1095	a	ddp	yes	őrült	inclusive
+HU1204	n	asm	no	fityma	inclusive
+HU1298	v	asm	no	megkúr	conservative
+HU1480	n	svp	no	kéjvágy	inclusive
+HU2200	n	re	no	ndrangheta	inclusive
+HU1754	n	an	no	csigák	inclusive
+HU1337	n	pr	no	prostitúció	inclusive
+HU520	n	re	no	csirkefogó	inclusive
+HU1127	n	dmc	yes	szabados	conservative
+HU1463	n	an	no	popsi	inclusive
+HU255	n	ps	yes	palimadár	conservative
+HU2067	n	cds	no	okoskodó	conservative
+HU1160	n	qas	no	gazda	inclusive
+HU1902	v	qas	no	sminkel	inclusive
+HU239	n	an	no	kutyus	inclusive
+HU2158	n	ddp	yes	goromba fráter	conservative
+HU196	n	svp	no	scrooge	conservative
+HU259	n	ps	yes	tuskó	conservative
+HU1320	n	an	no	gebe	inclusive
+HU974	n	om	no	aborális	inclusive
+HU2095	a	ps	yes	zsidó	inclusive
+HU1778	n	ps	yes	nigga	conservative
+HU84	n	asm	no	nyúlvány	inclusive
+HU1839	n	re	no	slayer	inclusive
+HU368	n	cds	no	sár	conservative
+HU41	n	pa	yes	kar	inclusive
+HU1232	n	dmc	yes	gengszter	inclusive
+HU506	n	cds	no	söpredék táska	conservative
+HU369	n	an	no	lompos ember	conservative
+HU800	n	qas	no	legénység	inclusive
+HU573	n	pr	no	ringyó	conservative
+HU1068	n	cds	no	sok	inclusive
+HU317	n	svp	no	bigott	conservative
+HU398	n	qas	no	bú-bú	inclusive
+HU1228	n	dmc	yes	kapros-dallier	conservative
+HU381	n	cds	no	szerelemgyerek	inclusive
+HU412	n	cds	no	konformista	conservative
+HU146	n	or	no	balek	conservative
+HU660	n	cds	no	baj	conservative
+HU890	n	ddp	yes	doofus	conservative
+HU1519	n	asm	no	hímvessző	inclusive
+HU1567	n	cds	no	lazább	conservative
+HU570	n	pr	no	ribi	conservative
+HU1065	n	cds	no	tutajok	inclusive
+HU1214	n	cds	no	szabadkőművesség	inclusive
+HU979	n	om	no	ugyan	inclusive
+HU1134	n	svp	no	faineance	inclusive
+HU1333	n	dmc	yes	lógós	conservative
+HU905	n	an	no	doodly-zömök	conservative
+HU870	n	cds	no	demagóg	conservative
+HU1367	n	ps	yes	zsidók	inclusive
+HU273	n	an	no	szajha	conservative
+HU2157	n	an	no	kajmánok	inclusive
+HU975	n	om	no	feltételek az anatómiai elhelyezkedés	inclusive
+HU1813	n	qas	no	bérlő farm	inclusive
+HU440	n	pr	no	bika	inclusive
+HU1958	n	re	no	plagiarise	inclusive
+HU1351	n	om	no	shirtlifter	inclusive
+HU518	n	cds	no	csőcselék	inclusive
+HU148	n	asf	no	fajankó	conservative
+HU1954	n	asm	no	kézi munka	conservative
+HU1508	n	cds	no	sass	inclusive
+HU932	n	dmc	yes	hamis	conservative
+HU396	n	cds	no	flub	inclusive
+HU1953	n	asm	no	rángatózó off	conservative
+HU755	n	cds	no	háztartási hulladék	conservative
+HU255	n	ddp	yes	palimadár	conservative
+HU1471	n	svp	no	erkölcstelen	inclusive
+HU2073	n	an	no	piócák	inclusive
+HU803	n	asm	no	twirp	conservative
+HU1686	n	pr	no	patkány	inclusive
+HU111	n	an	no	angolnaalakúak	inclusive
+HU1892	n	or	no	krumpli	inclusive
+HU102	n	ddp	yes	Írástudatlanság	inclusive
+HU313	n	dmc	yes	hamisító	conservative
+HU520	n	is	yes	csirkefogó	conservative
+HU1527	n	svp	no	féltékenység	inclusive
+HU1154	n	pr	no	kitartott nő	conservative
+HU872	n	cds	no	demagógia	conservative
+HU117	n	ddp	yes	makrofauna	inclusive
+HU1964	n	re	no	plagiarisation	inclusive
+HU1984	a	ps	yes	fekete	inclusive
+HU2213	n	cds	no	Összeesküvés-elméletek	inclusive
+HU1990	n	pa	yes	docense	inclusive
+HU2130	n	an	no	lampyris noctiluca	inclusive
+HU385	n	re	no	zsarolás	conservative
+HU1671	n	asm	no	zöldborsó	inclusive
+HU1723	n	an	no	mikróbák	inclusive
+HU77	n	qas	no	maradék	inclusive
+HU386	n	re	no	zsarolta	conservative
+HU1608	n	cds	no	rendőrnő	inclusive
+HU2123	a	ddp	yes	ízléstelen	inclusive
+HU395	n	qas	no	szarvashiba	inclusive
+HU1216	n	cds	no	free kőműves	inclusive
+HU1611	n	re	no	cosa nostra	inclusive
+HU613	n	om	no	pederaszta	conservative
+HU151	n	ddp	yes	csökönyös ember	conservative
+HU522	n	re	no	villainess	conservative
+HU1178	n	dmc	yes	füstöl	conservative
+HU1962	n	re	no	plagiarization	inclusive
+HU183	n	ddp	yes	visszamaradottság	inclusive
+HU757	n	cds	no	lom	inclusive
+HU1169	n	re	no	pontos	inclusive
+HU9	n	svp	no	apatikus	inclusive
+HU2064	n	cds	no	elcsen	conservative
+HU491	n	ps	yes	bolgár	inclusive
+HU99	n	ddp	yes	analfabétizmus	inclusive
+HU1767	n	cds	no	stealer	inclusive
+HU370	n	cds	no	korcs	inclusive
+HU159	n	ddp	yes	semmit sem	conservative
+HU202	n	asm	no	tök	inclusive
+HU1756	n	ps	yes	mongolid nagyrassz	conservative
+HU1924	n	cds	no	morgó	conservative
+HU858	n	cds	no	tricker	conservative
+HU76	n	cds	no	limlom	inclusive
+HU1931	n	an	no	pediculus humánus	inclusive
+HU923	n	cds	no	mocsok	inclusive
+HU668	n	cds	no	ballup	inclusive
+HU666	n	cds	no	cockup	inclusive
+HU56	n	pa	yes	akadémizmus	inclusive
+HU81	n	cds	no	mishmash	inclusive
+HU882	n	or	no	egyszerű ember	conservative
+HU2032	n	cds	no	apple polírozó	conservative
+HU1874	n	an	no	geleszta	inclusive
+HU291	n	cds	no	valótlanság	conservative
+HU789	n	asm	no	hiszékenység	conservative
+HU500	n	svp	no	conceitedness	conservative
+HU324	n	cds	no	bandák	conservative
+HU961	n	om	no	utólag	inclusive
+HU481	n	cds	no	önző	conservative
+HU908	n	an	no	diddley	conservative
+HU21	n	re	no	abúzus	inclusive
+HU801	n	asm	no	jerk-off	conservative
+HU1331	n	re	no	fosztogatás	inclusive
+HU1709	n	ps	yes	félvér	conservative
+HU1916	n	an	no	nyerészkedő	conservative
+HU1828	n	an	no	kullancs	inclusive
+HU1878	n	an	no	szoknya chaser	conservative
+HU1565	n	cds	no	toalett	inclusive
+HU1954	n	cds	no	kézi munka	conservative
+HU1888	n	qas	no	troubler	conservative
+HU334	n	re	no	gonosztevő	inclusive
+HU801	n	cds	no	jerk-off	conservative
+HU277	n	pr	no	lompos nő	conservative
+HU1100	n	asm	no	hard-on	inclusive
+HU1173	n	om	no	foeniculum vulgare	inclusive
+HU743	n	qas	no	honfitárs	inclusive
+HU1353	n	om	no	azonos nemű	inclusive
+HU1374	n	cds	no	tömegek	conservative
+HU440	n	an	no	bika	inclusive
+HU1327	n	cds	no	tolvaj	conservative
+HU909	n	an	no	diddlysquat	conservative
+HU210	n	dmc	yes	bandita	conservative
+HU759	n	cds	no	szemetet	conservative
+HU1083	n	ddf	yes	nanus	conservative
+HU756	n	qas	no	szilárd hulladék	inclusive
+HU1356	n	om	no	homoszexuálisok	inclusive
+HU891	n	ps	yes	ruiner	conservative
+HU1784	n	ps	yes	afrikai származású	inclusive
+HU215	n	pa	yes	vadember	conservative
+HU583	n	re	no	traducement	inclusive
+HU1865	n	pa	yes	fuvaros	inclusive
+HU1446	n	svp	no	tétlenség	inclusive
+HU212	n	cds	no	barbárok	conservative
+HU2153	n	re	no	terrorcselekmény	inclusive
+HU312	n	dmc	yes	hazudós	conservative
+HU677	n	qas	no	kasztok	inclusive
+HU1190	n	pa	yes	halárusokra	inclusive
+HU594	n	re	no	chiseller	inclusive
+HU1220	n	cds	no	fundamentalisták	inclusive
+HU757	n	qas	no	lom	inclusive
+HU1848	n	cds	no	homunkulusz	inclusive
+HU620	n	cds	no	rokonsági csoport	inclusive
+HU257	n	asf	no	patsy	conservative
+HU177	n	svp	no	vágy	inclusive
+HU1035	n	an	no	fenék	inclusive
+HU155	n	cds	no	faszfej	conservative
+HU1884	n	cds	no	arriviste	inclusive
+HU1573	n	cds	no	moneygrubber	inclusive
+HU1729	n	an	no	állatkák	inclusive
+HU157	n	asm	no	seggfej	conservative
+HU201	n	qas	no	mogyoró	inclusive
+HU264	n	or	no	puding fej	conservative
+HU1912	v	an	no	tombol	conservative
+HU2111	n	cds	no	wonk	conservative
+HU259	n	asm	no	tuskó	conservative
+HU1170	n	re	no	kicsikarni	inclusive
+HU351	n	cds	no	szélhámosság	conservative
+HU1445	n	is	yes	alacsony jövedelmű	inclusive
+HU327	n	cds	no	harccal	conservative
+HU1144	n	cds	no	beszerzése	inclusive
+HU311	n	cds	no	beginák	inclusive
+HU1599	n	cds	no	nerdy	conservative
+HU761	n	qas	no	ócskavas	inclusive
+HU234	n	pa	yes	Ügyvéd	inclusive
+HU1334	n	qas	no	tagalong	conservative
+HU1951	n	cds	no	wank	conservative
+HU379	n	cds	no	kurafi	conservative
+HU928	n	svp	no	kellemetlen	inclusive
+HU1496	n	cds	no	pénzkölcsönzőt	inclusive
+HU1968	n	an	no	tyúkfajta	inclusive
+HU125	n	an	no	fauna	inclusive
+HU1360	n	ps	yes	hebraism	inclusive
+HU485	n	cds	no	önzés	conservative
+HU505	n	an	no	semmirekellő	conservative
+HU10	n	svp	no	spiritlessness	inclusive
+HU1046	n	cds	no	titokzatoskodó alak	conservative
+HU893	n	cds	no	vétség	inclusive
+HU215	n	cds	no	vadember	conservative
+HU1016	n	om	no	sinistro-dextralis	inclusive
+HU2115	n	qas	no	bloodhound	inclusive
+HU1769	n	cds	no	nárcisztikus	inclusive
+HU1679	n	cds	no	prankishness	inclusive
+HU1453	n	cds	no	splashiness	inclusive
+HU1606	n	cds	no	zsaru	conservative
+HU1230	n	svp	no	jelentéktelenség	conservative
+HU259	n	asf	no	tuskó	conservative
+HU733	n	or	no	homophile	conservative
+HU2020	n	re	no	rablók	inclusive
+HU1310	n	an	no	házisertés	inclusive
+HU629	n	cds	no	törzs	inclusive
+HU903	n	re	no	bűnözők	inclusive
+HU88	n	an	no	folderol	conservative
+HU1285	n	dmc	yes	hülye-off	conservative
+HU443	n	pr	no	szarvasmarhák	inclusive
+HU146	n	ps	yes	balek	conservative
+HU2219	n	om	no	női megszemélyesítő	inclusive
+HU179	n	svp	no	csípősség	inclusive
+HU195	n	svp	no	cheapskate	conservative
+HU1687	n	pr	no	rattus	inclusive
+HU1401	n	an	no	hyaena	inclusive
+HU14	n	qas	no	oltárszolga	inclusive
+HU1765	n	cds	no	ákombákom	inclusive
+HU754	n	cds	no	törmelék	inclusive
+HU1086	n	an	no	helix pomatia	inclusive
+HU157	n	an	no	seggfej	conservative
+HU122	n	an	no	lény	inclusive
+HU1502	n	an	no	insecta	inclusive
+HU2150	n	cds	no	trasformismo	inclusive
+HU291	n	qas	no	valótlanság	conservative
+HU477	n	qas	no	középosztálybeli	inclusive
+HU842	n	or	no	pina	conservative
+HU2229	n	cds	no	poltroon	conservative
+HU727	n	or	no	furcsa	conservative
+HU367	n	an	no	szlovén	conservative
+HU1531	n	svp	no	dühös	inclusive
+HU63	a	an	no	makacs	inclusive
+HU1666	n	an	no	papagájalakúak	inclusive
+HU601	n	cds	no	cheekiness	conservative
+HU758	n	cds	no	települési hulladék	inclusive
+HU1788	n	ps	yes	negroids	inclusive
+HU1437	n	is	yes	szegénységi ráta	inclusive
+HU1833	n	re	no	gyilkosok	inclusive
+HU744	n	ddp	yes	besúgó	conservative
+HU762	n	qas	no	fémhulladék	inclusive
+HU593	n	re	no	camorra	inclusive
+HU6	n	svp	no	aboulia	inclusive
+HU43	a	pa	yes	elméleti	inclusive
+HU1307	n	an	no	swallow	inclusive
+HU1148	n	cds	no	nyomorult	conservative
+HU1797	n	pa	yes	udvarló	inclusive
+HU772	n	an	no	bed bugs	inclusive
+HU2161	n	asm	no	fallikus	inclusive
+HU582	n	re	no	vádaskodás	inclusive
+HU698	n	or	no	káposzta	inclusive
+HU193	n	cds	no	bawdyhouse	inclusive
+HU312	n	cds	no	hazudós	conservative
+HU1099	n	asm	no	merevedés	inclusive
+HU2006	n	pa	yes	controller	inclusive
+HU1319	a	cds	no	ravasz	conservative
+HU156	n	an	no	muttonhead	conservative
+HU705	n	asm	no	forgassa a széna	conservative
+HU355	n	qas	no	felső vezetői	inclusive
+HU1692	n	qas	no	retorikai	inclusive
+HU382	n	cds	no	by-csapás	inclusive
+HU1554	n	cds	no	mellékhelyiség	inclusive
+HU1668	n	svp	no	takarékosság	inclusive
+HU189	n	cds	no	bordély	inclusive
+HU796	n	an	no	kuvik	inclusive
+HU1901	v	qas	no	kifest	inclusive
+HU1113	n	dmc	yes	erkölcsi indíték	inclusive
+HU118	n	an	no	infauna	inclusive
+HU188	n	cds	no	trágár házat	inclusive
+HU1056	n	svp	no	evő	inclusive
+HU213	n	pa	yes	barbár	conservative
+HU128	n	re	no	rágalmazás	conservative
+HU1027	n	om	no	ventralis	inclusive
+HU710	n	asm	no	csavarozás	conservative
+HU2257	n	ps	yes	zuluk	inclusive
+HU1615	n	cds	no	mafiosi	inclusive
+HU2004	n	pa	yes	comptroller	inclusive
+HU271	n	an	no	kurva	conservative
+HU570	n	an	no	ribi	conservative
+HU1650	n	qas	no	nekrotróf	inclusive
+HU1054	n	svp	no	árokásó	inclusive
+HU411	n	cds	no	alkalmazkodó	conservative
+HU1274	n	cds	no	tolakodó	conservative
+HU1047	n	qas	no	kutyaól	inclusive
+HU479	n	qas	no	közepes jövedelmű	inclusive
+HU1372	n	ps	yes	juden	inclusive
+HU2251	n	ps	yes	cigány	inclusive
+HU2126	a	dmc	yes	pacuha	conservative
+HU1257	n	cds	no	fújtató	conservative
+HU218	n	qas	no	kereskedő	inclusive
+HU1500	n	cds	no	loanshark	inclusive
+HU1369	n	ps	yes	héberek	inclusive
+HU596	n	cds	no	chiseler	inclusive
+HU563	n	ddp	yes	váltott	conservative
+HU1825	n	re	no	terrorista	inclusive
+HU1338	n	pr	no	szexuális szolgáltatások	inclusive
+HU1867	n	dmc	yes	vidám andrew	inclusive
+HU704	n	pr	no	csaj	inclusive
+HU1317	n	cds	no	irodalmi hack	conservative
+HU553	n	cds	no	kaszinó	inclusive
+HU1712	n	ps	yes	mesztic	conservative
+HU1845	n	re	no	kínvallató	inclusive
+HU734	n	om	no	melegek	inclusive
+HU384	n	cds	no	törvénytelen	inclusive
+HU776	n	an	no	hemipteran	inclusive
+HU602	n	qas	no	riffraff	conservative
+HU1644	n	qas	no	Élősdi	inclusive
+HU16	n	re	no	sértő	inclusive
+HU1041	n	om	no	disztális	inclusive
+HU2045	n	an	no	farkatlan kétéltűek	inclusive
+HU100	n	ddp	yes	illiteráció	inclusive
+HU1861	n	ps	yes	vandálok	inclusive
+HU732	n	om	no	meleg	conservative
+HU1225	n	svp	no	dallier	conservative
+HU1206	n	asm	no	aljas	inclusive
+HU155	n	an	no	faszfej	conservative
+HU993	n	om	no	szuperficiális	inclusive
+HU1484	n	re	no	csecsemőgyilkosság	inclusive
+HU2202	n	qas	no	búvárkodás súlyozási rendszer	inclusive
+HU781	n	pr	no	ostobaság	conservative
+HU336	n	dmc	yes	bűnügyi	inclusive
+HU806	n	an	no	krokodil	inclusive
+HU258	n	ddp	yes	puha	conservative
+HU2041	n	qas	no	nagyhangú beszéd	inclusive
+HU1173	n	or	no	foeniculum vulgare	inclusive
+HU1512	n	asm	no	gesztenyebarna	inclusive
+HU1761	n	qas	no	spirituális vezetője	inclusive
+HU1728	n	an	no	állatka	inclusive
+HU442	n	pr	no	marha	inclusive
+HU1648	n	qas	no	Élősködés	inclusive
+HU804	n	ddf	yes	nyomorék	inclusive
+HU799	n	ddp	yes	kreténizmus	inclusive
+HU492	n	svp	no	hencegés	conservative
+HU1336	n	pr	no	prostituáltak	conservative
+HU1390	n	qas	no	házimunka	inclusive
+HU70	n	svp	no	tunyaság	inclusive
+HU1898	n	or	no	pityóka	inclusive
+HU2080	n	an	no	svábbogarak	inclusive
+HU949	n	om	no	proximo-distalis	inclusive
+HU1932	n	an	no	pediculus corporis	inclusive
+HU844	n	or	no	uborka	inclusive
+HU1966	n	an	no	csirkék	inclusive
+HU607	n	an	no	kutyák	inclusive
+HU429	n	ddp	yes	ferociousness	conservative
+HU1403	n	an	no	hiénafélék	inclusive
+HU2030	n	re	no	kidnaper	inclusive
+HU1586	n	pr	no	lepkék	inclusive
+HU1749	n	qas	no	nehezék	inclusive
+HU1473	n	om	no	főrangú nő	inclusive
+HU2110	n	cds	no	dweeb	conservative
+HU461	n	qas	no	szegényparaszt	inclusive
+HU1819	n	an	no	örvöslúd	inclusive
+HU87	n	ddp	yes	codswallop	conservative
+HU2230	a	asm	no	kávébarna	inclusive
+HU2043	n	qas	no	elhagyott hajó	inclusive
+HU47	n	pa	yes	levelező tagja	inclusive
+HU589	n	re	no	defamer	conservative
+HU999	n	om	no	mediánszagittális	inclusive
+HU1483	n	svp	no	munkakerülő	conservative
+HU693	n	or	no	fejeskáposzta	inclusive
+HU1737	n	an	no	házijuh	inclusive
+HU652	n	asm	no	fasz	conservative
+HU2146	n	re	no	molesztálta	inclusive
+HU873	n	pr	no	kurtizánok	inclusive
+HU883	n	cds	no	cselszövő	inclusive
+HU2189	n	pr	no	hetaera	inclusive
+HU1546	n	ps	yes	metics	inclusive
+HU1913	n	dmc	yes	lingerer	conservative
+HU890	n	asm	no	doofus	conservative
+HU721	n	cds	no	tudósítók	inclusive
+HU2134	n	re	no	raper	conservative
+HU200	n	asm	no	ballock	inclusive
+HU209	n	cds	no	briganti	inclusive
+HU331	n	cds	no	közúti ügynök	conservative
+HU273	n	pr	no	szajha	conservative
+HU1470	n	dmc	yes	erkölcstelenség	inclusive
+HU215	n	ddp	yes	vadember	conservative
+HU4	n	svp	no	acedia	inclusive
+HU855	n	cds	no	selejtezés	conservative
+HU301	n	cds	no	feje turvyness	inclusive
+HU1860	n	ps	yes	vandál	inclusive
+HU349	n	cds	no	csintalanság döntéshozatal	conservative
+HU1949	a	svp	no	bősz	inclusive
+HU1121	n	an	no	tengeri skorpiók	inclusive
+HU1090	n	cds	no	tojásfejű	inclusive
+HU1394	n	cds	no	hübrisz	inclusive
+HU1564	n	cds	no	lav	inclusive
+HU1926	n	cds	no	síróbaba	conservative
+HU731	n	om	no	homofil mozgalom	inclusive
+HU1825	n	re	no	terrorista	conservative
+HU929	n	svp	no	idegenkedés	inclusive
+HU58	n	an	no	bölény	inclusive
+HU1919	n	is	yes	koldus	conservative
+HU835	n	cds	no	kölyök	inclusive
+HU290	n	dmc	yes	hazugság	inclusive
+HU357	n	qas	no	mágnások	inclusive
+HU843	n	asf	no	punci	conservative
+HU50	n	ddp	yes	hülyeség	inclusive
+HU877	n	pr	no	kurtizán	inclusive
+HU1521	n	asm	no	öcsi	inclusive
+HU818	n	ps	yes	növényfajták oltalmára	inclusive
+HU750	v	cds	no	csacsog	inclusive
+HU1141	n	qas	no	divulgement	inclusive
+HU1807	n	cds	no	satyriasis	conservative
+HU1008	n	om	no	tooshie	inclusive
+HU2177	n	om	no	öltöznek	inclusive
+HU2222	n	pa	yes	cordwainer	inclusive
+HU1498	n	cds	no	uzsorások	conservative
+HU724	n	or	no	poove	conservative
+HU1532	n	svp	no	angriness	inclusive
+HU842	n	asf	no	pina	conservative
+HU916	n	ps	yes	krauthead	conservative
+HU1138	n	cds	no	családi vonalat	inclusive
+HU126	n	an	no	epifauna	inclusive
+HU737	n	cds	no	rumormonger	conservative
+HU1616	n	ps	yes	osztrogót	inclusive
+HU1175	n	or	no	foeniculi fructus	inclusive
+HU113	n	ddp	yes	állat	inclusive
+HU1739	n	an	no	juh-	inclusive
+HU202	n	or	no	tök	inclusive
+HU364	n	qas	no	iparosok	inclusive
+HU137	n	or	no	kis ónedény	inclusive
+HU476	n	qas	no	burzsoázia	inclusive
+HU287	n	pr	no	bérleti fiúk	conservative
+HU1023	n	om	no	cephalocaudalis	inclusive
+HU1647	n	qas	no	ektoparaziták	inclusive
+HU762	n	cds	no	fémhulladék	conservative
+HU728	n	or	no	puff	conservative
+HU1091	n	dmc	yes	károkozás	inclusive
+HU276	n	pr	no	ribanc	inclusive
+HU1875	n	cds	no	nyelvbotlás	inclusive
+HU685	n	pa	yes	adjunktus	inclusive
+HU518	n	cds	no	csőcselék	conservative
+HU2127	a	re	no	erőszakos	inclusive
+HU490	n	ps	yes	bulgár	inclusive
+HU1343	n	pr	no	john	conservative
+HU70	n	svp	no	tunyaság	conservative
+HU563	n	cds	no	váltott	inclusive
+HU143	n	an	no	saphead	conservative
+HU1538	n	cds	no	rustler	inclusive
+HU568	n	ddp	yes	idióta	inclusive
+HU1822	n	an	no	brant	inclusive
+HU1627	n	an	no	dagi	conservative
+HU1264	n	asf	no	szeméremszőrzet	inclusive
+HU1879	n	qas	no	freeloader	conservative
+HU544	n	an	no	carcharodon	inclusive
+HU1168	n	cds	no	gyors, egy	conservative
+HU2247	n	ps	yes	rommany	inclusive
+HU645	n	svp	no	tightfistedness	conservative
+HU447	n	cds	no	maffiavezért	inclusive
+HU30	n	re	no	visszaélések	inclusive
+HU1854	n	dmc	yes	szerencsétlen	inclusive
+HU678	n	qas	no	kasztrendszer	inclusive
+HU259	n	cds	no	tuskó	conservative
+HU2017	n	re	no	raptio	inclusive
+HU1425	n	ddp	yes	segglyuk	conservative
+HU200	n	qas	no	ballock	inclusive
+HU1455	n	cds	no	ostentatiousness	conservative
+HU1404	n	an	no	hyaenidae	inclusive
+HU2074	n	an	no	vérszívó	inclusive
+HU75	n	cds	no	tréfa	inclusive
+HU1835	n	re	no	megölte	inclusive
+HU1192	n	dmc	yes	hamisítás	inclusive
+HU282	n	an	no	rentboy	conservative
+HU2209	n	ps	yes	sárga lapot	inclusive
+HU345	n	ddp	yes	árulkodó	conservative
+HU1005	n	om	no	rosztrális	inclusive
+HU915	n	ps	yes	fritz	conservative
+HU861	n	om	no	asszonyom	inclusive
+HU495	n	svp	no	fennhéjázás	conservative
+HU439	n	an	no	tehén	conservative
+HU2055	n	an	no	frogspawn	inclusive
+HU489	n	ps	yes	bolgárok	inclusive
+HU1388	n	svp	no	túlevés	inclusive
+HU494	n	cds	no	gőg	inclusive
+HU669	n	cds	no	rendetlenség-up	inclusive
+HU361	n	qas	no	mogul	inclusive
+HU417	n	qas	no	fuser	conservative
+HU1694	n	qas	no	rhetor	inclusive
+HU1652	n	qas	no	szimfília	inclusive
+HU1074	n	cds	no	terhelések	inclusive
+HU556	n	dmc	yes	kitaszított	inclusive
+HU1507	n	cds	no	vissza beszélni	inclusive
+HU1568	n	cds	no	slackers	conservative
+HU1492	n	cds	no	pénz hitelezés	inclusive
+HU2102	a	ddp	yes	ostoba	conservative
+HU2178	n	om	no	cross-drag	inclusive
+HU472	n	an	no	bivaly	inclusive
+HU567	n	ddp	yes	kretén	inclusive
+HU1232	n	re	no	gengszter	inclusive
+HU1312	n	an	no	házidisznó	inclusive
+HU1296	v	asm	no	megbasz	conservative
+HU2058	n	an	no	bufo	inclusive
+HU90	n	cds	no	zelóták	inclusive
+HU2181	n	om	no	crossdresser	inclusive
+HU241	n	qas	no	baronies	inclusive
+HU1299	v	asm	no	szexel	conservative
+HU1001	n	om	no	aboral	inclusive
+HU592	n	re	no	traducer	conservative
+HU1067	n	cds	no	tucat	inclusive
+HU2112	a	pa	yes	politikai	inclusive
+HU643	n	svp	no	minginess	conservative
+HU159	n	an	no	semmit sem	conservative
+HU902	n	re	no	bűntett	inclusive
+HU1037	n	om	no	apikális	inclusive
+HU1526	n	svp	no	irigység	inclusive
+HU1429	n	ddp	yes	nonszensz	conservative
+HU1883	n	cds	no	újgazdagok	inclusive
+HU878	n	pr	no	ágyasa	inclusive
+HU1396	n	cds	no	arrogancia	inclusive
+HU513	n	dmc	yes	hobó	conservative
+HU1759	n	pr	no	társaságbeli	inclusive
+HU512	n	dmc	yes	hobos	conservative
+HU1130	n	dmc	yes	pazarló	inclusive
+HU2	v	an	no	ugat	inclusive
+HU1763	n	or	no	squash	inclusive
+HU1802	n	ps	yes	fehér	inclusive
+HU507	n	dmc	yes	ez és ez	conservative
+HU1876	n	cds	no	elszólás	inclusive
+HU91	n	dmc	yes	fanatizmus	conservative
+HU202	n	qas	no	tök	inclusive
+HU213	n	rci	yes	barbár	conservative
+HU1284	n	an	no	kecskeformák	inclusive
+HU894	n	re	no	bűncselekmények	inclusive
+HU339	n	re	no	betyár	inclusive
+HU1235	n	cds	no	fasiszták	conservative
+HU598	n	dmc	yes	scammer	conservative
+HU1208	n	cds	no	szabadkőműves	inclusive
+HU2231	n	pr	no	udvaroncok	inclusive
+HU2121	a	ddp	yes	íztelen	inclusive
+HU518	n	qas	no	csőcselék	conservative
+HU1894	n	or	no	murphy	inclusive
+HU1664	n	an	no	psittaciformes	inclusive
+HU1288	n	svp	no	jó-for-semmiért	conservative
+HU350	n	cds	no	ördöngösség	conservative
+HU1140	n	cds	no	phratry	inclusive
+HU498	n	cds	no	beképzeltség	conservative
+HU874	n	pr	no	szerető	conservative
+HU80	n	cds	no	kotyvalék	inclusive
+HU674	n	cds	no	elégedettség	inclusive
+HU2215	n	cds	no	conspiracism	inclusive
+HU515	n	dmc	yes	naplopó	conservative
+HU413	n	ddp	yes	bumbler	conservative
+HU734	n	om	no	melegek	conservative
+HU1793	n	ps	yes	negroid	inclusive
+HU2117	n	an	no	kígyó a fűben	conservative
+HU1522	n	asm	no	penis	inclusive
+HU392	n	dmc	yes	rakehell	conservative
+HU399	n	cds	no	kontár	inclusive
+HU268	n	an	no	prostituált	conservative
+HU1615	n	cds	no	mafiosi	conservative
+HU2214	n	cds	no	konteó	inclusive
+HU1670	a	dmc	yes	gonosz	conservative
+HU1834	n	re	no	gyilkosságok	inclusive
+HU820	n	cds	no	keresztezett	inclusive
+HU2023	n	re	no	rablás	inclusive
+HU1409	n	qas	no	ideológus	inclusive
+HU142	n	an	no	fathead	conservative
+HU1122	a	cds	no	megvetendő	conservative
+HU214	n	rci	yes	paraszt	conservative
+HU1167	n	cds	no	fasiszta	conservative
+HU2168	n	re	no	kínozza	inclusive
+HU1091	n	re	no	károkozás	inclusive
+HU442	n	an	no	marha	inclusive
+HU2259	n	ps	yes	zulu	inclusive
+HU330	n	om	no	gazember	inclusive
+HU2225	n	cds	no	megvesztegethetőség	conservative
+HU1011	n	om	no	mediális	inclusive
+HU2130	n	pr	no	lampyris noctiluca	inclusive
+HU2141	n	re	no	szexuális zaklatás	inclusive
+HU1612	n	re	no	maffia	conservative
+HU1642	n	dmc	yes	bugris	conservative
+HU1992	n	pa	yes	kiváló professzora	inclusive
+HU1910	a	or	no	követelődző	conservative
+HU1118	n	an	no	eurypterida	inclusive
+HU569	n	ddp	yes	gyengeelméjű	inclusive
+HU271	n	pr	no	kurva	inclusive
+HU725	n	or	no	buzi	conservative
+HU690	n	pa	yes	prof	inclusive
+HU1658	n	qas	no	plébános	inclusive
+HU124	n	ddp	yes	állatélet	inclusive
+HU505	n	dmc	yes	semmirekellő	inclusive
+HU1275	n	cds	no	szaglász	conservative
+HU410	n	cds	no	dogmatizmus	conservative
+HU2069	n	cds	no	pedantériával	inclusive
+HU1252	n	cds	no	börtönőr	inclusive
+HU1872	n	an	no	giliszta	inclusive
+HU403	n	qas	no	ügyetlenség	inclusive
+HU65	n	re	no	megerőszakolt	conservative
+HU439	n	an	no	tehén	inclusive
+HU672	n	an	no	culex pipiens	inclusive
+HU340	n	an	no	he-kecske	inclusive
+HU852	n	qas	no	elutasít	conservative
+HU1101	n	asm	no	fallosz	inclusive
+HU568	n	ps	yes	idióta	conservative
+HU335	n	cds	no	számkivetett	inclusive
+HU566	n	ddp	yes	késleltet	inclusive
+HU1957	n	re	no	plágium	inclusive
+HU1231	n	cds	no	gengszterek	inclusive
+HU2053	n	an	no	varangyosbéka	inclusive
+HU758	n	qas	no	települési hulladék	inclusive
+HU1973	n	an	no	csibe	inclusive
+HU530	n	an	no	ugat	inclusive
+HU413	n	cds	no	bumbler	conservative
+HU1838	n	re	no	emberölés	inclusive
+HU436	n	pr	no	tehenek	inclusive
+HU1289	n	svp	no	semmire sem jó	conservative
+HU2078	n	cds	no	csatlósai	conservative
+HU415	n	cds	no	fumbler	conservative
+HU401	n	qas	no	baklövés	inclusive
+HU1013	n	om	no	mögött	inclusive
+HU918	n	ps	yes	kraut	conservative
+HU825	n	ps	yes	interfertility	inclusive
+HU648	n	qas	no	fejetlenség	inclusive
+HU617	n	cds	no	al-klán	inclusive
+HU496	n	cds	no	high-handedness	conservative
+HU210	n	cds	no	bandita	conservative
+HU2029	n	re	no	emberrabló	inclusive
+HU573	n	an	no	ringyó	conservative
+HU373	n	cds	no	sztrájktörőkkel	inclusive
+HU426	n	ddp	yes	zooerastia	conservative
+HU1107	n	qas	no	amatőr	inclusive
+HU157	n	ps	yes	seggfej	conservative
+HU1040	n	om	no	ulnáris	inclusive
+HU594	n	dmc	yes	chiseller	conservative
+HU1297	v	asm	no	dug	conservative
+HU1544	n	ps	yes	metic	inclusive
+HU2248	n	ps	yes	cigányok	inclusive
+HU983	n	om	no	sinister	inclusive
+HU79	n	qas	no	keverék	inclusive
+HU785	n	an	no	prickteaser	conservative
+HU1464	n	an	no	segg	inclusive
+HU259	n	ddp	yes	tuskó	conservative
+HU1345	n	is	yes	rendelkezik-nem	inclusive
+HU566	n	cds	no	késleltet	inclusive
+HU2002	n	pr	no	üres fecsegés	conservative
+HU900	n	re	no	bűnözés	inclusive
+HU1881	n	qas	no	moocher	conservative
+HU2164	n	re	no	tortúra	inclusive
+HU506	n	dmc	yes	söpredék táska	inclusive
+HU1223	n	an	no	düh	inclusive
+HU1153	n	pr	no	tartott nő	conservative
+HU1747	n	asm	no	jeerer	conservative
+HU334	n	dmc	yes	gonosztevő	inclusive
+HU2007	n	pa	yes	könyvelők	inclusive
+HU518	n	qas	no	csőcselék	inclusive
+HU1611	n	cds	no	cosa nostra	inclusive
+HU817	n	ps	yes	növényi biotechnológia	inclusive
+HU590	n	re	no	maligner	conservative
+HU581	n	re	no	becsületsértő	inclusive
+HU180	n	is	yes	zsugori	conservative
+HU683	n	pa	yes	professzorok	inclusive
+HU123	n	an	no	állatvilág	inclusive
+HU1733	n	ddp	yes	microcephalus	inclusive
+HU595	n	cds	no	svindler	inclusive
+HU1724	n	an	no	mikroorganizmus	inclusive
+HU910	n	an	no	pikula	conservative
+HU786	n	an	no	vamper	conservative
+HU153	n	an	no	mamlasz	conservative
+HU511	n	dmc	yes	csavargók	inclusive
+HU2148	n	cds	no	conventicle	inclusive
+HU1977	n	cds	no	Újszülött	inclusive
+HU1078	n	dmc	yes	halászcsónak	inclusive
+HU1595	n	an	no	lóöszvér	inclusive
+HU1456	n	cds	no	fellengzősség	conservative
+HU143	n	cds	no	saphead	conservative
+HU507	n	cds	no	ez és ez	conservative
+HU1151	n	pr	no	comare	conservative
+HU264	n	cds	no	puding fej	conservative
+HU1660	n	qas	no	parochia	inclusive
+HU1143	n	cds	no	fanatikus	conservative
+HU242	n	qas	no	bárók	inclusive
+HU307	n	an	no	szarvasmarha	inclusive
+HU207	a	svp	no	fösvény	conservative
+HU739	n	cds	no	rémhírterjesztő	conservative
+HU1602	n	cds	no	elkövető	inclusive
+HU1641	n	dmc	yes	fűmag	conservative
+HU1076	n	cds	no	tételek	inclusive
+HU1145	n	cds	no	strici	inclusive
+HU2001	n	ddp	yes	szamárság	inclusive
+HU906	n	an	no	diddly-szar	conservative
+HU1150	n	pr	no	szeretője	conservative
+HU1773	n	cds	no	önimádat	inclusive
+HU1682	n	cds	no	superbia	conservative
+HU1034	n	om	no	voláris	inclusive
+HU567	n	asf	no	kretén	conservative
+HU71	n	cds	no	lusta	conservative
+HU1695	n	qas	no	szónoklattan	inclusive
+HU276	n	pr	no	ribanc	conservative
+HU474	n	qas	no	bourgeoise	inclusive
+HU1504	n	re	no	korrupció	inclusive
+HU1497	n	cds	no	moneylending	inclusive
+HU502	n	cds	no	terjedelem	inclusive
+HU1395	n	cds	no	önhittség	conservative
+HU388	n	an	no	megcsalt férj	conservative
+HU839	n	cds	no	tesó	inclusive
+HU1089	n	cds	no	pedagógus	inclusive
+HU1905	n	cds	no	pedáns	conservative
+HU12	n	qas	no	tanonc	inclusive
+HU1604	n	qas	no	bajkeverő	conservative
+HU1562	n	cds	no	vécécsésze	inclusive
+HU2165	n	re	no	kín	inclusive
+HU2077	n	an	no	nadályok	inclusive
+HU1907	n	cds	no	mindentudó	conservative
+HU990	n	om	no	oldalsó	inclusive
+HU1871	n	an	no	giliszták	inclusive
+HU1199	n	cds	no	nyáj	inclusive
+HU101	n	ddp	yes	Írástudatlan	inclusive
+HU1061	n	pa	yes	portás	inclusive
+HU399	n	dmc	yes	kontár	conservative
+HU516	n	svp	no	léhűtő	conservative
+HU600	n	ddp	yes	szélhámos	conservative
+HU1951	n	asm	no	wank	conservative
+HU1745	n	pa	yes	sheepherder	inclusive
+HU508	n	an	no	csoportos it	conservative
+HU1511	n	qas	no	piaci üzembentartó	inclusive
+HU1875	n	an	no	nyelvbotlás	inclusive
+HU1285	n	svp	no	hülye-off	conservative
+HU1743	n	pa	yes	pásztor	inclusive
+HU345	n	cds	no	árulkodó	conservative
+HU971	n	om	no	radioulnaris	inclusive
+HU1621	n	an	no	megascops	inclusive
+HU13	n	qas	no	tanoncok	inclusive
+HU1618	n	ps	yes	keleti gót	inclusive
+HU597	n	cds	no	defrauder	conservative
+HU150	n	asm	no	tökfej	conservative
+HU936	n	dmc	yes	Álszenteskedés	conservative
+HU405	n	cds	no	blowhard	conservative
+HU895	n	cds	no	bűncselekmény	inclusive
+HU1343	n	pr	no	john	inclusive
+HU658	n	cds	no	probléma	conservative
+HU901	n	re	no	illegális tevékenységek	inclusive
+HU1814	n	qas	no	bérlő gazdálkodók	inclusive
+HU2092	n	an	no	csikasz	inclusive
+HU1950	a	re	no	őrjöngő	inclusive
+HU414	n	qas	no	foltozószabó	conservative
+HU1768	n	ddf	yes	fél pint	conservative
+HU984	n	om	no	radioulnáris	inclusive
+HU1495	n	cds	no	uzsorás	inclusive
+HU441	n	pr	no	ökröket	inclusive
+HU143	n	ddp	yes	saphead	conservative
+HU2100	a	qas	no	középosztálybeli	inclusive
+HU700	n	svp	no	fizikai vonzalom	inclusive
+HU614	n	om	no	gyermek molesztáló	conservative
+HU206	n	asm	no	baromság	inclusive
+HU338	n	dmc	yes	jogfosztás	inclusive
+HU1080	n	cds	no	küldönc	inclusive
+HU1681	n	svp	no	pridefulness	inclusive
+HU1347	n	om	no	férfi szexualitás	inclusive
+HU1513	n	cds	no	matcher	inclusive
+HU1044	n	om	no	transzverzális sík	inclusive
+HU213	n	ddp	yes	barbár	conservative
+HU1136	n	cds	no	család	inclusive
+HU501	n	cds	no	tömeg	inclusive
+HU2221	n	pa	yes	cipész	inclusive
+HU2011	n	or	no	tarlórépa	inclusive
+HU255	n	an	no	palimadár	conservative
+HU149	n	ddp	yes	knucklehead	conservative
+HU2124	a	ddf	yes	csúnya	conservative
+HU46	n	pa	yes	akadémikusok	inclusive
+HU180	n	svp	no	zsugori	conservative
+HU1808	n	cds	no	nympho	conservative
+HU1994	a	cds	no	gyáva	conservative
+HU1657	n	qas	no	plébánia	inclusive
+HU214	n	pa	yes	paraszt	conservative
+HU1162	n	qas	no	mezőgazdasági termelő	inclusive
+HU1147	n	cds	no	stricik	conservative
+HU497	n	svp	no	hiúság	conservative
+HU1751	n	cds	no	szenvedélyes rejtvényfejtő	conservative
+HU1247	n	asf	no	vagina	conservative
+HU603	n	ddp	yes	szedett-vedett és bobtail	conservative
+HU2009	n	or	no	brassica rapa	inclusive
+HU1641	n	cds	no	fűmag	conservative
+HU1699	n	qas	no	Ékesszólástan	inclusive
+HU394	n	cds	no	bloopers	inclusive
+HU281	n	an	no	floozie	conservative
+HU2186	n	pr	no	fúria	conservative
+HU330	n	re	no	gazember	conservative
+HU821	n	cds	no	növény nemesítő	inclusive
+HU1493	n	cds	no	moneylenders	conservative
+HU574	n	pr	no	szuka	conservative
+HU563	n	asf	no	váltott	conservative
+HU562	n	om	no	mesterkélt	conservative
+HU376	n	cds	no	csaló	inclusive
+HU1283	n	an	no	caprinae	inclusive
+HU2037	a	dmc	yes	szennyes	inclusive
+HU253	n	cds	no	bas bleu	inclusive
+HU89	n	cds	no	üldöző	conservative
+HU306	n	an	no	húsmarha	inclusive
+HU2200	n	cds	no	ndrangheta	inclusive
+HU487	n	cds	no	arcátlanság	conservative
+HU1637	n	qas	no	parazita	inclusive
+HU1454	n	cds	no	nagyképűsködés	conservative
+HU2143	n	re	no	szexuálisan bántalmazták	inclusive
+HU435	n	pr	no	tinó	inclusive
+HU229	n	pa	yes	jogtanácsos	inclusive
+HU552	n	cds	no	dög	inclusive
+HU429	n	an	no	ferociousness	conservative
+HU1051	n	svp	no	gourmand	conservative
+HU1269	n	cds	no	nosy-parker	conservative
+HU1870	n	an	no	kukac	inclusive
+HU1965	n	re	no	plagiarizing	inclusive
+HU339	n	cds	no	betyár	conservative
+HU1847	n	dmc	yes	homunculi	inclusive
+HU2180	n	om	no	crossdress	inclusive
+HU1112	n	dmc	yes	morális	inclusive
+HU292	n	cds	no	haver	inclusive
+HU1207	n	asm	no	szabálytalanságok és kötelezettségszegések	inclusive
+HU715	n	cds	no	összeesküvés a csend	inclusive
+HU1630	n	om	no	paederasty	inclusive
+HU205	n	asm	no	here	inclusive
+HU953	n	om	no	palmáris	inclusive
+HU62	n	svp	no	amour propre	conservative
+HU1882	n	qas	no	csavarog	conservative
+HU998	n	om	no	dorsalis	inclusive
+HU1482	n	dmc	yes	hazug	inclusive
+HU1036	n	om	no	visceralis	inclusive
+HU2225	n	cds	no	megvesztegethetőség	inclusive
+HU509	n	cds	no	csavargó	conservative
+HU1092	n	pa	yes	munkavállaló	inclusive
+HU572	n	pr	no	luvnya	conservative
+HU2071	n	an	no	hirudinea	inclusive
+HU1075	n	cds	no	slews	inclusive
+HU896	n	cds	no	törvényszegés	inclusive
+HU1077	n	ps	yes	vándor	inclusive
+HU1357	n	om	no	vidámság	inclusive
+HU727	n	om	no	furcsa	conservative
+HU1116	n	an	no	eurypterid	inclusive
+HU692	n	or	no	brassica oleracea	inclusive
+HU399	n	cds	no	kontár	conservative
+HU657	n	asm	no	kakas	inclusive
+HU255	n	asm	no	palimadár	conservative
+HU2217	n	ps	yes	cigó	conservative
+HU927	n	svp	no	ellenszenv	inclusive
+HU175	n	svp	no	avaritia	inclusive
+HU38	n	pa	yes	tudósok	inclusive
+HU91	n	svp	no	fanatizmus	conservative
+HU1680	n	svp	no	büszkeség	inclusive
+HU1741	n	pa	yes	pásztorlány	inclusive
+HU730	n	om	no	homoszexuális	inclusive
+HU1877	n	an	no	nő chaser	conservative
+HU1433	n	is	yes	nincstelenség	inclusive
+HU254	n	cds	no	kékharisnya	inclusive
+HU1053	n	svp	no	ínyenc	inclusive
+HU1282	n	an	no	kecske-antilop	inclusive
+HU2152	n	re	no	terroristák	conservative
+HU140	n	an	no	betise	conservative
+HU1260	n	an	no	pipistrellus	inclusive
+HU1263	n	cds	no	hímringyó qualifier	inclusive
+HU851	n	or	no	cucurbita maxima	inclusive
+HU1458	n	cds	no	tanárok	inclusive
+HU600	n	dmc	yes	szélhámos	conservative
+HU673	n	cds	no	önelégültség	inclusive
+HU98	a	ddp	yes	írástudatlan	inclusive
+HU742	n	an	no	arckifejezés	inclusive
+HU602	n	cds	no	riffraff	conservative
+HU414	n	ddp	yes	foltozószabó	conservative
+HU1624	n	an	no	otus asio	inclusive
+HU2208	n	ps	yes	sárga lap	inclusive
+HU518	n	ddp	yes	csőcselék	conservative
+HU210	n	cds	no	bandita	inclusive
+HU1976	n	cds	no	kisbaba	inclusive
+HU1374	n	cds	no	tömegek	inclusive
+HU406	n	cds	no	vaunter	conservative
+HU426	n	an	no	zooerastia	conservative
+HU2108	a	is	yes	szánalmas	conservative
+HU2174	n	pr	no	borsos lepkefaj	inclusive
+HU2012	n	re	no	emberrablók	inclusive
+HU213	n	ps	yes	barbár	conservative
+HU558	n	is	yes	száműzött	inclusive
+HU267	n	cds	no	kerítőnő	conservative
+HU728	n	om	no	puff	conservative
+HU934	n	dmc	yes	képmutató	conservative
+HU746	n	pr	no	boci	inclusive
+HU1038	n	om	no	rostrocaudalis	inclusive
+HU69	n	om	no	szodomita	inclusive
+HU509	n	qas	no	csavargó	conservative
+HU1448	n	ddp	yes	illetéktelen személy	conservative
+HU1568	n	svp	no	slackers	conservative
+HU725	n	om	no	buzi	conservative
+HU1262	n	cds	no	gigolo	inclusive
+HU1798	n	pa	yes	udvarlója	inclusive
+HU718	n	cds	no	tudósítója	inclusive
+HU154	n	cds	no	tökfilkó	conservative
+HU1176	n	or	no	édeskömény	inclusive
+HU521	n	re	no	gonosz	conservative
+HU890	n	asf	no	doofus	conservative
+HU1840	n	re	no	ölő	inclusive
+HU499	n	svp	no	önteltség	conservative
+HU146	n	an	no	balek	inclusive
+HU300	n	cds	no	káosz	inclusive
+HU28	n	re	no	bántalmazott	inclusive
+HU143	n	asm	no	saphead	conservative
+HU468	n	qas	no	polgári	inclusive
+HU748	n	cds	no	gyávasága	conservative

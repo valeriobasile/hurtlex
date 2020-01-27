@@ -1,0 +1,3123 @@
+id	pos	category	stereotype	lemma	level
+SK1483	n	cds	no	ľudia	conservative
+SK601	n	cds	no	škrabopis	inclusive
+SK1481	n	cds	no	masa	inclusive
+SK1536	n	ddf	yes	handicap	inclusive
+SK1248	n	cds	no	finagler	conservative
+SK1668	n	cds	no	mussiness	conservative
+SK1833	n	cds	no	superbia	inclusive
+SK366	n	dmc	yes	rogue	conservative
+SK1538	n	ddf	yes	nespôsobilosť	inclusive
+SK401	n	qas	no	priemyselník	inclusive
+SK897	n	an	no	výr	inclusive
+SK2529	n	ps	yes	ľudí zulu	inclusive
+SK1637	n	an	no	hmyzu	inclusive
+SK95	n	cds	no	zmiešať-mandel	inclusive
+SK1046	n	cds	no	pôdy	inclusive
+SK436	n	re	no	vydieranie	conservative
+SK1952	n	an	no	zelenáč	inclusive
+SK46	n	pa	yes	dopisujúcim členom	inclusive
+SK476	n	qas	no	konformista	conservative
+SK1973	n	an	no	brant	inclusive
+SK974	n	cds	no	vtipálek	conservative
+SK689	n	an	no	psov	inclusive
+SK297	n	pr	no	žena z ulice	conservative
+SK1589	n	cds	no	inštruktor	inclusive
+SK581	n	svp	no	ničnerobenie	conservative
+SK2168	a	svp	no	agresívne	inclusive
+SK107	n	cds	no	fanatici	inclusive
+SK848	n	an	no	kravička	inclusive
+SK2460	n	cds	no	%e2%80%99ndrangheta	inclusive
+SK1300	n	svp	no	zlosť	inclusive
+SK569	n	svp	no	conceitedness	conservative
+SK1212	n	pr	no	comar	conservative
+SK1040	n	ps	yes	krauthead	conservative
+SK1870	n	an	no	mikrób	inclusive
+SK157	n	an	no	truľo	conservative
+SK313	n	pr	no	rentboy	conservative
+SK1852	n	an	no	ropušnice	inclusive
+SK1194	n	dmc	yes	trávia-all	inclusive
+SK1568	n	is	yes	ochudobňovanie	inclusive
+SK557	n	cds	no	opuchla hlava	conservative
+SK655	n	asm	no	idiotia	inclusive
+SK231	n	ps	yes	barbar	conservative
+SK84	n	qas	no	nasledovník	inclusive
+SK356	n	cds	no	gangsterizmom	conservative
+SK887	n	ddp	yes	bláznovstvo	inclusive
+SK282	n	asf	no	soft touch	conservative
+SK1701	n	an	no	mollusca	inclusive
+SK2369	a	cds	no	šikovný	inclusive
+SK1137	n	an	no	helix pomatia	inclusive
+SK138	n	an	no	animovať je	inclusive
+SK2366	n	qas	no	bloodhound	inclusive
+SK1368	n	svp	no	no-účet	conservative
+SK1067	n	ddp	yes	prdel	conservative
+SK1867	n	an	no	pleurotremata	inclusive
+SK518	n	ddp	yes	poškodenie mozgu	inclusive
+SK375	n	cds	no	psanec	conservative
+SK1872	n	an	no	mikroorganizmus	inclusive
+SK163	n	asm	no	hlupáčik	conservative
+SK2029	n	cds	no	úžera	inclusive
+SK573	n	dmc	yes	ten a ten	conservative
+SK2227	n	ddp	yes	nezmysly	inclusive
+SK1860	n	ps	yes	mestic	conservative
+SK2292	n	an	no	ropuchy	inclusive
+SK169	n	an	no	šmejd	conservative
+SK353	n	cds	no	vojny gangov	inclusive
+SK363	n	cds	no	zostava	inclusive
+SK362	n	cds	no	krúžok	inclusive
+SK366	n	cds	no	rogue	conservative
+SK320	n	qas	no	klamstvo	conservative
+SK156	n	om	no	somár	inclusive
+SK1202	n	cds	no	rodiny	inclusive
+SK2306	v	re	no	šlohnúť	inclusive
+SK1130	n	cds	no	kopáč	inclusive
+SK1930	n	ps	yes	darkie	conservative
+SK165	n	asf	no	peň	conservative
+SK322	n	cds	no	vole	inclusive
+SK586	n	re	no	zlosyn	conservative
+SK2283	n	qas	no	opustené lode	inclusive
+SK1807	n	asm	no	žrď	inclusive
+SK357	n	cds	no	kultúry gangu	inclusive
+SK194	n	svp	no	lakomec	conservative
+SK939	n	ps	yes	šľachtiteľov rastlín	inclusive
+SK383	n	ddp	yes	blabbermouth	conservative
+SK1292	n	an	no	vyjadrebie mračením	inclusive
+SK32	n	cds	no	maklér	inclusive
+SK466	n	cds	no	babranie	inclusive
+SK2067	v	asm	no	ošmeknúť	conservative
+SK1298	n	cds	no	fundamentalizmu	inclusive
+SK2252	n	re	no	lúpež	inclusive
+SK1425	n	qas	no	tagalong	conservative
+SK1619	n	dmc	yes	cigánstvo	inclusive
+SK583	n	dmc	yes	darebný	conservative
+SK1059	n	svp	no	odpor	inclusive
+SK234	n	ddp	yes	neotesanec	conservative
+SK2116	v	an	no	vystrájať	conservative
+SK206	n	cds	no	športové dom	inclusive
+SK1815	n	svp	no	nafúkanosť	inclusive
+SK2264	n	re	no	uchvátiteľ	inclusive
+SK1892	n	asm	no	jeerer	conservative
+SK983	n	cds	no	dastardliness	conservative
+SK367	n	an	no	tulák	conservative
+SK8	n	svp	no	abulia	inclusive
+SK1254	n	asm	no	mäkký lúč	inclusive
+SK2304	v	re	no	potiahnuť	inclusive
+SK161	n	cds	no	muggins	conservative
+SK420	n	cds	no	štrajkokaz	inclusive
+SK1745	n	re	no	sicílskej mafie	conservative
+SK2163	n	cds	no	náboženskej diskriminácie	inclusive
+SK45	n	pa	yes	akademik	inclusive
+SK1904	n	ps	yes	mongoloidné plemeno	conservative
+SK155	n	ddp	yes	obmedzenec	conservative
+SK1434	n	pr	no	sexuálnych služieb	inclusive
+SK1117	n	re	no	delikvent	conservative
+SK2505	n	dmc	yes	dezertér	conservative
+SK937	n	cds	no	miešanec	inclusive
+SK1351	n	qas	no	zväzovanie	inclusive
+SK1720	n	dmc	yes	vliekli	conservative
+SK2035	n	pa	yes	radový vojak	inclusive
+SK1505	n	cds	no	hybris	conservative
+SK1049	n	an	no	špinavosť	conservative
+SK926	n	an	no	krokodílovité	inclusive
+SK1170	n	dmc	yes	morálka	inclusive
+SK449	n	qas	no	babráctvo	inclusive
+SK290	n	is	yes	chudák	conservative
+SK69	n	svp	no	amour propre	conservative
+SK464	n	qas	no	fušerská práca	inclusive
+SK1858	n	ps	yes	polovica-plemeno	conservative
+SK569	n	cds	no	conceitedness	conservative
+SK796	n	svp	no	eros	inclusive
+SK326	n	cds	no	sveták	inclusive
+SK1838	n	cds	no	priekupník	inclusive
+SK1263	n	qas	no	kanvica rýb	inclusive
+SK1334	n	pr	no	pištoľ moll	inclusive
+SK88	n	cds	no	groteskné	inclusive
+SK677	n	dmc	yes	chiseller	conservative
+SK667	n	re	no	hanobenia	inclusive
+SK281	n	an	no	patsy	conservative
+SK214	n	svp	no	tightwad	conservative
+SK1304	n	dmc	yes	dallier	conservative
+SK1245	n	dmc	yes	zápachu	conservative
+SK97	n	qas	no	sekanina	inclusive
+SK1609	n	cds	no	nezákonnosť	inclusive
+SK2226	n	pr	no	rečičky	conservative
+SK831	n	or	no	homosexuálny	conservative
+SK1384	n	an	no	húsatko	inclusive
+SK70	a	an	no	tvrdohlavý	inclusive
+SK58	n	ddp	yes	amentia	inclusive
+SK1492	n	qas	no	maliar	inclusive
+SK227	n	cds	no	bandita	conservative
+SK292	n	cds	no	pudden hlava	conservative
+SK1620	n	cds	no	prekrúcanie pravdy	conservative
+SK700	n	om	no	homosexuál	inclusive
+SK1993	n	re	no	zabitie	inclusive
+SK520	n	asm	no	hnedý	inclusive
+SK173	n	ddp	yes	nevzdelaný človek	conservative
+SK1986	n	re	no	vrážd	inclusive
+SK653	n	asm	no	retard	inclusive
+SK1303	n	cds	no	swaggerer	conservative
+SK200	n	qas	no	hlúposť	inclusive
+SK1828	n	svp	no	vystatovačnosť	inclusive
+SK1305	n	svp	no	dillydallier	conservative
+SK1045	n	cds	no	špina	inclusive
+SK395	n	qas	no	priemyselníkov	inclusive
+SK913	n	an	no	krokodíl	inclusive
+SK1743	n	re	no	cosa nostra	inclusive
+SK1675	n	ps	yes	metic	inclusive
+SK1424	n	qas	no	parazit	conservative
+SK1069	n	om	no	ventrolaterálně	inclusive
+SK1257	n	pa	yes	rybami	inclusive
+SK848	n	pr	no	kravička	inclusive
+SK654	n	ps	yes	kritin	conservative
+SK93	n	qas	no	mišmaš	inclusive
+SK167	n	or	no	kretén	conservative
+SK1580	n	an	no	neúprosnosťou	conservative
+SK840	n	ddp	yes	newsmonger	conservative
+SK512	n	an	no	dobytok	inclusive
+SK1790	n	an	no	papagáj	inclusive
+SK933	n	cds	no	biotechnológia rastlín	inclusive
+SK321	n	qas	no	lož	conservative
+SK2428	n	pa	yes	white-collar worker	inclusive
+SK1172	n	dmc	yes	morálne hodnoty	inclusive
+SK2274	n	cds	no	fawner	conservative
+SK845	n	ddp	yes	udavač	conservative
+SK332	n	qas	no	chaos	inclusive
+SK1739	n	cds	no	policajtov	conservative
+SK294	n	ddp	yes	podvedený	conservative
+SK1654	n	cds	no	dohadzovač	inclusive
+SK2065	v	re	no	obrať o niečo	inclusive
+SK834	n	om	no	gej	conservative
+SK154	n	an	no	idiot	conservative
+SK2279	a	svp	no	pažravý	inclusive
+SK454	n	cds	no	boo-boo	inclusive
+SK1711	n	an	no	moskyt	inclusive
+SK386	n	cds	no	donášača	conservative
+SK571	n	cds	no	objem	inclusive
+SK1648	n	qas	no	kramář	inclusive
+SK2432	n	om	no	cross-dressing	inclusive
+SK2029	n	cds	no	úžera	conservative
+SK432	n	cds	no	bastard	inclusive
+SK831	n	om	no	homosexuálny	inclusive
+SK342	n	cds	no	klamár	conservative
+SK335	n	ps	yes	beduíni	inclusive
+SK676	n	cds	no	camorra	inclusive
+SK888	n	an	no	vamper	conservative
+SK1919	n	cds	no	narcis	inclusive
+SK352	n	cds	no	fanatik	conservative
+SK1833	n	svp	no	superbia	conservative
+SK232	n	pa	yes	hulvát	conservative
+SK675	n	re	no	ohovárač	conservative
+SK2398	n	an	no	slizovcovité	inclusive
+SK979	n	om	no	ušľachtilá žena	inclusive
+SK259	n	pa	yes	právnik	inclusive
+SK2173	n	cds	no	ručné práce	conservative
+SK1207	n	cds	no	fanatizmu	conservative
+SK1117	n	dmc	yes	delikvent	conservative
+SK1667	n	cds	no	trma-vrma	conservative
+SK213	n	is	yes	držgroš	conservative
+SK1095	n	om	no	gluteálnej oblasti	inclusive
+SK321	n	dmc	yes	lož	inclusive
+SK1914	n	an	no	midge	inclusive
+SK1211	n	cds	no	kupliarstva	inclusive
+SK1055	n	svp	no	hnus	inclusive
+SK2308	v	re	no	kradnúť	inclusive
+SK624	n	ddp	yes	väzeň	inclusive
+SK658	n	ddp	yes	changelings	conservative
+SK2002	n	or	no	paradajka	inclusive
+SK842	n	ddp	yes	informátor	conservative
+SK567	n	cds	no	arogancia	conservative
+SK564	n	svp	no	spupnosť	conservative
+SK655	n	asf	no	idiotia	conservative
+SK671	n	re	no	libeler	conservative
+SK341	n	dmc	yes	luhár	inclusive
+SK1926	n	ps	yes	nigra	conservative
+SK1031	n	an	no	diddlysquat	conservative
+SK1737	n	cds	no	poliš	conservative
+SK1763	n	cds	no	papparazzi	inclusive
+SK2125	n	dmc	yes	lingerer	conservative
+SK2278	a	svp	no	dychtivý	inclusive
+SK1159	n	asm	no	hard-o	inclusive
+SK1473	n	ps	yes	izraelita	inclusive
+SK211	n	cds	no	oplzlého domu	inclusive
+SK2375	n	an	no	lampyris noctiluca	inclusive
+SK1255	n	pa	yes	predavčka rýb	inclusive
+SK826	n	or	no	queer	conservative
+SK954	n	or	no	kunda	conservative
+SK262	n	an	no	psíček	inclusive
+SK1078	n	om	no	zadoček	inclusive
+SK357	n	cds	no	kultúry gangu	conservative
+SK657	n	ddp	yes	changeling	conservative
+SK1405	n	cds	no	lotr	conservative
+SK2272	n	cds	no	truckler	conservative
+SK342	n	re	no	klamár	inclusive
+SK2179	n	re	no	napodobniť	inclusive
+SK849	n	cds	no	kanál	inclusive
+SK1446	n	om	no	rovnakého pohlavia	inclusive
+SK669	n	re	no	backbiter	conservative
+SK1532	n	an	no	strix varia	inclusive
+SK1543	n	ddf	yes	telesne postihnuté	inclusive
+SK1652	n	asm	no	maroon	inclusive
+SK347	n	pa	yes	bellman	inclusive
+SK1168	n	dmc	yes	etické motív	inclusive
+SK1968	n	asf	no	odborný výraz	inclusive
+SK1945	n	ps	yes	černosi	inclusive
+SK1931	n	ps	yes	černoch	conservative
+SK1176	n	dmc	yes	morálny kódex	inclusive
+SK449	n	cds	no	babráctvo	inclusive
+SK1485	n	cds	no	masy	inclusive
+SK91	n	cds	no	fígeľ	inclusive
+SK334	n	cds	no	topsy-turvyness	inclusive
+SK234	n	qas	no	neotesanec	conservative
+SK457	n	qas	no	zbabrat	inclusive
+SK2094	n	or	no	spuda	inclusive
+SK2143	n	cds	no	moaner	conservative
+SK1066	n	dmc	yes	pretvárky	conservative
+SK621	n	cds	no	kotéria	inclusive
+SK1266	n	an	no	aphaniptera	inclusive
+SK579	n	dmc	yes	tramp	conservative
+SK760	n	qas	no	človek z ľudu	inclusive
+SK1773	n	cds	no	chawbacon	conservative
+SK232	n	an	no	hulvát	conservative
+SK1901	n	ps	yes	mongolid	conservative
+SK1476	n	ps	yes	izraelitov	inclusive
+SK1612	n	dmc	yes	nepravý	conservative
+SK1368	n	dmc	yes	no-účet	conservative
+SK280	n	cds	no	vôl	conservative
+SK90	n	cds	no	trik	inclusive
+SK459	n	qas	no	bloopers	inclusive
+SK1981	n	an	no	kliešte	inclusive
+SK2509	n	an	no	slizniakovité	inclusive
+SK1035	n	cds	no	románoch desetník	inclusive
+SK2185	n	re	no	pirát	inclusive
+SK1475	n	ps	yes	žid	inclusive
+SK853	n	cds	no	šarlatán	conservative
+SK1887	n	pa	yes	pastierky	inclusive
+SK664	n	re	no	obchodné libela	inclusive
+SK208	n	cds	no	bordelu	inclusive
+SK167	n	cds	no	kretén	inclusive
+SK1743	n	re	no	cosa nostra	conservative
+SK303	n	cds	no	kupliermi	inclusive
+SK405	n	cds	no	lump	conservative
+SK473	n	cds	no	dogmatizmus	conservative
+SK1840	n	pr	no	rattus	inclusive
+SK2161	n	cds	no	religiozita	inclusive
+SK623	n	cds	no	kľučka	inclusive
+SK5	n	svp	no	lenivosť	inclusive
+SK2365	n	qas	no	bloohound	inclusive
+SK991	n	cds	no	demagógia	conservative
+SK1950	n	ps	yes	Černosi	inclusive
+SK1597	n	cds	no	skribent	conservative
+SK1939	n	ps	yes	černoška	inclusive
+SK1727	n	an	no	tlama	inclusive
+SK2007	n	cds	no	homunculi	inclusive
+SK1705	n	ps	yes	mongoli	inclusive
+SK968	n	qas	no	usmrtiť	conservative
+SK170	n	asm	no	blbec	inclusive
+SK1038	n	cds	no	kriminalita	inclusive
+SK86	n	qas	no	prisluhovač	inclusive
+SK26	n	re	no	zneužitie	inclusive
+SK1483	n	cds	no	ľudia	inclusive
+SK2481	n	an	no	rouncey	inclusive
+SK1205	n	qas	no	šíriť túto	inclusive
+SK2068	v	re	no	oberať o niečo	inclusive
+SK2362	a	is	yes	biedny	inclusive
+SK281	n	ps	yes	patsy	conservative
+SK1269	n	cds	no	stádo	inclusive
+SK2074	n	qas	no	troubler	conservative
+SK1704	n	ps	yes	mongol	inclusive
+SK2246	n	re	no	uniesť	inclusive
+SK52	n	ddp	yes	idiotstvo	inclusive
+SK1029	n	an	no	diddley	conservative
+SK428	n	ddp	yes	sviňa	conservative
+SK2409	n	re	no	terorizmus	inclusive
+SK779	n	pa	yes	profesorov	inclusive
+SK356	n	cds	no	gangsterizmom	inclusive
+SK477	n	dmc	yes	bumbler	conservative
+SK75	n	om	no	coitus per rectum	inclusive
+SK549	n	qas	no	úradnícku prácu	inclusive
+SK2148	n	an	no	humanus	inclusive
+SK890	n	an	no	prickteaser	conservative
+SK1608	n	om	no	pani	inclusive
+SK129	n	ddp	yes	infauna	inclusive
+SK1522	n	asf	no	samica	conservative
+SK857	n	cds	no	železný šrot	conservative
+SK823	n	or	no	buzerant	conservative
+SK2293	n	an	no	ecaudata	inclusive
+SK225	n	qas	no	semenníky	inclusive
+SK1905	n	ps	yes	mongoloid	conservative
+SK1275	n	asm	no	predkožky	inclusive
+SK568	n	svp	no	panovačnosť	conservative
+SK204	n	cds	no	bagnio	inclusive
+SK475	n	qas	no	konformný	conservative
+SK489	n	pa	yes	cestovných lístkov	inclusive
+SK100	n	asm	no	výhonok	inclusive
+SK1466	n	ps	yes	židovskej komunity	inclusive
+SK1132	n	cds	no	peon	inclusive
+SK2348	n	ddp	yes	nerozumnosť	inclusive
+SK286	n	cds	no	sprosták	conservative
+SK1293	n	cds	no	fundamentalizmus	inclusive
+SK1018	n	re	no	kriminálne správanie	inclusive
+SK33	n	cds	no	makléri	inclusive
+SK968	n	cds	no	usmrtiť	conservative
+SK1440	n	om	no	homosexuála	inclusive
+SK1699	n	an	no	mäkkýš	inclusive
+SK1060	n	dmc	yes	kto sa pretvaruje	conservative
+SK128	n	ddp	yes	polycytozoa	inclusive
+SK584	n	an	no	villainess	conservative
+SK317	n	an	no	chlapcom nájmu	conservative
+SK1442	n	om	no	shirtlifter	inclusive
+SK1573	n	ddp	yes	neschopný	conservative
+SK246	n	pa	yes	ministra-radcami	inclusive
+SK1799	n	asm	no	hrach	inclusive
+SK1935	n	ps	yes	negrid	inclusive
+SK1003	n	cds	no	intrigán	inclusive
+SK2417	n	re	no	‪mučenie‬	inclusive
+SK1039	n	ps	yes	skopčáci	conservative
+SK1702	n	an	no	mäkkýše	inclusive
+SK240	n	ddp	yes	surovosť	inclusive
+SK904	n	an	no	sýček	inclusive
+SK1429	n	pr	no	komerčných sexuálnych	inclusive
+SK2445	n	om	no	transvestizmus	inclusive
+SK923	n	an	no	krokodílov	inclusive
+SK486	n	ddp	yes	botcher	conservative
+SK1281	n	cds	no	slobodomurárov	inclusive
+SK1204	n	cds	no	rodu	inclusive
+SK993	n	cds	no	demagóg	conservative
+SK1957	n	ps	yes	hispánsky	inclusive
+SK384	n	cds	no	donáška	conservative
+SK861	n	qas	no	domového odpadu	inclusive
+SK1126	n	cds	no	spústa	inclusive
+SK582	n	svp	no	povaľač	conservative
+SK369	n	cds	no	lupič	conservative
+SK1381	a	cds	no	nelegálny	inclusive
+SK807	n	an	no	zajačik	inclusive
+SK1435	n	pr	no	john	conservative
+SK1420	n	re	no	korisť	inclusive
+SK1610	n	cds	no	outlawry	inclusive
+SK1777	n	qas	no	ektoparazitmi	inclusive
+SK886	n	ddp	yes	pochabosť	inclusive
+SK483	n	qas	no	babrák	conservative
+SK698	n	om	no	pederast	conservative
+SK272	n	an	no	marodér	conservative
+SK1941	n	ps	yes	negro	inclusive
+SK1587	n	cds	no	pedagogička.	inclusive
+SK132	n	an	no	Živočíchy	inclusive
+SK368	n	cds	no	zlodej	conservative
+SK824	n	om	no	nance	conservative
+SK2215	n	pa	yes	odborný asistent	inclusive
+SK1315	n	cds	no	fašisti	conservative
+SK354	n	cds	no	člen gangu	conservative
+SK2058	v	qas	no	trýzniť	conservative
+SK114	n	ddp	yes	negramotnosť	inclusive
+SK498	n	an	no	zúrivosť	conservative
+SK839	n	ddp	yes	rumourmonger	conservative
+SK1182	n	dmc	yes	zlo	inclusive
+SK160	n	an	no	trúba	conservative
+SK282	n	an	no	soft touch	conservative
+SK408	n	dmc	yes	darebák	conservative
+SK653	n	ddp	yes	retard	conservative
+SK801	n	asm	no	zasraný	conservative
+SK469	n	cds	no	line-strelec	conservative
+SK755	n	qas	no	obyčajných ľudí	inclusive
+SK1209	n	cds	no	pandar	inclusive
+SK2277	a	dmc	yes	špinavý	inclusive
+SK2499	n	an	no	vipera	inclusive
+SK2423	n	an	no	balón hltač	inclusive
+SK199	n	ddp	yes	zaostalosť	inclusive
+SK2209	a	ps	yes	čínsky	inclusive
+SK938	n	ps	yes	interfertilita	inclusive
+SK2064	v	is	yes	prosiť	inclusive
+SK318	n	cds	no	faloš	inclusive
+SK48	n	ddp	yes	mentálna nedostatočnosť	inclusive
+SK841	n	an	no	fyziognómia	inclusive
+SK2307	v	re	no	odcudzovať	inclusive
+SK1010	n	an	no	nájazdník	inclusive
+SK1447	n	om	no	teplý	inclusive
+SK1093	n	om	no	ipsilaterálny	inclusive
+SK117	n	an	no	anguillidae	inclusive
+SK1014	n	ddp	yes	dimwit	conservative
+SK1927	n	ps	yes	jigaboo	conservative
+SK1376	v	asm	no	sexovať	conservative
+SK2331	n	dmc	yes	nemotorný človek	conservative
+SK911	n	asm	no	twerp	conservative
+SK203	n	cds	no	bordel	conservative
+SK1721	n	an	no	stick-in-the-blato	conservative
+SK1367	n	dmc	yes	dobrý-pre-nič	conservative
+SK465	n	qas	no	fušerská práce	inclusive
+SK672	n	re	no	defamer	conservative
+SK1143	n	cds	no	vychovávateľ	inclusive
+SK658	n	ps	yes	changelings	conservative
+SK451	n	qas	no	prehmat	inclusive
+SK513	n	pr	no	tur domáci	inclusive
+SK1249	n	cds	no	wangler	conservative
+SK2487	n	an	no	červy	inclusive
+SK1550	n	ddp	yes	nonsensicality	conservative
+SK682	n	dmc	yes	scammer	conservative
+SK221	n	qas	no	testes	inclusive
+SK1032	n	an	no	doodly-squat	conservative
+SK1530	n	ddp	yes	imbecilita	inclusive
+SK2231	n	ddp	yes	kecy	inclusive
+SK505	n	an	no	dobytka	inclusive
+SK910	n	ddp	yes	twirp	conservative
+SK368	n	cds	no	zlodej	inclusive
+SK2456	n	asm	no	aves	inclusive
+SK428	n	an	no	sviňa	inclusive
+SK833	n	om	no	homophile	conservative
+SK1180	n	dmc	yes	nemorálnosť	conservative
+SK158	n	or	no	hlupák	conservative
+SK2335	n	an	no	šakaly	inclusive
+SK429	n	asm	no	kokot	conservative
+SK587	n	is	yes	podliak	conservative
+SK2061	v	qas	no	sužovať	conservative
+SK1956	n	ps	yes	iných závodov	inclusive
+SK486	n	cds	no	botcher	conservative
+SK964	n	or	no	uhorka	inclusive
+SK715	n	cds	no	kmeň	inclusive
+SK404	n	an	no	nevychovanec	conservative
+SK769	n	cds	no	potešenie	inclusive
+SK367	n	re	no	tulák	conservative
+SK477	n	cds	no	bumbler	conservative
+SK31	n	cds	no	faktor	inclusive
+SK2077	n	qas	no	provokatér	conservative
+SK318	n	qas	no	faloš	conservative
+SK895	n	an	no	sovy	inclusive
+SK2418	n	re	no	mučený	inclusive
+SK1805	n	asm	no	tyčka	inclusive
+SK2017	n	ddf	yes	nepeknosť	inclusive
+SK831	n	om	no	homosexuálny	conservative
+SK646	n	is	yes	vyvrheľ	inclusive
+SK162	n	an	no	ťulpas	conservative
+SK1836	n	cds	no	kšeftár	inclusive
+SK767	n	cds	no	uspokojenie	inclusive
+SK98	n	cds	no	drobnosti	inclusive
+SK1115	n	cds	no	previnilec	inclusive
+SK2043	n	an	no	sukničkár	conservative
+SK1408	n	cds	no	krádeže	inclusive
+SK1186	n	an	no	ovca	inclusive
+SK2520	n	ps	yes	romovia	inclusive
+SK380	n	an	no	cap	inclusive
+SK1847	n	cds	no	vodcu	inclusive
+SK43	a	pa	yes	ideálny	inclusive
+SK2158	n	an	no	phthiraptera	inclusive
+SK581	n	svp	no	ničnerobenie	inclusive
+SK1056	n	svp	no	nechuť	inclusive
+SK686	n	an	no	spodina	conservative
+SK832	n	om	no	gayov	conservative
+SK1501	n	qas	no	búda	inclusive
+SK553	n	qas	no	stredná trieda	inclusive
+SK2519	n	ps	yes	rómka	inclusive
+SK613	n	cds	no	kľučky	inclusive
+SK585	n	cds	no	naničhodník	conservative
+SK480	n	qas	no	blunderer	conservative
+SK2115	a	or	no	náročný	conservative
+SK1942	n	ps	yes	ekvatoriálna rasa	inclusive
+SK818	n	cds	no	korešpondent	inclusive
+SK1067	n	om	no	prdel	inclusive
+SK1304	n	svp	no	dallier	conservative
+SK1831	n	svp	no	horenososť	inclusive
+SK167	n	asf	no	kretén	conservative
+SK938	n	cds	no	interfertilita	inclusive
+SK2129	a	om	no	abnormálny	inclusive
+SK280	n	an	no	vôl	inclusive
+SK1622	n	re	no	novorodencov	inclusive
+SK2262	n	re	no	násilník	conservative
+SK190	n	svp	no	chamtivosť	inclusive
+SK1199	n	svp	no	faineance	inclusive
+SK171	n	ddp	yes	lunkhead	conservative
+SK391	n	ps	yes	inkiness	inclusive
+SK1272	n	cds	no	šašo	inclusive
+SK1768	n	dmc	yes	hrubý	conservative
+SK178	n	om	no	osol	inclusive
+SK2276	a	dmc	yes	znečistené	inclusive
+SK1449	n	om	no	homosexuálna orientácia	inclusive
+SK1685	n	cds	no	umyváreň	inclusive
+SK1310	n	cds	no	gangster	inclusive
+SK148	n	cds	no	prefíkanosť	inclusive
+SK367	n	ps	yes	tulák	inclusive
+SK9	n	svp	no	apatia	inclusive
+SK608	a	ddf	yes	nehodný	inclusive
+SK1340	n	cds	no	táraj	conservative
+SK1283	n	cds	no	slobodomurári	inclusive
+SK1998	n	re	no	vrahyňa	inclusive
+SK1231	n	cds	no	rýchly jeden	inclusive
+SK1617	n	svp	no	lustfulness	inclusive
+SK706	n	cds	no	kmeňa	inclusive
+SK1615	n	svp	no	chlipnosť	inclusive
+SK134	n	ddp	yes	fauna	inclusive
+SK2026	a	cds	no	bežný	inclusive
+SK427	n	ddp	yes	zmrd	conservative
+SK2121	v	an	no	jedovať sa	conservative
+SK2271	n	cds	no	apple leštička	conservative
+SK1876	n	an	no	pip-piskot	conservative
+SK564	n	svp	no	spupnosť	inclusive
+SK1346	n	asf	no	ochlpenie	inclusive
+SK1044	n	cds	no	nečistota	conservative
+SK2420	n	re	no	mučí	inclusive
+SK635	n	an	no	lidožrout	inclusive
+SK611	n	an	no	cakehole	inclusive
+SK907	n	qas	no	posádka	inclusive
+SK1195	n	dmc	yes	rozhazovačný	inclusive
+SK351	n	cds	no	bigotnej	conservative
+SK976	n	om	no	madam	inclusive
+SK653	n	cds	no	retard	inclusive
+SK1750	n	ps	yes	východní góti	inclusive
+SK2097	n	or	no	írsky zemiakový	inclusive
+SK1798	n	asm	no	hrachu	inclusive
+SK296	n	ddp	yes	blbecek	conservative
+SK512	n	pr	no	dobytok	inclusive
+SK1894	n	qas	no	olovko	inclusive
+SK1605	n	om	no	peeress	inclusive
+SK2024	a	qas	no	normálny	inclusive
+SK692	n	an	no	familiaris	inclusive
+SK773	n	qas	no	kást	inclusive
+SK1629	n	cds	no	požičiavanie peňazí	conservative
+SK792	n	cds	no	množstvo	inclusive
+SK649	n	is	yes	vyhnanec	inclusive
+SK1408	n	re	no	krádeže	inclusive
+SK44	n	cds	no	amateurishness	conservative
+SK1585	n	cds	no	učiteľov	inclusive
+SK412	n	cds	no	lajdák	conservative
+SK1065	n	dmc	yes	pokrytec	conservative
+SK2515	n	ps	yes	rómov	inclusive
+SK956	n	or	no	piča	conservative
+SK1954	n	pa	yes	nápadník	inclusive
+SK836	n	ddp	yes	rumormonger	conservative
+SK1268	n	cds	no	kŕdeľ	inclusive
+SK2221	n	pr	no	pochybná ženštín	conservative
+SK255	n	pa	yes	navrhovateľ	inclusive
+SK1931	n	ps	yes	černoch	inclusive
+SK27	n	re	no	nesprávne použitie	inclusive
+SK839	n	cds	no	rumourmonger	conservative
+SK145	n	cds	no	bystrosť	inclusive
+SK1970	n	an	no	húska	inclusive
+SK408	n	cds	no	darebák	conservative
+SK1496	n	qas	no	práce v domácnosti	inclusive
+SK478	n	dmc	yes	nešika	conservative
+SK2351	a	qas	no	patriaci k strednej triede	inclusive
+SK587	n	dmc	yes	podliak	conservative
+SK1235	n	or	no	finocchio	inclusive
+SK231	n	pa	yes	barbar	conservative
+SK441	n	pa	yes	zriadenec	inclusive
+SK1135	n	svp	no	ravenousness	conservative
+SK116	n	cds	no	zástup	inclusive
+SK2523	n	cds	no	culchie	inclusive
+SK2182	n	re	no	plagiátorstvo	inclusive
+SK392	n	ps	yes	čerň	inclusive
+SK160	n	asm	no	trúba	conservative
+SK1505	n	cds	no	hybris	inclusive
+SK1431	n	pr	no	kurevnictví	conservative
+SK1664	n	svp	no	angriness	inclusive
+SK2412	n	asm	no	ithyphallic	inclusive
+SK1500	n	qas	no	chata	inclusive
+SK299	n	pr	no	suka	conservative
+SK2080	v	cds	no	zomrieť	inclusive
+SK1979	n	cds	no	omertà	inclusive
+SK1882	n	ddp	yes	microcephalus	inclusive
+SK369	n	dmc	yes	lupič	conservative
+SK2486	n	cds	no	predajný	inclusive
+SK51	n	asm	no	idiocia	inclusive
+SK200	n	cds	no	hlúposť	inclusive
+SK1788	n	an	no	psittaciformes	inclusive
+SK479	n	ddp	yes	fumbler	conservative
+SK1791	n	an	no	papagáje	inclusive
+SK2394	n	re	no	sexu trestného činu	inclusive
+SK728	n	an	no	kozy	inclusive
+SK80	n	om	no	sodomie	inclusive
+SK423	n	cds	no	podvodník	conservative
+SK2085	v	cds	no	umrieť	inclusive
+SK1185	n	is	yes	úbožiak	conservative
+SK1602	n	dmc	yes	nemorálnosti	inclusive
+SK164	n	asm	no	blázon	conservative
+SK414	n	svp	no	flákač	conservative
+SK944	n	re	no	mučenie	inclusive
+SK1857	n	cds	no	splaškov	inclusive
+SK1874	n	an	no	mikroorganizmy	inclusive
+SK1606	n	om	no	peerka	inclusive
+SK1117	n	cds	no	delikvent	conservative
+SK1353	n	cds	no	vyzvedač	conservative
+SK1923	n	cds	no	autolatry	inclusive
+SK233	n	pa	yes	divoch	conservative
+SK567	n	cds	no	arogancia	inclusive
+SK2285	a	cds	no	fašistický	inclusive
+SK1062	n	dmc	yes	falošný	conservative
+SK281	n	ddp	yes	patsy	conservative
+SK407	n	cds	no	ničomník	conservative
+SK1714	n	an	no	moľ	inclusive
+SK151	n	or	no	čln z dreva	inclusive
+SK135	n	an	no	metazoans	inclusive
+SK1373	v	asm	no	pichať	conservative
+SK1672	n	re	no	rustler	inclusive
+SK826	n	om	no	queer	conservative
+SK1595	n	cds	no	krasopisec	conservative
+SK1468	n	ps	yes	židovsko	inclusive
+SK1554	n	is	yes	chudoby	inclusive
+SK387	n	cds	no	neplechu	conservative
+SK1895	n	an	no	slimák	inclusive
+SK678	n	cds	no	švindliar	inclusive
+SK709	n	cds	no	rod	inclusive
+SK2033	n	an	no	supy	inclusive
+SK170	n	cds	no	blbec	conservative
+SK1634	n	cds	no	moneylending	conservative
+SK1837	n	cds	no	vydierač	inclusive
+SK157	n	or	no	truľo	conservative
+SK2235	n	pa	yes	účtovný	inclusive
+SK679	n	cds	no	chiseler	conservative
+SK371	n	cds	no	lúpežník	conservative
+SK1598	n	cds	no	prispievateľ	conservative
+SK2469	n	cds	no	konšpiračných teórií	inclusive
+SK590	n	an	no	zloduch	conservative
+SK1058	n	svp	no	nepríjemné	inclusive
+SK1262	n	dmc	yes	falzifikáty	inclusive
+SK955	n	asf	no	pico	conservative
+SK73	n	om	no	análny pohlavný styk	inclusive
+SK427	n	cds	no	zmrd	conservative
+SK1601	n	dmc	yes	morálny úpadok	inclusive
+SK1311	n	re	no	mafián	inclusive
+SK482	n	ddp	yes	fuser	conservative
+SK513	n	an	no	tur domáci	inclusive
+SK1231	n	cds	no	rýchly jeden	conservative
+SK398	n	qas	no	top executive	inclusive
+SK2273	n	cds	no	groveler	conservative
+SK643	n	cds	no	zdochliny	inclusive
+SK785	n	or	no	brassica oleracea	inclusive
+SK2199	n	cds	no	bábätko	inclusive
+SK1331	n	asf	no	vagína	conservative
+SK1681	n	cds	no	plížiť zlodeja	conservative
+SK2193	n	an	no	sliepka	inclusive
+SK744	n	an	no	raunch	conservative
+SK1080	n	om	no	anatomické podmienky umiestnenia	inclusive
+SK1201	n	cds	no	phratry	inclusive
+SK1619	n	cds	no	cigánstvo	conservative
+SK1885	n	ddp	yes	hlúposti	conservative
+SK935	n	ps	yes	človekom hybridný	inclusive
+SK329	n	cds	no	pandemónium	inclusive
+SK772	n	qas	no	kastový systém	inclusive
+SK455	n	qas	no	trapas	inclusive
+SK745	n	asm	no	vták	conservative
+SK495	n	ddp	yes	zooerasty	conservative
+SK404	n	ps	yes	nevychovanec	conservative
+SK2038	n	dmc	yes	klauni	inclusive
+SK1535	n	ddf	yes	telesne postihnutých	inclusive
+SK348	a	ddp	yes	hlúpy	conservative
+SK656	n	asm	no	imbecil	inclusive
+SK1361	n	cds	no	kto zakročí	inclusive
+SK377	n	dmc	yes	zločinec	inclusive
+SK1698	n	an	no	mäkkýšov	inclusive
+SK412	n	an	no	lajdák	conservative
+SK162	n	asm	no	ťulpas	conservative
+SK1019	n	cds	no	zločin	inclusive
+SK2073	n	qas	no	trouble makier	conservative
+SK402	n	qas	no	magnáta	inclusive
+SK194	n	an	no	lakomec	conservative
+SK1178	n	an	no	eurypterids	inclusive
+SK341	n	dmc	yes	luhár	conservative
+SK1999	n	re	no	usmrtenie	inclusive
+SK603	n	cds	no	škrabanica	inclusive
+SK963	n	cds	no	úklady	inclusive
+SK1959	n	ps	yes	čierny	inclusive
+SK2244	n	re	no	únos	inclusive
+SK1111	n	pa	yes	dverí stráž	inclusive
+SK1918	n	cds	no	half-pint	conservative
+SK1402	a	cds	no	ľstivý	conservative
+SK1486	n	cds	no	hierarchy	inclusive
+SK502	n	svp	no	dlhá chviľa	inclusive
+SK1452	n	om	no	homoeroticism	inclusive
+SK799	n	asm	no	skrutkovanie	conservative
+SK483	n	dmc	yes	babrák	conservative
+SK739	n	qas	no	neporiadok	inclusive
+SK18	n	re	no	zneužívaniu firemných	inclusive
+SK655	n	ddp	yes	idiotia	conservative
+SK318	n	cds	no	faloš	conservative
+SK162	n	cds	no	ťulpas	conservative
+SK407	n	dmc	yes	ničomník	inclusive
+SK2338	n	an	no	šakal	inclusive
+SK2022	a	cds	no	obyčajný	inclusive
+SK332	n	cds	no	chaos	conservative
+SK876	n	an	no	polokrídlovce	inclusive
+SK683	n	re	no	kaukliar	inclusive
+SK778	n	pa	yes	osobné stoličku	inclusive
+SK1745	n	cds	no	sicílskej mafie	inclusive
+SK191	n	svp	no	lakomstvo	inclusive
+SK1465	n	ps	yes	Židovské náboženstvo	inclusive
+SK584	n	dmc	yes	villainess	conservative
+SK1709	n	an	no	komáre	inclusive
+SK768	n	cds	no	samoľúbosť	inclusive
+SK2355	n	an	no	sciaenops ocellatus	inclusive
+SK824	n	or	no	nance	conservative
+SK484	n	cds	no	fušer	conservative
+SK104	n	asf	no	ornament	conservative
+SK1565	n	is	yes	chudoba	inclusive
+SK1182	n	dmc	yes	zlo	conservative
+SK2327	n	an	no	blattodea	inclusive
+SK1188	a	dmc	yes	nešťastný	inclusive
+SK514	n	qas	no	boss	inclusive
+SK1229	n	cds	no	fašista	conservative
+SK150	n	or	no	bonce	inclusive
+SK577	n	cds	no	chlap mizerná	conservative
+SK163	n	cds	no	hlupáčik	conservative
+SK2457	n	cds	no	kanalizácia	inclusive
+SK1523	n	asf	no	dievča	conservative
+SK290	n	or	no	chudák	conservative
+SK324	n	cds	no	fop	inclusive
+SK2142	n	cds	no	sťažovateľ	conservative
+SK2353	a	ddp	yes	pochabý	conservative
+SK1528	n	cds	no	falošným idol	inclusive
+SK1185	n	is	yes	úbožiak	inclusive
+SK1390	n	an	no	brav	inclusive
+SK906	n	qas	no	posádky	inclusive
+SK1037	n	cds	no	penny hrozný	inclusive
+SK659	n	asf	no	odročiť	conservative
+SK17	n	re	no	zle použitie	inclusive
+SK859	n	cds	no	odpadky	conservative
+SK1020	n	re	no	trestnej činnosti	inclusive
+SK1284	n	cds	no	bez murár	inclusive
+SK736	n	svp	no	niggardness	conservative
+SK1526	n	cds	no	modlárske	inclusive
+SK1726	n	an	no	pysk	inclusive
+SK64	n	an	no	american buffalo	inclusive
+SK552	n	qas	no	bourgeois	inclusive
+SK1854	n	cds	no	domovej odpadovej vody	inclusive
+SK1018	n	cds	no	kriminálne správanie	inclusive
+SK586	n	dmc	yes	zlosyn	conservative
+SK1034	n	cds	no	penny hrozné	inclusive
+SK1906	n	ps	yes	mongolská rasa	conservative
+SK650	n	is	yes	vyděděnec	inclusive
+SK714	n	cds	no	klan	inclusive
+SK25	n	re	no	chybné používanie	inclusive
+SK822	n	om	no	homoš	inclusive
+SK376	n	cds	no	kriminálnej	conservative
+SK361	n	cds	no	banda	conservative
+SK1639	n	an	no	hmyz	inclusive
+SK708	n	cds	no	sub-klan	inclusive
+SK694	n	an	no	psa	inclusive
+SK2208	n	is	yes	chudáka	inclusive
+SK2258	n	re	no	lúpeže	inclusive
+SK1553	n	ddp	yes	nonsens	conservative
+SK1144	n	cds	no	pedagóg	inclusive
+SK1233	n	re	no	vydierať	inclusive
+SK679	n	cds	no	chiseler	inclusive
+SK555	n	cds	no	egotizmus	conservative
+SK1149	n	re	no	delikt	inclusive
+SK2363	a	is	yes	chudobný	inclusive
+SK2266	n	re	no	kidnaper	inclusive
+SK1494	n	svp	no	obžerstvo	inclusive
+SK381	n	an	no	kozel	inclusive
+SK274	n	cds	no	blackball	inclusive
+SK105	n	asf	no	cancy	conservative
+SK568	n	cds	no	panovačnosť	conservative
+SK1253	n	asm	no	ryby	inclusive
+SK2288	n	an	no	ropucha	inclusive
+SK2114	n	cds	no	puntičkár	conservative
+SK565	n	cds	no	chlubivost	conservative
+SK1131	n	cds	no	robotníka	inclusive
+SK556	n	cds	no	sebecký	conservative
+SK573	n	cds	no	ten a ten	conservative
+SK22	n	re	no	zneužívanie	inclusive
+SK498	n	an	no	zúrivosť	inclusive
+SK1925	n	ps	yes	nigga	conservative
+SK1515	n	cds	no	spevák	inclusive
+SK859	n	qas	no	odpadky	inclusive
+SK477	n	qas	no	bumbler	conservative
+SK166	n	an	no	mamlas	conservative
+SK2350	a	qas	no	meštiacky	inclusive
+SK2295	n	an	no	frogspawn	inclusive
+SK658	n	asf	no	changelings	conservative
+SK718	n	pa	yes	sekretár	inclusive
+SK248	n	pa	yes	poradca-at-právne	inclusive
+SK1422	n	re	no	odcudzených predmetoch	inclusive
+SK1531	n	cds	no	uličník	conservative
+SK922	n	an	no	crocodilia	inclusive
+SK1822	n	svp	no	márnomyseľnosť	inclusive
+SK847	n	pr	no	krava	inclusive
+SK1278	n	cds	no	slobodomurár	inclusive
+SK482	n	cds	no	fuser	conservative
+SK840	n	cds	no	newsmonger	conservative
+SK656	n	ddp	yes	imbecil	conservative
+SK2269	a	om	no	iný	inclusive
+SK79	n	om	no	bestialita	inclusive
+SK405	n	dmc	yes	lump	conservative
+SK2507	n	dmc	yes	zradcu	conservative
+SK837	n	cds	no	gossiper	conservative
+SK1718	n	dmc	yes	mozzarella	inclusive
+SK2032	n	an	no	vretenica	inclusive
+SK450	n	cds	no	zmätok	inclusive
+SK1697	n	dmc	yes	slackers	conservative
+SK1647	n	qas	no	majiteľ obchodu	inclusive
+SK108	n	svp	no	fanatizmus	conservative
+SK1404	n	cds	no	lotor	conservative
+SK236	n	ddp	yes	krutosť	conservative
+SK36	n	pa	yes	academia	inclusive
+SK1497	n	qas	no	hospodárstva	inclusive
+SK1401	a	cds	no	prefíkaný	conservative
+SK406	n	an	no	pes	conservative
+SK682	n	cds	no	scammer	conservative
+SK659	n	ps	yes	odročiť	conservative
+SK108	n	cds	no	fanatizmus	inclusive
+SK176	n	an	no	domáce ass	inclusive
+SK200	n	ddp	yes	hlúposť	inclusive
+SK158	n	ps	yes	hlupák	conservative
+SK2317	n	cds	no	pedantství	inclusive
+SK2220	a	ddf	yes	chromý	inclusive
+SK935	n	cds	no	človekom hybridný	inclusive
+SK2018	n	dmc	yes	nešťastný	inclusive
+SK617	n	cds	no	kotérie	inclusive
+SK2139	n	cds	no	klebety	inclusive
+SK758	n	qas	no	jednoduchí	inclusive
+SK1861	n	ps	yes	mestiço	conservative
+SK1776	n	qas	no	parazitizmus	inclusive
+SK227	n	dmc	yes	bandita	conservative
+SK288	n	ddp	yes	hlúpy	conservative
+SK1070	n	om	no	dorsoventral	inclusive
+SK973	n	cds	no	tricker	conservative
+SK275	n	cds	no	okrem	inclusive
+SK1435	n	pr	no	john	inclusive
+SK1399	n	cds	no	literárne hack	conservative
+SK954	n	asf	no	kunda	conservative
+SK290	n	dmc	yes	chudák	conservative
+SK886	n	ddp	yes	pochabosť	conservative
+SK1247	n	dmc	yes	páchnuť	conservative
+SK503	n	svp	no	nudou	inclusive
+SK2386	n	re	no	sexuálne trestné činy	inclusive
+SK280	n	asf	no	vôl	conservative
+SK96	n	cds	no	všehochuť	inclusive
+SK278	n	cds	no	modrá pančucha	inclusive
+SK1106	n	svp	no	jedlík	conservative
+SK2356	n	an	no	ostriežika	inclusive
+SK235	n	svp	no	hrabivosť	inclusive
+SK829	n	or	no	gay	conservative
+SK1778	n	qas	no	príživníctva	inclusive
+SK474	n	cds	no	bigotnost	conservative
+SK1215	n	qas	no	poľnohospodár	inclusive
+SK1588	n	cds	no	učiteľ	inclusive
+SK2059	v	qas	no	týrať	conservative
+SK574	n	an	no	git	conservative
+SK665	n	re	no	urážlivý	inclusive
+SK1305	n	dmc	yes	dillydallier	conservative
+SK685	n	cds	no	drzosti	conservative
+SK1075	n	om	no	bazálnej	inclusive
+SK2480	n	pa	yes	cordwainer	inclusive
+SK1250	n	asm	no	pterygiophore	inclusive
+SK725	n	an	no	kozieho mlieka	inclusive
+SK228	n	dmc	yes	zbojník	conservative
+SK2240	n	or	no	brassica rapa	inclusive
+SK147	n	cds	no	chytrosť	inclusive
+SK1635	n	cds	no	loanshark	conservative
+SK1769	n	cds	no	křupan	conservative
+SK2089	v	cds	no	skonávať	inclusive
+SK1128	n	cds	no	slews	inclusive
+SK683	n	cds	no	kaukliar	conservative
+SK1877	n	an	no	animalculum	inclusive
+SK1947	n	ps	yes	afrického pôvodu	inclusive
+SK29	n	cds	no	broker	inclusive
+SK1312	n	cds	no	fašistického režimu	conservative
+SK2025	a	qas	no	obvyklé	inclusive
+SK1590	n	cds	no	učiteľka	conservative
+SK1918	n	dmc	yes	half-pint	conservative
+SK95	n	qas	no	zmiešať-mandel	inclusive
+SK591	n	cds	no	auto	inclusive
+SK168	n	ddp	yes	tupec	conservative
+SK2172	a	om	no	anomálny	inclusive
+SK168	n	cds	no	tupec	conservative
+SK360	n	cds	no	gang	conservative
+SK158	n	an	no	hlupák	conservative
+SK631	n	an	no	Žralok modrý	inclusive
+SK1607	n	om	no	lady	inclusive
+SK1670	n	re	no	šelestu dobytku	inclusive
+SK47	n	pa	yes	akademikmi	inclusive
+SK1819	n	svp	no	vysokomyseľnosť	inclusive
+SK548	n	qas	no	buržoázia	inclusive
+SK223	n	qas	no	testikulárne	inclusive
+SK659	n	ddp	yes	odročiť	inclusive
+SK13	n	svp	no	apatický	inclusive
+SK1708	n	an	no	culicidae	inclusive
+SK2068	v	asm	no	oberať o niečo	conservative
+SK480	n	dmc	yes	blunderer	conservative
+SK2340	a	ps	yes	židovský	inclusive
+SK423	n	cds	no	podvodník	inclusive
+SK652	n	om	no	nambu-pamba	conservative
+SK893	n	asm	no	dôverčivosť	conservative
+SK2361	a	pa	yes	politický	inclusive
+SK1997	n	cds	no	sťahovanie dát	conservative
+SK701	n	cds	no	rodina	inclusive
+SK1772	n	cds	no	hayseed	conservative
+SK732	n	an	no	kozou	inclusive
+SK1868	n	an	no	selachii	inclusive
+SK281	n	cds	no	patsy	conservative
+SK1365	n	an	no	caprinae	inclusive
+SK656	n	asf	no	imbecil	conservative
+SK2352	a	ddp	yes	pochabé	conservative
+SK536	n	qas	no	biznismen	inclusive
+SK1090	n	om	no	profily	inclusive
+SK1657	n	asm	no	penis	inclusive
+SK233	n	ps	yes	divoch	conservative
+SK289	n	cds	no	stupe	conservative
+SK2051	a	qas	no	farský	inclusive
+SK1411	n	cds	no	zlodejstvo	inclusive
+SK265	n	an	no	psisko	inclusive
+SK167	n	ddp	yes	kretén	conservative
+SK450	n	cds	no	zmätok	conservative
+SK1189	n	an	no	tvár	inclusive
+SK157	n	ddp	yes	truľo	conservative
+SK2250	n	re	no	raptio	inclusive
+SK240	n	an	no	surovosť	inclusive
+SK2280	n	qas	no	grandiosity	inclusive
+SK189	n	svp	no	chamtivosti	inclusive
+SK614	n	cds	no	klika	inclusive
+SK378	n	re	no	zakázaný	inclusive
+SK1301	n	svp	no	afekt	conservative
+SK1124	n	cds	no	huby	inclusive
+SK916	n	an	no	crocodylian	inclusive
+SK382	n	cds	no	zradný	conservative
+SK1549	n	ddp	yes	nezmyselné	conservative
+SK1109	n	an	no	domácich oviec	inclusive
+SK2379	n	re	no	raper	conservative
+SK1054	n	svp	no	averzia	inclusive
+SK205	n	cds	no	dom so zlou povesťou	inclusive
+SK985	n	qas	no	mazal	conservative
+SK2071	v	re	no	ošklbávať	inclusive
+SK934	n	ps	yes	kríženec	inclusive
+SK465	n	cds	no	fušerská práce	inclusive
+SK1289	n	an	no	zamračený pohľad	inclusive
+SK44	n	qas	no	amateurishness	conservative
+SK1105	n	svp	no	gourmandizer	inclusive
+SK607	a	ddf	yes	nedobrý	inclusive
+SK51	n	ps	yes	idiocia	conservative
+SK1179	n	an	no	eurypterid	inclusive
+SK1531	n	dmc	yes	uličník	inclusive
+SK105	n	ddp	yes	cancy	conservative
+SK1885	n	asm	no	hlúposti	conservative
+SK1162	n	qas	no	diletant	conservative
+SK226	n	asm	no	vajce	inclusive
+SK1917	n	ddf	yes	zakrslík	conservative
+SK1990	n	re	no	vražda	inclusive
+SK1258	n	pa	yes	predavač rýb	inclusive
+SK1244	n	dmc	yes	foetor	conservative
+SK1719	n	an	no	slowpoke	conservative
+SK1593	n	cds	no	jokester	inclusive
+SK828	n	or	no	prihriaty	conservative
+SK447	n	cds	no	vedomá nedbalosť	inclusive
+SK2181	n	re	no	plagiarise	inclusive
+SK559	n	cds	no	presumptuousness	conservative
+SK2494	n	re	no	násilia	inclusive
+SK933	n	ps	yes	biotechnológia rastlín	inclusive
+SK375	n	is	yes	psanec	inclusive
+SK585	n	svp	no	naničhodník	conservative
+SK288	n	cds	no	hlúpy	conservative
+SK1693	n	cds	no	lav	inclusive
+SK2028	n	cds	no	Úžerníctvo	conservative
+SK1125	n	cds	no	ton	inclusive
+SK2476	n	om	no	drag show	inclusive
+SK319	n	cds	no	nepravda	inclusive
+SK482	n	qas	no	fuser	conservative
+SK2227	n	pr	no	nezmysly	conservative
+SK2503	n	an	no	spoločný zmija	inclusive
+SK1448	n	om	no	buziš	inclusive
+SK143	n	re	no	znásilnenie	conservative
+SK1713	n	pr	no	môr	inclusive
+SK723	n	an	no	koza	inclusive
+SK2406	n	re	no	teroristov	conservative
+SK293	n	ddp	yes	oklamaný	conservative
+SK1235	n	om	no	finocchio	inclusive
+SK1198	n	ddf	yes	invalid	inclusive
+SK2468	n	ps	yes	Žltá karta	inclusive
+SK519	n	asm	no	hneď	inclusive
+SK1280	n	cds	no	slobodomurárskej	inclusive
+SK112	n	ddp	yes	analphabet	inclusive
+SK656	n	ps	yes	imbecil	conservative
+SK1697	n	cds	no	slackers	conservative
+SK2516	n	ps	yes	róm	inclusive
+SK276	n	cds	no	znemožnené	inclusive
+SK1423	n	re	no	odcudzený majetok	inclusive
+SK1946	n	ps	yes	negroidné plemeno	inclusive
+SK1458	n	om	no	homoerotic	inclusive
+SK1624	a	is	yes	smutný	inclusive
+SK540	n	qas	no	business man	inclusive
+SK2265	n	re	no	koristník	inclusive
+SK245	n	pa	yes	právny zástupca	inclusive
+SK352	n	dmc	yes	fanatik	conservative
+SK267	n	qas	no	veľkolepý	inclusive
+SK920	n	an	no	krokodílotvaré	inclusive
+SK506	n	pr	no	kravy	inclusive
+SK803	n	asm	no	kus zadku	conservative
+SK1352	n	cds	no	špeh	conservative
+SK1512	n	an	no	hyaenidae	inclusive
+SK2019	n	dmc	yes	poľutovaniahodný človek	inclusive
+SK2416	n	re	no	utrpenie	inclusive
+SK1482	n	cds	no	veľký neumývané	conservative
+SK1344	n	cds	no	gigolo	inclusive
+SK825	n	om	no	buzík	conservative
+SK2341	a	qas	no	stredoveký	inclusive
+SK1808	n	is	yes	chudobní	inclusive
+SK102	n	asm	no	prívesok	inclusive
+SK1219	n	qas	no	poľnohospodárov	inclusive
+SK1094	n	om	no	ventrálnej	inclusive
+SK1327	n	asm	no	bôb	inclusive
+SK197	n	qas	no	sprostosť	inclusive
+SK1441	n	om	no	homosexuálnych mužov	inclusive
+SK163	n	asf	no	hlupáčik	conservative
+SK472	n	cds	no	vaunter	conservative
+SK1415	n	re	no	krádež	inclusive
+SK766	n	cds	no	sebauspokojenia	inclusive
+SK1747	n	cds	no	mafia	inclusive
+SK165	n	or	no	peň	conservative
+SK510	n	pr	no	volov	inclusive
+SK37	n	pa	yes	akademický	inclusive
+SK821	n	om	no	teploš	inclusive
+SK1934	n	ps	yes	černošskej komunity	inclusive
+SK138	n	ddp	yes	animovať je	inclusive
+SK640	n	an	no	Žralok ľudožravý	inclusive
+SK1385	n	an	no	fulvus	inclusive
+SK1318	n	asm	no	angličtina bean	inclusive
+SK1793	n	cds	no	párty	inclusive
+SK1009	n	an	no	pillager	inclusive
+SK292	n	or	no	pudden hlava	conservative
+SK1591	n	cds	no	učil	inclusive
+SK1537	n	ddf	yes	invalidita	inclusive
+SK1682	n	dmc	yes	zlodejíček	conservative
+SK1349	n	cds	no	divák	conservative
+SK1592	n	pa	yes	jezuita	inclusive
+SK1747	n	re	no	mafia	conservative
+SK24	n	re	no	zneužívajúce	inclusive
+SK934	n	cds	no	kríženec	inclusive
+SK171	n	asf	no	lunkhead	conservative
+SK1561	n	is	yes	nedostatok	inclusive
+SK1313	n	cds	no	fašistami	conservative
+SK1113	n	pa	yes	vrátnik	inclusive
+SK1456	n	om	no	homosexuálne založenie	inclusive
+SK813	n	pa	yes	desiatnik	inclusive
+SK646	n	dmc	yes	vyvrheľ	inclusive
+SK1937	n	ps	yes	blackamoor	inclusive
+SK200	n	asm	no	hlúposť	conservative
+SK786	n	or	no	kapusta	inclusive
+SK169	n	asf	no	šmejd	conservative
+SK442	n	an	no	paroháč	conservative
+SK1724	n	an	no	papuľa	inclusive
+SK443	n	an	no	zahýbať	conservative
+SK1717	n	an	no	moue	inclusive
+SK370	n	re	no	únosca	inclusive
+SK1632	n	cds	no	loansharking	inclusive
+SK2110	n	cds	no	pedantská	conservative
+SK1139	n	an	no	hlemýžď záhradný	inclusive
+SK656	n	ddp	yes	imbecil	inclusive
+SK1061	n	dmc	yes	pokrytecké	conservative
+SK1759	n	om	no	pederastia	inclusive
+SK996	n	pr	no	konkubinátu	inclusive
+SK126	n	an	no	epifauna	inclusive
+SK2204	a	asm	no	hnedý	inclusive
+SK2228	n	pr	no	nadutú reč	conservative
+SK2311	n	cds	no	snob	conservative
+SK1015	n	asm	no	doofus	conservative
+SK1121	n	cds	no	veľa	inclusive
+SK962	n	cds	no	camarillo	inclusive
+SK887	n	ddp	yes	bláznovstvo	conservative
+SK1627	n	re	no	zabijak	inclusive
+SK650	n	dmc	yes	vyděděnec	inclusive
+SK2473	n	cds	no	konšpiračné teórie	inclusive
+SK1631	n	cds	no	úžerníkov	inclusive
+SK236	n	ddp	yes	krutosť	inclusive
+SK678	n	cds	no	švindliar	conservative
+SK2368	n	an	no	had v tráve	conservative
+SK310	n	an	no	pobehlica	conservative
+SK1604	n	om	no	šľachtičná	inclusive
+SK2001	n	or	no	tekvica	inclusive
+SK311	n	an	no	floozie	conservative
+SK2096	n	or	no	tatier	inclusive
+SK2095	n	or	no	zemiaky	inclusive
+SK865	n	an	no	odpočúvacie zariadenia	inclusive
+SK451	n	cds	no	prehmat	inclusive
+SK782	n	pa	yes	prof	inclusive
+SK1740	n	cds	no	hekáč	inclusive
+SK254	n	pa	yes	advocator	inclusive
+SK376	n	re	no	kriminálnej	inclusive
+SK83	n	cds	no	stúpenec	conservative
+SK1636	n	cds	no	úver sharking	conservative
+SK1264	n	an	no	blchy	inclusive
+SK81	n	an	no	leňoch	conservative
+SK1375	v	asm	no	šukať	conservative
+SK186	n	svp	no	sedem hlavných hriechov	inclusive
+SK1294	n	cds	no	fundamentalistov	inclusive
+SK1575	n	ddp	yes	nevedomosti	conservative
+SK353	n	cds	no	vojny gangov	conservative
+SK2066	v	asm	no	šudiť	conservative
+SK1863	n	pr	no	potkanom	inclusive
+SK847	n	an	no	krava	inclusive
+SK1646	n	qas	no	maloobchodník	inclusive
+SK157	n	asf	no	truľo	conservative
+SK1521	n	asf	no	kosť	conservative
+SK131	n	ddp	yes	živočích	inclusive
+SK157	n	cds	no	truľo	conservative
+SK745	n	asm	no	vták	inclusive
+SK2006	n	dmc	yes	homunkulové	inclusive
+SK2467	n	ps	yes	žltú kartu	inclusive
+SK168	n	asf	no	tupec	conservative
+SK2310	v	re	no	pobrať	inclusive
+SK730	n	an	no	kozie mlieko	inclusive
+SK7	n	svp	no	abúlia	inclusive
+SK173	n	an	no	nevzdelaný človek	conservative
+SK566	n	svp	no	povýšenosť	conservative
+SK406	n	an	no	pes	inclusive
+SK2372	a	re	no	násilné	inclusive
+SK1383	n	an	no	húsa	inclusive
+SK1203	n	cds	no	príbuzní	inclusive
+SK367	n	dmc	yes	tulák	inclusive
+SK1467	n	ps	yes	židovskej tradícii	inclusive
+SK1630	n	cds	no	úžerník	conservative
+SK2072	n	qas	no	bad hat	conservative
+SK1252	n	asm	no	morfológia a anatómia rýb	inclusive
+SK203	n	qas	no	bordel	inclusive
+SK277	n	cds	no	bas bleu	inclusive
+SK1658	n	asm	no	orgán	inclusive
+SK649	n	dmc	yes	vyhnanec	inclusive
+SK2050	a	qas	no	obecný	inclusive
+SK1684	n	cds	no	toaleta	inclusive
+SK1378	v	asm	no	trtkať	conservative
+SK1556	n	is	yes	zbedačenie	inclusive
+SK1171	n	dmc	yes	slušnosť	inclusive
+SK358	n	cds	no	gangy	inclusive
+SK423	n	dmc	yes	podvodník	inclusive
+SK1163	n	an	no	šnečí	inclusive
+SK1574	n	an	no	nespôsobilá osoba	conservative
+SK2318	n	cds	no	puntičkárstvo	inclusive
+SK655	n	ddp	yes	idiotia	inclusive
+SK1613	n	dmc	yes	pseud	conservative
+SK484	n	ddp	yes	fušer	conservative
+SK1265	n	an	no	siphonaptera	inclusive
+SK1880	n	ddp	yes	mikrocefália	inclusive
+SK1167	n	qas	no	amatérov	inclusive
+SK2343	n	cds	no	scientizmus	inclusive
+SK2165	a	svp	no	hrabivý	inclusive
+SK295	n	ddp	yes	napáliť	conservative
+SK2090	n	or	no	Ľuľok zemiakový	inclusive
+SK924	n	an	no	loricata	inclusive
+SK1917	n	dmc	yes	zakrslík	conservative
+SK378	n	dmc	yes	zakázaný	inclusive
+SK128	n	an	no	polycytozoa	inclusive
+SK1571	n	an	no	nekompetentní osoba	conservative
+SK2403	n	cds	no	povrchnosti	inclusive
+SK1881	n	ddp	yes	microcephalic	inclusive
+SK1004	n	cds	no	zúfalec	inclusive
+SK1898	n	ps	yes	Ázijsko-americká rasa	conservative
+SK2057	n	an	no	zbohatlík	conservative
+SK1455	n	om	no	termoš	inclusive
+SK2230	n	pr	no	závan	conservative
+SK1014	n	ps	yes	dimwit	conservative
+SK2359	n	cds	no	wonka	conservative
+SK2175	n	cds	no	onanovať	conservative
+SK283	n	cds	no	pillock	conservative
+SK1014	n	asf	no	dimwit	conservative
+SK961	n	or	no	sativus	inclusive
+SK1747	n	re	no	mafia	inclusive
+SK310	n	pr	no	pobehlica	conservative
+SK994	n	pr	no	milenca	inclusive
+SK1890	n	pa	yes	pastier	inclusive
+SK582	n	cds	no	povaľač	conservative
+SK814	n	cds	no	newswriter	inclusive
+SK986	n	dmc	yes	klamlivé	conservative
+SK2083	v	cds	no	zaniknúť	inclusive
+SK2175	n	asm	no	onanovať	conservative
+SK1746	n	cds	no	talianskej mafie	conservative
+SK394	n	qas	no	magnát	inclusive
+SK1311	n	re	no	mafián	conservative
+SK700	n	om	no	homosexuál	conservative
+SK2004	n	re	no	mučiteľovi	inclusive
+SK1081	n	om	no	aboral	inclusive
+SK289	n	ddp	yes	stupe	conservative
+SK321	n	cds	no	lož	inclusive
+SK1185	n	cds	no	úbožiak	conservative
+SK2108	n	cds	no	knihomoľ	conservative
+SK751	n	cds	no	problém	conservative
+SK859	n	cds	no	odpadky	inclusive
+SK856	n	cds	no	odpad	inclusive
+SK2448	n	pr	no	ježibaba	conservative
+SK683	n	cds	no	kaukliar	inclusive
+SK655	n	ps	yes	idiotia	conservative
+SK2242	n	or	no	repa	inclusive
+SK136	n	an	no	epifaunal	inclusive
+SK1183	n	cds	no	hriešnik	conservative
+SK160	n	cds	no	trúba	conservative
+SK586	n	cds	no	zlosyn	conservative
+SK11	n	svp	no	spiritlessness	inclusive
+SK2436	n	om	no	cross-šaty	inclusive
+SK844	n	ddp	yes	krysa	conservative
+SK856	n	qas	no	odpad	inclusive
+SK747	n	asm	no	kohútik	inclusive
+SK163	n	ps	yes	hlupáčik	conservative
+SK2009	n	ddf	yes	nevidiaci	inclusive
+SK654	n	ddp	yes	kritin	inclusive
+SK298	n	pr	no	cundra	conservative
+SK406	n	dmc	yes	pes	conservative
+SK1987	n	re	no	vraždy	inclusive
+SK153	n	ddp	yes	zadubenec	conservative
+SK487	n	an	no	zlodejov tiel	inclusive
+SK1324	n	asm	no	bôbov	inclusive
+SK92	n	qas	no	maličkosti	inclusive
+SK1072	n	om	no	dorzolaterální	inclusive
+SK681	n	dmc	yes	defrauder	conservative
+SK1529	n	cds	no	uctievanie	inclusive
+SK279	n	ps	yes	obetný baránok	conservative
+SK1731	n	cds	no	vinník	inclusive
+SK805	n	asm	no	role v sene	conservative
+SK1105	n	svp	no	gourmandizer	conservative
+SK155	n	an	no	obmedzenec	conservative
+SK1297	n	cds	no	konzervatívec	inclusive
+SK874	n	an	no	ploštíc	inclusive
+SK1540	n	ddf	yes	zakázať	inclusive
+SK538	n	qas	no	buržoáznej	inclusive
+SK1964	n	cds	no	nympho	conservative
+SK1079	n	om	no	proximálnej	inclusive
+SK2100	v	qas	no	maľovať	inclusive
+SK2194	n	an	no	gallus gallus	inclusive
+SK587	n	re	no	podliak	conservative
+SK497	n	ddp	yes	dravosť	conservative
+SK2510	n	an	no	limacidae	inclusive
+SK1321	n	asm	no	fava	inclusive
+SK501	n	svp	no	unudenosť	inclusive
+SK1756	n	om	no	paederasty	inclusive
+SK1910	n	pr	no	prominent	inclusive
+SK2171	a	svp	no	rozhnevaný	inclusive
+SK1146	n	cds	no	intoš	inclusive
+SK1443	n	om	no	homosexuálov	inclusive
+SK1187	a	dmc	yes	dysforický	inclusive
+SK479	n	qas	no	fumbler	conservative
+SK1098	n	cds	no	slyboots	conservative
+SK154	n	ddp	yes	idiot	conservative
+SK203	n	asm	no	bordel	inclusive
+SK641	n	an	no	man-eating shark	inclusive
+SK466	n	qas	no	babranie	inclusive
+SK1559	n	is	yes	chudákov	inclusive
+SK737	n	qas	no	ilúzia	inclusive
+SK2006	n	cds	no	homunkulové	inclusive
+SK969	n	qas	no	utratenie	conservative
+SK1912	n	qas	no	duchovný vodca	inclusive
+SK194	n	svp	no	lakomec	inclusive
+SK109	n	cds	no	zelóta	inclusive
+SK1033	n	cds	no	desetník román	inclusive
+SK93	n	cds	no	mišmaš	inclusive
+SK1932	n	ps	yes	čierne ženy	inclusive
+SK499	n	svp	no	nudné	inclusive
+SK342	n	cds	no	klamár	inclusive
+SK66	n	an	no	bison	inclusive
+SK1023	n	cds	no	čin	inclusive
+SK1005	n	cds	no	zúfalý trestné	inclusive
+SK995	n	pr	no	konkubín	inclusive
+SK850	n	cds	no	zbabelec	conservative
+SK587	n	cds	no	podliak	conservative
+SK233	n	rci	yes	divoch	conservative
+SK576	n	dmc	yes	lowlife	conservative
+SK2286	n	an	no	žaby	inclusive
+SK2313	n	cds	no	wisenheimer	conservative
+SK857	n	qas	no	železný šrot	inclusive
+SK1206	n	qas	no	vyzradenie	inclusive
+SK379	n	cds	no	vyhnanstvom	inclusive
+SK1741	n	cds	no	policajt	inclusive
+SK99	n	cds	no	míchanice	inclusive
+SK1691	n	cds	no	verejné pohodlie	inclusive
+SK604	n	an	no	kajman	inclusive
+SK663	n	re	no	sekerka práce	inclusive
+SK1579	n	an	no	inexorableness	conservative
+SK1567	n	is	yes	núdza	inclusive
+SK1841	n	cds	no	relikvia	inclusive
+SK1784	n	qas	no	farnosti	inclusive
+SK195	n	ddp	yes	tárajom	conservative
+SK319	n	cds	no	nepravda	conservative
+SK1430	n	pr	no	prostitútky	inclusive
+SK757	n	qas	no	prostý	inclusive
+SK1036	n	cds	no	desetník románu	inclusive
+SK2511	n	ps	yes	rommany	inclusive
+SK1453	n	om	no	rovnaký-príťažlivosť sexu	inclusive
+SK820	n	or	no	poove	conservative
+SK1843	n	qas	no	rétoricky	inclusive
+SK2146	n	cds	no	whiner	conservative
+SK1394	n	an	no	ošípané	inclusive
+SK2132	v	cds	no	prezrádzať	inclusive
+SK74	n	om	no	zneužíval	inclusive
+SK821	n	or	no	teploš	conservative
+SK1864	n	an	no	selachimorpha	inclusive
+SK249	n	pa	yes	minister-poradca	inclusive
+SK232	n	cds	no	hulvát	conservative
+SK376	n	cds	no	kriminálnej	inclusive
+SK142	n	re	no	znásilnenia	conservative
+SK942	n	cds	no	tlačenica	inclusive
+SK1234	n	or	no	fastidiousness	inclusive
+SK833	n	or	no	homophile	conservative
+SK1743	n	cds	no	cosa nostra	conservative
+SK1464	n	ps	yes	Židovské vyznanie	inclusive
+SK1715	n	pr	no	mol	inclusive
+SK108	n	dmc	yes	fanatizmus	conservative
+SK282	n	ps	yes	soft touch	conservative
+SK1922	n	cds	no	idiolatry	inclusive
+SK165	n	an	no	peň	conservative
+SK1012	n	ddp	yes	hromotĺkov	conservative
+SK1000	n	pr	no	milenka	inclusive
+SK1214	n	qas	no	pole ruky	inclusive
+SK1734	n	svp	no	lascívne	inclusive
+SK952	n	cds	no	chlapec	inclusive
+SK577	n	an	no	chlap mizerná	conservative
+SK1310	n	dmc	yes	gangster	inclusive
+SK1676	n	ps	yes	metics	inclusive
+SK861	n	cds	no	domového odpadu	inclusive
+SK975	n	cds	no	šprýmař	conservative
+SK1364	n	an	no	koza-antilopa	inclusive
+SK1856	n	cds	no	splašky	inclusive
+SK42	a	pa	yes	teoretický	inclusive
+SK1757	n	om	no	pederastic	inclusive
+SK1100	n	qas	no	chovateľskej stanice	inclusive
+SK2483	n	dmc	yes	tuláctva	inclusive
+SK157	n	asm	no	truľo	conservative
+SK223	n	asm	no	testikulárne	inclusive
+SK1208	n	cds	no	kuplířka	inclusive
+SK166	n	ddp	yes	mamlas	conservative
+SK677	n	re	no	chiseller	inclusive
+SK1120	n	cds	no	balíky	inclusive
+SK802	n	asm	no	shtup	conservative
+SK1835	n	re	no	šmelinár	inclusive
+SK832	n	om	no	gayov	inclusive
+SK461	n	cds	no	kiks	inclusive
+SK1226	n	qas	no	pestovateľ	inclusive
+SK2195	n	cds	no	dieťatko	inclusive
+SK485	n	dmc	yes	babroš	conservative
+SK1665	n	ddp	yes	mentálny deficit	inclusive
+SK1261	n	pa	yes	fishmongers	inclusive
+SK170	n	ddp	yes	blbec	conservative
+SK1780	n	qas	no	parazity	inclusive
+SK941	n	cds	no	zhluk	inclusive
+SK1754	n	an	no	pudge	conservative
+SK1695	n	cds	no	latríny	inclusive
+SK2202	a	ps	yes	čierny	inclusive
+SK651	n	an	no	slaboch	conservative
+SK345	n	pa	yes	poslíčka	inclusive
+SK404	n	cds	no	nevychovanec	conservative
+SK216	n	is	yes	špinavec	conservative
+SK1317	n	cds	no	fašizmus	conservative
+SK558	n	cds	no	nehanebnosť	conservative
+SK2464	n	an	no	hoax	conservative
+SK1490	n	dmc	yes	bezdomovec	inclusive
+SK467	n	qas	no	mýlka	inclusive
+SK479	n	cds	no	fumbler	conservative
+SK590	n	dmc	yes	zloduch	conservative
+SK1583	n	cds	no	ostentatiousness	inclusive
+SK1574	n	ddp	yes	nespôsobilá osoba	conservative
+SK98	n	qas	no	drobnosti	inclusive
+SK1291	n	an	no	zamračenie	inclusive
+SK911	n	ddp	yes	twerp	conservative
+SK2413	n	asm	no	falický	inclusive
+SK1715	n	an	no	mol	inclusive
+SK410	n	an	no	nedbalý človek	conservative
+SK397	n	qas	no	obchodný vedúci	inclusive
+SK2367	n	qas	no	sliedil	inclusive
+SK1866	n	an	no	Žralokovidné	inclusive
+SK2253	n	re	no	lúpeží	inclusive
+SK421	n	cds	no	štrajkokazov	inclusive
+SK584	n	re	no	villainess	conservative
+SK908	n	cds	no	blbec-off	conservative
+SK280	n	ps	yes	vôl	conservative
+SK1091	n	om	no	zadnice	inclusive
+SK662	n	re	no	ohováranie	inclusive
+SK533	n	qas	no	roľníkov	inclusive
+SK932	n	cds	no	hybrid	inclusive
+SK364	n	cds	no	skupina	inclusive
+SK99	n	qas	no	míchanice	inclusive
+SK1762	n	cds	no	paparazzo	inclusive
+SK4	v	an	no	brechať	inclusive
+SK221	n	asm	no	testes	inclusive
+SK761	n	cds	no	cockup	inclusive
+SK2031	n	ps	yes	vandali	inclusive
+SK1251	n	asm	no	ryba	inclusive
+SK1088	n	om	no	anatomické postavenie	inclusive
+SK97	n	cds	no	sekanina	inclusive
+SK1348	n	cds	no	všetečka	conservative
+SK2037	n	dmc	yes	klaun	inclusive
+SK1504	n	qas	no	chalupa	inclusive
+SK2296	n	an	no	žaba	inclusive
+SK2425	n	an	no	mulica	inclusive
+SK1725	n	an	no	rypák	inclusive
+SK843	n	ddp	yes	žvanil	conservative
+SK1960	n	an	no	prasatá	inclusive
+SK1758	n	om	no	pederasty	inclusive
+SK231	n	cds	no	barbar	conservative
+SK103	a	svp	no	agresívny	conservative
+SK484	n	dmc	yes	fušer	conservative
+SK1972	n	an	no	hus	inclusive
+SK452	n	qas	no	veľký omyl	inclusive
+SK2166	a	svp	no	zištný	inclusive
+SK748	n	asm	no	kohút	inclusive
+SK752	n	cds	no	ťažkosť	conservative
+SK54	n	ddp	yes	mentálna retardácia	inclusive
+SK679	n	re	no	chiseler	inclusive
+SK303	n	pr	no	kupliermi	conservative
+SK2133	v	cds	no	prezradiť	inclusive
+SK1342	n	an	no	pipistrellus	inclusive
+SK1821	n	svp	no	nadutosť	inclusive
+SK236	n	an	no	krutosť	conservative
+SK250	n	pa	yes	osobitný vyslanec	inclusive
+SK1426	n	cds	no	poslíček	inclusive
+SK1222	n	qas	no	sedliak	inclusive
+SK2245	n	re	no	únosy	inclusive
+SK2119	v	an	no	besnieť	conservative
+SK67	n	an	no	zubor	inclusive
+SK129	n	an	no	infauna	inclusive
+SK820	n	om	no	poove	conservative
+SK1839	n	pr	no	potkany	inclusive
+SK1846	n	qas	no	rečník	inclusive
+SK2023	a	qas	no	zvyčajný	inclusive
+SK2521	n	ps	yes	romák	inclusive
+SK430	n	cds	no	od rána	inclusive
+SK561	n	ps	yes	bulhari	inclusive
+SK2107	v	qas	no	nalíčiť	inclusive
+SK2374	n	ddp	yes	hooey	inclusive
+SK263	n	an	no	psík	inclusive
+SK939	n	cds	no	šľachtiteľov rastlín	inclusive
+SK2106	v	qas	no	namaľovať	inclusive
+SK1127	n	cds	no	kvantá	inclusive
+SK811	n	an	no	zajac	inclusive
+SK20	n	re	no	týranie	inclusive
+SK653	n	ddp	yes	retard	inclusive
+SK200	n	ddp	yes	hlúposť	conservative
+SK279	n	cds	no	obetný baránok	conservative
+SK657	n	cds	no	changeling	inclusive
+SK2282	n	qas	no	pompézny sloh	inclusive
+SK1818	n	svp	no	primadonskosť	inclusive
+SK336	n	ps	yes	bedáka	inclusive
+SK2517	n	ps	yes	romanis	inclusive
+SK1068	n	om	no	posteriorly	inclusive
+SK620	n	cds	no	ingroup	inclusive
+SK657	n	asf	no	changeling	conservative
+SK1745	n	re	no	sicílskej mafie	inclusive
+SK51	n	asf	no	idiocia	conservative
+SK462	n	qas	no	zpackat	inclusive
+SK1216	n	qas	no	poľnohospodársky pracovník	inclusive
+SK936	n	ps	yes	šľachtenia rastlín	inclusive
+SK411	n	an	no	prasa	inclusive
+SK1237	n	or	no	foeniculum vulgare	inclusive
+SK340	n	cds	no	béguin	inclusive
+SK2086	v	cds	no	zahynúť	inclusive
+SK1117	n	cds	no	delikvent	inclusive
+SK303	n	cds	no	kupliermi	conservative
+SK2336	n	an	no	Šakal	inclusive
+SK1092	n	om	no	kontralaterálny	inclusive
+SK2406	n	re	no	teroristov	inclusive
+SK2267	a	om	no	rozdielny	inclusive
+SK1457	n	om	no	homosexuality	inclusive
+SK717	n	cds	no	domorodých obyvateľov	inclusive
+SK798	n	asm	no	kus chvosta	conservative
+SK1619	n	cds	no	cigánstvo	inclusive
+SK1747	n	cds	no	mafia	conservative
+SK384	n	ddp	yes	donáška	conservative
+SK1622	n	cds	no	novorodencov	inclusive
+SK124	n	an	no	stvorenia	inclusive
+SK400	n	qas	no	veľmož	inclusive
+SK2268	a	om	no	rôzny	inclusive
+SK485	n	qas	no	babroš	conservative
+SK1569	n	svp	no	nečinnosť	inclusive
+SK943	n	cds	no	hromada	inclusive
+SK219	n	qas	no	semenník	inclusive
+SK1309	n	re	no	gangstrov	inclusive
+SK1180	n	dmc	yes	nemorálnosť	inclusive
+SK426	n	ddp	yes	debil	conservative
+SK594	n	cds	no	rachotina	inclusive
+SK1982	n	an	no	ixodidae	inclusive
+SK1454	n	om	no	homosexualismu	inclusive
+SK1006	n	an	no	looter	inclusive
+SK1820	n	svp	no	ješitnosť	inclusive
+SK1256	n	pa	yes	predajca rýb	inclusive
+SK1643	n	cds	no	backtalk	inclusive
+SK2383	n	re	no	sexuálne napadol	inclusive
+SK1351	n	cds	no	zväzovanie	conservative
+SK284	n	ddp	yes	puding hlava	conservative
+SK1911	n	cds	no	moralizmus	inclusive
+SK542	n	an	no	byvol	inclusive
+SK231	n	dmc	yes	barbar	conservative
+SK281	n	asm	no	patsy	conservative
+SK2459	n	cds	no	ndrangheta	inclusive
+SK699	n	om	no	pedofil	conservative
+SK281	n	asf	no	patsy	conservative
+SK1074	n	om	no	plantárna	inclusive
+SK602	n	cds	no	čarbanica	inclusive
+SK2450	n	pr	no	hetaira	inclusive
+SK405	n	re	no	lump	conservative
+SK2525	n	cds	no	andrománia	inclusive
+SK1330	n	asf	no	pošvy	conservative
+SK2217	n	pa	yes	mimoriadnym profesorom	inclusive
+SK1723	n	an	no	ňufák	inclusive
+SK1678	n	or	no	punctiliousness	inclusive
+SK365	n	cds	no	partia	inclusive
+SK1682	n	cds	no	zlodejíček	conservative
+SK678	n	re	no	švindliar	inclusive
+SK1052	n	svp	no	neľúbosť	inclusive
+SK2048	n	is	yes	žobrák	inclusive
+SK2439	n	om	no	crossdress	inclusive
+SK1382	n	an	no	house	inclusive
+SK288	n	or	no	hlúpy	conservative
+SK1142	n	cds	no	vzdelávateľ	inclusive
+SK580	n	dmc	yes	tuláci	conservative
+SK570	n	cds	no	márnosti	conservative
+SK1891	n	pa	yes	pastieri	inclusive
+SK1388	n	an	no	eurasian griffon	inclusive
+SK1259	n	pa	yes	predavačka rýb	inclusive
+SK452	n	cds	no	veľký omyl	inclusive
+SK2463	n	qas	no	potápanie váhovým systémom a	inclusive
+SK170	n	an	no	blbec	conservative
+SK104	n	cds	no	ornament	conservative
+SK2421	n	re	no	mučivý	inclusive
+SK485	n	ddp	yes	babroš	conservative
+SK2030	n	ps	yes	vandal	conservative
+SK1933	n	ps	yes	negroidní	inclusive
+SK2147	n	cds	no	bellyacher	conservative
+SK2426	n	cds	no	lúpežný rytier	inclusive
+SK560	n	ps	yes	bulhar	inclusive
+SK300	n	an	no	kurva	conservative
+SK1184	n	cds	no	hriešnica	conservative
+SK612	n	an	no	bachora	inclusive
+SK1487	n	cds	no	prelát	inclusive
+SK1835	n	cds	no	šmelinár	inclusive
+SK583	n	an	no	darebný	conservative
+SK127	n	ddp	yes	zviera	inclusive
+SK679	n	dmc	yes	chiseler	conservative
+SK161	n	an	no	muggins	conservative
+SK1886	n	pa	yes	sheepherder	inclusive
+SK1631	n	cds	no	úžerníkov	conservative
+SK1025	n	cds	no	zločiny	inclusive
+SK2316	n	cds	no	weisenheimer	conservative
+SK1191	n	dmc	yes	debauchee	conservative
+SK2323	n	an	no	šváby	inclusive
+SK681	n	cds	no	defrauder	conservative
+SK2438	n	om	no	cross-bielizníku	inclusive
+SK172	n	asf	no	muttonhead	conservative
+SK1482	n	cds	no	veľký neumývané	inclusive
+SK373	n	cds	no	zbojníctvo	conservative
+SK414	n	an	no	flákač	conservative
+SK2061	v	re	no	sužovať	inclusive
+SK309	n	pr	no	floozy	conservative
+SK510	n	an	no	volov	inclusive
+SK1707	n	cds	no	moralizovania	inclusive
+SK369	n	an	no	lupič	inclusive
+SK1082	n	om	no	bočné	inclusive
+SK2000	n	re	no	zabitím	inclusive
+SK1978	n	re	no	terorista	conservative
+SK1697	n	svp	no	slackers	conservative
+SK1014	n	asm	no	dimwit	conservative
+SK429	n	ddp	yes	kokot	conservative
+SK929	n	ddf	yes	crookback	inclusive
+SK214	n	is	yes	tightwad	conservative
+SK1211	n	cds	no	kupliarstva	conservative
+SK2042	n	cds	no	prerieknutie	inclusive
+SK1355	n	cds	no	špión	conservative
+SK81	n	cds	no	leňoch	conservative
+SK239	n	ddp	yes	zverstvo	inclusive
+SK527	n	pr	no	mus decumanus	inclusive
+SK2088	v	cds	no	hynúť	inclusive
+SK1150	n	pa	yes	zamestnanec	inclusive
+SK683	n	dmc	yes	kaukliar	conservative
+SK302	n	pr	no	prostitútka	conservative
+SK742	n	an	no	vulgárnosti	conservative
+SK1371	n	cds	no	ultrakonzervatívnym	conservative
+SK136	n	ddp	yes	epifaunal	inclusive
+SK1030	n	an	no	diddl-shit	conservative
+SK2364	a	is	yes	chudobní	inclusive
+SK1020	n	cds	no	trestnej činnosti	inclusive
+SK1629	n	cds	no	požičiavanie peňazí	inclusive
+SK2255	n	re	no	lupiči	inclusive
+SK1015	n	ddp	yes	doofus	conservative
+SK470	n	cds	no	chválil	conservative
+SK837	n	ddp	yes	gossiper	conservative
+SK1024	n	cds	no	právo-lámanie	inclusive
+SK413	n	cds	no	neporiadník	conservative
+SK1028	n	an	no	diddl-squat	conservative
+SK858	n	cds	no	komunálneho odpadu	conservative
+SK2309	v	re	no	ukradnúť	inclusive
+SK369	n	re	no	lupič	conservative
+SK1771	n	dmc	yes	nemehlo	conservative
+SK1174	n	dmc	yes	etický motív	inclusive
+SK82	n	qas	no	prívrženec	inclusive
+SK14	n	qas	no	miništrant	inclusive
+SK2484	n	dmc	yes	potulky	inclusive
+SK260	n	pa	yes	obhajca	inclusive
+SK110	n	ddp	yes	analfabet	inclusive
+SK674	n	re	no	traducer	conservative
+SK378	n	cds	no	zakázaný	conservative
+SK861	n	cds	no	domového odpadu	conservative
+SK232	n	qas	no	hulvát	conservative
+SK565	n	svp	no	chlubivost	conservative
+SK1263	n	cds	no	kanvica rýb	inclusive
+SK1547	n	ddp	yes	asshole	conservative
+SK414	n	cds	no	flákač	conservative
+SK584	n	cds	no	villainess	conservative
+SK164	n	an	no	blázon	conservative
+SK174	n	an	no	nič neviem	conservative
+SK1621	n	re	no	infanticída	inclusive
+SK1158	n	re	no	trestný iba priestupok	inclusive
+SK445	n	dmc	yes	rakehell	conservative
+SK493	n	pa	yes	uncouthness	conservative
+SK642	n	cds	no	zdochlina	inclusive
+SK1875	n	an	no	mikroorganizmov	inclusive
+SK1431	n	pr	no	kurevnictví	inclusive
+SK1775	n	qas	no	autoinfection	inclusive
+SK2397	n	an	no	arionidae	inclusive
+SK1975	n	an	no	brent	inclusive
+SK1097	n	cds	no	lišiak	conservative
+SK759	n	qas	no	obyčajnú osobu	inclusive
+SK1011	n	ps	yes	nemotorne	conservative
+SK1869	n	an	no	žralok	inclusive
+SK1961	n	an	no	svine	inclusive
+SK161	n	asf	no	muggins	conservative
+SK713	n	cds	no	domorodec	inclusive
+SK1611	n	cds	no	protizákonnosť	inclusive
+SK534	n	qas	no	roľník	inclusive
+SK78	n	om	no	sodomized	inclusive
+SK154	n	cds	no	idiot	conservative
+SK1836	n	re	no	kšeftár	inclusive
+SK582	n	dmc	yes	povaľač	conservative
+SK115	n	cds	no	armáda	inclusive
+SK85	n	qas	no	spoločník vo zločinu	inclusive
+SK1827	n	svp	no	domýšľavosť	inclusive
+SK1958	n	ps	yes	latino	inclusive
+SK2213	a	dmc	yes	predstieraný	conservative
+SK135	n	ddp	yes	metazoans	inclusive
+SK1640	n	an	no	chrobák	inclusive
+SK999	n	pr	no	konkubína	inclusive
+SK1625	a	is	yes	nešťastné	inclusive
+SK1309	n	cds	no	gangstrov	inclusive
+SK1962	n	cds	no	hypersexual	conservative
+SK1620	n	dmc	yes	prekrúcanie pravdy	inclusive
+SK220	n	asm	no	semenníkov	inclusive
+SK2223	n	pr	no	cudzoložnica	conservative
+SK2081	v	cds	no	pominúť sa	inclusive
+SK105	n	an	no	cancy	conservative
+SK2320	n	an	no	pijavice	inclusive
+SK1015	n	ps	yes	doofus	conservative
+SK1742	n	cds	no	dôstojník	conservative
+SK1659	n	asm	no	penisu	inclusive
+SK858	n	qas	no	komunálneho odpadu	inclusive
+SK853	n	ddp	yes	šarlatán	conservative
+SK2157	n	an	no	voš	inclusive
+SK648	n	dmc	yes	odpadlík	conservative
+SK2347	n	ddp	yes	nerozum	inclusive
+SK152	n	ddp	yes	betis	conservative
+SK1859	n	ps	yes	mestizaje	conservative
+SK2056	n	cds	no	parvenu	inclusive
+SK480	n	ddp	yes	blunderer	conservative
+SK1277	n	asm	no	odporný	inclusive
+SK1335	n	cds	no	žalárnik	inclusive
+SK170	n	ddp	yes	blbec	inclusive
+SK1395	n	an	no	prasnica	inclusive
+SK648	n	is	yes	odpadlík	inclusive
+SK180	n	an	no	zubra európskeho	inclusive
+SK422	n	cds	no	stávkokazectví	inclusive
+SK170	n	asm	no	blbec	conservative
+SK1104	n	svp	no	ryhovacie	conservative
+SK1224	n	qas	no	sodbuster	inclusive
+SK2173	n	asm	no	ručné práce	conservative
+SK35	n	pa	yes	akademickej obce	inclusive
+SK133	n	ddp	yes	metazoá	inclusive
+SK247	n	pa	yes	poradca	inclusive
+SK2224	n	pr	no	voľné žena	conservative
+SK164	n	asf	no	blázon	conservative
+SK418	n	cds	no	cur	inclusive
+SK1893	n	asm	no	flouter	conservative
+SK1017	n	ps	yes	uprooter	conservative
+SK2251	n	re	no	rapine	inclusive
+SK408	n	is	yes	darebák	conservative
+SK545	n	om	no	prevít	inclusive
+SK2303	v	re	no	čmajznúť	inclusive
+SK234	n	rci	yes	neotesanec	conservative
+SK306	n	pr	no	trosky	conservative
+SK1873	n	an	no	mikroorganizmu	inclusive
+SK125	n	an	no	animalia	inclusive
+SK1220	n	qas	no	chovateľ	inclusive
+SK1883	n	ddp	yes	nanocephaly	inclusive
+SK182	n	an	no	zubr	inclusive
+SK2169	a	svp	no	naštvaný	inclusive
+SK1694	n	cds	no	latrín	inclusive
+SK2477	n	om	no	drag queens	inclusive
+SK172	n	ddp	yes	muttonhead	conservative
+SK105	n	cds	no	cancy	conservative
+SK3	v	an	no	štekať	inclusive
+SK241	n	ddp	yes	brutalita	inclusive
+SK2238	n	pa	yes	kontrolór	inclusive
+SK210	n	cds	no	verejný dom	inclusive
+SK2176	n	cds	no	wanke	conservative
+SK130	n	an	no	rozmnožovanie živočíchov	inclusive
+SK763	n	cds	no	ballup	inclusive
+SK523	n	asm	no	zahnědění	inclusive
+SK1013	n	ps	yes	spratek	conservative
+SK241	n	an	no	brutalita	inclusive
+SK2409	n	re	no	terorizmus	conservative
+SK2076	n	qas	no	výtržník	conservative
+SK626	n	ddp	yes	väzni	inclusive
+SK2325	n	an	no	Šváby	inclusive
+SK794	n	svp	no	fyzická príťažlivosť	inclusive
+SK526	n	pr	no	rat nórsko	inclusive
+SK2289	n	an	no	Žabotvaré	inclusive
+SK1022	n	cds	no	Čin trestný	inclusive
+SK302	n	pr	no	prostitútka	inclusive
+SK1459	n	om	no	homosexuálna preferencia	inclusive
+SK2322	n	an	no	šváb	inclusive
+SK220	n	qas	no	semenníkov	inclusive
+SK2474	n	cds	no	conspiracism	inclusive
+SK170	n	asf	no	blbec	conservative
+SK328	n	cds	no	topsy-turvydom	inclusive
+SK2408	n	re	no	teroristický útok	inclusive
+SK131	n	an	no	živočích	inclusive
+SK1152	n	cds	no	fanúšik	inclusive
+SK81	n	dmc	yes	leňoch	conservative
+SK862	n	an	no	cimicidae	inclusive
+SK914	n	an	no	krokodíly	inclusive
+SK436	n	re	no	vydieranie	inclusive
+SK1649	n	qas	no	trhu brankár	inclusive
+SK2472	n	cds	no	konšpiračný teoretik	inclusive
+SK2026	a	qas	no	bežný	inclusive
+SK1897	n	cds	no	iluzionista	conservative
+SK648	n	dmc	yes	odpadlík	inclusive
+SK454	n	qas	no	boo-boo	inclusive
+SK597	n	cds	no	načmárat	inclusive
+SK2326	n	an	no	švába	inclusive
+SK2287	n	an	no	anura	inclusive
+SK930	n	ps	yes	kríženie	inclusive
+SK2389	n	re	no	sexuálnych trestných činov	inclusive
+SK234	n	dmc	yes	neotesanec	conservative
+SK2091	n	or	no	murphy	inclusive
+SK2115	a	cds	no	náročný	conservative
+SK170	n	ps	yes	blbec	conservative
+SK216	n	svp	no	špinavec	conservative
+SK1345	n	asf	no	rozkrok vlasy	inclusive
+SK2471	n	cds	no	teória sprisahania	inclusive
+SK1531	n	re	no	uličník	inclusive
+SK2241	n	or	no	vodnica	inclusive
+SK657	n	ps	yes	changeling	conservative
+SK2126	n	dmc	yes	trifler	conservative
+SK905	n	ddp	yes	kreténizmus	inclusive
+SK2128	a	om	no	neobvyklý	inclusive
+SK1362	n	cds	no	prostredník	inclusive
+SK125	n	ddp	yes	animalia	inclusive
+SK2475	n	ps	yes	cigán	conservative
+SK232	n	ddp	yes	hulvát	conservative
+SK2053	n	cds	no	arriviste	inclusive
+SK168	n	an	no	tupec	conservative
+SK616	n	cds	no	spolok	inclusive
+SK1392	n	an	no	prasnička	inclusive
+SK2454	n	asm	no	avafauna	inclusive
+SK2314	n	cds	no	chytrákmi	conservative
+SK1498	n	qas	no	hutch	inclusive
+SK1949	n	ps	yes	negroid	inclusive
+SK1296	n	cds	no	fundamentalisti	inclusive
+SK159	n	an	no	zabedněnec	conservative
+SK51	n	ddp	yes	idiocia	inclusive
+SK1479	n	cds	no	stáda	inclusive
+SK300	n	pr	no	kurva	conservative
+SK508	n	an	no	bos taurus	inclusive
+SK409	n	cds	no	špindíra	conservative
+SK2160	n	cds	no	religiozity	inclusive
+SK160	n	ddp	yes	trúba	conservative
+SK1686	n	cds	no	comfort station	inclusive
+SK1614	n	dmc	yes	pseudo	conservative
+SK810	n	an	no	zajačikovia	inclusive
+SK2373	n	ddp	yes	blbosť	inclusive
+SK2205	a	asm	no	hnedá	inclusive
+SK423	n	re	no	podvodník	inclusive
+SK969	n	cds	no	utratenie	conservative
+SK471	n	cds	no	bragger	conservative
+SK686	n	ddp	yes	spodina	conservative
+SK483	n	cds	no	babrák	conservative
+SK1326	n	asm	no	boby	inclusive
+SK1814	n	svp	no	horedržanosť	inclusive
+SK1743	n	cds	no	cosa nostra	inclusive
+SK1397	n	an	no	ošípaná	inclusive
+SK89	n	cds	no	žart	inclusive
+SK286	n	ddp	yes	sprosták	conservative
+SK1001	n	pr	no	kurtizán	inclusive
+SK1834	n	cds	no	propagandista	inclusive
+SK2063	v	re	no	trápiť	inclusive
+SK111	n	ddp	yes	negramotní osoba	inclusive
+SK590	n	re	no	zloduch	conservative
+SK144	n	re	no	znásilnená	conservative
+SK702	n	cds	no	príbuzenstva	inclusive
+SK1239	n	dmc	yes	smrad	conservative
+SK494	n	an	no	zvierackosti	conservative
+SK1267	n	an	no	blcha	inclusive
+SK171	n	or	no	lunkhead	conservative
+SK491	n	pa	yes	pokladník	inclusive
+SK644	n	cds	no	hazardných hier	inclusive
+SK2178	n	re	no	plagiarization	inclusive
+SK1855	n	cds	no	kal	inclusive
+SK2506	n	dmc	yes	zradca	conservative
+SK164	n	ddp	yes	blázon	conservative
+SK1943	n	ps	yes	negridná rasa	inclusive
+SK482	n	dmc	yes	fuser	conservative
+SK1578	n	an	no	relentlessness	conservative
+SK1577	n	ddp	yes	neznalosť	conservative
+SK928	n	an	no	crocodilidae	inclusive
+SK1306	n	svp	no	dillí-dallier	conservative
+SK361	n	cds	no	banda	inclusive
+SK2429	n	pa	yes	biele goliere	inclusive
+SK233	n	qas	no	divoch	conservative
+SK835	n	om	no	twink	conservative
+SK497	n	an	no	dravosť	conservative
+SK2111	n	cds	no	pedanta	conservative
+SK1366	n	svp	no	ne'er-robiť-dobre	conservative
+SK1748	n	ps	yes	ostrogoth	inclusive
+SK1928	n	ps	yes	neger	conservative
+SK937	n	ps	yes	miešanec	conservative
+SK1428	n	pr	no	sexuálne služby	conservative
+SK1462	n	ps	yes	judaizmu	inclusive
+SK981	n	om	no	gentlewoman	inclusive
+SK722	n	an	no	capra	inclusive
+SK1670	n	cds	no	šelestu dobytku	inclusive
+SK425	n	ddp	yes	chuj	conservative
+SK320	n	cds	no	klamstvo	inclusive
+SK279	n	asf	no	obetný baránok	conservative
+SK682	n	re	no	scammer	inclusive
+SK1084	n	om	no	apikálnej	inclusive
+SK1369	n	dmc	yes	topánka-off	conservative
+SK2113	n	cds	no	vševedom	conservative
+SK233	n	ddp	yes	divoch	conservative
+SK2411	n	asm	no	falus	inclusive
+SK2482	n	dmc	yes	tulákmi	inclusive
+SK71	n	om	no	análny sex	inclusive
+SK2345	n	ddp	yes	obmedzenosť	inclusive
+SK2130	a	om	no	nezvyčajný	inclusive
+SK733	n	svp	no	minginess	conservative
+SK1115	n	cds	no	previnilec	conservative
+SK146	n	cds	no	perspicaciousness	inclusive
+SK104	n	an	no	ornament	conservative
+SK658	n	ddp	yes	changelings	inclusive
+SK226	n	qas	no	vajce	inclusive
+SK1310	n	re	no	gangster	inclusive
+SK1237	n	om	no	foeniculum vulgare	inclusive
+SK1845	n	qas	no	rétorika	inclusive
+SK2488	n	an	no	larva	inclusive
+SK1309	n	dmc	yes	gangstrov	inclusive
+SK350	n	svp	no	bigotný človek	conservative
+SK912	n	ddf	yes	mrzák	inclusive
+SK1703	n	cds	no	mamonáře	inclusive
+SK1582	n	cds	no	pompousness	inclusive
+SK1520	n	asf	no	baba	conservative
+SK1354	n	cds	no	očko	conservative
+SK570	n	svp	no	márnosti	conservative
+SK990	n	cds	no	demagogickou	conservative
+SK1241	n	dmc	yes	puch	conservative
+SK1044	n	cds	no	nečistota	inclusive
+SK1746	n	re	no	talianskej mafie	inclusive
+SK404	n	dmc	yes	nevychovanec	conservative
+SK1225	n	qas	no	granger	inclusive
+SK287	n	cds	no	chruňo	conservative
+SK2513	n	ps	yes	rómovia	inclusive
+SK558	n	dmc	yes	nehanebnosť	conservative
+SK1357	n	qas	no	fízel	inclusive
+SK1620	n	qas	no	prekrúcanie pravdy	conservative
+SK1824	n	svp	no	bohorovnosť	inclusive
+SK1603	n	om	no	dámy	inclusive
+SK1712	n	pr	no	mora	inclusive
+SK429	n	cds	no	kokot	conservative
+SK1451	n	om	no	homosexuálne zameranie	inclusive
+SK1367	n	svp	no	dobrý-pre-nič	conservative
+SK765	n	an	no	culex pipiens	inclusive
+SK162	n	asf	no	ťulpas	conservative
+SK740	n	qas	no	omámiť	inclusive
+SK1728	n	cds	no	nerdy	conservative
+SK2141	n	is	yes	rozedranec	conservative
+SK1353	n	qas	no	vyzvedač	inclusive
+SK936	n	cds	no	šľachtenia rastlín	inclusive
+SK172	n	an	no	muttonhead	conservative
+SK228	n	cds	no	zbojník	inclusive
+SK1772	n	dmc	yes	hayseed	conservative
+SK51	n	ddp	yes	idiocia	conservative
+SK1485	n	cds	no	masy	conservative
+SK12	n	svp	no	nevšímavosť	inclusive
+SK2449	n	pr	no	hetaera	inclusive
+SK2062	v	re	no	hnevať	inclusive
+SK573	n	dmc	yes	ten a ten	inclusive
+SK563	n	ps	yes	bulharčina	inclusive
+SK825	n	or	no	buzík	conservative
+SK958	n	or	no	uhorky	inclusive
+SK1374	v	asm	no	jebať	conservative
+SK1471	n	ps	yes	Židia	inclusive
+SK967	n	qas	no	natrhať	conservative
+SK884	n	svp	no	túžba	inclusive
+SK163	n	an	no	hlupáčik	conservative
+SK823	n	om	no	buzerant	conservative
+SK175	n	an	no	ignorant	conservative
+SK1314	n	cds	no	fašizmu	conservative
+SK592	n	cds	no	staré vozidlo	inclusive
+SK873	n	an	no	bed bug	inclusive
+SK410	n	cds	no	nedbalý človek	conservative
+SK1106	n	svp	no	jedlík	inclusive
+SK2058	v	re	no	trýzniť	inclusive
+SK2060	v	qas	no	zlostiť	conservative
+SK776	n	pa	yes	profesorom extraordinarius	inclusive
+SK1502	n	qas	no	köln	inclusive
+SK238	n	ddp	yes	barbarstvo	inclusive
+SK1470	n	ps	yes	Židovská viera	inclusive
+SK1767	n	qas	no	cudzopasník	inclusive
+SK368	n	an	no	zlodej	inclusive
+SK2401	n	cds	no	conventicle	inclusive
+SK1651	n	qas	no	živnostník	inclusive
+SK1918	n	ddf	yes	half-pint	conservative
+SK237	n	ddp	yes	neľudskosť	inclusive
+SK1507	n	cds	no	zháňajú	conservative
+SK2349	a	qas	no	strednej triedy	inclusive
+SK453	n	qas	no	boner	inclusive
+SK282	n	asm	no	soft touch	conservative
+SK505	n	pr	no	dobytka	inclusive
+SK950	n	cds	no	chlapček	inclusive
+SK1672	n	cds	no	rustler	inclusive
+SK1620	n	cds	no	prekrúcanie pravdy	inclusive
+SK1077	n	om	no	keister	inclusive
+SK677	n	cds	no	chiseller	conservative
+SK1276	n	asm	no	faul	inclusive
+SK77	n	om	no	sodomia	inclusive
+SK652	n	cds	no	nambu-pamba	conservative
+SK2360	n	cds	no	šprtom	conservative
+SK332	n	cds	no	chaos	inclusive
+SK2069	v	asm	no	ošklbať	conservative
+SK1045	n	cds	no	špina	conservative
+SK1087	n	om	no	zadná časť	inclusive
+SK1557	n	is	yes	nemajetnosť	inclusive
+SK1551	n	ddp	yes	nezmysel	inclusive
+SK917	n	an	no	emydosauria	inclusive
+SK577	n	dmc	yes	chlap mizerná	conservative
+SK60	n	pa	yes	akademizme	inclusive
+SK461	n	qas	no	kiks	inclusive
+SK585	n	an	no	naničhodník	conservative
+SK215	n	svp	no	scrooge	conservative
+SK2524	n	cds	no	banditov	inclusive
+SK372	n	cds	no	cesty zástupca	conservative
+SK1692	n	cds	no	záchod	inclusive
+SK287	n	ddp	yes	chruňo	conservative
+SK583	n	re	no	darebný	conservative
+SK605	a	ddf	yes	zlé	inclusive
+SK188	n	svp	no	hrabivosti	inclusive
+SK1677	n	or	no	meticulosity	inclusive
+SK134	n	an	no	fauna	inclusive
+SK967	n	cds	no	natrhať	conservative
+SK1583	n	cds	no	ostentatiousness	conservative
+SK154	n	ps	yes	idiot	conservative
+SK411	n	cds	no	prasa	conservative
+SK486	n	qas	no	botcher	conservative
+SK2092	n	or	no	zemiaková	inclusive
+SK162	n	ddp	yes	ťulpas	conservative
+SK511	n	pr	no	voly	inclusive
+SK1370	n	cds	no	reakčné	conservative
+SK834	n	om	no	gej	inclusive
+SK948	n	qas	no	konformizmus	inclusive
+SK1181	n	dmc	yes	nemravnosť	inclusive
+SK880	n	cds	no	ľstivosť	conservative
+SK350	n	dmc	yes	bigotný človek	conservative
+SK127	n	an	no	zviera	inclusive
+SK2342	n	cds	no	vedeckosti	inclusive
+SK1183	n	cds	no	hriešnik	inclusive
+SK1996	n	re	no	slayer	inclusive
+SK770	n	qas	no	kasty	inclusive
+SK154	n	cds	no	idiot	inclusive
+SK428	n	cds	no	sviňa	conservative
+SK1197	n	dmc	yes	hýril	inclusive
+SK1083	n	om	no	buchty	inclusive
+SK828	n	om	no	prihriaty	conservative
+SK1806	n	asm	no	stĺp	inclusive
+SK69	n	cds	no	amour propre	conservative
+SK165	n	ddp	yes	peň	conservative
+SK351	n	svp	no	bigotnej	conservative
+SK850	n	an	no	zbabelec	conservative
+SK877	n	an	no	hemipteron	inclusive
+SK1527	n	cds	no	modloslužobníci	inclusive
+SK1642	n	cds	no	sassing	inclusive
+SK56	n	ddp	yes	mentálne	inclusive
+SK280	n	asm	no	vôl	conservative
+SK241	n	ddp	yes	brutalita	conservative
+SK1273	n	dmc	yes	klauniáda	inclusive
+SK234	n	cds	no	neotesanec	conservative
+SK337	n	ps	yes	beduín	inclusive
+SK908	n	asm	no	blbec-off	conservative
+SK479	n	dmc	yes	fumbler	conservative
+SK947	n	cds	no	bažant	conservative
+SK1238	n	om	no	fenikel	inclusive
+SK2305	v	re	no	odcudziť	inclusive
+SK1690	n	cds	no	kúpeľňa	inclusive
+SK562	n	ps	yes	bulharka	inclusive
+SK1215	n	pa	yes	poľnohospodár	inclusive
+SK1369	n	svp	no	topánka-off	conservative
+SK87	n	cds	no	vtip	inclusive
+SK1160	n	asm	no	stoporenie	inclusive
+SK1439	n	om	no	mužskej sexuality	inclusive
+SK806	n	an	no	králiky	inclusive
+SK1503	n	qas	no	koterec	inclusive
+SK307	n	pr	no	nedbalý žena	conservative
+SK578	n	dmc	yes	hobos	conservative
+SK224	n	qas	no	teste	inclusive
+SK1223	n	qas	no	roľníctvo	inclusive
+SK658	n	asm	no	changelings	inclusive
+SK2298	n	an	no	bufo	inclusive
+SK921	n	an	no	krokodílej	inclusive
+SK233	n	cds	no	divoch	conservative
+SK987	n	dmc	yes	podvod	conservative
+SK1103	n	svp	no	labužník	inclusive
+SK408	n	an	no	darebák	conservative
+SK2016	n	ddf	yes	ošklivosť	inclusive
+SK741	n	an	no	vulgarita	conservative
+SK1190	n	dmc	yes	zpustlík	conservative
+SK2093	n	or	no	irish zemiakov	inclusive
+SK1129	n	cds	no	hojnosť	inclusive
+SK1279	n	cds	no	slobodomurárstvo	inclusive
+SK2231	n	pr	no	kecy	conservative
+SK2332	n	cds	no	priemernosť	conservative
+SK2508	n	dmc	yes	treasonist	conservative
+SK1903	n	ps	yes	mongoloids	conservative
+SK2187	n	an	no	kurčiat	inclusive
+SK2528	n	ps	yes	zulus	inclusive
+SK496	n	an	no	zooerastia	conservative
+SK1012	n	ps	yes	hromotĺkov	conservative
+SK375	n	cds	no	psanec	inclusive
+SK498	n	re	no	zúrivosť	inclusive
+SK1469	n	ps	yes	židovskej rodine	inclusive
+SK343	n	cds	no	fabricator	conservative
+SK743	n	an	no	grossness	conservative
+SK160	n	asf	no	trúba	conservative
+SK1680	n	cds	no	schoolma'am	conservative
+SK1769	n	dmc	yes	křupan	conservative
+SK1358	n	asf	no	pussy	conservative
+SK1978	n	re	no	terorista	inclusive
+SK647	n	dmc	yes	zatratenec	inclusive
+SK903	n	an	no	athene noctua	inclusive
+SK544	n	om	no	sodomista	inclusive
+SK1437	n	is	yes	majú-nie	inclusive
+SK424	n	ddp	yes	čubčí syn	conservative
+SK1953	n	pa	yes	wooer	inclusive
+SK750	n	cds	no	problému	conservative
+SK287	n	or	no	chruňo	conservative
+SK657	n	asm	no	changeling	inclusive
+SK661	n	re	no	hanlivé	inclusive
+SK688	n	cds	no	ragtag	conservative
+SK686	n	cds	no	spodina	conservative
+SK2219	n	cds	no	protagonisti	inclusive
+SK1816	n	svp	no	napuchrenosť	inclusive
+SK475	n	cds	no	konformný	conservative
+SK622	n	cds	no	tábor	inclusive
+SK231	n	qas	no	barbar	conservative
+SK902	n	an	no	kuvik plačlivý	inclusive
+SK2048	n	is	yes	žobrák	conservative
+SK343	n	dmc	yes	fabricator	conservative
+SK788	n	or	no	kel	inclusive
+SK1570	n	svp	no	neaktívnosť	inclusive
+SK1147	n	cds	no	pustý teoretik	inclusive
+SK972	n	cds	no	šibal	conservative
+SK590	n	is	yes	zloduch	conservative
+SK1851	n	an	no	scorpion fish	inclusive
+SK1710	n	an	no	mosquitoe	inclusive
+SK585	n	is	yes	naničhodník	conservative
+SK946	n	cds	no	nováčik	conservative
+SK1825	n	svp	no	vypínavosť	inclusive
+SK2196	n	cds	no	bábo	inclusive
+SK1760	n	qas	no	natierač	inclusive
+SK577	n	dmc	yes	chlap mizerná	inclusive
+SK1380	a	cds	no	nezákonný	inclusive
+SK467	n	cds	no	mýlka	inclusive
+SK858	n	cds	no	komunálneho odpadu	inclusive
+SK76	n	om	no	pedikácia	inclusive
+SK1379	v	asm	no	mrdať	conservative
+SK453	n	cds	no	boner	inclusive
+SK2446	n	om	no	transvestitita	inclusive
+SK378	n	cds	no	zakázaný	inclusive
+SK1433	n	pr	no	prostitúcia	conservative
+SK1584	n	cds	no	pompéznosť	conservative
+SK1635	n	cds	no	loanshark	inclusive
+SK468	n	cds	no	chvastúni	conservative
+SK1043	n	cds	no	grunge	inclusive
+SK428	n	an	no	sviňa	conservative
+SK1047	n	an	no	svinstvo	conservative
+SK2415	n	re	no	agónia	inclusive
+SK2518	n	ps	yes	romáci	inclusive
+SK1590	n	cds	no	učiteľka	inclusive
+SK424	n	cds	no	čubčí syn	conservative
+SK1181	n	dmc	yes	nemravnosť	conservative
+SK2443	n	om	no	transvestitizmus	inclusive
+SK1571	n	ddp	yes	nekompetentní osoba	conservative
+SK290	n	is	yes	chudák	inclusive
+SK1871	n	an	no	mikróby	inclusive
+SK1295	n	cds	no	fundamentalista	inclusive
+SK1165	n	an	no	slimáky	inclusive
+SK1484	n	cds	no	všeobecný ľud	inclusive
+SK415	n	cds	no	teraz	inclusive
+SK970	n	qas	no	odmietnuť	conservative
+SK2003	n	or	no	rajčina	inclusive
+SK2082	v	cds	no	skonať	inclusive
+SK2440	n	om	no	transvestita	inclusive
+SK218	n	asm	no	testis	inclusive
+SK2008	n	dmc	yes	homunculus	inclusive
+SK1228	n	qas	no	šafár	inclusive
+SK463	n	cds	no	babrácka práca	inclusive
+SK2180	n	re	no	plagování	inclusive
+SK1027	n	an	no	diddl	conservative
+SK659	n	ddp	yes	odročiť	conservative
+SK827	n	om	no	podivný	conservative
+SK1992	n	re	no	vrahovia	inclusive
+SK1149	n	cds	no	delikt	inclusive
+SK2334	n	an	no	aureus	inclusive
+SK1689	n	cds	no	wc	inclusive
+SK997	n	pr	no	konkubíny	inclusive
+SK72	n	om	no	análny styk	inclusive
+SK1810	n	is	yes	zlý	inclusive
+SK593	n	cds	no	kraksna	inclusive
+SK1198	n	om	no	invalid	conservative
+SK351	n	dmc	yes	bigotnej	conservative
+SK2419	n	re	no	mučenia	inclusive
+SK852	n	cds	no	mountebank	conservative
+SK678	n	dmc	yes	švindliar	conservative
+SK1510	n	an	no	hyena	inclusive
+SK2164	a	svp	no	majetnícky	inclusive
+SK945	n	re	no	trýznenie	inclusive
+SK2197	n	cds	no	bábä	inclusive
+SK1524	n	qas	no	ideológia	inclusive
+SK1633	n	cds	no	úžerníka	conservative
+SK1582	n	cds	no	pompousness	conservative
+SK377	n	cds	no	zločinec	conservative
+SK167	n	ddp	yes	kretén	inclusive
+SK457	n	cds	no	zbabrat	inclusive
+SK2344	n	ddp	yes	sprostota	inclusive
+SK1356	n	qas	no	sliedič	inclusive
+SK269	n	qas	no	barokovej architektúry	inclusive
+SK1461	n	ps	yes	židovské náboženstvo	inclusive
+SK1323	n	asm	no	faba bean	inclusive
+SK514	n	cds	no	boss	inclusive
+SK2459	n	re	no	ndrangheta	inclusive
+SK885	n	svp	no	tršna	inclusive
+SK2176	n	asm	no	wanke	conservative
+SK734	n	svp	no	niggardliness	conservative
+SK1103	n	svp	no	labužník	conservative
+SK1751	n	an	no	megascops	inclusive
+SK159	n	ddp	yes	zabedněnec	conservative
+SK1316	n	cds	no	fašistická	conservative
+SK1740	n	cds	no	hekáč	conservative
+SK2441	n	om	no	transvestitismus	inclusive
+SK654	n	cds	no	kritin	inclusive
+SK1531	n	is	yes	uličník	conservative
+SK228	n	cds	no	zbojník	conservative
+SK385	n	ddp	yes	taleteller	conservative
+SK342	n	dmc	yes	klamár	inclusive
+SK2070	v	re	no	ošudiť	inclusive
+SK2127	n	dmc	yes	rozmařilec	conservative
+SK1185	n	dmc	yes	úbožiak	conservative
+SK495	n	an	no	zooerasty	conservative
+SK516	n	cds	no	šéf	inclusive
+SK1311	n	dmc	yes	mafián	inclusive
+SK1472	n	ps	yes	židovstva	inclusive
+SK795	n	svp	no	žiadostivosť	inclusive
+SK368	n	re	no	zlodej	inclusive
+SK1101	n	qas	no	búdy	inclusive
+SK688	n	ddp	yes	ragtag	conservative
+SK399	n	qas	no	magnátov	inclusive
+SK829	n	om	no	gay	conservative
+SK1433	n	pr	no	prostitúcia	inclusive
+SK2059	v	re	no	týrať	inclusive
+SK1123	n	cds	no	stohy	inclusive
+SK867	n	an	no	ploštica	inclusive
+SK2015	n	ddf	yes	šerednosť	inclusive
+SK408	n	re	no	darebák	conservative
+SK2331	n	cds	no	nemotorný človek	conservative
+SK354	n	cds	no	člen gangu	inclusive
+SK1149	n	dmc	yes	delikt	inclusive
+SK739	n	cds	no	neporiadok	conservative
+SK1878	n	an	no	animalcules	inclusive
+SK1879	n	an	no	animalcule	inclusive
+SK460	n	cds	no	fušerstvo	inclusive
+SK659	n	cds	no	odročiť	inclusive
+SK1850	n	an	no	sea scorpion	inclusive
+SK1350	n	qas	no	špiceľ	inclusive
+SK1823	n	svp	no	arogantnosť	inclusive
+SK2332	n	dmc	yes	priemernosť	conservative
+SK2495	n	re	no	násilie	inclusive
+SK900	n	an	no	sova	inclusive
+SK1414	n	cds	no	zlodejský	inclusive
+SK793	n	svp	no	zmyselná žiadosť	inclusive
+SK1193	n	dmc	yes	voľnomyšlienkarstvo	conservative
+SK1329	n	asf	no	pošva	conservative
+SK2485	n	cds	no	predajnosť	conservative
+SK185	n	svp	no	sedem smrteľných hriechov	inclusive
+SK348	a	cds	no	hlúpy	conservative
+SK231	n	ddp	yes	barbar	conservative
+SK1696	n	cds	no	latrína	inclusive
+SK1104	n	svp	no	ryhovacie	inclusive
+SK2020	n	dmc	yes	nešťastník	inclusive
+SK218	n	qas	no	testis	inclusive
+SK213	n	svp	no	držgroš	conservative
+SK359	n	cds	no	pouličných gangov	conservative
+SK2270	n	cds	no	pätolizač	conservative
+SK156	n	ddp	yes	somár	conservative
+SK327	n	cds	no	šviháci	inclusive
+SK320	n	dmc	yes	klamstvo	inclusive
+SK2370	a	cds	no	chytrý	inclusive
+SK2275	a	dmc	yes	špinavé	inclusive
+SK504	n	svp	no	otrava	inclusive
+SK1555	n	is	yes	chudobný	inclusive
+SK953	n	asf	no	pizda	conservative
+SK682	n	cds	no	scammer	inclusive
+SK2451	n	asm	no	roosting	inclusive
+SK2039	n	an	no	červík	inclusive
+SK1307	n	svp	no	byť skľúčený	conservative
+SK1551	n	ddp	yes	nezmysel	conservative
+SK439	n	pa	yes	pohrebného ústavu	inclusive
+SK537	n	qas	no	podnikateľ	inclusive
+SK1050	n	an	no	podraz	conservative
+SK459	n	cds	no	bloopers	inclusive
+SK1795	n	dmc	yes	zloba	inclusive
+SK2	n	dmc	yes	poníženie	inclusive
+SK1844	n	qas	no	rétor	inclusive
+SK301	n	pr	no	neviestka	conservative
+SK1042	n	ps	yes	kraut	conservative
+SK700	n	or	no	homosexuál	conservative
+SK1539	n	ddf	yes	slabosť	inclusive
+SK1641	n	re	no	sprenevera	inclusive
+SK63	n	an	no	bizón	inclusive
+SK1706	n	ps	yes	mongolskej	inclusive
+SK59	n	ddp	yes	idiotství	inclusive
+SK898	n	an	no	sovotvaré	inclusive
+SK2052	a	qas	no	provinčný	inclusive
+SK1073	n	om	no	koniec lane	inclusive
+SK2011	n	dmc	yes	trickster	conservative
+SK833	n	om	no	homophile	inclusive
+SK168	n	or	no	tupec	conservative
+SK2189	n	an	no	kura	inclusive
+SK2145	n	cds	no	kverulant	conservative
+SK2099	n	or	no	zemiak	inclusive
+SK1853	n	cds	no	kanalizácie	inclusive
+SK832	n	or	no	gayov	conservative
+SK352	n	svp	no	fanatik	conservative
+SK1749	n	ps	yes	ostrogóti	inclusive
+SK425	n	cds	no	chuj	conservative
+SK106	n	cds	no	prenasledovateľ	conservative
+SK302	n	an	no	prostitútka	conservative
+SK1122	n	cds	no	výsledky	inclusive
+SK500	n	svp	no	nuda	inclusive
+SK677	n	cds	no	chiseller	inclusive
+SK800	n	asm	no	nook	conservative
+SK270	n	qas	no	baroqueness	inclusive
+SK409	n	an	no	špindíra	conservative
+SK1499	n	qas	no	chatrč	inclusive
+SK1765	n	cds	no	fotoreportér	inclusive
+SK233	n	dmc	yes	divoch	conservative
+SK2407	n	re	no	terorizmu	conservative
+SK1679	n	or	no	úzkostlivosť	inclusive
+SK712	n	cds	no	kmeňových spoločnostiach	inclusive
+SK583	n	is	yes	darebný	conservative
+SK1936	n	ps	yes	negroids	inclusive
+SK1133	n	an	no	trpaslík	conservative
+SK197	n	cds	no	sprostosť	inclusive
+SK156	n	an	no	somár	inclusive
+SK634	n	an	no	ľudožrút	inclusive
+SK2200	n	cds	no	dieťa	inclusive
+SK1773	n	dmc	yes	chawbacon	conservative
+SK1363	n	an	no	kozie antilopy	inclusive
+SK96	n	qas	no	všehochuť	inclusive
+SK1729	n	cds	no	dojča	inclusive
+SK1519	n	qas	no	ideológ	inclusive
+SK2140	n	cds	no	fáma	inclusive
+SK1002	n	pr	no	dvoran	inclusive
+SK366	n	an	no	rogue	conservative
+SK390	n	cds	no	darebáctva	conservative
+SK490	n	pa	yes	predavač cestov. lístkov	inclusive
+SK539	n	qas	no	podnikateľka	inclusive
+SK1377	v	asm	no	drbať	conservative
+SK2203	a	ddf	yes	slepý	inclusive
+SK1356	n	cds	no	sliedič	conservative
+SK681	n	re	no	defrauder	inclusive
+SK485	n	cds	no	babroš	conservative
+SK325	n	cds	no	sušiak na bielizeň	inclusive
+SK284	n	cds	no	puding hlava	conservative
+SK1921	n	cds	no	narcistický	inclusive
+SK317	n	pr	no	chlapcom nájmu	conservative
+SK1817	n	svp	no	panština	inclusive
+SK187	n	svp	no	siedmich smrteľných hriechov	inclusive
+SK83	n	qas	no	stúpenec	inclusive
+SK1302	n	an	no	hnev	inclusive
+SK166	n	or	no	mamlas	conservative
+SK2071	v	asm	no	ošklbávať	conservative
+SK233	n	ps	yes	divoch	inclusive
+SK284	n	or	no	puding hlava	conservative
+SK711	n	cds	no	japonských jednotiek merania	inclusive
+SK2218	n	cds	no	obhajoba	inclusive
+SK407	n	re	no	ničomník	conservative
+SK1210	n	cds	no	pasák	conservative
+SK1628	n	re	no	vrah	inclusive
+SK1007	n	an	no	drancovník	inclusive
+SK1300	n	an	no	zlosť	inclusive
+SK738	n	qas	no	zmes	inclusive
+SK1599	n	cds	no	scrawler	conservative
+SK1057	n	svp	no	znechutenie	inclusive
+SK668	n	re	no	calunnia	inclusive
+SK359	n	cds	no	pouličných gangov	inclusive
+SK864	n	an	no	odpočúvanie	inclusive
+SK2014	n	ddf	yes	škaredosť	inclusive
+SK279	n	an	no	obetný baránok	conservative
+SK953	n	or	no	pizda	conservative
+SK423	n	ddp	yes	podvodník	conservative
+SK2404	n	re	no	terorizem	inclusive
+SK366	n	re	no	rogue	conservative
+SK1133	n	ddf	yes	trpaslík	conservative
+SK152	n	asm	no	betis	conservative
+SK217	n	qas	no	jadro	inclusive
+SK374	n	cds	no	banditti	conservative
+SK1196	n	dmc	yes	scattergood	inclusive
+SK647	n	is	yes	zatratenec	inclusive
+SK2222	n	pr	no	fornicatress	conservative
+SK498	n	ddp	yes	zúrivosť	conservative
+SK386	n	ddp	yes	donášača	conservative
+SK478	n	qas	no	nešika	conservative
+SK574	n	dmc	yes	git	inclusive
+SK1	n	is	yes	bieda	inclusive
+SK892	n	an	no	nechať kogo	conservative
+SK2131	a	om	no	neprirodzený	inclusive
+SK1008	n	an	no	despoiler	inclusive
+SK1636	n	cds	no	úver sharking	inclusive
+SK375	n	re	no	psanec	inclusive
+SK1493	n	qas	no	dom maľba	inclusive
+SK477	n	ddp	yes	bumbler	conservative
+SK1177	n	dmc	yes	morálny kompas	inclusive
+SK237	n	an	no	neľudskosť	inclusive
+SK2371	a	ddf	yes	škaredý	conservative
+SK2103	v	qas	no	líčiť	inclusive
+SK227	n	cds	no	bandita	inclusive
+SK1746	n	re	no	talianskej mafie	conservative
+SK1325	n	asm	no	široký-bean	inclusive
+SK1290	n	an	no	mračiť	inclusive
+SK1991	n	re	no	zabíjanie	inclusive
+SK2377	n	pr	no	svetluška svätojánska	inclusive
+SK367	n	cds	no	tulák	conservative
+SK2377	n	an	no	svetluška svätojánska	inclusive
+SK266	n	qas	no	barón	inclusive
+SK2312	n	cds	no	rozumbrada	conservative
+SK1096	n	om	no	zadok	inclusive
+SK583	n	cds	no	darebný	conservative
+SK379	n	cds	no	vyhnanstvom	conservative
+SK261	n	an	no	psie	inclusive
+SK1584	n	cds	no	pompéznosť	inclusive
+SK1842	n	cds	no	relikvie	inclusive
+SK319	n	dmc	yes	nepravda	inclusive
+SK676	n	re	no	camorra	inclusive
+SK2460	n	re	no	%e2%80%99ndrangheta	inclusive
+SK2186	n	re	no	plagiát	inclusive
+SK2084	v	cds	no	zomierať	inclusive
+SK2257	n	re	no	okradnutý	inclusive
+SK2207	n	is	yes	človek, nemajetný	inclusive
+SK1623	n	re	no	neonaticide	inclusive
+SK432	n	ps	yes	bastard	inclusive
+SK982	n	om	no	dame	inclusive
+SK1	n	dmc	yes	bieda	inclusive
+SK1963	n	cds	no	satyriasis	conservative
+SK1833	n	cds	no	superbia	conservative
+SK2155	n	an	no	pediculus corporis	inclusive
+SK379	n	dmc	yes	vyhnanstvom	inclusive
+SK657	n	ddp	yes	changeling	inclusive
+SK704	n	cds	no	clann	inclusive
+SK1783	n	qas	no	endoparasites	inclusive
+SK2041	n	an	no	Červy	inclusive
+SK192	n	svp	no	avariciousness	inclusive
+SK2427	n	pa	yes	administratívny pracovník	inclusive
+SK94	n	cds	no	omnium-gatherum	inclusive
+SK1511	n	an	no	hyenovité	inclusive
+SK2028	n	cds	no	Úžerníctvo	inclusive
+SK2075	n	qas	no	neplechu-maker	conservative
+SK2057	n	cds	no	zbohatlík	inclusive
+SK2324	n	an	no	švábovité	inclusive
+SK653	n	asf	no	retard	conservative
+SK1232	n	re	no	exact	inclusive
+SK1645	n	cds	no	sass	inclusive
+SK1286	n	cds	no	free murár	inclusive
+SK1548	n	ddp	yes	riť	conservative
+SK2402	n	cds	no	trasformismo	inclusive
+SK1484	n	cds	no	všeobecný ľud	conservative
+SK1308	n	svp	no	márnosť	conservative
+SK1909	n	pr	no	socialite	inclusive
+SK486	n	dmc	yes	botcher	conservative
+SK1213	n	pr	no	stále žena	conservative
+SK854	n	ddp	yes	šarlatánstvo	conservative
+SK1477	n	ps	yes	Žid	inclusive
+SK374	n	re	no	banditti	inclusive
+SK719	n	pa	yes	úradník	inclusive
+SK2424	n	an	no	balóna hltač	inclusive
+SK524	n	pr	no	potkan	inclusive
+SK574	n	cds	no	git	conservative
+SK163	n	or	no	hlupáčik	conservative
+SK478	n	cds	no	nešika	conservative
+SK1732	n	cds	no	páchateľa	inclusive
+SK153	n	an	no	zadubenec	conservative
+SK213	n	ddp	yes	držgroš	conservative
+SK1302	n	svp	no	hnev	inclusive
+SK1355	n	qas	no	špión	inclusive
+SK1801	n	an	no	shot	inclusive
+SK1745	n	cds	no	sicílskej mafie	conservative
+SK1053	n	svp	no	antipatia	inclusive
+SK509	n	an	no	volovi	inclusive
+SK834	n	or	no	gej	conservative
+SK2330	n	an	no	blattaria	inclusive
+SK554	n	qas	no	na prácu	inclusive
+SK506	n	an	no	kravy	inclusive
+SK680	n	cds	no	podfukár	inclusive
+SK2447	n	om	no	kríž obliekania	inclusive
+SK298	n	an	no	cundra	conservative
+SK654	n	asf	no	kritin	conservative
+SK992	n	cds	no	demagogické	conservative
+SK1633	n	cds	no	úžerníka	inclusive
+SK564	n	cds	no	spupnosť	conservative
+SK1638	n	an	no	insecta	inclusive
+SK1421	n	re	no	ukradnutý majetok	inclusive
+SK2290	n	an	no	salientian	inclusive
+SK280	n	ddp	yes	vôl	conservative
+SK2049	n	qas	no	moocher	conservative
+SK1411	n	re	no	zlodejstvo	inclusive
+SK377	n	cds	no	zločinec	inclusive
+SK41	a	pa	yes	teoretické	inclusive
+SK2063	v	qas	no	trápiť	conservative
+SK2135	v	cds	no	klebetiť	inclusive
+SK746	n	cds	no	hellion	conservative
+SK1076	n	om	no	distálnej	inclusive
+SK1634	n	cds	no	moneylending	inclusive
+SK910	n	asm	no	twirp	conservative
+SK1969	n	qas	no	nájomca	inclusive
+SK1311	n	cds	no	mafián	inclusive
+SK296	n	asm	no	blbecek	conservative
+SK292	n	ddp	yes	pudden hlava	conservative
+SK2237	n	pa	yes	revízor účtov	inclusive
+SK925	n	an	no	crocodylidae	inclusive
+SK1302	n	svp	no	hnev	conservative
+SK1785	n	qas	no	farností	inclusive
+SK375	n	dmc	yes	psanec	inclusive
+SK1572	n	ddp	yes	nekompetentná osoba	conservative
+SK1339	n	cds	no	dozorca	inclusive
+SK1185	n	dmc	yes	úbožiak	inclusive
+SK883	n	svp	no	tanhá	inclusive
+SK198	n	ddp	yes	ťažkopádnosť	inclusive
+SK2184	n	re	no	plagiarisation	inclusive
+SK1019	n	re	no	zločin	inclusive
+SK152	n	an	no	betis	conservative
+SK1400	a	cds	no	prešibaný	conservative
+SK215	n	is	yes	scrooge	conservative
+SK170	n	cds	no	blbec	inclusive
+SK1525	n	cds	no	modlárstvo	inclusive
+SK2170	a	svp	no	zlostný	inclusive
+SK132	n	ddp	yes	Živočíchy	inclusive
+SK447	n	qas	no	vedomá nedbalosť	inclusive
+SK2232	n	pr	no	žvásty	conservative
+SK94	n	qas	no	omnium-gatherum	inclusive
+SK149	n	cds	no	dôvtip	inclusive
+SK2294	n	an	no	žábovitý	inclusive
+SK827	n	or	no	podivný	conservative
+SK2042	n	an	no	prerieknutie	inclusive
+SK720	n	pa	yes	účtovník	inclusive
+SK1618	n	dmc	yes	prevaricator	conservative
+SK1838	n	re	no	priekupník	inclusive
+SK1811	n	pa	yes	údenárstvo	inclusive
+SK680	n	re	no	podfukár	inclusive
+SK2123	v	an	no	vyčíňať	conservative
+SK175	n	ddp	yes	ignorant	conservative
+SK1632	n	cds	no	loansharking	conservative
+SK2109	n	cds	no	pedant	conservative
+SK1417	n	re	no	lup	inclusive
+SK2526	n	cds	no	hysterománia	inclusive
+SK1966	n	cds	no	hypersexualita	conservative
+SK137	n	an	no	makrofaunu	inclusive
+SK870	n	an	no	cimex lectularius	inclusive
+SK161	n	ddp	yes	muggins	conservative
+SK389	n	cds	no	zlomyseľný	conservative
+SK836	n	cds	no	rumormonger	conservative
+SK1531	n	cds	no	uličník	inclusive
+SK2118	v	an	no	rozčuľovať sa	conservative
+SK1026	n	an	no	diddlyshit	conservative
+SK852	n	ddp	yes	mountebank	conservative
+SK377	n	re	no	zločinec	inclusive
+SK1779	n	qas	no	parazitizmu	inclusive
+SK965	n	or	no	cucurbita maxima	inclusive
+SK2007	n	dmc	yes	homunculi	inclusive
+SK252	n	pa	yes	obhajcu	inclusive
+SK1900	n	ps	yes	mongolidná rasa	conservative
+SK455	n	cds	no	trapas	inclusive
+SK1984	n	an	no	kliešť	inclusive
+SK627	n	cds	no	vozidlo vlaku	inclusive
+SK576	n	cds	no	lowlife	conservative
+SK1085	n	om	no	vená	inclusive
+SK2478	n	om	no	drag queen	inclusive
+SK2321	n	an	no	hirudinean	inclusive
+SK1086	n	om	no	tush	inclusive
+SK566	n	cds	no	povýšenosť	conservative
+SK431	n	cds	no	nelegitímne	inclusive
+SK1112	n	pa	yes	sála porter	inclusive
+SK1907	n	ps	yes	Žltohnedá rasa	conservative
+SK1980	n	cds	no	omerta	inclusive
+SK987	n	an	no	podvod	conservative
+SK166	n	asf	no	mamlas	conservative
+SK2491	n	pr	no	dvoranov	inclusive
+SK169	n	or	no	šmejd	conservative
+SK2489	n	cds	no	ničomný	conservative
+SK1802	n	an	no	prasiatko	inclusive
+SK1243	n	dmc	yes	smrdieť	conservative
+SK2153	n	an	no	cootie	inclusive
+SK1650	n	qas	no	skladník	inclusive
+SK654	n	ddp	yes	kritin	conservative
+SK566	n	svp	no	povýšenosť	inclusive
+SK1115	n	re	no	previnilec	conservative
+SK448	n	qas	no	faul-up	inclusive
+SK666	n	re	no	traducement	inclusive
+SK2470	n	cds	no	konšpiračná teória	inclusive
+SK374	n	dmc	yes	banditti	inclusive
+SK1489	n	dmc	yes	bezdomovcov	inclusive
+SK783	n	pa	yes	profesor	inclusive
+SK419	n	cds	no	mutt	inclusive
+SK484	n	qas	no	fušer	conservative
+SK2122	v	an	no	šalieť	conservative
+SK1413	n	re	no	zlodeji	inclusive
+SK10	n	svp	no	ľahostajnosť	inclusive
+SK1733	n	cds	no	páchateľ	inclusive
+SK1660	n	asm	no	úd	inclusive
+SK2005	n	re	no	mučiteľov	inclusive
+SK346	n	pa	yes	sluha	inclusive
+SK673	n	re	no	maligner	conservative
+SK209	n	cds	no	bawdyhouse	inclusive
+SK446	n	dmc	yes	roue	conservative
+SK2392	n	re	no	sexuálnych útokov	inclusive
+SK51	n	cds	no	idiocia	inclusive
+SK508	n	pr	no	bos taurus	inclusive
+SK1434	n	pr	no	sexuálnych služieb	conservative
+SK1917	n	cds	no	zakrslík	conservative
+SK2452	n	asm	no	vtákov	inclusive
+SK289	n	or	no	stupe	conservative
+SK1463	n	ps	yes	judaizmus	inclusive
+SK930	n	cds	no	kríženie	inclusive
+SK768	n	svp	no	samoľúbosť	inclusive
+SK1804	n	asm	no	tyč	inclusive
+SK1576	n	ddp	yes	nevedomosť	conservative
+SK1916	n	or	no	squash	inclusive
+SK413	n	an	no	neporiadník	conservative
+SK2249	n	re	no	prepadnutí	inclusive
+SK6	n	svp	no	aboulia	inclusive
+SK113	n	ddp	yes	analphabetic	inclusive
+SK1908	n	pr	no	socialites	inclusive
+SK456	n	cds	no	hrubá chyba	inclusive
+SK2319	n	an	no	hirudinea	inclusive
+SK851	n	cds	no	zbabelosť	conservative
+SK1544	n	ddf	yes	postihnutím	inclusive
+SK670	n	re	no	vilifier	conservative
+SK2378	n	re	no	roztopašníkov	conservative
+SK411	n	an	no	prasa	conservative
+SK797	n	asm	no	súložiť	conservative
+SK1285	n	cds	no	free mason	inclusive
+SK385	n	cds	no	taleteller	conservative
+SK2183	n	re	no	opísal	inclusive
+SK680	n	cds	no	podfukár	conservative
+SK901	n	an	no	strigiformes	inclusive
+SK1192	n	dmc	yes	zhýralec	conservative
+SK2260	n	re	no	prepadnutia	inclusive
+SK819	n	cds	no	korešpondentov	inclusive
+SK889	n	an	no	koketa	conservative
+SK1786	n	qas	no	farnosť	inclusive
+SK1301	n	an	no	afekt	inclusive
+SK358	n	cds	no	gangy	conservative
+SK423	n	dmc	yes	podvodník	conservative
+SK2466	n	ps	yes	červenú kartu	inclusive
+SK243	n	qas	no	díler	inclusive
+SK1630	n	cds	no	úžerník	inclusive
+SK1238	n	or	no	fenikel	inclusive
+SK286	n	or	no	sprosták	conservative
+SK330	n	cds	no	chaosu	inclusive
+SK2034	n	an	no	sup	inclusive
+SK894	n	asm	no	credulousness	conservative
+SK1413	n	cds	no	zlodeji	inclusive
+SK494	n	ddp	yes	zvierackosti	conservative
+SK2458	n	cds	no	stoka	inclusive
+SK414	n	dmc	yes	flákač	conservative
+SK1366	n	dmc	yes	ne'er-robiť-dobre	conservative
+SK1722	n	an	no	mul	inclusive
+SK1849	n	an	no	ropušnic	inclusive
+SK1506	n	cds	no	wheeler predajcu	conservative
+SK2376	n	pr	no	svietivka svätojánska	inclusive
+SK1071	n	om	no	za	inclusive
+SK1169	n	dmc	yes	mravnosť	inclusive
+SK104	n	ddp	yes	ornament	conservative
+SK1311	n	cds	no	mafián	conservative
+SK2177	n	re	no	pirátstvo	inclusive
+SK2437	n	om	no	cross-bielizník	inclusive
+SK1460	n	om	no	uranizmus	inclusive
+SK567	n	svp	no	arogancia	conservative
+SK222	n	qas	no	ballock	inclusive
+SK158	n	cds	no	hlupák	conservative
+SK1720	n	an	no	vliekli	conservative
+SK2046	n	qas	no	vyžírka	conservative
+SK1089	n	om	no	tooshie	inclusive
+SK2174	n	cds	no	onanovanie	conservative
+SK1735	n	svp	no	oplzlé	inclusive
+SK1272	n	dmc	yes	šašo	inclusive
+SK1683	n	cds	no	verejné toalety	inclusive
+SK1210	n	cds	no	pasák	inclusive
+SK350	n	cds	no	bigotný človek	conservative
+SK30	n	cds	no	agent	inclusive
+SK172	n	or	no	muttonhead	conservative
+SK308	n	pr	no	troska	conservative
+SK309	n	an	no	floozy	conservative
+SK1022	n	re	no	Čin trestný	inclusive
+SK541	n	an	no	starý svet buffalo	inclusive
+SK2404	n	re	no	terorizem	conservative
+SK290	n	ddp	yes	chudák	conservative
+SK1951	n	ps	yes	rovníková rasa	inclusive
+SK822	n	om	no	homoš	conservative
+SK2376	n	an	no	svietivka svätojánska	inclusive
+SK1596	n	cds	no	pisateľ	conservative
+SK1712	n	an	no	mora	inclusive
+SK2504	n	dmc	yes	odpadlíčka	conservative
+SK311	n	pr	no	floozie	conservative
+SK201	n	cds	no	cathouse	inclusive
+SK1347	n	cds	no	nosy-parker	conservative
+SK645	n	cds	no	kasíno	inclusive
+SK23	n	re	no	zneužívania	inclusive
+SK2201	n	cds	no	nemluvňa	inclusive
+SK2188	n	an	no	domáceho kurčaťa	inclusive
+SK1474	n	ps	yes	Židovský národ	inclusive
+SK596	n	cds	no	cacography	inclusive
+SK710	n	cds	no	príbuzenstvo	inclusive
+SK217	n	asm	no	jadro	inclusive
+SK809	n	an	no	králika	inclusive
+SK918	n	an	no	crocodylia	inclusive
+SK1626	n	svp	no	gorger	conservative
+SK370	n	cds	no	únosca	conservative
+SK81	n	svp	no	leňoch	conservative
+SK846	n	an	no	moo-cow	inclusive
+SK1902	n	ps	yes	mongoloidná rasa	conservative
+SK2522	n	ps	yes	romovka	inclusive
+SK1516	n	cds	no	croon	inclusive
+SK1913	n	an	no	komárov	inclusive
+SK2055	n	cds	no	nouveaux bohatstvo	inclusive
+SK980	n	om	no	dáma	inclusive
+SK34	n	cds	no	sprostredkovateľ	inclusive
+SK1552	n	ddp	yes	nezmyselný	conservative
+SK108	n	cds	no	fanatizmus	conservative
+SK2022	a	qas	no	obyčajný	inclusive
+SK1965	n	cds	no	nymfománia	inclusive
+SK476	n	cds	no	konformista	conservative
+SK2284	a	dmc	yes	false	conservative
+SK1190	n	cds	no	zpustlík	conservative
+SK1350	n	cds	no	špiceľ	conservative
+SK2455	n	asm	no	vtáky	inclusive
+SK633	n	an	no	carcharodon	inclusive
+SK956	n	asf	no	piča	conservative
+SK460	n	qas	no	fušerstvo	inclusive
+SK279	n	ddp	yes	obetný baránok	conservative
+SK1300	n	svp	no	zlosť	conservative
+SK574	n	dmc	yes	git	conservative
+SK857	n	cds	no	železný šrot	inclusive
+SK2190	n	an	no	volaille	inclusive
+SK2315	n	cds	no	mudrlant	conservative
+SK130	n	ddp	yes	rozmnožovanie živočíchov	inclusive
+SK829	n	om	no	gay	inclusive
+SK383	n	cds	no	blabbermouth	conservative
+SK2375	n	pr	no	lampyris noctiluca	inclusive
+SK576	n	an	no	lowlife	conservative
+SK1227	n	qas	no	hospodár	inclusive
+SK1509	n	an	no	hyeny	inclusive
+SK1764	n	cds	no	paparazzi	inclusive
+SK1372	n	cds	no	extrémnej pravičiar	conservative
+SK2422	v	re	no	mučiť	inclusive
+SK164	n	ps	yes	blázon	conservative
+SK312	n	pr	no	mužský sprievod	conservative
+SK2433	n	om	no	kríž bielizník	inclusive
+SK625	n	ddp	yes	zajatec	inclusive
+SK50	n	ddp	yes	slabomyselnosť	inclusive
+SK1546	n	ddf	yes	neschopnosť	inclusive
+SK2527	n	cds	no	metrománia	inclusive
+SK2062	v	qas	no	hnevať	conservative
+SK152	n	asf	no	betis	conservative
+SK126	n	ddp	yes	epifauna	inclusive
+SK2479	n	pa	yes	obuvník	inclusive
+SK15	n	qas	no	pomocníkov	inclusive
+SK1025	n	re	no	zločiny	inclusive
+SK1357	n	cds	no	fízel	conservative
+SK57	n	ddp	yes	slabomyseľnosť	inclusive
+SK425	n	asm	no	chuj	conservative
+SK1134	n	an	no	nanus	conservative
+SK1812	n	pa	yes	nosič batožiny	inclusive
+SK1619	n	qas	no	cigánstvo	conservative
+SK1983	n	an	no	kliešťovité	inclusive
+SK119	n	an	no	úhor	inclusive
+SK1166	n	qas	no	amatér	inclusive
+SK225	n	asm	no	semenníky	inclusive
+SK1419	n	re	no	nepoctivo získané peniaze	inclusive
+SK1737	n	cds	no	poliš	inclusive
+SK1215	n	rci	yes	poľnohospodár	inclusive
+SK1319	n	asm	no	európska bean	inclusive
+SK817	n	cds	no	novinárka	inclusive
+SK1013	n	ddp	yes	spratek	conservative
+SK171	n	an	no	lunkhead	conservative
+SK1429	n	pr	no	komerčných sexuálnych	conservative
+SK478	n	ddp	yes	nešika	conservative
+SK551	n	qas	no	profesionálnej triedy	inclusive
+SK299	n	an	no	suka	inclusive
+SK1115	n	dmc	yes	previnilec	conservative
+SK2233	n	pr	no	drísty	conservative
+SK1581	n	cds	no	splashiness	inclusive
+SK2065	v	asm	no	obrať o niečo	conservative
+SK2117	v	an	no	zúriť	conservative
+SK581	n	cds	no	ničnerobenie	conservative
+SK2496	n	re	no	násilné	inclusive
+SK2048	n	qas	no	žobrák	conservative
+SK547	n	qas	no	strednej triedy	inclusive
+SK2070	v	asm	no	ošudiť	conservative
+SK1770	n	cds	no	rubom	conservative
+SK2040	n	an	no	červ	inclusive
+SK599	n	cds	no	čmáranina	inclusive
+SK1753	n	an	no	otus asio	inclusive
+SK735	n	svp	no	tightfistedness	conservative
+SK232	n	rci	yes	hulvát	conservative
+SK1430	n	pr	no	prostitútky	conservative
+SK1396	n	an	no	sus	inclusive
+SK1134	n	ddf	yes	nanus	conservative
+SK10	n	svp	no	ľahostajnosť	conservative
+SK230	n	cds	no	lupičstva	inclusive
+SK462	n	cds	no	zpackat	inclusive
+SK1481	n	cds	no	masa	conservative
+SK970	n	cds	no	odmietnuť	conservative
+SK1428	n	pr	no	sexuálne služby	inclusive
+SK2138	n	cds	no	klebeta	inclusive
+SK163	n	ddp	yes	hlupáčik	conservative
+SK838	n	cds	no	gossipmonger	conservative
+SK2060	v	re	no	zlostiť	inclusive
+SK1151	n	cds	no	nadšenec	inclusive
+SK219	n	asm	no	semenník	inclusive
+SK1064	n	dmc	yes	pokrytectvo	conservative
+SK653	n	ps	yes	retard	conservative
+SK193	n	svp	no	lakomosť	inclusive
+SK407	n	is	yes	ničomník	conservative
+SK1221	n	qas	no	farmár	inclusive
+SK40	n	pa	yes	fakulty	inclusive
+SK1662	n	svp	no	závisť	inclusive
+SK610	n	an	no	štekanie	inclusive
+SK2012	n	ddp	yes	twaddler	conservative
+SK178	n	an	no	osol	inclusive
+SK2008	n	cds	no	homunculus	inclusive
+SK1572	n	an	no	nekompetentná osoba	conservative
+SK2206	n	is	yes	človek bez prostriedkov	inclusive
+SK2078	v	cds	no	zanikať	inclusive
+SK1415	n	cds	no	krádež	inclusive
+SK154	n	asf	no	idiot	conservative
+SK2047	n	qas	no	flákať sa	conservative
+SK194	n	is	yes	lakomec	conservative
+SK480	n	cds	no	blunderer	conservative
+SK483	n	ddp	yes	babrák	conservative
+SK584	n	is	yes	villainess	conservative
+SK2453	n	asm	no	vtáctvo	inclusive
+SK156	n	an	no	somár	conservative
+SK1766	n	cds	no	papier-pusher	inclusive
+SK843	n	ddp	yes	žvanil	inclusive
+SK156	n	cds	no	somár	conservative
+SK581	n	dmc	yes	ničnerobenie	conservative
+SK2247	n	re	no	unesie	inclusive
+SK655	n	cds	no	idiotia	inclusive
+SK1307	n	dmc	yes	byť skľúčený	conservative
+SK1274	n	cds	no	narkoman	conservative
+SK511	n	an	no	voly	inclusive
+SK2390	n	re	no	sexuálne napadnutie	inclusive
+SK1208	n	cds	no	kuplířka	conservative
+SK573	n	an	no	ten a ten	conservative
+SK1739	n	cds	no	policajtov	inclusive
+SK658	n	cds	no	changelings	inclusive
+SK1771	n	cds	no	nemehlo	conservative
+SK932	n	ps	yes	hybrid	inclusive
+SK1119	n	cds	no	plte	inclusive
+SK1971	n	an	no	husi	inclusive
+SK2211	a	dmc	yes	sfalšovaný	conservative
+SK762	n	cds	no	guľa-up	inclusive
+SK154	n	asm	no	idiot	inclusive
+SK2435	n	om	no	crossdressing	inclusive
+SK1770	n	dmc	yes	rubom	conservative
+SK590	n	cds	no	zloduch	conservative
+SK313	n	an	no	rentboy	conservative
+SK804	n	asm	no	nookie	conservative
+SK407	n	dmc	yes	ničomník	conservative
+SK1837	n	re	no	vydierač	inclusive
+SK333	n	cds	no	peklo	inclusive
+SK949	n	cds	no	synáčik	inclusive
+SK197	n	ddp	yes	sprostosť	inclusive
+SK2192	n	an	no	poulet	inclusive
+SK2087	v	cds	no	umierať	inclusive
+SK1616	n	svp	no	chtíč	inclusive
+SK868	n	an	no	ploštice	inclusive
+SK376	n	dmc	yes	kriminálnej	inclusive
+SK207	n	cds	no	bordely	inclusive
+SK1761	n	cds	no	drzý bulvárny fotograf	inclusive
+SK618	n	cds	no	vnútorný kruh	inclusive
+SK239	n	an	no	zverstvo	inclusive
+SK2485	n	cds	no	predajnosť	inclusive
+SK1800	n	an	no	ročiak	inclusive
+SK435	n	re	no	vydieral	conservative
+SK659	n	asm	no	odročiť	inclusive
+SK1230	n	cds	no	fascista	inclusive
+SK1148	n	cds	no	intelektuál	inclusive
+SK406	n	cds	no	pes	conservative
+SK1444	n	om	no	buzo	inclusive
+SK705	n	cds	no	klany	inclusive
+SK320	n	cds	no	klamstvo	conservative
+SK1217	n	qas	no	fieldhand	inclusive
+SK174	n	ddp	yes	nič neviem	conservative
+SK1041	n	ps	yes	jerry	conservative
+SK1354	n	qas	no	očko	inclusive
+SK1246	n	dmc	yes	pach	conservative
+SK1015	n	asf	no	doofus	conservative
+SK2434	n	om	no	crossdresser	inclusive
+SK407	n	an	no	ničomník	conservative
+SK606	a	ddf	yes	nesprávny	inclusive
+SK1888	n	pa	yes	ovčiakmi	inclusive
+SK1813	n	cds	no	prankishness	inclusive
+SK1414	n	re	no	zlodejský	inclusive
+SK1240	n	dmc	yes	fetor	conservative
+SK1542	n	ddf	yes	postihnutie	inclusive
+SK1161	n	asm	no	erekcia	inclusive
+SK251	n	pa	yes	advokát	inclusive
+SK609	a	ddf	yes	zlý	inclusive
+SK774	n	qas	no	casteism	inclusive
+SK282	n	ddp	yes	soft touch	conservative
+SK154	n	or	no	idiot	conservative
+SK404	n	ddp	yes	nevychovanec	conservative
+SK1848	n	an	no	scorpionfish	inclusive
+SK1655	n	cds	no	hmotnosť	inclusive
+SK881	n	cds	no	zákernosť	inclusive
+SK1789	n	an	no	papagájotvaré	inclusive
+SK1573	n	an	no	neschopný	conservative
+SK121	n	an	no	anguilla	inclusive
+SK2124	v	an	no	vyvádzať	conservative
+SK234	n	ps	yes	neotesanec	conservative
+SK158	n	asf	no	hlupák	conservative
+SK2492	n	re	no	divokosť	inclusive
+SK2229	n	pr	no	táraniny	conservative
+SK124	n	ddp	yes	stvorenia	inclusive
+SK688	n	an	no	ragtag	conservative
+SK838	n	ddp	yes	gossipmonger	conservative
+SK283	n	or	no	pillock	conservative
+SK1586	n	cds	no	učebná pomôcka	inclusive
+SK405	n	is	yes	lump	conservative
+SK318	n	dmc	yes	faloš	inclusive
+SK2431	n	om	no	cross-komody	inclusive
+SK1803	n	an	no	shoat	inclusive
+SK2156	n	an	no	vši	inclusive
+SK463	n	qas	no	babrácka práca	inclusive
+SK1518	n	cds	no	balladeer	inclusive
+SK680	n	dmc	yes	podfukár	conservative
+SK450	n	qas	no	zmätok	inclusive
+SK280	n	an	no	vôl	conservative
+SK1830	n	svp	no	povýšeneckosť	inclusive
+SK1774	n	qas	no	necrotrophic	inclusive
+SK628	n	cds	no	vozidlo cesty	inclusive
+SK231	n	rci	yes	barbar	conservative
+SK342	n	dmc	yes	klamár	conservative
+SK878	n	an	no	hemipteran	inclusive
+SK1403	n	cds	no	zvrhlík	conservative
+SK236	n	an	no	krutosť	inclusive
+SK2395	n	re	no	sexuálny prečin	inclusive
+SK2400	n	cds	no	conventicles	inclusive
+SK1534	n	ddf	yes	nevýhoda	inclusive
+SK2137	n	cds	no	scuttlebutt	inclusive
+SK101	n	asm	no	maxilliped	inclusive
+SK290	n	cds	no	chudák	conservative
+SK879	n	cds	no	pižmová vôňa	conservative
+SK1398	n	cds	no	literárne nádenník	conservative
+SK426	n	cds	no	debil	conservative
+SK1157	n	re	no	zločincov	inclusive
+SK161	n	asm	no	muggins	conservative
+SK2382	n	re	no	sexuálne útok	inclusive
+SK1566	n	is	yes	opustený	inclusive
+SK234	n	pa	yes	neotesanec	conservative
+SK1746	n	cds	no	talianskej mafie	inclusive
+SK1352	n	qas	no	špeh	inclusive
+SK1787	n	qas	no	farníků	inclusive
+SK169	n	ddp	yes	šmejd	conservative
+SK341	n	cds	no	luhár	conservative
+SK123	n	an	no	Úhorotvaré	inclusive
+SK1967	n	cds	no	nymfomanka	inclusive
+SK319	n	qas	no	nepravda	conservative
+SK393	n	ps	yes	Čierna	inclusive
+SK2291	n	an	no	anuran	inclusive
+SK133	n	an	no	metazoá	inclusive
+SK321	n	cds	no	lož	conservative
+SK1359	n	an	no	komár	inclusive
+SK869	n	an	no	bzdocha posteľná	inclusive
+SK2442	n	om	no	transvestitov	inclusive
+SK444	n	cds	no	dead-end street	inclusive
+SK2066	v	re	no	šudiť	inclusive
+SK856	n	cds	no	odpad	conservative
+SK242	n	qas	no	obchodník	inclusive
+SK816	n	cds	no	novinár	inclusive
+SK464	n	cds	no	fušerská práca	inclusive
+SK1488	n	cds	no	archpriest	inclusive
+SK2262	n	re	no	násilník	inclusive
+SK1333	n	pr	no	zbraň moll	inclusive
+SK2054	n	cds	no	novozbohatlických	inclusive
+SK909	n	asm	no	onanista	conservative
+SK2263	n	re	no	ukoristil	inclusive
+SK2212	a	dmc	yes	falošný	conservative
+SK232	n	dmc	yes	hulvát	conservative
+SK989	n	dmc	yes	zavádzanie	conservative
+SK1063	n	dmc	yes	dissembler	conservative
+SK1924	n	cds	no	self-uctievanie	inclusive
+SK224	n	asm	no	teste	inclusive
+SK656	n	cds	no	imbecil	inclusive
+SK2357	n	an	no	red bubon	inclusive
+SK264	n	an	no	havo	inclusive
+SK1826	n	svp	no	velikášstvo	inclusive
+SK543	n	om	no	sodomita	inclusive
+SK167	n	asm	no	kretén	inclusive
+SK379	n	re	no	vyhnanstvom	inclusive
+SK1229	n	ps	yes	fašista	inclusive
+SK1320	n	asm	no	vicia faba	inclusive
+SK821	n	om	no	teploš	conservative
+SK167	n	ps	yes	kretén	conservative
+SK374	n	cds	no	banditti	inclusive
+SK2112	n	cds	no	know-it-all	conservative
+SK2493	n	re	no	furiousness	inclusive
+SK1797	n	asm	no	hráškom	inclusive
+SK822	n	or	no	homoš	conservative
+SK686	n	qas	no	spodina	conservative
+SK1450	n	om	no	homosexualita	inclusive
+SK1273	n	cds	no	klauniáda	inclusive
+SK222	n	asm	no	ballock	inclusive
+SK937	n	ps	yes	miešanec	inclusive
+SK1782	n	qas	no	cudzopasníctvo	inclusive
+SK1781	n	qas	no	parazitujú	inclusive
+SK268	n	qas	no	barónov	inclusive
+SK1564	n	is	yes	nízkymi príjmami	inclusive
+SK1164	n	an	no	slimačie	inclusive
+SK1445	n	om	no	teploška	inclusive
+SK2512	n	ps	yes	rroma	inclusive
+SK232	n	ps	yes	hulvát	conservative
+SK1644	n	cds	no	späť talk	inclusive
+SK1865	n	an	no	žralokov	inclusive
+SK1016	n	ps	yes	ruiner	conservative
+SK585	n	re	no	naničhodník	conservative
+SK1920	n	cds	no	narcizmus	inclusive
+SK846	n	pr	no	moo-cow	inclusive
+SK428	n	dmc	yes	sviňa	conservative
+SK411	n	dmc	yes	prasa	conservative
+SK212	n	cds	no	nevestinec	inclusive
+SK405	n	an	no	lump	conservative
+SK2514	n	ps	yes	romani	inclusive
+SK1175	n	dmc	yes	moralistickú	inclusive
+SK1832	n	svp	no	namyslenosť	inclusive
+SK586	n	an	no	zlosyn	conservative
+SK1792	n	svp	no	penny-privrznutia	inclusive
+SK2461	n	qas	no	potápanie váhový systém	inclusive
+SK256	n	pa	yes	zástanca	inclusive
+SK2162	n	cds	no	religiousism	inclusive
+SK290	n	dmc	yes	chudák	inclusive
+SK651	n	cds	no	slaboch	conservative
+SK2030	n	ps	yes	vandal	inclusive
+SK600	n	cds	no	čmáranica	inclusive
+SK2069	v	re	no	ošklbať	inclusive
+SK2346	n	ddp	yes	unwiseness	inclusive
+SK1742	n	cds	no	dôstojník	inclusive
+SK509	n	pr	no	volovi	inclusive
+SK1884	n	an	no	ovce	inclusive
+SK586	n	is	yes	zlosyn	conservative
+SK2444	n	om	no	transvestit	inclusive
+SK1424	n	qas	no	parazit	inclusive
+SK951	n	cds	no	chlapče	inclusive
+SK1955	n	ps	yes	biely	inclusive
+SK154	n	ddp	yes	idiot	inclusive
+SK2144	n	cds	no	sniveller	conservative
+SK241	n	an	no	brutalita	conservative
+SK271	n	qas	no	baroková architektúra	inclusive
+SK1343	n	an	no	hvízdavý	inclusive
+SK1736	n	svp	no	hanebnosti	inclusive
+SK2384	n	re	no	sexuálneho obťažovania	inclusive
+SK122	n	an	no	úhory	inclusive
+SK2391	n	re	no	obťažoval	inclusive
+SK1741	n	cds	no	policajt	conservative
+SK909	n	cds	no	onanista	conservative
+SK1600	n	dmc	yes	nemorálne	inclusive
+SK2281	n	qas	no	vznešenosť	inclusive
+SK585	n	dmc	yes	naničhodník	conservative
+SK2210	a	ps	yes	čínskej	inclusive
+SK703	n	cds	no	klanu	inclusive
+SK771	n	qas	no	kasta	inclusive
+SK2167	a	svp	no	nenásytný	inclusive
+SK2407	n	re	no	terorizmu	inclusive
+SK598	n	cds	no	pravopisná nesprávnosť	inclusive
+SK1713	n	an	no	môr	inclusive
+SK2067	v	re	no	ošmeknúť	inclusive
+SK448	n	cds	no	faul-up	inclusive
+SK812	n	cds	no	sprisahanie ticha	inclusive
+SK1145	n	cds	no	pedagógov	inclusive
+SK808	n	an	no	králik	inclusive
+SK576	n	dmc	yes	lowlife	inclusive
+SK853	n	qas	no	šarlatán	conservative
+SK1051	n	an	no	ničomnosť	conservative
+SK1661	a	om	no	homosexuálny	conservative
+SK158	n	asm	no	hlupák	conservative
+SK1730	n	svp	no	luxuria	inclusive
+SK1938	n	ps	yes	black osoba	inclusive
+SK1899	n	ps	yes	Žltá rasa	conservative
+SK360	n	cds	no	gang	inclusive
+SK158	n	ddp	yes	hlupák	conservative
+SK1674	n	ps	yes	metoikovia	inclusive
+SK2248	n	re	no	únoscovia	inclusive
+SK456	n	qas	no	hrubá chyba	inclusive
+SK971	n	cds	no	cut-up	conservative
+SK1714	n	pr	no	moľ	inclusive
+SK1517	n	cds	no	speváci	inclusive
+SK137	n	ddp	yes	makrofaunu	inclusive
+SK1794	n	cds	no	večierok	inclusive
+SK170	n	or	no	blbec	conservative
+SK253	n	pa	yes	minister	inclusive
+SK587	n	an	no	podliak	conservative
+SK279	n	asm	no	obetný baránok	conservative
+SK652	n	an	no	nambu-pamba	conservative
+SK440	n	pa	yes	undertaker	inclusive
+SK1581	n	cds	no	splashiness	conservative
+SK238	n	an	no	barbarstvo	inclusive
+SK498	n	svp	no	zúrivosť	conservative
+SK1618	n	dmc	yes	prevaricator	inclusive
+SK681	n	cds	no	defrauder	inclusive
+SK1829	n	svp	no	pridefulness	inclusive
+SK688	n	qas	no	ragtag	conservative
+SK791	n	cds	no	dav	inclusive
+SK331	n	cds	no	blázinec	inclusive
+SK1337	n	cds	no	väzenskej stráže	inclusive
+SK998	n	pr	no	kurtizána	inclusive
+SK1967	n	cds	no	nymfomanka	conservative
+SK283	n	ddp	yes	pillock	conservative
+SK496	n	ddp	yes	zooerastia	conservative
+SK1406	n	re	no	grand theft	inclusive
+SK2013	n	ddf	yes	ohyzdnosť	inclusive
+SK1110	n	an	no	ovis aries	inclusive
+SK1669	n	cds	no	postrapatiť	conservative
+SK1023	n	re	no	čin	inclusive
+SK1188	a	ps	yes	nešťastný	inclusive
+SK1681	n	dmc	yes	plížiť zlodeja	conservative
+SK1209	n	cds	no	pandar	conservative
+SK1306	n	dmc	yes	dillí-dallier	conservative
+SK1944	n	ps	yes	negroidná rasa	inclusive
+SK367	n	dmc	yes	tulák	conservative
+SK1242	n	dmc	yes	zápach	conservative
+SK1663	n	svp	no	invidia	inclusive
+SK654	n	asm	no	kritin	inclusive
+SK2408	n	re	no	teroristický útok	conservative
+SK2174	n	asm	no	onanovanie	conservative
+SK312	n	an	no	mužský sprievod	conservative
+SK1666	n	ddp	yes	moronity	inclusive
+SK1495	n	svp	no	prejedanie	inclusive
+SK1024	n	re	no	právo-lámanie	inclusive
+SK1965	n	cds	no	nymfománia	conservative
+SK1594	n	cds	no	reklama posielaná poštou	inclusive
+SK546	n	qas	no	buržoázie	inclusive
+SK1940	n	ps	yes	africká rasa	inclusive
+SK299	n	an	no	suka	conservative
+SK1011	n	ddp	yes	nemotorne	conservative
+SK851	n	cds	no	zbabelosť	inclusive
+SK1200	n	cds	no	pokolenie	inclusive
+SK203	n	cds	no	bordel	inclusive
+SK282	n	cds	no	soft touch	conservative
+SK2358	n	cds	no	dweeb	conservative
+SK167	n	an	no	kretén	conservative
+SK1360	n	cds	no	medzičlánok	inclusive
+SK141	n	re	no	násilníkov	conservative
+SK323	n	cds	no	dandy	inclusive
+SK1173	n	dmc	yes	morálky	inclusive
+SK1218	n	qas	no	farmhand	inclusive
+SK2490	n	cds	no	zbabelý	conservative
+SK988	n	dmc	yes	klam	conservative
+SK382	n	ddp	yes	zradný	conservative
+SK92	n	cds	no	maličkosti	inclusive
+SK164	n	cds	no	blázon	conservative
+SK273	n	cds	no	blackballing	inclusive
+SK955	n	or	no	pico	conservative

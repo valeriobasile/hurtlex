@@ -1,0 +1,3587 @@
+id	pos	category	stereotype	lemma	level
+ID830	n	cds	no	suku	inclusive
+ID64	n	ddp	yes	ketololan	inclusive
+ID1260	n	om	no	apikal	inclusive
+ID1649	n	om	no	seksualitas laki-laki	inclusive
+ID2596	n	an	no	tuma	inclusive
+ID1395	n	cds	no	famili	inclusive
+ID1377	a	dmc	yes	sedih	inclusive
+ID1149	n	cds	no	peribut	conservative
+ID1174	n	asm	no	nitwit	conservative
+ID1105	n	or	no	memek	conservative
+ID600	n	ddp	yes	fumbler	conservative
+ID184	n	an	no	metazoans	inclusive
+ID366	n	dmc	yes	menipu	conservative
+ID2092	n	qas	no	paroki	inclusive
+ID351	n	cds	no	blackhall	inclusive
+ID1885	a	qas	no	celaka	conservative
+ID3054	n	re	no	kencang	inclusive
+ID206	n	re	no	perkosaan	inclusive
+ID336	n	pa	yes	penyokong	inclusive
+ID1550	n	asf	no	pubic hair	inclusive
+ID1571	n	dmc	yes	yg tak ada gunanya	conservative
+ID768	n	asm	no	idiot	inclusive
+ID825	n	cds	no	unit jepang pengukuran	inclusive
+ID1706	n	qas	no	hutch	inclusive
+ID487	n	re	no	penipu	conservative
+ID763	n	an	no	pengecut	conservative
+ID2385	v	cds	no	tawar-menawar	inclusive
+ID824	n	cds	no	keluarga	inclusive
+ID1734	a	is	yes	sempit	conservative
+ID2065	n	ps	yes	ostrogoth	inclusive
+ID2964	n	re	no	menyengsarakan	inclusive
+ID1941	v	cds	no	membisiki	inclusive
+ID1137	n	asf	no	dame	conservative
+ID118	n	svp	no	keculasan	inclusive
+ID3058	n	re	no	kekerasan	inclusive
+ID2241	n	cds	no	narcism	inclusive
+ID488	n	an	no	pengacau	conservative
+ID1679	n	ps	yes	jewish	inclusive
+ID1409	n	cds	no	pengadaan	inclusive
+ID1467	n	dmc	yes	pelawak	inclusive
+ID1435	n	re	no	paksaan	inclusive
+ID10	v	an	no	menyalak	inclusive
+ID1125	n	cds	no	pengecoh	conservative
+ID2612	a	re	no	mengganas	inclusive
+ID1408	n	cds	no	barua	conservative
+ID246	n	an	no	wisent	inclusive
+ID772	n	ps	yes	moron	conservative
+ID2745	n	re	no	stickup	inclusive
+ID425	n	qas	no	cerita	conservative
+ID1106	n	asf	no	bunga	conservative
+ID47	n	cds	no	wakil	inclusive
+ID988	v	cds	no	merapik	inclusive
+ID2570	v	cds	no	bergunjing	inclusive
+ID2422	v	cds	no	menyendat	inclusive
+ID1632	n	pr	no	seks komersial	conservative
+ID561	n	pa	yes	direktur pemakaman	inclusive
+ID1735	a	dmc	yes	parokial	conservative
+ID226	n	ps	yes	tolol	conservative
+ID626	n	pr	no	kine	inclusive
+ID1315	n	cds	no	pedagog	inclusive
+ID1253	n	om	no	hind end	inclusive
+ID588	n	cds	no	vaunter	conservative
+ID2995	n	om	no	cross dressing	inclusive
+ID527	n	cds	no	keparat	conservative
+ID2625	a	svp	no	sombong	conservative
+ID2497	v	cds	no	mengeringkan	inclusive
+ID798	n	cds	no	scammer	inclusive
+ID2682	a	svp	no	rangah	conservative
+ID198	n	an	no	fauna	inclusive
+ID342	n	an	no	anjing	conservative
+ID434	a	ddp	yes	sontoloyo	conservative
+ID480	n	cds	no	bulatan	inclusive
+ID249	n	svp	no	kelobaan	inclusive
+ID3014	n	cds	no	got qualifier	inclusive
+ID2108	a	ddp	yes	kejam	conservative
+ID316	n	qas	no	penjaja	inclusive
+ID2551	v	cds	no	mengecut	inclusive
+ID703	n	cds	no	layabout	conservative
+ID2941	n	re	no	serangan seksual	inclusive
+ID603	n	re	no	pembunuh	inclusive
+ID1054	n	asm	no	wanker	conservative
+ID2278	n	ps	yes	afrika amerika	inclusive
+ID1574	n	svp	no	yg gagal dlm segala-galanya	conservative
+ID2855	a	qas	no	kepercayaan	inclusive
+ID680	n	ps	yes	bangsa bulgaria	inclusive
+ID529	n	cds	no	durjana	conservative
+ID581	n	cds	no	menggagalkan	inclusive
+ID381	n	pr	no	anak sewa	conservative
+ID1133	n	asf	no	wanita	conservative
+ID2667	a	re	no	ganas	inclusive
+ID2053	n	cds	no	polisi	inclusive
+ID1574	n	dmc	yes	yg gagal dlm segala-galanya	conservative
+ID1614	n	re	no	mencuri	inclusive
+ID2781	n	qas	no	meninggalkan kapal	inclusive
+ID1885	a	is	yes	celaka	inclusive
+ID305	n	rci	yes	babar	conservative
+ID1240	n	om	no	ventral	inclusive
+ID2018	n	an	no	molusca	inclusive
+ID2055	n	cds	no	perwira	conservative
+ID1750	n	dmc	yes	imitasi	inclusive
+ID678	n	cds	no	kelancangan	inclusive
+ID120	n	an	no	pemalas	conservative
+ID542	n	cds	no	gampang	conservative
+ID2061	n	re	no	maffia	conservative
+ID981	v	cds	no	mengoceh	conservative
+ID1347	n	an	no	siput	inclusive
+ID869	n	cds	no	persoalan	conservative
+ID2581	n	cds	no	sniveller	conservative
+ID946	n	om	no	queer	conservative
+ID1575	n	dmc	yes	tak berguna	conservative
+ID1092	n	qas	no	compliance	inclusive
+ID2174	n	cds	no	limbah	inclusive
+ID834	n	pa	yes	petugas	inclusive
+ID1378	a	cds	no	biadab	conservative
+ID1724	n	qas	no	ideolog	inclusive
+ID274	n	cds	no	bordil	inclusive
+ID1372	a	is	yes	malang	conservative
+ID780	n	re	no	pemfitnahan	inclusive
+ID454	a	ddp	yes	jahil	conservative
+ID1032	n	svp	no	hasrat	inclusive
+ID858	n	asm	no	pelir	conservative
+ID426	n	qas	no	cetera	conservative
+ID2232	n	an	no	sera	inclusive
+ID1588	v	asm	no	kenal	conservative
+ID234	n	an	no	benak	conservative
+ID857	n	asm	no	kontol qualifier	conservative
+ID1305	n	an	no	katik	conservative
+ID797	n	re	no	defrauder	inclusive
+ID1446	n	dmc	yes	bau	conservative
+ID504	n	cds	no	pengadu	conservative
+ID1805	n	cds	no	diajarkan	inclusive
+ID495	n	cds	no	mencabut perlindungan hukum	conservative
+ID1741	a	an	no	kikir	conservative
+ID2716	n	pr	no	mengarut	conservative
+ID2152	n	svp	no	superbia	conservative
+ID449	a	cds	no	pandir	conservative
+ID350	n	cds	no	pencuri	inclusive
+ID461	a	cds	no	udik	conservative
+ID436	a	ddp	yes	pusung	conservative
+ID354	n	cds	no	terkecuali	inclusive
+ID2862	n	an	no	blattaria	inclusive
+ID1143	v	asm	no	mencemooh	conservative
+ID227	n	asm	no	bodoh	inclusive
+ID488	n	re	no	pengacau	conservative
+ID1056	n	asm	no	twirp	conservative
+ID193	n	ddp	yes	hewan	inclusive
+ID41	n	re	no	menyalahgunakan	inclusive
+ID1407	n	cds	no	alku	inclusive
+ID2992	n	om	no	crossdressing	inclusive
+ID1892	a	is	yes	sial	inclusive
+ID1218	n	svp	no	kejijikan	inclusive
+ID504	n	ddp	yes	pengadu	conservative
+ID2190	n	an	no	yu	inclusive
+ID1044	n	an	no	pungguk	inclusive
+ID2555	v	cds	no	menyusut	inclusive
+ID367	n	cds	no	penipuan	conservative
+ID598	n	cds	no	bumbler	conservative
+ID139	n	cds	no	muslihat	inclusive
+ID6	v	an	no	salak	inclusive
+ID2971	n	re	no	teratu	inclusive
+ID2929	n	ddp	yes	hooey	inclusive
+ID1213	n	cds	no	kesan	inclusive
+ID159	n	pr	no	omong kosong	conservative
+ID2692	a	svp	no	gaduk	conservative
+ID2919	a	dmc	yes	rendah	conservative
+ID1318	n	cds	no	cendekiawan	inclusive
+ID2548	v	cds	no	mencoret	inclusive
+ID502	n	ddp	yes	ganas	conservative
+ID1144	v	asm	no	mendesis	inclusive
+ID11	n	svp	no	kemalasan	inclusive
+ID2039	n	an	no	kolot	conservative
+ID359	n	ps	yes	jatuh pria	conservative
+ID1457	n	qas	no	kerumitan	inclusive
+ID2334	a	qas	no	galib	inclusive
+ID851	n	qas	no	pencampuradukan	inclusive
+ID39	n	an	no	kasar	conservative
+ID1325	a	qas	no	gila	conservative
+ID2216	n	ddp	yes	kebebalan	conservative
+ID2340	n	cds	no	riba	inclusive
+ID2164	n	qas	no	retorika	inclusive
+ID2765	a	dmc	yes	bersempuras	inclusive
+ID1538	n	cds	no	kepala penjara	inclusive
+ID1	n	dmc	yes	kehinaan	inclusive
+ID358	n	asm	no	patsy	conservative
+ID1859	a	is	yes	muram	inclusive
+ID1916	n	qas	no	pekedai	inclusive
+ID544	n	cds	no	brengsek	conservative
+ID894	n	pa	yes	mahaguru	inclusive
+ID344	n	qas	no	baronies	inclusive
+ID488	n	dmc	yes	pengacau	conservative
+ID2757	a	dmc	yes	lumus	inclusive
+ID573	n	qas	no	merusak	inclusive
+ID1639	n	pr	no	wts	conservative
+ID521	n	qas	no	taipan	inclusive
+ID1691	n	cds	no	uskup	inclusive
+ID490	n	cds	no	angkuh	inclusive
+ID1104	n	asf	no	tempik	conservative
+ID1981	n	cds	no	mussiness	conservative
+ID324	n	pa	yes	pengacara	inclusive
+ID499	n	cds	no	dilarang	inclusive
+ID288	a	svp	no	tamak	conservative
+ID970	n	ddp	yes	pengkhianat	conservative
+ID1281	n	cds	no	delinkuen	conservative
+ID1501	n	svp	no	berlengah-dallier	conservative
+ID2518	v	cds	no	mengajarkan	conservative
+ID1134	n	om	no	nyonya	inclusive
+ID2237	n	cds	no	setengah pint	conservative
+ID1057	n	ddf	yes	melumpuhkan	inclusive
+ID485	n	cds	no	kumpulan	inclusive
+ID1847	a	svp	no	malas	conservative
+ID1848	a	dmc	yes	culas	conservative
+ID502	n	re	no	ganas	inclusive
+ID712	n	dmc	yes	jahanam	conservative
+ID2415	v	is	yes	berdoa	inclusive
+ID2606	a	svp	no	kemarahan	inclusive
+ID245	n	an	no	ass	inclusive
+ID2015	n	dmc	yes	pengelak	conservative
+ID435	a	cds	no	lompong	conservative
+ID1169	n	ps	yes	melongo	conservative
+ID1642	n	pr	no	percabulan	inclusive
+ID143	n	cds	no	kecampuran	inclusive
+ID2050	n	cds	no	pelaku	inclusive
+ID1796	n	cds	no	lagak	inclusive
+ID235	n	asf	no	fuckhead	conservative
+ID724	a	dmc	yes	hina	conservative
+ID2537	v	an	no	menggarang	conservative
+ID1901	n	cds	no	pinjaman uang	inclusive
+ID755	n	cds	no	karkas	inclusive
+ID361	n	cds	no	pillock	conservative
+ID754	n	cds	no	sampah	conservative
+ID156	n	cds	no	karut	conservative
+ID62	n	an	no	kedunguan	conservative
+ID2760	a	dmc	yes	celomok	inclusive
+ID233	n	or	no	dodol	conservative
+ID1081	n	cds	no	persilangan	inclusive
+ID626	n	an	no	kine	inclusive
+ID1778	n	is	yes	melarat	inclusive
+ID1174	n	ps	yes	nitwit	conservative
+ID313	n	qas	no	pedagang	inclusive
+ID156	n	dmc	yes	karut	inclusive
+ID1307	n	an	no	cebol	conservative
+ID227	n	cds	no	bodoh	conservative
+ID688	n	cds	no	jilid	inclusive
+ID1021	n	qas	no	dalih	conservative
+ID2248	n	ps	yes	nigra	conservative
+ID2480	v	cds	no	sampai umur	inclusive
+ID2340	n	cds	no	riba	conservative
+ID1080	n	cds	no	pemuliaan tanaman	inclusive
+ID2237	n	dmc	yes	setengah pint	conservative
+ID2306	n	an	no	sengkenit	inclusive
+ID1270	n	dmc	yes	pelahap	conservative
+ID716	n	cds	no	cacography	inclusive
+ID1161	n	an	no	perampas	inclusive
+ID8	v	an	no	kuing	inclusive
+ID1645	n	pr	no	tuna susila	inclusive
+ID651	n	qas	no	petani	inclusive
+ID1742	a	an	no	tangkai kering	conservative
+ID1900	n	cds	no	tengkulak	conservative
+ID794	n	cds	no	pengelat	inclusive
+ID185	n	ddp	yes	animalia	inclusive
+ID1743	a	is	yes	kedekut	conservative
+ID142	n	cds	no	helah	inclusive
+ID391	n	pr	no	placur	conservative
+ID725	a	ddf	yes	keji	conservative
+ID754	n	qas	no	sampah	conservative
+ID487	n	re	no	penipu	inclusive
+ID2841	n	an	no	pacat	inclusive
+ID71	n	pa	yes	academicism	inclusive
+ID39	n	cds	no	kasar	conservative
+ID1094	n	qas	no	kepatuhan	inclusive
+ID1790	n	ddp	yes	ketidaktahuan	conservative
+ID1031	n	svp	no	idaman	inclusive
+ID1547	n	cds	no	gigolo	inclusive
+ID1597	n	an	no	griffon vulture	inclusive
+ID257	n	svp	no	kedekut	inclusive
+ID1646	n	pr	no	prostitusi	inclusive
+ID296	n	an	no	penjahat	conservative
+ID284	n	qas	no	ballock	inclusive
+ID150	n	qas	no	gallimaufry	inclusive
+ID1264	n	qas	no	kandang	inclusive
+ID488	n	cds	no	pengacau	conservative
+ID969	n	ddp	yes	pembelot	conservative
+ID433	n	pa	yes	pelayan	inclusive
+ID909	n	or	no	brassica oleracea	inclusive
+ID2717	n	pr	no	protes	conservative
+ID377	n	pr	no	terak	conservative
+ID350	n	cds	no	pencuri	conservative
+ID487	n	dmc	yes	penipu	inclusive
+ID549	n	cds	no	anak luar nikah	inclusive
+ID1529	a	dmc	yes	kohong	conservative
+ID552	n	cds	no	haram	inclusive
+ID2054	n	cds	no	polis	conservative
+ID156	n	ddp	yes	karut	conservative
+ID1239	n	om	no	aboral	inclusive
+ID519	n	qas	no	kuasa	inclusive
+ID2282	n	cds	no	satyriasis	conservative
+ID1426	n	qas	no	pesawah	inclusive
+ID1590	v	asm	no	mengenali	conservative
+ID1882	a	qas	no	gundah	conservative
+ID1034	n	an	no	vamper	conservative
+ID2667	a	ddp	yes	ganas	conservative
+ID1788	n	ddp	yes	konyol	conservative
+ID2635	a	svp	no	mengomel	conservative
+ID5	v	an	no	kengkeng	inclusive
+ID2719	a	svp	no	pendendam	conservative
+ID736	n	ddp	yes	tawanan	inclusive
+ID2460	v	cds	no	mati	inclusive
+ID1408	n	cds	no	barua	inclusive
+ID947	n	om	no	banci	inclusive
+ID1058	n	ddf	yes	kudung	inclusive
+ID226	n	ddp	yes	tolol	inclusive
+ID615	n	an	no	pemalu	conservative
+ID230	n	ddp	yes	goblok	conservative
+ID310	n	an	no	kebiadaban	inclusive
+ID1885	a	ps	yes	celaka	inclusive
+ID350	n	re	no	pencuri	inclusive
+ID630	n	qas	no	tauke	inclusive
+ID1779	n	is	yes	miskin	inclusive
+ID166	n	cds	no	fanatisme	inclusive
+ID21	n	qas	no	akolit	inclusive
+ID160	n	cds	no	penganiaya	conservative
+ID968	n	ddp	yes	pelapor	conservative
+ID3043	n	an	no	bernga	inclusive
+ID262	n	svp	no	kikir	conservative
+ID1888	a	is	yes	sewal	inclusive
+ID849	n	qas	no	berselerak	inclusive
+ID2364	n	an	no	rok chaser	conservative
+ID1673	n	ps	yes	yahudi	inclusive
+ID598	n	ddp	yes	bumbler	conservative
+ID2850	a	qas	no	kasihan	conservative
+ID267	n	ddp	yes	keterbelakangan	inclusive
+ID555	n	re	no	pemerasan	conservative
+ID946	n	or	no	queer	conservative
+ID258	n	svp	no	avariciousness	inclusive
+ID1105	n	asf	no	memek	conservative
+ID18	n	svp	no	apathy	inclusive
+ID196	n	an	no	animal	inclusive
+ID724	a	cds	no	hina	conservative
+ID1943	v	cds	no	berkomplot	inclusive
+ID1123	n	qas	no	menyisihkan	conservative
+ID318	n	qas	no	peraih	inclusive
+ID2488	n	or	no	murphy	inclusive
+ID81	n	svp	no	kesombongan	conservative
+ID2571	v	cds	no	mengusil-usilkan	inclusive
+ID2764	a	dmc	yes	tais	inclusive
+ID2397	v	qas	no	menggiurkan	conservative
+ID82	n	svp	no	keangkuhan	inclusive
+ID1411	n	cds	no	muncikari	inclusive
+ID1846	a	dmc	yes	berat tulang	conservative
+ID1670	n	ps	yes	judaisme	inclusive
+ID489	n	ddp	yes	bajingan	conservative
+ID63	n	ddp	yes	tuna grahita	inclusive
+ID699	n	qas	no	pengemis	conservative
+ID583	n	cds	no	bungle	inclusive
+ID62	n	ddp	yes	kedunguan	conservative
+ID658	n	qas	no	pebisnis	inclusive
+ID296	n	ddp	yes	penjahat	conservative
+ID162	n	cds	no	zelot	inclusive
+ID678	n	cds	no	kelancangan	conservative
+ID1689	n	cds	no	imam besar	inclusive
+ID549	n	cds	no	anak luar nikah	conservative
+ID2705	n	cds	no	protagonisme	inclusive
+ID364	n	or	no	pudden-kepala	conservative
+ID603	n	dmc	yes	pembunuh	conservative
+ID2016	n	an	no	kerang-kerangan	inclusive
+ID1721	n	cds	no	penyanyi lagu-lagu hiburan	inclusive
+ID692	n	cds	no	cacat	conservative
+ID236	n	ddp	yes	dumbass	conservative
+ID706	n	cds	no	pengangguran	conservative
+ID2952	n	re	no	terorisme	inclusive
+ID2904	a	is	yes	jembel	inclusive
+ID2463	v	cds	no	lenyap	inclusive
+ID592	n	cds	no	konformis	conservative
+ID1174	n	ddp	yes	nitwit	conservative
+ID1528	a	dmc	yes	tengik	conservative
+ID3017	n	cds	no	ndrangheta	inclusive
+ID253	n	svp	no	tujuh dosa yang mematikan	inclusive
+ID1422	n	qas	no	pekebun	inclusive
+ID704	n	svp	no	pelengah	conservative
+ID989	v	cds	no	berceloteh	inclusive
+ID1928	n	cds	no	gumpal	inclusive
+ID685	n	cds	no	kehampaan	conservative
+ID2684	a	svp	no	berlagak	conservative
+ID2302	n	re	no	pengganas	inclusive
+ID1530	a	dmc	yes	busuk	conservative
+ID2361	v	qas	no	kacau	conservative
+ID1159	n	cds	no	intriguer	inclusive
+ID1271	n	svp	no	gali	inclusive
+ID2718	n	pr	no	nonsen	conservative
+ID668	n	qas	no	pekerjaan meja	inclusive
+ID1481	n	cds	no	masonik	inclusive
+ID398	n	qas	no	kebohongan	conservative
+ID1663	n	om	no	homoerotic	inclusive
+ID1111	n	or	no	mentimun	inclusive
+ID844	n	svp	no	tightfistedness	conservative
+ID306	a	svp	no	ingin	conservative
+ID1410	n	cds	no	germo	inclusive
+ID1752	n	cds	no	banyol	conservative
+ID2849	a	is	yes	sengsara	conservative
+ID2028	n	an	no	mosquitoe	inclusive
+ID797	n	dmc	yes	defrauder	conservative
+ID2617	n	cds	no	jacking off	conservative
+ID1773	n	is	yes	kepapaan	inclusive
+ID1633	n	pr	no	merangkak trotoar	conservative
+ID457	a	ddp	yes	tolol	conservative
+ID2513	v	asm	no	menjengeki	conservative
+ID420	n	ps	yes	bedu	inclusive
+ID703	n	dmc	yes	layabout	conservative
+ID503	n	cds	no	tanda	conservative
+ID1527	a	dmc	yes	berbau	conservative
+ID1261	n	om	no	linea	inclusive
+ID627	n	an	no	ternak	inclusive
+ID1601	a	cds	no	licin	conservative
+ID604	n	an	no	penjambret tubuh	inclusive
+ID806	n	an	no	anying	inclusive
+ID2098	n	an	no	nuri	inclusive
+ID953	n	om	no	homofil	conservative
+ID2869	a	ps	yes	yahudi	inclusive
+ID2089	n	qas	no	ektoparasit	inclusive
+ID1628	n	cds	no	pesuruh	inclusive
+ID1358	n	cds	no	moral	inclusive
+ID2966	n	re	no	penderitaan	inclusive
+ID2082	n	qas	no	benalu	inclusive
+ID966	n	an	no	fisiognomi	inclusive
+ID2680	a	svp	no	megah	conservative
+ID1851	n	qas	no	berbohong	conservative
+ID13	n	svp	no	aboulia	inclusive
+ID997	n	ddp	yes	dukun	conservative
+ID2839	n	cds	no	sifat teliti dan cermat	inclusive
+ID1211	n	cds	no	kotoran	inclusive
+ID709	n	qas	no	perusuh	inclusive
+ID1657	n	om	no	maho	inclusive
+ID1080	n	ps	yes	pemuliaan tanaman	inclusive
+ID1611	n	cds	no	maling	inclusive
+ID141	n	cds	no	tipu	inclusive
+ID1308	n	an	no	bangkut	conservative
+ID1742	a	dmc	yes	tangkai kering	conservative
+ID2172	n	an	no	sea scorpion	inclusive
+ID1784	n	is	yes	kemelaratan	inclusive
+ID2227	n	ps	yes	mongoloid	conservative
+ID1742	a	is	yes	tangkai kering	inclusive
+ID215	n	cds	no	kepintaran	inclusive
+ID1800	n	cds	no	instruktur	inclusive
+ID1743	a	dmc	yes	kedekut	conservative
+ID80	n	svp	no	amour propre	conservative
+ID75	n	an	no	banteng	inclusive
+ID1458	n	cds	no	kekeliruan	inclusive
+ID1249	n	om	no	proksimal	inclusive
+ID800	n	cds	no	cheekiness	conservative
+ID2382	v	cds	no	menawar	inclusive
+ID152	n	asm	no	embel	inclusive
+ID1570	n	an	no	caprinae	inclusive
+ID793	n	re	no	camorra	inclusive
+ID699	n	is	yes	pengemis	inclusive
+ID2437	v	asm	no	memperdaya	conservative
+ID1745	a	dmc	yes	bakhil	conservative
+ID859	n	asm	no	titit	conservative
+ID184	n	ddp	yes	metazoans	inclusive
+ID1270	n	svp	no	pelahap	conservative
+ID489	n	cds	no	bajingan	conservative
+ID683	n	cds	no	kegagahan	conservative
+ID1201	n	ps	yes	krauthead	conservative
+ID1797	n	cds	no	splashiness	conservative
+ID2367	v	qas	no	mengacaukan	conservative
+ID2032	n	pr	no	ngengat	inclusive
+ID2906	n	qas	no	bloodhound	inclusive
+ID1887	a	is	yes	disayangkan	inclusive
+ID2720	n	pa	yes	pengawas	inclusive
+ID2033	n	an	no	moue	inclusive
+ID240	n	ddp	yes	jahil	conservative
+ID2615	n	cds	no	pekerjaan tangan	conservative
+ID486	n	cds	no	bangsat	conservative
+ID931	n	cds	no	konspirasi diam	inclusive
+ID1751	n	dmc	yes	tiruan	inclusive
+ID1496	n	an	no	berang	inclusive
+ID2461	v	cds	no	berpulang	inclusive
+ID1095	n	cds	no	pemuda	inclusive
+ID2243	n	cds	no	idiolatry	inclusive
+ID1076	n	cds	no	pemulia tanaman	inclusive
+ID144	n	cds	no	barang sisa	inclusive
+ID1771	n	is	yes	pemiskinan	inclusive
+ID2275	n	ps	yes	asia	inclusive
+ID682	n	svp	no	kesewenang-wenangan	conservative
+ID2828	a	qas	no	kebangsawanan	inclusive
+ID855	n	cds	no	vulgar	inclusive
+ID149	n	qas	no	aneka rupa	inclusive
+ID487	n	dmc	yes	penipu	conservative
+ID563	n	an	no	suami yg istrinya tdk setia	conservative
+ID2030	n	pr	no	rama-rama	inclusive
+ID1807	n	cds	no	junk mail	inclusive
+ID1963	a	re	no	marah	inclusive
+ID2483	v	cds	no	berbalah	inclusive
+ID577	n	qas	no	kesalahan	inclusive
+ID442	a	ddp	yes	dongok	conservative
+ID1892	a	qas	no	sial	conservative
+ID1556	n	cds	no	pemerhati	conservative
+ID1310	n	ddf	yes	nanus	conservative
+ID594	n	an	no	bengis	conservative
+ID1053	n	cds	no	jerk-off	conservative
+ID2602	a	svp	no	amarah	inclusive
+ID2128	n	asm	no	pea tanaman	inclusive
+ID1118	n	cds	no	perserikatan rahasia	inclusive
+ID1439	n	om	no	finocchio	inclusive
+ID2455	v	cds	no	menguak	inclusive
+ID1068	n	cds	no	blasteran	inclusive
+ID1404	n	qas	no	divulgence	inclusive
+ID1281	n	re	no	delinkuen	conservative
+ID951	n	or	no	gay	conservative
+ID360	n	cds	no	pemurah	conservative
+ID421	n	ps	yes	badui	inclusive
+ID2826	v	re	no	mencolong	inclusive
+ID1003	n	cds	no	memo	conservative
+ID2641	n	re	no	plagiarise	inclusive
+ID1812	a	dmc	yes	durjana	conservative
+ID291	n	qas	no	pemberat	inclusive
+ID399	n	qas	no	bohong	conservative
+ID473	n	cds	no	premanisme	conservative
+ID2310	n	re	no	dibunuh	inclusive
+ID2678	a	ps	yes	cina	inclusive
+ID2442	v	cds	no	kojol	inclusive
+ID979	v	cds	no	berkicau	inclusive
+ID159	n	asf	no	omong kosong	conservative
+ID542	n	ddp	yes	gampang	conservative
+ID502	n	an	no	ganas	conservative
+ID1993	n	or	no	punctiliousness	inclusive
+ID1309	n	cds	no	katai	conservative
+ID575	n	cds	no	keterlanjuran	inclusive
+ID2531	a	or	no	mendesak	conservative
+ID300	n	rci	yes	biadab	conservative
+ID1748	a	svp	no	lokek	conservative
+ID448	a	ddp	yes	tumpul	conservative
+ID2223	n	an	no	kerang	inclusive
+ID109	n	om	no	anal sex	inclusive
+ID323	n	pa	yes	utusan khusus	inclusive
+ID1119	n	or	no	cucurbita maxima	inclusive
+ID2457	v	cds	no	mengangsurkan	inclusive
+ID2552	v	cds	no	mengerut	inclusive
+ID416	n	cds	no	kucar-kacir	inclusive
+ID2420	v	cds	no	rakus	inclusive
+ID2181	n	ps	yes	mestizaje	conservative
+ID1229	n	om	no	burit	inclusive
+ID833	n	pa	yes	kerani	inclusive
+ID202	n	ddp	yes	fitnah	conservative
+ID942	n	om	no	poove	conservative
+ID2285	n	cds	no	nympho	conservative
+ID462	a	ddp	yes	beloh	conservative
+ID1251	n	om	no	dorsolateral	inclusive
+ID261	n	is	yes	bakhil	conservative
+ID254	n	an	no	gelojoh	conservative
+ID1963	a	svp	no	marah	conservative
+ID1001	n	cds	no	murahan	conservative
+ID2736	n	re	no	raptio	inclusive
+ID1579	v	asm	no	meniduri	conservative
+ID1494	n	svp	no	kemarahan	inclusive
+ID2732	n	re	no	menculik	inclusive
+ID2289	n	asf	no	alasan-alasan teknis	inclusive
+ID1298	n	dmc	yes	petualang	inclusive
+ID204	n	re	no	pemerkosaan	inclusive
+ID2706	a	ddf	yes	tempang	inclusive
+ID601	n	qas	no	blunderer	conservative
+ID141	n	dmc	yes	tipu	inclusive
+ID1046	n	an	no	ketampi	inclusive
+ID1994	n	cds	no	schoolma'am	conservative
+ID676	n	cds	no	egois	conservative
+ID419	n	ps	yes	bedouin	inclusive
+ID1739	a	dmc	yes	pelit	conservative
+ID2057	n	cds	no	pegawai	inclusive
+ID305	n	cds	no	babar	conservative
+ID1487	n	an	no	mengerut	inclusive
+ID1379	a	ddp	yes	bengis	conservative
+ID2734	n	re	no	penculikan	inclusive
+ID432	n	pa	yes	bellman	inclusive
+ID1810	a	dmc	yes	melaknatkan	conservative
+ID1215	n	svp	no	jijik	inclusive
+ID1171	n	ps	yes	tongkol	conservative
+ID948	n	or	no	nance	conservative
+ID793	n	cds	no	camorra	inclusive
+ID965	n	an	no	firasat	inclusive
+ID297	n	cds	no	perompak	conservative
+ID1860	a	is	yes	galaba	inclusive
+ID1039	n	an	no	memutuskan hubungan percintaan	conservative
+ID2068	n	an	no	megascops	inclusive
+ID2175	n	cds	no	comberan	inclusive
+ID1770	n	ddp	yes	bukan-bukan	conservative
+ID2931	n	re	no	debaucher	conservative
+ID2320	n	or	no	oranye terbakar	inclusive
+ID1500	n	svp	no	bermuram	conservative
+ID2207	n	ddp	yes	mikrosefalus	inclusive
+ID1098	n	cds	no	budak	inclusive
+ID1024	n	cds	no	slyness	conservative
+ID2197	n	an	no	mikrobia	inclusive
+ID468	n	svp	no	kefanatikan	conservative
+ID768	n	cds	no	idiot	inclusive
+ID2015	n	cds	no	pengelak	conservative
+ID698	n	dmc	yes	pengembara	conservative
+ID2837	a	qas	no	kalut	conservative
+ID1678	n	ps	yes	jew	inclusive
+ID361	n	or	no	pillock	conservative
+ID2331	a	cds	no	biasa	inclusive
+ID1498	n	dmc	yes	dallier	conservative
+ID595	n	ddp	yes	kejam	conservative
+ID663	n	asm	no	bersetubuh	conservative
+ID82	n	svp	no	keangkuhan	conservative
+ID743	n	cds	no	barisan	inclusive
+ID769	n	cds	no	changeling	inclusive
+ID1685	n	cds	no	yang besar dicuci	inclusive
+ID1786	n	svp	no	kelembaman	inclusive
+ID2185	n	an	no	cápa	inclusive
+ID3075	n	ps	yes	rroma	inclusive
+ID221	av	an	no	mentah-mentah	conservative
+ID2093	n	qas	no	parokial	inclusive
+ID771	n	asm	no	changelings	inclusive
+ID2254	n	ps	yes	darkie	conservative
+ID2099	n	an	no	bayan	inclusive
+ID2677	a	ps	yes	imlek	inclusive
+ID772	n	asm	no	moron	inclusive
+ID489	n	cds	no	bajingan	inclusive
+ID772	n	ddp	yes	moron	inclusive
+ID1923	n	cds	no	matcher	inclusive
+ID2750	n	cds	no	penjilat	conservative
+ID94	a	an	no	dablek	inclusive
+ID1369	a	dmc	yes	jahat	conservative
+ID1992	n	or	no	meticulosity	inclusive
+ID1078	n	ps	yes	perkawinan silang	inclusive
+ID3078	n	ps	yes	romanis	inclusive
+ID194	n	an	no	bernyawa menjadi	inclusive
+ID1744	a	is	yes	cekel	inclusive
+ID789	n	re	no	defamer	conservative
+ID445	a	ddp	yes	bangang	conservative
+ID136	n	cds	no	kepandaian	inclusive
+ID1974	n	ddp	yes	moronity	inclusive
+ID1891	a	is	yes	julung	inclusive
+ID51	n	pa	yes	akademisi	inclusive
+ID2747	n	re	no	penawan	inclusive
+ID1936	n	asm	no	zakar	inclusive
+ID872	n	cds	no	kesukaran	inclusive
+ID2770	a	dmc	yes	berlumar	inclusive
+ID581	n	qas	no	menggagalkan	inclusive
+ID797	n	cds	no	defrauder	conservative
+ID1963	a	ps	yes	marah	inclusive
+ID2818	v	re	no	kebas	inclusive
+ID2651	a	cds	no	dangkal	inclusive
+ID86	a	an	no	berkeras	inclusive
+ID2408	v	is	yes	membawa tempurung	inclusive
+ID1329	n	qas	no	penggemar	conservative
+ID2656	n	an	no	ayam	inclusive
+ID1638	n	cds	no	john	inclusive
+ID2495	a	qas	no	melodramatik	inclusive
+ID2805	v	re	no	mengait	inclusive
+ID1551	n	asf	no	selangkangan rambut	inclusive
+ID1641	n	pr	no	jablay	conservative
+ID2908	a	svp	no	berdendam	conservative
+ID297	n	cds	no	perompak	inclusive
+ID342	n	dmc	yes	anjing	conservative
+ID187	n	ddp	yes	infauna	inclusive
+ID694	n	an	no	lowlife	conservative
+ID2409	v	is	yes	mohon	inclusive
+ID1	n	ddf	yes	kehinaan	inclusive
+ID951	n	om	no	gay	conservative
+ID306	a	svp	no	ingin	inclusive
+ID83	a	an	no	tebal telinga	inclusive
+ID1163	n	an	no	penjarah	inclusive
+ID2780	a	dmc	yes	fleksibel	inclusive
+ID2851	a	re	no	memarak	conservative
+ID1798	n	cds	no	pompousness	inclusive
+ID2927	a	re	no	kekerasan	inclusive
+ID695	n	an	no	dgn demikian	conservative
+ID2663	n	cds	no	bayi	inclusive
+ID434	a	cds	no	sontoloyo	conservative
+ID487	n	cds	no	penipu	inclusive
+ID1595	n	an	no	fulvus	inclusive
+ID307	a	svp	no	berhasrat	conservative
+ID402	n	cds	no	lelaki	inclusive
+ID2012	n	cds	no	lav	inclusive
+ID2395	v	re	no	menganiaya	inclusive
+ID2088	n	qas	no	endoparasit	inclusive
+ID491	n	cds	no	nakal	conservative
+ID1047	n	an	no	strigiformes	inclusive
+ID1489	n	cds	no	fundamentalisme	inclusive
+ID96	a	an	no	binal	inclusive
+ID39	n	dmc	yes	kasar	conservative
+ID623	n	svp	no	membosankan	inclusive
+ID2414	v	is	yes	mendoa	inclusive
+ID2412	v	is	yes	mendaduk	inclusive
+ID285	n	qas	no	gonad	inclusive
+ID1562	n	an	no	nyamuk	inclusive
+ID1905	n	cds	no	rentenir	inclusive
+ID972	n	pr	no	moo-sapi	inclusive
+ID603	n	ddp	yes	pembunuh	conservative
+ID228	n	an	no	angsa	inclusive
+ID2733	n	re	no	penculik	inclusive
+ID1875	a	is	yes	dukacita	inclusive
+ID275	n	cds	no	bawdyhouse	inclusive
+ID2624	a	cds	no	uju	conservative
+ID296	n	cds	no	penjahat	conservative
+ID512	n	ps	yes	inkiness	inclusive
+ID1919	n	qas	no	pasar kiper	inclusive
+ID1370	a	cds	no	jendala	conservative
+ID1741	a	is	yes	kikir	conservative
+ID1349	n	an	no	keong	inclusive
+ID1491	n	cds	no	fundamentalis	inclusive
+ID1917	n	qas	no	penjaga toko	inclusive
+ID2169	n	cds	no	biang keladi	inclusive
+ID350	n	an	no	pencuri	conservative
+ID2276	n	ps	yes	penduduk pasifik	inclusive
+ID359	n	asf	no	jatuh pria	conservative
+ID1918	n	qas	no	pemilik toko	inclusive
+ID2822	v	re	no	membinjat	inclusive
+ID1033	n	an	no	prickteaser	conservative
+ID2341	n	ps	yes	perusak	conservative
+ID557	n	pa	yes	mayat	inclusive
+ID619	n	svp	no	kebosanan	inclusive
+ID1746	a	is	yes	tembok kering	inclusive
+ID797	n	cds	no	defrauder	inclusive
+ID595	n	an	no	kejam	conservative
+ID598	n	dmc	yes	bumbler	conservative
+ID300	n	ddp	yes	biadab	conservative
+ID2737	n	re	no	penyamunan	inclusive
+ID684	n	cds	no	kesia-siaan	conservative
+ID2948	n	cds	no	conventicle	inclusive
+ID774	n	an	no	jalang	conservative
+ID637	n	asm	no	cokelat	inclusive
+ID862	n	asm	no	burung	conservative
+ID554	n	re	no	memeras	conservative
+ID1501	n	dmc	yes	berlengah-dallier	conservative
+ID2393	n	cds	no	kaya baru	inclusive
+ID350	n	dmc	yes	pencuri	conservative
+ID2191	n	an	no	mikroba	inclusive
+ID297	n	dmc	yes	perompak	inclusive
+ID490	n	svp	no	angkuh	inclusive
+ID100	a	an	no	bandel	inclusive
+ID1230	n	om	no	gading	inclusive
+ID1643	n	pr	no	jablai	inclusive
+ID763	n	cds	no	pengecut	conservative
+ID424	n	an	no	sapi	inclusive
+ID223	n	or	no	bebal	conservative
+ID1641	n	pr	no	jablay	inclusive
+ID1797	n	cds	no	splashiness	inclusive
+ID660	n	an	no	kerbau	inclusive
+ID158	n	pr	no	cakap kosong	conservative
+ID453	a	ddp	yes	bebal	conservative
+ID332	n	pa	yes	pemohon	inclusive
+ID693	n	cds	no	git	conservative
+ID3031	n	ps	yes	pikey	conservative
+ID212	n	re	no	pencabulan	conservative
+ID1849	a	svp	no	celih	conservative
+ID1368	a	dmc	yes	rendahan	conservative
+ID2574	n	cds	no	kecek	inclusive
+ID379	n	an	no	lonte	conservative
+ID1387	n	dmc	yes	jangak	conservative
+ID222	n	an	no	dungu	inclusive
+ID2554	v	cds	no	menciut	inclusive
+ID2220	n	asm	no	flouter	conservative
+ID1524	n	asf	no	opet	conservative
+ID244	n	om	no	keledai	inclusive
+ID2600	n	cds	no	religiusitas	inclusive
+ID2462	v	cds	no	hilang hayat	inclusive
+ID23	n	re	no	siksa	inclusive
+ID2891	n	cds	no	dweeb	conservative
+ID1054	n	cds	no	wanker	conservative
+ID1828	n	dmc	yes	penyemu	conservative
+ID308	n	re	no	keganasan	conservative
+ID2094	n	qas	no	jemaat	inclusive
+ID2047	n	svp	no	luxuria	inclusive
+ID1855	a	is	yes	salah	inclusive
+ID2031	n	pr	no	gegat	inclusive
+ID2913	a	ddf	yes	uduh	conservative
+ID441	a	cds	no	bego	conservative
+ID610	n	pa	yes	uncouthness	conservative
+ID1184	n	re	no	pidana	inclusive
+ID2804	v	re	no	menggaet	inclusive
+ID2907	n	an	no	ular di rumput	conservative
+ID2812	v	re	no	menjentik	inclusive
+ID1496	n	svp	no	berang	inclusive
+ID222	n	asf	no	dungu	conservative
+ID342	n	an	no	anjing	inclusive
+ID451	a	cds	no	dogol	conservative
+ID616	n	cds	no	kejahatan	inclusive
+ID1534	n	cds	no	jailor	inclusive
+ID2151	n	cds	no	pongah	conservative
+ID2474	v	cds	no	arwah	inclusive
+ID1867	a	is	yes	lara	inclusive
+ID1485	n	cds	no	vrijmetselarij	inclusive
+ID1175	n	asf	no	doofus	conservative
+ID1291	n	cds	no	ton	inclusive
+ID382	n	an	no	streetwalker	conservative
+ID1544	n	an	no	pipistrelle	inclusive
+ID1242	n	om	no	distal	inclusive
+ID2327	n	ddf	yes	kekejian	inclusive
+ID477	n	cds	no	geng	inclusive
+ID1847	a	dmc	yes	malas	conservative
+ID1499	n	dmc	yes	dillydallier	conservative
+ID1983	v	ddp	yes	membingungkan	conservative
+ID228	n	an	no	angsa	conservative
+ID1029	n	svp	no	kehendak	inclusive
+ID2142	n	asm	no	pilon	inclusive
+ID1495	n	svp	no	kegeraman	conservative
+ID156	n	pr	no	karut	conservative
+ID1741	a	is	yes	kikir	inclusive
+ID138	n	cds	no	antic	inclusive
+ID2301	n	an	no	brent	inclusive
+ID2173	n	an	no	scorpion fish	inclusive
+ID2502	v	cds	no	mendewakan	inclusive
+ID551	n	cds	no	by-blow	inclusive
+ID254	n	dmc	yes	gelojoh	conservative
+ID847	n	qas	no	ilusi	inclusive
+ID2055	n	cds	no	perwira	inclusive
+ID1944	v	cds	no	berkongkalikong	inclusive
+ID1577	n	cds	no	ekstrim sayap kanan	conservative
+ID148	n	cds	no	melange	inclusive
+ID1823	n	om	no	istri bangsawan	inclusive
+ID3016	n	cds	no	saluran pembuangan sanitasi	inclusive
+ID1108	n	or	no	vagina	conservative
+ID440	a	cds	no	tongong	conservative
+ID174	n	an	no	anguillidae	inclusive
+ID1747	a	svp	no	medit	conservative
+ID2206	n	ddp	yes	microcephaly	inclusive
+ID401	n	cds	no	dandy	inclusive
+ID606	n	an	no	tubuh penjambret	inclusive
+ID2529	v	qas	no	memperbaiki	inclusive
+ID1766	n	ddp	yes	arsehole	conservative
+ID3045	n	an	no	belatung	inclusive
+ID837	n	an	no	kambing	inclusive
+ID771	n	ddp	yes	changelings	conservative
+ID2078	n	cds	no	papparazzi	inclusive
+ID1234	n	om	no	ventrolateral	inclusive
+ID222	n	om	no	dungu	inclusive
+ID2424	v	cds	no	muak	inclusive
+ID1883	a	is	yes	sugul	inclusive
+ID3070	n	ps	yes	gipsy	inclusive
+ID1196	n	cds	no	sen mengerikan	inclusive
+ID422	n	ps	yes	beduin	inclusive
+ID297	n	dmc	yes	perompak	conservative
+ID1332	a	qas	no	sedeng	conservative
+ID2140	n	asm	no	tonggak	inclusive
+ID593	n	an	no	beast	conservative
+ID1573	n	svp	no	kesalahan-off	conservative
+ID794	n	re	no	pengelat	inclusive
+ID469	n	svp	no	fanatik	conservative
+ID133	n	cds	no	usikan	inclusive
+ID1884	a	is	yes	udi	inclusive
+ID2621	a	cds	no	anggak	conservative
+ID493	n	cds	no	banditti	conservative
+ID2027	n	an	no	culicidae	inclusive
+ID990	n	ddp	yes	mountebank	conservative
+ID2894	a	pa	yes	politik	inclusive
+ID2972	n	re	no	disiksa	inclusive
+ID1436	n	re	no	exact	inclusive
+ID1894	a	is	yes	bahagia	inclusive
+ID263	n	ddp	yes	perepet	inclusive
+ID1746	a	an	no	tembok kering	conservative
+ID1147	v	asm	no	ejek	inclusive
+ID2486	n	or	no	solanum tuberosum	inclusive
+ID601	n	dmc	yes	blunderer	conservative
+ID514	n	ps	yes	kehitaman	inclusive
+ID227	n	ddp	yes	bodoh	conservative
+ID1019	n	an	no	hemipteron	inclusive
+ID488	n	an	no	pengacau	inclusive
+ID309	n	ddp	yes	kekejaman	conservative
+ID2620	a	svp	no	songar	conservative
+ID2743	n	re	no	penggarongan	inclusive
+ID1333	a	qas	no	kalap	conservative
+ID624	n	an	no	lembu	conservative
+ID2428	v	cds	no	memajuh	inclusive
+ID498	n	cds	no	kriminal	inclusive
+ID939	n	cds	no	pewarta	inclusive
+ID3010	n	asm	no	avafauna	inclusive
+ID2648	n	re	no	jiplakan	inclusive
+ID1431	n	cds	no	perdayaan	conservative
+ID494	n	cds	no	tdk sah	conservative
+ID129	n	qas	no	kolaborator	inclusive
+ID398	n	dmc	yes	kebohongan	inclusive
+ID718	n	an	no	caiman	inclusive
+ID1505	n	cds	no	mobster	inclusive
+ID222	n	ddp	yes	dungu	conservative
+ID84	a	an	no	babil	inclusive
+ID2604	a	svp	no	meradang	inclusive
+ID550	n	cds	no	sah anak	inclusive
+ID2368	v	qas	no	merusak	conservative
+ID600	n	cds	no	fumbler	conservative
+ID2721	n	pa	yes	controller	inclusive
+ID2009	n	cds	no	ruang cuci	inclusive
+ID345	n	qas	no	baron	inclusive
+ID2398	v	re	no	menagih	inclusive
+ID2825	v	re	no	timpa-menimpa	inclusive
+ID222	n	cds	no	dungu	inclusive
+ID1428	n	cds	no	fascista	inclusive
+ID2479	v	cds	no	gugur	inclusive
+ID1414	n	cds	no	calo	conservative
+ID1849	a	dmc	yes	celih	conservative
+ID1494	n	an	no	kemarahan	inclusive
+ID2856	n	an	no	kecoak	inclusive
+ID539	n	cds	no	pemogokan-melanggar	inclusive
+ID1904	n	cds	no	loanshark	inclusive
+ID928	n	asm	no	nooky	conservative
+ID2627	a	cds	no	pandai	conservative
+ID1021	n	dmc	yes	dalih	inclusive
+ID2067	n	re	no	mafioso	conservative
+ID2803	v	re	no	menyapu	inclusive
+ID459	a	ddp	yes	ongok	conservative
+ID1269	n	svp	no	rakus	inclusive
+ID404	n	cds	no	orang	inclusive
+ID3085	a	cds	no	canggung	conservative
+ID1295	n	dmc	yes	kelana	inclusive
+ID2683	a	svp	no	umuk	conservative
+ID677	n	cds	no	anggapan	conservative
+ID12	n	svp	no	acedia	inclusive
+ID156	n	qas	no	karut	conservative
+ID378	n	pr	no	perek	conservative
+ID1467	n	cds	no	pelawak	inclusive
+ID1946	a	om	no	homoseksual	conservative
+ID2139	n	asm	no	tiang	inclusive
+ID554	n	re	no	memeras	inclusive
+ID2105	n	svp	no	penny-pinching	inclusive
+ID395	n	an	no	anak laki-laki sewa	conservative
+ID1693	n	dmc	yes	tunawisma	inclusive
+ID119	n	svp	no	kelambanan	conservative
+ID149	n	cds	no	aneka rupa	inclusive
+ID288	a	svp	no	tamak	inclusive
+ID2391	n	cds	no	arriviste	inclusive
+ID1216	n	svp	no	kebencian	inclusive
+ID1469	n	dmc	yes	badut	inclusive
+ID146	n	qas	no	omnium-gatherum	inclusive
+ID2338	v	cds	no	mendengar	inclusive
+ID1759	n	ddf	yes	rintangan	inclusive
+ID2688	a	svp	no	besar kepala	conservative
+ID292	n	qas	no	tolak bara	inclusive
+ID304	n	dmc	yes	kampung	conservative
+ID2225	n	an	no	kelembuai	inclusive
+ID2510	v	asm	no	mencemoohkan	conservative
+ID1419	n	pr	no	comare	conservative
+ID753	n	cds	no	bangkai	inclusive
+ID2458	v	cds	no	pulang ke rahmatullah	inclusive
+ID1631	n	pr	no	lokalisasi	inclusive
+ID443	a	ddp	yes	goblok	conservative
+ID158	n	cds	no	cakap kosong	conservative
+ID189	n	ddp	yes	satwa	inclusive
+ID1373	a	ps	yes	hitam	inclusive
+ID2646	n	re	no	pirate	inclusive
+ID3037	n	an	no	rouncey	inclusive
+ID1935	n	asm	no	falus	inclusive
+ID2849	a	qas	no	sengsara	conservative
+ID381	n	an	no	anak sewa	conservative
+ID2549	n	dmc	yes	lingerer	conservative
+ID1166	n	an	no	bajak	inclusive
+ID1300	n	dmc	yes	berkelana	inclusive
+ID459	a	cds	no	ongok	conservative
+ID1932	n	cds	no	timbunan	inclusive
+ID202	n	re	no	fitnah	conservative
+ID226	n	an	no	tolol	conservative
+ID2251	n	ps	yes	jigaboo	conservative
+ID158	n	asf	no	cakap kosong	conservative
+ID3047	n	cds	no	pengejut	conservative
+ID106	n	om	no	liwat	inclusive
+ID1736	a	is	yes	terhad	conservative
+ID285	n	asm	no	gonad	inclusive
+ID1835	n	svp	no	keberahian	inclusive
+ID1478	n	cds	no	masuni	inclusive
+ID2652	a	dmc	yes	gadungan	conservative
+ID1433	n	cds	no	kilah	conservative
+ID616	n	ddp	yes	kejahatan	conservative
+ID2199	n	an	no	mikro-organisme	inclusive
+ID437	a	ddp	yes	bambung	conservative
+ID2429	v	cds	no	makan	inclusive
+ID2933	n	re	no	perogol	conservative
+ID486	n	dmc	yes	bangsat	inclusive
+ID1332	a	ddp	yes	sedeng	inclusive
+ID1025	n	cds	no	kecerdasan	conservative
+ID624	n	an	no	lembu	inclusive
+ID458	a	cds	no	otak udang	conservative
+ID122	n	qas	no	tabi'in	inclusive
+ID2284	n	cds	no	hypersexuality	conservative
+ID359	n	asm	no	jatuh pria	conservative
+ID297	n	re	no	perompak	conservative
+ID1407	n	cds	no	alku	conservative
+ID1843	a	dmc	yes	cabul	conservative
+ID2546	v	an	no	meradang	conservative
+ID1071	n	cds	no	hibrida	inclusive
+ID452	a	cds	no	ahmak	conservative
+ID110	n	om	no	sodomi	inclusive
+ID309	n	an	no	kekejaman	inclusive
+ID698	n	dmc	yes	pengembara	inclusive
+ID30	n	re	no	pelecehan	inclusive
+ID577	n	re	no	kesalahan	inclusive
+ID2244	n	cds	no	self-ibadah	inclusive
+ID584	n	cds	no	pembual	conservative
+ID987	v	cds	no	mengumpat	inclusive
+ID1174	n	asf	no	nitwit	conservative
+ID406	n	cds	no	dude	inclusive
+ID1190	n	an	no	doodly-jongkok	conservative
+ID820	n	cds	no	sub-klan	inclusive
+ID368	n	pr	no	psk	conservative
+ID2860	n	an	no	lipas	inclusive
+ID2621	a	svp	no	anggak	conservative
+ID498	n	dmc	yes	kriminal	inclusive
+ID1958	a	svp	no	hasud	conservative
+ID1841	a	dmc	yes	kotor	inclusive
+ID1758	n	ddf	yes	kecacatan	inclusive
+ID799	n	cds	no	grifter	inclusive
+ID352	n	cds	no	blackballing	inclusive
+ID469	n	cds	no	fanatik	conservative
+ID1122	n	cds	no	pemusnahan	conservative
+ID372	n	an	no	pelacur	conservative
+ID2021	n	an	no	moluska	inclusive
+ID233	n	an	no	dodol	conservative
+ID2042	n	an	no	jungur	inclusive
+ID2724	n	pa	yes	pengawal	inclusive
+ID1440	n	om	no	foeniculum vulgare	inclusive
+ID2151	n	cds	no	pongah	inclusive
+ID295	n	re	no	perampok	conservative
+ID2487	n	or	no	spud	inclusive
+ID145	n	cds	no	berbaur-mangle	inclusive
+ID410	n	cds	no	huru-hara	inclusive
+ID1448	n	cds	no	finagler	conservative
+ID237	n	or	no	muttonhead	conservative
+ID2132	n	an	no	shote	inclusive
+ID1618	n	re	no	jarah	inclusive
+ID862	n	asm	no	burung	inclusive
+ID615	n	ddp	yes	pemalu	conservative
+ID309	n	re	no	kekejaman	inclusive
+ID878	n	qas	no	jelata	inclusive
+ID2	n	svp	no	kemerosotan	inclusive
+ID947	n	om	no	banci	conservative
+ID2930	n	an	no	lampyris noctiluca	inclusive
+ID159	n	ddp	yes	omong kosong	inclusive
+ID1692	n	cds	no	imam agung	inclusive
+ID226	n	ddp	yes	tolol	conservative
+ID1747	a	dmc	yes	medit	conservative
+ID1303	n	cds	no	kuli	inclusive
+ID463	a	cds	no	dungu	conservative
+ID807	n	an	no	kinologi	inclusive
+ID1904	n	cds	no	loanshark	conservative
+ID2827	v	re	no	curi	inclusive
+ID105	n	om	no	hubungan seksual anal	inclusive
+ID725	a	cds	no	keji	conservative
+ID2402	v	qas	no	menuntut	conservative
+ID883	n	cds	no	cockup	inclusive
+ID571	n	cds	no	bloopers	inclusive
+ID2887	n	an	no	drum merah	inclusive
+ID1443	n	dmc	yes	malodor	conservative
+ID921	n	asm	no	fucking	conservative
+ID1585	v	asm	no	mengamput	conservative
+ID1309	n	an	no	katai	conservative
+ID437	a	cds	no	bambung	conservative
+ID1293	n	cds	no	rakit	inclusive
+ID1612	n	re	no	penyerobotan	inclusive
+ID2196	n	an	no	organisme sel tunggal	inclusive
+ID850	n	cds	no	berkecamuk	conservative
+ID347	n	qas	no	baroqueness	inclusive
+ID1747	a	is	yes	medit	conservative
+ID1572	n	svp	no	baik-untuk-sia	conservative
+ID400	n	cds	no	kepalsuan	conservative
+ID950	n	om	no	homoseksual	conservative
+ID2030	n	an	no	rama-rama	inclusive
+ID2438	v	re	no	menipu	inclusive
+ID500	n	an	no	bandot	inclusive
+ID1817	a	dmc	yes	mesum	inclusive
+ID695	n	dmc	yes	dgn demikian	inclusive
+ID1069	n	cds	no	hybrid intergenerik	inclusive
+ID567	n	cds	no	jalan buntu	inclusive
+ID234	n	asf	no	benak	conservative
+ID940	n	cds	no	pemberita	inclusive
+ID331	n	pa	yes	pejuang	inclusive
+ID2419	v	is	yes	rayu	inclusive
+ID222	n	ddp	yes	dungu	inclusive
+ID1740	a	an	no	singkat tangan	conservative
+ID186	n	an	no	makrofauna	inclusive
+ID507	n	cds	no	kenekatan	conservative
+ID731	n	an	no	menyalak	inclusive
+ID2356	n	an	no	ulat	inclusive
+ID1194	a	cds	no	jenayah	inclusive
+ID886	n	cds	no	bola-up	inclusive
+ID1121	n	qas	no	tolakan	conservative
+ID2236	n	cds	no	bajul	inclusive
+ID706	n	dmc	yes	pengangguran	conservative
+ID2573	n	cds	no	pandangan	inclusive
+ID2446	v	cds	no	mangkat	inclusive
+ID2844	n	an	no	hirudinean	inclusive
+ID1062	n	an	no	crocodilia	inclusive
+ID705	n	dmc	yes	yg tdk mau berbuat sesuatu	conservative
+ID2404	v	qas	no	menghampakan	conservative
+ID366	n	ddp	yes	menipu	conservative
+ID600	n	qas	no	fumbler	conservative
+ID875	n	cds	no	masalah	conservative
+ID2061	n	cds	no	maffia	conservative
+ID1074	n	qas	no	campuran	inclusive
+ID532	n	cds	no	ceroboh	conservative
+ID732	n	cds	no	klik	inclusive
+ID701	n	dmc	yes	hobos	conservative
+ID448	a	cds	no	tumpul	conservative
+ID1409	n	cds	no	pengadaan	conservative
+ID1707	n	qas	no	pondok	inclusive
+ID338	n	pa	yes	konsultan hukum	inclusive
+ID620	n	qas	no	kejemuan	conservative
+ID1074	n	ps	yes	campuran	inclusive
+ID2729	a	is	yes	terpencil	inclusive
+ID157	n	asf	no	folderol	conservative
+ID1602	a	cds	no	cerdik	inclusive
+ID436	a	cds	no	pusung	conservative
+ID619	n	qas	no	kebosanan	conservative
+ID232	n	or	no	bedebah	conservative
+ID600	n	dmc	yes	fumbler	conservative
+ID1323	a	qas	no	kegila-gilaan	conservative
+ID2258	n	ps	yes	keturunan afrika	inclusive
+ID1319	n	dmc	yes	delik	inclusive
+ID2771	a	dmc	yes	kumal	inclusive
+ID693	n	dmc	yes	git	conservative
+ID1615	n	cds	no	pencurian	inclusive
+ID722	a	ddf	yes	buruk	inclusive
+ID929	n	an	no	kelinci	inclusive
+ID1555	n	cds	no	penonton	conservative
+ID1254	n	om	no	caudally	inclusive
+ID1502	n	cds	no	cempiang	inclusive
+ID497	n	re	no	gajul	inclusive
+ID696	n	an	no	gelandangan	conservative
+ID1688	n	cds	no	hierarch	inclusive
+ID954	n	om	no	homofilia	inclusive
+ID2961	n	asm	no	phallic	inclusive
+ID435	a	ddp	yes	lompong	conservative
+ID761	n	is	yes	paria	inclusive
+ID2120	a	dmc	yes	dursila	conservative
+ID2910	a	ddp	yes	cemplang	inclusive
+ID2362	n	cds	no	menyelinap lidah	inclusive
+ID294	n	dmc	yes	penyamun	conservative
+ID2149	n	svp	no	kebanggaan	inclusive
+ID1914	n	cds	no	bantahan	inclusive
+ID705	n	svp	no	yg tdk mau berbuat sesuatu	conservative
+ID1469	n	cds	no	badut	conservative
+ID280	n	qas	no	terpedo	inclusive
+ID2426	v	cds	no	mengendal	inclusive
+ID1745	a	an	no	bakhil	conservative
+ID861	n	asm	no	kanjut	conservative
+ID897	n	pa	yes	kursi	inclusive
+ID1886	a	is	yes	jentaka	inclusive
+ID493	n	re	no	banditti	inclusive
+ID1359	n	dmc	yes	moralitas	inclusive
+ID2123	a	dmc	yes	jahul	conservative
+ID1470	n	cds	no	lawak	inclusive
+ID1720	n	cds	no	merintih	inclusive
+ID488	n	qas	no	pengacau	conservative
+ID2392	n	cds	no	nouveau riche-	inclusive
+ID696	n	svp	no	gelandangan	conservative
+ID888	n	an	no	culex pipiens	inclusive
+ID2848	a	qas	no	kuno	inclusive
+ID220	n	asm	no	betise	conservative
+ID2045	n	cds	no	nerd	conservative
+ID312	n	ddp	yes	kekasaran	conservative
+ID2808	v	re	no	menggetil	inclusive
+ID3033	n	om	no	bencong	inclusive
+ID1325	a	ddp	yes	gila	inclusive
+ID723	a	ddf	yes	leta	conservative
+ID524	n	qas	no	jutawan	inclusive
+ID1465	n	cds	no	berpasuk-pasuk	inclusive
+ID816	n	om	no	anak selingkuh	conservative
+ID721	a	ddf	yes	jelek	inclusive
+ID3069	n	an	no	limacidae	inclusive
+ID746	n	an	no	carcharodon	inclusive
+ID1531	n	pr	no	gun moll	inclusive
+ID697	n	an	no	scum bag	conservative
+ID2619	a	cds	no	congkak	conservative
+ID289	a	svp	no	rakus	inclusive
+ID1371	a	ddp	yes	kasar	conservative
+ID2890	a	dmc	yes	berfoya-foya	conservative
+ID294	n	cds	no	penyamun	inclusive
+ID1877	a	is	yes	berdukacita	inclusive
+ID2145	n	pa	yes	pramuantar	inclusive
+ID295	n	an	no	perampok	conservative
+ID1200	n	ps	yes	kedai bir	conservative
+ID2119	n	ddf	yes	keburukan	inclusive
+ID2288	n	cds	no	nymphomania	conservative
+ID2700	a	cds	no	pengecut	conservative
+ID2603	a	svp	no	rengus	inclusive
+ID1762	n	ddf	yes	tuna daksa	inclusive
+ID1753	n	an	no	strix varia	inclusive
+ID3076	n	ps	yes	romani	inclusive
+ID943	n	om	no	aneh	conservative
+ID81	n	svp	no	kesombongan	inclusive
+ID768	n	ps	yes	idiot	conservative
+ID1012	n	an	no	cimex lectularius	inclusive
+ID1687	n	cds	no	hoi polloi	inclusive
+ID2583	a	qas	no	kebiasaan	inclusive
+ID762	n	qas	no	kasta	inclusive
+ID68	n	asf	no	kebodohan	conservative
+ID68	n	ddp	yes	kebodohan	inclusive
+ID62	n	ddp	yes	kedunguan	inclusive
+ID1612	n	cds	no	penyerobotan	inclusive
+ID683	n	svp	no	kegagahan	conservative
+ID1130	n	om	no	puan	inclusive
+ID1636	n	pr	no	sundel	conservative
+ID2531	a	cds	no	mendesak	conservative
+ID2444	v	cds	no	mendiang	inclusive
+ID2852	a	re	no	bergelora	inclusive
+ID1184	n	cds	no	pidana	inclusive
+ID2817	v	re	no	mencoket	inclusive
+ID151	n	asm	no	pelengkap	inclusive
+ID692	n	dmc	yes	cacat	conservative
+ID781	n	re	no	kapak pekerjaan	inclusive
+ID1067	n	ps	yes	interfertility	inclusive
+ID971	n	ddp	yes	pengobrol	conservative
+ID489	n	is	yes	bajingan	conservative
+ID308	n	re	no	keganasan	inclusive
+ID1966	a	svp	no	geram	conservative
+ID773	n	ps	yes	cretin	conservative
+ID2930	n	pr	no	lampyris noctiluca	inclusive
+ID261	n	svp	no	bakhil	conservative
+ID450	a	cds	no	pilon	conservative
+ID989	v	cds	no	berceloteh	conservative
+ID2838	n	cds	no	peragaan pengetahuan yg menjemukan	inclusive
+ID2591	n	an	no	cootie	inclusive
+ID1348	n	an	no	escargots	inclusive
+ID1818	a	dmc	yes	sembrono	conservative
+ID442	a	cds	no	dongok	conservative
+ID486	n	an	no	bangsat	inclusive
+ID1708	n	qas	no	gubuk	inclusive
+ID2562	a	om	no	cacat	inclusive
+ID1903	n	cds	no	pemeras	conservative
+ID721	a	ddf	yes	jelek	conservative
+ID2914	a	ddf	yes	lecak	conservative
+ID1155	n	pr	no	doktrin	inclusive
+ID1259	n	om	no	syarat untuk lokasi anatomi	inclusive
+ID1297	n	ps	yes	bergelandangan	inclusive
+ID2967	n	re	no	azab	inclusive
+ID191	n	ddp	yes	manusia	inclusive
+ID1151	n	cds	no	demagog	conservative
+ID616	n	an	no	kejahatan	conservative
+ID2630	a	cds	no	cerdas	inclusive
+ID1727	n	qas	no	ideologi	inclusive
+ID2454	v	cds	no	putus nyawa	inclusive
+ID14	n	svp	no	abulia	inclusive
+ID1410	n	cds	no	germo	conservative
+ID1270	n	svp	no	pelahap	inclusive
+ID294	n	cds	no	penyamun	conservative
+ID494	n	dmc	yes	tdk sah	inclusive
+ID2081	n	an	no	parasit	conservative
+ID428	n	cds	no	beguine	inclusive
+ID1183	n	re	no	jenayah	inclusive
+ID1615	n	re	no	pencurian	inclusive
+ID309	n	an	no	kekejaman	conservative
+ID974	n	cds	no	kekecutan	conservative
+ID304	n	ddp	yes	kampung	conservative
+ID1494	n	svp	no	kemarahan	conservative
+ID2378	v	qas	no	mengaduk-aduk	conservative
+ID2568	v	cds	no	menggosipkan	inclusive
+ID1749	n	dmc	yes	lancung	inclusive
+ID2653	a	dmc	yes	palsu	inclusive
+ID559	n	pa	yes	pengurus	inclusive
+ID795	n	re	no	pemahat	inclusive
+ID2333	a	cds	no	lazim	inclusive
+ID770	n	ddp	yes	memperlambat	conservative
+ID2138	n	cds	no	pengatur siasat	inclusive
+ID135	n	cds	no	perangai	inclusive
+ID2846	n	an	no	hirudinaria javanica	inclusive
+ID1913	n	cds	no	backtalk	inclusive
+ID2425	v	cds	no	pajuh	inclusive
+ID1205	n	cds	no	daki	inclusive
+ID2228	n	pr	no	sosialite	inclusive
+ID1309	n	dmc	yes	katai	conservative
+ID927	n	asm	no	sialan	conservative
+ID465	a	ddp	yes	gendeng	conservative
+ID497	n	cds	no	gajul	conservative
+ID2121	a	dmc	yes	kejahatan	conservative
+ID1073	n	cds	no	bioteknologi tanaman	inclusive
+ID483	n	cds	no	band	inclusive
+ID2835	a	dmc	yes	maung	conservative
+ID358	n	ddp	yes	patsy	conservative
+ID1611	n	re	no	maling	inclusive
+ID489	n	dmc	yes	bajingan	conservative
+ID872	n	cds	no	kesukaran	conservative
+ID495	n	dmc	yes	mencabut perlindungan hukum	inclusive
+ID1331	n	cds	no	pelamun	inclusive
+ID2085	n	cds	no	chawbacon	conservative
+ID2484	n	or	no	kentang	inclusive
+ID1476	n	asm	no	kulup	inclusive
+ID1333	a	ddp	yes	kalap	inclusive
+ID1901	n	cds	no	pinjaman uang	conservative
+ID400	n	dmc	yes	kepalsuan	inclusive
+ID1010	n	an	no	kepinding	inclusive
+ID686	n	cds	no	volume	inclusive
+ID699	n	is	yes	pengemis	conservative
+ID379	n	pr	no	lonte	inclusive
+ID1989	n	ps	yes	metic	inclusive
+ID467	a	ddp	yes	kebudak-budakan	conservative
+ID1342	n	asm	no	ngaceng	inclusive
+ID2768	a	dmc	yes	bukat	inclusive
+ID2806	v	re	no	menjimpit	inclusive
+ID1493	n	svp	no	marah	inclusive
+ID1722	n	cds	no	crooner	inclusive
+ID2271	n	pa	yes	pelamar	inclusive
+ID2617	n	asm	no	jacking off	conservative
+ID2399	v	qas	no	menyiksa	conservative
+ID2515	v	asm	no	menggonyakkan	conservative
+ID972	n	an	no	moo-sapi	inclusive
+ID1328	n	cds	no	peminat	inclusive
+ID1978	a	svp	no	perengus	conservative
+ID1284	n	cds	no	banyak	inclusive
+ID257	n	is	yes	kedekut	conservative
+ID1719	n	cds	no	crooners	inclusive
+ID2167	n	qas	no	retoris	inclusive
+ID161	n	cds	no	rajin	inclusive
+ID956	n	om	no	homophile	inclusive
+ID308	n	an	no	keganasan	conservative
+ID2662	n	cds	no	neonatal	inclusive
+ID1592	a	cds	no	haram	inclusive
+ID791	n	re	no	pemfitnah	conservative
+ID449	a	ddp	yes	pandir	conservative
+ID1700	a	svp	no	pajuh	conservative
+ID964	n	an	no	muka	inclusive
+ID87	a	an	no	nekad	inclusive
+ID97	a	an	no	gurat batu	inclusive
+ID2932	n	re	no	raper	conservative
+ID120	n	dmc	yes	pemalas	conservative
+ID702	n	dmc	yes	hobo	conservative
+ID213	n	cds	no	kelihaian	inclusive
+ID1090	n	qas	no	keselarasan	inclusive
+ID1138	n	cds	no	dastardliness	conservative
+ID950	n	om	no	homoseksual	inclusive
+ID188	n	ddp	yes	binatang	inclusive
+ID254	n	svp	no	gelojoh	inclusive
+ID2640	n	re	no	pembajakan	inclusive
+ID131	n	cds	no	telatah	inclusive
+ID706	n	svp	no	pengangguran	conservative
+ID695	n	dmc	yes	dgn demikian	conservative
+ID744	n	cds	no	gerbong kereta api	inclusive
+ID490	n	cds	no	angkuh	conservative
+ID1638	n	pr	no	john	conservative
+ID2118	n	cds	no	partai	inclusive
+ID197	n	an	no	kiss 'n' tell	inclusive
+ID176	n	an	no	belut	inclusive
+ID11	n	svp	no	kemalasan	conservative
+ID251	n	svp	no	ketamakan	inclusive
+ID1038	n	an	no	menggoda	conservative
+ID2496	v	cds	no	meranggas	inclusive
+ID771	n	asf	no	changelings	conservative
+ID245	n	om	no	ass	inclusive
+ID223	n	asm	no	bebal	inclusive
+ID2875	n	ddp	yes	kepandiran	inclusive
+ID46	n	cds	no	agen	inclusive
+ID2773	a	dmc	yes	kumuh	inclusive
+ID220	n	ddp	yes	betise	conservative
+ID1933	n	asm	no	peler	inclusive
+ID2885	n	an	no	redfish	inclusive
+ID2990	n	om	no	waria	inclusive
+ID2843	n	an	no	haemadippza zeylania	inclusive
+ID153	n	asm	no	maxilliped	inclusive
+ID728	n	an	no	perforasi	inclusive
+ID486	n	is	yes	bangsat	conservative
+ID2866	n	an	no	emas jackal	inclusive
+ID144	n	qas	no	barang sisa	inclusive
+ID709	n	ddp	yes	perusuh	conservative
+ID293	n	cds	no	bandit	conservative
+ID2000	n	qas	no	senyawa	inclusive
+ID2402	v	re	no	menuntut	inclusive
+ID1288	n	cds	no	wads	inclusive
+ID1639	n	pr	no	wts	inclusive
+ID72	n	pa	yes	academism	inclusive
+ID1370	a	dmc	yes	jendala	conservative
+ID3011	n	asm	no	aves	inclusive
+ID1146	v	asm	no	mempersendakan	inclusive
+ID1432	n	cds	no	pengecohan	inclusive
+ID1980	n	cds	no	mengobrak-abrik	conservative
+ID1005	n	an	no	cimicidae	inclusive
+ID280	n	asm	no	terpedo	inclusive
+ID1059	n	an	no	crocodylian	inclusive
+ID630	n	cds	no	tauke	inclusive
+ID1493	n	svp	no	marah	conservative
+ID2146	n	cds	no	prankishness	inclusive
+ID687	n	cds	no	jisim	conservative
+ID1602	a	cds	no	cerdik	conservative
+ID1851	n	dmc	yes	berbohong	inclusive
+ID2558	v	cds	no	mengalum	inclusive
+ID1902	n	cds	no	loansharking	conservative
+ID1206	n	cds	no	kekotoran	inclusive
+ID854	n	dmc	yes	kecabulan	inclusive
+ID536	n	cds	no	kacukan	inclusive
+ID912	n	or	no	kubis	inclusive
+ID2400	v	re	no	mengacau	inclusive
+ID1427	n	cds	no	fasis	conservative
+ID577	n	cds	no	kesalahan	inclusive
+ID496	n	re	no	jahat	inclusive
+ID2543	v	an	no	menggebu	conservative
+ID2330	a	cds	no	umum	inclusive
+ID1738	a	is	yes	terbatas	conservative
+ID44	n	cds	no	broker	inclusive
+ID1380	a	dmc	yes	angkara	conservative
+ID2322	n	cds	no	homunculi	inclusive
+ID197	n	ddp	yes	kiss 'n' tell	inclusive
+ID1362	n	an	no	laut kalajengking	inclusive
+ID1642	n	pr	no	percabulan	conservative
+ID2809	v	re	no	mengumpil	inclusive
+ID957	n	om	no	twink	conservative
+ID1073	n	ps	yes	bioteknologi tanaman	inclusive
+ID1738	a	dmc	yes	terbatas	conservative
+ID722	a	dmc	yes	buruk	conservative
+ID2478	v	cds	no	tutup usia	inclusive
+ID2110	a	dmc	yes	zalim	conservative
+ID297	n	an	no	perompak	inclusive
+ID496	n	dmc	yes	jahat	inclusive
+ID146	n	cds	no	omnium-gatherum	inclusive
+ID771	n	cds	no	changelings	inclusive
+ID234	n	ps	yes	benak	conservative
+ID195	n	an	no	makhluk	inclusive
+ID1049	n	an	no	athene noctua	inclusive
+ID1881	a	is	yes	bersendu	inclusive
+ID360	n	asf	no	pemurah	conservative
+ID819	n	cds	no	puak	inclusive
+ID309	n	dmc	yes	kekejaman	conservative
+ID2057	n	cds	no	pegawai	conservative
+ID224	n	cds	no	gila	conservative
+ID2579	n	cds	no	moaner	conservative
+ID1854	n	re	no	neonaticide	inclusive
+ID1557	n	cds	no	pengusik	conservative
+ID836	n	an	no	klontongan lokal	inclusive
+ID1937	n	asm	no	anggota	inclusive
+ID1437	n	or	no	fastidiousness	inclusive
+ID2623	a	cds	no	bongkak	conservative
+ID2560	v	cds	no	menyusutkan	inclusive
+ID392	n	an	no	pendamping laki-laki	conservative
+ID1627	n	qas	no	tagalong	conservative
+ID1852	n	re	no	pembunuhan	inclusive
+ID2520	n	cds	no	bertele-tele	conservative
+ID1224	n	dmc	yes	hipokrit	conservative
+ID1232	n	om	no	pantat	inclusive
+ID2014	n	svp	no	slackers	conservative
+ID120	n	svp	no	pemalas	conservative
+ID2034	n	an	no	kecut wajah	inclusive
+ID603	n	cds	no	pembunuh	conservative
+ID1413	n	cds	no	mucikari	inclusive
+ID310	n	ddp	yes	kebiadaban	inclusive
+ID885	n	cds	no	ballup	inclusive
+ID651	n	pa	yes	petani	inclusive
+ID2477	v	cds	no	menarik napas penghabisan	inclusive
+ID1646	n	pr	no	prostitusi	conservative
+ID2214	n	an	no	biri-biri	inclusive
+ID1438	n	or	no	adas	inclusive
+ID1898	n	cds	no	seorang	inclusive
+ID1017	n	an	no	hemipteran	inclusive
+ID3086	n	cds	no	culchie	inclusive
+ID580	n	qas	no	kekalutan	inclusive
+ID598	n	qas	no	bumbler	conservative
+ID2634	a	svp	no	bersungut-sungut	conservative
+ID709	n	cds	no	perusuh	conservative
+ID317	n	qas	no	saudagar	inclusive
+ID2476	v	cds	no	sampai janjinya	inclusive
+ID219	n	or	no	noggin	inclusive
+ID1228	n	om	no	rear end	inclusive
+ID2303	n	re	no	teroris	conservative
+ID2056	n	cds	no	mata-mata	conservative
+ID2829	a	qas	no	feodal	inclusive
+ID169	n	ddp	yes	analphabet	inclusive
+ID1354	n	dmc	yes	kepatutan	inclusive
+ID2659	n	an	no	volaille	inclusive
+ID1120	n	qas	no	menolak	conservative
+ID2715	n	pr	no	borak	conservative
+ID1425	n	qas	no	granger	inclusive
+ID959	n	ddp	yes	penggosip	conservative
+ID155	a	svp	no	garang	inclusive
+ID775	n	an	no	betina	conservative
+ID163	n	cds	no	giat	inclusive
+ID1895	n	svp	no	gorger	conservative
+ID809	n	an	no	familiaris	inclusive
+ID1648	n	is	yes	memiliki-tidak	inclusive
+ID1267	n	svp	no	gourmandizer	conservative
+ID798	n	re	no	scammer	inclusive
+ID1285	n	cds	no	jumlah besar sekali	inclusive
+ID2371	v	qas	no	merayau-rayau	conservative
+ID1329	n	cds	no	penggemar	inclusive
+ID1301	n	cds	no	penggali	inclusive
+ID982	v	cds	no	merepet	inclusive
+ID3017	n	re	no	ndrangheta	inclusive
+ID134	n	cds	no	gelagat	inclusive
+ID1743	a	svp	no	kedekut	conservative
+ID496	n	cds	no	jahat	inclusive
+ID685	n	svp	no	kehampaan	conservative
+ID1280	n	re	no	remaja tunggakan	conservative
+ID486	n	an	no	bangsat	conservative
+ID1289	n	cds	no	banyaknya	inclusive
+ID1744	a	svp	no	cekel	conservative
+ID156	n	an	no	karut	conservative
+ID1794	n	an	no	inexorableness	conservative
+ID1735	a	is	yes	parokial	conservative
+ID1931	n	cds	no	ketul	inclusive
+ID208	n	re	no	perkosa	conservative
+ID1747	a	an	no	medit	conservative
+ID2746	n	re	no	capturer	inclusive
+ID232	n	an	no	bedebah	conservative
+ID3060	n	re	no	paksa	inclusive
+ID1386	n	dmc	yes	libertine	conservative
+ID427	n	qas	no	bikinan	conservative
+ID2854	a	qas	no	ideologi	inclusive
+ID778	n	re	no	memfitnah	inclusive
+ID770	n	asm	no	memperlambat	inclusive
+ID2954	n	re	no	terrorism	conservative
+ID312	n	an	no	kekasaran	inclusive
+ID917	n	svp	no	berahi	inclusive
+ID1186	n	re	no	kegiatan ilegal	inclusive
+ID1134	n	pr	no	nyonya	conservative
+ID953	n	or	no	homofil	conservative
+ID1552	n	asf	no	jembut	inclusive
+ID2660	n	an	no	poulet	inclusive
+ID3	n	dmc	yes	kemunduran	inclusive
+ID1845	n	dmc	yes	pendusta	inclusive
+ID1968	n	svp	no	kegusaran	inclusive
+ID304	n	qas	no	kampung	conservative
+ID1390	n	dmc	yes	pemboros	inclusive
+ID2383	v	cds	no	membicarakan	inclusive
+ID2783	a	dmc	yes	sumbang	conservative
+ID2151	n	svp	no	pongah	inclusive
+ID2349	n	an	no	nasar	inclusive
+ID2702	a	cds	no	penakut	conservative
+ID1231	n	om	no	dorsoventral	inclusive
+ID1956	a	svp	no	cemburu	conservative
+ID2095	n	qas	no	parish	inclusive
+ID147	n	cds	no	sisa-sisa	inclusive
+ID1580	v	asm	no	bersetubuh	conservative
+ID426	n	cds	no	cetera	conservative
+ID2642	n	re	no	plagiarization	inclusive
+ID1677	n	ps	yes	israel	inclusive
+ID664	n	om	no	sodomist	inclusive
+ID1463	n	an	no	siphonaptera	inclusive
+ID2503	v	cds	no	menjunjung	inclusive
+ID1906	n	an	no	insekta	inclusive
+ID3072	n	ps	yes	gipsi	inclusive
+ID1169	n	ddp	yes	melongo	conservative
+ID36	n	re	no	menganiaya	inclusive
+ID1912	n	cds	no	sassing	inclusive
+ID792	n	re	no	traducer	conservative
+ID1286	n	cds	no	beban	inclusive
+ID137	n	cds	no	bergurau	inclusive
+ID2528	v	qas	no	menampal	inclusive
+ID353	n	cds	no	penolakan	inclusive
+ID1401	n	cds	no	kerabat	inclusive
+ID1449	n	cds	no	wangler	conservative
+ID3052	n	pr	no	abdi dalem	inclusive
+ID566	n	cds	no	buntu jalan	inclusive
+ID2150	n	svp	no	pridefulness	inclusive
+ID2740	n	re	no	dirampok	inclusive
+ID222	n	asm	no	dungu	conservative
+ID194	n	ddp	yes	bernyawa menjadi	inclusive
+ID1735	a	qas	no	parokial	inclusive
+ID2644	n	re	no	plagiarisme	inclusive
+ID2401	v	re	no	mengecewakan	inclusive
+ID2898	a	is	yes	papa	inclusive
+ID2108	a	an	no	kejam	conservative
+ID640	n	asm	no	brownness	inclusive
+ID2240	n	cds	no	narsisis	inclusive
+ID705	n	cds	no	yg tdk mau berbuat sesuatu	conservative
+ID1455	n	pa	yes	fishmongers	inclusive
+ID2249	n	ps	yes	negro	inclusive
+ID308	n	cds	no	keganasan	inclusive
+ID2540	v	an	no	naik darah	conservative
+ID2614	a	om	no	janggal	inclusive
+ID596	n	ddp	yes	buas	conservative
+ID2396	v	qas	no	mendera	conservative
+ID697	n	dmc	yes	scum bag	inclusive
+ID1210	n	cds	no	noda	inclusive
+ID1554	n	cds	no	usil-parker	conservative
+ID1126	n	cds	no	potong-up	conservative
+ID808	n	an	no	asu	inclusive
+ID1097	n	cds	no	nak	inclusive
+ID123	n	qas	no	umat	inclusive
+ID1769	n	ddp	yes	kekonyolan	conservative
+ID164	n	cds	no	semangat	inclusive
+ID397	n	dmc	yes	dusta	inclusive
+ID2326	n	ddp	yes	twaddler	conservative
+ID1953	a	svp	no	hasid	conservative
+ID1275	n	an	no	aries	inclusive
+ID1002	n	qas	no	besi tua	inclusive
+ID1752	n	cds	no	banyol	inclusive
+ID3000	n	om	no	kekedian	inclusive
+ID2815	v	re	no	mengambil	inclusive
+ID408	n	cds	no	kekacauan	conservative
+ID2954	n	re	no	terrorism	inclusive
+ID1504	n	cds	no	samseng	inclusive
+ID127	n	qas	no	konco	inclusive
+ID2836	a	dmc	yes	menjijikkan	conservative
+ID269	n	cds	no	bordel	inclusive
+ID589	n	cds	no	bragger	conservative
+ID223	n	cds	no	bebal	inclusive
+ID2628	a	cds	no	panjang akal	inclusive
+ID2277	n	ps	yes	ras	inclusive
+ID571	n	qas	no	bloopers	inclusive
+ID1263	n	qas	no	kennel	inclusive
+ID953	n	om	no	homofil	inclusive
+ID1064	n	an	no	crocodylidae	inclusive
+ID309	n	ddp	yes	kekejaman	inclusive
+ID329	n	pa	yes	konselor-di-hukum	inclusive
+ID1808	n	cds	no	penulis	conservative
+ID822	n	cds	no	clann	inclusive
+ID378	n	pr	no	perek	inclusive
+ID693	n	an	no	git	conservative
+ID2117	n	cds	no	pesta	inclusive
+ID1154	n	pr	no	gundik	conservative
+ID1207	n	cds	no	tanah	inclusive
+ID1225	n	dmc	yes	palsu	conservative
+ID1745	a	is	yes	bakhil	conservative
+ID119	n	svp	no	kelambanan	inclusive
+ID679	n	cds	no	kepongahan	conservative
+ID1001	n	qas	no	murahan	inclusive
+ID1734	a	dmc	yes	sempit	conservative
+ID1910	n	an	no	hexapoda	inclusive
+ID1070	n	cds	no	tanaman peternak	inclusive
+ID2059	n	cds	no	mafiosi	conservative
+ID1752	n	re	no	banyol	inclusive
+ID1626	n	qas	no	penurut	conservative
+ID2884	a	cds	no	kebanyakan	inclusive
+ID639	n	asm	no	pirang	inclusive
+ID2922	a	ddf	yes	menyakitkan mata	conservative
+ID2912	a	ddp	yes	hambar	inclusive
+ID425	n	cds	no	cerita	conservative
+ID250	n	svp	no	kerakusan	inclusive
+ID259	n	svp	no	kekikiran	inclusive
+ID1603	a	cds	no	pintar	inclusive
+ID2950	n	cds	no	kedangkalan	inclusive
+ID730	n	an	no	cakehole	inclusive
+ID300	n	dmc	yes	biadab	conservative
+ID2389	a	qas	no	kariah	inclusive
+ID360	n	asm	no	pemurah	conservative
+ID204	n	re	no	pemerkosaan	conservative
+ID2807	v	re	no	mengebas	inclusive
+ID1371	a	an	no	kasar	conservative
+ID3056	n	re	no	keterlaluan	inclusive
+ID2157	n	cds	no	relikui	inclusive
+ID952	n	om	no	homosex	inclusive
+ID2749	a	om	no	berbeda	inclusive
+ID1137	n	om	no	dame	inclusive
+ID1929	n	cds	no	kepul	inclusive
+ID440	a	ddp	yes	tongong	conservative
+ID1238	n	om	no	ekor	inclusive
+ID486	n	re	no	bangsat	conservative
+ID1189	n	an	no	nipis	conservative
+ID203	n	re	no	memperkosa	conservative
+ID553	n	re	no	diperas	conservative
+ID490	n	an	no	angkuh	conservative
+ID439	a	ddp	yes	bodoh	conservative
+ID1582	v	asm	no	tahu	conservative
+ID356	n	cds	no	bas bleu	inclusive
+ID2108	a	dmc	yes	kejam	conservative
+ID1357	n	dmc	yes	etika motif	inclusive
+ID2343	n	an	no	beludak	inclusive
+ID386	n	pr	no	rentboy	conservative
+ID1371	a	re	no	kasar	inclusive
+ID1990	n	ps	yes	metics	inclusive
+ID165	n	cds	no	minat	inclusive
+ID936	n	cds	no	wartawan	inclusive
+ID2433	v	cds	no	menjejal	inclusive
+ID837	n	pa	yes	kambing	inclusive
+ID491	n	dmc	yes	nakal	conservative
+ID1171	n	ddp	yes	tongkol	conservative
+ID796	n	dmc	yes	chiseller	conservative
+ID711	n	re	no	villainess	conservative
+ID2456	v	cds	no	menutup mata	inclusive
+ID2519	v	cds	no	berkhotbah	conservative
+ID234	n	ddp	yes	benak	conservative
+ID490	n	re	no	angkuh	conservative
+ID771	n	ps	yes	changelings	conservative
+ID2615	n	asm	no	pekerjaan tangan	conservative
+ID1525	n	asf	no	meki	conservative
+ID649	n	pr	no	rat norwegia	inclusive
+ID257	n	an	no	kedekut	conservative
+ID1248	n	om	no	posterior	inclusive
+ID708	n	cds	no	massa	inclusive
+ID1584	v	asm	no	entot	conservative
+ID304	n	pa	yes	kampung	conservative
+ID2794	n	an	no	salientian	inclusive
+ID1367	n	cds	no	pendosa	conservative
+ID296	n	qas	no	penjahat	conservative
+ID918	n	svp	no	eros	inclusive
+ID1831	n	dmc	yes	pseud	conservative
+ID1415	n	cds	no	pandar	conservative
+ID201	n	ddp	yes	margasatwa	inclusive
+ID1908	n	an	no	insecta	inclusive
+ID1634	n	pr	no	jasa seksual	conservative
+ID1559	n	cds	no	mengintip	conservative
+ID268	n	cds	no	cathouse	inclusive
+ID1414	n	cds	no	calo	inclusive
+ID569	n	dmc	yes	rakehell	conservative
+ID1999	n	qas	no	pencampuran	inclusive
+ID1114	n	or	no	ketimun	inclusive
+ID29	n	re	no	pelanggaran	inclusive
+ID62	n	asf	no	kedunguan	conservative
+ID22	n	qas	no	misdinar	inclusive
+ID220	n	an	no	betise	conservative
+ID1122	n	qas	no	pemusnahan	conservative
+ID1400	n	cds	no	daging darah	inclusive
+ID981	v	cds	no	mengoceh	inclusive
+ID89	a	an	no	bengal	inclusive
+ID2563	a	om	no	aneh	inclusive
+ID2388	n	qas	no	moocher	conservative
+ID1392	n	dmc	yes	scattergood	inclusive
+ID1464	n	an	no	hama	inclusive
+ID2342	n	ps	yes	vandal	inclusive
+ID2753	n	cds	no	groveler	conservative
+ID132	n	cds	no	bercanda	inclusive
+ID952	n	or	no	homosex	conservative
+ID1681	n	ps	yes	jewess	inclusive
+ID1982	n	cds	no	bersepah-sepah	conservative
+ID1502	n	dmc	yes	cempiang	inclusive
+ID1115	n	or	no	sativus	inclusive
+ID1764	n	ddf	yes	tunadaksa	inclusive
+ID303	n	ddp	yes	barbar	conservative
+ID1873	a	is	yes	terista	inclusive
+ID2748	a	om	no	berlainan	inclusive
+ID491	n	an	no	nakal	conservative
+ID1848	a	svp	no	culas	conservative
+ID1416	n	cds	no	ceti	inclusive
+ID2759	a	dmc	yes	comot	inclusive
+ID2874	n	ddp	yes	folly	inclusive
+ID157	n	an	no	folderol	conservative
+ID133	n	asm	no	usikan	inclusive
+ID2584	a	qas	no	selalu	inclusive
+ID1686	n	cds	no	khalayak	inclusive
+ID2309	n	re	no	membunuh	inclusive
+ID2679	a	svp	no	sia-sia	conservative
+ID674	n	cds	no	membengkak kepala	conservative
+ID506	n	ddp	yes	blabbermouth	conservative
+ID1143	v	asm	no	mencemooh	inclusive
+ID1140	n	re	no	date-rape	conservative
+ID1372	a	is	yes	malang	inclusive
+ID859	n	asm	no	titit	inclusive
+ID2069	n	an	no	memekik-burung hantu	inclusive
+ID226	n	cds	no	tolol	inclusive
+ID770	n	asf	no	memperlambat	conservative
+ID947	n	asm	no	banci	conservative
+ID1106	n	cds	no	bunga	inclusive
+ID1561	n	an	no	agas	inclusive
+ID293	n	dmc	yes	bandit	conservative
+ID1109	n	asf	no	pepek	conservative
+ID969	n	dmc	yes	pembelot	conservative
+ID35	n	re	no	sakit-penggunaan	inclusive
+ID2237	n	ddf	yes	setengah pint	conservative
+ID612	n	ddp	yes	zooerastia	conservative
+ID692	n	ddf	yes	cacat	inclusive
+ID223	n	an	no	bebal	conservative
+ID698	n	ps	yes	pengembara	inclusive
+ID772	n	ddp	yes	moron	conservative
+ID159	n	cds	no	omong kosong	conservative
+ID2434	v	cds	no	mengasak	inclusive
+ID2481	v	cds	no	menyalip	inclusive
+ID1971	n	svp	no	murka	inclusive
+ID1424	n	qas	no	sodbuster	inclusive
+ID490	n	dmc	yes	angkuh	conservative
+ID1307	n	ddf	yes	cebol	conservative
+ID2127	n	asm	no	ercis	inclusive
+ID949	n	om	no	homoseks	inclusive
+ID358	n	an	no	patsy	conservative
+ID2375	v	qas	no	mengawai	conservative
+ID944	n	om	no	homo	conservative
+ID1226	n	dmc	yes	hipokrisi	conservative
+ID2545	v	an	no	menyerbu	conservative
+ID2883	a	cds	no	jelata	inclusive
+ID1486	n	cds	no	vrijmetselaar	inclusive
+ID359	n	an	no	jatuh pria	conservative
+ID1596	n	an	no	eurasia griffon	inclusive
+ID1499	n	svp	no	dillydallier	conservative
+ID2184	n	an	no	cucut	inclusive
+ID399	n	cds	no	bohong	inclusive
+ID1739	a	an	no	pelit	conservative
+ID2083	n	cds	no	anak dusun	conservative
+ID2501	v	cds	no	memuja	inclusive
+ID543	n	ddp	yes	celaka	conservative
+ID1148	n	qas	no	pengoles	conservative
+ID1191	n	an	no	nipis-sialan	conservative
+ID358	n	cds	no	patsy	conservative
+ID272	n	cds	no	bagnio	inclusive
+ID977	v	cds	no	bercakap-cakap	inclusive
+ID2672	a	asm	no	coklat	inclusive
+ID181	n	an	no	sidat	inclusive
+ID2814	v	re	no	menyangkutkan	inclusive
+ID303	n	qas	no	barbar	conservative
+ID398	n	cds	no	kebohongan	inclusive
+ID1390	n	dmc	yes	pemboros	conservative
+ID2431	v	cds	no	menelan	inclusive
+ID400	n	qas	no	kepalsuan	conservative
+ID224	n	ddp	yes	gila	conservative
+ID2511	v	asm	no	meledek	conservative
+ID787	n	re	no	vilifier	conservative
+ID1195	n	cds	no	roman picisan	inclusive
+ID1379	a	an	no	bengis	conservative
+ID1187	n	an	no	diddlyshit	conservative
+ID735	n	cds	no	ingroup	inclusive
+ID975	n	cds	no	kepengecutan	conservative
+ID1344	n	asm	no	konak	inclusive
+ID1876	a	is	yes	ripuh	inclusive
+ID1869	a	qas	no	menyedihkan	conservative
+ID3007	n	asm	no	avifauna	inclusive
+ID1686	n	cds	no	khalayak	conservative
+ID2833	n	cds	no	weisenheimer	conservative
+ID722	a	ddf	yes	buruk	conservative
+ID1079	n	cds	no	hibrid alami	inclusive
+ID2654	a	dmc	yes	tiruan	conservative
+ID2031	n	an	no	gegat	inclusive
+ID224	n	an	no	gila	conservative
+ID1391	n	dmc	yes	boros	inclusive
+ID2337	a	qas	no	jamak	inclusive
+ID1051	n	ddp	yes	kretinisme	inclusive
+ID727	n	an	no	lubang	inclusive
+ID2673	a	cds	no	berpura-pura	conservative
+ID1861	a	is	yes	nestapa	inclusive
+ID2449	v	cds	no	bablas	inclusive
+ID2775	a	svp	no	pelahap	inclusive
+ID2577	n	cds	no	pengeluh	conservative
+ID2286	n	cds	no	hiperseksualitas	conservative
+ID3003	n	om	no	lintas ganti	inclusive
+ID724	a	ddf	yes	hina	conservative
+ID1921	n	asm	no	merah marun	inclusive
+ID848	n	qas	no	mengacaukan	inclusive
+ID2242	n	cds	no	narsisisme	inclusive
+ID2168	n	qas	no	ahli pidato	inclusive
+ID2215	n	an	no	kibas	inclusive
+ID983	v	cds	no	meraban	conservative
+ID1423	n	qas	no	tani	inclusive
+ID2979	n	an	no	balon swallower	inclusive
+ID189	n	an	no	satwa	inclusive
+ID2211	n	an	no	biribiri	inclusive
+ID2231	n	qas	no	pemimpin spiritual	inclusive
+ID1220	n	cds	no	kemunafikan	inclusive
+ID147	n	qas	no	sisa-sisa	inclusive
+ID2048	n	cds	no	wrongdoer	inclusive
+ID1136	n	asf	no	perempuan	conservative
+ID1495	n	svp	no	kegeraman	inclusive
+ID1380	a	cds	no	angkara	conservative
+ID758	n	dmc	yes	terbuang	inclusive
+ID709	n	an	no	perusuh	conservative
+ID305	n	dmc	yes	babar	conservative
+ID694	n	dmc	yes	lowlife	inclusive
+ID1506	n	re	no	mafia	conservative
+ID2114	n	cds	no	perjamuan	inclusive
+ID3044	n	an	no	tempayak	inclusive
+ID20	n	qas	no	pembantunya	inclusive
+ID612	n	an	no	zooerastia	conservative
+ID843	n	svp	no	niggardliness	conservative
+ID2778	a	dmc	yes	anjal	inclusive
+ID692	n	an	no	cacat	conservative
+ID1456	n	dmc	yes	pemalsuan	inclusive
+ID1087	n	qas	no	konformitas	inclusive
+ID1748	a	is	yes	lokek	conservative
+ID2842	n	an	no	pacet	inclusive
+ID296	n	re	no	penjahat	inclusive
+ID948	n	om	no	nance	conservative
+ID2230	n	cds	no	moralisme	inclusive
+ID641	n	asm	no	perang	inclusive
+ID2544	v	an	no	mengamuk	conservative
+ID2626	a	cds	no	ujud	conservative
+ID2246	a	cds	no	egosentris	conservative
+ID1802	n	cds	no	pengasuh	inclusive
+ID1740	a	is	yes	singkat tangan	inclusive
+ID2122	a	dmc	yes	batil	conservative
+ID15	n	svp	no	apati	inclusive
+ID2102	n	an	no	psittaciformes	inclusive
+ID257	n	svp	no	kedekut	conservative
+ID2789	n	an	no	anura	inclusive
+ID614	n	an	no	ferociousness	conservative
+ID2188	n	an	no	jerung	inclusive
+ID1730	n	cds	no	idola ibadah	inclusive
+ID1298	n	ps	yes	petualang	inclusive
+ID1563	n	cds	no	penengah	inclusive
+ID1713	n	an	no	dubuk	inclusive
+ID2723	n	pa	yes	akuntan	inclusive
+ID2113	a	dmc	yes	buas	conservative
+ID2608	a	re	no	berang	inclusive
+ID1193	n	an	no	diddlysquat	conservative
+ID3036	n	pa	yes	cordwainer	inclusive
+ID1219	n	dmc	yes	mengaburnya	conservative
+ID2380	n	qas	no	lintah	conservative
+ID1539	n	cds	no	penjaga penjara	inclusive
+ID2218	n	pa	yes	gembala	inclusive
+ID286	n	qas	no	teste	inclusive
+ID103	a	an	no	gigih	inclusive
+ID2058	n	cds	no	cosa nostra	inclusive
+ID263	n	ddp	yes	perepet	conservative
+ID1665	n	om	no	sesama jenis	inclusive
+ID985	v	cds	no	mengerih	inclusive
+ID1227	n	om	no	buntut	inclusive
+ID1243	n	om	no	istilah anatomi lokasi	inclusive
+ID234	n	asm	no	benak	conservative
+ID1623	n	re	no	penjarahan	inclusive
+ID1868	a	is	yes	sungkawa	inclusive
+ID840	n	an	no	nanny-kambing	inclusive
+ID2726	a	is	yes	keseorangan	inclusive
+ID1236	n	om	no	bokong	inclusive
+ID80	n	cds	no	amour propre	conservative
+ID1270	n	an	no	pelahap	conservative
+ID237	n	asf	no	muttonhead	conservative
+ID1659	n	om	no	gayness	inclusive
+ID2104	n	svp	no	jimat	inclusive
+ID2916	a	ddf	yes	lata	conservative
+ID1373	a	dmc	yes	hitam	conservative
+ID2852	a	re	no	bergelora	conservative
+ID2857	n	an	no	blattodea	inclusive
+ID261	n	an	no	bakhil	conservative
+ID2070	n	an	no	otus asio	inclusive
+ID1323	a	qas	no	kegila-gilaan	inclusive
+ID1813	a	dmc	yes	terkutuk	conservative
+ID2360	v	qas	no	kusut	conservative
+ID1133	n	om	no	wanita	inclusive
+ID1310	n	an	no	nanus	conservative
+ID2557	v	cds	no	menciutkan	inclusive
+ID2714	n	pr	no	fornicatress	conservative
+ID1175	n	ps	yes	doofus	conservative
+ID765	n	an	no	bacul	conservative
+ID2163	n	qas	no	rhetoric	inclusive
+ID2586	n	an	no	humanus	inclusive
+ID166	n	cds	no	fanatisme	conservative
+ID359	n	ddp	yes	jatuh pria	conservative
+ID904	n	pa	yes	prof	inclusive
+ID117	n	om	no	semburit	inclusive
+ID845	n	svp	no	niggardness	conservative
+ID38	n	re	no	dera	inclusive
+ID1382	a	dmc	yes	songong	conservative
+ID1015	n	an	no	bedbug	inclusive
+ID1117	n	cds	no	camarilla	inclusive
+ID799	n	dmc	yes	grifter	conservative
+ID1056	n	ddp	yes	twirp	conservative
+ID486	n	ddp	yes	bangsat	conservative
+ID2279	n	ps	yes	hispanik	inclusive
+ID673	n	qas	no	kelas menengah	inclusive
+ID861	n	asm	no	kanjut	inclusive
+ID154	a	svp	no	agresif	conservative
+ID601	n	ddp	yes	blunderer	conservative
+ID2323	n	cds	no	homunculus	inclusive
+ID1740	a	is	yes	singkat tangan	conservative
+ID2037	n	dmc	yes	mozzarella	inclusive
+ID1256	n	om	no	derriere	inclusive
+ID1376	a	dmc	yes	pedih	inclusive
+ID1957	a	svp	no	iri	conservative
+ID712	n	re	no	jahanam	conservative
+ID1728	n	qas	no	kepercayaan	inclusive
+ID3057	n	re	no	kehebatan	inclusive
+ID2321	n	re	no	penyiksa	inclusive
+ID2813	v	re	no	menggait	inclusive
+ID2595	n	an	no	phthiraptera	inclusive
+ID475	n	cds	no	gerombolan	conservative
+ID681	n	cds	no	kecongkakan	conservative
+ID1473	n	cds	no	pecandu	conservative
+ID206	n	re	no	perkosaan	conservative
+ID1739	a	is	yes	pelit	conservative
+ID769	n	asf	no	changeling	conservative
+ID1415	n	cds	no	pandar	inclusive
+ID2290	n	asf	no	remeh-temeh	inclusive
+ID1179	n	cds	no	kriminalitas	inclusive
+ID530	n	an	no	babi	conservative
+ID81	n	cds	no	kesombongan	inclusive
+ID616	n	re	no	kejahatan	inclusive
+ID627	n	cds	no	ternak	inclusive
+ID1737	a	dmc	yes	picik	conservative
+ID1977	a	svp	no	meragam	conservative
+ID656	n	qas	no	pemilik bisnis	inclusive
+ID64	n	ddp	yes	ketololan	conservative
+ID1647	n	pr	no	tunasusila	inclusive
+ID1257	n	om	no	roti	inclusive
+ID68	n	asm	no	kebodohan	conservative
+ID1613	n	cds	no	kebongkaran	inclusive
+ID1510	n	cds	no	fasisme	conservative
+ID2213	n	an	no	biri	inclusive
+ID2403	v	re	no	mengganggu	inclusive
+ID2952	n	re	no	terorisme	conservative
+ID1851	n	cds	no	berbohong	conservative
+ID1495	n	an	no	kegeraman	inclusive
+ID2901	a	is	yes	bulus	inclusive
+ID1927	n	cds	no	gumpalan	inclusive
+ID3005	n	pr	no	hetaera	inclusive
+ID1244	n	om	no	kontralateral	inclusive
+ID719	n	an	no	cayman	inclusive
+ID2516	v	asm	no	mengajuk	conservative
+ID2996	n	om	no	crossdress	inclusive
+ID1505	n	dmc	yes	mobster	inclusive
+ID734	n	cds	no	dalam lingkaran	inclusive
+ID372	n	pr	no	pelacur	inclusive
+ID445	a	cds	no	bangang	conservative
+ID1667	n	om	no	homoerotis	inclusive
+ID346	n	qas	no	barok	inclusive
+ID2504	v	cds	no	menyembah	inclusive
+ID1271	n	svp	no	gali	conservative
+ID541	n	cds	no	strikebreakers	inclusive
+ID3035	n	pa	yes	tukang sepatu	inclusive
+ID1396	n	cds	no	anak bini	inclusive
+ID1502	n	re	no	cempiang	inclusive
+ID359	n	cds	no	jatuh pria	conservative
+ID2676	a	ps	yes	tiongkok	inclusive
+ID2090	n	qas	no	parasitize	inclusive
+ID799	n	re	no	grifter	inclusive
+ID2405	v	qas	no	mengusik	conservative
+ID1358	n	dmc	yes	moral	inclusive
+ID1559	n	qas	no	mengintip	inclusive
+ID47	n	pa	yes	wakil	inclusive
+ID1948	n	svp	no	enviousness	inclusive
+ID187	n	an	no	infauna	inclusive
+ID2083	n	dmc	yes	anak dusun	conservative
+ID235	n	or	no	fuckhead	conservative
+ID1632	n	pr	no	seks komersial	inclusive
+ID2293	n	qas	no	peternakan penyewa	inclusive
+ID481	n	cds	no	golongan	inclusive
+ID795	n	dmc	yes	pemahat	conservative
+ID1742	a	svp	no	tangkai kering	conservative
+ID2792	n	an	no	anuran	inclusive
+ID157	n	cds	no	folderol	conservative
+ID1343	n	asm	no	keras-on	inclusive
+ID2707	a	ddf	yes	pincang	inclusive
+ID704	n	cds	no	pelengah	conservative
+ID508	n	cds	no	olokan	conservative
+ID2229	n	pr	no	sosialita	inclusive
+ID1748	a	dmc	yes	lokek	conservative
+ID1179	n	re	no	kriminalitas	inclusive
+ID860	n	asm	no	punai	conservative
+ID2645	n	re	no	penjiplakan	inclusive
+ID652	n	qas	no	pengusaha	inclusive
+ID1438	n	om	no	adas	inclusive
+ID1718	n	cds	no	balada	inclusive
+ID2865	n	an	no	jakal	inclusive
+ID469	n	dmc	yes	fanatik	conservative
+ID491	n	re	no	nakal	conservative
+ID1761	n	ddf	yes	menonaktifkan	inclusive
+ID1647	n	pr	no	tunasusila	conservative
+ID141	n	cds	no	tipu	conservative
+ID327	n	pa	yes	advokat	inclusive
+ID2542	v	an	no	kemarahan	conservative
+ID1107	n	or	no	twat	conservative
+ID1282	n	cds	no	skor	inclusive
+ID2001	n	cds	no	toilet	inclusive
+ID1135	n	om	no	bu	inclusive
+ID2376	v	qas	no	mengotori	conservative
+ID1382	a	cds	no	songong	conservative
+ID159	n	qas	no	omong kosong	inclusive
+ID1176	n	ps	yes	ruiner	conservative
+ID3051	n	pr	no	istana	inclusive
+ID2193	n	an	no	bakteri	inclusive
+ID772	n	cds	no	moron	inclusive
+ID711	n	is	yes	villainess	conservative
+ID1157	n	pr	no	kendak	inclusive
+ID1560	n	cds	no	pengintai	conservative
+ID2609	a	svp	no	memberongsang	inclusive
+ID2111	a	dmc	yes	azab	conservative
+ID1467	n	cds	no	pelawak	conservative
+ID2975	v	re	no	menggelisahkan	inclusive
+ID949	n	or	no	homoseks	conservative
+ID1030	n	svp	no	tanha	inclusive
+ID2959	n	ddp	yes	pencerewet	conservative
+ID223	n	ps	yes	bebal	conservative
+ID2410	v	is	yes	mengemis	inclusive
+ID769	n	asm	no	changeling	inclusive
+ID687	n	cds	no	jisim	inclusive
+ID3048	a	re	no	riang	conservative
+ID2471	v	cds	no	maut	inclusive
+ID653	n	qas	no	borjuis	inclusive
+ID223	n	asf	no	bebal	conservative
+ID372	n	pr	no	pelacur	conservative
+ID16	n	svp	no	spiritlessness	inclusive
+ID2019	n	an	no	mollusca	inclusive
+ID53	n	pa	yes	dosen	inclusive
+ID159	n	ddp	yes	omong kosong	conservative
+ID756	n	cds	no	kasino	inclusive
+ID220	n	asf	no	betise	conservative
+ID296	n	is	yes	penjahat	conservative
+ID991	n	cds	no	tukang obat	conservative
+ID1104	n	or	no	tempik	conservative
+ID2452	v	cds	no	mengoperkan	inclusive
+ID286	n	asm	no	teste	inclusive
+ID3034	n	om	no	wadam	inclusive
+ID2379	n	qas	no	tukang bonceng	conservative
+ID1506	n	cds	no	mafia	inclusive
+ID2618	a	cds	no	kibir	conservative
+ID995	n	ddp	yes	shamanisme	conservative
+ID2899	a	is	yes	sarit	inclusive
+ID1350	n	qas	no	amatir	inclusive
+ID1631	n	pr	no	lokalisasi	conservative
+ID2464	v	cds	no	almarhum	inclusive
+ID2763	a	dmc	yes	berselekeh	inclusive
+ID1086	n	cds	no	rookie	conservative
+ID2010	n	cds	no	kenyamanan publik	inclusive
+ID2534	v	an	no	mengganas	conservative
+ID884	n	cds	no	mess-up	inclusive
+ID768	n	ddp	yes	idiot	conservative
+ID400	n	cds	no	kepalsuan	inclusive
+ID1855	a	dmc	yes	salah	conservative
+ID1569	n	an	no	kambing-antelop	inclusive
+ID398	n	ddp	yes	kebohongan	conservative
+ID116	n	om	no	persetubuhan dua laki-laki	inclusive
+ID1817	a	dmc	yes	mesum	conservative
+ID631	n	cds	no	bos	inclusive
+ID2234	n	an	no	midge	inclusive
+ID1309	n	ddf	yes	katai	conservative
+ID405	n	cds	no	pesolek	inclusive
+ID947	n	cds	no	banci	conservative
+ID148	n	qas	no	melange	inclusive
+ID3002	n	om	no	transvestitism	inclusive
+ID1433	n	cds	no	kilah	inclusive
+ID321	n	pa	yes	penasihat	inclusive
+ID1314	n	cds	no	pendidik	inclusive
+ID1509	n	cds	no	fascisme	conservative
+ID2608	a	svp	no	berang	inclusive
+ID2751	n	cds	no	apple polisher	conservative
+ID1704	n	qas	no	rumah tangga	inclusive
+ID386	n	an	no	rentboy	conservative
+ID2754	n	cds	no	peleceh	conservative
+ID3042	n	cds	no	korup	inclusive
+ID1506	n	re	no	mafia	inclusive
+ID298	n	cds	no	banditisme	inclusive
+ID2395	v	qas	no	menganiaya	conservative
+ID429	n	dmc	yes	pembohong	conservative
+ID1304	n	cds	no	prajurit infanteri	inclusive
+ID1459	n	cds	no	kekusutan	inclusive
+ID1434	n	re	no	ugutan	inclusive
+ID530	n	cds	no	babi	conservative
+ID357	n	cds	no	bluestocking	inclusive
+ID1003	n	cds	no	memo	inclusive
+ID1377	a	is	yes	sedih	inclusive
+ID1233	n	om	no	wilayah glutealis	inclusive
+ID2957	n	ddp	yes	perengus	conservative
+ID1223	n	dmc	yes	munafik	conservative
+ID54	n	pa	yes	fakultas	inclusive
+ID308	n	ddp	yes	keganasan	conservative
+ID102	a	an	no	tegar	inclusive
+ID617	n	re	no	kezaliman	inclusive
+ID575	n	qas	no	keterlanjuran	inclusive
+ID1820	n	dmc	yes	kelucahan	inclusive
+ID1793	n	an	no	tanpa belas	conservative
+ID1311	n	svp	no	ravenousness	conservative
+ID696	n	om	no	gelandangan	inclusive
+ID2561	n	an	no	mencatut	conservative
+ID337	n	pa	yes	penasehat hukum	inclusive
+ID991	n	ddp	yes	tukang obat	conservative
+ID1186	n	cds	no	kegiatan ilegal	inclusive
+ID2111	a	qas	no	azab	conservative
+ID3087	n	ps	yes	zulu	inclusive
+ID739	n	cds	no	iring-iringan kereta berkuda	inclusive
+ID2823	v	re	no	mengepit	inclusive
+ID457	a	cds	no	tolol	conservative
+ID1872	a	is	yes	sedu	inclusive
+ID1969	n	svp	no	kemurkaan	inclusive
+ID1180	n	re	no	melanggar hukum	inclusive
+ID424	n	pr	no	sapi	inclusive
+ID826	n	cds	no	kaum	inclusive
+ID2767	a	dmc	yes	pencemaran	inclusive
+ID511	n	cds	no	kenakalan pembuatan	conservative
+ID2582	n	cds	no	bellyacher	conservative
+ID1940	n	asm	no	phallus	inclusive
+ID954	n	om	no	homofilia	conservative
+ID364	n	cds	no	pudden-kepala	conservative
+ID1292	n	cds	no	puluhan	inclusive
+ID1979	a	svp	no	baran	conservative
+ID293	n	cds	no	bandit	inclusive
+ID1942	v	cds	no	bersekongkol	inclusive
+ID2323	n	dmc	yes	homunculus	inclusive
+ID1736	a	dmc	yes	terhad	conservative
+ID290	a	svp	no	loba	inclusive
+ID1603	a	cds	no	pintar	conservative
+ID156	n	cds	no	karut	inclusive
+ID1439	n	or	no	finocchio	inclusive
+ID2690	a	svp	no	bermegah	conservative
+ID1158	n	pr	no	pembujuk	inclusive
+ID2178	n	ps	yes	setengah-berkembang biak	conservative
+ID585	n	cds	no	tukang temberang	conservative
+ID3029	n	cds	no	conspiracism	inclusive
+ID1378	a	dmc	yes	biadab	conservative
+ID877	n	qas	no	biasa	inclusive
+ID1658	n	om	no	homosexualism	inclusive
+ID3027	n	ps	yes	kartu merah	inclusive
+ID262	n	an	no	kikir	conservative
+ID2137	n	cds	no	dalang	inclusive
+ID1902	n	cds	no	loansharking	inclusive
+ID1983	v	qas	no	membingungkan	conservative
+ID618	n	re	no	kebuasan	inclusive
+ID2066	n	ps	yes	ostrogoths	inclusive
+ID1235	n	om	no	ipsilateral	inclusive
+ID1796	n	cds	no	lagak	conservative
+ID1475	n	asm	no	kulit khatan	inclusive
+ID905	n	pa	yes	profesor	inclusive
+ID243	n	an	no	himar	inclusive
+ID738	n	cds	no	jalan gerobak	inclusive
+ID1832	n	dmc	yes	penyamar	conservative
+ID624	n	pr	no	lembu	conservative
+ID2830	n	cds	no	sombong	conservative
+ID235	n	an	no	fuckhead	conservative
+ID1324	a	qas	no	tergila-gila	inclusive
+ID1952	a	svp	no	khisit	conservative
+ID1838	n	svp	no	syahwat	inclusive
+ID2671	a	asm	no	perang	inclusive
+ID1654	n	om	no	shirtlifter	inclusive
+ID252	n	svp	no	keserakahan	inclusive
+ID1334	a	qas	no	sakit ingatan	conservative
+ID391	n	an	no	placur	conservative
+ID962	n	cds	no	umpatan	conservative
+ID2152	n	cds	no	superbia	inclusive
+ID1299	n	ps	yes	bertualang	inclusive
+ID970	n	dmc	yes	pengkhianat	conservative
+ID835	n	an	no	genus capra	inclusive
+ID765	n	cds	no	bacul	conservative
+ID767	n	an	no	yg berlaku lemah	conservative
+ID2774	a	svp	no	voracious	inclusive
+ID785	n	re	no	calunnia	inclusive
+ID1156	n	pr	no	selir	inclusive
+ID583	n	qas	no	bungle	inclusive
+ID1466	n	cds	no	kawan	inclusive
+ID3021	n	an	no	tipuan	conservative
+ID235	n	ddp	yes	fuckhead	conservative
+ID697	n	dmc	yes	scum bag	conservative
+ID2569	v	cds	no	menggunjing	inclusive
+ID273	n	cds	no	olahraga rumah	inclusive
+ID1492	n	an	no	kemarahannya	inclusive
+ID2081	n	qas	no	parasit	inclusive
+ID651	n	rci	yes	petani	inclusive
+ID605	n	an	no	tubuh-menyambar	inclusive
+ID76	n	an	no	bison	inclusive
+ID178	n	an	no	anguilla	inclusive
+ID2209	n	ddp	yes	microcephalus	inclusive
+ID1053	n	asm	no	jerk-off	conservative
+ID1576	n	cds	no	ultrakonservatif	conservative
+ID994	n	ddp	yes	perdukunan	conservative
+ID945	n	om	no	poof	conservative
+ID1526	n	asf	no	faraj	conservative
+ID1811	a	dmc	yes	bangpak	conservative
+ID2923	a	re	no	seru	inclusive
+ID1379	a	cds	no	bengis	conservative
+ID2795	n	an	no	frogspawn	inclusive
+ID7	v	an	no	menggonggong	inclusive
+ID2447	v	cds	no	berlalu	inclusive
+ID544	n	ddp	yes	brengsek	conservative
+ID723	a	dmc	yes	leta	conservative
+ID348	n	qas	no	baroque	inclusive
+ID1959	a	svp	no	hasad	conservative
+ID1857	a	is	yes	bersedih	inclusive
+ID737	n	ddp	yes	tahanan	inclusive
+ID59	n	cds	no	amateurishness	conservative
+ID4	v	an	no	gonggong	inclusive
+ID2769	a	dmc	yes	cemar	conservative
+ID1683	n	cds	no	kawanan	inclusive
+ID794	n	dmc	yes	pengelat	conservative
+ID1300	n	ps	yes	berkelana	inclusive
+ID545	n	cds	no	anak zadah	conservative
+ID1669	n	ps	yes	hebraism	inclusive
+ID1472	n	cds	no	kaki	conservative
+ID527	n	dmc	yes	keparat	conservative
+ID2870	a	is	yes	kekurangan	inclusive
+ID341	n	an	no	gonggongan	inclusive
+ID564	n	an	no	cuckold	conservative
+ID768	n	asf	no	idiot	conservative
+ID2249	n	ps	yes	negro	conservative
+ID2880	a	ddp	yes	konyol	conservative
+ID2182	n	ps	yes	mestizo	conservative
+ID1209	n	cds	no	cemaran	inclusive
+ID773	n	cds	no	cretin	inclusive
+ID1371	a	cds	no	kasar	conservative
+ID616	n	dmc	yes	kejahatan	inclusive
+ID696	n	dmc	yes	gelandangan	conservative
+ID2613	a	re	no	kehangusan hati	inclusive
+ID2432	v	cds	no	memolok	inclusive
+ID2380	n	an	no	lintah	conservative
+ID399	n	dmc	yes	bohong	inclusive
+ID663	n	om	no	bersetubuh	inclusive
+ID237	n	an	no	muttonhead	conservative
+ID2882	a	cds	no	ordiner	inclusive
+ID708	n	cds	no	massa	conservative
+ID2448	v	cds	no	berjalan	inclusive
+ID2013	n	cds	no	penyegan	conservative
+ID496	n	is	yes	jahat	conservative
+ID2686	a	svp	no	merangah	conservative
+ID2014	n	cds	no	slackers	conservative
+ID1725	n	asf	no	dara	conservative
+ID17	n	svp	no	apatis	inclusive
+ID2787	n	an	no	kodok	inclusive
+ID2895	a	pa	yes	berpolitik	inclusive
+ID2485	n	or	no	potatoe	inclusive
+ID1874	a	is	yes	murung	inclusive
+ID2032	n	an	no	ngengat	inclusive
+ID1484	n	cds	no	freemasonry	inclusive
+ID234	n	cds	no	benak	conservative
+ID1079	n	ps	yes	hibrid alami	inclusive
+ID2467	v	cds	no	tamat riwayatnya	inclusive
+ID525	n	qas	no	pemimpin bisnis	inclusive
+ID956	n	or	no	homophile	conservative
+ID2538	v	an	no	menengking	conservative
+ID496	n	cds	no	jahat	conservative
+ID1477	n	asm	no	busuk	inclusive
+ID262	n	svp	no	kikir	inclusive
+ID2413	v	is	yes	memohon	inclusive
+ID322	n	pa	yes	menteri-konselor	inclusive
+ID185	n	an	no	animalia	inclusive
+ID1998	n	dmc	yes	pencopet	conservative
+ID305	n	qas	no	babar	conservative
+ID555	n	re	no	pemerasan	inclusive
+ID1128	n	cds	no	tricker	conservative
+ID360	n	ps	yes	pemurah	conservative
+ID2330	a	qas	no	umum	inclusive
+ID1965	a	svp	no	redut	conservative
+ID2772	a	dmc	yes	celekeh	inclusive
+ID853	n	qas	no	kesemrawutan	inclusive
+ID2074	n	om	no	pederastic	inclusive
+ID162	n	cds	no	zelot	conservative
+ID1322	a	qas	no	mabuk	inclusive
+ID2205	n	an	no	animalcules	inclusive
+ID1726	n	asf	no	gadis	conservative
+ID85	a	an	no	bedegong	inclusive
+ID729	n	an	no	bacot	inclusive
+ID464	a	cds	no	jongkok	conservative
+ID2315	n	re	no	slayer	inclusive
+ID2960	n	asm	no	ithyphallic	inclusive
+ID1717	n	an	no	hyaenidae	inclusive
+ID1077	n	ps	yes	bastar	inclusive
+ID2219	n	asm	no	jeerer	conservative
+ID1640	n	pr	no	pelacuran	conservative
+ID2998	n	om	no	lintas-busana	inclusive
+ID1016	n	an	no	tidur bug	inclusive
+ID607	n	an	no	tubuh snatchers	inclusive
+ID2769	a	dmc	yes	cemar	inclusive
+ID1621	n	re	no	curian	inclusive
+ID1616	n	re	no	kecurian	inclusive
+ID37	n	re	no	disalahgunakan	inclusive
+ID2965	n	re	no	keazaban	inclusive
+ID256	n	svp	no	avaritia	inclusive
+ID795	n	cds	no	pemahat	conservative
+ID1711	n	cds	no	bergegas	conservative
+ID360	n	ddp	yes	pemurah	conservative
+ID2685	a	svp	no	bengah	conservative
+ID2153	n	cds	no	propagandis	inclusive
+ID769	n	ps	yes	changeling	conservative
+ID980	v	cds	no	celoteh	inclusive
+ID2250	n	ps	yes	nigger	conservative
+ID1924	n	cds	no	telangkai	inclusive
+ID2658	n	an	no	ceker	inclusive
+ID3013	n	cds	no	selokan	inclusive
+ID2305	n	an	no	caplak	inclusive
+ID1021	n	cds	no	dalih	conservative
+ID490	n	svp	no	angkuh	conservative
+ID2840	n	an	no	hirudinea	inclusive
+ID603	n	qas	no	pembunuh	conservative
+ID222	n	or	no	dungu	conservative
+ID1878	a	is	yes	kuyu	inclusive
+ID1586	v	asm	no	mengetahui	conservative
+ID2687	a	svp	no	ranggi	conservative
+ID82	n	cds	no	keangkuhan	conservative
+ID2820	v	re	no	menyondang	inclusive
+ID1814	a	dmc	yes	bejat	conservative
+ID874	n	cds	no	kepayahan	conservative
+ID1756	n	ddf	yes	kelumpuhan	inclusive
+ID1136	n	om	no	perempuan	inclusive
+ID43	n	cds	no	makelar	inclusive
+ID618	n	ddp	yes	kebuasan	conservative
+ID68	n	an	no	kebodohan	conservative
+ID79	n	svp	no	cinta-diri	conservative
+ID2607	a	svp	no	gemas	inclusive
+ID938	n	cds	no	wartawati	inclusive
+ID1199	n	ps	yes	boche	conservative
+ID613	n	an	no	zooerasty	conservative
+ID1506	n	cds	no	mafia	conservative
+ID2274	n	ps	yes	amerika asli	inclusive
+ID446	a	cds	no	bongak	conservative
+ID2918	a	dmc	yes	bangsat	conservative
+ID2622	a	cds	no	angkuh	conservative
+ID330	n	pa	yes	pembela	inclusive
+ID300	n	qas	no	biadab	conservative
+ID1246	n	om	no	belakang	inclusive
+ID2498	v	cds	no	bertohor	inclusive
+ID707	n	cds	no	kerumunan	conservative
+ID689	n	cds	no	bongkah	inclusive
+ID294	n	re	no	penyamun	conservative
+ID518	n	qas	no	top eksekutif	inclusive
+ID2159	n	cds	no	relikwi	inclusive
+ID295	n	cds	no	perampok	conservative
+ID2999	n	om	no	transvestisme	inclusive
+ID2858	n	an	no	kecoa	inclusive
+ID667	n	qas	no	meja kerja	inclusive
+ID487	n	ddp	yes	penipu	conservative
+ID1406	n	cds	no	dalalah	inclusive
+ID2394	v	re	no	mendesak	inclusive
+ID3073	n	ps	yes	rom	inclusive
+ID479	n	cds	no	kelompok	inclusive
+ID2359	v	qas	no	mengelirukan	conservative
+ID1278	n	pa	yes	porter	inclusive
+ID2811	v	re	no	menganjungkan	inclusive
+ID443	a	cds	no	goblok	conservative
+ID2445	v	cds	no	pergi	inclusive
+ID2731	n	or	no	brassica rapa	inclusive
+ID1666	n	om	no	homoerotisisme	inclusive
+ID2362	n	an	no	menyelinap lidah	inclusive
+ID709	n	qas	no	perusuh	conservative
+ID2171	n	an	no	scorpionfish	inclusive
+ID1516	n	asm	no	fava	inclusive
+ID1394	n	svp	no	faineance	inclusive
+ID2752	n	cds	no	groveller	conservative
+ID1634	n	pr	no	jasa seksual	inclusive
+ID2394	v	qas	no	mendesak	conservative
+ID1447	n	dmc	yes	foetor	conservative
+ID173	n	cds	no	tentera	inclusive
+ID408	n	cds	no	kekacauan	inclusive
+ID115	n	om	no	disodomi	inclusive
+ID39	n	re	no	kasar	inclusive
+ID529	n	an	no	durjana	conservative
+ID2708	a	ddf	yes	capik	inclusive
+ID1809	n	cds	no	scrawler	conservative
+ID494	n	re	no	tdk sah	inclusive
+ID29	n	cds	no	pelanggaran	inclusive
+ID2831	n	cds	no	wisenheimer	conservative
+ID2022	n	cds	no	moneygrubber	inclusive
+ID1844	a	dmc	yes	lucah	conservative
+ID125	n	qas	no	pengikut	inclusive
+ID2080	n	cds	no	kertas pendorong	inclusive
+ID2201	n	an	no	pip-mencicit	conservative
+ID1432	n	cds	no	pengecohan	conservative
+ID976	v	cds	no	meronyeh	inclusive
+ID1445	n	dmc	yes	malodour	conservative
+ID2853	a	re	no	membadai	conservative
+ID1306	n	ddf	yes	kerdil	conservative
+ID2312	n	re	no	bunuh	inclusive
+ID711	n	dmc	yes	villainess	conservative
+ID1880	a	is	yes	gelabah	inclusive
+ID2453	v	cds	no	menemui ajal	inclusive
+ID1101	n	cds	no	muda	inclusive
+ID468	n	cds	no	kefanatikan	conservative
+ID2059	n	cds	no	mafiosi	inclusive
+ID1949	n	svp	no	cemburu	inclusive
+ID1197	n	cds	no	novel sepeser pun	inclusive
+ID2299	n	an	no	brant	inclusive
+ID1850	a	dmc	yes	lengah	conservative
+ID1172	n	ps	yes	bongok	conservative
+ID407	n	cds	no	peraga	inclusive
+ID742	n	cds	no	kereta bagasi	inclusive
+ID496	n	re	no	jahat	conservative
+ID1777	n	is	yes	kemiskinan	inclusive
+ID576	n	cds	no	blooper	inclusive
+ID1589	v	asm	no	memasang	conservative
+ID226	n	cds	no	tolol	conservative
+ID650	n	qas	no	peladang	inclusive
+ID290	a	svp	no	loba	conservative
+ID2509	v	asm	no	menggonjakkan	conservative
+ID408	n	qas	no	kekacauan	inclusive
+ID1379	a	dmc	yes	bengis	conservative
+ID121	n	qas	no	tabi%e2%80%99in	inclusive
+ID2468	v	cds	no	hidup	inclusive
+ID1716	n	an	no	hyena	inclusive
+ID712	n	is	yes	jahanam	conservative
+ID370	n	pr	no	bawd	conservative
+ID244	n	an	no	keledai	inclusive
+ID2521	n	cds	no	pedant	conservative
+ID226	n	asf	no	tolol	conservative
+ID1458	n	qas	no	kekeliruan	inclusive
+ID1431	n	cds	no	perdayaan	inclusive
+ID2556	v	cds	no	mengkeret	inclusive
+ID45	n	cds	no	faktor	inclusive
+ID2	n	dmc	yes	kemerosotan	inclusive
+ID201	n	an	no	margasatwa	inclusive
+ID617	n	ddp	yes	kezaliman	conservative
+ID954	n	or	no	homofilia	conservative
+ID1100	n	cds	no	cung	inclusive
+ID527	n	an	no	keparat	conservative
+ID526	n	qas	no	hartawan	inclusive
+ID413	n	cds	no	kocar-turvydom	inclusive
+ID1110	n	or	no	timun	inclusive
+ID890	n	cds	no	kepuasan	inclusive
+ID695	n	cds	no	dgn demikian	conservative
+ID498	n	cds	no	kriminal	conservative
+ID775	n	pr	no	betina	conservative
+ID1951	n	svp	no	invidia	inclusive
+ID1746	a	svp	no	tembok kering	conservative
+ID1729	n	cds	no	berhala	inclusive
+ID788	n	re	no	libeler	conservative
+ID1028	n	cds	no	kecurangan	inclusive
+ID1701	n	qas	no	rumah lukisan	inclusive
+ID460	a	ddp	yes	sementung	conservative
+ID1361	n	an	no	eurypterid	inclusive
+ID2741	n	cds	no	perampokan	inclusive
+ID2154	n	or	no	labu	inclusive
+ID494	n	cds	no	tdk sah	inclusive
+ID591	n	cds	no	kedogmatisan	conservative
+ID3038	n	dmc	yes	menggelandang	inclusive
+ID2319	n	or	no	tomat	inclusive
+ID2782	a	dmc	yes	bohong	conservative
+ID252	n	svp	no	keserakahan	conservative
+ID1799	n	cds	no	ostentatiousness	conservative
+ID1791	a	ddp	yes	hampa	conservative
+ID170	n	ddp	yes	analphabetic	inclusive
+ID1479	n	cds	no	freemason	inclusive
+ID1815	a	dmc	yes	sundal	conservative
+ID1320	n	pa	yes	pekerja	inclusive
+ID3025	n	ps	yes	kartu hukuman	inclusive
+ID1866	a	is	yes	bengok	inclusive
+ID2400	v	qas	no	mengacau	conservative
+ID2796	n	an	no	katak	inclusive
+ID397	n	qas	no	dusta	conservative
+ID2766	a	dmc	yes	ladah	inclusive
+ID56	n	pa	yes	pensyarah	inclusive
+ID580	n	cds	no	kekalutan	inclusive
+ID704	n	dmc	yes	pelengah	conservative
+ID140	n	cds	no	mempermainkan	inclusive
+ID2873	n	cds	no	saintisme	inclusive
+ID2986	n	om	no	cross-dressing	inclusive
+ID452	a	ddp	yes	ahmak	conservative
+ID2725	a	is	yes	sunyi	inclusive
+ID2377	v	qas	no	memberi hati	conservative
+ID2623	a	svp	no	bongkak	conservative
+ID1926	n	cds	no	umum	inclusive
+ID222	n	cds	no	dungu	conservative
+ID1504	n	dmc	yes	samseng	inclusive
+ID2915	a	ddf	yes	cerabah	conservative
+ID772	n	asf	no	moron	conservative
+ID2958	n	ddp	yes	pemarah	conservative
+ID1976	a	svp	no	cepat	conservative
+ID1372	a	ps	yes	malang	inclusive
+ID34	n	re	no	penyalahgunaan	inclusive
+ID1644	n	pr	no	persundalan	conservative
+ID2355	n	pa	yes	pengangkut barang dgn gerbong	inclusive
+ID1474	n	asm	no	preputium	inclusive
+ID1535	n	cds	no	sipir	inclusive
+ID1329	n	cds	no	penggemar	conservative
+ID1363	n	an	no	eurypterids	inclusive
+ID2291	n	asf	no	remeh	inclusive
+ID592	n	qas	no	konformis	conservative
+ID1497	n	cds	no	swaggerer	conservative
+ID1581	v	asm	no	menyetubuhi	conservative
+ID1620	n	re	no	menjarah	inclusive
+ID2985	n	om	no	lintas busana	inclusive
+ID1416	n	cds	no	ceti	conservative
+ID2799	n	an	no	bufo	inclusive
+ID2269	n	an	no	pengisap	inclusive
+ID1001	n	cds	no	murahan	inclusive
+ID1444	n	dmc	yes	kebaubusukan	conservative
+ID287	n	qas	no	testikel	inclusive
+ID1892	a	is	yes	sial	conservative
+ID2133	n	an	no	shoat	inclusive
+ID1341	n	asm	no	ereksi	inclusive
+ID947	n	or	no	banci	conservative
+ID342	n	cds	no	anjing	conservative
+ID1060	n	an	no	crocodylia	inclusive
+ID2238	n	cds	no	narsis	inclusive
+ID411	n	cds	no	hiruk-pikuk	inclusive
+ID2052	n	svp	no	mesum	inclusive
+ID2373	v	qas	no	mengempenak	conservative
+ID2079	n	cds	no	paparazzi	inclusive
+ID1488	n	an	no	membersut	inclusive
+ID2161	n	cds	no	relik	inclusive
+ID1834	n	svp	no	nafsu	inclusive
+ID761	n	dmc	yes	paria	inclusive
+ID1869	a	is	yes	menyedihkan	inclusive
+ID2920	a	dmc	yes	murahan	conservative
+ID223	n	ddp	yes	bebal	conservative
+ID960	n	ddp	yes	pengecek	conservative
+ID2261	n	ps	yes	negroids	inclusive
+ID328	n	pa	yes	peringkat diplomatik	inclusive
+ID2345	n	an	no	ular berbisa	inclusive
+ID427	n	cds	no	bikinan	conservative
+ID1799	n	cds	no	ostentatiousness	inclusive
+ID3019	n	qas	no	sistem pembobotan menyelam	inclusive
+ID2116	n	cds	no	sambutan	inclusive
+ID712	n	cds	no	jahanam	conservative
+ID2693	a	svp	no	pongah	conservative
+ID675	n	cds	no	egoisme	conservative
+ID2418	v	is	yes	pohon	inclusive
+ID708	n	qas	no	massa	inclusive
+ID441	a	ddp	yes	bego	conservative
+ID2893	n	cds	no	wonk	conservative
+ID871	n	cds	no	kesusahan	conservative
+ID799	n	cds	no	grifter	conservative
+ID3008	n	asm	no	unggas	inclusive
+ID1172	n	ddp	yes	bongok	conservative
+ID2007	n	cds	no	kamar mandi	inclusive
+ID916	n	svp	no	fisik tarik	inclusive
+ID2699	a	cds	no	takut-takut	conservative
+ID1107	n	asf	no	twat	conservative
+ID1714	n	an	no	serigala	inclusive
+ID365	n	ddp	yes	mangsa	conservative
+ID930	n	an	no	arnab	inclusive
+ID1255	n	om	no	akhiri	inclusive
+ID2025	n	ps	yes	monggol	inclusive
+ID2664	n	cds	no	neonatus	inclusive
+ID1744	a	is	yes	cekel	conservative
+ID2536	v	an	no	bercabul	conservative
+ID1036	n	an	no	penggoda	conservative
+ID2559	v	cds	no	layu	inclusive
+ID2499	v	cds	no	mengganyang	inclusive
+ID368	n	pr	no	psk	inclusive
+ID1903	n	re	no	pemeras	inclusive
+ID295	n	re	no	perampok	inclusive
+ID2883	a	qas	no	jelata	inclusive
+ID499	n	cds	no	dilarang	conservative
+ID1897	n	cds	no	peminjaman uang	conservative
+ID1040	n	asm	no	hal lekas percaya	conservative
+ID1885	a	is	yes	celaka	conservative
+ID430	n	dmc	yes	fabricator	conservative
+ID1963	a	svp	no	marah	inclusive
+ID2366	v	cds	no	meracau	conservative
+ID2272	n	ps	yes	latino	inclusive
+ID1069	n	ps	yes	hybrid intergenerik	inclusive
+ID530	n	dmc	yes	babi	conservative
+ID479	n	cds	no	kelompok	conservative
+ID2061	n	re	no	maffia	inclusive
+ID627	n	pr	no	ternak	inclusive
+ID2035	n	an	no	muncung	inclusive
+ID300	n	ps	yes	biadab	conservative
+ID2924	a	re	no	sengit	inclusive
+ID1321	n	pa	yes	karyawan	inclusive
+ID3079	n	ps	yes	gypsy	inclusive
+ID2541	v	an	no	menggebu-gebu	conservative
+ID2984	n	an	no	biston betularia	inclusive
+ID2637	n	re	no	perompakan	inclusive
+ID852	n	qas	no	bersepah	inclusive
+ID502	n	ps	yes	ganas	inclusive
+ID538	n	cds	no	mencoba memecahkan pemogokan	inclusive
+ID157	n	ddp	yes	folderol	conservative
+ID1845	n	dmc	yes	pendusta	conservative
+ID2626	a	svp	no	ujud	conservative
+ID182	n	an	no	metazoa	inclusive
+ID1505	n	re	no	mobster	inclusive
+ID1870	a	is	yes	gelebah	inclusive
+ID1369	a	cds	no	jahat	conservative
+ID2328	n	dmc	yes	malang	inclusive
+ID2403	v	qas	no	mengganggu	conservative
+ID1798	n	cds	no	pompousness	conservative
+ID202	n	cds	no	fitnah	conservative
+ID1829	n	dmc	yes	pemalsu	conservative
+ID2165	n	qas	no	retorik	inclusive
+ID1329	n	qas	no	penggemar	inclusive
+ID458	a	ddp	yes	otak udang	conservative
+ID796	n	cds	no	chiseller	inclusive
+ID218	n	or	no	nick jr.	inclusive
+ID2245	n	cds	no	autolatry	inclusive
+ID1188	n	an	no	nipis-jongkok	conservative
+ID1183	n	cds	no	jenayah	inclusive
+ID304	n	cds	no	kampung	conservative
+ID95	a	an	no	tekak	inclusive
+ID3053	n	re	no	kuat	inclusive
+ID2777	n	qas	no	kebesaran	inclusive
+ID2605	a	svp	no	murka	inclusive
+ID364	n	ddp	yes	pudden-kepala	conservative
+ID227	n	asm	no	bodoh	conservative
+ID1277	n	pa	yes	doorman	inclusive
+ID1346	n	an	no	escargot	inclusive
+ID1741	a	dmc	yes	kikir	conservative
+ID2735	n	re	no	penjambretan	inclusive
+ID465	a	cds	no	gendeng	conservative
+ID1833	n	dmc	yes	semu	conservative
+ID2604	a	ps	yes	meradang	conservative
+ID475	n	cds	no	gerombolan	inclusive
+ID1121	n	cds	no	tolakan	conservative
+ID2135	n	an	no	piglet	inclusive
+ID509	n	cds	no	kerusakan	conservative
+ID503	n	ddp	yes	tanda	conservative
+ID2451	v	cds	no	tersedak	inclusive
+ID450	a	ddp	yes	pilon	conservative
+ID3061	n	re	no	pemaksaan	inclusive
+ID1372	a	qas	no	malang	conservative
+ID81	n	cds	no	kesombongan	conservative
+ID713	n	cds	no	bus	inclusive
+ID754	n	qas	no	sampah	inclusive
+ID2976	v	re	no	siksaan	inclusive
+ID1858	a	is	yes	sendu	inclusive
+ID2649	a	cds	no	basi	inclusive
+ID1893	a	is	yes	sarau	inclusive
+ID2758	a	dmc	yes	mengotorkan	inclusive
+ID3068	n	dmc	yes	treasonist	conservative
+ID2061	n	cds	no	maffia	inclusive
+ID986	v	cds	no	menggericau	inclusive
+ID392	n	pr	no	pendamping laki-laki	conservative
+ID2147	n	svp	no	kemegahan	inclusive
+ID2344	n	an	no	viper	inclusive
+ID767	n	om	no	yg berlaku lemah	conservative
+ID1319	n	cds	no	delik	inclusive
+ID2903	a	is	yes	melarat	inclusive
+ID159	n	an	no	omong kosong	conservative
+ID2786	a	ddp	yes	lembap	conservative
+ID2040	n	an	no	bagal	inclusive
+ID499	n	dmc	yes	dilarang	inclusive
+ID2824	v	re	no	menyambar	inclusive
+ID873	n	cds	no	kerisauan	conservative
+ID2013	n	svp	no	penyegan	conservative
+ID2386	v	cds	no	bertawar-tawaran	inclusive
+ID1661	n	om	no	lesbong	inclusive
+ID1319	n	re	no	delik	inclusive
+ID1399	n	cds	no	phratry	inclusive
+ID358	n	asf	no	patsy	conservative
+ID1664	n	om	no	homoseksualitas	inclusive
+ID1566	n	cds	no	mediator	inclusive
+ID2472	v	cds	no	mencekik	inclusive
+ID1220	n	dmc	yes	kemunafikan	conservative
+ID693	n	dmc	yes	git	inclusive
+ID64	n	asm	no	ketololan	conservative
+ID2589	n	an	no	pediculus corporis	inclusive
+ID1470	n	dmc	yes	lawak	inclusive
+ID232	n	ddp	yes	bedebah	conservative
+ID2533	a	or	no	keras	conservative
+ID2567	v	cds	no	berbual	inclusive
+ID1500	n	dmc	yes	bermuram	conservative
+ID973	n	cds	no	betung	inclusive
+ID2508	v	cds	no	beribadah	inclusive
+ID482	n	cds	no	sekelompok	inclusive
+ID2077	n	cds	no	paparazzo	inclusive
+ID532	n	an	no	ceroboh	conservative
+ID2616	n	cds	no	masturbasi	conservative
+ID774	n	pr	no	jalang	conservative
+ID2727	a	is	yes	terasing	inclusive
+ID1591	a	cds	no	liar	inclusive
+ID2599	n	cds	no	religiousism	inclusive
+ID1041	n	asm	no	mudah tertipu	conservative
+ID2006	n	cds	no	tandas	inclusive
+ID1583	v	asm	no	bercinta	conservative
+ID1440	n	or	no	foeniculum vulgare	inclusive
+ID489	n	an	no	bajingan	conservative
+ID1740	a	dmc	yes	singkat tangan	conservative
+ID1811	a	ddf	yes	bangpak	conservative
+ID1299	n	dmc	yes	bertualang	inclusive
+ID2372	v	qas	no	memanjakan	conservative
+ID1383	a	cds	no	urakan	conservative
+ID1077	n	cds	no	bastar	inclusive
+ID2421	v	cds	no	segah	inclusive
+ID1801	n	cds	no	guru	inclusive
+ID282	n	asm	no	testis	inclusive
+ID2850	a	is	yes	kasihan	conservative
+ID3055	n	re	no	furiousness	inclusive
+ID590	n	cds	no	penyombong	conservative
+ID846	n	qas	no	membiuskan	inclusive
+ID1165	n	an	no	despoiler	inclusive
+ID1335	a	ddp	yes	sesat akal	inclusive
+ID454	a	cds	no	jahil	conservative
+ID2029	n	an	no	kupu-kupu	inclusive
+ID2625	a	cds	no	sombong	conservative
+ID417	n	cds	no	hiruk pikuk	inclusive
+ID1676	n	ps	yes	yudaisme	inclusive
+ID2896	a	is	yes	susah	inclusive
+ID2401	v	qas	no	mengecewakan	conservative
+ID2816	v	re	no	mencuri	inclusive
+ID320	a	svp	no	gelojoh	inclusive
+ID200	n	an	no	epifaunal	inclusive
+ID1625	n	re	no	dicuri properti	inclusive
+ID1571	n	svp	no	yg tak ada gunanya	conservative
+ID477	n	cds	no	geng	conservative
+ID250	n	svp	no	kerakusan	conservative
+ID227	n	cds	no	bodoh	inclusive
+ID872	n	qas	no	kesukaran	inclusive
+ID1662	n	om	no	seks yang sama	inclusive
+ID1614	n	qas	no	mencuri	conservative
+ID2210	n	ddp	yes	nanocephaly	inclusive
+ID1411	n	cds	no	muncikari	conservative
+ID2381	n	an	no	bendalu	conservative
+ID1198	n	pa	yes	diplomat	inclusive
+ID943	n	or	no	aneh	conservative
+ID854	n	an	no	kecabulan	conservative
+ID2156	n	pr	no	tikus	inclusive
+ID1003	n	qas	no	memo	inclusive
+ID528	n	dmc	yes	kurang ajar	conservative
+ID289	a	svp	no	rakus	conservative
+ID180	n	an	no	mua	inclusive
+ID1564	n	cds	no	pengantara	inclusive
+ID2465	v	cds	no	sempurna usia	inclusive
+ID1523	n	asf	no	puki	conservative
+ID1882	a	is	yes	gundah	inclusive
+ID1950	n	svp	no	dengki	inclusive
+ID2091	n	qas	no	parasitisme	inclusive
+ID335	n	pa	yes	pendukung	inclusive
+ID2533	a	cds	no	keras	conservative
+ID2784	a	dmc	yes	karut	conservative
+ID232	n	asf	no	bedebah	conservative
+ID1450	n	asm	no	ikan	inclusive
+ID1636	n	pr	no	sundel	inclusive
+ID2526	n	cds	no	cerewet	conservative
+ID1078	n	cds	no	perkawinan silang	inclusive
+ID712	n	an	no	jahanam	conservative
+ID2624	a	svp	no	uju	conservative
+ID2779	a	dmc	yes	luwes	inclusive
+ID1222	n	dmc	yes	kepura-puraan	conservative
+ID1687	n	cds	no	hoi polloi	conservative
+ID371	n	pr	no	sundal	conservative
+ID2610	a	re	no	gusar	inclusive
+ID1806	n	pa	yes	jesuit	inclusive
+ID2075	n	qas	no	pelukis	inclusive
+ID2053	n	cds	no	polisi	conservative
+ID155	a	svp	no	garang	conservative
+ID2611	a	re	no	menggila	inclusive
+ID1604	a	cds	no	munafik	conservative
+ID1279	n	pa	yes	penjaga pintu	inclusive
+ID536	n	ps	yes	kacukan	inclusive
+ID2322	n	dmc	yes	homunculi	inclusive
+ID68	n	ddp	yes	kebodohan	conservative
+ID382	n	pr	no	streetwalker	conservative
+ID2877	a	qas	no	kelas menengah	inclusive
+ID2073	n	om	no	perjantanan	inclusive
+ID334	n	pa	yes	advocator	inclusive
+ID2741	n	re	no	perampokan	inclusive
+ID79	n	cds	no	cinta-diri	conservative
+ID545	n	ddp	yes	anak zadah	conservative
+ID2192	n	an	no	mikrob	inclusive
+ID950	n	or	no	homoseksual	conservative
+ID2949	n	cds	no	trasformismo	inclusive
+ID1939	n	asm	no	penis	inclusive
+ID210	n	re	no	rudapaksa	conservative
+ID1412	n	cds	no	jaruman	inclusive
+ID1074	n	cds	no	campuran	inclusive
+ID1427	n	ps	yes	fasis	inclusive
+ID773	n	ddp	yes	cretin	conservative
+ID1503	n	re	no	gangster	inclusive
+ID261	n	svp	no	bakhil	inclusive
+ID495	n	re	no	mencabut perlindungan hukum	inclusive
+ID278	n	svp	no	pelit	conservative
+ID230	n	cds	no	goblok	conservative
+ID613	n	ddp	yes	zooerasty	conservative
+ID262	n	is	yes	kikir	conservative
+ID1014	n	an	no	pijat	inclusive
+ID1269	n	svp	no	rakus	conservative
+ID278	n	is	yes	pelit	conservative
+ID1851	n	cds	no	berbohong	inclusive
+ID614	n	ddp	yes	ferociousness	conservative
+ID2532	a	cds	no	ketat	conservative
+ID3026	n	ps	yes	kartu kuning	inclusive
+ID2597	a	an	no	berkutu	inclusive
+ID984	v	cds	no	berbual-bual	inclusive
+ID578	n	qas	no	kecanggungan	inclusive
+ID959	n	cds	no	penggosip	conservative
+ID172	a	ddp	yes	niraksara	inclusive
+ID770	n	ddp	yes	memperlambat	inclusive
+ID2081	n	qas	no	parasit	conservative
+ID383	n	an	no	cabo	conservative
+ID758	n	is	yes	terbuang	inclusive
+ID200	n	ddp	yes	epifaunal	inclusive
+ID2208	n	ddp	yes	microcephalic	inclusive
+ID397	n	cds	no	dusta	inclusive
+ID556	n	pa	yes	pemilik perusahaan pemakaman	inclusive
+ID1102	n	cds	no	sonny boy	inclusive
+ID723	a	cds	no	leta	conservative
+ID1127	n	cds	no	hoaxer	conservative
+ID1498	n	svp	no	dallier	conservative
+ID236	n	or	no	dumbass	conservative
+ID145	n	qas	no	berbaur-mangle	inclusive
+ID1656	n	om	no	homosexual	inclusive
+ID464	a	ddp	yes	jongkok	conservative
+ID1816	a	dmc	yes	lacur	conservative
+ID1907	n	an	no	insect	inclusive
+ID1295	n	ps	yes	kelana	inclusive
+ID2523	n	cds	no	bibliofil	conservative
+ID297	n	re	no	perompak	inclusive
+ID2482	v	cds	no	sampai ajal	inclusive
+ID611	n	an	no	kebinatangan	conservative
+ID963	n	cds	no	gosip	conservative
+ID2076	n	cds	no	paparazi	inclusive
+ID463	a	ddp	yes	dungu	conservative
+ID1462	n	an	no	kutu	inclusive
+ID304	n	rci	yes	kampung	conservative
+ID65	n	ddp	yes	mental	inclusive
+ID934	n	cds	no	newswriter	inclusive
+ID319	a	svp	no	lahap	conservative
+ID227	n	asf	no	bodoh	conservative
+ID773	n	asf	no	cretin	conservative
+ID2701	a	cds	no	bacul	conservative
+ID403	n	cds	no	clotheshorse	inclusive
+ID444	a	ddp	yes	geblek	conservative
+ID925	n	asm	no	shtup	conservative
+ID2365	v	cds	no	merapu	conservative
+ID2059	n	re	no	mafiosi	inclusive
+ID284	n	asm	no	ballock	inclusive
+ID1624	n	re	no	rampasan	inclusive
+ID2043	n	an	no	moncong	inclusive
+ID1217	n	svp	no	menyenangkan	inclusive
+ID2087	n	qas	no	autoinfection	inclusive
+ID2674	a	cds	no	pura-pura	conservative
+ID2350	n	an	no	hering	inclusive
+ID2029	n	pr	no	kupu-kupu	inclusive
+ID2331	a	qas	no	biasa	inclusive
+ID983	v	cds	no	meraban	inclusive
+ID2963	n	asm	no	lingga	inclusive
+ID1294	n	cds	no	slews	inclusive
+ID496	n	dmc	yes	jahat	conservative
+ID1366	n	dmc	yes	belang	conservative
+ID926	n	asm	no	nookie	conservative
+ID486	n	dmc	yes	bangsat	conservative
+ID1152	n	pr	no	pergundikan	inclusive
+ID2195	n	an	no	kuman	inclusive
+ID3028	n	cds	no	teori konspirasi	inclusive
+ID2650	a	cds	no	lapuk	inclusive
+ID2051	n	svp	no	cabul	inclusive
+ID367	n	cds	no	penipuan	inclusive
+ID2247	n	ps	yes	nigga	conservative
+ID1962	a	svp	no	dongkol	conservative
+ID1614	n	cds	no	mencuri	inclusive
+ID689	n	cds	no	bongkah	conservative
+ID1789	n	ddp	yes	kejahilan	conservative
+ID2619	a	svp	no	congkak	conservative
+ID223	n	ddp	yes	bebal	inclusive
+ID150	n	cds	no	gallimaufry	inclusive
+ID2003	n	cds	no	kamar kecil	inclusive
+ID633	n	cds	no	ketua	inclusive
+ID2470	v	cds	no	mampus	inclusive
+ID2438	v	asm	no	menipu	conservative
+ID1083	n	cds	no	keramaian	inclusive
+ID2162	n	cds	no	tinggalan	inclusive
+ID2888	n	an	no	channel bass	inclusive
+ID951	n	om	no	gay	inclusive
+ID195	n	ddp	yes	makhluk	inclusive
+ID2212	n	an	no	domba	inclusive
+ID506	n	cds	no	blabbermouth	conservative
+ID1325	a	qas	no	gila	inclusive
+ID773	n	ddp	yes	cretin	inclusive
+ID1970	n	svp	no	gusar	inclusive
+ID945	n	or	no	poof	conservative
+ID949	n	om	no	homoseks	conservative
+ID3074	n	ps	yes	gypsi	inclusive
+ID944	n	om	no	homo	inclusive
+ID1930	n	cds	no	kepulan	inclusive
+ID956	n	om	no	homophile	conservative
+ID1712	n	an	no	hiena	inclusive
+ID1633	n	pr	no	merangkak trotoar	inclusive
+ID2494	a	qas	no	rawan	conservative
+ID1700	a	svp	no	pajuh	inclusive
+ID2605	a	re	no	murka	inclusive
+ID2514	v	asm	no	menggonjokkan	conservative
+ID2530	v	qas	no	menambal	inclusive
+ID2435	v	cds	no	membaham	inclusive
+ID1020	n	cds	no	licik	conservative
+ID2318	n	re	no	eksekusi	inclusive
+ID2111	a	is	yes	azab	conservative
+ID586	n	cds	no	line-shooter	conservative
+ID2115	n	cds	no	jamuan	inclusive
+ID2872	a	qas	no	zaman pertengahan	inclusive
+ID963	n	cds	no	gosip	inclusive
+ID1905	n	cds	no	rentenir	conservative
+ID2436	v	an	no	meringkik	inclusive
+ID2013	n	dmc	yes	penyegan	conservative
+ID502	n	re	no	ganas	conservative
+ID1381	a	dmc	yes	rampus	conservative
+ID2790	n	an	no	batrachian	inclusive
+ID49	n	pa	yes	ilmiah	inclusive
+ID1312	n	an	no	helix pomatia	inclusive
+ID1795	n	an	no	sifat tdk terkalahkan	conservative
+ID2049	n	cds	no	pelanggar	inclusive
+ID1830	n	dmc	yes	pseudo	conservative
+ID2097	n	qas	no	mukim	inclusive
+ID107	n	om	no	anal intercourse	inclusive
+ID397	n	cds	no	dusta	conservative
+ID205	n	re	no	pemerkosa	conservative
+ID694	n	cds	no	lowlife	conservative
+ID1002	n	cds	no	besi tua	conservative
+ID944	n	or	no	homo	conservative
+ID2490	n	or	no	tater	inclusive
+ID139	n	ddp	yes	muslihat	conservative
+ID1572	n	dmc	yes	baik-untuk-sia	conservative
+ID2358	n	an	no	berenga	inclusive
+ID2107	a	dmc	yes	dahsyat	conservative
+ID415	n	cds	no	kericuhan	inclusive
+ID773	n	asm	no	cretin	inclusive
+ID2987	n	om	no	lintas-gaun	inclusive
+ID2550	n	dmc	yes	trifler	conservative
+ID2216	n	asm	no	kebebalan	conservative
+ID594	n	ddp	yes	bengis	conservative
+ID468	n	dmc	yes	kefanatikan	conservative
+ID601	n	cds	no	blunderer	conservative
+ID1739	a	svp	no	pelit	conservative
+ID126	n	cds	no	antek	conservative
+ID484	n	cds	no	gelombang	inclusive
+ID2629	a	cds	no	tajam	inclusive
+ID696	n	ps	yes	gelandangan	inclusive
+ID2761	a	dmc	yes	sempuras	inclusive
+ID2762	a	dmc	yes	cemomot	inclusive
+ID230	n	asm	no	goblok	conservative
+ID2578	n	cds	no	penggerutu	conservative
+ID1397	n	cds	no	sanak saudara	inclusive
+ID759	n	dmc	yes	buangan sosial	inclusive
+ID920	n	asm	no	meniduri	conservative
+ID414	n	cds	no	prahara	inclusive
+ID198	n	ddp	yes	fauna	inclusive
+ID2709	a	cds	no	demagogis	conservative
+ID2997	n	om	no	crossdresser	inclusive
+ID711	n	cds	no	villainess	conservative
+ID154	a	svp	no	agresif	inclusive
+ID112	n	om	no	anal seks	inclusive
+ID2036	n	dmc	yes	mozarella	inclusive
+ID1984	v	ddp	yes	membius	conservative
+ID1776	n	is	yes	kefakiran	inclusive
+ID1743	a	an	no	kedekut	conservative
+ID1954	a	svp	no	sirik	conservative
+ID1920	n	asm	no	merah hati	inclusive
+ID124	n	qas	no	penganut	inclusive
+ID2689	a	svp	no	bengkak	conservative
+ID451	a	ddp	yes	dogol	conservative
+ID911	n	or	no	kol	inclusive
+ID1642	n	svp	no	percabulan	inclusive
+ID798	n	cds	no	scammer	conservative
+ID2668	a	ps	yes	aswad	inclusive
+ID3012	n	asm	no	paksi	inclusive
+ID2984	n	pr	no	biston betularia	inclusive
+ID1180	n	cds	no	melanggar hukum	inclusive
+ID2292	n	qas	no	pertanian penyewa	inclusive
+ID214	n	cds	no	perspicaciousness	inclusive
+ID2427	v	cds	no	melahap	inclusive
+ID58	a	pa	yes	teoretis	inclusive
+ID188	n	an	no	binatang	inclusive
+ID1900	n	cds	no	tengkulak	inclusive
+ID1752	n	dmc	yes	banyol	inclusive
+ID412	n	cds	no	kelam kabut	inclusive
+ID697	n	cds	no	scum bag	conservative
+ID222	n	ps	yes	dungu	conservative
+ID1356	n	dmc	yes	esprit de corps	inclusive
+ID3067	n	dmc	yes	murtad	conservative
+ID1459	n	qas	no	kekusutan	inclusive
+ID2989	n	om	no	berlintas-busana	inclusive
+ID355	n	cds	no	blackballed	inclusive
+ID2406	v	is	yes	meminta-minta	inclusive
+ID2430	v	cds	no	menyumbat	inclusive
+ID1177	n	ps	yes	uprooter	conservative
+ID1616	n	cds	no	kecurian	inclusive
+ID2572	n	cds	no	desas-desus	inclusive
+ID62	n	asm	no	kedunguan	conservative
+ID230	n	an	no	goblok	conservative
+ID528	n	cds	no	kurang ajar	conservative
+ID537	n	cds	no	skr	inclusive
+ID2565	a	om	no	ganjil	inclusive
+ID1283	n	cds	no	sekumpulan	inclusive
+ID1546	n	an	no	pipistrellus	inclusive
+ID2239	n	cds	no	narsisme	inclusive
+ID3059	n	re	no	desakan	inclusive
+ID1862	a	is	yes	galabah	inclusive
+ID2200	n	an	no	mikroorganisme	inclusive
+ID1413	n	cds	no	mucikari	conservative
+ID1898	n	cds	no	seorang	conservative
+ID1737	a	is	yes	picik	conservative
+ID296	n	dmc	yes	penjahat	inclusive
+ID1451	n	asm	no	pterygiophore	inclusive
+ID2580	n	cds	no	perengek	conservative
+ID596	n	an	no	buas	conservative
+ID2695	a	dmc	yes	imitatif	conservative
+ID216	n	or	no	bonce	inclusive
+ID2897	a	is	yes	miskin	inclusive
+ID2821	v	re	no	meragut	inclusive
+ID684	n	svp	no	kesia-siaan	conservative
+ID1089	n	qas	no	konformisme	inclusive
+ID2202	n	an	no	animalculum	inclusive
+ID2054	n	cds	no	polis	inclusive
+ID1768	n	ddp	yes	tidak masuk akal	conservative
+ID226	n	asm	no	tolol	conservative
+ID1175	n	asm	no	doofus	conservative
+ID725	a	dmc	yes	keji	conservative
+ID2443	v	cds	no	meninggal	inclusive
+ID978	v	cds	no	lancang mulut	inclusive
+ID126	n	qas	no	antek	inclusive
+ID2056	n	cds	no	mata-mata	inclusive
+ID2186	n	an	no	hiu	inclusive
+ID2968	n	re	no	teraniaya	inclusive
+ID2776	n	qas	no	sifat muluk	inclusive
+ID2086	n	qas	no	necrotrophic	inclusive
+ID2023	n	ps	yes	mongol	inclusive
+ID962	n	ddp	yes	umpatan	conservative
+ID193	n	an	no	hewan	inclusive
+ID2067	n	cds	no	mafioso	conservative
+ID300	n	cds	no	biadab	conservative
+ID707	n	cds	no	kerumunan	inclusive
+ID1368	a	cds	no	rendahan	conservative
+ID1070	n	ps	yes	tanaman peternak	inclusive
+ID529	n	dmc	yes	durjana	conservative
+ID1306	n	an	no	kerdil	conservative
+ID2956	n	an	no	kaiman	inclusive
+ID2332	a	qas	no	lumrah	inclusive
+ID1355	n	dmc	yes	akhlak	inclusive
+ID1371	a	dmc	yes	kasar	conservative
+ID367	n	dmc	yes	penipuan	conservative
+ID295	n	dmc	yes	perampok	conservative
+ID2500	v	cds	no	beribadat	inclusive
+ID3018	n	cds	no	faedah	inclusive
+ID297	n	an	no	perompak	conservative
+ID300	n	pa	yes	biadab	conservative
+ID2819	v	re	no	menyerobot	inclusive
+ID796	n	re	no	chiseller	inclusive
+ID1865	a	is	yes	pilu	inclusive
+ID101	a	an	no	ungkal	inclusive
+ID2974	n	re	no	penyiksaan	inclusive
+ID342	n	dmc	yes	anjing	inclusive
+ID325	n	pa	yes	peguam	inclusive
+ID303	n	dmc	yes	barbar	conservative
+ID2703	n	cds	no	pembelaan	inclusive
+ID573	n	cds	no	merusak	inclusive
+ID2441	n	qas	no	bad hat	conservative
+ID9	v	an	no	kung	inclusive
+ID671	n	qas	no	berpenghasilan menengah	inclusive
+ID1512	n	asm	no	kara oncet	inclusive
+ID1740	a	svp	no	singkat tangan	conservative
+ID2525	n	cds	no	tahu-it-all	conservative
+ID1469	n	cds	no	badut	inclusive
+ID3001	n	om	no	transvestit	inclusive
+ID2564	a	om	no	abnormal	inclusive
+ID186	n	ddp	yes	makrofauna	inclusive
+ID1903	n	cds	no	pemeras	inclusive
+ID92	a	an	no	dakar	inclusive
+ID754	n	cds	no	sampah	inclusive
+ID2991	n	om	no	cross-meja rias	inclusive
+ID1966	a	svp	no	geram	inclusive
+ID2398	v	qas	no	menagih	conservative
+ID1120	n	cds	no	menolak	conservative
+ID2675	a	ps	yes	tionghoa	inclusive
+ID287	n	asm	no	testikel	inclusive
+ID1429	n	cds	no	seloroh	inclusive
+ID1879	a	is	yes	walang hati	inclusive
+ID2119	n	dmc	yes	keburukan	inclusive
+ID429	n	cds	no	pembohong	conservative
+ID1744	a	dmc	yes	cekel	conservative
+ID305	n	ddp	yes	babar	conservative
+ID3030	n	cds	no	teori persekongkolan	inclusive
+ID473	n	cds	no	premanisme	inclusive
+ID587	n	cds	no	blowhard	conservative
+ID2151	n	svp	no	pongah	conservative
+ID59	n	qas	no	amateurishness	conservative
+ID2437	v	re	no	memperdaya	inclusive
+ID2620	a	cds	no	songar	conservative
+ID1850	a	svp	no	lengah	conservative
+ID1452	n	asm	no	ray lembut	inclusive
+ID2136	n	qas	no	satelit	inclusive
+ID2384	v	cds	no	menukarkan	inclusive
+ID628	n	cds	no	majikan	inclusive
+ID2348	n	an	no	nazar	inclusive
+ID1241	n	om	no	lateral	inclusive
+ID2884	a	qas	no	kebanyakan	inclusive
+ID740	n	cds	no	deretan	inclusive
+ID2867	n	an	no	aureus	inclusive
+ID1600	n	cds	no	sastra hack	conservative
+ID2553	v	cds	no	mengerutkan	inclusive
+ID3050	n	pr	no	punggawa	inclusive
+ID2921	a	dmc	yes	selekeh	conservative
+ID196	n	ddp	yes	animal	inclusive
+ID1565	n	cds	no	perantara	inclusive
+ID2439	n	qas	no	mencelakakan	conservative
+ID2332	a	cds	no	lumrah	inclusive
+ID315	n	qas	no	penjual	inclusive
+ID621	n	svp	no	bosan	inclusive
+ID1334	a	ddp	yes	sakit ingatan	inclusive
+ID2900	a	is	yes	mundur	inclusive
+ID617	n	an	no	kezaliman	conservative
+ID2691	a	svp	no	kembang	conservative
+ID156	n	asf	no	karut	conservative
+ID2876	n	ddp	yes	unwiseness	inclusive
+ID759	n	is	yes	buangan sosial	inclusive
+ID48	n	pa	yes	akademi	inclusive
+ID2459	v	cds	no	hilang nyawa	inclusive
+ID233	n	ddp	yes	dodol	conservative
+ID1192	n	an	no	diddley	conservative
+ID236	n	an	no	dumbass	conservative
+ID2423	v	cds	no	mengenyangkan	inclusive
+ID1746	a	dmc	yes	tembok kering	conservative
+ID1142	n	cds	no	pulas	inclusive
+ID1945	v	cds	no	merancang	inclusive
+ID2638	n	re	no	plagiarisation	inclusive
+ID497	n	dmc	yes	gajul	inclusive
+ID2450	v	cds	no	mengoper	inclusive
+ID305	n	ps	yes	babar	conservative
+ID1461	n	an	no	pinjal	inclusive
+ID3049	a	re	no	gembira	conservative
+ID795	n	cds	no	pemahat	inclusive
+ID319	a	svp	no	lahap	inclusive
+ID1023	n	cds	no	kelicikan	conservative
+ID2728	a	is	yes	sepi	inclusive
+ID2109	a	dmc	yes	teruk	conservative
+ID2160	n	cds	no	peninggalan	inclusive
+ID2756	a	dmc	yes	jijik	inclusive
+ID1560	n	qas	no	pengintai	inclusive
+ID1998	n	cds	no	pencopet	conservative
+ID1021	n	cds	no	dalih	inclusive
+ID2404	v	re	no	menghampakan	inclusive
+ID118	n	svp	no	keculasan	conservative
+ID222	n	an	no	dungu	conservative
+ID311	n	ddp	yes	barbarisme	inclusive
+ID2636	a	svp	no	merengus	conservative
+ID91	a	an	no	kepala batu	inclusive
+ID1365	n	dmc	yes	kebejatan	conservative
+ID1352	n	dmc	yes	moralistik	inclusive
+ID2264	n	ps	yes	negroid	inclusive
+ID1747	a	is	yes	medit	inclusive
+ID1705	n	qas	no	teratak	inclusive
+ID27	n	re	no	penganiayaan	inclusive
+ID644	n	pr	no	rattus norvegicus	inclusive
+ID304	n	ps	yes	kampung	conservative
+ID733	n	cds	no	kalangan teman-teman berminat sama	inclusive
+ID766	n	cds	no	penakut	conservative
+ID1573	n	dmc	yes	kesalahan-off	conservative
+ID2506	v	cds	no	menyanjung	inclusive
+ID766	n	an	no	penakut	conservative
+ID1071	n	ps	yes	hibrida	inclusive
+ID1803	n	cds	no	pengajar	inclusive
+ID429	n	dmc	yes	pembohong	inclusive
+ID1496	n	svp	no	berang	conservative
+ID296	n	dmc	yes	penjahat	conservative
+ID2879	a	ddp	yes	gila-gilaan	conservative
+ID460	a	cds	no	sementung	conservative
+ID2058	n	re	no	cosa nostra	inclusive
+ID1007	n	an	no	perangkat mendengarkan	inclusive
+ID2337	a	cds	no	jamak	inclusive
+ID2287	n	cds	no	hiperseksual	conservative
+ID681	n	svp	no	kecongkakan	conservative
+ID906	n	pa	yes	prof.	inclusive
+ID1375	a	is	yes	benguk	inclusive
+ID1605	a	cds	no	licik	conservative
+ID924	n	asm	no	fucking, austria	conservative
+ID853	n	cds	no	kesemrawutan	conservative
+ID715	n	or	no	butternut squash	inclusive
+ID941	n	cds	no	koresponden	inclusive
+ID295	n	cds	no	perampok	inclusive
+ID1327	a	qas	no	terangsang	inclusive
+ID1788	n	an	no	konyol	conservative
+ID308	n	ddp	yes	keganasan	inclusive
+ID2977	v	re	no	menyakiti	inclusive
+ID431	n	pa	yes	portir	inclusive
+ID2283	n	cds	no	nymphomaniac	conservative
+ID2993	n	om	no	cross-dresser	inclusive
+ID2601	a	svp	no	mengkal	inclusive
+ID515	n	qas	no	raja	inclusive
+ID1503	n	dmc	yes	gangster	inclusive
+ID1145	v	asm	no	mengejek	inclusive
+ID2616	n	asm	no	masturbasi	conservative
+ID120	n	cds	no	pemalas	conservative
+ID2694	a	dmc	yes	lancung	conservative
+ID358	n	ps	yes	patsy	conservative
+ID1457	n	cds	no	kerumitan	inclusive
+ID2539	v	an	no	meluru	conservative
+ID767	n	cds	no	yg berlaku lemah	conservative
+ID2667	a	an	no	ganas	conservative
+ID1131	n	om	no	madam	inclusive
+ID255	n	svp	no	lahap	inclusive
+ID308	n	an	no	keganasan	inclusive
+ID226	n	asm	no	tolol	inclusive
+ID2653	a	dmc	yes	palsu	conservative
+ID700	n	dmc	yes	batak	conservative
+ID1125	n	dmc	yes	pengecoh	conservative
+ID1162	n	an	no	penyerang	inclusive
+ID942	n	or	no	poove	conservative
+ID1088	n	qas	no	kesesuaian	inclusive
+ID192	n	an	no	hewan-hewan	inclusive
+ID1922	n	asm	no	maron	inclusive
+ID754	n	an	no	sampah	conservative
+ID543	n	cds	no	celaka	conservative
+ID293	n	an	no	bandit	conservative
+ID19	n	qas	no	pembantu pendeta pd upacara misa	inclusive
+ID1660	n	om	no	homoeroticism	inclusive
+ID493	n	dmc	yes	banditti	inclusive
+ID853	n	cds	no	kesemrawutan	inclusive
+ID1745	a	is	yes	bakhil	inclusive
+ID2304	n	cds	no	omerta	inclusive
+ID234	n	or	no	benak	conservative
+ID1890	a	is	yes	cialat	inclusive
+ID3064	n	an	no	vipera	inclusive
+ID497	n	cds	no	gajul	inclusive
+ID1644	n	pr	no	persundalan	inclusive
+ID2217	n	pa	yes	penggembala	inclusive
+ID952	n	om	no	homosex	conservative
+ID2085	n	dmc	yes	chawbacon	conservative
+ID379	n	pr	no	lonte	conservative
+ID303	n	pa	yes	barbar	conservative
+ID2936	n	re	no	dianiaya	inclusive
+ID233	n	asf	no	dodol	conservative
+ID863	n	asm	no	batang	conservative
+ID1002	n	cds	no	besi tua	inclusive
+ID2270	n	pa	yes	peminang	inclusive
+ID1326	a	qas	no	bebas	inclusive
+ID1746	a	is	yes	tembok kering	conservative
+ID199	n	an	no	epifauna	inclusive
+ID963	n	ddp	yes	gosip	conservative
+ID2015	n	svp	no	pengelak	conservative
+ID990	n	cds	no	mountebank	conservative
+ID1909	n	an	no	serangga	inclusive
+ID303	n	ps	yes	barbar	conservative
+ID2988	n	om	no	lemari lintas	inclusive
+ID2947	n	cds	no	conventicles	inclusive
+ID308	n	svp	no	keganasan	conservative
+ID1081	n	ps	yes	persilangan	inclusive
+ID1011	n	an	no	bedbugs	inclusive
+ID770	n	cds	no	memperlambat	inclusive
+ID1067	n	cds	no	interfertility	inclusive
+ID1506	n	dmc	yes	mafia	inclusive
+ID1237	n	om	no	keister	inclusive
+ID1290	n	cds	no	tumpukan	inclusive
+ID2618	a	svp	no	kibir	conservative
+ID114	n	om	no	penetrasi anal	inclusive
+ID1770	n	re	no	bukan-bukan	inclusive
+ID798	n	dmc	yes	scammer	conservative
+ID1202	n	ps	yes	kraut	conservative
+ID1175	n	ddp	yes	doofus	conservative
+ID1643	n	pr	no	jablai	conservative
+ID1421	n	qas	no	fieldhand	inclusive
+ID960	n	cds	no	pengecek	conservative
+ID1869	a	is	yes	menyedihkan	conservative
+ID2882	a	qas	no	ordiner	inclusive
+ID141	n	qas	no	tipu	conservative
+ID2381	n	qas	no	bendalu	conservative
+ID768	n	ddp	yes	idiot	inclusive
+ID303	n	cds	no	barbar	conservative
+ID499	n	re	no	dilarang	inclusive
+ID226	n	or	no	tolol	conservative
+ID2059	n	re	no	mafiosi	conservative
+ID2369	v	qas	no	silap	conservative
+ID2112	a	dmc	yes	menyayat hati	conservative
+ID311	n	an	no	barbarisme	inclusive
+ID933	n	pa	yes	kopral	inclusive
+ID1280	n	cds	no	remaja tunggakan	conservative
+ID1145	v	asm	no	mengejek	conservative
+ID770	n	ps	yes	memperlambat	conservative
+ID1755	n	ddf	yes	disabilitas	inclusive
+ID1076	n	ps	yes	pemulia tanaman	inclusive
+ID1503	n	cds	no	gangster	inclusive
+ID2417	v	is	yes	daduk	inclusive
+ID1250	n	om	no	punggung	inclusive
+ID1297	n	dmc	yes	bergelandangan	inclusive
+ID1308	n	ddf	yes	bangkut	conservative
+ID130	n	cds	no	lelucon	inclusive
+ID2627	a	cds	no	pandai	inclusive
+ID2730	n	or	no	b. rapa	inclusive
+ID227	n	or	no	bodoh	conservative
+ID1741	a	svp	no	kikir	conservative
+ID2859	n	an	no	coro	inclusive
+ID2374	v	qas	no	terlanjur	conservative
+ID360	n	an	no	pemurah	conservative
+ID707	n	qas	no	kerumunan	inclusive
+ID1280	n	dmc	yes	remaja tunggakan	conservative
+ID486	n	is	yes	bangsat	inclusive
+ID1638	n	pr	no	john	inclusive
+ID1178	n	ps	yes	pemusnah	conservative
+ID3009	n	asm	no	bertengger	inclusive
+ID558	n	pa	yes	pemakaman direktur	inclusive
+ID2670	a	ddf	yes	tunanetra	inclusive
+ID182	n	ddp	yes	metazoa	inclusive
+ID461	a	ddp	yes	udik	conservative
+ID270	n	cds	no	rumah sakit reputasi	inclusive
+ID2411	v	is	yes	doa	inclusive
+ID2397	v	re	no	menggiurkan	inclusive
+ID1846	a	svp	no	berat tulang	conservative
+ID1384	a	cds	no	tambung	conservative
+ID2011	n	cds	no	jamban	inclusive
+ID2604	a	re	no	meradang	inclusive
+ID1335	a	qas	no	sesat akal	conservative
+ID1864	a	is	yes	masgul	inclusive
+ID227	n	ps	yes	bodoh	conservative
+ID1050	n	an	no	little owl	inclusive
+ID237	n	ddp	yes	muttonhead	conservative
+ID593	n	ddp	yes	beast	conservative
+ID1742	a	is	yes	tangkai kering	conservative
+ID228	n	ddp	yes	angsa	conservative
+ID447	a	ddp	yes	bongok	conservative
+ID1388	n	dmc	yes	libertinism	conservative
+ID2236	n	re	no	bajul	inclusive
+ID439	a	cds	no	bodoh	conservative
+ID2669	a	ddf	yes	buta	inclusive
+ID2046	n	cds	no	anak susuan	inclusive
+ID113	n	om	no	sodomy	inclusive
+ID1863	a	is	yes	gobar	inclusive
+ID2316	n	cds	no	timeserver	conservative
+ID682	n	cds	no	kesewenang-wenangan	conservative
+ID1964	a	svp	no	sewot	conservative
+ID371	n	an	no	sundal	conservative
+ID466	a	ddp	yes	hamik	conservative
+ID1543	n	cds	no	tukang bual	conservative
+ID1164	n	an	no	pillager	inclusive
+ID828	n	cds	no	klan	inclusive
+ID771	n	ddp	yes	changelings	inclusive
+ID1967	n	svp	no	amarah	inclusive
+ID670	n	qas	no	kelas profesional	inclusive
+ID616	n	dmc	yes	kejahatan	conservative
+ID3039	n	dmc	yes	pergelandangan	inclusive
+ID409	n	cds	no	kocar-turvyness	inclusive
+ID1123	n	cds	no	menyisihkan	conservative
+ID560	n	pa	yes	pemakaman undertaker	inclusive
+ID2336	a	qas	no	kaprah	inclusive
+ID618	n	an	no	kebuasan	conservative
+ID310	n	cds	no	kebiadaban	conservative
+ID1934	n	asm	no	kemaluan	inclusive
+ID2911	a	ddp	yes	tawar	inclusive
+ID2148	n	svp	no	harga diri	inclusive
+ID202	n	cds	no	fitnah	inclusive
+ID158	n	ddp	yes	cakap kosong	conservative
+ID1153	n	pr	no	kekasih	inclusive
+ID796	n	cds	no	chiseller	conservative
+ID692	n	dmc	yes	cacat	inclusive
+ID1084	n	cds	no	calon	conservative
+ID1629	n	cds	no	utusan boy	inclusive
+ID2909	a	cds	no	bestari	inclusive
+ID2273	n	ps	yes	putih	inclusive
+ID1096	n	cds	no	pemula	inclusive
+ID1372	a	dmc	yes	malang	conservative
+ID516	n	qas	no	industrialis	inclusive
+ID493	n	cds	no	banditti	inclusive
+ID720	n	an	no	buaya	inclusive
+ID199	n	ddp	yes	epifauna	inclusive
+ID1068	n	ps	yes	blasteran	inclusive
+ID2396	v	re	no	mendera	inclusive
+ID2547	v	cds	no	mencakar	inclusive
+ID227	n	ddp	yes	bodoh	inclusive
+ID666	n	qas	no	borju	inclusive
+ID1578	n	cds	no	reaksioner	conservative
+ID489	n	re	no	bajingan	conservative
+ID1504	n	re	no	samseng	inclusive
+ID303	n	rci	yes	barbar	conservative
+ID2224	n	an	no	bekicot	inclusive
+ID296	n	cds	no	penjahat	inclusive
+ID236	n	asf	no	dumbass	conservative
+ID209	n	re	no	diperkosa	conservative
+ID61	n	pa	yes	akademikus	inclusive
+ID624	n	pr	no	lembu	inclusive
+ID1961	a	svp	no	sakit hati	conservative
+ID2810	v	re	no	menjepit	inclusive
+ID1429	n	cds	no	seloroh	conservative
+ID549	n	ddp	yes	anak luar nikah	conservative
+ID1825	n	om	no	lady	inclusive
+ID399	n	cds	no	bohong	conservative
+ID769	n	ddp	yes	changeling	conservative
+ID2598	n	cds	no	diskriminasi agama	inclusive
+ID1685	n	cds	no	yang besar dicuci	conservative
+ID784	n	re	no	umpat	inclusive
+ID1521	n	asm	no	vicia faba	inclusive
+ID2041	n	an	no	mule	inclusive
+ID2152	n	cds	no	superbia	conservative
+ID2878	a	ddp	yes	lembam	conservative
+ID1091	n	qas	no	pematuhan	inclusive
+ID1991	n	or	no	sifat sangat teliti	inclusive
+ID398	n	cds	no	kebohongan	conservative
+ID453	a	cds	no	bebal	conservative
+ID2370	v	qas	no	menyia-nyiakan	conservative
+ID282	n	qas	no	testis	inclusive
+ID2399	v	re	no	menyiksa	inclusive
+ID1381	a	cds	no	rampus	conservative
+ID104	a	an	no	degil	inclusive
+ID191	n	an	no	manusia	inclusive
+ID2407	v	is	yes	meminta	inclusive
+ID2632	a	cds	no	bijaksana	inclusive
+ID1972	n	svp	no	angriness	inclusive
+ID82	n	cds	no	keangkuhan	inclusive
+ID52	n	pa	yes	akademik	inclusive
+ID805	n	an	no	kuyuk	inclusive
+ID2303	n	re	no	teroris	inclusive
+ID2416	v	is	yes	merayu	inclusive
+ID312	n	ddp	yes	kekasaran	inclusive
+ID1247	n	om	no	basal	inclusive
+ID2179	n	ps	yes	setengah-kasta	conservative
+ID2512	v	asm	no	mencibirkan	conservative
+ID1804	n	cds	no	bantu mengajar	inclusive
+ID2917	a	ddp	yes	tidak dapat	inclusive
+ID1013	n	an	no	pijat-pijat	inclusive
+ID1380	a	re	no	angkara	inclusive
+ID217	n	or	no	piala kecil	inclusive
+ID1955	a	svp	no	dengki	conservative
+ID858	n	asm	no	pelir	inclusive
+ID1245	n	om	no	tooshie	inclusive
+ID2970	n	re	no	menyiksa	inclusive
+ID576	n	qas	no	blooper	inclusive
+ID309	n	re	no	kekejaman	conservative
+ID2405	v	re	no	mengusik	inclusive
+ID2507	v	cds	no	menghormati	inclusive
+ID1897	n	cds	no	peminjaman uang	inclusive
+ID143	n	qas	no	kecampuran	inclusive
+ID513	n	ps	yes	hitam	inclusive
+ID498	n	re	no	kriminal	inclusive
+ID919	n	asm	no	roll di jerami	conservative
+ID1108	n	asf	no	vagina	conservative
+ID2517	v	asm	no	tiru	conservative
+ID495	n	cds	no	mencabut perlindungan hukum	inclusive
+ID578	n	cds	no	kecanggungan	inclusive
+ID1384	a	dmc	yes	tambung	conservative
+ID876	n	cds	no	kebimbangan	conservative
+ID1613	n	re	no	kebongkaran	inclusive
+ID2585	a	qas	no	kelaziman	inclusive
+ID703	n	svp	no	layabout	conservative
+ID395	n	pr	no	anak laki-laki sewa	conservative
+ID520	n	qas	no	magnates	inclusive
+ID2881	a	ps	yes	negro	inclusive
+ID1801	n	cds	no	guru	conservative
+ID2925	a	re	no	membuas	inclusive
+ID696	n	dmc	yes	gelandangan	inclusive
+ID2380	n	an	no	lintah	inclusive
+ID842	n	svp	no	minginess	conservative
+ID1267	n	svp	no	gourmandizer	inclusive
+ID694	n	dmc	yes	lowlife	conservative
+ID139	n	cds	no	muslihat	conservative
+ID3046	n	cds	no	sifat takut-takutan	inclusive
+ID741	n	cds	no	kafilah	inclusive
+ID2610	a	svp	no	gusar	inclusive
+ID1103	n	cds	no	ujang	inclusive
+ID1375	a	dmc	yes	benguk	inclusive
+ID3006	n	pr	no	hetaira	inclusive
+ID312	n	an	no	kekasaran	conservative
+ID202	n	re	no	fitnah	inclusive
+ID855	n	an	no	vulgar	conservative
+ID638	n	asm	no	coklat	inclusive
+ID769	n	ddp	yes	changeling	inclusive
+ID296	n	re	no	penjahat	conservative
+ID447	a	cds	no	bongok	conservative
+ID2622	a	svp	no	angkuh	conservative
+ID2469	v	cds	no	melampaui	inclusive
+ID1364	n	dmc	yes	kedurjanaan	conservative
+ID699	n	dmc	yes	pengemis	conservative
+ID1508	n	cds	no	fascism	conservative
+ID1587	v	asm	no	main	conservative
+ID213	n	cds	no	kelihaian	conservative
+ID2335	a	qas	no	wajar	inclusive
+ID1575	n	svp	no	tak berguna	conservative
+ID711	n	an	no	villainess	conservative
+ID2631	a	cds	no	bijak	inclusive
+ID1412	n	cds	no	jaruman	conservative
+ID160	n	re	no	penganiaya	inclusive
+ID444	a	cds	no	geblek	conservative
+ID726	n	an	no	perut	inclusive
+ID1383	a	dmc	yes	urakan	conservative
+ID1305	n	ddf	yes	katik	conservative
+ID2143	n	asm	no	galah	inclusive
+ID446	a	ddp	yes	bongak	conservative
+ID1204	n	cds	no	grunge	inclusive
+ID1403	n	qas	no	divulgement	inclusive
+ID2177	n	ps	yes	peranakan	conservative
+ID2194	n	an	no	basil	inclusive
+ID2253	n	ps	yes	niger	conservative
+ID361	n	ddp	yes	pillock	conservative
+ID57	a	pa	yes	teoritis	inclusive
+ID870	n	cds	no	kerewelan	conservative
+ID207	n	re	no	rogol	conservative
+ID856	n	an	no	grossness	conservative
+ID1493	n	an	no	marah	inclusive
+ID662	a	qas	no	borjuis	inclusive
+ID2871	a	qas	no	abad pertengahan	inclusive
+ID367	n	ddp	yes	penipuan	conservative
+ID2100	n	an	no	betet	inclusive
+ID333	n	pa	yes	menteri	inclusive
+ID2333	a	qas	no	lazim	inclusive
+ID230	n	asf	no	goblok	conservative
+ID1640	n	pr	no	pelacuran	inclusive
+ID2357	n	an	no	cacing	inclusive
+ID815	n	om	no	yg bersemburit	conservative
+ID714	n	cds	no	mobil tua	inclusive
+ID1841	a	dmc	yes	kotor	conservative
+ID111	n	om	no	seks anal	inclusive
+ID1492	n	svp	no	kemarahannya	conservative
+ID2473	v	cds	no	modar	inclusive
+ID222	n	asm	no	dungu	inclusive
+ID634	n	cds	no	atasan	inclusive
+ID1822	n	dmc	yes	bermoral	inclusive
+ID2704	n	cds	no	sokongan	inclusive
+ID430	n	cds	no	fabricator	conservative
+ID158	n	an	no	cakap kosong	conservative
+ID496	n	an	no	jahat	conservative
+ID305	n	pa	yes	babar	conservative
+ID240	n	an	no	jahil	conservative
+ID1109	n	or	no	pepek	conservative
+ID2978	n	an	no	swallower balon	inclusive
+ID159	n	asm	no	omong kosong	inclusive
+ID192	n	ddp	yes	hewan-hewan	inclusive
+ID227	n	an	no	bodoh	conservative
+ID1106	n	or	no	bunga	conservative
+ID2475	v	cds	no	wafat	inclusive
+ID2969	n	re	no	siksaan	inclusive
+ID527	n	ddp	yes	keparat	conservative
+ID3083	n	ps	yes	rommany	inclusive
+ID2125	n	asm	no	kacang	inclusive
+ID1287	n	cds	no	scads	inclusive
+ID1203	n	cds	no	kenajisan	inclusive
+ID2902	a	is	yes	fakir	inclusive
+ID487	n	an	no	penipu	conservative
+ID1748	a	an	no	lokek	conservative
+ID1405	n	cds	no	taklid	conservative
+ID314	n	qas	no	peniaga	inclusive
+ID466	a	cds	no	hamik	conservative
+ID2639	n	re	no	menjiplak	inclusive
+ID1281	n	dmc	yes	delinkuen	conservative
+ID1258	n	om	no	plantar	inclusive
+ID2681	a	svp	no	kembung	conservative
+ID1027	n	cds	no	kecerdikan	conservative
+ID850	n	qas	no	berkecamuk	inclusive
+ID1606	n	cds	no	terkutuk	conservative
+ID2633	a	svp	no	bengkeng	conservative
+ID66	n	ddp	yes	tunagrahita	inclusive
+ID2222	n	cds	no	mystifier	conservative
+ID2755	a	dmc	yes	sememeh	inclusive
+ID98	a	an	no	teguk	inclusive
+ID2785	a	dmc	yes	kizib	conservative
+ID528	n	an	no	kurang ajar	conservative
+ID383	n	pr	no	cabo	conservative
+ID2797	n	an	no	anurans	inclusive
+ID1302	n	cds	no	peons	inclusive
+ID696	n	cds	no	gelandangan	conservative
+ID611	n	ddp	yes	kebinatangan	conservative
+ID1406	n	cds	no	dalalah	conservative
+ID1744	a	an	no	cekel	conservative
+ID2886	n	an	no	sciaenops ocellatus	inclusive
+ID1154	n	pr	no	gundik	inclusive
+ID790	n	re	no	maligner	conservative
+ID2014	n	dmc	yes	slackers	conservative
+ID1225	n	dmc	yes	palsu	inclusive
+ID1745	a	svp	no	bakhil	conservative
+ID487	n	cds	no	penipu	conservative
+ID1739	a	is	yes	pelit	inclusive
+ID1645	n	pr	no	tuna susila	conservative
+ID307	a	svp	no	berhasrat	inclusive
+ID794	n	cds	no	pengelat	conservative
+ID530	n	an	no	babi	inclusive
+ID2198	n	an	no	mikro organisme	inclusive
+ID3020	n	an	no	hoax	conservative
+ID462	a	cds	no	beloh	conservative
+ID1330	n	cds	no	pengkhayal	inclusive
+ID2926	a	re	no	kencang	inclusive
+ID295	n	an	no	perampok	inclusive
+ID2889	n	an	no	red drum	inclusive
+ID2532	a	or	no	ketat	conservative
+ID1052	n	qas	no	awak	inclusive

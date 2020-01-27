@@ -1,0 +1,2875 @@
+id	pos	category	stereotype	lemma	level
+HR618	n	ps	yes	usporiti	conservative
+HR1602	n	ddp	yes	mentalnog nedostatka	inclusive
+HR895	n	cds	no	mješanac	inclusive
+HR375	n	cds	no	nestašna	conservative
+HR1405	n	ps	yes	judaizam	inclusive
+HR1055	n	om	no	dorzolateralnom	inclusive
+HR1300	n	cds	no	gledalac	conservative
+HR2278	a	is	yes	oskudan	inclusive
+HR1486	n	asm	no	gluposti	conservative
+HR221	n	qas	no	teste	inclusive
+HR1787	n	re	no	pljačkaš	inclusive
+HR421	n	re	no	ucjenjuje	conservative
+HR746	n	pa	yes	prof.	inclusive
+HR65	n	dmc	yes	lijenčina	conservative
+HR268	n	cds	no	blackballing	inclusive
+HR1608	n	re	no	konjokradica	inclusive
+HR527	n	cds	no	oholost	conservative
+HR1536	n	dmc	yes	nemoralno	inclusive
+HR1724	n	qas	no	župi	inclusive
+HR772	n	an	no	zeko	inclusive
+HR316	n	cds	no	kaos	inclusive
+HR876	n	ddf	yes	bogalj	inclusive
+HR349	n	cds	no	skitnica	conservative
+HR312	n	cds	no	clotheshorse	inclusive
+HR2440	n	ps	yes	zulu	inclusive
+HR453	n	qas	no	bumbler	conservative
+HR3	v	an	no	lajati	inclusive
+HR98	n	cds	no	fanatizam	inclusive
+HR413	n	cds	no	mater	conservative
+HR215	n	asm	no	testisi	inclusive
+HR309	n	dmc	yes	izmišljotina	inclusive
+HR828	n	cds	no	starog željeza	conservative
+HR1633	n	cds	no	wc	inclusive
+HR1485	n	ddp	yes	besmisleni	conservative
+HR1538	n	om	no	plemkinja	inclusive
+HR348	n	cds	no	benda	inclusive
+HR1849	n	or	no	squash	inclusive
+HR1162	n	cds	no	povlađivati	inclusive
+HR523	n	qas	no	srednja klasa	inclusive
+HR1980	v	qas	no	sprtljati	conservative
+HR282	n	or	no	pudden-glava	conservative
+HR1057	n	cds	no	prepredenko	conservative
+HR376	n	cds	no	pokvarenost	conservative
+HR2257	n	an	no	šakali	inclusive
+HR61	n	om	no	analni snošaj	inclusive
+HR1524	n	cds	no	šaljivčina	inclusive
+HR274	n	asf	no	prostak	conservative
+HR1634	n	cds	no	septičkih	inclusive
+HR1674	n	svp	no	sramotu	inclusive
+HR504	n	qas	no	gospodarstvenika	inclusive
+HR228	n	qas	no	barbari	conservative
+HR2034	v	cds	no	skončavati	inclusive
+HR575	a	ddf	yes	neprikladan	inclusive
+HR381	n	ps	yes	crna	inclusive
+HR2017	v	is	yes	zaklinjati	inclusive
+HR245	n	pa	yes	pobornik	inclusive
+HR1680	n	cds	no	cosa nostra	inclusive
+HR227	n	qas	no	barbarski	conservative
+HR764	n	asm	no	komad magarca	conservative
+HR1133	n	dmc	yes	zlo	inclusive
+HR290	n	pr	no	bludnica	conservative
+HR1124	n	dmc	yes	moralni kompas	inclusive
+HR322	n	ps	yes	beduini	inclusive
+HR555	n	dmc	yes	besposličar	conservative
+HR2395	n	dmc	yes	skitnje	inclusive
+HR1543	n	svp	no	lustfulness	inclusive
+HR246	n	pa	yes	advokat	inclusive
+HR1024	n	om	no	pih	inclusive
+HR225	n	cds	no	razbojništvo	inclusive
+HR1983	v	qas	no	uništavati	conservative
+HR307	n	dmc	yes	laž	inclusive
+HR1155	n	qas	no	divulgement	inclusive
+HR536	n	svp	no	high-nespretnost	conservative
+HR1569	n	cds	no	loanshark	inclusive
+HR1231	n	cds	no	masonstvo	inclusive
+HR264	n	qas	no	barokna arhitektura	inclusive
+HR156	n	ddp	yes	betise	conservative
+HR1759	n	cds	no	prankishness	inclusive
+HR1566	n	cds	no	novca kreditiranja	conservative
+HR2391	n	om	no	ženski imitator	inclusive
+HR622	n	asm	no	changeling	inclusive
+HR169	n	an	no	ne znaju ništa	conservative
+HR1583	n	qas	no	magacioner	inclusive
+HR1573	n	an	no	kukac	inclusive
+HR550	n	an	no	tako i tako	conservative
+HR998	n	an	no	diddlysquat	conservative
+HR1844	n	cds	no	moralizma	inclusive
+HR589	n	ddp	yes	zarobljenik	inclusive
+HR1824	n	pa	yes	pastirica	inclusive
+HR305	n	dmc	yes	laže	inclusive
+HR2214	n	an	no	žabe	inclusive
+HR370	n	cds	no	lupeštvo	conservative
+HR365	n	cds	no	izdajnički	conservative
+HR645	n	re	no	hahar	inclusive
+HR1610	n	cds	no	provalnik	inclusive
+HR15	n	re	no	zlostavljanje	inclusive
+HR934	n	cds	no	frakcija u stranci	inclusive
+HR552	n	cds	no	šljam torba	conservative
+HR1888	n	cds	no	hypersexual	conservative
+HR179	n	an	no	sivac	inclusive
+HR1679	n	cds	no	murjak	conservative
+HR231	n	ddp	yes	barbara	conservative
+HR1556	n	svp	no	gorger	conservative
+HR230	n	cds	no	grubijan	conservative
+HR715	n	cds	no	nevolja	conservative
+HR124	n	an	no	makrofaune	inclusive
+HR65	n	svp	no	lijenčina	conservative
+HR804	n	cds	no	kanalizacijski kanal	inclusive
+HR137	n	re	no	objeda	conservative
+HR1263	n	cds	no	fašisti	conservative
+HR1676	n	cds	no	policajac	conservative
+HR1750	n	cds	no	intrigant	inclusive
+HR99	n	cds	no	zeloti	inclusive
+HR1510	n	an	no	inexorableness	conservative
+HR1234	n	cds	no	slobodnih i prihvaćenih zidara	inclusive
+HR227	n	ps	yes	barbarski	conservative
+HR619	n	asf	no	kreten	conservative
+HR1146	n	dmc	yes	rasipnik	conservative
+HR2033	v	cds	no	izdahnuti	inclusive
+HR1650	n	an	no	komarac	inclusive
+HR455	n	ddp	yes	pogriješiteljem	conservative
+HR1140	n	an	no	lice	inclusive
+HR2388	n	ps	yes	pikey	conservative
+HR208	n	cds	no	nepristojni kuću	inclusive
+HR1780	n	qas	no	retor	inclusive
+HR993	n	an	no	diddly-sranje	conservative
+HR539	n	svp	no	taština	conservative
+HR192	n	svp	no	škrtost	inclusive
+HR2335	n	re	no	mučenje	inclusive
+HR127	n	an	no	Životinjski svijet	inclusive
+HR544	n	svp	no	arogantnost	conservative
+HR1193	n	dmc	yes	malodor	conservative
+HR576	a	ddf	yes	loše	inclusive
+HR212	n	is	yes	cheapskate	conservative
+HR1515	n	cds	no	pompeznost	inclusive
+HR633	n	re	no	traducement	inclusive
+HR2065	v	cds	no	usahnuti	inclusive
+HR930	n	or	no	sativus	inclusive
+HR1763	n	svp	no	superbia	conservative
+HR349	n	ps	yes	skitnica	inclusive
+HR1968	n	an	no	crv	inclusive
+HR95	n	cds	no	folderol	conservative
+HR2431	n	svp	no	požude	inclusive
+HR2389	n	om	no	drag show	inclusive
+HR1813	n	ddp	yes	nanocephaly	inclusive
+HR1622	n	cds	no	zahodi	inclusive
+HR1643	n	ps	yes	mongolski narodi	inclusive
+HR1248	n	svp	no	bijes	conservative
+HR1500	n	is	yes	bijeda	inclusive
+HR1156	n	qas	no	obveza davanja	inclusive
+HR758	n	svp	no	eros	inclusive
+HR470	n	svp	no	dȍsada	inclusive
+HR1470	n	dmc	yes	falsifikat	inclusive
+HR38	n	pa	yes	fakulteta	inclusive
+HR1075	n	re	no	delinkvent	conservative
+HR2165	n	re	no	raptio	inclusive
+HR1431	n	cds	no	prelat	inclusive
+HR228	n	rci	yes	barbari	conservative
+HR193	n	svp	no	tvrdica	inclusive
+HR1929	n	or	no	spaljena naranče	inclusive
+HR1386	n	pr	no	prostitutke	conservative
+HR1546	n	dmc	yes	trut	conservative
+HR837	n	an	no	stjenica	inclusive
+HR1390	n	om	no	homoseksualnih muškaraca	inclusive
+HR968	n	pr	no	dvoranin	inclusive
+HR971	n	cds	no	razbojnik	conservative
+HR2285	a	cds	no	pametan	inclusive
+HR535	n	cds	no	bahatost	conservative
+HR157	n	asf	no	glupost	conservative
+HR1172	n	qas	no	fieldhand	inclusive
+HR1075	n	cds	no	delinkvent	conservative
+HR414	n	ddp	yes	motherfucker	conservative
+HR211	n	cds	no	kuća lošeg ugled	inclusive
+HR70	n	qas	no	štovatelj	inclusive
+HR2056	v	qas	no	krpati	inclusive
+HR1942	n	dmc	yes	bijednik	inclusive
+HR342	n	cds	no	kriminalnog	conservative
+HR1128	n	dmc	yes	moralne vrijednosti	inclusive
+HR201	n	cds	no	javnoj kući	inclusive
+HR2329	n	re	no	terorizam	conservative
+HR559	n	cds	no	nitkov	conservative
+HR190	n	svp	no	škrtoća	inclusive
+HR623	n	ps	yes	changelings	conservative
+HR66	n	cds	no	pristalica	conservative
+HR2085	n	cds	no	moaner	conservative
+HR1430	n	cds	no	prota	inclusive
+HR1667	n	cds	no	dojenče	inclusive
+HR1563	n	cds	no	kamatara	conservative
+HR118	n	an	no	jeguljke	inclusive
+HR543	n	svp	no	naduvenost	conservative
+HR983	n	re	no	zločinstvo	inclusive
+HR1137	n	cds	no	grešnik	conservative
+HR1063	n	qas	no	nemilost	inclusive
+HR167	n	or	no	dumbass	conservative
+HR225	n	dmc	yes	razbojništvo	inclusive
+HR888	n	an	no	crocodilia	inclusive
+HR460	n	an	no	tijela snatchers	inclusive
+HR548	n	an	no	git	conservative
+HR1520	n	cds	no	instruktora	inclusive
+HR293	n	pr	no	šljaka	conservative
+HR1587	n	svp	no	netolerancija	conservative
+HR4	n	svp	no	lijenost	inclusive
+HR906	n	ps	yes	križanja	inclusive
+HR1565	n	cds	no	moneylending	conservative
+HR631	n	re	no	klevetu	inclusive
+HR521	n	qas	no	bourgeoise	inclusive
+HR1159	n	cds	no	fanatičnost	conservative
+HR1766	n	re	no	ucjenjivač	inclusive
+HR1591	n	asm	no	penis	inclusive
+HR109	n	cds	no	mnoštvo	conservative
+HR1416	n	ps	yes	hebrejac	inclusive
+HR95	n	asf	no	folderol	conservative
+HR1080	n	cds	no	puno	inclusive
+HR273	n	cds	no	balvan	conservative
+HR1106	n	re	no	osuđeni kriminalac	inclusive
+HR769	n	an	no	kunić	inclusive
+HR640	n	re	no	ogovarač	conservative
+HR231	n	qas	no	barbara	conservative
+HR561	n	is	yes	villainess	conservative
+HR1469	a	svp	no	škrt	conservative
+HR558	n	dmc	yes	negativca	conservative
+HR1850	n	cds	no	tat	inclusive
+HR1596	n	svp	no	zavidjeti	inclusive
+HR1855	n	cds	no	narcizam	inclusive
+HR227	n	ddp	yes	barbarski	conservative
+HR106	n	an	no	gomila	conservative
+HR324	n	an	no	junadi	inclusive
+HR1571	n	an	no	insekti	inclusive
+HR2198	n	qas	no	bombastičnost	inclusive
+HR1307	n	an	no	kozolika antilopa	inclusive
+HR1091	n	an	no	patuljak	conservative
+HR620	n	ps	yes	idiot	conservative
+HR957	n	cds	no	demagoški	conservative
+HR196	n	ddp	yes	brbljivac	inclusive
+HR480	n	pr	no	volovi	inclusive
+HR665	n	om	no	pederast	conservative
+HR195	n	svp	no	motiv škrtca	inclusive
+HR1102	n	pa	yes	zaposlenik	inclusive
+HR1256	n	dmc	yes	danguba	inclusive
+HR103	n	ddp	yes	nepismenost	inclusive
+HR145	n	cds	no	promućurnost	inclusive
+HR2200	a	dmc	yes	lažne	conservative
+HR455	n	dmc	yes	pogriješiteljem	conservative
+HR191	n	svp	no	tvrdičluk	inclusive
+HR452	n	cds	no	konformista	conservative
+HR1294	n	cds	no	žigolo	inclusive
+HR1748	n	an	no	shoat	inclusive
+HR626	n	re	no	klevete	inclusive
+HR173	n	an	no	magarci	inclusive
+HR1869	n	ps	yes	afričkog podrijetla	inclusive
+HR1998	v	qas	no	uprskavati	conservative
+HR175	n	an	no	tovar	inclusive
+HR979	n	ps	yes	ruiner	conservative
+HR1202	n	pa	yes	ribarnice	inclusive
+HR1338	n	an	no	bjeloglavi	inclusive
+HR1704	n	cds	no	papparazzi	inclusive
+HR356	n	cds	no	kazneno	conservative
+HR607	n	cds	no	kasino	inclusive
+HR267	n	cds	no	osim	inclusive
+HR1020	n	dmc	yes	lažan	conservative
+HR1006	n	ps	yes	kraut	conservative
+HR2026	v	cds	no	nažderavati se	inclusive
+HR1494	n	is	yes	neimaština	inclusive
+HR1453	n	cds	no	hustling	conservative
+HR1432	n	dmc	yes	beskućnik	inclusive
+HR664	n	om	no	paederast	conservative
+HR1278	n	asf	no	vagina	conservative
+HR349	n	an	no	skitnica	conservative
+HR877	n	an	no	krokodila	inclusive
+HR2097	n	an	no	uš	inclusive
+HR940	n	cds	no	uništavanje	conservative
+HR850	n	svp	no	taṇhā	inclusive
+HR349	n	re	no	skitnica	conservative
+HR1381	n	pr	no	bludničenje	inclusive
+HR433	n	qas	no	griješiti	inclusive
+HR900	n	cds	no	biljka uzgajivač	inclusive
+HR229	n	ps	yes	barbar	conservative
+HR353	n	re	no	zločinac	inclusive
+HR2272	n	an	no	crvena bubanj	inclusive
+HR1513	n	cds	no	splashiness	inclusive
+HR647	n	cds	no	varalica	inclusive
+HR83	n	qas	no	papazjanija	inclusive
+HR621	n	ps	yes	imbecil	conservative
+HR1562	n	cds	no	lihvar	inclusive
+HR314	n	cds	no	kicoš	inclusive
+HR301	n	pr	no	muške pratnje	conservative
+HR2105	n	cds	no	jerking off	conservative
+HR438	n	cds	no	kiks	inclusive
+HR2326	n	re	no	strahovlada	conservative
+HR366	n	cds	no	pakost	conservative
+HR731	n	an	no	culex pipiens	inclusive
+HR1241	n	cds	no	fundamentalističkih	inclusive
+HR276	n	an	no	mekana na dodir	conservative
+HR622	n	ddp	yes	changeling	conservative
+HR29	n	cds	no	faktor	inclusive
+HR502	n	qas	no	seljak	inclusive
+HR206	n	cds	no	bawdyhouse	inclusive
+HR543	n	cds	no	naduvenost	conservative
+HR2236	n	cds	no	pristaše	conservative
+HR2156	n	pa	yes	računovođa	inclusive
+HR1305	n	cds	no	medijator	inclusive
+HR839	n	an	no	krevet bug	inclusive
+HR1636	n	svp	no	zabušant	conservative
+HR2324	n	re	no	terorist	inclusive
+HR1361	n	cds	no	krađe	inclusive
+HR1039	n	om	no	anatomski izrazi za smještaj	inclusive
+HR1340	n	an	no	svinja	inclusive
+HR1134	n	dmc	yes	hudoba	conservative
+HR577	n	an	no	cakehole	inclusive
+HR2073	a	om	no	abnormalan	inclusive
+HR95	n	ddp	yes	folderol	conservative
+HR1098	n	cds	no	pedagog	inclusive
+HR2031	v	cds	no	preminuti	inclusive
+HR2381	n	cds	no	konspirativna teorija	inclusive
+HR983	n	cds	no	zločinstvo	inclusive
+HR205	n	cds	no	javna kuća	inclusive
+HR646	n	cds	no	defrauder	inclusive
+HR440	n	qas	no	neuspjeh	inclusive
+HR694	n	an	no	kozijeg	inclusive
+HR18	n	re	no	zlostavljani	inclusive
+HR172	n	an	no	equus africanus asinus	inclusive
+HR379	n	cds	no	nitkovluk	conservative
+HR310	n	cds	no	dude	inclusive
+HR1948	n	cds	no	zelenaštvo	inclusive
+HR863	n	an	no	sovovka	inclusive
+HR1203	n	pa	yes	ribarnica	inclusive
+HR623	n	ddp	yes	changelings	conservative
+HR2022	v	cds	no	prežderavati se	inclusive
+HR1610	n	re	no	provalnik	inclusive
+HR619	n	ddp	yes	kreten	inclusive
+HR1410	n	ps	yes	židovsko	inclusive
+HR283	n	ddp	yes	nasamariti	conservative
+HR44	n	ddp	yes	duševnim smetnjama	inclusive
+HR749	n	or	no	kupus	inclusive
+HR1029	n	om	no	debelo meso	inclusive
+HR1460	n	cds	no	balladeer	inclusive
+HR1878	n	ps	yes	negroid	inclusive
+HR911	n	cds	no	rookie	conservative
+HR156	n	asm	no	betise	conservative
+HR1154	n	cds	no	obiteljska loza	inclusive
+HR218	n	asm	no	ballock	inclusive
+HR178	n	an	no	equus asinus	inclusive
+HR1924	n	cds	no	oportunista	conservative
+HR1247	n	svp	no	srdžba	conservative
+HR214	n	asm	no	jaja	inclusive
+HR2235	n	an	no	hirudinean	inclusive
+HR562	n	cds	no	zločinačka	conservative
+HR2008	n	cds	no	skorojević	inclusive
+HR2205	n	an	no	salientian	inclusive
+HR729	n	cds	no	ballup	inclusive
+HR622	n	ps	yes	changeling	conservative
+HR685	n	an	no	koze	inclusive
+HR9	n	svp	no	apatija	inclusive
+HR155	n	ddp	yes	bedastoća	conservative
+HR107	n	qas	no	horda	inclusive
+HR273	n	asm	no	balvan	conservative
+HR1147	n	dmc	yes	scattergood	inclusive
+HR1104	n	cds	no	ljubitelj	inclusive
+HR1517	n	cds	no	instruktor	inclusive
+HR1523	n	pa	yes	isusovac	inclusive
+HR2408	n	re	no	furiousness	inclusive
+HR1857	n	cds	no	narcisizam	inclusive
+HR1277	n	asf	no	rodnica	conservative
+HR1382	n	pr	no	seksualnih usluga	conservative
+HR506	n	qas	no	vlasnik tvrtke	inclusive
+HR1212	n	an	no	buha	inclusive
+HR1082	n	cds	no	wads	inclusive
+HR2420	n	dmc	yes	treasonist	conservative
+HR294	n	an	no	drolja	conservative
+HR1534	n	svp	no	razvratnost	inclusive
+HR512	n	an	no	stari svijet bivola	inclusive
+HR217	n	asm	no	testisa	inclusive
+HR304	n	pr	no	uličarka	conservative
+HR451	n	cds	no	konformist	conservative
+HR2184	a	om	no	različit	inclusive
+HR356	n	cds	no	kazneno	inclusive
+HR482	n	an	no	krava	inclusive
+HR2107	n	asm	no	jacking off	conservative
+HR2190	a	dmc	yes	nečist	inclusive
+HR1850	n	re	no	tat	inclusive
+HR1253	n	svp	no	dilly-dallier	conservative
+HR2332	n	asm	no	falusa	inclusive
+HR806	n	cds	no	kanalizacija	inclusive
+HR2301	n	pr	no	lampyris noctiluca	inclusive
+HR468	n	an	no	ferociousness	conservative
+HR80	n	an	no	budalaština	conservative
+HR645	n	dmc	yes	hahar	conservative
+HR1717	n	qas	no	autoinfection	inclusive
+HR215	n	qas	no	testisi	inclusive
+HR160	n	asm	no	glupan	conservative
+HR274	n	asm	no	prostak	conservative
+HR390	n	qas	no	tajkun	inclusive
+HR1381	n	pr	no	bludničenje	conservative
+HR275	n	cds	no	osoba koja ispašta tuđe greške	conservative
+HR144	n	re	no	silovanja	conservative
+HR2295	a	ddf	yes	ružan	conservative
+HR810	v	cds	no	naklapati	inclusive
+HR1513	n	cds	no	splashiness	conservative
+HR1772	n	pr	no	štakora	inclusive
+HR1623	n	cds	no	javni praktičnost	inclusive
+HR1304	n	an	no	komarca	inclusive
+HR1562	n	cds	no	lihvar	conservative
+HR2383	n	cds	no	teorija zavjere	inclusive
+HR80	n	asf	no	budalaština	conservative
+HR809	n	cds	no	kukavičluka	conservative
+HR1889	n	cds	no	nimfomanija	inclusive
+HR2126	n	an	no	volaille	inclusive
+HR1250	n	svp	no	dallier	conservative
+HR398	n	dmc	yes	hulja	inclusive
+HR1358	n	re	no	lopovi	inclusive
+HR194	n	is	yes	motiv škrca	conservative
+HR1715	n	qas	no	necrotrophic	inclusive
+HR784	n	om	no	poove	conservative
+HR2154	n	pa	yes	kontroler	inclusive
+HR1384	n	pr	no	prodaja tijela	inclusive
+HR354	n	dmc	yes	banditti	inclusive
+HR1298	n	cds	no	nametljivac	conservative
+HR1744	n	an	no	shote	inclusive
+HR159	n	asm	no	idiotarija	conservative
+HR1083	n	cds	no	gobs	inclusive
+HR2210	n	an	no	Žabe	inclusive
+HR451	n	qas	no	konformist	conservative
+HR1762	n	svp	no	ponositost	inclusive
+HR53	n	an	no	bison	inclusive
+HR2194	a	dmc	yes	umrljan	inclusive
+HR2084	n	cds	no	sniveller	conservative
+HR896	n	cds	no	križanac	inclusive
+HR2130	n	an	no	gallus gallus	inclusive
+HR1111	n	asm	no	hard-on	inclusive
+HR1309	n	an	no	caprinae	inclusive
+HR1545	n	dmc	yes	vrdalama	inclusive
+HR2364	n	pr	no	hetaera	inclusive
+HR371	n	cds	no	nestašluk odluka	conservative
+HR1659	n	dmc	yes	mozzarellom	inclusive
+HR1677	n	cds	no	časnik	inclusive
+HR1150	n	cds	no	obitelji	inclusive
+HR1016	n	dmc	yes	licemjerje	conservative
+HR232	n	svp	no	stjecanjem	inclusive
+HR1092	n	ddf	yes	nanus	conservative
+HR1274	n	asm	no	europska grah	inclusive
+HR807	n	an	no	kukavica	conservative
+HR1548	n	re	no	Čedomorstvo	inclusive
+HR2405	n	pr	no	dvorjana	inclusive
+HR216	n	asm	no	sjemenici	inclusive
+HR1807	n	an	no	mikroorganizama	inclusive
+HR515	n	om	no	sodomit	inclusive
+HR986	n	cds	no	zločin	inclusive
+HR1957	n	an	no	lešinar	inclusive
+HR27	n	cds	no	brokera	inclusive
+HR1741	a	dmc	yes	grješan	conservative
+HR2342	n	pa	yes	bijelo-radnik	inclusive
+HR2254	n	an	no	čagalj	inclusive
+HR913	n	qas	no	konformizam	inclusive
+HR1796	n	ps	yes	mestici	conservative
+HR2047	v	qas	no	namazati	inclusive
+HR1393	n	om	no	non-zapadnjački koncepti muške seksualnosti	inclusive
+HR410	n	cds	no	štrajk-razbijanje	inclusive
+HR432	n	qas	no	bloopers	inclusive
+HR871	n	asm	no	wanker	conservative
+HR445	n	cds	no	hvalisavac	conservative
+HR78	n	cds	no	nepodopština	inclusive
+HR19	n	re	no	zloporabu položaja	inclusive
+HR281	n	ddp	yes	glup	conservative
+HR131	n	an	no	faune	inclusive
+HR1620	n	qas	no	smjesa	inclusive
+HR1129	n	an	no	eurypterid	inclusive
+HR1695	n	an	no	vrisak-sova	inclusive
+HR1890	n	cds	no	nimfomanka	conservative
+HR617	n	an	no	bolećivost	conservative
+HR1081	n	cds	no	hrpe	inclusive
+HR342	n	cds	no	kriminalnog	inclusive
+HR1096	n	cds	no	nastavnik	inclusive
+HR1141	n	dmc	yes	libertanac	conservative
+HR1990	v	qas	no	uprskati	conservative
+HR1647	n	an	no	komaraca	inclusive
+HR619	n	asm	no	kreten	inclusive
+HR452	n	qas	no	konformista	conservative
+HR1210	n	an	no	buva	inclusive
+HR954	n	dmc	yes	varljiv	conservative
+HR161	n	an	no	budala	conservative
+HR1250	n	dmc	yes	dallier	conservative
+HR2281	a	is	yes	potrebit	inclusive
+HR827	n	cds	no	smeće	conservative
+HR1504	n	svp	no	neaktivnost	inclusive
+HR1315	n	svp	no	nespretnjaković	conservative
+HR1469	a	dmc	yes	škrt	conservative
+HR360	n	an	no	bizon	inclusive
+HR160	n	asf	no	glupan	conservative
+HR2269	a	qas	no	srednje klase	inclusive
+HR2024	v	cds	no	žderati	inclusive
+HR2270	a	ddp	yes	lud	conservative
+HR97	n	cds	no	fanatici	inclusive
+HR1534	n	dmc	yes	razvratnost	inclusive
+HR1537	n	dmc	yes	nećudoređe	inclusive
+HR791	n	om	no	homoseksualac	conservative
+HR1987	v	qas	no	kvariti	conservative
+HR745	n	pa	yes	prof	inclusive
+HR1541	n	dmc	yes	uljez	conservative
+HR947	n	om	no	gospođo	inclusive
+HR436	n	cds	no	smiješni	inclusive
+HR301	n	an	no	muške pratnje	conservative
+HR82	n	cds	no	ostaci	inclusive
+HR1178	n	qas	no	farmer	inclusive
+HR95	n	an	no	folderol	conservative
+HR1815	n	ddp	yes	mikrocefalija	inclusive
+HR1491	n	is	yes	siromaha	inclusive
+HR2248	n	dmc	yes	falsifikator	conservative
+HR2137	a	ps	yes	crni	inclusive
+HR228	n	pa	yes	barbari	conservative
+HR1158	n	cds	no	fanatizma	conservative
+HR1195	n	dmc	yes	neugodan zadah	conservative
+HR1660	n	an	no	zaparložen	conservative
+HR365	n	ddp	yes	izdajnički	conservative
+HR559	n	an	no	nitkov	conservative
+HR325	n	qas	no	lagati	conservative
+HR583	n	cds	no	družina	inclusive
+HR228	n	cds	no	barbari	conservative
+HR1574	n	an	no	kukci	inclusive
+HR1820	n	asm	no	glupavost	conservative
+HR1560	n	cds	no	moneylenders	inclusive
+HR471	n	svp	no	dosada	inclusive
+HR1426	n	cds	no	puk	inclusive
+HR1732	n	cds	no	tulum	inclusive
+HR195	n	is	yes	motiv škrtca	conservative
+HR477	n	pr	no	marva	inclusive
+HR2213	n	an	no	anurans	inclusive
+HR161	n	ddp	yes	budala	conservative
+HR987	n	re	no	djelo	inclusive
+HR2081	n	is	yes	prosjak	conservative
+HR57	a	an	no	tvrdoglave	inclusive
+HR212	n	svp	no	cheapskate	conservative
+HR590	n	ddp	yes	zatvorenik	inclusive
+HR647	n	cds	no	varalica	conservative
+HR580	n	cds	no	klike	inclusive
+HR279	n	or	no	kompresa	conservative
+HR524	n	qas	no	stol posao	inclusive
+HR456	n	dmc	yes	neradnik	conservative
+HR1725	n	qas	no	Župa	inclusive
+HR894	n	ddf	yes	crookback	inclusive
+HR273	n	ddp	yes	balvan	conservative
+HR1526	n	cds	no	krasnopisac	conservative
+HR1375	n	cds	no	glasnik dječak	inclusive
+HR796	n	cds	no	tračibaba	conservative
+HR834	n	an	no	muči	inclusive
+HR931	n	or	no	krastavci	inclusive
+HR538	n	cds	no	umišljenost	conservative
+HR1385	n	pr	no	kurvarluk	conservative
+HR109	n	qas	no	mnoštvo	inclusive
+HR1579	n	cds	no	natrag razgovarati	inclusive
+HR618	n	ddp	yes	usporiti	inclusive
+HR1677	n	cds	no	časnik	conservative
+HR158	n	asf	no	ludost	conservative
+HR1170	n	qas	no	poljoprivredni radnik	inclusive
+HR1254	n	svp	no	uzaludnosti	conservative
+HR1035	n	om	no	ipsilateral	inclusive
+HR160	n	an	no	glupan	conservative
+HR2059	n	dmc	yes	lingerer	conservative
+HR193	n	an	no	tvrdica	conservative
+HR88	n	asm	no	dodacima	inclusive
+HR273	n	ps	yes	balvan	conservative
+HR568	n	cds	no	cacography	inclusive
+HR343	n	cds	no	banda	conservative
+HR2054	n	cds	no	sveznalica	conservative
+HR1645	n	cds	no	moraliziranja	inclusive
+HR1325	v	asm	no	seksati se	conservative
+HR140	n	re	no	silovao	conservative
+HR1862	n	ps	yes	crncem	conservative
+HR1237	n	an	no	mrk pogled	inclusive
+HR1395	n	om	no	homoerotski	inclusive
+HR1179	n	cds	no	fašistički	conservative
+HR946	n	om	no	madam	inclusive
+HR2219	v	re	no	krasti	inclusive
+HR1404	n	ps	yes	hebraism	inclusive
+HR823	n	ddp	yes	nadriliječnik	conservative
+HR1181	n	cds	no	brzo jedan	inclusive
+HR557	n	qas	no	rulja	conservative
+HR259	n	qas	no	baronial	inclusive
+HR225	n	re	no	razbojništvo	inclusive
+HR263	n	qas	no	barokne arhitekture	inclusive
+HR340	n	re	no	mafija	inclusive
+HR474	n	an	no	govedo	inclusive
+HR1329	a	cds	no	nelegalan	inclusive
+HR1066	n	svp	no	gourmandizer	conservative
+HR434	n	cds	no	pobrkati	inclusive
+HR83	n	cds	no	papazjanija	inclusive
+HR319	n	ps	yes	beduinima	inclusive
+HR1673	n	svp	no	nepristojan	inclusive
+HR644	n	cds	no	chiseler	conservative
+HR1283	n	pr	no	pištolj moll	inclusive
+HR1603	n	ddp	yes	moronity	inclusive
+HR2125	n	an	no	pijetao	inclusive
+HR936	n	or	no	cucurbita maxima	inclusive
+HR652	n	qas	no	fukara	conservative
+HR811	v	cds	no	ćeretati	inclusive
+HR1466	n	cds	no	idolopoklonstvo	inclusive
+HR163	n	asm	no	igra karata ili domina	conservative
+HR1327	a	cds	no	protupravan	inclusive
+HR378	n	dmc	yes	zločestoća	conservative
+HR364	n	cds	no	alapača	conservative
+HR1383	n	pr	no	prostitucija	inclusive
+HR825	n	qas	no	smeća	inclusive
+HR654	n	an	no	psa	inclusive
+HR2283	n	qas	no	huberta	inclusive
+HR582	n	cds	no	vlastitoj	inclusive
+HR2002	v	cds	no	cjenjkati se	inclusive
+HR732	n	cds	no	samozadovoljstvo	inclusive
+HR1570	n	an	no	insekt	inclusive
+HR618	n	asm	no	usporiti	inclusive
+HR1515	n	cds	no	pompeznost	conservative
+HR357	n	cds	no	zlotvor	conservative
+HR1740	a	dmc	yes	pokvaren	conservative
+HR959	n	cds	no	demagog	conservative
+HR1733	n	cds	no	zabava	inclusive
+HR725	n	qas	no	pučana	inclusive
+HR1093	n	svp	no	ravenousness	conservative
+HR84	n	qas	no	omnium-gatherum	inclusive
+HR1371	n	re	no	ukradena imovina	inclusive
+HR941	n	cds	no	cut-up	conservative
+HR1441	n	qas	no	kućni poslovi	inclusive
+HR320	n	ps	yes	beduin	inclusive
+HR1747	n	an	no	krmče	inclusive
+HR275	n	an	no	osoba koja ispašta tuđe greške	conservative
+HR976	n	an	no	gusar	inclusive
+HR828	n	qas	no	starog željeza	inclusive
+HR1682	n	cds	no	mafiosi	conservative
+HR273	n	an	no	balvan	conservative
+HR492	n	asm	no	smeđe	inclusive
+HR1372	n	re	no	otuđena imovina	inclusive
+HR213	n	is	yes	škrtac	conservative
+HR333	n	dmc	yes	omalovažava	conservative
+HR616	n	an	no	papak	conservative
+HR1506	n	an	no	nesposoban	conservative
+HR1007	n	cds	no	prljavština	inclusive
+HR1713	n	cds	no	chawbacon	conservative
+HR925	n	asf	no	pizda	conservative
+HR1059	n	qas	no	štenara	inclusive
+HR2345	n	pa	yes	uredski radnik	inclusive
+HR24	n	re	no	zlorabiti	inclusive
+HR1286	n	cds	no	tamničar	inclusive
+HR1512	n	an	no	neumoljivost	conservative
+HR30	n	cds	no	posrednik	inclusive
+HR675	n	cds	no	klanova	inclusive
+HR550	n	cds	no	tako i tako	conservative
+HR1247	n	svp	no	srdžba	inclusive
+HR1355	n	cds	no	jeretik	conservative
+HR827	n	qas	no	smeće	inclusive
+HR1422	n	ps	yes	izraelit	inclusive
+HR258	n	an	no	kuče	inclusive
+HR198	n	ddp	yes	zaostalost	inclusive
+HR1670	n	cds	no	počinitelj	inclusive
+HR1284	n	cds	no	korekcije časnika	inclusive
+HR652	n	ddp	yes	fukara	conservative
+HR114	n	an	no	anguilla	inclusive
+HR398	n	om	no	hulja	inclusive
+HR1266	n	asm	no	bobom	inclusive
+HR328	n	cds	no	fabrikator	conservative
+HR1271	n	asm	no	hrvatski grah	inclusive
+HR458	n	svp	no	šeprtlja	conservative
+HR457	n	ddp	yes	tužno vreća	conservative
+HR1267	n	asm	no	polje grah	inclusive
+HR217	n	qas	no	testisa	inclusive
+HR1199	n	asm	no	meke ray	inclusive
+HR230	n	qas	no	grubijan	conservative
+HR274	n	ps	yes	prostak	conservative
+HR2232	n	an	no	pijavica	inclusive
+HR1311	n	dmc	yes	glupan-off	conservative
+HR1366	n	re	no	nepoštena dobit	inclusive
+HR2071	v	cds	no	sasušivati se	inclusive
+HR1145	n	dmc	yes	provesti sve-	inclusive
+HR1421	n	ps	yes	hebrej	inclusive
+HR36	n	pa	yes	fakultet član	inclusive
+HR350	n	re	no	bitanga	conservative
+HR285	n	pr	no	prostituirati	conservative
+HR2316	n	re	no	seksualnih zločina	inclusive
+HR1687	n	ps	yes	ostrogotske	inclusive
+HR104	n	ddp	yes	analfabetizam	inclusive
+HR1260	n	dmc	yes	član organizovane bande	inclusive
+HR1595	n	svp	no	zavist	inclusive
+HR507	n	qas	no	poslovna žena	inclusive
+HR355	n	cds	no	odmetnik	inclusive
+HR1072	n	pa	yes	vrata straže	inclusive
+HR1564	n	cds	no	zajmodavac	conservative
+HR1916	n	re	no	ubojstva	inclusive
+HR1434	n	qas	no	kuća slikar	inclusive
+HR1175	n	qas	no	granger	inclusive
+HR1119	n	qas	no	amaterski	inclusive
+HR636	n	re	no	libeler	conservative
+HR2064	v	cds	no	venuti	inclusive
+HR1100	n	dmc	yes	delikt	inclusive
+HR1481	n	ddf	yes	fizički izazvan	inclusive
+HR154	n	ddp	yes	stupidnost	conservative
+HR1716	n	qas	no	endoparazite	inclusive
+HR223	n	dmc	yes	bandit	conservative
+HR2386	n	cds	no	conspiracism	inclusive
+HR1799	n	an	no	selachii	inclusive
+HR227	n	dmc	yes	barbarski	conservative
+HR425	n	pa	yes	grobar	inclusive
+HR369	n	dmc	yes	zloća	conservative
+HR309	n	cds	no	izmišljotina	inclusive
+HR1986	v	qas	no	brljati	conservative
+HR551	n	an	no	lowlife	conservative
+HR122	n	ddp	yes	infauna	inclusive
+HR2058	v	qas	no	zakrpavati	inclusive
+HR437	n	cds	no	flub	inclusive
+HR793	n	or	no	gay	conservative
+HR540	n	svp	no	nadmenost	conservative
+HR1011	n	cds	no	prljavštine	inclusive
+HR539	n	cds	no	taština	conservative
+HR17	n	re	no	financijske zloporabe	inclusive
+HR1015	n	svp	no	gađenje	inclusive
+HR945	n	cds	no	hoaxer	conservative
+HR2287	a	ddp	yes	glup	conservative
+HR1908	n	an	no	krpelj	inclusive
+HR872	n	cds	no	onanist	conservative
+HR2132	n	cds	no	beba	inclusive
+HR935	n	or	no	cuke	inclusive
+HR1516	n	cds	no	ostentatiousness	conservative
+HR1260	n	cds	no	član organizovane bande	inclusive
+HR458	n	dmc	yes	šeprtlja	conservative
+HR2060	n	dmc	yes	loiterer	conservative
+HR357	n	cds	no	zlotvor	inclusive
+HR65	n	an	no	lijenčina	conservative
+HR122	n	an	no	infauna	inclusive
+HR622	n	ddp	yes	changeling	inclusive
+HR793	n	om	no	gay	inclusive
+HR1678	n	cds	no	policajaca	inclusive
+HR1186	n	om	no	koromač	inclusive
+HR2348	n	om	no	transvestit	inclusive
+HR1551	a	is	yes	nesretni	inclusive
+HR480	n	an	no	volovi	inclusive
+HR668	n	cds	no	klana	inclusive
+HR1765	n	cds	no	izvjestilac	inclusive
+HR1542	n	dmc	yes	pseudo	conservative
+HR229	n	cds	no	barbar	conservative
+HR2427	n	ps	yes	cigani	inclusive
+HR955	n	dmc	yes	prijevare	conservative
+HR718	n	cds	no	muka	conservative
+HR1991	v	qas	no	prtljati	conservative
+HR168	n	or	no	panj	conservative
+HR2167	n	re	no	pljačkali	inclusive
+HR1478	n	ddf	yes	onemogućiti	inclusive
+HR1787	n	cds	no	pljačkaš	conservative
+HR243	n	pa	yes	zagovornik	inclusive
+HR1086	n	dmc	yes	vagabond	inclusive
+HR884	n	an	no	krokodili	inclusive
+HR1444	n	qas	no	baraka	inclusive
+HR581	n	cds	no	klika	inclusive
+HR1165	n	cds	no	pandar	conservative
+HR791	n	om	no	homoseksualac	inclusive
+HR1735	n	dmc	yes	zloću	inclusive
+HR188	n	svp	no	pohlepnost	inclusive
+HR917	n	qas	no	prilagođavanje	inclusive
+HR786	n	or	no	peder	conservative
+HR1176	n	qas	no	sodbuster	inclusive
+HR2139	a	ddf	yes	slijep	inclusive
+HR1420	n	ps	yes	Židov	inclusive
+HR12	n	qas	no	sljedbenici	inclusive
+HR2068	v	cds	no	sasušiti se	inclusive
+HR1508	n	ddp	yes	neznanje	conservative
+HR419	n	cds	no	po-udarac	inclusive
+HR408	n	cds	no	lupež	inclusive
+HR457	n	cds	no	tužno vreća	conservative
+HR1356	n	re	no	grand theft	inclusive
+HR558	n	cds	no	negativca	conservative
+HR392	n	qas	no	klade baruna	inclusive
+HR160	n	cds	no	glupan	conservative
+HR1303	n	asf	no	maca	conservative
+HR2183	a	om	no	raznolik	inclusive
+HR105	n	an	no	svjetina	conservative
+HR1778	n	qas	no	retoričko	inclusive
+HR2215	n	an	no	bufo	inclusive
+HR1931	n	cds	no	homunculi	inclusive
+HR1426	n	cds	no	puk	conservative
+HR1685	n	re	no	màfija	inclusive
+HR2110	n	re	no	plagiarise	inclusive
+HR4	n	svp	no	lijenost	conservative
+HR592	n	cds	no	prtljage vlak	inclusive
+HR354	n	re	no	banditti	inclusive
+HR164	n	ddp	yes	neznalica	conservative
+HR663	n	dmc	yes	loša osoba	conservative
+HR14	n	re	no	zlostavljanja	inclusive
+HR2351	n	om	no	cross-dresser	inclusive
+HR644	n	re	no	chiseler	inclusive
+HR1486	n	ddp	yes	gluposti	conservative
+HR1112	n	asm	no	erekcija	inclusive
+HR278	n	ddp	yes	glupa osoba	conservative
+HR1187	n	or	no	finocchio	inclusive
+HR606	n	cds	no	kockarnica	inclusive
+HR454	n	ddp	yes	fumbler	conservative
+HR111	n	an	no	mugilidae	inclusive
+HR473	n	an	no	grlo	inclusive
+HR869	n	ddp	yes	kretenizma	inclusive
+HR1649	n	an	no	mosquitoe	inclusive
+HR697	n	an	no	kòza	inclusive
+HR261	n	qas	no	baruni	inclusive
+HR440	n	cds	no	neuspjeh	inclusive
+HR948	n	om	no	dama	inclusive
+HR174	n	an	no	magarac	inclusive
+HR989	n	cds	no	zakon-razbijanje	inclusive
+HR1943	n	dmc	yes	pehist	inclusive
+HR1179	n	ps	yes	fašistički	inclusive
+HR2036	v	cds	no	umrijeti	inclusive
+HR982	n	cds	no	kriminalno ponašanje	inclusive
+HR870	n	qas	no	posade	inclusive
+HR618	n	cds	no	usporiti	inclusive
+HR1353	n	an	no	stari konj	inclusive
+HR874	n	asm	no	nikogović	conservative
+HR689	n	an	no	kozje mlijeko	inclusive
+HR1975	v	qas	no	uništiti	conservative
+HR1546	n	cds	no	trut	conservative
+HR1132	n	dmc	yes	iskvarenost	conservative
+HR1568	n	cds	no	loansharking	inclusive
+HR358	n	re	no	izvan zakona	inclusive
+HR466	n	an	no	zooerastia	conservative
+HR759	n	asm	no	jebeni	conservative
+HR1216	n	dmc	yes	luda	inclusive
+HR307	n	cds	no	laž	conservative
+HR656	n	an	no	familiaris	inclusive
+HR2419	n	dmc	yes	izdajnik	conservative
+HR1464	n	cds	no	idol štovanje	inclusive
+HR2430	n	qas	no	kolibi	inclusive
+HR2240	n	an	no	bubašvaba	inclusive
+HR721	n	cds	no	problema	conservative
+HR971	n	re	no	razbojnik	conservative
+HR1369	n	re	no	ukradeno vlasništvo	inclusive
+HR185	n	svp	no	pohlepa	inclusive
+HR1417	n	ps	yes	židovstva	inclusive
+HR618	n	ddp	yes	usporiti	conservative
+HR2175	n	re	no	opljačkan	inclusive
+HR260	n	qas	no	barun	inclusive
+HR2116	n	re	no	pirati	inclusive
+HR1341	n	an	no	svinje	inclusive
+HR221	n	asm	no	teste	inclusive
+HR1449	n	qas	no	koliba	inclusive
+HR1941	n	dmc	yes	nesretnik	inclusive
+HR340	n	cds	no	mafija	conservative
+HR557	n	cds	no	rulja	conservative
+HR1831	n	cds	no	zbunjujuće pitanje	conservative
+HR1521	n	cds	no	učitelj	inclusive
+HR702	n	svp	no	tightfistedness	conservative
+HR1737	a	dmc	yes	zla	conservative
+HR2066	v	cds	no	smežurati se	inclusive
+HR1043	n	om	no	midclavicular liniji	inclusive
+HR1181	n	cds	no	brzo jedan	conservative
+HR829	n	an	no	parazitske stjenice	inclusive
+HR229	n	rci	yes	barbar	conservative
+HR503	n	qas	no	seljaka	inclusive
+HR966	n	pr	no	priležništvo	inclusive
+HR1836	n	ps	yes	Žuta (mongolidna) rasa	conservative
+HR1160	n	cds	no	fanatism	conservative
+HR1066	n	svp	no	gourmandizer	inclusive
+HR1465	n	cds	no	lažnog idola	inclusive
+HR249	n	pa	yes	odvjetnik	inclusive
+HR297	n	an	no	floozie	conservative
+HR2400	n	an	no	larva	inclusive
+HR231	n	ps	yes	barbara	conservative
+HR1136	n	dmc	yes	nemoral	conservative
+HR42	n	pa	yes	dopisni član	inclusive
+HR1819	n	asm	no	tupoglavost	conservative
+HR200	n	cds	no	sportske kuća	inclusive
+HR254	n	pa	yes	pravnik	inclusive
+HR1219	n	cds	no	glupiranje	inclusive
+HR407	n	cds	no	džukela	inclusive
+HR391	n	qas	no	velikaš	inclusive
+HR558	n	an	no	negativca	conservative
+HR1680	n	re	no	cosa nostra	inclusive
+HR617	n	cds	no	bolećivost	conservative
+HR717	n	cds	no	tegoba	conservative
+HR1236	n	cds	no	zidarstva	inclusive
+HR612	n	is	yes	izgnanik	inclusive
+HR2390	n	om	no	drag kraljice	inclusive
+HR1423	n	cds	no	krdo	inclusive
+HR1830	n	cds	no	mystifier	conservative
+HR1992	v	qas	no	prčkati	conservative
+HR638	n	re	no	klevetnik	conservative
+HR2244	n	an	no	žohari	inclusive
+HR2394	n	dmc	yes	skitanje	inclusive
+HR1727	n	an	no	papiga	inclusive
+HR160	n	ps	yes	glupan	conservative
+HR2163	n	re	no	otima	inclusive
+HR938	n	cds	no	odbaciti	conservative
+HR1637	n	an	no	mekušci	inclusive
+HR648	n	cds	no	grifter	inclusive
+HR2040	n	or	no	murphy	inclusive
+HR1763	n	cds	no	superbia	conservative
+HR456	n	ddp	yes	neradnik	conservative
+HR1903	n	re	no	teròrist	inclusive
+HR1373	n	qas	no	čankoliz	conservative
+HR1532	n	dmc	yes	nemorala	inclusive
+HR1285	n	cds	no	stražar	inclusive
+HR2271	n	an	no	sciaenops ocellatus	inclusive
+HR2401	n	cds	no	kukavištvo	inclusive
+HR2329	n	re	no	terorizam	inclusive
+HR1365	n	re	no	ukradena roba	inclusive
+HR1947	n	cds	no	lihvarenja	inclusive
+HR152	n	or	no	tikva	inclusive
+HR923	n	cds	no	momčić	inclusive
+HR325	n	cds	no	lagati	conservative
+HR1315	n	dmc	yes	nespretnjaković	conservative
+HR2237	n	an	no	Žohari	inclusive
+HR1207	n	dmc	yes	krivotvorine	inclusive
+HR1865	n	ps	yes	jigaboo	conservative
+HR851	n	an	no	vamper	conservative
+HR165	n	or	no	govnar	conservative
+HR1001	n	cds	no	peni strašno	inclusive
+HR2409	n	re	no	nasilje	inclusive
+HR535	n	svp	no	bahatost	conservative
+HR448	n	cds	no	bragger	conservative
+HR106	n	ddp	yes	gomila	conservative
+HR562	n	is	yes	zločinačka	conservative
+HR479	n	an	no	krave	inclusive
+HR808	n	cds	no	kukavičluk	conservative
+HR1731	n	svp	no	škrt	inclusive
+HR241	n	pa	yes	posebna molba	inclusive
+HR649	n	cds	no	cheekiness	conservative
+HR2288	a	ddp	yes	neinteligentan	conservative
+HR1222	n	asm	no	preputium	inclusive
+HR282	n	cds	no	pudden-glava	conservative
+HR1686	n	re	no	mafije	inclusive
+HR307	n	cds	no	laž	inclusive
+HR378	n	cds	no	zločestoća	conservative
+HR686	n	an	no	capra	inclusive
+HR333	n	cds	no	omalovažava	conservative
+HR1037	n	om	no	keister	inclusive
+HR1364	n	re	no	nepošten dobitak	inclusive
+HR1852	n	ddf	yes	vočić	conservative
+HR1458	n	cds	no	crooners	inclusive
+HR2304	n	re	no	reper	conservative
+HR706	n	qas	no	iluzija	inclusive
+HR1742	n	asm	no	grašak	inclusive
+HR168	n	asf	no	panj	conservative
+HR511	n	qas	no	građanin ljudi	inclusive
+HR792	n	or	no	homophile	conservative
+HR652	n	cds	no	fukara	conservative
+HR235	n	qas	no	prodavač	inclusive
+HR1978	v	qas	no	buniti se	conservative
+HR2411	n	re	no	sila	inclusive
+HR695	n	an	no	kozjeg mlijeka	inclusive
+HR2081	n	is	yes	prosjak	inclusive
+HR352	n	cds	no	cesta agenta	conservative
+HR972	n	an	no	pillager	inclusive
+HR707	n	qas	no	talasanje	inclusive
+HR2368	n	asm	no	ptice	inclusive
+HR624	n	pr	no	kuja	conservative
+HR1795	n	ps	yes	mestik	conservative
+HR1377	n	pr	no	kurvanje	inclusive
+HR305	n	cds	no	laže	inclusive
+HR924	n	asf	no	twat	conservative
+HR559	n	is	yes	nitkov	conservative
+HR767	n	asm	no	shtup	conservative
+HR1819	n	ddp	yes	tupoglavost	conservative
+HR2331	n	ddp	yes	mrzovoljac	conservative
+HR1783	n	qas	no	retoričar	inclusive
+HR1064	n	svp	no	gurman	conservative
+HR1793	n	ps	yes	mestizos	conservative
+HR1804	n	an	no	mikroba	inclusive
+HR1240	n	cds	no	fundamentalizam	inclusive
+HR210	n	cds	no	burdelj	inclusive
+HR2321	n	cds	no	conventicle	inclusive
+HR842	n	an	no	polukrilci	inclusive
+HR369	n	dmc	yes	zloća	inclusive
+HR231	n	pa	yes	barbara	conservative
+HR2264	n	ddp	yes	blesavost	inclusive
+HR1182	n	re	no	točno	inclusive
+HR150	n	cds	no	lukavost	conservative
+HR405	n	cds	no	đukela	inclusive
+HR1692	n	an	no	megascops	inclusive
+HR1033	n	om	no	trbušni	inclusive
+HR1223	n	asm	no	kožice	inclusive
+HR1221	n	asm	no	praeputium	inclusive
+HR453	n	dmc	yes	bumbler	conservative
+HR1318	n	cds	no	reakcija	conservative
+HR1054	n	om	no	tabani	inclusive
+HR1425	n	cds	no	narodne mase	conservative
+HR1648	n	an	no	komarci	inclusive
+HR2103	n	cds	no	religioznosti	inclusive
+HR635	n	re	no	vilifier	conservative
+HR1939	n	ddf	yes	gadnost	inclusive
+HR413	n	ddp	yes	mater	conservative
+HR347	n	cds	no	skupina	inclusive
+HR1787	n	dmc	yes	pljačkaš	conservative
+HR1013	n	svp	no	odbojnost	inclusive
+HR219	n	qas	no	sjemenik	inclusive
+HR709	n	an	no	raunch	conservative
+HR846	n	cds	no	samovoljnost	conservative
+HR430	n	dmc	yes	rakehell	conservative
+HR2053	n	cds	no	know-it-sve	conservative
+HR1770	n	pr	no	rattus	inclusive
+HR958	n	cds	no	rulja-rouser	conservative
+HR973	n	an	no	looter	inclusive
+HR1217	n	dmc	yes	pajac	inclusive
+HR1960	n	an	no	lèšinār	inclusive
+HR162	n	asm	no	tikvan	conservative
+HR85	n	cds	no	parčići	inclusive
+HR359	n	an	no	jarac	inclusive
+HR1821	n	pa	yes	sheepherder	inclusive
+HR80	n	asm	no	budalaština	conservative
+HR166	n	ddp	yes	fuckhead	conservative
+HR1407	n	ps	yes	židovskoj tradiciji	inclusive
+HR2050	n	cds	no	pedantan	conservative
+HR1075	n	dmc	yes	delinkvent	conservative
+HR1665	n	an	no	gubica	inclusive
+HR1842	n	pr	no	član višeg društva	inclusive
+HR125	n	ddp	yes	animirati bića	inclusive
+HR919	n	qas	no	usklađivanje	inclusive
+HR2209	n	an	no	bezrepac	inclusive
+HR1383	n	pr	no	prostitucija	conservative
+HR2249	n	cds	no	brod drugog reda	conservative
+HR1053	n	om	no	stražnji	inclusive
+HR2358	n	om	no	transvestitizam	inclusive
+HR2300	n	ddp	yes	hooey	inclusive
+HR896	n	ps	yes	križanac	inclusive
+HR2088	n	cds	no	bellyacher	conservative
+HR2284	n	an	no	zmija u travi	conservative
+HR1826	n	asm	no	jeerer	conservative
+HR2399	n	an	no	crve	inclusive
+HR1400	n	om	no	homosexualism	inclusive
+HR817	n	cds	no	Šarlatan	conservative
+HR1489	n	is	yes	siromah	inclusive
+HR262	n	qas	no	baroqueness	inclusive
+HR796	n	ddp	yes	tračibaba	conservative
+HR51	n	pa	yes	academicism	inclusive
+HR308	n	qas	no	laži	conservative
+HR1669	n	svp	no	luxuria	inclusive
+HR719	n	cds	no	neprilika	conservative
+HR318	n	cds	no	zbrkanost	inclusive
+HR642	n	cds	no	camorra	inclusive
+HR2428	n	ps	yes	romske	inclusive
+HR59	n	om	no	sodomiju	inclusive
+HR1012	n	svp	no	averzija	inclusive
+HR799	n	cds	no	rumourmonger	conservative
+HR431	n	dmc	yes	raskalašnik	conservative
+HR309	n	qas	no	izmišljotina	conservative
+HR423	n	pa	yes	pogrebnik	inclusive
+HR623	n	asf	no	changelings	conservative
+HR2305	n	re	no	nasilnik	conservative
+HR1435	n	qas	no	slikar i dekorater	inclusive
+HR1858	n	cds	no	idiolatry	inclusive
+HR643	n	cds	no	chiseller	inclusive
+HR1820	n	ddp	yes	glupavost	conservative
+HR2149	n	pr	no	hogwash	conservative
+HR949	n	om	no	gospođa	inclusive
+HR1702	n	om	no	pederastija	inclusive
+HR622	n	asf	no	changeling	conservative
+HR307	n	qas	no	laž	conservative
+HR630	n	re	no	difamiranje	inclusive
+HR1711	n	cds	no	rube	conservative
+HR469	n	svp	no	dosade	inclusive
+HR169	n	ddp	yes	ne znaju ništa	conservative
+HR458	n	cds	no	šeprtlja	conservative
+HR399	n	cds	no	ljenivac	conservative
+HR162	n	or	no	tikvan	conservative
+HR1167	n	cds	no	svodnik	conservative
+HR2052	n	cds	no	svestranost	conservative
+HR1734	n	dmc	yes	zla	inclusive
+HR2129	n	an	no	domaće piletine	inclusive
+HR561	n	re	no	villainess	conservative
+HR696	n	an	no	koza	inclusive
+HR2248	n	cds	no	falsifikator	conservative
+HR596	n	an	no	carcharodon	inclusive
+HR305	n	cds	no	laže	conservative
+HR542	n	cds	no	osornost	conservative
+HR1874	n	ps	yes	crne žene	inclusive
+HR2265	n	ddp	yes	nerazboritost	inclusive
+HR953	n	qas	no	četkica za mazanje	conservative
+HR1427	n	cds	no	super neopran	conservative
+HR824	n	cds	no	komunalnog otpada	inclusive
+HR723	n	qas	no	običnih ljudi	inclusive
+HR763	n	asm	no	uvaljati u sijenu	conservative
+HR2435	n	an	no	obični ćuk	inclusive
+HR1245	n	cds	no	fundamentalista	inclusive
+HR950	n	om	no	dame	inclusive
+HR556	n	cds	no	zgubidanski	conservative
+HR541	n	svp	no	nadutost	conservative
+HR2106	n	cds	no	ručni rad	conservative
+HR720	n	cds	no	problem	conservative
+HR2162	n	re	no	oteti	inclusive
+HR2187	n	cds	no	groveler	conservative
+HR1261	n	cds	no	fašist	conservative
+HR23	n	re	no	maltretiranje	inclusive
+HR1295	n	asf	no	stidne dlake	inclusive
+HR467	n	an	no	zlobnost	conservative
+HR855	n	an	no	namiguša	conservative
+HR156	n	an	no	betise	conservative
+HR1425	n	cds	no	narodne mase	inclusive
+HR1932	n	dmc	yes	homunculus	inclusive
+HR1952	n	an	no	ljutica	inclusive
+HR553	n	dmc	yes	ništarija	conservative
+HR944	n	cds	no	šaljivac	conservative
+HR1474	n	ddf	yes	invaliditetom	inclusive
+HR1680	n	cds	no	cosa nostra	conservative
+HR1887	n	ps	yes	azijski	inclusive
+HR1600	n	svp	no	angriness	inclusive
+HR1067	n	svp	no	hrana	inclusive
+HR1729	n	an	no	papige	inclusive
+HR1519	n	cds	no	učiteljica	conservative
+HR101	n	ddp	yes	analfabet	inclusive
+HR80	n	cds	no	budalaština	conservative
+HR2413	n	an	no	vipera	inclusive
+HR1652	n	pr	no	moljac	inclusive
+HR98	n	cds	no	fanatizam	conservative
+HR412	n	ddp	yes	kurvin sin	conservative
+HR50	n	ddp	yes	mentalna retardacija	inclusive
+HR1028	n	om	no	pozadi	inclusive
+HR1244	n	cds	no	fundamentalizma	inclusive
+HR800	n	an	no	fiziognomija	inclusive
+HR71	n	qas	no	partner u zločinu	inclusive
+HR710	n	an	no	prostakluk	conservative
+HR726	n	cds	no	cockup	inclusive
+HR2164	n	re	no	napad i pljačkanje	inclusive
+HR11	n	svp	no	apatični	inclusive
+HR361	n	an	no	bizoni	inclusive
+HR943	n	cds	no	tricker	conservative
+HR345	n	cds	no	grupa	inclusive
+HR1775	n	cds	no	relikvije	inclusive
+HR619	n	cds	no	kreten	inclusive
+HR2038	n	or	no	novog krumpira	inclusive
+HR2147	n	pr	no	labav žena	conservative
+HR125	n	an	no	animirati bića	inclusive
+HR1138	n	dmc	yes	siromašnima vrag	inclusive
+HR45	n	ddp	yes	intelektualno onemogućen	inclusive
+HR161	n	asm	no	budala	conservative
+HR2197	n	qas	no	grandioznost	inclusive
+HR1107	n	re	no	prijestupnika	inclusive
+HR902	n	ps	yes	križana pasmina	inclusive
+HR2374	n	qas	no	olova	inclusive
+HR311	n	cds	no	kicoša	inclusive
+HR1379	n	pr	no	prostituiranje	inclusive
+HR2106	n	asm	no	ručni rad	conservative
+HR353	n	dmc	yes	zločinac	inclusive
+HR1084	n	cds	no	deseci	inclusive
+HR621	n	ddp	yes	imbecil	inclusive
+HR102	n	ddp	yes	analphabetic	inclusive
+HR1989	v	qas	no	sfušati	conservative
+HR1482	n	ddp	yes	arsehole	conservative
+HR531	n	ps	yes	bugarin	inclusive
+HR28	n	cds	no	broker	inclusive
+HR803	n	an	no	moo-krava	inclusive
+HR2221	v	re	no	otuđivati	inclusive
+HR527	n	svp	no	oholost	conservative
+HR1184	n	re	no	iznude	inclusive
+HR2293	a	ddf	yes	odbojan	conservative
+HR1314	n	svp	no	dobro-za-nula	conservative
+HR614	n	is	yes	izgnan	inclusive
+HR713	n	asm	no	pijétao	inclusive
+HR802	n	ddp	yes	informator	conservative
+HR2102	n	cds	no	religioznost	inclusive
+HR2325	n	re	no	terorizma	inclusive
+HR1023	n	dmc	yes	folirant	conservative
+HR135	n	re	no	klevetanje	inclusive
+HR234	n	qas	no	trgovac	inclusive
+HR1902	n	an	no	brent	inclusive
+HR639	n	re	no	maligner	conservative
+HR298	n	pr	no	rentboy	conservative
+HR89	n	asm	no	izdanak	inclusive
+HR1552	a	is	yes	žalostan	inclusive
+HR981	n	re	no	zločine	inclusive
+HR226	n	cds	no	grmalj	conservative
+HR195	n	svp	no	motiv škrtca	conservative
+HR1161	n	cds	no	svodnika	conservative
+HR165	n	ddp	yes	govnar	conservative
+HR1280	n	asf	no	vaginalni	conservative
+HR1951	n	ps	yes	vandalskog	inclusive
+HR1507	n	an	no	nesposobna osoba	conservative
+HR989	n	re	no	zakon-razbijanje	inclusive
+HR58	n	om	no	analnog seksa	inclusive
+HR1472	n	an	no	strix varia	inclusive
+HR1116	n	an	no	escargots	inclusive
+HR91	n	asm	no	maxilliped	inclusive
+HR162	n	asf	no	tikvan	conservative
+HR550	n	dmc	yes	tako i tako	inclusive
+HR1290	n	cds	no	klepetalo	conservative
+HR1851	n	cds	no	kradljivac	inclusive
+HR768	n	an	no	zec	inclusive
+HR439	n	cds	no	greška	inclusive
+HR1469	a	is	yes	škrt	conservative
+HR1367	n	re	no	prljavi novac	inclusive
+HR2020	v	is	yes	zamoliti	inclusive
+HR354	n	cds	no	banditti	inclusive
+HR2256	n	an	no	šakal	inclusive
+HR2082	n	is	yes	odrpanac	conservative
+HR1048	n	om	no	guzica	inclusive
+HR154	n	asm	no	stupidnost	conservative
+HR276	n	ps	yes	mekana na dodir	conservative
+HR1443	n	qas	no	daščara	inclusive
+HR1249	n	svp	no	gnjev	conservative
+HR2131	n	cds	no	bebe	inclusive
+HR815	v	cds	no	brbljati	inclusive
+HR825	n	cds	no	smeća	inclusive
+HR1260	n	re	no	član organizovane bande	inclusive
+HR529	n	svp	no	drskost	conservative
+HR154	n	an	no	stupidnost	conservative
+HR1319	n	cds	no	reakcionaran	conservative
+HR349	n	dmc	yes	skitnica	inclusive
+HR604	n	cds	no	mrcina	inclusive
+HR939	n	cds	no	odstrel	conservative
+HR434	n	qas	no	pobrkati	inclusive
+HR2376	n	an	no	prijevara	conservative
+HR1838	n	ps	yes	Žuta rasa	conservative
+HR67	n	qas	no	sljednik	inclusive
+HR2298	a	ddp	yes	mogućnosti	inclusive
+HR671	n	cds	no	clann	inclusive
+HR1873	n	ps	yes	negroids	inclusive
+HR857	n	asm	no	credulousness	conservative
+HR1320	v	asm	no	voditi ljubav	conservative
+HR814	v	cds	no	zvocati	inclusive
+HR368	n	an	no	lopovluk	conservative
+HR1101	n	pa	yes	zaposlenika	inclusive
+HR273	n	asf	no	balvan	conservative
+HR1653	n	pr	no	moljci	inclusive
+HR32	n	pa	yes	akademika	inclusive
+HR648	n	dmc	yes	grifter	conservative
+HR161	n	or	no	budala	conservative
+HR401	n	an	no	aljkava osoba	conservative
+HR1216	n	cds	no	luda	inclusive
+HR906	n	cds	no	križanja	inclusive
+HR902	n	cds	no	križana pasmina	inclusive
+HR303	n	an	no	najam dječak	conservative
+HR1701	n	om	no	pederastic	inclusive
+HR123	n	an	no	animalia	inclusive
+HR939	n	qas	no	odstrel	conservative
+HR807	n	cds	no	kukavica	conservative
+HR1408	n	ps	yes	židovska religija	inclusive
+HR155	n	an	no	bedastoća	conservative
+HR401	n	cds	no	aljkava osoba	conservative
+HR1009	n	cds	no	tla	inclusive
+HR2433	n	cds	no	razbojnika	inclusive
+HR112	n	an	no	jegulja	inclusive
+HR1328	a	cds	no	bespravan	inclusive
+HR1452	n	cds	no	wheeler dealer	conservative
+HR1767	n	pr	no	Štakor	inclusive
+HR978	n	asf	no	doofus	conservative
+HR878	n	an	no	krokodil	inclusive
+HR1567	n	cds	no	kredita sharks	inclusive
+HR1527	n	cds	no	scrawler	conservative
+HR1926	n	re	no	stavljanjem na smrt	inclusive
+HR79	n	cds	no	smicalica	inclusive
+HR2172	n	re	no	pljačke	inclusive
+HR230	n	pa	yes	grubijan	conservative
+HR1127	n	dmc	yes	pristojnost	inclusive
+HR2087	n	cds	no	whiner	conservative
+HR276	n	cds	no	mekana na dodir	conservative
+HR1455	n	an	no	hijena	inclusive
+HR849	n	svp	no	tanha	inclusive
+HR773	n	cds	no	zavjera šutnje	inclusive
+HR1288	n	cds	no	zatvorski čuvar	inclusive
+HR327	n	dmc	yes	fibber	conservative
+HR66	n	qas	no	pristalica	inclusive
+HR925	n	or	no	pizda	conservative
+HR377	n	cds	no	đavoljstvo	conservative
+HR34	n	pa	yes	akademik	inclusive
+HR975	n	an	no	otimač	inclusive
+HR1636	n	cds	no	zabušant	conservative
+HR1803	n	an	no	mikrob	inclusive
+HR142	n	re	no	silovanje	conservative
+HR487	n	ddp	yes	oštećenja mozga	inclusive
+HR2367	n	asm	no	avifauna	inclusive
+HR2234	n	an	no	pijavice	inclusive
+HR2251	n	an	no	aureus	inclusive
+HR160	n	or	no	glupan	conservative
+HR634	n	re	no	calunnia	inclusive
+HR404	n	cds	no	đukac	inclusive
+HR156	n	asf	no	betise	conservative
+HR1585	n	cds	no	matcher	inclusive
+HR87	n	qas	no	zbrka	inclusive
+HR2432	n	cds	no	culchie	inclusive
+HR1270	n	asm	no	boba	inclusive
+HR1403	n	om	no	homoseksualnost	inclusive
+HR399	n	an	no	ljenivac	conservative
+HR1563	n	cds	no	kamatara	inclusive
+HR1358	n	cds	no	lopovi	inclusive
+HR39	n	pa	yes	profesor	inclusive
+HR818	n	cds	no	šarlatan	conservative
+HR193	n	cds	no	tvrdica	inclusive
+HR467	n	ddp	yes	zlobnost	conservative
+HR2152	n	pr	no	besmislica	conservative
+HR795	n	cds	no	rumormonger	conservative
+HR40	n	qas	no	amateurishness	conservative
+HR159	n	asf	no	idiotarija	conservative
+HR329	n	pa	yes	portir	inclusive
+HR157	n	ddp	yes	glupost	inclusive
+HR450	n	cds	no	netrpeljivost	conservative
+HR756	n	svp	no	seksualna želja	inclusive
+HR647	n	re	no	varalica	inclusive
+HR1664	n	an	no	njuška	inclusive
+HR2263	n	ddp	yes	lakoumnost	inclusive
+HR643	n	cds	no	chiseller	conservative
+HR202	n	cds	no	bordello	inclusive
+HR60	n	om	no	analni seks	inclusive
+HR1736	a	dmc	yes	zao	conservative
+HR1529	a	dmc	yes	nemoralan	conservative
+HR170	n	an	no	neintelektualac	conservative
+HR98	n	dmc	yes	fanatizam	conservative
+HR444	n	cds	no	vaunter	conservative
+HR1227	n	cds	no	mason	inclusive
+HR672	n	cds	no	pod-klan	inclusive
+HR1809	n	an	no	poen-cika	conservative
+HR127	n	ddp	yes	Životinjski svijet	inclusive
+HR2128	n	an	no	kokošje meso	inclusive
+HR2143	n	cds	no	advokatura	inclusive
+HR2252	n	an	no	Čagalj	inclusive
+HR313	n	cds	no	fop	inclusive
+HR362	n	ddp	yes	blabbermouth	conservative
+HR1825	n	pa	yes	sheepherders	inclusive
+HR984	n	re	no	kriminalne aktivnosti	inclusive
+HR123	n	ddp	yes	animalia	inclusive
+HR1753	n	asm	no	štap	inclusive
+HR1840	n	ps	yes	mongoloidi	conservative
+HR1672	n	cds	no	počinitelja	inclusive
+HR168	n	ddp	yes	panj	conservative
+HR77	n	cds	no	psina	inclusive
+HR1985	v	qas	no	pogriješiti	conservative
+HR786	n	om	no	peder	conservative
+HR291	n	pr	no	aljkavo žena	conservative
+HR2111	n	re	no	piratstva	inclusive
+HR1788	n	an	no	scorpionfish	inclusive
+HR1439	n	svp	no	proždrljivost	inclusive
+HR1402	n	om	no	istospolne	inclusive
+HR1493	n	is	yes	nestašica	inclusive
+HR56	n	cds	no	samopoštovanje	conservative
+HR1259	n	cds	no	mafijaša	conservative
+HR1950	n	ps	yes	vandal	inclusive
+HR1257	n	cds	no	gangster	inclusive
+HR80	n	dmc	yes	budalaština	inclusive
+HR1528	n	dmc	yes	prevarant	conservative
+HR438	n	qas	no	kiks	inclusive
+HR270	n	cds	no	blackballed	inclusive
+HR411	n	cds	no	strikebreakers	inclusive
+HR875	n	ddp	yes	majmun	conservative
+HR2191	a	dmc	yes	prljav	inclusive
+HR1419	n	ps	yes	jevrejin	inclusive
+HR787	n	or	no	fuj	conservative
+HR1061	n	qas	no	uzgajivačnice	inclusive
+HR956	n	cds	no	demagogija	conservative
+HR120	n	ddp	yes	epifauna	inclusive
+HR158	n	asm	no	ludost	conservative
+HR920	n	qas	no	udovoljavanje	inclusive
+HR368	n	cds	no	lopovluk	inclusive
+HR2158	n	re	no	otmičari	inclusive
+HR276	n	ddp	yes	mekana na dodir	conservative
+HR522	n	qas	no	srednji sloj	inclusive
+HR1969	n	an	no	omaknuo mu se jezik	inclusive
+HR1718	n	qas	no	paraziti	inclusive
+HR553	n	dmc	yes	ništarija	inclusive
+HR274	n	cds	no	prostak	conservative
+HR441	n	qas	no	prekršaj-up	inclusive
+HR1959	n	an	no	gyps	inclusive
+HR80	n	qas	no	budalaština	conservative
+HR272	n	cds	no	učena žena	inclusive
+HR1790	n	cds	no	kanalizacije	inclusive
+HR2114	n	re	no	piratstvo	inclusive
+HR597	n	an	no	velike bijele psine	inclusive
+HR1445	n	qas	no	šupa	inclusive
+HR1462	n	qas	no	ideolog	inclusive
+HR1138	n	cds	no	siromašnima vrag	conservative
+HR2247	n	an	no	blattaria	inclusive
+HR1097	n	cds	no	odgojitelj	inclusive
+HR227	n	pa	yes	barbarski	conservative
+HR230	n	dmc	yes	grubijan	conservative
+HR534	n	cds	no	hvalisavost	conservative
+HR912	n	qas	no	sukladnosti	inclusive
+HR302	n	an	no	muške prostitucije	conservative
+HR1384	n	pr	no	prodaja tijela	conservative
+HR228	n	ddp	yes	barbari	conservative
+HR327	n	cds	no	fibber	conservative
+HR1837	n	ps	yes	mongoloidan	conservative
+HR651	n	ddp	yes	barapski	conservative
+HR158	n	ddp	yes	ludost	inclusive
+HR1196	n	cds	no	finagler	conservative
+HR229	n	dmc	yes	barbar	conservative
+HR907	n	cds	no	publika	inclusive
+HR1339	n	an	no	gica	inclusive
+HR432	n	cds	no	bloopers	inclusive
+HR2133	n	cds	no	čedo	inclusive
+HR1252	n	dmc	yes	sanjalo	conservative
+HR999	n	cds	no	dime romana	inclusive
+HR899	n	ps	yes	križati	inclusive
+HR2069	v	cds	no	naborati se	inclusive
+HR1601	n	ddp	yes	mentalni nedostatak	inclusive
+HR661	n	an	no	domaći psi	inclusive
+HR458	n	ddp	yes	šeprtlja	conservative
+HR942	n	cds	no	praktični joker	conservative
+HR1522	n	cds	no	učio	inclusive
+HR177	n	an	no	magare	inclusive
+HR105	n	qas	no	svjetina	conservative
+HR230	n	ddp	yes	grubijan	conservative
+HR1882	n	pa	yes	udvarač	inclusive
+HR1002	n	cds	no	dime roman	inclusive
+HR2055	v	qas	no	pokrpati	inclusive
+HR257	n	an	no	inferioran	inclusive
+HR2312	n	re	no	seksualne prijestupe	inclusive
+HR69	n	qas	no	sljedbenik	inclusive
+HR551	n	dmc	yes	lowlife	inclusive
+HR41	n	pa	yes	akademici	inclusive
+HR478	n	an	no	bos taurus	inclusive
+HR1169	n	pr	no	metresa	conservative
+HR2032	v	cds	no	skončati	inclusive
+HR2212	n	an	no	žaba	inclusive
+HR1976	v	qas	no	spetljati	conservative
+HR398	n	dmc	yes	hulja	conservative
+HR1686	n	cds	no	mafije	conservative
+HR227	n	cds	no	barbarski	conservative
+HR1085	n	cds	no	slews	inclusive
+HR458	n	qas	no	šeprtlja	conservative
+HR382	n	ps	yes	inkiness	inclusive
+HR1719	n	qas	no	parazitizam	inclusive
+HR1123	n	dmc	yes	moralističke	inclusive
+HR84	n	cds	no	omnium-gatherum	inclusive
+HR481	n	an	no	stoka	inclusive
+HR1685	n	cds	no	màfija	inclusive
+HR1100	n	cds	no	delikt	inclusive
+HR1948	n	cds	no	zelenaštvo	conservative
+HR1599	n	svp	no	ljutnja	inclusive
+HR1257	n	dmc	yes	gangster	inclusive
+HR1967	n	an	no	crvi	inclusive
+HR540	n	cds	no	nadmenost	conservative
+HR1346	n	an	no	krmak	inclusive
+HR2003	n	qas	no	cadger	conservative
+HR8	n	svp	no	abulia	inclusive
+HR1708	n	qas	no	nametnik	inclusive
+HR827	n	cds	no	smeće	inclusive
+HR585	n	cds	no	koterija	inclusive
+HR403	n	cds	no	sad	inclusive
+HR1079	n	cds	no	rezultati	inclusive
+HR326	n	cds	no	beguine	inclusive
+HR561	n	dmc	yes	villainess	conservative
+HR133	n	re	no	ocrnjivanje	conservative
+HR165	n	asf	no	govnar	conservative
+HR2136	n	cds	no	dijete	inclusive
+HR308	n	cds	no	laži	conservative
+HR742	n	pa	yes	docent	inclusive
+HR1640	n	an	no	mekušac	inclusive
+HR1188	n	or	no	komorač	inclusive
+HR797	n	ddp	yes	gossiper	conservative
+HR1693	n	an	no	vrisak-sove	inclusive
+HR874	n	ddp	yes	nikogović	conservative
+HR984	n	cds	no	kriminalne aktivnosti	inclusive
+HR1378	n	pr	no	rubnik indeksiranja	inclusive
+HR354	n	cds	no	banditti	conservative
+HR306	n	cds	no	neistina	inclusive
+HR1484	n	ddp	yes	šupak	conservative
+HR148	n	cds	no	perspicaciousness	inclusive
+HR1965	n	dmc	yes	klaunovi	inclusive
+HR557	n	ddp	yes	rulja	conservative
+HR482	n	pr	no	krava	inclusive
+HR1201	n	asm	no	pterygiophore	inclusive
+HR1630	n	cds	no	toalet	inclusive
+HR2225	n	cds	no	wisenheimer	conservative
+HR468	n	ddp	yes	ferociousness	conservative
+HR2157	n	or	no	brassica rapa	inclusive
+HR2108	n	re	no	plagiarize	inclusive
+HR1475	n	ddf	yes	invalid	inclusive
+HR1076	n	cds	no	tona	inclusive
+HR1755	n	asm	no	kolac	inclusive
+HR1728	n	an	no	papigašice	inclusive
+HR2204	n	an	no	batrachian	inclusive
+HR2434	n	cds	no	razbojništva	inclusive
+HR2291	a	ddp	yes	bezukusan	inclusive
+HR573	a	ddf	yes	negativan	inclusive
+HR546	n	svp	no	taštine	conservative
+HR279	n	cds	no	kompresa	conservative
+HR1004	n	ps	yes	boche	conservative
+HR790	n	om	no	gej	inclusive
+HR1671	n	cds	no	prijestupnik	inclusive
+HR1125	n	dmc	yes	moral	inclusive
+HR459	n	an	no	tijelo-otimajući	inclusive
+HR85	n	qas	no	parčići	inclusive
+HR848	n	svp	no	žudnja	inclusive
+HR859	n	an	no	sovke	inclusive
+HR910	n	cds	no	žutokljunac	conservative
+HR1351	n	an	no	raga	inclusive
+HR1539	n	cds	no	stavljanje van zakona	inclusive
+HR890	n	an	no	crocodylidae	inclusive
+HR988	n	re	no	kriminalaca	inclusive
+HR1363	n	re	no	pljačku	inclusive
+HR341	n	cds	no	bande ratovanja	inclusive
+HR420	n	re	no	ucjena	conservative
+HR1720	n	qas	no	ectoparasites	inclusive
+HR94	n	asf	no	codswallop	conservative
+HR1228	n	cds	no	masonske reda	inclusive
+HR223	n	cds	no	bandit	inclusive
+HR1429	n	cds	no	hierarch	inclusive
+HR623	n	asm	no	changelings	inclusive
+HR398	n	cds	no	hulja	inclusive
+HR233	n	an	no	divljaštvo	inclusive
+HR424	n	pa	yes	pogreb redatelj	inclusive
+HR1062	n	qas	no	pseća kućica	inclusive
+HR2261	n	ddp	yes	nepromišljenost	inclusive
+HR1769	n	pr	no	rat	inclusive
+HR2011	n	cds	no	nouveau riche-	inclusive
+HR87	n	cds	no	zbrka	inclusive
+HR1958	n	an	no	sȕp	inclusive
+HR1798	n	an	no	selachimorpha	inclusive
+HR2398	n	cds	no	potkupljiv	inclusive
+HR1889	n	cds	no	nimfomanija	conservative
+HR157	n	an	no	glupost	conservative
+HR5	n	svp	no	acedia	inclusive
+HR1316	n	cds	no	ekstremni desničar	conservative
+HR1233	n	cds	no	masoni	inclusive
+HR164	n	asf	no	neznalica	conservative
+HR1331	n	an	no	gušče	inclusive
+HR1635	n	cds	no	zahodu	inclusive
+HR2096	n	an	no	uši	inclusive
+HR2201	n	an	no	bezrepci	inclusive
+HR1049	n	om	no	tooshie	inclusive
+HR963	n	pr	no	doxy	inclusive
+HR2340	n	an	no	balon swallower	inclusive
+HR1969	n	cds	no	omaknuo mu se jezik	inclusive
+HR6	n	dmc	yes	sluganstvo	inclusive
+HR2004	n	qas	no	moocher	conservative
+HR1973	v	qas	no	zbrljati	conservative
+HR219	n	asm	no	sjemenik	inclusive
+HR798	n	ddp	yes	proturač novosti	conservative
+HR454	n	dmc	yes	fumbler	conservative
+HR2035	v	cds	no	umirati	inclusive
+HR574	a	ddf	yes	loš	inclusive
+HR98	n	svp	no	fanatizam	conservative
+HR529	n	cds	no	drskost	conservative
+HR456	n	qas	no	neradnik	conservative
+HR1174	n	qas	no	poljoprivrednik	inclusive
+HR557	n	qas	no	rulja	inclusive
+HR334	n	svp	no	bigot	conservative
+HR86	n	cds	no	mješavina	inclusive
+HR340	n	re	no	mafija	conservative
+HR868	n	an	no	athene noctua	inclusive
+HR2112	n	re	no	plagirao	inclusive
+HR1487	n	ddp	yes	nonsensicality	conservative
+HR1027	n	om	no	dupe	inclusive
+HR1956	n	an	no	supovi	inclusive
+HR852	n	an	no	zavodnica	conservative
+HR727	n	cds	no	nered-up	inclusive
+HR1000	n	cds	no	jeftinom romana	inclusive
+HR230	n	ps	yes	grubijan	conservative
+HR1789	n	an	no	škarpine	inclusive
+HR1189	n	or	no	anason	inclusive
+HR2021	v	cds	no	nažderati se	inclusive
+HR677	n	cds	no	pleme	inclusive
+HR1050	n	om	no	anatomski izrazi za položaj	inclusive
+HR226	n	pa	yes	grmalj	conservative
+HR1590	n	asm	no	penisa	inclusive
+HR224	n	cds	no	hajduk	inclusive
+HR552	n	dmc	yes	šljam torba	conservative
+HR1361	n	re	no	krađe	inclusive
+HR161	n	cds	no	budala	conservative
+HR1151	n	cds	no	obiteljska crta	inclusive
+HR991	n	re	no	ilegalnim aktivnostima	inclusive
+HR2422	n	ps	yes	rommany	inclusive
+HR704	n	svp	no	škrtarenje	conservative
+HR1301	n	cds	no	posmatrač	conservative
+HR753	n	svp	no	seksualna privlačnost	inclusive
+HR655	n	an	no	pas	inclusive
+HR591	n	ddp	yes	zatvorenika	inclusive
+HR621	n	asm	no	imbecil	inclusive
+HR464	n	pa	yes	uncouthness	conservative
+HR605	n	cds	no	strvina	inclusive
+HR233	n	ddp	yes	divljaštvo	inclusive
+HR1745	n	an	no	praščić	inclusive
+HR554	n	dmc	yes	tramps	conservative
+HR151	n	cds	no	dovitljivost	inclusive
+HR926	n	asf	no	pička	conservative
+HR593	n	cds	no	teretni vlak	inclusive
+HR1705	n	cds	no	paparazza	inclusive
+HR128	n	an	no	fauna	inclusive
+HR356	n	re	no	kazneno	inclusive
+HR275	n	asm	no	osoba koja ispašta tuđe greške	conservative
+HR81	n	cds	no	dar-mar	inclusive
+HR1259	n	dmc	yes	mafijaša	inclusive
+HR1471	n	dmc	yes	imitacija	inclusive
+HR736	n	qas	no	kaste	inclusive
+HR2397	n	cds	no	podmitljivost	conservative
+HR1974	v	qas	no	griješiti	conservative
+HR532	n	ps	yes	bugari	inclusive
+HR2061	n	dmc	yes	trifler	conservative
+HR2429	n	ps	yes	romi	inclusive
+HR623	n	cds	no	changelings	inclusive
+HR1856	n	cds	no	narcista	inclusive
+HR1041	n	om	no	prat	inclusive
+HR760	n	asm	no	jebati	conservative
+HR1594	a	om	no	homoseksualan	conservative
+HR1566	n	cds	no	novca kreditiranja	inclusive
+HR669	n	cds	no	porodica	inclusive
+HR1259	n	cds	no	mafijaša	inclusive
+HR728	n	cds	no	loptice-up	inclusive
+HR1905	n	cds	no	omerta	inclusive
+HR155	n	asf	no	bedastoća	conservative
+HR135	n	re	no	klevetanje	conservative
+HR1456	n	an	no	hyaenidae	inclusive
+HR866	n	an	no	sove	inclusive
+HR229	n	qas	no	barbar	conservative
+HR121	n	an	no	životinja	inclusive
+HR619	n	ddp	yes	kreten	conservative
+HR1945	n	cds	no	lihvarski kredit	conservative
+HR1546	n	svp	no	trut	conservative
+HR1152	n	cds	no	rod	inclusive
+HR105	n	cds	no	svjetina	conservative
+HR1166	n	cds	no	podvodačica	conservative
+HR1938	n	ddf	yes	nakaznost	inclusive
+HR1113	n	qas	no	polutan	conservative
+HR323	n	an	no	goveda	inclusive
+HR569	n	cds	no	škrabati	inclusive
+HR1777	n	qas	no	retorika	inclusive
+HR1321	v	asm	no	karati se	conservative
+HR2255	n	an	no	Čagljevi	inclusive
+HR780	n	cds	no	dopisnik	inclusive
+HR1811	n	an	no	animalculum	inclusive
+HR783	n	cds	no	novinar	inclusive
+HR1044	n	om	no	repne	inclusive
+HR824	n	cds	no	komunalnog otpada	conservative
+HR938	n	qas	no	odbaciti	conservative
+HR164	n	an	no	neznalica	conservative
+HR1105	n	re	no	kaznenih djela	inclusive
+HR2023	v	cds	no	požderati	inclusive
+HR2357	n	om	no	crossdressing	inclusive
+HR988	n	cds	no	kriminalaca	inclusive
+HR222	n	qas	no	balast	inclusive
+HR1944	n	cds	no	kamatarenje	conservative
+HR519	n	qas	no	građanstvo	inclusive
+HR2418	n	dmc	yes	otpadnik	conservative
+HR134	n	re	no	difamacija	conservative
+HR1559	n	cds	no	lihvarskim kreditima	inclusive
+HR2042	n	or	no	solanum tuberosum	inclusive
+HR1661	n	an	no	spora osoba	conservative
+HR1354	n	cds	no	osuđivati	conservative
+HR2385	n	cds	no	teorije urote	inclusive
+HR722	n	qas	no	prost	inclusive
+HR2226	n	cds	no	ohola osoba	conservative
+HR1845	n	qas	no	duhovni vođa	inclusive
+HR995	n	an	no	diddly	conservative
+HR463	n	pa	yes	ulaznica agenta	inclusive
+HR308	n	cds	no	laži	inclusive
+HR2013	v	qas	no	mučiti	conservative
+HR2083	n	is	yes	dronja	conservative
+HR154	n	asf	no	stupidnost	conservative
+HR1287	n	cds	no	ključar	inclusive
+HR1146	n	dmc	yes	rasipnik	inclusive
+HR473	n	pr	no	grlo	inclusive
+HR1349	n	cds	no	književni hack	conservative
+HR1350	n	cds	no	piskaralo	conservative
+HR803	n	pr	no	moo-krava	inclusive
+HR162	n	cds	no	tikvan	conservative
+HR2072	n	an	no	profiter	conservative
+HR1343	n	an	no	prase	inclusive
+HR712	n	asm	no	petlić	inclusive
+HR248	n	pa	yes	predlagač	inclusive
+HR2179	n	re	no	capturer	inclusive
+HR346	n	cds	no	krug	inclusive
+HR1618	n	qas	no	smjese	inclusive
+HR553	n	cds	no	ništarija	conservative
+HR1505	n	svp	no	mirovanje	inclusive
+HR1743	n	asm	no	graška biljka	inclusive
+HR1347	n	an	no	pajcek	inclusive
+HR1593	n	asm	no	spolni ud	inclusive
+HR1089	n	cds	no	kmet	inclusive
+HR1168	n	pr	no	comare	conservative
+HR555	n	cds	no	besposličar	conservative
+HR164	n	or	no	neznalica	conservative
+HR358	n	cds	no	izvan zakona	conservative
+HR1927	n	re	no	ubijanje	inclusive
+HR1730	n	an	no	papagaj	inclusive
+HR373	n	dmc	yes	zloba	inclusive
+HR624	n	an	no	kuja	conservative
+HR108	n	cds	no	masa	conservative
+HR965	n	pr	no	priležnica	inclusive
+HR276	n	asm	no	mekana na dodir	conservative
+HR132	n	re	no	kleveta	inclusive
+HR158	n	ddp	yes	ludost	conservative
+HR443	n	cds	no	loša izrada	inclusive
+HR1162	n	cds	no	povlađivati	conservative
+HR2290	a	ddp	yes	bez ukusa	inclusive
+HR10	n	svp	no	spiritlessness	inclusive
+HR2425	n	ps	yes	romima	inclusive
+HR1932	n	cds	no	homunculus	inclusive
+HR648	n	re	no	grifter	inclusive
+HR2320	n	cds	no	conventicles	inclusive
+HR812	v	cds	no	ćaskati	inclusive
+HR886	n	an	no	krokodilski	inclusive
+HR681	n	cds	no	plemena	inclusive
+HR2013	v	re	no	mučiti	inclusive
+HR1832	n	an	no	mekušaca	inclusive
+HR1835	n	an	no	puževa	inclusive
+HR1963	n	dmc	yes	veselo andrew	inclusive
+HR1940	n	dmc	yes	zlosretnik	inclusive
+HR2379	n	ps	yes	žuti karton	inclusive
+HR1436	n	qas	no	ličenje	inclusive
+HR231	n	dmc	yes	barbara	conservative
+HR1459	n	cds	no	pjevušenje	inclusive
+HR2159	n	re	no	kidnapiranje	inclusive
+HR513	n	an	no	bivol	inclusive
+HR1032	n	om	no	stražnjica	inclusive
+HR372	n	cds	no	nevaljalost	conservative
+HR716	n	cds	no	nedaća	conservative
+HR1580	n	qas	no	privrednik	inclusive
+HR193	n	is	yes	tvrdica	conservative
+HR56	n	svp	no	samopoštovanje	conservative
+HR1565	n	cds	no	moneylending	inclusive
+HR297	n	pr	no	floozie	conservative
+HR1394	n	om	no	shirtlifter	inclusive
+HR594	n	cds	no	vagona vlaka	inclusive
+HR1685	n	cds	no	màfija	conservative
+HR987	n	cds	no	djelo	inclusive
+HR1191	n	dmc	yes	foetor	conservative
+HR1569	n	cds	no	loanshark	conservative
+HR303	n	pr	no	najam dječak	conservative
+HR147	n	cds	no	dosjetljivost	inclusive
+HR1264	n	cds	no	fašizam	conservative
+HR2392	n	pa	yes	cordwainer	inclusive
+HR1078	n	cds	no	opterećenja	inclusive
+HR1088	n	cds	no	građevinski radnik	inclusive
+HR1047	n	om	no	peciva	inclusive
+HR646	n	re	no	defrauder	inclusive
+HR1224	n	asm	no	prepucij	inclusive
+HR2276	n	cds	no	dweeb	conservative
+HR474	n	pr	no	govedo	inclusive
+HR747	n	pa	yes	profesora	inclusive
+HR1982	v	qas	no	pokvariti	conservative
+HR1003	n	ps	yes	švaba	conservative
+HR683	n	pa	yes	činovnik	inclusive
+HR2025	v	cds	no	prežderati se	inclusive
+HR209	n	cds	no	kuća prostitucije	inclusive
+HR2393	n	an	no	rouncey	inclusive
+HR294	n	pr	no	drolja	conservative
+HR2373	n	re	no	ndrangheta	inclusive
+HR542	n	svp	no	osornost	conservative
+HR183	n	svp	no	sedam glavnih grijeha	inclusive
+HR1211	n	an	no	buhe	inclusive
+HR453	n	cds	no	bumbler	conservative
+HR1197	n	cds	no	wangler	conservative
+HR1895	n	qas	no	stanar uzgoj	inclusive
+HR1588	n	svp	no	netolerantnost	conservative
+HR897	n	ps	yes	interfertility	inclusive
+HR2005	n	qas	no	lunjati	conservative
+HR159	n	ddp	yes	idiotarija	conservative
+HR2170	n	re	no	pljački	inclusive
+HR737	n	qas	no	casteism	inclusive
+HR2077	n	cds	no	olajavanje	inclusive
+HR1258	n	dmc	yes	gangstera	inclusive
+HR2094	n	an	no	cootie	inclusive
+HR2353	n	om	no	cross-dress	inclusive
+HR465	n	ddp	yes	zooerasty	conservative
+HR376	n	dmc	yes	pokvarenost	conservative
+HR1617	n	cds	no	lopov	conservative
+HR1682	n	cds	no	mafiosi	inclusive
+HR2416	n	an	no	riđovka	inclusive
+HR2080	n	cds	no	trač	inclusive
+HR77	n	cds	no	psina	conservative
+HR2185	n	cds	no	ulizica	conservative
+HR106	n	cds	no	gomila	conservative
+HR1808	n	an	no	mikroorganizmi	inclusive
+HR1451	n	cds	no	oholosti	inclusive
+HR620	n	ddp	yes	idiot	conservative
+HR2007	a	qas	no	parohijalan	inclusive
+HR2349	n	om	no	cross-dressing	inclusive
+HR143	n	re	no	silovatelja	conservative
+HR281	n	or	no	glup	conservative
+HR1658	n	dmc	yes	mocarela	inclusive
+HR1276	n	asm	no	široko grah	inclusive
+HR971	n	dmc	yes	razbojnik	conservative
+HR1549	n	re	no	čedomorstvo	inclusive
+HR368	n	re	no	lopovluk	inclusive
+HR224	n	dmc	yes	hajduk	conservative
+HR937	n	cds	no	raspodijeliti	conservative
+HR2275	n	cds	no	bubati	conservative
+HR1761	n	svp	no	ponos	inclusive
+HR1251	n	svp	no	dillydallier	conservative
+HR165	n	an	no	govnar	conservative
+HR620	n	asf	no	idiot	conservative
+HR883	n	an	no	crocodylia	inclusive
+HR409	n	cds	no	štrajkbreher	inclusive
+HR1514	n	cds	no	pompousness	inclusive
+HR247	n	pa	yes	zagovaratelj	inclusive
+HR1554	a	is	yes	nesretan	inclusive
+HR985	n	cds	no	kriminalnih aktivnosti	inclusive
+HR286	n	pr	no	kurva	conservative
+HR2350	n	om	no	cross-dressers	inclusive
+HR1955	n	an	no	strvinar	inclusive
+HR1578	n	cds	no	sass	inclusive
+HR1225	n	asm	no	faul	inclusive
+HR967	n	pr	no	ljubavnica	conservative
+HR788	n	om	no	queer	conservative
+HR1013	n	ddf	yes	odbojnost	inclusive
+HR1190	n	dmc	yes	smrad	conservative
+HR962	n	pr	no	kurtizana	inclusive
+HR2086	n	cds	no	gunđalo	conservative
+HR2438	n	ps	yes	zulus	inclusive
+HR96	n	cds	no	progonitelj	conservative
+HR1652	n	an	no	moljac	inclusive
+HR72	n	cds	no	vic	inclusive
+HR274	n	an	no	prostak	conservative
+HR398	n	an	no	hulja	conservative
+HR1605	n	cds	no	mussiness	conservative
+HR229	n	pa	yes	barbar	conservative
+HR1479	n	ddf	yes	invalidnost	inclusive
+HR2292	a	ddf	yes	gadan	conservative
+HR1864	n	ps	yes	crnac	inclusive
+HR1005	n	ps	yes	krauthead	conservative
+HR1446	n	qas	no	kavez	inclusive
+HR1514	n	cds	no	pompousness	conservative
+HR1977	v	qas	no	upropastiti	conservative
+HR619	n	ps	yes	kreten	conservative
+HR991	n	cds	no	ilegalnim aktivnostima	inclusive
+HR1165	n	cds	no	pandar	inclusive
+HR1690	n	ps	yes	istočni goti	inclusive
+HR1875	n	ps	yes	negroidi	inclusive
+HR106	n	qas	no	gomila	inclusive
+HR119	n	ddp	yes	Životinje	inclusive
+HR1557	n	re	no	ubojica	inclusive
+HR106	n	qas	no	gomila	conservative
+HR647	n	dmc	yes	varalica	conservative
+HR1853	n	cds	no	pola pinta	conservative
+HR840	n	an	no	bedbugs	inclusive
+HR1852	n	cds	no	vočić	conservative
+HR1947	n	cds	no	lihvarenja	conservative
+HR398	n	re	no	hulja	inclusive
+HR168	n	an	no	panj	conservative
+HR2067	v	cds	no	mežurati se	inclusive
+HR776	n	pa	yes	desetar	inclusive
+HR765	n	asm	no	nookie	conservative
+HR226	n	rci	yes	grmalj	conservative
+HR453	n	ddp	yes	bumbler	conservative
+HR1752	n	asm	no	stup	inclusive
+HR628	n	re	no	plaćeni posao	inclusive
+HR350	n	dmc	yes	bitanga	conservative
+HR2268	a	qas	no	građanski	inclusive
+HR527	n	cds	no	oholost	inclusive
+HR1311	n	svp	no	glupan-off	conservative
+HR1558	n	re	no	ubica	inclusive
+HR1463	n	asf	no	djevojka	conservative
+HR1026	n	om	no	glutealne regiji	inclusive
+HR2174	n	re	no	pljačkaši	inclusive
+HR141	n	re	no	sȉlovānje	conservative
+HR1820	n	ddp	yes	glupavost	inclusive
+HR2230	n	cds	no	pedanterije	inclusive
+HR400	n	an	no	aljkavo osoba	conservative
+HR2134	n	cds	no	djetešce	inclusive
+HR216	n	qas	no	sjemenici	inclusive
+HR1314	n	dmc	yes	dobro-za-nula	conservative
+HR2222	v	re	no	otuđiti	inclusive
+HR437	n	qas	no	flub	inclusive
+HR374	n	cds	no	đavolija	conservative
+HR794	n	om	no	twink	conservative
+HR193	n	svp	no	tvrdica	conservative
+HR2326	n	re	no	strahovlada	inclusive
+HR317	n	cds	no	urnebes	inclusive
+HR1814	n	ddp	yes	microcephalic	inclusive
+HR2098	n	an	no	phthiraptera	inclusive
+HR277	n	cds	no	pillock	conservative
+HR22	n	re	no	zlouporaba	inclusive
+HR556	n	svp	no	zgubidanski	conservative
+HR227	n	rci	yes	barbarski	conservative
+HR1440	n	svp	no	prejedanje	inclusive
+HR1597	n	svp	no	jal	inclusive
+HR611	n	dmc	yes	prognanik	inclusive
+HR2373	n	cds	no	ndrangheta	inclusive
+HR422	n	re	no	ucjenjuju	conservative
+HR2241	n	an	no	blattodea	inclusive
+HR339	n	cds	no	bande kulture	inclusive
+HR105	n	cds	no	svjetina	inclusive
+HR341	n	cds	no	bande ratovanja	conservative
+HR2151	n	pr	no	koještarija	conservative
+HR1891	n	cds	no	satyriasis	conservative
+HR914	n	qas	no	regulatorne usklađenosti	inclusive
+HR1187	n	om	no	finocchio	inclusive
+HR600	n	an	no	ljudožder	inclusive
+HR1045	n	om	no	proksimalni	inclusive
+HR2397	n	cds	no	podmitljivost	inclusive
+HR1776	n	qas	no	retorički	inclusive
+HR508	n	qas	no	poslovnom	inclusive
+HR338	n	cds	no	bandi	conservative
+HR196	n	ddp	yes	brbljivac	conservative
+HR785	n	or	no	nance	conservative
+HR1255	n	svp	no	beskorisnost	conservative
+HR119	n	an	no	Životinje	inclusive
+HR1868	n	ps	yes	negroidne	inclusive
+HR1133	n	dmc	yes	zlo	conservative
+HR992	n	an	no	diddlyshit	conservative
+HR1739	a	dmc	yes	zločest	conservative
+HR1547	n	re	no	infanticid	inclusive
+HR1391	n	om	no	homoseksualnim muškarcima	inclusive
+HR782	n	cds	no	novinski saradnik	inclusive
+HR2012	v	qas	no	mrcvariti	conservative
+HR1608	n	cds	no	konjokradica	inclusive
+HR2337	n	re	no	mučenja	inclusive
+HR2424	n	ps	yes	romanis	inclusive
+HR2135	n	cds	no	novorođenčadi	inclusive
+HR1784	n	qas	no	govorništvo	inclusive
+HR275	n	ddp	yes	osoba koja ispašta tuđe greške	conservative
+HR194	n	an	no	motiv škrca	conservative
+HR2280	a	is	yes	siromašan	inclusive
+HR663	n	an	no	loša osoba	conservative
+HR353	n	cds	no	zločinac	conservative
+HR278	n	or	no	glupa osoba	conservative
+HR615	n	cds	no	slabić	conservative
+HR306	n	dmc	yes	neistina	inclusive
+HR1568	n	cds	no	loansharking	conservative
+HR2303	n	re	no	silovatelj	conservative
+HR1468	n	cds	no	idolopoklonici	inclusive
+HR771	n	an	no	kunići	inclusive
+HR1334	n	an	no	fulvus	inclusive
+HR2371	n	asm	no	aves	inclusive
+HR1675	n	svp	no	lascivnim	inclusive
+HR536	n	cds	no	high-nespretnost	conservative
+HR1297	n	cds	no	nosonja-parker	conservative
+HR1414	n	ps	yes	Židovi	inclusive
+HR170	n	ddp	yes	neintelektualac	conservative
+HR1069	n	an	no	ovaca	inclusive
+HR562	n	re	no	zločinačka	conservative
+HR1853	n	dmc	yes	pola pinta	conservative
+HR2176	n	re	no	stickup	inclusive
+HR770	n	an	no	zeca	inclusive
+HR1153	n	cds	no	phratry	inclusive
+HR924	n	or	no	twat	conservative
+HR2311	n	re	no	seks kriminal	inclusive
+HR2074	a	om	no	nenormalan	inclusive
+HR1944	n	cds	no	kamatarenje	inclusive
+HR1555	a	is	yes	tužan	inclusive
+HR1712	n	cds	no	seljačina	conservative
+HR2001	v	cds	no	cjenkati se	inclusive
+HR1469	a	an	no	škrt	conservative
+HR755	n	svp	no	pohota	inclusive
+HR1864	n	ps	yes	crnac	conservative
+HR985	n	re	no	kriminalnih aktivnosti	inclusive
+HR225	n	cds	no	razbojništvo	conservative
+HR94	n	an	no	codswallop	conservative
+HR1483	n	ddp	yes	šupkom	conservative
+HR1614	n	or	no	meticulosity	inclusive
+HR618	n	asf	no	usporiti	conservative
+HR1046	n	om	no	distalan	inclusive
+HR412	n	cds	no	kurvin sin	conservative
+HR2196	a	dmc	yes	zaprljan	inclusive
+HR306	n	qas	no	neistina	conservative
+HR744	n	pa	yes	professorships	inclusive
+HR398	n	cds	no	hulja	conservative
+HR1696	n	an	no	vola	inclusive
+HR547	n	cds	no	volumen	inclusive
+HR1382	n	pr	no	seksualnih usluga	inclusive
+HR1139	n	an	no	ovca	inclusive
+HR1177	n	qas	no	poljodjelaca	inclusive
+HR611	n	is	yes	prognanik	inclusive
+HR1259	n	re	no	mafijaša	conservative
+HR2030	n	qas	no	troubler	conservative
+HR2377	n	an	no	masovna obmana	conservative
+HR2273	n	an	no	škarpina	inclusive
+HR673	n	cds	no	plemenskih ljudi	inclusive
+HR1299	n	cds	no	quidnunc	conservative
+HR994	n	an	no	diddly-čučanj	conservative
+HR1461	n	cds	no	crooner	inclusive
+HR340	n	cds	no	mafija	inclusive
+HR1065	n	svp	no	proždrljivac	conservative
+HR1164	n	cds	no	podvođenje	conservative
+HR2100	n	cds	no	vjerske diskriminacije	inclusive
+HR446	n	cds	no	blowhard	conservative
+HR279	n	ddp	yes	kompresa	conservative
+HR545	n	cds	no	conceitedness	conservative
+HR1291	n	an	no	pipistrelle	inclusive
+HR1668	n	cds	no	odojče	inclusive
+HR844	n	an	no	hemipterous insekata	inclusive
+HR526	n	cds	no	egoizma	conservative
+HR284	n	pr	no	žena na ulici	conservative
+HR2166	n	re	no	pljačka	inclusive
+HR1467	n	cds	no	lažnom idolu	inclusive
+HR644	n	dmc	yes	chiseler	conservative
+HR2396	n	dmc	yes	skitnice	inclusive
+HR1859	n	cds	no	autolatry	inclusive
+HR1313	n	dmc	yes	nevaljalac	conservative
+HR821	n	ddp	yes	šarlatanstvo	conservative
+HR275	n	asf	no	osoba koja ispašta tuđe greške	conservative
+HR980	n	ps	yes	uprooter	conservative
+HR1448	n	qas	no	stračara	inclusive
+HR49	n	ddp	yes	maloumnost	inclusive
+HR1880	n	ps	yes	crnca	inclusive
+HR1771	n	pr	no	štakor	inclusive
+HR645	n	cds	no	hahar	inclusive
+HR610	n	cds	no	casino	inclusive
+HR278	n	cds	no	glupa osoba	conservative
+HR1060	n	qas	no	uzgajivačnica	inclusive
+HR1904	n	re	no	terorista	inclusive
+HR1843	n	pr	no	društvenih	inclusive
+HR339	n	cds	no	bande kulture	conservative
+HR1651	n	pr	no	moljaca	inclusive
+HR224	n	cds	no	hajduk	conservative
+HR1700	n	om	no	pederastiju	inclusive
+HR1680	n	re	no	cosa nostra	conservative
+HR454	n	cds	no	fumbler	conservative
+HR1782	n	qas	no	retoriku	inclusive
+HR162	n	an	no	tikvan	conservative
+HR1768	n	pr	no	Štakori	inclusive
+HR442	n	cds	no	boo-boo	inclusive
+HR791	n	or	no	homoseksualac	conservative
+HR1892	n	cds	no	nympho	conservative
+HR858	n	an	no	buljina	inclusive
+HR2199	n	qas	no	napustio brod	inclusive
+HR393	n	qas	no	vrh izvršne	inclusive
+HR705	n	qas	no	terevenčiti	inclusive
+HR92	n	asm	no	privjesak	inclusive
+HR1997	v	qas	no	petljati	conservative
+HR363	n	ddp	yes	dostavljač	conservative
+HR2313	n	re	no	zlostavljao	inclusive
+HR80	n	ddp	yes	budalaština	conservative
+HR2028	n	qas	no	smutljivac	conservative
+HR304	n	an	no	uličarka	conservative
+HR960	n	pr	no	konkubina	inclusive
+HR1760	n	svp	no	pridefulness	inclusive
+HR1847	n	an	no	mušica	inclusive
+HR203	n	cds	no	kupleraj	inclusive
+HR1946	n	cds	no	lihvarenje	conservative
+HR166	n	asf	no	fuckhead	conservative
+HR1268	n	asm	no	fava	inclusive
+HR2062	v	cds	no	uvenuti	inclusive
+HR648	n	cds	no	grifter	conservative
+HR1766	n	cds	no	ucjenjivač	inclusive
+HR107	n	cds	no	horda	inclusive
+HR1	n	dmc	yes	poniženost	inclusive
+HR1805	n	an	no	mikro-organizam	inclusive
+HR2193	a	dmc	yes	zamazan	inclusive
+HR1213	n	an	no	siphonaptera	inclusive
+HR2323	n	cds	no	površnosti	inclusive
+HR1860	n	cds	no	self-obožavanje	inclusive
+HR1545	n	dmc	yes	vrdalama	conservative
+HR1707	n	cds	no	papira potiskivač	inclusive
+HR1451	n	cds	no	oholosti	conservative
+HR969	n	cds	no	intriguer	inclusive
+HR1694	n	an	no	otus asio	inclusive
+HR2366	n	asm	no	ptica	inclusive
+HR231	n	rci	yes	barbara	conservative
+HR457	n	dmc	yes	tužno vreća	conservative
+HR2231	n	an	no	hirudinea	inclusive
+HR1872	n	ps	yes	negro	inclusive
+HR2238	n	an	no	žohara	inclusive
+HR1437	n	qas	no	kuća slikarstvo	inclusive
+HR2121	n	an	no	kokoš	inclusive
+HR2369	n	asm	no	roosting	inclusive
+HR1853	n	ddf	yes	pola pinta	conservative
+HR555	n	svp	no	besposličar	conservative
+HR1163	n	cds	no	svodništvo	inclusive
+HR2101	n	cds	no	religiousism	inclusive
+HR711	n	cds	no	nestaško	conservative
+HR1149	n	svp	no	faineance	inclusive
+HR978	n	asm	no	doofus	conservative
+HR62	n	om	no	sodomija	inclusive
+HR1763	n	cds	no	superbia	inclusive
+HR826	n	cds	no	krutog otpada	conservative
+HR2155	n	pa	yes	računovođe	inclusive
+HR1167	n	cds	no	svodnik	inclusive
+HR1492	n	is	yes	oskudica	inclusive
+HR199	n	cds	no	bordel	inclusive
+HR2104	n	cds	no	wank	conservative
+HR2089	n	an	no	humanus	inclusive
+HR637	n	re	no	defamer	conservative
+HR833	n	an	no	prisluškivanja	inclusive
+HR1993	v	qas	no	packati	conservative
+HR561	n	cds	no	villainess	conservative
+HR228	n	ps	yes	barbari	conservative
+HR1525	n	cds	no	junk mail	inclusive
+HR1885	n	ps	yes	bijeli	inclusive
+HR918	n	qas	no	pridržavanje	inclusive
+HR2070	v	cds	no	sahnuti	inclusive
+HR1617	n	cds	no	lopov	inclusive
+HR1219	n	dmc	yes	glupiranje	inclusive
+HR334	n	dmc	yes	bigot	conservative
+HR414	n	cds	no	motherfucker	conservative
+HR2043	n	or	no	tater	inclusive
+HR1138	n	is	yes	siromašnima vrag	inclusive
+HR158	n	an	no	ludost	conservative
+HR40	n	cds	no	amateurishness	conservative
+HR1118	n	qas	no	amater	inclusive
+HR2249	n	dmc	yes	brod drugog reda	conservative
+HR1598	n	svp	no	invidia	inclusive
+HR915	n	qas	no	prilagođenost	inclusive
+HR641	n	re	no	traducer	conservative
+HR1042	n	om	no	rep	inclusive
+HR616	n	cds	no	papak	conservative
+HR2382	n	cds	no	teoretičari zavjere	inclusive
+HR343	n	cds	no	banda	inclusive
+HR1313	n	svp	no	nevaljalac	conservative
+HR2286	a	ddp	yes	tup	conservative
+HR2046	v	qas	no	mazati	inclusive
+HR830	n	an	no	cimicidae	inclusive
+HR667	n	cds	no	rodbina	inclusive
+HR472	n	svp	no	čama	inclusive
+HR189	n	svp	no	avariciousness	inclusive
+HR2000	v	cds	no	pogađati se	inclusive
+HR7	n	svp	no	aboulia	inclusive
+HR2161	n	re	no	otmica	inclusive
+HR226	n	ddp	yes	grmalj	conservative
+HR2192	a	dmc	yes	prljavo	inclusive
+HR1920	n	re	no	homicid	inclusive
+HR1625	n	cds	no	sanitarni čvor	inclusive
+HR997	n	an	no	diddley	conservative
+HR1424	n	cds	no	stada	inclusive
+HR544	n	cds	no	arogantnost	conservative
+HR195	n	an	no	motiv škrtca	conservative
+HR228	n	dmc	yes	barbari	conservative
+HR271	n	cds	no	bas bleu	inclusive
+HR724	n	qas	no	običan čovjek	inclusive
+HR186	n	svp	no	pohlepe	inclusive
+HR2223	v	re	no	pokrasti	inclusive
+HR2207	n	an	no	Žaba	inclusive
+HR68	n	qas	no	pristaša	inclusive
+HR2006	n	qas	no	izmamljivač	conservative
+HR1617	n	re	no	lopov	inclusive
+HR1226	n	asm	no	prekršaj	inclusive
+HR129	n	ddp	yes	metazoans	inclusive
+HR1198	n	asm	no	riba	inclusive
+HR2015	v	is	yes	umoljavati	inclusive
+HR292	n	pr	no	šljake	conservative
+HR281	n	cds	no	glup	conservative
+HR1749	n	an	no	svinjče	inclusive
+HR752	n	cds	no	vreva	inclusive
+HR2343	n	pa	yes	bijelih ovratnika	inclusive
+HR433	n	cds	no	griješiti	inclusive
+HR2045	v	qas	no	našminkati	inclusive
+HR93	a	svp	no	agresivan	conservative
+HR2140	a	ps	yes	kineski	inclusive
+HR31	n	pa	yes	akademske	inclusive
+HR1954	n	an	no	poskok	inclusive
+HR2404	n	cds	no	poltron	conservative
+HR1615	n	or	no	punctiliousness	inclusive
+HR528	n	cds	no	egoistični	conservative
+HR108	n	cds	no	masa	inclusive
+HR1415	n	ps	yes	židov	inclusive
+HR841	n	an	no	hemipteron	inclusive
+HR1457	n	an	no	hijene	inclusive
+HR302	n	pr	no	muške prostitucije	conservative
+HR129	n	an	no	metazoans	inclusive
+HR436	n	qas	no	smiješni	inclusive
+HR1135	n	dmc	yes	nemoralnost	conservative
+HR1064	n	svp	no	gurman	inclusive
+HR981	n	cds	no	zločine	inclusive
+HR872	n	asm	no	onanist	conservative
+HR1794	n	ps	yes	mestizaje	conservative
+HR1946	n	cds	no	lihvarenje	inclusive
+HR1087	n	ps	yes	lutalica	inclusive
+HR1756	n	is	yes	siromašni ljudi	inclusive
+HR788	n	or	no	queer	conservative
+HR107	n	cds	no	horda	conservative
+HR150	n	cds	no	lukavost	inclusive
+HR929	n	or	no	krastavac	inclusive
+HR1171	n	qas	no	polje ruka	inclusive
+HR751	n	or	no	zelje	inclusive
+HR298	n	an	no	rentboy	conservative
+HR1576	n	cds	no	sassing	inclusive
+HR1070	n	an	no	ovis aries	inclusive
+HR194	n	svp	no	motiv škrca	conservative
+HR1655	n	an	no	moue	inclusive
+HR895	n	ps	yes	mješanac	inclusive
+HR1883	n	pa	yes	tužitelj	inclusive
+HR646	n	cds	no	defrauder	conservative
+HR1232	n	cds	no	slobodno zidarstvo	inclusive
+HR1376	n	cds	no	portkalo	inclusive
+HR2093	n	an	no	pediculus corporis	inclusive
+HR1531	a	dmc	yes	amoralan	conservative
+HR835	n	an	no	slušanja uređaja	inclusive
+HR1613	n	or	no	pedantnost	inclusive
+HR621	n	cds	no	imbecil	inclusive
+HR439	n	qas	no	greška	inclusive
+HR1163	n	cds	no	svodništvo	conservative
+HR1632	n	cds	no	nužnik	inclusive
+HR269	n	cds	no	blackball	inclusive
+HR2406	n	pr	no	dvorjanin	inclusive
+HR288	n	pr	no	prostitutka	conservative
+HR1068	n	an	no	domaće ovce	inclusive
+HR1833	n	an	no	puža	inclusive
+HR1841	n	pr	no	socialites	inclusive
+HR1713	n	dmc	yes	chawbacon	conservative
+HR836	n	an	no	cimex lectularius	inclusive
+HR986	n	re	no	zločin	inclusive
+HR2359	n	om	no	transvestizam	inclusive
+HR826	n	cds	no	krutog otpada	inclusive
+HR545	n	svp	no	conceitedness	conservative
+HR1876	n	ps	yes	crnci	inclusive
+HR456	n	cds	no	neradnik	conservative
+HR2361	n	om	no	transvestiti	inclusive
+HR2144	n	cds	no	protagonism	inclusive
+HR505	n	qas	no	biznismen	inclusive
+HR2421	n	an	no	limacidae	inclusive
+HR921	n	cds	no	sinko	inclusive
+HR369	n	cds	no	zloća	conservative
+HR1711	n	dmc	yes	rube	conservative
+HR2355	n	om	no	crossdress	inclusive
+HR1442	n	qas	no	vođenje	inclusive
+HR1553	a	is	yes	neveseo	inclusive
+HR1644	n	ps	yes	mongol	inclusive
+HR1913	n	re	no	ubojice	inclusive
+HR2294	a	ddf	yes	rugoban	conservative
+HR1323	v	asm	no	ševiti se	conservative
+HR33	n	pa	yes	akademska	inclusive
+HR926	n	or	no	pička	conservative
+HR1401	n	om	no	homoseksualizam	inclusive
+HR552	n	an	no	šljam torba	conservative
+HR2258	a	qas	no	srednjovjekovne	inclusive
+HR338	n	cds	no	bandi	inclusive
+HR163	n	cds	no	igra karata ili domina	conservative
+HR964	n	pr	no	inoča	inclusive
+HR978	n	ddp	yes	doofus	conservative
+HR1966	n	dmc	yes	klaun	inclusive
+HR1792	n	ps	yes	melez	conservative
+HR1185	n	or	no	fastidiousness	inclusive
+HR824	n	qas	no	komunalnog otpada	inclusive
+HR2010	n	cds	no	nouveaux bogatstva	inclusive
+HR2328	n	re	no	teroristički čin	conservative
+HR1438	n	qas	no	soboslikarstvo	inclusive
+HR1143	n	dmc	yes	razbludnik	conservative
+HR1501	n	is	yes	niskim prihodima	inclusive
+HR2115	n	re	no	pirat	inclusive
+HR2274	n	an	no	kanal bas	inclusive
+HR623	n	ddp	yes	changelings	inclusive
+HR2048	v	qas	no	šminkati	inclusive
+HR1921	n	re	no	ubojstava	inclusive
+HR1923	n	re	no	slayer	inclusive
+HR400	n	cds	no	aljkavo osoba	conservative
+HR1507	n	ddp	yes	nesposobna osoba	conservative
+HR1122	n	dmc	yes	Ćudoređe	inclusive
+HR1624	n	cds	no	oprati boravak	inclusive
+HR1560	n	cds	no	moneylenders	conservative
+HR220	n	asm	no	testis	inclusive
+HR2012	v	re	no	mrcvariti	inclusive
+HR2336	n	re	no	tortura	inclusive
+HR106	n	cds	no	gomila	inclusive
+HR916	n	qas	no	usklađenost	inclusive
+HR1567	n	cds	no	kredita sharks	conservative
+HR167	n	an	no	dumbass	conservative
+HR1259	n	re	no	mafijaša	inclusive
+HR1235	n	cds	no	slobodnih zidara	inclusive
+HR1999	n	qas	no	freeloader	conservative
+HR826	n	qas	no	krutog otpada	inclusive
+HR124	n	ddp	yes	makrofaune	inclusive
+HR1138	n	is	yes	siromašnima vrag	conservative
+HR533	n	ps	yes	bugarski	inclusive
+HR141	n	re	no	sȉlovānje	inclusive
+HR1164	n	cds	no	podvođenje	inclusive
+HR651	n	an	no	barapski	conservative
+HR838	n	an	no	chinch	inclusive
+HR620	n	asm	no	idiot	inclusive
+HR1816	n	ddp	yes	microcephalus	inclusive
+HR1051	n	om	no	caudally	inclusive
+HR816	v	cds	no	klafrati	inclusive
+HR76	n	cds	no	podvala	inclusive
+HR1056	n	om	no	uvjeti za anatomskom položaju	inclusive
+HR277	n	or	no	pillock	conservative
+HR2181	n	re	no	otmičar	inclusive
+HR1488	n	is	yes	pomanjkanje	inclusive
+HR161	n	ps	yes	budala	conservative
+HR1302	n	cds	no	njuškalo	conservative
+HR2063	v	cds	no	nabirati se	inclusive
+HR120	n	an	no	epifauna	inclusive
+HR553	n	an	no	ništarija	conservative
+HR856	n	asm	no	lakovjernost	conservative
+HR1031	n	om	no	rit	inclusive
+HR2177	n	re	no	ukradeni	inclusive
+HR1312	n	svp	no	ne-račun	conservative
+HR1399	n	om	no	homoeroticism	inclusive
+HR525	n	qas	no	srednje klase	inclusive
+HR1385	n	pr	no	kurvarluk	inclusive
+HR2279	a	is	yes	siromašnih	inclusive
+HR1099	n	cds	no	intelektualac	inclusive
+HR1904	n	re	no	terorista	conservative
+HR2410	n	re	no	nasilja	inclusive
+HR2356	n	om	no	crossdresser	inclusive
+HR550	n	dmc	yes	tako i tako	conservative
+HR167	n	asf	no	dumbass	conservative
+HR229	n	ddp	yes	barbar	conservative
+HR1100	n	re	no	delikt	inclusive
+HR2239	n	an	no	žohar	inclusive
+HR1418	n	ps	yes	hebreji	inclusive
+HR1038	n	om	no	iza	inclusive
+HR570	n	an	no	kajman	inclusive
+HR578	n	an	no	štektanje	inclusive
+HR153	n	or	no	bonce	inclusive
+HR897	n	cds	no	interfertility	inclusive
+HR461	n	an	no	tjelokradica	inclusive
+HR790	n	or	no	gej	conservative
+HR1678	n	cds	no	policajaca	conservative
+HR2146	n	pr	no	preljubnica	conservative
+HR548	n	cds	no	git	conservative
+HR2019	v	is	yes	preklinjati	inclusive
+HR100	n	ddp	yes	nepismen	inclusive
+HR226	n	qas	no	grmalj	conservative
+HR2016	v	is	yes	umoliti	inclusive
+HR1931	n	dmc	yes	homunculi	inclusive
+HR1726	n	an	no	psittaciformes	inclusive
+HR1619	n	qas	no	mikstura	inclusive
+HR73	n	cds	no	šala	inclusive
+HR2018	v	is	yes	moliti	inclusive
+HR651	n	cds	no	barapski	conservative
+HR1898	n	an	no	guske	inclusive
+HR2260	n	cds	no	scijentizam	inclusive
+HR587	n	ddp	yes	uznik	inclusive
+HR2301	n	an	no	lampyris noctiluca	inclusive
+HR1131	n	an	no	eurypterids	inclusive
+HR643	n	dmc	yes	chiseller	conservative
+HR1779	n	qas	no	klasične retorike	inclusive
+HR1686	n	cds	no	mafije	inclusive
+HR2189	a	dmc	yes	zamrljan	inclusive
+HR1703	n	cds	no	paparazzo	inclusive
+HR1995	v	qas	no	zafrknuti	conservative
+HR1697	n	an	no	debeljuca	conservative
+HR620	n	cds	no	idiot	inclusive
+HR282	n	ddp	yes	pudden-glava	conservative
+HR1265	n	cds	no	fašizma	conservative
+HR2180	n	re	no	zarobljivač	inclusive
+HR231	n	cds	no	barbara	conservative
+HR843	n	an	no	hemipteran	inclusive
+HR1994	v	qas	no	fušati	conservative
+HR1030	n	om	no	dorsoventral	inclusive
+HR1126	n	dmc	yes	etički motiv	inclusive
+HR2075	a	om	no	neuobičajen	inclusive
+HR82	n	qas	no	ostaci	inclusive
+HR2109	n	re	no	plagiarization	inclusive
+HR996	n	an	no	doodly-čučanj	conservative
+HR2402	n	cds	no	podao	conservative
+HR386	n	qas	no	tycoon	inclusive
+HR442	n	qas	no	boo-boo	inclusive
+HR754	n	svp	no	tjelesna privlačnost	inclusive
+HR937	n	qas	no	raspodijeliti	conservative
+HR1142	n	dmc	yes	razvratnik	conservative
+HR489	n	asm	no	smeđa	inclusive
+HR588	n	ddp	yes	zatočenik	inclusive
+HR537	n	svp	no	arogancija	conservative
+HR1161	n	cds	no	svodnika	inclusive
+HR1194	n	dmc	yes	smrditi	conservative
+HR213	n	svp	no	škrtac	conservative
+HR1636	n	dmc	yes	zabušant	conservative
+HR2206	n	an	no	anuran	inclusive
+HR455	n	qas	no	pogriješiteljem	conservative
+HR1065	n	svp	no	proždrljivac	inclusive
+HR1114	n	qas	no	diletant	conservative
+HR128	n	ddp	yes	fauna	inclusive
+HR1714	n	qas	no	parazita	inclusive
+HR344	n	cds	no	član bande	conservative
+HR881	n	an	no	crocodylian	inclusive
+HR2120	n	an	no	pijevac	inclusive
+HR1894	n	asf	no	tehnikalija	inclusive
+HR1935	n	ddp	yes	twaddler	conservative
+HR214	n	qas	no	jaja	inclusive
+HR1871	n	ps	yes	sličan crncu	inclusive
+HR520	n	qas	no	građanskog društva	inclusive
+HR1685	n	re	no	màfija	conservative
+HR1682	n	re	no	mafiosi	conservative
+HR1370	n	re	no	ukradena dobra	inclusive
+HR1710	n	dmc	yes	primitivan	conservative
+HR646	n	dmc	yes	defrauder	conservative
+HR1953	n	an	no	viper	inclusive
+HR1910	n	re	no	umorstvo	inclusive
+HR557	n	an	no	rulja	conservative
+HR1681	n	re	no	sicilijanski mafijaški	inclusive
+HR1861	n	ps	yes	nigga	conservative
+HR167	n	ddp	yes	dumbass	conservative
+HR775	n	pa	yes	kaplar	inclusive
+HR2014	v	qas	no	maltretirati	conservative
+HR1962	n	pa	yes	kočijaš	inclusive
+HR2380	n	ps	yes	crveni karton	inclusive
+HR1906	n	an	no	krpelji	inclusive
+HR1157	n	cds	no	fanatik	conservative
+HR774	n	cds	no	zavjere šutnje	inclusive
+HR223	n	cds	no	bandit	conservative
+HR908	n	cds	no	hrpa	inclusive
+HR109	n	cds	no	mnoštvo	inclusive
+HR708	n	an	no	vulgarnosti	conservative
+HR651	n	qas	no	barapski	conservative
+HR1312	n	dmc	yes	ne-račun	conservative
+HR162	n	ddp	yes	tikvan	conservative
+HR427	n	pa	yes	poduzetnik	inclusive
+HR1612	n	ps	yes	metics	inclusive
+HR1854	n	cds	no	narcism	inclusive
+HR680	n	cds	no	plemenskim društvima	inclusive
+HR552	n	dmc	yes	šljam torba	inclusive
+HR2037	v	cds	no	natezati se	inclusive
+HR1360	n	re	no	krađa	inclusive
+HR961	n	pr	no	konkubinat	inclusive
+HR2415	n	an	no	Šarka	inclusive
+HR792	n	om	no	homophile	conservative
+HR1173	n	qas	no	farma radnik	inclusive
+HR65	n	cds	no	lijenčina	conservative
+HR1540	n	dmc	yes	pseud	conservative
+HR1130	n	an	no	more škorpion	inclusive
+HR2324	n	re	no	terorist	conservative
+HR2267	a	qas	no	iz srednjeg sloja	inclusive
+HR64	n	om	no	analni penetracija	inclusive
+HR1961	n	an	no	supa	inclusive
+HR2333	n	asm	no	falus	inclusive
+HR1706	n	cds	no	paparazzi	inclusive
+HR1018	n	dmc	yes	simulant	conservative
+HR1757	n	is	yes	siromašan	inclusive
+HR516	n	qas	no	buržoazije	inclusive
+HR1689	n	ps	yes	ostrogoti	inclusive
+HR562	n	dmc	yes	zločinačka	conservative
+HR904	n	cds	no	hibrid	inclusive
+HR899	n	cds	no	križati	inclusive
+HR801	n	ddp	yes	brbljanje	conservative
+HR355	n	cds	no	odmetnik	conservative
+HR2228	n	cds	no	weisenheimer	conservative
+HR2079	n	cds	no	tračanje	inclusive
+HR1582	n	qas	no	trgovkinja	inclusive
+HR238	n	pa	yes	zastupnik	inclusive
+HR277	n	ddp	yes	pillock	conservative
+HR951	n	cds	no	dastardliness	conservative
+HR1774	n	cds	no	relikt	inclusive
+HR1662	n	an	no	mazga	inclusive
+HR1217	n	cds	no	pajac	inclusive
+HR1014	n	svp	no	nesklonost	inclusive
+HR977	n	ddp	yes	cjepanica	conservative
+HR1208	n	dmc	yes	krivotvorenje	inclusive
+HR350	n	cds	no	bitanga	conservative
+HR514	n	om	no	sodomist	inclusive
+HR457	n	qas	no	tužno vreća	conservative
+HR160	n	ddp	yes	glupan	conservative
+HR2282	n	qas	no	krvosljednik	inclusive
+HR766	n	asm	no	nooky	conservative
+HR1120	n	dmc	yes	moralnost	inclusive
+HR895	n	ps	yes	mješanac	conservative
+HR2160	n	re	no	otimanje	inclusive
+HR1897	n	an	no	guska	inclusive
+HR1279	n	asf	no	vagine	conservative
+HR1758	n	pa	yes	svinjetina mesar	inclusive
+HR2360	n	om	no	transvestitism	inclusive
+HR974	n	an	no	despoiler	inclusive
+HR682	n	pa	yes	službenik	inclusive
+HR864	n	an	no	sova	inclusive
+HR1751	n	asm	no	jarbol	inclusive
+HR1604	n	cds	no	nered	conservative
+HR1249	n	an	no	gnjev	inclusive
+HR1881	n	an	no	odojak	inclusive
+HR1722	n	qas	no	župljanin	inclusive
+HR652	n	an	no	fukara	conservative
+HR242	n	pa	yes	ministar-savjetnik	inclusive
+HR236	n	pa	yes	savjetnik-at-zakon	inclusive
+HR2124	n	an	no	piletina	inclusive
+HR1214	n	cds	no	jato	inclusive
+HR94	n	ddp	yes	codswallop	conservative
+HR1292	n	an	no	pipistrellus	inclusive
+HR1188	n	om	no	komorač	inclusive
+HR330	n	pa	yes	nosač	inclusive
+HR2266	n	ddp	yes	priglupost	inclusive
+HR21	n	re	no	korporativne zloporabe	inclusive
+HR90	n	asm	no	izraslina	inclusive
+HR748	n	or	no	brassica oleracea	inclusive
+HR828	n	cds	no	starog željeza	inclusive
+HR642	n	re	no	camorra	inclusive
+HR237	n	pa	yes	savjetnik	inclusive
+HR136	n	re	no	kaljanje	conservative
+HR1180	n	cds	no	fascista	inclusive
+HR1252	n	svp	no	sanjalo	conservative
+HR37	n	pa	yes	akademski	inclusive
+HR1117	n	qas	no	amatera	inclusive
+HR1516	n	cds	no	ostentatiousness	inclusive
+HR2262	n	ddp	yes	unwiseness	inclusive
+HR395	n	qas	no	industrijalaca	inclusive
+HR615	n	an	no	slabić	conservative
+HR621	n	ddp	yes	imbecil	conservative
+HR1135	n	dmc	yes	nemoralnost	inclusive
+HR80	n	cds	no	budalaština	inclusive
+HR1200	n	asm	no	ribe	inclusive
+HR862	n	an	no	sovovke	inclusive
+HR1628	n	cds	no	klozet	inclusive
+HR1509	n	ddp	yes	neobrazovanost	conservative
+HR977	n	ps	yes	cjepanica	conservative
+HR1427	n	cds	no	super neopran	inclusive
+HR1852	n	dmc	yes	vočić	conservative
+HR126	n	an	no	stvorenje	inclusive
+HR1699	n	om	no	paederasty	inclusive
+HR1186	n	or	no	koromač	inclusive
+HR571	n	an	no	caiman	inclusive
+HR813	v	cds	no	klepetati	inclusive
+HR644	n	cds	no	chiseler	inclusive
+HR793	n	om	no	gay	conservative
+HR349	n	dmc	yes	skitnica	conservative
+HR226	n	ps	yes	grmalj	conservative
+HR509	n	qas	no	poslovni čovjek	inclusive
+HR115	n	an	no	jegulje	inclusive
+HR1239	n	an	no	mrštenje	inclusive
+HR2076	n	cds	no	ogovaranje	inclusive
+HR1077	n	cds	no	splavi	inclusive
+HR1988	v	qas	no	sprčkati	conservative
+HR566	n	cds	no	stara kola	inclusive
+HR286	n	an	no	kurva	conservative
+HR1387	n	is	yes	siromašna osoba	inclusive
+HR1544	n	dmc	yes	lažljivac	conservative
+HR1550	n	re	no	neonaticide	inclusive
+HR389	n	qas	no	industrijalac	inclusive
+HR2	v	an	no	zalajati	inclusive
+HR1378	n	pr	no	rubnik indeksiranja	conservative
+HR1712	n	dmc	yes	seljačina	conservative
+HR556	n	dmc	yes	zgubidanski	conservative
+HR2211	n	an	no	frogspawn	inclusive
+HR130	n	an	no	epifaunal	inclusive
+HR1589	n	svp	no	nesnošljivost	conservative
+HR1666	n	cds	no	štreber	conservative
+HR787	n	om	no	fuj	conservative
+HR1681	n	re	no	sicilijanski mafijaški	conservative
+HR2334	n	asm	no	ithyphallic	inclusive
+HR2328	n	re	no	teroristički čin	inclusive
+HR1379	n	pr	no	prostituiranje	conservative
+HR1907	n	an	no	krpelja	inclusive
+HR1071	n	pa	yes	vratar	inclusive
+HR1025	n	om	no	stražnjicu	inclusive
+HR847	n	cds	no	obmanjivanje	inclusive
+HR1911	n	re	no	ubojstvo	inclusive
+HR315	n	cds	no	obrnutom turvyness	inclusive
+HR2039	n	or	no	spud	inclusive
+HR2277	n	cds	no	wonk	conservative
+HR978	n	ps	yes	doofus	conservative
+HR1258	n	cds	no	gangstera	inclusive
+HR1411	n	ps	yes	židovska zajednica	inclusive
+HR1801	n	an	no	ajkula	inclusive
+HR551	n	cds	no	lowlife	conservative
+HR900	n	ps	yes	biljka uzgajivač	inclusive
+HR1746	n	an	no	prasence	inclusive
+HR2362	n	om	no	prijeći dorada	inclusive
+HR1183	n	re	no	iznuditi	inclusive
+HR1657	n	dmc	yes	mozzarella	inclusive
+HR2148	n	pr	no	fornicatress	conservative
+HR1273	n	asm	no	vicia faba	inclusive
+HR1040	n	om	no	aboral	inclusive
+HR384	n	qas	no	magnata	inclusive
+HR116	n	an	no	anguilliformes	inclusive
+HR904	n	ps	yes	hibrid	inclusive
+HR1326	a	cds	no	nedopušten	inclusive
+HR1653	n	an	no	moljci	inclusive
+HR1087	n	dmc	yes	lutalica	inclusive
+HR43	n	pa	yes	akademkinja	inclusive
+HR1322	v	asm	no	općiti	conservative
+HR1086	n	ps	yes	vagabond	inclusive
+HR579	n	an	no	ždrijelo	inclusive
+HR1681	n	cds	no	sicilijanski mafijaški	inclusive
+HR777	n	cds	no	newswriter	inclusive
+HR1360	n	cds	no	krađa	inclusive
+HR48	n	ddp	yes	idiotizam	inclusive
+HR1409	n	ps	yes	Židovstvo	inclusive
+HR2009	n	cds	no	arriviste	inclusive
+HR275	n	ps	yes	osoba koja ispašta tuđe greške	conservative
+HR1738	a	dmc	yes	opak	conservative
+HR1530	a	dmc	yes	nećudoredan	conservative
+HR1144	n	dmc	yes	slobodoumlje	conservative
+HR81	n	qas	no	dar-mar	inclusive
+HR455	n	cds	no	pogriješiteljem	conservative
+HR1230	n	cds	no	slobodni zidar	inclusive
+HR441	n	cds	no	prekršaj-up	inclusive
+HR779	n	cds	no	dopisnika	inclusive
+HR932	n	cds	no	kamarile	inclusive
+HR2363	n	pr	no	oštrokonđa	conservative
+HR733	n	cds	no	uživanje u samom sebi	inclusive
+HR226	n	dmc	yes	grmalj	conservative
+HR1317	n	cds	no	reakcionar	conservative
+HR1490	n	is	yes	siromaštvo	inclusive
+HR2352	n	om	no	cross-haljina	inclusive
+HR396	n	qas	no	poslovni vođa	inclusive
+HR548	n	dmc	yes	git	inclusive
+HR2041	n	or	no	krumpir	inclusive
+HR1249	n	svp	no	gnjev	inclusive
+HR328	n	dmc	yes	fabrikator	conservative
+HR305	n	qas	no	laže	conservative
+HR356	n	dmc	yes	kazneno	inclusive
+HR620	n	ddp	yes	idiot	inclusive
+HR853	n	an	no	koketa	conservative
+HR703	n	svp	no	niggardness	conservative
+HR1972	v	qas	no	zabuniti se	conservative
+HR368	n	cds	no	lopovluk	conservative
+HR2384	n	cds	no	teorije zavjere	inclusive
+HR735	n	qas	no	kasta	inclusive
+HR1115	n	an	no	escargot	inclusive
+HR308	n	dmc	yes	laži	inclusive
+HR1561	n	cds	no	zelenaš	conservative
+HR909	n	cds	no	novajlija	conservative
+HR1121	n	dmc	yes	etika	inclusive
+HR565	n	cds	no	starudija	inclusive
+HR797	n	cds	no	gossiper	conservative
+HR1787	n	re	no	pljačkaš	conservative
+HR2229	n	cds	no	cjepidlačenje	inclusive
+HR309	n	cds	no	izmišljotina	conservative
+HR1535	n	dmc	yes	nećudorednost	inclusive
+HR1215	n	cds	no	stado	inclusive
+HR416	n	cds	no	nelegitimni	inclusive
+HR332	n	cds	no	licemjer	conservative
+HR1686	n	re	no	mafije	conservative
+HR184	n	svp	no	sedam smrtnih grijeha	inclusive
+HR1511	n	an	no	nemilosrdnost	conservative
+HR449	n	cds	no	dogmatizam	conservative
+HR762	n	asm	no	vijak	conservative
+HR367	n	cds	no	vragolija	conservative
+HR1884	n	ps	yes	ostalih utrka	inclusive
+HR617	n	om	no	bolećivost	conservative
+HR1397	n	om	no	homoseksualaca	inclusive
+HR845	n	cds	no	lukavstvo	conservative
+HR76	n	ddp	yes	podvala	conservative
+HR477	n	an	no	marva	inclusive
+HR2330	n	an	no	caimans	inclusive
+HR2220	v	re	no	ukrasti	inclusive
+HR1021	n	dmc	yes	pretvaranjem	conservative
+HR790	n	om	no	gej	conservative
+HR818	n	ddp	yes	šarlatan	conservative
+HR63	n	om	no	sodomizirani	inclusive
+HR933	n	cds	no	kamarila	inclusive
+HR1253	n	dmc	yes	dilly-dallier	conservative
+HR875	n	asm	no	majmun	conservative
+HR757	n	svp	no	fizička privlačnost	inclusive
+HR1575	n	re	no	malverzacija	inclusive
+HR1247	n	an	no	srdžba	inclusive
+HR1981	v	qas	no	upropaštavati	conservative
+HR701	n	svp	no	minginess	conservative
+HR428	n	an	no	rogonja	conservative
+HR1851	n	re	no	kradljivac	inclusive
+HR131	n	ddp	yes	faune	inclusive
+HR612	n	dmc	yes	izgnanik	inclusive
+HR1034	n	om	no	stražnjice	inclusive
+HR331	n	pa	yes	gradski čuvar	inclusive
+HR2188	n	cds	no	fawner	conservative
+HR643	n	re	no	chiseller	inclusive
+HR2138	a	ps	yes	crn	inclusive
+HR1646	n	an	no	culicidae	inclusive
+HR1773	n	cds	no	relikvija	inclusive
+HR350	n	an	no	bitanga	conservative
+HR1866	n	ps	yes	crnčuga	conservative
+HR166	n	or	no	fuckhead	conservative
+HR564	n	cds	no	krntija	inclusive
+HR1893	n	cds	no	hypersexuality	conservative
+HR1812	n	an	no	animalcules	inclusive
+HR971	n	cds	no	razbojnik	inclusive
+HR321	n	ps	yes	bedu	inclusive
+HR26	n	cds	no	mešetar	inclusive
+HR207	n	cds	no	bordelima	inclusive
+HR146	n	cds	no	pronicljivost	inclusive
+HR558	n	is	yes	negativca	conservative
+HR714	n	asm	no	pijetla	inclusive
+HR1822	n	pa	yes	pastira	inclusive
+HR2318	n	re	no	seksualnih delikata	inclusive
+HR1275	n	asm	no	bob	inclusive
+HR1572	n	an	no	insecta	inclusive
+HR334	n	cds	no	bigot	conservative
+HR1945	n	cds	no	lihvarski kredit	inclusive
+HR149	n	cds	no	snalažljivost	inclusive
+HR1022	n	dmc	yes	pretvaralo	conservative
+HR1651	n	an	no	moljaca	inclusive
+HR288	n	pr	no	prostitutka	inclusive
+HR1518	n	cds	no	pomagalo u nastavi	inclusive
+HR2322	n	cds	no	trasformismo	inclusive
+HR1498	n	is	yes	lišen	inclusive
+HR332	n	svp	no	licemjer	conservative
+HR1688	n	ps	yes	ostrogot	inclusive
+HR1166	n	cds	no	podvodačica	inclusive
+HR332	n	dmc	yes	licemjer	conservative
+HR256	n	an	no	pseto	inclusive
+HR157	n	ddp	yes	glupost	conservative
+HR1506	n	ddp	yes	nesposoban	conservative
+HR1823	n	pa	yes	pastir	inclusive
+HR792	n	om	no	homophile	inclusive
+HR478	n	pr	no	bos taurus	inclusive
+HR344	n	cds	no	član bande	inclusive
+HR629	n	re	no	blaćenje	inclusive
+HR357	n	re	no	zlotvor	inclusive
+HR2354	n	om	no	križ oblači	inclusive
+HR873	n	asm	no	kreten-off	conservative
+HR126	n	ddp	yes	stvorenje	inclusive
+HR174	n	om	no	magarac	inclusive
+HR2195	a	dmc	yes	uprljan	inclusive
+HR2299	n	ddp	yes	besmislice	inclusive
+HR251	n	pa	yes	odvjetnika	inclusive
+HR1682	n	re	no	mafiosi	inclusive
+HR572	a	ddf	yes	slab	inclusive
+HR2224	n	cds	no	snob	conservative
+HR1621	n	cds	no	zahod	inclusive
+HR1930	n	re	no	mučitelj	inclusive
+HR1806	n	an	no	mikroorganizam	inclusive
+HR355	n	dmc	yes	odmetnik	inclusive
+HR121	n	ddp	yes	životinja	inclusive
+HR1374	n	qas	no	tagalong	conservative
+HR530	n	cds	no	arogantnosti	conservative
+HR645	n	cds	no	hahar	conservative
+HR1310	n	an	no	kozolike antilope	inclusive
+HR1611	n	ps	yes	zani	inclusive
+HR1368	n	re	no	plijen	inclusive
+HR1846	n	an	no	midges	inclusive
+HR2407	n	re	no	svirepost	inclusive
+HR465	n	an	no	zooerasty	conservative
+HR105	n	ddp	yes	svjetina	conservative
+HR1663	n	an	no	mula	inclusive
+HR2436	n	an	no	sivi ćuk	inclusive
+HR427	n	qas	no	poduzetnik	inclusive
+HR1052	n	om	no	zadnjica	inclusive
+HR518	n	qas	no	buržoazija	inclusive
+HR1533	n	dmc	yes	moralni bankrot	inclusive
+HR1248	n	an	no	bijes	inclusive
+HR161	n	asf	no	budala	conservative
+HR159	n	an	no	idiotarija	conservative
+HR2289	a	ddp	yes	neukusan	inclusive
+HR561	n	an	no	villainess	conservative
+HR357	n	dmc	yes	zlotvor	inclusive
+HR1258	n	re	no	gangstera	inclusive
+HR778	n	cds	no	newspaperwoman	inclusive
+HR1577	n	cds	no	backtalk	inclusive
+HR2375	n	an	no	hoax	conservative
+HR795	n	ddp	yes	rumormonger	conservative
+HR1094	n	an	no	helix pomatia	inclusive
+HR1103	n	pa	yes	posloprimac	inclusive
+HR490	n	asm	no	brownness	inclusive
+HR276	n	asf	no	mekana na dodir	conservative
+HR1036	n	om	no	ventrolateral	inclusive
+HR363	n	cds	no	dostavljač	conservative
+HR546	n	cds	no	taštine	conservative
+HR2297	a	ddp	yes	nemoćan	inclusive
+HR1984	v	qas	no	kiksati	conservative
+HR1010	n	cds	no	grunge	inclusive
+HR1886	n	ps	yes	latino	inclusive
+HR2339	v	re	no	zlostavljati	inclusive
+HR871	n	cds	no	wanker	conservative
+HR333	n	svp	no	omalovažava	conservative
+HR799	n	ddp	yes	rumourmonger	conservative
+HR1679	n	cds	no	murjak	inclusive
+HR1786	n	cds	no	kolovođa	inclusive
+HR353	n	cds	no	zločinac	inclusive
+HR87	n	cds	no	zbrka	conservative
+HR2078	n	cds	no	glasovi	inclusive
+HR2426	n	ps	yes	romski	inclusive
+HR534	n	svp	no	hvalisavost	conservative
+HR1691	n	an	no	kukuvija	inclusive
+HR558	n	re	no	negativca	conservative
+HR187	n	svp	no	avaritia	inclusive
+HR1964	n	dmc	yes	lakrdijaš	inclusive
+HR865	n	an	no	strigiformes	inclusive
+HR163	n	ddp	yes	igra karata ili domina	conservative
+HR1257	n	re	no	gangster	inclusive
+HR1138	n	dmc	yes	siromašnima vrag	conservative
+HR1396	n	om	no	homoseksualci	inclusive
+HR1676	n	cds	no	policajac	inclusive
+HR1979	v	qas	no	zbunjivati se	conservative
+HR1302	n	qas	no	njuškalo	inclusive
+HR1928	n	re	no	usmrćivanje	inclusive
+HR1936	n	ddf	yes	rugoba	inclusive
+HR559	n	dmc	yes	nitkov	conservative
+HR1296	n	asf	no	prepone kosa	inclusive
+HR614	n	dmc	yes	izgnan	inclusive
+HR1238	n	an	no	namrštiti	inclusive
+HR2365	n	pr	no	hetaira	inclusive
+HR447	n	cds	no	line-strijelac	conservative
+HR1090	n	cds	no	peons	inclusive
+HR2117	n	re	no	plagijat	inclusive
+HR1091	n	ddf	yes	patuljak	conservative
+HR2014	v	re	no	maltretirati	inclusive
+HR380	n	cds	no	pakosnost	conservative
+HR1559	n	cds	no	lihvarskim kreditima	conservative
+HR1262	n	cds	no	fašističkog režima	conservative
+HR2118	n	re	no	plagiarisation	inclusive
+HR362	n	cds	no	blabbermouth	conservative
+HR1764	n	cds	no	propagandist	inclusive
+HR163	n	an	no	igra karata ili domina	conservative
+HR373	n	cds	no	zloba	conservative
+HR429	n	cds	no	slijepa ulica	inclusive
+HR364	n	ddp	yes	alapača	conservative
+HR105	n	qas	no	svjetina	inclusive
+HR454	n	qas	no	fumbler	conservative
+HR2104	n	asm	no	wank	conservative
+HR1754	n	asm	no	motka	inclusive
+HR358	n	dmc	yes	izvan zakona	inclusive
+HR75	n	cds	no	fora	inclusive
+HR450	n	svp	no	netrpeljivost	conservative
+HR2150	n	pr	no	gaf	conservative
+HR1503	n	is	yes	siromaštva	inclusive
+HR2325	n	re	no	terorizma	conservative
+HR218	n	qas	no	ballock	inclusive
+HR517	n	qas	no	srednji stalež	inclusive
+HR1447	n	qas	no	ćumez	inclusive
+HR551	n	dmc	yes	lowlife	conservative
+HR1581	n	qas	no	tržište čuvar	inclusive
+HR240	n	pa	yes	branitelj	inclusive
+HR2127	n	an	no	poulet	inclusive
+HR1406	n	ps	yes	židovske	inclusive
+HR274	n	ddp	yes	prostak	conservative
+HR1136	n	dmc	yes	nemoral	inclusive
+HR1330	a	cds	no	nezakonit	inclusive
+HR466	n	ddp	yes	zooerastia	conservative
+HR1933	n	ddf	yes	slijepac	inclusive
+HR2227	n	cds	no	mudar čovjek	conservative
+HR2302	n	re	no	debaucher	conservative
+HR220	n	qas	no	testis	inclusive
+HR784	n	or	no	poove	conservative
+HR265	n	qas	no	arhitektura baroka	inclusive
+HR2123	n	an	no	kokoši	inclusive
+HR537	n	cds	no	arogancija	conservative
+HR1019	n	dmc	yes	licemjerno	conservative
+HR2423	n	ps	yes	rom	inclusive
+HR1617	n	dmc	yes	lopov	conservative
+HR2049	n	cds	no	cjepidlaka	conservative
+HR2105	n	asm	no	jerking off	conservative
+HR1937	n	ddf	yes	ružnoća	inclusive
+HR1564	n	cds	no	zajmodavac	inclusive
+HR622	n	cds	no	changeling	inclusive
+HR538	n	svp	no	umišljenost	conservative
+HR1834	n	an	no	puž	inclusive
+HR785	n	om	no	nance	conservative
+HR1251	n	dmc	yes	dillydallier	conservative
+HR388	n	qas	no	magnat	inclusive
+HR676	n	cds	no	klan	inclusive
+HR854	n	an	no	prickteaser	conservative
+HR2057	v	qas	no	zakrpati	inclusive
+HR1723	n	qas	no	župa	inclusive
+HR1584	n	asm	no	kesten	inclusive
+HR1681	n	cds	no	sicilijanski mafijaški	conservative
+HR1839	n	ps	yes	mongoloids	conservative
+HR479	n	pr	no	krave	inclusive
+HR1996	v	qas	no	spackati	conservative
+HR2145	n	pr	no	bestidnica	conservative
+HR761	n	asm	no	komad repa	conservative
+HR825	n	cds	no	smeća	conservative
+HR1829	n	qas	no	sinker	inclusive
+HR817	n	ddp	yes	Šarlatan	conservative
+HR559	n	re	no	nitkov	conservative
+HR2370	n	asm	no	avafauna	inclusive
+HR541	n	cds	no	nadutost	conservative
+HR1863	n	ps	yes	nigra	conservative
+HR1949	n	ps	yes	vandali	inclusive
+HR306	n	cds	no	neistina	conservative
+HR873	n	cds	no	kreten-off	conservative
+HR74	n	cds	no	štos	inclusive
+HR52	n	pa	yes	akademizam	inclusive
+HR204	n	cds	no	bagnio	inclusive
+HR1802	n	an	no	morski psi	inclusive
+HR805	n	cds	no	kanalizacijska cijev	inclusive
+HR94	n	cds	no	codswallop	conservative
+HR2107	n	cds	no	jacking off	conservative
+HR130	n	ddp	yes	epifaunal	inclusive
+HR1828	n	qas	no	visak	inclusive
+HR670	n	cds	no	rođaci	inclusive
+HR1450	n	qas	no	kućerak	inclusive
+HR548	n	dmc	yes	git	conservative
+HR2153	n	pa	yes	kontrolora	inclusive
+HR2296	a	ddp	yes	nesposoban	inclusive
+HR2182	a	om	no	raznovrstan	inclusive
+HR1909	n	an	no	ixodoidea	inclusive
+HR194	n	svp	no	motiv škrca	inclusive
+HR166	n	an	no	fuckhead	conservative
+HR621	n	asf	no	imbecil	conservative
+HR1189	n	om	no	anason	inclusive
+HR1631	n	cds	no	lav	inclusive
+HR1344	n	an	no	sus scrofa	inclusive
+HR481	n	pr	no	stoka	inclusive
+HR86	n	qas	no	mješavina	inclusive
+HR230	n	rci	yes	grubijan	conservative
+HR1877	n	ps	yes	crno osoba	inclusive
+HR1352	n	an	no	kljuse	inclusive
+HR1544	n	dmc	yes	lažljivac	inclusive
+HR1067	n	svp	no	hrana	conservative
+HR940	n	qas	no	uništavanje	conservative
+HR967	n	pr	no	ljubavnica	inclusive
+HR1827	n	asm	no	flouter	conservative
+HR562	n	an	no	zločinačka	conservative
+HR2202	n	an	no	anura	inclusive
+HR443	n	qas	no	loša izrada	inclusive
+HR155	n	asm	no	bedastoća	conservative
+HR46	n	ddp	yes	intelektualnim teškoćama	inclusive
+HR1586	n	cds	no	provodadžija	inclusive
+HR1092	n	an	no	nanus	conservative
+HR1519	n	cds	no	učiteljica	inclusive
+HR2387	n	cds	no	teorija urote	inclusive
+HR157	n	asm	no	glupost	conservative
+HR2113	n	re	no	gusara	inclusive
+HR798	n	cds	no	proturač novosti	conservative
+HR1867	n	ps	yes	darkie	conservative
+HR132	n	re	no	kleveta	conservative
+HR982	n	re	no	kriminalno ponašanje	inclusive
+HR358	n	cds	no	izvan zakona	inclusive
+HR244	n	pa	yes	proponent	inclusive
+HR2233	n	an	no	krvopija	inclusive
+HR1639	n	an	no	mollusca	inclusive
+HR1561	n	cds	no	zelenaš	inclusive
+HR1386	n	pr	no	prostitutke	inclusive
+HR163	n	asf	no	igra karata ili domina	conservative
+HR355	n	re	no	odmetnik	inclusive
+HR239	n	pa	yes	ministar	inclusive
+HR1377	n	pr	no	kurvanje	conservative
+HR1017	n	dmc	yes	licemjerja	conservative
+HR1709	n	qas	no	parazit	inclusive
+HR486	n	ddp	yes	oštećenje mozga	inclusive
+HR2403	n	cds	no	plašljivac	conservative
+HR2186	n	cds	no	jabuka poliranje	conservative
+HR323	n	pr	no	goveda	inclusive

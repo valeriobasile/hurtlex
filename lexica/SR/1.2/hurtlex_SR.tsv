@@ -1,0 +1,2640 @@
+id	pos	category	stereotype	lemma	level
+SR889	n	an	no	диддлеи	conservative
+SR1365	n	cds	no	помпезност	conservative
+SR495	n	an	no	виллаинесс	conservative
+SR425	n	pr	no	krava	inclusive
+SR478	n	cds	no	хвалисавост	conservative
+SR145	n	an	no	незналица	conservative
+SR1643	n	an	no	mikrob	inclusive
+SR1552	n	cds	no	сељачина	conservative
+SR1257	n	om	no	хомоеротска	inclusive
+SR564	n	re	no	варалица	inclusive
+SR454	n	qas	no	Средња класа	inclusive
+SR353	n	dmc	yes	лопов	conservative
+SR408	n	an	no	фероциоуснесс	conservative
+SR1895	n	an	no	поулет	inclusive
+SR520	n	an	no	царцхародон	inclusive
+SR839	n	cds	no	цут-уп	conservative
+SR168	n	ddp	yes	брбљивац	inclusive
+SR287	n	an	no	јунади	inclusive
+SR1859	n	an	no	vaška	inclusive
+SR1883	n	re	no	Плагијат	inclusive
+SR229	n	an	no	куче	inclusive
+SR302	n	cds	no	гангстеризам	conservative
+SR39	n	qas	no	аматеурисхнесс	conservative
+SR107	n	an	no	метазоанс	inclusive
+SR1734	n	cds	no	нимфоманија	conservative
+SR2042	a	is	yes	сиромашан	inclusive
+SR97	n	an	no	јегуља	inclusive
+SR2102	n	om	no	кросдресер	inclusive
+SR1335	n	ddf	yes	онемогућавање	inclusive
+SR1244	n	pr	no	сексуалних услуга	inclusive
+SR1235	n	pr	no	курвање	inclusive
+SR1134	n	dmc	yes	Гангстер	inclusive
+SR1075	n	asm	no	птеригиопхоре	inclusive
+SR727	n	pr	no	мукање крава-	inclusive
+SR1882	n	re	no	плагиарисе	inclusive
+SR2076	n	re	no	Терориста	inclusive
+SR1557	n	qas	no	нецротропхиц	inclusive
+SR1356	n	is	yes	Сиромаштво	inclusive
+SR563	n	cds	no	дефраудер	inclusive
+SR865	n	pr	no	дворанин	inclusive
+SR1085	n	an	no	буве	inclusive
+SR687	n	asm	no	схтуп	conservative
+SR1123	n	an	no	Гњев	inclusive
+SR100	n	an	no	ugor	inclusive
+SR490	n	dmc	yes	скитница	inclusive
+SR1190	n	svp	no	гооф-офф	conservative
+SR1180	n	cds	no	наметљивац	conservative
+SR397	n	an	no	боди снатцхерс	inclusive
+SR919	n	dmc	yes	лицемерје	conservative
+SR1576	n	dmc	yes	зла	inclusive
+SR599	n	pa	yes	чиновник	inclusive
+SR1513	n	cds	no	преступник	inclusive
+SR121	n	ddp	yes	мацрофауна	inclusive
+SR390	n	qas	no	конформистички	conservative
+SR796	n	an	no	крокодилски	inclusive
+SR112	n	ddp	yes	Царство Животиња	inclusive
+SR274	n	cds	no	дандиес	inclusive
+SR1212	n	cds	no	књижевни хацк	conservative
+SR1925	n	pr	no	форницатресс	conservative
+SR1770	n	re	no	стављајући до смрти	inclusive
+SR240	n	cds	no	осим	inclusive
+SR1340	n	ddf	yes	инвалидитетом	inclusive
+SR114	n	an	no	animal	inclusive
+SR1683	n	ps	yes	Жута раса	conservative
+SR74	n	cds	no	збрка	conservative
+SR1111	n	cds	no	фундаментализам	inclusive
+SR348	n	cds	no	џукела	inclusive
+SR73	n	qas	no	папазјанија	inclusive
+SR628	n	asm	no	petao	inclusive
+SR1387	n	dmc	yes	псеуд	conservative
+SR1948	n	re	no	стицкуп	inclusive
+SR1092	n	dmc	yes	Луда	inclusive
+SR536	n	asm	no	идиот	inclusive
+SR59	n	om	no	анални однос	inclusive
+SR393	n	cds	no	блундерер	conservative
+SR53	n	an	no	бисон бисон	inclusive
+SR248	n	asf	no	особа која испашта туђе грешке	conservative
+SR964	n	re	no	малолетни деликвент	conservative
+SR1295	n	qas	no	Молер	inclusive
+SR104	n	an	no	јегуље	inclusive
+SR2143	n	om	no	Драг квин	inclusive
+SR1290	n	cds	no	прелат	inclusive
+SR1395	n	re	no	чедоморство	inclusive
+SR1318	n	cds	no	баладе	inclusive
+SR736	n	cds	no	комуналног отпада	conservative
+SR91	n	ddp	yes	аналпхабетиц	inclusive
+SR1125	n	svp	no	даллиер	conservative
+SR2034	n	an	no	сциаенопс оцеллатус	inclusive
+SR201	n	cds	no	варвара	conservative
+SR353	n	cds	no	лопов	inclusive
+SR1366	n	cds	no	умишљености	conservative
+SR1536	n	an	no	Волови	inclusive
+SR1635	n	an	no	микроба	inclusive
+SR853	n	cds	no	лармаџија	conservative
+SR248	n	cds	no	особа која испашта туђе грешке	conservative
+SR77	n	qas	no	парчићи	inclusive
+SR261	n	pr	no	проститутка	inclusive
+SR1141	n	cds	no	фашизма	conservative
+SR1824	n	cds	no	боокворм	conservative
+SR1258	n	om	no	Мужеложништво	inclusive
+SR414	n	an	no	волови	inclusive
+SR268	n	dmc	yes	неистина	inclusive
+SR1452	n	or	no	пунцтилиоуснесс	inclusive
+SR246	n	cds	no	простак	conservative
+SR1162	n	asf	no	vagina	conservative
+SR2051	n	ddp	yes	глупост	inclusive
+SR216	n	pa	yes	саветник-ат-закон	inclusive
+SR230	n	an	no	псето	inclusive
+SR1338	n	ddf	yes	Дисабилитет	inclusive
+SR491	n	dmc	yes	хобо	conservative
+SR751	n	an	no	кревет бугова	inclusive
+SR586	n	cds	no	клан	inclusive
+SR2033	n	an	no	канал бас	inclusive
+SR1924	n	pr	no	прељубница	conservative
+SR427	n	cds	no	direktor	inclusive
+SR1939	n	re	no	Отмица	inclusive
+SR136	n	ddp	yes	глупан	conservative
+SR980	n	cds	no	пеонс	inclusive
+SR642	n	cds	no	месс уп	inclusive
+SR200	n	dmc	yes	Варвар	conservative
+SR2191	n	ps	yes	Циган	inclusive
+SR12	n	svp	no	apatija	inclusive
+SR1438	n	svp	no	ангринесс	inclusive
+SR1396	n	re	no	неонатициде	inclusive
+SR1092	n	cds	no	Луда	inclusive
+SR922	n	om	no	guza	inclusive
+SR1754	n	an	no	Крпељ	inclusive
+SR683	n	asm	no	дупенце	conservative
+SR2022	n	an	no	цанис ауреус	inclusive
+SR252	n	or	no	компреса	conservative
+SR493	n	cds	no	лаиабоут	conservative
+SR474	n	ps	yes	Бугар	inclusive
+SR22	n	re	no	увредљив	inclusive
+SR945	n	om	no	кошута крај	inclusive
+SR1120	n	svp	no	бес	conservative
+SR2036	n	an	no	редфисх	inclusive
+SR1404	n	cds	no	зеленашење	conservative
+SR717	n	om	no	туинк	conservative
+SR111	n	ddp	yes	животиња	inclusive
+SR207	n	qas	no	продавац	inclusive
+SR2055	n	an	no	ноцтилуца	inclusive
+SR321	n	cds	no	алапача	conservative
+SR644	n	cds	no	куглице-уп	inclusive
+SR1298	n	svp	no	преједање	inclusive
+SR1022	n	dmc	yes	сладострасник	conservative
+SR540	n	asm	no	имбецил	inclusive
+SR453	n	qas	no	Буржоазија	inclusive
+SR344	n	re	no	нитков	conservative
+SR192	n	asm	no	тестиси	inclusive
+SR222	n	pa	yes	адвоцатор	inclusive
+SR1899	n	an	no	пилетину	inclusive
+SR1782	n	an	no	випер	inclusive
+SR539	n	ddp	yes	кретен	inclusive
+SR569	n	an	no	олош	conservative
+SR1099	n	cds	no	Слободни зидар	inclusive
+SR1135	n	re	no	мафијаш	conservative
+SR1190	n	dmc	yes	гооф-офф	conservative
+SR371	n	dmc	yes	ракехелл	conservative
+SR1091	n	dmc	yes	дворска луда	inclusive
+SR576	n	an	no	пас	inclusive
+SR310	n	re	no	злочинац	inclusive
+SR391	n	dmc	yes	фумблер	conservative
+SR470	n	cds	no	самољубив	conservative
+SR2100	n	om	no	цроссдрессер	inclusive
+SR269	n	cds	no	лаж	conservative
+SR1169	n	cds	no	корективни службеник	inclusive
+SR836	n	cds	no	одбити	conservative
+SR1422	n	qas	no	магационер	inclusive
+SR77	n	cds	no	парчићи	inclusive
+SR1166	n	pr	no	пиштољ молл	inclusive
+SR452	n	om	no	содомист	inclusive
+SR781	n	an	no	strigiformes	inclusive
+SR47	n	ddp	yes	mentalna retardacija	inclusive
+SR215	n	pa	yes	бранилац	inclusive
+SR416	n	an	no	bos taurus	inclusive
+SR312	n	cds	no	одметник	inclusive
+SR505	n	an	no	цакехоле	inclusive
+SR1177	n	asf	no	препоне косе	inclusive
+SR177	n	cds	no	непристојан кућу	inclusive
+SR264	n	an	no	флоозие	conservative
+SR137	n	cds	no	тикван	conservative
+SR1232	n	cds	no	курира	inclusive
+SR62	n	om	no	содомија	inclusive
+SR1237	n	pr	no	блудничење	inclusive
+SR1349	n	is	yes	сиромаха	inclusive
+SR812	n	ps	yes	укрштањем	inclusive
+SR146	n	ddp	yes	не знам ништа	conservative
+SR1327	n	cds	no	Идолопоклонство	inclusive
+SR472	n	cds	no	претенциозности	conservative
+SR568	n	cds	no	цхеекинесс	conservative
+SR547	n	re	no	трговински увреду	inclusive
+SR1242	n	pr	no	проституција	conservative
+SR674	n	or	no	купус	inclusive
+SR32	n	cds	no	фактор	inclusive
+SR246	n	ddp	yes	простак	conservative
+SR1393	n	dmc	yes	ленчуга	conservative
+SR589	n	cds	no	клана	inclusive
+SR912	n	dmc	yes	лажан	conservative
+SR2187	n	re	no	Делинквент	inclusive
+SR1584	n	an	no	схоте	inclusive
+SR582	n	dmc	yes	лоша особа	conservative
+SR1625	n	ps	yes	местизо	conservative
+SR2114	n	pr	no	оштроконџа	conservative
+SR898	n	ps	yes	швабама	conservative
+SR1216	n	re	no	гранд тхефт	inclusive
+SR1010	n	dmc	yes	моралистичку	inclusive
+SR252	n	cds	no	компреса	conservative
+SR2134	n	cds	no	teorija zavere	inclusive
+SR1831	n	dmc	yes	трифлер	conservative
+SR2150	n	pa	yes	Обућар	inclusive
+SR36	n	pa	yes	факултет члан	inclusive
+SR71	n	qas	no	омниум-гатхерум	inclusive
+SR1495	n	pr	no	мољца	inclusive
+SR809	n	cds	no	укрстити	inclusive
+SR42	n	pa	yes	академика	inclusive
+SR1135	n	cds	no	мафијаш	inclusive
+SR64	n	om	no	anal sex	inclusive
+SR202	n	rci	yes	грубијан	conservative
+SR684	n	asm	no	ноокие	conservative
+SR1311	n	an	no	Хијене	inclusive
+SR734	n	ddp	yes	Надрилекарство	conservative
+SR1410	n	an	no	Инсект	inclusive
+SR1814	n	qas	no	невоља кафу	conservative
+SR1573	n	an	no	Папагај	inclusive
+SR719	n	ddp	yes	румоурмонгер	conservative
+SR1073	n	cds	no	ванглер	conservative
+SR1471	n	cds	no	клозет	inclusive
+SR1368	n	cds	no	остентатиоуснесс	conservative
+SR566	n	dmc	yes	сцаммер	conservative
+SR795	n	an	no	Крокодил	inclusive
+SR1608	n	qas	no	Ораторство	inclusive
+SR107	n	ddp	yes	метазоанс	inclusive
+SR435	n	asm	no	браон	inclusive
+SR760	n	svp	no	Танха	inclusive
+SR79	n	asm	no	метох	inclusive
+SR1017	n	an	no	еуриптеридс	inclusive
+SR1615	n	cds	no	коловођа	inclusive
+SR2167	n	pr	no	дворских	inclusive
+SR1392	n	dmc	yes	врдалама	conservative
+SR135	n	ddp	yes	бетисе	conservative
+SR191	n	asm	no	Тестис	inclusive
+SR1042	n	cds	no	сводник	conservative
+SR1542	n	cds	no	папараца	inclusive
+SR1539	n	om	no	Педерастија	inclusive
+SR559	n	cds	no	camorra	inclusive
+SR615	n	svp	no	тигхтфистеднесс	conservative
+SR2205	n	an	no	кукумавка	inclusive
+SR1524	n	cds	no	Мафија	inclusive
+SR1270	n	ps	yes	јеврејској традицији	inclusive
+SR1723	n	ps	yes	азијски	inclusive
+SR383	n	cds	no	ваунтер	conservative
+SR495	n	is	yes	виллаинесс	conservative
+SR143	n	or	no	кнуцклехеад	conservative
+SR1323	n	cds	no	слављење идола	inclusive
+SR363	n	re	no	уцена	conservative
+SR1842	n	cds	no	гунђало	conservative
+SR655	n	pa	yes	професор	inclusive
+SR1016	n	dmc	yes	Морализам	inclusive
+SR84	n	asf	no	фолдерол	conservative
+SR766	n	an	no	кокета	conservative
+SR935	n	om	no	апексног	inclusive
+SR1408	n	cds	no	зајмодаваца	inclusive
+SR2024	a	svp	no	pohotljiv	conservative
+SR1076	n	pa	yes	рибе	inclusive
+SR2032	a	ddp	yes	глупо	conservative
+SR552	n	re	no	оговарач	conservative
+SR394	n	ddp	yes	шепртља	conservative
+SR86	n	cds	no	љубомора	inclusive
+SR563	n	dmc	yes	дефраудер	conservative
+SR2112	n	om	no	трансвеститисм	inclusive
+SR103	n	an	no	jegulja	inclusive
+SR1109	n	an	no	мрк поглед	inclusive
+SR1469	n	cds	no	нужник	inclusive
+SR640	n	qas	no	себар	inclusive
+SR1993	n	an	no	хирудинеан	inclusive
+SR819	n	qas	no	Комформизам	inclusive
+SR1566	n	qas	no	парохије	inclusive
+SR1990	n	cds	no	висенхеимер	conservative
+SR1348	n	is	yes	ниским примањима	inclusive
+SR139	n	ps	yes	будала	conservative
+SR448	n	qas	no	грађанин људи	inclusive
+SR1287	n	cds	no	хои поллои	inclusive
+SR1137	n	cds	no	фашизам	conservative
+SR1268	n	ps	yes	јудејској	inclusive
+SR774	n	an	no	стригиформес	inclusive
+SR940	n	om	no	услови за анатомску локацију	inclusive
+SR1986	n	cds	no	сноб	conservative
+SR106	n	ddp	yes	епифауна	inclusive
+SR186	n	qas	no	тестис	inclusive
+SR1531	n	an	no	кукувија	inclusive
+SR247	n	ps	yes	мека на додир	conservative
+SR301	n	cds	no	Банда	inclusive
+SR102	n	an	no	угор	inclusive
+SR602	n	an	no	Јарац	inclusive
+SR1870	a	svp	no	љут	inclusive
+SR344	n	an	no	нитков	conservative
+SR405	n	an	no	зооерастиа	conservative
+SR2158	n	dmc	yes	скитање	inclusive
+SR376	n	cds	no	боо-боо	inclusive
+SR2074	n	cds	no	површности	inclusive
+SR721	n	ddp	yes	трачибаба	conservative
+SR290	n	dmc	yes	фабрицатор	conservative
+SR122	n	ddp	yes	епифаунал	inclusive
+SR378	n	qas	no	лоша израда	inclusive
+SR905	n	cds	no	грунге	inclusive
+SR465	n	qas	no	средње класе	inclusive
+SR1977	n	an	no	батрацхиан	inclusive
+SR578	n	an	no	kuče	inclusive
+SR1520	n	cds	no	италијанском мафијом	conservative
+SR1185	n	an	no	гнат	inclusive
+SR497	n	re	no	негативац	conservative
+SR1064	n	om	no	финоццхио	inclusive
+SR702	n	cds	no	новински сарадник	inclusive
+SR35	n	pa	yes	академског	inclusive
+SR997	n	re	no	преступника	inclusive
+SR952	n	qas	no	сливник	inclusive
+SR856	n	cds	no	Демагог	conservative
+SR728	n	cds	no	кукавица	conservative
+SR1651	n	ddp	yes	Микроцефалија	inclusive
+SR914	n	dmc	yes	Лицемерје	conservative
+SR532	n	is	yes	изгнаник	inclusive
+SR2105	n	om	no	трансвестит	inclusive
+SR820	n	cds	no	синко	inclusive
+SR1549	n	cds	no	Папарацо	inclusive
+SR266	n	an	no	дроља	conservative
+SR556	n	re	no	либелер	conservative
+SR478	n	svp	no	хвалисавост	conservative
+SR306	n	an	no	битанга	conservative
+SR123	n	an	no	Фауна	inclusive
+SR712	n	or	no	gay	conservative
+SR1306	n	cds	no	охолости	conservative
+SR541	n	asf	no	цхангелингс	conservative
+SR897	n	ps	yes	краутхеад	conservative
+SR541	n	asm	no	цхангелингс	inclusive
+SR985	n	an	no	хелик поматиа	inclusive
+SR1058	n	ps	yes	фашиста	inclusive
+SR1739	n	qas	no	станар пољопривредник	inclusive
+SR1089	n	cds	no	глупирање	inclusive
+SR227	n	pa	yes	Адвокатица	inclusive
+SR87	n	cds	no	Зилоти	inclusive
+SR1945	n	re	no	опљачкан	inclusive
+SR408	n	ddp	yes	фероциоуснесс	conservative
+SR1368	n	cds	no	остентатиоуснесс	inclusive
+SR1749	n	re	no	терориста	conservative
+SR1845	n	cds	no	цмиздравце	conservative
+SR1473	n	svp	no	слацкер	conservative
+SR1275	n	ps	yes	јеврејске заједнице	inclusive
+SR309	n	dmc	yes	стављање ван закона	inclusive
+SR554	n	re	no	вилифиер	conservative
+SR784	n	cds	no	дркаџијо	conservative
+SR247	n	ddp	yes	мека на додир	conservative
+SR1388	n	dmc	yes	псеудо	conservative
+SR235	n	qas	no	барокуенесс	inclusive
+SR1205	n	an	no	свиња	inclusive
+SR2159	n	cds	no	подмитљивост	inclusive
+SR2165	n	cds	no	плашљив	conservative
+SR1875	n	re	no	плагијат	inclusive
+SR2120	n	asm	no	авафауна	inclusive
+SR283	n	ps	yes	беду	inclusive
+SR1062	n	re	no	изнуди	inclusive
+SR1798	n	an	no	омакнуо му се језик	inclusive
+SR456	n	qas	no	буржоаског друштва	inclusive
+SR1510	n	cds	no	одојче	inclusive
+SR2009	n	an	no	блаттариа	inclusive
+SR311	n	dmc	yes	бандитти	inclusive
+SR260	n	pr	no	курва	conservative
+SR353	n	re	no	лопов	inclusive
+SR886	n	re	no	злочине	inclusive
+SR514	n	ddp	yes	затвореник	inclusive
+SR496	n	an	no	простачки	conservative
+SR804	n	ps	yes	Хибридна семена	inclusive
+SR1003	n	an	no	оброк	inclusive
+SR203	n	dmc	yes	Варвари	conservative
+SR1206	n	an	no	Свиње	inclusive
+SR1198	n	an	no	евроазијска белоглави	inclusive
+SR513	n	ddp	yes	затвореника	inclusive
+SR108	n	an	no	animalia	inclusive
+SR1678	n	cds	no	мистификатор	conservative
+SR1462	n	cds	no	вц објекат	inclusive
+SR1481	n	an	no	моллусца	inclusive
+SR1667	n	pa	yes	Пастир	inclusive
+SR721	n	cds	no	трачибаба	conservative
+SR1729	n	cds	no	Синдром Казанове	conservative
+SR942	n	om	no	задњица	inclusive
+SR1501	n	dmc	yes	моцарела	inclusive
+SR155	n	an	no	бисон бонасус	inclusive
+SR809	n	ps	yes	укрстити	inclusive
+SR204	n	dmc	yes	Βάρβαρος	conservative
+SR957	n	svp	no	гоурмандизер	conservative
+SR497	n	dmc	yes	негативац	conservative
+SR1586	n	an	no	прасету	inclusive
+SR1442	n	re	no	рустлер	inclusive
+SR704	n	cds	no	дописник	inclusive
+SR679	n	svp	no	ерос	inclusive
+SR506	n	an	no	чељуст	inclusive
+SR1478	n	an	no	мекушце	inclusive
+SR41	n	pa	yes	академик	inclusive
+SR1375	n	cds	no	Наставник	inclusive
+SR200	n	pa	yes	Варвар	conservative
+SR56	n	svp	no	самољубља	conservative
+SR247	n	asm	no	мека на додир	conservative
+SR1154	n	asm	no	енглеском пасуљ	inclusive
+SR1228	n	re	no	пљачкати	inclusive
+SR1293	n	qas	no	молер	inclusive
+SR1372	n	cds	no	Учитељ	inclusive
+SR269	n	cds	no	лаж	inclusive
+SR561	n	cds	no	камора	inclusive
+SR2156	n	dmc	yes	вагрантс	inclusive
+SR471	n	cds	no	дрскост	conservative
+SR1937	n	re	no	киднапује	inclusive
+SR659	n	pa	yes	столицу	inclusive
+SR252	n	ddp	yes	компреса	conservative
+SR80	n	asm	no	макиллипед	inclusive
+SR1804	n	qas	no	луњати	conservative
+SR1391	n	dmc	yes	лажов	inclusive
+SR76	n	cds	no	остаци	inclusive
+SR2118	n	asm	no	Птице	inclusive
+SR1766	n	re	no	Слејер	inclusive
+SR634	n	cds	no	проблем	conservative
+SR785	n	dmc	yes	никоговић	conservative
+SR497	n	an	no	негативац	conservative
+SR2168	n	re	no	свирепост	inclusive
+SR723	n	an	no	физиогномика	inclusive
+SR135	n	asf	no	бетисе	conservative
+SR1242	n	pr	no	проституција	inclusive
+SR724	n	an	no	fiziognomika	inclusive
+SR694	n	an	no	зеца	inclusive
+SR738	n	cds	no	старо гвожђе	conservative
+SR1389	n	svp	no	лустфулнесс	inclusive
+SR217	n	pa	yes	Дипломатические ранги Российской федерации	inclusive
+SR1872	n	cds	no	рука посао	conservative
+SR1320	n	asf	no	девојка	conservative
+SR364	n	pa	yes	погребник	inclusive
+SR1371	n	cds	no	инструктор	inclusive
+SR1399	a	is	yes	несрећан	inclusive
+SR388	n	cds	no	догматизам	conservative
+SR407	n	ddp	yes	поквареност	conservative
+SR380	n	qas	no	грешка	inclusive
+SR988	n	cds	no	просветитељ	inclusive
+SR1466	n	cds	no	јавни тоалети	inclusive
+SR2081	n	re	no	terorizam	inclusive
+SR685	n	asm	no	ролл у сену	conservative
+SR108	n	ddp	yes	animalia	inclusive
+SR1028	n	dmc	yes	сцаттергоод	inclusive
+SR264	n	pr	no	флоозие	conservative
+SR61	n	om	no	анални секс	inclusive
+SR496	n	re	no	простачки	conservative
+SR249	n	ddp	yes	глупа особа	conservative
+SR2154	n	pa	yes	цордваинер	inclusive
+SR672	n	or	no	Купус	inclusive
+SR515	n	cds	no	вагона воза	inclusive
+SR1241	n	pr	no	Курва	conservative
+SR1521	n	re	no	сицилијанска мафија	conservative
+SR976	n	cds	no	много	inclusive
+SR2044	a	is	yes	бедан	inclusive
+SR1464	n	cds	no	тоалет	inclusive
+SR75	n	cds	no	дар-мар	inclusive
+SR291	n	cds	no	фиббер	conservative
+SR1991	n	cds	no	педантерија	inclusive
+SR2176	n	pa	yes	posloprimac	inclusive
+SR977	n	cds	no	тона	inclusive
+SR138	n	ddp	yes	игра карата или домина	conservative
+SR1236	n	pr	no	црацк курве	conservative
+SR2068	n	re	no	сексуалног злочина	inclusive
+SR89	n	ddp	yes	неписмен	inclusive
+SR299	n	cds	no	омладинских банди	inclusive
+SR953	n	qas	no	немилост	inclusive
+SR1861	n	an	no	пхтхираптера	inclusive
+SR1186	n	cds	no	посредник	inclusive
+SR2109	n	om	no	пређе облачење	inclusive
+SR1868	n	cds	no	религиозност	inclusive
+SR1217	n	re	no	лоповлук	inclusive
+SR1985	n	an	no	Обична крастача	inclusive
+SR203	n	qas	no	Варвари	conservative
+SR564	n	cds	no	варалица	conservative
+SR497	n	cds	no	негативац	conservative
+SR356	n	cds	no	курвин син	conservative
+SR295	n	pa	yes	портирске	inclusive
+SR245	n	asf	no	глупак	conservative
+SR537	n	ps	yes	Идиот	conservative
+SR1554	n	dmc	yes	рубе	conservative
+SR769	n	asm	no	цредулоуснесс	conservative
+SR344	n	dmc	yes	нитков	conservative
+SR481	n	cds	no	цонцеитеднесс	conservative
+SR843	n	om	no	Дама	inclusive
+SR200	n	rci	yes	Варвар	conservative
+SR1256	n	om	no	гаинесс	inclusive
+SR1657	n	an	no	Јагње	inclusive
+SR1091	n	cds	no	дворска луда	inclusive
+SR648	n	cds	no	уживање у самом себи	inclusive
+SR821	n	cds	no	сонни бои	inclusive
+SR420	n	pr	no	воловима	inclusive
+SR2149	n	om	no	Драг краљица	inclusive
+SR1222	n	cds	no	крађе	inclusive
+SR881	n	cds	no	Злочин	inclusive
+SR1815	n	qas	no	који сеје раздор	conservative
+SR312	n	cds	no	одметник	conservative
+SR2106	n	om	no	крос-салон	inclusive
+SR204	n	ddp	yes	Βάρβαρος	conservative
+SR496	n	is	yes	простачки	conservative
+SR1712	n	ps	yes	сличан црнцу	inclusive
+SR1890	n	re	no	плагирати	inclusive
+SR2027	n	cds	no	сцијентизам	inclusive
+SR1034	n	cds	no	пхратри	inclusive
+SR973	n	cds	no	слевс	inclusive
+SR1374	n	cds	no	Наставница	inclusive
+SR489	n	an	no	гит	conservative
+SR183	n	is	yes	цхеапскате	conservative
+SR2048	n	qas	no	крвоследник	inclusive
+SR1398	a	is	yes	несрећне	inclusive
+SR613	n	svp	no	ниггардлинесс	conservative
+SR1458	n	qas	no	Смеше	inclusive
+SR1494	n	pr	no	мољац	inclusive
+SR496	n	cds	no	простачки	conservative
+SR1714	n	ps	yes	негроиди	inclusive
+SR1908	n	cds	no	Новорођенче	inclusive
+SR632	n	asm	no	петлић	inclusive
+SR1021	n	is	yes	јадник	inclusive
+SR603	n	an	no	capra	inclusive
+SR1121	n	an	no	Гнев	inclusive
+SR127	n	re	no	силовање	inclusive
+SR1011	n	dmc	yes	етички мотив	inclusive
+SR1393	n	cds	no	ленчуга	conservative
+SR1412	n	an	no	Инсекти	inclusive
+SR744	n	an	no	бедбугс	inclusive
+SR1280	n	ps	yes	Јевреј	inclusive
+SR1239	n	pr	no	prostitucija	conservative
+SR492	n	dmc	yes	хобос	conservative
+SR1679	n	cds	no	збуњујуће питање	conservative
+SR1147	n	asm	no	поље пасуља	inclusive
+SR1328	n	an	no	стрик вариа	inclusive
+SR838	n	cds	no	хоакер	conservative
+SR167	n	an	no	тврдица	conservative
+SR245	n	cds	no	глупак	conservative
+SR246	n	dmc	yes	простак	conservative
+SR1840	n	is	yes	одрпанац	conservative
+SR701	n	cds	no	новинар	inclusive
+SR1898	n	an	no	Кокош	inclusive
+SR689	n	an	no	zec	inclusive
+SR389	n	qas	no	конформиста	conservative
+SR202	n	pa	yes	грубијан	conservative
+SR1120	n	an	no	бес	inclusive
+SR19	n	re	no	злоупотребе	inclusive
+SR393	n	dmc	yes	блундерер	conservative
+SR1535	n	an	no	вола	inclusive
+SR864	n	pr	no	конкубинат	inclusive
+SR1609	n	qas	no	Говорништво	inclusive
+SR880	n	re	no	криминалне активности	inclusive
+SR818	n	qas	no	Конформизам	inclusive
+SR1241	n	pr	no	Курва	inclusive
+SR394	n	svp	no	шепртља	conservative
+SR1641	n	an	no	mikrobi	inclusive
+SR1968	n	an	no	Жаба	inclusive
+SR152	n	an	no	дупе	inclusive
+SR588	n	cds	no	Клан	inclusive
+SR213	n	pa	yes	министар-саветник	inclusive
+SR565	n	cds	no	цхиселлер	conservative
+SR1607	n	qas	no	реторичар	inclusive
+SR658	n	pa	yes	Проф.	inclusive
+SR1809	n	cds	no	арривисте	inclusive
+SR543	n	an	no	кучка	conservative
+SR1485	n	ps	yes	Монголи	inclusive
+SR2199	n	cds	no	цулцхие	inclusive
+SR910	n	dmc	yes	лицемер	conservative
+SR395	n	ddp	yes	сад врећа	conservative
+SR182	n	cds	no	бурдељ	inclusive
+SR740	n	cds	no	домаћег отпада	conservative
+SR1889	n	re	no	Гусарење	inclusive
+SR309	n	cds	no	стављање ван закона	conservative
+SR2159	n	cds	no	подмитљивост	conservative
+SR1230	n	qas	no	тагалонг	conservative
+SR1014	n	dmc	yes	морал	inclusive
+SR2207	n	an	no	Кукумавка	inclusive
+SR2003	n	an	no	bubasvabe	inclusive
+SR194	n	qas	no	тестиса	inclusive
+SR1994	n	an	no	пијавице	inclusive
+SR202	n	qas	no	грубијан	conservative
+SR374	n	cds	no	грешити	inclusive
+SR1894	n	an	no	Кокошке	inclusive
+SR710	n	om	no	нансија	conservative
+SR1226	n	re	no	прљави новац	inclusive
+SR1161	n	asf	no	пизда	conservative
+SR567	n	re	no	преварант	inclusive
+SR1620	n	cds	no	домаће отпадне воде	inclusive
+SR248	n	asm	no	особа која испашта туђе грешке	conservative
+SR797	n	an	no	crocodilia	inclusive
+SR1192	n	dmc	yes	без рачуна	conservative
+SR1540	n	om	no	педерастијски	inclusive
+SR2130	n	an	no	Хоакс	conservative
+SR297	n	svp	no	нетрпељив	conservative
+SR993	n	pa	yes	запосленик	inclusive
+SR1749	n	re	no	терориста	inclusive
+SR137	n	asf	no	тикван	conservative
+SR594	n	cds	no	под-клан од	inclusive
+SR1240	n	pr	no	проститутке	inclusive
+SR1960	a	dmc	yes	запрљаног	inclusive
+SR1363	n	an	no	неумољивост	conservative
+SR908	n	svp	no	гађење	inclusive
+SR783	n	ddp	yes	кретенизам	inclusive
+SR11	n	svp	no	Бестрашће	inclusive
+SR248	n	ddp	yes	особа која испашта туђе грешке	conservative
+SR1460	n	cds	no	јавни погодност	inclusive
+SR1106	n	cds	no	слободних зидара	inclusive
+SR1852	n	an	no	pediculus humanus humanus	inclusive
+SR2186	n	an	no	лимацидае	inclusive
+SR203	n	ddp	yes	Варвари	conservative
+SR788	n	an	no	крокодил	inclusive
+SR168	n	ddp	yes	брбљивац	conservative
+SR560	n	re	no	Камора	inclusive
+SR2128	n	an	no	hoax	conservative
+SR1344	n	asm	no	глупости	conservative
+SR393	n	ddp	yes	блундерер	conservative
+SR2046	a	is	yes	сиромашни	inclusive
+SR205	n	svp	no	стицањем	inclusive
+SR29	n	cds	no	Брокер	inclusive
+SR1736	n	cds	no	Хиперфилија	conservative
+SR1773	n	dmc	yes	хомунцулус	inclusive
+SR280	n	ps	yes	Бедуини	inclusive
+SR200	n	ddp	yes	Варвар	conservative
+SR121	n	an	no	мацрофауна	inclusive
+SR740	n	cds	no	домаћег отпада	inclusive
+SR459	n	qas	no	канцеларијски посао	inclusive
+SR633	n	cds	no	проблема	conservative
+SR1434	n	svp	no	Завист	inclusive
+SR1591	n	is	yes	сиромашан	inclusive
+SR2175	n	pa	yes	zaposlenik	inclusive
+SR1126	n	svp	no	диллидаллиер	conservative
+SR1927	n	pr	no	којештарија	conservative
+SR1661	n	an	no	ovca	inclusive
+SR418	n	pr	no	краве	inclusive
+SR2189	n	ps	yes	Цигани	inclusive
+SR885	n	re	no	илегалне активности	inclusive
+SR1400	n	svp	no	горгер	conservative
+SR1418	n	cds	no	сасс	inclusive
+SR1015	n	dmc	yes	морални компас	inclusive
+SR311	n	re	no	бандитти	inclusive
+SR1152	n	asm	no	широко пасуљ	inclusive
+SR110	n	an	no	životinja	inclusive
+SR636	n	qas	no	обични	inclusive
+SR814	n	ps	yes	оплемењивач биљака	inclusive
+SR715	n	or	no	хомосексуалац	conservative
+SR1730	n	cds	no	нимпхо	conservative
+SR1477	n	an	no	мекушаца	inclusive
+SR1301	n	qas	no	хач	inclusive
+SR1300	n	qas	no	вођење домаћинства	inclusive
+SR2079	n	re	no	тероризма	inclusive
+SR626	n	asm	no	horoz	inclusive
+SR422	n	pr	no	tele	inclusive
+SR60	n	om	no	Содомија	inclusive
+SR1381	n	cds	no	сцравлер	conservative
+SR1567	n	qas	no	парохији	inclusive
+SR2067	n	re	no	злостављао	inclusive
+SR718	n	cds	no	госсипер	conservative
+SR1627	n	ps	yes	местизаје	conservative
+SR246	n	ps	yes	простак	conservative
+SR1837	n	cds	no	Трач-партија	inclusive
+SR878	n	re	no	Злочини	inclusive
+SR317	n	an	no	bison	inclusive
+SR841	n	cds	no	шаљивџија	conservative
+SR1439	n	ddp	yes	моронити	inclusive
+SR1417	n	cds	no	назад разговор	inclusive
+SR736	n	qas	no	комуналног отпада	inclusive
+SR1843	n	cds	no	моанер	conservative
+SR746	n	an	no	чинч	inclusive
+SR212	n	pa	yes	Дипломатски рангови Руске Федерације	inclusive
+SR76	n	qas	no	остаци	inclusive
+SR301	n	cds	no	Банда	conservative
+SR1330	n	ddf	yes	онемогући	inclusive
+SR1553	n	cds	no	сељак	conservative
+SR204	n	cds	no	Βάρβαρος	conservative
+SR249	n	cds	no	глупа особа	conservative
+SR439	n	pr	no	норвешка рат	inclusive
+SR926	n	om	no	вентрални	inclusive
+SR851	n	qas	no	четкица за мазање	conservative
+SR1800	n	an	no	жена цхасер	conservative
+SR1966	n	an	no	anura	inclusive
+SR262	n	pr	no	шљаке	conservative
+SR2098	n	pa	yes	канцеларија радник	inclusive
+SR1482	n	ps	yes	Монголски народи	inclusive
+SR2018	n	an	no	шакал	inclusive
+SR374	n	qas	no	грешити	inclusive
+SR1476	n	an	no	mollusca	inclusive
+SR245	n	an	no	глупак	conservative
+SR395	n	qas	no	сад врећа	conservative
+SR1122	n	an	no	Љутња	inclusive
+SR1225	n	re	no	Пљачка	inclusive
+SR693	n	an	no	кунић	inclusive
+SR1906	n	cds	no	новорођенчади	inclusive
+SR211	n	pa	yes	Дипломатски рангови Руске федерације	inclusive
+SR1090	n	dmc	yes	пајац	inclusive
+SR780	n	an	no	sova	inclusive
+SR2115	n	pr	no	хетаера	inclusive
+SR1281	n	ps	yes	Јевреји	inclusive
+SR1039	n	cds	no	Фанатичност	conservative
+SR852	n	dmc	yes	преваре	conservative
+SR1836	n	cds	no	Трачарење	inclusive
+SR391	n	qas	no	фумблер	conservative
+SR1401	n	re	no	убица	inclusive
+SR344	n	dmc	yes	нитков	inclusive
+SR132	n	cds	no	лукавост	inclusive
+SR948	n	om	no	Дупе	inclusive
+SR2043	a	is	yes	siromašan	inclusive
+SR23	n	re	no	злостављање	inclusive
+SR1571	n	an	no	psittaciformes	inclusive
+SR330	n	ps	yes	Црна	inclusive
+SR2041	a	is	yes	убог	inclusive
+SR268	n	qas	no	неистина	conservative
+SR893	n	an	no	диддли-цуцањ	conservative
+SR899	n	ps	yes	џери	conservative
+SR1044	n	cds	no	пандар	inclusive
+SR37	n	pa	yes	факултета	inclusive
+SR1998	n	an	no	Пијавице	inclusive
+SR1184	n	qas	no	њушкало	inclusive
+SR232	n	qas	no	барониес	inclusive
+SR1833	n	cds	no	Трачање	inclusive
+SR1901	n	an	no	pile	inclusive
+SR1291	n	cds	no	прота	inclusive
+SR1427	n	asm	no	muski polni organ	inclusive
+SR1697	n	cds	no	Нарцисизам	inclusive
+SR601	n	an	no	Коза	inclusive
+SR1543	n	cds	no	папарацо	inclusive
+SR2117	n	asm	no	ptica	inclusive
+SR883	n	re	no	кршење закона	inclusive
+SR564	n	cds	no	варалица	inclusive
+SR1104	n	cds	no	слободни зидар	inclusive
+SR2083	n	re	no	тероризам	inclusive
+SR1619	n	cds	no	канализација	inclusive
+SR373	n	qas	no	неуспех	inclusive
+SR571	n	an	no	poreklo pasa	inclusive
+SR846	n	om	no	мадам	inclusive
+SR241	n	cds	no	бојкотовани	inclusive
+SR1867	n	cds	no	религиозности	inclusive
+SR480	n	cds	no	ароганција	conservative
+SR776	n	an	no	jeja	inclusive
+SR801	n	an	no	цроцодилидае	inclusive
+SR1928	n	pr	no	бесмислица	conservative
+SR963	n	dmc	yes	делинквент	conservative
+SR1724	n	ps	yes	беле	inclusive
+SR1978	n	an	no	фрогспавн	inclusive
+SR813	n	cds	no	интерфертилити	inclusive
+SR139	n	asf	no	будала	conservative
+SR2071	n	cds	no	цонвентицлес	inclusive
+SR1191	n	dmc	yes	добар за ништа	conservative
+SR242	n	cds	no	блацкбаллинг	inclusive
+SR133	n	or	no	бонце	inclusive
+SR878	n	cds	no	Злочини	inclusive
+SR1717	n	ps	yes	црна особа	inclusive
+SR195	n	dmc	yes	разбојник	conservative
+SR1786	n	pa	yes	кочијаш	inclusive
+SR1521	n	cds	no	сицилијанска мафија	conservative
+SR625	n	cds	no	несташко	conservative
+SR272	n	cds	no	сталак за сушење рубља	inclusive
+SR299	n	cds	no	омладинских банди	conservative
+SR1589	n	cds	no	интригант	inclusive
+SR1454	n	cds	no	учитељица	conservative
+SR424	n	an	no	крава	inclusive
+SR411	n	svp	no	досадно	inclusive
+SR2169	n	re	no	фуриоуснесс	inclusive
+SR991	n	cds	no	интелектуалац	inclusive
+SR273	n	cds	no	кицош	inclusive
+SR1832	n	an	no	профитер	conservative
+SR10	n	svp	no	апатија	inclusive
+SR224	n	pa	yes	кривичног адвоката	inclusive
+SR120	n	an	no	створење	inclusive
+SR551	n	re	no	лажне оптужбе	inclusive
+SR1005	n	qas	no	аматера	inclusive
+SR161	n	svp	no	похлепе	inclusive
+SR1829	n	dmc	yes	лингерер	conservative
+SR127	n	re	no	силовање	conservative
+SR564	n	dmc	yes	варалица	conservative
+SR2045	a	is	yes	bedan	inclusive
+SR537	n	asm	no	Идиот	inclusive
+SR2091	n	re	no	tortura	inclusive
+SR38	n	pa	yes	академски	inclusive
+SR2197	n	qas	no	Барака	inclusive
+SR140	n	an	no	говнар	conservative
+SR925	n	om	no	вентролатерал	inclusive
+SR344	n	cds	no	нитков	conservative
+SR1027	n	dmc	yes	раскалашни	inclusive
+SR565	n	cds	no	цхиселлер	inclusive
+SR1838	n	cds	no	Трач	inclusive
+SR1006	n	qas	no	Аматер	inclusive
+SR223	n	pa	yes	предлагач	inclusive
+SR807	n	cds	no	хибрид	inclusive
+SR782	n	an	no	атхене ноцтуа	inclusive
+SR1585	n	an	no	гица	inclusive
+SR612	n	svp	no	мингинесс	conservative
+SR725	n	an	no	физиогномија	inclusive
+SR167	n	svp	no	тврдица	inclusive
+SR296	n	dmc	yes	нетрпељивости	conservative
+SR649	n	qas	no	цастеисм	inclusive
+SR592	n	cds	no	племенским друштвима	inclusive
+SR1157	n	asf	no	пичка	conservative
+SR1762	n	re	no	убиство	inclusive
+SR1601	n	pr	no	пацова	inclusive
+SR1873	n	asm	no	ванк	conservative
+SR875	n	ps	yes	упроотер	conservative
+SR324	n	cds	no	несташлука	conservative
+SR1124	n	svp	no	Срџба	conservative
+SR381	n	cds	no	флуб	inclusive
+SR1279	n	ps	yes	јевреја	inclusive
+SR139	n	an	no	будала	conservative
+SR132	n	cds	no	лукавост	conservative
+SR622	n	an	no	вулгарности	conservative
+SR1642	n	an	no	микроорганизама	inclusive
+SR831	n	or	no	krastavac	inclusive
+SR2133	n	ps	yes	жути картон	inclusive
+SR565	n	re	no	цхиселлер	inclusive
+SR1267	n	ps	yes	јеврејске религије	inclusive
+SR114	n	ddp	yes	animal	inclusive
+SR2194	n	ps	yes	Роми	inclusive
+SR1043	n	cds	no	сводништва	inclusive
+SR113	n	an	no	инфауна	inclusive
+SR558	n	re	no	клеветник	conservative
+SR1286	n	cds	no	народне масе	inclusive
+SR1951	n	re	no	пљачкаш	inclusive
+SR446	n	qas	no	пословни човек	inclusive
+SR743	n	an	no	прислушни уређај	inclusive
+SR1864	n	an	no	mallophaga	inclusive
+SR1959	a	dmc	yes	запрљане	inclusive
+SR1692	n	or	no	сквош	inclusive
+SR135	n	asm	no	бетисе	conservative
+SR106	n	an	no	епифауна	inclusive
+SR1862	n	an	no	сиса вашку	inclusive
+SR7	n	svp	no	Абулија	inclusive
+SR955	n	svp	no	прождрљивац	conservative
+SR1474	n	dmc	yes	ленштина	conservative
+SR1193	n	svp	no	неспретњаковић	conservative
+SR1225	n	cds	no	Пљачка	inclusive
+SR1240	n	pr	no	проститутке	conservative
+SR814	n	cds	no	оплемењивач биљака	inclusive
+SR954	n	svp	no	ровокопач	conservative
+SR344	n	re	no	нитков	inclusive
+SR140	n	ddp	yes	говнар	conservative
+SR2192	n	ps	yes	Циганин	inclusive
+SR720	n	cds	no	румормонгер	conservative
+SR1857	n	an	no	ваши	inclusive
+SR1182	n	cds	no	гледалац	conservative
+SR1550	n	cds	no	папира пусхер	inclusive
+SR1844	n	cds	no	снивеллер	conservative
+SR1415	n	re	no	малверзација	inclusive
+SR78	n	asm	no	привесцима	inclusive
+SR930	n	om	no	иза	inclusive
+SR1866	n	cds	no	религиоусисм	inclusive
+SR143	n	an	no	кнуцклехеад	conservative
+SR162	n	svp	no	похлепа	inclusive
+SR2125	n	re	no	ндрангета	inclusive
+SR2170	n	re	no	Насиље	inclusive
+SR978	n	cds	no	пеон	inclusive
+SR304	n	cds	no	банда културе	inclusive
+SR847	n	om	no	госпођо	inclusive
+SR830	n	cds	no	завереници	inclusive
+SR581	n	an	no	фамилиарис	inclusive
+SR1691	n	or	no	бундева лоза	inclusive
+SR539	n	cds	no	кретен	inclusive
+SR48	n	pa	yes	академизам	inclusive
+SR1406	n	cds	no	кредита схаркинг	conservative
+SR529	n	cds	no	казино	inclusive
+SR1357	n	svp	no	неактивност	inclusive
+SR1999	n	an	no	крвопија	inclusive
+SR1741	n	an	no	гуске	inclusive
+SR2198	n	qas	no	колиби	inclusive
+SR1564	n	qas	no	Паразитизам	inclusive
+SR1779	n	ps	yes	Вандали	inclusive
+SR1076	n	asm	no	рибе	inclusive
+SR1961	n	qas	no	китњаст говор	inclusive
+SR1731	n	cds	no	нимфоманка	conservative
+SR805	n	ps	yes	манмаде хибрида	inclusive
+SR384	n	cds	no	бловхард	conservative
+SR1224	n	re	no	лопова	inclusive
+SR1521	n	cds	no	сицилијанска мафија	inclusive
+SR542	n	cds	no	цхангелинг	inclusive
+SR418	n	an	no	краве	inclusive
+SR1370	n	cds	no	Учитељица	inclusive
+SR131	n	cds	no	перспицациоуснесс	inclusive
+SR1369	n	cds	no	инструктора	inclusive
+SR124	n	an	no	фауне	inclusive
+SR137	n	an	no	тикван	conservative
+SR1674	n	asm	no	јеерер	conservative
+SR561	n	re	no	камора	inclusive
+SR662	n	pa	yes	професуре	inclusive
+SR1795	n	an	no	crvi	inclusive
+SR1259	n	om	no	хомоеротизам	inclusive
+SR489	n	dmc	yes	гит	conservative
+SR1653	n	ddp	yes	микроцефалију	inclusive
+SR147	n	ddp	yes	необразована особа	conservative
+SR202	n	cds	no	грубијан	conservative
+SR1659	n	an	no	ovis aries	inclusive
+SR389	n	cds	no	конформиста	conservative
+SR483	n	cds	no	обим	inclusive
+SR375	n	cds	no	блоопер	inclusive
+SR1420	n	qas	no	тржиште голман	inclusive
+SR509	n	cds	no	клике	inclusive
+SR250	n	ddp	yes	пиллоцк	conservative
+SR834	n	qas	no	одабрати	conservative
+SR1738	n	qas	no	станара фармера	inclusive
+SR1488	n	an	no	Комарци	inclusive
+SR1721	n	ps	yes	других раса	inclusive
+SR915	n	dmc	yes	licemerje	conservative
+SR85	n	cds	no	прогонилац	conservative
+SR393	n	qas	no	блундерер	conservative
+SR567	n	dmc	yes	преварант	conservative
+SR681	n	asm	no	нооки	conservative
+SR1941	n	re	no	киднапују	inclusive
+SR488	n	dmc	yes	тако и тако	conservative
+SR1747	n	an	no	брент	inclusive
+SR1491	n	an	no	цулицидае	inclusive
+SR739	n	cds	no	чврстог отпада	conservative
+SR1962	n	qas	no	грандиозност	inclusive
+SR400	n	an	no	тела снатцхер	inclusive
+SR375	n	qas	no	блоопер	inclusive
+SR1926	n	pr	no	гаф	conservative
+SR510	n	cds	no	ингроуп	inclusive
+SR1636	n	an	no	микроб	inclusive
+SR1777	n	dmc	yes	несрећан	inclusive
+SR403	n	pa	yes	унцоутхнесс	conservative
+SR2116	n	pr	no	хетаира	inclusive
+SR294	n	pa	yes	портир	inclusive
+SR2025	a	svp	no	lascivan	conservative
+SR720	n	ddp	yes	румормонгер	conservative
+SR28	n	re	no	злоупотребити	inclusive
+SR1555	n	dmc	yes	цхавбацон	conservative
+SR618	n	qas	no	теревенчити	inclusive
+SR482	n	cds	no	сујете	conservative
+SR1023	n	dmc	yes	либертинизам	conservative
+SR1183	n	cds	no	очевидац	conservative
+SR426	n	an	no	стока	inclusive
+SR2076	n	re	no	Терориста	conservative
+SR956	n	svp	no	гурман	inclusive
+SR1360	n	ddp	yes	незнања	conservative
+SR1121	n	svp	no	Гнев	conservative
+SR1563	n	qas	no	паразита	inclusive
+SR934	n	om	no	пих	inclusive
+SR542	n	ps	yes	цхангелинг	conservative
+SR1170	n	cds	no	кључар	inclusive
+SR1218	n	cds	no	лоповски	inclusive
+SR709	n	om	no	поове	conservative
+SR1648	n	an	no	животињица	inclusive
+SR195	n	cds	no	разбојник	inclusive
+SR1465	n	cds	no	заход	inclusive
+SR765	n	an	no	прицктеасер	conservative
+SR498	n	cds	no	стара кола	inclusive
+SR187	n	asm	no	срање	inclusive
+SR537	n	ddp	yes	Идиот	inclusive
+SR1480	n	an	no	Мекушац	inclusive
+SR58	n	om	no	Скотолоштво	inclusive
+SR955	n	svp	no	прождрљивац	inclusive
+SR1839	n	is	yes	просјак	conservative
+SR1823	n	or	no	новог кромпира	inclusive
+SR984	n	svp	no	равеноуснесс	conservative
+SR319	n	ddp	yes	блаббермоутх	conservative
+SR1343	n	ddp	yes	бесмислене	conservative
+SR595	n	cds	no	јапанских јединица мерења	inclusive
+SR1429	n	asm	no	muški polni organ	inclusive
+SR845	n	om	no	даме	inclusive
+SR1127	n	dmc	yes	дилли-даллиер	conservative
+SR310	n	cds	no	злочинац	conservative
+SR1701	n	cds	no	нарцизма	inclusive
+SR1310	n	an	no	хијене	inclusive
+SR286	n	an	no	говеда	inclusive
+SR468	n	cds	no	егоизма	conservative
+SR1742	n	an	no	гуска	inclusive
+SR1234	n	pr	no	Жиголо	conservative
+SR312	n	dmc	yes	одметник	inclusive
+SR2111	n	om	no	трансвестита	inclusive
+SR304	n	cds	no	банда културе	conservative
+SR1694	n	ddf	yes	пола литре	conservative
+SR385	n	cds	no	хвалисавац	conservative
+SR141	n	asf	no	муттонхеад	conservative
+SR572	n	an	no	pas	inclusive
+SR1713	n	ps	yes	црнкиње	inclusive
+SR1007	n	dmc	yes	Моралност	inclusive
+SR196	n	dmc	yes	бандит	conservative
+SR392	n	cds	no	нерадник	conservative
+SR1685	n	pr	no	социалитес	inclusive
+SR1254	n	om	no	Хомосексуалац	inclusive
+SR367	n	pa	yes	сахрана ундертакер	inclusive
+SR111	n	an	no	животиња	inclusive
+SR1082	n	an	no	buve	inclusive
+SR1026	n	dmc	yes	расипник	inclusive
+SR597	n	cds	no	племена	inclusive
+SR1669	n	pa	yes	Чобан	inclusive
+SR867	n	cds	no	очајан кривично	inclusive
+SR270	n	qas	no	лажи	conservative
+SR716	n	or	no	Геј	conservative
+SR2164	n	cds	no	подао	conservative
+SR2108	n	om	no	Трансвестизам	inclusive
+SR815	n	cds	no	новајлија	conservative
+SR376	n	qas	no	боо-боо	inclusive
+SR1687	n	pr	no	вишег друштва	inclusive
+SR812	n	cds	no	укрштањем	inclusive
+SR2140	n	cds	no	теоретичари завере	inclusive
+SR189	n	asm	no	Тестиси	inclusive
+SR1065	n	or	no	Коморач	inclusive
+SR1517	n	cds	no	официр	conservative
+SR2001	n	an	no	blattodea	inclusive
+SR1628	n	ps	yes	Местици	conservative
+SR828	n	or	no	Краставац	inclusive
+SR1220	n	cds	no	крађа	inclusive
+SR651	n	qas	no	Кастински систем	inclusive
+SR305	n	cds	no	банде	conservative
+SR1530	n	an	no	мегасцопс	inclusive
+SR806	n	cds	no	интерспециес хибрида	inclusive
+SR1644	n	an	no	микроорганизам	inclusive
+SR2080	n	re	no	Терорист	inclusive
+SR3	n	svp	no	лењост	inclusive
+SR286	n	pr	no	говеда	inclusive
+SR1934	n	or	no	Репа	inclusive
+SR488	n	an	no	тако и тако	conservative
+SR1148	n	asm	no	пасуљ фаба	inclusive
+SR1321	n	cds	no	идола обожавања	inclusive
+SR992	n	re	no	деликт	inclusive
+SR246	n	an	no	простак	conservative
+SR1140	n	cds	no	Фашисти	conservative
+SR16	n	qas	no	ацолите	inclusive
+SR714	n	om	no	хомопхиле	inclusive
+SR1611	n	qas	no	ретор	inclusive
+SR50	n	an	no	амерички буфало	inclusive
+SR2047	n	qas	no	блоодхоунд	inclusive
+SR189	n	qas	no	Тестиси	inclusive
+SR1944	n	re	no	раптио	inclusive
+SR2016	n	an	no	шакали	inclusive
+SR890	n	an	no	диддли-срање	conservative
+SR1965	n	an	no	салиентиан	inclusive
+SR1264	n	om	no	истог пола	inclusive
+SR1131	n	dmc	yes	дангуба	inclusive
+SR138	n	cds	no	игра карата или домина	conservative
+SR791	n	an	no	цроцодилиан	inclusive
+SR1002	n	qas	no	дилетант	conservative
+SR627	n	asm	no	хороз	inclusive
+SR392	n	qas	no	нерадник	conservative
+SR616	n	qas	no	таласање	inclusive
+SR1523	n	cds	no	мафијаши	conservative
+SR786	n	ddp	yes	твирп	conservative
+SR170	n	ddp	yes	заосталост	inclusive
+SR2121	n	asm	no	авифауна	inclusive
+SR1522	n	cds	no	мафије	inclusive
+SR1114	n	cds	no	Фундаменталиста	inclusive
+SR1029	n	om	no	хендикепирано лице	conservative
+SR1863	n	an	no	phthiraptera	inclusive
+SR1820	n	or	no	krompir	inclusive
+SR333	n	ps	yes	Црн	inclusive
+SR357	n	ddp	yes	педеру	conservative
+SR1132	n	dmc	yes	гангстер	inclusive
+SR297	n	dmc	yes	нетрпељив	conservative
+SR322	n	cds	no	достављач	conservative
+SR1765	n	re	no	slayer	inclusive
+SR197	n	dmc	yes	бандита	conservative
+SR167	n	svp	no	тврдица	conservative
+SR832	n	or	no	цуке	inclusive
+SR1122	n	svp	no	Љутња	conservative
+SR2028	n	cds	no	Сцијентизам	inclusive
+SR1365	n	cds	no	помпезност	inclusive
+SR1631	n	an	no	Ајкуле	inclusive
+SR975	n	cds	no	оптерећења	inclusive
+SR1936	n	or	no	brassica rapa	inclusive
+SR1135	n	re	no	мафијаш	inclusive
+SR57	a	an	no	тврдоглаве	inclusive
+SR1885	n	re	no	плагиаризатион	inclusive
+SR946	n	om	no	реп	inclusive
+SR1046	n	pr	no	чува жену	conservative
+SR540	n	cds	no	имбецил	inclusive
+SR200	n	ps	yes	Варвар	conservative
+SR2180	n	an	no	Змије шарке	inclusive
+SR538	n	asm	no	успорити	inclusive
+SR2077	n	re	no	Терористи	conservative
+SR516	n	cds	no	теретни воз	inclusive
+SR1409	n	cds	no	лоансхаркинг	conservative
+SR391	n	ddp	yes	фумблер	conservative
+SR2144	n	om	no	драг краљица	inclusive
+SR1472	n	svp	no	забушант	conservative
+SR758	n	svp	no	танха	inclusive
+SR331	n	ps	yes	Црнило	inclusive
+SR1904	n	cds	no	детенце	inclusive
+SR1537	n	an	no	дебељуца	conservative
+SR884	n	cds	no	Злодело	inclusive
+SR2142	n	ps	yes	пикеи	conservative
+SR1888	n	re	no	Гусари	inclusive
+SR619	n	an	no	Вулгарности	conservative
+SR1827	n	cds	no	свезналица	conservative
+SR507	n	an	no	лајати	inclusive
+SR500	n	cds	no	шкработина	inclusive
+SR463	n	qas	no	професионалне класе	inclusive
+SR1390	n	svp	no	развратност	inclusive
+SR874	n	asm	no	доофус	conservative
+SR1533	n	an	no	крик-сова	inclusive
+SR1665	n	an	no	Овце	inclusive
+SR72	n	qas	no	мешавина	inclusive
+SR1963	n	qas	no	бомбастичан говор	inclusive
+SR1146	n	asm	no	фава	inclusive
+SR139	n	asm	no	будала	conservative
+SR540	n	ddp	yes	имбецил	inclusive
+SR404	n	ddp	yes	зооерасти	conservative
+SR1605	n	cds	no	мошти	inclusive
+SR73	n	cds	no	папазјанија	inclusive
+SR203	n	rci	yes	Варвари	conservative
+SR569	n	cds	no	олош	conservative
+SR1551	n	qas	no	паразит	inclusive
+SR1825	n	cds	no	цепидлака	conservative
+SR593	n	cds	no	род	inclusive
+SR1722	n	ps	yes	латино	inclusive
+SR1970	n	an	no	жабе	inclusive
+SR257	n	pr	no	жена улице	conservative
+SR1406	n	cds	no	кредита схаркинг	inclusive
+SR1224	n	cds	no	лопова	inclusive
+SR1286	n	cds	no	народне масе	conservative
+SR1952	n	re	no	заробљивач	inclusive
+SR987	n	cds	no	васпитача	inclusive
+SR137	n	ddp	yes	тикван	conservative
+SR141	n	or	no	муттонхеад	conservative
+SR902	n	cds	no	Гранџ	inclusive
+SR727	n	an	no	мукање крава-	inclusive
+SR66	n	svp	no	лењивац	conservative
+SR961	n	pa	yes	портира	inclusive
+SR250	n	or	no	пиллоцк	conservative
+SR143	n	ddp	yes	кнуцклехеад	conservative
+SR347	n	an	no	аљкавац	conservative
+SR355	n	cds	no	копиле	inclusive
+SR1886	n	re	no	Пирати	inclusive
+SR1880	n	re	no	пиратерије	inclusive
+SR275	n	cds	no	дендија	inclusive
+SR387	n	cds	no	нетрпељивост	conservative
+SR1489	n	an	no	komarac	inclusive
+SR1689	n	qas	no	духовни вођа	inclusive
+SR1819	n	or	no	кромпир	inclusive
+SR494	n	cds	no	мангуп	conservative
+SR986	n	an	no	јестиво пуж	inclusive
+SR2080	n	re	no	Терорист	conservative
+SR487	n	dmc	yes	ловлифе	conservative
+SR479	n	svp	no	високе непристрасности	conservative
+SR541	n	cds	no	цхангелингс	inclusive
+SR1013	n	dmc	yes	Морал	inclusive
+SR379	n	cds	no	блооперс	inclusive
+SR1520	n	re	no	италијанском мафијом	inclusive
+SR70	n	cds	no	лудорија	inclusive
+SR1750	n	cds	no	омерта	inclusive
+SR1873	n	cds	no	ванк	conservative
+SR1430	n	asm	no	пенис	inclusive
+SR1922	n	pr	no	лабава жена	conservative
+SR2182	n	dmc	yes	издајник	conservative
+SR1243	n	pr	no	Проститутка	inclusive
+SR1197	n	an	no	гушче	inclusive
+SR480	n	svp	no	ароганција	conservative
+SR1324	n	cds	no	Идолатрија	inclusive
+SR533	n	cds	no	млакоња	conservative
+SR360	n	cds	no	дете љубави	inclusive
+SR1461	n	cds	no	оперите собу	inclusive
+SR967	n	cds	no	резултати	inclusive
+SR1156	n	asf	no	pizda	conservative
+SR713	n	or	no	геј	conservative
+SR378	n	cds	no	лоша израда	inclusive
+SR736	n	cds	no	комуналног отпада	inclusive
+SR1562	n	qas	no	ендопаразита	inclusive
+SR1893	n	an	no	пилића	inclusive
+SR1424	n	asm	no	бордо	inclusive
+SR1887	n	re	no	плагиарисатион	inclusive
+SR566	n	cds	no	сцаммер	inclusive
+SR243	n	cds	no	бас блеу	inclusive
+SR860	n	pr	no	куртизана	inclusive
+SR789	n	an	no	крокодила	inclusive
+SR1402	n	cds	no	зајмодавац	conservative
+SR75	n	qas	no	дар-мар	inclusive
+SR1704	n	cds	no	идиолатри	inclusive
+SR406	n	ddp	yes	бестијалност	conservative
+SR792	n	an	no	цроцодилиа	inclusive
+SR1120	n	svp	no	бес	inclusive
+SR923	n	om	no	Гузица	inclusive
+SR1138	n	cds	no	Фашиста	conservative
+SR1617	n	an	no	сцорпионфисх	inclusive
+SR1377	n	pa	yes	језуитски	inclusive
+SR1610	n	qas	no	Говориштво	inclusive
+SR779	n	an	no	Сове	inclusive
+SR1081	n	an	no	buva	inclusive
+SR339	n	qas	no	магнат	inclusive
+SR1413	n	an	no	insecta	inclusive
+SR462	n	qas	no	буржоаском друштву	inclusive
+SR2058	n	re	no	рапер	conservative
+SR866	n	cds	no	интриганта	inclusive
+SR246	n	asm	no	простак	conservative
+SR920	n	om	no	контралатералног	inclusive
+SR538	n	ps	yes	успорити	conservative
+SR1780	n	ps	yes	вандализам	inclusive
+SR292	n	pa	yes	собар	inclusive
+SR458	n	qas	no	средња класа	inclusive
+SR757	n	cds	no	обмањивање	inclusive
+SR849	n	cds	no	дастардлинесс	conservative
+SR1125	n	dmc	yes	даллиер	conservative
+SR1470	n	cds	no	клозете	inclusive
+SR2174	n	pa	yes	послопримац	inclusive
+SR1514	n	svp	no	срамоту	inclusive
+SR1097	n	cds	no	масонерије	inclusive
+SR2101	n	om	no	цроссдрессинг	inclusive
+SR425	n	an	no	krava	inclusive
+SR2196	n	ps	yes	роммани	inclusive
+SR647	n	cds	no	самозадовољство	inclusive
+SR394	n	cds	no	шепртља	conservative
+SR785	n	svp	no	никоговић	conservative
+SR1231	n	qas	no	пришипетља	conservative
+SR707	n	om	no	педер	inclusive
+SR201	n	qas	no	варвара	conservative
+SR1680	n	an	no	мекушац	inclusive
+SR1067	n	dmc	yes	осећати	conservative
+SR1682	n	ps	yes	Монголоидна раса	conservative
+SR1407	n	cds	no	зеленаш	inclusive
+SR1929	n	pr	no	сплачине	conservative
+SR311	n	cds	no	бандитти	inclusive
+SR354	n	cds	no	штрајк разбијање	inclusive
+SR837	n	cds	no	уништавање	conservative
+SR1785	n	an	no	суп	inclusive
+SR2019	n	an	no	Шакал	inclusive
+SR119	n	ddp	yes	анимирати што	inclusive
+SR198	n	cds	no	разбојништво	inclusive
+SR342	n	qas	no	магната	inclusive
+SR1191	n	svp	no	добар за ништа	conservative
+SR228	n	an	no	инфериоран	inclusive
+SR542	n	asf	no	цхангелинг	conservative
+SR1878	n	re	no	краду	inclusive
+SR297	n	cds	no	нетрпељив	conservative
+SR1189	n	an	no	козје антилопа	inclusive
+SR775	n	an	no	сове	inclusive
+SR110	n	ddp	yes	životinja	inclusive
+SR1436	n	svp	no	bes	inclusive
+SR1839	n	is	yes	просјак	inclusive
+SR1969	n	an	no	zabe	inclusive
+SR1495	n	an	no	мољца	inclusive
+SR541	n	ddp	yes	цхангелингс	inclusive
+SR2163	n	cds	no	кукавиштво	inclusive
+SR1794	n	an	no	црва	inclusive
+SR786	n	asm	no	твирп	conservative
+SR277	n	cds	no	урнебес	inclusive
+SR2005	n	an	no	бубашвабама	inclusive
+SR1260	n	om	no	homoseksualnost	inclusive
+SR319	n	cds	no	блаббермоутх	conservative
+SR2122	n	asm	no	aves	inclusive
+SR310	n	cds	no	злочинац	inclusive
+SR203	n	pa	yes	Варвари	conservative
+SR1020	n	cds	no	грешник	conservative
+SR417	n	pr	no	Крава	inclusive
+SR1341	n	ddp	yes	сероња	conservative
+SR1911	n	cds	no	beba	inclusive
+SR1896	n	an	no	Кокошка	inclusive
+SR1523	n	re	no	мафијаши	inclusive
+SR4	n	svp	no	абоулиа	inclusive
+SR396	n	ddp	yes	бумблер	conservative
+SR1233	n	cds	no	портчко	inclusive
+SR142	n	asf	no	думбасс	conservative
+SR1511	n	cds	no	дојенче	inclusive
+SR2136	n	cds	no	konspirativna teorija	inclusive
+SR661	n	pa	yes	проф	inclusive
+SR1709	n	ps	yes	црња	conservative
+SR1289	n	cds	no	prelat	inclusive
+SR653	n	qas	no	Каста	inclusive
+SR2119	n	asm	no	птица	inclusive
+SR1049	n	pr	no	љубавница	conservative
+SR927	n	om	no	дорзолатералних протоцеребралних	inclusive
+SR337	n	qas	no	бизнис лидер	inclusive
+SR1858	n	an	no	Вашке	inclusive
+SR1024	n	dmc	yes	развратник	conservative
+SR2	n	svp	no	ацедиа	inclusive
+SR1773	n	cds	no	хомунцулус	inclusive
+SR245	n	or	no	глупак	conservative
+SR469	n	cds	no	охолост	inclusive
+SR992	n	dmc	yes	деликт	inclusive
+SR1791	n	an	no	crv	inclusive
+SR1932	n	pa	yes	рачуновођа	inclusive
+SR461	n	qas	no	буржоазија	inclusive
+SR944	n	om	no	позади	inclusive
+SR1110	n	an	no	намрштити	inclusive
+SR147	n	an	no	необразована особа	conservative
+SR1519	n	cds	no	цоса ностра	inclusive
+SR1930	n	pa	yes	рачуновође	inclusive
+SR1282	n	ps	yes	Јеврејин	inclusive
+SR1603	n	pr	no	Штакор	inclusive
+SR481	n	svp	no	цонцеитеднесс	conservative
+SR1164	n	asf	no	Пичкица	conservative
+SR21	n	re	no	малтретирање	inclusive
+SR1515	n	svp	no	непристојне	inclusive
+SR146	n	an	no	не знам ништа	conservative
+SR305	n	cds	no	банде	inclusive
+SR508	n	cds	no	клика	inclusive
+SR1408	n	cds	no	зајмодаваца	conservative
+SR271	n	cds	no	фоп	inclusive
+SR1128	n	svp	no	бити снужден	conservative
+SR2095	n	an	no	балона свалловер	inclusive
+SR964	n	dmc	yes	малолетни деликвент	conservative
+SR887	n	an	no	диддлискуат	conservative
+SR1428	n	asm	no	Фалус	inclusive
+SR1650	n	an	no	анималцулес	inclusive
+SR1308	n	cds	no	навлачи	conservative
+SR1758	n	re	no	убистава	inclusive
+SR1058	n	cds	no	фашиста	conservative
+SR1113	n	cds	no	Фундаменталисти	inclusive
+SR2057	n	re	no	силоватељ	conservative
+SR1218	n	re	no	лоповски	inclusive
+SR715	n	om	no	хомосексуалац	conservative
+SR1306	n	cds	no	охолости	inclusive
+SR2081	n	re	no	terorizam	conservative
+SR2056	n	re	no	дебауцхер	conservative
+SR1656	n	ddp	yes	мицроцепхалус	inclusive
+SR731	n	ddp	yes	шарлатан	conservative
+SR584	n	om	no	злостављач деце	conservative
+SR1451	n	or	no	метицулосити	inclusive
+SR1351	n	is	yes	сиромаштва	inclusive
+SR1728	n	cds	no	Нимфоманија	conservative
+SR835	n	qas	no	цулл	conservative
+SR1587	n	an	no	схоат	inclusive
+SR289	n	cds	no	бегуине	inclusive
+SR624	n	asm	no	kurac	conservative
+SR538	n	ddp	yes	успорити	conservative
+SR1202	n	an	no	gyps fulvus	inclusive
+SR1711	n	ps	yes	даркие	conservative
+SR739	n	cds	no	чврстог отпада	inclusive
+SR441	n	qas	no	власник предузећа	inclusive
+SR1043	n	cds	no	сводништва	conservative
+SR1276	n	ps	yes	Јудеизам	inclusive
+SR1403	n	cds	no	Зеленаш	conservative
+SR675	n	cds	no	навала	inclusive
+SR1700	n	cds	no	нарциста	inclusive
+SR142	n	ddp	yes	думбасс	conservative
+SR204	n	pa	yes	Βάρβαρος	conservative
+SR236	n	qas	no	барокне архитектуре	inclusive
+SR176	n	cds	no	цатхоусе	inclusive
+SR118	n	an	no	Животињски свет	inclusive
+SR416	n	pr	no	bos taurus	inclusive
+SR2153	n	pa	yes	obucar	inclusive
+SR2137	n	cds	no	Теорије завере	inclusive
+SR726	n	ddp	yes	информатор	conservative
+SR1093	n	cds	no	зависник	conservative
+SR1149	n	asm	no	европска пасуљ	inclusive
+SR253	n	or	no	пудден главе	conservative
+SR1616	n	an	no	море шкорпија	inclusive
+SR876	n	ps	yes	руинер	conservative
+SR115	n	ddp	yes	Метазоа	inclusive
+SR1287	n	cds	no	хои поллои	conservative
+SR1690	n	an	no	мушица	inclusive
+SR144	n	asf	no	фуцкхеад	conservative
+SR715	n	om	no	хомосексуалац	inclusive
+SR1751	n	an	no	ixodida	inclusive
+SR420	n	an	no	воловима	inclusive
+SR534	n	cds	no	слабић	conservative
+SR1595	n	svp	no	придефулнесс	inclusive
+SR982	n	ddf	yes	нанус	conservative
+SR535	n	an	no	болећив	conservative
+SR477	n	ps	yes	Бугари	inclusive
+SR722	n	cds	no	протурач новости	conservative
+SR210	n	pa	yes	Дипломатски рангови Русије	inclusive
+SR2052	n	ddp	yes	хооеи	inclusive
+SR1391	n	dmc	yes	лажов	conservative
+SR1159	n	asf	no	вагина	conservative
+SR1920	n	cds	no	чено	inclusive
+SR247	n	asf	no	мека на додир	conservative
+SR861	n	pr	no	конкубина	inclusive
+SR1223	n	cds	no	krađa	inclusive
+SR1917	a	ps	yes	кинески	inclusive
+SR268	n	cds	no	неистина	inclusive
+SR1594	n	svp	no	gordost	inclusive
+SR1249	n	om	no	схиртлифтер	inclusive
+SR495	n	dmc	yes	виллаинесс	conservative
+SR886	n	cds	no	злочине	inclusive
+SR928	n	om	no	кеистер	inclusive
+SR2084	n	an	no	цаиманс	inclusive
+SR540	n	ddp	yes	имбецил	conservative
+SR771	n	an	no	buljina	inclusive
+SR1520	n	cds	no	италијанском мафијом	inclusive
+SR270	n	cds	no	лажи	conservative
+SR119	n	an	no	анимирати што	inclusive
+SR2155	n	an	no	роунцеи	inclusive
+SR1394	n	re	no	Инфантицид	inclusive
+SR1957	n	cds	no	фавнер	conservative
+SR355	n	ddp	yes	копиле	conservative
+SR249	n	or	no	глупа особа	conservative
+SR523	n	an	no	carcharodon carcharias	inclusive
+SR1517	n	cds	no	официр	inclusive
+SR493	n	svp	no	лаиабоут	conservative
+SR245	n	asm	no	глупак	conservative
+SR1444	n	re	no	крадљивац	inclusive
+SR1943	n	re	no	пљачка	inclusive
+SR193	n	qas	no	баллоцк	inclusive
+SR501	n	cds	no	цацограпхи	inclusive
+SR1561	n	qas	no	аутоинфецтион	inclusive
+SR372	n	cds	no	грешка-уп	inclusive
+SR1074	n	cds	no	финаглер	conservative
+SR1021	n	cds	no	јадник	conservative
+SR1168	n	cds	no	затворски чувар	inclusive
+SR255	n	ddp	yes	насамарити	conservative
+SR874	n	ps	yes	доофус	conservative
+SR885	n	cds	no	илегалне активности	inclusive
+SR2162	n	an	no	црве	inclusive
+SR1556	n	cds	no	клипан	conservative
+SR2146	n	om	no	drag queen	inclusive
+SR637	n	qas	no	заједничко лице	inclusive
+SR457	n	qas	no	средњим приходима	inclusive
+SR1806	n	cds	no	ноувеау-богаташи	inclusive
+SR904	n	cds	no	земљишта	inclusive
+SR199	n	cds	no	разбојништва	inclusive
+SR143	n	asf	no	кнуцклехеад	conservative
+SR135	n	an	no	бетисе	conservative
+SR2059	n	re	no	насилник	conservative
+SR1472	n	dmc	yes	забушант	conservative
+SR1516	n	svp	no	ласциван	inclusive
+SR2030	n	ddp	yes	лудост	inclusive
+SR2090	n	re	no	mučenje	inclusive
+SR1296	n	qas	no	сликар и декоратер	inclusive
+SR1135	n	cds	no	мафијаш	conservative
+SR1695	n	dmc	yes	жгољавац	conservative
+SR1520	n	re	no	италијанском мафијом	conservative
+SR1173	n	an	no	пипистреллус	inclusive
+SR1447	n	cds	no	провалник	inclusive
+SR404	n	an	no	зооерасти	conservative
+SR1910	n	cds	no	бебе	inclusive
+SR824	n	or	no	цуцумис сативус	inclusive
+SR1288	n	cds	no	велики неопран	conservative
+SR2035	n	an	no	црвена добош	inclusive
+SR1041	n	cds	no	подводачица	inclusive
+SR247	n	cds	no	мека на додир	conservative
+SR1176	n	asf	no	стидних длака	inclusive
+SR405	n	ddp	yes	зооерастиа	conservative
+SR1167	n	cds	no	корекције официра	inclusive
+SR583	n	om	no	содомит	conservative
+SR1227	n	re	no	плен	inclusive
+SR382	n	cds	no	лине-стрелац	conservative
+SR1830	n	dmc	yes	лоитерер	conservative
+SR125	n	re	no	силовања	conservative
+SR407	n	an	no	поквареност	conservative
+SR184	n	is	yes	шкртица	conservative
+SR669	n	or	no	brassica oleracea	inclusive
+SR1030	n	svp	no	нерада	inclusive
+SR196	n	cds	no	бандит	conservative
+SR813	n	ps	yes	интерфертилити	inclusive
+SR485	n	dmc	yes	ништарија	conservative
+SR1411	n	an	no	insect	inclusive
+SR151	n	an	no	магарац	inclusive
+SR2152	n	pa	yes	Обућарство	inclusive
+SR290	n	cds	no	фабрицатор	conservative
+SR2157	n	dmc	yes	скитње	inclusive
+SR903	n	cds	no	прљавштина	inclusive
+SR657	n	pa	yes	Професор	inclusive
+SR752	n	an	no	хемиптерон	inclusive
+SR2138	n	cds	no	цонспирацисм	inclusive
+SR1194	n	cds	no	реакционар	conservative
+SR1810	n	cds	no	ноувеаук богатства	inclusive
+SR1273	n	ps	yes	јудео	inclusive
+SR550	n	re	no	цалунниа	inclusive
+SR1710	n	ps	yes	црнац	inclusive
+SR92	n	an	no	Јегуља	inclusive
+SR1684	n	ps	yes	монголоиди	conservative
+SR1139	n	cds	no	фашистичког режима	conservative
+SR770	n	asm	no	лаковерности	conservative
+SR1953	n	re	no	цаптурер	inclusive
+SR415	n	an	no	domaće govedo	inclusive
+SR2200	n	cds	no	Иморализам	inclusive
+SR447	n	qas	no	бизнисмен	inclusive
+SR1367	n	cds	no	спласхинесс	conservative
+SR1752	n	an	no	крпеља	inclusive
+SR204	n	ps	yes	Βάρβαρος	conservative
+SR1209	n	an	no	sus scrofa domestica	inclusive
+SR994	n	cds	no	љубитељ	inclusive
+SR738	n	cds	no	старо гвожђе	inclusive
+SR1647	n	an	no	анималцулум	inclusive
+SR138	n	asf	no	игра карата или домина	conservative
+SR202	n	ps	yes	грубијан	conservative
+SR1851	n	an	no	цоотие	inclusive
+SR1630	n	an	no	ајкула	inclusive
+SR345	n	an	no	аљкава особа	conservative
+SR298	n	dmc	yes	бигот	conservative
+SR1386	n	dmc	yes	уљез	conservative
+SR487	n	an	no	ловлифе	conservative
+SR569	n	ddp	yes	олош	conservative
+SR1518	n	cds	no	полицајац	conservative
+SR260	n	an	no	курва	conservative
+SR823	n	or	no	пичко	conservative
+SR1211	n	cds	no	пискарало	conservative
+SR1178	n	asf	no	стидне длаке	inclusive
+SR1507	n	an	no	њушку	inclusive
+SR729	n	cds	no	цовардлинесс	conservative
+SR1379	n	cds	no	јунк маил	inclusive
+SR1431	n	asm	no	пениса	inclusive
+SR1278	n	ps	yes	Жидови	inclusive
+SR1118	n	cds	no	Фундаментализам	inclusive
+SR288	n	cds	no	лагати	conservative
+SR197	n	cds	no	бандита	inclusive
+SR1136	n	cds	no	гангстера	inclusive
+SR1403	n	cds	no	Зеленаш	inclusive
+SR1496	n	an	no	мољаца	inclusive
+SR1127	n	svp	no	дилли-даллиер	conservative
+SR1639	n	an	no	mikroorganizmi	inclusive
+SR1521	n	re	no	сицилијанска мафија	inclusive
+SR46	n	ddp	yes	аменција	inclusive
+SR278	n	cds	no	збрканост	inclusive
+SR270	n	cds	no	лажи	inclusive
+SR539	n	asf	no	кретен	conservative
+SR1708	n	ps	yes	црнчуга	conservative
+SR1250	n	om	no	хомосексуалних мушкараца	inclusive
+SR455	n	qas	no	Буржуј	inclusive
+SR31	n	cds	no	брокера	inclusive
+SR1223	n	re	no	krađa	inclusive
+SR1236	n	pr	no	црацк курве	inclusive
+SR699	n	pa	yes	десетар	inclusive
+SR609	n	an	no	козјег млека	inclusive
+SR479	n	cds	no	високе непристрасности	conservative
+SR906	n	an	no	прљави трик	conservative
+SR276	n	cds	no	хаос	inclusive
+SR473	n	ps	yes	Бугарин	inclusive
+SR1799	n	an	no	сукња цхасер	conservative
+SR487	n	cds	no	ловлифе	conservative
+SR537	n	cds	no	Идиот	inclusive
+SR261	n	pr	no	проститутка	conservative
+SR200	n	cds	no	Варвар	conservative
+SR392	n	ddp	yes	нерадник	conservative
+SR65	n	om	no	блуд	inclusive
+SR969	n	cds	no	парцеле	inclusive
+SR754	n	an	no	хемиптеран	inclusive
+SR1718	n	ps	yes	црног човека	inclusive
+SR137	n	asm	no	тикван	conservative
+SR716	n	om	no	Геј	inclusive
+SR1503	n	an	no	спора особа	conservative
+SR1331	n	ddf	yes	инвалидитет	inclusive
+SR355	n	cds	no	копиле	conservative
+SR2184	n	dmc	yes	треасонист	conservative
+SR1660	n	an	no	овце	inclusive
+SR706	n	om	no	фуј	conservative
+SR109	n	ddp	yes	Животиње	inclusive
+SR1317	n	cds	no	цроонерс	inclusive
+SR83	n	ddp	yes	цодсваллоп	conservative
+SR1355	n	is	yes	сиромаштво	inclusive
+SR269	n	dmc	yes	лаж	inclusive
+SR1405	n	cds	no	лоансхарк	conservative
+SR2061	n	re	no	сексуално злостављана	inclusive
+SR784	n	asm	no	дркаџијо	conservative
+SR1834	n	cds	no	гласови	inclusive
+SR1029	n	ddf	yes	хендикепирано лице	inclusive
+SR1805	n	qas	no	измамљивач	conservative
+SR719	n	cds	no	румоурмонгер	conservative
+SR965	n	cds	no	вадс	inclusive
+SR1826	n	cds	no	педантан	conservative
+SR863	n	pr	no	Конкубинат	inclusive
+SR362	n	cds	no	по-ударац	inclusive
+SR1938	n	re	no	отима	inclusive
+SR366	n	pa	yes	предузимач	inclusive
+SR2126	n	qas	no	тежина појас	inclusive
+SR218	n	pa	yes	министар	inclusive
+SR184	n	svp	no	шкртица	conservative
+SR469	n	cds	no	охолост	conservative
+SR1155	n	asf	no	вагинални	conservative
+SR168	n	cds	no	брбљивац	conservative
+SR1245	n	is	yes	има-не	inclusive
+SR1102	n	cds	no	Масонерија	inclusive
+SR2031	a	qas	no	средње класе	inclusive
+SR1274	n	ps	yes	хебрејско	inclusive
+SR1645	n	an	no	mikroorganizam	inclusive
+SR55	n	svp	no	самопоштовање	conservative
+SR962	n	pa	yes	чувар врата	inclusive
+SR1593	n	cds	no	пранкисхнесс	inclusive
+SR992	n	cds	no	деликт	inclusive
+SR1778	n	ps	yes	Вандал	inclusive
+SR1654	n	ddp	yes	мицроцепхалиц	inclusive
+SR233	n	qas	no	Барон	inclusive
+SR1037	n	qas	no	дивулгемент	inclusive
+SR1314	n	an	no	хијена	inclusive
+SR1783	n	an	no	лешинари	inclusive
+SR983	n	ddf	yes	патуљак	conservative
+SR288	n	qas	no	лагати	conservative
+SR298	n	svp	no	бигот	conservative
+SR433	n	asm	no	бровннесс	inclusive
+SR1222	n	re	no	крађе	inclusive
+SR1359	n	an	no	некомпетентна особа	conservative
+SR1801	n	qas	no	онај који живи од туђег рада	conservative
+SR1552	n	dmc	yes	сељачина	conservative
+SR1056	n	qas	no	содбустер	inclusive
+SR1261	n	om	no	Хомоеротизам	inclusive
+SR1726	n	ps	yes	бела	inclusive
+SR356	n	ddp	yes	курвин син	conservative
+SR349	n	cds	no	трен	inclusive
+SR1	n	dmc	yes	понижавање	inclusive
+SR1142	n	cds	no	fašizam	conservative
+SR1775	n	ddp	yes	тваддлер	conservative
+SR266	n	pr	no	дроља	conservative
+SR1975	n	an	no	Безрепи водоземци	inclusive
+SR72	n	cds	no	мешавина	inclusive
+SR239	n	cds	no	блацкбалл	inclusive
+SR1292	n	dmc	yes	бескућник	inclusive
+SR1694	n	dmc	yes	пола литре	conservative
+SR1923	n	pr	no	девојчура	conservative
+SR1108	n	an	no	мрштење	inclusive
+SR302	n	cds	no	гангстеризам	inclusive
+SR1995	n	an	no	хирудинеа	inclusive
+SR1129	n	svp	no	узалудност	conservative
+SR1021	n	is	yes	јадник	conservative
+SR688	n	asm	no	комад репа	conservative
+SR1914	n	cds	no	odojče	inclusive
+SR1879	n	re	no	svet gusara	inclusive
+SR312	n	re	no	одметник	inclusive
+SR896	n	cds	no	диме романа	inclusive
+SR690	n	an	no	зека	inclusive
+SR1715	n	ps	yes	афричког порекла	inclusive
+SR793	n	an	no	crocodylia	inclusive
+SR2206	n	an	no	athene noctua	inclusive
+SR109	n	an	no	Животиње	inclusive
+SR790	n	an	no	razlika izmedju krokodila i aligatora	inclusive
+SR1638	n	an	no	микро-организам	inclusive
+SR493	n	dmc	yes	лаиабоут	conservative
+SR268	n	cds	no	неистина	conservative
+SR1947	n	re	no	оружаних пљачки	inclusive
+SR1244	n	pr	no	сексуалних услуга	conservative
+SR536	n	ddp	yes	идиот	inclusive
+SR346	n	cds	no	аљкаво особа	conservative
+SR1756	n	re	no	убија	inclusive
+SR1021	n	dmc	yes	јадник	conservative
+SR1098	n	cds	no	Масон	inclusive
+SR810	n	ps	yes	Хибрид	inclusive
+SR17	n	qas	no	ацолитес	inclusive
+SR1574	n	an	no	папагај	inclusive
+SR931	n	om	no	дерриере	inclusive
+SR502	n	an	no	кајман	inclusive
+SR1504	n	an	no	неинветиван	conservative
+SR1402	n	cds	no	зајмодавац	inclusive
+SR2013	n	cds	no	брод другог реда	conservative
+SR358	n	ddp	yes	дркаџија	conservative
+SR1248	n	om	no	мушке сексуалности	inclusive
+SR854	n	cds	no	Демагогија	conservative
+SR368	n	an	no	рогоња	conservative
+SR1019	n	dmc	yes	зло	conservative
+SR989	n	cds	no	васпитач	inclusive
+SR245	n	ps	yes	глупак	conservative
+SR482	n	svp	no	сујете	conservative
+SR1361	n	ddp	yes	незнање	conservative
+SR265	n	an	no	рентбои	conservative
+SR191	n	qas	no	Тестис	inclusive
+SR859	n	pr	no	куртизане	inclusive
+SR2107	n	om	no	Трансвестит	inclusive
+SR563	n	re	no	дефраудер	inclusive
+SR1474	n	svp	no	ленштина	conservative
+SR1135	n	dmc	yes	мафијаш	inclusive
+SR1450	n	or	no	педантност	inclusive
+SR1107	n	cds	no	Слободно зидарство	inclusive
+SR1196	n	cds	no	екстремне десничар	conservative
+SR1956	n	cds	no	јабука полирање	conservative
+SR2002	n	an	no	blattaria	inclusive
+SR144	n	or	no	фуцкхеад	conservative
+SR1600	n	cds	no	рекеташ	inclusive
+SR123	n	ddp	yes	Фауна	inclusive
+SR1673	n	pa	yes	чобаница	inclusive
+SR749	n	an	no	цимек лецтулариус	inclusive
+SR544	n	re	no	клеветање	inclusive
+SR83	n	asf	no	цодсваллоп	conservative
+SR1860	n	an	no	вашка	inclusive
+SR567	n	cds	no	преварант	conservative
+SR1528	n	ps	yes	Остроготи	inclusive
+SR1967	n	an	no	ануран	inclusive
+SR1130	n	svp	no	узалудности	conservative
+SR1570	n	an	no	Папагаји	inclusive
+SR540	n	asf	no	имбецил	conservative
+SR728	n	an	no	кукавица	conservative
+SR617	n	qas	no	илузија	inclusive
+SR530	n	cds	no	casino	inclusive
+SR1784	n	an	no	sup	inclusive
+SR1440	n	ddp	yes	ментални недостатак	inclusive
+SR2195	n	ps	yes	романи	inclusive
+SR381	n	qas	no	флуб	inclusive
+SR1057	n	qas	no	ратар	inclusive
+SR1061	n	cds	no	брз један	conservative
+SR1492	n	an	no	комараца	inclusive
+SR2183	n	dmc	yes	отпадник	conservative
+SR1213	n	cds	no	проклетник	conservative
+SR1283	n	ps	yes	Жидов	inclusive
+SR2039	n	cds	no	двееб	conservative
+SR1143	n	cds	no	fasizam	conservative
+SR654	n	pa	yes	професора	inclusive
+SR1764	n	re	no	детектив за убиства	inclusive
+SR1707	n	ps	yes	нигра	conservative
+SR1622	n	ps	yes	мешанац	conservative
+SR907	n	svp	no	Гађење	inclusive
+SR1588	n	an	no	прасе	inclusive
+SR1997	n	an	no	Пијавица	inclusive
+SR756	n	cds	no	лукавство	conservative
+SR1740	n	an	no	Гуска	inclusive
+SR909	n	dmc	yes	фолирант	conservative
+SR2203	n	rci	yes	terrone	conservative
+SR1872	n	asm	no	рука посао	conservative
+SR499	n	or	no	бундеве	inclusive
+SR2089	n	asm	no	фалусни	inclusive
+SR398	n	an	no	тело снатцхер	inclusive
+SR807	n	ps	yes	хибрид	inclusive
+SR303	n	cds	no	Банде	inclusive
+SR84	n	ddp	yes	фолдерол	conservative
+SR139	n	cds	no	будала	conservative
+SR1354	n	is	yes	сиромашни	inclusive
+SR1807	n	cds	no	новобогаташа	inclusive
+SR2171	n	re	no	насиља	inclusive
+SR639	n	qas	no	обичан човек	inclusive
+SR968	n	cds	no	гомиле	inclusive
+SR1297	n	svp	no	прождрљивост	inclusive
+SR1204	n	an	no	Свиња	inclusive
+SR1426	n	cds	no	проводаџија	inclusive
+SR873	n	ddp	yes	бленути	conservative
+SR40	n	pa	yes	дописни члан	inclusive
+SR164	n	svp	no	аварициоуснесс	inclusive
+SR306	n	dmc	yes	битанга	conservative
+SR1984	n	an	no	bufo bufo	inclusive
+SR759	n	svp	no	жудња	inclusive
+SR1051	n	qas	no	фиелдханд	inclusive
+SR1816	n	qas	no	троублер	conservative
+SR873	n	ps	yes	бленути	conservative
+SR1671	n	pa	yes	пастир	inclusive
+SR1376	n	cds	no	наставног средства	inclusive
+SR113	n	ddp	yes	инфауна	inclusive
+SR1090	n	cds	no	пајац	inclusive
+SR165	n	svp	no	похлепност	inclusive
+SR2187	n	dmc	yes	Делинквент	inclusive
+SR1437	n	svp	no	љути	inclusive
+SR536	n	cds	no	идиот	inclusive
+SR1974	n	an	no	Žabe	inclusive
+SR1821	n	or	no	татер	inclusive
+SR138	n	an	no	игра карата или домина	conservative
+SR1876	n	re	no	пирата	inclusive
+SR1332	n	ddf	yes	физички изазов	inclusive
+SR512	n	cds	no	круг лица са заједничким интересом	inclusive
+SR136	n	or	no	глупан	conservative
+SR267	n	an	no	уличарка	conservative
+SR918	n	dmc	yes	Хипокризија	conservative
+SR979	n	cds	no	кмет	inclusive
+SR1582	n	asm	no	Грашак	inclusive
+SR1532	n	an	no	отус асио	inclusive
+SR1416	n	cds	no	дрзак	inclusive
+SR396	n	dmc	yes	бумблер	conservative
+SR591	n	cds	no	Племе	inclusive
+SR1367	n	cds	no	спласхинесс	inclusive
+SR1803	n	qas	no	мооцхер	conservative
+SR511	n	cds	no	унутрашњи круг	inclusive
+SR2085	n	ddp	yes	мрзовољац	conservative
+SR565	n	dmc	yes	цхиселлер	conservative
+SR1903	n	cds	no	detence	inclusive
+SR982	n	an	no	нанус	conservative
+SR1342	n	ddp	yes	подвала	conservative
+SR539	n	ddp	yes	кретен	conservative
+SR30	n	cds	no	брокер	inclusive
+SR166	n	svp	no	шкртост	inclusive
+SR117	n	an	no	Анималија	inclusive
+SR559	n	re	no	camorra	inclusive
+SR1358	n	ddp	yes	неспособан	conservative
+SR590	n	cds	no	сродство група	inclusive
+SR1512	n	svp	no	лукуриа	inclusive
+SR338	n	qas	no	индустријалац	inclusive
+SR1988	n	cds	no	охола особа	conservative
+SR136	n	asf	no	глупан	conservative
+SR344	n	is	yes	нитков	conservative
+SR837	n	qas	no	уништавање	conservative
+SR1459	n	qas	no	Смјеше	inclusive
+SR1547	n	cds	no	паппараззи	inclusive
+SR282	n	ps	yes	бедуина	inclusive
+SR1955	n	re	no	отмичар	inclusive
+SR1066	n	dmc	yes	малодоур	conservative
+SR1100	n	cds	no	масона	inclusive
+SR2193	n	ps	yes	ррома	inclusive
+SR573	n	an	no	Ћено	inclusive
+SR620	n	an	no	Вулгарност	conservative
+SR894	n	cds	no	диме новел	inclusive
+SR253	n	ddp	yes	пудден главе	conservative
+SR201	n	ddp	yes	варвара	conservative
+SR1044	n	cds	no	пандар	conservative
+SR954	n	svp	no	ровокопач	inclusive
+SR489	n	cds	no	гит	conservative
+SR377	n	cds	no	побркати	inclusive
+SR1500	n	dmc	yes	mocarela	inclusive
+SR244	n	cds	no	учена жена	inclusive
+SR1358	n	an	no	неспособан	conservative
+SR1033	n	cds	no	породице	inclusive
+SR2113	n	om	no	трансвестити	inclusive
+SR995	n	re	no	кривична дела	inclusive
+SR1060	n	cds	no	фасциста	inclusive
+SR1457	n	qas	no	Смеша	inclusive
+SR605	n	an	no	коза	inclusive
+SR2147	n	om	no	женско имитатор	inclusive
+SR219	n	pa	yes	специјални изасланик	inclusive
+SR538	n	cds	no	успорити	inclusive
+SR386	n	cds	no	браггер	conservative
+SR231	n	qas	no	барони	inclusive
+SR74	n	qas	no	збрка	inclusive
+SR1322	n	cds	no	идолопоклонство	inclusive
+SR542	n	ddp	yes	цхангелинг	inclusive
+SR140	n	or	no	говнар	conservative
+SR1132	n	cds	no	гангстер	inclusive
+SR1892	n	an	no	gallus gallus domesticus	inclusive
+SR1054	n	qas	no	пољопривредника	inclusive
+SR705	n	cds	no	дописника	inclusive
+SR1404	n	cds	no	зеленашење	inclusive
+SR392	n	dmc	yes	нерадник	conservative
+SR1881	n	re	no	Пират	inclusive
+SR353	n	cds	no	лопов	conservative
+SR159	n	svp	no	pohlepa	inclusive
+SR691	n	an	no	kunić	inclusive
+SR1362	n	an	no	инекорабленесс	conservative
+SR128	n	re	no	силоватеља	conservative
+SR303	n	cds	no	Банде	conservative
+SR281	n	ps	yes	бедуин	inclusive
+SR564	n	ddp	yes	варалица	conservative
+SR296	n	cds	no	нетрпељивости	conservative
+SR340	n	qas	no	индустријалаца	inclusive
+SR390	n	cds	no	конформистички	conservative
+SR346	n	an	no	аљкаво особа	conservative
+SR1817	n	or	no	спуд	inclusive
+SR1339	n	ddf	yes	Инвалидност	inclusive
+SR1101	n	cds	no	Масони	inclusive
+SR33	n	pa	yes	академске	inclusive
+SR209	n	qas	no	Дилер	inclusive
+SR739	n	qas	no	чврстог отпада	inclusive
+SR451	n	om	no	хуља	inclusive
+SR1856	n	an	no	Телесна ваш	inclusive
+SR1195	n	cds	no	реакционарски	conservative
+SR2026	a	svp	no	ласциван	conservative
+SR431	n	asm	no	smeđ	inclusive
+SR344	n	cds	no	нитков	inclusive
+SR764	n	an	no	вампер	conservative
+SR1640	n	an	no	mikroorganizami	inclusive
+SR442	n	qas	no	пословна	inclusive
+SR921	n	om	no	први подређени	inclusive
+SR538	n	ddp	yes	успорити	inclusive
+SR1575	n	svp	no	пени-штипање	inclusive
+SR1891	n	re	no	Гусарство	inclusive
+SR2097	n	pa	yes	канцеларијски радник	inclusive
+SR124	n	ddp	yes	фауне	inclusive
+SR315	n	an	no	бизона	inclusive
+SR1083	n	an	no	сипхонаптера	inclusive
+SR1188	n	an	no	цапринае	inclusive
+SR306	n	re	no	битанга	conservative
+SR1931	n	pa	yes	контролора	inclusive
+SR539	n	asm	no	кретен	inclusive
+SR413	n	an	no	домаће стоке	inclusive
+SR1303	n	qas	no	Колиба	inclusive
+SR130	n	re	no	silovanje	conservative
+SR536	n	ddp	yes	идиот	conservative
+SR2037	n	cds	no	свот	conservative
+SR1262	n	om	no	истополне	inclusive
+SR2124	n	cds	no	канализацију	inclusive
+SR2188	n	re	no	Делинквенција	inclusive
+SR267	n	pr	no	уличарка	conservative
+SR1869	n	cds	no	верске дискриминације	inclusive
+SR857	n	pr	no	љубавник	inclusive
+SR1787	n	dmc	yes	лакрдијаш	inclusive
+SR650	n	qas	no	Касте	inclusive
+SR816	n	cds	no	жутокљунац	conservative
+SR1790	n	dmc	yes	кловнова	inclusive
+SR1672	n	pa	yes	пастира	inclusive
+SR1435	n	svp	no	инвидиа	inclusive
+SR1902	n	cds	no	novorođenče	inclusive
+SR1229	n	re	no	украдена имовина	inclusive
+SR941	n	om	no	дорсовентрал	inclusive
+SR1475	n	an	no	Мекушци	inclusive
+SR1694	n	cds	no	пола литре	conservative
+SR1345	n	ddp	yes	нонсенсицалити	conservative
+SR870	n	an	no	гусар	inclusive
+SR1483	n	ps	yes	монгол	inclusive
+SR84	n	cds	no	фолдерол	conservative
+SR882	n	re	no	дело	inclusive
+SR1052	n	qas	no	поље рука	inclusive
+SR2188	n	dmc	yes	Делинквенција	inclusive
+SR1025	n	dmc	yes	потрошити-све	inclusive
+SR2178	n	an	no	Шарка	inclusive
+SR2008	n	an	no	блаттодеа	inclusive
+SR247	n	an	no	мека на додир	conservative
+SR1433	n	svp	no	енвиоуснесс	inclusive
+SR929	n	om	no	тоосхие	inclusive
+SR1207	n	an	no	sus domestica	inclusive
+SR538	n	asf	no	успорити	conservative
+SR879	n	asm	no	прекршај	inclusive
+SR1681	n	ps	yes	монголоидан	conservative
+SR1727	n	cds	no	хиперсексуалност	conservative
+SR1792	n	an	no	glista	inclusive
+SR1064	n	or	no	финоццхио	inclusive
+SR913	n	dmc	yes	прикривање	conservative
+SR1265	n	ps	yes	јеврејској породици	inclusive
+SR582	n	an	no	лоша особа	conservative
+SR2160	n	cds	no	подмитљиви	inclusive
+SR1021	n	dmc	yes	јадник	inclusive
+SR1793	n	an	no	глиста	inclusive
+SR678	n	svp	no	сексуална жеља	inclusive
+SR834	n	cds	no	одабрати	conservative
+SR1871	n	cds	no	дркање	conservative
+SR1732	n	cds	no	Хиперсексуалност	conservative
+SR1705	n	cds	no	само-обожавање	inclusive
+SR767	n	an	no	неверница	conservative
+SR676	n	svp	no	физичка привлачност	inclusive
+SR858	n	pr	no	доки	inclusive
+SR1524	n	re	no	Мафија	conservative
+SR1905	n	cds	no	dojenče	inclusive
+SR1456	n	qas	no	Смјеша	inclusive
+SR2087	n	asm	no	фалус	inclusive
+SR9	n	svp	no	apatheia	inclusive
+SR630	n	asm	no	pevac	inclusive
+SR174	n	cds	no	кућа проституције	inclusive
+SR395	n	dmc	yes	сад врећа	conservative
+SR2201	n	cds	no	хајдучију	inclusive
+SR742	n	an	no	цимицидае	inclusive
+SR951	n	qas	no	псе	inclusive
+SR1874	n	asm	no	дрка	conservative
+SR1855	n	an	no	педицулус цорпорис	inclusive
+SR422	n	an	no	tele	inclusive
+SR503	n	an	no	цаиман	inclusive
+SR345	n	cds	no	аљкава особа	conservative
+SR1789	n	dmc	yes	кловн	inclusive
+SR1237	n	pr	no	блудничење	conservative
+SR748	n	an	no	стеница	inclusive
+SR527	n	cds	no	стрвина	inclusive
+SR562	n	cds	no	цхиселер	inclusive
+SR1210	n	an	no	Домаће свиње	inclusive
+SR716	n	om	no	Геј	conservative
+SR5	n	svp	no	абулиа	inclusive
+SR460	n	qas	no	буржоазије	inclusive
+SR3	n	svp	no	лењост	conservative
+SR428	n	cds	no	директор	inclusive
+SR2103	n	om	no	преоблаче	inclusive
+SR226	n	pa	yes	Адвокат	inclusive
+SR2088	n	asm	no	итхипхаллиц	inclusive
+SR423	n	an	no	бос таурус	inclusive
+SR172	n	cds	no	јавној кући	inclusive
+SR188	n	asm	no	jajašce	inclusive
+SR1001	n	qas	no	полутан	conservative
+SR708	n	or	no	куеер	conservative
+SR2040	a	is	yes	ubog	inclusive
+SR1623	n	ps	yes	мелез	conservative
+SR314	n	an	no	јарца	inclusive
+SR1624	n	ps	yes	Местик	conservative
+SR142	n	or	no	думбасс	conservative
+SR1606	n	qas	no	реторички	inclusive
+SR1175	n	cds	no	жиголо	inclusive
+SR2082	n	re	no	терористички акт	conservative
+SR1915	a	ps	yes	црн	inclusive
+SR943	n	om	no	ипсилатералне	inclusive
+SR396	n	cds	no	бумблер	conservative
+SR542	n	asm	no	цхангелинг	inclusive
+SR66	n	an	no	лењивац	conservative
+SR1487	n	an	no	комарац	inclusive
+SR69	n	cds	no	провокација	inclusive
+SR1781	n	an	no	гуја	inclusive
+SR1087	n	an	no	бува	inclusive
+SR2021	n	an	no	ауреус џунгла	inclusive
+SR406	n	an	no	бестијалност	conservative
+SR1266	n	ps	yes	јеврејска религија	inclusive
+SR488	n	dmc	yes	тако и тако	inclusive
+SR171	n	ddp	yes	ментална ретардација	inclusive
+SR1305	n	qas	no	хутцх	inclusive
+SR1706	n	ps	yes	јигабоо	conservative
+SR263	n	pr	no	аљкаво жена	conservative
+SR1544	n	cds	no	paparazzo	inclusive
+SR1670	n	pa	yes	Овчар	inclusive
+SR258	n	pr	no	блудница	conservative
+SR963	n	re	no	делинквент	conservative
+SR1050	n	qas	no	пољопривредни радник	inclusive
+SR872	n	an	no	отимач	inclusive
+SR718	n	ddp	yes	госсипер	conservative
+SR145	n	ddp	yes	незналица	conservative
+SR24	n	re	no	злостављања	inclusive
+SR419	n	pr	no	Говедо	inclusive
+SR2123	n	asm	no	кутија за	inclusive
+SR1600	n	re	no	рекеташ	inclusive
+SR1319	n	qas	no	идеолог	inclusive
+SR423	n	pr	no	бос таурус	inclusive
+SR489	n	dmc	yes	гит	inclusive
+SR2166	n	cds	no	полтрон	conservative
+SR372	n	qas	no	грешка-уп	inclusive
+SR137	n	or	no	тикван	conservative
+SR1068	n	dmc	yes	смрад	conservative
+SR201	n	pa	yes	варвара	conservative
+SR1621	n	cds	no	канализације	inclusive
+SR1153	n	asm	no	боб	inclusive
+SR646	n	an	no	цулек пипиенс	inclusive
+SR1668	n	pa	yes	Чобанин	inclusive
+SR63	n	om	no	Анални секс	inclusive
+SR185	n	qas	no	тесте	inclusive
+SR1040	n	cds	no	фанатизам	conservative
+SR2077	n	re	no	Терористи	inclusive
+SR1509	n	cds	no	нерди	conservative
+SR677	n	svp	no	похота	inclusive
+SR2004	n	an	no	бубашваба	inclusive
+SR623	n	an	no	раунцх	conservative
+SR1246	n	is	yes	сиромашних особа	inclusive
+SR201	n	dmc	yes	варвара	conservative
+SR1954	n	re	no	киднапер	inclusive
+SR1128	n	dmc	yes	бити снужден	conservative
+SR652	n	qas	no	касте	inclusive
+SR1009	n	dmc	yes	морални кодекс	inclusive
+SR1559	n	qas	no	ектопаразита	inclusive
+SR1217	n	cds	no	лоповлук	inclusive
+SR1546	n	cds	no	Папараци	inclusive
+SR90	n	ddp	yes	аналфабет	inclusive
+SR396	n	qas	no	бумблер	conservative
+SR495	n	re	no	виллаинесс	conservative
+SR1614	n	qas	no	Реторика	inclusive
+SR614	n	svp	no	ниггарднесс	conservative
+SR1524	n	re	no	Мафија	inclusive
+SR2053	n	ddp	yes	бесмислице	inclusive
+SR585	n	om	no	педераст	conservative
+SR495	n	cds	no	виллаинесс	conservative
+SR186	n	asm	no	тестис	inclusive
+SR963	n	cds	no	делинквент	conservative
+SR696	n	cds	no	завера ћутања	inclusive
+SR1696	n	cds	no	нарцисизам	inclusive
+SR395	n	cds	no	сад врећа	conservative
+SR629	n	asm	no	певац	inclusive
+SR1604	n	cds	no	Мошти	inclusive
+SR1072	n	dmc	yes	смрдети	conservative
+SR1200	n	an	no	гипс фулвус	inclusive
+SR2202	n	cds	no	разбојника	inclusive
+SR298	n	cds	no	бигот	conservative
+SR1502	n	dmc	yes	Моцарела	inclusive
+SR1008	n	dmc	yes	морала	inclusive
+SR178	n	cds	no	борделло	inclusive
+SR1519	n	re	no	цоса ностра	inclusive
+SR195	n	cds	no	разбојник	conservative
+SR1771	n	re	no	мучитељ	inclusive
+SR1662	n	an	no	Ован	inclusive
+SR94	n	an	no	anguillidae	inclusive
+SR194	n	asm	no	тестиса	inclusive
+SR201	n	ps	yes	варвара	conservative
+SR537	n	ddp	yes	Идиот	conservative
+SR840	n	cds	no	трицкер	conservative
+SR1583	n	asm	no	грашка	inclusive
+SR825	n	or	no	краставац	inclusive
+SR1592	n	pa	yes	свињски месар	inclusive
+SR419	n	an	no	Говедо	inclusive
+SR974	n	cds	no	мноштво	inclusive
+SR188	n	qas	no	jajašce	inclusive
+SR1554	n	cds	no	рубе	conservative
+SR1253	n	om	no	хомосекуалисм	inclusive
+SR1123	n	svp	no	Гњев	conservative
+SR1976	n	an	no	жаба	inclusive
+SR1992	n	an	no	hirudinea	inclusive
+SR494	n	dmc	yes	мангуп	conservative
+SR183	n	svp	no	цхеапскате	conservative
+SR1921	n	cds	no	пропагирање	inclusive
+SR142	n	an	no	думбасс	conservative
+SR768	n	asm	no	лаковерност	conservative
+SR1059	n	is	yes	Маргинална група	inclusive
+SR245	n	ddp	yes	глупак	conservative
+SR1568	n	qas	no	парохијанин	inclusive
+SR2082	n	re	no	терористички акт	inclusive
+SR525	n	an	no	људождер	inclusive
+SR369	n	cds	no	слепој улици	inclusive
+SR2148	n	om	no	Драг шоу	inclusive
+SR284	n	ps	yes	Бедуин	inclusive
+SR1772	n	dmc	yes	хомунцули	inclusive
+SR141	n	ddp	yes	муттонхеад	conservative
+SR307	n	cds	no	пут агент	conservative
+SR190	n	qas	no	јајашце	inclusive
+SR933	n	om	no	цаудалли	inclusive
+SR256	n	pr	no	дама задовољства	conservative
+SR329	n	ps	yes	инкинесс	inclusive
+SR1151	n	asm	no	Боб	inclusive
+SR1597	n	cds	no	супербиа	conservative
+SR139	n	ddp	yes	будала	conservative
+SR539	n	ps	yes	кретен	conservative
+SR195	n	re	no	разбојник	conservative
+SR410	n	svp	no	досада	inclusive
+SR1598	n	cds	no	пропагандиста	inclusive
+SR1811	n	cds	no	скоројевић	inclusive
+SR1666	n	pa	yes	схеепхердерс	inclusive
+SR206	n	an	no	варваризам	inclusive
+SR391	n	cds	no	фумблер	conservative
+SR1555	n	cds	no	цхавбацон	conservative
+SR313	n	an	no	јарац	inclusive
+SR569	n	qas	no	олош	conservative
+SR548	n	re	no	секира посао	inclusive
+SR409	n	svp	no	досаде	inclusive
+SR185	n	asm	no	тесте	inclusive
+SR167	n	cds	no	тврдица	inclusive
+SR562	n	re	no	цхиселер	inclusive
+SR2013	n	dmc	yes	брод другог реда	conservative
+SR1788	n	dmc	yes	весео андрев	inclusive
+SR1828	n	cds	no	свестраност	conservative
+SR868	n	an	no	лоотер	inclusive
+SR1698	n	cds	no	Нарцисоидност	inclusive
+SR327	n	cds	no	несташлук одлука	conservative
+SR1184	n	cds	no	њушкало	conservative
+SR1768	n	cds	no	тимесервер	conservative
+SR118	n	ddp	yes	Животињски свет	inclusive
+SR394	n	dmc	yes	шепртља	conservative
+SR817	n	qas	no	конформизам	inclusive
+SR130	n	re	no	silovanje	inclusive
+SR747	n	an	no	кревет буг	inclusive
+SR1602	n	pr	no	Пацов	inclusive
+SR2012	n	dmc	yes	фалсификатор	conservative
+SR1325	n	cds	no	лажним идола	inclusive
+SR698	n	pa	yes	Десетар	inclusive
+SR686	n	asm	no	завртање	conservative
+SR916	n	dmc	yes	симулант	conservative
+SR673	n	or	no	брассица олерацеа	inclusive
+SR1699	n	cds	no	Нарцизам	inclusive
+SR1385	n	om	no	племкиња	inclusive
+SR1710	n	ps	yes	црнац	conservative
+SR394	n	qas	no	шепртља	conservative
+SR937	n	om	no	аборал	inclusive
+SR2208	n	ps	yes	зулу	inclusive
+SR84	n	an	no	фолдерол	conservative
+SR862	n	pr	no	Куртизана	inclusive
+SR631	n	asm	no	петао	inclusive
+SR325	n	cds	no	неваљалост	conservative
+SR497	n	is	yes	негативац	conservative
+SR1553	n	dmc	yes	сељак	conservative
+SR1042	n	cds	no	сводник	inclusive
+SR1493	n	an	no	комарци	inclusive
+SR1560	n	qas	no	паразитизам	inclusive
+SR2094	n	an	no	балон свалловер	inclusive
+SR1523	n	re	no	мафијаши	conservative
+SR248	n	ps	yes	особа која испашта туђе грешке	conservative
+SR763	n	an	no	вамп	conservative
+SR112	n	an	no	Царство Животиња	inclusive
+SR2075	n	cds	no	површност	inclusive
+SR1580	n	asm	no	грашак	inclusive
+SR1693	n	cds	no	lopov	inclusive
+SR1490	n	an	no	москуитое	inclusive
+SR504	a	ddf	yes	лоше	inclusive
+SR1541	n	om	no	педерастије	inclusive
+SR1094	n	asm	no	кожице	inclusive
+SR359	n	cds	no	ванбрачно дете	inclusive
+SR1527	n	ps	yes	Остроготска држава	inclusive
+SR1849	n	an	no	хуманус	inclusive
+SR251	n	or	no	глуп	conservative
+SR175	n	cds	no	јавна кућа	inclusive
+SR55	n	cds	no	самопоштовање	conservative
+SR1506	n	an	no	Мула	inclusive
+SR1239	n	pr	no	prostitucija	inclusive
+SR714	n	or	no	хомопхиле	conservative
+SR1409	n	cds	no	лоансхаркинг	inclusive
+SR347	n	cds	no	аљкавац	conservative
+SR882	n	cds	no	дело	inclusive
+SR1263	n	om	no	хомосексуалност	inclusive
+SR1220	n	re	no	крађа	inclusive
+SR341	n	qas	no	врх извршне	inclusive
+SR1818	n	or	no	мурпхи	inclusive
+SR251	n	cds	no	глуп	conservative
+SR707	n	or	no	педер	conservative
+SR682	n	asm	no	јебени	conservative
+SR1364	n	an	no	немилосрдност	conservative
+SR361	n	cds	no	ванбрачан	inclusive
+SR1055	n	qas	no	грангер	inclusive
+SR430	n	ddp	yes	оштећења мозга	inclusive
+SR541	n	ps	yes	цхангелингс	conservative
+SR1447	n	re	no	провалник	inclusive
+SR534	n	an	no	слабић	conservative
+SR1115	n	cds	no	фундаменталисти	inclusive
+SR322	n	ddp	yes	достављач	conservative
+SR1719	n	pa	yes	просилац	inclusive
+SR566	n	re	no	сцаммер	inclusive
+SR966	n	cds	no	гобс	inclusive
+SR158	n	svp	no	sedam smrtnih grehova	inclusive
+SR643	n	cds	no	баллуп	inclusive
+SR49	n	pa	yes	ацадемицисм	inclusive
+SR1277	n	ps	yes	јеврејин	inclusive
+SR541	n	ddp	yes	цхангелингс	conservative
+SR1733	n	cds	no	сатириасис	conservative
+SR1252	n	om	no	Хомосексуализам	inclusive
+SR2029	n	ddp	yes	унвисенесс	inclusive
+SR542	n	ddp	yes	цхангелинг	conservative
+SR149	n	an	no	магарци	inclusive
+SR1038	n	cds	no	фанатик	conservative
+SR1987	n	cds	no	веисенхеимер	conservative
+SR2173	n	an	no	випера	inclusive
+SR204	n	rci	yes	Βάρβαρος	conservative
+SR1737	n	asf	no	техникалија	inclusive
+SR2093	n	re	no	мучење	inclusive
+SR1982	n	an	no	Крастача	inclusive
+SR2185	n	dmc	yes	издајника	conservative
+SR732	n	ddp	yes	надрилекарство	conservative
+SR421	n	pr	no	Краве	inclusive
+SR1946	n	re	no	пљачке	inclusive
+SR399	n	an	no	тело отимање	inclusive
+SR709	n	or	no	поове	conservative
+SR802	n	an	no	pravi krokodili	inclusive
+SR1972	n	an	no	Жабе	inclusive
+SR740	n	qas	no	домаћег отпада	inclusive
+SR1524	n	cds	no	Мафија	conservative
+SR1916	n	is	yes	сиромах	inclusive
+SR1126	n	dmc	yes	диллидаллиер	conservative
+SR1442	n	cds	no	рустлер	inclusive
+SR1626	n	ps	yes	местизос	conservative
+SR138	n	asm	no	игра карата или домина	conservative
+SR804	n	cds	no	Хибридна семена	inclusive
+SR485	n	an	no	ништарија	conservative
+SR1486	n	cds	no	моралисања	inclusive
+SR467	n	cds	no	egoizam	conservative
+SR2190	n	ps	yes	романис	inclusive
+SR2072	n	cds	no	цонвентицле	inclusive
+SR1380	n	cds	no	краснописац	conservative
+SR1045	n	cds	no	поводач	conservative
+SR202	n	ddp	yes	грубијан	conservative
+SR438	n	pr	no	раттус норвегицус	inclusive
+SR1053	n	qas	no	фарма радник	inclusive
+SR1812	n	qas	no	смутљивац	conservative
+SR2127	n	an	no	Масовна обмана	conservative
+SR320	n	cds	no	издајнички	conservative
+SR1449	n	ps	yes	метиц	inclusive
+SR1522	n	re	no	мафије	inclusive
+SR1688	n	cds	no	морализам	inclusive
+SR2161	n	an	no	црви	inclusive
+SR1089	n	dmc	yes	глупирање	inclusive
+SR2125	n	cds	no	ндрангета	inclusive
+SR1900	n	an	no	пиле	inclusive
+SR738	n	qas	no	старо гвожђе	inclusive
+SR181	n	cds	no	бавдихоусе	inclusive
+SR1802	n	qas	no	цадгер	conservative
+SR2006	n	an	no	Бубашвабе	inclusive
+SR137	n	ps	yes	тикван	conservative
+SR1884	n	re	no	плагираних	inclusive
+SR1613	n	qas	no	Беседништво	inclusive
+SR2079	n	re	no	тероризма	conservative
+SR1150	n	asm	no	вициа фаба	inclusive
+SR1432	n	asm	no	Пенис	inclusive
+SR432	n	asm	no	смеђ	inclusive
+SR141	n	an	no	муттонхеад	conservative
+SR1763	n	re	no	Хомицид	inclusive
+SR2050	a	cds	no	паметан	inclusive
+SR71	n	cds	no	омниум-гатхерум	inclusive
+SR1767	n	re	no	slejer	inclusive
+SR250	n	cds	no	пиллоцк	conservative
+SR2177	n	an	no	vipera berus	inclusive
+SR996	n	re	no	злочин	inclusive
+SR1425	n	cds	no	матцхер	inclusive
+SR794	n	an	no	цроцодилианс	inclusive
+SR1933	n	or	no	брассица рапа	inclusive
+SR1484	n	ps	yes	Монгол	inclusive
+SR532	n	dmc	yes	изгнаник	inclusive
+SR917	n	dmc	yes	онај који прикрива	conservative
+SR2038	n	cds	no	вонк	conservative
+SR1344	n	ddp	yes	глупости	conservative
+SR1949	n	re	no	одлагање	inclusive
+SR152	n	om	no	дупе	inclusive
+SR1036	n	qas	no	дивулгенце	inclusive
+SR421	n	an	no	Краве	inclusive
+SR1307	n	cds	no	точка дилер	conservative
+SR722	n	ddp	yes	протурач новости	conservative
+SR1473	n	dmc	yes	слацкер	conservative
+SR291	n	dmc	yes	фиббер	conservative
+SR44	n	ddp	yes	идиотизам	inclusive
+SR535	n	om	no	болећив	conservative
+SR153	n	an	no	Зубр	inclusive
+SR600	n	an	no	рода капра	inclusive
+SR539	n	asm	no	кретен	conservative
+SR1523	n	cds	no	мафијаши	inclusive
+SR517	n	cds	no	караван пут	inclusive
+SR179	n	cds	no	кућа лошег угледа	inclusive
+SR1703	n	cds	no	аутолатри	inclusive
+SR357	n	cds	no	педеру	conservative
+SR310	n	dmc	yes	злочинац	inclusive
+SR370	n	dmc	yes	раскалашник	conservative
+SR1578	a	dmc	yes	зло	conservative
+SR874	n	ddp	yes	доофус	conservative
+SR1302	n	qas	no	барака	inclusive
+SR83	n	an	no	цодсваллоп	conservative
+SR1637	n	an	no	микро-организама	inclusive
+SR1063	n	or	no	фастидиоуснесс	inclusive
+SR487	n	dmc	yes	ловлифе	inclusive
+SR587	n	cds	no	кин група	inclusive
+SR1796	n	an	no	Црви	inclusive
+SR1255	n	om	no	Хомосексуалци	inclusive
+SR1518	n	cds	no	полицајац	inclusive
+SR549	n	re	no	клеветничке	inclusive
+SR488	n	cds	no	тако и тако	conservative
+SR822	n	cds	no	момчић	inclusive
+SR1382	n	dmc	yes	цхеатер	conservative
+SR970	n	cds	no	велика количина	inclusive
+SR1018	n	an	no	еуриптерид	inclusive
+SR1299	n	qas	no	кућни послови	inclusive
+SR555	n	re	no	традуцер	conservative
+SR924	n	om	no	прат	inclusive
+SR269	n	qas	no	лаж	conservative
+SR1132	n	re	no	гангстер	inclusive
+SR546	n	re	no	клевета	inclusive
+SR829	n	cds	no	камарила	inclusive
+SR88	n	cds	no	ревнитељи	inclusive
+SR536	n	ps	yes	идиот	conservative
+SR1035	n	cds	no	породица линија	inclusive
+SR1958	n	cds	no	улизица	conservative
+SR1444	n	cds	no	крадљивац	inclusive
+SR496	n	dmc	yes	простачки	conservative
+SR415	n	pr	no	domaće govedo	inclusive
+SR932	n	om	no	каудалног	inclusive
+SR259	n	pr	no	спортске дама	conservative
+SR1677	n	an	no	слуг	inclusive
+SR1599	n	cds	no	пропагатор	inclusive
+SR444	n	qas	no	човек који	inclusive
+SR1935	n	or	no	brassica campestris	inclusive
+SR1702	n	cds	no	нарцисм	inclusive
+SR810	n	cds	no	Хибрид	inclusive
+SR1633	n	an	no	ajkula	inclusive
+SR311	n	cds	no	бандитти	conservative
+SR96	n	an	no	Јегуље	inclusive
+SR1664	n	an	no	оваца	inclusive
+SR279	n	cds	no	обрнутом турвинесс	inclusive
+SR540	n	ps	yes	имбецил	conservative
+SR203	n	ps	yes	Варвари	conservative
+SR1163	n	asf	no	Родница	conservative
+SR83	n	cds	no	цодсваллоп	conservative
+SR874	n	asf	no	доофус	conservative
+SR1808	n	cds	no	ноувеау-рицхе	inclusive
+SR309	n	cds	no	стављање ван закона	inclusive
+SR1393	n	svp	no	ленчуга	conservative
+SR785	n	asm	no	никоговић	conservative
+SR1414	n	an	no	инсеката	inclusive
+SR1352	n	is	yes	сиромашне	inclusive
+SR2055	n	pr	no	ноцтилуца	inclusive
+SR2023	a	svp	no	похотљив	conservative
+SR710	n	or	no	нансија	conservative
+SR318	n	an	no	Бизон	inclusive
+SR1548	n	cds	no	папараззо	inclusive
+SR596	n	cds	no	цланн	inclusive
+SR2141	n	cds	no	теорије завере	inclusive
+SR1569	n	qas	no	Парохија	inclusive
+SR1534	n	an	no	Во	inclusive
+SR120	n	ddp	yes	створење	inclusive
+SR1912	n	cds	no	mališan	inclusive
+SR1716	n	ps	yes	негро	inclusive
+SR203	n	cds	no	Варвари	conservative
+SR1980	n	an	no	буфо	inclusive
+SR1597	n	svp	no	супербиа	conservative
+SR1545	n	cds	no	paparazzi	inclusive
+SR2073	n	cds	no	трасформисмо	inclusive
+SR265	n	pr	no	рентбои	conservative
+SR1964	n	qas	no	напустио брод	inclusive
+SR855	n	cds	no	демагог	conservative
+SR1693	n	re	no	lopov	inclusive
+SR81	a	svp	no	agresivan	conservative
+SR700	n	cds	no	невспапервоман	inclusive
+SR536	n	asf	no	идиот	conservative
+SR466	n	cds	no	egotizam	conservative
+SR1441	n	cds	no	муссинесс	conservative
+SR201	n	rci	yes	варвара	conservative
+SR1272	n	ps	yes	јудаизам	inclusive
+SR562	n	cds	no	цхиселер	conservative
+SR2104	n	om	no	крст салон	inclusive
+SR95	n	an	no	ангуиллидае	inclusive
+SR2135	n	cds	no	Велика завера	inclusive
+SR621	n	an	no	простаклук	conservative
+SR1012	n	dmc	yes	моралне вредности	inclusive
+SR580	n	an	no	пса	inclusive
+SR122	n	an	no	епифаунал	inclusive
+SR490	n	ps	yes	скитница	inclusive
+SR251	n	ddp	yes	глуп	conservative
+SR1874	n	cds	no	дрка	conservative
+SR208	n	qas	no	трговац	inclusive
+SR1041	n	cds	no	подводачица	conservative
+SR202	n	dmc	yes	грубијан	conservative
+SR56	n	cds	no	самољубља	conservative
+SR827	n	or	no	Краставци	inclusive
+SR1192	n	svp	no	без рачуна	conservative
+SR1907	n	cds	no	бебa	inclusive
+SR67	n	qas	no	следбеник	inclusive
+SR703	n	cds	no	невсвритер	inclusive
+SR1071	n	dmc	yes	малодор	conservative
+SR1373	n	cds	no	Учитељи	inclusive
+SR712	n	om	no	gay	conservative
+SR1774	n	ddf	yes	слепац	inclusive
+SR911	n	dmc	yes	лицемерно	conservative
+SR1243	n	pr	no	Проститутка	conservative
+SR1315	n	cds	no	певача	inclusive
+SR778	n	an	no	сова	inclusive
+SR1312	n	an	no	hyaenidae	inclusive
+SR761	n	svp	no	Трсна	inclusive
+SR1026	n	dmc	yes	расипник	conservative
+SR66	n	cds	no	лењивац	conservative
+SR1181	n	cds	no	онај који стално нешто бистри	conservative
+SR836	n	qas	no	одбити	conservative
+SR413	n	pr	no	домаће стоке	inclusive
+SR163	n	svp	no	седам смртних грехова	inclusive
+SR1193	n	dmc	yes	неспретњаковић	conservative
+SR1676	n	qas	no	висак	inclusive
+SR1124	n	an	no	Срџба	inclusive
+SR1172	n	an	no	пипистрелле	inclusive
+SR1031	n	svp	no	фаинеанце	inclusive
+SR833	n	or	no	цуцурбита макима	inclusive
+SR377	n	qas	no	побркати	inclusive
+SR956	n	svp	no	гурман	conservative
+SR320	n	ddp	yes	издајнички	conservative
+SR888	n	an	no	доодли-цуцањ	conservative
+SR566	n	cds	no	сцаммер	conservative
+SR1384	n	dmc	yes	неморално	inclusive
+SR949	n	cds	no	препреденко	conservative
+SR1134	n	re	no	Гангстер	inclusive
+SR641	n	cds	no	цоцкуп	inclusive
+SR533	n	an	no	млакоња	conservative
+SR1497	n	an	no	моуе	inclusive
+SR871	n	an	no	пиллагер	inclusive
+SR13	n	svp	no	Равнодушност	inclusive
+SR82	a	svp	no	агресиван	conservative
+SR604	n	an	no	Козе	inclusive
+SR1971	n	an	no	ануранс	inclusive
+SR1421	n	qas	no	привредник	inclusive
+SR708	n	om	no	куеер	conservative
+SR638	n	qas	no	прост	inclusive
+SR1269	n	ps	yes	Јудаисти	inclusive
+SR190	n	asm	no	јајашце	inclusive
+SR237	n	qas	no	Архитектура барока	inclusive
+SR494	n	svp	no	мангуп	conservative
+SR1463	n	cds	no	тоалетима	inclusive
+SR1383	n	dmc	yes	неморала	inclusive
+SR2014	n	an	no	Чагаљ	inclusive
+SR193	n	asm	no	баллоцк	inclusive
+SR1725	n	ps	yes	хиспано	inclusive
+SR1940	n	re	no	киднаповање	inclusive
+SR136	n	an	no	глупан	conservative
+SR2017	n	an	no	canis aureus	inclusive
+SR939	n	om	no	табани	inclusive
+SR1909	n	cds	no	малишан	inclusive
+SR2049	n	an	no	змија у трави	conservative
+SR936	n	om	no	мидцлавицулар линије	inclusive
+SR197	n	cds	no	бандита	conservative
+SR221	n	pa	yes	правобранилац	inclusive
+SR1004	n	an	no	есцаргот	inclusive
+SR1048	n	pr	no	цомаре	conservative
+SR326	n	cds	no	враголија	conservative
+SR895	n	cds	no	пени страшно	inclusive
+SR731	n	cds	no	шарлатан	conservative
+SR1333	n	ddf	yes	онеспособљеност	inclusive
+SR835	n	cds	no	цулл	conservative
+SR892	n	an	no	диддли	conservative
+SR1119	n	cds	no	фундаменталиста	inclusive
+SR879	n	cds	no	прекршај	inclusive
+SR707	n	om	no	педер	conservative
+SR539	n	cds	no	кретен	conservative
+SR1772	n	cds	no	хомунцули	inclusive
+SR1235	n	pr	no	курвање	conservative
+SR1558	n	qas	no	паразитизма	inclusive
+SR1407	n	cds	no	зеленаш	conservative
+SR246	n	asf	no	простак	conservative
+SR823	n	asf	no	пичко	conservative
+SR1304	n	qas	no	ћумез	inclusive
+SR1136	n	dmc	yes	гангстера	inclusive
+SR2145	n	om	no	Дрег квин	inclusive
+SR417	n	an	no	Крава	inclusive
+SR1070	n	dmc	yes	фоетор	conservative
+SR947	n	om	no	Задњица	inclusive
+SR490	n	dmc	yes	скитница	conservative
+SR469	n	svp	no	охолост	conservative
+SR253	n	cds	no	пудден главе	conservative
+SR144	n	an	no	фуцкхеад	conservative
+SR1634	n	an	no	ајкуле	inclusive
+SR1061	n	cds	no	брз један	inclusive
+SR1850	n	an	no	телесних вашки	inclusive
+SR579	n	an	no	Пси	inclusive
+SR1045	n	cds	no	поводач	inclusive
+SR2204	n	an	no	Сиви ћук	inclusive
+SR713	n	om	no	геј	conservative
+SR1655	n	ddp	yes	наноцепхали	inclusive
+SR1498	n	an	no	крив лице	inclusive
+SR1526	n	ps	yes	острогот	inclusive
+SR2007	n	an	no	Бубашваба	inclusive
+SR293	n	pa	yes	градски чувар	inclusive
+SR1646	n	an	no	пип-шкрипе	conservative
+SR1989	n	cds	no	паметњаковић	conservative
+SR248	n	an	no	особа која испашта туђе грешке	conservative
+SR412	n	svp	no	Досада	inclusive
+SR8	n	svp	no	апатични	inclusive
+SR15	n	qas	no	свештеников помоћник	inclusive
+SR1797	n	an	no	црв	inclusive
+SR115	n	an	no	Метазоа	inclusive
+SR806	n	ps	yes	интерспециес хибрида	inclusive
+SR1378	n	cds	no	шаљивчина	inclusive
+SR803	n	ddf	yes	цроокбацк	inclusive
+SR545	n	re	no	традуцемент	inclusive
+SR1663	n	an	no	овца	inclusive
+SR1505	n	an	no	мазга	inclusive
+SR1448	n	ps	yes	метицс	inclusive
+SR74	n	cds	no	збрка	inclusive
+SR1171	n	cds	no	тамничар	inclusive
+SR173	n	cds	no	багнио	inclusive
+SR714	n	om	no	хомопхиле	conservative
+SR706	n	or	no	фуј	conservative
+SR999	n	asm	no	тешко на	inclusive
+SR180	n	cds	no	спортске кућа	inclusive
+SR563	n	cds	no	дефраудер	conservative
+SR321	n	ddp	yes	алапача	conservative
+SR879	n	re	no	прекршај	inclusive
+SR869	n	an	no	деспоилер	inclusive
+SR270	n	dmc	yes	лажи	inclusive
+SR1316	n	cds	no	певушити	inclusive
+SR214	n	pa	yes	адвокат	inclusive
+SR1529	n	ps	yes	Источни Готи	inclusive
+SR635	n	qas	no	обичних људи	inclusive
+SR1597	n	cds	no	супербиа	inclusive
+SR358	n	cds	no	дркаџија	conservative
+SR1134	n	cds	no	Гангстер	inclusive
+SR234	n	qas	no	барон	inclusive
+SR692	n	an	no	зеке	inclusive
+SR1284	n	cds	no	стада	inclusive
+SR2083	n	re	no	тероризам	conservative
+SR2151	n	pa	yes	Шустер	inclusive
+SR695	n	an	no	зец	inclusive
+SR1419	n	cds	no	бацкталк	inclusive
+SR660	n	pa	yes	доцент	inclusive
+SR553	n	re	no	малигнер	conservative
+SR2012	n	cds	no	фалсификатор	conservative
+SR485	n	cds	no	ништарија	conservative
+SR1798	n	cds	no	омакнуо му се језик	inclusive
+SR1522	n	cds	no	мафије	conservative
+SR1065	n	om	no	Коморач	inclusive
+SR983	n	an	no	патуљак	conservative
+SR1160	n	asf	no	вагине	conservative
+SR426	n	pr	no	стока	inclusive
+SR1366	n	cds	no	умишљености	inclusive
+SR1397	a	is	yes	несрећна	inclusive
+SR196	n	cds	no	бандит	inclusive
+SR2110	n	om	no	трансвестизма	inclusive
+SR117	n	ddp	yes	Анималија	inclusive
+SR160	n	svp	no	аваритиа	inclusive
+SR880	n	cds	no	криминалне активности	inclusive
+SR154	n	an	no	висент	inclusive
+SR2139	n	cds	no	Теорија завјере	inclusive
+SR1313	n	an	no	хиаенидае	inclusive
+SR296	n	svp	no	нетрпељивости	conservative
+SR1753	n	an	no	krpelj	inclusive
+SR1695	n	cds	no	жгољавац	conservative
+SR1695	n	ddf	yes	жгољавац	conservative
+SR379	n	qas	no	блооперс	inclusive
+SR2131	n	an	no	превара	conservative
+SR1103	n	cds	no	Слободни зидари	inclusive
+SR1000	n	asm	no	Ерекција	inclusive
+SR1474	n	cds	no	ленштина	conservative
+SR2062	n	re	no	сексуални преступ	inclusive
+SR1326	n	cds	no	идолопоклонички	inclusive
+SR959	n	an	no	овис ован	inclusive
+SR2187	n	cds	no	Делинквент	inclusive
+SR1288	n	cds	no	велики неопран	inclusive
+SR1468	n	cds	no	лав	inclusive
+SR1508	n	cds	no	штребер	conservative
+SR332	n	ps	yes	Црно	inclusive
+SR1735	n	cds	no	хиперсекуал	conservative
+SR777	n	an	no	jejina	inclusive
+SR68	n	qas	no	партнер у злочину	inclusive
+SR938	n	om	no	лепиње	inclusive
+SR225	n	pa	yes	правник	inclusive
+SR306	n	cds	no	битанга	conservative
+SR475	n	ps	yes	бугарски	inclusive
+SR537	n	asf	no	Идиот	conservative
+SR1136	n	re	no	гангстера	inclusive
+SR971	n	cds	no	десетине	inclusive
+SR1556	n	dmc	yes	клипан	conservative
+SR1942	n	re	no	Киднаповање	inclusive
+SR144	n	ddp	yes	фуцкхеад	conservative
+SR1577	n	dmc	yes	Зло	inclusive
+SR755	n	cds	no	самовољност	conservative
+SR1897	n	an	no	волаилле	inclusive
+SR1675	n	asm	no	флоутер	conservative
+SR485	n	dmc	yes	ништарија	inclusive
+SR14	n	svp	no	спиритлесснесс	inclusive
+SR136	n	asm	no	глупан	conservative
+SR844	n	om	no	госпођа	inclusive
+SR285	n	ps	yes	Бедуински Арапи	inclusive
+SR351	n	cds	no	стрикебреакерс	inclusive
+SR543	n	pr	no	кучка	conservative
+SR352	n	cds	no	штрајкбрехер	inclusive
+SR1096	n	cds	no	Масонство	inclusive
+SR1846	n	cds	no	беллиацхер	conservative
+SR1234	n	pr	no	Жиголо	inclusive
+SR567	n	cds	no	преварант	inclusive
+SR204	n	qas	no	Βάρβαρος	conservative
+SR136	n	ps	yes	глупан	conservative
+SR2188	n	cds	no	Делинквенција	inclusive
+SR39	n	cds	no	аматеурисхнесс	conservative
+SR1112	n	cds	no	фундаментализма	inclusive
+SR380	n	cds	no	грешка	inclusive
+SR116	n	ddp	yes	Метазое	inclusive
+SR1877	n	re	no	Гусар	inclusive
+SR1187	n	an	no	гоат антилопа	inclusive
+SR140	n	asf	no	говнар	conservative
+SR316	n	an	no	бизон	inclusive
+SR883	n	cds	no	кршење закона	inclusive
+SR414	n	pr	no	волови	inclusive
+SR1720	n	pa	yes	удварач	inclusive
+SR730	n	cds	no	кукавичлук	conservative
+SR424	n	pr	no	крава	inclusive
+SR787	n	ddf	yes	богаљ	inclusive
+SR1095	n	cds	no	масон	inclusive
+SR1047	n	pr	no	метреса	conservative
+SR440	n	qas	no	сељака	inclusive
+SR990	n	cds	no	педагог	inclusive
+SR1612	n	qas	no	класичне реторике	inclusive
+SR476	n	ps	yes	bugarski	inclusive
+SR167	n	is	yes	тврдица	conservative
+SR436	n	pr	no	норвешка пацов	inclusive
+SR1472	n	cds	no	забушант	conservative
+SR598	n	cds	no	кланова	inclusive
+SR680	n	asm	no	јебати	conservative
+SR881	n	re	no	Злочин	inclusive
+SR535	n	cds	no	болећив	conservative
+SR972	n	cds	no	сплавови	inclusive
+SR450	n	om	no	содомљанин	inclusive
+SR1596	n	svp	no	Понос	inclusive
+SR1032	n	cds	no	сродници	inclusive
+SR1359	n	ddp	yes	некомпетентна особа	conservative
+SR134	n	or	no	тестија	inclusive
+SR1473	n	cds	no	слацкер	conservative
+SR785	n	ddp	yes	никоговић	conservative
+SR562	n	dmc	yes	цхиселер	conservative
+SR309	n	re	no	стављање ван закона	inclusive
+SR1453	n	cds	no	сцхоолма'ам	conservative
+SR713	n	om	no	геј	inclusive
+SR429	n	ddp	yes	оштећење мозга	inclusive
+SR1572	n	an	no	папагаја	inclusive
+SR884	n	re	no	Злодело	inclusive
+SR1996	n	an	no	пијавица	inclusive
+SR900	n	ps	yes	краут	conservative
+SR891	n	an	no	диддлисхит	conservative
+SR1179	n	cds	no	носа-паркер	conservative
+SR6	n	svp	no	Безвољност	inclusive
+SR1084	n	an	no	Буха	inclusive
+SR2209	n	ps	yes	Зулу	inclusive
+SR1105	n	cds	no	Слободан зидар	inclusive
+SR1392	n	dmc	yes	врдалама	inclusive
+SR343	n	qas	no	тајкун	inclusive
+SR712	n	om	no	gay	inclusive
+SR200	n	qas	no	Варвар	conservative
+SR560	n	cds	no	Камора	inclusive
+SR101	n	an	no	anguilliformes	inclusive
+SR981	n	cds	no	грађевински радник	inclusive
+SR1581	n	asm	no	pisum sativum	inclusive
+SR1913	n	cds	no	беба	inclusive
+SR750	n	an	no	cimex lectulartus	inclusive
+SR116	n	an	no	Метазое	inclusive
+SR464	n	qas	no	боургеоисе	inclusive
+SR2132	n	ps	yes	црвени картон	inclusive
+SR1841	n	is	yes	дроња	conservative
+SR557	n	re	no	дефамер	conservative
+SR799	n	an	no	Крокодили	inclusive
+SR957	n	svp	no	гоурмандизер	inclusive
+SR964	n	cds	no	малолетни деликвент	conservative
+SR192	n	qas	no	тестиси	inclusive
+SR1496	n	pr	no	мољаца	inclusive
+SR1158	n	asf	no	pička	conservative
+SR1522	n	re	no	мафије	conservative
+SR1652	n	ddp	yes	микроцефалија	inclusive
+SR805	n	cds	no	манмаде хибрида	inclusive
+SR373	n	cds	no	неуспех	inclusive
+SR1871	n	asm	no	дркање	conservative
+SR187	n	qas	no	срање	inclusive
+SR206	n	ddp	yes	варваризам	inclusive
+SR1271	n	ps	yes	judaizm	inclusive
+SR99	n	an	no	ангуилла	inclusive
+SR1865	n	an	no	Ваш	inclusive
+SR1494	n	an	no	мољац	inclusive
+SR1405	n	cds	no	лоансхарк	inclusive

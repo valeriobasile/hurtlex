@@ -1,0 +1,995 @@
+id	pos	category	stereotype	lemma	level
+BN2	n	svp	no	workplace aversion	inclusive
+BN602	n	ps	yes	judiasm	inclusive
+BN76	n	or	no	বোকা	conservative
+BN782	n	an	no	মথ	inclusive
+BN307	n	an	no	rabbitkind	inclusive
+BN152	n	pa	yes	undertakers	inclusive
+BN13	n	svp	no	lazyness	inclusive
+BN678	n	ddf	yes	disable	inclusive
+BN108	n	asm	no	testes	inclusive
+BN1127	n	an	no	vulpini	inclusive
+BN655	n	an	no	hyena	inclusive
+BN482	n	asf	no	female's sex organ	conservative
+BN1020	n	re	no	জলদস্যুতা	inclusive
+BN843	n	asm	no	peas	inclusive
+BN884	n	an	no	singleceller	inclusive
+BN24	n	ddp	yes	anamalia	inclusive
+BN641	n	ps	yes	jewess	inclusive
+BN798	n	om	no	paederasty	inclusive
+BN30	n	ddp	yes	animalia	inclusive
+BN586	n	ps	yes	jewity	inclusive
+BN552	n	om	no	⚣	inclusive
+BN168	n	an	no	catties	inclusive
+BN456	n	cds	no	religious totalitarianism	inclusive
+BN45	n	an	no	metazoans	inclusive
+BN279	n	or	no	capitata group	inclusive
+BN478	n	asf	no	quim	conservative
+BN320	n	an	no	strigiform	inclusive
+BN1151	n	asm	no	ornis	inclusive
+BN74	n	asf	no	মূর্খতা	conservative
+BN760	n	ps	yes	mongolia people	inclusive
+BN324	n	an	no	strigiformes	inclusive
+BN248	n	cds	no	tribeswomen	inclusive
+BN785	n	an	no	mule	inclusive
+BN991	n	or	no	pottato	inclusive
+BN672	n	ddf	yes	disabilities, people with	inclusive
+BN481	n	asf	no	va jay jay	conservative
+BN136	n	ps	yes	blackly	inclusive
+BN844	n	asm	no	petit pois	inclusive
+BN17	n	an	no	metazoa	inclusive
+BN460	n	cds	no	fundamentalism	inclusive
+BN646	n	ps	yes	ইহুদি	inclusive
+BN675	n	ddf	yes	disibility	inclusive
+BN1048	n	an	no	chickens	inclusive
+BN215	n	an	no	canine lupus	inclusive
+BN4	n	svp	no	indolency	inclusive
+BN1051	n	an	no	muff	inclusive
+BN418	n	om	no	asscheeks	inclusive
+BN1062	a	dmc	yes	নোংরা	inclusive
+BN907	n	an	no	micro-organismically	inclusive
+BN1094	n	an	no	blattaria	inclusive
+BN955	n	an	no	রাজ হাস	inclusive
+BN605	n	ps	yes	religion of ancient israel	inclusive
+BN414	n	om	no	keister	inclusive
+BN746	n	qas	no	mixtures	inclusive
+BN75	n	ddp	yes	মূর্খ	inclusive
+BN154	n	pa	yes	morticians	inclusive
+BN1171	n	ps	yes	zulu	inclusive
+BN314	n	an	no	bedbug	inclusive
+BN527	n	re	no	thieving	inclusive
+BN690	n	ddf	yes	invalidity	inclusive
+BN163	n	an	no	🐄	inclusive
+BN1079	n	an	no	ব্যাঙ	inclusive
+BN659	n	an	no	chienna	inclusive
+BN551	n	om	no	homosexuality	inclusive
+BN353	n	ps	yes	hybridisation	inclusive
+BN362	n	cds	no	interfertility	inclusive
+BN947	n	an	no	cygninae	inclusive
+BN536	n	re	no	filched	inclusive
+BN274	n	asm	no	ধন	inclusive
+BN548	n	om	no	poofy	inclusive
+BN457	n	cds	no	fundamentalists	inclusive
+BN404	n	cds	no	seattle sound	inclusive
+BN816	n	cds	no	snaparazzi	inclusive
+BN26	n	ddp	yes	kingdomanimalia	inclusive
+BN218	n	an	no	কুকুর	inclusive
+BN804	n	om	no	man-boy love	inclusive
+BN609	n	ps	yes	hebrew religion	inclusive
+BN697	n	an	no	entomofauna	inclusive
+BN520	n	cds	no	stealing	inclusive
+BN466	n	asf	no	paracolpium	conservative
+BN472	n	asf	no	punani	conservative
+BN245	n	cds	no	tribesman	inclusive
+BN100	n	asm	no	testis	inclusive
+BN469	n	asf	no	va-jay-jay	conservative
+BN96	n	cds	no	পতিতালয়	inclusive
+BN316	n	an	no	bed bugs	inclusive
+BN1110	n	an	no	lalbeg	inclusive
+BN494	v	asm	no	সহবাস	conservative
+BN861	n	an	no	হাঙর	inclusive
+BN1050	n	an	no	tori no mushimono	inclusive
+BN193	n	an	no	she-dogs	inclusive
+BN652	n	an	no	hyenas	inclusive
+BN344	n	cds	no	inter-breeding	inclusive
+BN265	n	an	no	kid	inclusive
+BN284	n	or	no	coleworts	inclusive
+BN118	n	asm	no	orchitic	inclusive
+BN1108	n	an	no	kokroch	inclusive
+BN841	n	asm	no	মটরশুঁটি	inclusive
+BN197	n	an	no	犬	inclusive
+BN499	n	an	no	sus domesticus	inclusive
+BN379	n	or	no	cucumber	inclusive
+BN17	n	ddp	yes	metazoa	inclusive
+BN569	n	om	no	gay sexuality	inclusive
+BN338	n	ps	yes	hybridism	inclusive
+BN969	n	an	no	শকুন	inclusive
+BN231	n	cds	no	tribe	inclusive
+BN521	n	cds	no	filching	inclusive
+BN189	n	ddp	yes	বেক্কল	inclusive
+BN1068	n	an	no	frogs	inclusive
+BN1115	n	an	no	ckokroch	inclusive
+BN965	n	re	no	স্লেয়ার	inclusive
+BN914	n	an	no	micro organismical	inclusive
+BN141	n	ps	yes	blackest	inclusive
+BN76	n	asf	no	বোকা	conservative
+BN734	n	asm	no	penes	inclusive
+BN792	n	om	no	pederast	inclusive
+BN1060	a	dmc	yes	নকল	conservative
+BN119	n	pa	yes	কূটনৈতিক পদমর্যাদা	inclusive
+BN428	n	om	no	tooshie	inclusive
+BN537	n	cds	no	stoled	inclusive
+BN712	n	asm	no	penus	inclusive
+BN952	n	an	no	cygnini	inclusive
+BN111	n	asm	no	testical	inclusive
+BN520	n	re	no	stealing	inclusive
+BN5	n	svp	no	laziest	inclusive
+BN168	n	pr	no	catties	inclusive
+BN289	n	an	no	rabbitology	inclusive
+BN853	n	an	no	sharks	inclusive
+BN661	n	an	no	hyaenidae	inclusive
+BN135	n	ps	yes	blackishly	inclusive
+BN1102	n	an	no	henroach	inclusive
+BN1152	n	asm	no	roosting	inclusive
+BN1055	n	cds	no	শিশু	inclusive
+BN614	n	ps	yes	judaism	inclusive
+BN1173	n	ps	yes	amazulu	inclusive
+BN336	n	an	no	কুমির	inclusive
+BN437	n	om	no	পোঁদ	inclusive
+BN147	n	pa	yes	undertaker	inclusive
+BN533	n	cds	no	thiefing	inclusive
+BN172	n	an	no	white pointer	inclusive
+BN153	n	pa	yes	mortician	inclusive
+BN906	n	an	no	micro organismically	inclusive
+BN444	n	dmc	yes	নৈতিকতা	inclusive
+BN720	n	asm	no	penile	inclusive
+BN566	n	om	no	homosexual	inclusive
+BN794	n	om	no	পেডেরাস্টি	inclusive
+BN1077	n	an	no	anuran	inclusive
+BN315	n	an	no	cimex	inclusive
+BN146	n	pa	yes	অন্তেষ্টিক্রিয়া পরিচালক	inclusive
+BN539	n	cds	no	theivery	inclusive
+BN524	n	cds	no	stealers	inclusive
+BN156	n	an	no	b. taurus	inclusive
+BN326	n	an	no	crocodylidae	inclusive
+BN139	n	ps	yes	blackeness	inclusive
+BN212	n	an	no	🐶	inclusive
+BN773	n	an	no	mosquitos	inclusive
+BN781	n	an	no	aedes notoscriptus	inclusive
+BN98	n	qas	no	low hangers	inclusive
+BN236	n	cds	no	tribes woman	inclusive
+BN275	n	or	no	staithwort	inclusive
+BN1157	n	asm	no	roost	inclusive
+BN143	n	ps	yes	black	inclusive
+BN271	n	an	no	goatry	inclusive
+BN189	n	asm	no	বেক্কল	inclusive
+BN603	n	ps	yes	judaica	inclusive
+BN954	n	an	no	রাজহংস	inclusive
+BN1082	n	an	no	hirudinea	inclusive
+BN1100	n	an	no	cockroaches	inclusive
+BN120	n	pa	yes	আইনজীবি	inclusive
+BN345	n	ps	yes	interspecific hybrids	inclusive
+BN825	n	an	no	psittacine	inclusive
+BN1122	n	an	no	শেয়াল	inclusive
+BN310	n	an	no	cimicidae	inclusive
+BN1162	n	asm	no	🐦	inclusive
+BN545	n	om	no	সমকামিতা	inclusive
+BN648	n	an	no	hiena	inclusive
+BN1160	n	asm	no	nestling	inclusive
+BN89	n	an	no	burro	inclusive
+BN1159	n	asm	no	পাখি	inclusive
+BN122	n	qas	no	baron	inclusive
+BN74	n	ddp	yes	মূর্খতা	conservative
+BN123	n	qas	no	baronies	inclusive
+BN695	n	svp	no	কাম	inclusive
+BN573	n	om	no	সমকাম	inclusive
+BN391	n	cds	no	গ্রুঞ্জ	inclusive
+BN189	n	cds	no	বেক্কল	inclusive
+BN189	n	ddp	yes	বেক্কল	conservative
+BN129	n	qas	no	baronesse	inclusive
+BN1072	n	an	no	frog	inclusive
+BN375	n	or	no	kyūri	inclusive
+BN1004	n	or	no	kerris pink	inclusive
+BN209	n	an	no	dogs	inclusive
+BN18	n	an	no	প্রাণী	inclusive
+BN630	n	ps	yes	jews	inclusive
+BN1035	n	an	no	issues with poultry farming	inclusive
+BN1036	n	an	no	tori no mizutaki	inclusive
+BN75	n	asm	no	মূর্খ	inclusive
+BN114	n	qas	no	balls	inclusive
+BN317	n	an	no	owl	inclusive
+BN258	n	an	no	capra aegagrus hircus	inclusive
+BN187	n	an	no	en la boca de los tiburones	inclusive
+BN822	n	an	no	parots	inclusive
+BN90	n	an	no	braying	inclusive
+BN425	n	om	no	keaster	inclusive
+BN915	n	an	no	single-cell organism	inclusive
+BN722	n	asm	no	পুরুষাঙ্গ	inclusive
+BN183	n	an	no	man-eater	inclusive
+BN694	n	svp	no	lust	inclusive
+BN953	n	an	no	রাজ হংস	inclusive
+BN769	n	an	no	misquitos	inclusive
+BN1104	n	an	no	cockaroach	inclusive
+BN124	n	qas	no	baronial	inclusive
+BN912	n	an	no	single-celler	inclusive
+BN834	n	asm	no	pea-sized	inclusive
+BN240	n	cds	no	tribes women	inclusive
+BN644	n	ps	yes	jewry	inclusive
+BN692	n	ddf	yes	disablement	inclusive
+BN1008	n	or	no	potato	inclusive
+BN93	n	an	no	donkeys	inclusive
+BN106	n	asm	no	testicle	inclusive
+BN649	n	an	no	hyiena	inclusive
+BN970	n	or	no	potatoe	inclusive
+BN440	n	om	no	derriere	inclusive
+BN186	n	an	no	নরখাদক	inclusive
+BN383	n	re	no	অপরাধী	inclusive
+BN542	n	re	no	filches	inclusive
+BN1021	n	re	no	pirate	inclusive
+BN681	n	ddf	yes	disabling	inclusive
+BN621	n	ps	yes	judaically	inclusive
+BN385	n	cds	no	crime	inclusive
+BN966	n	an	no	aasvogel	inclusive
+BN595	n	ps	yes	judismo	inclusive
+BN531	n	cds	no	ডাকাত	inclusive
+BN903	n	an	no	single cell organisms	inclusive
+BN933	n	an	no	🐏	inclusive
+BN429	n	om	no	fourth point of contact	inclusive
+BN888	n	an	no	single-cellers	inclusive
+BN130	n	qas	no	ব্যারন	inclusive
+BN812	n	cds	no	paprazzi	inclusive
+BN613	n	ps	yes	judeo	inclusive
+BN132	n	dmc	yes	মিথ্যা	inclusive
+BN344	n	ps	yes	inter-breeding	inclusive
+BN133	n	ps	yes	বেদুঈন	inclusive
+BN542	n	cds	no	filches	inclusive
+BN264	n	an	no	she-goats	inclusive
+BN195	n	an	no	dogness	inclusive
+BN268	n	an	no	she-goat	inclusive
+BN43	n	an	no	metazoic	inclusive
+BN322	n	an	no	পেঁচা	inclusive
+BN384	n	re	no	অপরাধ	inclusive
+BN956	n	an	no	anserini	inclusive
+BN698	n	an	no	পোকা	inclusive
+BN908	n	an	no	single celler	inclusive
+BN76	n	ddp	yes	বোকা	inclusive
+BN7	n	svp	no	laziness	inclusive
+BN50	n	re	no	rape	conservative
+BN86	n	an	no	ikwal samra	inclusive
+BN430	n	om	no	hindquarters	inclusive
+BN189	n	ps	yes	বেক্কল	conservative
+BN879	n	an	no	one-celled	inclusive
+BN267	n	an	no	🐐	inclusive
+BN42	n	an	no	nonhuman	inclusive
+BN111	n	qas	no	testical	inclusive
+BN536	n	cds	no	filched	inclusive
+BN242	n	cds	no	tribeswoman	inclusive
+BN373	n	or	no	kyuri	inclusive
+BN755	n	ps	yes	mongolians	inclusive
+BN916	n	an	no	microbialities	inclusive
+BN732	n	asm	no	নুনু	inclusive
+BN782	n	pr	no	মথ	inclusive
+BN166	n	pr	no	bos primigenius taurus	inclusive
+BN228	n	an	no	doggies	inclusive
+BN358	n	cds	no	interspecific breeding	inclusive
+BN1087	n	an	no	helobdella	inclusive
+BN1061	n	cds	no	কোটনা	conservative
+BN539	n	re	no	theivery	inclusive
+BN612	n	ps	yes	mosaic faith	inclusive
+BN747	n	qas	no	মিশ্রণ	inclusive
+BN770	n	an	no	mosquitoes	inclusive
+BN632	n	ps	yes	jewish	inclusive
+BN87	n	an	no	she-asses	inclusive
+BN112	n	asm	no	testicular	inclusive
+BN889	n	an	no	micro organismic	inclusive
+BN369	n	cds	no	intra-specific hybrids	inclusive
+BN346	n	cds	no	interspecies breeding	inclusive
+BN433	n	om	no	gluteal region	inclusive
+BN869	n	an	no	singlecellers	inclusive
+BN458	n	cds	no	fundamentallism	inclusive
+BN543	n	om	no	same-sex	inclusive
+BN1119	n	an	no	ckockroach	inclusive
+BN261	n	an	no	goat	inclusive
+BN442	n	om	no	derierre	inclusive
+BN830	n	an	no	psittacimorphae	inclusive
+BN1070	n	an	no	froglet	inclusive
+BN874	n	an	no	microorganismically	inclusive
+BN993	n	or	no	patatoes	inclusive
+BN863	n	an	no	হাঙ্গর	inclusive
+BN523	n	cds	no	theif	inclusive
+BN855	n	an	no	selachimorpha	inclusive
+BN711	n	an	no	bug	inclusive
+BN11	n	svp	no	অলস	inclusive
+BN77	n	an	no	ass	inclusive
+BN521	n	re	no	filching	inclusive
+BN27	n	an	no	animal	inclusive
+BN333	n	an	no	কুম্ভীর	inclusive
+BN530	n	re	no	thieves	inclusive
+BN713	n	asm	no	privy member	inclusive
+BN178	n	an	no	man-eaters	inclusive
+BN82	n	an	no	she asses	inclusive
+BN1103	n	an	no	cockraoch	inclusive
+BN1088	n	an	no	জোঁক	inclusive
+BN114	n	asm	no	balls	inclusive
+BN454	n	cds	no	fundementalist	inclusive
+BN881	n	an	no	microrganism	inclusive
+BN470	n	asf	no	vagina	conservative
+BN721	n	asm	no	shlong	inclusive
+BN531	n	re	no	ডাকাত	inclusive
+BN75	n	cds	no	মূর্খ	conservative
+BN981	n	or	no	alu	inclusive
+BN686	n	ddf	yes	disabilities	inclusive
+BN814	n	cds	no	celebrity photographer	inclusive
+BN880	n	an	no	micro-organism	inclusive
+BN319	n	an	no	hooter	inclusive
+BN305	n	an	no	🐇	inclusive
+BN631	n	ps	yes	jews'	inclusive
+BN786	n	om	no	paederast	inclusive
+BN1002	n	or	no	potato, irish	inclusive
+BN1024	n	an	no	pullet	inclusive
+BN51	n	re	no	rapist	conservative
+BN1031	n	an	no	মুরগি	inclusive
+BN923	n	an	no	ovis aries	inclusive
+BN328	n	an	no	alligator	inclusive
+BN338	n	cds	no	hybridism	inclusive
+BN871	n	an	no	microoerganisms	inclusive
+BN604	n	ps	yes	jewdaism	inclusive
+BN303	n	an	no	bunnies	inclusive
+BN1091	n	an	no	leech	inclusive
+BN117	n	asm	no	অণ্ডকোষ	inclusive
+BN157	n	an	no	bos taurus	inclusive
+BN412	n	om	no	buttock	inclusive
+BN170	a	ddf	yes	খারাপ	inclusive
+BN647	n	ps	yes	jew	inclusive
+BN260	n	an	no	ছাগল	inclusive
+BN673	n	ddf	yes	disability	inclusive
+BN75	n	ddp	yes	মূর্খ	conservative
+BN198	n	an	no	犭	inclusive
+BN935	n	an	no	শামুক	inclusive
+BN1166	n	asm	no	bird	inclusive
+BN464	n	asf	no	vadge	conservative
+BN97	n	asm	no	টেসটিস	inclusive
+BN705	n	an	no	insect	inclusive
+BN443	n	om	no	tuches	inclusive
+BN808	n	cds	no	papparazzo	inclusive
+BN835	n	asm	no	vatana	inclusive
+BN638	n	ps	yes	jewes	inclusive
+BN669	n	ddf	yes	special people	inclusive
+BN445	n	qas	no	কৃষক	inclusive
+BN103	n	qas	no	testicals	inclusive
+BN6	n	svp	no	অলসতা	inclusive
+BN883	n	an	no	অণুজীব	inclusive
+BN1078	n	an	no	বেঙ	inclusive
+BN83	n	an	no	equus asinus	inclusive
+BN511	n	an	no	sus scrofa domesticus	inclusive
+BN101	n	asm	no	testicles	inclusive
+BN475	n	asf	no	كس	conservative
+BN537	n	re	no	stoled	inclusive
+BN1113	n	an	no	আরশোলা	inclusive
+BN380	n	or	no	শশা	inclusive
+BN949	n	an	no	cob	inclusive
+BN285	n	an	no	rabbits	inclusive
+BN381	n	or	no	dosakai	inclusive
+BN557	n	om	no	gay sex	inclusive
+BN97	n	qas	no	টেসটিস	inclusive
+BN278	n	or	no	colwort	inclusive
+BN581	n	om	no	lesbian life partner	inclusive
+BN52	n	re	no	raped	conservative
+BN674	n	ddf	yes	physical incapacity	inclusive
+BN1029	n	an	no	poulet	inclusive
+BN1146	n	re	no	সন্ত্রাসবাদ	inclusive
+BN26	n	an	no	kingdomanimalia	inclusive
+BN893	n	an	no	microoerganism	inclusive
+BN968	n	an	no	vulture	inclusive
+BN1130	n	an	no	canis aureus	inclusive
+BN488	n	asf	no	vaginal	conservative
+BN103	n	asm	no	testicals	inclusive
+BN1092	n	an	no	blattodea	inclusive
+BN599	n	ps	yes	judaity	inclusive
+BN395	n	cds	no	grunger	inclusive
+BN156	n	pr	no	b. taurus	inclusive
+BN229	n	an	no	a man's best friend	inclusive
+BN828	n	an	no	টিয়া	inclusive
+BN439	n	om	no	hiney	inclusive
+BN296	n	an	no	rabits	inclusive
+BN749	n	ps	yes	mongols	inclusive
+BN864	n	an	no	microbic	inclusive
+BN57	n	re	no	ধর্ষণ	conservative
+BN76	n	cds	no	বোকা	conservative
+BN549	n	om	no	poofter	inclusive
+BN540	n	cds	no	চুরি	inclusive
+BN1086	n	an	no	hirudiniasis	inclusive
+BN70	n	re	no	raep	conservative
+BN813	n	cds	no	পাপারাজ্জি	inclusive
+BN627	n	ps	yes	judaist	inclusive
+BN710	n	an	no	কীট	inclusive
+BN376	n	or	no	cucumbers	inclusive
+BN540	n	re	no	চুরি	inclusive
+BN918	n	an	no	microorganismic	inclusive
+BN461	n	cds	no	crazy base	inclusive
+BN110	n	asm	no	বীচি	inclusive
+BN206	n	an	no	digitaldog	inclusive
+BN919	n	an	no	sheep	inclusive
+BN656	n	an	no	hyaena	inclusive
+BN435	n	om	no	buttocks	inclusive
+BN547	n	om	no	homosexualité	inclusive
+BN787	n	om	no	pedarasty	inclusive
+BN544	n	om	no	gay males	inclusive
+BN502	n	an	no	শুকর	inclusive
+BN736	n	asm	no	penis	inclusive
+BN921	n	an	no	ভেড়া	inclusive
+BN1154	n	asm	no	পাখী	inclusive
+BN1053	n	an	no	gallus domesticus	inclusive
+BN1138	n	an	no	jackals	inclusive
+BN42	n	ddp	yes	nonhuman	inclusive
+BN550	n	om	no	homo sexual	inclusive
+BN946	n	an	no	রাজহাঁস	inclusive
+BN662	n	ddf	yes	handycapped	inclusive
+BN37	n	an	no	metazoan	inclusive
+BN422	n	om	no	rear nudity	inclusive
+BN741	n	cds	no	অব্যবস্থা	conservative
+BN901	n	an	no	micro-organisms	inclusive
+BN1150	n	asm	no	avebrevicauda	inclusive
+BN55	n	re	no	coersive sex	conservative
+BN76	n	asm	no	বোকা	inclusive
+BN807	n	cds	no	পাপারাৎসি	inclusive
+BN100	n	qas	no	testis	inclusive
+BN1056	a	ps	yes	কাল	inclusive
+BN950	n	an	no	cygnus	inclusive
+BN559	n	om	no	arse bandit	inclusive
+BN221	n	an	no	כלב	inclusive
+BN348	n	cds	no	সংকর জীব	inclusive
+BN41	n	ddp	yes	metazoon	inclusive
+BN801	n	om	no	pederastic	inclusive
+BN1129	n	an	no	foxes	inclusive
+BN318	n	an	no	প্যাঁচা	inclusive
+BN179	n	an	no	মানুষখেকো	inclusive
+BN961	n	re	no	slayer	inclusive
+BN762	n	ps	yes	mongolian peoples	inclusive
+BN885	n	an	no	microbially	inclusive
+BN878	n	an	no	singlecelled	inclusive
+BN1139	n	an	no	jackal	inclusive
+BN1121	n	an	no	vulpine	inclusive
+BN110	n	qas	no	বীচি	inclusive
+BN797	n	om	no	pedarsty	inclusive
+BN1089	n	an	no	bdellatomy	inclusive
+BN95	n	an	no	khota	inclusive
+BN936	n	an	no	snale	inclusive
+BN192	n	an	no	inu	inclusive
+BN507	n	an	no	sow	inclusive
+BN873	n	an	no	microbically	inclusive
+BN977	n	or	no	aloo	inclusive
+BN574	n	om	no	homosexuals	inclusive
+BN340	n	cds	no	interspecies reproduction	inclusive
+BN522	n	cds	no	stealer	inclusive
+BN1126	n	an	no	jackel	inclusive
+BN448	n	cds	no	ফ্রিম্যাসন	inclusive
+BN1030	n	an	no	chicken	inclusive
+BN1169	n	an	no	লিটল আউল	inclusive
+BN332	n	an	no	crocodile	inclusive
+BN802	n	om	no	pederasts	inclusive
+BN207	n	an	no	doggy	inclusive
+BN1	n	svp	no	indolences	inclusive
+BN805	n	cds	no	stalkerazzi	inclusive
+BN298	n	an	no	bunny	inclusive
+BN658	n	an	no	chiena	inclusive
+BN468	n	asf	no	vajayjay	conservative
+BN438	n	om	no	শ্রোণি	inclusive
+BN751	n	ps	yes	mongolian people	inclusive
+BN937	n	an	no	snail	inclusive
+BN151	n	pa	yes	funeral directors	inclusive
+BN31	n	an	no	অ্যানিমালিয়া	inclusive
+BN74	n	asm	no	মূর্খতা	conservative
+BN707	n	an	no	insecto	inclusive
+BN1142	a	svp	no	কামাসক্ত	conservative
+BN75	n	ps	yes	মূর্খ	conservative
+BN483	n	asf	no	vaginas	conservative
+BN716	n	asm	no	schlong	inclusive
+BN76	n	ps	yes	বোকা	conservative
+BN75	n	asm	no	মূর্খ	conservative
+BN723	n	asm	no	শিশ্ন	inclusive
+BN132	n	qas	no	মিথ্যা	conservative
+BN353	n	cds	no	hybridisation	inclusive
+BN840	n	asm	no	pisum sativus	inclusive
+BN671	n	ddf	yes	differently abled	inclusive
+BN157	n	pr	no	bos taurus	inclusive
+BN517	n	re	no	hork	inclusive
+BN980	n	or	no	potatos	inclusive
+BN717	n	asm	no	male member	inclusive
+BN920	n	an	no	🐑	inclusive
+BN928	n	an	no	yowe	inclusive
+BN75	n	cds	no	মূর্খ	inclusive
+BN963	n	re	no	slayar	inclusive
+BN556	n	om	no	সমকামী	inclusive
+BN203	n	an	no	canis familiaris	inclusive
+BN415	n	om	no	bundaist	inclusive
+BN10	n	svp	no	work aversion	inclusive
+BN140	n	ps	yes	blackishness	inclusive
+BN589	n	ps	yes	judaists	inclusive
+BN572	n	om	no	homosexualite	inclusive
+BN795	n	om	no	pedarast	inclusive
+BN1026	n	an	no	murgh	inclusive
+BN984	n	or	no	pomme terre	inclusive
+BN1022	n	re	no	জলদস্যু	inclusive
+BN402	n	cds	no	grungers	inclusive
+BN396	n	cds	no	alt thrash	inclusive
+BN709	n	an	no	insecta	inclusive
+BN642	n	ps	yes	jewesses	inclusive
+BN1059	a	asm	no	বাদামি	inclusive
+BN611	n	ps	yes	jewism	inclusive
+BN653	n	an	no	hyaenids	inclusive
+BN150	n	pa	yes	অন্ত্যেষ্টিক্রিয়া পরিচালক	inclusive
+BN167	n	pr	no	গরু	inclusive
+BN81	n	an	no	equus africanus asinus	inclusive
+BN211	n	an	no	canis familaris	inclusive
+BN1019	n	re	no	piracy	inclusive
+BN1124	n	an	no	শিয়াল	inclusive
+BN1011	n	or	no	תפוח אדמה	inclusive
+BN480	n	asf	no	vegina	conservative
+BN941	n	an	no	seasnail	inclusive
+BN750	n	ps	yes	mongolic peoples	inclusive
+BN127	n	qas	no	baronin	inclusive
+BN449	n	cds	no	মৌলবাদ	inclusive
+BN1027	n	an	no	chkn	inclusive
+BN189	n	asf	no	বেক্কল	conservative
+BN606	n	ps	yes	judaistic	inclusive
+BN683	n	ddf	yes	প্রতিবন্ধী	inclusive
+BN149	n	pa	yes	funeral director	inclusive
+BN359	n	cds	no	genetic cross	inclusive
+BN640	n	ps	yes	juden	inclusive
+BN917	n	an	no	single celled	inclusive
+BN467	n	asf	no	vayjayjay	conservative
+BN388	n	cds	no	grungies	inclusive
+BN891	n	an	no	microörganisms	inclusive
+BN882	n	an	no	microorganismical	inclusive
+BN1164	n	asm	no	avafauna	inclusive
+BN815	n	cds	no	paparazi	inclusive
+BN854	n	an	no	shark	inclusive
+BN492	v	asm	no	সংগম	conservative
+BN811	n	cds	no	paparazzi	inclusive
+BN960	n	re	no	সন্ত্রাসবাদী	inclusive
+BN1098	n	an	no	cockroch	inclusive
+BN427	n	om	no	derrière	inclusive
+BN227	n	an	no	dog	inclusive
+BN158	n	an	no	cattle	inclusive
+BN942	n	an	no	wallfish	inclusive
+BN106	n	qas	no	testicle	inclusive
+BN800	n	om	no	pederasty	inclusive
+BN992	n	or	no	tattie	inclusive
+BN362	n	ps	yes	interfertility	inclusive
+BN1028	n	an	no	মুরগী	inclusive
+BN532	n	re	no	theft	inclusive
+BN1101	n	an	no	ckockroch	inclusive
+BN410	n	om	no	buttcheek	inclusive
+BN578	n	om	no	homo sexuals	inclusive
+BN703	n	an	no	dicondylia	inclusive
+BN1140	n	an	no	foxs	inclusive
+BN286	n	an	no	bunnies!	inclusive
+BN226	n	an	no	canis lupus familiaris	inclusive
+BN413	n	om	no	buttcheeks	inclusive
+BN818	n	cds	no	faux-paparazzi	inclusive
+BN982	n	or	no	spuds	inclusive
+BN282	n	or	no	বাঁধাকপি	inclusive
+BN354	n	ps	yes	interfertile	inclusive
+BN175	n	an	no	man eater	inclusive
+BN295	n	an	no	খরেগাশ	inclusive
+BN53	n	re	no	rapes	conservative
+BN12	n	svp	no	indolently	inclusive
+BN38	n	ddp	yes	animals	inclusive
+BN1145	a	ddf	yes	বিশ্রী	conservative
+BN79	n	om	no	গাধা	inclusive
+BN335	n	an	no	crocodille	inclusive
+BN167	n	an	no	গরু	inclusive
+BN836	n	asm	no	pisum sativum	inclusive
+BN105	n	asm	no	স্কোট্রাম	inclusive
+BN535	n	re	no	তস্কর	inclusive
+BN313	n	an	no	ছারপোকা	inclusive
+BN837	n	asm	no	মটরশুটি	inclusive
+BN37	n	ddp	yes	metazoan	inclusive
+BN69	n	re	no	forced sex	conservative
+BN308	n	an	no	শশক	inclusive
+BN98	n	asm	no	low hangers	inclusive
+BN200	n	an	no	bitch	inclusive
+BN925	n	an	no	yorkshire leicester	inclusive
+BN738	n	asm	no	penises	inclusive
+BN1032	n	an	no	domestic fowl	inclusive
+BN743	n	qas	no	mixture	inclusive
+BN684	n	ddf	yes	differently-abled	inclusive
+BN1033	n	an	no	chiken	inclusive
+BN304	n	an	no	খরগোস	inclusive
+BN155	n	pr	no	cow	inclusive
+BN538	n	cds	no	theives	inclusive
+BN465	n	asf	no	birth canal	conservative
+BN71	n	re	no	ravishment	conservative
+BN76	n	cds	no	বোকা	inclusive
+BN905	n	an	no	micro-organismic	inclusive
+BN943	n	an	no	snails	inclusive
+BN700	n	an	no	bicho	inclusive
+BN137	n	ps	yes	কালো	inclusive
+BN651	n	an	no	hyaenas	inclusive
+BN740	n	svp	no	ক্রোধ	inclusive
+BN1116	n	an	no	lal beg	inclusive
+BN1161	n	asm	no	nestlings	inclusive
+BN423	n	om	no	dairy aire	inclusive
+BN650	n	an	no	hyeena	inclusive
+BN765	n	an	no	mosquitoe	inclusive
+BN345	n	cds	no	interspecific hybrids	inclusive
+BN910	n	an	no	microbial	inclusive
+BN74	n	an	no	মূর্খতা	conservative
+BN247	n	cds	no	tribes man	inclusive
+BN1095	n	an	no	kocroch	inclusive
+BN270	n	an	no	goatfighting	inclusive
+BN339	n	ps	yes	intraspecific hybrids	inclusive
+BN696	a	is	yes	দুঃখিত	inclusive
+BN768	n	an	no	nipper	inclusive
+BN810	n	cds	no	papparazzi	inclusive
+BN325	n	an	no	কুমীর	inclusive
+BN255	n	an	no	goats	inclusive
+BN997	n	or	no	poetato	inclusive
+BN1156	n	asm	no	avian proteins	inclusive
+BN116	n	asm	no	teste	inclusive
+BN148	n	pa	yes	funeral services	inclusive
+BN983	n	or	no	maris peer	inclusive
+BN824	n	an	no	psittaciform	inclusive
+BN76	n	asm	no	বোকা	conservative
+BN554	n	om	no	woofter	inclusive
+BN529	n	re	no	filchers	inclusive
+BN44	n	an	no	anumal	inclusive
+BN1170	n	ps	yes	zulus	inclusive
+BN623	n	ps	yes	judism	inclusive
+BN194	n	an	no	canis canis	inclusive
+BN1147	n	asm	no	avians	inclusive
+BN235	n	cds	no	tribes men	inclusive
+BN64	n	re	no	raping	conservative
+BN932	n	an	no	sheeps	inclusive
+BN518	n	cds	no	thief	inclusive
+BN820	n	qas	no	পরজীবী	inclusive
+BN626	n	ps	yes	judaized	inclusive
+BN660	n	an	no	হায়েনা	inclusive
+BN1135	n	an	no	thos	inclusive
+BN377	n	or	no	শসা	inclusive
+BN922	n	an	no	hoggets	inclusive
+BN826	n	an	no	hookbills	inclusive
+BN577	n	om	no	poofta	inclusive
+BN639	n	ps	yes	ivri	inclusive
+BN411	n	om	no	junk in the trunk	inclusive
+BN41	n	an	no	metazoon	inclusive
+BN254	n	an	no	billygoat	inclusive
+BN417	n	om	no	নিতম্ব	inclusive
+BN560	n	om	no	ambiguously gay	inclusive
+BN913	n	an	no	microbics	inclusive
+BN1084	n	an	no	leeches	inclusive
+BN62	n	re	no	rapere	conservative
+BN358	n	ps	yes	interspecific breeding	inclusive
+BN43	n	ddp	yes	metazoic	inclusive
+BN944	n	an	no	🐌	inclusive
+BN523	n	re	no	theif	inclusive
+BN217	n	an	no	shedog	inclusive
+BN728	n	asm	no	penii	inclusive
+BN38	n	an	no	animals	inclusive
+BN132	n	cds	no	মিথ্যা	conservative
+BN67	n	re	no	sexual victimization of native american women	conservative
+BN665	n	ddf	yes	mobility impairment	inclusive
+BN899	n	an	no	simple life organisms	inclusive
+BN620	n	ps	yes	judasim	inclusive
+BN1071	n	an	no	🐸	inclusive
+BN951	n	an	no	swan	inclusive
+BN1174	n	ps	yes	zulu-kaffirs	inclusive
+BN451	n	cds	no	fundamentalist	inclusive
+BN739	n	asm	no	trouser snake	inclusive
+BN276	n	or	no	patta-gobhi	inclusive
+BN1165	n	asm	no	aves	inclusive
+BN1144	a	ddp	yes	মূর্খ	conservative
+BN580	n	om	no	same sex	inclusive
+BN533	n	re	no	thiefing	inclusive
+BN875	n	an	no	micro organism	inclusive
+BN783	n	an	no	খচ্চর	inclusive
+BN924	n	an	no	sheep, domestic	inclusive
+BN327	n	an	no	crocodiles	inclusive
+BN225	n	an	no	🐕	inclusive
+BN163	n	pr	no	🐄	inclusive
+BN31	n	ddp	yes	অ্যানিমালিয়া	inclusive
+BN870	n	an	no	single cellers	inclusive
+BN541	n	re	no	filcher	inclusive
+BN679	n	ddf	yes	disabilites	inclusive
+BN79	n	an	no	গাধা	inclusive
+BN1167	n	pr	no	গরূ	inclusive
+BN421	n	om	no	dairy air	inclusive
+BN424	n	om	no	buttucks	inclusive
+BN347	n	ps	yes	interbreed	inclusive
+BN15	n	ddp	yes	aminals	inclusive
+BN541	n	cds	no	filcher	inclusive
+BN819	n	cds	no	papparazi	inclusive
+BN796	n	om	no	pederastry	inclusive
+BN142	n	ps	yes	ultimately dark	inclusive
+BN495	n	an	no	domestic pigs	inclusive
+BN934	n	an	no	মেষ	inclusive
+BN272	n	an	no	capra hircus	inclusive
+BN512	n	an	no	pig	inclusive
+BN718	n	asm	no	peniss	inclusive
+BN847	n	asm	no	peascod	inclusive
+BN887	n	an	no	single-celled organisms	inclusive
+BN107	n	asm	no	শুক্রাশয়	inclusive
+BN302	n	an	no	cecal pellets	inclusive
+BN778	n	an	no	mozzi	inclusive
+BN1133	n	an	no	focks	inclusive
+BN88	n	an	no	she-ass	inclusive
+BN49	n	re	no	rapists	conservative
+BN339	n	cds	no	intraspecific hybrids	inclusive
+BN1039	n	an	no	hen	inclusive
+BN357	n	cds	no	genetic crossing	inclusive
+BN1064	n	an	no	batrachian	inclusive
+BN998	n	or	no	spud	inclusive
+BN436	n	om	no	tuch	inclusive
+BN66	n	re	no	violent sexuality	conservative
+BN839	n	asm	no	peascods	inclusive
+BN447	n	cds	no	ফ্রিম্যাসনরি	inclusive
+BN876	n	an	no	unicellularity	inclusive
+BN504	n	an	no	শূকর	inclusive
+BN1175	n	ps	yes	জুলু	inclusive
+BN625	n	ps	yes	ইহুদীধর্ম	inclusive
+BN890	n	an	no	one-cell organism	inclusive
+BN553	n	om	no	being gay	inclusive
+BN866	n	an	no	micro-organismical	inclusive
+BN831	n	an	no	parrot	inclusive
+BN896	n	an	no	microörganism	inclusive
+BN181	n	an	no	great white	inclusive
+BN230	n	an	no	doghood	inclusive
+BN280	n	or	no	patta gobhi	inclusive
+BN892	n	an	no	microbiality	inclusive
+BN277	n	or	no	cabbages	inclusive
+BN112	n	qas	no	testicular	inclusive
+BN85	n	an	no	jennies	inclusive
+BN1016	n	or	no	solanum tuberosum	inclusive
+BN506	n	an	no	swine	inclusive
+BN715	n	asm	no	eight equals equals equals d	inclusive
+BN107	n	qas	no	শুক্রাশয়	inclusive
+BN571	n	om	no	poof	inclusive
+BN1000	n	or	no	গোলআলু	inclusive
+BN1093	n	an	no	cokroch	inclusive
+BN525	n	cds	no	চোর	inclusive
+BN657	n	an	no	hienna	inclusive
+BN528	n	cds	no	thefts	inclusive
+BN239	n	cds	no	tribal	inclusive
+BN973	n	or	no	tatties	inclusive
+BN44	n	ddp	yes	anumal	inclusive
+BN118	n	qas	no	orchitic	inclusive
+BN1112	n	an	no	ckokroach	inclusive
+BN1003	n	or	no	תפוח-אדמה	inclusive
+BN401	n	cds	no	alt-thrash	inclusive
+BN1043	n	an	no	pullets	inclusive
+BN224	n	an	no	canis familiarus domesticus	inclusive
+BN241	n	cds	no	উপজাতি	inclusive
+BN527	n	cds	no	thieving	inclusive
+BN484	n	asf	no	যোনি	conservative
+BN462	n	cds	no	fundamentism	inclusive
+BN311	n	an	no	bedbugs	inclusive
+BN262	n	an	no	he-goat	inclusive
+BN61	n	re	no	non-consensual sex	conservative
+BN389	n	cds	no	gribbly	inclusive
+BN334	n	an	no	🐊	inclusive
+BN14	n	svp	no	lazy people	inclusive
+BN432	n	om	no	nates	inclusive
+BN1155	n	asm	no	avian dinosaur	inclusive
+BN1074	n	an	no	anura	inclusive
+BN894	n	an	no	micro organisms	inclusive
+BN1057	a	ps	yes	কালো	inclusive
+BN780	n	an	no	mozzy	inclusive
+BN1148	n	asm	no	এভিস	inclusive
+BN1168	n	an	no	গাই	inclusive
+BN725	n	asm	no	peni	inclusive
+BN405	n	cds	no	alternative thrash	inclusive
+BN691	n	ddf	yes	disabled	inclusive
+BN91	n	an	no	asinine	inclusive
+BN190	n	an	no	shedogs	inclusive
+BN1010	n	or	no	potatoes	inclusive
+BN948	n	an	no	হংসী	inclusive
+BN1117	n	an	no	ckocroach	inclusive
+BN30	n	an	no	animalia	inclusive
+BN510	n	an	no	sus scrofa domestica	inclusive
+BN116	n	qas	no	teste	inclusive
+BN567	n	om	no	dionism	inclusive
+BN496	n	an	no	gilt	inclusive
+BN105	n	qas	no	স্কোট্রাম	inclusive
+BN125	n	qas	no	baroness	inclusive
+BN1096	n	an	no	kokroach	inclusive
+BN1058	a	ddf	yes	অন্ধ	inclusive
+BN180	n	an	no	carcharodon carcharias	inclusive
+BN349	n	cds	no	hybrid	inclusive
+BN1045	n	an	no	bock bock	inclusive
+BN1114	n	an	no	black-beetle	inclusive
+BN1125	n	an	no	vixen	inclusive
+BN463	n	cds	no	ফ্যাসিবাদ	conservative
+BN385	n	re	no	crime	inclusive
+BN359	n	ps	yes	genetic cross	inclusive
+BN777	n	an	no	mosquito	inclusive
+BN643	n	ps	yes	yahood	inclusive
+BN877	n	an	no	microbes	inclusive
+BN1131	n	an	no	পাতিশিয়াল	inclusive
+BN1052	n	an	no	chickon	inclusive
+BN8	n	svp	no	indolencies	inclusive
+BN208	n	an	no	she-dog	inclusive
+BN986	n	or	no	german butterball	inclusive
+BN726	n	asm	no	wedding tackle	inclusive
+BN76	n	an	no	বোকা	conservative
+BN349	n	ps	yes	hybrid	inclusive
+BN1090	n	an	no	theromyzon	inclusive
+BN1143	a	svp	no	কামুক	conservative
+BN579	n	om	no	gay and lesbian	inclusive
+BN1120	n	an	no	cocroch	inclusive
+BN628	n	ps	yes	ইহুদী	inclusive
+BN1073	n	an	no	anurans	inclusive
+BN166	n	an	no	bos primigenius taurus	inclusive
+BN733	n	asm	no	peniz	inclusive
+BN1037	n	an	no	g. domesticus	inclusive
+BN909	n	an	no	microbical	inclusive
+BN1081	v	re	no	থলে	inclusive
+BN799	n	om	no	pedication	inclusive
+BN155	n	an	no	cow	inclusive
+BN1109	n	an	no	cockoroach	inclusive
+BN759	n	ps	yes	mongolids	inclusive
+BN772	n	an	no	macchar	inclusive
+BN791	n	om	no	paiderastia	inclusive
+BN926	n	an	no	persian lamb	inclusive
+BN817	n	cds	no	paparatsi	inclusive
+BN1168	n	pr	no	গাই	inclusive
+BN902	n	an	no	microorganisms	inclusive
+BN144	n	ps	yes	blackish	inclusive
+BN809	n	cds	no	paparazzo	inclusive
+BN1167	n	an	no	গরূ	inclusive
+BN419	n	om	no	bare bum	inclusive
+BN452	n	cds	no	fundamental regime	inclusive
+BN382	n	or	no	cucumis sativus	inclusive
+BN246	n	cds	no	lists of tribes	inclusive
+BN347	n	cds	no	interbreed	inclusive
+BN128	n	qas	no	barons	inclusive
+BN803	n	om	no	paederastic	inclusive
+BN570	n	om	no	homosexualism	inclusive
+BN779	n	an	no	mosquita	inclusive
+BN121	n	qas	no	baronage	inclusive
+BN1158	n	asm	no	birds	inclusive
+BN357	n	ps	yes	genetic crossing	inclusive
+BN685	n	ddf	yes	handicapable	inclusive
+BN776	n	an	no	mozze	inclusive
+BN994	n	or	no	আলু	inclusive
+BN1017	n	or	no	potater	inclusive
+BN1065	n	an	no	batrachan	inclusive
+BN486	n	asf	no	neden	conservative
+BN616	n	ps	yes	juddaism	inclusive
+BN900	n	an	no	microbe	inclusive
+BN1146	n	re	no	সন্ত্রাসবাদ	conservative
+BN15	n	an	no	aminals	inclusive
+BN1097	n	an	no	cocaroah	inclusive
+BN1044	n	an	no	chooks	inclusive
+BN75	n	asf	no	মূর্খ	conservative
+BN851	n	asm	no	pea	inclusive
+BN292	n	an	no	bunnie	inclusive
+BN274	n	asm	no	ধন	conservative
+BN1099	n	an	no	cocroach	inclusive
+BN617	n	ps	yes	judaisem	inclusive
+BN370	n	cds	no	interbreeding	inclusive
+BN731	n	asm	no	meat injector	inclusive
+BN493	v	asm	no	চোদা	conservative
+BN522	n	re	no	stealer	inclusive
+BN18	n	ddp	yes	প্রাণী	inclusive
+BN383	n	cds	no	অপরাধী	inclusive
+BN288	n	an	no	rubbits	inclusive
+BN829	n	an	no	parrots	inclusive
+BN348	n	ps	yes	সংকর জীব	inclusive
+BN967	n	an	no	vultures	inclusive
+BN529	n	cds	no	filchers	inclusive
+BN530	n	cds	no	thieves	inclusive
+BN354	n	cds	no	interfertile	inclusive
+BN676	n	ddf	yes	physical disablities	inclusive
+BN340	n	ps	yes	interspecies reproduction	inclusive
+BN24	n	an	no	anamalia	inclusive
+BN441	n	om	no	hindquarter	inclusive
+BN397	n	cds	no	grunge	inclusive
+BN446	n	cds	no	পশুপালক	inclusive
+BN761	n	ps	yes	মঙ্গোল	inclusive
+BN1067	n	an	no	salientia	inclusive
+BN706	n	an	no	পতঙ্গ	inclusive
+BN1106	n	an	no	ckocroch	inclusive
+BN501	n	an	no	hog	inclusive
+BN431	n	om	no	butt cheeks	inclusive
+BN158	n	pr	no	cattle	inclusive
+BN434	n	om	no	পাছা	inclusive
+BN592	n	ps	yes	judaical	inclusive
+BN930	n	an	no	ram	inclusive
+BN132	n	cds	no	মিথ্যা	inclusive
+BN546	n	om	no	homosexulity	inclusive
+BN693	n	cds	no	শিক্ষক	inclusive
+BN1111	n	an	no	cockroach	inclusive
+BN75	n	an	no	মূর্খ	conservative
+BN515	n	an	no	shoat	inclusive
+BN399	n	cds	no	alternative speed metal	inclusive
+BN1107	n	an	no	vegas roach trap	inclusive
+BN498	n	an	no	piglet	inclusive
+BN27	n	ddp	yes	animal	inclusive
+BN131	n	pr	no	বেশ্যা	conservative
+BN108	n	qas	no	testes	inclusive
+BN134	n	an	no	বাইসন	inclusive
+BN558	n	om	no	love between men	inclusive
+BN1001	n	or	no	תפו"א	inclusive
+BN535	n	cds	no	তস্কর	inclusive
+BN532	n	cds	no	theft	inclusive
+BN299	n	an	no	rabit	inclusive
+BN514	n	an	no	pet pigs	inclusive
+BN78	n	an	no	donkey	inclusive
+BN1137	n	an	no	শৃগাল	inclusive
+BN832	n	an	no	beedeas	inclusive
+BN867	n	an	no	microorganism	inclusive
+BN65	n	re	no	sex without consent	conservative
+BN929	n	an	no	ovine	inclusive
+BN636	n	ps	yes	yehudim	inclusive
+BN346	n	ps	yes	interspecies breeding	inclusive
+BN524	n	re	no	stealers	inclusive
+BN491	n	an	no	ছাগল-পাহাড়িছাগল	inclusive
+BN972	n	or	no	poetatoe	inclusive
+BN856	n	an	no	sharkes	inclusive
+BN164	n	an	no	cows	inclusive
+BN990	n	or	no	pateeto	inclusive
+BN771	n	an	no	মশা	inclusive
+BN680	n	ddf	yes	impaired	inclusive
+BN283	n	or	no	cabbage	inclusive
+BN730	n	asm	no	todger	inclusive
+BN370	n	ps	yes	interbreeding	inclusive
+BN251	n	an	no	ক্যাপরা	inclusive
+BN737	n	asm	no	virile member	inclusive
+BN790	n	om	no	man boy love	inclusive
+BN764	n	an	no	dusk biter	inclusive
+BN1034	n	an	no	motsu no kushiyaki	inclusive
+BN1046	n	an	no	🐔	inclusive
+BN9	n	svp	no	misoponia	inclusive
+BN294	n	an	no	খরগোশ	inclusive
+BN517	n	cds	no	hork	inclusive
+BN575	n	om	no	uphill gardener	inclusive
+BN76	n	ddp	yes	বোকা	conservative
+BN1023	n	an	no	chicket	inclusive
+BN1049	n	an	no	chook	inclusive
+BN330	n	an	no	crocodylid	inclusive
+BN619	n	ps	yes	judaisam	inclusive
+BN1118	n	an	no	kockroch	inclusive
+BN518	n	re	no	thief	inclusive
+BN191	n	an	no	সারমেয়	inclusive
+BN957	n	an	no	হাঁস	inclusive
+BN323	n	an	no	owls	inclusive
+BN384	n	cds	no	অপরাধ	inclusive
+BN852	n	an	no	fishes taxonomy	inclusive
+BN369	n	ps	yes	intra-specific hybrids	inclusive
+BN699	n	an	no	insects	inclusive
+BN959	n	an	no	swanling	inclusive
+BN1105	n	an	no	তেলাপোকা	inclusive
+BN735	n	asm	no	riddlestick	inclusive
+BN897	n	an	no	single cell organism	inclusive
+BN754	n	ps	yes	mongol	inclusive
+BN582	n	ps	yes	jewishm	inclusive
+BN420	n	om	no	butt cheek	inclusive
+BN117	n	qas	no	অণ্ডকোষ	inclusive
+BN490	n	asf	no	বাল	inclusive
+BN958	n	an	no	cygnet	inclusive
+BN45	n	ddp	yes	metazoans	inclusive
+BN525	n	re	no	চোর	inclusive
+BN729	n	asm	no	membrum virile	inclusive
+BN455	n	cds	no	religious extremist	inclusive
+BN243	n	cds	no	tribesmen	inclusive
+BN1128	n	an	no	fox	inclusive
+BN865	n	an	no	microscopic organism	inclusive
+BN513	n	an	no	pigs as pets	inclusive
+BN306	n	an	no	smeerp	inclusive
+BN562	n	om	no	homosexality	inclusive
+BN101	n	qas	no	testicles	inclusive
+BN668	n	ddf	yes	physically challenged	inclusive
+BN329	n	an	no	crocodylinae	inclusive
+BN806	n	cds	no	paparatchi	inclusive
+BN528	n	re	no	thefts	inclusive
+BN688	n	ddf	yes	handicapped	inclusive
+BN407	n	cds	no	grungecore	inclusive
+BN238	n	cds	no	tribally	inclusive
+BN1018	n	or	no	tatey	inclusive
+BN827	n	an	no	psittaciformes	inclusive
+BN610	n	ps	yes	judaic	inclusive
+BN774	n	an	no	culicidae	inclusive
+BN538	n	re	no	theives	inclusive
+BN301	n	an	no	rabbit	inclusive
+BN164	n	pr	no	cows	inclusive

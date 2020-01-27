@@ -1,0 +1,2865 @@
+id	pos	category	stereotype	lemma	level
+BG1266	n	cds	no	тъмничар	inclusive
+BG1644	n	an	no	нощна пеперуда	inclusive
+BG1963	n	an	no	змия	inclusive
+BG2251	n	an	no	канал бас	inclusive
+BG995	n	cds	no	мръсотия	inclusive
+BG828	n	an	no	cimex lectularius	inclusive
+BG230	n	rci	yes	грубиян	conservative
+BG937	n	cds	no	измама	inclusive
+BG1646	n	pr	no	молец	inclusive
+BG288	n	an	no	блудница	conservative
+BG95	n	qas	no	дреболии	inclusive
+BG153	n	asm	no	тъпак	conservative
+BG494	n	asm	no	тъмно кафяво	inclusive
+BG937	n	dmc	yes	измама	inclusive
+BG1373	n	ps	yes	юдео	inclusive
+BG625	n	an	no	развратница	conservative
+BG223	a	svp	no	користолюбив	conservative
+BG2186	n	an	no	anura	inclusive
+BG971	n	cds	no	закононарушение	inclusive
+BG1111	n	dmc	yes	моралните ценности	inclusive
+BG414	n	ddp	yes	тъпанар	conservative
+BG307	n	cds	no	неистинността	conservative
+BG367	n	an	no	бизони	inclusive
+BG1673	n	cds	no	мафията	inclusive
+BG1855	n	cds	no	изтърсак	conservative
+BG1776	n	qas	no	Реториката	inclusive
+BG86	n	qas	no	съучастник	inclusive
+BG1147	n	cds	no	сводници	inclusive
+BG2340	n	om	no	травестизмът	inclusive
+BG159	n	or	no	knucklehead	conservative
+BG368	n	ddp	yes	клюкар	conservative
+BG1852	n	or	no	скуош	inclusive
+BG543	n	cds	no	арогантност	conservative
+BG1873	n	ps	yes	негроид	inclusive
+BG471	n	an	no	Бик	inclusive
+BG514	n	an	no	стария свят биволско	inclusive
+BG63	n	an	no	бивол	inclusive
+BG1114	n	dmc	yes	Морал	inclusive
+BG970	n	cds	no	Престъпленията	inclusive
+BG779	n	om	no	педал	inclusive
+BG1255	n	asm	no	широка боб	inclusive
+BG1348	n	om	no	shirtlifter	inclusive
+BG572	n	is	yes	villainess	conservative
+BG2263	a	cds	no	интелигентен	inclusive
+BG204	n	cds	no	публичен дом	inclusive
+BG16	n	svp	no	Безразличие	inclusive
+BG717	n	cds	no	ballup	inclusive
+BG898	n	cds	no	селекционер	inclusive
+BG934	n	qas	no	цапач	conservative
+BG188	n	an	no	скъперник	conservative
+BG618	n	asm	no	идиот	inclusive
+BG1518	n	dmc	yes	лъжец	inclusive
+BG610	n	dmc	yes	парий	inclusive
+BG256	n	pa	yes	юрист	inclusive
+BG335	n	dmc	yes	лъжльо	conservative
+BG1242	n	cds	no	гангстери	inclusive
+BG1295	n	cds	no	реакционер	conservative
+BG558	n	cds	no	негодник	conservative
+BG2071	a	cds	no	високомерен	conservative
+BG402	n	cds	no	тек	inclusive
+BG1519	a	svp	no	мързелив	conservative
+BG2411	n	dmc	yes	предател	conservative
+BG513	n	qas	no	burgher хора	inclusive
+BG483	n	an	no	bos primigenius taurus	inclusive
+BG1087	n	pa	yes	работник	inclusive
+BG201	n	cds	no	Публичен дом	inclusive
+BG1260	n	asf	no	влагалище	conservative
+BG445	n	cds	no	самохвалко	conservative
+BG1758	n	pr	no	плъх	inclusive
+BG437	n	cds	no	бу-бу	inclusive
+BG636	n	re	no	calunnia	inclusive
+BG2370	n	cds	no	conspiracism	inclusive
+BG1635	n	ps	yes	Монголец	inclusive
+BG74	n	om	no	содомия	inclusive
+BG1947	n	dmc	yes	нещастен	inclusive
+BG489	n	cds	no	шеф	inclusive
+BG2005	n	or	no	спъд	inclusive
+BG2254	n	cds	no	зубрач	conservative
+BG548	n	cds	no	conceitedness	conservative
+BG1517	n	dmc	yes	казуист	conservative
+BG328	n	an	no	говеждо месо	inclusive
+BG359	n	cds	no	престъпник	conservative
+BG1334	n	pr	no	Проституцията	inclusive
+BG1235	n	svp	no	безсмислието	conservative
+BG2428	n	cds	no	Нимфоманка	inclusive
+BG1440	a	is	yes	тесногръд	conservative
+BG1328	n	re	no	грабеж	inclusive
+BG334	n	dmc	yes	fabricator	conservative
+BG1073	n	cds	no	peons	inclusive
+BG571	n	re	no	злодей	conservative
+BG976	n	re	no	престъпления	inclusive
+BG296	n	pr	no	уличница	conservative
+BG608	n	dmc	yes	бездомник	inclusive
+BG1043	n	om	no	дирник	inclusive
+BG236	n	pa	yes	варвари	conservative
+BG1672	n	re	no	мафия	conservative
+BG131	n	an	no	Животинския свят	inclusive
+BG2273	a	re	no	силен	inclusive
+BG615	n	cds	no	мижитурка	conservative
+BG1544	n	cds	no	лихвар	inclusive
+BG795	n	om	no	twink	conservative
+BG730	n	pa	yes	професор	inclusive
+BG1240	n	dmc	yes	Гангстер	inclusive
+BG2176	n	qas	no	високопарност	inclusive
+BG401	n	cds	no	свиня	conservative
+BG1901	n	an	no	гъски	inclusive
+BG370	n	ddp	yes	разказвач	conservative
+BG1514	n	dmc	yes	фалшификатор	conservative
+BG808	n	cds	no	малодушие	conservative
+BG545	n	cds	no	волунтаризъм	conservative
+BG106	n	cds	no	Зилоти	inclusive
+BG2059	n	cds	no	религиозност	inclusive
+BG1883	n	ps	yes	уайт	inclusive
+BG919	n	or	no	краставица	inclusive
+BG1594	n	re	no	обирник	inclusive
+BG793	n	or	no	Хомофилско движение	conservative
+BG482	n	an	no	гове́до	inclusive
+BG1321	n	cds	no	дребни кражби	inclusive
+BG151	n	asf	no	глупак	conservative
+BG2124	n	cds	no	protagonism	inclusive
+BG2009	n	or	no	картофи	inclusive
+BG578	a	dmc	yes	лош	conservative
+BG884	n	an	no	crocodylidae	inclusive
+BG650	n	ddp	yes	измет	conservative
+BG449	n	ddp	yes	зверчето	conservative
+BG903	n	qas	no	съгласие	inclusive
+BG1531	a	is	yes	нещастен	inclusive
+BG713	n	qas	no	общата лице	inclusive
+BG791	n	om	no	homophile	conservative
+BG282	n	ddp	yes	глупав	conservative
+BG696	n	qas	no	пиянство	inclusive
+BG674	n	cds	no	племена	inclusive
+BG940	n	cds	no	Демагогия	conservative
+BG1385	n	ps	yes	евреин	inclusive
+BG879	n	an	no	Крокодил	inclusive
+BG1377	n	ps	yes	еврейската религия	inclusive
+BG2241	n	cds	no	сциентизма	inclusive
+BG635	n	cds	no	обида	conservative
+BG1987	n	cds	no	arriviste	inclusive
+BG275	n	asm	no	меко докосване	conservative
+BG277	n	asm	no	наивник	conservative
+BG261	n	qas	no	баронства	inclusive
+BG663	n	or	no	педераст	conservative
+BG506	n	qas	no	бизнесдама	inclusive
+BG585	n	cds	no	котерия	inclusive
+BG361	n	cds	no	остракизъм	inclusive
+BG393	n	qas	no	Бизнесмагнат	inclusive
+BG10	n	svp	no	Ленност	inclusive
+BG153	n	ddp	yes	тъпак	conservative
+BG2070	a	cds	no	арогантен	conservative
+BG427	n	cds	no	задънена улица	inclusive
+BG1342	n	pr	no	сексуални услуги	inclusive
+BG2385	n	cds	no	користна	inclusive
+BG1948	a	qas	no	обичаен	inclusive
+BG1663	n	cds	no	нарушителя	inclusive
+BG1630	n	an	no	Мекотело	inclusive
+BG1000	n	svp	no	ненавист	inclusive
+BG1992	v	cds	no	преяждам	inclusive
+BG421	n	re	no	изнудва	conservative
+BG191	n	svp	no	Алчност	inclusive
+BG1625	n	an	no	testaria	inclusive
+BG1933	n	re	no	уби́йца	inclusive
+BG2024	n	an	no	спекулант	conservative
+BG1102	n	an	no	escargots	inclusive
+BG2091	n	an	no	пиле	inclusive
+BG1104	n	qas	no	аматьори	inclusive
+BG90	n	cds	no	смес	inclusive
+BG2171	a	dmc	yes	мръсен	inclusive
+BG861	n	an	no	Сова	inclusive
+BG1853	n	qas	no	звезден лъч	inclusive
+BG2156	n	cds	no	разбойници	inclusive
+BG1942	n	dmc	yes	Хитрец	conservative
+BG1582	n	svp	no	гняв	inclusive
+BG1525	a	is	yes	скръбен	inclusive
+BG1931	n	re	no	Слеяр	inclusive
+BG153	n	cds	no	тъпак	conservative
+BG156	n	ddp	yes	палячо	conservative
+BG124	n	ddp	yes	животни	inclusive
+BG2135	n	pa	yes	контролер	inclusive
+BG1632	n	an	no	Молуски	inclusive
+BG1164	n	cds	no	фокус	inclusive
+BG1023	n	om	no	условия за локализацията	inclusive
+BG1132	n	dmc	yes	прекарат всички	inclusive
+BG1508	n	dmc	yes	неморално	inclusive
+BG1717	n	an	no	папагал	inclusive
+BG434	n	cds	no	развалям	inclusive
+BG619	n	cds	no	кретен	inclusive
+BG1303	a	cds	no	незаконен	inclusive
+BG817	n	cds	no	боклук	inclusive
+BG909	n	asf	no	путка	conservative
+BG1577	n	svp	no	Инвидия	inclusive
+BG744	n	cds	no	тълпа	inclusive
+BG1156	n	qas	no	земеделец	inclusive
+BG140	n	re	no	клевета	conservative
+BG701	n	asm	no	кур	conservative
+BG2277	n	ddp	yes	дрън-дрън	inclusive
+BG1477	n	ddp	yes	незнание	conservative
+BG69	n	cds	no	любовта към себе си	conservative
+BG637	n	re	no	злонамерени лъжи	inclusive
+BG961	n	ddp	yes	дангалак	conservative
+BG2359	n	an	no	измами	conservative
+BG1376	n	ps	yes	Юдеизъм	inclusive
+BG277	n	ddp	yes	наивник	conservative
+BG155	n	cds	no	абдал	conservative
+BG1245	n	cds	no	Фашист	conservative
+BG320	n	qas	no	хаос	inclusive
+BG983	n	an	no	diddley	conservative
+BG683	n	an	no	козе мляко	inclusive
+BG225	n	cds	no	бандит	inclusive
+BG1334	n	pr	no	Проституцията	conservative
+BG115	n	an	no	anguilla	inclusive
+BG1336	n	pr	no	проституция	inclusive
+BG153	n	ps	yes	тъпак	conservative
+BG1425	n	cds	no	crooner	inclusive
+BG2358	n	qas	no	гмуркане система за претегляне	inclusive
+BG438	n	qas	no	фал-	inclusive
+BG2086	a	cds	no	изтъркан	inclusive
+BG1486	n	cds	no	splashiness	conservative
+BG1748	n	svp	no	Гордост	inclusive
+BG1314	n	cds	no	литературен хак	conservative
+BG231	n	dmc	yes	варварин	conservative
+BG858	n	an	no	Совоподобни	inclusive
+BG156	n	cds	no	палячо	conservative
+BG1483	n	an	no	relentlessness	conservative
+BG1544	n	cds	no	лихвар	conservative
+BG661	n	om	no	paederast	conservative
+BG1145	n	cds	no	поощрявам	inclusive
+BG1392	n	cds	no	масите	conservative
+BG1028	n	om	no	кифлички	inclusive
+BG1291	n	dmc	yes	не сметка	conservative
+BG1123	n	is	yes	нещастник	inclusive
+BG1129	n	dmc	yes	Либертианско	conservative
+BG1440	a	dmc	yes	тесногръд	conservative
+BG832	n	an	no	дървеници	inclusive
+BG610	n	is	yes	парий	inclusive
+BG1082	n	cds	no	педагог	inclusive
+BG547	n	svp	no	суета	conservative
+BG218	n	qas	no	топки	inclusive
+BG184	n	svp	no	алчност	inclusive
+BG618	n	cds	no	идиот	inclusive
+BG892	n	cds	no	растителните биотехнологии	inclusive
+BG2143	n	re	no	отвлича	inclusive
+BG708	n	cds	no	препятствие	conservative
+BG2389	n	cds	no	мерзък	conservative
+BG2156	n	re	no	разбойници	inclusive
+BG1834	n	an	no	плужек	inclusive
+BG1611	n	cds	no	тоалетните	inclusive
+BG1551	n	an	no	Насекоми	inclusive
+BG622	n	ps	yes	Сменени деца	conservative
+BG1990	v	is	yes	умолявам	inclusive
+BG906	n	cds	no	синко	inclusive
+BG358	n	re	no	banditti	inclusive
+BG248	n	pa	yes	съвета	inclusive
+BG946	n	pr	no	любовница	conservative
+BG951	n	pr	no	конкубинат	inclusive
+BG741	n	or	no	зеле	inclusive
+BG780	n	om	no	Куиър	conservative
+BG984	n	an	no	diddlysquat	conservative
+BG278	n	asf	no	карък	conservative
+BG1847	n	cds	no	морализъм	inclusive
+BG1864	n	cds	no	autolatry	inclusive
+BG369	n	cds	no	издайнически	conservative
+BG324	n	ps	yes	бедуини	inclusive
+BG1521	n	dmc	yes	Лъжа	inclusive
+BG1107	n	dmc	yes	коректност	inclusive
+BG1908	n	re	no	терорист	inclusive
+BG1902	n	an	no	branta bernicla	inclusive
+BG2019	n	cds	no	нещо което смущава	conservative
+BG159	n	ddp	yes	knucklehead	conservative
+BG2167	n	cds	no	groveler	conservative
+BG768	n	cds	no	заговор на мълчанието	inclusive
+BG619	n	ps	yes	кретен	conservative
+BG895	n	cds	no	кръстосвам	inclusive
+BG564	n	dmc	yes	скитници	conservative
+BG279	n	an	no	будала	conservative
+BG935	n	dmc	yes	Мистификация	conservative
+BG235	n	dmc	yes	Варвари	conservative
+BG1428	n	asf	no	фуста	conservative
+BG623	n	asf	no	малоумник	conservative
+BG1052	n	svp	no	ядач	conservative
+BG321	n	cds	no	безредие	inclusive
+BG274	n	cds	no	бан bleu	inclusive
+BG286	n	ddp	yes	лековерник	conservative
+BG275	n	cds	no	меко докосване	conservative
+BG162	n	or	no	dumbass	conservative
+BG2065	a	svp	no	гневен	inclusive
+BG1739	n	is	yes	беден	inclusive
+BG641	n	re	no	maligner	conservative
+BG960	n	an	no	пират	inclusive
+BG1772	n	qas	no	Реторици	inclusive
+BG1091	a	ddp	yes	луд	inclusive
+BG188	n	svp	no	скъперник	conservative
+BG894	n	ps	yes	interfertility	inclusive
+BG1850	n	an	no	мушици	inclusive
+BG188	n	is	yes	скъперник	conservative
+BG159	n	asf	no	knucklehead	conservative
+BG450	n	qas	no	некадърник	conservative
+BG285	n	or	no	лапа	conservative
+BG1108	n	dmc	yes	морален кодекс	inclusive
+BG144	n	re	no	изнасилвания	conservative
+BG185	n	svp	no	avaritia	inclusive
+BG1624	n	cds	no	кръшкач	conservative
+BG13	n	svp	no	Абулия	inclusive
+BG1773	n	qas	no	риторично	inclusive
+BG79	n	om	no	анален секс	inclusive
+BG155	n	asm	no	абдал	inclusive
+BG964	n	ddp	yes	doofus	conservative
+BG1967	n	an	no	Лешояди	inclusive
+BG2094	n	an	no	Домашна кокошка	inclusive
+BG1173	n	or	no	резене	inclusive
+BG385	n	qas	no	индустриалци	inclusive
+BG835	n	an	no	hemipteron	inclusive
+BG235	n	pa	yes	Варвари	conservative
+BG220	n	qas	no	Семенници	inclusive
+BG1826	n	pa	yes	овчар	inclusive
+BG2357	n	cds	no	ндрангета	inclusive
+BG121	n	ddp	yes	Животните	inclusive
+BG1162	n	ps	yes	фашистки	inclusive
+BG1855	n	dmc	yes	изтърсак	conservative
+BG374	n	cds	no	мошеничество	conservative
+BG2380	n	an	no	rouncey	inclusive
+BG755	n	ddp	yes	задник	conservative
+BG467	n	pr	no	крави	inclusive
+BG2075	n	re	no	пирати	inclusive
+BG403	n	an	no	пес	inclusive
+BG1486	n	cds	no	splashiness	inclusive
+BG1590	n	cds	no	конекрадец	inclusive
+BG958	n	an	no	despoiler	inclusive
+BG479	n	pr	no	воловете	inclusive
+BG2131	n	pr	no	прелюбодейка	conservative
+BG153	n	asm	no	тъпак	inclusive
+BG310	n	cds	no	лъжа	inclusive
+BG1297	n	cds	no	Реакция	conservative
+BG1321	n	re	no	дребни кражби	inclusive
+BG276	n	asm	no	изкупителна жертва	conservative
+BG2281	n	re	no	изнасилвач	conservative
+BG1357	n	om	no	Хомосексуалността	inclusive
+BG817	n	qas	no	боклук	inclusive
+BG192	n	ddp	yes	умствена изостаналост	inclusive
+BG1325	n	cds	no	Крадец	inclusive
+BG2250	n	an	no	морски костур	inclusive
+BG875	n	an	no	крокодили	inclusive
+BG1895	n	asf	no	техническа страна на нещо	inclusive
+BG541	n	cds	no	тщеславие	conservative
+BG229	n	cds	no	бандитизма	inclusive
+BG161	n	or	no	fuckhead	conservative
+BG345	n	svp	no	фанатик	conservative
+BG2343	n	om	no	Травестизъм	inclusive
+BG2069	n	cds	no	страна работа	conservative
+BG139	n	re	no	хула	conservative
+BG996	n	cds	no	Гръндж	inclusive
+BG1458	n	ddp	yes	безсмислица	conservative
+BG356	n	dmc	yes	мошеник	conservative
+BG1041	n	om	no	плантарна	inclusive
+BG1546	n	cds	no	лихвари	inclusive
+BG2174	a	svp	no	ненаситен	inclusive
+BG1236	n	svp	no	безполезност	conservative
+BG1271	n	cds	no	надзирател	inclusive
+BG504	n	pa	yes	селянин	inclusive
+BG330	n	an	no	добитъка	inclusive
+BG775	n	cds	no	вестникаря	inclusive
+BG2345	n	pr	no	вещица	conservative
+BG152	n	an	no	балама	conservative
+BG508	n	qas	no	бизнесмени	inclusive
+BG443	n	cds	no	vaunter	conservative
+BG1966	n	an	no	лешояд	inclusive
+BG54	n	pa	yes	Дописен член	inclusive
+BG1275	n	an	no	Прилепчета	inclusive
+BG1305	n	svp	no	користолюбие	inclusive
+BG532	n	cds	no	самомнителност	conservative
+BG1509	n	om	no	дами	inclusive
+BG1791	n	ps	yes	метис	conservative
+BG304	n	pr	no	мъжки ескорт	conservative
+BG259	n	an	no	кучешки	inclusive
+BG102	n	cds	no	codswallop	conservative
+BG236	n	ps	yes	варвари	conservative
+BG2195	n	an	no	Безопашати	inclusive
+BG1177	n	dmc	yes	malodour	conservative
+BG632	n	re	no	клеветнически	inclusive
+BG1565	n	asm	no	кестеняво	inclusive
+BG1099	n	asm	no	ерекция	inclusive
+BG2407	n	dmc	yes	вероотстъпник	conservative
+BG968	n	re	no	престъпни дейности	inclusive
+BG1407	n	qas	no	барака	inclusive
+BG1513	n	dmc	yes	псевдо	conservative
+BG1600	n	cds	no	schoolma'am	conservative
+BG1330	n	qas	no	паразит	conservative
+BG432	n	qas	no	пропуск	inclusive
+BG750	n	svp	no	Сексуално желание	inclusive
+BG1829	n	pa	yes	овчарка	inclusive
+BG564	n	dmc	yes	скитници	inclusive
+BG747	n	svp	no	Сексуален импулс	inclusive
+BG199	n	cds	no	bagnio	inclusive
+BG1144	n	cds	no	fanatism	conservative
+BG538	n	ps	yes	българин	inclusive
+BG397	n	cds	no	повлекана	conservative
+BG431	n	cds	no	гаф	inclusive
+BG1793	n	ps	yes	Метиси	conservative
+BG904	n	cds	no	момче	inclusive
+BG233	n	pa	yes	дивак	conservative
+BG2187	n	an	no	batrachian	inclusive
+BG1676	n	re	no	мафиоти	conservative
+BG543	n	svp	no	арогантност	conservative
+BG1186	n	pa	yes	рибар	inclusive
+BG154	n	asf	no	мухльо	conservative
+BG1808	n	an	no	микроорганизма	inclusive
+BG845	n	svp	no	жажда	inclusive
+BG1149	n	cds	no	сводничество	conservative
+BG1323	n	cds	no	крадливата	inclusive
+BG914	n	or	no	sativus	inclusive
+BG1201	n	cds	no	шут	inclusive
+BG53	n	pa	yes	член-кореспондент	inclusive
+BG927	n	cds	no	прекъсване на	conservative
+BG401	n	an	no	свиня	conservative
+BG780	n	or	no	Куиър	conservative
+BG451	n	dmc	yes	blunderer	conservative
+BG1	n	dmc	yes	падение	inclusive
+BG2423	n	ps	yes	Ромски	inclusive
+BG2193	n	an	no	жаба	inclusive
+BG562	n	dmc	yes	скитник	conservative
+BG1824	n	ddp	yes	Глупост	conservative
+BG1693	n	cds	no	папараци	inclusive
+BG1537	n	re	no	убиецът	inclusive
+BG1281	n	cds	no	на всяко гърне меродия	conservative
+BG23	n	qas	no	послушниците	inclusive
+BG1691	n	om	no	Педерастия	inclusive
+BG1282	n	cds	no	зрител	conservative
+BG1876	n	ps	yes	Негри	inclusive
+BG2405	n	dmc	yes	Ренегати	conservative
+BG447	n	cds	no	конформист	conservative
+BG217	n	asm	no	teste	inclusive
+BG419	n	re	no	изнудване	conservative
+BG1982	n	qas	no	moocher	conservative
+BG1227	n	cds	no	фундаменталисти	inclusive
+BG2001	v	cds	no	умирам	inclusive
+BG1523	n	re	no	neonaticide	inclusive
+BG840	n	cds	no	хитрост	inclusive
+BG793	n	om	no	Хомофилско движение	inclusive
+BG2079	n	re	no	пиратството	inclusive
+BG1189	n	dmc	yes	фалшифициране	inclusive
+BG1207	n	cds	no	масон	inclusive
+BG2170	a	dmc	yes	замърсен	inclusive
+BG1424	n	cds	no	балади	inclusive
+BG1464	n	is	yes	ниски доходи	inclusive
+BG883	n	an	no	Крокодили	inclusive
+BG2280	n	re	no	debaucher	conservative
+BG1896	n	qas	no	арендатор	inclusive
+BG746	n	cds	no	множество	inclusive
+BG320	n	cds	no	хаос	inclusive
+BG614	n	an	no	страхливец	conservative
+BG1067	n	cds	no	десетки	inclusive
+BG543	n	cds	no	арогантност	inclusive
+BG2180	n	qas	no	изоставен кораб	inclusive
+BG938	n	dmc	yes	Мистификации	conservative
+BG2240	n	cds	no	Сциентистика	inclusive
+BG800	n	an	no	физиономия	inclusive
+BG398	n	cds	no	прасе	conservative
+BG1842	n	ps	yes	Монголоидна раса	conservative
+BG512	n	qas	no	Бизнесмен	inclusive
+BG1292	n	dmc	yes	нехранимайко	conservative
+BG1277	n	cds	no	жиголо	inclusive
+BG2306	n	re	no	терористи	inclusive
+BG461	n	an	no	порочност	conservative
+BG420	n	re	no	изнудван	conservative
+BG1935	n	or	no	ти́ква	inclusive
+BG448	n	ddp	yes	хаймана	conservative
+BG356	n	an	no	мошеник	conservative
+BG114	n	an	no	змиорка	inclusive
+BG621	n	asf	no	changelings	conservative
+BG362	n	cds	no	злосторник	inclusive
+BG1392	n	cds	no	масите	inclusive
+BG1548	n	cds	no	Шейлок	conservative
+BG418	n	re	no	шантаж	conservative
+BG707	n	cds	no	спънка	conservative
+BG258	n	an	no	куче	inclusive
+BG759	n	asm	no	търкаля в сеното	conservative
+BG1146	n	cds	no	сводник	inclusive
+BG1290	n	an	no	Козел	inclusive
+BG173	n	an	no	equus asinus	inclusive
+BG150	n	asm	no	betise	conservative
+BG2268	a	ddp	yes	състояние	inclusive
+BG486	n	an	no	Крави	inclusive
+BG1365	n	om	no	хомосексуализъм	inclusive
+BG589	n	ddp	yes	затворници	inclusive
+BG1677	n	re	no	Коза ностра	inclusive
+BG1411	n	qas	no	хъч	inclusive
+BG368	n	cds	no	клюкар	conservative
+BG622	n	asm	no	Сменени деца	inclusive
+BG652	n	an	no	familiaris	inclusive
+BG803	n	ddp	yes	доносник	conservative
+BG237	n	svp	no	алчността	inclusive
+BG547	n	cds	no	суета	conservative
+BG1775	n	qas	no	Ритор	inclusive
+BG1232	n	dmc	yes	dillydallier	conservative
+BG893	n	ps	yes	кръстосване	inclusive
+BG2016	n	cds	no	педант	conservative
+BG1823	n	an	no	овце	inclusive
+BG2049	n	an	no	pediculus corporis	inclusive
+BG230	n	qas	no	грубиян	conservative
+BG138	n	an	no	epifauna	inclusive
+BG1445	n	ddf	yes	физически оспорени	inclusive
+BG627	n	re	no	Дифамация	inclusive
+BG1811	n	an	no	Микроорганизми	inclusive
+BG238	n	ddp	yes	варварство	inclusive
+BG776	n	om	no	poove	conservative
+BG20	n	svp	no	равнодушие	inclusive
+BG338	a	cds	no	глупав	conservative
+BG873	n	ddf	yes	инвалид	inclusive
+BG1848	n	qas	no	духовен водач	inclusive
+BG782	n	om	no	финансите	conservative
+BG94	n	qas	no	пъстро-gatherum	inclusive
+BG239	n	qas	no	продавач	inclusive
+BG2	v	an	no	лая	inclusive
+BG785	n	om	no	гей	inclusive
+BG310	n	qas	no	лъжа	conservative
+BG640	n	re	no	охулител	conservative
+BG740	n	or	no	brassica oleracea	inclusive
+BG162	n	asf	no	dumbass	conservative
+BG1574	a	om	no	хомосексуален	conservative
+BG1983	n	qas	no	муфтаджия	conservative
+BG1505	n	dmc	yes	морално пропаднал	inclusive
+BG1369	n	ps	yes	hebraism	inclusive
+BG604	n	cds	no	леш	inclusive
+BG278	n	cds	no	карък	conservative
+BG1840	n	an	no	охлюви	inclusive
+BG1456	n	ddp	yes	абсурдност	conservative
+BG1011	n	dmc	yes	двуличник	conservative
+BG1657	n	cds	no	изперкал	conservative
+BG1478	n	ddp	yes	невежество	conservative
+BG788	n	or	no	педера́ст	conservative
+BG973	n	re	no	престъпно поведение	inclusive
+BG1634	n	ps	yes	Монголци	inclusive
+BG1157	n	qas	no	фермери	inclusive
+BG1499	n	cds	no	Преподавател	inclusive
+BG566	n	dmc	yes	безделник	conservative
+BG2316	n	re	no	страдание	inclusive
+BG1435	n	cds	no	идолопоклоннически	inclusive
+BG982	n	an	no	diddly	conservative
+BG235	n	qas	no	Варвари	conservative
+BG1949	a	qas	no	обикновен	inclusive
+BG1174	n	om	no	Фенел	inclusive
+BG961	n	ps	yes	дангалак	conservative
+BG1191	n	qas	no	дилема	inclusive
+BG1831	n	asm	no	jeerer	conservative
+BG422	n	pa	yes	погребението на гробаря	inclusive
+BG412	n	cds	no	майка шибаняк	conservative
+BG698	n	an	no	grossness	conservative
+BG1053	n	svp	no	gourmandizer	conservative
+BG1076	n	an	no	nanus	conservative
+BG230	n	ps	yes	грубиян	conservative
+BG2084	a	cds	no	банален	inclusive
+BG786	n	or	no	гейовете	conservative
+BG1322	n	cds	no	крадци	inclusive
+BG753	n	svp	no	ерос	inclusive
+BG1384	n	ps	yes	Евреите	inclusive
+BG1547	n	cds	no	loanshark	conservative
+BG76	n	om	no	изнасилил	inclusive
+BG545	n	svp	no	волунтаризъм	conservative
+BG1343	n	pr	no	Проститутки	inclusive
+BG667	n	cds	no	clann	inclusive
+BG1239	n	re	no	Гангстеризъм	inclusive
+BG1928	n	re	no	slayer	inclusive
+BG279	n	ps	yes	будала	conservative
+BG307	n	qas	no	неистинността	conservative
+BG170	n	an	no	магарета	inclusive
+BG766	n	an	no	зайчета	inclusive
+BG2037	n	cds	no	moaner	conservative
+BG560	n	an	no	еди-кой си	conservative
+BG1856	n	dmc	yes	половин пинта	conservative
+BG215	n	ddp	yes	глупости	conservative
+BG366	n	an	no	bison	inclusive
+BG411	n	cds	no	копеле	inclusive
+BG1802	n	an	no	акули	inclusive
+BG783	n	or	no	ексцентричен	conservative
+BG908	n	asf	no	слива	conservative
+BG943	n	cds	no	Демагог	conservative
+BG1308	n	an	no	евразия белоглави	inclusive
+BG1471	n	is	yes	Мизерия	inclusive
+BG1548	n	cds	no	Шейлок	inclusive
+BG171	n	an	no	вътрешен задника	inclusive
+BG1594	n	cds	no	обирник	inclusive
+BG235	n	ps	yes	Варвари	conservative
+BG2072	a	cds	no	надменен	conservative
+BG2147	n	re	no	raptio	inclusive
+BG1201	n	dmc	yes	шут	inclusive
+BG462	n	ddp	yes	ferociousness	conservative
+BG1164	n	cds	no	фокус	conservative
+BG563	n	dmc	yes	hobos	conservative
+BG1955	n	cds	no	лихва	inclusive
+BG2299	n	re	no	терористичен акт	inclusive
+BG1002	n	svp	no	неприятен	inclusive
+BG760	n	asm	no	чука	conservative
+BG226	n	re	no	разбойник	inclusive
+BG164	n	an	no	невежа	conservative
+BG221	a	svp	no	лаком	conservative
+BG1636	n	ps	yes	Монголи	inclusive
+BG1563	n	qas	no	пазар пазач	inclusive
+BG495	n	asm	no	Кафяв цвят	inclusive
+BG751	n	svp	no	похот	inclusive
+BG1528	a	is	yes	опечален	inclusive
+BG326	n	ps	yes	bedu	inclusive
+BG1701	n	qas	no	ектопаразити	inclusive
+BG207	n	svp	no	cheapskate	conservative
+BG279	n	cds	no	будала	conservative
+BG1214	n	cds	no	Франкмасонство	inclusive
+BG1676	n	cds	no	мафиоти	inclusive
+BG624	n	cds	no	подменено	inclusive
+BG1986	n	cds	no	новобогаташ	inclusive
+BG231	n	ddp	yes	варварин	conservative
+BG49	n	pa	yes	Действителен член	inclusive
+BG2348	n	pr	no	хетерата	inclusive
+BG972	n	re	no	незаконни дейности	inclusive
+BG68	n	cds	no	самолюбие	conservative
+BG1585	n	ddp	yes	умствена недостатъчност	inclusive
+BG755	n	om	no	задник	inclusive
+BG998	n	cds	no	гръндж	inclusive
+BG1065	n	cds	no	натоварвания	inclusive
+BG856	n	an	no	кукумявка	inclusive
+BG572	n	re	no	villainess	conservative
+BG2395	n	re	no	Насилие	inclusive
+BG307	n	dmc	yes	неистинността	inclusive
+BG359	n	re	no	престъпник	conservative
+BG236	n	ddp	yes	варвари	conservative
+BG2303	n	re	no	тероризъм	inclusive
+BG1520	a	dmc	yes	ленив	conservative
+BG1379	n	ps	yes	юдаизъм	inclusive
+BG711	n	qas	no	обикновените	inclusive
+BG622	n	asf	no	Сменени деца	conservative
+BG1566	n	cds	no	сватовник	inclusive
+BG44	n	pa	yes	член на академичния състав	inclusive
+BG645	n	cds	no	камората	inclusive
+BG2042	n	cds	no	bellyacher	conservative
+BG548	n	svp	no	conceitedness	conservative
+BG278	n	ddp	yes	карък	conservative
+BG762	n	asm	no	nooky	conservative
+BG1220	n	cds	no	свободни и приети масони	inclusive
+BG1358	n	om	no	gayness	inclusive
+BG678	n	an	no	capra	inclusive
+BG837	n	an	no	бръмбар	inclusive
+BG1449	n	ddf	yes	забраните	inclusive
+BG2104	a	an	no	зверски	conservative
+BG557	n	dmc	yes	git	inclusive
+BG2199	n	an	no	bufo	inclusive
+BG474	n	pr	no	ѐдър рога̀т добѝтък	inclusive
+BG1232	n	svp	no	dillydallier	conservative
+BG2235	n	an	no	Чакал	inclusive
+BG639	n	re	no	Клевета	inclusive
+BG1068	n	cds	no	т	inclusive
+BG1672	n	re	no	мафия	inclusive
+BG357	n	cds	no	път агент	conservative
+BG1239	n	dmc	yes	Гангстеризъм	inclusive
+BG25	n	re	no	малтретиране	inclusive
+BG1393	n	cds	no	хой polloi	inclusive
+BG8	n	svp	no	Мързел	inclusive
+BG1573	n	asm	no	пенис	inclusive
+BG1723	n	cds	no	купон	inclusive
+BG634	n	re	no	злепоставяне	inclusive
+BG1924	n	re	no	убийство	inclusive
+BG1858	n	cds	no	нарцисизъм	inclusive
+BG964	n	asf	no	doofus	conservative
+BG2310	n	cds	no	Свободна рота	inclusive
+BG1024	n	om	no	гъз	inclusive
+BG1866	n	ps	yes	jigaboo	conservative
+BG987	n	cds	no	пени страшен	inclusive
+BG1382	n	ps	yes	израилтянин	inclusive
+BG699	n	an	no	raunch	conservative
+BG608	n	is	yes	бездомник	inclusive
+BG542	n	svp	no	самохвалство	conservative
+BG673	n	cds	no	рода	inclusive
+BG2252	n	an	no	червен барабан	inclusive
+BG104	n	cds	no	гонител	conservative
+BG887	n	ddf	yes	crookback	inclusive
+BG1965	n	an	no	лешояди	inclusive
+BG1526	a	is	yes	тъжно	inclusive
+BG908	n	or	no	слива	conservative
+BG1242	n	dmc	yes	гангстери	inclusive
+BG308	n	cds	no	неистина	inclusive
+BG1134	n	svp	no	faineance	inclusive
+BG1035	n	om	no	дисталния	inclusive
+BG975	n	re	no	престъпно деяние	inclusive
+BG488	n	cds	no	началник	inclusive
+BG280	n	ddp	yes	pillock	conservative
+BG1479	n	ddp	yes	неведение	conservative
+BG47	n	qas	no	amateurishness	conservative
+BG2408	n	dmc	yes	Ренегат	conservative
+BG1535	n	re	no	убийца	inclusive
+BG2080	n	re	no	изплагиатствал	inclusive
+BG891	n	cds	no	кръстоска	inclusive
+BG616	n	om	no	банален	conservative
+BG1878	n	ps	yes	негри	inclusive
+BG467	n	an	no	крави	inclusive
+BG1161	n	qas	no	агрономи	inclusive
+BG1090	n	qas	no	любител	inclusive
+BG2121	n	pa	yes	допълнение факултет	inclusive
+BG1170	n	om	no	foeniculum vulgare	inclusive
+BG2398	n	an	no	vipera	inclusive
+BG1798	n	an	no	Акулоподобни	inclusive
+BG568	n	cds	no	тълпата	conservative
+BG580	n	an	no	паст	inclusive
+BG111	n	ddp	yes	analphabetic	inclusive
+BG12	n	dmc	yes	низост	inclusive
+BG1496	n	cds	no	Академичен персонал	inclusive
+BG839	n	cds	no	хитрина	conservative
+BG1337	n	pr	no	проститутки	conservative
+BG103	n	ddp	yes	folderol	conservative
+BG1130	n	dmc	yes	разточителен	inclusive
+BG1884	n	ps	yes	латино	inclusive
+BG1676	n	cds	no	мафиоти	conservative
+BG2425	n	cds	no	culchie	inclusive
+BG758	n	asm	no	парче на опашката	conservative
+BG1903	n	an	no	брант	inclusive
+BG2367	n	cds	no	Конспиративна теория	inclusive
+BG2157	n	re	no	фокусник	inclusive
+BG1226	n	cds	no	фундаменталистка	inclusive
+BG1645	n	pr	no	молци	inclusive
+BG2309	n	ddp	yes	темерут	conservative
+BG1612	n	cds	no	тоалетна,	inclusive
+BG137	n	an	no	животинско възпроизводство	inclusive
+BG377	n	dmc	yes	зло	conservative
+BG169	n	an	no	инат	inclusive
+BG953	a	ddp	yes	доверчив	conservative
+BG1995	n	qas	no	размирник	conservative
+BG152	n	cds	no	балама	conservative
+BG496	n	asm	no	brownness	inclusive
+BG136	n	ddp	yes	metazoans	inclusive
+BG74	n	an	no	содомия	conservative
+BG93	n	cds	no	боклуци	inclusive
+BG1669	n	cds	no	полицаи	conservative
+BG715	n	cds	no	cockup	inclusive
+BG1332	n	cds	no	куриер	inclusive
+BG319	n	cds	no	хаоса	inclusive
+BG1493	n	cds	no	Учителка	inclusive
+BG755	n	asm	no	задник	conservative
+BG155	n	ddp	yes	абдал	conservative
+BG6	n	svp	no	Лентяйство	inclusive
+BG869	n	cds	no	чекиджия	conservative
+BG962	n	ps	yes	хулиган	conservative
+BG1491	n	cds	no	учител	inclusive
+BG2376	n	om	no	плъзнете царици	inclusive
+BG131	n	ddp	yes	Животинския свят	inclusive
+BG2220	n	an	no	blattodea	inclusive
+BG430	n	cds	no	изпортвам	inclusive
+BG756	n	asm	no	секса	conservative
+BG263	n	qas	no	Барон	inclusive
+BG1628	n	an	no	Молюски	inclusive
+BG1725	n	cds	no	празненство	inclusive
+BG233	n	ps	yes	дивак	conservative
+BG1713	n	qas	no	енории	inclusive
+BG435	n	cds	no	flub	inclusive
+BG473	n	an	no	bos taurus	inclusive
+BG2307	n	an	no	каймани	inclusive
+BG915	n	or	no	Краставици	inclusive
+BG222	a	svp	no	алчен	conservative
+BG236	n	cds	no	варвари	conservative
+BG783	n	om	no	ексцентричен	conservative
+BG553	n	cds	no	маса	inclusive
+BG949	n	pr	no	Конкубина	inclusive
+BG677	n	pa	yes	чиновник	inclusive
+BG1503	n	cds	no	преписвач	conservative
+BG339	a	cds	no	тъп	conservative
+BG1656	n	an	no	муцуната	inclusive
+BG311	n	cds	no	фалш	inclusive
+BG621	n	ps	yes	changelings	conservative
+BG1899	n	an	no	гъска	inclusive
+BG156	n	dmc	yes	палячо	inclusive
+BG155	n	asf	no	абдал	conservative
+BG448	n	qas	no	хаймана	conservative
+BG313	n	cds	no	конте	inclusive
+BG566	n	cds	no	безделник	conservative
+BG1329	n	re	no	откраднати вещи	inclusive
+BG1171	n	or	no	сминд	inclusive
+BG134	n	an	no	Животни	inclusive
+BG1233	n	dmc	yes	унил човек	conservative
+BG2363	n	cds	no	теория на конспирацията	inclusive
+BG1651	n	dmc	yes	Моцарела	inclusive
+BG1353	n	om	no	един и същи пол	inclusive
+BG2416	n	ps	yes	ром	inclusive
+BG1534	n	svp	no	gorger	conservative
+BG931	n	cds	no	dastardliness	conservative
+BG520	n	qas	no	буржоазия	inclusive
+BG1482	a	ddp	yes	необразован	conservative
+BG831	n	an	no	легло бъг	inclusive
+BG1254	n	asm	no	бакла	inclusive
+BG308	n	dmc	yes	неистина	inclusive
+BG1457	n	ddp	yes	nonsensicality	conservative
+BG1221	n	an	no	мръщене	inclusive
+BG78	n	om	no	педерастия	inclusive
+BG1989	v	is	yes	моля	inclusive
+BG618	n	ddp	yes	идиот	conservative
+BG1780	n	qas	no	Реторически аргумент	inclusive
+BG1169	n	or	no	копър	inclusive
+BG694	n	qas	no	врява	inclusive
+BG45	n	pa	yes	академични	inclusive
+BG135	n	ddp	yes	анимирате е	inclusive
+BG572	n	dmc	yes	villainess	conservative
+BG1315	n	cds	no	развратен	conservative
+BG100	a	svp	no	нападателен	conservative
+BG196	n	cds	no	къща с лоша репутация	inclusive
+BG1910	n	cds	no	омерта	inclusive
+BG818	n	cds	no	скрап	conservative
+BG555	n	an	no	вол	inclusive
+BG573	n	cds	no	таратайка	inclusive
+BG665	n	cds	no	кланове	inclusive
+BG4	v	an	no	излайвам	inclusive
+BG441	n	cds	no	линия стрелецът	conservative
+BG550	n	svp	no	самонадеяност	conservative
+BG797	n	cds	no	gossiper	conservative
+BG1667	n	cds	no	стражар	conservative
+BG2038	n	cds	no	whiner	conservative
+BG411	n	cds	no	копеле	conservative
+BG1494	n	cds	no	инструктор	inclusive
+BG174	n	an	no	Осел	inclusive
+BG1985	n	cds	no	парвеню	inclusive
+BG158	n	an	no	дървеняк	conservative
+BG923	n	cds	no	избиване	conservative
+BG2018	n	cds	no	ноу-то-всички	conservative
+BG1063	n	cds	no	голямо количество	inclusive
+BG621	n	asm	no	changelings	inclusive
+BG1962	n	an	no	усойница	inclusive
+BG2272	a	re	no	яростен	inclusive
+BG1026	n	om	no	зад	inclusive
+BG297	n	an	no	кокона	conservative
+BG158	n	or	no	дървеняк	conservative
+BG275	n	ps	yes	меко докосване	conservative
+BG1665	n	svp	no	похотливи	inclusive
+BG158	n	ddp	yes	дървеняк	conservative
+BG816	n	cds	no	смет	conservative
+BG269	n	cds	no	с изключение на	inclusive
+BG412	n	ddp	yes	майка шибаняк	conservative
+BG133	n	ddp	yes	фауна	inclusive
+BG89	n	qas	no	бъркотия	inclusive
+BG1203	n	cds	no	наркоман	conservative
+BG892	n	ps	yes	растителните биотехнологии	inclusive
+BG1696	n	cds	no	селяк	conservative
+BG130	n	ddp	yes	макрофауна	inclusive
+BG145	n	re	no	изнасилвачи	conservative
+BG511	n	qas	no	собственик на бизнес	inclusive
+BG609	n	is	yes	нещо изхвърлено	inclusive
+BG7	n	svp	no	мързел	inclusive
+BG1337	n	pr	no	проститутки	inclusive
+BG1938	n	cds	no	хомункулуси	inclusive
+BG1886	n	ps	yes	испанци	inclusive
+BG1155	n	qas	no	областта ръка	inclusive
+BG1749	n	svp	no	superbia	conservative
+BG647	n	dmc	yes	chiseller	conservative
+BG122	n	ddp	yes	животно	inclusive
+BG1017	n	om	no	keister	inclusive
+BG284	n	cds	no	pudden главата	conservative
+BG2362	n	ps	yes	червен картон	inclusive
+BG889	n	cds	no	хибрид	inclusive
+BG1487	n	cds	no	показност	conservative
+BG1863	n	cds	no	самостоятелно поклонение	inclusive
+BG1666	n	cds	no	ченге	inclusive
+BG234	n	dmc	yes	коварния	conservative
+BG2262	n	an	no	скрит враг	conservative
+BG2261	n	qas	no	копой	inclusive
+BG2227	n	cds	no	нескопосник	conservative
+BG530	n	qas	no	средна класа	inclusive
+BG890	n	cds	no	кръстосвани	inclusive
+BG2271	a	dmc	yes	мизерен	conservative
+BG1443	n	an	no	strix вариациите	inclusive
+BG1623	n	dmc	yes	страхливците	conservative
+BG700	n	asm	no	хуй	conservative
+BG444	n	cds	no	bragger	conservative
+BG2178	n	qas	no	грандиозност	inclusive
+BG1590	n	re	no	конекрадец	inclusive
+BG1019	n	om	no	отзад	inclusive
+BG1174	n	or	no	Фенел	inclusive
+BG966	n	ps	yes	uprooter	conservative
+BG1279	n	asf	no	чатала коса	inclusive
+BG1208	n	cds	no	масонски	inclusive
+BG1124	n	an	no	овца	inclusive
+BG1830	n	pa	yes	овчари	inclusive
+BG395	n	qas	no	бизнес лидер	inclusive
+BG1154	n	qas	no	fieldhand	inclusive
+BG2236	n	an	no	чакал	inclusive
+BG474	n	an	no	ѐдър рога̀т добѝтък	inclusive
+BG2150	n	re	no	Грабеж	inclusive
+BG276	n	cds	no	изкупителна жертва	conservative
+BG1631	n	an	no	Мекотели	inclusive
+BG2246	a	ddp	yes	безразсъден	conservative
+BG2322	n	re	no	изтезание	inclusive
+BG424	n	pa	yes	предприемач	inclusive
+BG868	n	qas	no	екипаж	inclusive
+BG1374	n	ps	yes	Юдеи	inclusive
+BG595	n	an	no	carcharodon	inclusive
+BG989	n	ps	yes	boche	conservative
+BG689	n	svp	no	minginess	conservative
+BG391	n	qas	no	Магнат	inclusive
+BG1711	n	qas	no	църковната енория	inclusive
+BG517	n	om	no	содомит	inclusive
+BG1699	n	cds	no	недодялан човек	conservative
+BG304	n	an	no	мъжки ескорт	conservative
+BG1215	n	cds	no	Франкмасони	inclusive
+BG1062	n	cds	no	салове	inclusive
+BG215	n	asm	no	глупости	inclusive
+BG2072	a	svp	no	надменен	conservative
+BG233	n	qas	no	дивак	conservative
+BG1248	n	cds	no	фашистите	conservative
+BG249	n	pa	yes	министър-съветник	inclusive
+BG1110	n	dmc	yes	етичен мотив	inclusive
+BG1325	n	re	no	Крадец	inclusive
+BG2253	n	cds	no	dweeb	conservative
+BG1521	n	cds	no	Лъжа	inclusive
+BG482	n	pr	no	гове́до	inclusive
+BG648	n	cds	no	chiseler	inclusive
+BG621	n	ddp	yes	changelings	inclusive
+BG680	n	an	no	Кози	inclusive
+BG1570	n	asm	no	Фалос	inclusive
+BG618	n	ddp	yes	идиот	inclusive
+BG557	n	an	no	git	conservative
+BG542	n	cds	no	самохвалство	conservative
+BG359	n	re	no	престъпник	inclusive
+BG1598	n	or	no	punctiliousness	inclusive
+BG252	n	pa	yes	защитник	inclusive
+BG1432	n	cds	no	идолопоклонство	inclusive
+BG1954	n	cds	no	Лихварство	conservative
+BG51	n	pa	yes	Академик	inclusive
+BG2377	n	om	no	женски имитатор	inclusive
+BG1488	n	cds	no	помпозност	conservative
+BG1515	n	svp	no	lustfulness	inclusive
+BG2033	n	cds	no	слух	inclusive
+BG215	n	ddp	yes	глупости	inclusive
+BG1904	n	an	no	брент	inclusive
+BG612	n	cds	no	смешници	conservative
+BG282	n	cds	no	глупав	conservative
+BG344	n	svp	no	тесногръдие	conservative
+BG1386	n	ps	yes	еврейство	inclusive
+BG1756	n	pr	no	Плъх	inclusive
+BG1029	n	om	no	tooshie	inclusive
+BG962	n	ddp	yes	хулиган	conservative
+BG433	n	qas	no	кръпка	inclusive
+BG2419	n	ps	yes	romanis	inclusive
+BG1685	n	an	no	otus asio	inclusive
+BG937	n	cds	no	измама	conservative
+BG236	n	rci	yes	варвари	conservative
+BG618	n	ps	yes	идиот	conservative
+BG2433	n	ps	yes	Зулуси	inclusive
+BG577	n	an	no	кайман	inclusive
+BG340	a	ddp	yes	детски	conservative
+BG415	n	cds	no	незаконен	inclusive
+BG484	n	an	no	Крава	inclusive
+BG792	n	om	no	хомосексуалист	conservative
+BG1262	n	asf	no	вагинален	conservative
+BG2074	n	re	no	плагиатство	inclusive
+BG1968	n	pa	yes	каруцар	inclusive
+BG1085	n	re	no	delictum	inclusive
+BG380	n	ps	yes	черно	inclusive
+BG464	n	svp	no	Отегчение	inclusive
+BG1733	n	asm	no	pisum sativum	inclusive
+BG1911	n	an	no	кърлежи	inclusive
+BG733	n	pa	yes	асистент	inclusive
+BG2319	n	re	no	мъка	inclusive
+BG558	n	re	no	негодник	inclusive
+BG937	n	dmc	yes	измама	conservative
+BG1216	n	cds	no	свободен зидар	inclusive
+BG275	n	ddp	yes	меко докосване	conservative
+BG799	n	ddp	yes	rumourmonger	conservative
+BG1556	n	re	no	malversation	inclusive
+BG433	n	cds	no	кръпка	inclusive
+BG1021	n	om	no	опашка	inclusive
+BG986	n	cds	no	стотинка роман	inclusive
+BG108	n	ddp	yes	неграмотно лице	inclusive
+BG186	n	svp	no	avariciousness	inclusive
+BG977	n	re	no	престъпници	inclusive
+BG1714	n	qas	no	Енория	inclusive
+BG2095	n	an	no	volaille	inclusive
+BG449	n	qas	no	зверчето	conservative
+BG479	n	an	no	воловете	inclusive
+BG1587	n	cds	no	mussiness	conservative
+BG1680	n	ps	yes	Остроготи	inclusive
+BG344	n	cds	no	тесногръдие	conservative
+BG623	n	asm	no	малоумник	inclusive
+BG2169	a	dmc	yes	мръсни	inclusive
+BG1401	n	qas	no	къща художник	inclusive
+BG646	n	cds	no	defrauder	conservative
+BG1502	n	cds	no	нежелана поща	inclusive
+BG127	n	an	no	видове	inclusive
+BG123	n	an	no	infauna	inclusive
+BG206	n	svp	no	стипца	conservative
+BG276	n	ps	yes	изкупителна жертва	conservative
+BG1061	n	dmc	yes	младежката престъпно	conservative
+BG1560	n	cds	no	обратно говори	inclusive
+BG979	n	an	no	doodly-клек	conservative
+BG1640	n	an	no	комар	inclusive
+BG2136	n	pa	yes	счетоводител	inclusive
+BG806	n	an	no	страхли́вец	conservative
+BG2223	n	an	no	хлебарка	inclusive
+BG492	n	ddp	yes	увреждане на мозъка	inclusive
+BG216	n	qas	no	Семенник	inclusive
+BG1196	n	an	no	Бълхи	inclusive
+BG1338	n	pr	no	Курва	conservative
+BG2100	n	cds	no	бебе	inclusive
+BG14	n	svp	no	aboulia	inclusive
+BG1136	n	cds	no	kinfolk	inclusive
+BG232	n	ddp	yes	варварски	conservative
+BG152	n	asm	no	балама	conservative
+BG230	n	pa	yes	грубиян	conservative
+BG937	n	qas	no	измама	conservative
+BG157	n	ddp	yes	тъпако	conservative
+BG815	n	cds	no	старо желязо	inclusive
+BG355	n	an	no	измамник	conservative
+BG1151	n	pr	no	метреса	conservative
+BG215	n	pr	no	глупости	conservative
+BG1391	n	cds	no	Черда	inclusive
+BG838	n	cds	no	лукавост	conservative
+BG833	n	an	no	буболечка	inclusive
+BG2146	n	re	no	похищение	inclusive
+BG376	n	cds	no	дяволска работа	conservative
+BG1803	n	an	no	Акулообразни	inclusive
+BG2299	n	re	no	терористичен акт	conservative
+BG872	n	ddp	yes	twirp	conservative
+BG3	v	an	no	излая	inclusive
+BG1437	n	cds	no	идолопоклонничеството	inclusive
+BG1352	n	om	no	Хомосексуализъм	inclusive
+BG1677	n	cds	no	Коза ностра	conservative
+BG47	n	cds	no	amateurishness	conservative
+BG1223	n	cds	no	фундаментализъм	inclusive
+BG1270	n	cds	no	до ключ	inclusive
+BG1867	n	ps	yes	негър	conservative
+BG247	n	pa	yes	специален убеждаващият	inclusive
+BG997	n	cds	no	почвата	inclusive
+BG43	n	pa	yes	академичните среди	inclusive
+BG398	n	an	no	прасе	conservative
+BG1938	n	dmc	yes	хомункулуси	inclusive
+BG827	n	an	no	подслушване	inclusive
+BG1402	n	qas	no	бояджийски	inclusive
+BG1105	n	dmc	yes	морален компас	inclusive
+BG1832	n	asm	no	flouter	conservative
+BG1530	a	is	yes	жалко	inclusive
+BG1380	n	ps	yes	Юдаисти	inclusive
+BG150	n	asf	no	betise	conservative
+BG1363	n	om	no	Хомосексуално влечение	inclusive
+BG1370	n	ps	yes	юдаизма	inclusive
+BG2357	n	re	no	ндрангета	inclusive
+BG1678	n	re	no	Мафиот	conservative
+BG109	n	ddp	yes	неграмотен	inclusive
+BG470	n	pr	no	Юница	inclusive
+BG1442	n	re	no	калпазанин	inclusive
+BG1015	n	om	no	апикална	inclusive
+BG1241	n	dmc	yes	Бандит	inclusive
+BG400	n	cds	no	мърляч	conservative
+BG2248	a	ddp	yes	глупаво	conservative
+BG2127	a	ddf	yes	куц	inclusive
+BG72	n	svp	no	леност	inclusive
+BG2096	n	cds	no	бебета	inclusive
+BG2255	n	cds	no	wonk	conservative
+BG1044	n	om	no	ипсилатералните	inclusive
+BG1533	a	is	yes	нещастни	inclusive
+BG646	n	dmc	yes	defrauder	conservative
+BG541	n	svp	no	тщеславие	conservative
+BG2256	a	pa	yes	политически	inclusive
+BG15	n	svp	no	abulia	inclusive
+BG2073	n	re	no	plagiarization	inclusive
+BG1268	n	cds	no	полицай	conservative
+BG210	n	qas	no	Мъди	inclusive
+BG253	n	pa	yes	адвокати	inclusive
+BG617	n	asm	no	преча на	inclusive
+BG2324	n	re	no	измъчвани	inclusive
+BG91	n	cds	no	миш-маш	inclusive
+BG880	n	an	no	crocodilian	inclusive
+BG785	n	or	no	гей	conservative
+BG2413	n	an	no	limacidae	inclusive
+BG1064	n	cds	no	купища	inclusive
+BG301	n	an	no	rentboy	conservative
+BG1089	a	qas	no	бълнуващ	inclusive
+BG459	n	ddp	yes	zooerasty	conservative
+BG1669	n	cds	no	полицаи	inclusive
+BG1521	n	qas	no	Лъжа	conservative
+BG209	n	asm	no	Слабини	inclusive
+BG2366	n	cds	no	конспирация теоретик	inclusive
+BG1361	n	om	no	Хомоеротизъм	inclusive
+BG1393	n	cds	no	хой polloi	conservative
+BG1081	n	cds	no	възпитател	inclusive
+BG332	n	cds	no	послъгвам	conservative
+BG2071	a	svp	no	високомерен	conservative
+BG714	n	qas	no	обикновения човек	inclusive
+BG447	n	qas	no	конформист	conservative
+BG1286	n	an	no	комара	inclusive
+BG507	n	qas	no	Бизнесдама	inclusive
+BG209	n	qas	no	Слабини	inclusive
+BG567	n	svp	no	хайлазин	conservative
+BG413	n	ddp	yes	кучи син	conservative
+BG1118	n	an	no	eurypterid	inclusive
+BG1210	n	cds	no	Масонство	inclusive
+BG1709	n	qas	no	паразитират	inclusive
+BG160	n	ddp	yes	галфон	conservative
+BG88	n	cds	no	шега	inclusive
+BG1721	a	dmc	yes	жесток	conservative
+BG1195	n	an	no	бълха	inclusive
+BG439	n	cds	no	гафове	inclusive
+BG279	n	ddp	yes	будала	conservative
+BG1588	n	cds	no	безпорядък	conservative
+BG791	n	or	no	homophile	conservative
+BG789	n	om	no	Хомофил	conservative
+BG343	n	cds	no	фанатизъм	conservative
+BG1862	n	cds	no	idiolatry	inclusive
+BG226	n	cds	no	разбойник	conservative
+BG1230	n	svp	no	ярост	conservative
+BG215	n	qas	no	глупости	inclusive
+BG48	n	pa	yes	Член-кореспондент	inclusive
+BG1025	n	om	no	седалище	inclusive
+BG1506	n	dmc	yes	неморалност	inclusive
+BG2382	n	dmc	yes	скитничество	inclusive
+BG1466	n	is	yes	обедняване	inclusive
+BG221	a	svp	no	лаком	inclusive
+BG648	n	re	no	chiseler	inclusive
+BG1655	n	an	no	муле	inclusive
+BG571	n	cds	no	злодей	conservative
+BG527	n	qas	no	буржоазията	inclusive
+BG599	n	an	no	човекоядец	inclusive
+BG692	n	svp	no	niggardness	conservative
+BG700	n	asm	no	хуй	inclusive
+BG613	n	an	no	слаб човек	conservative
+BG451	n	qas	no	blunderer	conservative
+BG684	n	an	no	кози	inclusive
+BG956	n	an	no	pillager	inclusive
+BG2123	a	cds	no	страхлив	conservative
+BG2194	n	an	no	frogspawn	inclusive
+BG866	n	ddp	yes	Кретенизъм	inclusive
+BG355	n	cds	no	измамник	conservative
+BG1957	n	ps	yes	Силинги	inclusive
+BG1258	n	asm	no	европейския боб	inclusive
+BG439	n	qas	no	гафове	inclusive
+BG1460	n	ddp	yes	non sens	conservative
+BG318	n	cds	no	главата turvyness	inclusive
+BG399	n	an	no	немарлив човек	conservative
+BG103	n	asf	no	folderol	conservative
+BG1782	n	cds	no	тартор	inclusive
+BG272	n	cds	no	blackballed	inclusive
+BG1383	n	ps	yes	Израелтяни	inclusive
+BG1356	n	om	no	homoeroticism	inclusive
+BG1912	n	an	no	ixodida	inclusive
+BG207	n	is	yes	cheapskate	conservative
+BG264	n	qas	no	пищен	inclusive
+BG1579	a	svp	no	завистлив	conservative
+BG1945	n	ddp	yes	плескало	conservative
+BG521	n	qas	no	bourgeoise	inclusive
+BG2232	n	an	no	canis aureus	inclusive
+BG1060	n	pa	yes	портиер	inclusive
+BG359	n	dmc	yes	престъпник	conservative
+BG980	n	an	no	diddly-лайна	conservative
+BG1999	v	cds	no	умра	inclusive
+BG1038	n	om	no	дупе	inclusive
+BG1123	n	dmc	yes	нещастник	inclusive
+BG1495	n	cds	no	преподава	inclusive
+BG1677	n	re	no	Коза ностра	conservative
+BG1259	n	asm	no	vicia faba	inclusive
+BG1420	n	an	no	Хиени	inclusive
+BG89	n	cds	no	бъркотия	inclusive
+BG1447	n	ddf	yes	увреждания	inclusive
+BG1558	n	cds	no	sassing	inclusive
+BG1786	n	cds	no	канализация	inclusive
+BG893	n	cds	no	кръстосване	inclusive
+BG1676	n	re	no	мафиоти	inclusive
+BG255	n	pa	yes	адвока́т	inclusive
+BG359	n	cds	no	престъпник	inclusive
+BG873	n	om	no	инвалид	conservative
+BG725	n	qas	no	casteism	inclusive
+BG485	n	an	no	Домашно говедо	inclusive
+BG1755	n	pr	no	плъхове	inclusive
+BG158	n	cds	no	дървеняк	conservative
+BG570	n	cds	no	подлия	conservative
+BG617	n	cds	no	преча на	inclusive
+BG182	n	svp	no	7 смъртни гряха	inclusive
+BG1778	n	qas	no	риторичен	inclusive
+BG193	n	ddp	yes	назадничавост	inclusive
+BG1442	n	dmc	yes	калпазанин	inclusive
+BG745	n	cds	no	тълпя се	inclusive
+BG452	n	cds	no	непохватен човек	conservative
+BG535	n	cds	no	presumptuousness	conservative
+BG1621	n	cds	no	нужника	inclusive
+BG1055	n	an	no	ovis овен	inclusive
+BG1589	n	cds	no	разхвърлям	conservative
+BG2327	n	an	no	балон swallower	inclusive
+BG360	n	re	no	извън закона	inclusive
+BG309	n	cds	no	лъжа́	inclusive
+BG234	n	qas	no	коварния	conservative
+BG205	n	cds	no	bawdyhouse	inclusive
+BG1165	n	cds	no	трик	conservative
+BG1757	n	pr	no	rattus	inclusive
+BG1687	n	an	no	дундьо	conservative
+BG2083	n	re	no	plagiarisation	inclusive
+BG1452	n	ddf	yes	инвалидност	inclusive
+BG1274	n	an	no	кафяво прилепче	inclusive
+BG30	n	re	no	злоупотреба	inclusive
+BG572	n	cds	no	villainess	conservative
+BG268	n	an	no	мародер	conservative
+BG1045	n	om	no	dorsolateral	inclusive
+BG2125	n	cds	no	защита	inclusive
+BG1541	n	cds	no	Шайлок	inclusive
+BG523	n	qas	no	Буржоа	inclusive
+BG315	n	cds	no	дендита	inclusive
+BG1032	n	om	no	Анатомични термини за местоположение	inclusive
+BG1419	n	an	no	Хиенови	inclusive
+BG1122	a	cds	no	достоен за презрение	conservative
+BG1939	n	cds	no	хомункулус	inclusive
+BG1517	n	dmc	yes	казуист	inclusive
+BG294	n	pr	no	шлака	conservative
+BG761	n	asm	no	завинтване	conservative
+BG1145	n	cds	no	поощрявам	conservative
+BG1662	n	cds	no	нарушител	inclusive
+BG1197	n	an	no	бълхи	inclusive
+BG364	n	an	no	козел	inclusive
+BG1395	n	cds	no	прелат	inclusive
+BG1367	n	om	no	хомосексуалността	inclusive
+BG350	n	cds	no	банда	inclusive
+BG1480	a	ddp	yes	неук	conservative
+BG862	n	an	no	сови	inclusive
+BG1827	n	pa	yes	пастир	inclusive
+BG1450	n	ddf	yes	Инвалид	inclusive
+BG1481	a	ddp	yes	невеж	conservative
+BG2102	n	cds	no	пеленаче	inclusive
+BG158	n	asf	no	дървеняк	conservative
+BG64	n	an	no	бизон	inclusive
+BG776	n	or	no	poove	conservative
+BG789	n	om	no	Хомофил	inclusive
+BG2010	n	or	no	мърфи	inclusive
+BG918	n	cds	no	хунта	inclusive
+BG82	n	an	no	мързелан	conservative
+BG1323	n	re	no	крадливата	inclusive
+BG2031	n	cds	no	клюки	inclusive
+BG1969	n	qas	no	баща	inclusive
+BG2421	n	ps	yes	Циганският съд	inclusive
+BG1054	n	svp	no	чревоугодник	inclusive
+BG719	n	an	no	culex pipiens	inclusive
+BG942	n	cds	no	демагог	conservative
+BG153	n	ddp	yes	тъпак	inclusive
+BG238	n	an	no	варварство	inclusive
+BG1354	n	om	no	хомосексуалистите	inclusive
+BG370	n	cds	no	разказвач	conservative
+BG967	n	re	no	престъпление	inclusive
+BG82	n	cds	no	мързелан	conservative
+BG1341	n	pr	no	Проститутка	conservative
+BG818	n	cds	no	скрап	inclusive
+BG1923	n	re	no	убийството	inclusive
+BG622	n	cds	no	Сменени деца	inclusive
+BG1261	n	asf	no	Вагина	conservative
+BG2337	n	om	no	crossdress	inclusive
+BG399	n	cds	no	немарлив човек	conservative
+BG2145	n	re	no	отвличания	inclusive
+BG2386	n	an	no	червеи	inclusive
+BG480	n	pr	no	Теле	inclusive
+BG266	n	qas	no	baroqueness	inclusive
+BG2017	n	cds	no	всезнайко	conservative
+BG922	n	cds	no	бракувам	conservative
+BG336	n	pa	yes	нощен пазач	inclusive
+BG275	n	an	no	меко докосване	conservative
+BG484	n	pr	no	Крава	inclusive
+BG603	n	cds	no	мърша	inclusive
+BG1707	n	qas	no	Паразит	inclusive
+BG924	n	qas	no	отхвърли	conservative
+BG469	n	pr	no	добитък	inclusive
+BG1298	n	cds	no	крайно дясната крило	conservative
+BG103	n	an	no	folderol	conservative
+BG2350	n	asm	no	птица	inclusive
+BG1184	n	asm	no	риба	inclusive
+BG151	n	an	no	глупак	conservative
+BG19	n	svp	no	апатични	inclusive
+BG2204	v	re	no	крада	inclusive
+BG1409	n	qas	no	Колиба	inclusive
+BG1605	n	qas	no	сместа	inclusive
+BG1085	n	dmc	yes	delictum	inclusive
+BG1979	v	cds	no	спазаря се	inclusive
+BG1169	n	om	no	копър	inclusive
+BG22	n	qas	no	дякон	inclusive
+BG1421	n	an	no	hyaenidae	inclusive
+BG2298	n	cds	no	повърхностност	inclusive
+BG1139	n	cds	no	роднини	inclusive
+BG626	n	an	no	кучка	conservative
+BG151	n	or	no	глупак	conservative
+BG631	n	re	no	томахавката работа	inclusive
+BG583	n	cds	no	вътрешногруповото	inclusive
+BG817	n	cds	no	боклук	conservative
+BG325	n	ps	yes	beduin	inclusive
+BG624	n	ddp	yes	подменено	conservative
+BG361	n	cds	no	остракизъм	conservative
+BG796	n	ddp	yes	rumormonger	conservative
+BG948	n	pr	no	Куртизанка	inclusive
+BG2435	n	ps	yes	зулусите	inclusive
+BG223	a	svp	no	користолюбив	inclusive
+BG849	n	an	no	prickteaser	conservative
+BG231	n	ps	yes	варварин	conservative
+BG70	a	an	no	инат	inclusive
+BG71	a	an	no	упорит	inclusive
+BG242	n	pa	yes	адвокат	inclusive
+BG923	n	qas	no	избиване	conservative
+BG2242	n	ddp	yes	безумие	inclusive
+BG1171	n	om	no	сминд	inclusive
+BG1788	n	cds	no	нечистотии	inclusive
+BG871	n	asm	no	подлец	conservative
+BG92	n	qas	no	галиматия	inclusive
+BG1431	n	cds	no	Идолопоклонничество	inclusive
+BG806	n	cds	no	страхли́вец	conservative
+BG164	n	ddp	yes	невежа	conservative
+BG617	n	asf	no	преча на	conservative
+BG187	n	svp	no	скъперничество	inclusive
+BG2381	n	dmc	yes	Скитник	inclusive
+BG1426	n	qas	no	идеолог	inclusive
+BG1051	n	svp	no	каналокопател	inclusive
+BG273	n	cds	no	учена жена	inclusive
+BG1322	n	re	no	крадци	inclusive
+BG777	n	om	no	хоп	conservative
+BG779	n	or	no	педал	conservative
+BG400	n	an	no	мърляч	conservative
+BG2082	n	re	no	Плагиатство	inclusive
+BG81	n	svp	no	инертност	conservative
+BG112	n	an	no	anguillidae	inclusive
+BG1536	n	re	no	убиец	inclusive
+BG1941	n	dmc	yes	Трикстер	conservative
+BG160	n	asf	no	галфон	conservative
+BG2237	a	ps	yes	еврейски	inclusive
+BG456	n	pa	yes	касиер	inclusive
+BG1233	n	svp	no	унил човек	conservative
+BG820	n	cds	no	отпадъци	conservative
+BG93	n	qas	no	боклуци	inclusive
+BG1027	n	om	no	бедрата	inclusive
+BG1622	n	svp	no	мързеливец	conservative
+BG2044	n	an	no	humanus	inclusive
+BG544	n	cds	no	надменност	conservative
+BG1162	n	cds	no	фашистки	conservative
+BG275	n	asf	no	меко докосване	conservative
+BG1222	n	an	no	намръщване	inclusive
+BG516	n	om	no	sodomist	inclusive
+BG1066	n	cds	no	изобилие	inclusive
+BG1228	n	cds	no	фундаменталистки	inclusive
+BG786	n	om	no	гейовете	inclusive
+BG1330	n	qas	no	паразит	inclusive
+BG1061	n	cds	no	младежката престъпно	conservative
+BG446	n	cds	no	догматизъм	conservative
+BG2077	n	re	no	Пиратство	inclusive
+BG2379	n	pa	yes	cordwainer	inclusive
+BG358	n	cds	no	banditti	inclusive
+BG1670	n	cds	no	Ушев	conservative
+BG1804	n	an	no	Акули	inclusive
+BG1326	n	re	no	плячка	inclusive
+BG2259	n	qas	no	Блъдхаунд	inclusive
+BG232	n	dmc	yes	варварски	conservative
+BG1512	n	dmc	yes	pseud	conservative
+BG1629	n	an	no	мекотели	inclusive
+BG1697	n	cds	no	трина	conservative
+BG278	n	an	no	карък	conservative
+BG2412	n	dmc	yes	treasonist	conservative
+BG2008	n	or	no	картоф	inclusive
+BG1050	n	qas	no	развъдници	inclusive
+BG1397	n	dmc	yes	бездомни	inclusive
+BG459	n	an	no	zooerasty	conservative
+BG2274	a	re	no	бесен	inclusive
+BG2070	a	svp	no	арогантен	conservative
+BG1646	n	an	no	молец	inclusive
+BG1572	n	asm	no	пишка	inclusive
+BG1331	n	qas	no	tagalong	conservative
+BG650	n	cds	no	измет	conservative
+BG1030	n	om	no	дупак	inclusive
+BG428	n	dmc	yes	женкар	conservative
+BG231	n	pa	yes	варварин	conservative
+BG2384	n	cds	no	подкупност	inclusive
+BG1661	n	svp	no	luxuria	inclusive
+BG448	n	cds	no	хаймана	conservative
+BG2160	n	re	no	похитител	inclusive
+BG232	n	cds	no	варварски	conservative
+BG605	n	cds	no	казино	inclusive
+BG1408	n	qas	no	хижа	inclusive
+BG2378	n	om	no	плъзнете кралица	inclusive
+BG1950	v	cds	no	подслушвам	inclusive
+BG69	n	svp	no	любовта към себе си	conservative
+BG724	n	qas	no	каста	inclusive
+BG782	n	or	no	финансите	conservative
+BG690	n	svp	no	niggardliness	conservative
+BG1320	n	re	no	ограбване	inclusive
+BG1783	n	an	no	scorpionfish	inclusive
+BG1052	n	svp	no	ядач	inclusive
+BG1856	n	ddf	yes	половин пинта	conservative
+BG2397	n	an	no	Усойници	inclusive
+BG417	n	cds	no	страничен удар	inclusive
+BG894	n	cds	no	interfertility	inclusive
+BG1404	n	svp	no	преяждане	inclusive
+BG2352	n	asm	no	Птици	inclusive
+BG154	n	an	no	мухльо	conservative
+BG650	n	qas	no	измет	conservative
+BG2197	n	an	no	жаби	inclusive
+BG1720	n	svp	no	стотинка прищипване	inclusive
+BG337	n	pa	yes	пиколо	inclusive
+BG2213	n	an	no	Пиявици	inclusive
+BG1860	n	cds	no	Нарцисизъм	inclusive
+BG291	n	cds	no	сводница	inclusive
+BG1751	n	cds	no	пропагандатор	inclusive
+BG2387	n	an	no	личинка	inclusive
+BG591	n	cds	no	открит товарен вагон	inclusive
+BG925	n	cds	no	tricker	conservative
+BG282	n	or	no	глупав	conservative
+BG2205	a	qas	no	феодален	inclusive
+BG157	n	an	no	тъпако	conservative
+BG56	n	ddp	yes	идиотия	inclusive
+BG2315	n	re	no	агония	inclusive
+BG292	n	pr	no	проститутка	inclusive
+BG1664	n	svp	no	разврат	inclusive
+BG2414	n	ps	yes	rommany	inclusive
+BG11	n	svp	no	апатия	inclusive
+BG1550	n	an	no	насекоми	inclusive
+BG206	n	is	yes	стипца	conservative
+BG1441	a	dmc	yes	посредствен	conservative
+BG2333	n	om	no	преобличане	inclusive
+BG2076	n	re	no	plagiarise	inclusive
+BG343	n	dmc	yes	фанатизъм	conservative
+BG2402	n	an	no	Усойница	inclusive
+BG544	n	svp	no	надменност	conservative
+BG231	n	rci	yes	варварин	conservative
+BG798	n	ddp	yes	gossipmonger	conservative
+BG2103	a	an	no	животински	conservative
+BG2212	n	an	no	пиявици	inclusive
+BG1678	n	cds	no	Мафиот	inclusive
+BG2105	a	an	no	скотски	conservative
+BG1799	n	an	no	акула	inclusive
+BG784	n	or	no	странен	conservative
+BG2067	n	cds	no	wank	conservative
+BG1805	n	an	no	микроби	inclusive
+BG1018	n	om	no	задната	inclusive
+BG556	n	dmc	yes	отблъснат	inclusive
+BG135	n	an	no	анимирате е	inclusive
+BG1841	n	ps	yes	монголоидни	conservative
+BG1240	n	cds	no	Гангстер	inclusive
+BG1335	n	pr	no	блудство	conservative
+BG452	n	qas	no	непохватен човек	conservative
+BG1170	n	or	no	foeniculum vulgare	inclusive
+BG2302	n	re	no	тероризма	inclusive
+BG972	n	cds	no	незаконни дейности	inclusive
+BG582	n	an	no	cakehole	inclusive
+BG1256	n	asm	no	Бакла	inclusive
+BG801	n	qas	no	земляк	inclusive
+BG1719	n	an	no	Папагалоподобни	inclusive
+BG1644	n	pr	no	нощна пеперуда	inclusive
+BG1716	n	an	no	psittaciformes	inclusive
+BG227	n	cds	no	бандитизъм	conservative
+BG2159	n	re	no	капер	inclusive
+BG1339	n	pr	no	търговски сексуални	conservative
+BG1762	n	qas	no	Витиеват	inclusive
+BG1061	n	re	no	младежката престъпно	conservative
+BG103	n	cds	no	folderol	conservative
+BG36	n	cds	no	брокер	inclusive
+BG554	n	cds	no	семейството престъпност	inclusive
+BG2002	v	cds	no	издъхна	inclusive
+BG2312	n	asm	no	итифалически	inclusive
+BG1893	n	cds	no	Хиперсексуалност	conservative
+BG1152	n	qas	no	ратай	inclusive
+BG2119	a	dmc	yes	фалшив	conservative
+BG1639	n	an	no	culicidae	inclusive
+BG1952	n	cds	no	Лихвар	conservative
+BG2404	n	dmc	yes	отстъпник	conservative
+BG2426	n	cds	no	разбойничество	inclusive
+BG625	n	pr	no	развратница	conservative
+BG1564	n	qas	no	занаятчия	inclusive
+BG846	n	svp	no	taṇhā	inclusive
+BG265	n	qas	no	бароков	inclusive
+BG332	n	qas	no	послъгвам	conservative
+BG1747	n	svp	no	pridefulness	inclusive
+BG1953	n	cds	no	лихварство	conservative
+BG701	n	asm	no	кур	inclusive
+BG810	n	ddp	yes	шарлатанин	conservative
+BG1698	n	cds	no	селяндур	conservative
+BG1744	n	cds	no	prankishness	inclusive
+BG647	n	re	no	chiseller	inclusive
+BG460	n	an	no	zooerastia	conservative
+BG1083	n	cds	no	дървен философ	inclusive
+BG2369	n	cds	no	Конспиративната теория	inclusive
+BG2107	a	ddf	yes	незрящ	inclusive
+BG829	n	an	no	дървеница	inclusive
+BG233	n	rci	yes	дивак	conservative
+BG1238	n	cds	no	гангстер	inclusive
+BG1974	n	an	no	Червеи	inclusive
+BG728	n	pa	yes	професори	inclusive
+BG343	n	svp	no	фанатизъм	conservative
+BG939	n	cds	no	демагогски	conservative
+BG1849	n	an	no	комарче	inclusive
+BG2297	n	cds	no	trasformismo	inclusive
+BG1839	n	an	no	охлюв	inclusive
+BG1897	n	qas	no	наемател земеделие	inclusive
+BG1681	n	ps	yes	Остготи	inclusive
+BG497	n	asm	no	Кафяво	inclusive
+BG58	n	ddp	yes	интелектуални затруднения	inclusive
+BG432	n	cds	no	пропуск	inclusive
+BG781	n	or	no	queer	conservative
+BG2058	n	cds	no	религиозна дискриминация	inclusive
+BG2321	n	re	no	измъчват	inclusive
+BG1596	n	ps	yes	метеките	inclusive
+BG2364	n	cds	no	Теории на конспирацията	inclusive
+BG518	n	qas	no	професионален клас	inclusive
+BG1242	n	re	no	гангстери	inclusive
+BG1212	n	cds	no	Масон	inclusive
+BG2260	n	qas	no	bloodhound	inclusive
+BG291	n	cds	no	сводница	conservative
+BG809	n	cds	no	страхливост	conservative
+BG1595	n	ps	yes	metic	inclusive
+BG453	n	an	no	body snatchers	inclusive
+BG1961	n	an	no	пепелянка	inclusive
+BG1400	n	qas	no	художник и декоратор	inclusive
+BG1861	n	cds	no	нарцистичен	inclusive
+BG483	n	pr	no	bos primigenius taurus	inclusive
+BG137	n	ddp	yes	животинско възпроизводство	inclusive
+BG659	n	an	no	псе	inclusive
+BG763	n	asm	no	шибан	conservative
+BG1006	n	dmc	yes	лицемер	conservative
+BG1341	n	pr	no	Проститутка	inclusive
+BG1926	n	re	no	детектив	inclusive
+BG556	n	cds	no	отблъснат	conservative
+BG230	n	cds	no	грубиян	conservative
+BG473	n	pr	no	bos taurus	inclusive
+BG1071	n	cds	no	slews	inclusive
+BG1728	n	dmc	yes	Зло	inclusive
+BG621	n	cds	no	changelings	inclusive
+BG2279	n	an	no	lampyris noctiluca	inclusive
+BG82	n	dmc	yes	мързелан	conservative
+BG1647	n	an	no	гримаса	inclusive
+BG2346	n	pr	no	Хетера	inclusive
+BG978	n	an	no	diddlyshit	conservative
+BG97	n	asm	no	maxilliped	inclusive
+BG2418	n	ps	yes	Циганин	inclusive
+BG1645	n	an	no	молци	inclusive
+BG437	n	qas	no	бу-бу	inclusive
+BG1764	n	qas	no	Реторическо	inclusive
+BG626	n	an	no	кучка	inclusive
+BG55	n	ddp	yes	пълна тъпота	inclusive
+BG1451	n	ddf	yes	недъгавост	inclusive
+BG377	n	cds	no	зло	conservative
+BG360	n	dmc	yes	извън закона	inclusive
+BG1213	n	cds	no	Масонска	inclusive
+BG854	n	asm	no	credulousness	conservative
+BG1814	n	an	no	animalcules	inclusive
+BG902	n	qas	no	Конформизъм	inclusive
+BG2053	n	an	no	въшка	inclusive
+BG1638	n	cds	no	нравоучителен	inclusive
+BG793	n	om	no	Хомофилско движение	conservative
+BG977	n	cds	no	престъпници	inclusive
+BG1209	n	cds	no	масонството	inclusive
+BG354	n	cds	no	група	inclusive
+BG584	n	cds	no	клика	inclusive
+BG1900	n	an	no	гъсок	inclusive
+BG1398	n	dmc	yes	бездомен човек	inclusive
+BG2283	n	re	no	raper	conservative
+BG2430	n	an	no	little owl	inclusive
+BG226	n	cds	no	разбойник	inclusive
+BG675	n	cds	no	японски мерни единици	inclusive
+BG1430	n	asf	no	момиче	conservative
+BG401	n	an	no	свиня	inclusive
+BG539	n	ps	yes	български	inclusive
+BG338	a	ddp	yes	глупав	conservative
+BG1140	n	cds	no	фратрия	inclusive
+BG850	n	an	no	кокетка	conservative
+BG1340	n	pr	no	джон	conservative
+BG586	n	cds	no	приближени хора	inclusive
+BG181	n	svp	no	седемте смъртни гряха	inclusive
+BG1366	n	om	no	хомосексуалност	inclusive
+BG2105	a	ddp	yes	скотски	conservative
+BG1599	n	or	no	щателност	inclusive
+BG1561	n	qas	no	складодържателя	inclusive
+BG558	n	cds	no	негодник	inclusive
+BG1865	n	ps	yes	nigra	conservative
+BG1101	n	an	no	аспержи	inclusive
+BG148	n	or	no	тиква	inclusive
+BG2234	n	an	no	чакали	inclusive
+BG2179	a	qas	no	делничен	inclusive
+BG226	n	re	no	разбойник	conservative
+BG852	n	an	no	флиртаджийка	conservative
+BG102	n	asf	no	codswallop	conservative
+BG1127	n	dmc	yes	Либертинство	conservative
+BG220	n	asm	no	Семенници	inclusive
+BG907	n	or	no	вагина	conservative
+BG936	n	dmc	yes	измамни	conservative
+BG2117	a	svp	no	самомнителен	conservative
+BG1543	n	cds	no	loansharking	conservative
+BG2006	n	or	no	tater	inclusive
+BG853	n	asm	no	наивност	conservative
+BG431	n	qas	no	гаф	inclusive
+BG804	n	ddp	yes	издайник	conservative
+BG1410	n	qas	no	коптор	inclusive
+BG327	n	ps	yes	бедуините	inclusive
+BG2409	n	dmc	yes	изме́нник	conservative
+BG1434	n	cds	no	идолопокло́нничество	inclusive
+BG234	n	rci	yes	коварния	conservative
+BG624	n	asf	no	подменено	conservative
+BG270	n	cds	no	blackballing	inclusive
+BG322	n	ps	yes	Бедуини	inclusive
+BG964	n	asm	no	doofus	conservative
+BG2222	n	an	no	Хлебарки	inclusive
+BG1205	n	asm	no	Препуциум	inclusive
+BG2374	n	ps	yes	циганин	conservative
+BG2347	n	pr	no	hetaira	inclusive
+BG2249	n	an	no	sciaenops ocellatus	inclusive
+BG743	n	cds	no	навалица	inclusive
+BG189	n	ddp	yes	пратера	conservative
+BG1672	n	cds	no	мафия	conservative
+BG788	n	om	no	педера́ст	conservative
+BG1302	a	cds	no	противозаконен	inclusive
+BG697	n	an	no	вулгарност	conservative
+BG1854	n	cds	no	крадец	inclusive
+BG233	n	ddp	yes	дивак	conservative
+BG1135	n	svp	no	безделие	inclusive
+BG1789	n	cds	no	непречистени канални води	inclusive
+BG1801	n	an	no	selachii	inclusive
+BG890	n	ps	yes	кръстосвани	inclusive
+BG860	n	an	no	strigiformes	inclusive
+BG969	n	cds	no	правонарушения	inclusive
+BG2384	n	cds	no	подкупност	conservative
+BG1934	n	re	no	пускането на смърт	inclusive
+BG912	n	or	no	краставици	inclusive
+BG1204	n	asm	no	препуциума	inclusive
+BG976	n	cds	no	престъпления	inclusive
+BG2020	a	cds	no	взискателен	conservative
+BG410	n	ddp	yes	лайно	conservative
+BG2087	a	dmc	yes	подправен	conservative
+BG963	n	ps	yes	простак	conservative
+BG592	n	cds	no	влак багаж	inclusive
+BG40	n	cds	no	брокери	inclusive
+BG1581	n	svp	no	яд	inclusive
+BG279	n	asf	no	будала	conservative
+BG1516	n	svp	no	развратност	inclusive
+BG309	n	cds	no	лъжа́	conservative
+BG2113	a	cds	no	канцеларски	inclusive
+BG1123	n	is	yes	нещастник	conservative
+BG792	n	or	no	хомосексуалист	conservative
+BG1285	n	qas	no	слухтя	inclusive
+BG1696	n	dmc	yes	селяк	conservative
+BG1562	n	qas	no	магазинер	inclusive
+BG1283	n	cds	no	шилото	conservative
+BG1182	n	cds	no	wangler	conservative
+BG1168	n	or	no	взискателност	inclusive
+BG754	n	asm	no	дяволите	conservative
+BG1230	n	an	no	ярост	inclusive
+BG774	n	cds	no	кореспонденти	inclusive
+BG1597	n	or	no	meticulosity	inclusive
+BG566	n	svp	no	безделник	conservative
+BG2336	n	om	no	травестит	inclusive
+BG57	n	ddp	yes	умствено изостанал	inclusive
+BG73	n	om	no	анално сношение	inclusive
+BG141	n	re	no	изнасилена	conservative
+BG2067	n	asm	no	wank	conservative
+BG450	n	dmc	yes	некадърник	conservative
+BG619	n	ddp	yes	кретен	conservative
+BG2221	n	an	no	хлебарки	inclusive
+BG2330	n	pa	yes	бели якички работници	inclusive
+BG1973	n	an	no	червей	inclusive
+BG2338	n	om	no	crossdresser	inclusive
+BG2432	n	an	no	Кукумявка	inclusive
+BG922	n	qas	no	бракувам	conservative
+BG430	n	qas	no	изпортвам	inclusive
+BG534	n	cds	no	наглост	conservative
+BG1746	n	svp	no	гордост	inclusive
+BG138	n	ddp	yes	epifauna	inclusive
+BG2081	n	re	no	плагиатства	inclusive
+BG153	n	or	no	тъпак	conservative
+BG843	n	svp	no	стремеж	inclusive
+BG618	n	asf	no	идиот	conservative
+BG2088	a	dmc	yes	фалшифициран	conservative
+BG2177	n	qas	no	тържественост	inclusive
+BG1732	n	asm	no	грахово растение	inclusive
+BG1003	n	svp	no	неприя́зън	inclusive
+BG41	n	pa	yes	научна	inclusive
+BG91	n	qas	no	миш-маш	inclusive
+BG1148	n	cds	no	pandar	conservative
+BG1838	n	an	no	молуска	inclusive
+BG748	n	svp	no	похотливост	inclusive
+BG504	n	qas	no	селянин	inclusive
+BG826	n	an	no	слушане устройство	inclusive
+BG757	n	asm	no	shtup	conservative
+BG160	n	or	no	галфон	conservative
+BG2183	n	an	no	Жаби	inclusive
+BG1698	n	dmc	yes	селяндур	conservative
+BG262	n	qas	no	барон	inclusive
+BG243	n	pa	yes	дипломатически ранг	inclusive
+BG46	n	pa	yes	академичен	inclusive
+BG152	n	ddp	yes	балама	conservative
+BG706	n	cds	no	проблем	conservative
+BG1335	n	pr	no	блудство	inclusive
+BG250	n	pa	yes	advocator	inclusive
+BG1753	n	cds	no	изнудвач	inclusive
+BG280	n	or	no	pillock	conservative
+BG188	n	svp	no	скъперник	inclusive
+BG1970	n	dmc	yes	клоун	inclusive
+BG219	n	qas	no	тестисите	inclusive
+BG1921	n	re	no	Убийство	inclusive
+BG1014	n	om	no	задния край	inclusive
+BG568	n	cds	no	тълпата	inclusive
+BG1159	n	qas	no	грейнджър	inclusive
+BG1770	n	qas	no	Красноречие	inclusive
+BG1474	n	svp	no	бездействие	inclusive
+BG614	n	cds	no	страхливец	conservative
+BG1301	v	asm	no	шибам	conservative
+BG2239	n	cds	no	Сциентизъм	inclusive
+BG2431	n	an	no	athene noctua	inclusive
+BG2003	v	cds	no	издъхвам	inclusive
+BG463	n	svp	no	скука	inclusive
+BG213	n	qas	no	ballock	inclusive
+BG1706	n	qas	no	паразити	inclusive
+BG2126	n	cds	no	застъпничество	inclusive
+BG293	n	pr	no	жена на улицата	conservative
+BG352	n	cds	no	банди	inclusive
+BG413	n	cds	no	кучи син	conservative
+BG1375	n	ps	yes	Юдейство	inclusive
+BG2356	n	cds	no	канализационна система	inclusive
+BG560	n	dmc	yes	еди-кой си	inclusive
+BG217	n	qas	no	teste	inclusive
+BG928	n	om	no	дама	inclusive
+BG160	n	an	no	галфон	conservative
+BG947	n	pr	no	куртизанки	inclusive
+BG1749	n	cds	no	superbia	conservative
+BG1141	n	cds	no	семейство	inclusive
+BG1650	n	dmc	yes	моцарела	inclusive
+BG1292	n	svp	no	нехранимайко	conservative
+BG236	n	dmc	yes	варвари	conservative
+BG1225	n	cds	no	Фундаментализъм	inclusive
+BG1405	n	qas	no	домакинска работа	inclusive
+BG466	n	svp	no	досада	inclusive
+BG99	a	svp	no	агресивен	inclusive
+BG2302	n	re	no	тероризма	conservative
+BG2013	v	cds	no	ям лакомо	inclusive
+BG1125	n	dmc	yes	Либертинизъм	conservative
+BG1672	n	cds	no	мафия	inclusive
+BG885	n	an	no	Крокодилови	inclusive
+BG2300	n	re	no	Терорист	inclusive
+BG128	n	ddp	yes	animalia	inclusive
+BG959	n	an	no	крадецът	inclusive
+BG240	n	qas	no	търговец	inclusive
+BG974	n	re	no	престъпна дейност	inclusive
+BG570	n	dmc	yes	подлия	conservative
+BG944	n	pr	no	наложници	inclusive
+BG2375	n	ps	yes	мангал	conservative
+BG1819	n	an	no	ovis aries	inclusive
+BG787	n	om	no	Гей мъж	inclusive
+BG612	n	an	no	смешници	conservative
+BG2286	n	re	no	насилвани	inclusive
+BG1276	n	an	no	pipistrellus	inclusive
+BG1870	n	ps	yes	Чернокож	inclusive
+BG1955	n	cds	no	лихва	conservative
+BG847	n	ddp	yes	глупост	conservative
+BG907	n	asf	no	вагина	conservative
+BG1796	n	pr	no	отрепка	inclusive
+BG84	n	qas	no	оръженосец	inclusive
+BG710	n	cds	no	затруднение	conservative
+BG2173	a	dmc	yes	нечист	inclusive
+BG2265	a	ddf	yes	неприятен	conservative
+BG136	n	an	no	metazoans	inclusive
+BG510	n	qas	no	бизнес човек	inclusive
+BG1257	n	asm	no	широк боб	inclusive
+BG244	n	pa	yes	застъпник	inclusive
+BG1388	n	cds	no	стада	inclusive
+BG1057	n	pa	yes	охрана вратата	inclusive
+BG622	n	ddp	yes	Сменени деца	inclusive
+BG844	n	svp	no	tanha	inclusive
+BG331	n	an	no	измислица	conservative
+BG392	n	qas	no	индустриалец	inclusive
+BG1653	n	an	no	бавен човек	conservative
+BG1609	n	cds	no	измийте стая	inclusive
+BG9	n	svp	no	Леност	inclusive
+BG375	n	cds	no	интригант	inclusive
+BG786	n	om	no	гейовете	conservative
+BG946	n	pr	no	любовница	inclusive
+BG889	n	ps	yes	хибрид	inclusive
+BG1642	n	an	no	Комари	inclusive
+BG863	n	an	no	атина noctua	inclusive
+BG436	n	cds	no	груба грешка	inclusive
+BG159	n	an	no	knucklehead	conservative
+BG1915	n	an	no	къ̀рлеж	inclusive
+BG231	n	cds	no	варварин	conservative
+BG2267	a	ddf	yes	противен	conservative
+BG848	n	an	no	vamper	conservative
+BG2184	n	an	no	Безопашато земноводно	inclusive
+BG74	n	ddp	yes	содомия	conservative
+BG1074	n	cds	no	черноработник	inclusive
+BG1075	n	ddf	yes	джудже	conservative
+BG271	n	cds	no	blackball	inclusive
+BG1492	n	cds	no	Учител	inclusive
+BG537	n	ps	yes	Българи	inclusive
+BG1683	n	cds	no	мафиот	conservative
+BG1601	n	cds	no	даскалица	conservative
+BG481	n	pr	no	говеда	inclusive
+BG796	n	cds	no	rumormonger	conservative
+BG1972	n	dmc	yes	клоуни	inclusive
+BG899	n	cds	no	новобранец	conservative
+BG805	n	pr	no	му-крава	inclusive
+BG429	n	dmc	yes	развратник	conservative
+BG234	n	cds	no	коварния	conservative
+BG1138	n	cds	no	коляно	inclusive
+BG122	n	an	no	животно	inclusive
+BG157	n	or	no	тъпако	conservative
+BG1070	n	cds	no	gobs	inclusive
+BG2311	n	asm	no	фалически	inclusive
+BG950	n	pr	no	куртизанка	inclusive
+BG143	n	re	no	изнасилване	conservative
+BG794	n	or	no	хомосексуали́ст	conservative
+BG1263	n	asf	no	влагалището	conservative
+BG752	n	svp	no	физическото привличане	inclusive
+BG565	n	cds	no	layabout	conservative
+BG1825	n	asm	no	Глупости	conservative
+BG1441	a	is	yes	посредствен	conservative
+BG2142	n	re	no	похитителите	inclusive
+BG920	n	or	no	cuke	inclusive
+BG647	n	cds	no	chiseller	inclusive
+BG87	n	cds	no	лудория	inclusive
+BG52	n	pa	yes	академици	inclusive
+BG1237	n	dmc	yes	скитало	inclusive
+BG1527	a	is	yes	тъжен	inclusive
+BG1949	a	cds	no	обикновен	inclusive
+BG211	n	asm	no	тестис	inclusive
+BG2189	n	an	no	anuran	inclusive
+BG2132	n	pr	no	дрънканици	conservative
+BG2279	n	pr	no	lampyris noctiluca	inclusive
+BG1100	n	qas	no	дилетант	conservative
+BG816	n	qas	no	смет	inclusive
+BG381	n	ps	yes	Черно	inclusive
+BG120	n	an	no	anguilliformes	inclusive
+BG910	n	or	no	минджа	conservative
+BG1459	n	ddp	yes	безсмислен	conservative
+BG1199	n	cds	no	палячовщина	inclusive
+BG1414	n	cds	no	бързат	conservative
+BG1340	n	pr	no	джон	inclusive
+BG799	n	cds	no	rumourmonger	conservative
+BG200	n	cds	no	бардак	inclusive
+BG2372	n	cds	no	Теория на конспирацията	inclusive
+BG2093	n	an	no	пилета	inclusive
+BG1185	n	asm	no	меки лъчи	inclusive
+BG2355	n	asm	no	нощуване	inclusive
+BG1627	n	an	no	mollusca	inclusive
+BG155	n	asm	no	абдал	conservative
+BG1659	n	cds	no	маниак	conservative
+BG1833	n	qas	no	печати	inclusive
+BG770	n	cds	no	newswriter	inclusive
+BG450	n	ddp	yes	некадърник	conservative
+BG1309	n	an	no	свине	inclusive
+BG1620	n	cds	no	тоалетни	inclusive
+BG1815	n	ddp	yes	nanocephaly	inclusive
+BG1149	n	cds	no	сводничество	inclusive
+BG27	n	re	no	Злоупотреба	inclusive
+BG932	n	re	no	дата-изнасилване	conservative
+BG1753	n	re	no	изнудвач	inclusive
+BG195	n	cds	no	Бордей	inclusive
+BG749	n	svp	no	сексуалното желание	inclusive
+BG101	a	svp	no	войнствен	conservative
+BG611	n	is	yes	социален аутсайдер	inclusive
+BG1890	n	cds	no	хиперсексуалност	conservative
+BG411	n	ddp	yes	копеле	conservative
+BG1086	n	pa	yes	служител	inclusive
+BG1076	n	ddf	yes	nanus	conservative
+BG471	n	pr	no	Бик	inclusive
+BG509	n	qas	no	бизнесмен	inclusive
+BG1429	n	asf	no	маце	conservative
+BG2219	n	cds	no	главорез	conservative
+BG408	n	cds	no	strikebreakers	inclusive
+BG1569	n	asm	no	пениса	inclusive
+BG168	n	an	no	equus africanus asinus	inclusive
+BG1997	v	cds	no	почивам	inclusive
+BG2039	n	cds	no	complainer	conservative
+BG1247	n	cds	no	фашизма	conservative
+BG1971	n	dmc	yes	смешник	inclusive
+BG389	n	qas	no	Магнати	inclusive
+BG969	n	re	no	правонарушения	inclusive
+BG128	n	an	no	animalia	inclusive
+BG18	n	svp	no	нечувствителност	inclusive
+BG971	n	re	no	закононарушение	inclusive
+BG1246	n	cds	no	фашисткия режим	conservative
+BG2161	n	re	no	kidnaper	inclusive
+BG65	n	an	no	american биволско	inclusive
+BG1555	n	an	no	насеко́мо	inclusive
+BG344	n	dmc	yes	тесногръдие	conservative
+BG1554	n	an	no	insecta	inclusive
+BG609	n	dmc	yes	нещо изхвърлено	inclusive
+BG709	n	cds	no	пречка	conservative
+BG2061	a	svp	no	враждебен	inclusive
+BG1316	n	cds	no	мерзавец	conservative
+BG1718	n	an	no	Папагал	inclusive
+BG968	n	cds	no	престъпни дейности	inclusive
+BG2098	n	cds	no	неонатална	inclusive
+BG691	n	svp	no	tightfistedness	conservative
+BG1964	n	an	no	Лешоядите в България	inclusive
+BG1705	n	qas	no	ендопаразити	inclusive
+BG973	n	cds	no	престъпно поведение	inclusive
+BG356	n	re	no	мошеник	conservative
+BG1959	n	ps	yes	Асдинги	inclusive
+BG77	n	om	no	Аналния секс	inclusive
+BG1622	n	dmc	yes	мързеливец	conservative
+BG981	n	an	no	diddly-клек	conservative
+BG810	n	cds	no	шарлатанин	conservative
+BG2317	n	re	no	мъки	inclusive
+BG1984	n	cds	no	новобогаташката	inclusive
+BG1930	n	re	no	Слейър	inclusive
+BG1869	n	ps	yes	негърка	inclusive
+BG820	n	qas	no	отпадъци	inclusive
+BG560	n	cds	no	еди-кой си	conservative
+BG165	n	an	no	не знам нищо	conservative
+BG125	n	an	no	animal	inclusive
+BG1975	n	cds	no	грешка на езика	inclusive
+BG1993	n	qas	no	неприятности машина	conservative
+BG1708	n	qas	no	Паразити	inclusive
+BG162	n	ddp	yes	dumbass	conservative
+BG451	n	ddp	yes	blunderer	conservative
+BG1975	n	an	no	грешка на езика	inclusive
+BG1918	n	re	no	убийци	inclusive
+BG1697	n	dmc	yes	трина	conservative
+BG615	n	an	no	мижитурка	conservative
+BG1199	n	dmc	yes	палячовщина	inclusive
+BG2063	a	svp	no	разгневен	inclusive
+BG2288	n	re	no	сексуални нападения	inclusive
+BG390	n	qas	no	магнат	inclusive
+BG162	n	an	no	dumbass	conservative
+BG1737	n	an	no	прасенце	inclusive
+BG236	n	qas	no	варвари	conservative
+BG1888	n	ps	yes	други раси	inclusive
+BG493	n	asm	no	кафяв	inclusive
+BG575	n	cds	no	cacography	inclusive
+BG1423	n	cds	no	crooners	inclusive
+BG267	n	qas	no	бароковата архитектура	inclusive
+BG549	n	cds	no	Суета	conservative
+BG176	n	om	no	мага́ре	inclusive
+BG1490	n	cds	no	учители	inclusive
+BG818	n	qas	no	скрап	inclusive
+BG1507	n	dmc	yes	морална несъстоятелност	inclusive
+BG624	n	ps	yes	подменено	conservative
+BG235	n	cds	no	Варвари	conservative
+BG361	n	dmc	yes	остракизъм	inclusive
+BG546	n	svp	no	високомерие	conservative
+BG1922	n	re	no	убийства	inclusive
+BG2216	n	an	no	Пиявица	inclusive
+BG279	n	asm	no	будала	conservative
+BG570	n	an	no	подлия	conservative
+BG2257	a	is	yes	беден	inclusive
+BG867	n	qas	no	екипажа	inclusive
+BG156	n	asm	no	палячо	conservative
+BG2015	n	cds	no	педантичен	conservative
+BG1749	n	cds	no	superbia	inclusive
+BG1126	n	dmc	yes	libertinism	conservative
+BG2068	n	asm	no	чекия	conservative
+BG403	n	cds	no	пес	inclusive
+BG2128	n	pr	no	лека жена	conservative
+BG1116	n	an	no	морския скорпион	inclusive
+BG1998	v	cds	no	умре	inclusive
+BG841	n	cds	no	лъжливост	inclusive
+BG1418	n	an	no	hyaena	inclusive
+BG1781	n	qas	no	Реторик	inclusive
+BG792	n	om	no	хомосексуалист	inclusive
+BG161	n	an	no	fuckhead	conservative
+BG1390	n	cds	no	Стадо	inclusive
+BG705	n	asm	no	петел	inclusive
+BG276	n	asf	no	изкупителна жертва	conservative
+BG1683	n	re	no	мафиот	conservative
+BG623	n	ddp	yes	малоумник	inclusive
+BG1219	n	cds	no	Франкмасон	inclusive
+BG590	n	ddp	yes	Затворниците	inclusive
+BG2296	n	cds	no	conventicle	inclusive
+BG257	n	an	no	кученце	inclusive
+BG1722	n	cds	no	забава	inclusive
+BG1206	n	asm	no	фаул	inclusive
+BG1765	n	qas	no	Реторични	inclusive
+BG1727	n	dmc	yes	злото	inclusive
+BG1524	a	is	yes	натъжен	inclusive
+BG1616	n	cds	no	тоалетна	inclusive
+BG1929	n	re	no	Слеър	inclusive
+BG129	n	an	no	metazoa	inclusive
+BG152	n	asf	no	балама	conservative
+BG791	n	om	no	homophile	inclusive
+BG94	n	cds	no	пъстро-gatherum	inclusive
+BG2278	n	ddp	yes	hooey	inclusive
+BG245	n	pa	yes	специален пратеник	inclusive
+BG1576	n	svp	no	завист	inclusive
+BG1670	n	cds	no	Ушев	inclusive
+BG1742	n	pa	yes	хамалин	inclusive
+BG503	n	qas	no	селяни	inclusive
+BG1183	n	asm	no	pterygiophore	inclusive
+BG952	n	pr	no	придворен	inclusive
+BG1988	n	cds	no	новобогаташите богатство	inclusive
+BG1872	n	ps	yes	negroids	inclusive
+BG2354	n	asm	no	aves	inclusive
+BG1465	n	is	yes	бедността	inclusive
+BG244	n	cds	no	застъпник	inclusive
+BG2022	n	dmc	yes	несериозен човек	conservative
+BG1978	n	qas	no	използвач	conservative
+BG1779	n	qas	no	красноречие	inclusive
+BG794	n	om	no	хомосексуали́ст	conservative
+BG1180	n	dmc	yes	смрад	conservative
+BG154	n	asm	no	мухльо	conservative
+BG1342	n	pr	no	сексуални услуги	conservative
+BG1167	n	re	no	изнудват	inclusive
+BG1280	n	cds	no	nosy-parker	conservative
+BG536	n	ps	yes	Българска народност	inclusive
+BG1075	n	an	no	джудже	conservative
+BG39	n	cds	no	фактор	inclusive
+BG2000	v	cds	no	почина	inclusive
+BG549	n	svp	no	Суета	conservative
+BG2055	n	an	no	Въшки	inclusive
+BG1036	n	om	no	опашната	inclusive
+BG1396	n	cds	no	йерарх	inclusive
+BG129	n	ddp	yes	metazoa	inclusive
+BG882	n	an	no	crocodilia	inclusive
+BG809	n	cds	no	страхливост	inclusive
+BG308	n	cds	no	неистина	conservative
+BG2027	a	om	no	анормален	inclusive
+BG310	n	cds	no	лъжа	conservative
+BG1467	n	is	yes	бедняци	inclusive
+BG486	n	pr	no	Крави	inclusive
+BG616	n	cds	no	банален	conservative
+BG1005	n	dmc	yes	преструвка	conservative
+BG871	n	ddp	yes	подлец	conservative
+BG1668	n	cds	no	офицер	conservative
+BG284	n	ddp	yes	pudden главата	conservative
+BG1623	n	cds	no	страхливците	conservative
+BG815	n	cds	no	старо желязо	conservative
+BG1113	n	dmc	yes	моралистка	inclusive
+BG1146	n	cds	no	сводник	conservative
+BG230	n	ddp	yes	грубиян	conservative
+BG251	n	pa	yes	поддръжник	inclusive
+BG556	n	an	no	отблъснат	conservative
+BG151	n	asm	no	глупак	conservative
+BG975	n	cds	no	престъпно деяние	inclusive
+BG352	n	cds	no	банди	conservative
+BG1854	n	re	no	крадец	inclusive
+BG278	n	ps	yes	карък	conservative
+BG2301	n	re	no	Тероризмът	inclusive
+BG1181	n	cds	no	finagler	conservative
+BG1559	n	cds	no	backtalk	inclusive
+BG124	n	an	no	животни	inclusive
+BG974	n	cds	no	престъпна дейност	inclusive
+BG954	a	ddp	yes	лековерен	conservative
+BG130	n	an	no	макрофауна	inclusive
+BG729	n	pa	yes	стол	inclusive
+BG100	a	svp	no	нападателен	inclusive
+BG107	n	cds	no	ревността	inclusive
+BG649	n	cds	no	нахалство	conservative
+BG2238	a	qas	no	средновековен	inclusive
+BG1296	n	cds	no	ултраконсервативно	conservative
+BG232	n	qas	no	варварски	conservative
+BG375	n	cds	no	интригант	conservative
+BG2151	n	re	no	обир	inclusive
+BG645	n	re	no	камората	inclusive
+BG1097	n	asm	no	трудно	inclusive
+BG290	n	an	no	курва	conservative
+BG1238	n	dmc	yes	гангстер	inclusive
+BG1349	n	om	no	мъжката сексуалност	inclusive
+BG2078	n	re	no	Пират	inclusive
+BG154	n	ddp	yes	мухльо	conservative
+BG235	n	ddp	yes	Варвари	conservative
+BG917	n	cds	no	камарила	inclusive
+BG228	n	cds	no	Бандитизъм	inclusive
+BG231	n	qas	no	варварин	conservative
+BG280	n	cds	no	pillock	conservative
+BG288	n	pr	no	блудница	conservative
+BG2224	n	an	no	blattaria	inclusive
+BG2344	n	om	no	травестити	inclusive
+BG355	n	re	no	измамник	inclusive
+BG1868	n	ps	yes	darkie	conservative
+BG785	n	om	no	гей	conservative
+BG2052	n	an	no	въшки	inclusive
+BG504	n	rci	yes	селянин	inclusive
+BG118	n	an	no	змиорки	inclusive
+BG435	n	qas	no	flub	inclusive
+BG570	n	re	no	подлия	conservative
+BG155	n	ddp	yes	абдал	inclusive
+BG570	n	is	yes	подлия	conservative
+BG619	n	asf	no	кретен	conservative
+BG2335	n	om	no	кръстосани скринове	inclusive
+BG1243	n	cds	no	фашизъм	conservative
+BG1787	n	cds	no	битови отпадъчни води	inclusive
+BG426	n	an	no	рогоносец	conservative
+BG423	n	pa	yes	собственик на погребално бюро	inclusive
+BG963	n	ddp	yes	простак	conservative
+BG622	n	ddp	yes	Сменени деца	conservative
+BG292	n	an	no	проститутка	conservative
+BG224	n	qas	no	баласт	inclusive
+BG1766	n	qas	no	Риторика	inclusive
+BG1239	n	cds	no	Гангстеризъм	inclusive
+BG1504	n	cds	no	scrawler	conservative
+BG167	n	an	no	Магаре	inclusive
+BG222	a	svp	no	алчен	inclusive
+BG241	n	pa	yes	министър	inclusive
+BG1112	n	dmc	yes	морал	inclusive
+BG449	n	dmc	yes	зверчето	conservative
+BG2341	n	om	no	transvestitism	inclusive
+BG2188	n	an	no	salientian	inclusive
+BG810	n	dmc	yes	шарлатанин	conservative
+BG1856	n	cds	no	половин пинта	conservative
+BG1894	n	cds	no	сатири	conservative
+BG731	n	pa	yes	проф.	inclusive
+BG1412	n	cds	no	Хюбрис	inclusive
+BG764	n	an	no	заек	inclusive
+BG991	n	ps	yes	krauthead	conservative
+BG2373	n	cds	no	теоретиците на конспирацията	inclusive
+BG2057	n	an	no	Пухояд	inclusive
+BG571	n	an	no	злодей	conservative
+BG1241	n	cds	no	Бандит	inclusive
+BG1115	n	dmc	yes	морални ценности	inclusive
+BG1520	a	svp	no	ленив	conservative
+BG662	n	om	no	педофилът	conservative
+BG285	n	ddp	yes	лапа	conservative
+BG1816	n	ddp	yes	microcephalic	inclusive
+BG1053	n	svp	no	gourmandizer	inclusive
+BG1539	n	cds	no	лихварството	conservative
+BG2103	a	ddp	yes	животински	conservative
+BG623	n	ps	yes	малоумник	conservative
+BG1497	n	cds	no	преподавател	inclusive
+BG1284	n	qas	no	snooper	inclusive
+BG1877	n	ps	yes	черни жени	inclusive
+BG1173	n	om	no	резене	inclusive
+BG1007	n	dmc	yes	лицемерно	conservative
+BG626	n	pr	no	кучка	conservative
+BG278	n	asm	no	карък	conservative
+BG1013	n	om	no	глутеалната област	inclusive
+BG1121	n	cds	no	злодея	conservative
+BG1488	n	cds	no	помпозност	inclusive
+BG533	n	cds	no	егоистично	conservative
+BG2410	n	dmc	yes	преда́тел	conservative
+BG218	n	asm	no	топки	inclusive
+BG1442	n	cds	no	калпазанин	conservative
+BG1103	n	qas	no	аматьор	inclusive
+BG847	n	asm	no	глупост	conservative
+BG1001	n	svp	no	отвращение	inclusive
+BG410	n	cds	no	лайно	conservative
+BG1618	n	cds	no	лъв	inclusive
+BG480	n	an	no	Теле	inclusive
+BG2068	n	cds	no	чекия	conservative
+BG1485	n	an	no	inexorableness	conservative
+BG1812	n	an	no	animalculum	inclusive
+BG2029	a	om	no	неправилен	inclusive
+BG156	n	an	no	палячо	conservative
+BG83	n	qas	no	заговорник	inclusive
+BG2020	a	or	no	взискателен	conservative
+BG17	n	svp	no	spiritlessness	inclusive
+BG2394	n	re	no	насилие	inclusive
+BG722	n	qas	no	кастовата система	inclusive
+BG1518	n	dmc	yes	лъжец	conservative
+BG470	n	an	no	Юница	inclusive
+BG90	n	qas	no	смес	inclusive
+BG869	n	asm	no	чекиджия	conservative
+BG355	n	dmc	yes	измамник	conservative
+BG1668	n	cds	no	офицер	inclusive
+BG1510	n	om	no	аристократка	inclusive
+BG355	n	cds	no	измамник	inclusive
+BG350	n	cds	no	банда	conservative
+BG425	n	pa	yes	погребален агент	inclusive
+BG524	n	qas	no	средната класа	inclusive
+BG1607	n	cds	no	комфорт станция	inclusive
+BG2166	n	cds	no	подмазвач	conservative
+BG310	n	dmc	yes	лъжа	inclusive
+BG1809	n	an	no	микроорганизми	inclusive
+BG557	n	cds	no	git	conservative
+BG2208	n	cds	no	wisenheimer	conservative
+BG802	n	qas	no	съотечественик	inclusive
+BG1048	n	qas	no	кучешка колиба	inclusive
+BG2293	n	re	no	сексуален тормоз	inclusive
+BG50	n	pa	yes	академик	inclusive
+BG2130	n	pr	no	fornicatress	conservative
+BG1939	n	dmc	yes	хомункулус	inclusive
+BG2383	n	dmc	yes	Просяк	inclusive
+BG617	n	ps	yes	преча на	conservative
+BG291	n	pr	no	сводница	conservative
+BG419	n	re	no	изнудване	inclusive
+BG188	n	ddp	yes	скъперник	conservative
+BG1694	n	cds	no	папарак	inclusive
+BG1857	n	cds	no	narcism	inclusive
+BG2112	a	ps	yes	китайски	inclusive
+BG2422	n	ps	yes	романи	inclusive
+BG2054	n	an	no	phthiraptera	inclusive
+BG149	n	or	no	bonce	inclusive
+BG840	n	cds	no	хитрост	conservative
+BG2164	n	cds	no	подлизурка	conservative
+BG1009	n	dmc	yes	лицемерие	conservative
+BG1976	n	an	no	жена преследвач	conservative
+BG1825	n	ddp	yes	Глупости	conservative
+BG147	n	cds	no	perspicaciousness	inclusive
+BG1272	n	cds	no	празнодумец	conservative
+BG123	n	ddp	yes	infauna	inclusive
+BG1324	n	cds	no	кражба	inclusive
+BG1240	n	re	no	Гангстер	inclusive
+BG1710	n	qas	no	енориаш	inclusive
+BG1278	n	asf	no	пубиса	inclusive
+BG75	n	om	no	анално проникване	inclusive
+BG1172	n	om	no	finocchio	inclusive
+BG438	n	cds	no	фал-	inclusive
+BG2023	n	dmc	yes	пройдоха	conservative
+BG560	n	dmc	yes	еди-кой си	conservative
+BG1455	n	ddf	yes	сакат човек	inclusive
+BG528	n	qas	no	Буржоазия	inclusive
+BG1542	n	cds	no	moneylending	conservative
+BG146	n	cds	no	проницателност	inclusive
+BG2109	a	asm	no	кафяв	inclusive
+BG1726	n	cds	no	тържество	inclusive
+BG490	n	cds	no	мафиотски бос	inclusive
+BG1615	n	cds	no	писоар	inclusive
+BG458	n	pa	yes	uncouthness	conservative
+BG150	n	ddp	yes	betise	conservative
+BG1338	n	pr	no	Курва	inclusive
+BG1586	n	ddp	yes	moronity	inclusive
+BG2417	n	ps	yes	ромски	inclusive
+BG611	n	dmc	yes	социален аутсайдер	inclusive
+BG235	n	rci	yes	Варвари	conservative
+BG365	n	an	no	Бизони	inclusive
+BG1193	n	cds	no	каша	inclusive
+BG1767	n	qas	no	реторика	inclusive
+BG2323	n	re	no	мъченията	inclusive
+BG807	n	cds	no	cowardliness	conservative
+BG990	n	ps	yes	шваба	conservative
+BG2101	n	cds	no	дете	inclusive
+BG688	n	an	no	коза-майка	inclusive
+BG2141	n	re	no	отвличане	inclusive
+BG2035	n	is	yes	дрипльо	conservative
+BG643	n	re	no	сплетник	conservative
+BG771	n	cds	no	newspaperwoman	inclusive
+BG1846	n	pr	no	хайлайфа	inclusive
+BG362	n	re	no	злосторник	inclusive
+BG1166	n	cds	no	бързо един	inclusive
+BG2289	n	re	no	сексуално нападение	inclusive
+BG643	n	qas	no	сплетник	conservative
+BG1549	n	an	no	насекомо	inclusive
+BG2097	n	cds	no	новородените	inclusive
+BG1143	n	qas	no	разгласяването	inclusive
+BG345	n	dmc	yes	фанатик	conservative
+BG2060	n	cds	no	religiousism	inclusive
+BG102	n	an	no	codswallop	conservative
+BG371	n	cds	no	blabbermouth	conservative
+BG874	n	an	no	крокодил	inclusive
+BG1925	n	re	no	Насилствено причиняване на смърт	inclusive
+BG156	n	asf	no	палячо	conservative
+BG1040	n	om	no	derriere	inclusive
+BG1090	n	cds	no	любител	inclusive
+BG202	n	cds	no	бордей	inclusive
+BG1501	n	cds	no	jokester	inclusive
+BG1699	n	dmc	yes	недодялан човек	conservative
+BG1198	n	cds	no	стадо	inclusive
+BG1150	n	pr	no	comare	conservative
+BG693	n	qas	no	празна работа	inclusive
+BG1291	n	svp	no	не сметка	conservative
+BG1641	n	an	no	mosquitoe	inclusive
+BG784	n	om	no	странен	conservative
+BG2034	n	is	yes	просяк	inclusive
+BG2258	a	is	yes	бедните	inclusive
+BG772	n	cds	no	кореспондент	inclusive
+BG2069	n	asm	no	страна работа	conservative
+BG1500	n	pa	yes	йезуит	inclusive
+BG1712	n	qas	no	енорията	inclusive
+BG153	n	asf	no	тъпак	conservative
+BG522	n	qas	no	работа бюро	inclusive
+BG208	n	is	yes	скръндза	conservative
+BG859	n	an	no	бухал	inclusive
+BG967	n	cds	no	престъпление	inclusive
+BG2295	n	cds	no	conventicles	inclusive
+BG617	n	ddp	yes	преча на	conservative
+BG716	n	cds	no	топките	inclusive
+BG246	n	pa	yes	съветник по закон	inclusive
+BG388	n	qas	no	магнати	inclusive
+BG1106	n	dmc	yes	морала	inclusive
+BG2415	n	ps	yes	Цигани	inclusive
+BG558	n	dmc	yes	негодник	conservative
+BG666	n	cds	no	клан	inclusive
+BG491	n	cds	no	ръководител	inclusive
+BG2181	a	dmc	yes	неверен	conservative
+BG1954	n	cds	no	Лихварство	inclusive
+BG1313	n	cds	no	хак писател	conservative
+BG151	n	ps	yes	глупак	conservative
+BG1324	n	re	no	кражба	inclusive
+BG37	n	cds	no	посредник	inclusive
+BG1031	n	om	no	цъкам	inclusive
+BG2114	a	cds	no	всекидневен	inclusive
+BG797	n	ddp	yes	gossiper	conservative
+BG379	n	ps	yes	inkiness	inclusive
+BG898	n	ps	yes	селекционер	inclusive
+BG572	n	an	no	villainess	conservative
+BG957	n	an	no	грабител	inclusive
+BG1580	a	svp	no	ревнив	conservative
+BG216	n	asm	no	Семенник	inclusive
+BG929	n	om	no	дам	inclusive
+BG469	n	an	no	добитък	inclusive
+BG356	n	cds	no	мошеник	conservative
+BG2163	n	cds	no	мазник	conservative
+BG2243	n	ddp	yes	unwiseness	inclusive
+BG1249	n	asm	no	english боб	inclusive
+BG290	n	pr	no	курва	conservative
+BG1859	n	cds	no	нарцисист	inclusive
+BG1750	n	cds	no	пропагандист	inclusive
+BG153	n	cds	no	тъпак	inclusive
+BG1958	n	ps	yes	vandal	inclusive
+BG335	n	cds	no	лъжльо	conservative
+BG331	n	qas	no	измислица	conservative
+BG475	n	an	no	волове	inclusive
+BG1008	n	dmc	yes	фалшив	conservative
+BG2245	a	qas	no	средна класа	inclusive
+BG225	n	dmc	yes	бандит	conservative
+BG1613	n	cds	no	публично удобство	inclusive
+BG568	n	qas	no	тълпата	inclusive
+BG126	n	ddp	yes	създание	inclusive
+BG2111	n	is	yes	сиромах	inclusive
+BG1351	n	om	no	Хомосексуалните	inclusive
+BG1010	n	dmc	yes	притворство	conservative
+BG562	n	dmc	yes	скитник	inclusive
+BG233	n	dmc	yes	дивак	conservative
+BG1244	n	cds	no	Фашизма	conservative
+BG909	n	or	no	путка	conservative
+BG1039	n	om	no	caudally	inclusive
+BG2041	n	cds	no	сополанко	conservative
+BG1571	n	asm	no	Полов член	inclusive
+BG1469	n	is	yes	бедност	inclusive
+BG1891	n	cds	no	hypersexual	conservative
+BG1343	n	pr	no	Проститутки	conservative
+BG1047	n	qas	no	развъдник	inclusive
+BG125	n	ddp	yes	animal	inclusive
+BG565	n	svp	no	layabout	conservative
+BG578	a	ddf	yes	лош	inclusive
+BG2025	a	om	no	необичаен	inclusive
+BG1673	n	re	no	мафията	conservative
+BG815	n	qas	no	старо желязо	inclusive
+BG1293	n	dmc	yes	негоден за нищо	conservative
+BG2007	n	or	no	solanum tuberosum	inclusive
+BG2085	a	cds	no	шаблонен	inclusive
+BG2247	a	ddp	yes	неразумен	conservative
+BG1119	n	cds	no	грешница	conservative
+BG2133	n	pa	yes	контрольор	inclusive
+BG1745	n	ddp	yes	бърборко	inclusive
+BG233	n	cds	no	дивак	conservative
+BG1606	n	qas	no	Смес	inclusive
+BG161	n	ddp	yes	fuckhead	conservative
+BG309	n	qas	no	лъжа́	conservative
+BG1059	n	pa	yes	вратар	inclusive
+BG1037	n	om	no	контралатерална	inclusive
+BG1123	n	dmc	yes	нещастник	conservative
+BG1703	n	qas	no	паразитизъм	inclusive
+BG1623	n	svp	no	страхливците	conservative
+BG211	n	qas	no	тестис	inclusive
+BG284	n	or	no	pudden главата	conservative
+BG1547	n	cds	no	loanshark	inclusive
+BG619	n	asm	no	кретен	inclusive
+BG670	n	cds	no	род	inclusive
+BG1678	n	cds	no	Мафиот	conservative
+BG1578	n	svp	no	invidia	inclusive
+BG219	n	asm	no	тестисите	inclusive
+BG2305	n	re	no	Терористичен акт	inclusive
+BG2318	n	re	no	гърчене	inclusive
+BG339	a	ddp	yes	тъп	conservative
+BG2326	n	re	no	мъчение	inclusive
+BG515	n	om	no	мръсник	inclusive
+BG121	n	an	no	Животните	inclusive
+BG588	n	ddp	yes	затворник	inclusive
+BG1511	n	om	no	благородница	inclusive
+BG362	n	cds	no	злосторник	conservative
+BG1142	n	qas	no	divulgement	inclusive
+BG1552	n	an	no	инсе́кт	inclusive
+BG1977	n	an	no	пола преследвач	conservative
+BG1484	n	an	no	неумолимост	conservative
+BG1084	n	dmc	yes	Деликт	inclusive
+BG2368	n	cds	no	Конспиративните теории	inclusive
+BG1016	n	om	no	ventrolateral	inclusive
+BG623	n	ddp	yes	малоумник	conservative
+BG151	n	cds	no	глупак	conservative
+BG234	n	ddp	yes	коварния	conservative
+BG1345	n	is	yes	има - не	inclusive
+BG738	n	pa	yes	професури	inclusive
+BG1122	a	dmc	yes	достоен за презрение	conservative
+BG371	n	ddp	yes	blabbermouth	conservative
+BG80	n	om	no	Содомия	inclusive
+BG2388	n	cds	no	подъл	conservative
+BG1881	n	an	no	издънка	inclusive
+BG789	n	or	no	Хомофил	conservative
+BG1702	n	qas	no	autoinfection	inclusive
+BG2149	n	re	no	грабежи	inclusive
+BG153	n	an	no	тъпак	conservative
+BG812	n	ddp	yes	шарлатанство	conservative
+BG1980	v	cds	no	пазаря се	inclusive
+BG1677	n	cds	no	Коза ностра	inclusive
+BG1700	n	qas	no	necrotrophic	inclusive
+BG134	n	ddp	yes	Животни	inclusive
+BG970	n	re	no	Престъпленията	inclusive
+BG767	n	an	no	зайци	inclusive
+BG2108	a	ddf	yes	сляп	inclusive
+BG355	n	re	no	измамник	conservative
+BG1689	n	om	no	Педераст	inclusive
+BG633	n	re	no	traducement	inclusive
+BG1760	n	cds	no	Мощи	inclusive
+BG567	n	cds	no	хайлазин	conservative
+BG1069	n	cds	no	много	inclusive
+BG1736	n	an	no	shote	inclusive
+BG2393	n	re	no	свирепост	inclusive
+BG911	n	or	no	Краставица	inclusive
+BG1077	n	svp	no	ravenousness	conservative
+BG531	n	cds	no	егоизъм	conservative
+BG1824	n	asm	no	Глупост	conservative
+BG1160	n	qas	no	фермер	inclusive
+BG1442	n	cds	no	калпазанин	inclusive
+BG872	n	asm	no	twirp	conservative
+BG462	n	an	no	ferociousness	conservative
+BG1658	n	cds	no	Нърд	conservative
+BG876	n	an	no	crocodylian	inclusive
+BG1284	n	cds	no	snooper	conservative
+BG451	n	cds	no	blunderer	conservative
+BG773	n	cds	no	журналист	inclusive
+BG72	n	svp	no	леност	conservative
+BG1960	n	ps	yes	Вандали	inclusive
+BG487	n	cds	no	престъпен бос	inclusive
+BG704	n	asm	no	петле	inclusive
+BG311	n	dmc	yes	фалш	inclusive
+BG450	n	cds	no	некадърник	conservative
+BG1695	n	cds	no	хартия тласкач	inclusive
+BG1054	n	svp	no	чревоугодник	conservative
+BG901	n	qas	no	конформизъм	inclusive
+BG154	n	cds	no	мухльо	conservative
+BG1091	a	qas	no	луд	conservative
+BG334	n	cds	no	fabricator	conservative
+BG1678	n	re	no	Мафиот	inclusive
+BG557	n	dmc	yes	git	conservative
+BG723	n	qas	no	касти	inclusive
+BG1519	a	dmc	yes	мързелив	conservative
+BG734	n	pa	yes	проф	inclusive
+BG127	n	ddp	yes	видове	inclusive
+BG2275	a	re	no	буен	inclusive
+BG317	n	cds	no	пич	inclusive
+BG2021	n	dmc	yes	lingerer	conservative
+BG1539	n	cds	no	лихварството	inclusive
+BG695	n	qas	no	въргалям се	inclusive
+BG1088	n	pa	yes	служещ	inclusive
+BG1542	n	cds	no	moneylending	inclusive
+BG1774	n	qas	no	Реторика	inclusive
+BG1422	n	cds	no	напявам	inclusive
+BG579	a	ddf	yes	лошо	inclusive
+BG945	n	pr	no	наложница	inclusive
+BG2391	n	pr	no	придворни	inclusive
+BG476	n	pr	no	крава	inclusive
+BG292	n	pr	no	проститутка	conservative
+BG2043	a	qas	no	свикнал	inclusive
+BG1085	n	cds	no	delictum	inclusive
+BG2155	n	re	no	ограбен	inclusive
+BG176	n	an	no	мага́ре	inclusive
+BG2334	n	om	no	травеститизъм	inclusive
+BG461	n	ddp	yes	порочност	conservative
+BG297	n	pr	no	кокона	conservative
+BG2420	n	ps	yes	Роми	inclusive
+BG203	n	cds	no	Вертеп	inclusive
+BG798	n	cds	no	gossipmonger	conservative
+BG777	n	or	no	хоп	conservative
+BG307	n	cds	no	неистинността	inclusive
+BG2211	n	an	no	hirudinea	inclusive
+BG1673	n	cds	no	мафията	conservative
+BG2306	n	re	no	терористи	conservative
+BG900	n	qas	no	съответствие	inclusive
+BG1238	n	re	no	гангстер	inclusive
+BG165	n	ddp	yes	не знам нищо	conservative
+BG617	n	ddp	yes	преча на	inclusive
+BG2215	n	an	no	пиявица	inclusive
+BG624	n	ddp	yes	подменено	inclusive
+BG556	n	dmc	yes	отблъснат	conservative
+BG1792	n	ps	yes	mestizaje	conservative
+BG2353	n	asm	no	avafauna	inclusive
+BG1020	n	om	no	aboral	inclusive
+BG865	n	ddp	yes	кретенизъм	inclusive
+BG35	n	re	no	злоупотребяват	inclusive
+BG2172	a	dmc	yes	изцапан	inclusive
+BG2092	n	an	no	пуле	inclusive
+BG213	n	asm	no	ballock	inclusive
+BG360	n	cds	no	извън закона	inclusive
+BG1546	n	cds	no	лихвари	conservative
+BG277	n	asf	no	наивник	conservative
+BG398	n	an	no	прасе	inclusive
+BG436	n	qas	no	груба грешка	inclusive
+BG1022	n	om	no	вентралната	inclusive
+BG1692	n	cds	no	papparazzi	inclusive
+BG558	n	an	no	негодник	conservative
+BG300	n	pr	no	floozie	conservative
+BG212	n	asm	no	ташак	inclusive
+BG1178	n	dmc	yes	foetor	conservative
+BG1360	n	om	no	хомоеротична	inclusive
+BG2427	n	cds	no	Нимфомания	inclusive
+BG96	n	asm	no	придатъци	inclusive
+BG369	n	ddp	yes	издайнически	conservative
+BG119	n	an	no	Змиоркоподобни	inclusive
+BG933	n	cds	no	цапотене	inclusive
+BG1529	a	is	yes	печален	inclusive
+BG1790	n	ps	yes	мелез	conservative
+BG2227	n	dmc	yes	нескопосник	conservative
+BG1855	n	ddf	yes	изтърсак	conservative
+BG2144	n	re	no	похитители	inclusive
+BG619	n	ddp	yes	кретен	inclusive
+BG1051	n	svp	no	каналокопател	conservative
+BG1475	n	ddp	yes	некомпетентен	conservative
+BG1952	n	cds	no	Лихвар	inclusive
+BG82	n	svp	no	мързелан	conservative
+BG1735	n	asm	no	Грах	inclusive
+BG32	n	re	no	злоупотреби	inclusive
+BG787	n	or	no	Гей мъж	conservative
+BG1666	n	cds	no	ченге	conservative
+BG42	n	pa	yes	академичната общност	inclusive
+BG308	n	qas	no	неистина	conservative
+BG921	n	or	no	cucurbita максимуми	inclusive
+BG2301	n	re	no	Тероризмът	conservative
+BG1887	n	ps	yes	black	inclusive
+BG895	n	ps	yes	кръстосвам	inclusive
+BG702	n	cds	no	беляджия	conservative
+BG311	n	cds	no	фалш	conservative
+BG1285	n	cds	no	слухтя	conservative
+BG1617	n	cds	no	кенеф	inclusive
+BG2175	a	svp	no	ящен	inclusive
+BG1724	n	cds	no	празник	inclusive
+BG312	n	cds	no	денди	inclusive
+BG1299	v	asm	no	чукам	conservative
+BG1690	n	om	no	педерастки	inclusive
+BG2276	a	re	no	насилие	inclusive
+BG383	n	ps	yes	Черен	inclusive
+BG1131	n	dmc	yes	прахосник	inclusive
+BG1120	n	cds	no	грешник	conservative
+BG1898	n	qas	no	арендатори	inclusive
+BG550	n	cds	no	самонадеяност	conservative
+BG2406	n	dmc	yes	изменник	conservative
+BG277	n	cds	no	наивник	conservative
+BG648	n	cds	no	chiseler	conservative
+BG663	n	om	no	педераст	conservative
+BG1133	n	dmc	yes	scattergood	inclusive
+BG2424	n	qas	no	Барака	inclusive
+BG842	n	svp	no	жаден	inclusive
+BG1643	n	an	no	комари	inclusive
+BG2214	n	an	no	кръвопиец	inclusive
+BG2182	a	dmc	yes	лъжлив	conservative
+BG1318	n	re	no	grand theft	inclusive
+BG658	n	an	no	кучета	inclusive
+BG964	n	ps	yes	doofus	conservative
+BG155	n	or	no	абдал	conservative
+BG361	n	re	no	остракизъм	inclusive
+BG1109	n	dmc	yes	Морална ценност	inclusive
+BG81	n	svp	no	инертност	inclusive
+BG2089	n	an	no	gallus gallus domesticus	inclusive
+BG820	n	cds	no	отпадъци	inclusive
+BG316	n	cds	no	clotheshorse	inclusive
+BG1439	n	cds	no	идолопоклонници	inclusive
+BG1372	n	ps	yes	еврейската общност	inclusive
+BG992	n	ps	yes	нощно гърне	conservative
+BG2266	a	ddf	yes	грозен	conservative
+BG1288	n	an	no	caprinae	inclusive
+BG260	n	qas	no	барони	inclusive
+BG1194	n	an	no	siphonaptera	inclusive
+BG1652	n	an	no	бавно загряващ човек	conservative
+BG1795	n	ps	yes	метиси	conservative
+BG2158	n	re	no	capturer	inclusive
+BG1837	n	an	no	мекотело	inclusive
+BG1731	n	asm	no	грах	inclusive
+BG475	n	pr	no	волове	inclusive
+BG151	n	ddp	yes	глупак	conservative
+BG342	a	ddp	yes	инфантилен	conservative
+BG1172	n	or	no	finocchio	inclusive
+BG2012	v	cds	no	поглъщам	inclusive
+BG358	n	cds	no	banditti	conservative
+BG1541	n	cds	no	Шайлок	conservative
+BG476	n	an	no	крава	inclusive
+BG794	n	om	no	хомосексуали́ст	inclusive
+BG1176	n	dmc	yes	воня	conservative
+BG1191	n	cds	no	дилема	inclusive
+BG449	n	cds	no	зверчето	conservative
+BG836	n	an	no	hemipteran	inclusive
+BG1889	n	cds	no	нимфомания	conservative
+BG2218	n	cds	no	поддръжници	conservative
+BG1163	n	cds	no	fascista	inclusive
+BG552	n	cds	no	обем	inclusive
+BG341	a	ddp	yes	детински	conservative
+BG1875	n	ps	yes	африкански произход	inclusive
+BG2320	n	re	no	измъчва	inclusive
+BG133	n	an	no	фауна	inclusive
+BG1743	n	pa	yes	носач	inclusive
+BG1446	n	ddf	yes	Инвалидност	inclusive
+BG2231	n	an	no	ауреус	inclusive
+BG1882	n	pa	yes	ухажор	inclusive
+BG2040	n	cds	no	мърморко	conservative
+BG2217	n	an	no	hirudinean	inclusive
+BG851	n	an	no	жена-вамп	conservative
+BG277	n	an	no	наивник	conservative
+BG2313	n	asm	no	фалос	inclusive
+BG434	n	qas	no	развалям	inclusive
+BG1679	n	ps	yes	остгот	inclusive
+BG562	n	ps	yes	скитник	inclusive
+BG2269	a	dmc	yes	жалък	conservative
+BG1033	n	om	no	задница	inclusive
+BG646	n	cds	no	defrauder	inclusive
+BG126	n	an	no	създание	inclusive
+BG2032	n	cds	no	мълва	inclusive
+BG1738	n	asm	no	стълб	inclusive
+BG664	n	cds	no	племенни	inclusive
+BG2134	n	pa	yes	счетоводители	inclusive
+BG1307	n	an	no	gyps fulvus	inclusive
+BG2110	n	is	yes	бедняк	inclusive
+BG669	n	cds	no	племе	inclusive
+BG1012	n	om	no	dorsoventral	inclusive
+BG1759	n	cds	no	реликва	inclusive
+BG1667	n	cds	no	стражар	inclusive
+BG442	n	cds	no	самохвален	conservative
+BG1231	n	svp	no	dallier	conservative
+BG1951	v	cds	no	подслушам	inclusive
+BG1147	n	cds	no	сводници	conservative
+BG1042	n	om	no	midclavicular линия	inclusive
+BG1729	n	dmc	yes	злина	inclusive
+BG1991	v	cds	no	преям	inclusive
+BG1871	n	ps	yes	черен	inclusive
+BG155	n	an	no	абдал	conservative
+BG1797	n	an	no	selachimorpha	inclusive
+BG576	n	cds	no	драскулка	inclusive
+BG779	n	om	no	педал	conservative
+BG397	n	an	no	повлекана	conservative
+BG587	n	cds	no	клики	inclusive
+BG1217	n	cds	no	Масони	inclusive
+BG1835	n	cds	no	мистификатор	conservative
+BG1956	n	ps	yes	Вандал	inclusive
+BG155	n	ps	yes	абдал	conservative
+BG1624	n	svp	no	кръшкач	conservative
+BG234	n	pa	yes	коварния	conservative
+BG1818	n	ddp	yes	микроцефалия	inclusive
+BG650	n	an	no	измет	conservative
+BG1567	n	cds	no	пасването	inclusive
+BG405	n	cds	no	помияр	inclusive
+BG2028	a	om	no	противоестествен	inclusive
+BG1252	n	asm	no	fava	inclusive
+BG2434	n	ps	yes	Зулу	inclusive
+BG1752	n	cds	no	младок	conservative
+BG140	n	re	no	клевета	inclusive
+BG452	n	dmc	yes	непохватен човек	conservative
+BG1817	n	ddp	yes	microcephalus	inclusive
+BG546	n	cds	no	високомерие	inclusive
+BG1885	n	ps	yes	бяла	inclusive
+BG60	n	an	no	зубър	inclusive
+BG2168	n	cds	no	ябълка паркет	conservative
+BG2115	a	cds	no	нормален	inclusive
+BG1684	n	an	no	megascops	inclusive
+BG59	n	pa	yes	академизма	inclusive
+BG2165	n	cds	no	fawner	conservative
+BG1433	n	cds	no	Идолослужение	inclusive
+BG2270	a	dmc	yes	окаян	conservative
+BG1078	n	an	no	helix pomatia	inclusive
+BG155	n	cds	no	абдал	inclusive
+BG1346	n	om	no	хомосексуални мъже	inclusive
+BG2129	n	pr	no	нахалница	conservative
+BG230	n	dmc	yes	грубиян	conservative
+BG551	n	cds	no	големина	inclusive
+BG988	n	cds	no	Престъпност	inclusive
+BG930	n	om	no	мадам	inclusive
+BG1602	n	cds	no	учителка	conservative
+BG1336	n	pr	no	проституция	conservative
+BG1981	n	qas	no	крада	conservative
+BG2308	n	ddp	yes	archie	conservative
+BG1936	n	or	no	домат	inclusive
+BG781	n	om	no	queer	conservative
+BG68	n	svp	no	самолюбие	conservative
+BG648	n	dmc	yes	chiseler	conservative
+BG788	n	om	no	педера́ст	inclusive
+BG95	n	cds	no	дреболии	inclusive
+BG232	n	ps	yes	варварски	conservative
+BG2305	n	re	no	Терористичен акт	conservative
+BG621	n	ddp	yes	changelings	conservative
+BG1622	n	cds	no	мързеливец	conservative
+BG212	n	qas	no	ташак	inclusive
+BG1034	n	om	no	заместници	inclusive
+BG21	n	qas	no	псалт	inclusive
+BG1807	n	an	no	Микроб	inclusive
+BG1927	n	re	no	Хомицид	inclusive
+BG2210	n	cds	no	педантичност	inclusive
+BG333	n	cds	no	beguine	inclusive
+BG1532	a	is	yes	злочест	inclusive
+BG214	n	qas	no	Тестиси	inclusive
+BG1004	n	svp	no	антипа́тия	inclusive
+BG378	n	cds	no	дяволия	conservative
+BG891	n	ps	yes	кръстоска	inclusive
+BG616	n	an	no	банален	conservative
+BG623	n	cds	no	малоумник	inclusive
+BG682	n	an	no	коза	inclusive
+BG1754	n	pr	no	Плъхове	inclusive
+BG158	n	ps	yes	дървеняк	conservative
+BG1300	v	asm	no	еба	conservative
+BG208	n	svp	no	скръндза	conservative
+BG276	n	ddp	yes	изкупителна жертва	conservative
+BG1867	n	ps	yes	негър	inclusive
+BG2036	n	is	yes	гаврош	conservative
+BG197	n	cds	no	къща на проституцията	inclusive
+BG2392	n	re	no	бяс	inclusive
+BG2339	n	om	no	Трансвестизъм	inclusive
+BG1462	n	is	yes	бедстващите	inclusive
+BG2351	n	asm	no	птици	inclusive
+BG232	n	rci	yes	варварски	conservative
+BG1166	n	cds	no	бързо един	conservative
+BG1660	n	cds	no	кърмаче	inclusive
+BG2064	a	svp	no	сърдит	inclusive
+BG277	n	dmc	yes	наивник	conservative
+BG285	n	cds	no	лапа	conservative
+BG1996	n	qas	no	смутителят	conservative
+BG2162	a	om	no	различни	inclusive
+BG2209	n	cds	no	weisenheimer	conservative
+BG2034	n	is	yes	просяк	conservative
+BG460	n	ddp	yes	zooerastia	conservative
+BG2106	a	ps	yes	черен	inclusive
+BG769	n	pa	yes	ефрейтор	inclusive
+BG2365	n	cds	no	Теория за заговор	inclusive
+BG1304	n	an	no	гъсенце	inclusive
+BG1387	n	ps	yes	Евреи	inclusive
+BG765	n	an	no	зайче	inclusive
+BG910	n	asf	no	минджа	conservative
+BG277	n	ps	yes	наивник	conservative
+BG448	n	dmc	yes	хаймана	conservative
+BG638	n	re	no	фалшиви обвинения	inclusive
+BG102	n	ddp	yes	codswallop	conservative
+BG1381	n	ps	yes	юдаи́зъм	inclusive
+BG924	n	cds	no	отхвърли	conservative
+BG1117	n	an	no	eurypterids	inclusive
+BG1937	n	re	no	мъчител	inclusive
+BG1583	n	svp	no	Гняв	inclusive
+BG1394	n	cds	no	протойерей	inclusive
+BG1654	n	an	no	тежка гемия	conservative
+BG5	n	svp	no	ленивост	inclusive
+BG558	n	dmc	yes	негодник	inclusive
+BG194	n	cds	no	cathouse	inclusive
+BG1821	n	an	no	Агне	inclusive
+BG540	n	ps	yes	българка	inclusive
+BG2140	n	or	no	brassica rapa	inclusive
+BG232	n	pa	yes	варварски	conservative
+BG787	n	om	no	Гей мъж	conservative
+BG1158	n	qas	no	sodbuster	inclusive
+BG567	n	dmc	yes	хайлазин	conservative
+BG183	n	svp	no	Седемте смъртни гряха	inclusive
+BG1557	n	cds	no	дързък отговор	inclusive
+BG485	n	pr	no	Домашно говедо	inclusive
+BG1231	n	dmc	yes	dallier	conservative
+BG1682	n	ps	yes	Остгот	inclusive
+BG1806	n	an	no	микроб	inclusive
+BG2099	n	cds	no	новородени	inclusive
+BG1715	n	an	no	папагали	inclusive
+BG1293	n	svp	no	негоден за нищо	conservative
+BG455	n	an	no	тялото захващащи	inclusive
+BG407	n	cds	no	стачка-чупене	inclusive
+BG1944	n	dmc	yes	Трикстър	conservative
+BG1741	n	pa	yes	свинско касапин	inclusive
+BG2325	n	re	no	изтезания	inclusive
+BG2282	n	re	no	насилник	conservative
+BG92	n	cds	no	галиматия	inclusive
+BG1362	n	om	no	Хомосексуален	inclusive
+BG452	n	ddp	yes	непохватен човек	conservative
+BG1084	n	re	no	Деликт	inclusive
+BG1704	n	qas	no	паразитни	inclusive
+BG331	n	cds	no	измислица	conservative
+BG465	n	svp	no	скучно	inclusive
+BG2050	n	an	no	cootie	inclusive
+BG2207	n	cds	no	формалист	conservative
+BG2030	n	cds	no	клюка	inclusive
+BG546	n	cds	no	високомерие	conservative
+BG1241	n	re	no	Бандит	inclusive
+BG1072	n	cds	no	пеон	inclusive
+BG345	n	cds	no	фанатик	conservative
+BG805	n	an	no	му-крава	inclusive
+BG1046	n	cds	no	хитрец	conservative
+BG646	n	re	no	defrauder	inclusive
+BG1084	n	cds	no	Деликт	inclusive
+BG409	n	cds	no	стачкоизменник	inclusive
+BG1412	n	cds	no	Хюбрис	conservative
+BG1250	n	asm	no	faba боб	inclusive
+BG150	n	an	no	betise	conservative
+BG2104	a	ddp	yes	зверски	conservative
+BG1836	n	cds	no	мъчен въпрос	conservative
+BG2206	n	cds	no	сноб	conservative
+BG157	n	asf	no	тъпако	conservative
+BG175	n	an	no	магаре	inclusive
+BG2244	a	qas	no	средната класа	inclusive
+BG878	n	an	no	crocodylia	inclusive
+BG359	n	dmc	yes	престъпник	inclusive
+BG373	n	cds	no	палава	conservative
+BG276	n	an	no	изкупителна жертва	conservative
+BG1800	n	an	no	pleurotremata	inclusive
+BG529	n	qas	no	средни доходи	inclusive
+BG1339	n	pr	no	търговски сексуални	inclusive
+BG161	n	asf	no	fuckhead	conservative
+BG99	a	svp	no	агресивен	conservative
+BG1128	n	dmc	yes	Либертин	conservative
+BG1820	n	an	no	овчи	inclusive
+BG676	n	cds	no	племенните хора	inclusive
+BG1190	n	dmc	yes	фалшификати	inclusive
+BG360	n	cds	no	извън закона	conservative
+BG314	n	cds	no	франт	inclusive
+BG386	n	qas	no	висши мениджъри	inclusive
+BG2300	n	re	no	Терорист	conservative
+BG1575	n	svp	no	enviousness	inclusive
+BG2062	a	svp	no	ядосан	inclusive
+BG98	n	asm	no	придатък	inclusive
+BG225	n	cds	no	бандит	conservative
+BG2026	a	om	no	ненормален	inclusive
+BG105	n	cds	no	зилотите	inclusive
+BG210	n	asm	no	Мъди	inclusive
+BG565	n	dmc	yes	layabout	conservative
+BG1403	n	svp	no	лакомия	inclusive
+BG1932	n	cds	no	timeserver	conservative
+BG1320	n	cds	no	ограбване	inclusive
+BG1489	n	cds	no	като помагало	inclusive
+BG1416	n	an	no	хиена	inclusive
+BG301	n	pr	no	rentboy	conservative
+BG2264	a	cds	no	умен	inclusive
+BG1359	n	om	no	Хомосексуалист	inclusive
+BG1584	n	svp	no	angriness	inclusive
+BG2371	n	cds	no	Конспиративни теории	inclusive
+BG965	n	ps	yes	ruiner	conservative
+BG1892	n	cds	no	нимфоманка	conservative
+BG824	n	an	no	cimicidae	inclusive
+BG226	n	dmc	yes	разбойник	conservative
+BG2303	n	re	no	тероризъм	conservative
+BG227	n	cds	no	бандитизъм	inclusive
+BG1475	n	an	no	некомпетентен	conservative
+BG2116	a	svp	no	горделив	conservative
+BG311	n	qas	no	фалш	conservative
+BG1771	n	qas	no	ретор	inclusive
+BG2118	a	svp	no	суетен	conservative
+BG358	n	dmc	yes	banditti	inclusive
+BG1427	n	asf	no	мацка	conservative
+BG644	n	re	no	клеветник	conservative
+BG309	n	dmc	yes	лъжа́	inclusive
+BG1123	n	cds	no	нещастник	conservative
+BG226	n	dmc	yes	разбойник	inclusive
+BG234	n	ps	yes	коварния	conservative
+BG1794	n	ps	yes	Метис	conservative
+BG1540	n	cds	no	sharking заем	inclusive
+BG1673	n	re	no	мафията	inclusive
+BG1810	n	an	no	микроорганизъм	inclusive
+BG1355	n	om	no	Хомосексуалисти	inclusive
+BG1436	n	cds	no	Идололатрия	inclusive
+BG295	n	pr	no	мърляв жена	conservative
+BG642	n	re	no	libeler	conservative
+BG816	n	cds	no	смет	inclusive
+BG2138	n	or	no	Ряпа	inclusive
+BG2342	n	om	no	травестизъм	inclusive
+BG1148	n	cds	no	pandar	inclusive
+BG1540	n	cds	no	sharking заем	conservative
+BG1371	n	ps	yes	юдейски	inclusive
+BG721	n	cds	no	самодоволство	inclusive
+BG1768	n	qas	no	оратор	inclusive
+BG1953	n	cds	no	лихварство	inclusive
+BG926	n	cds	no	шегаджия	conservative
+BG1311	n	an	no	sus scrofa domestica	inclusive
+BG300	n	an	no	floozie	conservative
+BG581	n	an	no	джавкане	inclusive
+BG1624	n	dmc	yes	кръшкач	conservative
+BG1521	n	cds	no	Лъжа	conservative
+BG1637	n	ps	yes	монголски	inclusive
+BG1843	n	ps	yes	mongoloids	conservative
+BG571	n	is	yes	злодей	conservative
+BG1909	n	cds	no	Омерта	inclusive
+BG1378	n	ps	yes	еврейската традиция	inclusive
+BG994	n	cds	no	grunge	inclusive
+BG323	n	ps	yes	бедуин	inclusive
+BG613	n	cds	no	слаб човек	conservative
+BG525	n	qas	no	буржоазното общество	inclusive
+BG414	n	cds	no	тъпанар	conservative
+BG519	n	qas	no	бюро работа	inclusive
+BG2349	n	asm	no	птичка	inclusive
+BG571	n	dmc	yes	злодей	conservative
+BG647	n	cds	no	chiseller	conservative
+BG1522	n	re	no	детеубийство	inclusive
+BG2137	n	or	no	brassica рапа	inclusive
+BG1914	n	an	no	ixodoidea	inclusive
+BG1417	n	an	no	хиени	inclusive
+BG356	n	is	yes	мошеник	conservative
+BG1165	n	cds	no	трик	inclusive
+BG1614	n	cds	no	тоалетната	inclusive
+BG2361	n	ps	yes	жълт картон	inclusive
+BG1268	n	cds	no	полицай	inclusive
+BG481	n	an	no	говеда	inclusive
+BG1193	n	qas	no	каша	inclusive
+BG1543	n	cds	no	loansharking	inclusive
+BG362	n	dmc	yes	злосторник	inclusive
+BG624	n	asm	no	подменено	inclusive
+BG1406	n	qas	no	домакинство	inclusive
+BG1487	n	cds	no	показност	inclusive
+BG1913	n	an	no	Кърлежи	inclusive
+BG214	n	asm	no	Тестиси	inclusive
+BG1763	n	qas	no	Ретор	inclusive
+BG1730	a	dmc	yes	зъл	conservative
+BG1461	n	ddp	yes	Нонсенс	conservative
