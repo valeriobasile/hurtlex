@@ -109,10 +109,15 @@ Contributions are welcome, in the form of revised lexica. Everyone who is native
 
 Please try to limit your modifications to the following operations:
 
- * **add**: add a new item to a lexicon, by creating a new line. Fill in all the column values, including category and stereotype, and set level="conservative"
- * **remove**: remove an item considered wrong for a lexicon, by removing the corresponding line
- * **update**: change the lemma or the category of an item, e.g. in case of misspelling or wrong alphabet
- * **add offensiveness score**: create a new column with a real value between 0 and 1 to indicate a score for the offensiveness of an item in a lexicon
+ * **add**: add a new item to a lexicon, by creating a new line. Fill in all the column values, including category and stereotype, set level="conservative", and add a new unique ID for the lemma.
+ * **remove**: remove an item considered wrong for a lexicon, by removing the corresponding line.
+ * **update**: change the lemma or the category of an item, e.g. because of a misspelling.
+ * **add offensiveness score**: create a new column with a real value between 0 and 1 to indicate a score for the offensiveness of an item in a lexicon.
+
+Frequent issues:
+
+ * Some languages are written in **more than one script** (e.g. Hindi, Bangla, Bulgarian, Russian): in these cases is it good practice to harmonize the lexicon by adding the missing spelling and keeping the same ID for the same lemma written in different scripts.
+ * Some lexicons contain inflected forms instead of lemmas. These are mistakes introduced by the automatic processing. It is safe to remove such works if the corresponding lemma is already in the lexicon, or to modify them if it is not.
 
 Please **create a new version directory** for the lexicon you submit. If yours is the first manually corrected version of a lexicon (that is, the last version is 1.\*) please create the directory for version 2.0. Otherwise, proceed incrementally (2.0 -> 2.1, 2.1 -> 2.2, ...).
 
