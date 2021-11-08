@@ -92,6 +92,10 @@ Here is the updated list of the Hurtlex word lists in all languages.
 
 **New in version 1.2:** a table with the alignment between lemmas across languages is [here](https://github.com/valeriobasile/hurtlex/blob/master/lexica/translations.tsv).
 
+# Revised Hurtlex
+
+The Revised HurtLex is a lexicon in which every headword is annotated with an offensiveness level score. Focusing on the Italian entries, we revised the terms in HurtLex and derived an offensive score for each lexical item by applying an Item Response Theory model to the ratings provided by a large number of annotators.
+
 # Publications
 
 Hurtlex is described in this paper:
@@ -102,6 +106,13 @@ In Proceedings of the Fifth Italian Conference on Computational
 Linguistics (CLiC-It 2018)
 
 http://ceur-ws.org/Vol-2253/paper49.pdf
+
+Revised Hurtlex is described in this paper:
+
+Alice Tontodimamma, Lara Fontanella, Stefano Anzani, Valerio Basile.
+*A Italian lexical resource for incivility detection in online discourses.* 
+(Under Review)
+
 
 # Contribute
 
