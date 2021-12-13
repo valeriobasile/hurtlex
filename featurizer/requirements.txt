@@ -3,7 +3,7 @@ corpy==0.2.3
 cycler==0.10.0
 kiwisolver==1.2.0
 lazy==1.4
-lxml==4.6.3
+lxml==4.6.5
 matplotlib==3.2.1
 numpy==1.18.5
 Pillow==8.3.2
