@@ -6,7 +6,7 @@ lazy==1.4
 lxml==4.6.3
 matplotlib==3.2.1
 numpy==1.18.5
-Pillow==8.3.2
+Pillow==9.0.1
 pkg-resources==0.0.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
