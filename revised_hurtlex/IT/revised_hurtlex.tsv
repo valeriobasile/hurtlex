@@ -778,7 +778,7 @@ pos	category	lemma	offensiveness_score
 4 verbo	cds	bruciatele	5
 4 verbo	cds	bruciateli	5
 4 verbo	cds	bruciatelo	5
-3 sostantivo	an	bruco	2.227238276082319
+3 sostantivo	an	bruco	1.2164485153748656
 2 sostantivo, aggettivo	ddp; an;	bruta	1.9767342399304346
 1 aggettivo	ddp; cds;	brutale	2.3567002886817248
 1 aggettivo	ddp; cds;	brutali	2.3567002886817248
@@ -933,8 +933,8 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	cds	cagacazze	2.536336093135798
 3 sostantivo	cds	cagacazzi	2.536336093135798
 3 sostantivo	cds	cagacazzo	2.536336093135798
-3 sostantivo	cds	cagaminchia	4.731971447288265
-3 sostantivo	cds	cagaminchie	4.731971447288265
+3 sostantivo	cds	cagaminchia	2.536336093135798
+3 sostantivo	cds	cagaminchie	2.536336093135798
 4 verbo	cds	cagare	5
 3 sostantivo	cds; dmc;	cagasotti	2.3288112319308114
 3 sostantivo	cds; dmc;	cagasotto	2.3288112319308114
@@ -1293,7 +1293,7 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	qas;	cleptoparassitismo	3.2474037304569374
 1 aggettivo	om;	clitorista	4.731971447288265
 1 aggettivo	om;	clitoriste	4.731971447288265
-3 sostantivo	cds; cloaca	cloaca	2.4935154686718732
+3 sostantivo	cds; cloaca	2.4935154686718732
 3 sostantivo	cds; cloaca	cloache	2.4935154686718732
 3 sostantivo	dmc;	clochard	2.842482660227453
 3 sostantivo	dmc;	clown	2.2299902463228896
@@ -1510,9 +1510,9 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	om;	culattoni	4.731971447288265
 3 sostantivo	om;	culatun	4.731971447288265
 3 sostantivo	om;	culatuni	4.731971447288265
-3 sostantivo	qas	culi	4.731971447288265
+3 sostantivo	qas	culi	3.2784456328411764
 3 sostantivo	om; ddf;	culirotto	4.731971447288265
-3 sostantivo	qas	culo	4.731971447288265
+3 sostantivo	qas	culo	3.2784456328411764
 3 sostantivo	ddf; mi;	culona	3.3421132222257257
 3 sostantivo	ddf; mi;	culone	3.3421132222257257
 3 sostantivo	ddf; mi;	culoni	3.3421132222257257
@@ -4070,7 +4070,7 @@ pos	category	lemma	offensiveness_score
 1 aggettivo	qas; re	minacciose	1.9305931089382833
 1 aggettivo	qas; re	minacciosi	1.9305931089382833
 1 aggettivo	qas; re	minaccioso	1.9305931089382833
-3 sostantivo	asm	minchia	4.731971447288265
+3 sostantivo	asm	minchia	3.076978247624997
 3 sostantivo	asm	minchiadura	4.731971447288265
 3 sostantivo	asm	minchiaduro	4.731971447288265
 3 sostantivo	asm	minchiata	4.731971447288265
@@ -4731,8 +4731,8 @@ pos	category	lemma	offensiveness_score
 1 aggettivo	ddf; cds	peloso	2.039230207955125
 3 sostantivo	cds	pendagli	3.153321375197062
 3 sostantivo	cds	pendaglio	3.153321375197062
-3 sostantivo	asm	pene	4.731971447288265
-3 sostantivo	asm	peni	4.731971447288265
+3 sostantivo	asm	pene	3.2784456328411764
+3 sostantivo	asm	peni	3.2784456328411764
 3 sostantivo	cds	pennaiola	1.3072697819444783
 3 sostantivo	cds	pennaiole	1.3072697819444783
 3 sostantivo	cds	pennaioli	1.3072697819444783
@@ -4948,8 +4948,8 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	ddp; ps	piombona	1.2164485153748656
 3 sostantivo	ddp; ps	piombone	1.2164485153748656
 3 sostantivo	ddp; ps	piomboni	1.2164485153748656
-3 sostantivo	asm; cds	pippa	4.731971447288265
-3 sostantivo	asm; cds	pippe	4.731971447288265
+3 sostantivo	asm; cds	pippa	2.2492338746767837
+3 sostantivo	asm; cds	pippe	2.2492338746767837
 3 sostantivo	asf; ddp; cds; asm; an; ps	pippione	1.793497447760903
 3 sostantivo	asf; ddp; cds; asm; an; ps	pippioni	1.793497447760903
 3 sostantivo	asm	pirla	2.3275355548989625
@@ -5256,8 +5256,8 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	pr; mi	puttanaccia	5
 3 sostantivo	pr; mi;cds	puttanai	5
 3 sostantivo	pr; mi;cds	puttanaio	5
-3 sostantivo	pr	puttanata	5
-3 sostantivo	pr	puttanate	5
+3 sostantivo	pr	puttanata 2.278731021491361	
+3 sostantivo	pr	puttanate 2.278731021491361	
 3 sostantivo	pr; mi; an	puttane	5
 3 sostantivo	pr; mi	puttanella	5
 3 sostantivo	pr; mi	puttanelle	5
@@ -5852,8 +5852,8 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	asm	schernitori	2.5956482562446324
 3 sostantivo	asm	schernitrice	2.5956482562446324
 3 sostantivo	asm	schernitrici	2.5956482562446324
-3 sostantivo	cds; ddf;ddp	scherzi	4.731971447288265
-3 sostantivo	cds; ddf;ddp	scherzo	4.731971447288265
+3 sostantivo	cds; ddf;ddp	scherzi	2.278731021491361
+3 sostantivo	cds; ddf;ddp	scherzo	2.278731021491361
 3 sostantivo	qas; min	schiaffi	2.3915821930384933
 3 sostantivo	qas; min	schiaffo	2.3915821930384933
 3 sostantivo	qas; min	schiaffone	2.3915821930384933
