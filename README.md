@@ -107,7 +107,13 @@ Linguistics (CLiC-It 2018)
 
 http://ceur-ws.org/Vol-2253/paper49.pdf
 
-Revised Hurtlex dictionary is described in a paper currently under review.
+Revised Hurtlex is described in this paper:
+
+Alice Tontodimamma, Lara Fontanella, Stefano Anzani & Valerio Basile.
+*An Italian lexical resource for incivility detection in online discourses.*
+In Quality & Quantity (2022).
+
+https://link.springer.com/article/10.1007/s11135-022-01494-7
 
 # Contribute
 
