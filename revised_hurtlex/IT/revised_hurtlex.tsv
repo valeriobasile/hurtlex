@@ -1293,8 +1293,8 @@ pos	category	lemma	offensiveness_score
 3 sostantivo	qas;	cleptoparassitismo	3.2474037304569374
 1 aggettivo	om;	clitorista	4.731971447288265
 1 aggettivo	om;	clitoriste	4.731971447288265
-3 sostantivo	cds; cloaca	2.4935154686718732
-3 sostantivo	cds; cloaca	cloache	2.4935154686718732
+3 sostantivo	cds;	cloaca	2.4935154686718732
+3 sostantivo	cds;	cloache	2.4935154686718732
 3 sostantivo	dmc;	clochard	2.842482660227453
 3 sostantivo	dmc;	clown	2.2299902463228896
 2 sostantivo, aggettivo	ddp;	coatta	2.102878075735924
